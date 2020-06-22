@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-19T10:17:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-cars-and-light-trucks-market---analysis-on-current-trends-by-2025-2020-06-19?mod=mw_quote_news"
 type: article
 quality: 70
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "World Network Traffic Analytics Market Analysis - Rise in Trend for BYOD, Artificial Intelligence & Machine Learning in Cybersecurity"
+    excerpt: "The \"Global Network Traffic Analytics Market 2019-2028\" report has been added to ResearchAndMarkets.com's offering. The global network"
+    publishedDateTime: 2020-06-22T14:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/world-network-traffic-analytics-market-analysis---rise-in-trend-for-byod-artificial-intelligence--machine-learning-in-cybersecurity-301081007.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
+    images:
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
   - title: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 with (Covid-19) Impact Analysis: Growth, Latest Trend Analysis and Forecast 2027"
     excerpt: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 features key points about market share, new developments, and product analysis, market players, analysis of opportunities. According to the global Artificial Intelligence (A."

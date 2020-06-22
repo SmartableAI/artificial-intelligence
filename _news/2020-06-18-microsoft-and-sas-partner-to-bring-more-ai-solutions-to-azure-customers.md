@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 573
         isCached: true
+  - title: "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business"
+    excerpt: "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,"
+    publishedDateTime: 2020-06-22T14:21:00Z
+    webUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/"
+    ampWebUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1175327728.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Microsoft Acquires ADRM Software to Develop Data Models for Azure"
     excerpt: "Microsoft has announced the purchase of data model develop ADRM, which will be incorporated into its Microsoft Azure division."
     publishedDateTime: 2020-06-19T14:25:00Z

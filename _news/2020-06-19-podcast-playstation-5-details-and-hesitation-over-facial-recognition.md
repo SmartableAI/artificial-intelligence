@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-19T12:36:00Z
 webUrl: "https://www.engadget.com/engadget-podcast-playstation-5-ps-5-cost-last-of-us-facial-recognition-123016894.html"
 type: article
 quality: 86
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -100,20 +100,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/crn-7-eleven_shopfront.jpg"
         width: 460
         height: 285
-        isCached: true
-  - title: "Portland delays action on facial recognition ban as it kicks off review of police practices"
-    excerpt: "City councilors postponed a vote to ban the use of facial recognition technology by municipal employees until July as they kicked off a wider review of police practices after massive protests over racism and police brutality."
-    publishedDateTime: 2020-06-17T22:10:00Z
-    webUrl: "https://bangordailynews.com/2020/06/15/news/portland-delays-action-on-facial-recognition-ban-as-it-kicks-off-review-of-police-practices/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 29
-    images:
-      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/06/PORTVOTE110816-3.jpg?fit=1024%2C683&#038;ssl=1"
-        width: 1024
-        height: 683
         isCached: true
   - title: "SAFR Facial Recognition now runs on AXIS Camera Application Platform (ACAP)"
     excerpt: "SEATTLE — June 18, 2020 — SAFR from RealNetworks, Inc. (NASDAQ: RNWK), has announced SAFR ® Inside, a new app component of its Facial Recognition and Computer Vision Platform that runs on ACAP enabled cameras with edge processing capabilities."

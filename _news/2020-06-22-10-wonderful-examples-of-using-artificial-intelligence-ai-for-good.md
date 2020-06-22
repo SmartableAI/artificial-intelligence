@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-exa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

@@ -1,51 +1,40 @@
 ---
 category: news
 title: "Visa Introduces Advanced Identity Score to Help Financial Institutions Prevent New Account Fraud"
-excerpt: "Visa Inc. (NYSE: V) today announced a digital tool to help U.S. financial institutions with their efforts to combat new account fraud – estimated at"
-publishedDateTime: 2020-06-22T11:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/visa-introduces-advanced-identity-score-to-help-financial-institutions-prevent-new-account-fraud-2020-06-22"
+excerpt: "Visa introduces Advanced Identity Score to help financial institutions prevent new account fraud by using AI to identify risk."
+publishedDateTime: 2020-06-22T11:06:00Z
+webUrl: "https://www.businesswire.com/news/home/20200622005251/en/Visa-Introduces-Advanced-Identity-Score-Financial-Institutions"
 type: article
-quality: 41
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-    title: "Visa Introduces Advanced Identity Score to Help Financial Institutions Prevent New Account Fraud"
-
 related:
-  - title: "Five Reasons For Financial Institutions To Consider AI-Driven Automation Investments"
-    excerpt: "Retail and commercial financial institutions (FIs) are feeling enormous pressure to embrace and adopt artificial intelligence as industry competition grows."
-    publishedDateTime: 2020-06-19T11:43:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/amp/"
+  - title: "Visa unveils AI tool to help stop digital identity fraud"
+    excerpt: "Billions of people have had their information stolen online, and Visa is hoping its new AI solution will help banks handle fraudulent accounts."
+    publishedDateTime: 2020-06-22T15:17:00Z
+    webUrl: "https://www.techrepublic.com/article/visa-unveils-ai-tool-to-help-stop-digital-identity-fraud/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/visa-unveils-ai-tool-to-help-stop-digital-identity-fraud/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/visa-unveils-ai-tool-to-help-stop-digital-identity-fraud/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148110303%2F0x0.jpg"
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2019/07/30/d7796d74-b0e3-448b-8a77-8e17921eb4b6/resize/1200x/301705e54e230a0dd5dd7aac79c2bc0b/istock-949770040.jpg"
         width: 1200
-        height: 912
+        height: 800
         isCached: true
 
-secured: "/YTuqg9xxDCqAnNnsEOd5MHtEwPBLdSEEK4LGX3CGyrsrlhvlyBqwaHCgO+SGCsZgoKgteMC8yOwxdL6dINGoNCKf8sQsYyav+yQWkJgNorMLuPRIPEzo03S35oiPQ/qY7AwkF9xvkLBICm1x0u07XiyMGB44rPji+iiH5OiDwsVJGaFcmJOVLzvLq9n+v4ZuQmQXpTqpjoIM9QlBjPCmRN9uN8J+QIu+lgRfRhw/YtihwF43bJMPUYYNua0DmdLP8TJmniodxLENyhIcTvpSFp1606yOTcjIeAEvZI9nVL6vImkJ7j9O2nEzUw33bghO3r4LdcKYVgF75Q+iE0/Fg==;aqgVpuvPKHffqV9nAPI0pg=="
+secured: "afXZ3ZncwY5VAFrqzZj9ujKXW6/ti/v5FMar4TRS163QUgkMenDsWgs9GFXENSNRakBWZ1+YcG4Q8upsqGU25yJG8g31e7f2aNTKMEF0NnBQQYNyUEI/vd6M7adM6ry/RDOM+hzI0Cbfxaw/vHF8v3LaGcKHX8zi0CnHf/0pgfTGPcu3vhBAjLah3g2xj+Yzfl6nVFM23vY5I030Cfjphu9NNBDv+abc9jW8GHUXyCbJ/u9TPiJKrJtL4MbbpEP1y7YGRenJH4q7IkmHNKkBTbDOC2LA3bgg9hMTgDOyTvWd/EgM4GX4kYpsro9cko2rJNHAAl32HW5PoPy5rob+Zw==;tHIxXaS9hD+BY08qdgO8mw=="
 ---
 

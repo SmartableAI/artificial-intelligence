@@ -23,14 +23,14 @@ related:
   - title: "Worker upskilling and innovation a key to working with robots, artificial intelligence"
     excerpt: "Upskilling workers with vital innovation capabilities is key for the future employment landscape, according to a study by Flinders University Professor Giselle Rampersad which also found that for workers of the future to thrive with robots and artificial intelligence,"
     publishedDateTime: 2020-06-18T05:21:00Z
-    webUrl: "https://itwire.com/education/worker-upskilling-and-innovation-a-key-to-working-with-robots,-artificial-intelligence.html"
+    webUrl: "https://www.itwire.com/education/worker-upskilling-and-innovation-a-key-to-working-with-robots,-artificial-intelligence.html"
     type: article
     provider:
       name: ITWire
       domain: itwire.com
     quality: 46
     images:
-      - url: "https://itwire.com/media/k2/items/cache/27208dbd1d90ed77d7644abecd22dc82_M.jpg"
+      - url: "https://www.itwire.com/media/k2/items/cache/27208dbd1d90ed77d7644abecd22dc82_M.jpg"
         width: 375
         height: 346
         isCached: true

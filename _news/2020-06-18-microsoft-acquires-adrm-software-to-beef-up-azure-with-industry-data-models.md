@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/"
 type: article
 quality: 102
-heat: 172
+heat: 182
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     title: "Microsoft acquires ADRM Software to beef up Azure with industry data models"
 
 related:
+  - title: "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business"
+    excerpt: "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,"
+    publishedDateTime: 2020-06-22T14:21:00Z
+    webUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/"
+    ampWebUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 97
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1175327728.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Microsoft and SAS partner to bring more AI solutions to Azure customers"
     excerpt: "“Through this partnership, Microsoft and SAS will help our customers accelerate growth and find new ways to drive innovation with a broad set of SAS Analytics offerings on Microsoft Azure,” notes Scott Guthrie, Microsoft EVP of Cloud and AI."
     publishedDateTime: 2020-06-18T12:16:00Z

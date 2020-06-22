@@ -1,28 +1,27 @@
 ---
 category: news
 title: "'Lost memories': War crimes evidence threatened by AI moderation"
-excerpt: "Erroneous takedowns threaten content like videos that are used as formal evidence of rights violations by international bodies such as the International Criminal Court and the United Nations, said Dia Kayyali of digital rights group Witness."
-publishedDateTime: 2020-06-19T15:54:00Z
-webUrl: "https://news.trust.org/item/20200619151037-6e1oq/"
+excerpt: "From bombings and protests to the opening of a new health center, student journalist Baraa Razzouk has been documenting daily life in Idlib, Syria, for years, and posting the videos to his YouTube account."
+publishedDateTime: 2020-06-19T21:39:00Z
+webUrl: "https://www.reuters.com/article/us-global-socialmedia-rights-trfn/lost-memories-war-crimes-evidence-threatened-by-ai-moderation-idUSKBN23Q2TO"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23Q2TO"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23Q2TO"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
-  name: Thomson Reuters Foundation
-  domain: trust.org
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
-
-images:
-  - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/024ad941-399b-4044-a15d-d3e486f5601d/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-    width: 1100
-    height: 758
-    isCached: true
-    title: "'Lost memories': War crimes evidence threatened by AI moderation"
 
 related:
   - title: "FEATURE-'Lost memories': War crimes evidence threatened by AI moderation"
@@ -53,6 +52,6 @@ related:
         height: 700
         isCached: true
 
-secured: "B9YlsXTtuaVhX1phxVallxvEEBLyEuf3gtsIinTrmKJlcNuiXg7xS67pqsUmeYJ8/IX5wsJ/sJO+9EaV0iEYBnHmPBBnrcxKFfcUx9Hjgyh9+XAMbVadyNeatKzGDJaIwkrGijj2C15YUmUMKeVckJ56PhVI6QImZU9h5/qWF7JDsmKJjYpPDdyskcnsCkb3sv6M1SzCnPXex22xL3b2AgCbCozjEv6ii+esz4Q20/oGwMQVySoJg+0ud09MP6zsfsZU2F9zywxfUTmtF17cpiBXhBIrnRRWMKYeks3iJg6ijUk637UJ2U8QHNo3dj8ADl/MwRt8xpH0D2UWzmAMlzLDHxs2O2fpc1a2lXsTEwrKmusKYH4q27ZktobSMJPwJ+UoguQ4CJ8w+hAtvSZgV0DSTn4+LSx0uA+BRXpNiIRY5eNMXgWwqOygyMBVkdDnBDYoJpaEReNxqQgep9bJVBA2mHYYMfK1dTIlS1k2QeAp8Ssk30Sbyo7+Ik2owcsjPdvjY1fQF0fCamM5RW7nIg==;OBaAiEb9M0OO1xFN2rWHNw=="
+secured: "NHTpLS74G4spVue8GztNlV6EWdiMlFXfAN/HKZs0sAABYp3BISz+NX+aOgjhqXTY0YYMhHB/LAXuCMTiwh83ze0txsbTsc9HkHnqCZKaeGOQHqLMU7cQQyr7YJqGc2bSv3k470fD/Ud5hRsroT3vWFTQITFTbDKI9ScESjZcyRVjkM5b2ZitjOzJqCqzmdRG9MKkNqjI3qu15vgWPcAG4HCyArio1YNq75CvC4jSruOwnd5vgLLVLB3O3LaXPvOk0fVDZunyAa+df6kaxMDV5Kth96klOeHMSxlztnpihP1kQvNiZV+jbKeTyAiCywsyHGx5fwnYyMpJa+5zNJkMLA==;nWlbPqa2fPllVhmKxTPmmA=="
 ---
 

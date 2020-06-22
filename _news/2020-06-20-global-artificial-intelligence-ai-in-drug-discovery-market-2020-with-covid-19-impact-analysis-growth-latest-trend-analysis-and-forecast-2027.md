@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "World Network Traffic Analytics Market Analysis - Rise in Trend for BYOD, Artificial Intelligence & Machine Learning in Cybersecurity"
+    excerpt: "The \"Global Network Traffic Analytics Market 2019-2028\" report has been added to ResearchAndMarkets.com's offering. The global network"
+    publishedDateTime: 2020-06-22T14:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/world-network-traffic-analytics-market-analysis---rise-in-trend-for-byod-artificial-intelligence--machine-learning-in-cybersecurity-301081007.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
+    images:
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "vPwOHc+zimKQVn2Y/05nyTQDFi1Ir/0sNuv1dF68MCQ9LpamjrOuBYCRGktIHUmwzliWok2rDBq1iYMIKBYP2vyW0QbQGJ+outV0I8HcTSM1LpQ8yaN4T+p0heXwP0Bqm+993LnMRge3ojWGWXvjDCXadJIraltLav0ahbpYoWh+Bx2Oe9J+G7/CDhMTI3tSSmse1/EvX4PKb7Zk7iIB99DQVo6rFFAccFIYVh+MzOLa+p5yFti3ssk9tXRx0KHLxD+faY6TP2hxjO5yBAWKZjBMiuCzunk5ogH1chMe/okysh6z0A8q9u2WYNKGW8I1D3JzleUkBcV8GloPhdbmXaFk7IDx0cv/8ejt3IQOeAtzsLcrvWitvzKq8o7uBR1qBOQAC3P8kLGEztShs3xET/R8BlNwnOkMJtRbfls54DPbKV12zllFQYIZocIV2yWBr+Bl6fXd0acTUD9UiCu2f4pQ/ON2MNBDfOX4+PCUVtPCxz89GxNC3+zEeD+6KHYmeuq6p4AcMomLciEo2YdXfg==;iTJ91ZmhYKfTL/UTXOkjoA=="
 ---

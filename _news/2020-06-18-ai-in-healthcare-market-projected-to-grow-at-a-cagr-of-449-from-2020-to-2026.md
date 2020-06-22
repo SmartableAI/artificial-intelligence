@@ -45,6 +45,20 @@ related:
       name: surfacingmagazine.net
       domain: surfacingmagazine.net
     quality: 44
+  - title: "$45.2 Billion Worldwide Artificial Intelligence in Healthcare Industry to 2026 - Featuring Lunit, Magnea & Maxq AI Among Others - ResearchAndMarkets.com"
+    excerpt: "Billion Worldwide Artificial Intelligence in Healthcare Industry to 2026 - Featuring Lunit, Magnea & Maxq AI Among Others - ResearchAndMarkets.com DUBLIN-- ( BUSINESS WIRE )--The \"Artificial Intelligence in Healthcare Market with Covid-19 Impact Analysis by Offering (Hardware,"
+    publishedDateTime: 2020-06-22T14:06:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200622005457/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 28
+    images:
+      - url: "https://mms.businesswire.com/media/20200622005457/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "OrSJXBPqo+FYQ2h86s6hj+FlgQUyj/fx4RqC3hx09+spluWltXYKWNK8mdd9v0VLWgWrmgXycjVTbzf+3eY/+oV48uaNqgBf3kHGMs6fddIuJQHXsmeXv58pBMhWeUvAcxfOnvRsqDox6QQPbBNejEuAV+djSGzSq8pSJjW5LvoFnkbyV0q72/Bz6xvu2LE0XCrFyG2IN3SXQrGAYcsostLIrF3sJMXnR+oJ1Nr78Ik1q6qFvNb9fWaj0BBgTm1P9sjOQZoz47SbRI6FBSTipMvbyfdU0wm1ZpwYbSBa5A1al5gDgEhiOuEs/07NyfTL+5Udms+2Opf/jjdH3dYhYA==;+gh61m2wdOxGqquO88dFGA=="
 ---

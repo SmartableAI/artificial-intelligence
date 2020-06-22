@@ -31,19 +31,37 @@ images:
     title: "BMW and Mercedes Put Self-Driving Alliance On Hold"
 
 related:
-  - title: "The key differences between Tesla’s driving aids: Autopilot and Full Self-Driving"
-    excerpt: "In this edition of Shift Basics, we take a look at what Tesla's Autopilot and Full Self-Driving are, how they're different, and what they cost."
-    publishedDateTime: 2020-06-22T13:00:00Z
-    webUrl: "https://thenextweb.com/shift/2020/06/22/differences-between-teslas-autopilot-and-full-self-driving-system-adas-tech/"
+  - title: "AImotive raises $20 million for driver-assistance and self-driving car software"
+    excerpt: "AImotive has raised a $20 million round to further develop its software for self-driving cars and advanced driver assistance."
+    publishedDateTime: 2020-06-22T14:04:00Z
+    webUrl: "https://venturebeat.com/2020/06/22/aimotive-raises-20-million-for-driver-assistance-and-self-driving-car-software/"
+    ampWebUrl: "https://venturebeat.com/2020/06/22/aimotive-raises-20-million-for-driver-assistance-and-self-driving-car-software/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/22/aimotive-raises-20-million-for-driver-assistance-and-self-driving-car-software/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 79
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/second-Autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving-796x448.png"
-        width: 796
-        height: 448
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/aimotive-4.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 577
+        isCached: true
+  - title: "Self-Driving Cars Will Wipe Out Drive-By Shootings, Kind Of"
+    excerpt: "All in all, a car provides several crucial elements in the performance of a drive-by shooting. The car is a kind of protector. It helps to disguise or hide the perpetrator. A targeted person does not necessarily realize that the car holds someone desiring to shoot at them."
+    publishedDateTime: 2020-06-18T15:26:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars-will-wipe-out-drive-by-shootings-kind-of/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars-will-wipe-out-drive-by-shootings-kind-of/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars-will-wipe-out-drive-by-shootings-kind-of/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1187185020%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4785%26cropY1%3D253%26cropY2%3D2945"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The Self-Driving Car Race Between Tesla, GM and Ford Takes a Big Turn"
     excerpt: "General Motors introduced Super Cruise, a system that can steer a car on thousands of miles of highways in North America, in 2017. And this week, Ford finally unveiled its own Autopilot answer, a hands-free driver assistance feature called “Active Drive Assist."
@@ -61,56 +79,20 @@ related:
         width: 7964
         height: 5309
         isCached: true
-  - title: "Tesla is removing Autopilot’s green light confirmation in step towards inner-city Full Self-Driving"
-    excerpt: "Tesla is planning to improve the recently released Traffic Light and Stop Sign Control feature by removing the function’s existing green light confirmation. This bodes well for the company’s pursuit of its Full Self-Driving suite,"
-    publishedDateTime: 2020-06-19T13:37:00Z
-    webUrl: "https://www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/"
-    ampWebUrl: "https://www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/amp/"
+  - title: "Making More Data Available for Self-Driving Cars"
+    excerpt: "PITTSBURGH -- For safety's sake, a self-driving car must accurately track the movement of pedestrians, bicycles and other vehicles around it. Training those tracking systems may now be more effective thanks to a new method developed at Carnegie Mellon University."
+    publishedDateTime: 2020-06-22T14:26:00Z
+    webUrl: "https://www.manufacturing.net/home/news/21137930/making-more-data-available-for-selfdriving-cars"
     type: article
     provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 45
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
     images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/04/tesla-stop-sign-traffic-light-control-1024x439.jpg"
-        width: 1024
-        height: 439
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/AP18352862637244.5c1a63698a800.5ef0ba4ce9096.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
         isCached: true
-  - title: "Self-driving Bus Services Tested Out In Tallinn"
-    excerpt: "Two types of self-driving bus are being tested out in Estonia this week as part of initiatives that could revolutionise public transport in Europe. One of the services in tech-savvy Estonia, which is often used as a testing ground for innovation,"
-    publishedDateTime: 2020-06-18T17:29:00Z
-    webUrl: "https://www.ibtimes.com/self-driving-bus-services-tested-out-tallinn-2996593"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/18/look-no-hands.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Uber putting self-driving cars back on the road"
-    excerpt: "The on-demand ride service grounded its test fleet of self-driving cars pending an investigation into a crash of an Uber autonomous vehicle in Arizona. No one was seriously injure"
-    publishedDateTime: 2020-06-22T11:46:00Z
-    webUrl: "https://www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186"
-    ampWebUrl: "https://www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186?view=htmlamp"
-    cdnAmpWebUrl: "https://www-nation-co-ke.cdn.ampproject.org/c/s/www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186?view=htmlamp"
-    type: article
-    provider:
-      name: Daily Nation
-      domain: nation.co.ke
-    quality: 24
-  - title: "BMW and Mercedes go down different self-driving roads"
-    excerpt: "There is an interesting shakeup in the world of autonomous vehicles. Per a mutual press announcement today, BMW (OTCPK:BMWYY) and Mercedes-Benz (OTCPK:DDAIF) have put their cooperation agreement for"
-    publishedDateTime: 2020-06-19T12:41:00Z
-    webUrl: "https://seekingalpha.com/news/3584494-bmw-and-mercedes-go-down-different-self-driving-roads"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "yOa00wMQzmPZFWQeO4OHKa8DXjxpXPQ7esjcEmjaNU9l/oaQF/Unt6oqIVmju3N/LNp7thaihBSpWOvIZb5SDQxQGXmJbQUViqWF6LLHovJj7XSwORpjZsPGi3A0K9n4qmAW6FC8rUohIKJ4FDBeSYP+5YM5PGGAzS0zZuXGFLHQxwuaDzy5+sxm+C9hFtTG9BneR/RzdUxrxsjOpCsVw7SO5kW/Ad0EJbkUZH+EvENKesJA/RMU0NRLeeWi/kWpTqU4KqNa7lnyET7aAQJxpPB6LUPkUbPmj0k/tH7LAiAxMsnIu6/pxUFjmiajIgHyycoISzpG+BPKD1IXs5tr8WhS2ZWVD6FpJtarVvROpRlflQOr8ZtYwChvrqhRfl97kfEjUf3oy8ByOYo8EQd648oq6WyfvmKE1TCDbeJnBGpgZcUebiH3ZsuPlMFVqB0QSsJoWmQxPHcLvWlYEBsO5FyxOLYgG9SeTsOBcdR1p1sj5/v36eX0T2nDR4tzou9QrcdKv1p015HPQgREUtyvBQ==;aVtZ+F68jCgubpFh2d9qnw=="
 ---

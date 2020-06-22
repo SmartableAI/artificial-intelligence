@@ -71,20 +71,6 @@ related:
         width: 760
         height: 507
         isCached: true
-  - title: "Driver free but virus free? Robo cars hit new speed bump"
-    excerpt: "The latest challenge for the autonomous vehicle industry: How to assure passengers that the car they are getting in is virus free, even if it doesn't have"
-    publishedDateTime: 2020-06-17T22:41:00Z
-    webUrl: "https://www.omaha.com/news/national/driver-free-but-virus-free-robo-cars-hit-new-speed-bump/article_c7d3527d-27ff-5971-9d1f-452be4bb26b9.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/16/916c2697-a99b-5f3f-a2be-5c9beefaab28/5eea79f6e9a01.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Driver free but virus fee? Robo-car firms hit new speed bump"
     excerpt: "How to assure passengers that the car they are getting in is virus free, even if it doesn't have a driver. Widespread use of autonomous vehicles already had been delayed by a March 2018 fatal crash involving an Uber test vehicle"
     publishedDateTime: 2020-06-19T20:35:00Z

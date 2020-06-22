@@ -3,7 +3,7 @@ category: news
 title: "Worker upskilling and innovation a key to working with robots, artificial intelligence"
 excerpt: "Upskilling workers with vital innovation capabilities is key for the future employment landscape, according to a study by Flinders University Professor Giselle Rampersad which also found that for workers of the future to thrive with robots and artificial intelligence,"
 publishedDateTime: 2020-06-18T05:21:00Z
-webUrl: "https://itwire.com/education/worker-upskilling-and-innovation-a-key-to-working-with-robots,-artificial-intelligence.html"
+webUrl: "https://www.itwire.com/education/worker-upskilling-and-innovation-a-key-to-working-with-robots,-artificial-intelligence.html"
 type: article
 quality: 46
 heat: 46
@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://itwire.com/media/k2/items/cache/27208dbd1d90ed77d7644abecd22dc82_M.jpg"
+  - url: "https://www.itwire.com/media/k2/items/cache/27208dbd1d90ed77d7644abecd22dc82_M.jpg"
     width: 375
     height: 346
     isCached: true
@@ -37,6 +37,6 @@ related:
       domain: phys.org
     quality: 39
 
-secured: "+4weGhDtUJr0UnGsNXh4B7H9tdtQex6jSarOnYdJ1aYhFvsQzVGHBOumFKnfNSAapD9KU47q3b8MMlgim20VMwFGCk6cldsEvN1IoY2DsnsyUCioeHeQl4h1PXmi8q1IVtNd1iyYBbcgd9uVNahw0RMsyF9R89aBshG8j1+C5CdVfczqNF+ceRdpYnx+To5HODa91pGNJwe28ZH2PM7S1RF8+IANM7wrRd7JsMCafGz7jATAvjZM3KVqlFrwTcaT3DfNpSyzelxuFr+8vOQ94fssZXDelG9JHaDFUndaH62D9kWpN2o/K6sJx0GxDMbyr7La84uXARyrjydQvWG2uqZiLYj3XLF6CQKqZjRloCt5L84WG6+V/wzsqYNIqZpVME7PGSSxuk6imswiSjsV3y19RPgtYM/xHZsQ6rQHDVC7OtJ6NHRAY/gPTfVCJ7hfRX7CpbzZk2pWu2/4hDuicQyVVHGpmDLGPCY81OM/G1Ckg+4gyqRIVFvkQkL9yIMjsY2q2AlZ/R4eW1R9LaUY1A==;Efp5FbSRtmK8glXr46ZjQA=="
+secured: "XRedLb2Z/vQUI1uHBeJOLRCMEiT6P+14dCYvD+IrPtsxNBtCTeTg9ll77QNUJ21+Pzoml++V8R20cW6q314Zz6K//HJlC1zCbeKssYfufg1fQVtuBpLm1yaxBUpygC/S7JCeyMKDnryFuFN+mv9nh6+qcwEG7JNGw15d1rnTGXlE7Y1tas6gPYp4SHiZdRtdygn/lQkebpoyQIZbK7HyZmxyWyVDL+sTPOpqOxVZJp3s0S81SDiav2upp567Rrw53Lj0IBkx9IaCLxOSQ1AuGaukT5GqWG3iNRhvzStkZySmVTMsM+lydC/w5m2O5QvzLw9/Gyf4Zrf2WjYeyIg+Cw==;amW2ZHP2kF02vvBFvg3FSA=="
 ---
 

@@ -2,6 +2,411 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-06-09-what-to-consider-before-introducing-ai-to-your-recruiting-process.md",
+      "title": "What To Consider Before Introducing AI To Your Recruiting Process",
+      "excerpt": "Before deciding to implement an AI recruiting platform, consider what business problem you’re trying to solve and how this technology would fit into your long-term business strategy.",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/06/09/what-to-consider-before-introducing-ai-to-your-recruiting-process/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede5c3f718e880006f257cc%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "What To Consider Before Introducing AI To Your Recruiting Process",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/06/09/what-to-consider-before-introducing-ai-to-your-recruiting-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/06/09/what-to-consider-before-introducing-ai-to-your-recruiting-process/amp/",
+      "publishedDateTime": "2020-06-09T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-google-has-made-it-simple-for-anyone-to-tap-into-its-image-recognition-ai.md",
+      "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
+      "excerpt": "A lot of image recognition is about identifying patterns ... data to the frequency of specific brands of cars. Hopefully AutoML Vision will energize more projects like these.",
+      "webUrl": "https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uuscxid9fobckrwjepfk.png",
+          "width": 800,
+          "height": 431,
+          "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131/amp",
+      "publishedDateTime": "2020-06-09T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-lyfts-ipo-banks-big-on-self-driving-cars-shits-on-its-e-scooters.md",
+      "title": "Lyft's IPO Banks Big on Self-Driving Cars, Shits on Its E-Scooters",
+      "excerpt": "While the company is bullish about self-driving cars, Lyft doesn’t try to sugar-coat the risks of its electric-scooter and bike-sharing operations.",
+      "webUrl": "https://gizmodo.com/lyfts-ipo-banks-big-on-self-driving-cars-shits-on-its-1832990301",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/g5e3ylh7zbeolkeyburt.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Lyft's IPO Banks Big on Self-Driving Cars, Shits on Its E-Scooters",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/lyfts-ipo-banks-big-on-self-driving-cars-shits-on-its-1832990301/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lyfts-ipo-banks-big-on-self-driving-cars-shits-on-its-1832990301/amp",
+      "publishedDateTime": "2020-06-09T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-aspiring-intel-rival-graphcore-has-shipped-tens-of-thousands-of-ai-chips.md",
+      "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
+      "excerpt": "U.K. chip start-up Graphcore has leveraged relationships with Microsoft and Dell to ship chips to over 100 customers.",
+      "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143",
+          "width": 4328,
+          "height": 2906,
+          "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
+      "publishedDateTime": "2020-06-09T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-jsonar-raises-50-million-for-ai-powered-database-monitoring-products.md",
+      "title": "JSonar raises $50 million for AI-powered database monitoring products",
+      "excerpt": "JSonar, a database monitoring startup that leans heavily on AI and machine learning, has raised $50 million in venture capital.",
+      "webUrl": "https://venturebeat.com/2020/06/09/jsonar-raises-50-million-for-ai-powered-database-monitoring-products/",
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/3f9b168a-00dd-4b77-b5e5-e44edee178fe-e1591210411635.png?w=1200&#038;strip=all",
+          "width": 1028,
+          "height": 512,
+          "title": "JSonar raises $50 million for AI-powered database monitoring products",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/09/jsonar-raises-50-million-for-ai-powered-database-monitoring-products/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/jsonar-raises-50-million-for-ai-powered-database-monitoring-products/amp/",
+      "publishedDateTime": "2020-06-09T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-automotive-voice-recognition-system-market-by-technology-vehicle-type-size-opportunities-and-forecast-2020-2027.md",
+      "title": "Automotive Voice Recognition System Market By Technology, Vehicle Type, Size, Opportunities and Forecast, 2020 - 2027",
+      "excerpt": "As per the research held by Acumen Research and Consulting, \"the global Automotive Voice Recognition System market anticipated to exceed US$ 39 Bn by 2027, along with the projected CAGR of 21% from 2020 to 2027\".",
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-by-technology-vehicle-type-size-opportunities-and-forecast-2020---2027-2020-06-09",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automotive Voice Recognition System Market By Technology, Vehicle Type, Size, Opportunities and Forecast, 2020 - 2027",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices.md",
+      "title": "MIT's Artificial Brain-On-A-Chip Could Bring Supercomputing to Mobile Devices",
+      "excerpt": "What's smaller than a piece of confetti, covered in artificial synapses, and may change the future of artificial intelligence? MIT's new \"brain-on-a-chip,\" an engineering feat that could bring supercomputer smarts to mobile devices.",
+      "webUrl": "https://www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices",
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/04FkgpcwV9okJSJCoVxgupd-1.fit_lim.size_1200x630.v_1591701784.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": "MIT's Artificial Brain-On-A-Chip Could Bring Supercomputing to Mobile Devices",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices?amp=true",
+      "publishedDateTime": "2020-06-09T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-ibm-is-canceling-its-facial-recognition-programs.md",
+      "title": "IBM is canceling its facial recognition programs",
+      "excerpt": "IBM is a market leader in artificial intelligence. IBM Watson, its AI platform for businesses, is used by companies such as General Motors, KPMG and ESPN Fantasy Football. And its fast talking AI ...",
+      "webUrl": "https://localnews8.com/money/2020/06/09/ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.us-east-1.wasabisys.com/localnews8.com/2020/06/hypatia-h_a4917592f298744f503b43ddb72e1166-h_11a270c4b7510a4e78166c56f7585196_preview.jpg",
+          "width": 500,
+          "height": 326,
+          "title": "IBM is canceling its facial recognition programs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement.md",
+      "title": "IBM quits facial recognition and urges debate on its use by law enforcement",
+      "excerpt": "IBM is a market leader in artificial intelligence. IBM Watson, its AI platform for businesses, is used by companies such as General Motors, KPMG and ESPN Fantasy Football. And its fast talking AI ...",
+      "webUrl": "https://kesq.com/money/2020/06/09/ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.us-east-1.wasabisys.com/kesq.com/2020/06/hypatia-h_a4917592f298744f503b43ddb72e1166-h_11a270c4b7510a4e78166c56f7585196_preview.jpg",
+          "width": 500,
+          "height": 326,
+          "title": "IBM quits facial recognition and urges debate on its use by law enforcement",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KESQ News",
+        "domain": "kesq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-why-ibm-abandoned-facial-recognition-and-more-tech-news-you-need-to-know-today.md",
       "title": "Why IBM abandoned facial recognition, and more tech news you need to know today",
       "excerpt": "Is IBM doing the right thing, or walking away from a problem it can fix? Plus more tech news you need to know, today!",
@@ -96,44 +501,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-09-cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization.md",
-      "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
-      "excerpt": "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others.",
-      "webUrl": "https://www.prnewswire.com/news-releases/cvpr-2020-features-microsoft-ceo--svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-301072534.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/462374/IEEE_Computer_Society_Logo.jpg?p=facebook",
-          "width": 597,
-          "height": 314,
-          "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-09-eswin-raises-283m-to-boost-chip-production-in-china.md",
       "title": "Eswin raises $283M to boost chip production in China",
       "excerpt": "Beijing Eswin Computing Technology, a Chinese startup that supplies semiconductor design and solution provider, has raised $283 million in a new financing round at a time when the world’s most populous nation is looking to cut its reliance on the U.",
@@ -177,6 +544,44 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization.md",
+      "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
+      "excerpt": "The Computer Vision and Pattern Recognition (CVPR) 2020 Conference, a virtual event taking place next week from 14 – 19 June, explores the commercial trends igniting explosive investment and growth in artificial intelligence (AI) and machine learning.",
+      "webUrl": "https://apnews.com/PR Newswire/f3fdc84b253edfd926bdfcce1886ffb4",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -926,411 +1331,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-durr-brings-artificial-intelligence-to-the-paint-shop.md",
-      "title": "Durr brings artificial intelligence to the paint shop",
-      "excerpt": "The automotive industry is a key driver and user of artificial intelligence (AI), which is fast percolating to different work areas. Now German major Durr has developed Advanced Analytics, the first market-ready AI application for paint shops.",
-      "webUrl": "https://www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/cc8e20a9-9966-44d0-bbfb-4cae9eefcc8e.jpg",
-          "width": 735,
-          "height": 490,
-          "title": "Durr brings artificial intelligence to the paint shop",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448?amp=1",
-      "cdnAmpWebUrl": "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448?amp=1",
-      "publishedDateTime": "2020-06-08T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autocar Pro",
-        "domain": "autocarpro.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-mit-fit-tens-of-thousands-of-artificial-brain-synapses-on-a-single-chip.md",
-      "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
-      "excerpt": "MIT engineers put tens of thousands of artificial brain synapses on a single chip that's smaller than a piece of confetti.",
-      "webUrl": "https://www.engadget.com/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=dddb7e895b32ece73d8964a5022342b8a16c81b6",
-          "width": 600,
-          "height": 350,
-          "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
-      "publishedDateTime": "2020-06-08T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another.md",
-      "title": "Facebook’s TransCoder AI converts code from one programming language into another",
-      "excerpt": "Facebook's TransCoder AI model can translate among programming languages like Java, C++, and Python with high computational accuracy.",
-      "webUrl": "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s TransCoder AI converts code from one programming language into another",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/amp/",
-      "publishedDateTime": "2020-06-08T11:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-a-uniform-interface-to-run-deep-learning-models-from-multiple-frameworks.md",
-      "title": "A uniform interface to run deep learning models from multiple frameworks",
-      "excerpt": "Neuropod is a library that provides a uniform interface to run deep learning models from multiple frameworks in C++ and Python. Neuropod makes it easy for researchers to build models in a framework of their choosing while also simplifying productionization of these models.",
-      "webUrl": "https://github.com/uber/neuropod",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://avatars0.githubusercontent.com/u/538264?s=400&v=4",
-          "width": 360,
-          "height": 360,
-          "title": "A uniform interface to run deep learning models from multiple frameworks",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-us-air-force-to-test-autonomous-ai-fighter-against-a-human-next-year.md",
-      "title": "US Air Force to test autonomous AI fighter against a human next year",
-      "excerpt": "The USAF started an AI-drone project in 2018. The goal was to implement machine learning in a less sophisticated craft like the F-16 within 18 months. If successful, newer fighters such as the F-32 or F-22 would eventually be outfitted.",
-      "webUrl": "https://www.techspot.com/news/85531-us-air-force-test-autonomous-ai-fighter-against.html",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-08-image-15.jpg",
-          "width": 2560,
-          "height": 1705,
-          "title": "US Air Force to test autonomous AI fighter against a human next year",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85531-us-air-force-test-autonomous-ai-fighter-against.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85531-us-air-force-test-autonomous-ai-fighter-against.html",
-      "publishedDateTime": "2020-06-08T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products.md",
-      "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
-      "excerpt": "Uber open-sourced Neuropod, an abstraction layer designed to unify disparate AI frameworks like Google's TensorFlow and Facebook's PyTorch.",
-      "webUrl": "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/a326eb8a-48ed-4442-922c-700d5efb48e6-e1591635426426.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/amp/",
-      "publishedDateTime": "2020-06-08T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-google-meet-noise-cancellation-is-rolling-out-now-heres-how-it-works.md",
-      "title": "Google Meet noise cancellation is rolling out now — here’s how it works",
-      "excerpt": "Google Meet is getting AI-powered noise cancellation for Android, iOS, and the web. Here is how Google built its cloud denoiser and how it works.",
-      "webUrl": "https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google-meet-audio-settings-hero.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google Meet noise cancellation is rolling out now — here’s how it works",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/amp/",
-      "publishedDateTime": "2020-06-08T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-introducing-recommendation-filters-in-amazon-personalize.md",
-      "title": "Introducing Recommendation Filters in Amazon Personalize",
-      "excerpt": "Today, we are pleased to announce the addition of Recommendation Filters in Amazon Personalize, which improve the relevance of personalized recommendations by filtering out recommendations for products that users have already purchased, videos they have already watched, or other digital content they",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-recommendation-filters-in-amazon-personalize/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/29/personalize-filters-2.gif",
-          "width": 800,
-          "height": 433,
-          "title": "Introducing Recommendation Filters in Amazon Personalize",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T10:00:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-experts-rank-tesla-waymo-and-16-other-power-players-in-the-world-on-self-driving-cars.md",
-      "title": "Experts rank Tesla, Waymo and 16 other power players in the world on self-driving cars",
-      "excerpt": "Guidehouse Insights evaluated Tesla, Waymo, and 16 of their rivals on a variety of criteria related to strategy and execution.",
-      "webUrl": "https://www.businessinsider.com/experts-rank-tesla-waymo-other-self-driving-car-power-players-2020-6",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ede3fd74dca686dbd47b084?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Experts rank Tesla, Waymo and 16 other power players in the world on self-driving cars",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -103,20 +103,6 @@ related:
         width: 460
         height: 285
         isCached: true
-  - title: "Portland delays action on facial recognition ban as it kicks off review of police practices"
-    excerpt: "City councilors postponed a vote to ban the use of facial recognition technology by municipal employees until July as they kicked off a wider review of police practices after massive protests over racism and police brutality."
-    publishedDateTime: 2020-06-17T22:10:00Z
-    webUrl: "https://bangordailynews.com/2020/06/15/news/portland-delays-action-on-facial-recognition-ban-as-it-kicks-off-review-of-police-practices/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 29
-    images:
-      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/06/PORTVOTE110816-3.jpg?fit=1024%2C683&#038;ssl=1"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "N7jsPX1jf7xG111hvddHWi0c5QxIl6IVnAYpQAvlrXjjVtDd52DnO2vIrr3QhiF0ErEK6kHhLJx6jmVZJ/RWwLDArpkY5e072vV1s/+ExexO+6W0n9C5ActN/kL+l/wV+wnrEiqa0sCiUDt1yD0LbZa3V8jKNZy8ZWbVy7KYPw6BEDN26FVi8GaGddS1GEkFwFsGyZNp+xO1t5bxrg0mwJLzF7jOJH7JXDAG3t9Nir9vyJ1scjFHr9T+X4+6SI6y6HcLvOkQWjZcFv606kTffFsL8HsFOK7rmyDOVZjh1LONmQFgGF3kgud+Ra4cG7IC4hVL1R42GgHi5GW82o+HUbgi4YBmiA5j5oCWDWAG43IILlmGcwBOmBzWeR4pzrx/IE23/OOPluegnJC7TMjTQn38cSNpJqizjVU0rGpGtQ51V+/YavfoVcU9Fom1Nm3+NWFkNyGIHUYb68TR0fB2PrM3Wkb/KKX0x1mNABH+UOw9Li5gI+bD97QYEBb7deHZwxXu/04URsguU20A2C469Q==;+/fx7S2FCgvIvzyKX9uK3A=="
 ---
