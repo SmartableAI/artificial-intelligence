@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16296068"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16296068"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Artificial Intelligence in Healthcare Market Overview, Top Key Players, Industry Growth Analysis, Forecast 2027"
+    excerpt: "On the basis of offering, the global artificial intelligence in healthcare market is segmented into hardware, software,"
+    publishedDateTime: 2020-06-22T07:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-overview-top-key-players-industry-growth-analysis-forecast-2027-2020-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "OrSJXBPqo+FYQ2h86s6hj+FlgQUyj/fx4RqC3hx09+spluWltXYKWNK8mdd9v0VLWgWrmgXycjVTbzf+3eY/+oV48uaNqgBf3kHGMs6fddIuJQHXsmeXv58pBMhWeUvAcxfOnvRsqDox6QQPbBNejEuAV+djSGzSq8pSJjW5LvoFnkbyV0q72/Bz6xvu2LE0XCrFyG2IN3SXQrGAYcsostLIrF3sJMXnR+oJ1Nr78Ik1q6qFvNb9fWaj0BBgTm1P9sjOQZoz47SbRI6FBSTipMvbyfdU0wm1ZpwYbSBa5A1al5gDgEhiOuEs/07NyfTL+5Udms+2Opf/jjdH3dYhYA==;+gh61m2wdOxGqquO88dFGA=="
 ---

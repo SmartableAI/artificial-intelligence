@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/17/geek-raises-50-million-more-to-br
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/geek-raises-50-million-more-to-bring-autonomous-warehouse-robots-to-the-u-s/amp/"
 type: article
 quality: 100
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://s29755.pcdn.co/wp-content/uploads/2020/06/geek-plus-robotics-warehouse-dark.png"
         width: 1200
         height: 899
-        isCached: true
-  - title: "Drishti Raises $25M In Series B Funding To Enhance Its Computer Vision Solution For The Manufacturing Industry"
-    excerpt: "Drishti Technologies, a California-based startup, has announced that it has raised $25M in Series B funding for enhancing its solutions."
-    publishedDateTime: 2020-06-17T13:33:00Z
-    webUrl: "https://analyticsindiamag.com/drishti-raises-25m-in-series-b-funding-to-enhance-its-computer-vision-solution-for-the-manufacturing-industry/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/Drishti_Logo-scaled.jpg"
-        width: 2560
-        height: 1899
         isCached: true
 
 secured: "MjCMpTArU9lKn6EDYMnIrXIGqxVy00e+nLZEdCUWo/I5moA1F/x3C6L3q8FdY7/NVflO3S22XmfXgE6DktL4Zk3Q6IjY/ccP4iKvZDvmnOvamyZi5aWBxs9XoKbIoi5kdwS0e4QPuV1czDKfaT90ngIbZfDaCopEuvEPmDNGWjGWTMToOiE75dQKd3Wk+P6JzCir8UNx/97wTaunu46QdA+4vc2iLCIqPX8g1z8HmqAefWYdZn/jbjSsKPvbrGiNVPtguEBLQ5MI8pahAEiz+RRwQdvAfUYg1FzMTBoomaydWxT9ggAm1Gx1hp4zrEOtu0PuhpGYy5cqJomRDdp+mHzwW5Mrqs8UwxYjui6aGiNI0zK7WVYvSBj26xiQTqqWS7KOqOz9a5odEccv5+4lpCLpq+7PpyYQZ5uq45gZ9wvpuO2sgoHpHWv/oIGfm6o12nu46dlUEgh21rIQr1DdJ1j0L1RkxxnxnBr4KbLnKaojnwjaG6y1SM9Xy0ALk2Bz;vMOsauGHNiW3JHy2DWKJ9g=="

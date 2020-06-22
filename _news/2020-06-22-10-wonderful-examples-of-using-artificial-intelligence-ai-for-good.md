@@ -3,7 +3,7 @@ category: news
 title: "10 Wonderful Examples Of Using Artificial Intelligence (AI) For Good"
 excerpt: "There are many ways artificial intelligence can be used for good and to help solve some of the world’s biggest problems. Many researchers and organizations are prioritizing projects where artificial intelligence can be used for good."
 publishedDateTime: 2020-06-22T04:30:00Z
-webUrl: "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/"
+webUrl: "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/?ss=ai"
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/amp/"
 type: article
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "10 Wonderful Examples Of Using Artificial Intelligence (AI) For Good"
 
-secured: "UN8MbCmdJ12tkFXOJWt8bK3IfeCojwKYm/fVv5fFs83ij0JAjtKT9m0p1jD/piLFL9H/7CgiJzlCZXYexK2F5Wfk6UuIe5VxITRCUoAG3k4j1whxy3HrDsMsMej/5eufDC/2EpN1eP7/U+7mamqiqxudMJ6hZJOrLCqKR6327OgKboVyrwH2MwMWCJ0VQZRuCfznKKWKBJh/G6kJuWbajnZPLnL2eEc6Iqoef5u9ozXLuY4RV+D/r1bnUM+kIlLmoi2d+GBSHr+EetkAl6gN9N9GL7+Ij5Hpq8YGYvaKKw85uc3KzHJ/0Xua/n8W2Jn+z+rskMIv3aY9o0SfxMgQHQ==;wviI105g90AOWkQFvKO8YA=="
+secured: "bfFl83/0mXWGEdsZ+VRDYPV5SiasGdxejdQrOFb6uonZdetb4NGfSYqtU2KbT4/x9kmF9QtYhK++fdoDGNsr8mPpQ0PNV1o/oMzAWGBB7Rfl0ZB4748Bsv8/OovCHVxcF/jpZZQCOafXnTXBVX3uFuD/c1lHAYg12aGU00VmPL9erIFrjqDgPlgtJvINf7raCAvhcM+6KKHQ0tKziZrgrwvbdXzYXeMNi+8c/WZAVXnz0Hzn+IWPkZvbY0aM/vlti1HHecbvknkGcBGqNEaakmFUjyB/a9KzcUDzoEAHSibxy2qLxsRTkDfsLpKDDxha59JDfUqNsB+bfM+38LAnbQ==;Wm1oEUrU7mFPRw3z03Jnfw=="
 ---
 

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Drishti Raises $25M In Series B Funding To Enhance Its Computer Vision Solution For The Manufacturing Industry"
-    excerpt: "Drishti Technologies, a California-based startup, has announced that it has raised $25M in Series B funding for enhancing its solutions."
-    publishedDateTime: 2020-06-17T13:33:00Z
-    webUrl: "https://analyticsindiamag.com/drishti-raises-25m-in-series-b-funding-to-enhance-its-computer-vision-solution-for-the-manufacturing-industry/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/Drishti_Logo-scaled.jpg"
-        width: 2560
-        height: 1899
-        isCached: true
 
 secured: "4F83jCpCgtMaa8/XSAy1N+JyO3MPXWP/NBAkp8LMzSC4Ya+0YEtGZeTqPVE/lCK0ojRizBxOMxPPYJSFoX8NLe9FQyDH/y/B2d7wD3HROU/q3OuiCfN0pWK/YAXMRcix1drQHSC6DHewhDZwEHwi2Hve+Bg9y5LWfNlT+lqJAotRVUmGEEBGXzfp+0624KNPZ8z3nyrpwRa+OGATGHvyJZnK6DsQiX0JkfMOgmEmtK6ClxNp9ueT/jSV77ZPpNcG0XrVkF0wqYZgqNnfLZ0Zj8c+/pAgiUGPyEAQwmrjCUi9cddJOmzPHwFPjA+u1T2WIklMb7GI0PHfXxyUCh9Li93hNeljD387JK5NuRzqRFXdP8eHWFbGUxsBGlyikRzspveVZJuq9IWHbr77N3MF3Ucal8B8KVM9BMGojZEVZ1mOGzQuz4U5ODwM3VPHTtrh6cT4RfKUtXY05SID/qWqFkTnRPE5P1jYzvTrw1xdj7daaRMQv/gfRmrZvM+Uro3Fbk5UZo4iO/VlQsrtYdotog==;oPMjKRoX1aidb0+aCnS22w=="
 ---

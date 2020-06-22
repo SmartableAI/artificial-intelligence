@@ -18,17 +18,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Pagaya raises $102m for asset management AI"
-    excerpt: "Pagaya, a startup bringing AI to the asset management industry, has raised $102 million in a Series D funding round led by an unnamed \"prominent financial institution\"."
-    publishedDateTime: 2020-06-17T13:27:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36040/pagaya-raises-102m-for-asset-management-ai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
-
 secured: "CJsg/EHkpkxNQIz4AXibJZJ1K8bGBeY9eWryuvPPYJhx/jvhFtrFARaYKvT6iM04DepyjOs5aPTiIWkZFKpTAUdlHdJJyiIGscQvomFztVL66uo39/E6JrvZFs7FTjOSh3N+Hn1BAgPjh1ahDYkvSfK/M39YLSLj8j81tJY6p81k6yjURU4BgPnCsElcyQv56SNDUvBdvJ1Fj65IGAHN2qvg9xDBSmoZaFP1FnwLvlxjgCdpbakNEOB7Lq5AjqNKQilumO/8y4cq6H9ESrpIlWWAIJC0Yvn/GYYuRWe/2J1f12xKyRQpxvisA4oFBbUWvkEXmnSfbA8FMTCUOFgEcw==;wM5Eg7VhUxhm2x22hYlY8w=="
 ---
 

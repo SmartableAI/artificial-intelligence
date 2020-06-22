@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Broadridge Executes First Trades on AI-Driven Digital Platform"
-    excerpt: "New York-based global fintech firm Broadridge today announced that its new AI-driven corporate bond trading platform, LTX®, has executed its first trades."
-    publishedDateTime: 2020-06-17T13:50:00Z
-    webUrl: "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 59
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2016/01/New-York.jpg"
-        width: 880
-        height: 400
-        isCached: true
   - title: "Broadridge AI-based debt platform executes first trades"
     excerpt: "Broadridge Financial Solutions, Inc. (NYSE:BR), a global fintech leader, today announced that its new AI-driven corporate bond trading platform, LTX®, has executed its first trades."
     publishedDateTime: 2020-06-17T15:44:00Z

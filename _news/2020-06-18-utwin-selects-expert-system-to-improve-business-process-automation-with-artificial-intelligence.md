@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-18T10:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/utwin-selects-expert-system-to-improve-business-process-automation-with-artificial-intelligence-301078942.html"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     height: 369
     isCached: true
     title: "UTWIN Selects Expert System to Improve Business Process Automation with Artificial Intelligence"
-
-related:
-  - title: "Enhancing robotic process automation with AI"
-    excerpt: "Seth Siegel, North American head of AI consulting at Infosys, tells Tonya Hall about a new industry for enhancing the robotic process automation with AI and why this new industry is already worth billions in market value."
-    publishedDateTime: 2020-06-17T13:08:00Z
-    webUrl: "https://www.zdnet.com/video/enhancing-robotic-process-automation-with-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/17/66e14f28-20e0-4a48-b6c5-7800e322fa5d/thumbnail/770x578/35cea6fb9d605989e165c7c38170623a/thumb.jpg"
-        width: 770
-        height: 578
-        isCached: true
 
 secured: "aC40EoywblWjAtNYnoCNXOzidpKNZAt5zXhWB34PZtT7fjduXKJhs28aNw+XnNENnbIWfXuoZBD+U+K8nh+lRSHo4CgF2jm/90sazSFmyvClQYsiXV/tTHpRij1tQlWR6e2LpCToFtcP2mGE4Xftyh8UKNMZLWJkAzcI/JZ0dcqGOqKUfKM5S108/wA6Iy8v8dXuP8oJ7yw/nY2l67AvrzAZH5ufE0ZFZvtXg57SCCP1vBdr96ImKQ4ZATY1H2FAHevJhvSByH5B/hTwMPUh7BVjxh3mJcI9faeP3qDnLqDDWzztF4CLv4rtl5hzANCWcfpLUs/zfiMAoij3IxOBb7eePXaSBqMuYtoImkJB0DC62ZuQwuPiLU/xmH7xyMMBAWKDh43It9H66+gH5NwGOE2cocU8E2wKUKllTH9TIFI95d96ddLJQ5/gTskAMP9cMs2SFKAkDL7nMkjdk6+kPpSV+F9o0J25x4V0olBr4+qxTE6X55FwEmIalq6RYEjA8G6GaOz+O4ybxyspxLoYug==;gj+8OyYBXW7DxgFo1NG9PQ=="
 ---

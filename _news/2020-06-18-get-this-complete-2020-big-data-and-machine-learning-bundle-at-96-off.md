@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/get-this-complete-2020-big-data-and-machi
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     height: 428
     isCached: true
     title: "Get this Complete 2020 Big Data and Machine Learning Bundle at 96% off"
-
-related:
-  - title: "Grab this big data and machine learning training for under $40 right now"
-    excerpt: "Gain an understanding of Tensorflow, Keras, Deep Learning, Apache and more through these ten web-based courses."
-    publishedDateTime: 2020-06-17T14:13:00Z
-    webUrl: "https://www.pcworld.com/article/3562133/grab-this-big-data-and-machine-learning-training-for-under-40-right-now.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 83
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/06/sale_28693_article_image-100848384-large.3x2.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "+Y7QzXgFJELUsVJoO6nV0Xwel1Mygq9PVtMLeYQNDuSVoutZVUqV1NEp7gduHEk3CaVWivK4z2BnFsBeB0ECB8DWtpxCnLWi+faJdG085RBPHyKsmsTZdLgLwZgR2llNb93AVsV1lGFHNTX7jzVjcRr75y3yzZqe13AtW7gGNi9YR4qoL8XRiI2TwIDe5bIh0FFovGlYpUpmyhAVz5g7H46wAsQacX/qYyip7n5WnV2/Y+l2VfqPUv33e02NmWpfkaFmHOM03sh8GxXKmExH104uK6z/+jmQdnS08Jj/5ru+Pt8TYQC0COqVDRAZwqP9ADxSS7KCUF42Huo8Pnesdd05w5+Kc9GyJi3YMnAZOnCtgxYgQbuXrLoQHj6xT7q0f/hqSQ4ZhyPE7MOlSJSQWzL8EVK66ol207jN8RjqIxJxYwFbrEiA1pH0YITMF8n0jchd8Kyepzr1RFfz5gB2H+JD8KF7oG9sqZyZzvt4swgy7PaQTfwKVPa0j2XuR2zi;D7Fj4IedZyNDFooIMrnxgw=="
 ---

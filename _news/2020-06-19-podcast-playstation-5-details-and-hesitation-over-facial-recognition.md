@@ -30,69 +30,53 @@ images:
     title: "Podcast: PlayStation 5 details and hesitation over facial recognition"
 
 related:
-  - title: "Equitable tech: Companies pause facial recognition, but major questions remain"
-    excerpt: "In response to protest calling for police reform around the country, some of the biggest names in tech are taking a closer look at their facial recognition technologies."
-    publishedDateTime: 2020-06-17T13:12:00Z
-    webUrl: "https://www.techrepublic.com/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/"
+  - title: "Amazon owes answers on facial recognition moratorium, lawmaker says"
+    excerpt: "A House representative mistaken by Rekognition as a criminal is questioning CEO Jeff Bezos about Amazon's one-year pause on facial recognition."
+    publishedDateTime: 2020-06-17T16:09:00Z
+    webUrl: "https://www.cnet.com/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 100
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/06/17/c1454581-0581-4f64-9a34-6b1c4e7dbf59/resize/1200x/c4ecd1309d8c01046284dfd75d817e98/facial-recognition.jpg"
+      - url: "https://cnet4.cbsistatic.com/img/LRqa-J9lGENDIqzrmO3X_JuHePE=/756x567/2020/01/17/24f77466-4cd0-4018-b436-90846e478c80/amazon-ces-2020-booth-2.jpg"
+        width: 756
+        height: 567
+        isCached: true
+  - title: "Rep. Gomez demands answers from Amazon CEO Jeff Bezos on facial recognition"
+    excerpt: "Rep. Jimmy Gomez (D-CA) wants answers from Amazon today about a one-year halt of facial recognition for police and how Amazon assesses algorithmic bias."
+    publishedDateTime: 2020-06-17T16:38:00Z
+    webUrl: "https://venturebeat.com/2020/06/17/rep-gomez-demands-answers-from-amazon-ceo-jeff-bezos-on-facial-recognition/"
+    ampWebUrl: "https://venturebeat.com/2020/06/17/rep-gomez-demands-answers-from-amazon-ceo-jeff-bezos-on-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/rep-gomez-demands-answers-from-amazon-ceo-jeff-bezos-on-facial-recognition/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/bezos.jpg?w=1200&#038;strip=all"
         width: 1200
-        height: 900
+        height: 600
         isCached: true
-  - title: "Tech giants back off from providing facial recognition to police"
-    excerpt: "Three major tech companies have backed away from their facial recognition programs after long-standing questions about privacy and inaccurate results when identifying people of color."
-    publishedDateTime: 2020-06-19T03:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/tech-giants-back-off-from-providing-facial-recognition-to-police"
-    ampWebUrl: "https://www.washingtonexaminer.com/policy/technology/tech-giants-back-off-from-providing-facial-recognition-to-police?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/technology/tech-giants-back-off-from-providing-facial-recognition-to-police?_amp=true"
+  - title: "Congressman calls out Amazon's 'performative' facial-recognition moratorium"
+    excerpt: "[The] 102-word blog post announcement fails to specify whether Amazon will stop selling Rekognition to police departments during the moratorium; whether the company will stop the development of ..."
+    publishedDateTime: 2020-06-18T00:18:00Z
+    webUrl: "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium/"
+    ampWebUrl: "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 59
+      name: Mashable
+      domain: mashable.com
+    quality: 74
     images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/43f5011/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F64%2F21%2F6694820b4904aa86fc92a9243e7e%2Fwb.Cyber.jpg"
-        width: 2290
-        height: 1322
-        isCached: true
-  - title: "New facial recognition device that takes temperature comes to Orangeburg"
-    excerpt: "Orangeburg County says it is all about safety, and they are taking no chances in keeping their residents and employees safe during the pandemic. The county has received a new facial recognition and human temperature scanning device."
-    publishedDateTime: 2020-06-20T07:25:00Z
-    webUrl: "https://www.wltx.com/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
-    ampWebUrl: "https://www.wltx.com/amp/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
-    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
-    type: article
-    provider:
-      name: WLTX19
-      domain: wltx.com
-    quality: 58
-    images:
-      - url: "https://media.wltx.com/assets/WLTX/images/8aefd0c1-22ee-471e-bae7-44aa717f47a7/8aefd0c1-22ee-471e-bae7-44aa717f47a7_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Editorial: Facial recognition software is useful for crime fighting. But it needs rules."
-    excerpt: "Log in or Activate your account. Washington County Sheriff's Office Deputy Jeff Talbot demonstrates in February 2019 how his agency used facial recognition software to help solve a crime, at their headquarters in Hillsboro, Ore. The image on the left shows ..."
-    publishedDateTime: 2020-06-17T21:00:00Z
-    webUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.html"
-    ampWebUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.amp.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 50
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/c6/fc6c0fd9-198b-541c-bcf1-af8ea1017d14/5eea3cd72ba1b.image.jpg"
-        width: 512
-        height: 384
+      - url: "https://mondrian.mashable.com/2020%252F06%252F18%252Fd0%252F067b134488834b6bac8bfc91b9731822.499d9.jpg%252F1200x630.jpg?signature=1lDWOXpdt8JocVS38IojVBFjb5o="
+        width: 1200
+        height: 630
         isCached: true
   - title: "Congress Once Again Takes Up Facial Recognition Reform. But Activists Say This Time Is Different"
     excerpt: "Facial recognition technology is back in Congress’ crosshairs after IBM Corp., Microsoft Corp. and Amazon.com Inc. each called on lawmakers to establish rules for use of the software and paused sales to police departments in response to the nationwide protests against systemic racism and police brutality."
@@ -108,20 +92,63 @@ related:
         width: 2560
         height: 1705
         isCached: true
-  - title: "Facial Recognition: IT And Police In Delicate Dance"
-    excerpt: "Activists in Moscow protesting the use of facial recognition technology paint geometrical shapes and lines on their faces as this is said to confuse the system Photo: AFP / Yuri K"
-    publishedDateTime: 2020-06-18T04:05:00Z
-    webUrl: "https://www.ibtimes.com/facial-recognition-it-police-delicate-dance-2996141"
+  - title: "Amazon Rekognition ban slammed for being ‘performative’"
+    excerpt: "Amazon’s announcement that it would stop letting police use its facial recognition technology for a year has been branded as “performative” by a US politician."
+    publishedDateTime: 2020-06-18T04:02:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/inventions/amazon-rekognition-ban-slammed-for-being-performative/news-story/d77868c9f3d667fc782eaad70f67bc8a"
+    ampWebUrl: "https://amp.news.com.au/technology/innovation/inventions/amazon-rekognition-ban-slammed-for-being-performative/news-story/d77868c9f3d667fc782eaad70f67bc8a"
+    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/inventions/amazon-rekognition-ban-slammed-for-being-performative/news-story/d77868c9f3d667fc782eaad70f67bc8a"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: News.com.au
+      domain: news.com.au
     quality: 39
+  - title: "7-Eleven Australia deploys facial recognition on customer feedback tablets"
+    excerpt: "Eleven Australia is deploying facial recognition technology to all 700 stores nationwide as part of a customer feedback capture mechanism, but says the technology is “not used for any other purpose”."
+    publishedDateTime: 2020-06-22T04:28:00Z
+    webUrl: "https://www.itnews.com.au/news/7-eleven-australia-deploys-facial-recognition-on-customer-feedback-tablets-549538"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 37
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/17/activists-in-moscow-protesting-the-use-of-facial.jpg"
-        width: 1024
-        height: 682
+      - url: "https://i.nextmedia.com.au/News/crn-7-eleven_shopfront.jpg"
+        width: 460
+        height: 285
         isCached: true
+  - title: "Portland delays action on facial recognition ban as it kicks off review of police practices"
+    excerpt: "City councilors postponed a vote to ban the use of facial recognition technology by municipal employees until July as they kicked off a wider review of police practices after massive protests over racism and police brutality."
+    publishedDateTime: 2020-06-17T22:10:00Z
+    webUrl: "https://bangordailynews.com/2020/06/15/news/portland-delays-action-on-facial-recognition-ban-as-it-kicks-off-review-of-police-practices/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 29
+    images:
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/06/PORTVOTE110816-3.jpg?fit=1024%2C683&#038;ssl=1"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "SAFR Facial Recognition now runs on AXIS Camera Application Platform (ACAP)"
+    excerpt: "SEATTLE — June 18, 2020 — SAFR from RealNetworks, Inc. (NASDAQ: RNWK), has announced SAFR ® Inside, a new app component of its Facial Recognition and Computer Vision Platform that runs on ACAP enabled cameras with edge processing capabilities."
+    publishedDateTime: 2020-06-18T16:38:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/21142764/safr-from-realnetworks-inc-safr-facial-recognition-now-runs-on-axis-camera-application-platform-acap"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 17
+  - title: "\"Coded Bias\" exposes how facial recognition discriminates based on race, gender, and more"
+    excerpt: "Filmmaker Shalini Kantayya spoke to Salon about the need to hold companies accountable for tech & why there's hope"
+    publishedDateTime: 2020-06-17T21:03:00Z
+    webUrl: "https://www.salon.com/2020/06/17/coded-bias-facial-recognition-racist-sexist-shalini-kantayya-afi/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 10
 
 secured: "MvOs9La+6ZgH84vxQLZxOwCHg/Fa1KpGn75LFQj2d0NdJwWUiuRiNKiLVjWOTpyT5LT1aw6NbIXx82dT5KX5xnwf9AYSdOdyxuT8idI+UJjR6mCw3F0J2vUZjI9a3bTt1AXEp+D/1qxQwZiGB9zQSuYXC0znbC7IrO+gQ7c9SHRhOikTRU7ECfPQvDY3WDSCR/gpfsgVvdvrvqAdYLSgrLnNkxb208tajH9/jOm6Ls4MFh3uTMaerHA29THI2TlI5jGFCpSo8PThfIUZtuVBltOFTiPEXOT7si86d4YhONP80+Pvrs1ZCC6j2SDvWcdcij/8wkvsB+y5w6nT/Mwp9uMyaKFirmfCDtubmL+jKkxRTNZi1GtE/KO5XUL1bnYObZPQCTK+fuUKcbe9k6vgErfeiX2w64rkiOkejTy9T6N8pWMhPDpC14ewpA948GfZy92gdH3auTW7xIXOLTpV4zA8Fc+6qGWEba3aRJ4+SlfaPyB8PbVEylKY9JfxjqM/UkB5zZ96vYRSR0uhbKTWjg==;mczg/mB3VVnO8Ct5aJlAlA=="
 ---

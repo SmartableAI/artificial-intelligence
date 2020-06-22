@@ -127,22 +127,6 @@ related:
         width: 3356
         height: 2274
         isCached: true
-  - title: "Microsoft CEO Satya Nadella warns of fallout without ‘strong national law’ on facial recognition"
-    excerpt: "Decisions by Microsoft and Amazon to refrain from sales of facial recognition software to law enforcement agencies could have negative consequences long-term if U.S. lawmakers fail to"
-    publishedDateTime: 2020-06-17T14:10:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-ceo-satya-nadella-warns-fallout-without-strong-national-law-facial-recognition/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-ceo-satya-nadella-warns-fallout-without-strong-national-law-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-ceo-satya-nadella-warns-fallout-without-strong-national-law-facial-recognition/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 76
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/05/20190506_Microsoft_Build_91-630x504.jpg"
-        width: 630
-        height: 504
-        isCached: true
   - title: "Emails show Microsoft wanted feds to use its facial recognition tools"
     excerpt: "Emails obtained by the ACLU show Microsoft pushed its facial recognition tools to the DEA. The company made a facial recognition announcement last week."
     publishedDateTime: 2020-06-18T15:45:00Z
@@ -289,6 +273,17 @@ related:
     excerpt: "We'd like to think judging people's worth based on the shape of their skull is a practice that's well behind us, but echoes of it can be found in new technologies"
     publishedDateTime: 2020-06-20T22:15:00Z
     webUrl: "https://www.timeslive.co.za/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 36
+  - title: "Racist practice of phrenology rears its lumpy head in facial recognition tech"
+    excerpt: "We'd like to think judging people's worth based on the shape of their skull is a practice that's well behind us, but echoes of it can be found in new technologies"
+    publishedDateTime: 2020-06-22T06:27:00Z
+    webUrl: "https://timeslive.co.za/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
     ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
     cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
     type: article

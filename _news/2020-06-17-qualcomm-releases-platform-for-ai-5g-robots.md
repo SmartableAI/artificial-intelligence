@@ -26,21 +26,37 @@ images:
     title: "Qualcomm releases platform for AI, 5G robots"
 
 related:
-  - title: "Qualcomm Robotics RB5 5G AI robots on pre-order now"
-    excerpt: "Qualcomm revealed the “world’s first 5G and AI-enabled robotics platform” in the Qualcomm Robotics RB5 platform. Qualcomm is basically the biggest brand in the tech"
-    publishedDateTime: 2020-06-17T14:58:00Z
-    webUrl: "https://www.slashgear.com/qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now-17625259/"
-    ampWebUrl: "https://www.slashgear.com/qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now-17625259/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now-17625259/amp/"
+  - title: "Qualcomm launches 5G, AI-enabled robotics platform"
+    excerpt: "Qualcomm Technologies released the Qualcomm Robotics RB5 platform ... fifth-generation Qualcomm AI Engine that delivers 15 tera operations per second of artificial intelligence (AI) performance for running complex AI and deep learning workloads."
+    publishedDateTime: 2020-06-18T22:44:00Z
+    webUrl: "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/"
+    ampWebUrl: "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/amp/"
+    cdnAmpWebUrl: "https://www-gpsworld-com.cdn.ampproject.org/c/s/www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
+      name: GPS World
+      domain: gpsworld.com
     quality: 89
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/qualgage.jpg"
-        width: 1280
-        height: 800
+      - url: "https://www.gpsworld.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-Development-Kit-W-300x274.jpg"
+        width: 300
+        height: 274
+        isCached: true
+  - title: "Qualcomm launches its RB5 robotics platform with Artificial Intelligence and 5G"
+    excerpt: "Qualcomm RB5 robotics platform with Artificial Intelligence and 5G - Check out how the new platform from the fabless company transforms businesses."
+    publishedDateTime: 2020-06-19T08:49:00Z
+    webUrl: "https://www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/"
+    ampWebUrl: "https://www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 85
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2020/06/Qualcomm-RB5.jpg"
+        width: 810
+        height: 460
         isCached: true
   - title: "Video: Robotics platform combines 5G and AI"
     excerpt: "Designed for the consumer, enterprise, defense, industrial and professional service sectors, the Qualcomm Robotics RB5 platform is powered by the Qualcomm QRB5165 processor and of"
@@ -70,6 +86,29 @@ related:
         width: 681
         height: 501
         isCached: true
+  - title: "Qualcomm’s new RB5 robotics platform brings 5G connectivity to drones"
+    excerpt: "That’s the case with the company’s latest RB5 AI-enabled 5G robotics platform, which is designed to be used by a variety of robots and drones. The company said the chips could be used by manufacturers to build fully autonomous robots that are able to navigate their environments by themselves while quickly sending data back to users."
+    publishedDateTime: 2020-06-18T01:39:00Z
+    webUrl: "https://siliconangle.com/2020/06/17/qualcomms-new-rb5-robotics-platform-brings-5g-connectivity-drones/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/fly-5185121_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Qualcomm Launches World’s First 5G and AI-Enabled Robotics Platform"
+    excerpt: "San Diego, CA, United States, 2020/06/17 - Qualcomm Technologies, Inc., today announced the Qualcomm® Robotics RB5 platform the Company’s most advanced, integrated, comprehensive offering designed specifically for robotics - Qualcomm."
+    publishedDateTime: 2020-06-17T17:42:00Z
+    webUrl: "https://www.newswiretoday.com/news/173095/Qualcomm-Launches-Worlds-First-5G-and-AI-Enabled-Robotics-Platform/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 49
   - title: "Qualcomm Introduces 5G and AI-Enabled Robotics Platform"
     excerpt: "Qualcomm on Wednesday announced its Robotics RB5 platform, with 5G and 4G connectivity, on-device AI and machine learning, superior computing and intelligent sensing capabilities. The platform's Qualcomm QRB5165 processor,"
     publishedDateTime: 2020-06-18T19:12:00Z

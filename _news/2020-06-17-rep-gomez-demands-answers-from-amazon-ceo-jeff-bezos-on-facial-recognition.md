@@ -47,6 +47,20 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Podcast: PlayStation 5 details and hesitation over facial recognition"
+    excerpt: "Devindra and Cherlynn are joined by Nathan Ingraham to discuss the PlayStation 5's future and potential price, as well as games like \"The Last Of Us II.\""
+    publishedDateTime: 2020-06-19T12:36:00Z
+    webUrl: "https://www.engadget.com/engadget-podcast-playstation-5-ps-5-cost-last-of-us-facial-recognition-123016894.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 86
+    images:
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F08ff6ff0-aca9-11ea-9f97-87bb0692d6a6&client=amp-blogside-v2&signature=8736868f00fc245b28ff6cfb80846c2129d8f762"
+        width: 1040
+        height: 630
+        isCached: true
   - title: "Congressman calls out Amazon's 'performative' facial-recognition moratorium"
     excerpt: "[The] 102-word blog post announcement fails to specify whether Amazon will stop selling Rekognition to police departments during the moratorium; whether the company will stop the development of ..."
     publishedDateTime: 2020-06-18T00:18:00Z
@@ -62,6 +76,20 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F06%252F18%252Fd0%252F067b134488834b6bac8bfc91b9731822.499d9.jpg%252F1200x630.jpg?signature=1lDWOXpdt8JocVS38IojVBFjb5o="
         width: 1200
         height: 630
+        isCached: true
+  - title: "Congress Once Again Takes Up Facial Recognition Reform. But Activists Say This Time Is Different"
+    excerpt: "Facial recognition technology is back in Congress’ crosshairs after IBM Corp., Microsoft Corp. and Amazon.com Inc. each called on lawmakers to establish rules for use of the software and paused sales to police departments in response to the nationwide protests against systemic racism and police brutality."
+    publishedDateTime: 2020-06-19T15:05:00Z
+    webUrl: "https://morningconsult.com/2020/06/18/facial-recognition-reform/"
+    type: article
+    provider:
+      name: Morning Consult
+      domain: morningconsult.com
+    quality: 41
+    images:
+      - url: "https://assets.morningconsult.com/wp-uploads/2020/06/17180955/GettyImages-1241292950-scaled.jpg"
+        width: 2560
+        height: 1705
         isCached: true
   - title: "Amazon Rekognition ban slammed for being ‘performative’"
     excerpt: "Amazon’s announcement that it would stop letting police use its facial recognition technology for a year has been branded as “performative” by a US politician."
