@@ -123,22 +123,6 @@ related:
         width: 630
         height: 450
         isCached: true
-  - title: "Skeptical lawmaker pushes Bezos for answers on Amazon moratorium on facial recognition tech"
-    excerpt: "Amazon announced last week the moratorium on police use of \"Rekognition\" software because of concerns that the technology has racial and gender bias."
-    publishedDateTime: 2020-06-17T16:04:00Z
-    webUrl: "https://www.cnbc.com/2020/06/17/bezos-questioned-about-amazon-moratorium-on-facial-recognition-tech.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/06/17/bezos-questioned-about-amazon-moratorium-on-facial-recognition-tech.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/17/bezos-questioned-about-amazon-moratorium-on-facial-recognition-tech.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 79
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106219112-1572631390178gettyimages-1173078259.jpeg?v=1584742388"
-        width: 3356
-        height: 2274
-        isCached: true
   - title: "Emails show Microsoft wanted feds to use its facial recognition tools"
     excerpt: "Emails obtained by the ACLU show Microsoft pushed its facial recognition tools to the DEA. The company made a facial recognition announcement last week."
     publishedDateTime: 2020-06-18T15:45:00Z

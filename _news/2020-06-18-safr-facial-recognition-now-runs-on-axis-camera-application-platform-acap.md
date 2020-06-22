@@ -18,38 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Amazon owes answers on facial recognition moratorium, lawmaker says"
-    excerpt: "A House representative mistaken by Rekognition as a criminal is questioning CEO Jeff Bezos about Amazon's one-year pause on facial recognition."
-    publishedDateTime: 2020-06-17T16:09:00Z
-    webUrl: "https://www.cnet.com/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/LRqa-J9lGENDIqzrmO3X_JuHePE=/756x567/2020/01/17/24f77466-4cd0-4018-b436-90846e478c80/amazon-ces-2020-booth-2.jpg"
-        width: 756
-        height: 567
-        isCached: true
-  - title: "Rep. Gomez demands answers from Amazon CEO Jeff Bezos on facial recognition"
-    excerpt: "Rep. Jimmy Gomez (D-CA) wants answers from Amazon today about a one-year halt of facial recognition for police and how Amazon assesses algorithmic bias."
-    publishedDateTime: 2020-06-17T16:38:00Z
-    webUrl: "https://venturebeat.com/2020/06/17/rep-gomez-demands-answers-from-amazon-ceo-jeff-bezos-on-facial-recognition/"
-    ampWebUrl: "https://venturebeat.com/2020/06/17/rep-gomez-demands-answers-from-amazon-ceo-jeff-bezos-on-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/rep-gomez-demands-answers-from-amazon-ceo-jeff-bezos-on-facial-recognition/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/bezos.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Podcast: PlayStation 5 details and hesitation over facial recognition"
     excerpt: "Devindra and Cherlynn are joined by Nathan Ingraham to discuss the PlayStation 5's future and potential price, as well as games like \"The Last Of Us II.\""
     publishedDateTime: 2020-06-19T12:36:00Z
@@ -64,47 +32,68 @@ related:
         width: 1040
         height: 630
         isCached: true
-  - title: "Congressman calls out Amazon's 'performative' facial-recognition moratorium"
-    excerpt: "[The] 102-word blog post announcement fails to specify whether Amazon will stop selling Rekognition to police departments during the moratorium; whether the company will stop the development of ..."
-    publishedDateTime: 2020-06-18T00:18:00Z
-    webUrl: "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium/"
-    ampWebUrl: "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp"
+  - title: "RealNetworks Inc. announces SAFR® Inside app component of Facial Recognition and Computer Vision Platform"
+    excerpt: "SAFR from RealNetworks, Inc., announced SAFR® Inside, a new app component of its Facial Recognition and Computer Vision Platform that runs on ACAP enabled cameras with edge"
+    publishedDateTime: 2020-06-19T12:36:00Z
+    webUrl: "https://www.sourcesecurity.com/news/realnetworks-announces-safr-app-component-facial-co-227-ga-co-1554987129-ga-npr.1592552177.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/realnetworks-announces-safr-app-component-facial-co-227-ga-co-1554987129-ga-npr.1592552177.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/realnetworks-announces-safr-app-component-facial-co-227-ga-co-1554987129-ga-npr.1592552177.html"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 74
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 57
     images:
-      - url: "https://mondrian.mashable.com/2020%252F06%252F18%252Fd0%252F067b134488834b6bac8bfc91b9731822.499d9.jpg%252F1200x630.jpg?signature=1lDWOXpdt8JocVS38IojVBFjb5o="
-        width: 1200
-        height: 630
+      - url: "https://security-img.scdn6.secure.raxcdn.com/people/robert-300x300_1534936334.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Congress Once Again Takes Up Facial Recognition Reform. But Activists Say This Time Is Different"
-    excerpt: "Facial recognition technology is back in Congress’ crosshairs after IBM Corp., Microsoft Corp. and Amazon.com Inc. each called on lawmakers to establish rules for use of the software and paused sales to police departments in response to the nationwide protests against systemic racism and police brutality."
-    publishedDateTime: 2020-06-19T15:05:00Z
-    webUrl: "https://morningconsult.com/2020/06/18/facial-recognition-reform/"
+  - title: "Editorial: Facial recognition software is useful for crime fighting. But it needs rules."
+    excerpt: "Log in or Activate your account. Washington County Sheriff's Office Deputy Jeff Talbot demonstrates in February 2019 how his agency used facial recognition software to help solve a crime, at their headquarters in Hillsboro, Ore. The image on the left shows ..."
+    publishedDateTime: 2020-06-17T21:00:00Z
+    webUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.html"
+    ampWebUrl: "https://www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/opinion/editorial/editorial-facial-recognition-software-is-useful-for-crime-fighting-but-it-needs-rules/article_17d356b5-491a-5994-b36b-1ac451ccc690.amp.html"
     type: article
     provider:
-      name: Morning Consult
-      domain: morningconsult.com
-    quality: 41
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 50
     images:
-      - url: "https://assets.morningconsult.com/wp-uploads/2020/06/17180955/GettyImages-1241292950-scaled.jpg"
-        width: 2560
-        height: 1705
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/c6/fc6c0fd9-198b-541c-bcf1-af8ea1017d14/5eea3cd72ba1b.image.jpg"
+        width: 512
+        height: 384
         isCached: true
-  - title: "Amazon Rekognition ban slammed for being ‘performative’"
-    excerpt: "Amazon’s announcement that it would stop letting police use its facial recognition technology for a year has been branded as “performative” by a US politician."
-    publishedDateTime: 2020-06-18T04:02:00Z
-    webUrl: "https://www.news.com.au/technology/innovation/inventions/amazon-rekognition-ban-slammed-for-being-performative/news-story/d77868c9f3d667fc782eaad70f67bc8a"
-    ampWebUrl: "https://amp.news.com.au/technology/innovation/inventions/amazon-rekognition-ban-slammed-for-being-performative/news-story/d77868c9f3d667fc782eaad70f67bc8a"
-    cdnAmpWebUrl: "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/inventions/amazon-rekognition-ban-slammed-for-being-performative/news-story/d77868c9f3d667fc782eaad70f67bc8a"
+  - title: "Juneteenth: A call for progress and national recognition"
+    excerpt: "As calls for structural change grow, the US is pondering recognition of a Black holiday that celebrates emancipation."
+    publishedDateTime: 2020-06-19T16:16:00Z
+    webUrl: "https://www.aljazeera.com/news/2020/06/juneteenth-call-progress-national-recognition-200619121513586.html"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/06/juneteenth-call-progress-national-recognition-200619121513586.html"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/06/juneteenth-call-progress-national-recognition-200619121513586.html"
     type: article
     provider:
-      name: News.com.au
-      domain: news.com.au
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 44
+    images:
+      - url: "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/6/19/79c8639b102e4f1d9c2a2007eaf9439b_18.jpg"
+        width: 583
+        height: 325
+        isCached: true
+  - title: "Facial Recognition: IT And Police In Delicate Dance"
+    excerpt: "Activists in Moscow protesting the use of facial recognition technology paint geometrical shapes and lines on their faces as this is said to confuse the system Photo: AFP / Yuri K"
+    publishedDateTime: 2020-06-18T04:05:00Z
+    webUrl: "https://www.ibtimes.com/facial-recognition-it-police-delicate-dance-2996141"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
     quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/17/activists-in-moscow-protesting-the-use-of-facial.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "7-Eleven Australia deploys facial recognition on customer feedback tablets"
     excerpt: "Eleven Australia is deploying facial recognition technology to all 700 stores nationwide as part of a customer feedback capture mechanism, but says the technology is “not used for any other purpose”."
     publishedDateTime: 2020-06-22T04:28:00Z
@@ -133,15 +122,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "\"Coded Bias\" exposes how facial recognition discriminates based on race, gender, and more"
-    excerpt: "Filmmaker Shalini Kantayya spoke to Salon about the need to hold companies accountable for tech & why there's hope"
-    publishedDateTime: 2020-06-17T21:03:00Z
-    webUrl: "https://www.salon.com/2020/06/17/coded-bias-facial-recognition-racist-sexist-shalini-kantayya-afi/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 10
 
 secured: "N7jsPX1jf7xG111hvddHWi0c5QxIl6IVnAYpQAvlrXjjVtDd52DnO2vIrr3QhiF0ErEK6kHhLJx6jmVZJ/RWwLDArpkY5e072vV1s/+ExexO+6W0n9C5ActN/kL+l/wV+wnrEiqa0sCiUDt1yD0LbZa3V8jKNZy8ZWbVy7KYPw6BEDN26FVi8GaGddS1GEkFwFsGyZNp+xO1t5bxrg0mwJLzF7jOJH7JXDAG3t9Nir9vyJ1scjFHr9T+X4+6SI6y6HcLvOkQWjZcFv606kTffFsL8HsFOK7rmyDOVZjh1LONmQFgGF3kgud+Ra4cG7IC4hVL1R42GgHi5GW82o+HUbgi4YBmiA5j5oCWDWAG43IILlmGcwBOmBzWeR4pzrx/IE23/OOPluegnJC7TMjTQn38cSNpJqizjVU0rGpGtQ51V+/YavfoVcU9Fom1Nm3+NWFkNyGIHUYb68TR0fB2PrM3Wkb/KKX0x1mNABH+UOw9Li5gI+bD97QYEBb7deHZwxXu/04URsguU20A2C469Q==;+/fx7S2FCgvIvzyKX9uK3A=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-19T10:17:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-cars-and-light-trucks-market---analysis-on-current-trends-by-2025-2020-06-19?mod=mw_quote_news"
 type: article
 quality: 70
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     title: "Artificial Intelligence (AI) Cars and Light Trucks Market - Analysis on Current Trends by 2025"
 
 related:
-  - title: "Computer Vision Market 2020 - Industry Insights By Growth, Emerging Trends And Forecast By 2023"
-    excerpt: "Global Computer Vision Market Research Report Information by By Component, By Application, By End-User and By Region Forecast Till 2023 The computer vision technology landscape continues to undergo relentless transformation,"
-    publishedDateTime: 2020-06-17T16:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2020---industry-insights-by-growth-emerging-trends-and-forecast-by-2023-2020-06-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence As A Service Market Size- Detailed Analysis of Current Industry Figures with Forecasts Growth By 2027"
     excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2019-2027 Global Artificial Intelligence As A Service Report\" provides data, information, brief analysis, company profiles,"
     publishedDateTime: 2020-06-18T05:14:00Z

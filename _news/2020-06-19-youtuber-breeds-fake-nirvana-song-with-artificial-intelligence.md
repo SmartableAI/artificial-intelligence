@@ -56,20 +56,6 @@ related:
         width: 2000
         height: 1270
         isCached: true
-  - title: "This YouTuber Used Artificial Intelligence To Make A Fake Nirvana Song, Smother"
-    excerpt: "Once armed with the lyrics to the song, the YouTuber performed, mixed and mastered the music and vocals “in my kitchen, on a sparkly red cheap Stratocaster, a crappy mic, and an old copy of ProTools”."
-    publishedDateTime: 2020-06-17T15:51:00Z
-    webUrl: "https://www.kerrang.com/the-news/this-youtuber-used-artificial-intelligence-to-make-a-fake-nirvana-song-smother/"
-    type: article
-    provider:
-      name: Kerrang!
-      domain: kerrang.com
-    quality: 33
-    images:
-      - url: "https://images.kerrangcdn.com/Nirvana-Smother.jpg?auto=compress&fit=crop&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "ftiT69fjoZMFR8hFBER7Ve8TkTtU7H7iJPBZqzdiN4o5dCI+H+VJdWGkCnukC2pbzAdHYT5naxaWh51tXau1lcahqyA9R+MKPhgBOepkCsvOEzhZZiYZHVu7F+zZf8AXf+J7Gy6KVUKFiwscXpYlWYfl7pkgcZFJsyov9IA+gFSfmQS8yJLb4yUo9aiF/JphgcVllTqdK6ll7uXHCfDU3fDfRrpGGXeQyY8gCA1heBJVDL+IfQgQ1+v2ETk30BXs8SDvBbLrgL9szB3jOhErmWCWrbzcY9SblEmuuAHcYyz0XZajos4oyYQCmzMl9vx6Qr6xpXwGjYJJyTaKCnb8ww==;0xmMEjAu9OLJUbnHYdlEtg=="
 ---

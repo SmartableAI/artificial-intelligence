@@ -8,7 +8,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/06/162889-broadridge-unveils-a
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/06/162889-broadridge-unveils-ai-drive-digital-execution-platform-for-corporate-bond-liquidity/amp/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Broadridge AI-based debt platform executes first trades"
-    excerpt: "Broadridge Financial Solutions, Inc. (NYSE:BR), a global fintech leader, today announced that its new AI-driven corporate bond trading platform, LTX®, has executed its first trades."
-    publishedDateTime: 2020-06-17T15:44:00Z
-    webUrl: "https://www.finextra.com/pressarticle/82945/broadridge-ai-based-debt-platform-executes-first-trades"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Broadridge launches AI-powered digital execution platform for next-gen liquidity corporate bonds"
     excerpt: "Jim Toffey, CEO of LiquidX and Vijay Mayadas, President, Global Fixed Income and Analytics at Broadridge, lead LTX with the support of a team of fixed"
     publishedDateTime: 2020-06-18T07:54:00Z

@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/06/22/computer-makers-unveil-50-ai-servers
 ampWebUrl: "https://venturebeat.com/2020/06/22/computer-makers-unveil-50-ai-servers-with-nvidias-a100-gpus/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/22/computer-makers-unveil-50-ai-servers-with-nvidias-a100-gpus/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 104
+heat: 124
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/nvidia-selene.jpg?w=1200&#038;strip=all"
@@ -30,21 +31,35 @@ images:
     title: "Computer makers unveil 50 AI servers with Nvidia’s A100 GPUs"
 
 related:
-  - title: "World's Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing"
-    excerpt: "SANTA CLARA, Calif., June 22, 2020 (GLOBE NEWSWIRE) -- ISC Digital--June 22, 2020--NVIDIA and the world's leading server manufacturers today announced NVIDIA A100-powered systems in a variety of designs and configurations to tackle the most complex challenges in AI,"
-    publishedDateTime: 2020-06-22T07:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/worlds-top-system-makers-unveil-nvidia-a100-powered-servers-to-accelerate-ai-data-science-and-scientific-computing-2020-06-22-3184025"
+  - title: "System makers take the wraps off their Nvidia A100 GPU servers"
+    excerpt: "At the time Huang asserted that the GPU could provide \"a 20x AI performance leap,\" over its predecessor. Other attractive qualities of the GPU are; its new multi-instance GPU technology enabling a ..."
+    publishedDateTime: 2020-06-22T09:11:00Z
+    webUrl: "https://hexus.net/tech/news/graphics/143608-system-makers-take-wraps-nvidia-a100-gpu-servers/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: Hexus
+      domain: hexus.net
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://hexus.net/media/uploaded/2020/6/b0c3b885-8955-430d-9c9b-e4facb7c1d2d.jpg"
+        width: 515
+        height: 221
+        isCached: true
+  - title: "World’s Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing"
+    excerpt: "ISC Digital—June 22, 2020—NVIDIA and the world’s leading server manufacturers today announced NVIDIA A100-powered systems in a variety of designs and configurations to tackle the most complex challenges in AI,"
+    publishedDateTime: 2020-06-22T07:00:00Z
+    webUrl: "https://apnews.com/7208593b875025f54adbc52c6713c4c0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
-secured: "40cwtEMmTrHUIt3Q/G6gGtn/gVZfRGk1s3U0svAXc7YuFKdav4LXXottBbUnfpy3oMeiHOt2RgDSqTAvaLbaNeA2bNjWUEnpV8pH6KVfWTCyc38b3RMda9/2P/ivA3ndSDC2+ed+SabFyvjfmH6F29S9DOdi31HKWyPogAHKT94dDRkMZ/RGEfkHo2bZ1BNmCX/12olFZh3jkkN08nJ63kbvKJrdT5qCZVtK+nl7xCVMnY4CNj1eUHBrEsmhZSs1zGsbbsaz1oIK+wzTZM9fC0jyaNf5lCVuYjh5x9CrPLBJ9qpB8ax3hW2BBBYtnakcFKLHFpZtMvliAsnAETTOxA==;KWDWS7+tMCrvMugAk0oblA=="
+secured: "Z/P09mqHwBvVFCMC+ygDtMRt5Y9THXqfGQbGfDhbVU5flaLWGDaamjldNIEfCzi9o1t+57ZCcmKZfAs6BnyNt4w/IbNqTlesFmFvq8pcZoNo5N92YYcSlkZUjUVZrNdxwSSOlpMmWIlA2Rve1EUos1O6XFFCjgHwJ+SQ/Go6rRe3yxzPobFLgS4ct7uxs1utIpWeuKsl1ezIxC7H4cKcvF2BAaC9EL/n9qDu9rHWecLe5DhOzKboyu9pLTS8zT+Du4Xju3ShVDU8PQBjod/CrSq0jGYxgPtazOTggX7AJNt4pVfXjI0CqMya/bC8REJOCZTDVYdsohb4bOkOMA96uVlL/IGHNJUjyGW1k/mV5wtJP17wTEbaTVHISxCDzldsy+izQ4fisjMJQ/BaRZqkqWMkTqjHev3+uWJ64vIHyHGVZvtFnXlKfVL02AqN9RSsHWWThpK85haLI7wZX49bA+GxZcQmlB2eZNE5trfDqsBvYHW/rIpPhG8beiWjNGzNv1csv+Vp5SuOeP/afFd96Q==;CfjgU5CKnsTtKsUaKziYZQ=="
 ---
 

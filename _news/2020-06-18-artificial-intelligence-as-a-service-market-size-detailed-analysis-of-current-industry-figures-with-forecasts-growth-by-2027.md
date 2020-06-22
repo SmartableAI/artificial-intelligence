@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market 2020 - Industry Insights By Growth, Emerging Trends And Forecast By 2023"
-    excerpt: "Global Computer Vision Market Research Report Information by By Component, By Application, By End-User and By Region Forecast Till 2023 The computer vision technology landscape continues to undergo relentless transformation,"
-    publishedDateTime: 2020-06-17T16:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2020---industry-insights-by-growth-emerging-trends-and-forecast-by-2023-2020-06-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Smart Office Market Methodology, Emerging Trends and Forecast By 2025"
     excerpt: "The world is moving at a rapid pace towards automation of labor. Artificial Intelligence and Internet of Things are"
     publishedDateTime: 2020-06-18T06:16:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-18T09:12:00Z
 webUrl: "https://www.nature.com/articles/s41598-020-66849-2"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     height: 379
     isCached: true
     title: "Histologic tissue components provide major cues for machine learning-based prostate cancer detection and grading on prostatectomy specimens"
+
+related:
+  - title: "A machine-learning model shows promise in predicting cancer prognosis and survival"
+    excerpt: "A machine-learning model shows promise in predicting cancer prognosis and survival by analyzing histopathology slides, according to a new study published June 17 in PLOS ONE by Ellery Wulczyn and David F. Steiner from Google Health, California, and colleagues."
+    publishedDateTime: 2020-06-17T18:04:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/p-amm061020.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 18
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/234456_web.jpg"
+        width: 720
+        height: 432
+        isCached: true
 
 secured: "dwluwMXmAZVHA+nlB/4Ku+Rm76skBkMxaHyGSTg4Oy1thImEz2e8WPTYwClTzXFDttY19aIqDzWAzpxm6Vln8E+g5i5FNbIL1aAxvjRJSidgx+x/zAo6z/juNVNBfB3pIM4W2KoXw/qjPCYGyyZWUEN3hOxNM44N02/ZnMe2hRvP5554aBaYEOtL1C7OZuXN5UWr+RzbVrhDKX2RsieiTipbtnmrjAjxOkYC3Q48r/tUjjmfodztMvv4BdgBcBljjh+AeUf8DtDEgp6nM72WSsqAr183kRMaAMmhyWY5V7OcCeiLPYrKxMYSmnS4bhtMAR38JS3JgMtlhs7bRrydr3uS2HYSkHHuSo2UgwDL8wAxkNgmORUmTcFt3DL6qka3tqOh9cGx5GeyCA8I2wl7uXkVM9LnLpO5dcFdwhVkEuAiB6BZ9capWsTibtIRjX9hIfIM0rvdw4SfPuLBnHZ9cLEIojeWrTS/g6nkN0jfujTvBhQ5Ct265yKKvtKBB/mFTHkIHMLIOpNa/ntjJF1XvA==;8JvbJafbuHc/gcIe1Nmq8Q=="
 ---

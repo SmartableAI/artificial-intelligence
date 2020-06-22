@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Broadridge AI-based debt platform executes first trades"
-    excerpt: "Broadridge Financial Solutions, Inc. (NYSE:BR), a global fintech leader, today announced that its new AI-driven corporate bond trading platform, LTX®, has executed its first trades."
-    publishedDateTime: 2020-06-17T15:44:00Z
-    webUrl: "https://www.finextra.com/pressarticle/82945/broadridge-ai-based-debt-platform-executes-first-trades"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Broadridge Unveils AI-Drive Digital Execution Platform For Corporate Bond Liquidity"
     excerpt: "U.S.-based fintech Broadridge Financial Solutions announced on Wednesday it has created a new artificial intelligent (AI)-driven digital execution platform, LTX, to bring next-generation liquidity to corporate bonds."
     publishedDateTime: 2020-06-17T18:41:00Z

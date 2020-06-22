@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85706-artificial-intelligence-wrot
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85706-artificial-intelligence-wrote-lyrics-fake-nirvana-song.html"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F06%2Fyoutuber-nirvana-funk-turkey-fake-song-artificial-intelligence-info-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 480
-        isCached: true
-  - title: "This YouTuber Used Artificial Intelligence To Make A Fake Nirvana Song, Smother"
-    excerpt: "Once armed with the lyrics to the song, the YouTuber performed, mixed and mastered the music and vocals “in my kitchen, on a sparkly red cheap Stratocaster, a crappy mic, and an old copy of ProTools”."
-    publishedDateTime: 2020-06-17T15:51:00Z
-    webUrl: "https://www.kerrang.com/the-news/this-youtuber-used-artificial-intelligence-to-make-a-fake-nirvana-song-smother/"
-    type: article
-    provider:
-      name: Kerrang!
-      domain: kerrang.com
-    quality: 33
-    images:
-      - url: "https://images.kerrangcdn.com/Nirvana-Smother.jpg?auto=compress&fit=crop&w=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "jRDirN5TrJd6dfLp1NTEHgPGAzNNPol9FQivBSx9XQr7ZNw69ReqwwAH9yEymFi7nCnZs8KnTSCFm5YxrZskMnOFTixH4t3S7FHQF3Wq//R7i+0xhGjcoZFAbZqeQTvZy5pPgu24zgIE7e9M+x4jfVTWObBpnx5O4mRfGC+cL9ltIqhjCvEqzugC032PaOYoWyKODFu2V4lMXWMYv4mxwFcjvdSZFUyBXILufMLB0pi1eJeZ1hZ5r/xjY42rXYDGBg3xhB9XUQSn8Q0M1eBJsTb7sMW/s0JzQW1nyPWDOFPaqQFkk07xTCH0DX2Ze1Fqz9NDuf/VRFXrbvf+9uCFTw==;F1k7QaSOsthWGZZx00lyaw=="
