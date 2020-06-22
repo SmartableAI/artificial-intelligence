@@ -43,6 +43,20 @@ related:
         width: 1115
         height: 584
         isCached: true
+  - title: "Lenovo announces new AI servers for intense workloads"
+    excerpt: "Chinese manufacturer, Lenovo has announced a new product line of servers focused on artificial intelligence. The new ThinkSystem SR860 V2 and SR850 V2 servers have been designed for data center customers and feature Intel Xeon processors and support Intel Deep Learning platforms."
+    publishedDateTime: 2020-06-22T10:11:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/lenovo-announces-new-ai-servers-intense-workloads/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Lenovo_ThinkSystem_SR860.2e16d0ba.fill-1200x630.jpg"
+        width: 1154
+        height: 605
+        isCached: true
   - title: "Lenovo Launches ThinkSystem Servers with GPU Support, Increased NVMe Storage"
     excerpt: "Lenovo this morning launched two new ThinkSystem servers, the SR860 V2 and SR850 V2, utilizing 3rd Gen Intel Xeon Scalable processors with Intel Deep Learning Boost, along with introduction of GPU support on the SR860 V2 (four double-wide 300W or eight single-wide GPUs)."
     publishedDateTime: 2020-06-18T13:55:00Z

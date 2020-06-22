@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-19T14:38:00Z
 webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-taps-lunit-s-ai-for-its-new-chest-x-ray-suite"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     height: 1518
     isCached: true
     title: "GE Healthcare taps Lunit’s AI for its new chest X-ray suite"
+
+related:
+  - title: "GE Healthcare launches new AI Suite to detect chest X-ray abnormalities, including pneumonia caused by COVID-19 & tuberculosis"
+    excerpt: "Thoracic Care Suite harnesses the power of AI to scan for eight chest x-ray abnormalities, including pneumonia indicative of COVID-19 – a key cause of mortality in patients who"
+    publishedDateTime: 2020-06-22T10:41:00Z
+    webUrl: "https://www.zawya.com/uae/en/press-releases/story/GE_Healthcare_launches_new_AI_Suite_to_detect_chest_Xray_abnormalities_including_pneumonia_caused_by_COVID19__tuberculosis-ZAWYA20200622101839/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 9
+    images:
+      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
+        width: 1200
+        height: 878
+        isCached: true
 
 secured: "xLqK8QeEQ1uD24gehm4h7PiTbrYONQNeNamaAoQJ09zKczCllPjwR5M82DQA+ML1jmaOez5/5+or4sP+wdQF136oY7ZvC063O6RL0PDY/MIjStV2JN5pQMFo8mI/ITn9lKZhuiafjC13TFl8Im7dh1dkvZbOiZFNl7kRg7x1A2naPntqQzLGX5eOqis8Sb2qufrayZqLDjTp+HfWUnBo/N2NAxeJRwatzAvC+2lqy37EFvAQmwjT1lF9qBsUKvV0TbNP+oe9iudLZO8i6teqmeR4Vt9FxgM6X8NorQ8wext5ecf/G7Mt3voUQ+e5FVD08TJ5aAoV+OCUaiTfaUhJKwJpg1KOSn2tJwinNFbQUV7JaN8c9d36bJu0mW6i3lL1acpkO0s41GMmqMYhqFIRCztqMuqVwAq0VPozh/2/RedsxR+aGhySzKBe0WWIgJN11nDk4MOyq9yB54IoFT0GeFLWsgHrw1aNc6ijqvcvOcQWNW/Nbj3/5kBUKsF8ci8XWVV9unr2vpGkyVVy1Qihog==;dIZM5T3RJqK9iVUSdhfiJg=="
 ---

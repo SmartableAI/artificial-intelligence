@@ -34,15 +34,6 @@ related:
         width: 920
         height: 533
         isCached: true
-  - title: "Agilox applies artificial swarm intelligence to make ‘substantial’ cost savings"
-    excerpt: "Agilox says its autonomous mobile robots are “substantially saving costs” by applying artificial swarm intelligence. Swarm Intelligence and bio-inspired computing have attracted great interest in"
-    publishedDateTime: 2020-06-17T18:40:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/06/17/agilox-applies-artificial-swarm-intelligence-to-make-substantial-cost-savings/33211/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 0
 
 secured: "MUeELbTSwGhoRr+TXtfEUXL2/N/a1aX8P9ZaKg2++5pAac92cNaDbpDor2puth/PEBJZZ794k3CSg0C2nNk2wZ5ntkPw2LNWaH13DzFoKR65vKJ6gLSSX9DdeCWXvwQil2U7/3YVZLuFimS+ZPu2sDLa3gZFaM6TPnjoiHZbwwpzfWshjfdAAH8vTmFkHEHgKyLPJkzK5MB+Jq/HfYCl5o6Dty135t2tlAu3KSmSKmEJunmkkdwVrOZoKSEqcUPorQFnqoW3ScI0AE4OQ6Rdrroryc+okEGFcfnnVT+pkKcRPopLH+/jg7VVCCv1BsI0bs2OpAf9oupXTu5PvileHg==;iTBVaWDcCz4XKjkdfaUmtw=="
 ---

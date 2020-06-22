@@ -26,17 +26,6 @@ images:
     isCached: true
     title: "Fintech Firms in Israel Received $1.8 Billion in Total Investments in 2019, with OurCrowd, Sequoia Making Substantial Contributions"
 
-related:
-  - title: "Israeli Fintech Soars With Record $1.8B In Investments In 2019 – Report"
-    excerpt: "Investments in Israeli fintech accounted for 5.1 percent of the global investments in the field as a whole, according to the report. SNC said that the number of companies in fintech currently stands at 529,"
-    publishedDateTime: 2020-06-17T18:09:00Z
-    webUrl: "https://nocamels.com/2020/06/israeli-fintech-soars-record-1-8b-investments/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 4
-
 secured: "HScnDu/yVGi1wx8CF6TJWHytFOf3BAFFFYl9y7FaHofgePJiHlkB0uOYA3IZTbsV18XQ+nUUEDVK3DPcoK+CspLKZ2rkZ6dgggR4C+q8dijJ1L3ptx+E9XQODLQvXWE7xzhnaJ+6CKvU1swC1dZFFgctJbXlprgf7I6vVp71st8PL00AeHqiHk6tT/YLwcZVN3N+QWVLjBwV70KKwdoXVZ7i89b6EHK9ezxfQak83MLN3F5Lzn+soefqd0kETc7X/gMMz67n3gxkWGxDrWRn6zevg8DBcDex4FFGKhC6b/ZC48ZCZIGsZaABOgJ0e2BSD1NxcTR+6rtDfKPUp8ZUPM/+4XgmFAmRgaCsm0YljjzKCH3Ah+nAexKfUMy0BEtByXI5ZFS8EDm8hr3sboFn6AFxkcohcCuuxD9SHfE113KI/T7lBhrXs/ZqZ6jL7qIeaiu/B2oq8MXMdFAQjvDPNDPAK5F1rKoHedchZzywkl4X2kSecfDFu6bY0e8sN72dHbPBGWPhZQgNMojeAknBtw==;N/PnbxOWOXFqnas7KP2xSw=="
 ---
 

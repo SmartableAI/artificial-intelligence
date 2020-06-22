@@ -39,15 +39,6 @@ related:
         width: 690
         height: 388
         isCached: true
-  - title: "Signals Analytics Lauded by Frost & Sullivan for Enabling Transformative Business Decisions with its Novel Analytical Platform"
-    excerpt: "configurable manner to derive deep contextual insights using natural language processing (NLP) core technology. The platform can be applied in various life sciences, pharmaceuticals, and consumer care industries to help drive data-driven business ..."
-    publishedDateTime: 2020-06-17T18:35:00Z
-    webUrl: "https://www.newswiretoday.com/news/173093/Signals-Analytics-Lauded-by-Frost-and-Sullivan-for-Enabling-Transformative-Business-Decisions-with-its-Novel-Analytical-Platform/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
 
 secured: "v4xl3HRU/Y6CnAveqdnmQYSW0RXV/Aw+n9WOrA6Em+M97G01eHprIBSAExf6URdKOcd/wChCLM9UaeUK7svY3/3lzpZrgxgDMkPnhhE5ZnBcQMFSq1NqZ2gWIHxQ9DRjTMDXZKYKgCZMK3HFZBDVk1JdarZZlCxBftgI4YpMgt5HP3IoXQlt1ECuZAIlHIwJMD4VAIX2E3UEAOFvRArHLvYIWGdi8HDBqeel98R/890WHdHDew01Flqm2maL4HlVX3XMd7ubjALmgRBYjak+rIuoW+n4sMyPxlNIB48qKu7isaxVy48AfRamZ994FIlpQNrBQnV8yoGxPK0ROdG+3A==;2mTAfzPW4Th8gQHlMHw2Mw=="
 ---

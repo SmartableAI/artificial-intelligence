@@ -8,8 +8,8 @@ ampWebUrl: "https://mashable.com/article/congress-gomez-letter-amazon-rekognitio
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Mashable
@@ -28,36 +28,6 @@ images:
     title: "Congressman calls out Amazon's 'performative' facial-recognition moratorium"
 
 related:
-  - title: "Congressman slams Amazon’s use of facial recognition technology, calls for new disclosures"
-    excerpt: "Amazon may have halted the sale of its facial recognition software to police, but the move hasn’t eased pressure on the tech giant. In a letter sent to its CEO Jeff Bezos on"
-    publishedDateTime: 2020-06-17T18:01:00Z
-    webUrl: "https://www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/"
-    ampWebUrl: "https://www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 81
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/rekognition-1.png"
-        width: 300
-        height: 353
-        isCached: true
-  - title: "Congress Once Again Takes Up Facial Recognition Reform. But Activists Say This Time Is Different"
-    excerpt: "Facial recognition technology is back in Congress’ crosshairs after IBM Corp., Microsoft Corp. and Amazon.com Inc. each called on lawmakers to establish rules for use of the software and paused sales to police departments in response to the nationwide protests against systemic racism and police brutality."
-    publishedDateTime: 2020-06-19T15:05:00Z
-    webUrl: "https://morningconsult.com/2020/06/18/facial-recognition-reform/"
-    type: article
-    provider:
-      name: Morning Consult
-      domain: morningconsult.com
-    quality: 41
-    images:
-      - url: "https://assets.morningconsult.com/wp-uploads/2020/06/17180955/GettyImages-1241292950-scaled.jpg"
-        width: 2560
-        height: 1705
-        isCached: true
   - title: "Amazon Rekognition ban slammed for being ‘performative’"
     excerpt: "Amazon’s announcement that it would stop letting police use its facial recognition technology for a year has been branded as “performative” by a US politician."
     publishedDateTime: 2020-06-18T04:02:00Z

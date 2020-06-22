@@ -2,6 +2,129 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-15-deep-learning-incorporating-biologically-inspired-neural-dynamics-and-in-memory-computing.md",
+      "title": "Deep learning incorporating biologically inspired neural dynamics and in-memory computing",
+      "excerpt": "Spiking neural networks and in-memory computing are both promising routes towards energy-efficient hardware for deep learning. Woźniak et al. incorporate the biologically inspired dynamics of spiking neurons into conventional recurrent neural network units and in-memory computing,",
+      "webUrl": "https://www.nature.com/articles/s42256-020-0187-0",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs42256-020-0187-0/MediaObjects/42256_2020_187_Fig3_HTML.png",
+          "width": 312,
+          "height": 243,
+          "title": "Deep learning incorporating biologically inspired neural dynamics and in-memory computing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-microsoft-azure-becomes-sass-preferred-cloud-platform.md",
+      "title": "Microsoft Azure becomes SAS’s preferred cloud platform",
+      "excerpt": "SAS goes all in on Azure as both conclude a strategic partnership covering go to market and product development. SAS analytics capabilities could be integrated across the Azure portfolio to provide an additional option for model lifecycle management.",
+      "webUrl": "https://www.zdnet.com/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/12/cf920af9-289e-4b20-a13f-7556c4eb24c5/enterra-solutions-ml-cloud.png",
+          "width": 1125,
+          "height": 1125,
+          "title": "Microsoft Azure becomes SAS’s preferred cloud platform",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
+      "publishedDateTime": "2020-06-15T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-india-joins-global-partnership-on-artificial-intelligence-as-founding-member.md",
+      "title": "India joins global partnership on Artificial Intelligence as founding member",
+      "excerpt": "India on Monday joined the league of leading economies including USA, UK, EU, Australia, Canada, France, Germany, Italy, Japan, Mexico, New Zealand, Republic of Korea, Singapore to launch the Global Partnership on Artificial Intelligence (GPAI or Gee-Pay).",
+      "webUrl": "https://www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestatesman.com/wp-content/uploads/2019/05/AI.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "India joins global partnership on Artificial Intelligence as founding member",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html/amp",
+      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html/amp",
+      "publishedDateTime": "2020-06-15T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Statesman",
+        "domain": "thestatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-mit-creates-artificial-brain-chips.md",
       "title": "MIT Creates Artificial Brain Chips",
       "excerpt": "For years researchers have been working on simulating brain synapses to create faster and more efficient computers. Recently, a group",
@@ -1179,138 +1302,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai.md",
-      "title": "Researchers train drones to perform flips, rolls, and loops with AI",
-      "excerpt": "In a preprint paper, researchers propose a technique for training autonomous drones to perform flips, rolls, and other challenging acrobatics.",
-      "webUrl": "https://venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/6cf11ce1-1e3d-4b2f-ab04-62a2cfc0e264-e1591995877569.png?w=1200&#038;strip=all",
-          "width": 830,
-          "height": 415,
-          "title": "Researchers train drones to perform flips, rolls, and loops with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/amp/",
-      "publishedDateTime": "2020-06-12T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-a-bill-in-congress-would-limit-uses-of-facial-recognition.md",
-      "title": "A Bill in Congress Would Limit Uses of Facial Recognition",
-      "excerpt": "Amazon, Microsoft, and IBM say they want federal rules around the technology. Critics of the proposal, sponsored by four Democrats, say it doesn't go far enough.",
-      "webUrl": "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/",
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ee17e6b45997e7f063bebc5/master/pass/business_recognition_609119090.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "A Bill in Congress Would Limit Uses of Facial Recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp",
-      "publishedDateTime": "2020-06-12T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-cryptominers-found-in-azure-kubernetes-containers.md",
-      "title": "Cryptominers Found in Azure Kubernetes Containers",
-      "excerpt": "Images from a public repository contained cryptominers that Microsoft researchers found in Kubeflow instances running on Azure.",
-      "webUrl": "https://www.darkreading.com/attacks-breaches/cryptominers-found-in-azure-kubernetes-containers/d/d-id/1338083",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twimgs.com/nojitter/darkreading/dr-logo.jpg",
-          "width": 600,
-          "height": 600,
-          "title": "Cryptominers Found in Azure Kubernetes Containers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-12T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Google AI"
       ]
     }
   ],

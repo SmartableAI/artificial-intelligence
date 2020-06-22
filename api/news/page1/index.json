@@ -100,7 +100,7 @@
       "title": "Artificial Intelligence in Healthcare Market Overview, Top Key Players, Industry Growth Analysis, Forecast 2027",
       "excerpt": "On the basis of offering, the global artificial intelligence in healthcare market is segmented into hardware, software,",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-overview-top-key-players-industry-growth-analysis-forecast-2027-2020-06-22",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1012,6 +1012,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-19-amazon-microsoft-leave-many-face-recognition-queries-unanswered.md",
+      "title": "Amazon, Microsoft Leave Many Face-Recognition Queries Unanswered",
+      "excerpt": "A week after the tech giants said they won’t sell the tech to police for now, it’s not clear what’s included in the ban",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-06-19/amazon-microsoft-leave-many-face-recognition-queries-unanswered",
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-06-19/amazon-microsoft-leave-many-face-recognition-queries-unanswered",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-19/amazon-microsoft-leave-many-face-recognition-queries-unanswered",
+      "publishedDateTime": "2020-06-19T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough.md",
       "title": "AI Weekly: Restricting surveillance technologies is a strong first step, but it’s not enough",
       "excerpt": "New laws and regulations are curbing law enforcement's use of surveillance technologies, but that might not be enough.",
@@ -1092,44 +1130,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-mowing-made-easy-robots-tackle-lawn-care.md",
-      "title": "Mowing made easy: Robots tackle lawn care",
-      "excerpt": "Maintaining a lawn in the summer heat is often a dreaded chore for homeowners. Now there are robots that can do the job for you. Worx, the company that makes the highly-rated Landroid, says autonomous mowers are getting more popular.",
-      "webUrl": "https://www.wdtn.com/news/u-s-world/mowing-made-easy-robots-tackle-lawn-care/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wdtn.com/wp-content/uploads/sites/45/2020/06/NC_mowers0619_700x394.jpg?w=700&h=394&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Mowing made easy: Robots tackle lawn care",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wdtn.com/news/u-s-world/mowing-made-easy-robots-tackle-lawn-care/amp/",
-      "cdnAmpWebUrl": "https://www-wdtn-com.cdn.ampproject.org/c/s/www.wdtn.com/news/u-s-world/mowing-made-easy-robots-tackle-lawn-care/amp/",
-      "publishedDateTime": "2020-06-19T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDTN",
-        "domain": "wdtn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

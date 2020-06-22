@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-anno
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure/"
 type: article
 quality: 98
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     title: "Microsoft and Johns Hopkins Medicine announce five-year deal centered around Azure"
 
 related:
-  - title: "The AI Eye: Microsoft and SAS Announce Strategic Partnership and HPE Announces Edge Orchestrator"
-    excerpt: "Watching stock news, deal tracker and advancements in artificial intelligence Microsoft ( NasdaqGS:MSFT) and SAS have announced an extensive technology and go-to-market strategic partnership that will see the latter's AI and analytics increasingly integrated with Microsoft Azure."
-    publishedDateTime: 2020-06-17T18:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-ai-eye-microsoft-and-sas-announce-strategic-partnership-and-hpe-announces-edge-orchestrator-2020-06-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft Azure To Help In Johns Hopkins Medicine's Discoveries"
     excerpt: "Microsoft Corp. and Johns Hopkins Medicine or JHM said they have entered into a five-year agreement that will see Microsoft Azure become the preferred cloud platform for Johns Hopkins inHealth precision medicine initiative."
     publishedDateTime: 2020-06-19T15:31:00Z

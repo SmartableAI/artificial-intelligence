@@ -2,82 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-05-28-driverless-car-roaming-through-sharjah-community-powered-by-huawei-tech.md",
-      "title": "Driverless car roaming through Sharjah community powered by Huawei tech",
-      "excerpt": "In partnership with the Ministry of Health and Prevention Al Zahia deployed a fully operational driverless car ... the car incorporates an advanced Artificial Intelligence (AI) ‘brain’ to ...",
-      "webUrl": "https://www.itp.net/business/92638-driverless-car-roaming-through-sharjah-community-powered-by-huawei-tech#!",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GDPR fines",
-        "domain": "itp.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-amazon-is-in-advanced-talks-to-purchase-self-driving-vehicle-start-up-zoox.md",
-      "title": "Amazon is in advanced talks to purchase self-driving vehicle start-up Zoox",
-      "excerpt": "Amazon is reportedly in advanced talks to purchase self-driving vehicle start-up Zoox. Sources familiar with the matter tell The Wall Street Journal that the deal would value the company under $3.2 billion,",
-      "webUrl": "https://www.techspot.com/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-27-image-45.jpg",
-          "width": 1260,
-          "height": 840,
-          "title": "Amazon is in advanced talks to purchase self-driving vehicle start-up Zoox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html",
-      "publishedDateTime": "2020-05-27T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-27-baidu-accelerates-its-self-driving-car-initiative-with-new-test-center-and-partnership.md",
       "title": "Baidu Accelerates Its Self-Driving Car Initiative with New Test Center and Partnership",
       "excerpt": "Big investments in autonomous-vehicle and AI technology could be the key to getting Baidu's growth back on track.",
@@ -1322,6 +1246,99 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-tesla-will-boost-its-full-self-driving-software-price-to-8000-in-july.md",
+      "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
+      "excerpt": "As the electric-car maker's driver-assist software package moves closer to being truly full self-driving, the company is raising its price.",
+      "webUrl": "https://www.fool.com/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575092%2Ftesla-full-self-driving-stock-news.png&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
+      "publishedDateTime": "2020-05-19T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-tesla-to-increase-full-self-driving-pirce-musk-says-it-will-be-worth-100k.md",
+      "title": "Tesla To increase 'Full Self Driving' Pirce: Musk Says It Will Be Worth $100k",
+      "excerpt": "CEO Elon Musk announced via Twitter that Tesla will soon raise the cost of the full self driving option for their vehicles",
+      "webUrl": "https://insideevs.com/news/424123/tesla-increases-cost-full-self-driving/",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.motor1.com/images/mgl/6BLve/s1/top-five-reasons-why-consumers-buy-tesla-cars-video.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Tesla To increase 'Full Self Driving' Pirce: Musk Says It Will Be Worth $100k",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://insideevs.com/news/424123/tesla-increases-cost-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/424123/tesla-increases-cost-full-self-driving/amp/",
+      "publishedDateTime": "2020-05-19T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inside EVs",
+        "domain": "insideevs.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -1,0 +1,44 @@
+---
+category: news
+title: "GE Healthcare launches new AI Suite to detect chest X-ray abnormalities, including pneumonia caused by COVID-19 & tuberculosis"
+excerpt: "Thoracic Care Suite harnesses the power of AI to scan for eight chest x-ray abnormalities, including pneumonia indicative of COVID-19 – a key cause of mortality in patients who"
+publishedDateTime: 2020-06-22T10:41:00Z
+webUrl: "https://www.zawya.com/uae/en/press-releases/story/GE_Healthcare_launches_new_AI_Suite_to_detect_chest_Xray_abnormalities_including_pneumonia_caused_by_COVID19__tuberculosis-ZAWYA20200622101839/"
+type: article
+quality: 9
+heat: -1
+published: false
+
+provider:
+  name: Zawya
+  domain: zawya.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
+    width: 1200
+    height: 878
+    isCached: true
+    title: "GE Healthcare launches new AI Suite to detect chest X-ray abnormalities, including pneumonia caused by COVID-19 & tuberculosis"
+
+related:
+  - title: "GE Healthcare taps Lunit’s AI for its new chest X-ray suite"
+    excerpt: "GE Healthcare launched an artificial intelligence-powered chest X-ray analysis suite, designed to spot and highlight eight common conditions, using algorithms built by the South Korean startup Lunit ... analytics, AI and connectivity will only become ..."
+    publishedDateTime: 2020-06-19T14:38:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-taps-lunit-s-ai-for-its-new-chest-x-ray-suite"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 54
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1592492062/Lunit%20Xray%20AI.jpeg?H_Tp7Ynhb8bsEI3Y4GISbyNH7u9Sjepp"
+        width: 2700
+        height: 1518
+        isCached: true
+
+secured: "U7gTYpHvr8IIjutanQlz2OvtHLnUQwww6UTu8IN7K3ccw7gaKj6W4pXLLBMTjUdZSm6xpl8TqvMn4g+9I0wDLWh/7hWtd/XGWcPWr6w9ognuk7SANXol1RRpmu97KrPt1f0nJAc0tCxmo7jp/79L22dktxzT9D9SCKbOkke8zbt+JFhyYOMlOOu+Qb7tIkwrLAk3lVk9Q6aEoim/q2PvnmUnTHLfMbAX6BRGe8DeuHx9hopj2AzTeHQaTK8BJK4hrFVH2ES2zqn9lc4dqZsx9BSKZe1g8Bl8DyUCnBYzxvjK39d7BDFxcZfoMwnUNGOaLeEcwwFETGJXfnILWOCvTw==;1qUB13xu06/6PEdKkjhP0w=="
+---
+

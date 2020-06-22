@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-18-self-driving-cars-will-wipe-out-drive-by-shootings-kind-of.md",
+      "title": "Self-Driving Cars Will Wipe Out Drive-By Shootings, Kind Of",
+      "excerpt": "All in all, a car provides several crucial elements in the performance of a drive-by shooting. The car is a kind of protector. It helps to disguise or hide the perpetrator. A targeted person does not necessarily realize that the car holds someone desiring to shoot at them.",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars-will-wipe-out-drive-by-shootings-kind-of/",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1187185020%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4785%26cropY1%3D253%26cropY2%3D2945",
+          "width": 1200,
+          "height": 675,
+          "title": "Self-Driving Cars Will Wipe Out Drive-By Shootings, Kind Of",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars-will-wipe-out-drive-by-shootings-kind-of/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars-will-wipe-out-drive-by-shootings-kind-of/amp/",
+      "publishedDateTime": "2020-06-18T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models.md",
+      "title": "Microsoft acquires ADRM Software to beef up Azure with industry data models",
+      "excerpt": "Microsoft announced that it acquired ADRM Software, a provider of large-scale industry data models used by companies as 'information blueprints.'",
+      "webUrl": "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/",
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft acquires ADRM Software to beef up Azure with industry data models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/",
+      "publishedDateTime": "2020-06-18T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-pg-diploma-in-data-science-and-artificial-intelligence-ai.md",
       "title": "PG Diploma in Data Science and Artificial Intelligence (AI)",
       "excerpt": "Data Science and Artificial Intelligence (AI), has emerged as a thriving field from Industry Utility and Employability point of view. This market is likely to swell to $20 billion by 2025. Companies a",
@@ -231,7 +325,7 @@
       "title": "Lenovo launches data center servers aimed at AI, analytics workloads",
       "excerpt": "Lenovo on Thursday launched two new data center servers aimed at supporting AI and analytics workloads ... The ThinkSystem SR860 V2 server also offers GPU support, accommodating four double-wide 300W or eight single-wide GPUs. Lenovo is also rolling ...",
       "webUrl": "https://www.zdnet.com/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -467,7 +561,7 @@
       "title": "SAS and Microsoft Partner to Democratise AI and Analytics",
       "excerpt": "The companies say that this partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform and supports their shared vision to further democratise AI and analytics. “Through this ...",
       "webUrl": "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/",
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -586,6 +680,45 @@
       ]
     },
     {
+      "path": "_news/2020-06-18-congressman-calls-out-amazons-performative-facial-recognition-moratorium.md",
+      "title": "Congressman calls out Amazon's 'performative' facial-recognition moratorium",
+      "excerpt": "[The] 102-word blog post announcement fails to specify whether Amazon will stop selling Rekognition to police departments during the moratorium; whether the company will stop the development of ...",
+      "webUrl": "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F18%252Fd0%252F067b134488834b6bac8bfc91b9731822.499d9.jpg%252F1200x630.jpg?signature=1lDWOXpdt8JocVS38IojVBFjb5o=",
+          "width": 1200,
+          "height": 630,
+          "title": "Congressman calls out Amazon's 'performative' facial-recognition moratorium",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp",
+      "publishedDateTime": "2020-06-17T17:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-integrate-amazon-kendra-and-amazon-lex-using-a-search-intent.md",
       "title": "Integrate Amazon Kendra and Amazon Lex using a search intent",
       "excerpt": "Customer service conversations typically revolve around one or more topics and contain related questions. Answering these questions seamlessly is essential for a good conversational experience. For example, as part of a car rental reservation, you have queries such as, “What’s the charge for an additional",
@@ -637,7 +770,7 @@
       "title": "Windows 10's Linux subsystem gets GPU compute and an easier install in new preview",
       "excerpt": "Microsoft's latest Insider Build 20150 allows you to install the Windows Subsystem for Linx 2 via a typed command, and adds GPU compute support via Nvidia's CUDA.",
       "webUrl": "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.html",
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1219,137 +1352,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids.md",
-      "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
-      "excerpt": "According to Russian business daily Vedomosti, a new facial recognition system coming to every school in the country has been ominously named \"Orwell.\"",
-      "webUrl": "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/people-of-color-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/amp/",
-      "publishedDateTime": "2020-06-17T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-broadridge-executes-first-trades-on-ai-driven-digital-platform.md",
-      "title": "Broadridge Executes First Trades on AI-Driven Digital Platform",
-      "excerpt": "New York-based global fintech firm Broadridge today announced that its new AI-driven corporate bond trading platform, LTX®, has executed its first trades.",
-      "webUrl": "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2016/01/New-York.jpg",
-          "width": 880,
-          "height": 400,
-          "title": "Broadridge Executes First Trades on AI-Driven Digital Platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/",
-      "publishedDateTime": "2020-06-17T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art.md",
-      "title": "MIT researchers train AI to predict how humans paint works of art",
-      "excerpt": "MIT researchers created an AI model that generates time-lapse videos to predict how people paint still life and landscape art.",
-      "webUrl": "https://venturebeat.com/2020/06/17/mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/MIT-painting-ai.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "MIT researchers train AI to predict how humans paint works of art",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/17/mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art/amp/",
-      "publishedDateTime": "2020-06-17T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization"
-excerpt: "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others."
-publishedDateTime: 2020-06-09T11:19:00Z
-webUrl: "https://www.prnewswire.com/news-releases/cvpr-2020-features-microsoft-ceo--svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-301072534.html"
+excerpt: "The Computer Vision and Pattern Recognition (CVPR) 2020 Conference, a virtual event taking place next week from 14 – 19 June, explores the commercial trends igniting explosive investment and growth in artificial intelligence (AI) and machine learning."
+publishedDateTime: 2020-06-09T11:15:00Z
+webUrl: "https://apnews.com/PR Newswire/f3fdc84b253edfd926bdfcce1886ffb4"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Autos
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/462374/IEEE_Computer_Society_Logo.jpg?p=facebook"
-    width: 597
-    height: 314
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
     title: "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization"
 
-secured: "A0+6p2uC98gtMfpIOn/CrWYMXlvt0LrA0mT9hw7jzSooaeYP87Qq8WF9Il6xzcTaX4gwqM9dBGib7a1VEf1c/ve8k9Z4Ps2QBHNrlzF3XaPsUmYjupeZoRDbqzaFuDxkp2HEk+A22XSg483ibsHo+UncfIc1XiH/UMhuDlDZaxqoqyrajAYxw49CGZsaTMXCByo+z5x9odTiF7/lQYm3jNyvidwy6JZR9c3g7ABE6pTLBm6WHdvy7bNvp108y00aZ4vC3TpdAnXrqCAO3+Yrce5lRvWrB0OEbubKmFO9AF6WuMQyl27wWTxUGlXALbhwfg/+W7jQO2DbtHcIaliXeg==;5ymSwCNYVTvOZx2BiYz4/g=="
+secured: "WgrQ6hfAep1bbXj4AvErQfPpzksiIazz05qhbFG6WDWV5V9u9K3Vxx4aJ53xQn/4m6p7o8bGXMzqICsu8GmnelRZ4N8Z5bsaN5Tdqygfg/0zd/vE1xQvctcrWGdvRTPWiATLyFPb17eFdLqBAtYLFTCcneC0UBBUyc2il1E43KfdYQ8t7H4A5/lgz9A4OlhQsz2ugWDqwJoSg8o19K0WzJXygzMIE9BpfjgpCJixzCxqR26YX/NJLdVDwUry9eVa5X90P2Izc+9hS64Eby+xcWsV2hs38bMm4EaM3xxwWpF8hzLaHSJfKmDOrBuS0gXf9XsL2rXBmAN2HCSh+ooe3g==;lnnkPaKt3zycLSJSHI+EOA=="
 ---
 

@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Windows 10 PCs: Why the new key to faster desktop applications is your GPU"
 
-secured: "52q3It0hhmKKmiqtxq8hNwhZmdqwA7pPTFAAwS/ycs8dzN/G1aZKiOXUuSvK7yY2umXpPswU0RDx3RA+s+wwtvRgzYco4t8mUJHsJtJ+zJ/WysVlK5hiJyhhibvyJMCVO50E7QssJHhTLtU4dymtfFaALEzPIk24oxcgHiFLQKcarg+kYcNcCth/Pz9R/U5Np6YvvrNZFV4Llc6EtQOkoKu9DkWZY7gxZl8PodskaDEGEB5B7bc+9+oD6DjtF38beMUF8qxQi1vBVLfDndIWpFZkFAlJLS4Lz38IgfO2W1t8TU9DofzvCBsbhXfNl1ZV7OOEN2286hLkR4GlLbXbkQ==;2hTEc/9GrTriMsP0pOXuPA=="
+secured: "usSeJ/OaZ30xuvJ+WHe+YbHRy8+0wq0+g12ccPAQJVgnFXgqp+Lj4dr++NEw/Qx9U2ajY2ACSFnLcDG9FE0JGWHegO/NI+Z9xj01IC4EedLc+QXwdV/AtynsStJFA98sRiuGLhKjF+yXVQgpNhEP9UtjtuY01/7RjvuNBTRMuQx57nbsNyb6V+60+hjqeZVjZqlKtyyERrJfprF0+DEMvGr9rPjTb30OxLEsdT2+Iclx/HjY6aWzp1yDgPBa8Uw5be9gnOz6PSJ3LInZeSmq0ztp8mG0YtcR9zkwUI9qGladT1VBvJouatyzfXtJd09+k0NhUC+/fDflDpdTpvRxHyD60HUF52vI4F4hGkpCPUTKKeXFQtY5R7H3SyYwtLuDy/L7iDhLc5xeCikzMvecMyrE47f2nxcQ9ZSipUWm2gUuJxjPkfcy89QeDAh6irYjBtjZp0HDfCbCQx676uba02OWxOSFI3npMSVY+jfDAh1anWNvoB5b9ILv8TBNC4SS0PLpkDnGxdcSu9+hsEWoog==;VQgqYy6NrT/y6uSWsdmbqQ=="
 ---
 

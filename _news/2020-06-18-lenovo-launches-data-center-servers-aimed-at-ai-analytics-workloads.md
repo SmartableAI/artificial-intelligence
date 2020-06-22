@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/lenovo-launches-data-center
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://thelogic.co/wp-content/uploads/2020/06/COVID_SHIELD_exposure_notification_app-P_Government_of_Ontario-1024x683-1.png?w=260&h=195&crop=1&quality=80&strip=all"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Lenovo announces new AI servers for intense workloads"
+    excerpt: "Chinese manufacturer, Lenovo has announced a new product line of servers focused on artificial intelligence. The new ThinkSystem SR860 V2 and SR850 V2 servers have been designed for data center customers and feature Intel Xeon processors and support Intel Deep Learning platforms."
+    publishedDateTime: 2020-06-22T10:11:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/lenovo-announces-new-ai-servers-intense-workloads/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Lenovo_ThinkSystem_SR860.2e16d0ba.fill-1200x630.jpg"
+        width: 1154
+        height: 605
         isCached: true
   - title: "Lenovo Launches ThinkSystem Servers with GPU Support, Increased NVMe Storage"
     excerpt: "Lenovo this morning launched two new ThinkSystem servers, the SR860 V2 and SR850 V2, utilizing 3rd Gen Intel Xeon Scalable processors with Intel Deep Learning Boost, along with introduction of GPU support on the SR860 V2 (four double-wide 300W or eight single-wide GPUs)."

@@ -72,20 +72,6 @@ related:
         width: 681
         height: 501
         isCached: true
-  - title: "Qualcomm releases platform for AI, 5G robots"
-    excerpt: "Qualcomm said its new Robotics RB5 platform can support the development of robots using 5G and artificial intelligence."
-    publishedDateTime: 2020-06-17T17:19:00Z
-    webUrl: "https://www.lightreading.com/5g/qualcomm-releases-platform-for-ai-5g-robots/d/d-id/761773"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 56
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Qualcomm’s new RB5 robotics platform brings 5G connectivity to drones"
     excerpt: "That’s the case with the company’s latest RB5 AI-enabled 5G robotics platform, which is designed to be used by a variety of robots and drones. The company said the chips could be used by manufacturers to build fully autonomous robots that are able to navigate their environments by themselves while quickly sending data back to users."
     publishedDateTime: 2020-06-18T01:39:00Z
@@ -100,15 +86,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Qualcomm Launches World’s First 5G and AI-Enabled Robotics Platform"
-    excerpt: "San Diego, CA, United States, 2020/06/17 - Qualcomm Technologies, Inc., today announced the Qualcomm® Robotics RB5 platform the Company’s most advanced, integrated, comprehensive offering designed specifically for robotics - Qualcomm."
-    publishedDateTime: 2020-06-17T17:42:00Z
-    webUrl: "https://www.newswiretoday.com/news/173095/Qualcomm-Launches-Worlds-First-5G-and-AI-Enabled-Robotics-Platform/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 49
   - title: "Qualcomm Introduces 5G and AI-Enabled Robotics Platform"
     excerpt: "Qualcomm on Wednesday announced its Robotics RB5 platform, with 5G and 4G connectivity, on-device AI and machine learning, superior computing and intelligent sensing capabilities. The platform's Qualcomm QRB5165 processor,"
     publishedDateTime: 2020-06-18T19:12:00Z

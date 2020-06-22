@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-18-intel-stock-slips-as-new-lines-of-ai-chips-released.md",
+      "title": "Intel stock slips as new lines of AI chips released",
+      "excerpt": "Intel Corp. shares slid with the broader market Thursday as the chip giant introduced several new products to support artificial intelligence and",
+      "webUrl": "https://www.marketwatch.com/story/intel-stock-slips-as-new-lines-of-ai-chips-released-2020-06-18",
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-II855_INTC_0_ZH_20200618120245.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "Intel stock slips as new lines of AI chips released",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/EED0023A-B17A-11EA-8CDA-8F4E519ABD47",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/EED0023A-B17A-11EA-8CDA-8F4E519ABD47",
+      "publishedDateTime": "2020-06-18T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-ai-and-machine-learning-in-healthcare-garbage-in-garbage-out.md",
+      "title": "AI And Machine Learning In Healthcare: Garbage In, Garbage Out",
+      "excerpt": "Much proselytizing has occurred regarding the value and future of artificial intelligence (AI) and machine learning in healthcare. The industry is burgeoning. As with blockchain technology, which continues to evolve in the healthcare marketplace ...",
+      "webUrl": "https://www.forbes.com/sites/jeffgorke/2020/06/18/ai-and-machine-learning-in-healthcare-garbage-in-garbage-out/",
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1197598173%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D556%26cropY2%3D3931",
+          "width": 1200,
+          "height": 675,
+          "title": "AI And Machine Learning In Healthcare: Garbage In, Garbage Out",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-ai-model-uses-smartphone-location-data-to-predict-power-grid-usage.md",
       "title": "AI model uses smartphone location data to predict power grid usage",
       "excerpt": "Researchers propose an AI model that incorporates smartphone location data to predict power grid usage during the COVID-19 pandemic.",
@@ -52,7 +147,7 @@
       "title": "Microsoft and Johns Hopkins Medicine announce five-year deal centered around Azure",
       "excerpt": "With Azure set to become the John Hopkins inHealth precision medicine initiative's preferred cloud platform, JHM will be looking to advance its medical research with Microsoft's assistance.",
       "webUrl": "https://www.neowin.net/news/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure",
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -362,7 +457,7 @@
       "title": "Self-Driving Cars Will Wipe Out Drive-By Shootings, Kind Of",
       "excerpt": "All in all, a car provides several crucial elements in the performance of a drive-by shooting. The car is a kind of protector. It helps to disguise or hide the perpetrator. A targeted person does not necessarily realize that the car holds someone desiring to shoot at them.",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars-will-wipe-out-drive-by-shootings-kind-of/",
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -681,7 +776,7 @@
       "title": "Lenovo launches data center servers aimed at AI, analytics workloads",
       "excerpt": "Lenovo on Thursday launched two new data center servers aimed at supporting AI and analytics workloads ... The ThinkSystem SR860 V2 server also offers GPU support, accommodating four double-wide 300W or eight single-wide GPUs. Lenovo is also rolling ...",
       "webUrl": "https://www.zdnet.com/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -917,7 +1012,7 @@
       "title": "SAS and Microsoft Partner to Democratise AI and Analytics",
       "excerpt": "The companies say that this partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform and supports their shared vision to further democratise AI and analytics. “Through this ...",
       "webUrl": "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/",
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1033,101 +1128,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-integrate-amazon-kendra-and-amazon-lex-using-a-search-intent.md",
-      "title": "Integrate Amazon Kendra and Amazon Lex using a search intent",
-      "excerpt": "Customer service conversations typically revolve around one or more topics and contain related questions. Answering these questions seamlessly is essential for a good conversational experience. For example, as part of a car rental reservation, you have queries such as, “What’s the charge for an additional",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-amazon-kendra-and-amazon-lex-using-a-search-intent/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/17/lex-kendra-001.jpg",
-          "width": 800,
-          "height": 284,
-          "title": "Integrate Amazon Kendra and Amazon Lex using a search intent",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T14:47:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.md",
-      "title": "Windows 10's Linux subsystem gets GPU compute and an easier install in new preview",
-      "excerpt": "Microsoft's latest Insider Build 20150 allows you to install the Windows Subsystem for Linx 2 via a typed command, and adds GPU compute support via Nvidia's CUDA.",
-      "webUrl": "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.html",
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/06/windows-susbsystem-for-linux-2-windows-update-100849123-large.jpg",
-          "width": 1200,
-          "height": 598,
-          "title": "Windows 10's Linux subsystem gets GPU compute and an easier install in new preview",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.amp.html",
-      "publishedDateTime": "2020-06-17T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI"
       ]
     }
   ],

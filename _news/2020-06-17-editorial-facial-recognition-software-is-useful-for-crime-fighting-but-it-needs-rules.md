@@ -87,6 +87,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Hry police to launch facial recognition app"
+    excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."
+    publishedDateTime: 2020-06-21T18:30:00Z
+    webUrl: "https://www.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK.html"
+    ampWebUrl: "https://m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 39
   - title: "7-Eleven Australia deploys facial recognition on customer feedback tablets"
     excerpt: "Eleven Australia is deploying facial recognition technology to all 700 stores nationwide as part of a customer feedback capture mechanism, but says the technology is “not used for any other purpose”."
     publishedDateTime: 2020-06-22T04:28:00Z

@@ -66,20 +66,6 @@ related:
         width: 1280
         height: 450
         isCached: true
-  - title: "Microsoft releases the first Windows 10 21H1 preview build"
-    excerpt: "While this release is mostly bug fixes, Microsoft is rolling out some new features for the Windows Subsystem for Linux that allow you to configure it from the command line and use Linux applications that use a GPU, such as TensorFlow. Microsoft is also ..."
-    publishedDateTime: 2020-06-17T18:04:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-the-first-windows-10-21h1-preview-build/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 24
-    images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2019/03/06/windows-insider-preview-var.jpg"
-        width: 1280
-        height: 450
-        isCached: true
 
 secured: "9Kk5nIDU0Fzb5DbyqcWxx3s7SLQtoOZIY6M4glCk0wp8gQhHVnPGA9bntIVCym0CRdXC0wt+E6YxpbaoJlhkBz1sacSdtffOza8yoBiuqYMuNNpbvemPSQdKEwjcfZDmFjpOsxzlKFyV+xUMFvv/KaqCQ5WD6i6eFxt2Vu3rYpTKoEQH2y82WKv571zyDwKQQF/+w7AdclXdVC30y0lI5lpLP39+cUncVGYK3md3KgMpjCO+Bm8Eu2WZOCBY+AksmgKtUBbtwbY0WjKiTN1REL14ANPYUG7XfBZynWn66dvCJkEbEws74YkIaJiQO6Kmr5ccyLmy3lKvakog4YtYJQ==;5Jx2GIFrXMM/BtdL0bPC7w=="
 ---

@@ -55,20 +55,6 @@ related:
         width: 1280
         height: 450
         isCached: true
-  - title: "Microsoft releases the first Windows 10 21H1 preview build"
-    excerpt: "While this release is mostly bug fixes, Microsoft is rolling out some new features for the Windows Subsystem for Linux that allow you to configure it from the command line and use Linux applications that use a GPU, such as TensorFlow. Microsoft is also ..."
-    publishedDateTime: 2020-06-17T18:04:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-the-first-windows-10-21h1-preview-build/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 24
-    images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2019/03/06/windows-insider-preview-var.jpg"
-        width: 1280
-        height: 450
-        isCached: true
   - title: "Windows 10 OS Subsystem For Linux Gets NVIDIA CUDA GPU Accelerated Compute With Easier Install Process"
     excerpt: "After integrating Linux into the Windows 10 OS ecosystem earlier this year, NVIDIA has now showcased how its CUDA Cores will help the Windows Subsystem"
     publishedDateTime: 2020-06-18T10:48:00Z
