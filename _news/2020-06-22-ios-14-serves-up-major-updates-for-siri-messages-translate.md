@@ -8,7 +8,7 @@ ampWebUrl: "https://www.slashgear.com/ios-14-serves-up-major-updates-for-siri-me
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 1332
     isCached: true
     title: "iOS 14 serves up major updates for Siri, Messages, Translate"
+
+related:
+  - title: "At WWDC, Apple debuts new updates to iOS 14, watchOS 7 and more"
+    excerpt: "Apple Inc. today announced sweeping updates to many of its mobile device operating systems, including features added to iOS, iPadOS and watchOS. Many of these changes affect how commonly used apps have been upgraded – including Messages,"
+    publishedDateTime: 2020-06-22T20:42:00Z
+    webUrl: "https://siliconangle.com/2020/06/22/wwdc-2020-announcement-round-includes-ios-14-watchos-7-updates/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/craig-federighi-apple-svp-tech-ios14.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "8q8eiN5ANYgRK93uX+ymv6EhjCZ412fYuYwUF3jDNNEBGwXHjIWvW2k6HBtebCOmSV6pTvfhX41YH/OTkkkIPNygJtqMdZW+MX78jgIVIq6kckb82Pb7A6QpCjvJDyUvgyPQfn3zm9Qccdp/zvkmYewa2NMrlXWUqhAvcPlqrqmFtLxr/gOCyzOOKxyL1VJ9lGT4zxf6PYT8jvrl8k9anAysC803snpZwGUhoJhy8r5PvVti9AUWK8EkGVu02bfdNyyX8psFous6vOs0BntXEr/dmJKY+eXeSkOThSeMKJY18gJDL5Us2B19qAqXfOuDnD3nOnUJLYuqU5XPJPOxNmNBMZkHrWfZ/S9ezKAVnC4ibt+V+VgRFPkr2OyctkIB3zeYRHC0DuTH13k9+tV3vqiQ7+ArlMRQtsjtWMjaV55F/uQ+zqR0sfm5wIFlgaSF52iAD4eOgoRKOk/l7JDeTtgNVPJ9h/OLDXZpBP4GiLSUyCMAVwojUiC5NtGf2TMMhqm886SioU3nGFovE4VvZA==;a3TOHbogXJ/yrFsiRDqynA=="
 ---

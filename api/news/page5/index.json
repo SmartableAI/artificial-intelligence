@@ -2,6 +2,91 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-18-geek-raises-50-million-more-to-bring-autonomous-warehouse-robots-to-the-us.md",
+      "title": "Geek+ raises $50 million more to bring autonomous warehouse robots to the U.S.",
+      "excerpt": "Warehouse robot logistics and distribution startup Geek+ announced that it raised a $50 million extension to its series C financing round.",
+      "webUrl": "https://venturebeat.com/2020/06/17/geek-raises-50-million-more-to-bring-autonomous-warehouse-robots-to-the-u-s/",
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/geek-plus-products-all-copy-e1592443027367.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Geek+ raises $50 million more to bring autonomous warehouse robots to the U.S.",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/17/geek-raises-50-million-more-to-bring-autonomous-warehouse-robots-to-the-u-s/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/geek-raises-50-million-more-to-bring-autonomous-warehouse-robots-to-the-u-s/amp/",
+      "publishedDateTime": "2020-06-17T18:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-machine-learning-in-palo-alto-firewalls-adds-new-protection-for-iot-containers.md",
+      "title": "Machine learning in Palo Alto firewalls adds new protection for IoT, containers",
+      "excerpt": "OS firewall operating system, the firewalls are better equipped to defend IoT devices and containers, whether on-prem or in the cloud.",
+      "webUrl": "https://www.networkworld.com/article/3562705/machine-learning-in-palo-alto-firewalls-adds-new-protection-for-iot-containers.html",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/05/cso_security_lock_firewall_fires_threats_exploits_by_matejmo_gettyimages-879868000_2400x1600-100798015-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Machine learning in Palo Alto firewalls adds new protection for IoT, containers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3562705/machine-learning-in-palo-alto-firewalls-adds-new-protection-for-iot-containers.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3562705/machine-learning-in-palo-alto-firewalls-adds-new-protection-for-iot-containers.amp.html",
+      "publishedDateTime": "2020-06-17T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-congressman-calls-out-amazons-performative-facial-recognition-moratorium.md",
       "title": "Congressman calls out Amazon's 'performative' facial-recognition moratorium",
       "excerpt": "[The] 102-word blog post announcement fails to specify whether Amazon will stop selling Rekognition to police departments during the moratorium; whether the company will stop the development of ...",
@@ -1052,101 +1137,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones.md",
-      "title": "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones",
-      "excerpt": "Qualcomm today announced its RB5 reference design platform for the robotics and intelligent drone ecosystem. As the field of robotics continues to evolve towards more advanced capabilities, Qualcomm’s latest platform should help drive the next step in robotics evolution with intelligence and connectivity.",
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/",
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee9accd1b50250006e837a8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1430%26cropY1%3D0%26cropY2%3D804",
-          "width": 1200,
-          "height": 676,
-          "title": "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/",
-      "publishedDateTime": "2020-06-17T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g.md",
-      "title": "Qualcomm’s Robotics RB5 Platform combines AI acceleration with 5G",
-      "excerpt": "Qualcomm's new robotics development platform -- RB5 -- accelerates AI workloads while providing support for 5G connectivity.",
-      "webUrl": "https://venturebeat.com/2020/06/17/qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/qualcomm-5G-e1591989281622.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Qualcomm’s Robotics RB5 Platform combines AI acceleration with 5G",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/17/qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g/amp/",
-      "publishedDateTime": "2020-06-17T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

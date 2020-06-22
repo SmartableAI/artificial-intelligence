@@ -8,7 +8,7 @@ ampWebUrl: "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-f
 cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
         width: 1320
         height: 772
         isCached: true
-  - title: "Facial Recognition: IT And Police In Delicate Dance"
-    excerpt: "Activists in Moscow protesting the use of facial recognition technology paint geometrical shapes and lines on their faces as this is said to confuse the system Photo: AFP / Yuri K"
-    publishedDateTime: 2020-06-18T04:05:00Z
-    webUrl: "https://www.ibtimes.com/facial-recognition-it-police-delicate-dance-2996141"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/17/activists-in-moscow-protesting-the-use-of-facial.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Hry police to launch facial recognition app"
     excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."
     publishedDateTime: 2020-06-21T18:30:00Z
@@ -87,6 +73,6 @@ related:
       domain: hindustantimes.com
     quality: 39
 
-secured: "EibAg0WnkKqmozDSK2W0AbhMLNtDeisS8J3wDrNQyyCN4opDRuRV+5LJeXcN5gOLg1PEvZ7Ij0DRfOR4Onur6iv6f9PdZlctvFl8qynjiDVWPofpCxxKJsja8in7VKoDhCCfZmtsU/4yqB2K4PSpasabhNJlREEcuQ7WbWFPrXl3MVdDxYSajPis/I56w7cjOOI6mwFNAYa8IiYTaYVfTG+Riu/GKkzNRi6vHR60xaDoRIQA6CeUYQ4ZLiHkQhziS3XV8kysmkTK1PSglEYGJZhtWUg42UYvozEXOqTGt69+rZZj88l2anqX/KFEYZzMBKpn6Qc9BH66KDYfnWHpeg==;IFEHrLL9eSynR2bzSPCjDA=="
+secured: "yucx++QDsx7xqyqIhIqbhpGETUzpJpdcMvCxwgOcXLAcHTTQDX/A33zLCXsUXsLnP869Bpn87+Mr7Cf8NzGmAExHi9FrzbMSaIW/njQJkzbpVAVPj8VBDKT4fOLB7i53hp29V7gWQ/apmXrDE7ziSZK+V94739JlnLq+L/edyyn8+wjuXNaxIWm6vDPCygf+XF7TCQEBUYEV5H79GuUVos2rTIzkadH26GoCwTjfaWI8ULLhAHV2LZAZTLIhMR9HaezP35wJ7D1eAXoC3mprdcRTnttCCDhACkO/D+BdQbREIo2wcEoYHgjDrJApRoYPB7a2TXGLIe4+xbwy2n0heP+5bpsawhOWnoYxxznxSqpKDtvd0zDkX7fKqyxliA6ZP4ZC6C7ujz1uH/mfsikDeapFhcGkTWdSPpdftOSqJP4iOwk7MvRevDPwGcbd+v14yzByY7P6wzY+JO/+oHHAnTOLEfwbCpIXKQP+QVPvmlHKovzsddMFoLijxl2V/5ED;gZnP+uqUjkF8zOPFZnVveA=="
 ---
 

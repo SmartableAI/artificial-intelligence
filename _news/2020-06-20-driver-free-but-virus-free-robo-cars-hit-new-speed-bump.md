@@ -8,7 +8,7 @@ ampWebUrl: "https://www.stltoday.com/business/local/driver-free-but-virus-free-r
 cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/local/driver-free-but-virus-free-robo-cars-hit-new-speed-bump/article_1eee8c23-1372-5f16-a62a-8e662bbf522b.amp.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     title: "Driver free but virus free? Robo cars hit new speed bump"
 
 related:
-  - title: "Driver free but virus free? Robo cars hit new speed bump"
-    excerpt: "This despite its use of multiple laser, radar and camera sensors connected to artificial intelligence. Cadariu said Waymo has a team in the Detroit area working on snow and wet roads, while other ..."
-    publishedDateTime: 2020-06-18T04:51:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/driver-free-virus-fee-robo-car-firms-hit-71306049"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/driver-free-virus-fee-robo-car-firms-hit-71306049"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/driver-free-virus-fee-robo-car-firms-hit-71306049"
-    type: article
-    provider:
-      name: ABCNews
-      domain: go.com
-    quality: 44
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_21b0c31da1c947c791ccc95af31caaca_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Robo Cars Hit New Speed Bump"
     excerpt: "The fledgling industry now has to deal with passenger anxiety amid the coronavirus pandemic."
     publishedDateTime: 2020-06-18T15:19:00Z

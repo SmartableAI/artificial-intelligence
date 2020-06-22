@@ -2,11 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-22-big-tech-juggles-ethical-pledges-on-facial-recognition-with-corporate-interests.md",
+      "title": "Big Tech juggles ethical pledges on facial recognition with corporate interests",
+      "excerpt": "The careful wording of public pledges leaves plenty of room for oppressive uses of the technology, critics say.",
+      "webUrl": "https://www.nbcnews.com/tech/security/big-tech-juggles-ethical-pledges-facial-recognition-corporate-interests-n1231778",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/j/newscms/2019_23/2857426/190514-facial-recognition-ces-ew-624p_9901ee6159e029067bc24200074b6e00.fit-560w.jpg",
+          "width": 560,
+          "height": 373,
+          "title": "Big Tech juggles ethical pledges on facial recognition with corporate interests",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1231778",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231778",
+      "publishedDateTime": "2020-06-22T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-ios-14-serves-up-major-updates-for-siri-messages-translate.md",
       "title": "iOS 14 serves up major updates for Siri, Messages, Translate",
       "excerpt": "Apple, unsurprisingly, led its WWDC 2020 press conference with the announcement of iOS 14. In the next version of Apple’s latest operating system, we’ll see some improvements to Siri,",
       "webUrl": "https://www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1261,35 +1299,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026.md",
-      "title": "Size & Share of Cloud Natural Language Processing (NLP) Market 2020 Research Report and Forecast to 2026",
-      "excerpt": "Facts & Factors (FnF), a leading market research company recently published a research report on “ Cloud Natural Language Processing (NLP) Market By Type (Rule-Based, Statistical, and Hybrid), By Deployment Model (Public,",
-      "webUrl": "https://surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/amp/",
-      "cdnAmpWebUrl": "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/amp/",
-      "publishedDateTime": "2020-06-04T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "surfacingmagazine.net",
-        "domain": "surfacingmagazine.net",
         "images": null,
         "publishers": null,
         "authors": null

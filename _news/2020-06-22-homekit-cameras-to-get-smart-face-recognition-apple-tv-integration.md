@@ -57,20 +57,6 @@ related:
         width: 1040
         height: 630
         isCached: true
-  - title: "Facial Recognition: IT And Police In Delicate Dance"
-    excerpt: "Activists in Moscow protesting the use of facial recognition technology paint geometrical shapes and lines on their faces as this is said to confuse the system Photo: AFP / Yuri K"
-    publishedDateTime: 2020-06-18T04:05:00Z
-    webUrl: "https://www.ibtimes.com/facial-recognition-it-police-delicate-dance-2996141"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/17/activists-in-moscow-protesting-the-use-of-facial.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Hry police to launch facial recognition app"
     excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."
     publishedDateTime: 2020-06-21T18:30:00Z
@@ -83,6 +69,6 @@ related:
       domain: hindustantimes.com
     quality: 39
 
-secured: "h8PA/xC7IbvQyDC3EOUs6QL7cf3Kr/tlhMExSqEgYzzTUF76rXmOLoSgkkGurblDW4gR1F2Rl3fqyAvfJMcppldULPgn8gDukDqdznAFGzu6Knty7aU0Ry95rKgG7JyMwoJQWejxAUQmym4Ox89KjlOEIBsHkOanrEcYJPZpctlX10KIm+TFPzuuVe+7jZbcmNPJ3E1vVpNftsCTBmxhadx0ALYuDW/OIEg7ZBLhUbUzCcmwTAeRHfE2fJ6RZWy2KZTVpGYadktz4+7HoQB6TorNDkhnEv2hw4f+NKG7wfmP2Rer7Pm1jLMJ0eWpzTx6msz0Kn4VDMcCyamXz4QZ+w==;mLzDZsDPFxTRMpKKrHKjvQ=="
+secured: "hyc7mNnF/siQlapZO4Jx3/yQx2rYSu3gi1aLWb7zdJlPEyIhvtl4VW9M+/AWRZnMqls7Kyrp+r2CLVd8H0Ee/ln936XEJUzKXhyZKWGmd7wBO4LKT5Eg6CN4OaLmHtZVHIuqzEC8FAslp5jt2HfW7JORlmX8g4etjp3gkvr4vmYEO0NMMdkYXOwpsikVDg8sXezjUnph9kX711/n+KvyfhUDVPVD4DU6MADQ46tIu9KJLwJ5Yus8jwGbNF1FNnDbr/+8x+NzJwuQZUWAbwMZjw7FftEea5LqRcLdv9T+kEFu5l503aet/dXKdWIhAN12xmOSC6ufDiR8VX38KnYBoSzz7xDhfcOK3Y3JPbQSamy0VtGb05ioQ9aK8JPWYFU+u5Q9RRYkfw+gmk9Cs8iROdClAfVzzfA3U0rHABF4SSVNgnI9gbhbY/6mithYhmdjp2T+kEAOcwydFWOCMgq7WeiuF3F0QppVDs3lbpV0+69BL4NaMtSyituHvbw7o4JiXkZ1xYSpBL+Bcg48tBsVFw==;RkMgJDVVinoCMcocE8eUrw=="
 ---
 

@@ -2,6 +2,119 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-06-09-flipkart-launches-ai-driven-voice-assistant-for-shopping.md",
+      "title": "Flipkart launches AI driven voice assistant for shopping",
+      "excerpt": "Flipkart’s AI-driven voice assistant for shoppingE-com player Flipkart has introduced voice assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’",
+      "webUrl": "https://www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Flipkart launches AI driven voice assistant for shopping",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/flipkart-launches-ai-driven-voice-assistant-for-shopping/article31789993.ece/amp/",
+      "publishedDateTime": "2020-06-09T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge.md",
+      "title": "Aruba rolls out AI-powered, cloud native platform for the network edge",
+      "excerpt": "The Aruba ESP (Edge Services Platform) uses AIOps, Zero Trust network security and a unified infrastructure approach to improve services at the network edge.",
+      "webUrl": "https://www.zdnet.com/article/aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/08/f9a79f50-c3f5-4edc-b9dc-260699e37d1e/thumbnail/1200x675/b872db662e3e175ae4e51774fbf33515/istock-9183650881.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Aruba rolls out AI-powered, cloud native platform for the network edge",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge/",
+      "publishedDateTime": "2020-06-09T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-cloud-storage-101-nas-file-storage-on-aws-azure-and-gcp.md",
+      "title": "Cloud storage 101: NAS file storage on AWS, Azure and GCP",
+      "excerpt": "We look at NAS file storage options in AWS, Azure and Google Cloud. All three offer native- and NetApp-based file storage with Azure adding single namespace cache services",
+      "webUrl": "https://www.computerweekly.com/feature/Cloud-storage-101-NAS-file-storage-on-AWS-Azure-and-GCP",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/feature/Cloud-storage-101-NAS-file-storage-on-AWS-Azure-and-GCP?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Cloud-storage-101-NAS-file-storage-on-AWS-Azure-and-GCP?amp=1",
+      "publishedDateTime": "2020-06-09T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-dow-jones-slumps-as-ibm-exits-facial-recognition-apple-set-to-unveil-custom-mac-chip.md",
       "title": "Dow Jones Slumps as IBM Exits Facial Recognition, Apple Set to Unveil Custom Mac Chip",
       "excerpt": "After a long rally driven partly by optimism surrounding the reopening of the U.S. economy, the Dow Jones Industrial Average (DJINDICES:\\^DJI) gave back some ground on Tuesday. The",
@@ -1191,129 +1304,6 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-human-fighter-pilots-set-to-take-on-ai-drones-in-aerial-dogfights-in-2021.md",
-      "title": "Human fighter pilots set to take on AI drones in aerial dogfights in 2021",
-      "excerpt": "The first aerial showdown between a human fighter pilot and an autonomous aircraft is slated for July 2021, according to a fascinating interview with the outgoing Director of the US Department of Defense's Joint Artificial Intelligence Center (JAIC).",
-      "webUrl": "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/",
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/fd13dfd/2147483647/strip/true/crop/1585x1057+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcc%2F0c%2F447eb9b84769aa1af6ec7c852dee%2Ff35.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Human fighter pilots set to take on AI drones in aerial dogfights in 2021",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/?amp=true",
-      "publishedDateTime": "2020-06-08T22:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-tutorial-create-an-ubuntu-data-science-virtual-machine-using-a-resource-manager-template.md",
-      "title": "Tutorial: Create an Ubuntu Data Science Virtual Machine using a Resource Manager template",
-      "excerpt": "This tutorial will show you how to create an Ubuntu 18.04 Data Science Virtual Machine using an Azure Resource Manager template. Data Science Virtual Machines are cloud-based virtual machines preloaded with a suite of data science and machine learning frameworks and tools.",
-      "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-tutorial-resource-manager",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Tutorial: Create an Ubuntu Data Science Virtual Machine using a Resource Manager template",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-reducing-the-number-of-unnecessary-biopsies-of-us-bi-rads-4a-lesions-through-a-deep-learning-method-for-residents-in-training-a-cross-sectional-study.md",
-      "title": "Reducing the number of unnecessary biopsies of US-BI-RADS 4a lesions through a deep learning method for residents-in-training: a cross-sectional study",
-      "excerpt": "Objective The aim of the study is to explore the potential value of S-Detect for residents-in-training, a computer-assisted diagnosis system based on deep learning (DL) algorithm. Methods The study was designed as a cross-sectional study.",
-      "webUrl": "https://bmjopen.bmj.com/content/10/6/e035757",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BMJ",
-        "domain": "bmj.com",
         "images": null,
         "publishers": null,
         "authors": null

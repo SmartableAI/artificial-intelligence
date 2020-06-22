@@ -2,6 +2,90 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-19-google-quietly-launches-an-ai-powered-pinterest-rival-named-keen.md",
+      "title": "Google quietly launches an AI-powered Pinterest rival named Keen",
+      "excerpt": "On Keen [...] you say what you want to spend more time on, and then curate content from the web and people you trust to help make that happen,” writes Adams in a blog post. Y",
+      "webUrl": "https://www.theverge.com/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning",
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/oMLxZlGuSVMylzpxK22gnkGl_Vg=/0x0:1000x502/1400x933/filters:focal(420x171:580x331):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66956670/keen.0.png",
+          "width": 1000,
+          "height": 502,
+          "title": "Google quietly launches an AI-powered Pinterest rival named Keen",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning",
+      "publishedDateTime": "2020-06-19T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-add-artificial-intelligence-expert-to-your-resume-after-this-35-training.md",
+      "title": "Add 'Artificial Intelligence Expert' to your résumé after this $35 training",
+      "excerpt": "Artificial intelligence experts. Many of today's most exciting technologies have artificial intelligence to thank. Think personalized Netflix queues, self-driving cars, and this app that blurs out the faces of protestors.",
+      "webUrl": "https://mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale/",
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F19%252F88%252F2240500266b74523b0293e3e05db6d76.089f6.jpg%252F1200x630.jpg?signature=G-7BbAQ99OQQq5C9x57kGAJsLIs=",
+          "width": 1200,
+          "height": 630,
+          "title": "Add 'Artificial Intelligence Expert' to your résumé after this $35 training",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale.amp",
+      "publishedDateTime": "2020-06-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-ai-recreates-the-painting-techniques-of-famous-artists.md",
       "title": "AI recreates the painting techniques of famous artists",
       "excerpt": "Apart from the virtual history lessons, this could be useful for illustrating general painting techniques to relative newcomers — say, starting from the background and working ‘closer’ to the viewer.",
@@ -1251,99 +1335,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19.md",
-      "title": "IBM launches Watson Works aimed at managing work's new normal amid COVID-19",
-      "excerpt": "IBM launched Watson Works, a set of models and applications designed to manage workspaces, people and facilities as employees return to the office during the COVID-19 pandemic. Wa",
-      "webUrl": "https://www.zdnet.com/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/24/b6e37c98-9f98-43bb-973e-ad26833fda56/thumbnail/1200x675/48665c9939ec4476228e8e8c28322098/qualcomm.png",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM launches Watson Works aimed at managing work's new normal amid COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
-      "publishedDateTime": "2020-06-18T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai.md",
-      "title": "Kaia Health raises $26 million to help manage chronic pain with AI",
-      "excerpt": "Kaia Health, a startup developing an AI-powered app to help manage -- and reduce -- chronic pain, has raised $26 million.",
-      "webUrl": "https://venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/771b40a0-8596-4e45-ac82-8cdd7015a2b2-e1592189066236.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Kaia Health raises $26 million to help manage chronic pain with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/amp/",
-      "publishedDateTime": "2020-06-18T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

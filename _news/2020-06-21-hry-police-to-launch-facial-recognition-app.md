@@ -66,20 +66,6 @@ related:
         width: 1320
         height: 772
         isCached: true
-  - title: "Facial Recognition: IT And Police In Delicate Dance"
-    excerpt: "Activists in Moscow protesting the use of facial recognition technology paint geometrical shapes and lines on their faces as this is said to confuse the system Photo: AFP / Yuri K"
-    publishedDateTime: 2020-06-18T04:05:00Z
-    webUrl: "https://www.ibtimes.com/facial-recognition-it-police-delicate-dance-2996141"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/17/activists-in-moscow-protesting-the-use-of-facial.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "MlCqv/N7VjOvdEtso9JdQOcu3Cz+Xp/QVe/oOn9TUyNZPdDk6XfI7PTlP27v/achzsyXFaIgYG+oATtGjN9fH82CIQClal8MLq9mD8rH4AVL+wHQ5J6ItHfgk8oZkZiB6FL3Ba9ml14Wr0jlOVVj8u/aUdJLOrA1pIs6L3LjTqAlI8jR6uhKRDQ8KYHE5boqqQXb14+3RV7tCa6XxeJ5sSnoDemxJJp7P8mzSgVWqgFovuSm/qFIaIVAECs13zzDCg7sCPQp6FAPDM7uTAypf0iDMPtWd1sm77V83g+x7+Kn1xVPqvLew1ElO8uNyI8SiKZ1bd0ElaINBY7S9gGpmA==;7yRJ5trnjqyA5TQfHRksAg=="
 ---

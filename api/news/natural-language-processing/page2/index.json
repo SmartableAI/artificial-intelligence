@@ -2,6 +2,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-04-size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026.md",
+      "title": "Size & Share of Cloud Natural Language Processing (NLP) Market 2020 Research Report and Forecast to 2026",
+      "excerpt": "Facts & Factors (FnF), a leading market research company recently published a research report on “ Cloud Natural Language Processing (NLP) Market By Type (Rule-Based, Statistical, and Hybrid), By Deployment Model (Public,",
+      "webUrl": "https://surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/amp/",
+      "cdnAmpWebUrl": "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/amp/",
+      "publishedDateTime": "2020-06-04T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "surfacingmagazine.net",
+        "domain": "surfacingmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-ai-should-serve-us-not-destroy-our-humanity.md",
       "title": "AI should serve us, not destroy our humanity",
       "excerpt": "There has been a shift in the way we interact with machine technology and apply information of formal scientific jargon to the real world",
@@ -1268,54 +1297,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-covid-19-will-accelerate-the-ai-health-care-revolution.md",
-      "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
-      "excerpt": "Disease diagnosis, drug discovery, robot delivery—artificial intelligence is already powering change in the pandemic’s wake. That’s only the beginning.",
-      "webUrl": "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec5a14ac96258473f89195d/master/pass/ai-illo-backchannel.jpg",
-          "width": 3078,
-          "height": 2000,
-          "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/amp",
-      "publishedDateTime": "2020-05-22T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

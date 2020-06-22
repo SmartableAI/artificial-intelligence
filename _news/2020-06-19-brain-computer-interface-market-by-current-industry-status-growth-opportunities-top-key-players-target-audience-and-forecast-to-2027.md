@@ -28,19 +28,6 @@ images:
     isCached: true
     title: "Brain Computer Interface Market By Current Industry Status, Growth Opportunities, Top Key Players, Target Audience And Forecast To 2027"
 
-related:
-  - title: "Coronavirus (COVID-19) Impact on Artificial Intelligence (AI) in Insurance Market 2020 by Manufacturers, Type and Application, Forecast to 2025"
-    excerpt: "This report also researches and evaluates the impact of Covid 19 outbreak on the Artificial Intelligence AI in Insurance industry involving potential opportunity and challenges drivers and risks We present the impact assessment of Covid 19 effects on Artificial Intelligence"
-    publishedDateTime: 2020-06-18T04:04:00Z
-    webUrl: "https://www.openpr.com/news/2076628/coronavirus-covid-19-impact-on-artificial-intelligence-ai"
-    ampWebUrl: "https://www.openpr.com/amp/2076628/coronavirus-covid-19-impact-on-artificial-intelligence-ai"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2076628/coronavirus-covid-19-impact-on-artificial-intelligence-ai"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
-
 secured: "LzG0q7Sd+aUeREb8v/bRiv3AdjEJ89CMRN30bgfRnnTMBfQmQRj0oqg+D7TrI4fOelD7GKLAvE7LQG4f8zP2zQx2Q4GsWnSsSg/QZTSCT3vd1gSHy+Oeno5/K1zd7SzYSNygLckmV4AW0LmMVyzg51D3/AVbyxTt3gD/VNXTyvQ6pL6zzVjb15nKsrUB6nA/xTOSQDdrUKv3lKudMZiB4qtxhmXR7DdLHgWnJ+Ob5vTtEiNiTfn3Qkd1XibBE72iKTt5t40Fwlzk9zs3tbV7/h22FIQjYDSYAzylaOWfX4hogwwmpshIihhg5IUZB3+WjF+an1+NU0G3RFohvoVjbQ==;6LVQPIyfxkruM4PmGHhZlw=="
 ---
 

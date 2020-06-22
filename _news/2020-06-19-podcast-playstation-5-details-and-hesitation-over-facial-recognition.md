@@ -62,20 +62,6 @@ related:
         width: 1320
         height: 772
         isCached: true
-  - title: "Facial Recognition: IT And Police In Delicate Dance"
-    excerpt: "Activists in Moscow protesting the use of facial recognition technology paint geometrical shapes and lines on their faces as this is said to confuse the system Photo: AFP / Yuri K"
-    publishedDateTime: 2020-06-18T04:05:00Z
-    webUrl: "https://www.ibtimes.com/facial-recognition-it-police-delicate-dance-2996141"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/17/activists-in-moscow-protesting-the-use-of-facial.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Hry police to launch facial recognition app"
     excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."
     publishedDateTime: 2020-06-21T18:30:00Z
