@@ -8,7 +8,7 @@ ampWebUrl: "https://www.financemagnates.com/fintech/broadridge-executes-first-tr
 cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 33
-  - title: "Broadridge Creates New AI-Driven Digital Execution Platform to Bring Next-Generation Liquidity to Corporate Bonds"
-    excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global fintech leader, today announced that its new AI-driven corporate bond"
-    publishedDateTime: 2020-06-17T11:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/broadridge-creates-new-ai-driven-digital-execution-platform-to-bring-next-generation-liquidity-to-corporate-bonds-301078341.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/326728/broadridge_financial_solutions.jpg?p=facebook"
-        width: 2697
-        height: 1414
-        isCached: true
   - title: "Broadridge launches AI-powered digital execution platform for next-gen liquidity corporate bonds"
     excerpt: "Jim Toffey, CEO of LiquidX and Vijay Mayadas, President, Global Fixed Income and Analytics at Broadridge, lead LTX with the support of a team of fixed"
     publishedDateTime: 2020-06-18T07:54:00Z

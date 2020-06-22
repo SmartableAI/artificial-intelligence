@@ -2,30 +2,30 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
-      "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
-      "excerpt": "June 4, 2020 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O Driverless AI integration ...",
-      "webUrl": "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html",
+      "path": "_news/2020-06-04-autonomous-vehicles-wont-make-roads-completely-safe-study-says.md",
+      "title": "Autonomous vehicles won’t make roads completely safe, study says",
+      "excerpt": "DETROIT A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error. Auto safety experts say humans cause about 94% of U.",
+      "webUrl": "https://www.seattletimes.com/business/stud-autonomous-vehicles-wont-make-roads-completely-safe/",
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
+          "url": "https://static.seattletimes.com/wp-content/uploads/2020/06/urn-publicid-ap-org-33be3ab29cc4ea2f46f027378f423010Autonomous_Vehicles-Crashes_96424-300x207.jpg",
+          "width": 300,
+          "height": 207,
+          "title": "Autonomous vehicles won’t make roads completely safe, study says",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-04T06:05:00-07:00",
+      "ampWebUrl": "https://www.seattletimes.com/business/stud-autonomous-vehicles-wont-make-roads-completely-safe/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/stud-autonomous-vehicles-wont-make-roads-completely-safe/?amp=1",
+      "publishedDateTime": "2020-06-04T07:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
         "images": null,
         "publishers": null,
         "authors": null

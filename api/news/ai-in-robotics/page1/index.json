@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-22-robot-divers-could-use-artificial-intelligence-to-save-coral-reefs-noaa.md",
+      "title": "Robot Divers Could Use Artificial Intelligence To Save Coral Reefs: NOAA",
+      "excerpt": "While scientists have succeeded at restoring some coral reefs, the job is too vast for humans alone, acording to a NOAA reef restoration manager.",
+      "webUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/",
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148857837%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": "Robot Divers Could Use Artificial Intelligence To Save Coral Reefs: NOAA",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/amp/",
+      "publishedDateTime": "2020-06-21T21:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-type-x-armored-combat-robot-equipped-for-unmanned-convoy-protection.md",
       "title": "Type-X armored combat robot equipped for unmanned convoy protection",
       "excerpt": "Estonia-based Milrem Robotics and Belgium's John Cockerill Defense have unveiled Milrem's Type-X Robotic Combat Vehicle. Based on a modular design and equipped with the Cockerill Protected Weapons Station Generation II (CPWS II) turret,",
@@ -168,6 +215,91 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-why-qualcomm-will-be-big-in-robotics-the-next-big-it-wave.md",
+      "title": "Why Qualcomm Will Be Big in Robotics, the Next Big IT Wave",
+      "excerpt": "Qualcomm has an impressive robotics offering in its RB5 robotics platform. The technology, when applied to a full product, has the capability of redefining what an autonomous machine, either fixed or mobile,",
+      "webUrl": "https://www.eweek.com/innovation/why-qualcomm-will-be-big-in-robotics-the-next-big-it-wave",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/Human.vs.robot_1.jpg?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": "Why Qualcomm Will Be Big in Robotics, the Next Big IT Wave",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T18:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-qualcomm-launches-5g-ai-enabled-robotics-platform.md",
+      "title": "Qualcomm launches 5G, AI-enabled robotics platform",
+      "excerpt": "Qualcomm Technologies released the Qualcomm Robotics RB5 platform ... fifth-generation Qualcomm AI Engine that delivers 15 tera operations per second of artificial intelligence (AI) performance for running complex AI and deep learning workloads.",
+      "webUrl": "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/",
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gpsworld.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-Development-Kit-W-300x274.jpg",
+          "width": 300,
+          "height": 274,
+          "title": "Qualcomm launches 5G, AI-enabled robotics platform",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/amp/",
+      "cdnAmpWebUrl": "https://www-gpsworld-com.cdn.ampproject.org/c/s/www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/amp/",
+      "publishedDateTime": "2020-06-18T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GPS World",
+        "domain": "gpsworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1140,129 +1272,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-durr-brings-artificial-intelligence-to-the-paint-shop.md",
-      "title": "Durr brings artificial intelligence to the paint shop",
-      "excerpt": "The automotive industry is a key driver and user of artificial intelligence (AI), which is fast percolating to different work areas. Now German major Durr has developed Advanced Analytics, the first market-ready AI application for paint shops.",
-      "webUrl": "https://www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/cc8e20a9-9966-44d0-bbfb-4cae9eefcc8e.jpg",
-          "width": 735,
-          "height": 490,
-          "title": "Durr brings artificial intelligence to the paint shop",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448?amp=1",
-      "cdnAmpWebUrl": "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448?amp=1",
-      "publishedDateTime": "2020-06-08T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autocar Pro",
-        "domain": "autocarpro.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact.md",
-      "title": "Jaipur Firm Deploys 7 Humanoid Robots to Help Maintain Social Distancing & Reduce Human Contact",
-      "excerpt": "Humanoid robots use artificial intelligence (AI) and the Internet of Things (IoT ... They can even take the lift and reach an employee on another floor, said Chaudhary, adding when they start running out of power, they head straight towards the charging point.",
-      "webUrl": "https://www.india.com/viral/jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact-4051968/",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.india.com/wp-content/uploads/2020/06/34-1.png",
-          "width": 688,
-          "height": 433,
-          "title": "Jaipur Firm Deploys 7 Humanoid Robots to Help Maintain Social Distancing & Reduce Human Contact",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/viral/jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact-4051968/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact-4051968/amp/",
-      "publishedDateTime": "2020-06-08T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-hong-kong-start-up-roborn-joins-race-to-pioneer-uv-light-disinfecting-robots.md",
-      "title": "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots",
-      "excerpt": "Hong Kong, a global financial centre less known for its robotics expertise, will soon have a local start-up join the international race to make more affordable mobile ultraviolet light disinfecting machines.",
-      "webUrl": "https://www.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/07/069aa2fc-a740-11ea-8ea0-d7434be00753_image_hires_183701.jpg?itok=FVQZGGuz&v=1591526231",
-          "width": 1200,
-          "height": 630,
-          "title": "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
-      "publishedDateTime": "2020-06-07T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

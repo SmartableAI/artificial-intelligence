@@ -53,7 +53,7 @@
       "title": "Broadridge Executes First Trades on AI-Driven Digital Platform",
       "excerpt": "New York-based global fintech firm Broadridge today announced that its new AI-driven corporate bond trading platform, LTX®, has executed its first trades.",
       "webUrl": "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/",
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -90,7 +90,7 @@
       "path": "_news/2020-06-16-foiling-fraud-with-machine-learning.md",
       "title": "Foiling fraud with machine learning",
       "excerpt": "Caroline Hermon is Head of Fraud Solutions at SAS UK & Ireland. All the while, an army of agile start-ups, FinTechs and other data-driven organisations have disrupted the financial services and retail landscapes.",
-      "webUrl": "https://www.techradar.com/in/news/foiling-fraud-with-machine-learning",
+      "webUrl": "https://www.techradar.com/news/foiling-fraud-with-machine-learning",
       "heat": null,
       "tags": null,
       "images": [
@@ -104,8 +104,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/foiling-fraud-with-machine-learning",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/foiling-fraud-with-machine-learning",
+      "ampWebUrl": "https://www.techradar.com/amp/news/foiling-fraud-with-machine-learning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/foiling-fraud-with-machine-learning",
       "publishedDateTime": "2020-06-16T03:05:00-07:00",
       "updatedDateTime": null,
       "provider": {

@@ -44,6 +44,22 @@ related:
         width: 640
         height: 356
         isCached: true
+  - title: "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards"
+    excerpt: "Facebook announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and groundbreaking academic research in the field of artificial intelligence (AI) ethics."
+    publishedDateTime: 2020-06-22T03:45:00Z
+    webUrl: "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/"
+    ampWebUrl: "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/"
+    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/"
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 75
+    images:
+      - url: "https://dailytimes.com.pk/assets/uploads/2020/06/07/Facebook-removes-nearly-200-accounts-tied-to-hate-groups.jpg"
+        width: 715
+        height: 450
+        isCached: true
   - title: "Pakistani scholars among winners of Facebook’s Ethics in AI Research awards"
     excerpt: "... thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Dr Junaid Kadir along with Amana Raquib were awarded for their research into culturally ..."
     publishedDateTime: 2020-06-19T11:44:00Z
@@ -91,22 +107,6 @@ related:
       - url: "https://cdn.propakistani.pk/wp-content/uploads/2018/01/Chess-AI-Human-Artificial-intelligence.jpg"
         width: 1000
         height: 560
-        isCached: true
-  - title: "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards"
-    excerpt: "Facebook announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and groundbreaking academic research in the field of artificial intelligence (AI) ethics."
-    publishedDateTime: 2020-06-22T03:45:00Z
-    webUrl: "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/"
-    ampWebUrl: "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/"
-    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/"
-    type: article
-    provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 58
-    images:
-      - url: "https://dailytimes.com.pk/assets/uploads/2020/06/07/Facebook-removes-nearly-200-accounts-tied-to-hate-groups.jpg"
-        width: 715
-        height: 450
         isCached: true
   - title: "Pakistani scholars win Facebook 'Ethics in AI Research' award"
     excerpt: "KARACHI: Facebook on Thursday announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Among the ..."

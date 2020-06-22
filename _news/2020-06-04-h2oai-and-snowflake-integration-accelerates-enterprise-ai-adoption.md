@@ -1,26 +1,19 @@
 ---
 category: news
 title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
-excerpt: "June 4, 2020 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O Driverless AI integration ..."
-publishedDateTime: 2020-06-04T13:05:00Z
-webUrl: "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html"
+excerpt: "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ..."
+publishedDateTime: 2020-06-04T00:00:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Autos
+  - Machine Learning
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
-    title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
-
-secured: "3JXyB1rovFTrjI5DIsClqZM6H8JYqLQkYE+uf5LSm3OqLfbDSonQshmcc/5et44f+8MdR/Ii70SBrOhWPlzBgxQexSdexCLcUfU5ycE2rd+CWVIAgMpuv2H7Ywpovp0ort/n3dAEvMqTkrv1p0B1OI8fDN1PcGF+8WWY+nwRQvhCRvrIkSk+9z2Up15OpHuKmCZRgJZO09ij/CzQfDu7/BbyhZg/nnGJtCoKizjngVF8NHL5JMnI3oa05scHNUWdedp0rN4VQFw8eCfgPnBKb6QElVVGUHAR9cclU917DWpTShCuMrABcxPCJR+170EYUFC5wdFoUFvoCkXZ+m8TaQ==;VjGYWQDPqcs7YsFJ7gp++A=="
+secured: "gD4OFB9ZE9B3+KSkJU3DSABCMR+fLXWswWtEdQyl7tQEnn3NG+xCEba3phnG0JRghrXmITvI9Y1h3zWUSI+voG9nGzfEZepZ0p59PrSksjYfRgDa02JL+T+S/XUpJJfz5qn3/hwpIaX7F3pleGv/G3tbzQyWVP3veRGv1HIv4NpNLQ7PtogsOArz+HAE0IDSZa4iKTqW9ECWliBdJYYDS5hohveQbF+w2RbuHP+Tl4zzzTtmE/62B7qpVQSIPpY2FXwfJwhtFg7N/+oCdHWkqdfHC7PwhVwspnoOnh8RsLSluEflsKTu56jobLmOJDC6XPogN39Q/YAbhXbimu6Dtg==;KGYnTTO6jDRn2uo3wrJt4w=="
 ---
 

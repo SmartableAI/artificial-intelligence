@@ -84,6 +84,20 @@ related:
       name: News.com.au
       domain: news.com.au
     quality: 39
+  - title: "7-Eleven Australia deploys facial recognition on customer feedback tablets"
+    excerpt: "Eleven Australia is deploying facial recognition technology to all 700 stores nationwide as part of a customer feedback capture mechanism, but says the technology is “not used for any other purpose”."
+    publishedDateTime: 2020-06-22T04:28:00Z
+    webUrl: "https://www.itnews.com.au/news/7-eleven-australia-deploys-facial-recognition-on-customer-feedback-tablets-549538"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/crn-7-eleven_shopfront.jpg"
+        width: 460
+        height: 285
+        isCached: true
   - title: "SAFR Facial Recognition now runs on AXIS Camera Application Platform (ACAP)"
     excerpt: "SEATTLE — June 18, 2020 — SAFR from RealNetworks, Inc. (NASDAQ: RNWK), has announced SAFR ® Inside, a new app component of its Facial Recognition and Computer Vision Platform that runs on ACAP enabled cameras with edge processing capabilities."
     publishedDateTime: 2020-06-18T16:38:00Z

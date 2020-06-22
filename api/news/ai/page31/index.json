@@ -2,6 +2,243 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-05-19-microsoft-launches-new-tools-for-building-fairer-machine-learning-models.md",
+      "title": "Microsoft launches new tools for building fairer machine learning models",
+      "excerpt": "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s",
+      "webUrl": "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/",
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-452481532.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Microsoft launches new tools for building fairer machine learning models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/amp/",
+      "publishedDateTime": "2020-05-19T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure.md",
+      "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
+      "excerpt": "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,",
+      "webUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/",
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?w=1024",
+          "width": 1024,
+          "height": 652,
+          "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/amp/",
+      "publishedDateTime": "2020-05-19T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-azure-synapse-link-anchors-microsofts-new-big-data-analytics-capabilities.md",
+      "title": "Azure Synapse Link anchors Microsoft’s new big data analytics capabilities",
+      "excerpt": "During its Build 2020 conference, Microsoft announced a number of products targeting enterprises engaged in big data, including Azure Synapse Linke.",
+      "webUrl": "https://venturebeat.com/2020/05/19/azure-synapse-link-anchors-microsoft-big-data-analytics-capabilities/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Azure Synapse Link anchors Microsoft’s new big data analytics capabilities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-builds-openais-dream-system-an-azure-supercomputer-that-ranks-among-top-5-in-the-world.md",
+      "title": "Microsoft builds OpenAI’s ‘dream system,’ an Azure supercomputer that ranks among top 5 in the world",
+      "excerpt": "Microsoft says it has created one of the world’s top supercomputers for the exclusive use of OpenAI, the San Francisco-based artificial intelligence company pursuing breakthroughs in",
+      "webUrl": "https://www.geekwire.com/2020/microsoft-builds-openais-dream-system-azure-supercomputer-rank-among-top-5-world/",
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/MSFT-Nadella-OpenAI-Altman.jpg",
+          "width": 630,
+          "height": 423,
+          "title": "Microsoft builds OpenAI’s ‘dream system,’ an Azure supercomputer that ranks among top 5 in the world",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-builds-openais-dream-system-azure-supercomputer-rank-among-top-5-world/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-builds-openais-dream-system-azure-supercomputer-rank-among-top-5-world/amp/",
+      "publishedDateTime": "2020-05-19T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-debuts-whitenoise-an-ai-toolkit-for-differential-privacy.md",
+      "title": "Microsoft debuts WhiteNoise, an AI toolkit for differential privacy",
+      "excerpt": "Microsoft debuted a number of privacy- and fairness-focused enhancements to Azure Machine Learning, including the WhiteNoise toolkit.",
+      "webUrl": "https://venturebeat.com/2020/05/19/microsoft-debuts-whitenoise-an-ai-toolkit-for-differential-privacy/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft debuts WhiteNoise, an AI toolkit for differential privacy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-azure-machine-learning-gets-responsible-ml-innovations-and-more.md",
       "title": "Azure Machine Learning gets Responsible ML innovations and more",
       "excerpt": "Microsoft has announced new capabilities to its cloud-based machine learning platform. A new project to advance machine teaching methods has also been released in the form of a public preview.",
@@ -1065,224 +1302,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-is-integrating-azure-ai-into-sonys-smart-camera-sensors.md",
-      "title": "Microsoft is integrating Azure AI into Sony’s smart camera sensors",
-      "excerpt": "The two companies plan to embed Microsoft Azure AI capabilities onto Sony's new intelligent vision sensors, which were recently unveiled.",
-      "webUrl": "https://www.siliconrepublic.com/machines/microsoft-azure-sony-smart-camera-sensors-ai",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2020/05/microsoft-1.png",
-          "width": 1200,
-          "height": 900,
-          "title": "Microsoft is integrating Azure AI into Sony’s smart camera sensors",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-azure-hosted-ai-for-finding-code-defects-emitted-but-does-it-work.md",
-      "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
-      "excerpt": "Altran – in association with Microsoft – has pushed out an open source project to find code defects via AI whenever you commit code. It is easy to see why Microsoft is keen. T",
-      "webUrl": "https://www.theregister.co.uk/2020/05/19/azure_hosted_ai_for_finding_code/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/05/18/codedefect.jpg",
-          "width": 800,
-          "height": 408,
-          "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/19/azure_hosted_ai_for_finding_code/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/19/azure_hosted_ai_for_finding_code/",
-      "publishedDateTime": "2020-05-19T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-are-ai-powered-killer-robots-inevitable.md",
-      "title": "Are AI-Powered Killer Robots Inevitable?",
-      "excerpt": "Military scholars warn of a “battlefield singularity,” a point at which humans can no longer keep up with the pace of conflict.",
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-military-robots/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ebefa5288ead7be95a5c6c2/master/pass/Biz-robotskull-476996566.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Are AI-Powered Killer Robots Inevitable?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-military-robots/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-military-robots/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-as-machines-get-smarter-how-will-we-relate-to-them.md",
-      "title": "As Machines Get Smarter, How Will We Relate to Them?",
-      "excerpt": "My theory of robot mind was vaporized, replaced by a feeling of unease: As AI grows more capable and assertive, how will we relate to it? Generally speaking, people adapt well to new technologies. We steer hunks of speeding metal and communicate via tiny icons with élan.",
-      "webUrl": "https://www.wired.com/story/as-machines-get-smarter-how-will-we-relate-to-them/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec31a45d58e99fafced809d/master/pass/How-We-Relate-to-AI.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "As Machines Get Smarter, How Will We Relate to Them?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/as-machines-get-smarter-how-will-we-relate-to-them/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/as-machines-get-smarter-how-will-we-relate-to-them/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-is-the-brain-a-useful-model-for-artificial-intelligence.md",
-      "title": "Is the Brain a Useful Model for Artificial Intelligence?",
-      "excerpt": "In the summer of 2009, the Israeli neuroscientist Henry Markram strode onto the TED stage in Oxford, England, and made an immodest proposal: Within a decade, he said, he and his colleagues would build a complete simulation of the human brain inside a supercomputer.",
-      "webUrl": "https://www.wired.com/story/brain-model-artificial-intelligence/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Is the Brain a Useful Model for Artificial Intelligence?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/brain-model-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/brain-model-artificial-intelligence/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,53 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-06-03-bbc-testing-beeb-ai-voice-assistant-with-windows-insiders.md",
-      "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
-      "excerpt": "The Beeb AI assistant aims to help users in the UK by navigating BBC services and access BBC content. There are no plans to build a device to rival Amazon Echo or Google Home, alt",
-      "webUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570815849/itpro/2017/01/voice_assistantbigstock.jpg",
-          "width": 900,
-          "height": 592,
-          "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders?amp",
-      "publishedDateTime": "2020-06-03T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-02-dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion.md",
       "title": "Dell Technologies rolls out systems for HPC, AI workloads leveraging VMware's Bitfusion",
       "excerpt": "Dell Technologies is betting that integrated systems, more efficient use of GPUs and the ability run AI workloads within VMware environments will boost AI workloads.",
@@ -1258,6 +1211,53 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie.md",
+      "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
+      "excerpt": "What's Microsoft's head of Cloud and AI been up to lately? What is he most excited about at Build 2020 and beyond? I asked and ScottGu (sort of) answered.",
+      "webUrl": "https://www.zdnet.com/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/20/9e85075f-4425-4576-995a-976a4acc1b40/guthriewhereareyou.jpg",
+          "width": 1071,
+          "height": 728,
+          "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
+      "publishedDateTime": "2020-05-20T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

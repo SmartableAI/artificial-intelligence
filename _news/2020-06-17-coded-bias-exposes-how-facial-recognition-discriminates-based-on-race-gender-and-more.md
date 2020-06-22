@@ -77,6 +77,20 @@ related:
       name: News.com.au
       domain: news.com.au
     quality: 39
+  - title: "7-Eleven Australia deploys facial recognition on customer feedback tablets"
+    excerpt: "Eleven Australia is deploying facial recognition technology to all 700 stores nationwide as part of a customer feedback capture mechanism, but says the technology is “not used for any other purpose”."
+    publishedDateTime: 2020-06-22T04:28:00Z
+    webUrl: "https://www.itnews.com.au/news/7-eleven-australia-deploys-facial-recognition-on-customer-feedback-tablets-549538"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 37
+    images:
+      - url: "https://i.nextmedia.com.au/News/crn-7-eleven_shopfront.jpg"
+        width: 460
+        height: 285
+        isCached: true
   - title: "Portland delays action on facial recognition ban as it kicks off review of police practices"
     excerpt: "City councilors postponed a vote to ban the use of facial recognition technology by municipal employees until July as they kicked off a wider review of police practices after massive protests over racism and police brutality."
     publishedDateTime: 2020-06-17T22:10:00Z

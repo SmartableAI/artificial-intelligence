@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-22-10-wonderful-examples-of-using-artificial-intelligence-ai-for-good.md",
+      "title": "10 Wonderful Examples Of Using Artificial Intelligence (AI) For Good",
+      "excerpt": "There are many ways artificial intelligence can be used for good and to help solve some of the world’s biggest problems. Many researchers and organizations are prioritizing projects where artificial intelligence can be used for good.",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef030968548c80006be69fb%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": "10 Wonderful Examples Of Using Artificial Intelligence (AI) For Good",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/amp/",
+      "publishedDateTime": "2020-06-21T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-robot-divers-could-use-artificial-intelligence-to-save-coral-reefs-noaa.md",
+      "title": "Robot Divers Could Use Artificial Intelligence To Save Coral Reefs: NOAA",
+      "excerpt": "While scientists have succeeded at restoring some coral reefs, the job is too vast for humans alone, acording to a NOAA reef restoration manager.",
+      "webUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/",
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148857837%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": "Robot Divers Could Use Artificial Intelligence To Save Coral Reefs: NOAA",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/amp/",
+      "publishedDateTime": "2020-06-21T21:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-type-x-armored-combat-robot-equipped-for-unmanned-convoy-protection.md",
       "title": "Type-X armored combat robot equipped for unmanned convoy protection",
       "excerpt": "Estonia-based Milrem Robotics and Belgium's John Cockerill Defense have unveiled Milrem's Type-X Robotic Combat Vehicle. Based on a modular design and equipped with the Cockerill Protected Weapons Station Generation II (CPWS II) turret,",
@@ -1011,99 +1105,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments.md",
-      "title": "Five Reasons For Financial Institutions To Consider AI-Driven Automation Investments",
-      "excerpt": "Retail and commercial financial institutions (FIs) are feeling enormous pressure to embrace and adopt artificial intelligence as industry competition grows.",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148110303%2F0x0.jpg",
-          "width": 1200,
-          "height": 912,
-          "title": "Five Reasons For Financial Institutions To Consider AI-Driven Automation Investments",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/amp/",
-      "publishedDateTime": "2020-06-19T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-artificial-intelligence-ai-cars-and-light-trucks-market-analysis-on-current-trends-by-2025.md",
-      "title": "Artificial Intelligence (AI) Cars and Light Trucks Market - Analysis on Current Trends by 2025",
-      "excerpt": "The Artificial Intelligence (AI) Cars and Light Trucks Market 2020 report is a comprehensive, professional and in-depth research of market that delivers significant data for those who are seeking information for the Artificial Intelligence (AI) Cars and Light Trucks industry.",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-cars-and-light-trucks-market---analysis-on-current-trends-by-2025-2020-06-19?mod=mw_quote_news",
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Cars and Light Trucks Market - Analysis on Current Trends by 2025",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-19T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

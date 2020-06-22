@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-18T03:58:00Z
 webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-bargains---new-insights-post-covid-impact-analysis-microsoft-ibm-bluescape-cognitivescale-2020-06-17"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     height: 630
     isCached: true
     title: "Cognitive Collaboration Market Bargains - New Insights Post Covid Impact Analysis | Microsoft, IBM, Bluescape, CognitiveScale"
-
-related:
-  - title: "Artificial Intelligence (AI) in Medical Market Size, Rising Impact of COVID-19, Share, Trends, Growth, Opportunities and Top Key Players 2024"
-    excerpt: "Manhattan, New York, Analytical Research Cognizance: The report Artificial Intelligence (AI) in Medical Market provides a concise analysis on the recent market trends. The report further includes statistics,"
-    publishedDateTime: 2020-06-17T12:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-size-rising-impact-of-covid-19-share-trends-growth-opportunities-and-top-key-players-2024-2020-06-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "iks1sZb7H/4Qg3ut8uWwSwUSE2i47mw5DTASfbtJIPDs2JbblVUKThMjzW1ASVlRq2MsgK9WZhdO9NchFkftEcYScMLNOd74AabFyXUZs3f0B5owcmzea12MdBV9r0YVA7T1Mg0go1rRMJIWXFVfKtl/4rpf4/XpyJEEy4wYhk4jeDsUBSg988LLCWYLUMxQaAhqL+nr/pf1sFoVGrNrOsc1ZG9YJyasWh5oNShxoJyS1sDL4W2r10hqMrXb4jnm74IEhR90b9dDyjQ7d7IenDUXmwEyjI8Au9/l9xKnAHKQus8101vk1kPDY484j3ixExZ3pv7NYXVg63CdM+iFMQ==;GLAL9gb7LIyhvB3zY1Apaw=="
 ---

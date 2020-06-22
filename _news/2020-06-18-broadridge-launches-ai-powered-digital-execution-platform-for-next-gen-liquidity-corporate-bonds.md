@@ -59,20 +59,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 33
-  - title: "Broadridge Creates New AI-Driven Digital Execution Platform to Bring Next-Generation Liquidity to Corporate Bonds"
-    excerpt: "PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), a global fintech leader, today announced that its new AI-driven corporate bond"
-    publishedDateTime: 2020-06-17T11:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/broadridge-creates-new-ai-driven-digital-execution-platform-to-bring-next-generation-liquidity-to-corporate-bonds-301078341.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
-    images:
-      - url: "https://mma.prnewswire.com/media/326728/broadridge_financial_solutions.jpg?p=facebook"
-        width: 2697
-        height: 1414
-        isCached: true
 
 secured: "nP/PdL6Gjf1+W8/S0MFBmfcl88woMnGw4lgAuIwrbkyZvo3ifQg1ZzK3AUTAdktgOrpV6VfC4FofrR8gxjht5SEOLWQsFAFI8MmQREVjuAjCntx79j+gGNIT7z2hlxJ/q6aFKAIHkazyoPaJniSd5EM2zXoWdyWH5ZiM6Te8sVXeG5YU9A6T/lmONF9F6umJGhETI+WEU+cEOhjZgeC/TlMPmNRAOLd3u0JJQeTJPpWfWVlGnBHin4keVLVzO+AzrUOZYVqlR4vEbEYW6EBgbH6HJEdhk2Q3VpJmZNDU3IGYm9aJnRYbUhCs4nWvGJI35PKvFqQiy5HQMYeua3INMQ==;bg50iJcmEy/BYv5RaXLB9w=="
 ---

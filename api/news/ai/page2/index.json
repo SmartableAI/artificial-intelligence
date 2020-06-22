@@ -2,6 +2,90 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-19-google-quietly-launches-an-ai-powered-pinterest-rival-named-keen.md",
+      "title": "Google quietly launches an AI-powered Pinterest rival named Keen",
+      "excerpt": "On Keen [...] you say what you want to spend more time on, and then curate content from the web and people you trust to help make that happen,” writes Adams in a blog post. Y",
+      "webUrl": "https://www.theverge.com/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning",
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/oMLxZlGuSVMylzpxK22gnkGl_Vg=/0x0:1000x502/1400x933/filters:focal(420x171:580x331):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66956670/keen.0.png",
+          "width": 1000,
+          "height": 502,
+          "title": "Google quietly launches an AI-powered Pinterest rival named Keen",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning",
+      "publishedDateTime": "2020-06-19T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-add-artificial-intelligence-expert-to-your-resume-after-this-35-training.md",
+      "title": "Add 'Artificial Intelligence Expert' to your résumé after this $35 training",
+      "excerpt": "Artificial intelligence experts. Many of today's most exciting technologies have artificial intelligence to thank. Think personalized Netflix queues, self-driving cars, and this app that blurs out the faces of protestors.",
+      "webUrl": "https://mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale/",
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F19%252F88%252F2240500266b74523b0293e3e05db6d76.089f6.jpg%252F1200x630.jpg?signature=G-7BbAQ99OQQq5C9x57kGAJsLIs=",
+          "width": 1200,
+          "height": 630,
+          "title": "Add 'Artificial Intelligence Expert' to your résumé after this $35 training",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale.amp",
+      "publishedDateTime": "2020-06-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-ai-recreates-the-painting-techniques-of-famous-artists.md",
       "title": "AI recreates the painting techniques of famous artists",
       "excerpt": "Apart from the virtual history lessons, this could be useful for illustrating general painting techniques to relative newcomers — say, starting from the background and working ‘closer’ to the viewer.",
@@ -90,6 +174,53 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-why-qualcomm-will-be-big-in-robotics-the-next-big-it-wave.md",
+      "title": "Why Qualcomm Will Be Big in Robotics, the Next Big IT Wave",
+      "excerpt": "Qualcomm has an impressive robotics offering in its RB5 robotics platform. The technology, when applied to a full product, has the capability of redefining what an autonomous machine, either fixed or mobile,",
+      "webUrl": "https://www.eweek.com/innovation/why-qualcomm-will-be-big-in-robotics-the-next-big-it-wave",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/Human.vs.robot_1.jpg?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": "Why Qualcomm Will Be Big in Robotics, the Next Big IT Wave",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T18:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -231,6 +362,44 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-qualcomm-launches-5g-ai-enabled-robotics-platform.md",
+      "title": "Qualcomm launches 5G, AI-enabled robotics platform",
+      "excerpt": "Qualcomm Technologies released the Qualcomm Robotics RB5 platform ... fifth-generation Qualcomm AI Engine that delivers 15 tera operations per second of artificial intelligence (AI) performance for running complex AI and deep learning workloads.",
+      "webUrl": "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/",
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gpsworld.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-Development-Kit-W-300x274.jpg",
+          "width": 300,
+          "height": 274,
+          "title": "Qualcomm launches 5G, AI-enabled robotics platform",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/amp/",
+      "cdnAmpWebUrl": "https://www-gpsworld-com.cdn.ampproject.org/c/s/www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/amp/",
+      "publishedDateTime": "2020-06-18T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GPS World",
+        "domain": "gpsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -919,7 +1088,7 @@
       "title": "Self-Driving Cars Will Wipe Out Drive-By Shootings, Kind Of",
       "excerpt": "All in all, a car provides several crucial elements in the performance of a drive-by shooting. The car is a kind of protector. It helps to disguise or hide the perpetrator. A targeted person does not necessarily realize that the car holds someone desiring to shoot at them.",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars-will-wipe-out-drive-by-shootings-kind-of/",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1184,194 +1353,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-djay-pro-uses-ai-to-turn-songs-into-acapellas-and-instrumentals-on-the-fly.md",
-      "title": "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly",
-      "excerpt": "Algoriddim leveraged AI for an update to its djay Pro software a couple years back, improving its Automix capability. It seems the company has been developing some more interesting uses since then with today’s launch of Neural Mix,",
-      "webUrl": "https://www.engadget.com/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F6166e7f0-b0b3-11ea-befc-1b5b61691050&client=amp-blogside-v2&signature=2f23a148969e4a88bc23ffb15d74a859a99bc761",
-          "width": 600,
-          "height": 350,
-          "title": "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
-      "publishedDateTime": "2020-06-18T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads.md",
-      "title": "Lenovo launches data center servers aimed at AI, analytics workloads",
-      "excerpt": "Lenovo on Thursday launched two new data center servers aimed at supporting AI and analytics workloads ... The ThinkSystem SR860 V2 server also offers GPU support, accommodating four double-wide 300W or eight single-wide GPUs. Lenovo is also rolling ...",
-      "webUrl": "https://www.zdnet.com/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/16/258996ab-9ba2-4444-b563-7d495c021025/lenovo.jpg",
-          "width": 1115,
-          "height": 584,
-          "title": "Lenovo launches data center servers aimed at AI, analytics workloads",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
-      "publishedDateTime": "2020-06-18T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-businesses-put-ai-innovation-on-hold-to-avoid-public-backlash.md",
-      "title": "Businesses put AI innovation on hold to avoid public backlash",
-      "excerpt": "Several significant barriers to building AI embedded with ethical principles are contributing to swelling public distrust in automated and data-driven technologies and software, according to the Centre for Data Ethics and Innovation (CDEI). A number of UK ...",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356122/significant-public-distrust-deterring-businesses-from",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570815804/itpro/2017/05/sad_robot_ai.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "Businesses put AI innovation on hold to avoid public backlash",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356122/significant-public-distrust-deterring-businesses-from?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/356122/significant-public-distrust-deterring-businesses-from?amp",
-      "publishedDateTime": "2020-06-18T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-baidu-breaks-off-an-ai-alliance-amid-strained-us-china-ties.md",
-      "title": "Baidu Breaks Off an AI Alliance Amid Strained US-China Ties",
-      "excerpt": "The search giant was the only Chinese member of the Partnership on Artificial Intelligence, a US-led effort to foster collaboration on ethical issues.",
-      "webUrl": "https://www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5eeab8bef435e6f478b289f5/master/pass/business_baidu_1211912901.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Baidu Breaks Off an AI Alliance Amid Strained US-China Ties",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/amp",
-      "publishedDateTime": "2020-06-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

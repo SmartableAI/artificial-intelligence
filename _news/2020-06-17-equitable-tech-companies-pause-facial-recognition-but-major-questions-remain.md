@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/equitable-tech-compa
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/"
 type: article
 quality: 100
-heat: 180
+heat: 160
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     title: "Equitable tech: Companies pause facial recognition, but major questions remain"
 
 related:
-  - title: "Congress, cops and facial recognition: Amazon's pause puts the pressure on"
-    excerpt: "Tech giants are starting to revisit their facial recognition programs, after years of warnings that the surveillance tools posed threats to civil liberties and were riddled with racial and gender bias."
-    publishedDateTime: 2020-06-17T12:03:00Z
-    webUrl: "https://www.cnet.com/news/congress-cops-and-facial-recognition-amazons-pause-puts-the-pressure-on/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/congress-cops-and-facial-recognition-amazons-pause-puts-the-pressure-on/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/congress-cops-and-facial-recognition-amazons-pause-puts-the-pressure-on/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/lTBR9xSaihXw_m_UHtqTwYAqUww=/756x567/2020/06/16/51193253-4ac3-4fac-a2fa-da9b12a875c2/gettyimages-1199003889.jpg"
-        width: 756
-        height: 567
-        isCached: true
   - title: "Podcast: PlayStation 5 details and hesitation over facial recognition"
     excerpt: "Devindra and Cherlynn are joined by Nathan Ingraham to discuss the PlayStation 5's future and potential price, as well as games like \"The Last Of Us II.\""
     publishedDateTime: 2020-06-19T12:36:00Z
@@ -92,22 +76,6 @@ related:
       - url: "https://media.wltx.com/assets/WLTX/images/8aefd0c1-22ee-471e-bae7-44aa717f47a7/8aefd0c1-22ee-471e-bae7-44aa717f47a7_750x422.jpg"
         width: 750
         height: 422
-        isCached: true
-  - title: "Bans on facial recognition are naïve — hold law enforcement accountable for its abuse"
-    excerpt: "If not IBM, Microsoft or Amazon, someone else will sell facial recognition tech to police agencies."
-    publishedDateTime: 2020-06-17T13:00:00Z
-    webUrl: "https://thehill.com/opinion/technology/503070-bans-on-facial-recognition-are-naive-hold-law-enforcement-accountable-for"
-    ampWebUrl: "https://thehill.com/opinion/technology/503070-bans-on-facial-recognition-are-naive-hold-law-enforcement-accountable-for?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/503070-bans-on-facial-recognition-are-naive-hold-law-enforcement-accountable-for?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 52
-    images:
-      - url: "https://thehill.com/sites/default/files/facialrecognition2_getty.jpg"
-        width: 645
-        height: 363
         isCached: true
   - title: "Editorial: Facial recognition software is useful for crime fighting. But it needs rules."
     excerpt: "Log in or Activate your account. Washington County Sheriff's Office Deputy Jeff Talbot demonstrates in February 2019 how his agency used facial recognition software to help solve a crime, at their headquarters in Hillsboro, Ore. The image on the left shows ..."

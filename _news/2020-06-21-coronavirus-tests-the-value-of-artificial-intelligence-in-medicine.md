@@ -25,21 +25,19 @@ images:
     title: "Coronavirus tests the value of artificial intelligence in medicine"
 
 related:
-  - title: "Coronavirus turmoil fuels the rise of AI-powered companies"
-    excerpt: "For the past seven years, a Munich-based firm called riskmethods has tried to interest companies in buying software that allows them to track all their suppliers in a way that minimizes risks in operating globally spread supply chains."
-    publishedDateTime: 2020-06-17T11:12:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-automation-idUSKBN23O1NQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23O1NQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23O1NQ"
+  - title: "The use of artificial intelligence in medicine is growing rapidly"
+    excerpt: "Everyday use of artificial intelligence for health diagnosis could still be years away, but the field is robust right now. \"We still have a lot of unknowns in terms of generalizing and validation of these systems before we can start using them as standard of care,"
+    publishedDateTime: 2020-06-20T13:07:00Z
+    webUrl: "https://www.startribune.com/the-use-of-artificial-intelligence-in-medicine-is-growing-rapidly/571366342/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
+      name: StarTribune
+      domain: startribune.com
+    quality: 39
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200617&t=2&i=1522546452&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5G120"
-        width: 908
-        height: 545
+      - url: "https://stmedia.stimg.co/ows_9d941416-6ff8-4e52-bbb3-d3181f2d9421.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "EgFLRaJdYmTPr1rjVvv6yWUzOcth/F1V4thA0CahfSVs+U48W+IKXf80wyo5kXv5KqDyGpx0DJLpBqSnY+099AmYNJAhTyZkdzsxGn7lmALvFEwnogw6xqOvoz1v0dOQ3+RAGKUlDhEdZLdKZdgW9QYnPSjUNsYll54VVTv0/9A2vhaB/2geU16gbmjnMsR/IO8LC5vq+gxdi6ZxRBf7pGkKbkpvI6fmu5YWhEH+NAwLQKgNbtPKPjyge83EnZR02r50HrdSU7nbSAEDU7ct6CzVbWXrGGqoUt8EVODxY2NIZkgNH5i0P2RnAxH0DcYVEUsmUWaL4ZHLdQrLEwNoL1Wer8S2cBAJZKgD/ybc6J8a6mQO7Ja3RS6EF0k/OydtWYmQQty0kE/mmZqTUXnngDLOXMHC9O9PCJzEI3SEgIgCkvzXz4bzVkiidGNVXBwkYSpS2VYqfpUgVnbZlTbPjWZ7tbfMMynbbsCJHy27gECvnpM7nxG6xLCqUxUUuNkQsW9EB6pZDvl4ZviC9lOI/Q==;UYrKQe8bhjx+5RoEyOXZPw=="

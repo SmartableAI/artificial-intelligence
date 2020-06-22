@@ -2,6 +2,231 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-06-09-learn-now-pay-later-this-startup-teaches-coding-without-upfront-fee.md",
+      "title": "Learn Now, Pay Later: This Startup Teaches Coding, Without Upfront Fee",
+      "excerpt": "And so decide not to opt for upfront loans. Here is where Coding Ninjas, an ed-tech startup that solely focuses on teaching programming, has come in to ensure that its students first secure a job and then pay for the course.",
+      "webUrl": "https://www.entrepreneur.com/article/351648",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591712458-AnkushSinglaCo-founderCodingNinjas.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Learn Now, Pay Later: This Startup Teaches Coding, Without Upfront Fee",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351648",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351648",
+      "publishedDateTime": "2020-06-09T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-artificial-intelligence-chips-market-new-business-opportunities-and-investment-research-report.md",
+      "title": "Artificial Intelligence Chips Market | New Business Opportunities and Investment Research Report",
+      "excerpt": "Latest added Global Artificial Intelligence Chips Market research study by AMA Research offers detailed outlook and elaborates market review till 2025. The market Study is segmented by key regions that are accelerating the mercerization.",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-new-business-opportunities-and-investment-research-report-2020-06-09",
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Chips Market | New Business Opportunities and Investment Research Report",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-utilities-to-streamline-the-creation-and-evaluation-of-automl-algorithms.md",
+      "title": "Utilities to streamline the creation and evaluation of AutoML algorithms.",
+      "excerpt": "AutoML Utils. While machine learning is facing a reproducibility crisis, the problem is exacerbated in the subdiscipline of automated machine learning [1, 2] where the number of p",
+      "webUrl": "https://github.com/microsoft/automl_utils",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://avatars2.githubusercontent.com/u/6154722?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": "Utilities to streamline the creation and evaluation of AutoML algorithms.",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-seeing-results-from-ai-even-during-covid19-recession.md",
+      "title": "Seeing Results From AI, Even During Covid19 Recession",
+      "excerpt": "By leveraging AI solutions, we can bring America back to its former glory, and instead transform the cause of sleepless nights from recession anxiety to the exhaustion of a memorable night out in the city that never sleeps.",
+      "webUrl": "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edf90b7fba0f200069291b4%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": "Seeing Results From AI, Even During Covid19 Recession",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/amp/",
+      "publishedDateTime": "2020-06-09T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-what-to-consider-before-introducing-ai-to-your-recruiting-process.md",
+      "title": "What To Consider Before Introducing AI To Your Recruiting Process",
+      "excerpt": "Before deciding to implement an AI recruiting platform, consider what business problem you’re trying to solve and how this technology would fit into your long-term business strategy.",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/06/09/what-to-consider-before-introducing-ai-to-your-recruiting-process/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede5c3f718e880006f257cc%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "What To Consider Before Introducing AI To Your Recruiting Process",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/06/09/what-to-consider-before-introducing-ai-to-your-recruiting-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/06/09/what-to-consider-before-introducing-ai-to-your-recruiting-process/amp/",
+      "publishedDateTime": "2020-06-09T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-google-has-made-it-simple-for-anyone-to-tap-into-its-image-recognition-ai.md",
       "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
       "excerpt": "A lot of image recognition is about identifying patterns ... data to the frequency of specific brands of cars. Hopefully AutoML Vision will energize more projects like these.",
@@ -455,6 +680,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-09-cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization.md",
+      "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
+      "excerpt": "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others.",
+      "webUrl": "https://www.prnewswire.com/news-releases/cvpr-2020-features-microsoft-ceo--svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-301072534.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/462374/IEEE_Computer_Society_Logo.jpg?p=facebook",
+          "width": 597,
+          "height": 314,
+          "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-eswin-raises-283m-to-boost-chip-production-in-china.md",
       "title": "Eswin raises $283M to boost chip production in China",
       "excerpt": "Beijing Eswin Computing Technology, a Chinese startup that supplies semiconductor design and solution provider, has raised $283 million in a new financing round at a time when the world’s most populous nation is looking to cut its reliance on the U.",
@@ -498,44 +761,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization.md",
-      "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
-      "excerpt": "The Computer Vision and Pattern Recognition (CVPR) 2020 Conference, a virtual event taking place next week from 14 – 19 June, explores the commercial trends igniting explosive investment and growth in artificial intelligence (AI) and machine learning.",
-      "webUrl": "https://apnews.com/PR Newswire/f3fdc84b253edfd926bdfcce1886ffb4",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1107,222 +1332,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops.md",
-      "title": "Here’s 5 ways to use AI as a ‘bad apple detector’ for cops",
-      "excerpt": "When an apple begins to rot it creates a chemical called ethylene. If that apple happens to be in a barrel with a bunch of other apples, and the rotting causes its skin to break, the ethylene will immediately cause the other apples to start rotting.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/police-lights-sirens-796x398.png",
-          "width": 796,
-          "height": 398,
-          "title": "Here’s 5 ways to use AI as a ‘bad apple detector’ for cops",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
-      "publishedDateTime": "2020-06-08T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-the-21-smartest-ai-scientists-working-at-google-deepmind.md",
-      "title": "The 21 smartest AI scientists working at Google DeepMind",
-      "excerpt": "Background: Prior to joining DeepMind just nine months ago, Martin Riedmiller worked on robotics and autonomous learning systems at the University of Freiberg in Germany. Background: Shane Legg ...",
-      "webUrl": "https://www.businessinsider.in/tech/the-21-smartest-ai-scientists-working-at-google-deepmind/slidelist/51381299.cms",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/msid-51381300,width-640,resizemode-4,imgsize-46648/21-charles-blundell.jpg",
-          "width": 640,
-          "height": 480,
-          "title": "The 21 smartest AI scientists working at Google DeepMind",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
-      "title": "Senator fears Clearview AI facial recognition could be used on protesters",
-      "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
-      "webUrl": "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
-      "heat": 505,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/9iSXtLFKNXgiNKMOB6uefX3betU=/756x567/2020/06/04/6e5b36d7-6f9d-4afc-912e-38a007947e55/sf.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Senator fears Clearview AI facial recognition could be used on protesters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
-      "publishedDateTime": "2020-06-08T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-your-company-needs-ai-training-heres-how-to-get-it-for-free.md",
-      "title": "Your company needs AI training: Here's how to get it for free",
-      "excerpt": "Just because you don't have a large training budget doesn't mean you shouldn't democratize your AI. Here are some ways to get the training your staff needs.",
-      "webUrl": "https://www.techrepublic.com/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/08/c72c3495-4430-4506-a732-ccffd727714b/resize/1200x/38c546efe64f75f3cbb60431c1a91006/istock-1183313700.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": "Your company needs AI training: Here's how to get it for free",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
-      "publishedDateTime": "2020-06-08T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-durr-brings-artificial-intelligence-to-the-paint-shop.md",
-      "title": "Durr brings artificial intelligence to the paint shop",
-      "excerpt": "The automotive industry is a key driver and user of artificial intelligence (AI), which is fast percolating to different work areas. Now German major Durr has developed Advanced Analytics, the first market-ready AI application for paint shops.",
-      "webUrl": "https://www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/cc8e20a9-9966-44d0-bbfb-4cae9eefcc8e.jpg",
-          "width": 735,
-          "height": 490,
-          "title": "Durr brings artificial intelligence to the paint shop",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448?amp=1",
-      "cdnAmpWebUrl": "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448?amp=1",
-      "publishedDateTime": "2020-06-08T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autocar Pro",
-        "domain": "autocarpro.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,11 +2,179 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-18-is-covid-19-stymying-retails-intelligence-and-making-ai-more-critical-than-ever.md",
+      "title": "Is Covid-19 Stymying Retail’s Intelligence – And Making AI More Critical Than Ever?",
+      "excerpt": "With consumer purchase behavior changing dramatically due to pandemic-enforced lifestyle changes, artificial intelligence and data are hyper-critical. Can retailers adjusting to forced closures and new safety protocols also foster these technologies?",
+      "webUrl": "https://www.forbes.com/sites/bryanpearson/2020/06/18/is-covid-19-stymying-retails-intelligence--and-making-ai-more-critical-than-ever/",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb921ef8b43d000679f00e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Is Covid-19 Stymying Retail’s Intelligence – And Making AI More Critical Than Ever?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bryanpearson/2020/06/18/is-covid-19-stymying-retails-intelligence--and-making-ai-more-critical-than-ever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanpearson/2020/06/18/is-covid-19-stymying-retails-intelligence--and-making-ai-more-critical-than-ever/amp/",
+      "publishedDateTime": "2020-06-18T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-10-robotics-stocks-on-the-technological-cutting-edge.md",
+      "title": "10 Robotics Stocks on the Technological Cutting Edge",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Robotics stocks offer an attractive source of opportunities for growth",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/10-robotics-stocks-cutting-edge-1029322986",
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/10-robotics-stocks-cutting-edge-1029322986",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/10-robotics-stocks-cutting-edge-1029322986",
+      "publishedDateTime": "2020-06-18T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace.md",
+      "title": "Eskalera creates AI-based Inclusion Index to measure a better workplace",
+      "excerpt": "Eskalera is unveiling the Inclusion Index, a new system for organizing a company that encourages and quantifies an inclusive culture.",
+      "webUrl": "https://venturebeat.com/2020/06/18/eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Esk_Product_Promotion-Ratio.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 677,
+          "title": "Eskalera creates AI-based Inclusion Index to measure a better workplace",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/18/eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace/amp/",
+      "publishedDateTime": "2020-06-18T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-serbian-parliamentary-vote-campaign-taps-greek-beaches-chinese-robots.md",
+      "title": "Serbian parliamentary vote campaign taps Greek beaches, Chinese robots",
+      "excerpt": "On Monday June 15, President Vučić visited the Center for Robotics and Artificial Intelligence in Education (CRVIO) in Belgrade, holding a public meeting with a humanoid robot made in China, called Ema. They held a conversation in Serbian. Vučić ...",
+      "webUrl": "https://globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://globalvoices.org/wp-content/uploads/2020/06/20200516-Aleksandar-Vucic-online-rally-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Serbian parliamentary vote campaign taps Greek beaches, Chinese robots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/amp/",
+      "cdnAmpWebUrl": "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/amp/",
+      "publishedDateTime": "2020-06-18T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Voices Online",
+        "domain": "globalvoices.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-self-driving-cars-will-wipe-out-drive-by-shootings-kind-of.md",
       "title": "Self-Driving Cars Will Wipe Out Drive-By Shootings, Kind Of",
       "excerpt": "All in all, a car provides several crucial elements in the performance of a drive-by shooting. The car is a kind of protector. It helps to disguise or hide the perpetrator. A targeted person does not necessarily realize that the car holds someone desiring to shoot at them.",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars-will-wipe-out-drive-by-shootings-kind-of/",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -646,7 +814,7 @@
       "title": "Machine learning in Palo Alto firewalls adds new protection for IoT, containers",
       "excerpt": "OS firewall operating system, the firewalls are better equipped to defend IoT devices and containers, whether on-prem or in the cloud.",
       "webUrl": "https://www.networkworld.com/article/3562705/machine-learning-in-palo-alto-firewalls-adds-new-protection-for-iot-containers.html",
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -961,195 +1129,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show.md",
-      "title": "Microsoft pushed its facial recognition to federal agencies, emails show",
-      "excerpt": "The released documents come a week after Microsoft announced it would stop selling facial recognition to police.",
-      "webUrl": "https://www.cnet.com/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/",
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/2Q_ri_ZUN6kPKtzEKdXD3Zr0LpA=/756x567/2019/01/28/1f3bfd0e-d868-48de-a97a-eb86ec05927b/microsoft-logo-msft-1090.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Microsoft pushed its facial recognition to federal agencies, emails show",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/",
-      "publishedDateTime": "2020-06-17T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says.md",
-      "title": "Amazon owes answers on facial recognition moratorium, lawmaker says",
-      "excerpt": "A House representative mistaken by Rekognition as a criminal is questioning CEO Jeff Bezos about Amazon's one-year pause on facial recognition.",
-      "webUrl": "https://www.cnet.com/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/LRqa-J9lGENDIqzrmO3X_JuHePE=/756x567/2020/01/17/24f77466-4cd0-4018-b436-90846e478c80/amazon-ces-2020-booth-2.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Amazon owes answers on facial recognition moratorium, lawmaker says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
-      "publishedDateTime": "2020-06-17T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-deep-learnings-climate-change-problem.md",
-      "title": "Deep Learning’s Climate Change Problem",
-      "excerpt": "The “bigger is better” ethos that currently dominates the AI research agenda threatens to inflict major environmental damage in the years ahead.",
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea37fddb3b680006a1e6bc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1024%26cropY1%3D50%26cropY2%3D626",
-          "width": 1024,
-          "height": 577,
-          "title": "Deep Learning’s Climate Change Problem",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/amp/",
-      "publishedDateTime": "2020-06-17T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-facebook-open-sources-ai-for-clinical-trial-eligibility.md",
-      "title": "Facebook open-sources AI for clinical trial eligibility",
-      "excerpt": "Facebook researchers open-sourced a family of models that parse, extract, and transform clinical trial data to make it easier to understand.",
-      "webUrl": "https://venturebeat.com/2020/06/17/facebook-open-sources-ai-for-clinical-trial-eligibility/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook open-sources AI for clinical trial eligibility",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/17/facebook-open-sources-ai-for-clinical-trial-eligibility/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/facebook-open-sources-ai-for-clinical-trial-eligibility/amp/",
-      "publishedDateTime": "2020-06-17T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

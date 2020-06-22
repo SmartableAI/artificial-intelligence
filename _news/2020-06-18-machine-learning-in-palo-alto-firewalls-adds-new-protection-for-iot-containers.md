@@ -8,7 +8,7 @@ ampWebUrl: "https://www.networkworld.com/article/3562705/machine-learning-in-pal
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3562705/machine-learning-in-palo-alto-firewalls-adds-new-protection-for-iot-containers.amp.html"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     height: 800
     isCached: true
     title: "Machine learning in Palo Alto firewalls adds new protection for IoT, containers"
-
-related:
-  - title: "Palo Alto Networks debuts its machine learning-powered next-generation firewall"
-    excerpt: "Network security platform provider Palo Alto Networks Inc. is expanding its product portfolio with the launch of what it says is the world’s first machine learning-powered Next-Generation Firewall. In addition,"
-    publishedDateTime: 2020-06-17T12:15:00Z
-    webUrl: "https://siliconangle.com/2020/06/17/palo-alto-networks-debuts-machine-learning-powered-next-generation-firewall/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/Palo-Alto-Networks-ML-Powered-NGFW.jpg"
-        width: 976
-        height: 510
-        isCached: true
 
 secured: "kjLpf/rGigD0P09xrKJo7QiVu5Ai0GNIi+BNYPLWuu9ScZiWAtP4X3noWTcwcyW4eDf0+LXOsSJ1bwo+R3wcof9PCkereMJDWRpNLZSauW5oje+QTyKUjIbUQd2lg6gbgk8iQaof1D6SamSeDK9VVCwD5Gr51A9T2nJM4C9Nrwbz6aKPhRt7EqVFHitlIhBAd/ny42c/O2xCLKYakNf2jngsWt69hT+QkGctODq6zZzyh/aLonhG9JDOY3wzMfaSKtwzj9C5J+nHDsuiw5FoQpA7xARUw6zif3v0mbllVSF0qr92t1ppi6RwHCakmu4uWpPUJ9gyLgBaf6kZt7OV+QeonNh4uX/Gudt98UOBci1c1VUzXZ3Ng9neCkrOvFOC2w1dWIUfcEVTk6eG5NI/Qz2OAH5BqIo82YeyE2Tjq753Lu/dPwEGTdxfsxxLGHJ0H4EpJTvH1jBaYGkXi3Lqf10PpfSmlM09s183pCh2mG4+sQV+Jr6nVNx1/tKzIWg83gqpqdwyhYwr1RwRaiiXjA==;4l2Oi05eylJk2LIBOqqmkw=="
 ---
