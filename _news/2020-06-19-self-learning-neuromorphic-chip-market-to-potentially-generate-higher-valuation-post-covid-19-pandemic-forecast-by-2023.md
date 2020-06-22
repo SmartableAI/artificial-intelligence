@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing Market Size, Share Research 2020, Business Opportunity, Global Trend, Future Growth, Key Findings and Forecast to 2023"
+    excerpt: "Global \"Natural Language Processing Market\" 2020 Industry research report provides an In-Depth and Professional"
+    publishedDateTime: 2020-06-17T09:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-research-2020-business-opportunity-global-trend-future-growth-key-findings-and-forecast-to-2023-2020-06-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in IoT Market (COVID-19 Impact) 2020- Future Development, Manufacturers, Trends, Share, Size and Forecast"
     excerpt: "Artificial Intelligence in IoT Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence in IoT Market is segmented by Regions/Countries."
     publishedDateTime: 2020-06-17T15:14:00Z

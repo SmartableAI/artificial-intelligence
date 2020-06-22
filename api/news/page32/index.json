@@ -2,6 +2,35 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-05-22-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-projected-to-grow-37-billion-by-2025.md",
+      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Projected to Grow $3.7 billion by 2025",
+      "excerpt": "According to research report \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market by Component, NLP Type, Application (Pattern and Image Recognition, and Auto Coding ...",
+      "webUrl": "https://www.openpr.com/news/2054896/natural-language-processing-nlp-in-healthcare-and-life",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2054896/natural-language-processing-nlp-in-healthcare-and-life",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2054896/natural-language-processing-nlp-in-healthcare-and-life",
+      "publishedDateTime": "2020-05-22T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-week-in-review-design-low-power.md",
       "title": "Week In Review: Design, Low Power",
       "excerpt": "The VectorBlox Accelerator SDK allows developers to code in C/C++ and program neural networks without prior FPGA design experience, can execute models in TensorFlow and the open neural network exchange (ONNX) format, supports Linux and Windows, and ...",
@@ -976,53 +1005,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-ai-chips-in-2020-nvidia-and-the-challengers.md",
-      "title": "AI chips in 2020: Nvidia and the challengers",
-      "excerpt": "Now that the dust from Nvidia's unveiling of its new Ampere AI chip has settled, let's take a look at the AI chip market behind the scenes and away from the spotlight",
-      "webUrl": "https://www.zdnet.com/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2019/04/03/156d6478-5ded-4ada-835a-784899fa6564/abstraction-layer-runai.png",
-          "width": 954,
-          "height": 672,
-          "title": "AI chips in 2020: Nvidia and the challengers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "publishedDateTime": "2020-05-21T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

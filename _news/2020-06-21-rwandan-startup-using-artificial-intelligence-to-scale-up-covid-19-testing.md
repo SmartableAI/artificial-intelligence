@@ -5,7 +5,7 @@ excerpt: "As the world awaits medical breakthroughs to understand and curb the C
 publishedDateTime: 2020-06-21T22:19:00Z
 webUrl: "https://www.newtimes.co.rw/news/rwandan-startup-using-artificial-intelligence-scale-covid-19-testing"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.newtimes.co.rw/sites/default/files/main/articles/2020/06/21/audace-nakeshimana-the-founder-of-insightiv-illustrates-how-artificial-intelligence-will-work-olivier-mugwiza.jpg"
@@ -41,6 +42,6 @@ related:
         height: 545
         isCached: true
 
-secured: "ute/50G55I8UoIVJxpJvse65ge6vik9d5c5OqLs887+8/H3387Tj2IZQ+h1sdg8G+NRjEMY6miT02b+0XagwR48PscKMh+lqvy0ixbSnMPTsDP0ThhWPZ8W4w+e6YnfjpBVrx/acBVXPPZNpbooA3/HbZDbRlnDjnj11hfER7a1ZyivdzXjDYSh4+iDyU7faREB2XGcOQOsWeE7/p9UbKl7bo08tSdadgKm01mPhIsRJomkb5cEqTbu5Uu79iOho+kUMH3YNWhsZVIp2lfo0CjILSoyqJJxTKpiDv8f8WntkxaUC+QTsOQ1NU16CIm2GzjrJjbfuhTRC9dVTqVGkfA==;3d92SQh1wlFob4wtEkbwIw=="
+secured: "nAicFUtjSKENedgwdKbTCiYXDHtOq8ZMOz7m1uqsY2crSnfXLLIACpcXd73/iSMbaAn3vOT6GIngo1RFrW2QdcmZK/ZykXja9RURE98bVJzUZWBw8E/Nj2Y2MIDNJAid7gKO+PveNp8XNQp1JqoLld1zUKs9VeolqabMUMm4JQlSrAmAz3tg4Q1SBvb92zft0IyP6+PKMbnS4A1L4TubU62PzDAfGQGyLVccagMaHauv+xAtg05E2eDmDlkHAjL7L+sQkkCE5QArciOLU79DvbuwC+7QrgrujUSBunprwUe2/cKxuOedCIvleY1bRVO+hrdI5u6Z+S4ThQG2RkRbyqWZgidToNuqiOswkYkPYSbD+6Nvq9ifPCeqcyka+B7hWgIqV+gJAOAT4Fk3bGZl9yHosWINMBxKlr/LTb5wpn8t0QMk5keudrHTJdAIKmpsAdBttCnHdvparOQcOOgQeQzZytUv8wMH8uRyBbdWS9ec89dqSFZFHWyy9xYxYkNi9OrZccb1/CS2I8BHU6v/1A==;YPFqifZoqZQTPBJeenk59g=="
 ---
 

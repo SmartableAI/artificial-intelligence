@@ -28,6 +28,20 @@ images:
     title: "Artificial Intelligence in Education System Market How COVID 19 Affect Market Growth? Size, Share, Application and Type Forecast 2029"
 
 related:
+  - title: "Natural Language Processing Market Size, Share Research 2020, Business Opportunity, Global Trend, Future Growth, Key Findings and Forecast to 2023"
+    excerpt: "Global \"Natural Language Processing Market\" 2020 Industry research report provides an In-Depth and Professional"
+    publishedDateTime: 2020-06-17T09:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-research-2020-business-opportunity-global-trend-future-growth-key-findings-and-forecast-to-2023-2020-06-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-Learning Neuromorphic Chip Market to Potentially Generate Higher Valuation Post COVID 19 Pandemic | Forecast By 2023"
     excerpt: "The given Market Research Future's latest report on the global self-learning neuromorphic chip market 2020 is an excellent research"
     publishedDateTime: 2020-06-19T14:32:00Z

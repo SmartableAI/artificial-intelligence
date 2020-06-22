@@ -8,7 +8,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/agilox-autonomous-mobile-rob
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/agilox-autonomous-mobile-robots-substantially-saving-co-1592488786-ga.1592494744.html"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     title: "AGILOX Autonomous Mobile Robots are substantially saving costs by applying Artificial Swarm Intelligence"
 
 related:
-  - title: "Slamcore wants to give mobile robots better spatial intelligence"
-    excerpt: "Slamcore is setting out to develop and commercialize AI-powered SLAM algorithms that give robots better positional awareness in any environment."
-    publishedDateTime: 2020-06-17T08:15:00Z
-    webUrl: "https://venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/"
-    ampWebUrl: "https://venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-932632442.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AGILOX Autonomous Mobile Robots are substantially saving costs by applying Artificial Swarm Intelligence"
     excerpt: "Swarm Intelligence (SI) and bio-inspired computing have attracted great interest in almost every area of science and engineering, including robotics, over the last two decades."
     publishedDateTime: 2020-06-17T20:41:00Z
@@ -52,6 +36,15 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 2
+  - title: "Agilox applies artificial swarm intelligence to make ‘substantial’ cost savings"
+    excerpt: "Agilox says its autonomous mobile robots are “substantially saving costs” by applying artificial swarm intelligence. Swarm Intelligence and bio-inspired computing have attracted great interest in"
+    publishedDateTime: 2020-06-17T18:40:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/06/17/agilox-applies-artificial-swarm-intelligence-to-make-substantial-cost-savings/33211/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 0
 
 secured: "PJKnGBRIllsN8n759qTAXAV8CPFMeITR9rvS+LswW1ohg8BlJtyn6Z2/G+JNa45noiJmgBb3myL9DMnwr9964jeC1tJ/QSlK3tYlfO46GuoPrw2P7majer6yWHca8BZlMXdqWRTfoojIIxgo8yjm58tnKTmlbOgLcfY6PyxArapUv0pj327ekaGevHsbajEINKT0Fe4ztqZ48w+GOYYiwN8GIt5PhrgwZZrueMuVGGdoMyrtQKdqcK85j5fKqvvjki9c8UhS04aeZ4N2XeBc89q5UP3awRPv+8c+j7EfneMzL4DaOmvteX28ko/iRsKXP5NmoxEPtKrN3FBA2YfMasxHd+oENtWbAHADi08gPVRs1x+wsy2ewAVfNYglzrTQHaWQMG3avaN4fpucR7v95RoU/kf5CLMulH6rbl00ZBzq69CAcTEW7JwNNQ9QxZ8u1oGBAEcd1WdGhG8ZqjqtaEZ1DkS3FHZzRB7rVYgqQL5lRRrQDgpvsSR7/NuFQaS+SEPrwpr0ueL7E5TsEv/Wjg==;VgI1QoCsGMlNFt/BYvRK+w=="
 ---

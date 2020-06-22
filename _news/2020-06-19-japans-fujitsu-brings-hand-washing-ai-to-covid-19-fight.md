@@ -38,7 +38,7 @@ related:
     provider:
       name: The New Times
       domain: newtimes.co.rw
-    quality: 35
+    quality: 37
     images:
       - url: "https://www.newtimes.co.rw/sites/default/files/main/articles/2020/06/21/audace-nakeshimana-the-founder-of-insightiv-illustrates-how-artificial-intelligence-will-work-olivier-mugwiza.jpg"
         width: 900

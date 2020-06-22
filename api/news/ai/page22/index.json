@@ -2,6 +2,44 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-05-28-artificial-intelligence-is-fuelling-innovation-in-healthcare.md",
+      "title": "Artificial Intelligence is Fuelling Innovation in Healthcare",
+      "excerpt": "Commonly described as the new nervous system of healthcare, Artificial Intelligence (AI) has become a key growth driver in the healthcare industry. According to a study by Allied Market Research ...",
+      "webUrl": "https://www.cxotoday.com/columns/artificial-intelligence-is-fuelling-innovation-in-healthcare/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cxotoday.com/wp-content/uploads/2020/05/Piyush-Gupta.jpg",
+          "width": 600,
+          "height": 450,
+          "title": "Artificial Intelligence is Fuelling Innovation in Healthcare",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CXO Today",
+        "domain": "cxotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-driverless-car-roaming-through-sharjah-community-powered-by-huawei-tech.md",
       "title": "Driverless car roaming through Sharjah community powered by Huawei tech",
       "excerpt": "In partnership with the Ministry of Health and Prevention Al Zahia deployed a fully operational driverless car ... the car incorporates an advanced Artificial Intelligence (AI) ‘brain’ to ...",
@@ -1197,53 +1235,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-the-role-of-augmented-intelligence-in-fighting-against-a-pandemic.md",
-      "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
-      "excerpt": "Augmented intelligence is on track to change the way the world manages a pandemic and the tools it can use to detect and cure potential outbreaks in the future.",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-25-3.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/amp/",
-      "publishedDateTime": "2020-05-27T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

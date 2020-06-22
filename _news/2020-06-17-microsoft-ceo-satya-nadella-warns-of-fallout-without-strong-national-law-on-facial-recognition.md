@@ -310,20 +310,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Why It Matters That Microsoft and Amazon Will No Longer Sell Facial Recognition to Police"
-    excerpt: "The companies say they will halt sales for the technology for a year while Congress comes up with legislation."
-    publishedDateTime: 2020-06-17T08:56:00Z
-    webUrl: "https://www.inc.com/jason-aten/why-it-matters-that-microsoft-amazon-will-no-longer-sell-facial-recognition-to-police.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 30
-    images:
-      - url: "https://www.incimages.com/uploaded_files/image/1024x576/getty_1148006067_431433.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Microsoft president won’t commit to moratorium on sale of facial recognition to federal law enforcement"
     excerpt: "When asked Thursday for a firm answer about selling facial recognition technology to federal law enforcement, Microsoft’s president promised only that his company won’t provide it in scenarios that lead to bias against minorities and women."
     publishedDateTime: 2020-06-18T20:50:00Z

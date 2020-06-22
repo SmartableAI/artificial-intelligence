@@ -1,29 +1,47 @@
 ---
 category: news
-title: "From HAL 9000 to Westworld's Dolores: the pop culture robots that influenced smart voice assistants"
-excerpt: "Last year , nearly one third of Australian adults owned a smart speaker device allowing them to call on 'Alexa' or 'Siri'. Now, with more time spent indoors due to COV"
-publishedDateTime: 2020-06-21T23:53:00Z
-webUrl: "https://menafn.com/1100362683/From-HAL-9000-to-Westworlds-Dolores-the-pop-culture-robots-that-influenced-smart-voice-assistants"
+title: "From HAL 9000 to Westworld’s Dolores: the pop culture robots that influenced smart voice assistants"
+excerpt: "In our paper published in New Media Society, we trace anxiety about smart assistants to a long history of threatening robot voices and narratives in Hollywood. The warm and solicitous female voices of smart assistants contrast with cinematic robot archetypes of the “menacing male” or “monstrous mother”,"
+publishedDateTime: 2020-06-21T20:06:00Z
+webUrl: "https://theconversation.com/from-hal-9000-to-westworlds-dolores-the-pop-culture-robots-that-influenced-smart-voice-assistants-140341"
+ampWebUrl: "https://theconversation.com/amp/from-hal-9000-to-westworlds-dolores-the-pop-culture-robots-that-influenced-smart-voice-assistants-140341"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/from-hal-9000-to-westworlds-dolores-the-pop-culture-robots-that-influenced-smart-voice-assistants-140341"
 type: article
-quality: 25
-heat: 25
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2020-06/21/TC_e56842d7-eimage_story.jpg"
-    width: 1500
-    height: 1000
+  - url: "https://images.theconversation.com/files/341383/original/file-20200612-38691-1o44b26.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+    width: 320
+    height: 213
     isCached: true
-    title: "From HAL 9000 to Westworld's Dolores: the pop culture robots that influenced smart voice assistants"
+    title: "From HAL 9000 to Westworld’s Dolores: the pop culture robots that influenced smart voice assistants"
 
-secured: "v6p/YRVQaDzkvKHcys9iGx98YHimrifDXNqKpC4l/FahOkCNTAQF/g5UutV4RyfGP39vl67fH2/HbyrXYADhLAzSrb+tqHrcj39WIRx9DQHjOPQmNZKQZTmqsaE6v1Zb4aag5gep1P6ed1XumTqmbeJvGW2riqWMYfPJUfpVzIvGcBE9E85tv0GeXqWwEugcD3nabSiipTSW7EPyFg7AeO2aaRhSU3Y7Q+0ziIxTHl5ut2XrttWQLQWMeVQMZ0vhskOOvYrzXuALM/6KnWP6ZiasOZ2iBeGyXz7hoEW1nn2PFabEdNXYBrIssbj9204HyKXB/86ND2sWCMyy4+GSag==;mQDYh01jSUkk0uDMMeNIwQ=="
+related:
+  - title: "From HAL 9000 to Westworld’s Dolores: pop culture robots that influenced smart voice assistants"
+    excerpt: "Two media scholars analysed how Siri, Alexa and other smart voice assistants got their distinctive voices. Their work reveals the consequences of this"
+    publishedDateTime: 2020-06-22T01:15:00Z
+    webUrl: "https://www.miragenews.com/from-hal-9000-to-westworld-s-dolores-pop-culture-robots-that-influenced-smart-voice-assistants/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 27
+    images:
+      - url: "https://www.sydney.edu.au/dam/corporate/images/news-and-opinion/news/2020/june/pris.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg"
+        width: 720
+        height: 900
+        isCached: true
+
+secured: "DRBbmfYx/1/EuqCc6cNuFgoHoxJfBhUOgHmeev4rQfvt3jxHaMrk/05XpWfRyZOQzODoC8wI63Gpio2LXM5QXG+GGmChw1uuhwrR14hBqaU1R+tODVzSir7QNqJZNAxq4O/P/FCTSz2GjtfSWh5TyLcvHDfGmjeMcFh64F0l7YyHQeAQQWycR28Ijip7wOBWgBKJPjqnCQkiz4grIB0zBUlb4NW/Y/JeJOGbjzdnacDw/tqAvCzZNgasCRGqJeHiLnQxPuPAKHsukFayVnkz0TBpKnvKc8D4/4iA8JRPeaqq46xDp8nR1LDn6MdgAii4zHlOu0r58uwrOJwvmhOdEw==;KdOxW6tcR8CXdQIS9ZSPsA=="
 ---
 

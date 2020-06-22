@@ -2,6 +2,35 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-05-26-googles-new-accessibility-features-to-drive-user-momentum.md",
+      "title": "Google's New Accessibility Features to Drive User Momentum",
+      "excerpt": "Alphabet’s GOOGL division Google is making every effort to bolster accessibility features in a bid to strengthen presence among people with cognitive and physical disabilities. This is evident from the latest move of unveiling Action Blocks app for the Android users on the Global Accessibility Awareness Day.",
+      "webUrl": "https://www.nasdaq.com/articles/googles-new-accessibility-features-to-drive-user-momentum-2020-05-26",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/googles-new-accessibility-features-to-drive-user-momentum-2020-05-26?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/googles-new-accessibility-features-to-drive-user-momentum-2020-05-26?amp",
+      "publishedDateTime": "2020-05-26T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-definedcrowd-raises-505-million-for-ai-data-set-curation.md",
       "title": "DefinedCrowd raises $50.5 million for AI data set curation",
       "excerpt": "Seattle-based DefinedCrowd, which describes itself as a “smart” data curation platform, has raised $50.5 million in venture capital.",
@@ -1248,35 +1277,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-insights-into-the-worldwide-deep-learning-chipset-industry-to-2027-featuring-ibm-graphcore-ceva-among-others.md",
-      "title": "Insights into the Worldwide Deep Learning Chipset Industry to 2027 - Featuring IBM, Graphcore & CEVA Among Others",
-      "excerpt": "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research. CONTACT: ResearchAndMarkets.com Laura Wood, Senior Press Manager press@ ...",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/05/25/2038066/0/en/Insights-into-the-Worldwide-Deep-Learning-Chipset-Industry-to-2027-Featuring-IBM-Graphcore-CEVA-Among-Others.html",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-25T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
