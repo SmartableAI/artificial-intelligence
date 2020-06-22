@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-22T04:24:00Z
 webUrl: "https://www.hpcwire.com/solution_content/abba/hpc-workload-convergence-paves-the-way-for-ai-in-the-exascale-era/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     height: 864
     isCached: true
     title: "HPC Workload Convergence Paves the Way for AI in the Exascale Era"
-
-related:
-  - title: "AIC and Parade launch the PCI Express Gen 4 appliance for composable GPU, AI, HPC workloads"
-    excerpt: "AIC and Parade will align on PCI Express Gen 4 retimer technologies to enable the launch of a pioneering PCI Express Gen 4 appliance."
-    publishedDateTime: 2020-06-17T23:49:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/06/18/aic-parade/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 44
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
-        width: 304
-        height: 430
-        isCached: true
 
 secured: "xHKq/FgrmQCJyRgYPi7NmESRq0spcov4Sg/U33SPZ1UOqr4bQt0p/XkM/HdMZ7yfeWTNfh6/EeRypVU1deviFqn4MhLMvtL9lOOUO+S8+Fnb5HxCcWDTRPOBUGIDq01BgDfeSKW4kRqSBaxrgWRRhfwzGedok7+2guj5mnnqNCrAIjLdlPvgxEKnIhDxmV5wJT13lXtkO1OXLjziYlwT7xsdXVtLLHgtIcz8cCup3lHXdEgSivhRWQGTOePsUHuaW/zSLYDgY6zsbJD+ia74RCviB7lTTS3EYE78EqZD+9N/Wb2P4C/TEXCEhRoto4yR3U6VrAQZK73Mxr7N87WPOfMXzHpKt3iG2jVmRPPwPCjwS/Ol+l/BPwdVaMoYkYhQl4Z3GXkJ8oIaMwMXWLtbQpK5Iv6RxHMbKxcaVQOWVTWydSMWvl/ar28yGnv1WPV8RGYh3EdBYvRb8IoA58rA1oqWFowVLGP1i0RXrgoHUr1z8eP8wb3WS52F72/apAUVuNs+Wi9N4ifi1+BWPGSB7A==;EfD+2SlgmVeUe5klj3BEDw=="
 ---

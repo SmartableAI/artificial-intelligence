@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-17-tempus-health-start-up-backed-by-groupon-co-founder-joins-the-fight-against-covid-19.md",
+      "title": "Tempus: Health start-up backed by Groupon co-founder joins the fight against Covid-19",
+      "excerpt": "Groupon co-founder Eric Lefkofsky discovered the health-care system's flawed approach to data when his wife was diagnosed with cancer. Tempus is now on the front lines of the coronavirus fight. It made the CNBC 2020 Disruptor 50 list,",
+      "webUrl": "https://www.cnbc.com/2020/06/17/tempus-ai-health-firm-backed-by-groupon-co-founder-hunts-coronavirus.html",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106576188-1591993393250lab_sequencing21.jpg?v=1591993998",
+          "width": 7617,
+          "height": 5308,
+          "title": "Tempus: Health start-up backed by Groupon co-founder joins the fight against Covid-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/17/tempus-ai-health-firm-backed-by-groupon-co-founder-hunts-coronavirus.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/17/tempus-ai-health-firm-backed-by-groupon-co-founder-hunts-coronavirus.html",
+      "publishedDateTime": "2020-06-17T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets.md",
+      "title": "Artificial intelligence company raises $5m as robotics demand \"skyrockets\"",
+      "excerpt": "A London AI company has announced that it has secured $5m to help meet demand from firms looking to use… | London | Engineering | Digital | Funding | Technology | Technology | Industrial |",
+      "webUrl": "https://bdaily.co.uk/articles/2020/06/17/artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdaily.co.uk/images/uploads/iL8idSQksHVXogyIlRInDEcqnmsj2kf5UFA6lpaK.jpeg?w=940&h=430&fit=crop-43-42&s=b3eb9769a05d898d8a9c8014abe2dfcd",
+          "width": 940,
+          "height": 430,
+          "title": "Artificial intelligence company raises $5m as robotics demand \"skyrockets\"",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-17T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bdaily Business Network",
+        "domain": "bdaily.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-pagaya-raises-102-million-to-manage-assets-with-ai.md",
       "title": "Pagaya raises $102 million to manage assets with AI",
       "excerpt": "Pagaya, a startup that taps AI to manage asset-backed securities, has raised over $100 million in venture capital financing.",
@@ -1288,100 +1374,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027.md",
-      "title": "Consumer Robotics Market: Opportunities and Forecast Assessment, 2020-2027",
-      "excerpt": "The consumer robotics market forecast 2020-2027 report provides comprehensive coverage of the market through market segments, in-depth regional level analysis, and identifies the key drivers, restraints,",
-      "webUrl": "https://www.marketwatch.com/press-release/consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027-2020-06-16",
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Consumer Robotics Market: Opportunities and Forecast Assessment, 2020-2027",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T23:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-kt-to-invest-41-million-into-hyundai-robotics.md",
-      "title": "KT to invest $41 million into Hyundai Robotics",
-      "excerpt": "South Korean telco KT will invest 50 billion won ($41.4 million) into Hyundai Robotics for a 10% stake, the company said on Tuesday. The two companies will collaborate to co-develop intelligent service robots and perform research in the areas of automation and smart factories,",
-      "webUrl": "https://www.zdnet.com/article/kt-to-invest-us41-million-into-local-robotics-firm/",
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/25/f7e0bf06-4c68-4d88-8aa1-06f0e1dc872c/thumbnail/1200x675/6c7c37cb3b8e3da953320ca4b312fa17/kt-deploys-5g-autonomous-carts-at-wareho-5ecb0926e468b746804e73bb-1-may-25-2020-24-47-54-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "KT to invest $41 million into Hyundai Robotics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/kt-to-invest-us41-million-into-local-robotics-firm/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kt-to-invest-us41-million-into-local-robotics-firm/",
-      "publishedDateTime": "2020-06-15T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

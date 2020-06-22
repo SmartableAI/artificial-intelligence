@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-19T14:38:00Z
 webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-taps-lunit-s-ai-for-its-new-chest-x-ray-suite"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: FierceBiotech
@@ -25,6 +25,20 @@ images:
     title: "GE Healthcare taps Lunit’s AI for its new chest X-ray suite"
 
 related:
+  - title: "GE Healthcare AI Suite Pinpoints Chest X-ray Abnormalities"
+    excerpt: "This eight-algorithm AI suite is designed to quickly analyze chest X-ray findings and flags any abnormalities, such as pneumonia, for further radiologist review. The suite can also pinpoint tuberculosis,"
+    publishedDateTime: 2020-06-22T17:26:00Z
+    webUrl: "https://www.diagnosticimaging.com/x-ray/ge-healthcare-ai-suite-pinpoints-chest-x-ray-abnormalities"
+    type: article
+    provider:
+      name: Diagnostic Imaging
+      domain: diagnosticimaging.com
+    quality: 54
+    images:
+      - url: "https://www.diagnosticimaging.com/sites/default/files/chest-x-ray_ST_Puwadol-Jaturawutthichal_0.jpg"
+        width: 348
+        height: 340
+        isCached: true
   - title: "GE Healthcare launches new AI Suite to detect chest X-ray abnormalities, including pneumonia caused by COVID-19 & tuberculosis"
     excerpt: "Thoracic Care Suite harnesses the power of AI to scan for eight chest x-ray abnormalities, including pneumonia indicative of COVID-19 – a key cause of mortality in patients who"
     publishedDateTime: 2020-06-22T10:41:00Z

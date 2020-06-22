@@ -50,20 +50,6 @@ related:
         width: 512
         height: 341
         isCached: true
-  - title: "Driver free but coronavirus free? Robo cars hit new speed bump"
-    excerpt: "DETROIT >> The latest challenge for the autonomous vehicle industry: How to assure passengers that the car they are getting in is virus free, even if it doesn’t have a driver."
-    publishedDateTime: 2020-06-17T23:32:00Z
-    webUrl: "https://www.staradvertiser.com/2020/06/17/breaking-news/driver-free-but-coronavirus-free-robo-cars-hit-new-speed-bump/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 24
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2020/06/web1_10106351-21b0c31da1c947c791ccc95af31caaca.jpg"
-        width: 760
-        height: 507
-        isCached: true
   - title: "Robo Cars Hit New Speed Bump"
     excerpt: "The fledgling industry now has to deal with passenger anxiety amid the coronavirus pandemic."
     publishedDateTime: 2020-06-18T15:19:00Z

@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Epsagon Expands its Applied Observability Platform with Azure Kubernetes Service Support and Microsoft Azure Partnership to Meet the Needs of Modern Enterprises"
 
-secured: "4YOIg/RMKAxZSalS7n1+6GpgyxKMDw1uRFNzN4fKJFoHeAFaRDzULbj5xcVFShs0KQAofz+/CGVxYkSq5Ia4FGhyzeTgsZO115wAiVi1pg4e+0dZJwtSo6sye9NAS4OFQqbzx3E56QybqM1Xg5kzg4/Xv1YvVl3AkU/wi8DdYwAMivqmFdvu4t+8nQjDU/D1/QJt5q5sr0kftXmc7TowaDd5bWlfiOS1rK+oe1gBFkzf9u1I6pnTtlR/WcE4zHPbvrD6gFolKCxjmFGfbZNg3HHkN3t/zazUO5w6Qp7g85x4sPWzjZnbYCoZBabShhA+oUp2Z58XGj6rgJajN+itSw==;D4E4E6DeAtKnuXkb7x9lNQ=="
+secured: "vGbN2U2lwGSzmyCTVyZCF9ddvs/OTUfrMUuJjZYKghKI57DdfMVBAP4QiEsyh3tVwaVSeqKQ86KeWdcCXf+QZg6zlFEnrtkDP2aes6I4CnvlbG5V0PlHNe+zzCfvZFTyzagibpDQHxkdbEWp6QwUDJYYWLCOyU1REDtDaMpY9kZbuRyZ2FRuWV9VaKrlRpqBCzEtg7Qp20AN64z1js3ABL3UhoOj7OkxYymrYygj3GcpwQikA+1S//XgEfm5c+8lLI+rzdLLDb/1QizDUf5aC6uu1BuCMMbUEKpib74Kga1lnFoI9UoXaFwhm/Epf2sEGzuBctYBau5gox8+kgCpKKuOmzFSS1oJoFJkTtUr8LRGHlqVPIiSvp0rEVsC1IkseY8wUwKzbP6r1/E3ZQEx2jDR68Sn/0ctaIM44a/qevMWewNf2h2LQ1idIFeo6IjLYrkqsk2p5mMu66haId++GXAUI4CQOo/Jmik8ob2bkwx/zZDpqmcxUN5SxkH6jlDEz2PIekmVG+dFXPAmRa6/yQ==;O1EzkbLilSfev1z3BhgeZQ=="
 ---
 

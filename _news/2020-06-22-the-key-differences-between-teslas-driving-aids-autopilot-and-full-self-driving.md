@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-22T13:00:00Z
 webUrl: "https://thenextweb.com/shift/2020/06/22/differences-between-teslas-autopilot-and-full-self-driving-system-adas-tech/"
 type: article
 quality: 79
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -59,17 +59,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Uber putting self-driving cars back on the road"
-    excerpt: "The on-demand ride service grounded its test fleet of self-driving cars pending an investigation into a crash of an Uber autonomous vehicle in Arizona. No one was seriously injure"
-    publishedDateTime: 2020-06-22T11:46:00Z
-    webUrl: "https://www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186"
-    ampWebUrl: "https://www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186?view=htmlamp"
-    cdnAmpWebUrl: "https://www-nation-co-ke.cdn.ampproject.org/c/s/www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186?view=htmlamp"
-    type: article
-    provider:
-      name: Daily Nation
-      domain: nation.co.ke
-    quality: 24
   - title: "BMW and Mercedes go down different self-driving roads"
     excerpt: "There is an interesting shakeup in the world of autonomous vehicles. Per a mutual press announcement today, BMW (OTCPK:BMWYY) and Mercedes-Benz (OTCPK:DDAIF) have put their cooperation agreement for"
     publishedDateTime: 2020-06-19T12:41:00Z
@@ -80,6 +69,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "1ixgU6O7rGc7CXaku4p2s37UxnQMb8aJUh7YS8Nxbx28Y+xuE+6YVbC3lWIR6dRv1AFGqSW73B6iKW0pfCoLoJCOL8BbwteINvfn4GBCDsSkE0LzikIdvVEfY/fGA6gNvWMZBpAxDWOS1kx4ub9F2WThrXz8JNTQl6PNoR0/nRyFckLFL5xn8VG2ulQqdJxi6k/hq83DJMuemEJi0Q3ZdAvyFsa/0Ztgq6X/4xVqYJObQNOMtY0lm/VtsbQJ2Wj1B/7T6g8wgPBJlmlG/i8lpNeFg9BcLoy38nrDG9rnmXKWKMISE1dNFR87sEW/hsPozsIKyR5VUhkvimq7Cw+ICA==;9zLRpHIKgHLF5YaEfUa4cg=="
+secured: "dyRY7BjBdq3X7aek+nbdybmlOn4AWJ4gjMFGodCkLiHyEO58w62FVFT2oSqb5+5jvyyAN9r8fMx5SCPq8fRHTjQ+qFeKqrbzfhR/Z+vSwxkjlkK6iUL1cGUZvCYHIt2KGY3RlIyEhMQdw9aiFcly/zsLg6OJtW8xlt1R9+aK/fK83TVY90tSqg9pcRZ3qnb75dr3fC9+FkBwPPd73YKdSAgwyyModeL0g9VdCBQrzuS5VdFX9ZTSD3Tmx/Z03iNBPt926Jcny6U8/c/+Vcp820yz/kpGM9E2YGEdZwQVlXIctGxPvnM3xNkztyRdjeQbIlTazPpIbR9G4uZYKoUMylFa7MVzi620rurLpITTg/Afww4leM4Sty3OKOcOCxM8BF1v/2acjhX2ykfhWDV0807ksJxzRK/6PCDOmhsvcCtvXAFX/m39e1nJH/WbYC97mFa7vBJj0PFlryeo84WDFikwVYZm+2Xb5QWjWHEqBnkqWnjBRpXshcE2R9L0AUtK;Suqnxhp2I5MbB2VYX7Ww6A=="
 ---
 

@@ -2,6 +2,100 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-05-26-using-artificial-intelligence-to-diagnose-lung-cancer.md",
+      "title": "Using Artificial Intelligence To Diagnose Lung Cancer",
+      "excerpt": "The National Cancer Institute reported that lung cancer accounts for 25% of all cancer deaths. According to Paul Pagano, Interium CEO and Chief Scientific Officer, LungLife AI around 80 percent of lung cancer is diagnosed at a late stage due to inadequate early detection strategies,",
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/05/26/using-artificial-intelligence-to-diagnose-lung-cancer/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1180547354%2F0x0.jpg",
+          "width": 1199,
+          "height": 657,
+          "title": "Using Artificial Intelligence To Diagnose Lung Cancer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/05/26/using-artificial-intelligence-to-diagnose-lung-cancer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/05/26/using-artificial-intelligence-to-diagnose-lung-cancer/amp/",
+      "publishedDateTime": "2020-05-26T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-05-26-ai-in-computer-vision-market-research-report-2020-share-growth-opportunity-and-forecast-2023.md",
+      "title": "AI In Computer Vision Market Research Report 2020 Share, Growth, Opportunity, And Forecast-2023",
+      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-2020-share-growth-opportunity-and-forecast-2023-2020-05-26",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI In Computer Vision Market Research Report 2020 Share, Growth, Opportunity, And Forecast-2023",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-26T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-creating-a-complete-tensorflow-2-workflow-in-amazon-sagemaker.md",
       "title": "Creating a complete TensorFlow 2 workflow in Amazon SageMaker",
       "excerpt": "Managing the complete lifecycle of a deep learning project can be challenging, especially if you use multiple separate tools and services. For example, you may use different tools for data preprocessing, prototyping training and inference code, full-scale model training and tuning, model deployments,",
@@ -995,100 +1089,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-lasertec-a-tiny-maker-of-us40-million-chip-testing-machines-is-japans-hottest-stock-thanks-to-euv.md",
-      "title": "Lasertec, a tiny maker of US$40 million chip testing machines, is Japan’s hottest stock thanks to EUV",
-      "excerpt": "Lasertec is the world’s only maker of testing machines required to verify chip designs for the nascent extreme ultraviolet lithography, or EUV, method of chipmaking",
-      "webUrl": "https://www.scmp.com/tech/gear/article/3086040/lasertec-tiny-maker-us40-million-chip-testing-machines-japans-hottest",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/26/d6904df4-9ef8-11ea-8055-0ae12e466049_image_hires_103831.jpg?itok=ZE4r2CFZ&v=1590460723",
-          "width": 1200,
-          "height": 630,
-          "title": "Lasertec, a tiny maker of US$40 million chip testing machines, is Japan’s hottest stock thanks to EUV",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/gear/article/3086040/lasertec-tiny-maker-us40-million-chip-testing-machines-japans-hottest",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/gear/article/3086040/lasertec-tiny-maker-us40-million-chip-testing-machines-japans-hottest",
-      "publishedDateTime": "2020-05-25T19:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-smart-agricultural-company-plants-seeds-for-sustainable-farming-with-azure-ai-technology.md",
-      "title": "Smart agricultural company plants seeds for sustainable farming with Azure AI technology",
-      "excerpt": "That company, now TalentCloud, forged ahead with Microsoft Azure Machine Learning and Internet of Things (IoT) technology. Since its 2012 founding, the company has parlayed those technologies into its Agro-Brain solution. Just as TalentCloud data ...",
-      "webUrl": "https://news.microsoft.com/apac/2020/05/26/smart-agricultural-company-plants-seeds-for-sustainable-farming-with-azure-ai-technology/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/05/Main-image-768x513.png",
-          "width": 768,
-          "height": 513,
-          "title": "Smart agricultural company plants seeds for sustainable farming with Azure AI technology",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

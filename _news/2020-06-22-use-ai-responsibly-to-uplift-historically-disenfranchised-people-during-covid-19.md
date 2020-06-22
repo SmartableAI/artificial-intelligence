@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/06/22/use-ai-responsibly-to-uplift-historic
 ampWebUrl: "https://techcrunch.com/2020/06/22/use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19/amp/"
 type: article
-quality: 82
-heat: 82
+quality: 84
+heat: 84
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1211620809.jpg?w=1024"
@@ -29,6 +30,6 @@ images:
     isCached: true
     title: "Use AI responsibly to uplift historically disenfranchised people during COVID-19"
 
-secured: "bCpCH3kv/FYvWsPUhnFnzwmWE+INNa4/OL+wchteA2xSCd2dxUjy+3sOuR/LH+2ymeBaAXAE9pOEcYBb+sY4S/g91yFrRQouXq7AulHCyDQsVh3tNXoxPns7WhJeFMdJkhdNBoZQhaTCqAQBpaXNglQtnvZwlLtpS8VjRGwy7shYJWlG5J+lVMyfBNMFU2DV9ntkniN95NUQp6aGvO6/uVE8Oj0SGBSv8lFSmKqEQD/sqH611Aoapgs98qJu7tRgl1hYUvVb2Mj8H+DduL5+mzbYkgLXh3lqdyEBKJDFMyFE8yV4KaPvDgA1sgg7auoH+REri4tRCeK2HB8jED3vqw==;zHe9rc9G1KsoD/RLxVWDzA=="
+secured: "aVPHw15tyiHhgdwVclzKFTD003WIMRLRIYZ/Ue67DEUZ+WWhlCeydkNaPrIlhEutXKobJLJbFT/jemeXW2xlWkvM4rajVZGRvel2uGuUu+cB0+C/1v/5H8ZnLrhygKESB8/xFPMI0MJKAdUBEinmg79UKB0viMqF9JHlrhM0XrRO/rMYKDV3kmxNwoGkJ7jam1QF6QTQhTZF7dVxAz2k4CGM5dk9P7hAPOTzH/MvDLtNhfvT0aENj4rxP/m3vSh0nPbavYL3lTbIqBQ4/ZdYmeORbHVwI736dQk/tUUJIGNfgWM9CHG1OKAsApx8RRXsLQBJaIbt+WQ30OIEcTSZZuvNRSpWQf3Gzju55U6Cis5dD5T0dbIP60uzqdnUg5JUtnqpC93JFTSrXgMOCSyHmYYzuK6tfaM4K9gLkKrwKgqsfLEbToeuKDPZ5joAZSU9xPSbgu30LJ11P34sLu6LRGBUCAs12Ioikvl4UksIVpmw0uWRc8110lmFnYGy6Ff8nh2q9zkpOVCy3GNxPKKRHg==;1N6Cjf8094Yo0iBY0jh1Gw=="
 ---
 

@@ -7,8 +7,8 @@ webUrl: "https://www.technologyreview.com/2020/06/22/1004251/baidus-deep-learnin
 ampWebUrl: "https://www.technologyreview.com/2020/06/22/1004251/baidus-deep-learning-platform-fuels-the-rise-of-industrial-ai/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/06/22/1004251/baidus-deep-learning-platform-fuels-the-rise-of-industrial-ai/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/06/PaddlePaddle-2.png?w=2880"
@@ -26,6 +27,6 @@ images:
     isCached: true
     title: "Baidu’s deep-learning platform fuels the rise of industrial AI"
 
-secured: "uaVkacinqfK8XPe1syg4D2tgAQmJqJki7NMoChiXldTJFTl6g2OAnEfcMGsT9Uy8bhoVfx7HHdXFQoasVnTPBeNDoJj+CRs2DC5cKjZL1AYzJ+p+s4Ei3jQrLYvR6vPZpcozVDL4sbQzY0LAAtvJShazeJ21X33OKMwt1DZs1aRdDepALQNjwudxPSlhz2brljwLNvOcy+wYvZHuuBMrkUeXe8skZhH7qDW4XbUYYLyIm5g9H/D0cT21usN6Q+R6CTyS3P604Nme4+s3yas2hDf/3DobQW0cUwqxLpDO+kkso0h7kCJj6y+zwGZgNFrd2h2lzuOqZvnAWuj0Fy5/Nw==;F9pawUSGlFmgo7lttlN+2g=="
+secured: "im5aMFkJo6tZ/WfLw/Lmdu1DVg0TQAlCO+Zb05ZY+uKXnQDS2JqEdDt+trBcwGhykpyrb5TyHBKwLoVcaUoXQUscfmLVUTHjdnmFkAPhzGghU2DIb9+PufPPIwu0e+Y+1+Z4K3NOf1OupLa+N0xAtbZUZwngWGD7WxQukEdIUZ6tPVovK1O6ngYnw4SnZRumMtuwEmIrGwqKHa/11a/9F5DDo+yA1SsHIdpeZUJp/ZJsoBE+FAtbE3Kj94PORmBy1sm84XNJEVDtPF3/XG/4ucE6H4/PQ68Z9cWdBZGZPl27itvwwqxhvr+IdKYc0puoFWsOYCb/PzUKvcXV54Brpe6QbKNc5USbQq/e88zo0ZIuGGcx23oopDkuomZPlXpjjvizJCXx9vgwp2nrK1V/DTYZJSTmvOe/RG4VrhmY9eCfiYOs1ONR1to7RnIzIjdEFcqpWX4RYVXuGWnVy+39KJNIEye7lBKinRNh3pquH9ogAAgT3uDkU/eQnpNdfGobrYO3k5nw5+uM0Q1QcnfFYw==;fLWGTCK1xD8lWuWfJvfigQ=="
 ---
 

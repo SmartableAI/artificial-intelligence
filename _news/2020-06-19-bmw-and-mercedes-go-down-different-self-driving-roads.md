@@ -62,17 +62,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Uber putting self-driving cars back on the road"
-    excerpt: "The on-demand ride service grounded its test fleet of self-driving cars pending an investigation into a crash of an Uber autonomous vehicle in Arizona. No one was seriously injure"
-    publishedDateTime: 2020-06-22T11:46:00Z
-    webUrl: "https://www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186"
-    ampWebUrl: "https://www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186?view=htmlamp"
-    cdnAmpWebUrl: "https://www-nation-co-ke.cdn.ampproject.org/c/s/www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186?view=htmlamp"
-    type: article
-    provider:
-      name: Daily Nation
-      domain: nation.co.ke
-    quality: 24
 
 secured: "ey5Oq19y7gTq8Nez3/gT9koZPQG0CqutpwkHUFaHAD4eeOW33XlNN7QRvUm7EZfDYB/mk+yLY3k8jEtouOg3uXeKoGkafBl4CUGvRG+Wxjjj3QKv4vlblW6t8zsjert7T6bTRKfoaIrTdSBo2v63aVPQ07MzwM94rTowbdQ9Ru2/UBafcikZ0wDLYE4uv+DVgSTfCnPCzNyiAgDNdZeZaW2p/9ON9Wkb/o6o4G6DcxX1lofAdsgJCVrvSOm+8YuLHuRkmtcb0kJpFS9op6RqjR8taZdlDnOKLd9Ya3DMglV/mIlUEgZbifkzphlY8WVgyrLuJFk9XszEGsYkHsRu/g==;I7LhIKy+fydgC1MLJvZJTg=="
 ---

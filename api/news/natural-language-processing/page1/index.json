@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-22-ios-14-serves-up-major-updates-for-siri-messages-translate.md",
+      "title": "iOS 14 serves up major updates for Siri, Messages, Translate",
+      "excerpt": "Apple, unsurprisingly, led its WWDC 2020 press conference with the announcement of iOS 14. In the next version of Apple’s latest operating system, we’ll see some improvements to Siri,",
+      "webUrl": "https://www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/Apple_Events_-_Special_Event_Stream_-_Apple-25.jpg",
+          "width": 2372,
+          "height": 1332,
+          "title": "iOS 14 serves up major updates for Siri, Messages, Translate",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/amp/",
+      "publishedDateTime": "2020-06-22T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-engineers-design-ion-based-device-that-operates-like-an-energy-efficient-brain-synapse.md",
       "title": "Engineers Design Ion-Based Device That Operates Like an Energy-Efficient Brain Synapse",
       "excerpt": "Ion-based technology may enable energy-efficient simulations of the brain’s learning process, for neural network AI systems. Teams around the world are building ever more sophisticated artificial intelligence systems of a type called neural networks,",
@@ -44,7 +91,7 @@
       "title": "Podcast: PlayStation 5 details and hesitation over facial recognition",
       "excerpt": "Devindra and Cherlynn are joined by Nathan Ingraham to discuss the PlayStation 5's future and potential price, as well as games like \"The Last Of Us II.\"",
       "webUrl": "https://www.engadget.com/engadget-podcast-playstation-5-ps-5-cost-last-of-us-facial-recognition-123016894.html",
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1240,48 +1287,28 @@
     {
       "path": "_news/2020-06-04-insights-on-the-us-natural-language-processing-industry-to-2025-featuring-google-ibm-microsoft-among-others-researchandmarketscom.md",
       "title": "Insights on the US Natural Language Processing Industry to 2025 - Featuring Google, IBM & Microsoft Among Others - ResearchAndMarkets.com",
-      "excerpt": "For more information about this report visit https://www.researchandmarkets.com/r/mhxd97",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/b16181219/insights-on-the-us-natural-language-processing-industry-to-2025-featuring-google-ibm-microsoft-amo",
+      "excerpt": "The \"United States Natural Language Processing Market By Component (Software and Services), By Deployment (On-Premise, Cloud), By Organization Size (SME's Vs Large Enterprises), By Type, By Application,",
+      "webUrl": "https://www.businesswire.com/news/home/20200604005559/en/Insights-Natural-Language-Processing-Industry-2025--",
       "heat": null,
       "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16181219",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16181219",
-      "publishedDateTime": "2020-06-04T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200604005559/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Insights on the US Natural Language Processing Industry to 2025 - Featuring Google, IBM & Microsoft Among Others - ResearchAndMarkets.com",
+          "attribution": null,
+          "isCached": true
+        }
       ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026.md",
-      "title": "Size & Share of Cloud Natural Language Processing (NLP) Market 2020 Research Report and Forecast to 2026",
-      "excerpt": "Facts & Factors (FnF), a leading market research company recently published a research report on “ Cloud Natural Language Processing (NLP) Market By Type (Rule-Based, Statistical, and Hybrid), By Deployment Model (Public,",
-      "webUrl": "https://surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/",
-      "heat": null,
-      "tags": null,
-      "images": null,
       "type": "article",
-      "ampWebUrl": "https://surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/amp/",
-      "cdnAmpWebUrl": "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/amp/",
-      "publishedDateTime": "2020-06-04T03:25:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-04T08:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "surfacingmagazine.net",
-        "domain": "surfacingmagazine.net",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

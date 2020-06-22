@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Global Airlines Leverage AI, Machine Learning and Blockchain to Save Costs and Generate New Revenues, Says Frost & Sullivan"
 
-secured: "nS7g+zdg1/ttkEn1R+sxqPUJkffmhZPZ9v12EsR9jWO5Om/+hawwc1Pt1ebxhyQmRBJ9vtBgWJIUiWw8gb8/j3p1x9USsjJZ2fFjV2hrCshf+QQqnQm+YN67h3n20c38v9QWojFZc7LlhGovV6gxvoT49fHpylpBzG5+pv/9mPtYJjb9YaBrLsCQ1ZSbzAp9N9KjJZ4C/FbpVrJZp//9Cbk9Ta5upelGUgBaj+hKoDcmmFLPKZkQVgL0XgdPqoUlQuS5oT5Tw8zcb7DLylQ8M4P3/Wy3yu2upiw9OuWBn7wbUMvlCoeUOL52N39jV/OPYBLmqeeRieWMTouXOROx+Q==;k+GY9i9K/MEkCcaFYg/hBQ=="
+secured: "aDfSA4I04sMBglBxx7kKU/5slvCrBYW24p1roGTycwvGfA2bqig+Zmn0eZIcDhuA7LJV1yphaeTXsiuEW19BrWGh4CX/UkRYO6HWouNHbrmTEZYncRhmhvtxtFSY8j7o4o5Q5Zs+r1pRQEwKrTE8y+JhQ+b7vPRoRG/uQ15UGxaUWcr6bz3h3U7MbLSRhFgw0Fb4MGAdppAFYHrS2/IuO0l5UlkAm59343p5EQa58IHWbhA0KWRYapxVuHVT1Z0xbLGH8CXGPL4yOJ6HWFYj1GLMZAoWY39QxHqRMi4boKDhOr57Z2DA5mkwmXzLTCbML3oC9SKEMh+nGtEv3Nx06Qa8kjet74r9z0c+B1sTcyHAg3d+3UYpyqSM+pqQ93h3rSAojH6KTLolkqpy/NSsrZDC0zfXgiHt45yX9jHuOA2VoIwNtc5/OhXxIJF0ScWtzfUhBJ7rWNzrub1wHZ5cGLpLKpuLxamN2t48U4AMWsgrV/yZJDKW0eLUh5kuj1FwmfdrXji1Kqwe1qcP7rtpiw==;CtisINVCgfaF8EBhOVONAg=="
 ---
 

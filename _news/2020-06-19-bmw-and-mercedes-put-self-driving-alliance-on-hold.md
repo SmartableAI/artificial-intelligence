@@ -79,20 +79,6 @@ related:
         width: 7964
         height: 5309
         isCached: true
-  - title: "Making More Data Available for Self-Driving Cars"
-    excerpt: "PITTSBURGH -- For safety's sake, a self-driving car must accurately track the movement of pedestrians, bicycles and other vehicles around it. Training those tracking systems may now be more effective thanks to a new method developed at Carnegie Mellon University."
-    publishedDateTime: 2020-06-22T14:26:00Z
-    webUrl: "https://www.manufacturing.net/home/news/21137930/making-more-data-available-for-selfdriving-cars"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/AP18352862637244.5c1a63698a800.5ef0ba4ce9096.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 673
-        isCached: true
 
 secured: "yOa00wMQzmPZFWQeO4OHKa8DXjxpXPQ7esjcEmjaNU9l/oaQF/Unt6oqIVmju3N/LNp7thaihBSpWOvIZb5SDQxQGXmJbQUViqWF6LLHovJj7XSwORpjZsPGi3A0K9n4qmAW6FC8rUohIKJ4FDBeSYP+5YM5PGGAzS0zZuXGFLHQxwuaDzy5+sxm+C9hFtTG9BneR/RzdUxrxsjOpCsVw7SO5kW/Ad0EJbkUZH+EvENKesJA/RMU0NRLeeWi/kWpTqU4KqNa7lnyET7aAQJxpPB6LUPkUbPmj0k/tH7LAiAxMsnIu6/pxUFjmiajIgHyycoISzpG+BPKD1IXs5tr8WhS2ZWVD6FpJtarVvROpRlflQOr8ZtYwChvrqhRfl97kfEjUf3oy8ByOYo8EQd648oq6WyfvmKE1TCDbeJnBGpgZcUebiH3ZsuPlMFVqB0QSsJoWmQxPHcLvWlYEBsO5FyxOLYgG9SeTsOBcdR1p1sj5/v36eX0T2nDR4tzou9QrcdKv1p015HPQgREUtyvBQ==;aVtZ+F68jCgubpFh2d9qnw=="
 ---

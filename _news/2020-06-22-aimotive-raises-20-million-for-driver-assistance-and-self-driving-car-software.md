@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/22/aimotive-raises-20-million-for-dr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/22/aimotive-raises-20-million-for-driver-assistance-and-self-driving-car-software/amp/"
 type: article
 quality: 85
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -79,21 +79,7 @@ related:
         width: 7964
         height: 5309
         isCached: true
-  - title: "Making More Data Available for Self-Driving Cars"
-    excerpt: "PITTSBURGH -- For safety's sake, a self-driving car must accurately track the movement of pedestrians, bicycles and other vehicles around it. Training those tracking systems may now be more effective thanks to a new method developed at Carnegie Mellon University."
-    publishedDateTime: 2020-06-22T14:26:00Z
-    webUrl: "https://www.manufacturing.net/home/news/21137930/making-more-data-available-for-selfdriving-cars"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/AP18352862637244.5c1a63698a800.5ef0ba4ce9096.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 673
-        isCached: true
 
-secured: "oUOMUPjBdx39oWfKqSDWKJ/1t9/wFQhrduRVtdGMh6g6XGteThsKkT+zLlYV1UojZZpccXbThttNWxP7P3OA0S8jNFOGdaw32gCbLGmyIhgYGgLysRlnUFqn/VwfLcuoWntzOPXg8mG7snmg2o1E1XxlXmH6xXg7ppqHfGIs8QmfdXa+/8qPqxdZorsck8wHN7ot0D8et7iCNddxWOA9ALeF9DWOv0JkOYzISmD0p7e+V9iGqf3f+voToh/FRWtyDw4nBZsR7RPrXAO0c+yIlMCvLUMdaomz6ytaXtx4PUEHzm0fqzHIpwnccJPQ/OECqVFuVCTuHjvzw/3oS6baug==;ZOVM5Dre2icqQ+GBSRSWfw=="
+secured: "oSbQvMyeHasPSe03JEeprrEbIzcRvvWOpyLaqKYSe19dUlWAZWH37cncVqiBcW9lwzPzxWZ44eu3XCwO/xkcrAX66AGWMPkooqLV+CjDOviFUR9ZAu99XAGkQvp4Rjh7gSvPAUgm7MIIFK+lbqHscCOkhgcYHeS73g6rpueIQrBzdhCxmMJCB8Ul2aQo+1qpGcAFV76GS9LeWZhbOywaOHyXgsHojFlszV+edma9iyynr/UuyxlXgYJWpz+pGUkUYgqHBICcCFhiAPTJ7iembY/ss4JedN/kv7+1S8frD3A3EmxFkwOpGVSPxHCpzC1gRR5H8hrOq8UcAiH3DDvSt5B8yqmsGLFcefoM51MOTaTdoqJDbmPg457yed0HHSGaNSDKo+NbVKDUhl9pMIsjFSfcz5udz6TGJhFr44dlFe1CquDU+fapLAFc982txpLOVqsEw7b87GCZMScQCo4PQHnNcSRnlBLOiahMdfsbSUyfD0vv/wHPPZQlAC9ayaj6xnUG9PZ0hn/vSCAz0HfA0A==;FBDj+zl4zHbxBLMIXkljLw=="
 ---
 

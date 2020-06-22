@@ -2,53 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-05-26-scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision.md",
-      "title": "Scandit raises $80 million to power mobile barcode scanning with AR and computer vision",
-      "excerpt": "Scandit, a company that develops mobile barcode scanning and computer vision technology, has raised $80 million in a series C round of funding.",
-      "webUrl": "https://venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/",
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Scandit-Retail-Product-Rating.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "Scandit raises $80 million to power mobile barcode scanning with AR and computer vision",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/scandit-raises-80-million-to-power-mobile-barcode-scanning-with-ar-and-computer-vision/amp/",
-      "publishedDateTime": "2020-05-26T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-25-roborock-s6-maxv-review-the-robot-vacuum-for-pet-owners.md",
       "title": "Roborock S6 MaxV review: The robot vacuum for pet owners",
       "excerpt": "This is the Roborock S6 MaxV review. The Roborock S6 MaxV is Roborock ... Its on-board AI has been trained in object recognition so the robovac can better avoid things like power cords, shoes ...",
@@ -1223,6 +1176,53 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras.md",
+      "title": "Face masks prompt London police to consider pause in rollout of facial recognition cameras",
+      "excerpt": "The rollout of facial recognition cameras in London is facing disruption as citizens are now using face coverings that could potentially incapacitate the technology. The United Kingdom has been a keen adopter of surveillance technology including facial recognition cameras in recent years,",
+      "webUrl": "https://www.zdnet.com/article/face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/21/7d01c7b5-2d07-456a-9a2a-0de4b581b234/thumbnail/1200x675/4c1408e5c2079a805ab1f16c44652d7a/face-masks-prompt-london-police-to-consi-5ec39e9ba07d36782c1df7a1-1-may-21-2020-15-01-57-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Face masks prompt London police to consider pause in rollout of facial recognition cameras",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras/",
+      "publishedDateTime": "2020-05-18T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

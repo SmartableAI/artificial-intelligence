@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-19T12:36:00Z
 webUrl: "https://www.engadget.com/engadget-podcast-playstation-5-ps-5-cost-last-of-us-facial-recognition-123016894.html"
 type: article
 quality: 86
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://security-img.scdn6.secure.raxcdn.com/people/robert-300x300_1534936334.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Opinion | The futile withdrawal of facial recognition software by Big Tech"
+    excerpt: "This technology is bound to proliferate regardless of flaws as it’s being pursued by such regimes as China’s for surveillance"
+    publishedDateTime: 2020-06-22T16:21:00Z
+    webUrl: "https://www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech-11592841353953.html"
+    ampWebUrl: "https://www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech/amp-11592841353953.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech/amp-11592841353953.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2020/06/22/600x338/oped4_1592841609461_1592841617392.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Juneteenth: A call for progress and national recognition"
     excerpt: "As calls for structural change grow, the US is pondering recognition of a Black holiday that celebrates emancipation."

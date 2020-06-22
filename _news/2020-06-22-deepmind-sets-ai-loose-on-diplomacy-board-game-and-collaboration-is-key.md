@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/deepmind-sets-ai-loose-on-diplomac
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key/"
 type: article
-quality: 88
-heat: 88
+quality: 105
+heat: 105
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Google AI
 
 images:
   - url: "https://tr2.cbsistatic.com/hub/i/r/2020/06/22/dc4f3ea0-7e2a-4004-95d2-1fab64569c11/resize/1200x/ca7456a835809cd381be2ca48389655b/ai.jpg"
@@ -30,6 +31,6 @@ images:
     isCached: true
     title: "DeepMind sets AI loose on Diplomacy board game, and collaboration is key"
 
-secured: "6C+nLHPAVclYV4VTNeD8B7rw4cnW4riRKm8qHv4bc3yPwG8lGkchyLmd7ewp6At9grJVqzKm6asdNw5P/h1K8htmAM0xCq2q1TrVvC/qjBoK1rIjp5hIt2SDvOu5Y+iWDCr8iOAuzjscXrsAIHSbMl8in9IDAZqtq23H+BX9lPhP8DT5ojFdKD+4rrVA5mN/J2Xyl9Rv/SZ9yXyhXVAd6q4qdjo0loodztQ8GgPSMQ0RRQw7JJZCO80g3XG+5+1yoOxKLnq1eqvuUZa9OMbpO5pJLgkXsuKYJDw+lVrJiXYIA9zWh1hGg4h+3Rjs0Tx1H4EOfAO15mMTnZiBfuS/qQ==;JVBPNLv3uj+ZC0Rt+IDh3Q=="
+secured: "X8wnnUrJY/qJ9joaPoJfsN/orPzfvPsXXKeX1ThT5duSML5GVqVXtW7QieOuvV/Epev0eU7BtUAtkowNsJveOOcgcpzbeNn713tETZp8ZA+jpAMAHf/1tIw11BfhBRi+cxzxM0S/I9RLUJzoZo8BgtfJnDSZGh3VnCZddkr/lUBWHAGdL9JnkTR3au/0AeNGBDI+tvCjEtR8Yj287yfA9RYeJkaMDmQhgTsEwDKZvOJvwq60dxfUhgxfsqtY8Iwwv3btFvOZkIzJ7jBX8BSzeBHuep5ZHf47PjDSrlIWdXR/jG7wTVdGponM4Szzkpp2TPVgdC1tqgO8gY29RFj0/oevluPYPoaOqXgyIDQQldiWjRLp3os0u96daG6udqLjFEZ0VnsnZnnHrX5chRS1EiMGJkgILG5iHpDVAzVMUkdgrATKuoTt7BWC6FoV1tzBYHXYB7B24mHMGYeC6oYk1zU2UihUqplZg9UpuNWGWD3adTDYHArJf26WfNE8+JwwXXNLL3kZVMCdmV86w6oZ2g==;o+YZPBE6eRcHfJ00VpjmKg=="
 ---
 

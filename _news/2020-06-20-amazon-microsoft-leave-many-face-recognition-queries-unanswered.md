@@ -38,20 +38,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 54
-  - title: "ACLU Finds Microsoft Tried To Sell Facial Recognition Software to the DEA"
-    excerpt: "E-mails exposed on Wednesday by the American Civil Liberties Union (ACLU) indicated that Microsoft was actively trying to sell biometric and facial recognition technology to the U.S. Drug Enforcement Administration (DEA) over the past two years."
-    publishedDateTime: 2020-06-17T23:47:00Z
-    webUrl: "https://redmondmag.com/articles/2020/06/17/microsoft-facial-recognition-dea.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 40
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_F1Outsource.jpg"
-        width: 650
-        height: 450
-        isCached: true
 
 secured: "C95V6znyyWMv7pzV3YucLIIGdsK4zKKFOZMpF2R0F604qL4bNAKa4blPkoEmRD63TuDtH/ZZdGPEAu9gP9NPS3spUnintqsndSj7+0yCav1CXr58DtcZCAh9qxqHP0m70cEubV3XLeRvyId2hBc/YmyoFAqLeiia0Fkci73Qo1qJ86Wteb680ohWAOcL53jmtBq46k1fAKDgp32tudY36/J/3W3WsJjyLzrRSOHJf7JP2SRwF2Da/17JbJHbzJocMvXJaTU09sSgshZfqlSjqgSutQSWjMHvzoWEMdKx1oblDPQUiYDrtRl+biRvj2u/15wfchun6TDIIp7G1bdXcO7s8geUoswS+mOLqGJu1SearYpQcOjkjPlIRF1jCHYRYPWAl6vTsiUq36zCdIcjzkHpbsX8oswbUjtMN/rKI5LKoXk7qconbDib50+cZGgoRAvouQRvvt61PmdNvaC7qsXR7OGwUDxVeGokb53s7bkDFF/eppNxW46t5pp85MoimU38LbZnbJGOZRxaGPyWHw==;xC1S8bfLYVrNEgTh9TOT7A=="
 ---

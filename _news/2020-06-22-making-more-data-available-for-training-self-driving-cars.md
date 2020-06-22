@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-22T14:29:00Z
 webUrl: "https://www.sciencedaily.com/releases/2020/06/200617091024.htm"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "AI Ethics ‘Tuning Knobs’ A Questionable Mesh, Including For Self-Driving Cars"
+    excerpt: "AI systems are being churned out at quite a rapid pace, meanwhile, there are considerable qualms about whether such AI will exhibit ethical behavior. There is a rising tide of concern about AI ethics."
+    publishedDateTime: 2020-06-22T15:41:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/22/ai-ethics-tuning-knobs-a-questionable-mesh-including-for-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/22/ai-ethics-tuning-knobs-a-questionable-mesh-including-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/22/ai-ethics-tuning-knobs-a-questionable-mesh-including-for-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 103
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F535630661%2F0x0.jpg%3FcropX1%3D309%26cropX2%3D3684%26cropY1%3D0%26cropY2%3D2250"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Ford’s upcoming electric Mustang to have self-driving capabilities"
     excerpt: "Ford’s upcoming all-electric Mustang Mach-E will offer hands-free driving when it hits the road next year, the automaker said Thursday."
     publishedDateTime: 2020-06-18T15:06:00Z
@@ -38,36 +54,31 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Self-Driving Cars Won’t Avoid Most Crashes"
-    excerpt: "Tumisu via PixabayWhile excitement has been gradually growing in anticipation of self-driving cars’ debut, you may be disappointed to learn that these vehicles won’t necessari"
-    publishedDateTime: 2020-06-20T18:49:00Z
-    webUrl: "https://thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/"
-    ampWebUrl: "https://thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/amp/"
-    cdnAmpWebUrl: "https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/amp/"
+  - title: "Making More Data Available for Self-Driving Cars"
+    excerpt: "PITTSBURGH -- For safety's sake, a self-driving car must accurately track the movement of pedestrians, bicycles and other vehicles around it. Training those tracking systems may now be more effective thanks to a new method developed at Carnegie Mellon University."
+    publishedDateTime: 2020-06-22T14:26:00Z
+    webUrl: "https://www.manufacturing.net/home/news/21137930/making-more-data-available-for-selfdriving-cars"
     type: article
     provider:
-      name: thenewswheel.com
-      domain: thenewswheel.com
-    quality: 44
-    images:
-      - url: "https://thenewswheel.com/wp-content/uploads/2019/09/car-accident-1995852_1280-1000x580.png"
-        width: 1000
-        height: 580
-        isCached: true
-  - title: "Thailand's first China-made self-driving train arrives at port"
-    excerpt: "BANGKOK (Xinhua): Thailand's first self-driving vehicle, the Bombardier Innovia Automated People Mover (APM) 300, arrived at Laem Chabang Port in Thailand's eastern province of Chonburi on Thursday (June 18)."
-    publishedDateTime: 2020-06-19T04:42:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2020/06/19/thailand039s-first-china-made-self-driving-train-arrives-at-port"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Manufacturing
+      domain: manufacturing.net
     quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/06/19/725689.jpg"
-        width: 750
-        height: 422
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/AP18352862637244.5c1a63698a800.5ef0ba4ce9096.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
         isCached: true
+  - title: "Uber putting self-driving cars back on the road"
+    excerpt: "The on-demand ride service grounded its test fleet of self-driving cars pending an investigation into a crash of an Uber autonomous vehicle in Arizona. No one was seriously injure"
+    publishedDateTime: 2020-06-22T11:46:00Z
+    webUrl: "https://www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186"
+    ampWebUrl: "https://www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186?view=htmlamp"
+    cdnAmpWebUrl: "https://www-nation-co-ke.cdn.ampproject.org/c/s/www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186?view=htmlamp"
+    type: article
+    provider:
+      name: Daily Nation
+      domain: nation.co.ke
+    quality: 24
 
 secured: "1AQOFuiMmKeCXZ5o9gGC+QZg6Sz4V8Z9yaI+MUspDrUGKF4Xtb86hqrDQxIeUWoY1NwOHrJ+zLGEHZJmr5tv0Zbeajpqj0SDq532mn6kRZYkNahEL5qfe1QUnYUsv1+rdHOvw4mP0YJWDmkrw5jWKWMz0WB2WBLZw2e7Sgqqlh/oBPc22pfhtFp6wmNoO8EXmbI9P7tmfaYxVmqSsgT1Qgx6ll/gBz7u0MCvw0GTPIvUMxdtAkcHYJCSTrvcFcHBFBOAqFC6Q/SpFKNPs3CHDRMwvwwGfpAcdFcoNJOAdL8Kf9ByoYVS3VptxKQIjiCPjAtZlb9Zwks+I8vHGueRKA==;sz9cPiBCYM2M6E7MT7znpA=="
 ---

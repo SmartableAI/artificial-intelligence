@@ -2,6 +2,98 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-21-how-ethical-is-your-ai.md",
+      "title": "How Ethical Is Your AI?",
+      "excerpt": "Samasource is setting out to prove that ethical data-labeling is not only good for people, but is also good for business.",
+      "webUrl": "https://www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecd17de48a850006bf0594%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How Ethical Is Your AI?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/amp/",
+      "publishedDateTime": "2020-06-21T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-21-google-will-shut-down-its-ai-guided-photos-printing-service-on-june-30th.md",
+      "title": "Google will shut down its AI-guided Photos printing service on June 30th",
+      "excerpt": "Google is ending its AI-guided Photos printing trial service on June 30th, but it might lead to a similar feature in the long run.",
+      "webUrl": "https://www.engadget.com/google-photos-printing-trial-ends-023308003.html",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F0c6735a0-b344-11ea-bafe-160a0b0e31fc&client=amp-blogside-v2&signature=b58b18d9c10038d1386655a2cdb759e378701301",
+          "width": 600,
+          "height": 350,
+          "title": "Google will shut down its AI-guided Photos printing service on June 30th",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-photos-printing-trial-ends-023308003.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-photos-printing-trial-ends-023308003.html",
+      "publishedDateTime": "2020-06-20T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-20-what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols.md",
       "title": "What does that tattoo mean? AI app decodes extremist political symbols",
       "excerpt": "VizPol can help journalists spot far-right and white supremacist symbols like Odal rune tattoos and boogaloo igloo flags.",
@@ -443,44 +535,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-19-amazon-microsoft-leave-many-face-recognition-queries-unanswered.md",
-      "title": "Amazon, Microsoft Leave Many Face-Recognition Queries Unanswered",
-      "excerpt": "A week after the tech giants said they won’t sell the tech to police for now, it’s not clear what’s included in the ban",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-06-19/amazon-microsoft-leave-many-face-recognition-queries-unanswered",
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-06-19/amazon-microsoft-leave-many-face-recognition-queries-unanswered",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-19/amazon-microsoft-leave-many-face-recognition-queries-unanswered",
-      "publishedDateTime": "2020-06-19T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-19-ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough.md",
       "title": "AI Weekly: Restricting surveillance technologies is a strong first step, but it’s not enough",
       "excerpt": "New laws and regulations are curbing law enforcement's use of surveillance technologies, but that might not be enough.",
@@ -524,6 +578,44 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-ge-healthcare-taps-lunits-ai-for-its-new-chest-x-ray-suite.md",
+      "title": "GE Healthcare taps Lunit’s AI for its new chest X-ray suite",
+      "excerpt": "GE Healthcare launched an artificial intelligence-powered chest X-ray analysis suite, designed to spot and highlight eight common conditions, using algorithms built by the South Korean startup Lunit ... analytics, AI and connectivity will only become ...",
+      "webUrl": "https://www.fiercebiotech.com/medtech/ge-healthcare-taps-lunit-s-ai-for-its-new-chest-x-ray-suite",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1592492062/Lunit%20Xray%20AI.jpeg?H_Tp7Ynhb8bsEI3Y4GISbyNH7u9Sjepp",
+          "width": 2700,
+          "height": 1518,
+          "title": "GE Healthcare taps Lunit’s AI for its new chest X-ray suite",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-19T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -662,7 +754,7 @@
       "title": "Podcast: PlayStation 5 details and hesitation over facial recognition",
       "excerpt": "Devindra and Cherlynn are joined by Nathan Ingraham to discuss the PlayStation 5's future and potential price, as well as games like \"The Last Of Us II.\"",
       "webUrl": "https://www.engadget.com/engadget-podcast-playstation-5-ps-5-cost-last-of-us-facial-recognition-123016894.html",
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1253,99 +1345,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-amazon-touts-ai-for-social-distancing-amid-worker-complaints.md",
-      "title": "Amazon Touts AI for Social Distancing Amid Worker Complaints",
-      "excerpt": "Facing criticism over workplace safety, the company is using cameras, sensors, and augmented reality to warn employees when they're too close to one another.",
-      "webUrl": "https://www.wired.com/story/amazon-touts-ai-social-distancing-worker-complaints/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5eebf79845997e7f063bebff/master/pass/business_amazon_874678990.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Amazon Touts AI for Social Distancing Amid Worker Complaints",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/amazon-touts-ai-social-distancing-worker-complaints/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-touts-ai-social-distancing-worker-complaints/amp",
-      "publishedDateTime": "2020-06-18T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-detecting-fraud-in-heterogeneous-networks-using-amazon-sagemaker-and-deep-graph-library.md",
-      "title": "Detecting fraud in heterogeneous networks using Amazon SageMaker and Deep Graph Library",
-      "excerpt": "Fraudulent users and malicious accounts can result in billions of dollars in lost revenue annually for businesses. Although many businesses use rule-based filters to prevent malicious activity in their systems, these filters are often brittle and may not capture the full range of malicious behavior.",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-fraud-in-heterogeneous-networks-using-amazon-sagemaker-and-deep-graph-library/",
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/16/heterogeneous-networks-sagemaker-2-978x630.gif",
-          "width": 978,
-          "height": 630,
-          "title": "Detecting fraud in heterogeneous networks using Amazon SageMaker and Deep Graph Library",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T16:26:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

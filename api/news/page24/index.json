@@ -2,6 +2,99 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-05-31-microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere.md",
+      "title": "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere",
+      "excerpt": "With support for edge devices and Azure Sphere, IoT Central can now address new scenarios making it the most versatile SaaS-based IoT solution.",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/",
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed31bf63c7e9c000678f8ad%2F0x0.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/",
+      "publishedDateTime": "2020-05-30T19:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-31-gender-bias-in-predictive-algorithms-how-applied-ai-research-can-help-us-build-a-more-equitable-future.md",
+      "title": "Gender Bias In Predictive Algorithms: How Applied AI Research Can Help Us Build A More Equitable Future",
+      "excerpt": "AI research conducted through a gendered lens helps us to imagine how these advanced technologies can be used to achieve a seemingly impossible feat - eliminating bias.",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/30/gender-bias-in-predictive-algorithms/",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed30063b8ac0f0006007345%2F0x0.jpg",
+          "width": 1000,
+          "height": 671,
+          "title": "Gender Bias In Predictive Algorithms: How Applied AI Research Can Help Us Build A More Equitable Future",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/30/gender-bias-in-predictive-algorithms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/30/gender-bias-in-predictive-algorithms/amp/",
+      "publishedDateTime": "2020-05-30T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-31-a-closer-look-at-deepmind-the-google-ai-thats-mastering-starcraft-2.md",
       "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
       "excerpt": "May 31, 2020 This feature was originally published in January 2019. You’d be forgiven for assuming that DeepMind’s artificial intelligence technology has already proven its chops. Back in ...",
@@ -989,92 +1082,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-owkin-raises-25m-to-enhance-medical-research-machine-learning-and-collaboration.md",
-      "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
-      "excerpt": "Owkin is fueling collaborative medical research using machine learning while being compliant with privacy laws. Thomas Clozel discusses the unique benefits of Owkin.",
-      "webUrl": "https://www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.alleywatch.com/wp-content/uploads/2020/05/Owkin_Thomas_Clozel.001.jpeg",
-          "width": 1000,
-          "height": 537,
-          "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/amp/",
-      "cdnAmpWebUrl": "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/amp/",
-      "publishedDateTime": "2020-05-29T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "alleywatch.com",
-        "domain": "alleywatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters.md",
-      "title": "OpenAI debuts gigantic GPT-3 language model with 175 billion parameters",
-      "excerpt": "OpenAI's GPT-3 language model can generate convincing news articles and achieve state-of-the-art results on a range of NLP tasks with few-shot learning.",
-      "webUrl": "https://venturebeat.com/2020/05/29/openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "OpenAI debuts gigantic GPT-3 language model with 175 billion parameters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/29/openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/29/openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters/amp/",
-      "publishedDateTime": "2020-05-29T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
