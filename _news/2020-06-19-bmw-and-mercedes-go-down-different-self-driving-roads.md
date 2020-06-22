@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "BMW and Mercedes call it quits on their self-driving car partnership"
-    excerpt: "Less than a year after their initial announcement, BMW and Mercedes are ending what was supposed to be a long-term partnership to develop autonomous vehicles."
-    publishedDateTime: 2020-06-19T19:23:00Z
-    webUrl: "https://www.engadget.com/bmw-mercedes-end-self-driving-partnership-191920863.html"
-    ampWebUrl: "https://www.engadget.com/amp/bmw-mercedes-end-self-driving-partnership-191920863.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/bmw-mercedes-end-self-driving-partnership-191920863.html"
+  - title: "The key differences between Tesla’s driving aids: Autopilot and Full Self-Driving"
+    excerpt: "In this edition of Shift Basics, we take a look at what Tesla's Autopilot and Full Self-Driving are, how they're different, and what they cost."
+    publishedDateTime: 2020-06-22T13:00:00Z
+    webUrl: "https://thenextweb.com/shift/2020/06/22/differences-between-teslas-autopilot-and-full-self-driving-system-adas-tech/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 79
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F1dd033d0-b260-11ea-ba77-c0a08587aaf6&client=amp-blogside-v2&signature=1505af955476a6c17e3ee95f00cb6dbf10aea22e"
-        width: 600
-        height: 350
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/second-Autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving-796x448.png"
+        width: 796
+        height: 448
         isCached: true
   - title: "BMW and Mercedes Put Self-Driving Alliance On Hold"
     excerpt: "Benz are shutting down their joint self-driving effort, at least for the moment — though they might work together again in the future. BMW and Daimler ( OTC:DMLR.Y), the corporate parent of Mercedes-Benz,"
@@ -50,108 +48,63 @@ related:
         width: 1200
         height: 770
         isCached: true
-  - title: "BMW and Mercedes shelve shared self-driving tech plan"
-    excerpt: "Benz have put their autonomous driving collaboration on hold, blaming the expense of building a shared system for the decision. The two German automakers announced their"
-    publishedDateTime: 2020-06-19T15:23:00Z
-    webUrl: "https://www.slashgear.com/bmw-and-mercedes-shelve-shared-self-driving-tech-plan-19625593/"
-    ampWebUrl: "https://www.slashgear.com/bmw-and-mercedes-shelve-shared-self-driving-tech-plan-19625593/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/bmw-and-mercedes-shelve-shared-self-driving-tech-plan-19625593/amp/"
+  - title: "The Self-Driving Car Race Between Tesla, GM and Ford Takes a Big Turn"
+    excerpt: "General Motors introduced Super Cruise, a system that can steer a car on thousands of miles of highways in North America, in 2017. And this week, Ford finally unveiled its own Autopilot answer, a hands-free driver assistance feature called “Active Drive Assist."
+    publishedDateTime: 2020-06-20T16:06:00Z
+    webUrl: "https://observer.com/2020/06/tesla-gm-ford-electric-vehicle-self-driving-autopilot-update/"
+    ampWebUrl: "https://observer.com/2020/06/tesla-gm-ford-electric-vehicle-self-driving-autopilot-update/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/06/tesla-gm-ford-electric-vehicle-self-driving-autopilot-update/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
+      name: Observer
+      domain: observer.com
+    quality: 59
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/mercedes-benz-autonomous-car-prototype-1.jpg"
-        width: 1593
-        height: 996
+      - url: "https://observer.com/wp-content/uploads/sites/2/2020/06/GettyImages-1199703559.jpg?quality=80&strip"
+        width: 7964
+        height: 5309
         isCached: true
-  - title: "BMW terminates self-driving tech partnership with Mercedes-Benz"
-    excerpt: "German automaker BMW has announced that it will freeze its self-driving technology development program with Mercedes-Benz after a steep plunge in demand for its vehicles due to the coronavirus. BMW will also get rid of 6,"
-    publishedDateTime: 2020-06-19T19:04:00Z
-    webUrl: "https://www.teslarati.com/bmw-mercedes-benz-fsd-partnership-terminated/"
-    ampWebUrl: "https://www.teslarati.com/bmw-mercedes-benz-fsd-partnership-terminated/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/bmw-mercedes-benz-fsd-partnership-terminated/amp/"
+  - title: "Tesla is removing Autopilot’s green light confirmation in step towards inner-city Full Self-Driving"
+    excerpt: "Tesla is planning to improve the recently released Traffic Light and Stop Sign Control feature by removing the function’s existing green light confirmation. This bodes well for the company’s pursuit of its Full Self-Driving suite,"
+    publishedDateTime: 2020-06-19T13:37:00Z
+    webUrl: "https://www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/"
+    ampWebUrl: "https://www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/amp/"
     type: article
     provider:
       name: Tesla News
       domain: teslarati.com
-    quality: 44
+    quality: 45
     images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2019/07/bmw-i-vision-dynamics-concept-1-1024x499.jpg"
+      - url: "https://www.teslarati.com/wp-content/uploads/2020/04/tesla-stop-sign-traffic-light-control-1024x439.jpg"
         width: 1024
-        height: 499
+        height: 439
         isCached: true
-  - title: "BMW to cut 6,000 jobs andslam brakes on Mercedes self-driving alliance amid Covid-19 impact"
-    excerpt: "German automaker BMW revealed plans to cut 6,000 jobs on Friday as it grapples with the impact of the coronavirus pandemic."
-    publishedDateTime: 2020-06-19T14:52:00Z
-    webUrl: "https://www.marketwatch.com/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://s.marketwatch.com/public/resources/images/MW-II931_BMW619_ZG_20200619111549.jpg"
-        width: 1320
-        height: 742
-        isCached: true
-  - title: "BMW to cut 6,000 jobs and slam brakes on Mercedes self-driving alliance amid Covid-19 impact"
-    excerpt: "German automaker BMW revealed plans to cut 6,000 jobs on Friday as it grapples with the impact of the coronavirus pandemic."
-    publishedDateTime: 2020-06-19T15:08:00Z
-    webUrl: "https://www.marketwatch.com/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19?mod=hp_minor_pos19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://s.marketwatch.com/public/resources/images/MW-II931_BMW619_ZG_20200619111549.jpg"
-        width: 1320
-        height: 742
-        isCached: true
-  - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
-    excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees demand plunging because of the coronavirus pandemic."
-    publishedDateTime: 2020-06-19T14:45:00Z
-    webUrl: "https://www.ibtimes.com/bmw-cuts-jobs-ends-self-driving-project-mercedes-2997200"
+  - title: "Self-driving Bus Services Tested Out In Tallinn"
+    excerpt: "Two types of self-driving bus are being tested out in Estonia this week as part of initiatives that could revolutionise public transport in Europe. One of the services in tech-savvy Estonia, which is often used as a testing ground for innovation,"
+    publishedDateTime: 2020-06-18T17:29:00Z
+    webUrl: "https://www.ibtimes.com/self-driving-bus-services-tested-out-tallinn-2996593"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 24
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/19/bmw-like-may-of-its-rivals-is-cutting.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/18/look-no-hands.jpg"
         width: 1024
-        height: 664
+        height: 682
         isCached: true
-  - title: "BMW, Mercedes put self-driving alliance on hold"
-    excerpt: "Daimler said Friday it had put on hold a development alliance in the area of automated driving between its Mercedes-Benz brand and rival BMW. \"Following extensive review, the two companies have arrived at a mutual and amicable agreement to concentrate on their existing development paths,"
-    publishedDateTime: 2020-06-19T12:54:00Z
-    webUrl: "https://www.autonews.com/mobility-report/bmw-mercedes-put-self-driving-alliance-hold"
+  - title: "Uber putting self-driving cars back on the road"
+    excerpt: "The on-demand ride service grounded its test fleet of self-driving cars pending an investigation into a crash of an Uber autonomous vehicle in Arizona. No one was seriously injure"
+    publishedDateTime: 2020-06-22T11:46:00Z
+    webUrl: "https://www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186"
+    ampWebUrl: "https://www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186?view=htmlamp"
+    cdnAmpWebUrl: "https://www-nation-co-ke.cdn.ampproject.org/c/s/www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186?view=htmlamp"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: Daily Nation
+      domain: nation.co.ke
     quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/BMW%20Daimler%20web_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Walmart’s self-driving partner is changing e-commerce economics"
-    excerpt: "For a self-driving vehicle startup, Gatik has an odd mantra: don’t agonize over autonomy, worry about delivery. Specifically, the three-year-old company is focused on so-called middle-mile delivery, the oft-overlooked leg between when,"
-    publishedDateTime: 2020-06-19T16:06:00Z
-    webUrl: "https://www.autonews.com/mobility-report/walmarts-self-driving-partner-changing-e-commerce-economics"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Walmart%20Delivery%20Van.jpg?h=55dc3bfa"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "ey5Oq19y7gTq8Nez3/gT9koZPQG0CqutpwkHUFaHAD4eeOW33XlNN7QRvUm7EZfDYB/mk+yLY3k8jEtouOg3uXeKoGkafBl4CUGvRG+Wxjjj3QKv4vlblW6t8zsjert7T6bTRKfoaIrTdSBo2v63aVPQ07MzwM94rTowbdQ9Ru2/UBafcikZ0wDLYE4uv+DVgSTfCnPCzNyiAgDNdZeZaW2p/9ON9Wkb/o6o4G6DcxX1lofAdsgJCVrvSOm+8YuLHuRkmtcb0kJpFS9op6RqjR8taZdlDnOKLd9Ya3DMglV/mIlUEgZbifkzphlY8WVgyrLuJFk9XszEGsYkHsRu/g==;I7LhIKy+fydgC1MLJvZJTg=="
 ---

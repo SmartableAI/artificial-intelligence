@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Top 10 data and analytics trends revealed by Gartner"
+    excerpt: "Gartner has revealed the top 10 trends within data and analytics that can help leaders in the space navigate their response to Covid-19"
+    publishedDateTime: 2020-06-22T12:58:00Z
+    webUrl: "https://www.information-age.com/top-10-data-analytics-trends-revealed-gartner-123489992/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 24
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2020/06/top-10-data-analytics-trends-revealed-gartner.jpeg"
+        width: 1080
+        height: 523
+        isCached: true
   - title: "Gartner Identifies Top 10 Data and Analytics Technology Trends for 2020"
     excerpt: "(D&A) technology trends for 2020 that can help organisations prepare for a post-pandemic reset. “To innovate their way beyond COVID-19, data and analytics leaders require an ever-increasing speed and scale of analysis in terms of both processing and access to succeed,"
     publishedDateTime: 2020-06-22T06:07:00Z

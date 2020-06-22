@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.yourstory.com/cs/2/b094ec506da611eab285b7ee8106293d/inventorobotics3-1590856120502.jpg?fm=png&auto=format"

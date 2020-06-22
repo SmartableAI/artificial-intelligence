@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech Recognition Market to Garner $29.28 Bn, Globally, by 2026 at 19.9% CAGR, Says Allied Market Research"
+    excerpt: "Allied Market Research recently published a report, \"Speech Recognition Market by Deployment Mode (On Cloud and On Premise) and End"
+    publishedDateTime: 2020-06-22T13:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/speech-recognition-market-to-garner-29-28-bn-globally-by-2026-at-19-9-cagr-says-allied-market-research-301080938.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
+        width: 2000
+        height: 1046
+        isCached: true
 
 secured: "lOxLrScsTjFCj2bzCfHY4shNaJC/iGaQPOo0QEHC6E+mQVvPLoc6g6Cpa4sd+1ZG3FVfUFP09MImAwR5YceVvsOkRwbYZS8xfI5FCM7bUCwFhU7ytq2vadTzF9Wt3wJLr0tdsXldPTwuOIP/PcCwtPHu6NeD5ri+BqZoBkCSw98OeT6v4SZDg7ulLRL7WVvI+tim+hRvnVvKI1MfdRsyDe7NZFyf1g2CfN5wwq6Ch0sTUpLlo2Swkb3WxZKHdBBGo+mjq5i+IR7jV7lS8ew71hlVPRrlFDYNx+bceRyyi68aT1mlyvwwxIbwRm2JKP2gxUzaRL/wLqroMA56Pgl+pA==;ZI//tXymcSKMzEJFpYL6xw=="
 ---

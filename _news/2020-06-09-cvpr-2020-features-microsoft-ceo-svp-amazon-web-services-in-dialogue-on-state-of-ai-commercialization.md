@@ -1,26 +1,26 @@
 ---
 category: news
 title: "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization"
-excerpt: "The Computer Vision and Pattern Recognition (CVPR) 2020 Conference, a virtual event taking place next week from 14 – 19 June, explores the commercial trends igniting explosive investment and growth in artificial intelligence (AI) and machine learning."
-publishedDateTime: 2020-06-09T11:15:00Z
-webUrl: "https://apnews.com/PR Newswire/f3fdc84b253edfd926bdfcce1886ffb4"
+excerpt: "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others."
+publishedDateTime: 2020-06-09T11:19:00Z
+webUrl: "https://www.prnewswire.com/news-releases/cvpr-2020-features-microsoft-ceo--svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-301072534.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Microsoft AI
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/462374/IEEE_Computer_Society_Logo.jpg?p=facebook"
+    width: 597
+    height: 314
     isCached: true
     title: "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization"
 
-secured: "WgrQ6hfAep1bbXj4AvErQfPpzksiIazz05qhbFG6WDWV5V9u9K3Vxx4aJ53xQn/4m6p7o8bGXMzqICsu8GmnelRZ4N8Z5bsaN5Tdqygfg/0zd/vE1xQvctcrWGdvRTPWiATLyFPb17eFdLqBAtYLFTCcneC0UBBUyc2il1E43KfdYQ8t7H4A5/lgz9A4OlhQsz2ugWDqwJoSg8o19K0WzJXygzMIE9BpfjgpCJixzCxqR26YX/NJLdVDwUry9eVa5X90P2Izc+9hS64Eby+xcWsV2hs38bMm4EaM3xxwWpF8hzLaHSJfKmDOrBuS0gXf9XsL2rXBmAN2HCSh+ooe3g==;lnnkPaKt3zycLSJSHI+EOA=="
+secured: "00zvSkma2ADaa29qwzjiU4qEQQNir6rZBuHn8K6IobLL/sH004Znnydk9uJVm3RLDQoVML3T84xy5C8mWdH8fNjScyiAlnTWBQKbxY5ZWWMdx3SuPJcp704oSJ4GVxf4ZsN4qYGaeQBHuWxOS47duXjOoVLonIpd1e+H3F+7KmxWZogswjCZi9tp/DVD/QYBUyUy8ZiAyE5FAX+li5vHmfHatZmkATmZ3zJsqTNmC2jxn/jDDfSPkQYkeuLWbjVgYkcWwLRJ3sRyH4Kgv6NM/q878zskafc0dtBoSujCueDguYDeZCm0Kgmg9Ax9oeIVosp6+VPsdXAhZkpaGZ8Dfg==;Ipcxh5cfoaE0NkT2pvMKHA=="
 ---
 

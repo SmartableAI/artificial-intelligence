@@ -26,17 +26,6 @@ images:
     isCached: true
     title: "AGILOX Autonomous Mobile Robots are substantially saving costs by applying Artificial Swarm Intelligence"
 
-related:
-  - title: "AGILOX Autonomous Mobile Robots are substantially saving costs by applying Artificial Swarm Intelligence"
-    excerpt: "Swarm Intelligence (SI) and bio-inspired computing have attracted great interest in almost every area of science and engineering, including robotics, over the last two decades."
-    publishedDateTime: 2020-06-17T20:41:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2020/06/17/agilox-autonomous-mobile-robots-are-substantially-saving-costs-by-applying-artificial-swarm-intelligence/15378/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 2
-
 secured: "PJKnGBRIllsN8n759qTAXAV8CPFMeITR9rvS+LswW1ohg8BlJtyn6Z2/G+JNa45noiJmgBb3myL9DMnwr9964jeC1tJ/QSlK3tYlfO46GuoPrw2P7majer6yWHca8BZlMXdqWRTfoojIIxgo8yjm58tnKTmlbOgLcfY6PyxArapUv0pj327ekaGevHsbajEINKT0Fe4ztqZ48w+GOYYiwN8GIt5PhrgwZZrueMuVGGdoMyrtQKdqcK85j5fKqvvjki9c8UhS04aeZ4N2XeBc89q5UP3awRPv+8c+j7EfneMzL4DaOmvteX28ko/iRsKXP5NmoxEPtKrN3FBA2YfMasxHd+oENtWbAHADi08gPVRs1x+wsy2ewAVfNYglzrTQHaWQMG3avaN4fpucR7v95RoU/kf5CLMulH6rbl00ZBzq69CAcTEW7JwNNQ9QxZ8u1oGBAEcd1WdGhG8ZqjqtaEZ1DkS3FHZzRB7rVYgqQL5lRRrQDgpvsSR7/NuFQaS+SEPrwpr0ueL7E5TsEv/Wjg==;VgI1QoCsGMlNFt/BYvRK+w=="
 ---
 

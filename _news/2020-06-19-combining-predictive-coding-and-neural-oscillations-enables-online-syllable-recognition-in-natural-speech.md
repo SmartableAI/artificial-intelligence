@@ -33,7 +33,7 @@ related:
     provider:
       name: Financial News
       domain: financial-news.co.uk
-    quality: 28
+    quality: 30
 
 secured: "0yK+T0Iy2+asKIGME1m2vcQq2dI76AHUXsyzg/EywEkCFeaYqZANhTG6jk1J1EBuRqdXgWPuaEW0iw/DJ/2i4YdbV7KC9weSQk6J6KVeXTWr71MTEe9qTKQb0D5xqpQUmQMRsIgdjsPUZFHg4J428H0HF8+IDV1KajbVs1beSlkArV9rnhuh0PY0hKMD5gFaK+kN6EJjH20vecZLoKv+YSG+TbQRKLI5dhYqwJ9ocT6UOxFVQHDPCNJ+HaHPKam//+eQhK9SaSb5g8bM9AbpBNUEQEGzZGkfZH8iMyDqPn9KYkk63eoE3DRgLQ96WUWg8u1Rx3XZYqn1lDegk9imXrBoCrHGk54n2Tv/M9YF0LNBgnno4oJB5laJMlcBmqSdz5EcNxI34IAtr3Mwc9NmdbEwcU8RwDbv+7c75ShBN4neQ2gHH0B4c9PTYB6Gl9yCvMND3EO7eGFrsIITvAiw2Ciq7l2ImQmyK0l2IWab+YZqt9izuZoBOOlckybsmLljKByLReJ9PfWAXgLt1xdnGw==;q4yyySmCi9ymnW7pqT9idA=="
 ---

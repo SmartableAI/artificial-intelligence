@@ -41,22 +41,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "BMW and Mercedes Put Self-Driving Alliance On Hold"
-    excerpt: "Benz are shutting down their joint self-driving effort, at least for the moment — though they might work together again in the future. BMW and Daimler ( OTC:DMLR.Y), the corporate parent of Mercedes-Benz,"
-    publishedDateTime: 2020-06-19T16:38:00Z
-    webUrl: "https://www.fool.com/investing/2020/06/19/bmw-and-mercedes-put-self-driving-alliance-on-hold.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/06/19/bmw-and-mercedes-put-self-driving-alliance-on-hold.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/19/bmw-and-mercedes-put-self-driving-alliance-on-hold.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F579334%2Faptiv-lyft-2018-blog.jpg&w=1200&op=resize"
-        width: 1200
-        height: 770
-        isCached: true
   - title: "BMW and Mercedes shelve shared self-driving tech plan"
     excerpt: "Benz have put their autonomous driving collaboration on hold, blaming the expense of building a shared system for the decision. The two German automakers announced their"
     publishedDateTime: 2020-06-19T15:23:00Z
@@ -145,15 +129,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "BMW and Mercedes go down different self-driving roads"
-    excerpt: "There is an interesting shakeup in the world of autonomous vehicles. Per a mutual press announcement today, BMW (OTCPK:BMWYY) and Mercedes-Benz (OTCPK:DDAIF) have put their cooperation agreement for"
-    publishedDateTime: 2020-06-19T12:41:00Z
-    webUrl: "https://seekingalpha.com/news/3584494-bmw-and-mercedes-go-down-different-self-driving-roads"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "nBLp4N11x3uo5fCqkISE7/PC2ODP/aEBe3AORaJnINEjDhFHdvUvL/TMQgMxoRZ2lESq5vi7ndsSU8fgQe3kj+zq/yhVGJup6GT2kE32M5FZ9MizzGFYSjFdTdxWbXUERYvXXRsG2h+eMZ9QA73ZlFcnJeWKDVczm5vR86lGqQ8YWElcCeF9luxw13TN7THf8u2OZ7Xv6619621wWr+hOUYOzSsItHwm/PkAXvqiQEuyLnWNhkIu6weCHV1zNON0vi1P/8SNJ+iYmQn6Jg3uT07sXvjlHPdfyTIw256jPNe+Hifh9JcM1gwT18pH77xFmaebqMVgLyDv3ES5mc9jer0sNe7AlGQcbkntuH7255b7/BBfNx2Sa4F993FPIzq+7VunGnvaVluANug67iDQ4CoNm8nej6StaCEuMGQHCV70uMTIvkhdR0/uKmUxBQbmoMzsBJVQJMLklbjz9Lzhs2GWAqgm2be9gxUnqpDkCYs/F79XrZ4GU1eJQr/sGahfCxB0TylQ6Wmcydx+2tSH3A==;l9YGJJJfid5W8q1AQU0kXg=="
 ---

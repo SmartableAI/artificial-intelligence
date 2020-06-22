@@ -5,8 +5,8 @@ excerpt: "Under the agreement, SOSi becomes the exclusive reseller of AppTek pro
 publishedDateTime: 2020-06-22T11:30:00Z
 webUrl: "https://financial-news.co.uk/sosi-to-advance-ai-machine-learning-for-speech-recognit/"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
 related:
   - title: "Combining predictive coding and neural oscillations enables online syllable recognition in natural speech"

@@ -71,17 +71,6 @@ related:
         width: 760
         height: 507
         isCached: true
-  - title: "Driver free but virus fee? Robo-car firms hit new speed bump"
-    excerpt: "This despite its use of multiple laser, radar and camera sensors connected to artificial intelligence. Cadariu said Waymo has a team in the Detroit area working on snow and wet roads, while other ..."
-    publishedDateTime: 2020-06-17T19:25:00Z
-    webUrl: "https://www.seattletimes.com/business/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/"
-    ampWebUrl: "https://www.seattletimes.com/business/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
   - title: "Robo Cars Hit New Speed Bump"
     excerpt: "The fledgling industry now has to deal with passenger anxiety amid the coronavirus pandemic."
     publishedDateTime: 2020-06-18T15:19:00Z

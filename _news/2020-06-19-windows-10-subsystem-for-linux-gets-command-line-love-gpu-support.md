@@ -26,21 +26,21 @@ images:
     title: "Windows 10 Subsystem for Linux gets command line love, GPU support"
 
 related:
-  - title: "Windows 10's Linux subsystem gets GPU compute and an easier install in new preview"
-    excerpt: "Microsoft's latest Insider Build 20150 allows you to install the Windows Subsystem for Linx 2 via a typed command, and adds GPU compute support via Nvidia's CUDA."
-    publishedDateTime: 2020-06-17T19:44:00Z
-    webUrl: "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.html"
-    ampWebUrl: "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.amp.html"
-    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.amp.html"
+  - title: "GPU accelerated ML training now available for 3.5 million Windows Subsystem for Linux users"
+    excerpt: "Microsoft has announced the availability of GPU Compute on the WSL2, allowing users to run native Linux command-line tools directly on Windows 10"
+    publishedDateTime: 2020-06-18T17:30:00Z
+    webUrl: "https://news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/"
+    ampWebUrl: "https://news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/amp/"
+    cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/amp/"
     type: article
     provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 85
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 64
     images:
-      - url: "https://images.idgesg.net/images/article/2020/06/windows-susbsystem-for-linux-2-windows-update-100849123-large.jpg"
-        width: 1200
-        height: 598
+      - url: "https://news.thewindowsclub.com/wp-content/uploads/2020/06/GPU-Compute-WSL-2.jpg"
+        width: 700
+        height: 365
         isCached: true
   - title: "Windows 10 Linux subsystem: You get GPU acceleration – with Intel, AMD, Nvidia drivers"
     excerpt: "Microsoft sees Nvidia's CUDA platform as important for enhancing machine-learning training on WSL and the pair have launched a preview of CUDA for WSL 2, which includes support for key machine-learning tools like Facebook's PyTorch and Google's TensorFlow"

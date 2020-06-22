@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars-will-wipe-out-drive-by-shootings-kind-of/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 1000
         height: 580
         isCached: true
-  - title: "Uber putting self-driving cars back on the road"
-    excerpt: "The on-demand ride service grounded its test fleet of self-driving cars pending an investigation into a crash of an Uber autonomous vehicle in Arizona. No one was seriously injure"
-    publishedDateTime: 2020-06-22T11:46:00Z
-    webUrl: "https://www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186"
-    ampWebUrl: "https://www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186?view=htmlamp"
-    cdnAmpWebUrl: "https://www-nation-co-ke.cdn.ampproject.org/c/s/www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186?view=htmlamp"
-    type: article
-    provider:
-      name: Daily Nation
-      domain: nation.co.ke
-    quality: 24
 
 secured: "MpSk20b1xlbbBlapYd37ZwS79zpig8MVNMX1+U9nGgMCYFjpxbkWSahOJ6lZAiC2CNA2xsJySLMYPsfjJrNhFIIFZofHvfkQK4+e5mhifI49P+FThXisyQQ3YJqIFFMYY7xdl8qfxNotgbyuiCpdV6rVZEHFlyjLZAeMlFmpEInQNXN9C8MaMBjC5R77PPGuq7fmvjAjhyAM90TWEh3q6Gb7NDGOHUDb90oJE2DmC5SHViqwHbtVp//iAqXvI+NogqmSdWeiNqsUCeuVYbor1qS1GQ7m2MVzqIz+oHIjpqngMSduIp9W8j7NtzbeNDLrls5X5W32pIJDZQMLPhoQfoCvLcGrRWlpMZxH6eaEk8QAbOs2Pzv+o7kM9KXTb14eK3CyJR30qJHEBbEiW4ekoUC0BWw9sQGIOUSMaIVSIcd5dRKFKRcGUyXCY2dS79pcY1Vp8Jli7a517QtZCEDotX9Kiq7Khgc7+th/ntSTV7HVyv7zR5AAuYDjvxDSxSeG;+xh5iMp+7xbTGwAL+2bb0Q=="
 ---

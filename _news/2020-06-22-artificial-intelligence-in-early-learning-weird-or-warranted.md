@@ -7,8 +7,8 @@ webUrl: "https://www.heraldtribune.com/news/20200622/artificial-intelligence-in-
 ampWebUrl: "https://www.heraldtribune.com/news/20200622/artificial-intelligence-in-early-learning-weird-or-warranted?template=ampart"
 cdnAmpWebUrl: "https://www-heraldtribune-com.cdn.ampproject.org/c/s/www.heraldtribune.com/news/20200622/artificial-intelligence-in-early-learning-weird-or-warranted?template=ampart"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://www.heraldtribune.com/apps/pbcsi.dll/bilde?Site=LK&Date=20200622&Category=NEWS&ArtNo=200629712&Ref=AR"
@@ -26,6 +27,6 @@ images:
     isCached: true
     title: "Artificial intelligence in early learning: weird or warranted?"
 
-secured: "xSWJS4hR6ZfbhtzuuTaEbic8f0ebR/wjklFbR1y54JlLaaEdM/lSdqLEx2wX+pdbg1dtbRvKeNuJdM+3190TP7N/UagEUJYgFzpXsApQurm/eoThxhA/owBQcj2VX2Lx6pGxw9XWRUamaApI9sJLH6lh+hho6bxJgktCJN2W6iO+UQcG262IWdBPwXvKqPOVy07LVcVuKD/yOlZpL68PXejnl0wf7Hfvv2dOw7Sd1hyszErGdDnfl0HyWqAs+W0KaXg0IssW5i0z9+EfGdIfO6hWV2EKrvGuQVk3kvo9fY9rdoAPP3DWfpQFVtbKIZl8y+eX5xUT4OnA1h/6zbTrOw==;mcd9cYtsU+8i/ZVgEbLAFw=="
+secured: "RKl4tx1VK4O3QYGBG4imMy6cm/qlv7cfRWv3Cfcdc6aKcTBo/ILTVJWj4V8dm7vxAiGcL5y1MwxwNkM+AT06wUPx22Of0IWCAfwSRlqYXqnPJBtEq7d9LmTS+33IwY9l8yjMxYYZ3eYhzzQQa0Lb7rAE4o4nl+jD/3DaFrIJ/iUaKT2ssXM8NzBfYIn+fMb0U3wyUgbVUXByl4XEXuTQwa70mjCEr2xe0pAPGEgMi9doYrCRnF9ItV/z+U1iT0LdvQ1GLDbg43tQRSkKkTMyEdLDn3cyftidgeiKZx9eZyPtVwegrZ3e+Q66m9pBoWncS7Ld0ifE7YeG3J2DnaHz8VK7GvyQLESPO+r4NT055pvJRD4frnyWTAMxPzuoCNnZGwsgTf/T8gPId+wW6Uts6pMskIusTbl5gaBA5bXGLwWOCQafGERkGcOISDMcoagwxlLvK+S8wMDb4LBkNLfutCoAnu+Eop0fvwJB/J3Ai4LYzchN/vlHJF2TM4cDW4Kq0vJSkkUyPfv/Ku2RXAxr/Q==;GIi+wQNuEtwlPUDwp7QNuw=="
 ---
 

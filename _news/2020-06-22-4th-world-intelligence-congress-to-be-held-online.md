@@ -1,0 +1,28 @@
+---
+category: news
+title: "4th World Intelligence Congress to be held online"
+excerpt: "A news report by China.org.cn on 4th World Intelligence Congress: The 4th World Intelligence Congress (WIC), a top-level event in the field"
+publishedDateTime: 2020-06-22T13:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/4th-world-intelligence-congress-to-be-held-online-301080852.html"
+type: article
+quality: 22
+heat: 22
+published: false
+
+provider:
+  name: PR Newswire
+  domain: prnewswire.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://i1.ytimg.com/vi/ZN8JP5HUj1o/hqdefault.jpg"
+    width: 480
+    height: 360
+    isCached: true
+    title: "4th World Intelligence Congress to be held online"
+
+secured: "RvpAl+fmqeAkafpbYMcV2Oy5pXO+VHKW4XjKroA8d1KYKComQ0hjXpGkTw5xTg+JHb08A043BVnrqs1rl8yMh19hm/3Xk0Hn5CADORe2p99la7zDoEvI9kd72HRY230qLJTqepKbVZfpJlC8oNpSb5zyWFFtApAk/aqLee+I2yDbnBU5OY7DPEg+IFYGklrgMLTLMLxquEtJPBp/JVBxK60dKJLEsHN+6qiHKtz0gMblR8aqGjT+M4qX4JYAcgoAfnkcu3HmqLQCo88UV84xE0XLy7Arc/gvRTI6BeBPYFpWH7LJqDZIQKB5qi4rpYXDHRXCMfaIThluUMguuRqQkQ==;/z1vQkbtbCJXkR9RQMGQeg=="
+---
+

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/bmw-mercedes-end-self-driving-partnersh
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/bmw-mercedes-end-self-driving-partnership-191920863.html"
 type: article
 quality: 74
-heat: 164
+heat: 144
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     title: "BMW and Mercedes call it quits on their self-driving car partnership"
 
 related:
-  - title: "BMW and Mercedes Put Self-Driving Alliance On Hold"
-    excerpt: "Benz are shutting down their joint self-driving effort, at least for the moment — though they might work together again in the future. BMW and Daimler ( OTC:DMLR.Y), the corporate parent of Mercedes-Benz,"
-    publishedDateTime: 2020-06-19T16:38:00Z
-    webUrl: "https://www.fool.com/investing/2020/06/19/bmw-and-mercedes-put-self-driving-alliance-on-hold.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/06/19/bmw-and-mercedes-put-self-driving-alliance-on-hold.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/19/bmw-and-mercedes-put-self-driving-alliance-on-hold.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F579334%2Faptiv-lyft-2018-blog.jpg&w=1200&op=resize"
-        width: 1200
-        height: 770
-        isCached: true
   - title: "BMW and Mercedes shelve shared self-driving tech plan"
     excerpt: "Benz have put their autonomous driving collaboration on hold, blaming the expense of building a shared system for the decision. The two German automakers announced their"
     publishedDateTime: 2020-06-19T15:23:00Z
@@ -149,15 +133,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "BMW and Mercedes go down different self-driving roads"
-    excerpt: "There is an interesting shakeup in the world of autonomous vehicles. Per a mutual press announcement today, BMW (OTCPK:BMWYY) and Mercedes-Benz (OTCPK:DDAIF) have put their cooperation agreement for"
-    publishedDateTime: 2020-06-19T12:41:00Z
-    webUrl: "https://seekingalpha.com/news/3584494-bmw-and-mercedes-go-down-different-self-driving-roads"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "25C+iNx4oA6cOzxnSXqaAHvgRJNxFeOZPachaJ6UVJCV3Y3rKa/1nXdnH0OSmIFZmVRdfHAKVtOU64AXQYzy0T15O3pE9BaXv2zUFeBtTc9bnWJuhcYYCMEjdlw0GJOMpEvJ8+/VnwMJMMipNyjARdvApfPGHVwj8gTCr7IDwP2sm7xGsUAzzyYHBcr38Z5oqUnn2yA8J5Z8locpQhAUGm1HKDAqG0DLD/n2svypNVsQbh4syd1ZN2sPzKHk0HzjsXOTEECim0YPibIs2e8yW8Cy8gB9cwSzYkY3hKAesG6hOo0kNoa7fQfdcfWxaTmmK0Iv4Rr7s1/BjF3wTv49G21L2LJiEoZh+788UJClAsrorYcOFXDPTzeLfP3LUbMo6es/DByhU0nF6UF2kUQysSO1fzcjGh/iNW+5pnnLh0OFdhGxq5neIK+7mB4zaiNFPYjJySj8WakhOKp8p6knYu8Py8UTn8UonHZ5j+/5TzGATBoZWHRM0qXdmosmdMhZ;xVn+Yo5+cU3B60/R1EanJA=="
 ---

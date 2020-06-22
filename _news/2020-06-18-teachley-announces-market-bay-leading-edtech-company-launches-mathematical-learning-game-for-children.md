@@ -25,17 +25,22 @@ images:
     title: "Teachley Announces Market Bay: Leading Edtech Company Launches Mathematical Learning Game for Children"
 
 related:
-  - title: "Machine Learning Chip Market"
-    excerpt: "The report published by Allied market research, titled, “Machine Learning Chip Market By Chip Type (GPU, ASIC, FPGA, CPU, and Others), Technology (System-on-chip, System-in-package, Multi-chip module, and Others), and Industry Vertical (Media ..."
-    publishedDateTime: 2020-06-18T20:07:00Z
-    webUrl: "https://www.openpr.com/news/2077194/machine-learning-chip-market-2020-top-impacting-factors"
-    ampWebUrl: "https://www.openpr.com/amp/2077194/machine-learning-chip-market-2020-top-impacting-factors"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2077194/machine-learning-chip-market-2020-top-impacting-factors"
+  - title: "Microsoft Announces Azure Machine Learning Courses on Udacity"
+    excerpt: "Microsoft and Udacity are offering an introductory Azure Machine Learning course and a scholarship to a more complex course."
+    publishedDateTime: 2020-06-18T13:37:00Z
+    webUrl: "https://winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/?amp"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 39
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 91
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/06/Microsoft-Azure-Udacity-Microsoft.jpg"
+        width: 760
+        height: 428
+        isCached: true
 
 secured: "LWEaXvvCG0r/Rrtj0D3fyFgfmOet89+w3JrIa8Z3oVv6q0QsSK0E/7XyfOTD7ocwJvb5KhftluDwhd4lraOTvhJrF47JqRh15mfpuue+PI8RX6ExE6nqXaDeLgTy/G8NS6Jb3P+DyAcE8ga8QRRIGkcVidYOK+UvgFKrrVnxVBVHtdzRYY34uHqgcArxiPydLyRG/3iSR2grqQ3PahLw5mzVxoSVpCl9JiShpE4MvSQP0pzNPuUJmNS8fRbnFrx+2mTXmzV0W6UC+fMXKboZYOCaBu/p2+ph1Ndg04P288uGpqTOb6dlxV+CAWok9cPeabnaHktCKfGFksyJI54C9Q==;Saj1eUETHIkgM83/qQBNCw=="
 ---

@@ -47,22 +47,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "BMW and Mercedes Put Self-Driving Alliance On Hold"
-    excerpt: "Benz are shutting down their joint self-driving effort, at least for the moment — though they might work together again in the future. BMW and Daimler ( OTC:DMLR.Y), the corporate parent of Mercedes-Benz,"
-    publishedDateTime: 2020-06-19T16:38:00Z
-    webUrl: "https://www.fool.com/investing/2020/06/19/bmw-and-mercedes-put-self-driving-alliance-on-hold.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/06/19/bmw-and-mercedes-put-self-driving-alliance-on-hold.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/19/bmw-and-mercedes-put-self-driving-alliance-on-hold.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F579334%2Faptiv-lyft-2018-blog.jpg&w=1200&op=resize"
-        width: 1200
-        height: 770
-        isCached: true
   - title: "BMW terminates self-driving tech partnership with Mercedes-Benz"
     excerpt: "German automaker BMW has announced that it will freeze its self-driving technology development program with Mercedes-Benz after a steep plunge in demand for its vehicles due to the coronavirus. BMW will also get rid of 6,"
     publishedDateTime: 2020-06-19T19:04:00Z
@@ -149,15 +133,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "BMW and Mercedes go down different self-driving roads"
-    excerpt: "There is an interesting shakeup in the world of autonomous vehicles. Per a mutual press announcement today, BMW (OTCPK:BMWYY) and Mercedes-Benz (OTCPK:DDAIF) have put their cooperation agreement for"
-    publishedDateTime: 2020-06-19T12:41:00Z
-    webUrl: "https://seekingalpha.com/news/3584494-bmw-and-mercedes-go-down-different-self-driving-roads"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "Thzu8BGJOoUxsBSa2WYfjeBeQ4r5fHFNZhJAwH9AGKCeuezktt5BPaP1hyEU+f7Y4HtQkHA9RgWx2AtW4Wp1B/UBQNsXDtiIKJU6OiCJsDI7Rd2/W8KUj11nQy4F7LsP5mU/EHFsLosu6b8E4EjHteggz6388dUy/YPRl8bUN3hNIywXfEfS+2/fuFTIHL123xDkLTRMl5zu+NgRIkxgsgItuA5KmCkHCzCWgimTIv74pHAjv2IRpkPAispwmzQXSAZlj2sby1+UyEcthvHYXHTd+36jud3gPS6qtRHip2YUwCqZ8brj8Jx0IOzNhJN3IiKtoPztMXjWSEe1nr2n48T0uSvCX4Wa0p9OGlo4l7RylDbkegktD1cJ0iOFNhWJucHscRi4PB4FpCnzESo9MMCINw+UhDBYLB3YQ/LymcsgbFXbxCsYegU1/Sx+iJ5KizMBjBTib1x9k+vP2Yfz71yLJkhtLRn7DXoScagBhATf7tU5dsQNzV6WHlpGpUVoqn+4/8H36W1Gj9NdGwj2TA==;FJFTjRD5E59maoluMyzy6Q=="
 ---

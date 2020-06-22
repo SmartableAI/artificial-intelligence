@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Mowing made easy: robots tackle lawn care"
-excerpt: "Maintaining a lawn in the summer heat is often a dreaded chore for homeowners. Now there are robots that can do the job for you. Worx, the company that makes the highly-rated Landroid, says autonomous mowers are getting more popular."
-publishedDateTime: 2020-06-21T04:03:00Z
-webUrl: "https://www.wpsdlocal6.com/news/mowing-made-easy-robots-tackle-lawn-care/article_2c3f7e02-b374-11ea-8401-0bc2bd9621fb.html"
+title: "Mowing Made Easy: Robots Tackle Lawn Care"
+excerpt: "Maintaining a lawn in the summer heat is often a dreaded chore for homeowners. Now there are robots that can do the job for you. Worx, the company that makes the highly-rated"
+publishedDateTime: 2020-06-21T19:47:00Z
+webUrl: "https://www.myarklamiss.com/news/business/mowing-made-easy-robots-tackle-lawn-care/"
+ampWebUrl: "https://www.myarklamiss.com/news/business/mowing-made-easy-robots-tackle-lawn-care/amp/"
+cdnAmpWebUrl: "https://www-myarklamiss-com.cdn.ampproject.org/c/s/www.myarklamiss.com/news/business/mowing-made-easy-robots-tackle-lawn-care/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WPSD Local 6
-  domain: wpsdlocal6.com
+  name: My ArkLaMiss
+  domain: myarklamiss.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wpsdlocal6.com/content/tncms/assets/v3/editorial/2/c3/2c3f7e02-b374-11ea-8401-0bc2bd9621fb/5eeede2c9cc8c.preview.jpg?crop=700%2C394%2C0%2C0&resize=700%2C394&order=crop%2Cresize"
-    width: 700
-    height: 394
+  - url: "https://www.myarklamiss.com/wp-content/uploads/sites/15/2020/06/lawncare.png?w=1222&h=687&crop=1&resize=1280,720"
+    width: 1280
+    height: 720
     isCached: true
-    title: "Mowing made easy: robots tackle lawn care"
+    title: "Mowing Made Easy: Robots Tackle Lawn Care"
 
 related:
   - title: "Mowing made easy: Robots tackle lawn care"
@@ -58,6 +60,6 @@ related:
         height: 451
         isCached: true
 
-secured: "DNNlExpX/3bf17KEHZbSwrw14I0w4R7j33X/HF5ZaIVt/PxDxXok/mdFew5oNa9uEZSkHo8397xSheM990KQeWsA0v2zZdShmSXh/UOVYEUFJq7QMP4tQ0ji64G9SmpB3ULkWkk8aOt7chn3bJ/L23CujE/IxnWVxSslXXEPnF6FkQ4uL0ggUVFuCW8YCBC3XQKaY60KC87Xhk4LcjNlN3nXXdevJDRm+P09X05+e76nhv84bxF3+rp59/N8u0tq+0x9hJ4HuwfxxR7c1tl+E+F6T4bVmjZfhGCawwyDU7vQ3MAlSJDvTM/qrK1kolwpEwV8pREfKvPfBLfONCB0Gg==;NEvZa2nMRNQ/VZGewKPf4Q=="
+secured: "uD0Q7vJ7rFuGyUKPX+WyykQI0gVTuBjLDUJlzJ434scROIPYq4NcEEA+D+A8yiuPJGSs0NjFVuqrsEqw0pkiEI0unRrf3rBTOo7ESmBsFfvhw0zTP+y5v581pv5CuxHgpNU/13J5UmLsdrEJbyUsJMe1Y13L6KK5wdI4JC6wziN9cgdsrgZmly3BTZcN4+SiXLZqJRP4XzIouR2EveO1qrcC6g7qrPaPMmKLzb+OYkCZxGnExly0oqmIZ3JDyRJYqo3aoK8oPkVbWvuF1fFtXi8AXiHzO4vOfEXiCCUabV6GCPAk2UsynC07e7wy3Zk7M+cf9f0aYM58ik3YRf05bg==;SvChyFbhhDp7MTcGA745Dw=="
 ---
 

@@ -57,22 +57,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Microsoft Tried Selling Its Facial Recognition Technology To The DEA As It Called For Regulation On Government Use"
-    excerpt: "The DEA ultimately opted against buying its technology, citing criticism targeted at the FBI's facial recognition program."
-    publishedDateTime: 2020-06-17T19:02:00Z
-    webUrl: "https://www.forbes.com/sites/davidjeans/2020/06/17/microsoft-facial-recognition-technology-dea/"
-    ampWebUrl: "https://www.forbes.com/sites/davidjeans/2020/06/17/microsoft-facial-recognition-technology-dea/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidjeans/2020/06/17/microsoft-facial-recognition-technology-dea/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1216203551%2F0x0.jpg"
-        width: 1200
-        height: 747
-        isCached: true
   - title: "Protests Shine Light On Facial Recognition Tech Problems"
     excerpt: "As big tech steps back from facial recognition for police, some AI experts want an end to its use entirely. Here’s why they say reform isn’t enough."
     publishedDateTime: 2020-06-19T04:13:00Z

@@ -42,9 +42,9 @@ related:
         height: 580
         isCached: true
   - title: "System makers take the wraps off their Nvidia A100 GPU servers"
-    excerpt: "At the time Huang asserted that the GPU could provide \"a 20x AI performance leap,\" over its predecessor. Other attractive qualities of the GPU are; its new multi-instance GPU technology enabling a ..."
+    excerpt: "Nvidia CEO Jensen Huang took the wraps off the Ampere architecture and A100 GPU during his 'kitchen keynote'. The new GPU is built on TSMC's N7 process and utilises 54 billion transistors within its 3D chip stack (which includes HBM2)."
     publishedDateTime: 2020-06-22T09:11:00Z
-    webUrl: "https://hexus.net/tech/news/graphics/143608-system-makers-take-wraps-nvidia-a100-gpu-servers/"
+    webUrl: "https://www.hexus.net/tech/news/graphics/143608-system-makers-take-wraps-nvidia-a100-gpu-servers/"
     type: article
     provider:
       name: Hexus

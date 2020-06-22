@@ -20,38 +20,91 @@ topics:
   - AI
 
 related:
-  - title: "Self-Driving Cars Will Wipe Out Drive-By Shootings, Kind Of"
-    excerpt: "All in all, a car provides several crucial elements in the performance of a drive-by shooting. The car is a kind of protector. It helps to disguise or hide the perpetrator. A targeted person does not necessarily realize that the car holds someone desiring to shoot at them."
-    publishedDateTime: 2020-06-18T15:26:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars-will-wipe-out-drive-by-shootings-kind-of/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars-will-wipe-out-drive-by-shootings-kind-of/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/18/self-driving-cars-will-wipe-out-drive-by-shootings-kind-of/amp/"
+  - title: "The key differences between Tesla’s driving aids: Autopilot and Full Self-Driving"
+    excerpt: "In this edition of Shift Basics, we take a look at what Tesla's Autopilot and Full Self-Driving are, how they're different, and what they cost."
+    publishedDateTime: 2020-06-22T13:00:00Z
+    webUrl: "https://thenextweb.com/shift/2020/06/22/differences-between-teslas-autopilot-and-full-self-driving-system-adas-tech/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 79
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/second-Autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving-796x448.png"
+        width: 796
+        height: 448
+        isCached: true
+  - title: "BMW and Mercedes Put Self-Driving Alliance On Hold"
+    excerpt: "Benz are shutting down their joint self-driving effort, at least for the moment — though they might work together again in the future. BMW and Daimler ( OTC:DMLR.Y), the corporate parent of Mercedes-Benz,"
+    publishedDateTime: 2020-06-19T16:38:00Z
+    webUrl: "https://www.fool.com/investing/2020/06/19/bmw-and-mercedes-put-self-driving-alliance-on-hold.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/06/19/bmw-and-mercedes-put-self-driving-alliance-on-hold.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/19/bmw-and-mercedes-put-self-driving-alliance-on-hold.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
     quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1187185020%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4785%26cropY1%3D253%26cropY2%3D2945"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F579334%2Faptiv-lyft-2018-blog.jpg&w=1200&op=resize"
         width: 1200
-        height: 675
+        height: 770
         isCached: true
-  - title: "Self-Driving Cars Won’t Avoid Most Crashes"
-    excerpt: "Tumisu via PixabayWhile excitement has been gradually growing in anticipation of self-driving cars’ debut, you may be disappointed to learn that these vehicles won’t necessari"
-    publishedDateTime: 2020-06-20T18:49:00Z
-    webUrl: "https://thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/"
-    ampWebUrl: "https://thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/amp/"
-    cdnAmpWebUrl: "https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/amp/"
+  - title: "The Self-Driving Car Race Between Tesla, GM and Ford Takes a Big Turn"
+    excerpt: "General Motors introduced Super Cruise, a system that can steer a car on thousands of miles of highways in North America, in 2017. And this week, Ford finally unveiled its own Autopilot answer, a hands-free driver assistance feature called “Active Drive Assist."
+    publishedDateTime: 2020-06-20T16:06:00Z
+    webUrl: "https://observer.com/2020/06/tesla-gm-ford-electric-vehicle-self-driving-autopilot-update/"
+    ampWebUrl: "https://observer.com/2020/06/tesla-gm-ford-electric-vehicle-self-driving-autopilot-update/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/06/tesla-gm-ford-electric-vehicle-self-driving-autopilot-update/amp/"
     type: article
     provider:
-      name: thenewswheel.com
-      domain: thenewswheel.com
-    quality: 44
+      name: Observer
+      domain: observer.com
+    quality: 59
     images:
-      - url: "https://thenewswheel.com/wp-content/uploads/2019/09/car-accident-1995852_1280-1000x580.png"
-        width: 1000
-        height: 580
+      - url: "https://observer.com/wp-content/uploads/sites/2/2020/06/GettyImages-1199703559.jpg?quality=80&strip"
+        width: 7964
+        height: 5309
         isCached: true
+  - title: "Tesla is removing Autopilot’s green light confirmation in step towards inner-city Full Self-Driving"
+    excerpt: "Tesla is planning to improve the recently released Traffic Light and Stop Sign Control feature by removing the function’s existing green light confirmation. This bodes well for the company’s pursuit of its Full Self-Driving suite,"
+    publishedDateTime: 2020-06-19T13:37:00Z
+    webUrl: "https://www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/"
+    ampWebUrl: "https://www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 45
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2020/04/tesla-stop-sign-traffic-light-control-1024x439.jpg"
+        width: 1024
+        height: 439
+        isCached: true
+  - title: "Self-driving Bus Services Tested Out In Tallinn"
+    excerpt: "Two types of self-driving bus are being tested out in Estonia this week as part of initiatives that could revolutionise public transport in Europe. One of the services in tech-savvy Estonia, which is often used as a testing ground for innovation,"
+    publishedDateTime: 2020-06-18T17:29:00Z
+    webUrl: "https://www.ibtimes.com/self-driving-bus-services-tested-out-tallinn-2996593"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/18/look-no-hands.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "BMW and Mercedes go down different self-driving roads"
+    excerpt: "There is an interesting shakeup in the world of autonomous vehicles. Per a mutual press announcement today, BMW (OTCPK:BMWYY) and Mercedes-Benz (OTCPK:DDAIF) have put their cooperation agreement for"
+    publishedDateTime: 2020-06-19T12:41:00Z
+    webUrl: "https://seekingalpha.com/news/3584494-bmw-and-mercedes-go-down-different-self-driving-roads"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "YdyjO6JChOR9tbOb5w+iJF4/EZsfQh3I2bil/l69qDuYs+UgXwwMeNJwOlHvPTaeoPJxEsc2JLcxVLNhIDLO7PbHADETjny/7F39PghSKFxeB1cfibdpZd35YKzBeDMObHualvPi+M1hllR1cXg4Ocirjc/B9DGpZvp4AoUxU+k1TNhiN8U4psP2X4pILL7N/JwOd9WLkD/t03yAzEBlHq0MabNpL0z5ZnUHjRq/vqmqzTguZSkXGofgDKALQRgQQxrlVLJQ4rAoUqI6uVLvhWPQYzaeubzaLEW7XBaI6W5lpekevWDl1V1/vyuRChXwGUqvvCQqAu43AbTvWM61vw==;HDjuwzOph7gCE+nXMtZckg=="
 ---
