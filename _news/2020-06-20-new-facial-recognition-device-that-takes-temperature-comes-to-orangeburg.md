@@ -98,6 +98,20 @@ related:
       name: Security
       domain: securityinfowatch.com
     quality: 17
+  - title: "CyberLink FaceMe® Updates with New “Social Distancing” Features, including Mask Detection & Enhanced Facial Recognition Capabilities"
+    excerpt: "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced new updates to its landmark facial recognition softwar"
+    publishedDateTime: 2020-06-23T06:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200622005018/en/CyberLink-FaceMe®-Updates-New-“Social-Distancing”-Features"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 8
+    images:
+      - url: "https://mms.businesswire.com/media/20200622005018/en/799352/23/FaceMe_Mask-1200x628.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "8+mU5a4Uz2Z5bmpBeng8OzfXf2v3z/72UJOziQF4RJNL9KQ2t8Jnq7GS6/m+9NtUoGRWUdPLwqvHRIjEi0m28xLKDCZ8ALYsYW4eMh52L7aFY0qbtdvyCwlLceRma/WqmmhxXf4ydy7kBT0RDZA4XWdZzkxsX+GuCdQxoyC3NzbooIW1fPux9tDPN2uitZKL41H5h5M8a8MfeVDw5TyYy01x8RX79Tjf+NeyUkV2rzngo0HFse6yeVZWUPmUxzftknY/W3EjDknesfQienbfwHatVJmJsfQks/UPBSxh9lXX6gm8CgB6Y0O2tXkU1QEhC9G0+T2oxl23mJLi5xChE4XBQeBUP2+37d6/LHwalSnTS+VaJ3+07iIHkWmipZIY8bmNtVP2U+O6zV8vNrBXVv1bAlz6VP3iV6hWNGP1+cTztWRrPpI5pXv2mOhpYmg8wHR0HWlYzZQH1T428b4ZmTo7ZAeCQbrFWeqwfsLp42tF1i6tl0WswQlgdoZJXOSZbxigFtE5XyREZVJgdMMSvA==;NXkSKLgN7e0nIJI004pp4Q=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://theconversation.com/amp/from-hal-9000-to-westworlds-dolores-
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/from-hal-9000-to-westworlds-dolores-the-pop-culture-robots-that-influenced-smart-voice-assistants-140341"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     title: "From HAL 9000 to Westworld’s Dolores: the pop culture robots that influenced smart voice assistants"
 
 related:
+  - title: "The Pop Culture Robots that Influenced Smart Voice Assistants"
+    excerpt: "Last year, nearly one third of Australian adults owned a smart speaker device allowing them to call on “Alexa” or “Siri”. Now, with more time spent indoors due to COVID-19, smart voice assistants may be playing even bigger roles in people’s lives."
+    publishedDateTime: 2020-06-23T07:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/06/the-pop-culture-robots-that-influenced-smart-voice-assistants/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/06/the-pop-culture-robots-that-influenced-smart-voice-assistants/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/06/the-pop-culture-robots-that-influenced-smart-voice-assistants/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 59
+    images:
+      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2016/12/westworld.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "From HAL 9000 to Westworld’s Dolores: pop culture robots that influenced smart voice assistants"
     excerpt: "Two media scholars analysed how Siri, Alexa and other smart voice assistants got their distinctive voices. Their work reveals the consequences of this"
     publishedDateTime: 2020-06-22T01:15:00Z

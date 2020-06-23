@@ -8,8 +8,8 @@ ampWebUrl: "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to
 cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/?amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: winbuzzer.com
@@ -27,38 +27,6 @@ images:
     title: "Microsoft Acquires ADRM Software to Develop Data Models for Azure"
 
 related:
-  - title: "Microsoft acquires ADRM Software to beef up Azure with industry data models"
-    excerpt: "Microsoft announced that it acquired ADRM Software, a provider of large-scale industry data models used by companies as 'information blueprints.'"
-    publishedDateTime: 2020-06-18T14:46:00Z
-    webUrl: "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/"
-    ampWebUrl: "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 102
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 573
-        isCached: true
-  - title: "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business"
-    excerpt: "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,"
-    publishedDateTime: 2020-06-22T14:21:00Z
-    webUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/"
-    ampWebUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 97
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1175327728.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Microsoft buys ADRM Software to improve data model for Azure"
     excerpt: "Microsoft bought ADRM Software, a large-scale industry data model provider to improve on its buisness tool, Microsoft Azure. Read more!"
     publishedDateTime: 2020-06-19T06:31:00Z
@@ -105,20 +73,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
-    excerpt: "According to President and CEO Kevin Schofield, the combination of Azure storage and compute ... and AI [artificial intelligence] and ML [machine learning],\" Schofield added."
-    publishedDateTime: 2020-06-18T20:18:00Z
-    webUrl: "https://rcpmag.com/articles/2020/06/18/microsoft-acquires-adrm.aspx"
-    type: article
-    provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 54
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/1014vsm_Bowytz.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft Enhancing Azure Data Lake Capabilities with ADRM Acquisition"
     excerpt: "He described the combination of Azure storage and compute capabilities ... and AI [artificial intelligence] and ML [machine learning],\" Schofield added. The intelligent data lakes concept was ..."
     publishedDateTime: 2020-06-18T19:19:00Z
@@ -132,20 +86,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/0513red_RedView.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Microsoft acquires industrial cybersecurity startup CyberX for $165M"
-    excerpt: "Microsoft Corp. has acquired industrial cybersecurity startup CyberX Inc. for an undisclosed sum. Various reports suggest that the acquisition price was $165 million with the deal"
-    publishedDateTime: 2020-06-23T02:53:00Z
-    webUrl: "https://siliconangle.com/2020/06/22/microsoft-acquires-industrial-cybersecurity-startup-cyberx-165m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/03/cyberx.png"
-        width: 1100
-        height: 799
         isCached: true
 
 secured: "ZQiupREQgpKRmK4CWWu2UqJOD36nFM+zqiSkhndFz8iuCCHKZ6Stazxa3FeQg92BSjcYoo6H80O+JF9/nKTP6WxcF+2onvQd3PB/kABpdC4gxdDwzSwFp7w2orlXnXoL6yrDyaXE9cNZOpEV6WTUVGKN3UGCVFwXQX/sCXYSBCybPfaK+oMsh3nKzsE4oy/5ObonWzinRogTK2g2fXy04h1i1/RkWqhLHF4ca+sjTH6UvAvketa3hHf0pQ2lhDnw/31B+VqdaAi37vvblyl12uHleu9JRWNI+HBPQSuuh6hB+3gg0nO3zjFvPhpQ12SMVJ3enCxCqPINdPjPZW1aF++2TtqPbCdNIY3zi1BI1BrtPT4cHROrzPQHlBAqoSPw1EC0q9uRnryYpqvvoUkJvCr1gAhPJxu0CFNgbEgFBasoXtg9kYRZECu7Yc7b9HGhaaelXiRYcoe9sLy+JNAb7AHGFFsJG+yfPXCtpBgaFCIXt1q1X9dXKIWPnVYyIMpJ4wVTmJI7R5WfQWYz6iRm2w==;e38f7XidG7nPA29TL+z6VA=="

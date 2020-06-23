@@ -58,20 +58,6 @@ related:
         width: 810
         height: 460
         isCached: true
-  - title: "Video: Robotics platform combines 5G and AI"
-    excerpt: "Designed for the consumer, enterprise, defense, industrial and professional service sectors, the Qualcomm Robotics RB5 platform is powered by the Qualcomm QRB5165 processor and of"
-    publishedDateTime: 2020-06-18T14:36:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15301/video-robotics-platform-combines-5g-and-ai"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 71
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/301/15301/Qualcomm_Robotics_RB5_development_kit_3.png"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Qualcomm Introduces 5G and AI-Enabled Robotics Platform"
     excerpt: "Qualcomm on Wednesday announced its Robotics RB5 platform, with 5G and 4G connectivity, on-device AI and machine learning, superior computing and intelligent sensing capabilities. The platform's Qualcomm QRB5165 processor,"
     publishedDateTime: 2020-06-18T19:12:00Z

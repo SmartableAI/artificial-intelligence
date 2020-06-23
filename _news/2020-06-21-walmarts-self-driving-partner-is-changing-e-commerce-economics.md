@@ -138,6 +138,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
+    excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees"
+    publishedDateTime: 2020-06-23T06:51:00Z
+    webUrl: "https://infosurhoy.com/news/bmw-cuts-jobs-ends-self-driving-project-with-mercedes/"
+    ampWebUrl: "https://infosurhoy.com/news/bmw-cuts-jobs-ends-self-driving-project-with-mercedes/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news/bmw-cuts-jobs-ends-self-driving-project-with-mercedes/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 24
 
 secured: "oNcKcAzE3qOn+I2UFjv+eaijWhlsJKlISVKf79Ij9RzUvXJaN/LdFFdu2oYqARkdUcTtr5u6We9w9muidZlIJ6HvuaGIRlDLb51Gr0ebck1n7oS0hWNliHqgLuu6kGxFvYm3KGpxk1uib+CQ/LLvYNyvd/lZBJWt0vVZn6JotJmNvlwYQGA+NbWTrLu68kJqScs10Tw7E2uTTLuHVH6GbAlu0utLvUOMtYu+kJkRnqrzv3zBTFNhXg0AhJ4jTSJFqsAPErRRmwc5zcg6KQCn8S6KTRCA3yakZCrskSAC28dbufxtQvDnvqPzVXmyfM4rDXg2DObwZ6saFUfYBbGGnw==;p5eXQs5GeBS/qDNfX+SWXg=="
 ---

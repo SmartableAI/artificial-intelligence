@@ -1,30 +1,23 @@
 ---
 category: news
 title: "Fujitsu and RIKEN Take First Place Worldwide in TOP500, HPCG, and HPL-AI with Supercomputer Fugaku"
-excerpt: "In recent years, more computers, equipped with GPUs or AI dedicated chips, are adding a large number of low-precision arithmetic logic units (5 or 10 digits in 10) to increase their performance. Since these high-performance computing capabilities are not ..."
-publishedDateTime: 2020-06-23T03:13:00Z
-webUrl: "https://www.asiaone.com/business/fujitsu-and-riken-take-first-place-worldwide-top500-hpcg-and-hpl-ai-supercomputer-fugaku"
-ampWebUrl: "https://www.asiaone.com/business/fujitsu-and-riken-take-first-place-worldwide-top500-hpcg-and-hpl-ai-supercomputer-fugaku?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/fujitsu-and-riken-take-first-place-worldwide-top500-hpcg-and-hpl-ai-supercomputer-fugaku?amp"
+excerpt: "As the information technology platform, Fugaku demonstrates overall high performance to make Society 5.0 a realityNews Facts:- Supercomputer Fugaku jointly developed by RIKEN"
+publishedDateTime: 2020-06-23T00:51:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/06/a16344829/fujitsu-and-riken-take-first-place-worldwide-in-top500-hpcg-and-hpl-ai-with-supercomputer-fugaku"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16344829"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16344829"
 type: article
-quality: 45
-heat: 45
+quality: 25
+heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2020/asiaone_default_1200x630.jpg?itok=-c9iz4Hx"
-    width: 763
-    height: 509
-    isCached: true
-    title: "Fujitsu and RIKEN Take First Place Worldwide in TOP500, HPCG, and HPL-AI with Supercomputer Fugaku"
 
 related:
   - title: "Fujitsu and RIKEN Take First Place Worldwide in TOP500, HPCG, and HPL-AI with Supercomputer Fugaku"
@@ -42,6 +35,6 @@ related:
         height: 350
         isCached: true
 
-secured: "SRy/S+/sWSeUk/oO3OJf7BrWHxPqAZ8LuJiI2XFkbzWJ84PpV0vS4hRR/QUjfYMEObyb3p4gze105Wt+MVKB0oAFSp18sU8je4yndjqqYKqvCcZ7OHKp/maZeDYvhl6NgH/x/KhOAX1dgFhz55l8ceO4C4DJKVHIYAHbiK7+3MkIG5RdIPvDNJO93YgPH1y1WglKxONxTWg5QHxDbsR2w9yDKzpitQD0D7BT18C4xo1uoeEhgLOk8RKEbbg2LOVC7UD5/I9L1y6fzjRsQQ9u5bD51Ae+m6CRRPzhwNO7u7IhDeZ7lxB1jOWUyC2TPLH9nQg7ROkZY+UCF46UO7siSp0FIj2Ue7ttN8jD1sGgJygWjsFgPXd4qGMqWqXe284P2/n7B83x0HqCKU9uZJewCZe1NLHGhjlyurmF5p0ppKSsmt7Iv2tnm93jjWCBGsPSrBkHmdvaLRZy3/F/1X1k2qVuj/xwqeHkA4stl3rjSvxXsth0IzDohXgMJIwic+Ubj1anfEK/dwwJBJjbSQKt2w==;dwBPw4HvmWMJIkR8kmxpow=="
+secured: "j9ZBljS6rMs5K9W8qfwCId/rR17TOiKBjfR577Z8cJyflAIOFBHwnA4dbLkeAr1jFFUfSFh+GYiPJYmb9KIg4jmeOjdb2lMvTm9bvVCHz52XTWzRY4NVlwKFyWrQPVhBpavqHXdv640ucAM4hk5GX1U71Fs2v68P5zB/dePKDhux0LihRUOmukYjRnS2XDMkbE/9h1olZ76IxQYIlIqyDzWuAkY/pGQWs6TI6RE8FJvdLylWjKJ+86qnZmFY8+q/TCHFxvQN+5JSl7CLQVMSs/1/f8LEzg+Mal2qHcs4PkqIKILaHduk6ZVCaGDF3iiBIk7T9RYlx1vHN4QirfNtAw==;ZNkHr/LlwcKxwQ2s8pfgKg=="
 ---
 

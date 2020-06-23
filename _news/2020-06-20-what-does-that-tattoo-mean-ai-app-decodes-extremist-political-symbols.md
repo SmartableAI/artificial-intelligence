@@ -1,34 +1,28 @@
 ---
 category: news
 title: "What does that tattoo mean? AI app decodes extremist political symbols"
-excerpt: "VizPol can help journalists spot far-right and white supremacist symbols like Odal rune tattoos and boogaloo igloo flags."
-publishedDateTime: 2020-06-20T12:05:00Z
-webUrl: "https://www.cnet.com/news/what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/"
+excerpt: "This article, What does that tattoo mean? AI app decodes extremist political symbols, originally appeared on CNET.com. You probably have no trouble recognizing the Confederate flag or the LGBTQ rainbow flag."
+publishedDateTime: 2020-06-20T18:42:00Z
+webUrl: "https://www.sfgate.com/cnet/article/What-does-that-tattoo-mean-AI-app-decodes-15354095.php"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - AI
 
 images:
-  - url: "https://cnet2.cbsistatic.com/img/6V802LNr692jWjxRHZJDKMoiJEo=/756x567/2020/06/19/db54e33c-a93f-42a3-abe1-888a4258a06c/gettyimages-863111282.jpg"
-    width: 756
-    height: 567
+  - url: "https://s.hdnux.com/photos/01/12/53/72/19578548/5/rawImage.jpg"
+    width: 940
+    height: 627
     isCached: true
     title: "What does that tattoo mean? AI app decodes extremist political symbols"
 
-secured: "wHLSVjLkO7fQyigr4odUQkYJskwxSJ2pHIp3w5uj55fzjVnc0lW1gIQYEYEKTHaBJ6zAPzYeCeKxdkcDpZg5JYPLjy4BkgSBUbQwiwz5wxc2fSGTKQJvRQlpUbhmDfJBlRLTU/HlBWiYdevmWboLv/lLaZW0F6N7v3ILpUG50mHH5CpEsY1ZEiZfYj6Zpn3MR3xm46BuweTeBkjJ1XrzvYyrIw9b4uQlCJQDqy75RWCUCHq1XsbZT9rV1vyJrkQ69AzCJJzObPSo8t0F12VyhTAYCSIy+ZX15kkC7f9udmkZfvp900J8UQhOI6vREcARADk8rY8V+h0PQwu7rLgSoQ==;aPYZVwRKSuJ6lU7nBcFxPg=="
+secured: "8aKZdfvIPE1bNV5SZJcvVnKJNwws6/h5aXPNgwN8NJ+tw6D1ZMZtgDqY0lee4lmYDfsCcqncA6787C7B7IhXk6drOf/6Q6BNoP6I4u48gH6KRfbJSczyE+8bBko4YLxD+Fjzqg2Hgb4v0xDWzg+ADytxA2kS8+sIQlKEMshSlFwXC+Q3OfYQFTc24dw/XX3G4ZBRBTe4WqPvB7ZZGL1FnYyBKl1edZVt4u7p/3OBAcgk8d7cndoh4lH/O5p4ZDKlFl+LIwQFZnsf0yu0izidGIVht7na9mGmZAYmMLCdXh27rwJJ7CvbO9AMLy/63YwheBu8cQQiRCJOASXVwegHUw==;BgQ0FYGdcv84A7mkNodohA=="
 ---
 

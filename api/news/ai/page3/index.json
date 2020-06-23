@@ -2,6 +2,231 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-19-ai-artificial-intelligence-shows-us-a-future-where-we-neglect-to-dream.md",
+      "title": "A.I. Artificial Intelligence shows us a future where we neglect to dream",
+      "excerpt": "A.I. begins with a brief summary of the sorry state of the world: climate change has melted the polar ice caps, wiping out coastal cities and severely reducing the human population. With regulations in place for reproduction on a resource-starved planet,",
+      "webUrl": "https://www.theverge.com/2020/6/19/21296276/ai-artificial-intelligence-neglect-to-dream-yesterdays-future-scifi",
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/XMD3BYf0qPe6OlAiWd6H97CA4YE=/0x0:1280x723/1400x933/filters:focal(639x191:843x395):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66957596/ai041.0.jpg",
+          "width": 1280,
+          "height": 723,
+          "title": "A.I. Artificial Intelligence shows us a future where we neglect to dream",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/19/21296276/ai-artificial-intelligence-neglect-to-dream-yesterdays-future-scifi",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/19/21296276/ai-artificial-intelligence-neglect-to-dream-yesterdays-future-scifi",
+      "publishedDateTime": "2020-06-19T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-iot-chip-market-worth-5254-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
+      "title": "IoT Chip Market Worth $525.4 Billion by 2025 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "According to the new market research report \"IoT Chip Market with COVID-19 Impact Analysis by Hardware (Processor, Connectivity IC, Sensor,",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/iot-chip-market-worth-525-4-billion-by-2025-exclusive-report-by-marketsandmarkets-1029325818",
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/iot-chip-market-worth-525-4-billion-by-2025-exclusive-report-by-marketsandmarkets-1029325818",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/iot-chip-market-worth-525-4-billion-by-2025-exclusive-report-by-marketsandmarkets-1029325818",
+      "publishedDateTime": "2020-06-19T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility.md",
+      "title": "R&D Roundup: Automated peach sniffers, orbital opportunity and AI accessibility",
+      "excerpt": "I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups.",
+      "webUrl": "https://techcrunch.com/2020/06/19/rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility/",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/02/stanford-bci.gif",
+          "width": 480,
+          "height": 270,
+          "title": "R&D Roundup: Automated peach sniffers, orbital opportunity and AI accessibility",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/19/rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/19/rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility/amp/",
+      "publishedDateTime": "2020-06-19T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments.md",
+      "title": "Five Reasons For Financial Institutions To Consider AI-Driven Automation Investments",
+      "excerpt": "Retail and commercial financial institutions (FIs) are feeling enormous pressure to embrace and adopt artificial intelligence as industry competition grows.",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148110303%2F0x0.jpg",
+          "width": 1200,
+          "height": 912,
+          "title": "Five Reasons For Financial Institutions To Consider AI-Driven Automation Investments",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/amp/",
+      "publishedDateTime": "2020-06-19T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-global-voice-recognition-market-to-reach-usd-1605-billion-by-2027.md",
+      "title": "Global Voice recognition Market to reach USD 160.5 billion by 2027",
+      "excerpt": "Bizwit Research & Consulting LLP's Recent Analysis on Global Voice recognition Market is poised to raise up to USD 160.5 billion by 2027. The Voice recognition market has been on the surging trend on the global scenario.",
+      "webUrl": "https://www.marketwatch.com/press-release/global-voice-recognition-market-to-reach-usd-1605-billion-by-2027-2020-06-19?mod=mw_quote_news&tesla=y",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Voice recognition Market to reach USD 160.5 billion by 2027",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-19T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-artificial-intelligence-ai-cars-and-light-trucks-market-analysis-on-current-trends-by-2025.md",
       "title": "Artificial Intelligence (AI) Cars and Light Trucks Market - Analysis on Current Trends by 2025",
       "excerpt": "The Artificial Intelligence (AI) Cars and Light Trucks Market 2020 report is a comprehensive, professional and in-depth research of market that delivers significant data for those who are seeking information for the Artificial Intelligence (AI) Cars and Light Trucks industry.",
@@ -230,6 +455,44 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges.md",
+      "title": "IBM’S Newly Launched ‘Watson Works’ Uses AI To Help Firms Manage New Work Challenges",
+      "excerpt": "IBM recently launched Watson Works, a curated set of products that uses Watson AI models and applications to manage return to workplace challenges.",
+      "webUrl": "https://in.mashable.com/tech/14925/ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges",
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/news/i/ibm-gets-w/ibm-gets-woke-pulls-facial-recognition-software-from-law-enf_xmru.620.jpg",
+          "width": 620,
+          "height": 414,
+          "title": "IBM’S Newly Launched ‘Watson Works’ Uses AI To Help Firms Manage New Work Challenges",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/14925/ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/14925/ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges?amp=1",
+      "publishedDateTime": "2020-06-19T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -555,7 +818,7 @@
       "title": "Qualcomm launches 5G, AI-enabled robotics platform",
       "excerpt": "Qualcomm Technologies released the Qualcomm Robotics RB5 platform ... fifth-generation Qualcomm AI Engine that delivers 15 tera operations per second of artificial intelligence (AI) performance for running complex AI and deep learning workloads.",
       "webUrl": "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/",
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -870,7 +1133,7 @@
       "title": "Intel stock slips as new lines of AI chips released",
       "excerpt": "Intel Corp. shares slid with the broader market Thursday as the chip giant introduced several new products to support artificial intelligence and",
       "webUrl": "https://www.marketwatch.com/story/intel-stock-slips-as-new-lines-of-ai-chips-released-2020-06-18",
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1088,269 +1351,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-the-ai-eye-episode-371-ibm-announces-watson-works-and-intel-introduces-xeon-processors-with-additions-to-ai-portfolio.md",
-      "title": "The AI Eye Episode 371: IBM Announces Watson Works and Intel Introduces Xeon Processors with Additions to AI Portfolio",
-      "excerpt": "Point Roberts, WA and Vancouver, BC - June 18, 2020 (Investorideas.com Newswire) Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-episode-371-ibm-announces-watson-works-and-intel-introduces-xeon-processors-with-additions-to-ai-portfolio-2020-06-18",
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye Episode 371: IBM Announces Watson Works and Intel Introduces Xeon Processors with Additions to AI Portfolio",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off.md",
-      "title": "Get this Complete 2020 Big Data and Machine Learning Bundle at 96% off",
-      "excerpt": "With today's highlighted deal, be a modern day tech hero with 68 hours of content on the most in-demand IT expertise including Tensorflow, Keras, Deep Learning, Apache and more at Neowin Deals!",
-      "webUrl": "https://www.neowin.net/news/get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574762211_1481879523_efa151423bca1f29bdb0870f620e57a112ee9c7b_main_hero_image_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Get this Complete 2020 Big Data and Machine Learning Bundle at 96% off",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off/",
-      "publishedDateTime": "2020-06-18T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-is-covid-19-stymying-retails-intelligence-and-making-ai-more-critical-than-ever.md",
-      "title": "Is Covid-19 Stymying Retail’s Intelligence – And Making AI More Critical Than Ever?",
-      "excerpt": "With consumer purchase behavior changing dramatically due to pandemic-enforced lifestyle changes, artificial intelligence and data are hyper-critical. Can retailers adjusting to forced closures and new safety protocols also foster these technologies?",
-      "webUrl": "https://www.forbes.com/sites/bryanpearson/2020/06/18/is-covid-19-stymying-retails-intelligence--and-making-ai-more-critical-than-ever/",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb921ef8b43d000679f00e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Is Covid-19 Stymying Retail’s Intelligence – And Making AI More Critical Than Ever?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bryanpearson/2020/06/18/is-covid-19-stymying-retails-intelligence--and-making-ai-more-critical-than-ever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanpearson/2020/06/18/is-covid-19-stymying-retails-intelligence--and-making-ai-more-critical-than-ever/amp/",
-      "publishedDateTime": "2020-06-18T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-10-robotics-stocks-on-the-technological-cutting-edge.md",
-      "title": "10 Robotics Stocks on the Technological Cutting Edge",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips Robotics stocks offer an attractive source of opportunities for growth",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/10-robotics-stocks-cutting-edge-1029322986",
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/10-robotics-stocks-cutting-edge-1029322986",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/10-robotics-stocks-cutting-edge-1029322986",
-      "publishedDateTime": "2020-06-18T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-warehouse-robotics-company-geek-raises-200-million.md",
-      "title": "Warehouse robotics company Geek+ raises $200 million",
-      "excerpt": "Chinese warehousing robotics startup Geek+ announced it has raised over $200 million in Series C investment, one of the largest rounds closed in the warehousing industry to date. The company continues to remain the most funded warehousing robotics startup in the world with a Series B investment of $150 million in late 2018 and total funding of nearly $390 million.",
-      "webUrl": "https://www.freightwaves.com/news/warehouse-robotics-company-geek-raises-200-million",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/06/geek-plus-robotics-warehouse-dark.png",
-          "width": 1200,
-          "height": 899,
-          "title": "Warehouse robotics company Geek+ raises $200 million",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/warehouse-robotics-company-geek-raises-200-million/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/warehouse-robotics-company-geek-raises-200-million/amp",
-      "publishedDateTime": "2020-06-18T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace.md",
-      "title": "Eskalera creates AI-based Inclusion Index to measure a better workplace",
-      "excerpt": "Eskalera is unveiling the Inclusion Index, a new system for organizing a company that encourages and quantifies an inclusive culture.",
-      "webUrl": "https://venturebeat.com/2020/06/18/eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Esk_Product_Promotion-Ratio.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 677,
-          "title": "Eskalera creates AI-based Inclusion Index to measure a better workplace",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/18/eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace/amp/",
-      "publishedDateTime": "2020-06-18T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

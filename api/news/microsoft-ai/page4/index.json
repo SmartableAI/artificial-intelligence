@@ -2,6 +2,35 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-19-sony-semiconductor-microsoft-partner-to-create-smart-camera-products-for-enterprise-customers.md",
+      "title": "Sony Semiconductor, Microsoft partner to create smart camera products for enterprise customers",
+      "excerpt": "Sony Semiconductor Solutions (Sony) and Microsoft are partnering to create products that make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers. As a result of the partnership,",
+      "webUrl": "https://www.telecompaper.com/news/sony-semiconductor-microsoft-partner-to-create-smart-camera-products-for-enterprise-customers--1339097",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T02:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecompaper",
+        "domain": "telecompaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-whats-the-role-of-microsoft-azure-in-the-iot-sphere.md",
       "title": "What’s the role of Microsoft Azure in the IoT sphere?",
       "excerpt": "An article by Kevin E. Kline, Principal Program Manager at SentryOne. Microsoft Azure is a cloud-based IaaS (infrastructure as a service) that has technically been around since 2008, and provides nearly two dozen categories of specific services.",

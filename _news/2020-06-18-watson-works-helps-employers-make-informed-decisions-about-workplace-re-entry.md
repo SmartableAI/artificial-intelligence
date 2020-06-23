@@ -31,22 +31,6 @@ images:
     title: "Watson Works helps employers make informed decisions about workplace re-entry"
 
 related:
-  - title: "IBM launches Watson Works aimed at managing work's new normal amid COVID-19"
-    excerpt: "IBM launched Watson Works, a set of models and applications designed to manage workspaces, people and facilities as employees return to the office during the COVID-19 pandemic. Wa"
-    publishedDateTime: 2020-06-18T14:15:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 102
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/24/b6e37c98-9f98-43bb-973e-ad26833fda56/thumbnail/1200x675/48665c9939ec4476228e8e8c28322098/qualcomm.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "IBM’S Newly Launched ‘Watson Works’ Uses AI To Help Firms Manage New Work Challenges"
     excerpt: "IBM recently launched Watson Works, a curated set of products that uses Watson AI models and applications to manage return to workplace challenges."
     publishedDateTime: 2020-06-19T09:01:00Z
@@ -62,22 +46,6 @@ related:
       - url: "https://sm.mashable.com/t/mashable_in/news/i/ibm-gets-w/ibm-gets-woke-pulls-facial-recognition-software-from-law-enf_xmru.620.jpg"
         width: 620
         height: 414
-        isCached: true
-  - title: "IBM launches Watson Works to address return to workplace challenges"
-    excerpt: "Watson Works provides data-driven insights to help employers make informed decisions on workplace re-entry, facilities management, space allocation and other covid-related priorities, says IBM"
-    publishedDateTime: 2020-06-18T13:46:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/ibm-launches-watson-works-to-address-return-to-workplace-challenges-11592487074116.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/ibm-launches-watson-works-to-address-return-to-workplace-challenges/amp-11592487074116.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ibm-launches-watson-works-to-address-return-to-workplace-challenges/amp-11592487074116.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2020/06/18/600x338/ibm_1559620540561_1592487450510.jpg"
-        width: 600
-        height: 338
         isCached: true
   - title: "IBM launches Watson Works to help businesses return to the office safely"
     excerpt: "IBM today launched Watson Works, a curated set of products and services to help businesses return to the office. The solution embeds Watson’s artificial intelligence (AI) models and applications to help organizations prioritize human health, productivity ..."

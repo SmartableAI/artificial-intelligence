@@ -25,6 +25,22 @@ images:
     title: "From HAL 9000 to Westworld’s Dolores: pop culture robots that influenced smart voice assistants"
 
 related:
+  - title: "The Pop Culture Robots that Influenced Smart Voice Assistants"
+    excerpt: "Last year, nearly one third of Australian adults owned a smart speaker device allowing them to call on “Alexa” or “Siri”. Now, with more time spent indoors due to COVID-19, smart voice assistants may be playing even bigger roles in people’s lives."
+    publishedDateTime: 2020-06-23T07:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/06/the-pop-culture-robots-that-influenced-smart-voice-assistants/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/06/the-pop-culture-robots-that-influenced-smart-voice-assistants/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/06/the-pop-culture-robots-that-influenced-smart-voice-assistants/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 59
+    images:
+      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2016/12/westworld.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "From HAL 9000 to Westworld’s Dolores: the pop culture robots that influenced smart voice assistants"
     excerpt: "In our paper published in New Media Society, we trace anxiety about smart assistants to a long history of threatening robot voices and narratives in Hollywood. The warm and solicitous female voices of smart assistants contrast with cinematic robot archetypes of the “menacing male” or “monstrous mother”,"
     publishedDateTime: 2020-06-21T20:06:00Z

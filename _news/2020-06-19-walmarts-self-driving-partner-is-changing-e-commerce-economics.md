@@ -131,6 +131,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
+    excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees"
+    publishedDateTime: 2020-06-23T06:51:00Z
+    webUrl: "https://infosurhoy.com/news/bmw-cuts-jobs-ends-self-driving-project-with-mercedes/"
+    ampWebUrl: "https://infosurhoy.com/news/bmw-cuts-jobs-ends-self-driving-project-with-mercedes/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news/bmw-cuts-jobs-ends-self-driving-project-with-mercedes/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 24
   - title: "Walmart’s Self-Driving Partner Is Changing E-Commerce Economics"
     excerpt: "(Bloomberg) -- For a self-driving vehicle startup, Gatik has an odd mantra: don’t agonize over autonomy, worry about delivery.Specifically, the three-year-old company is focused"
     publishedDateTime: 2020-06-21T01:41:00Z

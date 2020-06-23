@@ -6,7 +6,7 @@
       "title": "Nvidia reveals PCIe 4.0 version of its Ampere A100 GPU",
       "excerpt": "Nvidia finally showed off its new 7nm Ampere architecture last month in the form of the A100 GPU. Now, the company has announced a number of A100 powered systems from leading server manufacturers, including Asus,",
       "webUrl": "https://www.techspot.com/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -190,11 +190,49 @@
       ]
     },
     {
+      "path": "_news/2020-06-19-iot-chip-market-worth-5254-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
+      "title": "IoT Chip Market Worth $525.4 Billion by 2025 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "According to the new market research report \"IoT Chip Market with COVID-19 Impact Analysis by Hardware (Processor, Connectivity IC, Sensor,",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/iot-chip-market-worth-525-4-billion-by-2025-exclusive-report-by-marketsandmarkets-1029325818",
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/iot-chip-market-worth-525-4-billion-by-2025-exclusive-report-by-marketsandmarkets-1029325818",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/iot-chip-market-worth-525-4-billion-by-2025-exclusive-report-by-marketsandmarkets-1029325818",
+      "publishedDateTime": "2020-06-19T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-intel-stock-slips-as-new-lines-of-ai-chips-released.md",
       "title": "Intel stock slips as new lines of AI chips released",
       "excerpt": "Intel Corp. shares slid with the broader market Thursday as the chip giant introduced several new products to support artificial intelligence and",
       "webUrl": "https://www.marketwatch.com/story/intel-stock-slips-as-new-lines-of-ai-chips-released-2020-06-18",
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1283,53 +1321,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-eswin-raises-283m-to-boost-chip-production-in-china.md",
-      "title": "Eswin raises $283M to boost chip production in China",
-      "excerpt": "Beijing Eswin Computing Technology, a Chinese startup that supplies semiconductor design and solution provider, has raised $283 million in a new financing round at a time when the world’s most populous nation is looking to cut its reliance on the U.",
-      "webUrl": "https://techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/",
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1142531756.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Eswin raises $283M to boost chip production in China",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/amp/",
-      "publishedDateTime": "2020-06-09T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-versi
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 1350
     isCached: true
     title: "Nvidia reveals PCIe 4.0 version of its Ampere A100 GPU"
+
+related:
+  - title: "ASUS Middle East Announces ESC4000A-E10 Server Powered by the NVIDIA A100 PCIe GPU"
+    excerpt: "ASUS Middle East, the leading IT company in server systems, server motherboards and workstations, today announced ESC4000A-E10, a new GPU server powered"
+    publishedDateTime: 2020-06-23T07:49:00Z
+    webUrl: "https://www.albawaba.com/business/pr/asus-middle-east-announces-esc4000a-e10-server-powered-nvidia-a100-pcie-gpu-1364177"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/asus-middle-east-announces-esc4000a-e10-server-powered-nvidia-a100-pcie-gpu-1364177"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/asus-middle-east-announces-esc4000a-e10-server-powered-nvidia-a100-pcie-gpu-1364177"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 53
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-06/image001.png?itok=-VfC6ZJl"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "CR2OrTBvfNti3AnWmAIRiiWF0pbMRHMHnIoJclO1oc8Zs4GaE9gWs3lvll8WNZwjJZ6VD4mKoe9EPABZcZB3JplaOW5PmgR2cUv4UdGzoIQfESK/g8cncNpXuWqOxNB81KYmZ53Hd+diIWszPN8sQ9eyAZxk8rH2YMGWENhk2ieIftcKL2FreLM1PzFbP6qROKILjr8M2ZAZkOgC/wIHUxafr+wvI7JrZziQzWWyWL14ZqLKg7Rewqj61CRN7joOr/KyiL84e/DNirjkcq1xx04k5KMGiZpIMVwtmx1CSDDbL92FEyMvUs707zkVRKrqSjIUkX2OPCINIww94P/9ZiurMZCYzqeM0PWkvKZVkdaCFRkKlFIAWfo8nxPpQGWS60jEZHUnhl8P+pzYpMWPLY5ijT4QIC46qft7cVU/mGOZ8AykymHYIyZvRENYw7P2GXMFlLz5qksyf0c2Eu2fqAB1PuvizYlehCRB66atnZHHHLHku9+c+SAZ10LZ71zyWs+KzkI+R2RdxWKMwpPZzQ==;YlQJQXXAZgSbLVysi8T/RQ=="
 ---
