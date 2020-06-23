@@ -27,20 +27,6 @@ images:
     title: "Driver free but virus free? Robo cars hit new speed bump"
 
 related:
-  - title: "Robo Cars Hit New Speed Bump"
-    excerpt: "The fledgling industry now has to deal with passenger anxiety amid the coronavirus pandemic."
-    publishedDateTime: 2020-06-18T15:19:00Z
-    webUrl: "https://www.manufacturing.net/home/news/21137672/robo-cars-hit-new-speed-bump"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/AP20169709714913.5eeb74bc9576b.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Driver free but virus fee? Robo-car firms hit new speed bump"
     excerpt: "How to assure passengers that the car they are getting in is virus free, even if it doesn't have a driver. Widespread use of autonomous vehicles already had been delayed by a March 2018 fatal crash involving an Uber test vehicle"
     publishedDateTime: 2020-06-19T20:35:00Z

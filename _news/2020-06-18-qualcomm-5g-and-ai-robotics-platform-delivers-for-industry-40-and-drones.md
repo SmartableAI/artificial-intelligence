@@ -72,6 +72,20 @@ related:
         width: 620
         height: 330
         isCached: true
+  - title: "Nvidia launches Mellanox AI platform for data center resiliency"
+    excerpt: "AI and UFM Telemetry platforms follow the acquisition by Nvidia of the Israeli networking vendor Mellanox. The latest additions apply AI to learn a data center’s operational and network workloads, drawing on both real-time and historic telemetry and workload data."
+    publishedDateTime: 2020-06-23T09:20:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-launches-mellanox-ai-platform-data-center-resiliency/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 37
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/nvidia-mellanox-ufm-cyber-ai-plat.2e16d0ba.fill-1200x630.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "tM24fkiU4+LQ2d1JuFKPGDHPiHTs6cickYEYCO64lxMYvQRIbBx4ADguDuzl87DtZRlFMP49kwEDCMTEXMshd5xQd357/wi11/cy79UWQVBrJDa+dYqaEv0imlx4uk/9mi6Usg25ci6fI9BDxX2/dxWr8upTv0B/FD3mzlm2PAlY8GY7+r4aknveM7VuyiYYXOxkLxwRTOeRMsFGzZ9WpZu7fwQdyK9vEcfBIvBRm0FSDnRG2RCzL9ZnOvchA5n9JP2eK38j3cJenzla9ONKE8y1VOJv5QUTNFDMUTIAM8Bl+g9YhH7ZDrSi4barOp1nmO5MCrDu42ml/wi49A0HSLVT3uiUMOheADazz8iywCvyfxth74kSnI1bNRmgqkfCgEdWWCg9ZIsYUDQ6ZU4EIejoMSPbg4Ah2L6jW2AJI2yG3FHa0bLZkCC8PMkX9IuvOTqoDdf2WReKYsbuKpK/aZfFnK/j3mweB9Zpv6rXbZVX/QQzNp1D7Pd3zg4j4WzJb9gi6Xv/XeW5mnOGDxQsOA==;c4Z+JJz1yORGu3yY5YRizg=="
 ---

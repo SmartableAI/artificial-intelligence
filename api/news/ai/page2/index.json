@@ -971,7 +971,7 @@
       "title": "BMW and Mercedes call it quits on their self-driving car partnership",
       "excerpt": "Less than a year after their initial announcement, BMW and Mercedes are ending what was supposed to be a long-term partnership to develop autonomous vehicles.",
       "webUrl": "https://www.engadget.com/bmw-mercedes-end-self-driving-partnership-191920863.html",
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1237,6 +1237,35 @@
       ]
     },
     {
+      "path": "_news/2020-06-19-microsoft-azure-to-help-in-johns-hopkins-medicines-discoveries.md",
+      "title": "Microsoft Azure To Help In Johns Hopkins Medicine's Discoveries",
+      "excerpt": "Microsoft Corp. and Johns Hopkins Medicine or JHM said they have entered into a five-year agreement that will see Microsoft Azure become the preferred cloud platform for Johns Hopkins inHealth precision medicine initiative.",
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-azure-to-help-in-johns-hopkins-medicines-discoveries-2020-06-19",
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-19T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-ge-healthcare-taps-lunits-ai-for-its-new-chest-x-ray-suite.md",
       "title": "GE Healthcare taps Lunit’s AI for its new chest X-ray suite",
       "excerpt": "GE Healthcare launched an artificial intelligence-powered chest X-ray analysis suite, designed to spot and highlight eight common conditions, using algorithms built by the South Korean startup Lunit ... analytics, AI and connectivity will only become ...",
@@ -1279,7 +1308,7 @@
       "title": "Microsoft Acquires ADRM Software to Develop Data Models for Azure",
       "excerpt": "Microsoft has announced the purchase of data model develop ADRM, which will be incorporated into its Microsoft Azure division.",
       "webUrl": "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/",
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1309,44 +1338,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-mowing-made-easy-robots-tackle-lawn-care.md",
-      "title": "Mowing made easy: Robots tackle lawn care",
-      "excerpt": "Maintaining a lawn in the summer heat is often a dreaded chore for homeowners. Now there are robots that can do the job for you. Worx, the company that makes the highly-rated Landroid, says autonomous mowers are getting more popular.",
-      "webUrl": "https://www.wdtn.com/news/u-s-world/mowing-made-easy-robots-tackle-lawn-care/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wdtn.com/wp-content/uploads/sites/45/2020/06/NC_mowers0619_700x394.jpg?w=700&h=394&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Mowing made easy: Robots tackle lawn care",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wdtn.com/news/u-s-world/mowing-made-easy-robots-tackle-lawn-care/amp/",
-      "cdnAmpWebUrl": "https://www-wdtn-com.cdn.ampproject.org/c/s/www.wdtn.com/news/u-s-world/mowing-made-easy-robots-tackle-lawn-care/amp/",
-      "publishedDateTime": "2020-06-19T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDTN",
-        "domain": "wdtn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

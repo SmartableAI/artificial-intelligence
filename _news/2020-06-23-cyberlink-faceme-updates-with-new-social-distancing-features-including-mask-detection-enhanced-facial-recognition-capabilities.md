@@ -103,16 +103,7 @@ related:
         width: 2560
         height: 1705
         isCached: true
-  - title: "SAFR Facial Recognition now runs on AXIS Camera Application Platform (ACAP)"
-    excerpt: "SEATTLE — June 18, 2020 — SAFR from RealNetworks, Inc. (NASDAQ: RNWK), has announced SAFR ® Inside, a new app component of its Facial Recognition and Computer Vision Platform that runs on ACAP enabled cameras with edge processing capabilities."
-    publishedDateTime: 2020-06-18T16:38:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/21142764/safr-from-realnetworks-inc-safr-facial-recognition-now-runs-on-axis-camera-application-platform-acap"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 17
 
-secured: "LHqIsovpugc1z/xASMSF0scaUYwhGSWjowVoZI2qMM+heMRexVEq3UQZ91DrPqFSXcMWhPGBEacp1haeH3IOB0t3NWeMVV6PDBTofN7Aq+9f2cJ6s5/m5i5W+yIZN6fnSSIXc/U1Fbb6OAWKFLlxk9NS2uEgmdDEm0Dbxa31wO0tfCOzwcfOGpdIAujo9ZAAL/eNaEQuCXq2G6jzbhlsgoy5eqYAgls1bObUiaM3Hu/mGvs/b20zkSlrozQADdAlRvllsuMsQjqxIVd/MvC6lzjWJzVAW6k5JgPLKOYUUSZ8PG0N7t4jTRHfLZLcMfsb0Eb2AlFYLdmM95+Hf8PMkg==;7FAHpScDig+421JbAsN8xg=="
+secured: "e4F7x3SiKr+7At37z3pjdqKXh5etsgTKDWpO72K73nXCyg1VkE+zJ8hiy7V99IRqcpxYMsIh5e7G/W33e6C/ippi7SMym9DsNn8sA+ycz9dXUuiPfcwV1jg16vux791ceW0NcwZB9mtcEPpkjrL8K4WxtA1QEuQsVSZETh+OQIm84l6hd4A5LHGMyog/f4oQiEExLNNTiwD+5tuQFHteAFSunWankEj6NmTSUZ/L5fxNc4S6bdDquWK228Ccw1BUIyhvWIt0hSYXx/E/bhlyDCdz9uAIU36GVZ0gWfKivxjLWu0pwxMVcMPdufsYPfG/raHoeYf8o28/vuaRRQYuguV/HV8a4A/TLTFgs4HwW61jZ4hY0QOyqvE1O/ycuK4rsGTPR5o3CFDmp7RvQFo8AB35vNq8ApA8x4lkcG1+8s9+sIDXVb2sbwZ7md5SmyLh40Y14A9r3+GEeRWLGd2w9KEjisNeilN5fouiE37rUXD7wm6+0khGU0UImPuh8/5dBQjp6/YWcm339gJjYRFGFA==;0bHa3QGzJMuAG6B2Zlp6eg=="
 ---
 

@@ -3,7 +3,7 @@ category: news
 title: "This startup uses machine learning to change the way drugs are developed"
 excerpt: "Insitro, the startup founded by Daphne Koller, is taking a radical new approach to drug development. The company uses a team of biologists and machine learning experts to help develop new drugs that are more likely to succeed."
 publishedDateTime: 2020-06-18T17:59:00Z
-webUrl: "https://www.fastcompany.com/video/this-startup-uses-machine-learning-to-change-the-way-drugs-are-developed/6CpgWp2J"
+webUrl: "https://www.fastcompany.com/video/this-startup-uses-machine-learning-to-change-the-way-drugs-are-developed/6CpgWp2J?jwsource=cl"
 type: article
 quality: 38
 heat: 38
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "This startup uses machine learning to change the way drugs are developed"
 
-secured: "pATSvuPBCYzWV+ylqfEQX4ITugIzd2GC7Qg0l4JIZaf3jNnvwPtDId1RmNHyYRgKSnEO4F/0qd1jvoBE5vR2KWWz3EJrfUiwlgl2An3RqEtgXDu0PoFYZHVBvLVW54mAHOqZ9gQ7D1XwdCm3/dr0KhM1ynugcTiXorfZNXrfjfK6M3Ae13BSwuFoPY3yxVqzPI6bnnhVAUGNPGzu+NY5QfdnhnxOSCKjAQslvsOplbISlfDMszM8y6RWq9DoVJJxk0lkExxmYVqxQUm6/MzWNU3ZMGXoWtzS4y7dhyyskJICOMbbX95qYuITkI5UAKrFrrq6jYDIp9QeZMrlnOs2I21HNj0Y24Ja2OFdXPIAEiDuh7uVN1EHCaT5IA+qHyBkxycinlcvrKqX4vdQvcLihmWCE46E9dCYqhK/DhGaZgV0TVtkC9sa8XJuNlQVurp1vXita8mk+dGoODKx3fbyQwThd9iu4wtuFBWbG/icKFL2RteMkiYYXA4LHsAZthozHYF2y4SgtiO3Y7iIG2uscA==;OPz4Bh8rjed8mMydEq5EgA=="
+secured: "sMVOe+H3/PxusbNvZ/Q/xF0VMQlUszSid/MVpvGOv0eNBBbx+oibqB1h1NXEsBtHy6gV4v5JH/6s1s5l9XGMjSZT6wGjpeLLAz0icHjx/YzyqJCAw8kfeAvRu+MSmG16rpN7mEsuUy+9ukJ3VqY90PxWuSS1Tc4q2dgm2WQPJww6aztrD8tvneyYYS0kakN8cFPkOEX+UcUe95rBN0iRmaa/85JtpYAmN5GATpntgDV1Nn1sH7rjsWNrJRarWR1yTn3D6VgUvJ5D9Q+ziGju3A1hQ87SvAkv7snXEcmq+qPiKufaLe5NvKzmTmPJECJffxLaVqbIhn2NVeRCwKBopQ==;waR/IHbXo5Xjwvuu4mRfTw=="
 ---
 

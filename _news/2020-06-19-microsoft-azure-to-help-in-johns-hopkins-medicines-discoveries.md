@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-19T15:31:00Z
 webUrl: "https://www.nasdaq.com/articles/microsoft-azure-to-help-in-johns-hopkins-medicines-discoveries-2020-06-19"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Nasdaq
@@ -18,36 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft and Johns Hopkins Medicine announce five-year deal centered around Azure"
-    excerpt: "With Azure set to become the John Hopkins inHealth precision medicine initiative's preferred cloud platform, JHM will be looking to advance its medical research with Microsoft's assistance."
-    publishedDateTime: 2020-06-18T17:00:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-johns-hopkins-medicine-announce-five-year-deal-centered-around-azure/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 98
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/06/1592497935_microsoft_johns_hopkins_medicine_logo_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "Microsoft Azure will become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
-    excerpt: "Five-year agreement will support Johns Hopkins Medicine inHealth in driving new medical discoveries to improve disease management and"
-    publishedDateTime: 2020-06-18T15:05:00Z
-    webUrl: "https://www.miragenews.com/microsoft-azure-will-become-preferred-cloud-platform-for-johns-hopkins-inhealth-precision-medicine-initiative/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 35
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/prod/prod/prod/2020/06/inhealth_hero1920x1080-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Johns Hopkins Leverages Microsoft AI for Precision Medicine"
     excerpt: "Johns Hopkins Medicine will leverage Microsoft Azure's artificial intelligence and analytics tools to advance precision medicine discoveries."
     publishedDateTime: 2020-06-22T13:56:00Z

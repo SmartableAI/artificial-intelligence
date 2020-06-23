@@ -50,22 +50,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Ford’s upcoming electric Mustang to have self-driving capabilities"
-    excerpt: "Ford’s upcoming all-electric Mustang Mach-E will offer hands-free driving when it hits the road next year, the automaker said Thursday."
-    publishedDateTime: 2020-06-18T15:06:00Z
-    webUrl: "https://nypost.com/2020/06/18/fords-electric-mustang-will-have-self-driving-capabilities/"
-    ampWebUrl: "https://nypost.com/2020/06/18/fords-electric-mustang-will-have-self-driving-capabilities/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/06/18/fords-electric-mustang-will-have-self-driving-capabilities/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/06/Ford-Mustang-Mach-E.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Uber putting self-driving cars back on the road"
     excerpt: "The on-demand ride service grounded its test fleet of self-driving cars pending an investigation into a crash of an Uber autonomous vehicle in Arizona. No one was seriously injure"
     publishedDateTime: 2020-06-22T11:46:00Z

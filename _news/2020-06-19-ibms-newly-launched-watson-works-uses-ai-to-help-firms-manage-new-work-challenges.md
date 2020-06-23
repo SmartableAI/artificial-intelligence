@@ -8,7 +8,7 @@ ampWebUrl: "https://in.mashable.com/tech/14925/ibms-newly-launched-watson-works-
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/14925/ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges?amp=1"
 type: article
 quality: 97
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://i.itbusiness.ca/wp-content/uploads/2020/06/GettyImages-1225366188-620x250.jpg"
         width: 620
         height: 250
-        isCached: true
-  - title: "IBM unveils Watson Works to address the challenge of returning to the workplace"
-    excerpt: "IBM (NYSE: IBM) today announced Watson Works, a curated set of products that embeds Watson artificial intelligence (AI) models and applications to help companies navigate many aspects of the return-to-workplace challenge following lockdowns put in place to slow the spread of COVID-19."
-    publishedDateTime: 2020-06-18T16:14:00Z
-    webUrl: "https://www.finextra.com/pressarticle/82966/ibm-unveils-watson-works-to-address-the-challenge-of-returning-to-the-workplace"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 35
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "IBM Unveils Watson Works for Data-Driven Insights to Address COVID-19 Return to Workplace Challenges"
     excerpt: "IBM launched Watson Works, a curated set of products that embeds Watson AI models and apps, to help companies address return-to-workplace challenges."

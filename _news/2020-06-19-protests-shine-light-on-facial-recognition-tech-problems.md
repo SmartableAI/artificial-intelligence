@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 1074
         isCached: true
-  - title: "Emails show Microsoft wanted feds to use its facial recognition tools"
-    excerpt: "Emails obtained by the ACLU show Microsoft pushed its facial recognition tools to the DEA. The company made a facial recognition announcement last week."
-    publishedDateTime: 2020-06-18T15:45:00Z
-    webUrl: "https://www.dailydot.com/debug/microsoft-facial-recognition-dea-emails/"
-    ampWebUrl: "https://www.dailydot.com/debug/microsoft-facial-recognition-dea-emails/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/microsoft-facial-recognition-dea-emails/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 76
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/06/microsoft-store.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Racist practice of phrenology rears its lumpy head in facial recognition tech"
     excerpt: "We'd like to think judging people's worth based on the shape of their skull is a practice that's well behind us, but echoes of it can be found in new technologies"
     publishedDateTime: 2020-06-20T22:15:00Z

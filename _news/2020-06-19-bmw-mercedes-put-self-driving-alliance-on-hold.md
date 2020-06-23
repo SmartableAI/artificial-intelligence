@@ -73,6 +73,20 @@ related:
         width: 1320
         height: 742
         isCached: true
+  - title: "Didi Chuxing and BAIC form self driving partnership"
+    excerpt: "Chinese ride hailing company Didi Chuxing has entered into a strategic partnership with local carmaker BAIC Group, according to local reports."
+    publishedDateTime: 2020-06-23T08:49:00Z
+    webUrl: "https://www.just-auto.com/news/didi-chuxing-and-baic-form-self-driving-partnership_id196227.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 54
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "BMW terminates self-driving tech partnership with Mercedes-Benz"
     excerpt: "German automaker BMW has announced that it will freeze its self-driving technology development program with Mercedes-Benz after a steep plunge in demand for its vehicles due to the coronavirus. BMW will also get rid of 6,"
     publishedDateTime: 2020-06-19T19:04:00Z

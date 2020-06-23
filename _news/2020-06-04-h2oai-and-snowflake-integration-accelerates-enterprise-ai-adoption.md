@@ -1,26 +1,26 @@
 ---
 category: news
 title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
-excerpt: "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ..."
-publishedDateTime: 2020-06-04T00:00:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html"
+excerpt: "June 4, 2020 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O Driverless AI integration ..."
+publishedDateTime: 2020-06-04T13:05:00Z
+webUrl: "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - Machine Learning
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/93/0939dc50-5a12-51f0-8a7b-9d20fb42d6d6/5ed8f7d1c563f.image.jpg?resize=400%2C400"
-    width: 400
-    height: 400
+  - url: "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
     isCached: true
     title: "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption"
 
-secured: "ov1Dpvx01FqneMDBMjVsSPOXhqth90fOLlezQ6W96eUkoMaDfqY1xAZqhEcXWYJOFoJMKdE9kn97wcc+yv69+F+PppxCqZmyoRIpibqtLbftyg1aybGFZ7M/s/M7a8cBND1SfEj5ndrW1RfRvqlY82ii5ws07/1p18XVp/XlAEckSeRtbnaheLM6sCVNya/0Y/VzYjTIhOJk4NdoXhhRR9XUufm7Lv+I1e03FxDJH69ScqMWpLns/ehvqn9aF49eooOoILPpn7QhQRIj8NUmJkzSfVV1r9/oytZ/nVbCVPV6dgAKECskwg+YHh4ZXGVUIO43wPFjCpzbeY7NsiLGdA==;J1sM5spVlP45z7vCw1ebCA=="
+secured: "/CwuAVCgEjg4q4ZFRrfmnf5/6pq1lDKfj+uqRupM6NQjD1CQiYZActGxAqQe080PLC8gv/xAsAijjCvcLmxAIJDkNy0NZKw2b6LQOnv914N3vcNFFvHgGAh6nYJcTWDqrkROb+Evz9ThKTg9uvpgwfzUZohDPDuF9V9GyiKBWZpu9qvgD8R6qHDZpB+w4tPcUEo6Ni4RJH6gyVqkqGIQsOCQdRPWZiHFJ81Pq191fnmr3UUu9cjENqMPfl/bSbpsOOXe5SeuGQqleGU4bJnFspBa3XkPE0LWpEV5/RNao/eK913dWvgVRzhdndQ5aNUwglMytxS9r1pDPPQCVL0Seg==;JMdexl7tzICwnO1QKz7MFA=="
 ---
 

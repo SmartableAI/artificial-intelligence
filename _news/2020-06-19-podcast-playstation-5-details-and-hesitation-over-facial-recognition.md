@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Police Forces in Canada Are Quietly Adopting Facial Recognition Tech"
+    excerpt: "Police in York and Peel regions are in the process of buying the technology, which has been shown to be racially biased."
+    publishedDateTime: 2020-06-23T09:00:00Z
+    webUrl: "https://www.vice.com/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech"
+    ampWebUrl: "https://www.vice.com/amp/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 89
+    images:
+      - url: "https://video-images.vice.com/test-uploads/articles/5ef0f57c83ca6d009d2c6d35/lede/1592850289955-cctv-1144371_1920.jpeg?crop=0.8911xw:0.7561xh;0xw,0.1597xh"
+        width: 1710
+        height: 961
+        isCached: true
   - title: "HomeKit cameras to get smart face recognition, Apple TV integration"
     excerpt: "Apple's HomeKit platform is being updated with new features, including camera \"Activity Zones\" and adaptive lighting for smart bulbs."
     publishedDateTime: 2020-06-22T18:17:00Z

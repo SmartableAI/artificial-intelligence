@@ -57,22 +57,6 @@ related:
         width: 1856
         height: 1280
         isCached: true
-  - title: "Microsoft acquires data modeling startup ADRM Software"
-    excerpt: "Microsoft has acquired ADRM Software, a company that sells industry-specific data models used by large companies. “As we worked closely with the Azure team during the past"
-    publishedDateTime: 2020-06-18T15:54:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-acquires-data-modeling-startup-adrm-software/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-acquires-data-modeling-startup-adrm-software/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-acquires-data-modeling-startup-adrm-software/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 72
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/Model-OMB-post-1024x402-1.jpg"
-        width: 1024
-        height: 402
-        isCached: true
   - title: "Microsoft Enhancing Azure Data Lake Capabilities with ADRM Acquisition"
     excerpt: "He described the combination of Azure storage and compute capabilities ... and AI [artificial intelligence] and ML [machine learning],\" Schofield added. The intelligent data lakes concept was ..."
     publishedDateTime: 2020-06-18T19:19:00Z

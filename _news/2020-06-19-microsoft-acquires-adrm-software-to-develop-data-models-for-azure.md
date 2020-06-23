@@ -8,7 +8,7 @@ ampWebUrl: "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to
 cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/?amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://cdn.windowsreport.com/wp-content/uploads/2020/06/Microsoft-buys-ADRM-Software-to-improve-data-model-for-Azure.jpg"
         width: 1856
         height: 1280
-        isCached: true
-  - title: "Microsoft acquires data modeling startup ADRM Software"
-    excerpt: "Microsoft has acquired ADRM Software, a company that sells industry-specific data models used by large companies. “As we worked closely with the Azure team during the past"
-    publishedDateTime: 2020-06-18T15:54:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-acquires-data-modeling-startup-adrm-software/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-acquires-data-modeling-startup-adrm-software/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-acquires-data-modeling-startup-adrm-software/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 72
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/Model-OMB-post-1024x402-1.jpg"
-        width: 1024
-        height: 402
         isCached: true
   - title: "Microsoft Acquires ADRM for Azure Cloud, Intelligent Data Lakes"
     excerpt: "Microsoft acquires ADRM Software; sets stage for Azure customers & channel partners to build intelligent cloud data lakes."
