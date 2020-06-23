@@ -133,6 +133,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Walmart’s Self-Driving Partner Is Changing E-Commerce Economics"
+    excerpt: "(Bloomberg) -- For a self-driving vehicle startup, Gatik has an odd mantra: don’t agonize over autonomy, worry about delivery.Specifically, the three-year-old company is focused"
+    publishedDateTime: 2020-06-21T01:41:00Z
+    webUrl: "https://www.bnnbloomberg.ca/walmart-s-self-driving-partner-is-changing-e-commerce-economics-1.1453044"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 4
 
 secured: "Thzu8BGJOoUxsBSa2WYfjeBeQ4r5fHFNZhJAwH9AGKCeuezktt5BPaP1hyEU+f7Y4HtQkHA9RgWx2AtW4Wp1B/UBQNsXDtiIKJU6OiCJsDI7Rd2/W8KUj11nQy4F7LsP5mU/EHFsLosu6b8E4EjHteggz6388dUy/YPRl8bUN3hNIywXfEfS+2/fuFTIHL123xDkLTRMl5zu+NgRIkxgsgItuA5KmCkHCzCWgimTIv74pHAjv2IRpkPAispwmzQXSAZlj2sby1+UyEcthvHYXHTd+36jud3gPS6qtRHip2YUwCqZ8brj8Jx0IOzNhJN3IiKtoPztMXjWSEe1nr2n48T0uSvCX4Wa0p9OGlo4l7RylDbkegktD1cJ0iOFNhWJucHscRi4PB4FpCnzESo9MMCINw+UhDBYLB3YQ/LymcsgbFXbxCsYegU1/Sx+iJ5KizMBjBTib1x9k+vP2Yfz71yLJkhtLRn7DXoScagBhATf7tU5dsQNzV6WHlpGpUVoqn+4/8H36W1Gj9NdGwj2TA==;FJFTjRD5E59maoluMyzy6Q=="
 ---

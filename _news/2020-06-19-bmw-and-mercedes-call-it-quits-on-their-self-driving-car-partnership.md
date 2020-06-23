@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/bmw-mercedes-end-self-driving-partnersh
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/bmw-mercedes-end-self-driving-partnership-191920863.html"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -133,6 +133,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Walmart’s Self-Driving Partner Is Changing E-Commerce Economics"
+    excerpt: "(Bloomberg) -- For a self-driving vehicle startup, Gatik has an odd mantra: don’t agonize over autonomy, worry about delivery.Specifically, the three-year-old company is focused"
+    publishedDateTime: 2020-06-21T01:41:00Z
+    webUrl: "https://www.bnnbloomberg.ca/walmart-s-self-driving-partner-is-changing-e-commerce-economics-1.1453044"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 4
 
 secured: "25C+iNx4oA6cOzxnSXqaAHvgRJNxFeOZPachaJ6UVJCV3Y3rKa/1nXdnH0OSmIFZmVRdfHAKVtOU64AXQYzy0T15O3pE9BaXv2zUFeBtTc9bnWJuhcYYCMEjdlw0GJOMpEvJ8+/VnwMJMMipNyjARdvApfPGHVwj8gTCr7IDwP2sm7xGsUAzzyYHBcr38Z5oqUnn2yA8J5Z8locpQhAUGm1HKDAqG0DLD/n2svypNVsQbh4syd1ZN2sPzKHk0HzjsXOTEECim0YPibIs2e8yW8Cy8gB9cwSzYkY3hKAesG6hOo0kNoa7fQfdcfWxaTmmK0Iv4Rr7s1/BjF3wTv49G21L2LJiEoZh+788UJClAsrorYcOFXDPTzeLfP3LUbMo6es/DByhU0nF6UF2kUQysSO1fzcjGh/iNW+5pnnLh0OFdhGxq5neIK+7mB4zaiNFPYjJySj8WakhOKp8p6knYu8Py8UTn8UonHZ5j+/5TzGATBoZWHRM0qXdmosmdMhZ;xVn+Yo5+cU3B60/R1EanJA=="
 ---

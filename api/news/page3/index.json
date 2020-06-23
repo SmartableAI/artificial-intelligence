@@ -2,52 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-06-19-cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai.md",
-      "title": "CVPR challenge pushes researchers to improve car accident detection AI",
-      "excerpt": "The AI City Challenge attracted AI researchers from 30+ countries in a competition for tasks like spotting car accidents or stalled cars on highways.",
-      "webUrl": "https://venturebeat.com/2020/06/19/cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/ai-city-challenge.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "CVPR challenge pushes researchers to improve car accident detection AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/19/cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/19/cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai/amp/",
-      "publishedDateTime": "2020-06-19T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-19-ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough.md",
       "title": "AI Weekly: Restricting surveillance technologies is a strong first step, but it’s not enough",
       "excerpt": "New laws and regulations are curbing law enforcement's use of surveillance technologies, but that might not be enough.",
@@ -361,7 +315,7 @@
       "title": "Artificial Intelligence (AI) Cars and Light Trucks Market - Analysis on Current Trends by 2025",
       "excerpt": "The Artificial Intelligence (AI) Cars and Light Trucks Market 2020 report is a comprehensive, professional and in-depth research of market that delivers significant data for those who are seeking information for the Artificial Intelligence (AI) Cars and Light Trucks industry.",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-cars-and-light-trucks-market---analysis-on-current-trends-by-2025-2020-06-19?mod=mw_quote_news",
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1125,6 +1079,52 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-google-builds-ai-agent-that-learns-to-generalize-to-new-environments-by-ignoring-distractions.md",
+      "title": "Google builds AI agent that learns to generalize to new environments by ignoring distractions",
+      "excerpt": "Google researchers propose an AI system that uses the concept of self-attention to generalize to unfamiliar environments.",
+      "webUrl": "https://venturebeat.com/2020/06/18/google-builds-ai-agent-that-learns-to-generalize-to-new-environments-by-ignoring-distractions/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google builds AI agent that learns to generalize to new environments by ignoring distractions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/18/google-builds-ai-agent-that-learns-to-generalize-to-new-environments-by-ignoring-distractions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/google-builds-ai-agent-that-learns-to-generalize-to-new-environments-by-ignoring-distractions/amp/",
+      "publishedDateTime": "2020-06-18T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

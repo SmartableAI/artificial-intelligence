@@ -2,6 +2,54 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-19-sony-microsoft-strike-deal-on-tiny-ai-imaging-chip-with-huge-potential-for-cameras.md",
+      "title": "Sony, Microsoft strike deal on tiny AI imaging chip with huge potential for cameras",
+      "excerpt": "Sony says it will partner with Microsoft to embed artificial intelligence capabilities into its latest imaging chip, which will be able to analyse video in a self-contained system without sending any data through remote servers.",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3084988/sony-microsoft-strike-deal-tiny-ai-imaging-chip-huge-potential",
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/19/8b4e443c-9984-11ea-96ff-7aff439fc3be_image_hires_121707.jpg?itok=KiFTvH6F&v=1589861847",
+          "width": 1200,
+          "height": 630,
+          "title": "Sony, Microsoft strike deal on tiny AI imaging chip with huge potential for cameras",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3084988/sony-microsoft-strike-deal-tiny-ai-imaging-chip-huge-potential",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3084988/sony-microsoft-strike-deal-tiny-ai-imaging-chip-huge-potential",
+      "publishedDateTime": "2020-05-18T21:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-will-integrate-its-azure-ai-system-into-sonys-smart-camera-sensors.md",
       "title": "Microsoft will integrate its Azure AI system into Sony's smart camera sensors",
       "excerpt": "Microsoft and Sony have formed a new partnership to apply the former's Azure AI capabilities to the latter's smart camera sensor system. The goal is to boost computer vision for enterprise settings.",

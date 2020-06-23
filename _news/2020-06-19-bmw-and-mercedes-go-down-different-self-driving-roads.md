@@ -48,6 +48,20 @@ related:
         width: 1024
         height: 439
         isCached: true
+  - title: "Tesla Autopilot Discounted by $1000 Ahead of 'Full Self-Driving' Price Jump"
+    excerpt: "Basic Autopilot dropping from $3,000 to $2,000 isn't insignificant. To be clear, this isn't for the \"full self-driving\" feature that isn't actually full self-driving but people still pay $7,000 (soon $8,"
+    publishedDateTime: 2020-06-23T00:29:00Z
+    webUrl: "https://www.thedrive.com/tech/34273/tesla-autopilot-discounted-by-1000-ahead-of-full-self-driving-price-jump"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 37
+    images:
+      - url: "https://api.thedrive.com/wp-content/uploads/2020/02/autopilot_0.jpg?quality=85"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Self-driving Bus Services Tested Out In Tallinn"
     excerpt: "Two types of self-driving bus are being tested out in Estonia this week as part of initiatives that could revolutionise public transport in Europe. One of the services in tech-savvy Estonia, which is often used as a testing ground for innovation,"
     publishedDateTime: 2020-06-18T17:29:00Z

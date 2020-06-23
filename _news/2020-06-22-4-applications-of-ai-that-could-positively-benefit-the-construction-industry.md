@@ -5,8 +5,8 @@ excerpt: "Don't let fear or misunderstanding of artificial intelligence deter yo
 publishedDateTime: 2020-06-22T21:21:00Z
 webUrl: "https://www.forconstructionpros.com/construction-technology/article/21137938/ai-in-construction"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2020/06/workers_5246634_1920.5ef11e50405ed.png?auto=format&fit=max&w=1200"

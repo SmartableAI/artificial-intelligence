@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Software Market Size Report 2020-2026: Future Trends and Industry Growth Research Report by Industry Research Co."
-    excerpt: "Software Market ” 2020 report presents the analysis of the business by market size, rate of growth, key players, regions, product varieties and applications. The Natural Language Processing (NLP) Software Market report provides current situation,"
-    publishedDateTime: 2020-06-18T07:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-size-report-2020-2026-future-trends-and-industry-growth-research-report-by-industry-research-co-2020-06-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "World Network Traffic Analytics Market Analysis - Rise in Trend for BYOD, Artificial Intelligence & Machine Learning in Cybersecurity"
     excerpt: "The \"Global Network Traffic Analytics Market 2019-2028\" report has been added to ResearchAndMarkets.com's offering. The global network"
     publishedDateTime: 2020-06-22T14:15:00Z

@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.itweb.co.za/content/KBpdg7pzEAzqLEew"
 cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/KBpdg7pzEAzqLEew"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: ITWeb
@@ -27,22 +27,6 @@ images:
     title: "SAS, Microsoft partner to further shape future of analytics and AI"
 
 related:
-  - title: "SAS and Microsoft Partner to Democratise AI and Analytics"
-    excerpt: "The companies say that this partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform and supports their shared vision to further democratise AI and analytics. “Through this ..."
-    publishedDateTime: 2020-06-18T07:31:00Z
-    webUrl: "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/"
-    ampWebUrl: "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 74
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/03/MICROSOFT-696x452.jpg"
-        width: 696
-        height: 452
-        isCached: true
   - title: "SAS partners with Microsoft for stronger analytics, AI"
     excerpt: "SAS’ AI and analytics will now tightly integrate with Microsoft Azure for powerful cloud-based business applications."
     publishedDateTime: 2020-06-21T22:12:00Z

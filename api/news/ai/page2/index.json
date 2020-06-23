@@ -52,8 +52,8 @@
       "path": "_news/2020-06-22-10-wonderful-examples-of-using-artificial-intelligence-ai-for-good.md",
       "title": "10 Wonderful Examples Of Using Artificial Intelligence (AI) For Good",
       "excerpt": "There are many ways artificial intelligence can be used for good and to help solve some of the world’s biggest problems. Many researchers and organizations are prioritizing projects where artificial intelligence can be used for good.",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/?ss=ai",
-      "heat": 105,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/",
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -91,7 +91,6 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -515,53 +514,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-20-what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols.md",
-      "title": "What does that tattoo mean? AI app decodes extremist political symbols",
-      "excerpt": "VizPol can help journalists spot far-right and white supremacist symbols like Odal rune tattoos and boogaloo igloo flags.",
-      "webUrl": "https://www.cnet.com/news/what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/6V802LNr692jWjxRHZJDKMoiJEo=/756x567/2020/06/19/db54e33c-a93f-42a3-abe1-888a4258a06c/gettyimages-863111282.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "What does that tattoo mean? AI app decodes extremist political symbols",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/",
-      "publishedDateTime": "2020-06-20T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-20-dangerous-ai-algorithms-and-how-to-recognize-them.md",
       "title": "Dangerous AI algorithms and how to recognize them",
       "excerpt": "When discussing the threats of artificial intelligence, the first thing that comes to mind are images of Skynet, The Matrix, and the robot apocalypse. The runner up is technological unemployment, the vision of a foreseeable future in which AI algorithms take over all jobs and push humans into a struggle for meaningless survival in a world where human labor is",
@@ -736,7 +688,7 @@
       "title": "BMW and Mercedes call it quits on their self-driving car partnership",
       "excerpt": "Less than a year after their initial announcement, BMW and Mercedes are ending what was supposed to be a long-term partnership to develop autonomous vehicles.",
       "webUrl": "https://www.engadget.com/bmw-mercedes-end-self-driving-partnership-191920863.html",
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1269,7 +1221,7 @@
       "title": "Artificial Intelligence (AI) Cars and Light Trucks Market - Analysis on Current Trends by 2025",
       "excerpt": "The Artificial Intelligence (AI) Cars and Light Trucks Market 2020 report is a comprehensive, professional and in-depth research of market that delivers significant data for those who are seeking information for the Artificial Intelligence (AI) Cars and Light Trucks industry.",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-cars-and-light-trucks-market---analysis-on-current-trends-by-2025-2020-06-19?mod=mw_quote_news",
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1355,6 +1307,52 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-japans-fujitsu-brings-hand-washing-ai-to-covid-19-fight.md",
+      "title": "Japan's Fujitsu brings hand washing AI to COVID-19 fight",
+      "excerpt": "Three months after the World Health Organization recommended singing \"Happy Birthday\" twice during hand washing to fight the coronavirus, Japan's Fujitsu Ltd has developed an artificial intelligence monitor it says will ensure healthcare,",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-ai-technology-idUSKBN23Q1F6",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200619&t=2&i=1522812302&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5I0WA",
+          "width": 783,
+          "height": 545,
+          "title": "Japan's Fujitsu brings hand washing AI to COVID-19 fight",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23Q1F6",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23Q1F6",
+      "publishedDateTime": "2020-06-19T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

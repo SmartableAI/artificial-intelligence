@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 439
         isCached: true
+  - title: "Tesla Autopilot Discounted by $1000 Ahead of 'Full Self-Driving' Price Jump"
+    excerpt: "Basic Autopilot dropping from $3,000 to $2,000 isn't insignificant. To be clear, this isn't for the \"full self-driving\" feature that isn't actually full self-driving but people still pay $7,000 (soon $8,"
+    publishedDateTime: 2020-06-23T00:29:00Z
+    webUrl: "https://www.thedrive.com/tech/34273/tesla-autopilot-discounted-by-1000-ahead-of-full-self-driving-price-jump"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 37
+    images:
+      - url: "https://api.thedrive.com/wp-content/uploads/2020/02/autopilot_0.jpg?quality=85"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "BMW and Mercedes go down different self-driving roads"
     excerpt: "There is an interesting shakeup in the world of autonomous vehicles. Per a mutual press announcement today, BMW (OTCPK:BMWYY) and Mercedes-Benz (OTCPK:DDAIF) have put their cooperation agreement for"
     publishedDateTime: 2020-06-19T12:41:00Z
