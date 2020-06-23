@@ -51,6 +51,20 @@ related:
         width: 1240
         height: 700
         isCached: true
+  - title: "War crimes evidence threatened by AI moderation"
+    excerpt: "Firms such as Facebook have also pledged to remove misinformation about the novel coronavirus outbreak that could contribute to imminent physical harm. These pressures, combined with an increased reliance on AI during the pandemic, puts human rights ..."
+    publishedDateTime: 2020-06-23T16:07:00Z
+    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2020/06/24/2003738756"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/images/2020/06/24/p09-200624-mp0624.jpg"
+        width: 800
+        height: 800
+        isCached: true
 
 secured: "rEwgoG0cYGO9cGHNXjS9jDtqf+UwVj2umMJEgGHjyHLmhDLsX8SnzZNFRvXidkzxXzlHMP/9AJ8dQQU5MxiySVXsmJCniZcOdFIsCKTVUVwY8HL9IbekLoc0sGjPvgqpQsqhWMKqf6D3ZMy4T4/+4rMQzNGlkZd6SKRWeFVp3/UsjJCMzt9D7fFaj5eEZv1TS9n654+zIE7GLCwtXo74ErCerkf3SAiiGL/MY4AQKEOuQAM/aw7vV5bZnlkkiLrUHsvG133Dl83q8wh6UfxbfU4bHrCpSV++DLcj2Pn+RuxTsh+MW43zTuFeiclocNGpkJGuqlW8sGz3JViLYVnnrw==;Hx1GshKeLSpsn5iQucSHzg=="
 ---

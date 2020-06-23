@@ -39,6 +39,22 @@ related:
         width: 796
         height: 448
         isCached: true
+  - title: "Tesla’s controversial vision-based full self-driving approach is finally paying off"
+    excerpt: "Like many things about Elon Musk, Tesla’s approach to achieving autonomous driving is polarizing. Bucking the map-based trend set by industry veterans such as Waymo, Tesla opted to dedicate its resources in pursuing a vision-based approach to achieve full self-driving instead."
+    publishedDateTime: 2020-06-19T17:06:00Z
+    webUrl: "https://www.teslarati.com/tesla-autopilot-full-self-driving-vision-based-approach-validated-video/"
+    ampWebUrl: "https://www.teslarati.com/tesla-autopilot-full-self-driving-vision-based-approach-validated-video/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-autopilot-full-self-driving-vision-based-approach-validated-video/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 53
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-autonomy-investor-day-1a.jpg"
+        width: 800
+        height: 418
+        isCached: true
   - title: "Tesla is removing Autopilot’s green light confirmation in step towards inner-city Full Self-Driving"
     excerpt: "Tesla is planning to improve the recently released Traffic Light and Stop Sign Control feature by removing the function’s existing green light confirmation. This bodes well for the company’s pursuit of its Full Self-Driving suite,"
     publishedDateTime: 2020-06-19T13:37:00Z
@@ -55,15 +71,6 @@ related:
         width: 1024
         height: 439
         isCached: true
-  - title: "BMW and Mercedes go down different self-driving roads"
-    excerpt: "There is an interesting shakeup in the world of autonomous vehicles. Per a mutual press announcement today, BMW (OTCPK:BMWYY) and Mercedes-Benz (OTCPK:DDAIF) have put their cooperation agreement for"
-    publishedDateTime: 2020-06-19T12:41:00Z
-    webUrl: "https://seekingalpha.com/news/3584494-bmw-and-mercedes-go-down-different-self-driving-roads"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "DW+PaS9POLwLUZienXhBrDy2IfH2d6/7mpgjwBExZil3ow0uent5LiG/zWmvyRuz3aNE9FnL/B1mi9+6sa81I7dQ7glF2IGMbVM9q1C4ore7yFB2w/EGaKNoNZw/kbTXHHozXUoH0tlJtywZ8mzQDJXve+J6DP4PTEYnhqd0vpmgqobkSrr21+TsqaROm0SAdHPWmuBoc1Cz5KdPWYiYdRnb52hofrX+NqU4KT8naVll6hLDxZBf8s0NOU/ed8sLSNs7zFGfbtn/kFc4mLkunQu7YaI0oeNCQnoXnCoh1zUHpo8Q0tSJwMF5LWWmMYWrrJXw8HO7yleBOjSSW7Zg1p+RFAE4Sea8US2p4poFQZuExZptJJ0d8kresl212nOzf7aSJTXvAN+8z2lDtnwptx+poMGqlx849GIdo9HlkA4Q4ACt+yhzWRm98nq37EMJ0pUtVKQ6Xe4qkZfZji7BcKx6estYltLe4aIV3sLSewqky555sNCI04GtrNfHgN1YjXm68iwIexRVPHhbOC11Tw==;t+/DTxOa7sRp4DrZTRyocg=="
 ---

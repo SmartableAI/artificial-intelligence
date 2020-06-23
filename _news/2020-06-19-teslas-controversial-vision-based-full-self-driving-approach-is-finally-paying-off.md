@@ -27,21 +27,49 @@ images:
     title: "Tesla’s controversial vision-based full self-driving approach is finally paying off"
 
 related:
-  - title: "Tesla admits its approach to self-driving is harder but might be only way to scale"
-    excerpt: "Tesla’s head of AI admitted that the automaker’s approach to self-driving is harder than what most companies in the industry are doing, but he says it’s the only way to scale. There are dozens of high-profile companies working on solving self-driving and virtually as many different approaches,"
-    publishedDateTime: 2020-06-18T23:57:00Z
-    webUrl: "https://electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/"
-    ampWebUrl: "https://electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/amp/"
+  - title: "The key differences between Tesla’s driving aids: Autopilot and Full Self-Driving"
+    excerpt: "In this edition of Shift Basics, we take a look at what Tesla's Autopilot and Full Self-Driving are, how they're different, and what they cost."
+    publishedDateTime: 2020-06-22T13:00:00Z
+    webUrl: "https://thenextweb.com/shift/2020/06/22/differences-between-teslas-autopilot-and-full-self-driving-system-adas-tech/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 83
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 79
     images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/06/Tesla-Autopilot.jpg?quality=82&strip=all&w=1000"
-        width: 1000
-        height: 463
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/second-Autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving-796x448.png"
+        width: 796
+        height: 448
+        isCached: true
+  - title: "Tesla is removing Autopilot’s green light confirmation in step towards inner-city Full Self-Driving"
+    excerpt: "Tesla is planning to improve the recently released Traffic Light and Stop Sign Control feature by removing the function’s existing green light confirmation. This bodes well for the company’s pursuit of its Full Self-Driving suite,"
+    publishedDateTime: 2020-06-19T13:37:00Z
+    webUrl: "https://www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/"
+    ampWebUrl: "https://www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 45
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2020/04/tesla-stop-sign-traffic-light-control-1024x439.jpg"
+        width: 1024
+        height: 439
+        isCached: true
+  - title: "Tesla Autopilot Discounted by $1000 Ahead of 'Full Self-Driving' Price Jump"
+    excerpt: "Basic Autopilot dropping from $3,000 to $2,000 isn't insignificant. To be clear, this isn't for the \"full self-driving\" feature that isn't actually full self-driving but people still pay $7,000 (soon $8,"
+    publishedDateTime: 2020-06-23T00:29:00Z
+    webUrl: "https://www.thedrive.com/tech/34273/tesla-autopilot-discounted-by-1000-ahead-of-full-self-driving-price-jump"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 37
+    images:
+      - url: "https://api.thedrive.com/wp-content/uploads/2020/02/autopilot_0.jpg?quality=85"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "V6LzWeJYF+ibimY11SCQElqkBravs6lFmfo+czm2KWHtNel7ggZ/6dRaX2Ipw86I/unOHs1Gy9GXbkf6M948fVPhJkkJRGrLOhfFmKa05Dr55nQCwBmfugINEJkGugqv7lB4PBMvm8zTuflTEI1rDFnfBy7U3ZaEUDfuYjLQn2C8w3iHL/hop5mO56RB2DfCo3Qk+S1TAzKVIaJahX5OXizEA4P/FnqknEOl6hU1sU2noEutQklGMzp9IILEGtxFfnszCeQZxgkoNKkOjAR+L/K2SGX8jrTcGP3aOUm+veULzMxuvucdPQTLqdKM+iiXOoUKX8bZVZKgGMzqoRBlEA1doSLqONeVE7vX57YW95NhJ/2UUhmVhx7PVzZEQcB3Ve2atWKU+ggOC6fvePLdMTQUz5hpnC8o+b8Jos7FagUKu1skm5HLHYxoPZwcyLQAvXqEqZ8WbRtM7s57fOZAT/cSxXgqFOPFA5Y8GsnKR7YjA7jg9P1c8CzBAPboTD64louldkA0mltolymAo6dMGw==;fj8RKkbDlovVmv9x/G049Q=="

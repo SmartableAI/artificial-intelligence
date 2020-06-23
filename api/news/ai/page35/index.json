@@ -2,6 +2,221 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-05-19-how-machines-see-everything-you-need-to-know-about-computer-vision.md",
+      "title": "How machines see: everything you need to know about computer vision",
+      "excerpt": "The human vision is a very intricate piece of organic technology that involves our eyes and visual cortex, but also takes into account our mental models of objects, our abstract understanding of concepts and our personal experiences through billions and trillions of interactions we’ve made with the world in our lives.",
+      "webUrl": "https://thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-1-1-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "How machines see: everything you need to know about computer vision",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/19/how-machines-see-everything-you-need-to-know-about-computer-vision/amp/",
+      "publishedDateTime": "2020-05-19T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-how-conversational-service-automation-can-boost-your-contact-center.md",
+      "title": "How Conversational Service Automation can boost your contact center",
+      "excerpt": "CSA has the capability to provide a massive overhaul to how contact centers function by using Artificial Intelligence, Machine Learning Natural Language Processing and RPA, writes Umesh Sachdev ...",
+      "webUrl": "https://www.ciol.com/conversational-service-automation-can-boost-contact-center/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.ciol.com/conversational-service-automation-can-boost-contact-center/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/conversational-service-automation-can-boost-contact-center/amp/",
+      "publishedDateTime": "2020-05-19T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-facial-recognition-used-to-reunite-missing-child-with-family-after-32-years.md",
+      "title": "Facial recognition used to reunite missing child with family after 32 years",
+      "excerpt": "A man who was abducted as a toddler 32 years ago was finally reunited with his biological family Monday, with the help of facial recognition technology.",
+      "webUrl": "https://www.cnn.com/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html?ref=hvper.com",
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200519145036-chinese-city-of-xian--super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Facial recognition used to reunite missing child with family after 32 years",
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200520103344-china-family-reunion-1-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Facial recognition used to reunite missing child with family after 32 years",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/05/19/asia/china-kidnapped-son-reunited-intl-hnk/index.html",
+      "publishedDateTime": "2020-05-18T23:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-vanora-robots-launches-ai-powered-product-for-hospital-disinfection.md",
+      "title": "Vanora Robots launches AI-powered product for hospital disinfection",
+      "excerpt": "Using UV light, the robot can disinfect a 140-sq.ft room in less than five minutes, says CEO Krishnan Nambiar Vanora Robots Pvt Ltd, a Mangaluru-based robotics and artificial intelligence (AI) start-up,",
+      "webUrl": "https://www.thehindubusinessline.com/news/national/vanora-robots-launches-ai-powered-product-for-hospital-disinfection/article31621129.ece",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/news/national/n4gasb/article31621127.ece/ALTERNATES/LANDSCAPE_615/Vanora1a",
+          "width": 615,
+          "height": 384,
+          "title": "Vanora Robots launches AI-powered product for hospital disinfection",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/national/vanora-robots-launches-ai-powered-product-for-hospital-disinfection/article31621129.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/national/vanora-robots-launches-ai-powered-product-for-hospital-disinfection/article31621129.ece/amp/",
+      "publishedDateTime": "2020-05-18T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-artificial-intelligence-in-retail-market-may-see-a-big-move-ibm-microsoft-nvidia-amazon-web-services.md",
+      "title": "Artificial Intelligence in Retail Market May See a Big Move |IBM, Microsoft, Nvidia, Amazon Web Services",
+      "excerpt": "The definitive source for facts, data and analysis of the Global Artificial Intelligence in",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-may-see-a-big-move-ibm-microsoft-nvidia-amazon-web-services-2020-05-19",
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Retail Market May See a Big Move |IBM, Microsoft, Nvidia, Amazon Web Services",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T22:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-and-altran-release-ai-based-tool-for-bug-detection.md",
       "title": "Microsoft and Altran release AI-based tool for bug detection",
       "excerpt": "Microsoft and Altran, the design and engineering firm recently acquired by Capgemini, have collaborated to develop an AI-based tool, now available on GitHub, to predict the likelihood of bugs in source codes.",
@@ -1049,232 +1264,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-amazons-ai-tool-can-plan-collision-free-paths-for-1000-warehouse-robots.md",
-      "title": "Amazon’s AI tool can plan collision-free paths for 1,000 warehouse robots",
-      "excerpt": "Amazon researchers describe a machine learning system that plans the movements and paths of up to 1,000 mobile warehouse robots.",
-      "webUrl": "https://venturebeat.com/2020/05/18/amazons-ai-tool-can-plan-collision-free-paths-for-1000-warehouse-robots/",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon’s AI tool can plan collision-free paths for 1,000 warehouse robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-deep-instinct-vies-with-mcafee-and-crowdstrike-for-17b-market.md",
-      "title": "Deep Instinct Vies With McAfee And CrowdStrike For $17B Market",
-      "excerpt": "CrowdStrike faces a formidable challenger in Manhattan-based Deep Instinct. Which can save companies the most money by fending off cyberattacks before they happen?",
-      "webUrl": "https://www.forbes.com/sites/petercohan/2020/05/18/deep-instinct-vies-with-mcafee-and-cloudstrike-for-17b-market/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1203031516%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D258%26cropY2%3D3070",
-          "width": 1200,
-          "height": 675,
-          "title": "Deep Instinct Vies With McAfee And CrowdStrike For $17B Market",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2020/05/18/deep-instinct-vies-with-mcafee-and-cloudstrike-for-17b-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2020/05/18/deep-instinct-vies-with-mcafee-and-cloudstrike-for-17b-market/amp/",
-      "publishedDateTime": "2020-05-18T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors.md",
-      "title": "What SoftBank’s Vision Fund results tell us about troubled startup sectors",
-      "excerpt": "A famous investor published notes today concerning its startup investments, detailing where they excelled and where they struggled. To understand why we care about this particular investor’s results,",
-      "webUrl": "https://techcrunch.com/2020/05/18/what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors/",
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1172366774.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "What SoftBank’s Vision Fund results tell us about troubled startup sectors",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/18/what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/18/what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors/amp/",
-      "publishedDateTime": "2020-05-18T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-microsoft-just-gave-the-sony-ai-camera-an-azure-brain.md",
-      "title": "Microsoft just gave the Sony AI camera an Azure brain",
-      "excerpt": "It was only last week that Sony showed off its new embedded AI smart camera sensor, and already Microsoft is promising an artificial intelligence for the innovative chip. The Sony IMX500 stacks a",
-      "webUrl": "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/",
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/sony-intelligent-vision-sensor-1.jpg",
-          "width": 2307,
-          "height": 1334,
-          "title": "Microsoft just gave the Sony AI camera an Azure brain",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/amp/",
-      "publishedDateTime": "2020-05-18T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-five-robots-that-are-saving-the-us-food-supply-chain.md",
-      "title": "Five robots that are saving the US food supply chain",
-      "excerpt": "As Covid-19 threatens to buckle the US food supply chain, businesses are wrestling with the task of how to feed millions under lockdown via understaffed supply chains. As a result, demand for robotics companies whose machines can harvest,",
-      "webUrl": "https://www.ft.com/content/5dced1f4-2c25-4af6-91e5-f0ac773ef3c1",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2d98e856-a3fe-498c-8c42-ab85a0556c61.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "Five robots that are saving the US food supply chain",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/5dced1f4-2c25-4af6-91e5-f0ac773ef3c1",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/5dced1f4-2c25-4af6-91e5-f0ac773ef3c1",
-      "publishedDateTime": "2020-05-18T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

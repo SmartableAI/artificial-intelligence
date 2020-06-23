@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T11:48:00Z
 webUrl: "https://www.forbesindia.com/article/brand-connect/sharmin-alis-instoried-presents-aioptimised-content-to-power-marketing-campaigns/60201/1"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,33 @@ images:
     height: 600
     isCached: true
     title: "Sharmin Ali's Instoried presents AI-optimised content to power marketing campaigns"
+
+related:
+  - title: "How Watson AIOps helps IT teams address incidents in real time"
+    excerpt: "\nMarket intelligence firm IDC predicts that by 2024, enterprises that are powered by AI will be able to respond to customers, competitors, regulators and partners 50% faster than those that are not using AI.[1] This is good news for frustrated CIOs and IT departments that are struggling to use the vast"
+    publishedDateTime: 2020-06-23T16:26:51Z
+    webUrl: "https://www.ibm.com/blogs/watson/2020/06/how-watson-aiops-helps-it-teams-address-incidents-in-real-time/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 117
+    images:
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/06/2020_06_11_AIOps_Blog_Leadespace.jpg"
+        width: 990
+        height: 498
+        isCached: true
+  - title: "Algoriddim adds Neural Mix to djay: AI tech lets you isolate drums, instruments and vocals in real-time"
+    excerpt: "As things stand, Neural Mix is an iOS exclusive. Algoriddim tells us that it’s harnessed the power of Apple’s A12Z Bionic chip in order to make the technology work, so it’ll perform best on devices that have this chip or later. However, it’s ..."
+    publishedDateTime: 2020-06-19T08:56:00Z
+    webUrl: "https://www.musicradar.com/news/algoriddim-adds-neural-mix-to-djay-ai-tech-lets-you-isolate-drums-instruments-and-vocals-in-real-time"
+    ampWebUrl: "https://www.musicradar.com/amp/news/algoriddim-adds-neural-mix-to-djay-ai-tech-lets-you-isolate-drums-instruments-and-vocals-in-real-time"
+    cdnAmpWebUrl: "https://www-musicradar-com.cdn.ampproject.org/c/s/www.musicradar.com/amp/news/algoriddim-adds-neural-mix-to-djay-ai-tech-lets-you-isolate-drums-instruments-and-vocals-in-real-time"
+    type: article
+    provider:
+      name: MusicRadar
+      domain: musicradar.com
+    quality: 23
 
 secured: "JC/D0E3RTSpOAxabxahj0tX2Hr+/x0m9Ao1LY4xodYp1Vm/EZ7jgEZPuq+PrUYVMJqT4bM3pvggQutwHPli3KhkgxOaXEe2Hg3iThDAnVgaA4vSwhOFTCSLjrQXxxKoj7GSZNYwWR2PPNMq23WyMMyB+7oaLk9pIYohqox6vzMZEBDMds/HU8yMEXpWcdhotI7yaHNVphToBGl5+lEEnwxpzcjFLMPJSj7OMBcTkyqjzwQ+g1ZsvI8ZrDkWMPy4EmEHd3Vb8XItWvUI607EDiT6/KqFusoLF5it+J0qjPQSR7SyoljDG3NSqT56y9DtqqKJkNz+ui5kS+sW8eufngw==;T//z1/s6UofeJPO/8RxTNg=="
 ---

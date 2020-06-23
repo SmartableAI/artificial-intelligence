@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-23-nvidia-and-mercedes-benz-detail-self-driving-system-with-automated-routing-and-parking.md",
+      "title": "Nvidia and Mercedes-Benz detail self-driving system with automated routing and parking",
+      "excerpt": "The efforts build on a longstanding collaboration between Nvidia and Mercedes. At the 2018 Consumer Electronics Show, the companies showcased a concept cockpit dubbed the Mercedes-Benz User Experience,",
+      "webUrl": "https://venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-self-driving-system-with-automated-routing-and-parking/",
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/20C0302_02-e1592925639176.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Nvidia and Mercedes-Benz detail self-driving system with automated routing and parking",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-self-driving-system-with-automated-routing-and-parking/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-self-driving-system-with-automated-routing-and-parking/amp/",
+      "publishedDateTime": "2020-06-23T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars.md",
       "title": "Lyft is using data from its ride-share drivers to develop self-driving cars",
       "excerpt": "Lyft is using data collected from drivers on its ride-hailing app to accelerate the development of self-driving cars. Lyft’s Level 5 self-driving car program is using the data to build 3D maps ...",
@@ -29,6 +76,53 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-lyft-says-self-driving-car-safety-will-be-built-on-trust.md",
+      "title": "Lyft says self-driving car safety will be built on trust",
+      "excerpt": "Lyft on Monday published what it calls a Voluntary Safety Self-Assessment to provide insight into how the ride-sharing company approaches potentially revolutionary technology like self-driving cars. At the end of the day,",
+      "webUrl": "https://www.cnet.com/roadshow/news/lyft-self-driving-car-safety-trust/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/GXmk09msC0IU3WKmEQZZ8MFEUEM=/2020/06/23/e08c41fe-c6ae-4acb-be10-f3204caace01/ogi-lyft.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Lyft says self-driving car safety will be built on trust",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/lyft-self-driving-car-safety-trust/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lyft-self-driving-car-safety-trust/",
+      "publishedDateTime": "2020-06-23T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -238,33 +332,33 @@
       ]
     },
     {
-      "path": "_news/2020-06-19-bmw-and-mercedes-call-it-quits-on-their-self-driving-car-partnership.md",
-      "title": "BMW and Mercedes call it quits on their self-driving car partnership",
-      "excerpt": "Less than a year after their initial announcement, BMW and Mercedes are ending what was supposed to be a long-term partnership to develop autonomous vehicles.",
-      "webUrl": "https://www.engadget.com/bmw-mercedes-end-self-driving-partnership-191920863.html",
-      "heat": 194,
+      "path": "_news/2020-06-19-bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact.md",
+      "title": "BMW to cut 6,000 jobs and slam brakes on Mercedes self-driving alliance amid Covid-19 impact",
+      "excerpt": "BMW and Mercedes-Benz’s partnership, to cooperate on the development of self-driving technology, was announced last year but has now been put on hold. BMW said that the timing was “not right” given the current business and economic conditions and the ...",
+      "webUrl": "https://www.marketwatch.com/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19?mod=darrell-delamaides-political-capital",
+      "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F1dd033d0-b260-11ea-ba77-c0a08587aaf6&client=amp-blogside-v2&signature=1505af955476a6c17e3ee95f00cb6dbf10aea22e",
-          "width": 600,
-          "height": 350,
-          "title": "BMW and Mercedes call it quits on their self-driving car partnership",
+          "url": "https://s.marketwatch.com/public/resources/images/MW-II931_BMW619_ZG_20200619111549.jpg",
+          "width": 1320,
+          "height": 742,
+          "title": "BMW to cut 6,000 jobs and slam brakes on Mercedes self-driving alliance amid Covid-19 impact",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/bmw-mercedes-end-self-driving-partnership-191920863.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/bmw-mercedes-end-self-driving-partnership-191920863.html",
-      "publishedDateTime": "2020-06-19T12:23:00-07:00",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19",
+      "publishedDateTime": "2020-06-19T09:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1221,100 +1315,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds.md",
-      "title": "Driverless Cars Won’t Prevent Most Accidents, Insurance Institute Study Finds",
-      "excerpt": "The IIHS, a non-profit research and education organization, studied more than 5,000 crashes documented by the National Highway Traffic Safety Administration, separating out those caused by “sensing and perceiving” errors such as driver distraction,",
-      "webUrl": "https://www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/",
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda62ecb6ac5c00060e298e%2F0x0.jpg",
-          "width": 1200,
-          "height": 805,
-          "title": "Driverless Cars Won’t Prevent Most Accidents, Insurance Institute Study Finds",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/amp/",
-      "publishedDateTime": "2020-06-05T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-us-crashes.md",
-      "title": "IIHS report finds autonomous cars would prevent only ‘a third’ of U.S. crashes",
-      "excerpt": "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes.",
-      "webUrl": "https://venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/",
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/16c818_006_d326085-e1575667697958.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IIHS report finds autonomous cars would prevent only ‘a third’ of U.S. crashes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/amp/",
-      "publishedDateTime": "2020-06-05T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

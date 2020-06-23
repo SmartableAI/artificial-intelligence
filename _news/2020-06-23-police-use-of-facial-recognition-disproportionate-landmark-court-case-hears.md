@@ -107,6 +107,38 @@ related:
         width: 2290
         height: 1322
         isCached: true
+  - title: "Liberties Union Sues New York Schools over Facial Recognition"
+    excerpt: "The New York Civil Liberties Union, which has consistently opposed the system since it was first proposed, sued the Education Department in State Supreme Court in an effort to overturn the approval for the system."
+    publishedDateTime: 2020-06-23T16:03:00Z
+    webUrl: "https://www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
+        width: 927
+        height: 626
+        isCached: true
+  - title: "UK’s facial recognition technology ‘breaches privacy rights’"
+    excerpt: "South Wales police accused of using system with ‘racial bias’ that breaks data protection law Notices displayed by the Metropolitan Police notify the public of the use of automated facial recognition cameras around Whitehall for the Remembrance Sunday ..."
+    publishedDateTime: 2020-06-23T16:28:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/8e6e98b9bdc1c7e71fbcc4fc0b52022b9c2b43d4/0_170_5138_3084/master/5138.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6e67cf17a849c14a6238c590ede46efc"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Opinion | The futile withdrawal of facial recognition software by Big Tech"
     excerpt: "This technology is bound to proliferate regardless of flaws as it’s being pursued by such regimes as China’s for surveillance"
     publishedDateTime: 2020-06-22T16:21:00Z
@@ -162,6 +194,6 @@ related:
         height: 409
         isCached: true
 
-secured: "YQyz8Y3QlUjbzBaOXYBTx1bkfkUdaMRLAeRPmPReZFVzTdbLSQA3J1d8uX4V1IG8kLZXdA5Ran1iXwH73fiuc1mOpF71l5Q8ASuzagzUJh2f2GBBAmK15yBh1P+2o407f7VJQnvTV1qTydZ6hwESTLQt+bxzCHBAms19rHTQE/WQ0EwAKdqs/rn8jUwJWfaYT6R2KOBhTj2DKA3LQW43J4R3PsFNM0yMhw/wPhnMqbL/Yuipgh+ZzIsCYpiRi5eRhe7uR4qTU12NfAyveyLTvqmrqaqSeB7UbnGOv/R2ECiqWyS0sfF4sgk3nz7IadFv6ZYhL4ZJRoTg/BuNj0qbrg==;cUlVn1Eq0ZTyjS1c53Jnww=="
+secured: "xTggVyEg79hZikbfIFbNHnYqkWfLSKGDLRS45yZygnZSZXG+90DfMJ3QwRnP4zzAf3bZmncvbY4RKbFQVIpfD0ziYjW1uoCxL42ekmLHDgOds7dUFnNZ9GoedL+Ly0kCbdjZY3ctAwT5MyAqJI/MaTT8LYDUumIaalS/ywoEF+kM1viJout7MYvNF+Jl28nwtyJ6LC0PQhS1c6ZjBsHrvK5wrYnHA+sarcBfQDjKvB3JNleX9R0ah3bChRy+7FrJUptFKmIh6fTVTDGp4awVsbvRPcc/W5U14h4mtWKjkTki5Qyj6a6qA4qtv6HYjzSULSRK95SWqM3Uzwk6gu/wHNyws65JaSDtrUnpHtdAKl6JdpJus5OQiwdpqCYUiWnBg1Uq52zZYF5cofbnlM4v8rJ96E9wc+4mvpBBINov4+lYHioZ3QBbTEtNbi5PpitMuS8/eK+iY2zmSvSSFkkHz6ih3xHyZcyk+/UdsYbrWIXSo3yjOOZUrgrqTWPDeUjkomFeK0hAjrtft1aJ5MUH2Q==;gbyJ9zxah+QMhAQFzJe7Bg=="
 ---
 

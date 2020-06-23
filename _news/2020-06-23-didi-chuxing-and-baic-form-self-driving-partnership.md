@@ -25,6 +25,22 @@ images:
     title: "Didi Chuxing and BAIC form self driving partnership"
 
 related:
+  - title: "Nvidia and Mercedes-Benz detail self-driving system with automated routing and parking"
+    excerpt: "The efforts build on a longstanding collaboration between Nvidia and Mercedes. At the 2018 Consumer Electronics Show, the companies showcased a concept cockpit dubbed the Mercedes-Benz User Experience,"
+    publishedDateTime: 2020-06-23T17:38:00Z
+    webUrl: "https://venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-self-driving-system-with-automated-routing-and-parking/"
+    ampWebUrl: "https://venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-self-driving-system-with-automated-routing-and-parking/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-self-driving-system-with-automated-routing-and-parking/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/20C0302_02-e1592925639176.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "BMW and Mercedes call it quits on their self-driving car partnership"
     excerpt: "Less than a year after their initial announcement, BMW and Mercedes are ending what was supposed to be a long-term partnership to develop autonomous vehicles."
     publishedDateTime: 2020-06-19T19:23:00Z
@@ -57,38 +73,6 @@ related:
         width: 1593
         height: 996
         isCached: true
-  - title: "Lyft says self-driving car safety will be built on trust"
-    excerpt: "Lyft on Monday published what it calls a Voluntary Safety Self-Assessment to provide insight into how the ride-sharing company approaches potentially revolutionary technology like self-driving cars. At the end of the day,"
-    publishedDateTime: 2020-06-23T13:52:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/lyft-self-driving-car-safety-trust/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/lyft-self-driving-car-safety-trust/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lyft-self-driving-car-safety-trust/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/GXmk09msC0IU3WKmEQZZ8MFEUEM=/2020/06/23/e08c41fe-c6ae-4acb-be10-f3204caace01/ogi-lyft.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "BMW to cut 6,000 jobs and slam brakes on Mercedes self-driving alliance amid Covid-19 impact"
-    excerpt: "BMW and Mercedes-Benz’s partnership, to cooperate on the development of self-driving technology, was announced last year but has now been put on hold. BMW said that the timing was “not right” given the current business and economic conditions and the ..."
-    publishedDateTime: 2020-06-19T16:14:00Z
-    webUrl: "https://www.marketwatch.com/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19?mod=darrell-delamaides-political-capital"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://s.marketwatch.com/public/resources/images/MW-II931_BMW619_ZG_20200619111549.jpg"
-        width: 1320
-        height: 742
-        isCached: true
   - title: "BMW terminates self-driving tech partnership with Mercedes-Benz"
     excerpt: "German automaker BMW has announced that it will freeze its self-driving technology development program with Mercedes-Benz after a steep plunge in demand for its vehicles due to the coronavirus. BMW will also get rid of 6,"
     publishedDateTime: 2020-06-19T19:04:00Z
@@ -104,20 +88,6 @@ related:
       - url: "https://www.teslarati.com/wp-content/uploads/2019/07/bmw-i-vision-dynamics-concept-1-1024x499.jpg"
         width: 1024
         height: 499
-        isCached: true
-  - title: "BMW to cut 6,000 jobs andslam brakes on Mercedes self-driving alliance amid Covid-19 impact"
-    excerpt: "German automaker BMW revealed plans to cut 6,000 jobs on Friday as it grapples with the impact of the coronavirus pandemic."
-    publishedDateTime: 2020-06-19T14:52:00Z
-    webUrl: "https://www.marketwatch.com/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://s.marketwatch.com/public/resources/images/MW-II931_BMW619_ZG_20200619111549.jpg"
-        width: 1320
-        height: 742
         isCached: true
   - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
     excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees demand plunging because of the coronavirus pandemic."
@@ -147,20 +117,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Walmart’s self-driving partner is changing e-commerce economics"
-    excerpt: "For a self-driving vehicle startup, Gatik has an odd mantra: don’t agonize over autonomy, worry about delivery. Specifically, the three-year-old company is focused on so-called middle-mile delivery, the oft-overlooked leg between when,"
-    publishedDateTime: 2020-06-19T16:06:00Z
-    webUrl: "https://www.autonews.com/mobility-report/walmarts-self-driving-partner-changing-e-commerce-economics"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Walmart%20Delivery%20Van.jpg?h=55dc3bfa"
-        width: 800
-        height: 600
-        isCached: true
   - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
     excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees"
     publishedDateTime: 2020-06-23T06:51:00Z
@@ -172,28 +128,37 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
-  - title: "Walmart’s Self-Driving Partner Is Changing E-Commerce Economics"
-    excerpt: "Last summer, it raised $4.5 million from investors, a pint-sized sum among self-driving ventures. Though Gatik may not be sexy, its slow-lane approach has proved to be pragmatic and lucrative. Last summer,"
-    publishedDateTime: 2020-06-23T13:10:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/31511-walmarts-self-driving-partner-is-changing-e-commerce-economics"
+  - title: "Nvidia teams with Mercedes-Benz to build self-driving cars"
+    excerpt: "It will contain a graphics processing unit to run the artificial intelligence models that power a self-driving car’s autonomy features. Nvidia has shared several details about the Drive AGX Orin ..."
+    publishedDateTime: 2020-06-23T17:38:00Z
+    webUrl: "https://siliconangle.com/2020/06/23/nvidia-teams-mercedes-benz-build-software-defined-cars/"
     type: article
     provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 24
     images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0622_Walmart.jpg?height=635&t=1592797745&width=1200"
-        width: 847
-        height: 635
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/nvidia-1.png"
+        width: 718
+        height: 400
         isCached: true
-  - title: "Walmart’s Self-Driving Partner Is Changing E-Commerce Economics"
-    excerpt: "(Bloomberg) -- For a self-driving vehicle startup, Gatik has an odd mantra: don’t agonize over autonomy, worry about delivery.Specifically, the three-year-old company is focused"
-    publishedDateTime: 2020-06-21T01:41:00Z
-    webUrl: "https://www.bnnbloomberg.ca/walmart-s-self-driving-partner-is-changing-e-commerce-economics-1.1453044"
+  - title: "BMW and Mercedes go down different self-driving roads"
+    excerpt: "There is an interesting shakeup in the world of autonomous vehicles. Per a mutual press announcement today, BMW (OTCPK:BMWYY) and Mercedes-Benz (OTCPK:DDAIF) have put their cooperation agreement for"
+    publishedDateTime: 2020-06-19T12:41:00Z
+    webUrl: "https://seekingalpha.com/news/3584494-bmw-and-mercedes-go-down-different-self-driving-roads"
     type: article
     provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
+  - title: "BMW slashes 6,000 jobs, ends self-driving project with Mercedes"
+    excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees demand plunging because of the coronavirus pandemic."
+    publishedDateTime: 2020-06-19T14:23:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2020/06/19/bmw-slashes-6000-jobs-ends-self-driving-project-with-mercedes/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
     quality: 4
 
 secured: "eM0XtYwXWaC9rauOSf4L/7TXIfPJFWRTen9s6IPcJ+ootSO7BZZsitUocCbDpIjGGxWWlq4IbWOXIftQRxMxMtYdVknkrXdV7w5lc9/VY9ifPy6u12osF2Afs8x2mPbvlXuvQMX/pAxbm8qU7rG6Ca/oDo2N4a/i+jtc9mVd7wYEJpFAGUAURCMzcuBBeKsfdNrwQWUaGEXFmmFHW2u+AV7rVVW5I5nIhXRZcaRJmzwiyZUtZzaqc4F95qbqTb09xwlNGUC5rlgPT39LIbssmvnKy4Cb6Fe2TqFM8Wu4ioOmutY9SY3ETc049hCQj82Dr59UQMdHp0eq3r2C32YCtg==;ttozuWvkqg3xTesRiC/rFA=="

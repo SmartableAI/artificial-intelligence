@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-23-ai-continues-to-flourish-in-business-despite-the-pandemic-and-a-turbulent-economy.md",
+      "title": "AI continues to flourish in business despite the pandemic and a turbulent economy",
+      "excerpt": "Organizations are betting on artificial intelligence to help them stay resilient, increase efficiencies, and innovate, Appen Limited's 2020 State of AI report finds.",
+      "webUrl": "https://www.techrepublic.com/article/ai-continues-to-flourish-in-business-despite-the-pandemic-and-a-turbulent-economy/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/23/2581bf0e-dcb7-4cfe-b9c6-78c5711f89d1/resize/1200x/3156ee58dcf5bd99123ed6f18c925f5e/istock-1236682035.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI continues to flourish in business despite the pandemic and a turbulent economy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-continues-to-flourish-in-business-despite-the-pandemic-and-a-turbulent-economy/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-continues-to-flourish-in-business-despite-the-pandemic-and-a-turbulent-economy/",
+      "publishedDateTime": "2020-06-23T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-microsoft-azure-and-johns-hopkins-medicine-have-partnered-to-accelerate-precision-medicine.md",
       "title": "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine",
       "excerpt": "Microsoft Azure and Johns Hopkins Medicine partnered to leverage Microsoft's AI and analytics tools to facilitate precision medicine breakthroughs.",
@@ -1214,55 +1261,6 @@
       ],
       "topics": [
         "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-aspiring-intel-rival-graphcore-has-shipped-tens-of-thousands-of-ai-chips.md",
-      "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
-      "excerpt": "U.K. chip start-up Graphcore has leveraged relationships with Microsoft and Dell to ship chips to over 100 customers.",
-      "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143",
-          "width": 4328,
-          "height": 2906,
-          "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
-      "publishedDateTime": "2020-06-09T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware",
         "Microsoft AI"
       ]
     }

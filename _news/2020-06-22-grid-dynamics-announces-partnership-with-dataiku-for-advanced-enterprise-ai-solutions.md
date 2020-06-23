@@ -26,12 +26,12 @@ images:
 related:
   - title: "IPC and Digital Reasoning Announce Global Strategic Partnership to Deliver Most Advanced Voice Surveillance for Financial Services"
     excerpt: "IPC, a leading global provider of secure, compliant communications and networking solutions for the financial markets community,"
-    publishedDateTime: 2020-06-23T13:12:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/ipc-and-digital-reasoning-announce-global-strategic-partnership-to-deliver-most-advanced-voice-surveillance-for-financial-services-844454869.html"
+    publishedDateTime: 2020-06-23T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ipc-and-digital-reasoning-announce-global-strategic-partnership-to-deliver-most-advanced-voice-surveillance-for-financial-services-301081500.html"
     type: article
     provider:
       name: PR Newswire
-      domain: prnewswire.co.uk
+      domain: prnewswire.com
     quality: 0
     images:
       - url: "https://mma.prnewswire.com/media/352841/ipc_logo_strapline_cmyk_Logo.jpg?p=facebook"

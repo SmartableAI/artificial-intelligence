@@ -52,6 +52,15 @@ related:
         width: 348
         height: 340
         isCached: true
+  - title: "GE Healthcare Launches New AI Suite to Detect Chest X-ray Abnormalities, Including Pneumonia Caused by COVID-19 & Tuberculosis"
+    excerpt: "GE Healthcare ( continues to provide tools to support clinicians in today’s COVID-19 environment; Thoracic Care Suite harnesses the power of AI to scan for eight chest x-ray abnormalities, including pneumonia indicative of COVID-19 – a key cause of mortality in patients who contract coronavirus [1];"
+    publishedDateTime: 2020-06-23T17:42:00Z
+    webUrl: "https://www.cnbcafrica.com/africa-press-office/2020/06/23/ge-healthcare-launches-new-ai-suite-to-detect-chest-x-ray-abnormalities-including-pneumonia-caused-by-covid-19-tuberculosis/"
+    type: article
+    provider:
+      name: CNBC Africa
+      domain: cnbcafrica.com
+    quality: 6
 
 secured: "U7gTYpHvr8IIjutanQlz2OvtHLnUQwww6UTu8IN7K3ccw7gaKj6W4pXLLBMTjUdZSm6xpl8TqvMn4g+9I0wDLWh/7hWtd/XGWcPWr6w9ognuk7SANXol1RRpmu97KrPt1f0nJAc0tCxmo7jp/79L22dktxzT9D9SCKbOkke8zbt+JFhyYOMlOOu+Qb7tIkwrLAk3lVk9Q6aEoim/q2PvnmUnTHLfMbAX6BRGe8DeuHx9hopj2AzTeHQaTK8BJK4hrFVH2ES2zqn9lc4dqZsx9BSKZe1g8Bl8DyUCnBYzxvjK39d7BDFxcZfoMwnUNGOaLeEcwwFETGJXfnILWOCvTw==;1qUB13xu06/6PEdKkjhP0w=="
 ---
