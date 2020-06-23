@@ -59,6 +59,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "New York Civil Liberties Union files lawsuit over Lockport facial recognition system"
+    excerpt: "The lawsuit aims to have the New York State Education Department's approval of the facial recognition system revoked, and have Lockport deactivate the system."
+    publishedDateTime: 2020-06-23T03:46:00Z
+    webUrl: "https://www.wgrz.com/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
+    ampWebUrl: "https://www.wgrz.com/amp/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
+    cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
+    type: article
+    provider:
+      name: WGRZ
+      domain: wgrz.com
+    quality: 52
+    images:
+      - url: "https://media.wgrz.com/assets/WGRZ/images/471e47c5-7cde-4629-8b4a-2cdfd62b7e53/471e47c5-7cde-4629-8b4a-2cdfd62b7e53_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Congress Once Again Takes Up Facial Recognition Reform. But Activists Say This Time Is Different"
     excerpt: "Facial recognition technology is back in Congress’ crosshairs after IBM Corp., Microsoft Corp. and Amazon.com Inc. each called on lawmakers to establish rules for use of the software and paused sales to police departments in response to the nationwide protests against systemic racism and police brutality."
     publishedDateTime: 2020-06-19T15:05:00Z

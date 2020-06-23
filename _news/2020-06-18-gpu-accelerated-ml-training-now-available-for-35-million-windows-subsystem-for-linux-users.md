@@ -8,7 +8,7 @@ ampWebUrl: "https://news.thewindowsclub.com/gpu-accelerated-ml-training-now-avai
 cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/amp/"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://www.bleepstatic.com/content/hl-images/2019/02/18/Windows_WSL.jpg"
         width: 1280
         height: 450
-        isCached: true
-  - title: "Windows 10 OS Subsystem For Linux Gets NVIDIA CUDA GPU Accelerated Compute With Easier Install Process"
-    excerpt: "After integrating Linux into the Windows 10 OS ecosystem earlier this year, NVIDIA has now showcased how its CUDA Cores will help the Windows Subsystem"
-    publishedDateTime: 2020-06-18T10:48:00Z
-    webUrl: "https://appuals.com/windows-10-os-linux-nvidia-cuda-gpu-accelerated/"
-    type: article
-    provider:
-      name: appuals.com
-      domain: appuals.com
-    quality: 23
-    images:
-      - url: "https://cdn.appuals.com/wp-content/uploads/2018/08/images-4.jpeg"
-        width: 482
-        height: 305
         isCached: true
 
 secured: "6uaxZC/K7/MKgIAO6BwxFuw3rMjHb1BwYj4QMmRDRMkd/X+AdoVJ38OpUk5IYwl6YSxWPNC9LOdl0UTNeCleoqqM/ONrq43FYp5RLcYpwOn82pI4HV6L9hd4vVKExZzD0aUcqTdObjJpmgf9txVkpFCpTVJgrOa+LaJSeHHGk1W8K25Ddv88FJp0Qd0bXUjmsRk0qKkj+mVUMWC7vksYpyu0PyspIMwFfS/YSNBkS6sijjCtqrbsXHCZyVQlg3bjEIxQ2mAIJ0jr3eLiO2FCl7NrZ9MntgogbeLVhlidDKt4c1i+2/lDBl4eUS1TJLkGHEsT2Wrs9rNe1abrz1VVEgx0NbjVrjQpOZ1Yw/GjDIcnndO/7miaexIAtAMnMwRU/ZrvGy3tHQNrxEtLoJF13kX/ZG43DNMvO4pqX6ZCu0CbjpuXgCCtFUZkR9awKTmuPnlNmPHJSV+eJceWe8T/Gm3yGdVNzSCvoXsu6PlmhENHcC2DwhFOwKRk83dBH277aAjtwgWbGCweCc0PZzI0aw==;aGph7qyOedVyTKUaY2JenQ=="

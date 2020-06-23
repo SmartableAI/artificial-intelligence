@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in healthcare market projected to grow at a CAGR of 44.9% from 2020 to 2026"
-    excerpt: "New York, June 18, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Artificial Intelligence in Healthcare Market with Covid-19 Impact Analysis by Offering, Technology, End-Use Application, End User and Region - Global Forecast ..."
-    publishedDateTime: 2020-06-18T10:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/06/g16296068/ai-in-healthcare-market-projected-to-grow-at-a-cagr-of-44-9-from-2020-to-2026"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16296068"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16296068"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
   - title: "Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026"
     excerpt: "A leading research firm Zion Market research added a recent report on “Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026” to its research database."
     publishedDateTime: 2020-06-22T11:34:00Z

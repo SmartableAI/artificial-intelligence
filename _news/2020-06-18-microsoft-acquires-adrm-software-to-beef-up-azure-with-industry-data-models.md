@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/"
 type: article
 quality: 102
-heat: 182
+heat: 192
 published: true
 
 provider:
@@ -152,6 +152,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/0513red_RedView.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "Microsoft acquires industrial cybersecurity startup CyberX for $165M"
+    excerpt: "Microsoft Corp. has acquired industrial cybersecurity startup CyberX Inc. for an undisclosed sum. Various reports suggest that the acquisition price was $165 million with the deal"
+    publishedDateTime: 2020-06-23T02:53:00Z
+    webUrl: "https://siliconangle.com/2020/06/22/microsoft-acquires-industrial-cybersecurity-startup-cyberx-165m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/03/cyberx.png"
+        width: 1100
+        height: 799
         isCached: true
 
 secured: "4TErmmV6NjoUjkU5brDo3zFrgYGhl9NngZ/hZAyyuBOGDeW3YsTmfyZhGhK+I36JHUDawKLAqSDf/5Q2oBYbdbNz8/729+kYLyWgYq+n76pDHArivRm7GUTTxLp4f8GuFKD57/bfdJoT2cHTJpvNya/LeofADIc2nsBCcL49G8HPBfaY3FrKUSJrXEaWXY0ZpJ3tr7+YdYfJp45NH2D2YwGxNJkOSf7gZg1ky1EsnVsyAQsYpX0jcqXIuqR/6v3qW+AWfgSRlqoowySrDG5017vLJybZyQPUbTH3f8g83z5hUPbjDfsKUk55GS/heyHkv957W99ewl7flE6t0+zbCWE4Qwa9gp/7sRyQQM3g8lurs8rm4ki7EmUfxWHNFO2e1KdHZiGbyjpva9mSh/fUzV4wUmopu2taZSYUtBlyyK16EjZpEY8MJVcmjvWguTJspdZO1QYBsKoDnoMeLduaJNeMUCMrdaTz+LNrDffOJ/79z1r8mSvGOVmL1K08oBnJ;k7pxkKGPexi7x7wefhyzZw=="

@@ -149,6 +149,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft acquires industrial cybersecurity startup CyberX for $165M"
+    excerpt: "Microsoft Corp. has acquired industrial cybersecurity startup CyberX Inc. for an undisclosed sum. Various reports suggest that the acquisition price was $165 million with the deal"
+    publishedDateTime: 2020-06-23T02:53:00Z
+    webUrl: "https://siliconangle.com/2020/06/22/microsoft-acquires-industrial-cybersecurity-startup-cyberx-165m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/03/cyberx.png"
+        width: 1100
+        height: 799
+        isCached: true
 
 secured: "frnTIO+dgrbuxaK55VylYcu7p8Hlqxdc09+axXRY+efEjAyfmDn788jfVwnVVqG/9+6M0Uc18cNzBKl84VTBIhWzhd+j/kEtR95zEDHfRUHCdq9PPoGk7w51oOLtEVFMFZZ+IVU+KnPKTn8T7Vw5PG9gN/oi+WVpqEQjrqb4uIfzp+/lfGZuOYahpDONzJt+z5d2jdModZXWoQhcDJbu9nLvbC85Tr+sX7PTHcKPI/cKM91ml9APcLcMcn5hOdvUmkH6pys/Z6hoSd+TnPuT56AR90Y5K7+cZFQOgTzFzaxurqSyZaePEOxotTrlzuF6ul8mhBLhSlA+yfOjQtEycGbZULgT1ktEeJcd5MAtZft+XzYa6VO4zstpDdbtozkBV0Xcp2BNDdxcKgKRt2U60op7mE9FY3bsUCSqqown9lnSPF27/h1efuZ7lVbBe2wgFLTM38TjK9CHdTPt89VfG19xcMQ/2MXY2yRp4cQHBkZ9Opg09iaLHGoUdoLHPcb2RrsDQVQmkHXmkKWIaH1JgA==;tduCSFuYAo3KLWY1P3P6aw=="
 ---

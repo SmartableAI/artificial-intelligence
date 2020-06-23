@@ -147,7 +147,7 @@
       "title": "GPU accelerated ML training now available for 3.5 million Windows Subsystem for Linux users",
       "excerpt": "Microsoft has announced the availability of GPU Compute on the WSL2, allowing users to run native Linux command-line tools directly on Windows 10",
       "webUrl": "https://news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -579,7 +579,7 @@
       "title": "Microsoft acquires ADRM Software to beef up Azure with industry data models",
       "excerpt": "Microsoft announced that it acquired ADRM Software, a provider of large-scale industry data models used by companies as 'information blueprints.'",
       "webUrl": "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/",
-      "heat": 182,
+      "heat": 192,
       "tags": null,
       "images": [
         {

@@ -1,11 +1,13 @@
 ---
 category: news
 title: "BMW to cut 6,000 jobs and slam brakes on Mercedes self-driving alliance amid Covid-19 impact"
-excerpt: "German automaker BMW revealed plans to cut 6,000 jobs on Friday as it grapples with the impact of the coronavirus pandemic."
-publishedDateTime: 2020-06-19T15:08:00Z
-webUrl: "https://www.marketwatch.com/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19?mod=hp_minor_pos19"
+excerpt: "BMW and Mercedes-Benz’s partnership, to cooperate on the development of self-driving technology, was announced last year but has now been put on hold. BMW said that the timing was “not right” given the current business and economic conditions and the ..."
+publishedDateTime: 2020-06-19T16:14:00Z
+webUrl: "https://www.marketwatch.com/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19?mod=darrell-delamaides-political-capital"
+ampWebUrl: "https://www.marketwatch.com/amp/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19"
+cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19"
 type: article
-quality: 43
+quality: 63
 heat: -1
 published: false
 
@@ -143,6 +145,6 @@ related:
       domain: bnnbloomberg.ca
     quality: 4
 
-secured: "fXGA+Gf0ntLTbvUZ6dHTOw2hLxAfGf7DhF4/zZqlStATC2ycG+UA7L4Cz4Mo4I+pbvVwX1V8wyi9a0TyfULQDLgyianrdgUSPMrYJcJt/d9A3MW/q/P+I/3mJW1TwwfAnYAXWW1GXmV0mC1AqR382Kpn/32NQ51v0Wx2gtpUuoAFS0879wJ1pY6vFQRy2CpEKanDYud9JbsoFdVUC5SOWfl6UhdBnB+v8CfaUWKYChL9Rxgwkx5zMzZobwD3mq2JRNxa/gspK0wDf5D4MaFb+FottZXz99l6rPbWwjAqCxG2FGs5KBn/xy0WovVo9LTrY8Q22zb2/Tsu7TI9kx3BtlOFauT7k9KRoB73ubcH0L5KYDdXHW22Pp408k/D+jjCMqfOkgfkuyuoh/tQXlevUiSi0qvGXpqgRzQZzYYhtCtgLJ3iR/34FNDzxRnrLHaob1XvgdxzWpmeA9MYpG4lZ7PtAlXpJXf0dEnbtNNIDrABYblLynpNeTXllm0kf7wPKUkww8zF39jB1UWW2TvpBQ==;CyTPXv1ZaoDBhwOwvAI2sQ=="
+secured: "8vYnZ3v4SswW762kyhWRlkcvbiLc5QM0+FbKqBbjSyDS9P6fAhgaZsrGfL7tPI6Xoz4qwrGyvvR6Sq3s6CsZeZIz++eAeIms73DYGrmHpUBT+plKbsYFQHFgTBbhDUtAEvFJ/w4G5+62EneeiqhbHiPkMjRvtS9VXDZJ0jy8lk5mMn74wb2LDNtGHDjFqoESr9m1W36UFtUUV9r+GNbla/viPNJGTfcW5EK3zkggptwc/UK6nHsVlyMe4y3xaSeAkHL0zlShckdxlSlk0tGjmRWtgZTWx8CI1eabMnt44lcHqabr3CjqU+ImmrLPSEjT3xNYG9fApe8I7aYX1Wwdog==;n+cnjI+naEif+R+Apwx+Pw=="
 ---
 

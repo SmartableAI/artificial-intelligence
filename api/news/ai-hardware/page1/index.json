@@ -241,7 +241,7 @@
       "title": "GPU accelerated ML training now available for 3.5 million Windows Subsystem for Linux users",
       "excerpt": "Microsoft has announced the availability of GPU Compute on the WSL2, allowing users to run native Linux command-line tools directly on Windows 10",
       "webUrl": "https://news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {

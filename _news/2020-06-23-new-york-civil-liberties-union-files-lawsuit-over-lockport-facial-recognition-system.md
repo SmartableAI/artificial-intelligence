@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Congress Once Again Takes Up Facial Recognition Reform. But Activists Say This Time Is Different"
-excerpt: "Facial recognition technology is back in Congress’ crosshairs after IBM Corp., Microsoft Corp. and Amazon.com Inc. each called on lawmakers to establish rules for use of the software and paused sales to police departments in response to the nationwide protests against systemic racism and police brutality."
-publishedDateTime: 2020-06-19T15:05:00Z
-webUrl: "https://morningconsult.com/2020/06/18/facial-recognition-reform/"
+title: "New York Civil Liberties Union files lawsuit over Lockport facial recognition system"
+excerpt: "The lawsuit aims to have the New York State Education Department's approval of the facial recognition system revoked, and have Lockport deactivate the system."
+publishedDateTime: 2020-06-23T03:46:00Z
+webUrl: "https://www.wgrz.com/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
+ampWebUrl: "https://www.wgrz.com/amp/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
+cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
 type: article
-quality: 41
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Morning Consult
-  domain: morningconsult.com
+  name: WGRZ
+  domain: wgrz.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://assets.morningconsult.com/wp-uploads/2020/06/17180955/GettyImages-1241292950-scaled.jpg"
-    width: 2560
-    height: 1705
+  - url: "https://media.wgrz.com/assets/WGRZ/images/471e47c5-7cde-4629-8b4a-2cdfd62b7e53/471e47c5-7cde-4629-8b4a-2cdfd62b7e53_750x422.jpg"
+    width: 750
+    height: 422
     isCached: true
-    title: "Congress Once Again Takes Up Facial Recognition Reform. But Activists Say This Time Is Different"
+    title: "New York Civil Liberties Union files lawsuit over Lockport facial recognition system"
 
 related:
   - title: "Big Tech juggles ethical pledges on facial recognition with corporate interests"
@@ -73,21 +75,19 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "New York Civil Liberties Union files lawsuit over Lockport facial recognition system"
-    excerpt: "The lawsuit aims to have the New York State Education Department's approval of the facial recognition system revoked, and have Lockport deactivate the system."
-    publishedDateTime: 2020-06-23T03:46:00Z
-    webUrl: "https://www.wgrz.com/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
-    ampWebUrl: "https://www.wgrz.com/amp/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
-    cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
+  - title: "Congress Once Again Takes Up Facial Recognition Reform. But Activists Say This Time Is Different"
+    excerpt: "Facial recognition technology is back in Congress’ crosshairs after IBM Corp., Microsoft Corp. and Amazon.com Inc. each called on lawmakers to establish rules for use of the software and paused sales to police departments in response to the nationwide protests against systemic racism and police brutality."
+    publishedDateTime: 2020-06-19T15:05:00Z
+    webUrl: "https://morningconsult.com/2020/06/18/facial-recognition-reform/"
     type: article
     provider:
-      name: WGRZ
-      domain: wgrz.com
-    quality: 52
+      name: Morning Consult
+      domain: morningconsult.com
+    quality: 41
     images:
-      - url: "https://media.wgrz.com/assets/WGRZ/images/471e47c5-7cde-4629-8b4a-2cdfd62b7e53/471e47c5-7cde-4629-8b4a-2cdfd62b7e53_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://assets.morningconsult.com/wp-uploads/2020/06/17180955/GettyImages-1241292950-scaled.jpg"
+        width: 2560
+        height: 1705
         isCached: true
   - title: "SAFR Facial Recognition now runs on AXIS Camera Application Platform (ACAP)"
     excerpt: "SEATTLE — June 18, 2020 — SAFR from RealNetworks, Inc. (NASDAQ: RNWK), has announced SAFR ® Inside, a new app component of its Facial Recognition and Computer Vision Platform that runs on ACAP enabled cameras with edge processing capabilities."
@@ -99,6 +99,6 @@ related:
       domain: securityinfowatch.com
     quality: 17
 
-secured: "7y0PdojotGhuJnGNRvii1lD7TcgUD7p8x+/p070nWZxjME7WPEF0lxmLh6FtfuKuiVF4lCZpB+8/5uQdQIUK6NSr53Ge8EZRR8/aJoLfp6UXJ1J7OgQcarvfS7W1wkZ0i7UKpfk86NQuZWX2ojcPkHYZNI9c3zgzoC5ClnZz/TLANvswC8UkkFZZCy42QLL6uil2Z5sFB1cfF/xpbxY5BwZcVSrnMgxxsbEZJvx6LaRXtjIYp+qWv0Th24HzZzEV7sF6slvTVcku2FHwRJHg/dgCptHqT6MiwTFOiQV5sr6MKXnMS7a0Uc8Bmf106fpG6iQymdfWzMqqgBw1mt53ZRs2qrdp/liyOQt/07/qD9xBOyCYZRXiMAiiZ5zRCltbgnrA+dhkqVdswF1ab7hwdc7Oxgn8m03GIHWf5dEqZ0tM8nVQfDWj/CVScUlcOXcgSleMpMPgz3I4R5qvuHOQMSo+0HQPe2UzOBEk6qs7dfUU6RtXSYGgLYQZ/vdaCuaL7kPiW9Xu/ozjYY39enfw+g==;pYeWYPhS/x4Kg5haq9ik0g=="
+secured: "QlZoIw0zTWRQYOgcbCCyTUEfIPKDb2o1GTpHk5xxQ6G4KOyN+ogAY4OrGGOFynf7cZxtlkZmYEGes5w/0rFYy9Gna9L9ucVxuzYzak1M/uH/VWTEHAf8y6wi8symRePKReJPdV82/gkcLteJ9xlrUVplg4w0Zzl4ikm706dqOJuikYRh7pzSIt8AkWAx4orRPLR48zgJwnIJvR8u9HeRA1jmFeHIFdQAwe2aKG2kMdZrNdz4TS3ESlJ9fcpGPsIkdcPGG8mUL8qTNHC5u194GvjQrDG9s8zLrSk+KBteZHUM/YxJhqpCpPiHCRx6nzN6xlGA0l3UGWoVZgRAHrHIDA==;jDYUd7lLFJd/ELdFas7D/Q=="
 ---
 

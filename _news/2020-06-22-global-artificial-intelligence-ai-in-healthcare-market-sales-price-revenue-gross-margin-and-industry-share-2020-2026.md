@@ -34,17 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in healthcare market projected to grow at a CAGR of 44.9% from 2020 to 2026"
-    excerpt: "New York, June 18, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Artificial Intelligence in Healthcare Market with Covid-19 Impact Analysis by Offering, Technology, End-Use Application, End User and Region - Global Forecast ..."
-    publishedDateTime: 2020-06-18T10:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/06/g16296068/ai-in-healthcare-market-projected-to-grow-at-a-cagr-of-44-9-from-2020-to-2026"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16296068"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16296068"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
   - title: "$45.2 Billion Worldwide Artificial Intelligence in Healthcare Industry to 2026 - Featuring Lunit, Magnea & Maxq AI Among Others - ResearchAndMarkets.com"
     excerpt: "Billion Worldwide Artificial Intelligence in Healthcare Industry to 2026 - Featuring Lunit, Magnea & Maxq AI Among Others - ResearchAndMarkets.com DUBLIN-- ( BUSINESS WIRE )--The \"Artificial Intelligence in Healthcare Market with Covid-19 Impact Analysis by Offering (Hardware,"
     publishedDateTime: 2020-06-22T14:06:00Z

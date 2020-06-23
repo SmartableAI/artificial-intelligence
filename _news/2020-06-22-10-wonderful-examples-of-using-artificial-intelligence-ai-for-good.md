@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-exampl
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/amp/"
 type: article
-quality: 102
-heat: 102
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef030968548c80006be69fb%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     isCached: true
     title: "10 Wonderful Examples Of Using Artificial Intelligence (AI) For Good"
 
-secured: "jTyy9c56FGnMDkr2r47+W6yVp7YxdjwMMurRxNqTNcqaqkWNeVS+kmi2uvtCCb5IswqU77wChnuzFdHarSxBh/cqVDFW6qwTYLmtTKsGWGpMMZt7szq6AE9Cjzt9IZSQTh12WCsDEsjfaJJuTzeabkTJVr5k18tKyuttAiAO7xxvos/Zd2Kt7dG7wPM2LzuQwAZ/WEw6Upy5u7LaYHu5ob+y8gehKr/E9JNQ1yO95bAUUWhUvZBZxeFNyZ7Z3HpEsM1Teqx35r9aZG8n2q1EbxbRvzYl7Rh5HKP7Zc4j8JNVsA4LwwAR/pnYfphydI81SfHG5zrs4NQnVgA4xhO3AQ==;HqNMcf2cHZuQiRTgOSfz5A=="
+secured: "qAeDFXrilVIabXTbuCg3YzDSLDtWVvMK/7UfebNjVgljCMDCoZHKSQAot6FfTa41lIY9Rf8GWKYmTEzP1Gc2K7Zb/nwhGkRuViVkrjJ6HIe2d/vS8M+3YrwsNwdb+u4wpeQK7rZcx+JhSX3xW0VOK4aohcanVnn+pr3MVA0MaTtZ1yjRA+9w1nOTpmNibLqvL/4SQNdGgJxem0a5gbf02w5aH176ZVigEJNQymRSEgwwudooYga/LnjZHpVdSWBqwPX5CXQ/ntWo90FTXOI/cNOa5NfmLUcijjKQ7WfI+qCiZhpu4ECjIaRsM9oRGsEY6+6naG88h46y76wP0En5xLyU4gC+yd0A0AgkRz8OLuzjIop/KQb6T0hSBeBE1wwGYZhxs5P8XrmhbyZ/s8xylmtSxp2qreDD+HyzzB8/ybelt4qZgJ+E818V62vZ8NiIAmGFOGDq6iFiXMGoXnsZ7+jq+e1IJaYDKX/G1d72ZG3SNw42E4ySijegMEdk5I0z3jYXhfC+o/H9wcFjsP2f0g==;g9YGuQp/Fvb/rj7X/FI9qQ=="
 ---
 

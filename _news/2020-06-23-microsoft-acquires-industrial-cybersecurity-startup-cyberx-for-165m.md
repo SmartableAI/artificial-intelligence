@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Microsoft acquires data modeling startup ADRM Software"
-excerpt: "Microsoft has acquired ADRM Software, a company that sells industry-specific data models used by large companies. “As we worked closely with the Azure team during the past"
-publishedDateTime: 2020-06-18T15:54:00Z
-webUrl: "https://www.geekwire.com/2020/microsoft-acquires-data-modeling-startup-adrm-software/"
-ampWebUrl: "https://www.geekwire.com/2020/microsoft-acquires-data-modeling-startup-adrm-software/amp/"
-cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-acquires-data-modeling-startup-adrm-software/amp/"
+title: "Microsoft acquires industrial cybersecurity startup CyberX for $165M"
+excerpt: "Microsoft Corp. has acquired industrial cybersecurity startup CyberX Inc. for an undisclosed sum. Various reports suggest that the acquisition price was $165 million with the deal"
+publishedDateTime: 2020-06-23T02:53:00Z
+webUrl: "https://siliconangle.com/2020/06/22/microsoft-acquires-industrial-cybersecurity-startup-cyberx-165m/"
 type: article
-quality: 72
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: GeekWire
-  domain: geekwire.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - AI
 
 images:
-  - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/Model-OMB-post-1024x402-1.jpg"
-    width: 1024
-    height: 402
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/03/cyberx.png"
+    width: 1100
+    height: 799
     isCached: true
-    title: "Microsoft acquires data modeling startup ADRM Software"
+    title: "Microsoft acquires industrial cybersecurity startup CyberX for $165M"
 
 related:
   - title: "Microsoft acquires ADRM Software to beef up Azure with industry data models"
@@ -110,6 +104,22 @@ related:
         width: 1856
         height: 1280
         isCached: true
+  - title: "Microsoft acquires data modeling startup ADRM Software"
+    excerpt: "Microsoft has acquired ADRM Software, a company that sells industry-specific data models used by large companies. “As we worked closely with the Azure team during the past"
+    publishedDateTime: 2020-06-18T15:54:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-acquires-data-modeling-startup-adrm-software/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-acquires-data-modeling-startup-adrm-software/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-acquires-data-modeling-startup-adrm-software/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 72
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/06/Model-OMB-post-1024x402-1.jpg"
+        width: 1024
+        height: 402
+        isCached: true
   - title: "Microsoft Acquires ADRM for Azure Cloud, Intelligent Data Lakes"
     excerpt: "Microsoft acquires ADRM Software; sets stage for Azure customers & channel partners to build intelligent cloud data lakes."
     publishedDateTime: 2020-06-18T21:49:00Z
@@ -152,21 +162,7 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Microsoft acquires industrial cybersecurity startup CyberX for $165M"
-    excerpt: "Microsoft Corp. has acquired industrial cybersecurity startup CyberX Inc. for an undisclosed sum. Various reports suggest that the acquisition price was $165 million with the deal"
-    publishedDateTime: 2020-06-23T02:53:00Z
-    webUrl: "https://siliconangle.com/2020/06/22/microsoft-acquires-industrial-cybersecurity-startup-cyberx-165m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/03/cyberx.png"
-        width: 1100
-        height: 799
-        isCached: true
 
-secured: "i9yqgK4uQHMs+MmGspMGv0vezIAn2JuGyB6NeVARrmIeoTBySoPrwfl5BTOrKmITrdDppXEWCO5bXhJGqO+kc/Tj339UUeS3WNn6u8tOvh8Cbfcc9wiIT5uLUKmLfybHj240kxKwYXjPXXxaHChP93ZbgYF/yueS6PBoB4HpbyOGWT4lrvQV23UNWjHGz9KYBKjMQ6xlHgwuBYtKDxbUs0aSAYzsBnp5aOBciFdkOpbnw9rnUAWClrOtzk62rbh9SZQEX+CK/kwp+rkIsMgjYXGO1AWzEEt6kSC1UE+kyhsEP1j/JAld96bv27H3QcgIVz7G2DrVuXi1SZ/+FFWE+yrdsnozIaRU5OkhyqV1evDMLuLIeA1MDLbt4+8QBo9vYSjuGJkGyPhqK3eYMhqlBv+pSvYRHTYm3NlxIfgd1QrBuG9mbFYJ9peTjZFe7UxoEMtfdjWUIQ/xOokOt0ickp3FiAGujiUHBbuhagVznsCOrkzZ6KQMLFi1dHQhHdsm23B9F7AxPHGJ8/lnEwKfVg==;2wn9l6PDYl5uy4z9KPfNbw=="
+secured: "NzqjhI8TiXnsN2MrqpHYu+m1ClqaNgDK1Bfv+seG4yXksFWm0WOHkq6YgIa1/cc4f8PRlWsMcytL/CoI2y2eK+Iogxgv8jWloImdhfP4exAvxelUbImU4WMaaz1AAbqa5rmSbRFILH0FoWbCMsmXZTELMjKjvQK8ZGjvzlgClyxSoWghrjnC7gTV3WuuuH5XHEguMVaLN6cMRPXoEm3GXtPXDklJEQHccbE//TnveR6n+39SRjGq/LK3iEN3j27N5Z9XwvW/2o2capdimT3oWa+rD8lDwkEa/0O5ZdmQwoG6Zr+kFGPebRCoyCC6dG8LL/eDQx7Ux0MBctTZ8NxMGA==;8kUTktaCDQjjqpUN+wiTAg=="
 ---
 
