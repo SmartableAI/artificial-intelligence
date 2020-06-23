@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-22T13:00:00Z
 webUrl: "https://thenextweb.com/shift/2020/06/22/differences-between-teslas-autopilot-and-full-self-driving-system-adas-tech/"
 type: article
 quality: 79
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://api.thedrive.com/wp-content/uploads/2020/02/autopilot_0.jpg?quality=85"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Self-driving Bus Services Tested Out In Tallinn"
-    excerpt: "Two types of self-driving bus are being tested out in Estonia this week as part of initiatives that could revolutionise public transport in Europe. One of the services in tech-savvy Estonia, which is often used as a testing ground for innovation,"
-    publishedDateTime: 2020-06-18T17:29:00Z
-    webUrl: "https://www.ibtimes.com/self-driving-bus-services-tested-out-tallinn-2996593"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/18/look-no-hands.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "BMW and Mercedes go down different self-driving roads"
     excerpt: "There is an interesting shakeup in the world of autonomous vehicles. Per a mutual press announcement today, BMW (OTCPK:BMWYY) and Mercedes-Benz (OTCPK:DDAIF) have put their cooperation agreement for"

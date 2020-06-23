@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/22/ai-ethics-tuning-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/22/ai-ethics-tuning-knobs-a-questionable-mesh-including-for-self-driving-cars/amp/"
 type: article
 quality: 103
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: Daily Nation
       domain: nation.co.ke
     quality: 24
+  - title: "Burger King says self-driving cars know to slow down for its signs, too"
+    excerpt: "Burger King’s latest marketing effort suggests that smart cars are so smart that they know to tap the brakes when nearing one of its restaurants. And some smart cars, it turns out, appear to identify a Burger King sign,"
+    publishedDateTime: 2020-06-23T11:18:00Z
+    webUrl: "https://adage.com/article/cmo-strategy/burger-king-says-self-driving-cars-know-slow-down-its-signs-too/2263346"
+    type: article
+    provider:
+      name: Ad Age
+      domain: adage.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.adage.com/s3fs-public/styles/800x600/public/20200622_autopilot_TESLA_BK_3x2.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "BgqCR8INlmMjbL0uxCELl2b1DhkFyLnT/S8HZIreK5TOPSFgq/JxDVKMSJc2EXH0WSvzCg70ovW387PUP3B7TiUsUDVoIM6IZ+gTNgeM+NqlZ/dorY7aILhWKALQEqT+maj2vIiESt9sUSF1Oa0Af/r/wnMvgA8iCHXcEOi3obYGbLoMFJZ6Sw8fvUN0a7JPoFV0V8aV1bmDRIDPZgPGoP/U9vMkj8nz0H09npeivTMg3Yp1/+0bvXEz0aO13ewYa5FMPS17hTHuLq1z5FPHdbPkNkPjZFdpHk2z4IsVO2Vr0+FRLByieICOeG+/yFqP1RpJs8FEjLPWQH55yvPtEb+6wnu6DaLWYr0Rh1leE9PILRqY+/wc9E5zcBB9HPdHYppK5hpAJldzF6k2tnUrwBphb7rD9D4F7vzKazw7z3rIsFZienaP5WkrcS1SpECdHJDCLuIuUwy8Bevt1jf8A6z8jx0dO5ScvtRJ+HJJmk5PK648zq0IXJacM6r25ixX;ykHp0P3OSFYrhjo2vy4drg=="
 ---

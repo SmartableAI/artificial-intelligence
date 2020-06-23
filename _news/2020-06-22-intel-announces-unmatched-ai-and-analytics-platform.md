@@ -24,22 +24,6 @@ images:
     isCached: true
     title: "Intel announces unmatched AI and analytics platform"
 
-related:
-  - title: "Intel Announces Unmatched AI and Analytics Platform with New Processor, Memory, Storage and FPGA Solutions"
-    excerpt: "Intel today introduced its 3rd Gen Intel® Xeon® Scalable processors and additions to its hardware and software AI portfolio, enabling customers to accelerate the development and use of"
-    publishedDateTime: 2020-06-18T18:15:00Z
-    webUrl: "https://www.eejournal.com/industry_news/intel-announces-unmatched-ai-and-analytics-platform-with-new-processor-memory-storage-and-fpga-solutions/"
-    type: article
-    provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
-    quality: 21
-    images:
-      - url: "https://newsroom.intel.com/wp-content/uploads/sites/11/2020/06/3rd-Gen-Xeon-SKU-Table.jpg"
-        width: 690
-        height: 388
-        isCached: true
-
 secured: "v4xl3HRU/Y6CnAveqdnmQYSW0RXV/Aw+n9WOrA6Em+M97G01eHprIBSAExf6URdKOcd/wChCLM9UaeUK7svY3/3lzpZrgxgDMkPnhhE5ZnBcQMFSq1NqZ2gWIHxQ9DRjTMDXZKYKgCZMK3HFZBDVk1JdarZZlCxBftgI4YpMgt5HP3IoXQlt1ECuZAIlHIwJMD4VAIX2E3UEAOFvRArHLvYIWGdi8HDBqeel98R/890WHdHDew01Flqm2maL4HlVX3XMd7ubjALmgRBYjak+rIuoW+n4sMyPxlNIB48qKu7isaxVy48AfRamZ994FIlpQNrBQnV8yoGxPK0ROdG+3A==;2mTAfzPW4Th8gQHlMHw2Mw=="
 ---
 

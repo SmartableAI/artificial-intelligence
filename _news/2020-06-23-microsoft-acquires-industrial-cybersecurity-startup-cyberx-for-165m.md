@@ -70,6 +70,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft to acquire CyberX to bolster Azure IoT security"
+    excerpt: "Microsoft has announced it will purchase the industrially focused network security vendor CyberX for an undisclosed sum in an effort to bolster the security capabilities of its Azure IoT platform. The acquisition strikes at the heart of two key IIoT security pain points."
+    publishedDateTime: 2020-06-23T10:49:00Z
+    webUrl: "https://www.techcentral.ie/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 54
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2016/03/IOT_2016.jpg"
+        width: 620
+        height: 349
+        isCached: true
 
 secured: "N/Oz4AXnWqVbWv5GLFt7BMO2CKHL0mKVCRdwx3GlbaQpGH6TLkM2GJ7SmswbkPJeSZUTucwUQHkntpwl8o4H0DpYGU+mYIzTqAl/dwlAq4ibT6zaZ9g2s0zPu0XknIxMOMvayn2Qq4VBxF2MvrrOWA1B8f3b+2Uxmu7v1sE+rrZvn1TBSJPjX6o7pkGLFLI4x1IyCik6OFETCMah6Bw9IUNq/wKKocx8pt+T56gz1qrZtn3SQLWPdSpLAU3IVLQqpjpTigwd5Td/9j22YGONFqnhNJUfphS+hCu6Pat1pn0b/r80MuThQn0t1n5OHGvx1Yd0+8STATtbswTWwViILUd1271ZwvXjJvlZrz/7CilbKJTJ3gpyMThaYlJuJFjhyvrrI23ZIdprU906xqYN2zczvmt14jpICRSU6ZNNCzU7Z33fb+DOB3cM4O0je+eb5OgDXwsNuLmyPoCRwtUu1OFzhOoc4be9Jc0xrMK/O6K250MY0ar4mK7vIeqF/kW4iN/KadtdQudn+LE36UqhyA==;LmaWH7n60fHhGuN52tqDvA=="
 ---

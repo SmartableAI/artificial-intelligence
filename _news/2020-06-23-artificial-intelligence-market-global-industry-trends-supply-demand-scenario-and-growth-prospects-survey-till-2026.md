@@ -5,8 +5,8 @@ excerpt: "The artificial intelligence market in North America is set for rapid g
 publishedDateTime: 2020-06-23T09:31:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-trends-supply-demand-scenario-and-growth-prospects-survey-till-2026-2020-06-23"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

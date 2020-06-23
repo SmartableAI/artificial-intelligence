@@ -76,22 +76,6 @@ related:
         width: 700
         height: 390
         isCached: true
-  - title: "Pakistani among winners of Facebook’s award for ethics in AI research"
-    excerpt: "Facebook has announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and groundbreaking academic research in the field of"
-    publishedDateTime: 2020-06-18T18:49:00Z
-    webUrl: "https://www.pakistantoday.com.pk/2020/06/18/pakistani-among-winners-of-facebooks-award-for-ethics-in-ai-research/"
-    ampWebUrl: "https://www.pakistantoday.com.pk/2020/06/18/pakistani-among-winners-of-facebooks-award-for-ethics-in-ai-research/amp/"
-    cdnAmpWebUrl: "https://www-pakistantoday-com-pk.cdn.ampproject.org/c/s/www.pakistantoday.com.pk/2020/06/18/pakistani-among-winners-of-facebooks-award-for-ethics-in-ai-research/amp/"
-    type: article
-    provider:
-      name: Pakistan Today
-      domain: pakistantoday.com.pk
-    quality: 59
-    images:
-      - url: "https://cache.pakistantoday.com.pk/5eeb5347e8184.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Pakistani Scholar Wins Facebook’s Ethics in AI Research Award"
     excerpt: "Pakistani scholar Junaid Qadir was declared the winner of the Ethics in AI Research Initiative for the Asia Pacific, an"
     publishedDateTime: 2020-06-19T07:08:00Z
@@ -121,22 +105,6 @@ related:
       - url: "http://www.brecorder.com/_img/social-default.jpg"
         width: 1200
         height: 768
-        isCached: true
-  - title: "Facebook and HKU announce the winners of the Ethics in AI Research Initiative for the Asia Pacific"
-    excerpt: "Facebook and the Centre for Civil Society and Governance (CCSG) at the University of Hong Kong (HKU) today (June 18) announced the winners of the Ethics in AI Research Initiative for the Asia"
-    publishedDateTime: 2020-06-18T17:53:00Z
-    webUrl: "https://indiaeducationdiary.in/facebook-and-hku-announce-the-winners-of-the-ethics-in-ai-research-initiative-for-the-asia-pacific/"
-    ampWebUrl: "https://indiaeducationdiary.in/facebook-and-hku-announce-the-winners-of-the-ethics-in-ai-research-initiative-for-the-asia-pacific/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/facebook-and-hku-announce-the-winners-of-the-ethics-in-ai-research-initiative-for-the-asia-pacific/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 45
-    images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/06/FB-Project_V3.png?fit=670%2C346&ssl=1"
-        width: 670
-        height: 346
         isCached: true
 
 secured: "hZpMQYG/uBF0q53sTlmO606U76WTuUVmKImEESpYqxn/M0cGViu7ed75mCj+hE+Es2J7gXsnGgbQkOX5HqKe0mhPMFculLYEGpP8sDBCfldC1CtyITdVJlku0pXtDpOi+jVufi/vExCi3ivEAlpU56UgyKpPquCv8tUcQ4bkMgwh4GANzDbvYmDDw5PkmY3d15J73LVHS8dGNIJC10ZauVAIw3nnij580yjmHEXb0fKWNnvpMDohymfpiVyyFige6hxCLhZAikS5wu/Lzp7+G09qE9/8u9xeaTKso7c7ufCqnp3P4qYaJh5Z2bP291xL+wSnbGI0LShfPQHMzQDFSZD5rzgDGp0JBbYTYo+QA/TIba6/8gSINS3LhVE940AHFa6/z4WQluyKLNv8i5ycUAuNyPGORey9O0GYAKjSHl+6LqVWwovhZfqlzD0P9Nr8GoTAAEEJHoEEzCHTIOltqlDcJVbz8zUzcbqwNTBZsUgO2VqfutEY5HSwWEZzhumc;YoxtCEiumtPrdz6cQdj8+Q=="

@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-22-how-data-scientists-are-linking-ai-and-data-analysis-to-find-coronavirus-cure.md",
+      "title": "How data scientists are linking AI and data analysis to find coronavirus cure",
+      "excerpt": "In the last three months, it feels as if all of us have become armchair data scientists. As scientists across the globe race to find a cure for the scourge that is COVID-19, we’re all learning hard lessons about bell curves and epidemiological models.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/22/how-data-scientists-are-linking-ai-and-data-analysis-to-find-coronavirus-cure-syndication/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-3-4-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "How data scientists are linking AI and data analysis to find coronavirus cure",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/22/how-data-scientists-are-linking-ai-and-data-analysis-to-find-coronavirus-cure-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/22/how-data-scientists-are-linking-ai-and-data-analysis-to-find-coronavirus-cure-syndication/amp/",
+      "publishedDateTime": "2020-06-22T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-new-york-subway-system-may-implement-temperature-checks-robot-cleaners.md",
       "title": "New York Subway System May Implement Temperature Checks, Robot Cleaners",
       "excerpt": "Thermal camera screenings and the use of artificial intelligence to evaluate mask usage are among a suite of recommendations to be considered by officials at New York’s Metropolitan Transportation Authority in a new report.",
@@ -797,6 +843,53 @@
       ]
     },
     {
+      "path": "_news/2020-06-20-what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols.md",
+      "title": "What does that tattoo mean? AI app decodes extremist political symbols",
+      "excerpt": "VizPol can help journalists spot far-right and white supremacist symbols like Odal rune tattoos and boogaloo igloo flags.",
+      "webUrl": "https://www.cnet.com/news/what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/6V802LNr692jWjxRHZJDKMoiJEo=/756x567/2020/06/19/db54e33c-a93f-42a3-abe1-888a4258a06c/gettyimages-863111282.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "What does that tattoo mean? AI app decodes extremist political symbols",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/",
+      "publishedDateTime": "2020-06-20T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-20-dangerous-ai-algorithms-and-how-to-recognize-them.md",
       "title": "Dangerous AI algorithms and how to recognize them",
       "excerpt": "When discussing the threats of artificial intelligence, the first thing that comes to mind are images of Skynet, The Matrix, and the robot apocalypse. The runner up is technological unemployment, the vision of a foreseeable future in which AI algorithms take over all jobs and push humans into a struggle for meaningless survival in a world where human labor is",
@@ -847,7 +940,7 @@
       "title": "Pakistani man wins Facebook ‘Ethics in AI Research’ award",
       "excerpt": "A scholar Junaid Qadir from Pakistan has become the winner of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics.",
       "webUrl": "https://dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-in-ai-research-award/",
-      "heat": 146,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -1252,82 +1345,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-ge-healthcare-taps-lunits-ai-for-its-new-chest-x-ray-suite.md",
-      "title": "GE Healthcare taps Lunit’s AI for its new chest X-ray suite",
-      "excerpt": "GE Healthcare launched an artificial intelligence-powered chest X-ray analysis suite, designed to spot and highlight eight common conditions, using algorithms built by the South Korean startup Lunit ... analytics, AI and connectivity will only become ...",
-      "webUrl": "https://www.fiercebiotech.com/medtech/ge-healthcare-taps-lunit-s-ai-for-its-new-chest-x-ray-suite",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercebiotech/1592492062/Lunit%20Xray%20AI.jpeg?H_Tp7Ynhb8bsEI3Y4GISbyNH7u9Sjepp",
-          "width": 2700,
-          "height": 1518,
-          "title": "GE Healthcare taps Lunit’s AI for its new chest X-ray suite",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-19T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-microsoft-acquires-adrm-software-to-develop-data-models-for-azure.md",
-      "title": "Microsoft Acquires ADRM Software to Develop Data Models for Azure",
-      "excerpt": "Microsoft has announced the purchase of data model develop ADRM, which will be incorporated into its Microsoft Azure division.",
-      "webUrl": "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2020/06/Data-Model-ADRM-Microsoft.jpg",
-          "width": 1024,
-          "height": 402,
-          "title": "Microsoft Acquires ADRM Software to Develop Data Models for Azure",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/?amp",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/?amp",
-      "publishedDateTime": "2020-06-19T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
         "images": null,
         "publishers": null,
         "authors": null

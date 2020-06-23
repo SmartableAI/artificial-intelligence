@@ -62,20 +62,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Self-driving Bus Services Tested Out In Tallinn"
-    excerpt: "Two types of self-driving bus are being tested out in Estonia this week as part of initiatives that could revolutionise public transport in Europe. One of the services in tech-savvy Estonia, which is often used as a testing ground for innovation,"
-    publishedDateTime: 2020-06-18T17:29:00Z
-    webUrl: "https://www.ibtimes.com/self-driving-bus-services-tested-out-tallinn-2996593"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/18/look-no-hands.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "ey5Oq19y7gTq8Nez3/gT9koZPQG0CqutpwkHUFaHAD4eeOW33XlNN7QRvUm7EZfDYB/mk+yLY3k8jEtouOg3uXeKoGkafBl4CUGvRG+Wxjjj3QKv4vlblW6t8zsjert7T6bTRKfoaIrTdSBo2v63aVPQ07MzwM94rTowbdQ9Ru2/UBafcikZ0wDLYE4uv+DVgSTfCnPCzNyiAgDNdZeZaW2p/9ON9Wkb/o6o4G6DcxX1lofAdsgJCVrvSOm+8YuLHuRkmtcb0kJpFS9op6RqjR8taZdlDnOKLd9Ya3DMglV/mIlUEgZbifkzphlY8WVgyrLuJFk9XszEGsYkHsRu/g==;I7LhIKy+fydgC1MLJvZJTg=="
 ---

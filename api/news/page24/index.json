@@ -2,6 +2,195 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-06-01-7-ai-stocks-that-are-looking-to-the-future.md",
+      "title": "7 AI Stocks That Are Looking to the Future",
+      "excerpt": "The interesting thing is that until about 10 years ago or so, AI was mostly a backwater. Let’s face it, investors were more interested in areas like cloud computing. But there would emerge some major catalysts that would make AI a must-have.",
+      "webUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "7 AI Stocks That Are Looking to the Future",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
+      "publishedDateTime": "2020-06-01T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure.md",
+      "title": "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure",
+      "excerpt": "WANdisco, the LiveData company, today announced the limited public preview availability of WANdisco LiveData Platform for Azure, a new service offering available on Microsoft Azure exclusively. The WANdisco LiveData Platform features the company’s patented consensus engine which ensures data consistency,",
+      "webUrl": "https://www.newswiretoday.com/news/172992/WANdisco-Releases-LiveData-Platform-for-Petabyte-Scale-Cloud-Migration-to-Microsoft-Azure/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-third-pixel-feature-drop-improves-ai-powered-adaptive-battery-integrates-recorder-and-google-assistant.md",
+      "title": "Third Pixel feature drop improves AI-powered Adaptive Battery, integrates Recorder and Google Assistant",
+      "excerpt": "Google's third Pixel feature drop brings a smarter Adaptive Battery, Recorder integration with Google Assistant, and bedtime and personal safety features.",
+      "webUrl": "https://venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/android-bedtime-graphic.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Third Pixel feature drop improves AI-powered Adaptive Battery, integrates Recorder and Google Assistant",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/amp/",
+      "publishedDateTime": "2020-06-01T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-growing-at-a-cagr-205-key-player-3m-cerner-nuance-microsoft-ibm.md",
+      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Growing at a CAGR 20.5% | Key Player 3M, Cerner, Nuance, Microsoft, IBM",
+      "excerpt": "and Region – Global Forecast to 2025 MarketsandMarkets forecasts the global Natural Language Processing (NLP) in Healthcare and Life Sciences Market size to grow from USD 1.5 billion in 2020 to ...",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/ab16155634/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-growing-at-a-cagr-20-5-key",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16155634",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16155634",
+      "publishedDateTime": "2020-06-01T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-alexa-uses-amazon-translate-to-reach-more-international-customers.md",
+      "title": "Alexa uses Amazon Translate to reach more international customers",
+      "excerpt": "Amazon Alexa is available in 15 locales and eight languages. To understand and respond in different languages, Alexa needs to learn new grammar rules, and the content that powers Alexa needs to be translated to new languages. Additionally, Alexa needs to learn about country-specific topics, such as new",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/alexa-uses-amazon-translate-to-reach-more-international-customers/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png",
+          "width": 1024,
+          "height": 512,
+          "title": "Alexa uses Amazon Translate to reach more international customers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T09:50:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-artificial-intelligence-and-computer-vision-facilitates-frustrated-famished-workers.md",
       "title": "Artificial Intelligence and Computer Vision Facilitates Frustrated Famished Workers",
       "excerpt": "A wide variety of food options may be available at a self-serve salad bar (Image source: Benjamin Ashton on Unsplash) In fact, this activity at a regular checkout can easily take 16 seconds or more (see Proppos: Computer Vision Self-Checkout).",
@@ -890,214 +1079,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-chinese-tech-giant-baidu-chooses-europe-for-driverless-car-push.md",
-      "title": "Chinese tech giant Baidu chooses Europe for driverless car push",
-      "excerpt": "\"AI (artificial intelligence) technology has huge potential to promote social development, and one of AI's biggest opportunities lies in intelligent vehicles,\" said Qi Lu, chief operating officer ...",
-      "webUrl": "https://www.cnbc.com/2017/06/01/chinese-tech-giant-baidu-chooses-europe-for-driverless-car-push.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104324500-GettyImages-458949014.jpg?v=1529474405",
-          "width": 1024,
-          "height": 767,
-          "title": "Chinese tech giant Baidu chooses Europe for driverless car push",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer.md",
-      "title": "'It's fundamental': Graphcore CEO believes new kinds of AI will prove the worth of a new kind of computer",
-      "excerpt": "Graphcore, the four-year-old startup based in Bristol, England, has a chip that takes the kinds of math that a neural network processes and splits them across 1,216 tiny computers, each of which does its work in parallel with its brethren.",
-      "webUrl": "https://www.zdnet.com/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/31/d262fc29-e229-4d74-ab42-89e55b45ba5a/thumbnail/1200x675/e45b9da0b744d2b665aa2cd44166a115/nigel-toon-ceo-graphcore-may-2020.png",
-          "width": 1200,
-          "height": 675,
-          "title": "'It's fundamental': Graphcore CEO believes new kinds of AI will prove the worth of a new kind of computer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
-      "publishedDateTime": "2020-05-31T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-microsoft-replaces-msn-journalists-with-ai-robots.md",
-      "title": "Microsoft Replaces MSN Journalists With AI Robots",
-      "excerpt": "In a nightmare come true, Microsoft is letting go dozens of news editors at Microsoft News in favour of artificial intelligence (AI), according to The Guardian. For those unaware,",
-      "webUrl": "https://www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techworm.net/wp-content/uploads/2020/05/ai.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft Replaces MSN Journalists With AI Robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html/amp",
-      "cdnAmpWebUrl": "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html/amp",
-      "publishedDateTime": "2020-05-31T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techworm.net",
-        "domain": "techworm.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-tempus-launches-new-precision-medicine-driven-tests-tempushrd-and-tempusto.md",
-      "title": "Tempus Launches New Precision Medicine-Driven Tests: Tempus|HRD and Tempus|TO",
-      "excerpt": "CHICAGO, May 31, 2020 (GLOBE NEWSWIRE) -- Tempus, a technology company advancing precision medicine through the practical application of artificial intelligence in healthcare, announced the launch ...",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/05/31/2041232/0/en/Tempus-Launches-New-Precision-Medicine-Driven-Tests-Tempus-HRD-and-Tempus-TO.html",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-31T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-microsoft-choosing-ai-to-run-msn-not-journalists.md",
-      "title": "Microsoft Choosing AI to Run MSN, Not Journalists",
-      "excerpt": "MSN is shifting to a model that relies on artificial intelligence to curate news stories, and thus Microsoft plans to release nearly 80 contractors in the United States and the United Kingdom.",
-      "webUrl": "https://www.pcmag.com/news/microsoft-choosing-ai-to-run-msn-not-journalists",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01gTtUbnAcODQpqKvl1hAxp-1.fit_lim.size_1200x630.v_1590929689.png",
-          "width": 1120,
-          "height": 630,
-          "title": "Microsoft Choosing AI to Run MSN, Not Journalists",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/microsoft-choosing-ai-to-run-msn-not-journalists?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-choosing-ai-to-run-msn-not-journalists?amp=true",
-      "publishedDateTime": "2020-05-31T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

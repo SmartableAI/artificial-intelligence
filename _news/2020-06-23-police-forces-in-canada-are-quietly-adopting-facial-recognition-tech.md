@@ -77,6 +77,20 @@ related:
         width: 1320
         height: 772
         isCached: true
+  - title: "Protests Shine Light On Facial Recognition Tech Problems"
+    excerpt: "As big tech steps back from facial recognition for police, some AI experts want an end to its use entirely. Here’s why they say reform isn’t enough."
+    publishedDateTime: 2020-06-19T04:13:00Z
+    webUrl: "https://www.sciencefriday.com/segments/ai-equity/"
+    type: article
+    provider:
+      name: Science Friday
+      domain: sciencefriday.com
+    quality: 39
+    images:
+      - url: "https://www.sciencefriday.com/wp-content/uploads/2020/06/surveillance-cameras.jpg"
+        width: 1400
+        height: 1048
+        isCached: true
   - title: "Hry police to launch facial recognition app"
     excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."
     publishedDateTime: 2020-06-21T18:30:00Z
@@ -103,6 +117,6 @@ related:
         height: 1500
         isCached: true
 
-secured: "aGjVdXs3IilUkye0LhyqtBu1rgKNYjHJt8LQ7FBW5Dho0yRN711dwalySASCHpvFW+3eAHC87WvZx193w53vHuScAxaH9j1XvsIwZuw5faE/X7TR13G4bZnhBdgiwK1d6edVNXeifTjPPyFCgI9KC/ijIckYyf/YdJ6zY1Rhg8/mVNAn4JbRtLWB695WpCXOnJt7mHpyLXzYj4R5UphksC4Oy/RqGkbmnslzohQFeq8L+Db8/lkMmg/7aEtKvesRzlTCA/57FR2x6MZrTXfse449pfgIQYnP1MHOb8subAlAM53NUouv3HX05ke2UyDn7pNqNGHSAaH4HsQmqLgNzA==;IAvW/yOyskvndnNn7F8wPg=="
+secured: "ktvIN2Btc0R4OyBQ+gWQn1Uhb6lmPZdbra3oQjgnzNwc/YM4u5kvInfcJDAEFmCRzh24qYfHXnWWYQusTQD8Sf7IlqREiiVPLQkbQ81Gu1Yrz0g2JUTabucclN5BHbZz5+azTKIOfrZKkqjraO8BoQQFPkNIMhHXsxXPrjby5c0AUAPSOtzYezQ1ELmLsRmgGXIUFfFSF5oqc/ZctiTBI7U0+5e6YBKVxO09P/awsxL6IIQsrQTE8pbt7zFJcywG+emnijvLZSy++aDuWvE3BeeNiasO8o1me1hIfsjKHOG/EXt9HnTjAn/7ZVfqesthvF4Cb9kwjFBold8iT00hAis7AhTF+BAQaPit/c32VsqDbR+LSjcz/9/fZuN4U4CV+gyT3H6yXSP0ak12l/EiZedW4g0a30peE7HDbcWlGfTeJYhg7iT+38LG8FeqoevgSkVIwibnwZqnxyuwf23lvz2upuT/QMPvNbGj/JqpwVykUobxBZRXJHGhY/7MiiEVO/H0uABZxx5dNPIeRu7+Nw==;ZBhWazEUmAIeHKtyOUEbWw=="
 ---
 

@@ -63,20 +63,6 @@ related:
         width: 620
         height: 250
         isCached: true
-  - title: "IBM Unveils Watson Works for Data-Driven Insights to Address COVID-19 Return to Workplace Challenges"
-    excerpt: "IBM launched Watson Works, a curated set of products that embeds Watson AI models and apps, to help companies address return-to-workplace challenges."
-    publishedDateTime: 2020-06-18T18:50:00Z
-    webUrl: "https://hitconsultant.net/2020/06/18/ibm-unveils-watson-works-for-data-driven-insights-to-address-covid-19/"
-    type: article
-    provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 24
-    images:
-      - url: "https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/06/IBM-Watson-Works-1500x591.png"
-        width: 1500
-        height: 591
-        isCached: true
 
 secured: "AzrUu5P7uTSOHxXfMazmZosss7hj8vZ+jRZCsa5GPKLkfZod/1qqlg5vGt8+6rehiCD+rBQD5dFj5dEdUtHbYSJ8eGinRz/dY/ojlqHyYk1eYA1LgjexYF7FVgas8GvrKk/dBgPMHZmMml+M1Vqkx6Y6YXG+bJse2w+Wm6+Sq6T8rc+6vwLS9+qcUgKSNapTtwNR87Xc0mH36EBQM/u9wd0Lb83qm+UO4XdeFBucvgwA5BZCdd3blGGIgAs9vZrEDKReoJVFTPcqAFemlnKJ/QjcCYjww8o69jjIZmrzTlxdmzm02Jfr2ZbuEYpubxxgU5tCoGSg/ul1oyhXrKqofw==;xUWA2P3lpXXxEFgJtmX7TQ=="
 ---

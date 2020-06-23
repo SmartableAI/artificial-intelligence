@@ -26,6 +26,22 @@ images:
     isCached: true
     title: "China deploys self-driving cars to deliver foods; disinfect places in the streets"
 
+related:
+  - title: "China Deploys Self-Driving Cars To Deliver Foods; Disinfect Places In The Streets [Video]"
+    excerpt: "As a way to reduce the spread of coronavirus, China, according to Mashable, is using self-driving vans called Hercules to deliver foods and disinfect streets. In a Tweet shared by Mashable on Saturday,"
+    publishedDateTime: 2020-06-23T11:08:00Z
+    webUrl: "https://www.peacefmonline.com/pages/local/news/202006/415329.php"
+    type: article
+    provider:
+      name: Peace FM Online
+      domain: peacefmonline.com
+    quality: 15
+    images:
+      - url: "https://w5p2r8x5.stackpathcdn.com/photos/news/202006/829420881_415791.jpg"
+        width: 600
+        height: 337
+        isCached: true
+
 secured: "dkEPBhiZd73IQxNhm6sah9PU7J6sBwC9/9ar1K5PprNIy8obG15sWDVZtuBUv8dXMPvWivhfYgpTp25U2csClWXwx4kuAyd7XnDoZFskywI+ASHK8Dk8a9m3oANaiIfdOHtOeOCGupsacPTIqWg+umYlxY7ZFBkDOHRX6NAESA2CN2eDbs818JRSqDW52WS/d+x7Y9B0Bb3ST2a6xJYq9GMJ8OisRaPsMQvtaAWM8JtVwrNy9gAV0gL3r9prhmQ0K7jR7fEuzEv2rVTB3ZZo8+hIsq6dIETKbsOjnTcPO8QZJxyaBtulhbz3MkjGqfRLjEG70pzJ2uyq52eVXi5Lug==;P3Gdb47o3O6EEE1oDnaXWA=="
 ---
 

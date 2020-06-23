@@ -2,6 +2,231 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-05-22-limited-view-and-sparse-photoacoustic-tomography-for-neuroimaging-with-deep-learning.md",
+      "title": "Limited-View and Sparse Photoacoustic Tomography for Neuroimaging with Deep Learning",
+      "excerpt": "In this work, we propose a novel deep learning approach termed pixel-wise deep learning (Pixel-DL) that first employs pixel-wise interpolation governed by the physics of photoacoustic wave ...",
+      "webUrl": "https://www.nature.com/articles/s41598-020-65235-2",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-65235-2/MediaObjects/41598_2020_65235_Fig1_HTML.png",
+          "width": 685,
+          "height": 407,
+          "title": "Limited-View and Sparse Photoacoustic Tomography for Neuroimaging with Deep Learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-22T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-startup-battlefield-is-going-virtual-with-techcrunch-disrupt-2020.md",
+      "title": "Startup Battlefield is going virtual with TechCrunch Disrupt 2020",
+      "excerpt": "TechCrunch Disrupt is now fully virtual. What does this mean for Startup Battlefield? More opportunity. The best companies from across the globe, an even bigger launch platform, the eyes of more investors from around the world and",
+      "webUrl": "https://techcrunch.com/2020/05/22/startup-battlefield-is-going-virtual-with-techcrunch-disrupt-2020/",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2015/08/9726191699_6ba4b89744_o.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": "Startup Battlefield is going virtual with TechCrunch Disrupt 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/05/22/startup-battlefield-is-going-virtual-with-techcrunch-disrupt-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/22/startup-battlefield-is-going-virtual-with-techcrunch-disrupt-2020/amp/",
+      "publishedDateTime": "2020-05-22T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-microsoft-flexed-its-cloud-and-ai-muscles-at-build-2020.md",
+      "title": "Microsoft flexed its cloud and AI muscles at Build 2020",
+      "excerpt": "The company’s investments in cloud and machine learning are starting to deliver real products. It’s a bold proposition, but one with the potential to propel Microsoft’s productivity software ahead of Google’s.",
+      "webUrl": "https://www.engadget.com/microsoft-build-2020-flex-ai-cloud-muscle-fluid-framework-healthcare-170004851.html",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F8e3ebec0-9ba4-11ea-87d4-3fabe0b95513&client=amp-blogside-v2&signature=be5fc0b80f6e8bad481efcad56d7969a2f70517e",
+          "width": 1119,
+          "height": 630,
+          "title": "Microsoft flexed its cloud and AI muscles at Build 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-22T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-microsoft-updates-windows-azure-tools-with-an-eye-on-the-future.md",
+      "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
+      "excerpt": "Build conference, Microsoft addressed some past missteps on development, while expanding its GitHub, Visual Studio, Azure, and Office platforms.",
+      "webUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/m/microsoft-/microsoft-updates-windows-azure-tools-with-an-eye-on-the-fut_m6h8.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
+      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
+      "publishedDateTime": "2020-05-22T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40.md",
+      "title": "AI reconstructs Pac-Man just by watching it as game turns 40",
+      "excerpt": "The Nvidia GameGAN artificial intelligence recreated the game from scratch after ingesting 50,000 gameplay episodes of the classic game.",
+      "webUrl": "https://www.cnet.com/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/yQEmqA_2RjWodVpXtfPF4mainp8=/756x567/2020/05/22/8fcfffb0-d775-4f67-86be-9cf2467ea18d/nvidia-ai-pac-man.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "AI reconstructs Pac-Man just by watching it as game turns 40",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
+      "publishedDateTime": "2020-05-22T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay.md",
       "title": "Nvidia teaches AI to create new version of Pac-Man just by watching gameplay",
       "excerpt": "Nvidia researchers have used generative adversarial networks (GANs) to create a new version of Pac-Man that recreated without studying the game's code",
@@ -840,189 +1065,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-amazon-urged-not-to-sell-facial-recognition-tool-to-police.md",
-      "title": "Amazon urged not to sell facial recognition tool to police",
-      "excerpt": "It’s not clear how many law enforcement agencies have purchased the tool, called Rekognition, since its launch in late 2016 or since its update last fall, when Amazon added capabilities that ...",
-      "webUrl": "https://www.abqjournal.com/1175200/aclu-amazon-shouldnt-sell-face-recognition-tech-to-police.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2018/05/22/BC-US-Amazon-Facial-Recognition-IMG-jpg-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Amazon urged not to sell facial recognition tool to police",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.abqjournal.com/1175200/aclu-amazon-shouldnt-sell-face-recognition-tech-to-police.html/amp",
-      "cdnAmpWebUrl": "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1175200/aclu-amazon-shouldnt-sell-face-recognition-tech-to-police.html/amp",
-      "publishedDateTime": "2020-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Albuquerque Journal",
-        "domain": "abqjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-civil-rights-groups-criticize-amazons-facial-recognition-system.md",
-      "title": "Civil rights groups criticize Amazon's facial recognition system",
-      "excerpt": "May 22 (Reuters) - Several U.S. civil liberties groups on Tuesday complained that Amazon.com Inc's real-time facial recognition system, Rekognition, is helping the government with surveillance ...",
-      "webUrl": "https://www.cnbc.com/2018/05/22/reuters-america-civil-rights-groups-criticize-amazons-facial-recognition-system.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
-          "width": 1200,
-          "height": 630,
-          "title": "Civil rights groups criticize Amazon's facial recognition system",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2018/05/22/reuters-america-civil-rights-groups-criticize-amazons-facial-recognition-system.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/05/22/reuters-america-civil-rights-groups-criticize-amazons-facial-recognition-system.html",
-      "publishedDateTime": "2020-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-microsoft-moves-toward-ai-that-creates-offspring.md",
-      "title": "Microsoft Moves Toward AI That Creates Offspring",
-      "excerpt": "Among the notable advances at Microsoft’s Build this year was the new Azure Cognitive Services capability to significantly reduce the aggravation and time it takes to create an app. Microsoft Build is often a fascinating conference because if you look at ...",
-      "webUrl": "https://www.datamation.com/artificial-intelligence/microsoft-moves-toward-ai-that-creates-offspring.html",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.datamation.com/amp/artificial-intelligence/microsoft-moves-toward-ai-that-creates-offspring.html",
-      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/microsoft-moves-toward-ai-that-creates-offspring.html",
-      "publishedDateTime": "2020-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-object-detection-with-tensorflow.md",
-      "title": "Object Detection, With TensorFlow",
-      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
-      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
-          "width": 877,
-          "height": 600,
-          "title": "Object Detection, With TensorFlow",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-reversinglabs-honored-as-silver-stevie-award-winner-in-2020-american-business-awards.md",
-      "title": "ReversingLabs Honored As Silver Stevie® Award Winner In 2020 American Business Awards®",
-      "excerpt": "Hackers use innovative ways to attack the systems, and the machine learning models should be ... Business Awards include John Hancock Financial Services, Melissa Sones Consulting, and SoftPro.",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/05/22/2037749/0/en/ReversingLabs-Honored-As-Silver-Stevie-Award-Winner-In-2020-American-Business-Awards.html",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://searchengineland.com/this-start-up-is-using-ai-to-suggest-em
 cdnAmpWebUrl: "https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/this-start-up-is-using-ai-to-suggest-emojis-social-content-for-smbs-336192/amp"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     height: 1080
     isCached: true
     title: "This start-up is using AI to suggest emojis, social content for SMBs"
-
-related:
-  - title: "YouTube sued for using AI to racially profile content creators"
-    excerpt: "A group of black content creators has sued YouTube for allegedly using AI to censor their videos based “wholly or in part” on race."
-    publishedDateTime: 2020-06-18T18:08:00Z
-    webUrl: "https://thenextweb.com/neural/2020/06/18/youtube-sued-for-using-ai-to-racially-profile-content-creators/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/06/18/youtube-sued-for-using-ai-to-racially-profile-content-creators/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/18/youtube-sued-for-using-ai-to-racially-profile-content-creators/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-79-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
 
 secured: "lrhRCjrqI6WXqEAPZcr+ORgR1Ns+t70+tp1MTj6jOv2t3fKskF2YLD/2yJP7djOboru76lKvl7juFG1JwydsjEOQRIvR2HYkpfpr99T8oJZRIXsQgjyO0zhWi9qjTY8H2kvBMPf0vXjTFuz1wAPtDjyTSLV4XEt+0P40c9d9izPKppToyMk2/32iHZHnsCcVlueRk3eG8+sRXuqEQWinMtaRN8eOTcn+m4tMTLwbNnetK2j+fdvre3gj0c4TklJbKUNyV8QzlpTxGDWqsMIG5BHyWOvz4NvsABDU3JaQnqb5b+TxoueXc0pSAEWbkOZh/TU1IcDJ4fGAuJrLNXIeOFya6EF4n6mlyZCRj02vTQ1RVK9LJ7uNFgFyoPyFl3O7LJECl2/c09/RSi63W3ZZI+6RA4k3hVtCMvDCldLlUPhSY7fS+JMRP68sRxEWAyGy+OjC/OSXalLJXgM0NUlww+BM6MMRLet1m+kH8N2F3Ix/RJVhkY/ksTTQCaXUp3dj17btt1+Wm8OfQz81LcucIA==;Md49lXVojW51SVSjdpuIpg=="
 ---

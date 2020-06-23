@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-23-appen-75-of-employees-believe-ai-is-critical-to-their-business.md",
+      "title": "Appen: 75% of employees believe AI is critical to their business",
+      "excerpt": "In a survey conducted by AI data services company Appen, 75% of employees said they considered AI critical to their business.",
+      "webUrl": "https://venturebeat.com/2020/06/23/appen-75-of-employees-believe-ai-is-critical-to-their-business/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Appen: 75% of employees believe AI is critical to their business",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/23/appen-75-of-employees-believe-ai-is-critical-to-their-business/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/appen-75-of-employees-believe-ai-is-critical-to-their-business/amp/",
+      "publishedDateTime": "2020-06-23T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-why-are-technology-companies-quitting-facial-recognition.md",
+      "title": "Why Are Technology Companies Quitting Facial Recognition?",
+      "excerpt": "These companies are reacting wisely to the potential for bias and the potential abuse of this technology in law enforcement. Let's examine three main issues related to the use of facial recognition technology in law enforcement: bias,",
+      "webUrl": "https://www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/",
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef0efa98548c80006be6f69%2F0x0.jpg%3FcropX1%3D262%26cropX2%3D633%26cropY1%3D0%26cropY2%3D371",
+          "width": 372,
+          "height": 371,
+          "title": "Why Are Technology Companies Quitting Facial Recognition?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/amp/",
+      "publishedDateTime": "2020-06-23T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-huawei-aims-to-certify-1000-engineers-with-launch-of-singapore-virtual-ai-academy.md",
       "title": "Huawei aims to certify 1,000 engineers with launch of Singapore 'virtual' AI academy",
       "excerpt": "Chinese tech giant launches virtual academy in Singapore offering 140 free online courses in artificial intelligence, 5G, cloud computing, and big data, and aims to certify 1,000 engineers in the country by end-2021.",
@@ -311,45 +405,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-22-big-tech-juggles-ethical-pledges-on-facial-recognition-with-corporate-interests.md",
-      "title": "Big Tech juggles ethical pledges on facial recognition with corporate interests",
-      "excerpt": "The careful wording of public pledges leaves plenty of room for oppressive uses of the technology, critics say.",
-      "webUrl": "https://www.nbcnews.com/tech/security/big-tech-juggles-ethical-pledges-facial-recognition-corporate-interests-n1231778",
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/j/newscms/2019_23/2857426/190514-facial-recognition-ces-ew-624p_9901ee6159e029067bc24200074b6e00.fit-560w.jpg",
-          "width": 560,
-          "height": 373,
-          "title": "Big Tech juggles ethical pledges on facial recognition with corporate interests",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1231778",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231778",
-      "publishedDateTime": "2020-06-22T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-06-22-predicting-driving-speed-violations-with-the-amazon-sagemaker-deepar-algorithm.md",
       "title": "Predicting driving speed violations with the Amazon SageMaker DeepAR algorithm",
       "excerpt": "Forecasting is an important aspect for many businesses and industries; forging ahead without clearly defined goals could have serious consequences. Product planning, financial forecasting, and weather forecasting create scientific estimates based on hard data and critical analysis. Time-series forecasting",
@@ -401,7 +456,7 @@
       "title": "HomeKit in iOS 14: Support for facial recognition and adaptive lighting",
       "excerpt": "HomeKit will soon be able to automatically change the color temperature of your lights throughout the day, as well as tell you who’s waiting on your doorstep.",
       "webUrl": "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.html",
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -682,7 +737,7 @@
       "title": "AI Ethics ‘Tuning Knobs’ A Questionable Mesh, Including For Self-Driving Cars",
       "excerpt": "AI systems are being churned out at quite a rapid pace, meanwhile, there are considerable qualms about whether such AI will exhibit ethical behavior. There is a rising tide of concern about AI ethics.",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/22/ai-ethics-tuning-knobs-a-questionable-mesh-including-for-self-driving-cars/",
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1048,7 +1103,7 @@
       "title": "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business",
       "excerpt": "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,",
       "webUrl": "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/",
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1087,43 +1142,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-lemonade-ipo-its-all-about-ai-artificial-intelligence.md",
-      "title": "Lemonade IPO: It’s All About AI (Artificial Intelligence)",
-      "excerpt": "The company is trying to upend the traditional insurance market. And yes, growth has been strong in advance of a likely Lemonade IPO.",
-      "webUrl": "https://investorplace.com/2020/06/lemonade-ipo-its-all-about-ai-artificial-intelligence/",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/12/insurance-audit.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "Lemonade IPO: It’s All About AI (Artificial Intelligence)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/06/lemonade-ipo-its-all-about-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/lemonade-ipo-its-all-about-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-06-22T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,146 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-17-la-trobe-university-uses-ai-to-bring-mental-health-care-to-cancer-patients.md",
+      "title": "La Trobe University uses AI to bring mental health care to cancer patients",
+      "excerpt": "The Centre for Data Analytics and Cognition (CDAC) at La Trobe University has teamed up with international cancer researchers to develop an artificial intelligence patient-reported information multidimensional framework (PRIME) to detect and analyse a patient's mental health status while undergoing cancer treatment.",
+      "webUrl": "https://www.zdnet.com/article/la-trobe-university-uses-ai-to-bring-mental-health-care-to-cancer-patients/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/02/5b7a98a9-03a4-4b53-9771-c390083c37d4/thumbnail/1200x675/6843fb088aff4035b00e740cea97a5d8/mammogram.png",
+          "width": 1200,
+          "height": 675,
+          "title": "La Trobe University uses AI to bring mental health care to cancer patients",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/la-trobe-university-uses-ai-to-bring-mental-health-care-to-cancer-patients/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/la-trobe-university-uses-ai-to-bring-mental-health-care-to-cancer-patients/",
+      "publishedDateTime": "2020-06-16T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-detecting-and-visualizing-telecom-network-outages-from-tweets-with-amazon-comprehend.md",
+      "title": "Detecting and visualizing telecom network outages from tweets with Amazon Comprehend",
+      "excerpt": "In today’s world, social media has become a place where customers share their experiences with services that they consume. Every telecom provider wants to have the ability to understand their customer pain points as soon as possible and to do this carriers frequently establish a social media team within",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-visualizing-telecom-network-outages-from-tweets-with-amazon-comprehend/",
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/09/image001-971x630.jpg",
+          "width": 971,
+          "height": 630,
+          "title": "Detecting and visualizing telecom network outages from tweets with Amazon Comprehend",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-16T12:22:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-72-hours-left-to-apply-to-startup-battlefield-at-disrupt-2020.md",
+      "title": "72 hours left to apply to Startup Battlefield at Disrupt 2020",
+      "excerpt": "Want to launch your early-stage startup in front of the largest Disrupt audience in history? The opportunity clock is ticking, and you have just 72 hours left for a chance to compete head-to-head against top startups from around the world at Disrupt 2020.",
+      "webUrl": "https://techcrunch.com/2020/06/16/72-hours-left-to-apply-to-startup-battlefield-at-disrupt-2020/",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/07/gettyimages-455232588.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": "72 hours left to apply to Startup Battlefield at Disrupt 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/16/72-hours-left-to-apply-to-startup-battlefield-at-disrupt-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/16/72-hours-left-to-apply-to-startup-battlefield-at-disrupt-2020/amp/",
+      "publishedDateTime": "2020-06-16T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-amazon-polly-launches-a-child-us-english-ntts-voice.md",
       "title": "Amazon Polly launches a child US English NTTS voice",
       "excerpt": "Amazon Polly turns text into lifelike speech, allowing you to create voice-enabled applications. We’re excited to announce the general availability of a new US English child voice—Kevin. Kevin’s voice was developed using the latest Neural Text-to-Speech (NTTS) technology, making it sound natural and",
@@ -1008,136 +1148,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-kt-to-invest-41-million-into-hyundai-robotics.md",
-      "title": "KT to invest $41 million into Hyundai Robotics",
-      "excerpt": "South Korean telco KT will invest 50 billion won ($41.4 million) into Hyundai Robotics for a 10% stake, the company said on Tuesday. The two companies will collaborate to co-develop intelligent service robots and perform research in the areas of automation and smart factories,",
-      "webUrl": "https://www.zdnet.com/article/kt-to-invest-us41-million-into-local-robotics-firm/",
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/25/f7e0bf06-4c68-4d88-8aa1-06f0e1dc872c/thumbnail/1200x675/6c7c37cb3b8e3da953320ca4b312fa17/kt-deploys-5g-autonomous-carts-at-wareho-5ecb0926e468b746804e73bb-1-may-25-2020-24-47-54-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "KT to invest $41 million into Hyundai Robotics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/kt-to-invest-us41-million-into-local-robotics-firm/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kt-to-invest-us41-million-into-local-robotics-firm/",
-      "publishedDateTime": "2020-06-15T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems.md",
-      "title": "CSIRO and Microsoft to use AI to tackle man-made environmental problems",
-      "excerpt": "Artificial intelligence is one technology the pair will be using to look at challenges such as illegal fishing and plastic waste, and to boost farming in Australia.",
-      "webUrl": "https://www.zdnet.com/article/csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/06/16/9661d050-0c11-4767-a7ae-3c29bd3d17c5/storm-water-and-litter.jpg",
-          "width": 728,
-          "height": 570,
-          "title": "CSIRO and Microsoft to use AI to tackle man-made environmental problems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems/",
-      "publishedDateTime": "2020-06-15T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-ai-and-the-rise-of-proactive-it.md",
-      "title": "AI And The Rise Of Proactive IT",
-      "excerpt": "Zero impact, zero touch IT delivery used to be the stuff of fairy tales. With AIOps, it’s closer than you think.",
-      "webUrl": "https://www.forbes.com/sites/servicenow/2020/06/15/ai-and-the-rise-of-proactive-it/",
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2020/06/15/ai-and-the-rise-of-proactive-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2020/06/15/ai-and-the-rise-of-proactive-it/amp/",
-      "publishedDateTime": "2020-06-15T17:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

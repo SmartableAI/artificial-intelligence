@@ -228,6 +228,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-18-this-startup-uses-machine-learning-to-change-the-way-drugs-are-developed.md",
+      "title": "This startup uses machine learning to change the way drugs are developed",
+      "excerpt": "Insitro, the startup founded by Daphne Koller, is taking a radical new approach to drug development. The company uses a team of biologists and machine learning experts to help develop new drugs that are more likely to succeed.",
+      "webUrl": "https://www.fastcompany.com/video/this-startup-uses-machine-learning-to-change-the-way-drugs-are-developed/6CpgWp2J",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/fetch/w_1280,f_auto,q_auto,fl_lossy/https://cdn.jwplayer.com/v2/media/6CpgWp2J/poster.jpg?width=720",
+          "width": 1280,
+          "height": 722,
+          "title": "This startup uses machine learning to change the way drugs are developed",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-ai-and-machine-learning-in-healthcare-garbage-in-garbage-out.md",
       "title": "AI And Machine Learning In Healthcare: Garbage In, Garbage Out",
       "excerpt": "Much proselytizing has occurred regarding the value and future of artificial intelligence (AI) and machine learning in healthcare. The industry is burgeoning. As with blockchain technology, which continues to evolve in the healthcare marketplace ...",
@@ -1259,53 +1297,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19.md",
-      "title": "How a smartphone coupled with machine learning may become a simple, efficient test for COVID-19",
-      "excerpt": "A scientist at the University of Cincinnati has been refining an ingenious design for an ultra-portable genetic test that uses AI and smartphones. It could eventually offer a cheaper, simpler alternative for detecting coronavirus infections.",
-      "webUrl": "https://www.zdnet.com/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/11/24859aeb-4a40-45a9-a322-30b18146042c/priye-et-al-2017-lamp-box-materials.png",
-          "width": 2126,
-          "height": 1144,
-          "title": "How a smartphone coupled with machine learning may become a simple, efficient test for COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
-      "publishedDateTime": "2020-06-11T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

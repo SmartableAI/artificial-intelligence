@@ -2,6 +2,146 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-06-09-jsonar-raises-50-million-for-ai-powered-database-monitoring-products.md",
+      "title": "JSonar raises $50 million for AI-powered database monitoring products",
+      "excerpt": "JSonar, a database monitoring startup that leans heavily on AI and machine learning, has raised $50 million in venture capital.",
+      "webUrl": "https://venturebeat.com/2020/06/09/jsonar-raises-50-million-for-ai-powered-database-monitoring-products/",
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/3f9b168a-00dd-4b77-b5e5-e44edee178fe-e1591210411635.png?w=1200&#038;strip=all",
+          "width": 1028,
+          "height": 512,
+          "title": "JSonar raises $50 million for AI-powered database monitoring products",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/09/jsonar-raises-50-million-for-ai-powered-database-monitoring-products/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/jsonar-raises-50-million-for-ai-powered-database-monitoring-products/amp/",
+      "publishedDateTime": "2020-06-09T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-automotive-voice-recognition-system-market-by-technology-vehicle-type-size-opportunities-and-forecast-2020-2027.md",
+      "title": "Automotive Voice Recognition System Market By Technology, Vehicle Type, Size, Opportunities and Forecast, 2020 - 2027",
+      "excerpt": "As per the research held by Acumen Research and Consulting, \"the global Automotive Voice Recognition System market anticipated to exceed US$ 39 Bn by 2027, along with the projected CAGR of 21% from 2020 to 2027\".",
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-by-technology-vehicle-type-size-opportunities-and-forecast-2020---2027-2020-06-09",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automotive Voice Recognition System Market By Technology, Vehicle Type, Size, Opportunities and Forecast, 2020 - 2027",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices.md",
+      "title": "MIT's Artificial Brain-On-A-Chip Could Bring Supercomputing to Mobile Devices",
+      "excerpt": "What's smaller than a piece of confetti, covered in artificial synapses, and may change the future of artificial intelligence? MIT's new \"brain-on-a-chip,\" an engineering feat that could bring supercomputer smarts to mobile devices.",
+      "webUrl": "https://www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices",
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/04FkgpcwV9okJSJCoVxgupd-1.fit_lim.size_1200x630.v_1591701784.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": "MIT's Artificial Brain-On-A-Chip Could Bring Supercomputing to Mobile Devices",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices?amp=true",
+      "publishedDateTime": "2020-06-09T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-ibm-is-canceling-its-facial-recognition-programs.md",
       "title": "IBM is canceling its facial recognition programs",
       "excerpt": "IBM is a market leader in artificial intelligence. IBM Watson, its AI platform for businesses, is used by companies such as General Motors, KPMG and ESPN Fantasy Football. And its fast talking AI ...",
@@ -125,6 +265,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-09-cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization.md",
+      "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
+      "excerpt": "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others.",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai/article_d2d9a8e5-54aa-5b3b-815b-9bdf63586341.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-mit-brain-on-a-chip-could-make-ai-more-portable.md",
       "title": "MIT “brain-on-a-chip” could make AI more portable",
       "excerpt": "We have made quite a lot of progress in artificial intelligence in the past years, partly thanks to the rising popularity of consumer products powered by machine learning and neural networks. We",
@@ -168,44 +346,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization.md",
-      "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
-      "excerpt": "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others.",
-      "webUrl": "https://www.prnewswire.com/news-releases/cvpr-2020-features-microsoft-ceo--svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-301072534.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/462374/IEEE_Computer_Society_Logo.jpg?p=facebook",
-          "width": 597,
-          "height": 314,
-          "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -727,6 +867,53 @@
       ]
     },
     {
+      "path": "_news/2020-06-09-self-driving-cars-wont-eradicate-the-car-crash-study-says.md",
+      "title": "Self-driving cars won't eradicate the car crash, study says",
+      "excerpt": "While self-driving cars won't get distracted or drive drunk, that only accounts for a third of wrecks that occur, according to the insurance industry. In a blow to hopes for a future free of car ...",
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-cars-crash-study/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving cars won't eradicate the car crash, study says",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
+      "publishedDateTime": "2020-06-08T21:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-artificial-intelligence-chips-benefit-from-a-good-nights-sleep.md",
       "title": "Artificial intelligence chips benefit from a good night's sleep",
       "excerpt": "Artificial neurons are already far more human-like than traditional computers, and now it turns out they might also need sleep to function at their peak. And it’s not just a matter of turning them off every now and then – a new study shows that the neurons benefit from exposure to slow-wave",
@@ -1118,185 +1305,6 @@
         "AI",
         "Natural Language Processing",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-your-company-needs-ai-training-heres-how-to-get-it-for-free.md",
-      "title": "Your company needs AI training: Here's how to get it for free",
-      "excerpt": "Just because you don't have a large training budget doesn't mean you shouldn't democratize your AI. Here are some ways to get the training your staff needs.",
-      "webUrl": "https://www.techrepublic.com/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/08/c72c3495-4430-4506-a732-ccffd727714b/resize/1200x/38c546efe64f75f3cbb60431c1a91006/istock-1183313700.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": "Your company needs AI training: Here's how to get it for free",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
-      "publishedDateTime": "2020-06-08T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-durr-brings-artificial-intelligence-to-the-paint-shop.md",
-      "title": "Durr brings artificial intelligence to the paint shop",
-      "excerpt": "The automotive industry is a key driver and user of artificial intelligence (AI), which is fast percolating to different work areas. Now German major Durr has developed Advanced Analytics, the first market-ready AI application for paint shops.",
-      "webUrl": "https://www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/cc8e20a9-9966-44d0-bbfb-4cae9eefcc8e.jpg",
-          "width": 735,
-          "height": 490,
-          "title": "Durr brings artificial intelligence to the paint shop",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448?amp=1",
-      "cdnAmpWebUrl": "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448?amp=1",
-      "publishedDateTime": "2020-06-08T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autocar Pro",
-        "domain": "autocarpro.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-mit-fit-tens-of-thousands-of-artificial-brain-synapses-on-a-single-chip.md",
-      "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
-      "excerpt": "MIT engineers put tens of thousands of artificial brain synapses on a single chip that's smaller than a piece of confetti.",
-      "webUrl": "https://www.engadget.com/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=dddb7e895b32ece73d8964a5022342b8a16c81b6",
-          "width": 600,
-          "height": 350,
-          "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
-      "publishedDateTime": "2020-06-08T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another.md",
-      "title": "Facebook’s TransCoder AI converts code from one programming language into another",
-      "excerpt": "Facebook's TransCoder AI model can translate among programming languages like Java, C++, and Python with high computational accuracy.",
-      "webUrl": "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s TransCoder AI converts code from one programming language into another",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/amp/",
-      "publishedDateTime": "2020-06-08T11:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

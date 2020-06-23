@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-22T11:28:00Z
 webUrl: "https://www.extremetech.com/computing/311895-intel-launches-cooper-lake-with-new-ai-increased-bandwidth-2nd-gen-optane"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 756
     isCached: true
     title: "Intel Launches Cooper Lake With New AI, Increased Bandwidth, 2nd Gen Optane"
-
-related:
-  - title: "Intel debuts new AI-optimized Cooper Lake and Stratix chips"
-    excerpt: "Cooper Lake is the codename for the new server CPUs. There are 11 of them and the entire set is designed to power servers with four or eight processors, a niche class of machines typically used for specialized high-performance workloads such as in-memory analytics."
-    publishedDateTime: 2020-06-18T17:30:00Z
-    webUrl: "https://siliconangle.com/2020/06/18/intel-intros-new-ai-optimized-cooper-lake-stratix-chips/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/intel.png"
-        width: 718
-        height: 400
-        isCached: true
 
 secured: "JkNekRzjlJuLyVBmEhnkzIrr0kxNlIpB72m5E3c6yyw250nddHh7Zhb6X8YCI3Q7bZj2s6BUjCVsqY1vvTRi8BOU33kB8zP/nv7iFC87rplcQAp7DuBdiyW8g24WC1pU0rcKcttCrPc0Gmkrzod4TulKMZg0ixY/m5FO5JwtXcQyWK5lbsx+snFVWZTuYucO1FRsKnuucP+yCVuvhQFzqwsl10l+sIsFMLG2kEVwMWm0BVdavpxUeppe4RSOEgw9buW8pempUvQdcg1ZCXi1Qm+Er+5Nqq6tC7t9Dh3L47g500u5PY9HV210oNHJIagsk2Gpao+GBaIB9ZJQpYckyQBiD750gvxj931U9QtX+4zQPnSwMzVfn5OCYYcJqmmd7MSOojWqkkknEC1z1c8rD/0bRVCJnagTPoJ+T0qHEfkP6xs/eoLLk9GupSG9+fdweKLC47BIqo+8KvSD5c21F/xf9K9Wg0eBKAfilysCQpZ/khtopO5Il7K3siOJeIEHrUo2zuWQbj3244CDFFFVdQ==;Bzd8AeYd40vCdM0O+SnekA=="
 ---

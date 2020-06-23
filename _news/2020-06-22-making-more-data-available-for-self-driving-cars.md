@@ -61,6 +61,20 @@ related:
       name: Daily Nation
       domain: nation.co.ke
     quality: 24
+  - title: "Burger King says self-driving cars know to slow down for its signs, too"
+    excerpt: "Burger King’s latest marketing effort suggests that smart cars are so smart that they know to tap the brakes when nearing one of its restaurants. And some smart cars, it turns out, appear to identify a Burger King sign,"
+    publishedDateTime: 2020-06-23T11:18:00Z
+    webUrl: "https://adage.com/article/cmo-strategy/burger-king-says-self-driving-cars-know-slow-down-its-signs-too/2263346"
+    type: article
+    provider:
+      name: Ad Age
+      domain: adage.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.adage.com/s3fs-public/styles/800x600/public/20200622_autopilot_TESLA_BK_3x2.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "Z4ZcJLXAi+vJm1R5dq7PjlEgn4n1zQ5UJVotfSISSfRWlRqnpdRHkd9PAxcrfFfse1SaeejJc13yPSt72g6mjIYLtmbsL9gTdGB4A9gQnpQkVuXHsQL1I7X/+EQJaE6+UQgr1SMZ4l6C9tt8vcBv1Q4rWpi15zy3C1I6cjspJKNAFgLYTx20zr/NfIg2nWLdnWAdjFnz/jigYyUnQIqnIcp/68hFVe6uEKjq8hMz/BnBcXliTPAcc3lvbISnTk7d9m5BmKIHrPRcsaTYB7KGgCAXC2xOBKQp8vbUy9PGMO53AQDEPbVmnCOUW54fXsE2YtmeW9QXbEcMpGIVmUjvgA==;djDGXZsJ/TNmRPkcgPbLvg=="
 ---

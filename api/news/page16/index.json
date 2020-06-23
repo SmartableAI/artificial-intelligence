@@ -2,6 +2,138 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-06-09-flipkart-introduces-ai-driven-voice-assist-for-shopping.md",
+      "title": "Flipkart introduces AI-driven voice assist for shopping",
+      "excerpt": "E-commerce player Flipkart has introduced Voice Assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’s grocery store, Supermart, the Voice Assist",
+      "webUrl": "https://www.thehindu.com/business/Industry/flipkart-introduces-ai-driven-voice-assist-for-shopping/article31785876.ece",
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/internet/vgdrw2/article30979410.ece/ALTERNATES/LANDSCAPE_615/28NETFLIPKART",
+          "width": 615,
+          "height": 384,
+          "title": "Flipkart introduces AI-driven voice assist for shopping",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/business/Industry/flipkart-introduces-ai-driven-voice-assist-for-shopping/article31785876.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/Industry/flipkart-introduces-ai-driven-voice-assist-for-shopping/article31785876.ece/amp/",
+      "publishedDateTime": "2020-06-09T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-tcls-latest-tvs-in-india-can-be-controlled-just-by-voice.md",
+      "title": "TCL’s latest TVs in India can be controlled just by voice",
+      "excerpt": "The TCL P715 consists of several 4K smart TVs that start at Rs 39,990 and go all the way up to Rs 99,990. The company has not revealed the complete details of the series yet nor has it mentioned the number of TVs in the series.",
+      "webUrl": "https://www.techradar.com/news/tcls-latest-tvs-in-india-can-be-controlled-just-by-voice",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/b55BB7nWoWrwup7F7WftU-1200-80.jpg",
+          "width": 1070,
+          "height": 602,
+          "title": "TCL’s latest TVs in India can be controlled just by voice",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/tcls-latest-tvs-in-india-can-be-controlled-just-by-voice",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tcls-latest-tvs-in-india-can-be-controlled-just-by-voice",
+      "publishedDateTime": "2020-06-09T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-chip-maker-tsmc-scores-subsidies-picks-site-for-us12-billion-us-plant.md",
+      "title": "Chip maker TSMC scores subsidies, picks site for US$12 billion US plant",
+      "excerpt": "TSMC, the main chip maker to Apple and Huawei Technologies, has moved closer to finalising a fabrication facility in Arizona to allay US security concerns and shift hi-tech manufacturing to America.",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/09/3118219e-aa29-11ea-bf1b-7541df8028ff_image_hires_165019.jpeg?itok=5FwrDhl-&v=1591692627",
+          "width": 1200,
+          "height": 630,
+          "title": "Chip maker TSMC scores subsidies, picks site for US$12 billion US plant",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
+      "publishedDateTime": "2020-06-09T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-new-machine-learning-approach-classifies-common-type-of-brain-tumor.md",
       "title": "New machine learning approach classifies common type of brain tumor",
       "excerpt": "A new machine learning approach classifies a common type of brain tumour into low or high grades with almost 98% accuracy, researchers report in the journal IEEE Access.",
@@ -197,6 +329,53 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-self-driving-cars-wont-eradicate-the-car-crash-study-says.md",
+      "title": "Self-driving cars won't eradicate the car crash, study says",
+      "excerpt": "While self-driving cars won't get distracted or drive drunk, that only accounts for a third of wrecks that occur, according to the insurance industry. In a blow to hopes for a future free of car ...",
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-cars-crash-study/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving cars won't eradicate the car crash, study says",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
+      "publishedDateTime": "2020-06-08T21:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -902,184 +1081,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-google-meet-noise-cancellation-is-rolling-out-now-heres-how-it-works.md",
-      "title": "Google Meet noise cancellation is rolling out now — here’s how it works",
-      "excerpt": "Google Meet is getting AI-powered noise cancellation for Android, iOS, and the web. Here is how Google built its cloud denoiser and how it works.",
-      "webUrl": "https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google-meet-audio-settings-hero.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google Meet noise cancellation is rolling out now — here’s how it works",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/amp/",
-      "publishedDateTime": "2020-06-08T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-introducing-recommendation-filters-in-amazon-personalize.md",
-      "title": "Introducing Recommendation Filters in Amazon Personalize",
-      "excerpt": "Today, we are pleased to announce the addition of Recommendation Filters in Amazon Personalize, which improve the relevance of personalized recommendations by filtering out recommendations for products that users have already purchased, videos they have already watched, or other digital content they",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-recommendation-filters-in-amazon-personalize/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/29/personalize-filters-2.gif",
-          "width": 800,
-          "height": 433,
-          "title": "Introducing Recommendation Filters in Amazon Personalize",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T10:00:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-experts-rank-tesla-waymo-and-16-other-power-players-in-the-world-on-self-driving-cars.md",
-      "title": "Experts rank Tesla, Waymo and 16 other power players in the world on self-driving cars",
-      "excerpt": "Guidehouse Insights evaluated Tesla, Waymo, and 16 of their rivals on a variety of criteria related to strategy and execution.",
-      "webUrl": "https://www.businessinsider.com/experts-rank-tesla-waymo-other-self-driving-car-power-players-2020-6",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ede3fd74dca686dbd47b084?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Experts rank Tesla, Waymo and 16 other power players in the world on self-driving cars",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-bank-of-americas-ai-robot-learns-60000-ways-to-talk-about-the-coronavirus.md",
-      "title": "Bank of America’s AI Robot Learns 60,000 Ways to Talk About the Coronavirus",
-      "excerpt": "The artificial-intelligence program has come to recognize 60,000 coronavirus-related terms as customers seek to manage their cash flow, increase savings and watch their spending during the pandemic. David Tyrie,",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus",
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus",
-      "publishedDateTime": "2020-06-08T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

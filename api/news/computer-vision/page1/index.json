@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-23-why-are-technology-companies-quitting-facial-recognition.md",
+      "title": "Why Are Technology Companies Quitting Facial Recognition?",
+      "excerpt": "These companies are reacting wisely to the potential for bias and the potential abuse of this technology in law enforcement. Let's examine three main issues related to the use of facial recognition technology in law enforcement: bias,",
+      "webUrl": "https://www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/",
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef0efa98548c80006be6f69%2F0x0.jpg%3FcropX1%3D262%26cropX2%3D633%26cropY1%3D0%26cropY2%3D371",
+          "width": 372,
+          "height": 371,
+          "title": "Why Are Technology Companies Quitting Facial Recognition?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/amp/",
+      "publishedDateTime": "2020-06-23T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing.md",
       "title": "US government doesn't know how it uses facial recognition in public housing",
       "excerpt": "The Department of Housing and Urban Development says it doesn't have policies limiting how facial recognition is used in public housing.",
@@ -49,50 +96,11 @@
       ]
     },
     {
-      "path": "_news/2020-06-22-big-tech-juggles-ethical-pledges-on-facial-recognition-with-corporate-interests.md",
-      "title": "Big Tech juggles ethical pledges on facial recognition with corporate interests",
-      "excerpt": "The careful wording of public pledges leaves plenty of room for oppressive uses of the technology, critics say.",
-      "webUrl": "https://www.nbcnews.com/tech/security/big-tech-juggles-ethical-pledges-facial-recognition-corporate-interests-n1231778",
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/j/newscms/2019_23/2857426/190514-facial-recognition-ces-ew-624p_9901ee6159e029067bc24200074b6e00.fit-560w.jpg",
-          "width": 560,
-          "height": 373,
-          "title": "Big Tech juggles ethical pledges on facial recognition with corporate interests",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1231778",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231778",
-      "publishedDateTime": "2020-06-22T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-06-22-homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.md",
       "title": "HomeKit in iOS 14: Support for facial recognition and adaptive lighting",
       "excerpt": "HomeKit will soon be able to automatically change the color temperature of your lights throughout the day, as well as tell you who’s waiting on your doorstep.",
       "webUrl": "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.html",
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {

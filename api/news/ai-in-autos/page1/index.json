@@ -6,7 +6,7 @@
       "title": "AI Ethics ‘Tuning Knobs’ A Questionable Mesh, Including For Self-Driving Cars",
       "excerpt": "AI systems are being churned out at quite a rapid pace, meanwhile, there are considerable qualms about whether such AI will exhibit ethical behavior. There is a rising tide of concern about AI ethics.",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/22/ai-ethics-tuning-knobs-a-questionable-mesh-including-for-self-driving-cars/",
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -101,7 +101,7 @@
       "title": "The key differences between Tesla’s driving aids: Autopilot and Full Self-Driving",
       "excerpt": "In this edition of Shift Basics, we take a look at what Tesla's Autopilot and Full Self-Driving are, how they're different, and what they cost.",
       "webUrl": "https://thenextweb.com/shift/2020/06/22/differences-between-teslas-autopilot-and-full-self-driving-system-adas-tech/",
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -895,14 +895,14 @@
       "path": "_news/2020-06-09-cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization.md",
       "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
       "excerpt": "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others.",
-      "webUrl": "https://www.prnewswire.com/news-releases/cvpr-2020-features-microsoft-ceo--svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-301072534.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai/article_d2d9a8e5-54aa-5b3b-815b-9bdf63586341.html",
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/462374/IEEE_Computer_Society_Logo.jpg?p=facebook",
-          "width": 597,
-          "height": 314,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
           "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
           "attribution": null,
           "isCached": true
@@ -911,12 +911,59 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T04:19:00-07:00",
+      "publishedDateTime": "2020-06-09T04:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-self-driving-cars-wont-eradicate-the-car-crash-study-says.md",
+      "title": "Self-driving cars won't eradicate the car crash, study says",
+      "excerpt": "While self-driving cars won't get distracted or drive drunk, that only accounts for a third of wrecks that occur, according to the insurance industry. In a blow to hopes for a future free of car ...",
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-cars-crash-study/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving cars won't eradicate the car crash, study says",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
+      "publishedDateTime": "2020-06-08T21:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1268,44 +1315,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study.md",
-      "title": "Self-driving cars could only prevent a third of U.S. crashes: study",
-      "excerpt": "(Reuters) - Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday.",
-      "webUrl": "https://www.reuters.com/article/us-autos-self-driving-idUSKBN23B294",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23B294",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23B294",
-      "publishedDateTime": "2020-06-04T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

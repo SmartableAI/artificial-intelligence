@@ -2,6 +2,184 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-06-08-google-meet-noise-cancellation-is-rolling-out-now-heres-how-it-works.md",
+      "title": "Google Meet noise cancellation is rolling out now — here’s how it works",
+      "excerpt": "Google Meet is getting AI-powered noise cancellation for Android, iOS, and the web. Here is how Google built its cloud denoiser and how it works.",
+      "webUrl": "https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google-meet-audio-settings-hero.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Meet noise cancellation is rolling out now — here’s how it works",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/amp/",
+      "publishedDateTime": "2020-06-08T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-introducing-recommendation-filters-in-amazon-personalize.md",
+      "title": "Introducing Recommendation Filters in Amazon Personalize",
+      "excerpt": "Today, we are pleased to announce the addition of Recommendation Filters in Amazon Personalize, which improve the relevance of personalized recommendations by filtering out recommendations for products that users have already purchased, videos they have already watched, or other digital content they",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-recommendation-filters-in-amazon-personalize/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/29/personalize-filters-2.gif",
+          "width": 800,
+          "height": 433,
+          "title": "Introducing Recommendation Filters in Amazon Personalize",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T10:00:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-experts-rank-tesla-waymo-and-16-other-power-players-in-the-world-on-self-driving-cars.md",
+      "title": "Experts rank Tesla, Waymo and 16 other power players in the world on self-driving cars",
+      "excerpt": "Guidehouse Insights evaluated Tesla, Waymo, and 16 of their rivals on a variety of criteria related to strategy and execution.",
+      "webUrl": "https://www.businessinsider.com/experts-rank-tesla-waymo-other-self-driving-car-power-players-2020-6",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ede3fd74dca686dbd47b084?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Experts rank Tesla, Waymo and 16 other power players in the world on self-driving cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-bank-of-americas-ai-robot-learns-60000-ways-to-talk-about-the-coronavirus.md",
+      "title": "Bank of America’s AI Robot Learns 60,000 Ways to Talk About the Coronavirus",
+      "excerpt": "The artificial-intelligence program has come to recognize 60,000 coronavirus-related terms as customers seek to manage their cash flow, increase savings and watch their spending during the pandemic. David Tyrie,",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus",
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-08/bofa-s-ai-robot-learns-60-000-ways-to-talk-about-the-coronavirus",
+      "publishedDateTime": "2020-06-08T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-googles-performer-ai-architecture-could-advance-protein-analysis-and-cut-compute-costs.md",
       "title": "Google’s Performer AI architecture could advance protein analysis and cut compute costs",
       "excerpt": "In a newly published preprint paper, researchers propose Performer, an AI architecture they say could advance protein analysis while cutting compute costs.",
@@ -891,156 +1069,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-apple-spotify-or-amazon-should-buy-this-ai-generated-music-startup-asap.md",
-      "title": "Apple, Spotify, Or Amazon Should Buy This AI-Generated Music Startup ASAP",
-      "excerpt": "I’ve found an AI-generated music app that creates great music for at least one purpose. I’m listening to it right now. And I like it. A lot. AiMi.fm is a new music app that mixes generative AI and flesh-and-blood human artists’ beats to create really,",
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/06/apple-spotify-or-amazon-should-buy-this-ai-generated-music-startup-asap/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edc097303ca62000785e0f9%2F0x0.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "Apple, Spotify, Or Amazon Should Buy This AI-Generated Music Startup ASAP",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/06/apple-spotify-or-amazon-should-buy-this-ai-generated-music-startup-asap/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/06/06/apple-spotify-or-amazon-should-buy-this-ai-generated-music-startup-asap/amp/",
-      "publishedDateTime": "2020-06-06T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-in-unusual-revolt-scientists-funded-by-mark-zuckerberg-criticize-facebooks-inaction-on-president-trumps-posts.md",
-      "title": "In unusual revolt, scientists funded by Mark Zuckerberg criticize Facebook’s inaction on President Trump’s posts",
-      "excerpt": "Dozens of scientists who have received funding from Mark Zuckerberg’s philanthropic vehicle have signed an open letter sharply criticizing Facebook.",
-      "webUrl": "https://www.statnews.com/2020/06/06/in-unusual-revolt-scientists-funded-by-mark-zuckerberg-criticize-facebooks-inaction-on-president-trumps-posts/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-06T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19.md",
-      "title": "Black-Owned Laboratory Uses Artificial Intelligence-Based Drug Discovery Platform to Develop Treatment for COVID-19",
-      "excerpt": "We anticipate the clinical trials could start within 90 days. The clinical trial itself could take a month. We feel quite optimistic that in the 120-day window, when our clinical material would be ready,",
-      "webUrl": "https://blackpressusa.com/black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://blackpressusa.com/black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19/?amp",
-      "cdnAmpWebUrl": "https://blackpressusa-com.cdn.ampproject.org/c/s/blackpressusa.com/black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19/?amp",
-      "publishedDateTime": "2020-06-06T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jury",
-        "domain": "blackpressusa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-these-amazing-audio-deepfakes-showcase-progress-of-ai-speech-synthesis.md",
-      "title": "These amazing audio deepfakes showcase progress of A.I. speech synthesis",
-      "excerpt": "Z rap one of Billy Joel's greatest hits, or hear Queen Elizabeth II do a rendition of the Sex Pistols? You've come to the right place.",
-      "webUrl": "https://www.digitaltrends.com/news/best-audio-deepfakes-web/",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/audio_sound_visualization-1200x630-c-ar1.91.jpg",
-          "width": 1000,
-          "height": 523,
-          "title": "These amazing audio deepfakes showcase progress of A.I. speech synthesis",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/best-audio-deepfakes-web/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/best-audio-deepfakes-web/?amp",
-      "publishedDateTime": "2020-06-06T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
