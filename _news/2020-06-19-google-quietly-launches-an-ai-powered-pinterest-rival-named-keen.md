@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/19/21296636/google-keen
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     title: "Google quietly launches an AI-powered Pinterest rival named Keen"
 
 related:
-  - title: "Hands-on with Keen: Is this Google’s AI-powered Pinterest? [Video]"
-    excerpt: "Google is back in the social network game thanks to the Area 120-developed Keen — a Pinterest-like app that utilizes AI to create interest boards."
-    publishedDateTime: 2020-06-19T17:40:00Z
-    webUrl: "https://9to5google.com/2020/06/19/keen-hands-on/"
-    ampWebUrl: "https://9to5google.com/2020/06/19/keen-hands-on/amp/"
-    cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/06/19/keen-hands-on/amp/"
-    type: article
-    provider:
-      name: 9to5Google
-      domain: 9to5google.com
-    quality: 57
-    images:
-      - url: "https://9to5google.com/wp-content/uploads/sites/4/2020/06/Keen-for-Android-4.jpg?quality=82&strip=all&w=1000"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Google launches Keen – An AI-powered rival to Pinterest"
     excerpt: "Google has launched a new content curating social media platform called Keen, which allows users to collect and discover ideas about topics of their choosing."
     publishedDateTime: 2020-06-20T07:46:00Z

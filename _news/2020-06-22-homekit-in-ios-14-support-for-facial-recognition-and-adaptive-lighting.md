@@ -8,7 +8,7 @@ ampWebUrl: "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-f
 cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F08ff6ff0-aca9-11ea-9f97-87bb0692d6a6&client=amp-blogside-v2&signature=8736868f00fc245b28ff6cfb80846c2129d8f762"
         width: 1040
         height: 630
+        isCached: true
+  - title: "New HomeKit features in iOS 14: Facial recognition and more explained"
+    excerpt: "A boost for home security cameras with facial recognition and activity zones turns HomeKit into a more powerful tool, but there's more, too."
+    publishedDateTime: 2020-06-23T12:48:00Z
+    webUrl: "https://www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236"
+    ampWebUrl: "https://www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236/amp"
+    cdnAmpWebUrl: "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236/amp"
+    type: article
+    provider:
+      name: Trusted Reviews
+      domain: trustedreviews.com
+    quality: 74
+    images:
+      - url: "https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/06/Screen-Shot-2020-06-22-at-19.02.10-1024x640.png"
+        width: 1024
+        height: 640
         isCached: true
   - title: "HomeKit cameras to get smart face recognition, Apple TV integration"
     excerpt: "Apple's HomeKit platform is being updated with new features, including camera \"Activity Zones\" and adaptive lighting for smart bulbs."

@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Acquires ADRM To Boost Azure Data Capabilities"
-    excerpt: "According to President and CEO Kevin Schofield, the combination of Azure storage and compute ... and AI [artificial intelligence] and ML [machine learning],\" Schofield added."
-    publishedDateTime: 2020-06-18T20:18:00Z
-    webUrl: "https://rcpmag.com/articles/2020/06/18/microsoft-acquires-adrm.aspx"
-    type: article
-    provider:
-      name: Redmond Channel Partner
-      domain: rcpmag.com
-    quality: 54
-    images:
-      - url: "https://rcpmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/1014vsm_Bowytz.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft to acquire CyberX to bolster Azure IoT security"
     excerpt: "Microsoft has announced it will purchase the industrially focused network security vendor CyberX for an undisclosed sum in an effort to bolster the security capabilities of its Azure IoT platform. The acquisition strikes at the heart of two key IIoT security pain points."
     publishedDateTime: 2020-06-23T10:49:00Z
@@ -74,6 +60,20 @@ related:
       - url: "https://www.techcentral.ie/wp-content/uploads/2016/03/IOT_2016.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "Microsoft Buys Israeli Company CyberX To Boost Azure IoT Security Capabilities"
+    excerpt: "CyberX develops cybersecurity solutions for the industrial and critical infrastructure IoT (Internet of Things) sectors."
+    publishedDateTime: 2020-06-23T12:47:00Z
+    webUrl: "https://nocamels.com/2020/06/microsoft-buys-israeli-cyberx-boost-azure-iot/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 50
+    images:
+      - url: "https://nocamels.com/wp-content/uploads/2020/06/Microsoft-e1592916151758-1024x554.jpg"
+        width: 1024
+        height: 554
         isCached: true
   - title: "Microsoft acquires industrial cybersecurity startup CyberX for $165M"
     excerpt: "Microsoft Corp. has acquired industrial cybersecurity startup CyberX Inc. for an undisclosed sum. Various reports suggest that the acquisition price was $165 million with the deal"

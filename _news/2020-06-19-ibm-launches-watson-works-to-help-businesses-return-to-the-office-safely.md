@@ -43,22 +43,6 @@ related:
         width: 620
         height: 414
         isCached: true
-  - title: "Watson Works helps employers make informed decisions about workplace re-entry"
-    excerpt: "The curated set of Watson artificial intelligence (AI) models and applications is based on capabilities in IBM Return-to-Workplace Advisor, IBM TRIRIGA, IBM Watson Care Manager, IBM Maximo Worker Insights and IBM Watson Assistant. \"We've designed Watson ..."
-    publishedDateTime: 2020-06-18T19:36:00Z
-    webUrl: "https://www.itpro.co.uk/marketing-comms/communications/356132/watson-works-helps-employers-make-informed-decisions-about"
-    ampWebUrl: "https://www.itpro.co.uk/marketing-comms/communications/356132/watson-works-helps-employers-make-informed-decisions-about?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/marketing-comms/communications/356132/watson-works-helps-employers-make-informed-decisions-about?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 86
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/v1570815441/itpro/2/72/ibm.jpg"
-        width: 1000
-        height: 665
-        isCached: true
 
 secured: "mY0EdP/mL+W4/cFAcL2KA+YgbR5uT8yqgMdCOxdT7kdekhvVgHx9LoIPiaaLm7l1LyTDPR4kLorJAblP7YwvNUtnMaiPzeZ4NIAyMREUriddjf1NwK4s+vUT8bk5jPdE9KOSdAgUFpgEQHkZ9yLjv1t5lUiwXGjNY4cOnfY3h3lxoKK6c+KYfTnB17sBVBctnhdOd5uDd23u2o4q7M4lLyftKXrqe7IcmvxKyxzsQImdNF9W3RAtbBKY//4hTmqjGQ0cghQAfhvSyfj6sKNYmpWreTptmLOYHIj0HUd1qWvhftPakyjVKioUUrjvLzsVjSF6TG7tIhrz8Ch+5V0a4OIJqWfGq3pTprpJs2O1pdm7gHFIOZdS6x8S264D8v8CGEq/KAwLtrLMAosGLLAUxvDxbeFZ61Rfvh0GsNoJxV1Qa/yo2LEFsSetw23usVd6x8i9QUvf9pUlQwDc66e5mDjq2h9M06UJeVo+9kamceBiTd/Jh9WhM4oYdiFEU7cMRsNKDL/jc5u+9Qamw2d51w==;IugnHiPHhiCbBeJ6rWRMbg=="
 ---

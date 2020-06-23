@@ -2,6 +2,192 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-06-09-eswin-raises-283m-to-boost-chip-production-in-china.md",
+      "title": "Eswin raises $283M to boost chip production in China",
+      "excerpt": "Beijing Eswin Computing Technology, a Chinese startup that supplies semiconductor design and solution provider, has raised $283 million in a new financing round at a time when the world’s most populous nation is looking to cut its reliance on the U.",
+      "webUrl": "https://techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/",
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1142531756.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Eswin raises $283M to boost chip production in China",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/amp/",
+      "publishedDateTime": "2020-06-09T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-ibm-ditches-facial-recognition-tech-over-human-rights-concerns.md",
+      "title": "IBM Ditches Facial Recognition Tech Over Human Rights Concerns",
+      "excerpt": "A letter to Congress written by IBM CEO Arvind Krishna outlined policy proposals aimed at advancing racial equality nationwide.",
+      "webUrl": "https://uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/i/ibm-ditche/ibm-ditches-facial-recognition-tech-over-human-rights-concer_1s6u.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "IBM Ditches Facial Recognition Tech Over Human Rights Concerns",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns?amp=1",
+      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns?amp=1",
+      "publishedDateTime": "2020-06-09T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-a-british-tech-mogul-who-sold-his-firm-to-hp-for-11-billion-says-were-nowhere-near-broad-ai.md",
+      "title": "A British tech mogul who sold his firm to HP for $11 billion says 'we're nowhere near broad AI'",
+      "excerpt": "Mike Lynch, the British entrepreneur who is being sued by HP for $5 billion, thinks there is a long way to go before machines start to show general intelligence.",
+      "webUrl": "https://www.cnbc.com/2020/06/09/mike-lynch-agi-autonomy-hp.html",
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102232654-458905772.jpg?v=1532564371",
+          "width": 2000,
+          "height": 1333,
+          "title": "A British tech mogul who sold his firm to HP for $11 billion says 'we're nowhere near broad AI'",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/mike-lynch-agi-autonomy-hp.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/mike-lynch-agi-autonomy-hp.html",
+      "publishedDateTime": "2020-06-09T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-microsofts-ai-journalists-confuse-mixed-race-little-mix-singers-on-msn-homepage.md",
+      "title": "Microsoft’s AI journalists confuse mixed-race Little Mix singers on MSN homepage",
+      "excerpt": "Microsoft’s decision to replace human journalists with AI to run its news and search site MSN.com has been criticized after the automated system confused two mixed-race members of British pop group Little Mix.",
+      "webUrl": "https://www.theverge.com/2020/6/9/21284934/microsoft-ai-news-editors-msn-homepage-little-mix-singers",
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/5K7QmgFun_r1-NZQjEgbGniaN_0=/0x0:3776x2399/1400x933/filters:focal(1586x898:2190x1502):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66910798/little_mix_pinnock_thirlwall.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Microsoft’s AI journalists confuse mixed-race Little Mix singers on MSN homepage",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/9/21284934/microsoft-ai-news-editors-msn-homepage-little-mix-singers",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/9/21284934/microsoft-ai-news-editors-msn-homepage-little-mix-singers",
+      "publishedDateTime": "2020-06-09T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-flipkart-introduces-ai-driven-voice-assist-for-shopping.md",
       "title": "Flipkart introduces AI-driven voice assist for shopping",
       "excerpt": "E-commerce player Flipkart has introduced Voice Assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’s grocery store, Supermart, the Voice Assist",
@@ -596,6 +782,35 @@
       ]
     },
     {
+      "path": "_news/2020-06-08-deep-learning-for-natural-language-processing-choosing-the-right-gpu-for-the-job.md",
+      "title": "Deep Learning for Natural Language Processing – Choosing the Right GPU for the Job",
+      "excerpt": "Unlike fifty years ago, the techniques of artificial intelligence and deep learning, along with advances in hardware platforms and massively parallel systems, have put the capabilities of quality language translation at everyone’s fingertips. Making this ...",
+      "webUrl": "https://insidehpc.com/white-paper/deep-learning-for-natural-language-processing-choosing-the-right-gpu-for-the-job/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T16:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-artificial-intelligence-may-bring-more-management-free-organizations.md",
       "title": "Artificial Intelligence May Bring More Management-Free Organizations",
       "excerpt": "AI is freeing people from the hierarchical, command-and-control systems that have characterized organizations for centuries.",
@@ -855,232 +1070,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-mit-fit-tens-of-thousands-of-artificial-brain-synapses-on-a-single-chip.md",
-      "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
-      "excerpt": "MIT engineers put tens of thousands of artificial brain synapses on a single chip that's smaller than a piece of confetti.",
-      "webUrl": "https://www.engadget.com/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=dddb7e895b32ece73d8964a5022342b8a16c81b6",
-          "width": 600,
-          "height": 350,
-          "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
-      "publishedDateTime": "2020-06-08T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another.md",
-      "title": "Facebook’s TransCoder AI converts code from one programming language into another",
-      "excerpt": "Facebook's TransCoder AI model can translate among programming languages like Java, C++, and Python with high computational accuracy.",
-      "webUrl": "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s TransCoder AI converts code from one programming language into another",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/amp/",
-      "publishedDateTime": "2020-06-08T11:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-a-uniform-interface-to-run-deep-learning-models-from-multiple-frameworks.md",
-      "title": "A uniform interface to run deep learning models from multiple frameworks",
-      "excerpt": "Neuropod is a library that provides a uniform interface to run deep learning models from multiple frameworks in C++ and Python. Neuropod makes it easy for researchers to build models in a framework of their choosing while also simplifying productionization of these models.",
-      "webUrl": "https://github.com/uber/neuropod",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://avatars0.githubusercontent.com/u/538264?s=400&v=4",
-          "width": 360,
-          "height": 360,
-          "title": "A uniform interface to run deep learning models from multiple frameworks",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-us-air-force-to-test-autonomous-ai-fighter-against-a-human-next-year.md",
-      "title": "US Air Force to test autonomous AI fighter against a human next year",
-      "excerpt": "The USAF started an AI-drone project in 2018. The goal was to implement machine learning in a less sophisticated craft like the F-16 within 18 months. If successful, newer fighters such as the F-32 or F-22 would eventually be outfitted.",
-      "webUrl": "https://www.techspot.com/news/85531-us-air-force-test-autonomous-ai-fighter-against.html",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-08-image-15.jpg",
-          "width": 2560,
-          "height": 1705,
-          "title": "US Air Force to test autonomous AI fighter against a human next year",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85531-us-air-force-test-autonomous-ai-fighter-against.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85531-us-air-force-test-autonomous-ai-fighter-against.html",
-      "publishedDateTime": "2020-06-08T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products.md",
-      "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
-      "excerpt": "Uber open-sourced Neuropod, an abstraction layer designed to unify disparate AI frameworks like Google's TensorFlow and Facebook's PyTorch.",
-      "webUrl": "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/a326eb8a-48ed-4442-922c-700d5efb48e6-e1591635426426.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/amp/",
-      "publishedDateTime": "2020-06-08T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

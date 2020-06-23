@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/22/aimotive-raises-20-million-for-dr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/22/aimotive-raises-20-million-for-driver-assistance-and-self-driving-car-software/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://observer.com/wp-content/uploads/sites/2/2020/06/GettyImages-1199703559.jpg?quality=80&strip"
         width: 7964
         height: 5309
+        isCached: true
+  - title: "BMW And Mercedes end self-driving car partnership"
+    excerpt: "The two carmakers had previously said that they intended to jointly develop a Level 4 self-driving car by 2024."
+    publishedDateTime: 2020-06-23T13:26:00Z
+    webUrl: "https://gulfbusiness.com/bmw-and-mercedes-end-self-driving-car-partnership/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 24
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2020/06/bmw-mercedes-auto.jpg"
+        width: 800
+        height: 530
         isCached: true
 
 secured: "oSbQvMyeHasPSe03JEeprrEbIzcRvvWOpyLaqKYSe19dUlWAZWH37cncVqiBcW9lwzPzxWZ44eu3XCwO/xkcrAX66AGWMPkooqLV+CjDOviFUR9ZAu99XAGkQvp4Rjh7gSvPAUgm7MIIFK+lbqHscCOkhgcYHeS73g6rpueIQrBzdhCxmMJCB8Ul2aQo+1qpGcAFV76GS9LeWZhbOywaOHyXgsHojFlszV+edma9iyynr/UuyxlXgYJWpz+pGUkUYgqHBICcCFhiAPTJ7iembY/ss4JedN/kv7+1S8frD3A3EmxFkwOpGVSPxHCpzC1gRR5H8hrOq8UcAiH3DDvSt5B8yqmsGLFcefoM51MOTaTdoqJDbmPg457yed0HHSGaNSDKo+NbVKDUhl9pMIsjFSfcz5udz6TGJhFr44dlFe1CquDU+fapLAFc982txpLOVqsEw7b87GCZMScQCo4PQHnNcSRnlBLOiahMdfsbSUyfD0vv/wHPPZQlAC9ayaj6xnUG9PZ0hn/vSCAz0HfA0A==;FBDj+zl4zHbxBLMIXkljLw=="

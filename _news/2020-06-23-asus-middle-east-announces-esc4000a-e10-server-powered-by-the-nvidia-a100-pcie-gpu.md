@@ -43,6 +43,20 @@ related:
         width: 1800
         height: 1350
         isCached: true
+  - title: "NVIDIA Ampere A100 250W TDP GPU On PCIe 4.0 Made For AI, Data Science, And Supercomputing Launched With Promised 90 Percent Performance Of 400W Model"
+    excerpt: "NVIDIA has officially launched the A100, a PCIe 4.0 compatible GPU based on the next-gen Ampere architecture. Although featuring a lower 250W TDP profile,"
+    publishedDateTime: 2020-06-23T12:08:00Z
+    webUrl: "https://appuals.com/nvidia-ampere-a100-250w-tdp-gpu-on-pcie-4-0-made-for-ai-data-science-and-supercomputing-launched-with-promised-90-percent-performance-of-400w-model/"
+    type: article
+    provider:
+      name: appuals.com
+      domain: appuals.com
+    quality: 15
+    images:
+      - url: "https://cdn.appuals.com/wp-content/uploads/2019/02/Nvidia.jpg"
+        width: 590
+        height: 332
+        isCached: true
 
 secured: "t+qbC75h70/EhRWwKpe91m9mAaO669dd+b1w4jRdzxeC6jFsLOwOy4XxKWUNtxW3SR6q3qNghdG2y9RFD37OHYbNllJMX9yPpJ5YBeYTi/vXnTUwhhSNXvcUYjH2np2tL10hGZ38TZTP9QoC3jboInDGEl34h+NrfZfm0kqmYTO/tZodFVNL0roceqqBAXfp65HT9kdD1SbEM9UuGr+vMoxmvHyhvll8HbHPuHknpiYs3u7ByBmPBZ4WNFngnWj01RRBCftkQw8P7TC+xrvjMRuM+K34Ihu1YtRqQgaYOVB81T38+0rfeCNkc0AiDpWHaxJTm3J8uBIEz52KGPH4+i6vYlI+lDEx9yzQ15XXAcmrOkGKKgZNysD+GRdH8nIeTN4CoH9BMBzyUxtlScGvYGjWM4B/30E/vQ7zSk/IUo973SLsri2ZhmayYwT4iIaDya2/DD+glwxnDIQtPNVq1rPk6AEYdwA8SsOhtmM2/y3EjxZeZXYZC3mRh3RaKxa8FhGcsZOBLmTg2behUrq+vw==;PqmGwNqJm2BAL1hZSpZsdA=="
 ---

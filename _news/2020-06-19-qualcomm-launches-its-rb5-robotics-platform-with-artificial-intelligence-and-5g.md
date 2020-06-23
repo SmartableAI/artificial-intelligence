@@ -57,20 +57,6 @@ related:
         width: 681
         height: 501
         isCached: true
-  - title: "Qualcomm Introduces 5G and AI-Enabled Robotics Platform"
-    excerpt: "Qualcomm on Wednesday announced its Robotics RB5 platform, with 5G and 4G connectivity, on-device AI and machine learning, superior computing and intelligent sensing capabilities. The platform's Qualcomm QRB5165 processor,"
-    publishedDateTime: 2020-06-18T19:12:00Z
-    webUrl: "https://www.technewsworld.com/story/86717.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 39
-    images:
-      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-qualcomm-1.jpg"
-        width: 620
-        height: 330
-        isCached: true
   - title: "Nvidia launches Mellanox AI platform for data center resiliency"
     excerpt: "AI and UFM Telemetry platforms follow the acquisition by Nvidia of the Israeli networking vendor Mellanox. The latest additions apply AI to learn a data center’s operational and network workloads, drawing on both real-time and historic telemetry and workload data."
     publishedDateTime: 2020-06-23T09:20:00Z

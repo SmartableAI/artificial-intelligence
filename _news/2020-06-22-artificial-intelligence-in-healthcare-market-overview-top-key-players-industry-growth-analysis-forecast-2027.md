@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-22T07:16:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-overview-top-key-players-industry-growth-analysis-forecast-2027-2020-06-22"
 type: article
 quality: 64
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,6 +29,34 @@ images:
     title: "Artificial Intelligence in Healthcare Market Overview, Top Key Players, Industry Growth Analysis, Forecast 2027"
 
 related:
+  - title: "Artificial Intelligence (AI) Market Trends, Size, Shares, Overview and Forecast by 2020-2027"
+    excerpt: "As per the research held by Acumen Research and Consulting, \"the global Artificial Intelligence (AI) market anticipated to exceed US$ 160 Bn by 2027, along with the projected CAGR of 49% from 2020 to 2027\"."
+    publishedDateTime: 2020-06-23T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-trends-size-shares-overview-and-forecast-by-2020-2027-2020-06-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Cars and Light Trucks Market - Analysis on Current Trends by 2025"
+    excerpt: "The Artificial Intelligence (AI) Cars and Light Trucks Market 2020 report is a comprehensive, professional and in-depth research of market that delivers significant data for those who are seeking information for the Artificial Intelligence (AI) Cars and Light Trucks industry."
+    publishedDateTime: 2020-06-19T10:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-cars-and-light-trucks-market---analysis-on-current-trends-by-2025-2020-06-19?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026"
     excerpt: "A leading research firm Zion Market research added a recent report on “Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026” to its research database."
     publishedDateTime: 2020-06-22T11:34:00Z
@@ -40,20 +68,56 @@ related:
       name: surfacingmagazine.net
       domain: surfacingmagazine.net
     quality: 44
-  - title: "$45.2 Billion Worldwide Artificial Intelligence in Healthcare Industry to 2026 - Featuring Lunit, Magnea & Maxq AI Among Others - ResearchAndMarkets.com"
-    excerpt: "Billion Worldwide Artificial Intelligence in Healthcare Industry to 2026 - Featuring Lunit, Magnea & Maxq AI Among Others - ResearchAndMarkets.com DUBLIN-- ( BUSINESS WIRE )--The \"Artificial Intelligence in Healthcare Market with Covid-19 Impact Analysis by Offering (Hardware,"
-    publishedDateTime: 2020-06-22T14:06:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200622005457/en/"
+  - title: "Automotive Artificial Intelligence Market Trends, Size, Forecast - 2019-2025"
+    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a moderate rate during the forecast period 2019 2025 Technological advancements across the globe have paved their ways across numerous industry verticals Automotive AI is one such advancement which is expected"
+    publishedDateTime: 2020-06-19T11:04:00Z
+    webUrl: "https://www.openpr.com/news/2077559/automotive-artificial-intelligence-market-trends-size"
+    ampWebUrl: "https://www.openpr.com/amp/2077559/automotive-artificial-intelligence-market-trends-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2077559/automotive-artificial-intelligence-market-trends-size"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 28
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
+  - title: "Cognitive Analytics Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
+    excerpt: "Selbyville, Delaware Market Study Report adds Global Cognitive Analytics report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends, companies active in the industry and forecasts for the coming years."
+    publishedDateTime: 2020-06-19T05:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2020-06-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
-      - url: "https://mms.businesswire.com/media/20200622005457/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 with (Covid-19) Impact Analysis: Growth, Latest Trend Analysis and Forecast 2027"
+    excerpt: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 features key points about market share, new developments, and product analysis, market players, analysis of opportunities. According to the global Artificial Intelligence (A."
+    publishedDateTime: 2020-06-20T11:53:00Z
+    webUrl: "https://surfacingmagazine.net/global-artificial-intelligence-a-i-in-drug-discovery-market-2020-with-covid-19-impact-analysis-growth-latest-trend-analysis-and-forecast-2027/"
+    ampWebUrl: "https://surfacingmagazine.net/global-artificial-intelligence-a-i-in-drug-discovery-market-2020-with-covid-19-impact-analysis-growth-latest-trend-analysis-and-forecast-2027/amp/"
+    cdnAmpWebUrl: "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/global-artificial-intelligence-a-i-in-drug-discovery-market-2020-with-covid-19-impact-analysis-growth-latest-trend-analysis-and-forecast-2027/amp/"
+    type: article
+    provider:
+      name: surfacingmagazine.net
+      domain: surfacingmagazine.net
+    quality: 20
+    images:
+      - url: "https://scitechdaily.com/images/Artist-Concept-AI-Molecules.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "The Demand For Artificial Intelligence in Oil and Gas Market Will Boost During 2020-2029"
+    excerpt: "To get a copy of the sample report, Click here @  Some of the key players in the Artificial Intelligence in Oil and Gas Market are: Some of the prominent service providers of Artificial Intelligence in the oil and gas industry are listed below."
+    publishedDateTime: 2020-06-19T16:59:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/134142/the-demand-for-artificial-intelligence-in-oil-and/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 8
 
 secured: "yQ6CXscgsAJLpeNNjwj4ctRXsum2RLQxSWknQIIGfQFCnJS3LFp5W9aBv2ctMagFHEUSeYXdOv6vTLMa/pIQzesao5ietXNi+XQWlY4aJpwwm4c3DE5djejIMLyV1RQ7j/Wy6kj7CBG0dG1SyoG7me/JfBI/WrTjSvZ3EZDQwGVx2xPIpZDv7/wYLOH23ecaD5xvOM6aDuXEy9+CuD+hVHgnt6Yboe9eWy/PSiQe8oTpexyTyVa+J1Y1bR9Vmm4uzZGu9rM5UQ+17339+6QgDder8xY18ob3ZGioQ7/mBh1oRpCMo/eiHkwbG2wcT9Yuc2DG1p2lv1ys5hhBLc6wkA==;/gCzTXZtvyDI2M1fI/0a2Q=="
 ---

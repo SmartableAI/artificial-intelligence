@@ -27,6 +27,20 @@ images:
     title: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 with (Covid-19) Impact Analysis: Growth, Latest Trend Analysis and Forecast 2027"
 
 related:
+  - title: "Artificial Intelligence (AI) Market Trends, Size, Shares, Overview and Forecast by 2020-2027"
+    excerpt: "As per the research held by Acumen Research and Consulting, \"the global Artificial Intelligence (AI) market anticipated to exceed US$ 160 Bn by 2027, along with the projected CAGR of 49% from 2020 to 2027\"."
+    publishedDateTime: 2020-06-23T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-trends-size-shares-overview-and-forecast-by-2020-2027-2020-06-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Cars and Light Trucks Market - Analysis on Current Trends by 2025"
     excerpt: "The Artificial Intelligence (AI) Cars and Light Trucks Market 2020 report is a comprehensive, professional and in-depth research of market that delivers significant data for those who are seeking information for the Artificial Intelligence (AI) Cars and Light Trucks industry."
     publishedDateTime: 2020-06-19T10:17:00Z
@@ -41,6 +55,42 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Overview, Top Key Players, Industry Growth Analysis, Forecast 2027"
+    excerpt: "On the basis of offering, the global artificial intelligence in healthcare market is segmented into hardware, software,"
+    publishedDateTime: 2020-06-22T07:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-overview-top-key-players-industry-growth-analysis-forecast-2027-2020-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026"
+    excerpt: "A leading research firm Zion Market research added a recent report on “Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026” to its research database."
+    publishedDateTime: 2020-06-22T11:34:00Z
+    webUrl: "https://surfacingmagazine.net/global-artificial-intelligence-ai-in-healthcare-market-sales-price-revenue-gross-margin-and-industry-share-2020-2026/"
+    ampWebUrl: "https://surfacingmagazine.net/global-artificial-intelligence-ai-in-healthcare-market-sales-price-revenue-gross-margin-and-industry-share-2020-2026/amp/"
+    cdnAmpWebUrl: "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/global-artificial-intelligence-ai-in-healthcare-market-sales-price-revenue-gross-margin-and-industry-share-2020-2026/amp/"
+    type: article
+    provider:
+      name: surfacingmagazine.net
+      domain: surfacingmagazine.net
+    quality: 44
+  - title: "Automotive Artificial Intelligence Market Trends, Size, Forecast - 2019-2025"
+    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a moderate rate during the forecast period 2019 2025 Technological advancements across the globe have paved their ways across numerous industry verticals Automotive AI is one such advancement which is expected"
+    publishedDateTime: 2020-06-19T11:04:00Z
+    webUrl: "https://www.openpr.com/news/2077559/automotive-artificial-intelligence-market-trends-size"
+    ampWebUrl: "https://www.openpr.com/amp/2077559/automotive-artificial-intelligence-market-trends-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2077559/automotive-artificial-intelligence-market-trends-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
   - title: "Cognitive Analytics Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
     excerpt: "Selbyville, Delaware Market Study Report adds Global Cognitive Analytics report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends, companies active in the industry and forecasts for the coming years."
     publishedDateTime: 2020-06-19T05:20:00Z
@@ -55,20 +105,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "World Network Traffic Analytics Market Analysis - Rise in Trend for BYOD, Artificial Intelligence & Machine Learning in Cybersecurity"
-    excerpt: "The \"Global Network Traffic Analytics Market 2019-2028\" report has been added to ResearchAndMarkets.com's offering. The global network"
-    publishedDateTime: 2020-06-22T14:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/world-network-traffic-analytics-market-analysis---rise-in-trend-for-byod-artificial-intelligence--machine-learning-in-cybersecurity-301081007.html"
+  - title: "The Demand For Artificial Intelligence in Oil and Gas Market Will Boost During 2020-2029"
+    excerpt: "To get a copy of the sample report, Click here @  Some of the key players in the Artificial Intelligence in Oil and Gas Market are: Some of the prominent service providers of Artificial Intelligence in the oil and gas industry are listed below."
+    publishedDateTime: 2020-06-19T16:59:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/134142/the-demand-for-artificial-intelligence-in-oil-and/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
-    images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
+      name: ARN
+      domain: arnnet.com.au
+    quality: 8
 
 secured: "vPwOHc+zimKQVn2Y/05nyTQDFi1Ir/0sNuv1dF68MCQ9LpamjrOuBYCRGktIHUmwzliWok2rDBq1iYMIKBYP2vyW0QbQGJ+outV0I8HcTSM1LpQ8yaN4T+p0heXwP0Bqm+993LnMRge3ojWGWXvjDCXadJIraltLav0ahbpYoWh+Bx2Oe9J+G7/CDhMTI3tSSmse1/EvX4PKb7Zk7iIB99DQVo6rFFAccFIYVh+MzOLa+p5yFti3ssk9tXRx0KHLxD+faY6TP2hxjO5yBAWKZjBMiuCzunk5ogH1chMe/okysh6z0A8q9u2WYNKGW8I1D3JzleUkBcV8GloPhdbmXaFk7IDx0cv/8ejt3IQOeAtzsLcrvWitvzKq8o7uBR1qBOQAC3P8kLGEztShs3xET/R8BlNwnOkMJtRbfls54DPbKV12zllFQYIZocIV2yWBr+Bl6fXd0acTUD9UiCu2f4pQ/ON2MNBDfOX4+PCUVtPCxz89GxNC3+zEeD+6KHYmeuq6p4AcMomLciEo2YdXfg==;iTJ91ZmhYKfTL/UTXOkjoA=="
 ---

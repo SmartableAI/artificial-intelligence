@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-versi
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-06/image001.png?itok=-VfC6ZJl"
         width: 960
         height: 540
+        isCached: true
+  - title: "NVIDIA Ampere A100 250W TDP GPU On PCIe 4.0 Made For AI, Data Science, And Supercomputing Launched With Promised 90 Percent Performance Of 400W Model"
+    excerpt: "NVIDIA has officially launched the A100, a PCIe 4.0 compatible GPU based on the next-gen Ampere architecture. Although featuring a lower 250W TDP profile,"
+    publishedDateTime: 2020-06-23T12:08:00Z
+    webUrl: "https://appuals.com/nvidia-ampere-a100-250w-tdp-gpu-on-pcie-4-0-made-for-ai-data-science-and-supercomputing-launched-with-promised-90-percent-performance-of-400w-model/"
+    type: article
+    provider:
+      name: appuals.com
+      domain: appuals.com
+    quality: 15
+    images:
+      - url: "https://cdn.appuals.com/wp-content/uploads/2019/02/Nvidia.jpg"
+        width: 590
+        height: 332
         isCached: true
 
 secured: "CR2OrTBvfNti3AnWmAIRiiWF0pbMRHMHnIoJclO1oc8Zs4GaE9gWs3lvll8WNZwjJZ6VD4mKoe9EPABZcZB3JplaOW5PmgR2cUv4UdGzoIQfESK/g8cncNpXuWqOxNB81KYmZ53Hd+diIWszPN8sQ9eyAZxk8rH2YMGWENhk2ieIftcKL2FreLM1PzFbP6qROKILjr8M2ZAZkOgC/wIHUxafr+wvI7JrZziQzWWyWL14ZqLKg7Rewqj61CRN7joOr/KyiL84e/DNirjkcq1xx04k5KMGiZpIMVwtmx1CSDDbL92FEyMvUs707zkVRKrqSjIUkX2OPCINIww94P/9ZiurMZCYzqeM0PWkvKZVkdaCFRkKlFIAWfo8nxPpQGWS60jEZHUnhl8P+pzYpMWPLY5ijT4QIC46qft7cVU/mGOZ8AykymHYIyZvRENYw7P2GXMFlLz5qksyf0c2Eu2fqAB1PuvizYlehCRB66atnZHHHLHku9+c+SAZ10LZ71zyWs+KzkI+R2RdxWKMwpPZzQ==;YlQJQXXAZgSbLVysi8T/RQ=="

@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 770
         isCached: true
+  - title: "BMW And Mercedes end self-driving car partnership"
+    excerpt: "The two carmakers had previously said that they intended to jointly develop a Level 4 self-driving car by 2024."
+    publishedDateTime: 2020-06-23T13:26:00Z
+    webUrl: "https://gulfbusiness.com/bmw-and-mercedes-end-self-driving-car-partnership/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 24
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2020/06/bmw-mercedes-auto.jpg"
+        width: 800
+        height: 530
+        isCached: true
 
 secured: "IzuLc6A+8GIXVXygFrLikjbfkZxuvJf5vBj9sph5j/fLhUULQc5PNNHksSSOKaiILKZoDsnY0RQVnhZAmEaCoVnfE8mKgMxoi+nbVXXDgYJ9nU+wZbwY68xMvDTrbYllzjocJVbfWEhSgLkhcZHFrEWLx2xJFn5L3TmMcWpz0YvoqQR+42fiJBgAaiYGqRcpPFxWl1YMvT0TryY8+v3S0b3rveq519vNj8ZegWNgphjfLydudTdqhB5hTQevzqy0dtj4BUGRn7Mk04OAHTyRH9qZ7uN7WWlNRpIIO2K+vmArmWTIEaARRnZPtyYFIw4lOZIBudt9R7G207KybGM82Rlmk78SXYXVKpvKA0C4sdm6K0tRbpKfD1/OZOMyC/Xr33K15V7o0w2gJHgnDs2DckjM8djKHd2IpWBT5Hmcq6sDQIxs9/ftX+1a+dAstWUNM4w+sGHfNsOIp9rGMhx+FvmhYKkf6iST4FQsV360ZIxhcs6xMFRM6cuHh2M4+IkciSepxERyl7jb5stkCSo7VA==;yHvtp84PNpRHpz2LpMuqzg=="
 ---

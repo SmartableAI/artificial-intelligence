@@ -2,6 +2,193 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-17-slamcore-wants-to-give-mobile-robots-better-spatial-intelligence.md",
+      "title": "Slamcore wants to give mobile robots better spatial intelligence",
+      "excerpt": "Slamcore is setting out to develop and commercialize AI-powered SLAM algorithms that give robots better positional awareness in any environment.",
+      "webUrl": "https://venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/",
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-932632442.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "Slamcore wants to give mobile robots better spatial intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/amp/",
+      "publishedDateTime": "2020-06-17T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-global-deep-learning-chip-market-set-to-progress-at-cagr-of-300-to-accrue-usd-2131-by-2027.md",
+      "title": "Global Deep Learning Chip Market Set to Progress at CAGR of 30.0% to Accrue USD 21.31 by 2027",
+      "excerpt": "Selbyville, Delaware, Global Deep Learning Chip Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends, companies active in the industry and forecasts for the coming years.",
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chip-market-set-to-progress-at-cagr-of-300-to-accrue-usd-2131-by-2027-2020-06-17",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Deep Learning Chip Market Set to Progress at CAGR of 30.0% to Accrue USD 21.31 by 2027",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-17T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-covid-19-impact-on-artificial-intelligence-market-latest-demand-by-2020-2026.md",
+      "title": "COVID-19 Impact on Artificial Intelligence Market Latest Demand by 2020-2026",
+      "excerpt": "Based on Deployment, the global Enterprise Artificial Intelligence market is segmented in Cloud and On-Premises. The report also bifurcates the global Enterprise Artificial Intelligence market based on Solution in Business Intelligence,",
+      "webUrl": "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-market-latest-demand-by-2020-2026-2020-06-17",
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "COVID-19 Impact on Artificial Intelligence Market Latest Demand by 2020-2026",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-16T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions.md",
+      "title": "Outreach raises $50 million to launch new AI sales engagement solutions",
+      "excerpt": "Automated conversation company Conversica raked in $31 million last October, and Chorus.ai — a startup developing AI that listens in on sales calls — secured $33 million less than six months ago.",
+      "webUrl": "https://venturebeat.com/2020/06/16/outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions/",
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/e593f674-86be-4fdd-9dff-31e8591293e8.png?w=1200&#038;strip=all",
+          "width": 1100,
+          "height": 608,
+          "title": "Outreach raises $50 million to launch new AI sales engagement solutions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/16/outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/outreach-raises-50-million-to-launch-new-ai-sales-engagement-solutions/amp/",
+      "publishedDateTime": "2020-06-16T21:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-la-trobe-university-uses-ai-to-bring-mental-health-care-to-cancer-patients.md",
       "title": "La Trobe University uses AI to bring mental health care to cancer patients",
       "excerpt": "The Centre for Data Analytics and Cognition (CDAC) at La Trobe University has teamed up with international cancer researchers to develop an artificial intelligence patient-reported information multidimensional framework (PRIME) to detect and analyse a patient's mental health status while undergoing cancer treatment.",
@@ -790,7 +977,7 @@
       "path": "_news/2020-06-16-foiling-fraud-with-machine-learning.md",
       "title": "Foiling fraud with machine learning",
       "excerpt": "Caroline Hermon is Head of Fraud Solutions at SAS UK & Ireland. All the while, an army of agile start-ups, FinTechs and other data-driven organisations have disrupted the financial services and retail landscapes.",
-      "webUrl": "https://www.techradar.com/news/foiling-fraud-with-machine-learning",
+      "webUrl": "https://www.techradar.com/in/news/foiling-fraud-with-machine-learning",
       "heat": null,
       "tags": null,
       "images": [
@@ -804,8 +991,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/foiling-fraud-with-machine-learning",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/foiling-fraud-with-machine-learning",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/foiling-fraud-with-machine-learning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/foiling-fraud-with-machine-learning",
       "publishedDateTime": "2020-06-16T03:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -970,184 +1157,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-mark-cuban-on-race-robotics-and-why-now-is-a-great-time-to-start-a-business.md",
-      "title": "Mark Cuban on race, robotics and why now is a great time to start a business",
-      "excerpt": "Billionaire entrepreneur, Shark Tank regular and Dallas Mavericks owner Mark Cuban has never been shy about saying what was on his mind. Recently he sat down with Jordan Harbinger, host of the The Show podcast and a Newsweek contributor,",
-      "webUrl": "https://www.newsweek.com/mark-cuban-race-robotics-why-now-great-time-start-business-1511017",
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mark-cuban-race-robotics-why-now-great-time-start-business-1511017?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mark-cuban-race-robotics-why-now-great-time-start-business-1511017?amp=1",
-      "publishedDateTime": "2020-06-16T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-this-project-is-using-fitness-trackers-and-ai-to-monitor-workers-lockdown-stress.md",
-      "title": "This project is using fitness trackers and AI to monitor workers' lockdown stress",
-      "excerpt": "Times are toug and employee wellbeing is more important than ever. PwC is harnessing AI and fitness-tracking wearables to gain a deeper understanding of how work and external stressors are impacting employees' state of mind.",
-      "webUrl": "https://www.techrepublic.com/article/this-project-is-using-fitness-trackers-and-ai-to-monitor-workers-lockdown-stress/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/20/25193518-f8f7-4b6f-b761-2844310ac12d/thumbnail/1200x675/3943be5c0ad1bd8c76b1e6d02bfc6d19/20200513-compucom-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "This project is using fitness trackers and AI to monitor workers' lockdown stress",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/this-project-is-using-fitness-trackers-and-ai-to-monitor-workers-lockdown-stress/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/this-project-is-using-fitness-trackers-and-ai-to-monitor-workers-lockdown-stress/",
-      "publishedDateTime": "2020-06-16T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-microsoft-and-sas-join-forces-for-cloud-based-analytics-and-ai.md",
-      "title": "Microsoft and SAS join forces for cloud-based analytics and AI",
-      "excerpt": "The partnership builds on previous SAS integrations across Microsoft's Azure, Dynamics 365, Microsoft 365 and Power Platform and supports the companies shared vision to further \"d",
-      "webUrl": "https://www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas",
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1592297479/itpro/Microsoft_sign_shutterstock.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "Microsoft and SAS join forces for cloud-based analytics and AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas?amp",
-      "publishedDateTime": "2020-06-16T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027.md",
-      "title": "Consumer Robotics Market: Opportunities and Forecast Assessment, 2020-2027",
-      "excerpt": "The consumer robotics market forecast 2020-2027 report provides comprehensive coverage of the market through market segments, in-depth regional level analysis, and identifies the key drivers, restraints,",
-      "webUrl": "https://www.marketwatch.com/press-release/consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027-2020-06-16",
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Consumer Robotics Market: Opportunities and Forecast Assessment, 2020-2027",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T23:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

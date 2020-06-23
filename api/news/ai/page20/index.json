@@ -2,6 +2,221 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-06-02-covid-19-impact-on-artificial-intelligence-as-a-service-market.md",
+      "title": "COVID-19 Impact on Artificial Intelligence as a Service Market",
+      "excerpt": "AWS, IBM, Microsoft Co, Google, SAP, Salesforce, Baidu, Intel Co, Fair Isaac Co, BigML, and others are among the major players in the global Artificial Intelligence as a Service market.",
+      "webUrl": "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-as-a-service-market-2020-06-02",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "COVID-19 Impact on Artificial Intelligence as a Service Market",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T20:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-the-therapy-apps-trying-to-help-you-deal-while-youre-on-the-nhs-waiting-list.md",
+      "title": "The Therapy Apps Trying To Help You Deal While You’re On The NHS Waiting List",
+      "excerpt": "Mental health problems are on the rise, with some people in the UK having to wait for up to two years to receive therapeutic treatment. With many being forced to take matters into their own hands ...",
+      "webUrl": "https://www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.r29static.com/bin/entry/696/0,1727,3544,1861/x,80/1868918/image.jpg",
+          "width": 3544,
+          "height": 1861,
+          "title": "The Therapy Apps Trying To Help You Deal While You’re On The NHS Waiting List",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence",
+      "cdnAmpWebUrl": "https://www-refinery29-com.cdn.ampproject.org/c/s/www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence",
+      "publishedDateTime": "2020-06-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Refinery29",
+        "domain": "refinery29.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-vw-completes-26b-self-driving-deal-connected-with-ford.md",
+      "title": "VW completes $2.6B self-driving deal connected with Ford",
+      "excerpt": "VW completes $2.6B self-driving deal connected with Ford Volkswagen and Ford are working with Pittsburgh-based startup Argo AI to develop self-driving technology. Check out this story on Freep.com ...",
+      "webUrl": "https://www.freep.com/story/money/cars/ford/2020/06/02/vw-ford-argo-selfdriving/5315520002/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/06/12/PDTF/9c0d49d4-499c-4d91-8eed-28a00084604d-Ford_Argo_AV_in_Detroit_1.jpg?auto=webp&crop=5999,3374,x1,y267&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "VW completes $2.6B self-driving deal connected with Ford",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.freep.com/amp/5315520002",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5315520002",
+      "publishedDateTime": "2020-06-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week.md",
+      "title": "Breaking: AI startup Stitch Fix to conduct massive layoffs starting this week",
+      "excerpt": "AI startup Stitch Fix, a company that uses algorithms and computer vision to help consumers find clothes they like, is apparently taking a bold approach to company expansion: it’s “significantly reducing” the number of employees it has so that it can hire people in other states.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/01/breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/layoffs-796x402.jpg",
+          "width": 796,
+          "height": 402,
+          "title": "Breaking: AI startup Stitch Fix to conduct massive layoffs starting this week",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/01/breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/01/breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week/amp/",
+      "publishedDateTime": "2020-06-01T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments.md",
+      "title": "AI tools could improve fake news detection by analyzing users’ interactions and comments",
+      "excerpt": "Researchers at Microsoft and Arizona State University propose in a paper a method of detecting fake news using a technique called weak supervision.",
+      "webUrl": "https://venturebeat.com/2020/06/01/ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments/",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/fake_news.shutterstock_559003162-e1582064474697.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI tools could improve fake news detection by analyzing users’ interactions and comments",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/01/ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments/amp/",
+      "publishedDateTime": "2020-06-01T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-the-best-computer-reading-glasses-to-help-reduce-eye-strain.md",
       "title": "The best computer reading glasses to help reduce eye strain",
       "excerpt": "These Truvision Readers may not be prescription, but their anti-reflective coating and blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to go to an eye doctor. If you are already suffering from Presbyopia, these computer reading glasses can also assist with blurred vision caused by too ...",
@@ -1080,223 +1295,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-understanding-the-foundations-of-successful-ai.md",
-      "title": "Understanding the foundations of successful AI",
-      "excerpt": "Despite the disruption to the overall economy and most industries in the wake of COVID-19 pandemic, there are sections of IT that are booming.",
-      "webUrl": "https://www.zdnet.com/paid-content/article/understanding-the-foundations-of-successful-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/22/e2eb3989-521e-4ac7-8453-b1837ff492a5/adobestock-300893166.jpg",
-          "width": 6479,
-          "height": 4319,
-          "title": "Understanding the foundations of successful AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/understanding-the-foundations-of-successful-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/understanding-the-foundations-of-successful-ai/",
-      "publishedDateTime": "2020-05-31T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
-      "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
-      "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
-      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-chinese-tech-giant-baidu-chooses-europe-for-driverless-car-push.md",
-      "title": "Chinese tech giant Baidu chooses Europe for driverless car push",
-      "excerpt": "\"AI (artificial intelligence) technology has huge potential to promote social development, and one of AI's biggest opportunities lies in intelligent vehicles,\" said Qi Lu, chief operating officer ...",
-      "webUrl": "https://www.cnbc.com/2017/06/01/chinese-tech-giant-baidu-chooses-europe-for-driverless-car-push.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104324500-GettyImages-458949014.jpg?v=1529474405",
-          "width": 1024,
-          "height": 767,
-          "title": "Chinese tech giant Baidu chooses Europe for driverless car push",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer.md",
-      "title": "'It's fundamental': Graphcore CEO believes new kinds of AI will prove the worth of a new kind of computer",
-      "excerpt": "Graphcore, the four-year-old startup based in Bristol, England, has a chip that takes the kinds of math that a neural network processes and splits them across 1,216 tiny computers, each of which does its work in parallel with its brethren.",
-      "webUrl": "https://www.zdnet.com/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/31/d262fc29-e229-4d74-ab42-89e55b45ba5a/thumbnail/1200x675/e45b9da0b744d2b665aa2cd44166a115/nigel-toon-ceo-graphcore-may-2020.png",
-          "width": 1200,
-          "height": 675,
-          "title": "'It's fundamental': Graphcore CEO believes new kinds of AI will prove the worth of a new kind of computer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
-      "publishedDateTime": "2020-05-31T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-microsoft-replaces-msn-journalists-with-ai-robots.md",
-      "title": "Microsoft Replaces MSN Journalists With AI Robots",
-      "excerpt": "In a nightmare come true, Microsoft is letting go dozens of news editors at Microsoft News in favour of artificial intelligence (AI), according to The Guardian. For those unaware,",
-      "webUrl": "https://www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techworm.net/wp-content/uploads/2020/05/ai.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft Replaces MSN Journalists With AI Robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html/amp",
-      "cdnAmpWebUrl": "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html/amp",
-      "publishedDateTime": "2020-05-31T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techworm.net",
-        "domain": "techworm.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

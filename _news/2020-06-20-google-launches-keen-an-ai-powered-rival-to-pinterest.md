@@ -35,22 +35,6 @@ related:
         width: 1000
         height: 502
         isCached: true
-  - title: "Hands-on with Keen: Is this Google’s AI-powered Pinterest? [Video]"
-    excerpt: "Google is back in the social network game thanks to the Area 120-developed Keen — a Pinterest-like app that utilizes AI to create interest boards."
-    publishedDateTime: 2020-06-19T17:40:00Z
-    webUrl: "https://9to5google.com/2020/06/19/keen-hands-on/"
-    ampWebUrl: "https://9to5google.com/2020/06/19/keen-hands-on/amp/"
-    cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/06/19/keen-hands-on/amp/"
-    type: article
-    provider:
-      name: 9to5Google
-      domain: 9to5google.com
-    quality: 57
-    images:
-      - url: "https://9to5google.com/wp-content/uploads/sites/4/2020/06/Keen-for-Android-4.jpg?quality=82&strip=all&w=1000"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Google unveils Pinterest rival 'Keen' that curates content using the company's machine-learning"
     excerpt: "Keen, which was quietly introduced this week, is available on the web and Android and is meant to be an alternative to the infinite scrolling associated with other types of web and social media browsing."
     publishedDateTime: 2020-06-19T16:15:00Z

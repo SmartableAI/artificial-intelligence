@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Face mask memoji, Siri upgrade, mini apps among iOS 14 features"
 
-secured: "iyBvsCeXYZ/otw9Lz2h2X6Wo2emhAafamJhxy3jPWRaTWZK8t4PG/orSjR+fyUr5mkQpER1FzwhgK1D/1rJl3kFGjVmK1krjRH/KzZQ929CeiEKaZkoaFbJjcZkjUBCIOsOicX7XVWPP2oxU46DRFmgLYhQINKFDdmZ/Wg4fCYy34zMPCR29IlmDsiL62mZBk/swzHN+WDEC5vWSh6rS/cJ18SBgsid5jp3i77zudmsWKjqH6Yxt3jv8M3xunhyAGV9Ws3iqWQsCebe3rTOrTvem83c5AU3ocBe5Lz6N7R8ByRS+a9qh8c229DD42ah3FhuIuQ+3hRQjSa9Hs0zcHw==;uDSZnl9JjXtBU5Jmt2Mvfg=="
+secured: "nqAd+941OR3pzgkDH3EOgsRpTs0y5sP+DLaiK+wDjsK1RymIvKQqgb1kZH33KyCjxwrSuROn+f5ku2mA05FUlMEbp/ihVRt8J6Pb8vCqlWsTBLEWC5/FanP/60Low7ygo/1/NAZxOpNx/VgcjE0Cta4EZdeZKusFaR6Ou3+DtSJVTFeVzdIUgVZAJ1DGOyKx4hVpIfmb96W40+kS8vJER+rybCgClTX6HuPv3wzhVlxsNHqw6mRIcrVplYZlN6dQboggQF9dXo/eR2eEGXrAlr0dXXKuVIPz1vPLg6ztdYl7YNwxcBJ0mTvdlM2e1sGUGrQwmL783fSIVZ6vCm7wV29q2qd3FO4GnynkwqnF8tte/c9WGfQhYhqr08dSmNzu2YA1orhX5nlaUApcDz7H4RWtGI9M12G+LTfnyxCLDJjx96po0PD/7lRa3jJCuDD/bEjq+gTg1vcpM29yIfsDDbo6+D8aBWImr+T0aYQsKoF/6kOu9pc+QLAIZ/RRPt7aOO7dCuE8AN2PDeDFI6FmEw==;v69DQT42S8SySWeLOrVXqw=="
 ---
 

@@ -61,6 +61,22 @@ related:
         width: 1040
         height: 630
         isCached: true
+  - title: "New HomeKit features in iOS 14: Facial recognition and more explained"
+    excerpt: "A boost for home security cameras with facial recognition and activity zones turns HomeKit into a more powerful tool, but there's more, too."
+    publishedDateTime: 2020-06-23T12:48:00Z
+    webUrl: "https://www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236"
+    ampWebUrl: "https://www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236/amp"
+    cdnAmpWebUrl: "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236/amp"
+    type: article
+    provider:
+      name: Trusted Reviews
+      domain: trustedreviews.com
+    quality: 74
+    images:
+      - url: "https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/06/Screen-Shot-2020-06-22-at-19.02.10-1024x640.png"
+        width: 1024
+        height: 640
+        isCached: true
   - title: "HomeKit cameras to get smart face recognition, Apple TV integration"
     excerpt: "Apple's HomeKit platform is being updated with new features, including camera \"Activity Zones\" and adaptive lighting for smart bulbs."
     publishedDateTime: 2020-06-22T18:17:00Z

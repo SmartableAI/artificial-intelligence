@@ -2,6 +2,150 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-06-10-ethical-ai-and-the-importance-of-guidelines-for-algorithms-explained.md",
+      "title": "Ethical AI and the importance of guidelines for algorithms — explained",
+      "excerpt": "Amazon had to discontinue an artificial intelligence–powered recruiting tool after it discovered the system was biased against female applicants. In 2016, a ProPublica investigation revealed a recidivism assessment tool that used machine learning was biased against black defendants.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/10/ethical-ai-and-the-importance-of-guidelines-for-algorithms-explained-syndication/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F06%2FCopy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-4-1.png&signature=eedc4801a8387538007095fc887b1c4e",
+          "width": 1200,
+          "height": 600,
+          "title": "Ethical AI and the importance of guidelines for algorithms — explained",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-10T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-research-report-on-edge-ai-hardware-market-size-growth-2020-analysis-and-forecast-to-2026-market-increasing-steadily-in-covid-19.md",
+      "title": "Research Report on Edge AI Hardware Market Size & Growth 2020 Analysis and Forecast to 2026: Market Increasing Steadily in COVID-19",
+      "excerpt": "Facts & Factors (FnF), a leading market research company recently published a research report on “Edge AI Hardware Market by Device (Smartphones, Cameras, Robots, Automobile, Smart Speakers, Wearable,",
+      "webUrl": "https://surfacingmagazine.net/research-report-on-edge-ai-hardware-market-size-growth-2020-analysis-and-forecast-to-2026-market-increasing-steadily-in-covid-19/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://surfacingmagazine.net/research-report-on-edge-ai-hardware-market-size-growth-2020-analysis-and-forecast-to-2026-market-increasing-steadily-in-covid-19/amp/",
+      "cdnAmpWebUrl": "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/research-report-on-edge-ai-hardware-market-size-growth-2020-analysis-and-forecast-to-2026-market-increasing-steadily-in-covid-19/amp/",
+      "publishedDateTime": "2020-06-10T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "surfacingmagazine.net",
+        "domain": "surfacingmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-asia-pacific-emerging-as-global-ai-epicentre-says-analyst.md",
+      "title": "Asia Pacific emerging as global AI epicentre, says analyst",
+      "excerpt": "Supportive government framework and policies are expected to enable the Asia-Pacific (APAC) region to emerge as the global epicentre for the growth of artificial intelligence (AI), according to one global analytics firm.",
+      "webUrl": "https://itwire.com/business-it-news/business-intelligence/asia-pacific-emerging-as-global-ai-epicentre,-says-analyst.html",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T22:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances.md",
+      "title": "Amazon Web Services (AWS) Gets More EPYC with AMD Powered Instances",
+      "excerpt": "AMD announces the availability of a new ECC instance on Amazon Web Services (AWS) that delivers high performance compute capabilities powered by their 2nd Generation EPYC processors.",
+      "webUrl": "https://techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techent.tv/wp-content/uploads/2020/06/AMD-AWS.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Amazon Web Services (AWS) Gets More EPYC with AMD Powered Instances",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/?amp",
+      "cdnAmpWebUrl": "https://techent-tv.cdn.ampproject.org/c/s/techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/?amp",
+      "publishedDateTime": "2020-06-09T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techent.tv",
+        "domain": "techent.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-newport-llc-an-advisory-firm-serving-middle-market-companies-releases-guidance-on-building-fintech-banking-partnerships.md",
       "title": "Newport LLC, an Advisory Firm Serving Middle Market Companies, Releases Guidance on Building Fintech-Banking Partnerships",
       "excerpt": "Some online lenders are failing while other Fintechs and bank-Fintech partnerships are booming. Although the future is uncertain, digital services and data/AI will surely play increasingly critical roles in banking,",
@@ -1124,196 +1268,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-google-has-made-it-simple-for-anyone-to-tap-into-its-image-recognition-ai.md",
-      "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
-      "excerpt": "A lot of image recognition is about identifying patterns ... data to the frequency of specific brands of cars. Hopefully AutoML Vision will energize more projects like these.",
-      "webUrl": "https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uuscxid9fobckrwjepfk.png",
-          "width": 800,
-          "height": 431,
-          "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131/amp",
-      "publishedDateTime": "2020-06-09T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-lyfts-ipo-banks-big-on-self-driving-cars-shits-on-its-e-scooters.md",
-      "title": "Lyft's IPO Banks Big on Self-Driving Cars, Shits on Its E-Scooters",
-      "excerpt": "While the company is bullish about self-driving cars, Lyft doesn’t try to sugar-coat the risks of its electric-scooter and bike-sharing operations.",
-      "webUrl": "https://gizmodo.com/lyfts-ipo-banks-big-on-self-driving-cars-shits-on-its-1832990301",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/g5e3ylh7zbeolkeyburt.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Lyft's IPO Banks Big on Self-Driving Cars, Shits on Its E-Scooters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/lyfts-ipo-banks-big-on-self-driving-cars-shits-on-its-1832990301/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lyfts-ipo-banks-big-on-self-driving-cars-shits-on-its-1832990301/amp",
-      "publishedDateTime": "2020-06-09T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-worlds-first-fully-bionic-mind-controlled-leg-goes-for-a-walk.md",
-      "title": "World's First Fully Bionic, Mind-Controlled Leg Goes for a Walk",
-      "excerpt": "The only difference is that one of his legs is a mind-controlled robot. Vawter is a \"test pilot\" for an Army-funded study on the latest in bionic limb technology. The leg that's been fitted to him ...",
-      "webUrl": "https://gizmodo.com/worlds-first-fully-bionic-mind-controlled-leg-goes-fo-1401152071",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/191culqr0ovixjpg.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "World's First Fully Bionic, Mind-Controlled Leg Goes for a Walk",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/worlds-first-fully-bionic-mind-controlled-leg-goes-fo-1401152071/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/worlds-first-fully-bionic-mind-controlled-leg-goes-fo-1401152071/amp",
-      "publishedDateTime": "2020-06-09T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-aspiring-intel-rival-graphcore-has-shipped-tens-of-thousands-of-ai-chips.md",
-      "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
-      "excerpt": "U.K. chip start-up Graphcore has leveraged relationships with Microsoft and Dell to ship chips to over 100 customers.",
-      "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143",
-          "width": 4328,
-          "height": 2906,
-          "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
-      "publishedDateTime": "2020-06-09T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     }
   ],

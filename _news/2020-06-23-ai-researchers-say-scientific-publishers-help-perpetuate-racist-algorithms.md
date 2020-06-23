@@ -7,8 +7,8 @@ webUrl: "https://www.technologyreview.com/2020/06/23/1004333/ai-science-publishe
 ampWebUrl: "https://www.technologyreview.com/2020/06/23/1004333/ai-science-publishers-perpetuate-racist-face-recognition/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/06/23/1004333/ai-science-publishers-perpetuate-racist-face-recognition/amp/"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/06/GettyImages-962263142-e1592884957271.jpg?w=2119"
@@ -25,6 +26,6 @@ images:
     isCached: true
     title: "AI researchers say scientific publishers help perpetuate racist algorithms"
 
-secured: "q7I80zcYiQTe7uQBjwOWF64gKH5aWNA1RtFnvXI/skZTvWXX30YPcUqo7Fm3kLBYO3iynV/ZsnJJESRXgTYzRrPuuDjtvczXA+8i1uXJxQU1627QcC45c+mc6KrFefsQsG4dtyuNTSQueKnKhm5EAlGesgZ8qfpSZgxdaTz3nGBe8Ub2rdoNBVDDgM+i9KTeqBcCM+ydLA/DbDBvPsbOYmbZ0Xmnl2vGCFr2D6xJ+e0kdc1TO25D6n4I6lux2G4Zlf7oqH73FBLpt844iNb2YmaEYxnOMESUyYHGs91cflNilOOXtHDMO0hT99LjSVEfV5NuvfXISHqPZlBoaNvspg==;M/n8TnEeuJ4VSpR+6g6pPw=="
+secured: "agoaRXdKQ9VYHLxPBkuEMLa4Q1ob3YCZIKLFjReZgwFi8rK6BlsRuLwvHyF8Y6R9405JDUTZzADcSSx3Xw3QJ5jyP9IOj+eQEBQitu5pvNDH7aN6I2Ot8mm8r/hYjoGSevOlc9nbgSVGbEBwEyqQeUX3vAnGSAobEBH1LPYbll47MskklSgcFEsQgdG8qQZrho6J+/mKC3IkQNLXFr7mwb9hggYJSKtXU0voOpeE1098EOxr1L0tef+dAUUZrTkck6vwfP48BIbOZDfxFjhf+FVJqqIZVQEx3Q94lc8AsDL3c7XGLINaNvLxzxtGRIS5lm0jzQ7eL6DvpG2G3tMV8la67sacjcsPzHpimE+DgJCwMjIo9zrxVenBsNuZlQaqRVgSxH4fPrym6mSnA7lJWHEKHKqnxJlv8EygIDESW3EHMQm5lj8GLuNY8ERQ4cxmCJr3Pt5BfgxQ7GUuo0G5jAyd5Jr9OthD4jf9kw92ksL1Bybmc9OX3trEhUJFTm5A4cvRgbWPgoQlDYdK009+DA==;fIa8Ss0Lngs2NKllgwzpew=="
 ---
 

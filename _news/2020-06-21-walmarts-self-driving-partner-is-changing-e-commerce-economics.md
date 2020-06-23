@@ -50,6 +50,22 @@ related:
         width: 1593
         height: 996
         isCached: true
+  - title: "Lyft says self-driving car safety will be built on trust"
+    excerpt: "Lyft on Monday published what it calls a Voluntary Safety Self-Assessment to provide insight into how the ride-sharing company approaches potentially revolutionary technology like self-driving cars. At the end of the day,"
+    publishedDateTime: 2020-06-23T13:52:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/lyft-self-driving-car-safety-trust/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/lyft-self-driving-car-safety-trust/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lyft-self-driving-car-safety-trust/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/GXmk09msC0IU3WKmEQZZ8MFEUEM=/2020/06/23/e08c41fe-c6ae-4acb-be10-f3204caace01/ogi-lyft.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "BMW to cut 6,000 jobs and slam brakes on Mercedes self-driving alliance amid Covid-19 impact"
     excerpt: "BMW and Mercedes-Benz’s partnership, to cooperate on the development of self-driving technology, was announced last year but has now been put on hold. BMW said that the timing was “not right” given the current business and economic conditions and the ..."
     publishedDateTime: 2020-06-19T16:14:00Z
@@ -163,6 +179,20 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
+  - title: "Walmart’s Self-Driving Partner Is Changing E-Commerce Economics"
+    excerpt: "Last summer, it raised $4.5 million from investors, a pint-sized sum among self-driving ventures. Though Gatik may not be sexy, its slow-lane approach has proved to be pragmatic and lucrative. Last summer,"
+    publishedDateTime: 2020-06-23T13:10:00Z
+    webUrl: "https://www.supplychainbrain.com/articles/31511-walmarts-self-driving-partner-is-changing-e-commerce-economics"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 24
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0622_Walmart.jpg?height=635&t=1592797745&width=1200"
+        width: 847
+        height: 635
+        isCached: true
 
 secured: "oNcKcAzE3qOn+I2UFjv+eaijWhlsJKlISVKf79Ij9RzUvXJaN/LdFFdu2oYqARkdUcTtr5u6We9w9muidZlIJ6HvuaGIRlDLb51Gr0ebck1n7oS0hWNliHqgLuu6kGxFvYm3KGpxk1uib+CQ/LLvYNyvd/lZBJWt0vVZn6JotJmNvlwYQGA+NbWTrLu68kJqScs10Tw7E2uTTLuHVH6GbAlu0utLvUOMtYu+kJkRnqrzv3zBTFNhXg0AhJ4jTSJFqsAPErRRmwc5zcg6KQCn8S6KTRCA3yakZCrskSAC28dbufxtQvDnvqPzVXmyfM4rDXg2DObwZ6saFUfYBbGGnw==;p5eXQs5GeBS/qDNfX+SWXg=="
 ---

@@ -2,6 +2,185 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-18-youtube-sued-for-using-ai-to-racially-profile-content-creators.md",
+      "title": "YouTube sued for using AI to racially profile content creators",
+      "excerpt": "A group of black content creators has sued YouTube for allegedly using AI to censor their videos based “wholly or in part” on race.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/18/youtube-sued-for-using-ai-to-racially-profile-content-creators/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-79-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "YouTube sued for using AI to racially profile content creators",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/18/youtube-sued-for-using-ai-to-racially-profile-content-creators/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/18/youtube-sued-for-using-ai-to-racially-profile-content-creators/amp/",
+      "publishedDateTime": "2020-06-18T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-intel-stock-slips-as-new-lines-of-ai-chips-released.md",
+      "title": "Intel stock slips as new lines of AI chips released",
+      "excerpt": "Intel Corp. shares slid with the broader market Thursday as the chip giant introduced several new products to support artificial intelligence and",
+      "webUrl": "https://www.marketwatch.com/story/intel-stock-slips-as-new-lines-of-ai-chips-released-2020-06-18",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-II855_INTC_0_ZH_20200618120245.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "Intel stock slips as new lines of AI chips released",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/EED0023A-B17A-11EA-8CDA-8F4E519ABD47",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/EED0023A-B17A-11EA-8CDA-8F4E519ABD47",
+      "publishedDateTime": "2020-06-18T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-this-startup-uses-machine-learning-to-change-the-way-drugs-are-developed.md",
+      "title": "This startup uses machine learning to change the way drugs are developed",
+      "excerpt": "Insitro, the startup founded by Daphne Koller, is taking a radical new approach to drug development. The company uses a team of biologists and machine learning experts to help develop new drugs that are more likely to succeed.",
+      "webUrl": "https://www.fastcompany.com/video/this-startup-uses-machine-learning-to-change-the-way-drugs-are-developed/6CpgWp2J",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/fetch/w_1280,f_auto,q_auto,fl_lossy/https://cdn.jwplayer.com/v2/media/6CpgWp2J/poster.jpg?width=720",
+          "width": 1280,
+          "height": 722,
+          "title": "This startup uses machine learning to change the way drugs are developed",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-ai-and-machine-learning-in-healthcare-garbage-in-garbage-out.md",
+      "title": "AI And Machine Learning In Healthcare: Garbage In, Garbage Out",
+      "excerpt": "Much proselytizing has occurred regarding the value and future of artificial intelligence (AI) and machine learning in healthcare. The industry is burgeoning. As with blockchain technology, which continues to evolve in the healthcare marketplace ...",
+      "webUrl": "https://www.forbes.com/sites/jeffgorke/2020/06/18/ai-and-machine-learning-in-healthcare-garbage-in-garbage-out/",
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1197598173%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D556%26cropY2%3D3931",
+          "width": 1200,
+          "height": 675,
+          "title": "AI And Machine Learning In Healthcare: Garbage In, Garbage Out",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-gpu-accelerated-ml-training-now-available-for-35-million-windows-subsystem-for-linux-users.md",
       "title": "GPU accelerated ML training now available for 3.5 million Windows Subsystem for Linux users",
       "excerpt": "Microsoft has announced the availability of GPU Compute on the WSL2, allowing users to run native Linux command-line tools directly on Windows 10",
@@ -522,14 +701,14 @@
       "path": "_news/2020-06-18-intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory.md",
       "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
       "excerpt": "Chip giant Intel on Thursday unveiled new 3rd Gen Intel Xeon Scalable processors and additions to its hardware and software AI portfolio.",
-      "webUrl": "https://www.sify.com/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory-news-education-ugsolHgiefahb.html",
+      "webUrl": "https://www.sify.com/finance/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory-news-topnews-ugsokAfichhjb.html",
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.sify.com/uploads/Hindi-Chini600x600_ugriulddadbea_ugrizcghbbjbg.jpg",
+          "url": "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg",
           "width": 600,
-          "height": 600,
+          "height": 400,
           "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
           "attribution": null,
           "isCached": true
@@ -1139,178 +1318,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-machine-learning-in-palo-alto-firewalls-adds-new-protection-for-iot-containers.md",
-      "title": "Machine learning in Palo Alto firewalls adds new protection for IoT, containers",
-      "excerpt": "OS firewall operating system, the firewalls are better equipped to defend IoT devices and containers, whether on-prem or in the cloud.",
-      "webUrl": "https://www.networkworld.com/article/3562705/machine-learning-in-palo-alto-firewalls-adds-new-protection-for-iot-containers.html",
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/05/cso_security_lock_firewall_fires_threats_exploits_by_matejmo_gettyimages-879868000_2400x1600-100798015-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Machine learning in Palo Alto firewalls adds new protection for IoT, containers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3562705/machine-learning-in-palo-alto-firewalls-adds-new-protection-for-iot-containers.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3562705/machine-learning-in-palo-alto-firewalls-adds-new-protection-for-iot-containers.amp.html",
-      "publishedDateTime": "2020-06-17T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-congressman-calls-out-amazons-performative-facial-recognition-moratorium.md",
-      "title": "Congressman calls out Amazon's 'performative' facial-recognition moratorium",
-      "excerpt": "[The] 102-word blog post announcement fails to specify whether Amazon will stop selling Rekognition to police departments during the moratorium; whether the company will stop the development of ...",
-      "webUrl": "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F06%252F18%252Fd0%252F067b134488834b6bac8bfc91b9731822.499d9.jpg%252F1200x630.jpg?signature=1lDWOXpdt8JocVS38IojVBFjb5o=",
-          "width": 1200,
-          "height": 630,
-          "title": "Congressman calls out Amazon's 'performative' facial-recognition moratorium",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp",
-      "publishedDateTime": "2020-06-17T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-integrate-amazon-kendra-and-amazon-lex-using-a-search-intent.md",
-      "title": "Integrate Amazon Kendra and Amazon Lex using a search intent",
-      "excerpt": "Customer service conversations typically revolve around one or more topics and contain related questions. Answering these questions seamlessly is essential for a good conversational experience. For example, as part of a car rental reservation, you have queries such as, “What’s the charge for an additional",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-amazon-kendra-and-amazon-lex-using-a-search-intent/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/17/lex-kendra-001.jpg",
-          "width": 800,
-          "height": 284,
-          "title": "Integrate Amazon Kendra and Amazon Lex using a search intent",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T14:47:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.md",
-      "title": "Windows 10's Linux subsystem gets GPU compute and an easier install in new preview",
-      "excerpt": "Microsoft's latest Insider Build 20150 allows you to install the Windows Subsystem for Linx 2 via a typed command, and adds GPU compute support via Nvidia's CUDA.",
-      "webUrl": "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.html",
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/06/windows-susbsystem-for-linux-2-windows-update-100849123-large.jpg",
-          "width": 1200,
-          "height": 598,
-          "title": "Windows 10's Linux subsystem gets GPU compute and an easier install in new preview",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.amp.html",
-      "publishedDateTime": "2020-06-17T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI"
       ]
     }
   ],

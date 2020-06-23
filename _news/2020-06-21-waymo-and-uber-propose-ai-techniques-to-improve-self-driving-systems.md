@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniq
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     title: "Waymo and Uber propose AI techniques to improve self-driving systems"
 
 related:
+  - title: "AImotive secures $20 million to expand locations and self-driving technology"
+    excerpt: "AImotive has become what it claims is the most-funded automated driving software supplier in Europe with an additional $20 million raised in funding. IEEE GlobalSpec websites place cookies on your device to give you the best user experience."
+    publishedDateTime: 2020-06-23T13:39:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15328/aimotive-secures-20-million-to-expand-locations-and-self-driving-technology"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 36
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/328/15328/AImotive_01_fleet_1600px.jpg"
+        width: 752
+        height: 470
+        isCached: true
   - title: "BMW and Mercedes cease joint development of self-driving system"
     excerpt: "Benz said in a joint statement Friday they have ceased cooperation on development of self-driving car technology. The cooperation started in February 2019 as means to accelerate the development of the technology."
     publishedDateTime: 2020-06-19T17:00:00Z
