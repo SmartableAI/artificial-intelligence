@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2020/06/18/why-it-matters-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2020/06/18/why-it-matters-that-ibm-has-abandoned-its-facial-recognition-technology/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.dailydot.com/wp-content/uploads/2020/06/microsoft-store.jpg"
         width: 2000
         height: 1000
-        isCached: true
-  - title: "On Facial Recognition, the U.S. Isn’t China—Yet"
-    excerpt: "Facial recognition software has recently attracted scrutiny for its adoption by some police departments across the United States. Very few U.S. states and localities have laws to adequately protect against abuse of the technology."
-    publishedDateTime: 2020-06-18T12:01:00Z
-    webUrl: "https://www.lawfareblog.com/facial-recognition-us-isnt-china-yet"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 39
-    images:
-      - url: "https://www.lawfareblog.com/sites/default/files/Security%20Photo%20duPont%20Article.jpg"
-        width: 1600
-        height: 1071
         isCached: true
   - title: "Protests Shine Light On Facial Recognition Tech Problems"
     excerpt: "As big tech steps back from facial recognition for police, some AI experts want an end to its use entirely. Here’s why they say reform isn’t enough."

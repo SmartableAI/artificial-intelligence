@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.indystar.com/amp/3202437001"
 cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3202437001"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -28,16 +28,16 @@ images:
 
 related:
   - title: "Rugged COTS Platform Takes On Fast-Changing Needs of Self-Driving Trucks"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2020-06-22T21:19:00Z
-    webUrl: "https://www.computerworld.com/resources/204893/rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks"
+    excerpt: "Advantech and Crystal Group are teaming up to power that evolution based on AV trends, compute requirements, and a rugged COTS philosophy converging for breakthrough innovation in selfdriving truck designs."
+    publishedDateTime: 2020-06-22T21:05:00Z
+    webUrl: "https://www.infoworld.com/resources/204893/rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 23
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 53
     images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
         isCached: true

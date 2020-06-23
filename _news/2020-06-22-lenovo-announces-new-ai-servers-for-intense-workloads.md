@@ -41,22 +41,6 @@ related:
         width: 1115
         height: 584
         isCached: true
-  - title: "Lenovo Delivers Business Intelligence with Solutions Purpose-Built for Analytics and AI Workloads"
-    excerpt: "Lenovo’s new ThinkSystem SR860 V2 and SR850 V2 mission critical servers feature 3rd Gen Intel Xeon Scalable processors and support for enhanced Intel® Deep Learning Boost enabling customers to"
-    publishedDateTime: 2020-06-18T13:00:00Z
-    webUrl: "https://business.financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads"
-    ampWebUrl: "https://business.financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads/amp"
-    cdnAmpWebUrl: "https://business-financialpost-com.cdn.ampproject.org/c/s/business.financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads/amp"
-    type: article
-    provider:
-      name: Financial Post
-      domain: financialpost.com
-    quality: 46
-    images:
-      - url: "https://thelogic.co/wp-content/uploads/2020/06/COVID_SHIELD_exposure_notification_app-P_Government_of_Ontario-1024x683-1.png?w=260&h=195&crop=1&quality=80&strip=all"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Lenovo Launches ThinkSystem Servers with GPU Support, Increased NVMe Storage"
     excerpt: "Lenovo this morning launched two new ThinkSystem servers, the SR860 V2 and SR850 V2, utilizing 3rd Gen Intel Xeon Scalable processors with Intel Deep Learning Boost, along with introduction of GPU support on the SR860 V2 (four double-wide 300W or eight single-wide GPUs)."
     publishedDateTime: 2020-06-18T13:55:00Z

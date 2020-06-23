@@ -73,22 +73,6 @@ related:
         width: 1000
         height: 665
         isCached: true
-  - title: "IBM's new Watson Works products use AI to help companies plan when to safely send employees back to the workplace"
-    excerpt: "Space allocation and facilities management issues are included in new AI products designed to assist with return-to-workplace challenges post COVID-19 lockdowns. Watson Works is a new curated set of workplace products from IBM that embeds Watson artificial ..."
-    publishedDateTime: 2020-06-18T12:03:00Z
-    webUrl: "https://www.techrepublic.com/article/ibms-new-watson-works-products-use-ai-to-help-companies-plan-when-to-safely-send-employees-back-to-the-workplace/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibms-new-watson-works-products-use-ai-to-help-companies-plan-when-to-safely-send-employees-back-to-the-workplace/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibms-new-watson-works-products-use-ai-to-help-companies-plan-when-to-safely-send-employees-back-to-the-workplace/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 83
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/06/18/909043e1-e9e6-48d0-b8dd-57b2ec185ee2/resize/1200x/177161e24ff22fce24b64c777d51d647/temperature-taking.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "IBM launches Watson Works to address return to workplace challenges"
     excerpt: "Watson Works provides data-driven insights to help employers make informed decisions on workplace re-entry, facilities management, space allocation and other covid-related priorities, says IBM"
     publishedDateTime: 2020-06-18T13:46:00Z
@@ -134,20 +118,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "IBM Launches Watson Works to Address the Challenges of Returning to the Workplace"
-    excerpt: "ARMONK, N.Y., June 18, 2020 /PRNewswire/ -- IBM (NYSE: IBM) today announced Watson Works, a curated set of products that embeds Watson artificial intelligence (AI) models and applications to help companies navigate many aspects of the return-to-workplace ..."
-    publishedDateTime: 2020-06-18T12:16:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-launches-watson-works-to-address-the-challenges-of-returning-to-the-workplace-301079332.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
         isCached: true
 
 secured: "hSr9h2S6vA05LZP0vYc/QyyKNV/V6oB91SqS3a9mrGeH3Yg+GtxQVOeVuABYmfxm7tDciwtXOB1Wd3Yc9cwyekLwWJyIOR7DtHg1/Vnjy0d3D8VGGrXlV4Tr1cokyAEvVSwIXhFiRQNKxIMF0FQCx9rte6dQeZa/+Dh/ubcVcriCohbVpnmhD+G5Gc3pAFo8CkNQ0smrjE4z+EmSTQ6nrpy/gVJmzSIvqCOpscmM6/r1us+4AeNAtvre5RSadRlm/5LVrTH4QiuRlYYgRN/1ODXDz7ukgIkzhfUpduRfafNmG0ldb43do+zgQfDeQke+72TxXLVXA1gSHIfheMYD3X/Yz8iciZdX6RK67KT581VsGHlCiiM82Z5vfNoZIUBaPLnpfxoGGIJfGDkPxCFZVuvdmHckKrKMRwfB8evCLNH+Zgw0IdkjaeiwDloOG5FS3uVaI5C69/ce7kPbM3KKLR8EttAWj2J61BvF6MUdnMGzbyuw6eduCUDebL76QlhCScU7dS1MsaNxjFICs0yRxw==;AyNelEuYRxsgKs7eQbyhtw=="

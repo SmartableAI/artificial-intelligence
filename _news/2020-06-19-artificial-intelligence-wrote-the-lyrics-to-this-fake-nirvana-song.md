@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85706-artificial-intelligence-wrot
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85706-artificial-intelligence-wrote-lyrics-fake-nirvana-song.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     title: "Artificial intelligence wrote the lyrics to this fake Nirvana song"
 
 related:
-  - title: "YouTuber creates fake Nirvana song using artificial intelligence"
-    excerpt: "A YouTuber has utilised artificial intelligence to create a fake \"new\" Nirvana song, which they've called 'Smother'"
-    publishedDateTime: 2020-06-18T11:44:00Z
-    webUrl: "https://www.nme.com/news/music/youtuber-creates-fake-nirvana-song-using-artificial-intelligence-2690860"
-    ampWebUrl: "https://www.nme.com/news/music/youtuber-creates-fake-nirvana-song-using-artificial-intelligence-2690860?utm_source=rss&utm_medium=rss&utm_campaign=youtuber-creates-fake-nirvana-song-using-artificial-intelligence&amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/music/youtuber-creates-fake-nirvana-song-using-artificial-intelligence-2690860?utm_source=rss&utm_medium=rss&utm_campaign=youtuber-creates-fake-nirvana-song-using-artificial-intelligence&amp"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 57
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2020/06/GettyImages-86298324.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
   - title: "YouTuber Breeds Fake Nirvana Song With Artificial Intelligence"
     excerpt: "YouTuber Funk Turkey has made a new fake Nirvana song using A.I. programming. It’s Turkey’s latest endeavor following a flurry of other mock tracks mimicking the likes of AC/DC, Metallica and Nickelback,"
     publishedDateTime: 2020-06-19T04:25:00Z

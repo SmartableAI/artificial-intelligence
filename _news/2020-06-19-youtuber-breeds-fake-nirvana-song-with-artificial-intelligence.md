@@ -40,22 +40,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "YouTuber creates fake Nirvana song using artificial intelligence"
-    excerpt: "A YouTuber has utilised artificial intelligence to create a fake \"new\" Nirvana song, which they've called 'Smother'"
-    publishedDateTime: 2020-06-18T11:44:00Z
-    webUrl: "https://www.nme.com/news/music/youtuber-creates-fake-nirvana-song-using-artificial-intelligence-2690860"
-    ampWebUrl: "https://www.nme.com/news/music/youtuber-creates-fake-nirvana-song-using-artificial-intelligence-2690860?utm_source=rss&utm_medium=rss&utm_campaign=youtuber-creates-fake-nirvana-song-using-artificial-intelligence&amp"
-    cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/music/youtuber-creates-fake-nirvana-song-using-artificial-intelligence-2690860?utm_source=rss&utm_medium=rss&utm_campaign=youtuber-creates-fake-nirvana-song-using-artificial-intelligence&amp"
-    type: article
-    provider:
-      name: NME
-      domain: nme.com
-    quality: 57
-    images:
-      - url: "https://www.nme.com/wp-content/uploads/2020/06/GettyImages-86298324.jpg"
-        width: 2000
-        height: 1270
-        isCached: true
 
 secured: "ftiT69fjoZMFR8hFBER7Ve8TkTtU7H7iJPBZqzdiN4o5dCI+H+VJdWGkCnukC2pbzAdHYT5naxaWh51tXau1lcahqyA9R+MKPhgBOepkCsvOEzhZZiYZHVu7F+zZf8AXf+J7Gy6KVUKFiwscXpYlWYfl7pkgcZFJsyov9IA+gFSfmQS8yJLb4yUo9aiF/JphgcVllTqdK6ll7uXHCfDU3fDfRrpGGXeQyY8gCA1heBJVDL+IfQgQ1+v2ETk30BXs8SDvBbLrgL9szB3jOhErmWCWrbzcY9SblEmuuAHcYyz0XZajos4oyYQCmzMl9vx6Qr6xpXwGjYJJyTaKCnb8ww==;0xmMEjAu9OLJUbnHYdlEtg=="
 ---

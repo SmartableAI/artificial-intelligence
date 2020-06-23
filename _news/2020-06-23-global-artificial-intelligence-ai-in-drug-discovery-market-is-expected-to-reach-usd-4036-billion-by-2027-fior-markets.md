@@ -1,19 +1,19 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) in Drug Discovery Market Is Expected to Reach USD 40.36 Billion by 2027 : Fior Markets"
-excerpt: "Newark, NJ, June 22, 2020 (GLOBE NEWSWIRE) -- As per the report published by Fior Markets, the global artificial intelligence (AI) in drug discovery market is expected to grow from USD 1.60 billion in 2019 to USD 40."
-publishedDateTime: 2020-06-23T02:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-drug-discovery-market-is-expected-to-reach-usd-4036-billion-by-2027-fior-markets-2020-06-22"
+excerpt: "As per the report published by Fior Markets, the global artificial intelligence (AI) in drug discovery market is expected to grow from USD 1.60 billion in 2019 to USD 40.36 billion by 2027, at a CAGR of 49."
+publishedDateTime: 2020-06-23T02:10:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-ai-in-drug-discovery-market-is-expected-to-reach-usd-40-36-billion-by-2027-fior-markets-1029331522"
 type: article
-quality: 58
-heat: 58
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -21,13 +21,6 @@ topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-    title: "Global Artificial Intelligence (AI) in Drug Discovery Market Is Expected to Reach USD 40.36 Billion by 2027 : Fior Markets"
-
-secured: "3tnR8F6ZG6FvPEII6i7dXqAq5lKfr/mCbVeV/4W3Ubj1ynL0vNwUVuO5uTPM/Z6jRqdZSFhg9w+wrjv7x5MhySkdnTlpXU2mAt7akpkS91HlNwxt7b5n7/gq0fxWo/n/wXLMNTna/ymhkQ3Mms6jlrsU1Y08XMusbFTbWtKoXCdHtUpgusO2/WbbQZSOaWyqG4O+DpKafPO9qOc6iRvTGhZMbHUwrljW7HnwOuuVcEB37Wt1VpuTihqCqBCXTlr0lmU53fdTfKWXcY0CKhwTE9no+mMqFHL+ywpCmnkwpSQoF/te+H5ybcWex0NO1b9BoZ1grKC5Frur+R2BTDSlIw==;wkOlZwd9521xC6TgFXD19g=="
+secured: "ddfovksHMmmRn/O1145n0avkm1qm1wEz51RuXqAyFyMOdYT5Lwu/2YfGzmyEykZRZH5pUy4AfNO1YbFGAS4Sd5YxomMlNQ7hllgwbHqq3cwGUmAiYT2M3rYyOrf5d1MjAHrKujyzC4jJlodRqM6ggsPZNxWdm4HB79ftLFfbO+agLkCn4/kDFTJVSabL5XISW7oJRDKF0QPNAaKcxLQqr8KSs/ezHtMyfT/piLGblo/23fHVdmiTscBmG5f/F2qs/1uiOuE/5RVOQH+dJhJP9n1s/gBLQiJx85/XqGqx5ZsxlLI5EIEROpL5llHmrS8ZOPvCDP0hncvUt+gHaZQCDg==;x86Xnt8g1266RG7OT9F8Lw=="
 ---
 

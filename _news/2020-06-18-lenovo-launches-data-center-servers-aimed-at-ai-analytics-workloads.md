@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/lenovo-launches-data-center
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     title: "Lenovo launches data center servers aimed at AI, analytics workloads"
 
 related:
-  - title: "Lenovo Delivers Business Intelligence with Solutions Purpose-Built for Analytics and AI Workloads"
-    excerpt: "Lenovo’s new ThinkSystem SR860 V2 and SR850 V2 mission critical servers feature 3rd Gen Intel Xeon Scalable processors and support for enhanced Intel® Deep Learning Boost enabling customers to"
-    publishedDateTime: 2020-06-18T13:00:00Z
-    webUrl: "https://business.financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads"
-    ampWebUrl: "https://business.financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads/amp"
-    cdnAmpWebUrl: "https://business-financialpost-com.cdn.ampproject.org/c/s/business.financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/lenovo-delivers-business-intelligence-with-solutions-purpose-built-for-analytics-and-ai-workloads/amp"
-    type: article
-    provider:
-      name: Financial Post
-      domain: financialpost.com
-    quality: 46
-    images:
-      - url: "https://thelogic.co/wp-content/uploads/2020/06/COVID_SHIELD_exposure_notification_app-P_Government_of_Ontario-1024x683-1.png?w=260&h=195&crop=1&quality=80&strip=all"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Lenovo announces new AI servers for intense workloads"
     excerpt: "Chinese manufacturer, Lenovo has announced a new product line of servers focused on artificial intelligence. The new ThinkSystem SR860 V2 and SR850 V2 servers have been designed for data center customers and feature Intel Xeon processors and support Intel Deep Learning platforms."
     publishedDateTime: 2020-06-22T10:11:00Z

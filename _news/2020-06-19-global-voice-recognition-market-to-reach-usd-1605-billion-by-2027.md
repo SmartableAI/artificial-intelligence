@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-19T11:16:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-to-reach-usd-1605-billion-by-2027-2020-06-19?mod=mw_quote_news&tesla=y"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Automotive Voice Recognition System Market Size Hit US$ 39 Bn by 2027"
+    excerpt: "The global ​automotive voice recognition system market size is expected to reach USD 39 billion by 2027, It is projected to register a CAGR of 21%"
+    publishedDateTime: 2020-06-23T05:36:00Z
+    webUrl: "https://www.mynewsdesk.com/us/pressreleases/automotive-voice-recognition-system-market-size-hit-us$-39-bn-by-2027-3015391"
+    type: article
+    provider:
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
+    quality: 24
+    images:
+      - url: "https://resources.mynewsdesk.com/image/upload/t_open_graph_image/et7bxryqgoxjcb2qu0p6.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Speech Recognition Market to Garner $29.28 Bn, Globally, by 2026 at 19.9% CAGR, Says Allied Market Research"
     excerpt: "Allied Market Research recently published a report, \"Speech Recognition Market by Deployment Mode (On Cloud and On Premise) and End"

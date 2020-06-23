@@ -8,7 +8,7 @@ ampWebUrl: "https://dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-in-ai-research-award/amp/"
 type: article
 quality: 76
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -121,20 +121,6 @@ related:
       - url: "http://www.brecorder.com/_img/social-default.jpg"
         width: 1200
         height: 768
-        isCached: true
-  - title: "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards"
-    excerpt: "Today, Facebook announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Among the winners from ..."
-    publishedDateTime: 2020-06-18T12:01:00Z
-    webUrl: "https://www.brecorder.com/news/1005306"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 55
-    images:
-      - url: "https://i.brecorder.com/large/2020/06/5eeb5347e8184.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Facebook and HKU announce the winners of the Ethics in AI Research Initiative for the Asia Pacific"
     excerpt: "Facebook and the Centre for Civil Society and Governance (CCSG) at the University of Hong Kong (HKU) today (June 18) announced the winners of the Ethics in AI Research Initiative for the Asia"

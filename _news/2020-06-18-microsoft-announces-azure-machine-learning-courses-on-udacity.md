@@ -8,7 +8,7 @@ ampWebUrl: "https://winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-l
 cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/?amp"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     height: 428
     isCached: true
     title: "Microsoft Announces Azure Machine Learning Courses on Udacity"
-
-related:
-  - title: "Teachley Announces Market Bay: Leading Edtech Company Launches Mathematical Learning Game for Children"
-    excerpt: "Teachley announces the launch of Market Bay, an immersive learning game for children grades K-5 that teaches the base ten number"
-    publishedDateTime: 2020-06-18T12:47:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/teachley-announces-market-bay-leading-edtech-company-launches-mathematical-learning-game-for-children-301079524.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "G2IULLoxGE+70nTEAAAvgXglu3Urpk7t0blcHzJB3Bmqhke3jDCe8PwKSChr8OkihFJSE4n295uduvarG4H9k8bzNjzM23X0Pjdz74CYo3yDq8YQzLZAlmL/tUg3Bmk8mDmA5vn7efsgsiffwFI/GHD8QaZVDmWGXJUtxC2CAtpecCdjqFTSkGGzpWgwbPLQHuNeeXKQLAPIAKDEcNgZQGHELCpziEYPvLqRlabvURHjzrQKLkz2c5GMoMl/iCVJiiyYDEyxuSZgkJ2ivKHnxqPy4I29apfzIS7R5t/Bp7WF/LphfmTQ/tEjwFlKAVVdSluqLJMDBViFSSuJr74Ff6KhIwJpWIL5bC21Dvs/OO4z4hRobxezRXGX4j3MUQPrQi3nXKO4NmBK0oI9TeLUBJNMuNouESmjGtxt7CmmtbVfBa2suL9xr9ZRUeeJ+8FCUt1xQ6r4MPu/Nj4YRhOpWru4RaCfh2TrtEe0+XZqatLApMJjhGEmRJBqC8SnDGP68zTRXWgrW3GGaMg2hOYdzQ==;0zO6iMHOLtO2KMLBYoH1tA=="
 ---

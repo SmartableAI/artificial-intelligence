@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     height: 600
     isCached: true
     title: "Kaia Health raises $26 million to help manage chronic pain with AI"
-
-related:
-  - title: "Urbint raises $20 million for AI that predicts power grid risks"
-    excerpt: "Urbint, a startup developing AI-powered solutions for infrastructure and utility safety, today announced it has raised $20 million in equity financing. The company plans to use the capital to ..."
-    publishedDateTime: 2020-06-18T12:03:00Z
-    webUrl: "https://venturebeat.com/2020/06/18/urbint-raises-20-million-to-anticipate-power-grid-risks-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/06/18/urbint-raises-20-million-to-anticipate-power-grid-risks-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/urbint-raises-20-million-to-anticipate-power-grid-risks-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/social-share-e1592341639103.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "IlubAcYcyF95J5RnDJjaHbKazrzhTNXF2iyaxdVIInSoawYNZfpY20JKcURK+BqBWFnJAAnHEulPjBzMsjbYYsFkPPAoGm0541UqiMZw46jCKfrjDvWUsEyPGeuAa5UBFlnXAYko66ZSJ3Stt8T5U5rO3g5AC7hGENfI8WvS3OiRtMmagysdEvFXYC2iQF5jfW6j4fS/gVAJuxIEs9z2ceTREib9YgzOjtQSbq9dZa3hhZVnjvuEZU9an+jpMAUq9oL1D0y1iFzoQDQcSzfyNTaLSxqcywenRtJNpWowNvAeg1lr5V/dgKolndLk5iZctpnX50EGvAAO3v7dp5td27VuL6Oh0fRtQA8UNQ0OLI5C/Q8Eyz0Zg4D1zXAgRdbSV9y6aJn/aTvvW7IFgnxKWqNMyc4UMfYg5sUb5dd/LhuLHxUu75Fp5mCDqgNUOLfwheOn4abCfRgqcfpzy7d6bqanyne8er6Pj0sUWBrbiOCl6XDEmoH9zOsy8KoazprLQrJNtIcEup4sckLi+a3lbQ==;D9F6rc1uIzHocAQC0fcAqw=="
 ---

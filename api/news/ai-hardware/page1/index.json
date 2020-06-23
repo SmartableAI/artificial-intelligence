@@ -241,7 +241,7 @@
       "title": "GPU accelerated ML training now available for 3.5 million Windows Subsystem for Linux users",
       "excerpt": "Microsoft has announced the availability of GPU Compute on the WSL2, allowing users to run native Linux command-line tools directly on Windows 10",
       "webUrl": "https://news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/",
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -373,7 +373,7 @@
       "title": "Lenovo launches data center servers aimed at AI, analytics workloads",
       "excerpt": "Lenovo on Thursday launched two new data center servers aimed at supporting AI and analytics workloads ... The ThinkSystem SR860 V2 server also offers GPU support, accommodating four double-wide 300W or eight single-wide GPUs. Lenovo is also rolling ...",
       "webUrl": "https://www.zdnet.com/article/lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads/",
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {

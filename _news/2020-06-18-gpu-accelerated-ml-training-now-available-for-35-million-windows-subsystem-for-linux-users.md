@@ -8,7 +8,7 @@ ampWebUrl: "https://news.thewindowsclub.com/gpu-accelerated-ml-training-now-avai
 cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/amp/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     title: "GPU accelerated ML training now available for 3.5 million Windows Subsystem for Linux users"
 
 related:
-  - title: "Windows 10 Linux subsystem: You get GPU acceleration – with Intel, AMD, Nvidia drivers"
-    excerpt: "Microsoft sees Nvidia's CUDA platform as important for enhancing machine-learning training on WSL and the pair have launched a preview of CUDA for WSL 2, which includes support for key machine-learning tools like Facebook's PyTorch and Google's TensorFlow"
-    publishedDateTime: 2020-06-18T12:27:00Z
-    webUrl: "https://www.zdnet.com/article/windows-10-linux-subsystem-you-get-gpu-acceleration-with-intel-amd-nvidia-drivers/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/windows-10-linux-subsystem-you-get-gpu-acceleration-with-intel-amd-nvidia-drivers/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/windows-10-linux-subsystem-you-get-gpu-acceleration-with-intel-amd-nvidia-drivers/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 63
   - title: "Windows 10 Subsystem for Linux gets command line love, GPU support"
     excerpt: "Running TensorFlow in WSL In Windows 10 Insider build 20150, Microsoft is now previewing these features, and programs like TensorFlow can be used with your GPU in WSL. \"This update will include support for NVIDIA CUDA, which will help enable professionals ..."
     publishedDateTime: 2020-06-19T20:14:00Z

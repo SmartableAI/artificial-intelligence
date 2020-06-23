@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Rugged COTS Platform Takes On Fast-Changing Needs of Self-Driving Trucks"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-06-22T21:19:00Z
-webUrl: "https://www.computerworld.com/resources/204893/rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks"
+excerpt: "Advantech and Crystal Group are teaming up to power that evolution based on AV trends, compute requirements, and a rugged COTS philosophy converging for breakthrough innovation in selfdriving truck designs."
+publishedDateTime: 2020-06-22T21:05:00Z
+webUrl: "https://www.infoworld.com/resources/204893/rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks"
 type: article
-quality: 23
-heat: -1
+quality: 53
+heat: 63
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     isCached: true
@@ -42,6 +46,6 @@ related:
         height: 675
         isCached: true
 
-secured: "A0xFEIgYtqxBbJL6xM6x4WE0iMHu0MQTZFrNOqqXZ+2vV+kdxViEKZOVLWnsqeR7Nic1fJOjn9fFsfVQI4Wpof3I8zrRy1FvRKQUTFyLkGBT2002s9FAaZKscJ31bnmsrrYRD3iDdXVNSmtalCEGSkR2o5csswfPs5kR3cnG16QxeH/vVXYccqmhpj7CylscKQvLE4XRjx4BwhDaxpPJjYukriWgLKM/6w9rBF2wlRE9HdV4MV1nrYInr1Y6NdM3aM0thXo78ZBcPprdb/YfGLIc87wz3g9XN0avEG31PsIqAm9bmCG+JY9zAtIUkNa9vMJjaNWCEfBUDn4a9ANsWLyn7w1SZEutT+uGDPRxC0N75r/mvzlMyWRFMDypzfGah1fqlLZRPbF/G9fHQIwZrgHJc22wnftkwdLtDuwm6/+ZjTn0HquLUoLQaf2YROmCyjVbjqRY47Bt3toy+wwyqZdMw37ekFxTp8BgSRCAZFlCvbF+1xpA16HUvZDTJOwl58sMumiacTfoJeN+gt9XLQ==;4D4kV/eaQc5cFHxlduX6Pw=="
+secured: "gWzOacMllmZx0Ne44YscsgRfzxQGr1F6SCTc1F9vORl8+fabvYPrNctvTZL/4S5ajijqtfVk+qY2gZZ1aOFC5YcoRTMNm3pVqOcsvONC+4uCUDkf331eNHx3lPO49QE0LzEg+IkAq/cFiApKqFLiDyViQ9G5q0bicuMMi5P2xhjDhL1P4yn2NrrqL/uHNj9Pf3St2O+czovPtoZkw4vBqAqvniWDoU25+a4DV4Mbnjpx/7+xIu3JpoCWRaxnfIWe0C5L2qduUIqA07kVifL0bACkjo2eK8QtEV0Mqj95XenCIq6kyPD7zYk84ag8rLuI/QKaoP8pstO3TSa6PbBc8Q==;etFwjZeJrrAUI0Qvp14HPA=="
 ---
 

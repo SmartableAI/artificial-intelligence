@@ -57,20 +57,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "On Facial Recognition, the U.S. Isn’t China—Yet"
-    excerpt: "Facial recognition software has recently attracted scrutiny for its adoption by some police departments across the United States. Very few U.S. states and localities have laws to adequately protect against abuse of the technology."
-    publishedDateTime: 2020-06-18T12:01:00Z
-    webUrl: "https://www.lawfareblog.com/facial-recognition-us-isnt-china-yet"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 39
-    images:
-      - url: "https://www.lawfareblog.com/sites/default/files/Security%20Photo%20duPont%20Article.jpg"
-        width: 1600
-        height: 1071
-        isCached: true
   - title: "Racist practice of phrenology rears its lumpy head in facial recognition tech"
     excerpt: "We'd like to think judging people's worth based on the shape of their skull is a practice that's well behind us, but echoes of it can be found in new technologies"
     publishedDateTime: 2020-06-20T22:15:00Z
