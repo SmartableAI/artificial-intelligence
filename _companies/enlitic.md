@@ -2,7 +2,7 @@
 name: "Enlitic"
 overview: "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy."
 type: "profile"
-heat: 64
+heat: 18
 
 website: https://www.enlitic.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "enlitic"
   url: "https://twitter.com/enlitic"
-  followers: 4842
+  followers: 4843
 
 size: 11-50 employees
 yearFounded: 2014
@@ -48,6 +48,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "okkzDTR8sUss9f48+8zTIAdTaGTBh/9MSY0X9PJMEtA0UrnXfyMHqVHNaxHylUreoM8XfX0Gy87XE/pFW+b6FgqDsmxpAOFBO+v0bFlxKB1MpP7aYXh2nYLrOC/X4GhjBVGGYhtjywMFnHkjMGQKLG3M+Mf1WDe1wbabaXg+WhQ6mLX/j12Hz2Xg/NYbw/qvhxN4DZpGRPhT0oyhlKkODXQw5pWyklZPcVwoeRrNKZ+Xb4XD7nLCYUZQ1/rygAfMWW7XwGAwSRbZEbDTGJq3JmEcVF7pGDmRtHTH8wmpQoxiCD881vIRSSzVOE2rQVoEzAFRxomrQmvPLI+pTvFIKO882XntmaeDPkAbDOxwfFygLYE87UoqaCHh6J5piA6W;/c38ejgOhaLFX0y+/LhRdw=="
+secured: "+KHevM19HQ5Y7vbkiooskMwu5NsEcyc8kQeSsAqbMOlS3UCpvPA8UfW5tgujHuLgs6lZ7wRm1K5f2/gu5Ejgk+vyF+8xh0aFJzdkuWWU4ZLFKxSco6Bl7LVkLmluTRYjbi/f1Xer0BWtx8/Va6Wp3JxoefncD7P9BzNOT9jEsMyVpBYcSymCH0mceLffYE/dcMd19H+wZCZgp4fv/jKeN4YKgi2hrA28AT756mQ4h3xpeAuw03Zkx+SmNeK/DrGCKm5hiT4/wgyBC8DXRgI9CHS4xlH+bWwKlfXMFPNTRNj/4O6eAKPgXhz6mQg4WfvhwSk3zubjA62OWSIsoAaF6UBGXC96IA2uFOmrEqO7lrU9YsO4WgHtJOZ1aIa2ImGu;L1vTO3gGLmIZjI9cdZ0b2A=="
 ---
 
