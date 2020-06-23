@@ -1,13 +1,10 @@
 ---
 category: news
 title: "Artificial Disc Market Study: An Emerging Hint of Opportunity | Alphatec Spine, Stryker, Globus Medical, Orthovita"
-excerpt: "Free Sample Report + All Related Graphs & Charts @  The artificial disc is a device that is implanted into the spine to imitate the functions of a normal disc (carry a load and allow motion). It is of two types including lumbar artificial disc and cervical artificial disc."
-publishedDateTime: 2020-06-07T06:20:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-disc-market-study-an-emerging-hint-of-opportunity-alphatec-spine-stryker-globus-medical-orthovita-2020-06-07"
+excerpt: "Jun 07, 2020 (HTF Market Intelligence via COMTEX) -- AMA Research have added latest edition of survey study on Global Artificial Disc ... care and/or physical therapy. Important Features that ..."
+publishedDateTime: 2020-06-07T06:56:00Z
+webUrl: "https://www.marketwatch.com/press-release/artificial-disc-market-study-an-emerging-hint-of-opportunity-alphatec-spine-stryker-globus-medical-orthovita-2020-06-07?mod=mw_quote_news"
 type: article
-quality: 32
-heat: 32
-published: false
 
 provider:
   name: MarketWatch
@@ -28,6 +25,6 @@ images:
     isCached: true
     title: "Artificial Disc Market Study: An Emerging Hint of Opportunity | Alphatec Spine, Stryker, Globus Medical, Orthovita"
 
-secured: "YJgXrE1Dr5OXfcrj9xAH2ipg0OR2A13udw0XWnV8JlNq1eASx9QXOwSfyzv+L0XSWpQP0SV8IpJGCn6bJ+aL/LiHJ78+fa1kBfhWDn8rIpOAh8zPnyn+ltGtYoO9z5XtdnfdmNOS0X/5do0/nFd2JqIKQJKgMRvmHFTGCa3XjElDYb5B6Q1ENF/E3eEfmf02kvWTXg7aecRQ8aBkedJC0M4EO1gxvIOOMmwEJuCeRZz9jAIqpAZXVn2aPH1OJTCGpReBdtoqYSt9zmMXyWLbiXIUi8PUYg3T5vSHk+NKyDjzl9/on7lvCS7VrhpFzzAD;RK4VKuLPXcD4FnxUUHG4JQ=="
+secured: "DBI0zJMAwMsGEk6uqcHkWj3VKBneWdP3zbBE9U48E0auSYGwjRiDacQI/jGasypek8seIiSFlyK0tA40Em3KtBb9AJIgSVPOYvXo0yXYGK6Jgho6drcnJH5i9pZMfoz18zvEkILQYgken9KSiC4YcE8wMfPIRZvQ/cTp4VfzzN16J1wRnH1JxGekb4H0h9VWClQ+b6dThyBhSOvrtDMbwYBysMBFtgtCR3AgFJ/oZTPzytElQSqSqPtLYt5fY08Y3UTHj3NS+0QLanJkl/pHcAp1k4vPAemVHz0ey28NnLW99atqGEzPychwJ0iqCjRTlRP0Og9FkPTXSJMdyr9++w==;XjC6GI2ipfy+owlJeXUXWw=="
 ---
 

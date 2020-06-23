@@ -66,6 +66,20 @@ related:
         width: 1320
         height: 772
         isCached: true
+  - title: "NYCLU sues over Lockport schools' facial recognition system"
+    excerpt: "The controversial facial recognition security system in Lockport schools was illegally approved by the state Education Department, a lawsuit"
+    publishedDateTime: 2020-06-22T23:08:00Z
+    webUrl: "https://buffalonews.com/2020/06/22/draft-nyclu-sues-to-revoke-state-approval-of-lockport-schools-facial-recognition-system/"
+    type: article
+    provider:
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg"
+        width: 2000
+        height: 1500
+        isCached: true
 
 secured: "MlCqv/N7VjOvdEtso9JdQOcu3Cz+Xp/QVe/oOn9TUyNZPdDk6XfI7PTlP27v/achzsyXFaIgYG+oATtGjN9fH82CIQClal8MLq9mD8rH4AVL+wHQ5J6ItHfgk8oZkZiB6FL3Ba9ml14Wr0jlOVVj8u/aUdJLOrA1pIs6L3LjTqAlI8jR6uhKRDQ8KYHE5boqqQXb14+3RV7tCa6XxeJ5sSnoDemxJJp7P8mzSgVWqgFovuSm/qFIaIVAECs13zzDCg7sCPQp6FAPDM7uTAypf0iDMPtWd1sm77V83g+x7+Kn1xVPqvLew1ElO8uNyI8SiKZ1bd0ElaINBY7S9gGpmA==;7yRJ5trnjqyA5TQfHRksAg=="
 ---

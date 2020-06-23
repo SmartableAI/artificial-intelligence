@@ -25,23 +25,39 @@ images:
     title: "At WWDC, Apple debuts new updates to iOS 14, watchOS 7 and more"
 
 related:
-  - title: "iOS 14 serves up major updates for Siri, Messages, Translate"
-    excerpt: "Apple, unsurprisingly, led its WWDC 2020 press conference with the announcement of iOS 14. In the next version of Apple’s latest operating system, we’ll see some improvements to Siri,"
-    publishedDateTime: 2020-06-22T17:46:00Z
-    webUrl: "https://www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/"
-    ampWebUrl: "https://www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/amp/"
+  - title: "Apple iOS 14: the top new features coming to the iPhone"
+    excerpt: "Widgets used to be an afterthought in iOS, but starting with iOS 14 the company is changing course and making them a lot more data-rich and customizable. These can now have multiple sizes, and it looks like Apple has"
+    publishedDateTime: 2020-06-22T22:19:00Z
+    webUrl: "https://www.techspot.com/news/85725-apple-ios-14-top-new-features-coming-iphone.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/85725-apple-ios-14-top-new-features-coming-iphone.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85725-apple-ios-14-top-new-features-coming-iphone.html"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
+      name: TechSpot
+      domain: techspot.com
     quality: 74
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/Apple_Events_-_Special_Event_Stream_-_Apple-25.jpg"
-        width: 2372
-        height: 1332
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-22-image-24.jpg"
+        width: 1248
+        height: 857
+        isCached: true
+  - title: "WWDC 2020: Everything to know about iOS 14 and how it takes cues from Android"
+    excerpt: "Apple is also bringing a feature from its macOS, which runs on the company’s laptop and desktop computers, to the iPhone.On iOS, users will be able to see how many home screens they have from one spot and hide some of these,"
+    publishedDateTime: 2020-06-22T18:41:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/wwdc-2020-everything-to-know-about-ios-14-and-how-it-takes-cues-from-android-11592850616364.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/wwdc-2020-everything-to-know-about-ios-14-and-how-it-takes-cues-from-android/amp-11592850616364.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/wwdc-2020-everything-to-know-about-ios-14-and-how-it-takes-cues-from-android/amp-11592850616364.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 41
+    images:
+      - url: "https://images.livemint.com/img/2020/06/22/600x338/iOS_1592850862096_1592850869734.jpg"
+        width: 600
+        height: 338
         isCached: true
 
-secured: "B/p9tyljrBQ/Xts9r8E8ilYTy2hhBEmKNZRTugaOb8xk19GSSlgcH6LX/td+qNywLS1tDAQ1aZS26SbO5JpmQK9gMWKovTo1w/RCFpljIPP0pclCVOwEA8zKX0v93hevzGCxxP9m8Y06EGGvPZdHOB/VEXkN9swpnqH7DQdTm4SGp+1y5Vfwz2ado4EIw3dccbeCICDuEoOXW/iCBz17YJnnIPeaMobzvD07Eu453kw1jocMnJmvGG2aq9h/mmSY1fVN7WBM8gHwOBbFySvDK7C9cJ00CHxa6F6RtKLrbUBS1svSBSEZoK5/PrXRkC15T5gfRIF3bcmfIuYLubWvMw==;BKi0M/hf2ZzaVN5m+HBdeA=="
+secured: "0e5TERWJ9BDQ1jPJTl7N8dJOjObK//DYmZ1L2Y5R/8EthnXjfIwtu/Aogl8JsYkjzl+kyg4BrbTxLECUWilRuehre80qTMMbf++shXFON5mogiG8LkxxKHoMPErMA525KNfH+skdCsrj7Rr3ZJYkNJFmiw0WCrUmCDzMDWAJMe2FzN7qwNQPcB6LN08FrlQonwIUqox9o4F8gYy0rEdYyajPRwOBE6dtcxV0xgylYCrGW2j5oYfbb7uefbykS60CxLIFR7Y2Uag9jsEj3yuQVRYLeF/c3Zy4+46+57S4NxeAcwLf23EYTY6X9ps927Hw4DihpWtGEuJDppyJLig+A8Otx1fKXX2KeCT1vmb+DqIV2UTE+f1oK6gMqhEhyKYxYZxu1PrO8wCMmfHnaLFumGQpua6iuxRWzdQw20tyhOquonE/DywyAmXX6uFqSJDqw7YlKTqLK4/beNivcKKv3xWe1J7Poxvr11rDgqMXK4Z03FTNHGzCSpMWRxilhqSLfnO1FHP24ELgqbB4rQzYBQ==;kgFBHesmkfWJwFKMt2BbNQ=="
 ---
 

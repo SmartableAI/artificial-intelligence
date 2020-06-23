@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "AWS and Pindrop named in voice biometric data privacy lawsuit as cases test liability limits"
 
-secured: "l3E/b768h0v5UmHOt4t1SEhMaBwIIWkwX/twp9q4FnenE17r972JIp9Ks8/8EcvfkyYIIXjMTj1fL+6pt31NlsmvJjRIMjmdBuNMOQkG+DO8sUwtWlzYhcFft+cjg8Z9VhUXs/udLUyCV+P7jQ8Kvg7UMHrWiLPgMsJ+QnKzFl/1hWrmmluGolWrmB3R344uFQ6vvJ8UMQW4+mpXU65Xb7bpfYecLImgSAbC7P/vTE9iZ10PUmZwjE8UVr70IXWVkkpiNsOY4NMCNuMHKLfRmvNDgLX0JbjPRBToCXduUoQ1D/6LQBVhkSpiYnKJdITBY2X9GB1IRSuYu/fBuLwAWw==;gxSGQzM4reqaZrLJYfl8Aw=="
+secured: "PpJ1Z6rM7eI/xeeoeGTS+zwWlSVCe2qQ+jgd/yO0W6yoOYighyjsQKzJ4LLChhT2QHl+Nzf6l2SIz4JiZTNlfOA5GcQWAqjccaBRJ+nBXdm9+foKTuchwaObcstjozWf7w8AH9QaWf3AQ/MP24VbprrPZYJfn7lNiHSM8VSbRu3lSOOJEWefz6W2OD3yLdKmVfs6b80Z3+hhFvUWp1fCqr8WSJ+3eKgn4ikGPh1fjpl8MYn4U/jYgmgcoX3k3Y7na8BJe380ytxtXZ3XiL8faXmjpuExXH4AVDUhSkhjJOu/puoEKfMRtwd1DecW7V3PMxgUOsc9dPMrIPUhW/y73oJm2zu/ZphBuycMWOh1o/rVAvzExYdH36iSj8bjh7As5sn+D8xK00lReQpfygoWOZoasa+Wd8OuwDoudnhAcqYfvNGKpPaTir6utWLPTTnfv/LSlrNOpIj3akxgjPCBLeT0rCsD32ctfCzsMVfe4RYaq/Q/g1sCSPjB7S8cOwmrlqqI/6Y0Q2Tx/gq3AuvaKA==;6j0TJlhbK3XHNdElN1ezGg=="
 ---
 

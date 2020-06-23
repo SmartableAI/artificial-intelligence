@@ -39,34 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence As A Service Market Size- Detailed Analysis of Current Industry Figures with Forecasts Growth By 2027"
-    excerpt: "Selbyville, Delaware the newly Added research report at Market Study Report titled \"2019-2027 Global Artificial Intelligence As A Service Report\" provides data, information, brief analysis, company profiles,"
-    publishedDateTime: 2020-06-18T05:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size--detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2027-2020-06-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Smart Office Market Methodology, Emerging Trends and Forecast By 2025"
-    excerpt: "The world is moving at a rapid pace towards automation of labor. Artificial Intelligence and Internet of Things are"
-    publishedDateTime: 2020-06-18T06:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/smart-office-market-methodology-emerging-trends-and-forecast-by-2025-2020-06-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Analytics Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
     excerpt: "Selbyville, Delaware Market Study Report adds Global Cognitive Analytics report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends, companies active in the industry and forecasts for the coming years."
     publishedDateTime: 2020-06-19T05:20:00Z

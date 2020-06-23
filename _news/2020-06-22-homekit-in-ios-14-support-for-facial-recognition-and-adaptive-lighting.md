@@ -8,7 +8,7 @@ ampWebUrl: "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-f
 cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
+  - title: "NYCLU sues over Lockport schools' facial recognition system"
+    excerpt: "The controversial facial recognition security system in Lockport schools was illegally approved by the state Education Department, a lawsuit"
+    publishedDateTime: 2020-06-22T23:08:00Z
+    webUrl: "https://buffalonews.com/2020/06/22/draft-nyclu-sues-to-revoke-state-approval-of-lockport-schools-facial-recognition-system/"
+    type: article
+    provider:
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg"
+        width: 2000
+        height: 1500
+        isCached: true
 
 secured: "yucx++QDsx7xqyqIhIqbhpGETUzpJpdcMvCxwgOcXLAcHTTQDX/A33zLCXsUXsLnP869Bpn87+Mr7Cf8NzGmAExHi9FrzbMSaIW/njQJkzbpVAVPj8VBDKT4fOLB7i53hp29V7gWQ/apmXrDE7ziSZK+V94739JlnLq+L/edyyn8+wjuXNaxIWm6vDPCygf+XF7TCQEBUYEV5H79GuUVos2rTIzkadH26GoCwTjfaWI8ULLhAHV2LZAZTLIhMR9HaezP35wJ7D1eAXoC3mprdcRTnttCCDhACkO/D+BdQbREIo2wcEoYHgjDrJApRoYPB7a2TXGLIe4+xbwy2n0heP+5bpsawhOWnoYxxznxSqpKDtvd0zDkX7fKqyxliA6ZP4ZC6C7ujz1uH/mfsikDeapFhcGkTWdSPpdftOSqJP4iOwk7MvRevDPwGcbd+v14yzByY7P6wzY+JO/+oHHAnTOLEfwbCpIXKQP+QVPvmlHKovzsddMFoLijxl2V/5ED;gZnP+uqUjkF8zOPFZnVveA=="
 ---

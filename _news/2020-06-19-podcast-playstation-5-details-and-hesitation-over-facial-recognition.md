@@ -73,6 +73,20 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
+  - title: "NYCLU sues over Lockport schools' facial recognition system"
+    excerpt: "The controversial facial recognition security system in Lockport schools was illegally approved by the state Education Department, a lawsuit"
+    publishedDateTime: 2020-06-22T23:08:00Z
+    webUrl: "https://buffalonews.com/2020/06/22/draft-nyclu-sues-to-revoke-state-approval-of-lockport-schools-facial-recognition-system/"
+    type: article
+    provider:
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg"
+        width: 2000
+        height: 1500
+        isCached: true
 
 secured: "MvOs9La+6ZgH84vxQLZxOwCHg/Fa1KpGn75LFQj2d0NdJwWUiuRiNKiLVjWOTpyT5LT1aw6NbIXx82dT5KX5xnwf9AYSdOdyxuT8idI+UJjR6mCw3F0J2vUZjI9a3bTt1AXEp+D/1qxQwZiGB9zQSuYXC0znbC7IrO+gQ7c9SHRhOikTRU7ECfPQvDY3WDSCR/gpfsgVvdvrvqAdYLSgrLnNkxb208tajH9/jOm6Ls4MFh3uTMaerHA29THI2TlI5jGFCpSo8PThfIUZtuVBltOFTiPEXOT7si86d4YhONP80+Pvrs1ZCC6j2SDvWcdcij/8wkvsB+y5w6nT/Mwp9uMyaKFirmfCDtubmL+jKkxRTNZi1GtE/KO5XUL1bnYObZPQCTK+fuUKcbe9k6vgErfeiX2w64rkiOkejTy9T6N8pWMhPDpC14ewpA948GfZy92gdH3auTW7xIXOLTpV4zA8Fc+6qGWEba3aRJ4+SlfaPyB8PbVEylKY9JfxjqM/UkB5zZ96vYRSR0uhbKTWjg==;mczg/mB3VVnO8Ct5aJlAlA=="
 ---
