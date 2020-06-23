@@ -2,6 +2,145 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-23-salesforce-adds-einstein-ai-to-trailhead-online-learning-platform.md",
+      "title": "Salesforce adds Einstein AI to Trailhead online learning platform",
+      "excerpt": "Einstein Recommendations for Trailhead will bring Salesforce's AI software to the company's online learning platform.",
+      "webUrl": "https://www.techrepublic.com/article/salesforce-adds-einstein-ai-to-trailhead-online-learning-platform/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/23/32d6a54f-228e-42c5-9f22-8a6b32193d86/resize/350x/4349083879114a263a0675e37307a77b/em3vj1fkjdyxil6xh0ht.png",
+          "width": 350,
+          "height": 350,
+          "title": "Salesforce adds Einstein AI to Trailhead online learning platform",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/salesforce-adds-einstein-ai-to-trailhead-online-learning-platform/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/salesforce-adds-einstein-ai-to-trailhead-online-learning-platform/",
+      "publishedDateTime": "2020-06-23T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-appen-75-of-employees-believe-ai-is-critical-to-their-business.md",
+      "title": "Appen: 75% of employees believe AI is critical to their business",
+      "excerpt": "In a survey conducted by AI data services company Appen, 75% of employees said they considered AI critical to their business.",
+      "webUrl": "https://venturebeat.com/2020/06/23/appen-75-of-employees-believe-ai-is-critical-to-their-business/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Appen: 75% of employees believe AI is critical to their business",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/23/appen-75-of-employees-believe-ai-is-critical-to-their-business/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/appen-75-of-employees-believe-ai-is-critical-to-their-business/amp/",
+      "publishedDateTime": "2020-06-23T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-huawei-aims-to-certify-1000-engineers-with-launch-of-singapore-virtual-ai-academy.md",
+      "title": "Huawei aims to certify 1,000 engineers with launch of Singapore 'virtual' AI academy",
+      "excerpt": "Chinese tech giant launches virtual academy in Singapore offering 140 free online courses in artificial intelligence, 5G, cloud computing, and big data, and aims to certify 1,000 engineers in the country by end-2021.",
+      "webUrl": "https://www.zdnet.com/article/huawei-aims-to-certify-1000-engineers-with-launch-of-singapore-virtual-ai-academy/",
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/14/7b6afd0a-aa57-4c89-b458-1aca5b5509b4/thumbnail/1200x675/854dcc2b357b2ed2d2cb2d74c957c826/governance.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Huawei aims to certify 1,000 engineers with launch of Singapore 'virtual' AI academy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/huawei-aims-to-certify-1000-engineers-with-launch-of-singapore-virtual-ai-academy/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/huawei-aims-to-certify-1000-engineers-with-launch-of-singapore-virtual-ai-academy/",
+      "publishedDateTime": "2020-06-23T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push.md",
       "title": "How Cloud And AI-Powered Data Insights Are Helping F1’s Digital Push",
       "excerpt": "F1 Chief Engineer Rob Smedley explains how and why the sport is unlocking the power of historical and real-time data to engage new and existing fans.",
@@ -363,7 +502,7 @@
       "title": "HomeKit in iOS 14: Support for facial recognition and adaptive lighting",
       "excerpt": "HomeKit will soon be able to automatically change the color temperature of your lights throughout the day, as well as tell you who’s waiting on your doorstep.",
       "webUrl": "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.html",
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1003,136 +1142,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-azure-iot-business.md",
-      "title": "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business",
-      "excerpt": "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,",
-      "webUrl": "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/",
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1175327728.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/",
-      "publishedDateTime": "2020-06-22T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-lemonade-ipo-its-all-about-ai-artificial-intelligence.md",
-      "title": "Lemonade IPO: It’s All About AI (Artificial Intelligence)",
-      "excerpt": "The company is trying to upend the traditional insurance market. And yes, growth has been strong in advance of a likely Lemonade IPO.",
-      "webUrl": "https://investorplace.com/2020/06/lemonade-ipo-its-all-about-ai-artificial-intelligence/",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/12/insurance-audit.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "Lemonade IPO: It’s All About AI (Artificial Intelligence)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/06/lemonade-ipo-its-all-about-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/lemonade-ipo-its-all-about-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-06-22T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-the-impact-of-artificial-intelligence-on-influencer-marketing.md",
-      "title": "The Impact Of Artificial Intelligence On Influencer Marketing",
-      "excerpt": "Not long before, New York-based influencer marketing agency Amra & Elma had developed a platform that ingested data from Instagram, and allowed its client to use AI image classifiers to find very specific influencers.",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/22/the-impact-of-artificial-intelligence-on-influencer-marketing/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1171685700%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "The Impact Of Artificial Intelligence On Influencer Marketing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/22/the-impact-of-artificial-intelligence-on-influencer-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/22/the-impact-of-artificial-intelligence-on-influencer-marketing/amp/",
-      "publishedDateTime": "2020-06-22T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

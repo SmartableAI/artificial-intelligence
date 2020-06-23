@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-s
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
 type: article
 quality: 72
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thenewswheel.com/wp-content/uploads/2019/09/car-accident-1995852_1280-1000x580.png"
         width: 1000
         height: 580
+        isCached: true
+  - title: "BMW Takes Self-Driving to the Next Level"
+    excerpt: "It’s the point at which you get to call something a self-driving car. BMW’s system—no proper marketing name yet—will debut on the iNext, an all-new, all-electric production vehicle modeled on the 2018 iNext concept, an exuberantly futuristic take ..."
+    publishedDateTime: 2020-06-23T20:05:00Z
+    webUrl: "https://www.autoweek.com/news/technology/a32852529/bmw-takes-self-driving-to-the-next-level/"
+    ampWebUrl: "https://www.autoweek.com/news/technology/amp32852529/bmw-takes-self-driving-to-the-next-level/"
+    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp32852529/bmw-takes-self-driving-to-the-next-level/"
+    type: article
+    provider:
+      name: Autoweek
+      domain: autoweek.com
+    quality: 44
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/p90321870-highres-bmw-vision-inext-ext-1592930565.jpg?crop=1.00xw:0.754xh;0,0&resize=1200:*"
+        width: 1200
+        height: 603
         isCached: true
   - title: "China deploys self-driving cars to deliver foods; disinfect places in the streets"
     excerpt: "As a way to reduce the spread of coronavirus, China, according to Mashable, is using self-driving vans called Hercules to deliver foods and disinfect streets."

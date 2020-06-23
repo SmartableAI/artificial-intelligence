@@ -7,8 +7,8 @@ webUrl: "https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-
 ampWebUrl: "https://www.theverge.com/platform/amp/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias"
 type: article
-quality: 80
-heat: 80
+quality: 97
+heat: 97
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn.vox-cdn.com/thumbor/GLeIAWEwxhvIP7CfZ4nkm6zKe0o=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/13762264/fake_ai_faces.png"
@@ -30,6 +31,6 @@ images:
     isCached: true
     title: "What a machine learning tool that turns Obama white can (and can’t) tell us about AI bias"
 
-secured: "ZA5NQww8S5+5qmwrVOkwxp/kGnap0u/Og6umOadCcJ3Lk3VecMz2zuPBTw4luAJS8T4aLodZ5u7PEL6yz6mvghs7Zpzxw8ZpScH800rGOgv8WbD95TK4/9gfg5v82yVbHm1di98k3LfL4R7+D5qU8yAcKWU0DRjXIN1pDu1TekbaeLXMLaorGkSneSJ8PYNsrxyNTOYVSA85hBmonJDR9W0/V21M+r/jwCE9aEjbrCfhP50avvh/6hAANgdQvkU4bZnxlKe8fS7xLLbZD3ZrYPAllgSFF+64E8BzjjTj9EgqKbtBzWPsMQev+QaYPythrTKqlU+mvMOotHtdZmZOog==;t/rV5t6HsKdJsRzvTDxHzw=="
+secured: "G7jIGOnsNSE/x4y3U2USxJHmKH5kk7TRX+m/CLD/y2wTbtjI5Te+4L+UgjoSbjrTsOePCN4UaMUjnip+7ZkHxyX/AUtCqewdnT/n7YcpbVTBK+/bBgnFRhtVwPsk690y0pKnR8I/BZCc6II6ZW79yafSpsw4IA4Et987NYPMjQY+9yQMpIM6T8g+b/DDcYWNEq/MVVKiDRFD28jXNxOyu5Is8Ck7LAx0/ae0GpoOx2me+8Hfv6ge3X86Fv3LhDwLSsxqvN1DN+ve/9ZD2pUS8OzZle5hMW+JWPGXxUWiP4beHfHcqxvCFhM+6v0nOiFf/6fAc9/pghYJaturpoffdHcC05gCGnV18xrRYNXTwa1y2YwmQt6VVYWQdOFyK3f1tgq8mGS0Mptbp8I4X6jt0bHYWYdI/gIuVu7aInmpmZuqJsnT13WnrvfZy4cVHT8r3JKtWttkhRGp9KgGJjUvJhl+k84n+CbxoAnlwOJTDO/jh/LmxrRBmMcF+qs4xqXz6AqCqqFy4/KBsOPh2S7dMA==;2thHlQCGlsEcOYu+ggWcgQ=="
 ---
 

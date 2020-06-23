@@ -2,6 +2,174 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-06-04-10-ways-enterprises-are-getting-results-from-ai-strategies.md",
+      "title": "10 Ways Enterprises Are Getting Results From AI Strategies",
+      "excerpt": "AI pilots are progressing into production based on their combined contributions to improving customer experience, stabilizing and increasing revenues, and reducing costs.",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/04/10-ways-enterprises-are-getting-results-from-ai-strategies/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed905490fee5e0007449f0d%2F0x0.jpg",
+          "width": 1199,
+          "height": 709,
+          "title": "10 Ways Enterprises Are Getting Results From AI Strategies",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/04/10-ways-enterprises-are-getting-results-from-ai-strategies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/06/04/10-ways-enterprises-are-getting-results-from-ai-strategies/amp/",
+      "publishedDateTime": "2020-06-04T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-autonomous-vehicles-wont-make-roads-completely-safe-study-says.md",
+      "title": "Autonomous vehicles won’t make roads completely safe, study says",
+      "excerpt": "DETROIT A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error. Auto safety experts say humans cause about 94% of U.",
+      "webUrl": "https://www.seattletimes.com/business/stud-autonomous-vehicles-wont-make-roads-completely-safe/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seattletimes.com/wp-content/uploads/2020/06/urn-publicid-ap-org-33be3ab29cc4ea2f46f027378f423010Autonomous_Vehicles-Crashes_96424-300x207.jpg",
+          "width": 300,
+          "height": 207,
+          "title": "Autonomous vehicles won’t make roads completely safe, study says",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/stud-autonomous-vehicles-wont-make-roads-completely-safe/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/stud-autonomous-vehicles-wont-make-roads-completely-safe/?amp=1",
+      "publishedDateTime": "2020-06-04T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-a-tale-of-two-lines-changes-in-customer-support-with-the-growth-in-artificial-intelligence.md",
+      "title": "A Tale Of Two Lines: Changes In Customer Support With The Growth In Artificial Intelligence",
+      "excerpt": "Customer support is changing. Some people claim it means customer support personnel will disappear while others say AI will enhance what the customer service people do. To both, I say “yes.”",
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/06/04/a-tale-of-two-lines-changes-in-customer-support-with-the-growth-in-artificial-intelligence/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed90450d3f5a6000627e3ca%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": "A Tale Of Two Lines: Changes In Customer Support With The Growth In Artificial Intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/06/04/a-tale-of-two-lines-changes-in-customer-support-with-the-growth-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/06/04/a-tale-of-two-lines-changes-in-customer-support-with-the-growth-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-06-04T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-riiid-ai-study-to-be-presented-at-edm-2020-proves-students-more-engaged-by-deep-learning-algorithm.md",
+      "title": "Riiid AI study - to be presented at EDM 2020 - proves students more engaged by deep-learning algorithm",
+      "excerpt": "And deep learning affords such engagement. Prescribing deep attentive score prediction attracts improved student engagements The paper \"Prescribing Deep Attentive Score Prediction Attracts ...",
+      "webUrl": "https://www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2020/riiid_study.jpg?itok=LlzkEVFY",
+          "width": 763,
+          "height": 509,
+          "title": "Riiid AI study - to be presented at EDM 2020 - proves students more engaged by deep-learning algorithm",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm?amp",
+      "publishedDateTime": "2020-06-04T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-andhra-pradesh-to-use-ibms-watson-ai-for-coronavirus-information.md",
       "title": "Andhra Pradesh to use IBM's Watson AI for Coronavirus information",
       "excerpt": "The Andhra Pradesh National Health Mission portal has integrated the IBM Watson virtual agent to help the residents quickly get answers to their queries about Covid-19. The chatbot is designed to understand and respond to common questions about Covid-19 in English,",
@@ -82,6 +250,44 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
+      "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
+      "excerpt": "June 4, 2020 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O Driverless AI integration ...",
+      "webUrl": "https://www.prnewswire.com/news-releases/h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption-301070623.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/681933/h2oai_Logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-04T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -641,35 +847,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
-      "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
-      "excerpt": "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ...",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-03-facebook-creates-shopping-data-sets-to-make-more-humanlike-chatbots.md",
       "title": "Facebook creates shopping data sets to make more humanlike chatbots",
       "excerpt": "In a preprint paper, Facebook describes data sets and a basic framework for AI assistants that recommend fashion and furniture items.",
@@ -892,184 +1069,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-how-google-is-using-emerging-ai-techniques-to-improve-language-translation-quality.md",
-      "title": "How Google is using emerging AI techniques to improve language translation quality",
-      "excerpt": "Google Translate is quantifiably improving across 108 languages thanks in part to new AI and machine learning techniques.",
-      "webUrl": "https://venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "How Google is using emerging AI techniques to improve language translation quality",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/amp/",
-      "publishedDateTime": "2020-06-03T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor.md",
-      "title": "LightOn researchers explain how they trained an AI model on an optical co-processor",
-      "excerpt": "In a new paper, researchers at LightOn managed to train an AI model on an optical chip and achieve over 95% accuracy on a popular data set.",
-      "webUrl": "https://venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/AI_winter-e1591205079457.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "LightOn researchers explain how they trained an AI model on an optical co-processor",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/amp/",
-      "publishedDateTime": "2020-06-03T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-arrow-mclaren-sps-off-season-overhaul-runs-deep.md",
-      "title": "Arrow McLaren SP's off-season overhaul runs deep",
-      "excerpt": "The most detailed changes to the team formerly known as Arrow SPM won’t be found on the race track. In the blended houses of the outfit founded by Sam Schmidt, co-owned by Ric Peterson, and",
-      "webUrl": "https://racer.com/2020/06/03/arrow-mclaren-sps-off-season-overhaul-runs-deep/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://racerdigital.files.wordpress.com/2020/06/1018012927-lat-20200212-cantrell-20-cota-1024.jpg?w=1000&h=576&crop=1",
-          "width": 1000,
-          "height": 576,
-          "title": "Arrow McLaren SP's off-season overhaul runs deep",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-03T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Racer",
-        "domain": "racer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort.md",
-      "title": "Caltech AI lab optimizes exoskeleton gait for human comfort",
-      "excerpt": "Caltech researchers supplemented a lower body exoskeleton with AI that optimizes gait recognition for human preference and comfort.",
-      "webUrl": "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/caltech.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 618,
-          "title": "Caltech AI lab optimizes exoskeleton gait for human comfort",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/amp/",
-      "publishedDateTime": "2020-06-03T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

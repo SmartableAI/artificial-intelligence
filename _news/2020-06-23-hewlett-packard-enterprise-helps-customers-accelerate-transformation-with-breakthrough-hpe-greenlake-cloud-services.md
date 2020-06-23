@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 603
         isCached: true
+  - title: "Hewlett Packard Enterprise introduces new HPE GreenLake cloud services"
+    excerpt: "HPE now offers cloud services for containers, machine learning operations, virtual machines, storage, compute, data protection and networking."
+    publishedDateTime: 2020-06-23T20:28:00Z
+    webUrl: "https://www.geekzone.co.nz/content.asp?contentId=23272"
+    type: article
+    provider:
+      name: Geekzone
+      domain: geekzone.co.nz
+    quality: 24
+    images:
+      - url: "https://cdn.geekzone.co.nz/imagessubs/25117d222c110ed4c1f83fc6f1aa57a3.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "G8kCzGd7Tx5zDNWYQelYya9DA0yHupeZPlZAVX85A+3eMBC1pJ7gIWfaeoAdt4/DNjDAaTe5ex5SyYTO4ybSSnkW9sKLqNZI9SjEDQ557J2Bwth5jGGvYqcQAHP069Z81iuGvGtVviqv4qVAwYsLzSTcI6lY7O/arv9B7UQ99GlT90+m/zmMqbS7eiikvI8GQYL47xONtNkTfAeVLzI0lUfEd4Ita5mNOkkcp6TJJEERirmaSQchK9+KD7idc+lqliyyaKzZwi7eRMFOP9jgBJ42VXr8wk+ISd+sNWGJgrEBorOJ+eqhToRa8gobi51AfXqq+3d4eFvmzqucC089kg==;O4W+vFDbdNyw3xGYkjbEpA=="
 ---

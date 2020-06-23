@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wgrz.com/amp/article/news/education/new-york-civil-liber
 cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,56 @@ images:
     height: 422
     isCached: true
     title: "New York Civil Liberties Union files lawsuit over Lockport facial recognition system"
+
+related:
+  - title: "Facial recognition lawsuit targets NY schools over student privacy"
+    excerpt: "The New York Civil Liberties Union is suing over a $3 million facial recognition system installed at the Lockport City School District."
+    publishedDateTime: 2020-06-23T20:58:00Z
+    webUrl: "https://www.cnet.com/news/facial-recognition-lawsuit-targets-ny-schools-over-student-privacy/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-lawsuit-targets-ny-schools-over-student-privacy/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-lawsuit-targets-ny-schools-over-student-privacy/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/e0kL3lKVf7lv_j8-aZUZt798TRE=/756x567/2020/06/23/bd9975d1-9066-4f4d-8556-e4458dfb957c/gettyimages-1239553143.jpg"
+        width: 756
+        height: 567
+        isCached: true
+  - title: "Liberties Union Sues New York Schools over Facial Recognition"
+    excerpt: "The New York Civil Liberties Union, which has consistently opposed the system since it was first proposed, sued the Education Department in State Supreme Court in an effort to overturn the approval for the system."
+    publishedDateTime: 2020-06-23T16:03:00Z
+    webUrl: "https://www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
+        width: 927
+        height: 626
+        isCached: true
+  - title: "UK’s facial recognition technology ‘breaches privacy rights’"
+    excerpt: "South Wales police accused of using system with ‘racial bias’ that breaks data protection law Notices displayed by the Metropolitan Police notify the public of the use of automated facial recognition cameras around Whitehall for the Remembrance Sunday ..."
+    publishedDateTime: 2020-06-23T16:28:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/8e6e98b9bdc1c7e71fbcc4fc0b52022b9c2b43d4/0_170_5138_3084/master/5138.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6e67cf17a849c14a6238c590ede46efc"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "gA00XBN4xlgMSfDmcaQXnIN+z0Frs0uErsbHFmmfsih6Qa91FUBsSEz0n5QRvK+QFUXaA58ZZUCD+MNM5tzOfBgHj0ri4urmrOSPMJfRXdBusEaF+pksu8GeYSA+TjU1YL0qn39L/eZWgiF5M2vqAVGgPwS0x0REFrf2GixfY6mnzZPgDPhPMl01yBjidM1A0nxU5IEyosn/0H30pRB1MSqZpUYktwgUw4S1HZ95Q/CtxNMGPBu6dC3WX1GEzM7J4iCePzKseIpEsY9SYlLs25Ficg9UveDbwWGy20J3mDaoMfDFicbvsZ9rvcyP/t4pJEqt+Tslul1xaG4R4BssEgtbakEcL2BRQ6rmrnxAkAD7mokFlz8t7N9OOXsR1c5+Xbc2qubKAzYWDezJpC8WZhc98/gviBJP8VP4KB/GvMVLB+mhDEfnv08VNMVYHWrhkVIjttEQORpwHl28HNR3TeTSdBOhRUjCIpa9+Jq9JF3CwkEvGr5sPMPi+WWp3ebvgUw2+H8HPb5IABum6SWzdw==;m/oFLYrV/Hd0SNCC3+V2EA=="
 ---

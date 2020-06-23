@@ -25,24 +25,6 @@ images:
     isCached: true
     title: "'Artificial: Remote Intelligence' Episode 4: Show raises 5 important questions we all need answers to"
 
-related:
-  - title: "'Artificial: Remote Intelligence' Episode 4: What is Lilith's true purpose, is it something dangerous?"
-    excerpt: "Lilith's predecessor Sophie had to be shut down because she developed a homicidal turn. Perhaps that's the key to Lilith's mystery"
-    publishedDateTime: 2020-06-19T04:57:00Z
-    webUrl: "https://meaww.com/artificial-remote-intelligence-season-3-episode-4-lilith-sophie-purpose-directives-mystery-dr-lin"
-    ampWebUrl: "https://meaww.com/amp/artificial-remote-intelligence-season-3-episode-4-lilith-sophie-purpose-directives-mystery-dr-lin"
-    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/artificial-remote-intelligence-season-3-episode-4-lilith-sophie-purpose-directives-mystery-dr-lin"
-    type: article
-    provider:
-      name: Meaww
-      domain: meaww.com
-    quality: 26
-    images:
-      - url: "https://cheesecake.articleassets.meaww.com/448816/uploads/680ff760-b1e7-11ea-9d8c-13ecd668228f_800_420.jpeg"
-        width: 800
-        height: 420
-        isCached: true
-
 secured: "DDNCTQBpXucD/vuf/8l7UhhyaipLaK9tbc7aY190EmveQhShl5wX3PF3eYXgzACtWyRUIiXxN2irNKGGq/jzhE40c2CQps08OS1fdav/h1EWLAuOJBE51qPcQax3+HJPgOfX+JdUErfCtzvIyG3us44Yff6kKfbKWOuVXm94ctnCGkNK4cC6au7mU4S3/qxapDAfHZyoTDQURJhWgYX4vvgsJA7lFl4pw2gpd6pVjwpxGLEgcAufTqW1RU2aovifTAGUZkMPg7zIxXcXdUgbhJhs8pvhTVntpbyaaBW4rHzkCJFSk2A6Olnm2eth4yEkn0+m51/h0mM5KCjy+eNibQ2x1+lLywQE0ekL41MnfngopLXR/lKPFBuiVLhcnmpzg+8wTjXBgXGdP3j2aDmdtxVB04rDDhH93oE4OwSz39srN/th1+cgZv0PWbK23VUmr6XIG1Gj7V92ztXvNg3vG4HJsCkXayyjY1v453b/YQ9W1uiBBdH5fl/QIsut6x8s74uIkAVPCRuLtDswDBBLEQ==;nirC3HMNaQsoOZ9wOAnepw=="
 ---
 

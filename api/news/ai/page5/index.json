@@ -2,6 +2,128 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-18-10-robotics-stocks-on-the-technological-cutting-edge.md",
+      "title": "10 Robotics Stocks on the Technological Cutting Edge",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Robotics stocks offer an attractive source of opportunities for growth",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/10-robotics-stocks-cutting-edge-1029322986",
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/10-robotics-stocks-cutting-edge-1029322986",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/10-robotics-stocks-cutting-edge-1029322986",
+      "publishedDateTime": "2020-06-18T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-warehouse-robotics-company-geek-raises-200-million.md",
+      "title": "Warehouse robotics company Geek+ raises $200 million",
+      "excerpt": "Chinese warehousing robotics startup Geek+ announced it has raised over $200 million in Series C investment, one of the largest rounds closed in the warehousing industry to date. The company continues to remain the most funded warehousing robotics startup in the world with a Series B investment of $150 million in late 2018 and total funding of nearly $390 million.",
+      "webUrl": "https://www.freightwaves.com/news/warehouse-robotics-company-geek-raises-200-million",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/06/geek-plus-robotics-warehouse-dark.png",
+          "width": 1200,
+          "height": 899,
+          "title": "Warehouse robotics company Geek+ raises $200 million",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/warehouse-robotics-company-geek-raises-200-million/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/warehouse-robotics-company-geek-raises-200-million/amp",
+      "publishedDateTime": "2020-06-18T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace.md",
+      "title": "Eskalera creates AI-based Inclusion Index to measure a better workplace",
+      "excerpt": "Eskalera is unveiling the Inclusion Index, a new system for organizing a company that encourages and quantifies an inclusive culture.",
+      "webUrl": "https://venturebeat.com/2020/06/18/eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Esk_Product_Promotion-Ratio.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 677,
+          "title": "Eskalera creates AI-based Inclusion Index to measure a better workplace",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/18/eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace/amp/",
+      "publishedDateTime": "2020-06-18T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-serbian-parliamentary-vote-campaign-taps-greek-beaches-chinese-robots.md",
       "title": "Serbian parliamentary vote campaign taps Greek beaches, Chinese robots",
       "excerpt": "On Monday June 15, President Vučić visited the Center for Robotics and Artificial Intelligence in Education (CRVIO) in Belgrade, holding a public meeting with a humanoid robot made in China, called Ema. They held a conversation in Serbian. Vučić ...",
@@ -701,6 +823,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-18-worker-upskilling-and-innovation-a-key-to-working-with-robots-artificial-intelligence.md",
+      "title": "Worker upskilling and innovation a key to working with robots, artificial intelligence",
+      "excerpt": "Upskilling workers with vital innovation capabilities is key for the future employment landscape, according to a study by Flinders University Professor Giselle Rampersad which also found that for workers of the future to thrive with robots and artificial intelligence,",
+      "webUrl": "https://itwire.com/education/worker-upskilling-and-innovation-a-key-to-working-with-robots,-artificial-intelligence.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/27208dbd1d90ed77d7644abecd22dc82_M.jpg",
+          "width": 375,
+          "height": 346,
+          "title": "Worker upskilling and innovation a key to working with robots, artificial intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-17T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-geek-raises-50-million-more-to-bring-autonomous-warehouse-robots-to-the-us.md",
       "title": "Geek+ raises $50 million more to bring autonomous warehouse robots to the U.S.",
       "excerpt": "Warehouse robot logistics and distribution startup Geek+ announced that it raised a $50 million extension to its series C financing round.",
@@ -1154,185 +1314,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-deep-learnings-climate-change-problem.md",
-      "title": "Deep Learning’s Climate Change Problem",
-      "excerpt": "The “bigger is better” ethos that currently dominates the AI research agenda threatens to inflict major environmental damage in the years ahead.",
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea37fddb3b680006a1e6bc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1024%26cropY1%3D50%26cropY2%3D626",
-          "width": 1024,
-          "height": 577,
-          "title": "Deep Learning’s Climate Change Problem",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/amp/",
-      "publishedDateTime": "2020-06-17T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-chinas-tencent-to-use-facial-recognition-to-curb-young-video-gamers.md",
-      "title": "China's Tencent to use facial recognition to curb young video gamers",
-      "excerpt": "Chinese tech behemoth Tencent has begun to use facial recognition to prevent minors from spending large sums of money while playing endless hours of video games.",
-      "webUrl": "https://www.upi.com/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/9361592407529/2020/1/3a6ff9b53599ae38e5b383e93adcfc17/v1.5/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers.jpg",
-          "width": 800,
-          "height": 532,
-          "title": "China's Tencent to use facial recognition to curb young video gamers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
-      "publishedDateTime": "2020-06-17T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-facebook-open-sources-ai-for-clinical-trial-eligibility.md",
-      "title": "Facebook open-sources AI for clinical trial eligibility",
-      "excerpt": "Facebook researchers open-sourced a family of models that parse, extract, and transform clinical trial data to make it easier to understand.",
-      "webUrl": "https://venturebeat.com/2020/06/17/facebook-open-sources-ai-for-clinical-trial-eligibility/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook open-sources AI for clinical trial eligibility",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/17/facebook-open-sources-ai-for-clinical-trial-eligibility/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/facebook-open-sources-ai-for-clinical-trial-eligibility/amp/",
-      "publishedDateTime": "2020-06-17T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19.md",
-      "title": "Robin The Robot Comforts Kids In Hospitals, Can Help With COVID-19",
-      "excerpt": "“Robin utilized our AI-based patent-pending technology to build peer-to-peer ... and angel investors for conducting the pilots and technology development. Expper plans to start raising seed funding soon “to advance the emotional intelligence technology ...",
-      "webUrl": "https://www.forbes.com/sites/jeffkart/2020/06/17/robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea2e846ef66b00061154d4%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Robin The Robot Comforts Kids In Hospitals, Can Help With COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2020/06/17/robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2020/06/17/robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/amp/",
-      "publishedDateTime": "2020-06-17T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

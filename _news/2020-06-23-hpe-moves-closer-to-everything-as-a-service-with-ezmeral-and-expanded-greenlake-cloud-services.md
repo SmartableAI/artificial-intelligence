@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/hpe-moves-closer-to-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services/"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     title: "HPE moves closer to everything-as-a-service with Ezmeral and expanded GreenLake cloud services"
 
 related:
+  - title: "Hewlett Packard Enterprise introduces new HPE GreenLake cloud services"
+    excerpt: "HPE now offers cloud services for containers, machine learning operations, virtual machines, storage, compute, data protection and networking."
+    publishedDateTime: 2020-06-23T20:28:00Z
+    webUrl: "https://www.geekzone.co.nz/content.asp?contentId=23272"
+    type: article
+    provider:
+      name: Geekzone
+      domain: geekzone.co.nz
+    quality: 24
+    images:
+      - url: "https://cdn.geekzone.co.nz/imagessubs/25117d222c110ed4c1f83fc6f1aa57a3.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Hewlett Packard Enterprise Helps Customers Accelerate Transformation with Breakthrough HPE GreenLake Cloud Services"
     excerpt: "Cloud services for Machine Learning Operations – Through HPE GreenLake ... HPE Ezmeral software portfolio, and backing from HPE Financial Services and HPE Pointnext Technology Services provide a differentiated solution that competitors cannot match."
     publishedDateTime: 2020-06-23T16:11:00Z
@@ -46,6 +60,6 @@ related:
         height: 630
         isCached: true
 
-secured: "KiVJg5TFyi2NEMxhDFuFypQl++ZojM/ToQiDXIu6+tsNVn6KJfHSCCvVEDo0FsM//4ukvEJMFpU17GWHA5r0Mepa3zwGlFlqQWbkcV135A8kZUmCdIe2T+55fDee3TJ0pTOnHxuJU1rw4PO8M26RGPDfgDHkvdyTUDO0WiHyhlxFpQzp15KJE8y66szzJl+vy2nf+4J0908OYYqUljBwN/ggy/Wd9taSg7N/zpHPX1nt5JRBJtjTm0irs1LH1Tni3z9wXiYATgMmnHyFhUFCz/ousXTIZUTNYCJnt1LZ4n464jtvbt6rZXFWHHEVz8J9bk+742J57hZ5jdsDtedq1A==;pJE10wQ21ULseiPKNGIcpA=="
+secured: "0o+u/adj6WphBAKRCzxSOBz4kUeQ396KkCNxr1WMkF4qa8wnJ/WFjWl0nk/lyaGzjmcChtysuFSoiIF+f0aOGluxBrEaLThg6q7I4uc9+8LE4m5Fd0KJXu5A8G9PpN+Zsic66HJ2Hkx9k0QkZ1DJ1mHicdWujGhzIuEJePW3775eUtofItr/S2f0T+BVaPjE0pOcFXzCjgyA9Kz1/wfc5AeeW71y95fHcr/c3NSo1cQJOPPO86PnNyNVCRDDqpAKujmWnOHSs7bk4GEPgeWdkDGNe+ESuyBCjGQ5H39Wj5NTU6rAe41X4CI53YtmLflHasXLyE35jxS92BCg98DoF4ejeLX+FA5AZC9XHlqYQyqo5BpoNaa80qdEgcF8xX/qcD3z2ROj+96i0N4P6hPBBKFLxxRBwJ7gpg8UlfJu4Eso98yutpFdOwAN+U7TI+9uA4vVmOsKn7Gw6ANXraEmPVH8CxshmdX5y0Yzz1XVERuWI4BJh2GAaWorvLWZCFLIpij+9PwlJtLcm9Dq6zqoqg==;UATVvMt6rDuEak93isxUmQ=="
 ---
 

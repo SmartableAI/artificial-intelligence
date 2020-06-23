@@ -98,20 +98,6 @@ related:
         width: 1320
         height: 772
         isCached: true
-  - title: "Protests Shine Light On Facial Recognition Tech Problems"
-    excerpt: "As big tech steps back from facial recognition for police, some AI experts want an end to its use entirely. Here’s why they say reform isn’t enough."
-    publishedDateTime: 2020-06-19T04:13:00Z
-    webUrl: "https://www.sciencefriday.com/segments/ai-equity/"
-    type: article
-    provider:
-      name: Science Friday
-      domain: sciencefriday.com
-    quality: 39
-    images:
-      - url: "https://www.sciencefriday.com/wp-content/uploads/2020/06/surveillance-cameras.jpg"
-        width: 1400
-        height: 1048
-        isCached: true
   - title: "NYCLU sues over Lockport schools' facial recognition system"
     excerpt: "The controversial facial recognition security system in Lockport schools was illegally approved by the state Education Department, a lawsuit"
     publishedDateTime: 2020-06-22T23:08:00Z

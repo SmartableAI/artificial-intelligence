@@ -2,6 +2,186 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-05-28-apple-acquires-machine-learning-startup-inductiv.md",
+      "title": "Apple Acquires Machine Learning Startup Inductiv",
+      "excerpt": "Apple (NASDAQ:AAPL) has acquired Inductiv, a machine-learning (ML) start-up that uses artificial intelligence (AI) to automatically identify and correct errors that may be lurking",
+      "webUrl": "https://www.fool.com/investing/2020/05/28/apple-acquires-machine-learning-startup-inductiv.aspx",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576238%2Fgirl-using-a-smart-phone-voice-recognition.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Apple Acquires Machine Learning Startup Inductiv",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/28/apple-acquires-machine-learning-startup-inductiv.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/28/apple-acquires-machine-learning-startup-inductiv.aspx",
+      "publishedDateTime": "2020-05-28T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-cvs-pharmacy-prescriptions-go-high-tech-with-self-driving-delivery.md",
+      "title": "CVS Pharmacy prescriptions go high-tech with self-driving delivery",
+      "excerpt": "As we continue to sort out life in the coronavirus era, many households are making use of delivery services for things like groceries, baby food and pet supplies. Soon, Houston residents will be able to have their CVS Pharmacy prescriptions delivered with a self-driving car performing the service.",
+      "webUrl": "https://www.cnet.com/roadshow/news/cvs-pharmacy-prescriptions-delivery-nuro-self-driving/",
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/Qys-BncoeEz1nrHHcjhZ7In0SsM=/2020/05/28/c821a1fe-212f-4276-a45f-ec9a873c0758/ogi-nuro.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "CVS Pharmacy prescriptions go high-tech with self-driving delivery",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/cvs-pharmacy-prescriptions-delivery-nuro-self-driving/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cvs-pharmacy-prescriptions-delivery-nuro-self-driving/",
+      "publishedDateTime": "2020-05-28T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations.md",
+      "title": "ACLU sues facial recognition startup Clearview AI for privacy and safety violations",
+      "excerpt": "The ACLU claims Clearview AI \"will end privacy as we know it if it isn't stopped\" and calls the startup a threat to safety.",
+      "webUrl": "https://venturebeat.com/2020/05/28/aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations/",
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/law.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": "ACLU sues facial recognition startup Clearview AI for privacy and safety violations",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/28/aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/28/aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations/amp/",
+      "publishedDateTime": "2020-05-28T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-this-biotech-artist-wants-scientists-to-think-about-their-creations.md",
+      "title": "This Biotech Artist Wants Scientists To Think About Their Creations",
+      "excerpt": "In 2015, artist Ani Liu heard two sentences that changed her entire approach to art: “Digital is dead. Bio is the new digital.” Those words, spoken at a welcome talk on her first day as a grad student at the MIT Media Lab, triggered panic at first ...",
+      "webUrl": "https://www.sciencefriday.com/articles/biotech-artist/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sciencefriday.com/wp-content/uploads/2020/05/ani-liu-1.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": "This Biotech Artist Wants Scientists To Think About Their Creations",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Friday",
+        "domain": "sciencefriday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-natural-language-processing-market-growing-at-a-cagr-210-key-player-ibm-microsoft-google-aws-facebook.md",
       "title": "Natural Language Processing Market Growing at a CAGR 21.0% | Key Player IBM, Microsoft, Google, AWS, Facebook",
       "excerpt": "and BFSI), and Region – Global Forecast to 2024 MarketsandMarkets forecasts the global Natural Language Processing (NLP) Market size to grow from USD 10.2 billion in 2019 to USD 26.4 billion by ...",
@@ -1130,165 +1310,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-ai-weiwei-has-turned-his-most-iconic-artworks-into-charity-face-masks.md",
-      "title": "Ai Weiwei has turned his most iconic artworks into charity face masks",
-      "excerpt": "The dissident artist is hoping to raise at least $1 million for vulnerable and displaced people impacted by the Covid-19 pandemic.",
-      "webUrl": "https://www.cnn.com/style/article/ai-weiwei-charity-masks/index.html",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200528145627-02-ai-weiwei-mask-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Ai Weiwei has turned his most iconic artworks into charity face masks",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-charity-masks/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-charity-masks/index.html",
-      "publishedDateTime": "2020-05-28T00:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-element-ai-announces-collaboration-with-veritas-consortium-led-by-monetary-authority-of-singapore-mas.md",
-      "title": "Element AI Announces Collaboration with Veritas Consortium led by Monetary Authority of Singapore (MAS)",
-      "excerpt": "Element AI, a global developer of artificial intelligence-powered (AI) solutions and software, today announced a new",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/n16124574/element-ai-announces-collaboration-with-veritas-consortium-led-by-monetary-authority-of-singapore-",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16124574",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16124574",
-      "publishedDateTime": "2020-05-28T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-apple-buys-an-ai-startup-to-improve-siris-data.md",
-      "title": "Apple buys an AI startup to improve Siri's data",
-      "excerpt": "Cleaner data would go a long way toward that goal by reducing the chances that garbage information confuses Siri. Apple has been determined to upgrade Siri in recent times, and made waves when it hired Google’s former AI leader John Giannandrea with that upgrade in mind.",
-      "webUrl": "https://www.engadget.com/apple-buys-inductiv-for-siri-data-010651483.html",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F7ac2f8f0-a074-11ea-bb7f-56e2f6f772d9&client=amp-blogside-v2&signature=69523b6c4d75dbaae8e727bede25174d1162dcf2",
-          "width": 600,
-          "height": 350,
-          "title": "Apple buys an AI startup to improve Siri's data",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/apple-buys-inductiv-for-siri-data-010651483.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/apple-buys-inductiv-for-siri-data-010651483.html",
-      "publishedDateTime": "2020-05-27T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-raimondos-husband-moffit-lands-new-job-at-artificial-intelligence-healthcare-company.md",
-      "title": "Raimondo’s Husband Moffit Lands New Job at Artificial Intelligence Healthcare Company",
-      "excerpt": "Rhode Island Governor Gina Raimondo’s husband is departing global consulting giant McKinsey & Company for a Boston-based artificial intelligence technology firm. “PathAI is thrilled to announce our first Chief People Officer,",
-      "webUrl": "https://www.golocalprov.com/business/raimondos-husband-moffit-lands-new-job-at-artificial-intelligence",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.golocalprov.com/cache/images/remote/https_s3.amazonaws.com/media.golocalprov.com/Politics/Moffit_Raimondo.png",
-          "width": 473,
-          "height": 480,
-          "title": "Raimondo’s Husband Moffit Lands New Job at Artificial Intelligence Healthcare Company",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GoLocalProv",
-        "domain": "golocalprov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

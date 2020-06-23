@@ -7,7 +7,7 @@ webUrl: "https://electrek.co/2020/06/23/mercedes-cars-will-be-powered-by-nvidia-
 ampWebUrl: "https://electrek.co/2020/06/23/mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024/amp/"
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/06/23/mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024/amp/"
 type: article
-quality: 88
+quality: 90
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
 
 images:
   - url: "https://electrek.co/wp-content/uploads/sites/3/2020/06/sm_20C0302_04.jpg?quality=82&strip=all&w=1000"
@@ -96,6 +97,6 @@ related:
         height: 600
         isCached: true
 
-secured: "mCCNR00Gbv+Qa/ue2GXPZ5QWWF+yhM47TWYQbKpHqr12DS9eFLwWoDHdRjl4SqeClVJyxQzAdnMAT2JjPrfSnc7jGsQv+nz4SHlEZpkxt8drzVeRInNSknUOThrPAmSq6gZLzrhE4nwhPH+HPmdjGqm0E7WxB1mWfcvRT+mlombDCVBomMiNxDggkzTJvoYerHykW0ad6i0Of1mzqokYWK9bykFEcYbqnF5XrjS2KI8pvk/h7G/21skJOR6XO7bYIP94yZxgP5MdnKPXMBeQCqxwhN3rFPF2AUckxKrKeJ2sFjqKSAtps6djS73UDze7OZMhG6ESOqaQZiTVpy0Svw==;6lxdQa9KHW1y9YrBFUMXVA=="
+secured: "nJh2IJxCCJ4nsG/lYZJ5z3enhzoLDgdzoJEDtpj2jRr1Nfb3dvUf/oKZXbvEUjlvnsZ8NHBl6hOibU0OXbsM224Y/SkHnjipW7bSyRRbpGpz64aeUEb/yXyFHqr4M/647C5CKHIFk3KnSMz7j80bHaAyRIs7L4uDm8fZTbBnosCg+1Nur3b4BMQ0vjbJg+/9HjGL5UbFC8oKKGnjZO4dgij0xazAFPWK+gOnNWtfxYvbsOGlYMK+juajW89oahp59W+TsT8AxzVnBSWPn/XSYU1lmYBB+rkwrvVp9o150jT9OHJX0kqmq9Q+GEwAqiELSJeGPsMAVAT6KxeX2mENELct3VFaMtBrYVqgQDGjsg0KTImnZ6rcd9QVJRlV3do8p70UK3qvXelRlfVlYR6Lvp9XXCbaJ46CXSgpPD9ZE/f8FUkdAy1lBM+o8Q/CIYU39yAEBvARgXNtSRH+tR9HWtnb97D+aHFWDAJ+7sZ/6hPxo0PLh2NeBsyIRGs11AH5125sptTtbU7A6rNgWf7k5Q==;0GNUHKEZ3k2qtslve6A1DA=="
 ---
 

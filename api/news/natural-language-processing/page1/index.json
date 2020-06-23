@@ -2,6 +2,45 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-23-ai-startup-pilots-digital-masks-that-counter-facial-recognition.md",
+      "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
+      "excerpt": "Khan compares the proliferation of facial recognition data now to the Napster-style explosion ... “We will get to a point where there needs to be an iTunes sort of layer, where your face and voice data somehow gets protected,” said Khan.",
+      "webUrl": "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.coindesk.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-23-at-3.18.31-PM.png",
+          "width": 1889,
+          "height": 930,
+          "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition?amp=1",
+      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition?amp=1",
+      "publishedDateTime": "2020-06-23T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinDesk",
+        "domain": "coindesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-facebook-claims-wav2vec-20-tops-speech-recognition-performance-with-10-minutes-of-labeled-data.md",
       "title": "Facebook claims wav2vec 2.0 tops speech recognition performance with 10 minutes of labeled data",
       "excerpt": "In a paper published on the preprint server Arxiv.org, researchers at Facebook describe wave2vec 2.0, an improved framework for self-supervised speech recognition. They claim it demonstrates for ...",
@@ -1243,53 +1282,6 @@
         "name": "GlobeNewswire",
         "domain": "globenewswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-the-best-performing-analysts-are-betting-on-these-5-stocks-right-now.md",
-      "title": "The best-performing analysts are betting on these 5 stocks right now",
-      "excerpt": "As coronavirus restrictions ease and business begins to improve, it could make sense to follow the stock picks of analysts with a proven track record of success. Here we used TipRanks analyst ranking service to pinpoint Wall Street’s best-performing analysts.",
-      "webUrl": "https://www.cnbc.com/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1591230244",
-          "width": 5255,
-          "height": 3402,
-          "title": "The best-performing analysts are betting on these 5 stocks right now",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "publishedDateTime": "2020-06-07T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

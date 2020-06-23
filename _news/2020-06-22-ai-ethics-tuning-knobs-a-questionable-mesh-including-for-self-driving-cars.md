@@ -42,7 +42,7 @@ related:
     provider:
       name: Electrek
       domain: electrek.co
-    quality: 88
+    quality: 90
     images:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/06/sm_20C0302_04.jpg?quality=82&strip=all&w=1000"
         width: 1000

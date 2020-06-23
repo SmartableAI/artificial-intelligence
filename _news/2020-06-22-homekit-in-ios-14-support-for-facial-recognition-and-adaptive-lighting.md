@@ -8,7 +8,7 @@ ampWebUrl: "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-f
 cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/36332-67465-image-(1)-xl.jpg"
         width: 1320
         height: 772
-        isCached: true
-  - title: "Protests Shine Light On Facial Recognition Tech Problems"
-    excerpt: "As big tech steps back from facial recognition for police, some AI experts want an end to its use entirely. Here’s why they say reform isn’t enough."
-    publishedDateTime: 2020-06-19T04:13:00Z
-    webUrl: "https://www.sciencefriday.com/segments/ai-equity/"
-    type: article
-    provider:
-      name: Science Friday
-      domain: sciencefriday.com
-    quality: 39
-    images:
-      - url: "https://www.sciencefriday.com/wp-content/uploads/2020/06/surveillance-cameras.jpg"
-        width: 1400
-        height: 1048
         isCached: true
   - title: "Hry police to launch facial recognition app"
     excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."

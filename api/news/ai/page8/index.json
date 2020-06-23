@@ -2,6 +2,194 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-15-robot-to-safely-swab-for-coronavirus-developed-by-scientists-in-denmark.md",
+      "title": "Robot to safely swab for coronavirus developed by scientists in Denmark",
+      "excerpt": "Danish researchers have developed a fully automated robot that can take coronavirus swabs so that health care professionals are not exposed to the risk of infection.",
+      "webUrl": "https://in.reuters.com/article/us-health-coronavirus-swab-robot-idINKBN23B1PF",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Robot to safely swab for coronavirus developed by scientists in Denmark",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN23B1PF",
+      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN23B1PF",
+      "publishedDateTime": "2020-06-15T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study.md",
+      "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
+      "excerpt": "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday.",
+      "webUrl": "https://in.reuters.com/article/autos-self-driving-idINKBN23B2QM",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN23B2QM",
+      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN23B2QM",
+      "publishedDateTime": "2020-06-15T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-delivering-real-time-racing-analytics-using-machine-learning.md",
+      "title": "Delivering real-time racing analytics using machine learning",
+      "excerpt": "AWS DeepRacer is a fun and easy way for developers with no prior experience to get started with machine learning (ML). At the end of the 2019 season, the AWS DeepRacer League engaged the Amazon ML Solutions Lab to develop a new sports analytics feature for the AWS DeepRacer Championship Cup at re:Invent",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/delivering-real-time-racing-analytics-using-machine-learning/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/09/deepracer-analytics-2.png",
+          "width": 576,
+          "height": 289,
+          "title": "Delivering real-time racing analytics using machine learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T09:48:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-facebook-research-reveals-ai-tools-for-improving-online-clothes-shopping.md",
+      "title": "Facebook research reveals AI tools for improving online clothes shopping",
+      "excerpt": "A trio of Facebook papers show that the company continues to make progress toward an AI fashion assistant for its billions of users.",
+      "webUrl": "https://venturebeat.com/2020/06/15/facebook-ai-ecommerce-cvpr-2020/",
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook research reveals AI tools for improving online clothes shopping",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/15/facebook-ai-ecommerce-cvpr-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/15/facebook-ai-ecommerce-cvpr-2020/amp/",
+      "publishedDateTime": "2020-06-15T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-intel-proposes-hardware-solutions-to-ai-challenges.md",
       "title": "Intel proposes hardware solutions to AI challenges",
       "excerpt": "Intel researchers propose new hardware approaches to AI challenges in a series of papers presented at the Symposia on VLSI Technology and Circuits.",
@@ -1133,185 +1321,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-13-meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station.md",
-      "title": "Meet Arjun, the Robot Who Will Record Temperature of Passengers in Pune Railway Station",
-      "excerpt": "The Railway Protection Force unit of Central Railway has deployed a robot to thermally screen and record temperature of passengers at Pune station in view of the novel coronavirus outbreak, officials said on Saturday.",
-      "webUrl": "https://www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.india.com/wp-content/uploads/2020/06/arjun.jpg",
-          "width": 715,
-          "height": 402,
-          "title": "Meet Arjun, the Robot Who Will Record Temperature of Passengers in Pune Railway Station",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/amp/",
-      "publishedDateTime": "2020-06-13T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-13-facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence.md",
-      "title": "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?",
-      "excerpt": "Because of the advances of deep learning and faster systems for processing enormous amounts of data, facial recognition has certainly seen major strides over the past decade. Yet there is still much to be done.",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/",
-      "heat": 218,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee4fb8ed78e91000737b17f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679",
-          "width": 1200,
-          "height": 675,
-          "title": "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-06-13T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-13-aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence.md",
-      "title": "AIOps: Artificial intelligence helps build and run artificial intelligence",
-      "excerpt": "The 6 essential building blocks of artificial intelligence for IT operations (AIOps), and why it matters. As cyber threats and the data protection environment evolve, companies are increasingly looking to bring their cybersecurity functions in-house.",
-      "webUrl": "https://www.zdnet.com/article/aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence/",
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/13/c1bbec68-98b3-482c-9627-8f5fe1b342e9/building-path-station-world-trade-center-ny-cropped-photo-by-joe-mckendrick.jpg",
-          "width": 1512,
-          "height": 1676,
-          "title": "AIOps: Artificial intelligence helps build and run artificial intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence/",
-      "publishedDateTime": "2020-06-13T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-13-openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities.md",
-      "title": "OpenAI makes an all-purpose API for its text-based AI capabilities",
-      "excerpt": "If you’ve ever wanted to try out OpenAI’s vaunted machine learning toolset, it just got a lot easier. The company has released an API that lets developers call its AI tools in on “virtually any English language task.",
-      "webUrl": "https://techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?w=1024",
-          "width": 1024,
-          "height": 693,
-          "title": "OpenAI makes an all-purpose API for its text-based AI capabilities",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/amp/",
-      "publishedDateTime": "2020-06-13T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

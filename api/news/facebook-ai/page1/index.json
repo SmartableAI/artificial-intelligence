@@ -6,7 +6,7 @@
       "title": "What a machine learning tool that turns Obama white can (and can’t) tell us about AI bias",
       "excerpt": "This image speaks volumes about the dangers of bias in AI.” But what’s causing these outputs and what do they really tell us about AI bias? First, we need to know a little a bit about the technology being used here.",
       "webUrl": "https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias",
-      "heat": 80,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -45,7 +45,8 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {

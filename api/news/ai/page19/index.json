@@ -2,6 +2,185 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-06-03-cloud-computing-google-signs-milestone-discount-deal-with-uk-government.md",
+      "title": "Cloud computing: Google signs 'milestone' discount deal with UK government",
+      "excerpt": "UK public sector bodies including the NHS will be offered discounted rates for Google Cloud services under a new government agreement.",
+      "webUrl": "https://www.zdnet.com/article/cloud-computing-google-signs-milestone-discount-deal-with-uk-government/",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/15/85d6fa95-3fc9-4009-8c70-c842435cd4fb/thumbnail/1200x675/e0aa90238cb2c7fd3050cbd975975541/google-announces-new-integrated-firstpar-5ebdf6d5a07d36782c1deff5-1-may-15-2020-2-25-42-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Cloud computing: Google signs 'milestone' discount deal with UK government",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cloud-computing-google-signs-milestone-discount-deal-with-uk-government/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloud-computing-google-signs-milestone-discount-deal-with-uk-government/",
+      "publishedDateTime": "2020-06-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-artificial-intelligence-ai-in-healthcare-market-forecast-report-2020-2027-top-key-players-analysis.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
+      "excerpt": "According to the latest report by GMI Research, Artificial Intelligence (AI) in Healthcare Market: Global Industry Trends, Share, Size, Growth, Opportunity, and Forecast 2020-2027. The global Artificial Intelligence (AI) in the healthcare market illustrates the impact of the COVID-19 pandemic and represents that the market is anticipated to bounce back in 2021 over 2020 while growing at a significant growth rate from 2022 onwards.",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-forecast-report-2020---2027---top-key-players-analysis-2020-06-03",
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Healthcare Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-tibco-software-announces-that-spotfire-and-data-science-supports-microsoft-azure-cognitive-services.md",
+      "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
+      "excerpt": "TIBCO announces that TIBCO Spotfire and TIBCO Data Science now support Microsoft Azure Cognitive Services. TIBCO's solutions extend these services to analyse multivariate anomalies and add root cause analysis, using input from the Key Phrase Extraction ...",
+      "webUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/oilandgas.jpg",
+          "width": 612,
+          "height": 355,
+          "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
+      "publishedDateTime": "2020-06-03T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-bbc-testing-beeb-ai-voice-assistant-with-windows-insiders.md",
+      "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
+      "excerpt": "The Beeb AI assistant aims to help users in the UK by navigating BBC services and access BBC content. There are no plans to build a device to rival Amazon Echo or Google Home, alt",
+      "webUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570815849/itpro/2017/01/voice_assistantbigstock.jpg",
+          "width": 900,
+          "height": 592,
+          "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders?amp",
+      "publishedDateTime": "2020-06-03T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-researchers-eye-embedding-artificial-intelligence-ai-into-war-games-simulation-to-beef-up-challenges.md",
       "title": "Researchers eye embedding artificial intelligence (AI) into war games simulation to beef-up challenges",
       "excerpt": "U.S. military researchers are asking industry to develop artificial intelligence (AI ... Officials of the U.S. Defense Advanced Research Projects Agency (DARPA) in Arlington, Va.,",
@@ -1142,167 +1321,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation.md",
-      "title": "AI System – Using Neural Networks With Deep Learning – Beats Stock Market in Simulation",
-      "excerpt": "Researchers in Italy have melded the emerging science of convolutional neural networks (CNNs) with deep learning — a discipline within artificial intelligence — to achieve a system of market forecasti",
-      "webUrl": "https://scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/",
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Stock-Market-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": "AI System – Using Neural Networks With Deep Learning – Beats Stock Market in Simulation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/amp/",
-      "publishedDateTime": "2020-06-02T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-should-you-be-worried-about-cameras-in-robot-vacuums.md",
-      "title": "Should you be worried about cameras in robot vacuums?",
-      "excerpt": "Robot vacuums can now map your rooms, and some even have cameras. Is this a privacy problem? We break down what to look for and the safeguards robot vacs take.",
-      "webUrl": "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/roborock-s6-maxv-review-1-of-6-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Should you be worried about cameras in robot vacuums?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp",
-      "publishedDateTime": "2020-06-02T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-yandex-reveals-its-fourth-generation-self-driving-hyundai.md",
-      "title": "Yandex reveals its fourth-generation self-driving Hyundai",
-      "excerpt": "Researchers all around the world are working hard on self-driving cars to help people unable to drive themselves to get around and take the roads around the nation and the world safer. Yandex has",
-      "webUrl": "https://www.slashgear.com/yandex-reveals-its-fourth-generation-self-driving-hyundai-02623270/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/yandex-sdc.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": "Yandex reveals its fourth-generation self-driving Hyundai",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/yandex-reveals-its-fourth-generation-self-driving-hyundai-02623270/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/yandex-reveals-its-fourth-generation-self-driving-hyundai-02623270/amp/",
-      "publishedDateTime": "2020-06-02T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-predictive-oncology-completes-acquisition-of-soluble-therapeutics-and-biodtech.md",
-      "title": "Predictive Oncology Completes Acquisition of Soluble Therapeutics and BioDtech",
-      "excerpt": "Predictive Oncology Inc. (NASDAQ:POAI) (the \"Company\") a knowledge-driven company focused on applying artificial intelligence",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16158810/predictive-oncology-completes-acquisition-of-soluble-therapeutics-and-biodtech",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16158810",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16158810",
-      "publishedDateTime": "2020-06-02T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,185 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-17-deep-learnings-climate-change-problem.md",
+      "title": "Deep Learning’s Climate Change Problem",
+      "excerpt": "The “bigger is better” ethos that currently dominates the AI research agenda threatens to inflict major environmental damage in the years ahead.",
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea37fddb3b680006a1e6bc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1024%26cropY1%3D50%26cropY2%3D626",
+          "width": 1024,
+          "height": 577,
+          "title": "Deep Learning’s Climate Change Problem",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/amp/",
+      "publishedDateTime": "2020-06-17T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-chinas-tencent-to-use-facial-recognition-to-curb-young-video-gamers.md",
+      "title": "China's Tencent to use facial recognition to curb young video gamers",
+      "excerpt": "Chinese tech behemoth Tencent has begun to use facial recognition to prevent minors from spending large sums of money while playing endless hours of video games.",
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/9361592407529/2020/1/3a6ff9b53599ae38e5b383e93adcfc17/v1.5/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers.jpg",
+          "width": 800,
+          "height": 532,
+          "title": "China's Tencent to use facial recognition to curb young video gamers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
+      "publishedDateTime": "2020-06-17T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-facebook-open-sources-ai-for-clinical-trial-eligibility.md",
+      "title": "Facebook open-sources AI for clinical trial eligibility",
+      "excerpt": "Facebook researchers open-sourced a family of models that parse, extract, and transform clinical trial data to make it easier to understand.",
+      "webUrl": "https://venturebeat.com/2020/06/17/facebook-open-sources-ai-for-clinical-trial-eligibility/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook open-sources AI for clinical trial eligibility",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/17/facebook-open-sources-ai-for-clinical-trial-eligibility/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/facebook-open-sources-ai-for-clinical-trial-eligibility/amp/",
+      "publishedDateTime": "2020-06-17T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19.md",
+      "title": "Robin The Robot Comforts Kids In Hospitals, Can Help With COVID-19",
+      "excerpt": "“Robin utilized our AI-based patent-pending technology to build peer-to-peer ... and angel investors for conducting the pilots and technology development. Expper plans to start raising seed funding soon “to advance the emotional intelligence technology ...",
+      "webUrl": "https://www.forbes.com/sites/jeffkart/2020/06/17/robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea2e846ef66b00061154d4%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Robin The Robot Comforts Kids In Hospitals, Can Help With COVID-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2020/06/17/robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2020/06/17/robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/amp/",
+      "publishedDateTime": "2020-06-17T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now.md",
       "title": "Qualcomm Robotics RB5 5G AI robots on pre-order now",
       "excerpt": "Qualcomm revealed the “world’s first 5G and AI-enabled robotics platform” in the Qualcomm Robotics RB5 platform. Qualcomm is basically the biggest brand in the tech",
@@ -1196,191 +1375,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-clockwise-raises-18-million-to-optimize-work-calendars-with-ai.md",
-      "title": "Clockwise raises $18 million to optimize work calendars with AI",
-      "excerpt": "Clockwise, whose platform taps AI to optimize workplace calendars, has raised $18 million to grow its products and expand its reach.",
-      "webUrl": "https://venturebeat.com/2020/06/16/clockwise-raises-18-million-to-optimize-employees-calendars-with-ai/",
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/calendar-e1591825433253.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Clockwise raises $18 million to optimize work calendars with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/16/clockwise-raises-18-million-to-optimize-employees-calendars-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/clockwise-raises-18-million-to-optimize-employees-calendars-with-ai/amp/",
-      "publishedDateTime": "2020-06-16T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-ai-model-creates-3d-avatars-from-a-persons-picture.md",
-      "title": "AI model creates 3D avatars from a person’s picture",
-      "excerpt": "An AI system dubbed AvatarMe creates 3D avatars of people from nothing but face images, whether hand-drawn or photographed in black-and-white.",
-      "webUrl": "https://venturebeat.com/2020/06/16/ai-model-creates-3d-avatars-from-a-persons-picture/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/results_preview.gif?w=520&resize=520%2C293&strip=all",
-          "width": 520,
-          "height": 293,
-          "title": "AI model creates 3D avatars from a person’s picture",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/16/ai-model-creates-3d-avatars-from-a-persons-picture/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/ai-model-creates-3d-avatars-from-a-persons-picture/amp/",
-      "publishedDateTime": "2020-06-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing.md",
-      "title": "Amazon's new Distance Assistant uses AI to encourage social distancing",
-      "excerpt": "Amazon said Tuesday it's developed a new artificial intelligence system to help maintain social distancing in its warehouses, and it plans to share the underlying technology for free. Called Distance Assistant,",
-      "webUrl": "https://www.cnet.com/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/",
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/VVtAMDc2hhLaPrj5n2SzE2T5ZH8=/756x567/2020/06/16/1d156dc2-9fad-4065-af55-4c0247ccb4cc/amazon-distance-assistant-image.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Amazon's new Distance Assistant uses AI to encourage social distancing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/",
-      "publishedDateTime": "2020-06-16T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-a-competition-to-identify-bird-calls-using-machine-learning.md",
-      "title": "A competition to identify bird calls using machine learning",
-      "excerpt": "Do you hear the birds chirping outside your window? There are more than 10,000 bird species in the world, and they can be found in nearly every environment, from untouched rainforests to suburbs and cities. Birds play an essential role in nature. They are high up in the food chain and integrate changes",
-      "webUrl": "https://www.blog.google/technology/ai/competition-identify-bird-calls-using-machine-learning/",
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/rwbb_keyword_hero.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": "A competition to identify bird calls using machine learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/competition-identify-bird-calls-using-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/competition-identify-bird-calls-using-machine-learning/amp/",
-      "publishedDateTime": "2020-06-16T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

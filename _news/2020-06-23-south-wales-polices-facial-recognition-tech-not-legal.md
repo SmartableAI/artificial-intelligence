@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53147221"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53147221"
 type: article
 quality: 89
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -76,38 +76,6 @@ related:
     quality: 65
     images:
       - url: "https://i.guim.co.uk/img/media/51f1c62e6ee32c0dca00f78c2729d5d6c269d9d7/0_51_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=71841d5c0bf7e27b56b68064234bd8ee"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Liberties Union Sues New York Schools over Facial Recognition"
-    excerpt: "The New York Civil Liberties Union, which has consistently opposed the system since it was first proposed, sued the Education Department in State Supreme Court in an effort to overturn the approval for the system."
-    publishedDateTime: 2020-06-23T16:03:00Z
-    webUrl: "https://www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
-        width: 927
-        height: 626
-        isCached: true
-  - title: "UK’s facial recognition technology ‘breaches privacy rights’"
-    excerpt: "South Wales police accused of using system with ‘racial bias’ that breaks data protection law Notices displayed by the Metropolitan Police notify the public of the use of automated facial recognition cameras around Whitehall for the Remembrance Sunday ..."
-    publishedDateTime: 2020-06-23T16:28:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/8e6e98b9bdc1c7e71fbcc4fc0b52022b9c2b43d4/0_170_5138_3084/master/5138.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6e67cf17a849c14a6238c590ede46efc"
         width: 600
         height: 360
         isCached: true
