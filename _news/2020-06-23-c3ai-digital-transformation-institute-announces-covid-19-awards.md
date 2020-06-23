@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Princeton faculty members receive grants for COVID-19 research from C3.ai Digital Transformation Institute"
+    excerpt: "By using the computing capabilities of C3.ai Suite and Microsoft Azure Cloud, we expect to analyze large volumes of location data as they are collected and adapt the intervention policy. We will make our research outcomes, including software, non ..."
+    publishedDateTime: 2020-06-23T19:40:00Z
+    webUrl: "https://www.princeton.edu/news/2020/06/23/princeton-faculty-members-receive-grants-covid-19-research-c3ai-digital"
+    type: article
+    provider:
+      name: Princeton University
+      domain: princeton.edu
+    quality: 21
+    images:
+      - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2020/06/20180411_LewisSci-ibrary_DJA_008.jpg?itok=ONNt0pT9"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "ALCMX9TppXqjPJmsF40INjfoC4GEX+GdLx+q9r6tba5lAqbjB6b6VSyOk2RMMYnFe/o+ffIxtOT+Ch3WW8zDlQBTHnPsfRT4wwC0LqDNBgYudAcF4TqMHdq9JQXmhKtEUBp3mx4lAdyou2QQylVIPeREriyTYnlfoNn4K+2Zb4Z3z3228DJWhnZS81iuiC4Z8COVLrxlqCdf72APt/a9kCRxCNvk9rN+Q0HuJrVQI8LOlGM005+/K3mKVY9x6MODVTXNjw38hxd9QJnUY43RKL9c7KMnNdmm3ZrY61Ol7KTK5AQ0YgxY+iW0n4tfn1NjVI7UNSrhIyZWI9veRJJUbQ==;0gdxdsPQMw7ZNutTB7fRrw=="
 ---

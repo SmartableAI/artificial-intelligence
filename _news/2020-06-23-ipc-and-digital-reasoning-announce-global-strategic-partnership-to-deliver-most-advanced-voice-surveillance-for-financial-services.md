@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/352841/ipc_logo_strapline_cmyk_Logo.jpg?p=facebook"
@@ -40,6 +41,6 @@ related:
         height: 450
         isCached: true
 
-secured: "hELgZGuMslDmNoeAOfA38hw0UjnLHJlp60xEM/GFmyXJpUtQOPMV/fVUFNrzqXD11SdWwbWWVzbQF7x23VGr94M6nyDrYvyLYSSe1TQcBnZY8a+ilC0asZT4lZJreHrak0pPW0SKx0EJMFmgBcSE8vIE0PWBmKYKo6kbzastebZ1Bfyym70VsPODstmhxRvEmjSBx7JC+u5m4iC5s7+5c8B4SUMvH9LI3UQ09Szw/VfPS/a7ihPvXw3bvvFRZqpwb/6WUzLf+U77NNsZzXh2LaAyaNgJc+PSGjC6mKnGa01DsjBATmu5jztYYbrHddpCXRkCE51u5hVjhWEt69DvFA==;IjsS4J4CU8uAeJVqssAUMw=="
+secured: "d8dh7vI3CqIgPurov7+LP0f1cSSSPoh/gmND7RTPllhJfr8+Lwm4o8Ir0H4id3Q3CC4v99CLHgucADrE6mexjCj+o+jKAWfmQH1OSxQgTtq0AbbN4axiTtCUVyGIVENnvqOP9kT5lKTofPPRCAlmJ3V8jpoWcnx4IHlkfwx6izqZtAcP8AxseR3jHHfvdttib+h+nAFk2DS3ZD+ZBhrbyGCvqjL8gN3e6NEPT1k1QCHjNLG+23Yq97YQgTDiLZWfeUQKFPA0cWO0VXcTS/sMMyL81Y+/iTezZTXZH+yAeh6MTfs3mhyzGBF67TOzGwmwuWL5BDn61n51QCyIAKlU+jfhw3VtG3TufzWi8eTIU6O252ehVqMWQ522n1kGmlFbsfGmB6EwOFXOQl6/Oq0SaBH4gV+gfvlwVv519YYNHR5I849vHqzIMpPaSpz3ZzTNQOnnMT+GRvBi9JCxTy9wFBSXfmx/e3TsEE0Bn5Wmb/nrpDD2HYRU/nmw3cnyzfaIMhL+izeUcCCjaW48hGF1Dg==;za6BmFu0mvFsS9r6yk/OkA=="
 ---
 

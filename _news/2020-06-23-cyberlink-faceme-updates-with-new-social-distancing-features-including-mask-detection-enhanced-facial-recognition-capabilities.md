@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "CyberLink FaceMe® Updates with New “Social Distancing” Features, including Mask Detection & Enhanced Facial Recognition Capabilities"
 
-secured: "Efl1XBrHfuGDj0KMTGkw1wsqLUh4H+Y8wBycoXKa5/rhAr5RX2vuN0OqArcwVAAMaLZmwRvb1D5LCbZ4dx0z8yqEdGDecP8nCqU5zSYVZqZJMjZ7D+j1fAcmOxz80qjXzgyYTgVMi7LVHWM3DmhRI4Qd5ITjZAuwTsmhuY4cNm1CjiDz0ckMkLg7Eftn6QDkmUSKgH7srtZiVuGKF7AlFpRe4p9b65yXFOe2n1tYrD40mm5/eCJOu+nbXOEAULDDEod1knagZHMTOnQzKmufQc69PNBXHbVcy3YUFV6eP7W/M44Gj7xMqPdRi4keYXAusm16whIdEe7DzlxS5xQyzw==;YvSyJh+FilaBN1lDBz/thw=="
+secured: "kJmdcIWrH2ZEtqtrDpzH4IzsNWkwabo+4xngB8u1Ojwpfs86OZTjnFuZnVYpPJ/u6MuJiypzEVi25jS5s2ivqHn8/oZ9DJIBa8BZR8pfhfAZBFCcbREyIzzBnxqTzuB1jzbwT4eR+hp2XbvUPY0PoDAY5s/X/1Lc5G4Bd/qiM4rtmnVkP+7kx63CKce4V189MMfZINmWqJBxHN18aQmm/qckq/gjC/Gp8wA9Mciv9WaJM+8d2aeJxyXHS39wQE2RnpKMM9i7E5ciSI1kV+KNe+6qtTywg3l1ZvzCWVlZUEEqKY3ARqW+B4im4SUQeiQ+IhpnKy18Zw++PAuPmrgpBBmiSATIlQVJDyw6Dj+ScybI3zCbXGq0/SMk+Z3FOS38RHQTMaBzm4goyFKJ1t/L2Kw+3aBqrVX4WynKPmtnAfc24piSNB0SvDivjp5P0O2Icnkvj3ItbVmszC1b3XvsVBAHUL81760+6bUyKH+3co9UajCTu4g9mKM1LRjo4JXE5CfszxNU7OldYdZGOlh1+Q==;19XmJXyuDOJKXexnhJaI6Q=="
 ---
 

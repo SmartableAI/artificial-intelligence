@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53147221"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53147221"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/51f1c62e6ee32c0dca00f78c2729d5d6c269d9d7/0_51_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=71841d5c0bf7e27b56b68064234bd8ee"
         width: 600
         height: 360
-        isCached: true
-  - title: "Tech giants back off from providing facial recognition to police"
-    excerpt: "Three major tech companies have backed away from their facial recognition programs after long-standing questions about privacy and inaccurate results when identifying people of color."
-    publishedDateTime: 2020-06-19T03:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/tech-giants-back-off-from-providing-facial-recognition-to-police"
-    ampWebUrl: "https://www.washingtonexaminer.com/policy/technology/tech-giants-back-off-from-providing-facial-recognition-to-police?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/technology/tech-giants-back-off-from-providing-facial-recognition-to-police?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 59
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/43f5011/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F64%2F21%2F6694820b4904aa86fc92a9243e7e%2Fwb.Cyber.jpg"
-        width: 2290
-        height: 1322
         isCached: true
   - title: "Liberties Union Sues New York Schools over Facial Recognition"
     excerpt: "The New York Civil Liberties Union, which has consistently opposed the system since it was first proposed, sued the Education Department in State Supreme Court in an effort to overturn the approval for the system."

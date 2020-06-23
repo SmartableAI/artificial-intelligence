@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Universal Knowledge Store on the Way to Artificial General Intelligence"
+    excerpt: "When you hear the term “Artificial Intelligence or AI,” it really refers to narrow AI—a system which may have superhuman “mental” abilities, but only in a narrow area of expertise. AIs now have expert credentials at many games and can find data correlations and patterns that no human mind could ever uncover."
+    publishedDateTime: 2020-06-23T18:43:00Z
+    webUrl: "https://www.business2community.com/business-innovation/the-universal-knowledge-store-on-the-way-to-artificial-general-intelligence-02320936"
+    ampWebUrl: "https://www.business2community.com/business-innovation/the-universal-knowledge-store-on-the-way-to-artificial-general-intelligence-02320936/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/the-universal-knowledge-store-on-the-way-to-artificial-general-intelligence-02320936/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 20
 
 secured: "PJKnGBRIllsN8n759qTAXAV8CPFMeITR9rvS+LswW1ohg8BlJtyn6Z2/G+JNa45noiJmgBb3myL9DMnwr9964jeC1tJ/QSlK3tYlfO46GuoPrw2P7majer6yWHca8BZlMXdqWRTfoojIIxgo8yjm58tnKTmlbOgLcfY6PyxArapUv0pj327ekaGevHsbajEINKT0Fe4ztqZ48w+GOYYiwN8GIt5PhrgwZZrueMuVGGdoMyrtQKdqcK85j5fKqvvjki9c8UhS04aeZ4N2XeBc89q5UP3awRPv+8c+j7EfneMzL4DaOmvteX28ko/iRsKXP5NmoxEPtKrN3FBA2YfMasxHd+oENtWbAHADi08gPVRs1x+wsy2ewAVfNYglzrTQHaWQMG3avaN4fpucR7v95RoU/kf5CLMulH6rbl00ZBzq69CAcTEW7JwNNQ9QxZ8u1oGBAEcd1WdGhG8ZqjqtaEZ1DkS3FHZzRB7rVYgqQL5lRRrQDgpvsSR7/NuFQaS+SEPrwpr0ueL7E5TsEv/Wjg==;VgI1QoCsGMlNFt/BYvRK+w=="
 ---

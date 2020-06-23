@@ -95,22 +95,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Tech giants back off from providing facial recognition to police"
-    excerpt: "Three major tech companies have backed away from their facial recognition programs after long-standing questions about privacy and inaccurate results when identifying people of color."
-    publishedDateTime: 2020-06-19T03:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/tech-giants-back-off-from-providing-facial-recognition-to-police"
-    ampWebUrl: "https://www.washingtonexaminer.com/policy/technology/tech-giants-back-off-from-providing-facial-recognition-to-police?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/policy/technology/tech-giants-back-off-from-providing-facial-recognition-to-police?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 59
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/43f5011/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F64%2F21%2F6694820b4904aa86fc92a9243e7e%2Fwb.Cyber.jpg"
-        width: 2290
-        height: 1322
-        isCached: true
   - title: "Liberties Union Sues New York Schools over Facial Recognition"
     excerpt: "The New York Civil Liberties Union, which has consistently opposed the system since it was first proposed, sued the Education Department in State Supreme Court in an effort to overturn the approval for the system."
     publishedDateTime: 2020-06-23T16:03:00Z
@@ -198,6 +182,6 @@ related:
         height: 409
         isCached: true
 
-secured: "64RZHgF+4m3oC9RNNW80qhH1WU3l971YgIRUkEnX3DU/ZA9KR3OdMjvGm14CqMNj6iqqURedN+e07JflLu3pWwrwA258LYq4QAUZl06ZKrKDWDNUySFwyFG2+zu2kWzYmQhVSSdCEifWkxhyMkMFU42tdPnLDy523vW0YK6SyZAEgUP4no1R1AfrdoAIKY1lSv5pt+mrZxLkVUu6Zv/2/j9ipQP/5gHmAmVdcCiganrBTcjpvjAX9sNQrXhkhr9GsUwm/IrIT8Eq0yjG8yEPJPSuSJbx0/Vcj4k7gEp0UUiQwpgiEf0rxGyl6pAsLyfoojHE0Dk64xL2JDAOVMLiDw==;wuVaVLXq6gTWBqsu1jHIRQ=="
+secured: "Xi/lOC2eDEBN1+QBBGrDfhlEB9vQlAY8069pLhaja1LqyXpzJrje2Yj4KEuxvRBvyAtm0NnJZ0i3bVzy2x6PP5EEir6SgxigJ5J7APYU0HyiuRHqHkcVd0zgQql5WNqoq7tKSCMYlZq6qq2jON15TuZ1caioFjSmimwXsJYHOsc52XwW74zrYVdBWid72chPRuqDw6JPobANwivrfxiyjoM3wK/J3f1uWjbCoCptPorF8v/ENyt8h1uv2cqXE1emF8Iai0hGWto2vHRI1zwArOgWJAH/NtXXilKu5EMUIQnxslEmeudIpp3mCeyh1ywWSML7zQaWE/RnNlSE6Dz2cplyQHO+BlBjlkXInFOk5gACaJ2qfiuNrYbsBYFIlQK96c/WJgMQumZYz0PcG6T4kTXHPSUamgjnW1YPCrHGUGzdFu/IhM9A/Ad50ZFx6JwK5z0eJM1n3Fkk0uXkSt4F3ECUdHQlmoLUU/FdLCoDZ0aTUvRK6UX/fafOjtQJbOMOSXYdkURSQiHcgCFfi1ikvw==;5opl3JVfJ4073qr4uwSh2Q=="
 ---
 

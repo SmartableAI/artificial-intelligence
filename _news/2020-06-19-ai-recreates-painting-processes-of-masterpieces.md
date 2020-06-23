@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.iflscience.com/technology/ai-recreates-painting-processe
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/ai-recreates-painting-processes-of-masterpieces/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 405
     isCached: true
     title: "AI Recreates Painting Processes Of Masterpieces"
-
-related:
-  - title: "AI recreates the painting techniques of famous artists"
-    excerpt: "Apart from the virtual history lessons, this could be useful for illustrating general painting techniques to relative newcomers — say, starting from the background and working ‘closer’ to the viewer."
-    publishedDateTime: 2020-06-19T02:46:00Z
-    webUrl: "https://www.engadget.com/ai-recreates-painting-techniques-of-famous-artists-022923128.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F080a74b0-b1a3-11ea-bfa7-b98b6051d4be&client=amp-blogside-v2&signature=5d536120550223598bcf3a3cd34a91546508d565"
-        width: 1200
-        height: 425
-        isCached: true
 
 secured: "uoFJVdLX5V5ja7OpcGSeh2yuF9jxEuQLO9Wbf9rdgFAfbtjtFQKvS7UA9Ws+XvK0tB9hKFxRmxrONoVKO88yB050U06JwsS7O6ycLd5Pq9mDDQKXcJxaLTCiuxrTH71A1i5n1WfbN2imjyXJSScV/1P17TBhz/z3qzlZG0g2ynFD01yVRf9xEIYcdjFMnLQJ+hhWUet4LW7RpqIHlE1Hqm9n3HPqXXK4lkj6Nle4ZOguf6QITQ3XC+h5nQv/CemMD2imwlEAFO4i399MSZyevMM2wFXP+f5mUW+LjZ5AOfdJcTHvitJTdf5oNBQ6LFZ05ybaUxFuCnD2UaiiPFkBw4zbJxWB7WsRqmn8X4J+0OFqVqAluGokRQWBSsrpOkroKCImXAagttiEXMxoLpx5uTy+QfU3R8XIBapff7mWSJgASCN12V/hyLnpaTCrtxTk5yzWDJCgqYn/OBZd3qXNQbDyiesgUxPPhgH1jJC+OcvX460Wavqz56BSR4fcwPCDNH0iDnHEd9Muw5UXyv0wMQ==;mqm6uZbD0om8RyhPC3sHsA=="
 ---

@@ -34,6 +34,20 @@ related:
         width: 810
         height: 460
         isCached: true
+  - title: "Qualcomm Puts AI and 5G in the Hands of Robotics Designers"
+    excerpt: "According to Qualcomm’s press release, the platform features artificial intelligence (AI) and machine learning (ML) capabilities while still minimizing power consumption. This platform has been designed specifically for applications in robotics ..."
+    publishedDateTime: 2020-06-23T18:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/qualcomm-puts-ai-5g-in-hands-robotics-designers/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 69
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/RB5_Platform.jpg"
+        width: 700
+        height: 301
+        isCached: true
 
 secured: "cP2hnG1KToOiXiQNjyIni4vGPQQp3oG3HYYlGNAyeN2ZjEvVcyj4IOaaxJSgZTRI/vCIcLWvidGqAWj3qfHge5N4jt8+ibxkF969y44JqTmnO6As38avUeODP7O8xRZcTA3TYD0TfH8EysYGAaBHAj6R3oonxs01HtJ1IxeuxnGVqZkV4W7ZeeINmAeYYTEKoEapVEUqkvIgNLKw1XhkQK78y8CW+jLyGGORAYullecDH+49jo6SBdjvf7dy7MnV378O9nvlVkbM7O/YkT8YksEZTOSHQE//viPocGlg5XSDQwV+N5GrYApKCu6MrhoyIWAkl+fuE8ZQZx+OmkydvA==;R8+mVn5TfNNHOJb0UvuR+g=="
 ---

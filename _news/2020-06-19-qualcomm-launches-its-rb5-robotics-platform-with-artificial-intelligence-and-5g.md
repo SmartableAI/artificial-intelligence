@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-
 cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     title: "Qualcomm launches its RB5 robotics platform with Artificial Intelligence and 5G"
 
 related:
+  - title: "Qualcomm Puts AI and 5G in the Hands of Robotics Designers"
+    excerpt: "According to Qualcomm’s press release, the platform features artificial intelligence (AI) and machine learning (ML) capabilities while still minimizing power consumption. This platform has been designed specifically for applications in robotics ..."
+    publishedDateTime: 2020-06-23T18:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/qualcomm-puts-ai-5g-in-hands-robotics-designers/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 69
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/RB5_Platform.jpg"
+        width: 700
+        height: 301
+        isCached: true
   - title: "Lantronix Teams With Misty Robotics to Create Open-Platform Robot"
     excerpt: "Misty II Utilizes Qualcomm® Robotics Solutions to Provide Open-Platform Robot Capable of Tasks for Education, Eldercare and COVID-19 Prevention"
     publishedDateTime: 2020-06-22T22:15:00Z
