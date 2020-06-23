@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/23/rasa-raises-26m-led-by-a16z-for-it
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/rasa-raises-26m-led-by-a16z-for-its-open-source-conversational-ai-platform/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Rasa raises $26M led by A16Z for its open source conversational AI platform"
 
-secured: "DNwXB4Y4aY7ifMZFWndsUfh1HqwBbJY3z81p81g6tJnouMzmjzeFGt8jwlwDaePHiIkxP4akrMeZxOGuGdi+q/Yk3dCOkeqYFwmxi9O8y3sztR22EErLakbE/o7+ITjDUWw87HGRIPD9qf96JPOaVMhzOsKRcvOjia3jFTtvwVD9Do5RcUmm4e3d7t9jSRdGH38TufvAy/b08V7jLe17ah3JBZm4aT9JeX2fDCpfSSQkL5j+qx/3SZiNAktFEKCoJG0PXuJ4QHrodDpZn0ZWfD2neVtgU2D2KklvEn+GMwqqCxPBITnIZn407H8y2m3vAiy8San/RsrbT0PLXGIxdw==;tHma6H4JHJrOfDX5HYGOmw=="
+secured: "g7SeSrfaSUbyR1F5tIZI6O02BG0EfrqM8wYax7FvPOI+KCifuRRVCq085a4Ne4fvP81zPOqBnOuqKPK/C7EwTGvGFJ2fDxEjIcA6cBUBBVl4cSGYuFNR11TnMrxYLt0ym5RXP5CoY3mGoaHLR3vEP1LTQhW8x6C6Io1Lnus+0BeM/P5TNNPPOQRB9qlMfrbNA467qc8G/sXReirg7II4oRv69IVZ2YCKoL+O4YbvMaLDy66CdxQeJyGUtgv08Zn3OIO0FYoBfIp7Yf1LFRfBVHXqZ7VsYbDinJzFh8aYAl5Y0tZ2axBgetsyGxzYE/7yNhmBKSMxat//z2g//mri0SgBu6Z2Lk5TKWexuL/RpZzJmSS0DyeUH1pfg/M2zq2OybvzKrj+9ndcxQYq+Cj/1/w+M9CuyLgkEfxoeAUPoOtdNBW42xjcPwbZUZ9jnWfhz5Qzspb+eJjk0QYF0t4nnF8EVBxLacHTcIcMCRV2ZOxveyOijNrzZImgcE/bjriRE+bLiXykoEpgDEJbC2EPHg==;/dg5v5dvVegG0YQ+hMyO6w=="
 ---
 

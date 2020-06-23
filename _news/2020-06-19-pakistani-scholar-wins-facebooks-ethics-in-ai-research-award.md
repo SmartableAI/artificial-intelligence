@@ -91,20 +91,6 @@ related:
         width: 700
         height: 390
         isCached: true
-  - title: "Pakistani scholars win Facebook 'Ethics in AI Research' award"
-    excerpt: "KARACHI: Facebook on Thursday announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Among the ..."
-    publishedDateTime: 2020-06-18T22:36:00Z
-    webUrl: "https://www.brecorder.com/news/1005548"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 56
-    images:
-      - url: "http://www.brecorder.com/_img/social-default.jpg"
-        width: 1200
-        height: 768
-        isCached: true
 
 secured: "u4KnAZBBjT4qmU0CufE1OJ9h+ZfRf6QfAIbNWXc0dKO9fkTkR2hIDeQgB4cfQ0xYKD2eqFNNOcA7qyyrC6ntI3Z2uTte5BwGHujTNW5cKXvKU1aaNbBKINENrP2GiIiVklskk0LqFcX1uHEXDXFZdebRMv5SwUPvlfBxq3068OPt4bbcJLR6UwedUNCAA2qmTUvEFTBHkl02A0GZyY3FX0UDgiia28M6tgAqPojQjBhN5RnoN9L8zbHnGiwRu6VRu9FRnneoDJxnkyLVILfjB7TijGKg9MyGg+pOD1EYHzwxvS3wkk2DGT2cyna5tc4l1vgnalJnj/wVu6Hs83qe//4q1hcdQpTO/Zt2MHxsPy1WQsfUbcQIIJxfv4nzNP57sDOhOR/8b+uzXPuk43ak25kpDVy3zARv8kUmT19hT7i/+oDrMqc4TL1Omas5Q8W/rF4MieOIxoLxjkUapvn9vtihA8o/g6GM4o5iF5c6oQMw4E5spS4q6Desr+6SXfkYIJsIIQdgjMXFH+3cZqzZsA==;XfTusmFFm/LR7Z/D+OiDLQ=="
 ---

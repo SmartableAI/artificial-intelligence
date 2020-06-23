@@ -5,8 +5,8 @@ excerpt: "Facebook AI Research has announced TransCoder, a system that uses unsu
 publishedDateTime: 2020-06-23T13:11:00Z
 webUrl: "https://www.infoq.com/news/2020/06/facebook-ai-transpiler/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://res.infoq.com/news/2020/06/facebook-ai-transpiler/en/headerimage/facebook-ai-transpiler-1592755024195.jpg"
@@ -24,6 +25,6 @@ images:
     isCached: true
     title: "Facebook Announces TransCoder AI to Translate Code across Programming Languages"
 
-secured: "zL7vyZxf0IoG3bRetzgfAApjlOoSZFFbhbfjUbkI32XVlDW+U1K+dkSj6kB6N2ngxQ4FWJlZFPagiAo3E9jLqZ79E3dkglM+bWO2XjdAPFCjBTzQe9lX6TDsR4QfLZKWQSCDM7G+gAVEAPs5is+PC39tZsTZBhdE03U/2bXeqUav9HC33dnO4SuDI+r7DKuXW3Zps/SDdeCGm76SWk0Cxff2DxUbHDdXCgyaJXnA4sTIlCDi9Hg2xPF4OpE+B66fftWgUNjGpPjYKYF52Oih6DBTflD/zXm5kLYO7L4WTZ2qHxyY1IwDx3LsNhTnCFFG6T6DqvwUp5rA+Z/jGPlEbQ==;tfT73V3NZD6W0v7ZTha12Q=="
+secured: "xniBB5aVZv3cVoS1fuyduJODrTFLzX98KkUi4lQfDEhbi4iL8V5JJrW8Kcl0JePdAJNcvYYPGiKt/UTdheTsQUdFQTYyEdgyferUhvwg7fcQEczZOiROSk0PdBqda7U1pTYxyiTqsoW+6GfQa94TQAnSG72zNclTMvlTFB5uHExH3bzm5xkOotgL9k+P/JGwJlO+damwliaeXi8k7V9fXhNutJAM8QuQp6yA5yhFHJonGArNixBn92CyDnbZHLxdibNaMCJ8ohvPtDpCu8yS7/N3ANpf+KcXnWuJ1pRuQ/PxtbL5ZqzJ4nYuv76iwNnzA6KVROwk5wfjsDHfC+SjEnJJn8Bp+2Ai+xYrqSkUnwUGvXfHcYLeITMbnDkZLuTFPYGiqeb5h3XjRrlYno6POUABWyZHPe8+CpdE7FbAyGFW3JOyRzWCCHQ9xtgiYdksRbPQm2NyToGtwMDMsSz1977ejNa+wudIaFwBJaOxpWKFKPDxBIh9zGhAX9F/BwWUPWAYjEJ6pCCe2+pLusLLNQ==;8vkW4POA9tE/pQdREZlPnA=="
 ---
 

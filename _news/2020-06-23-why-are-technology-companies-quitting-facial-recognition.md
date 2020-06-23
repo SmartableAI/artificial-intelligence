@@ -8,8 +8,8 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/amp/"
 type: article
 quality: 89
-heat: 149
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,22 @@ images:
     title: "Why Are Technology Companies Quitting Facial Recognition?"
 
 related:
+  - title: "South Wales Police's facial recognition tech 'not legal'"
+    excerpt: "He said it is the potential use of the facial recognition powers, not actual use to date, which was the issue. \"It's not enough that it has been done in a proportionate manner so far,\" Mr Squires said."
+    publishedDateTime: 2020-06-23T14:05:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-53147221"
+    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53147221"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53147221"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6C70/production/_107006772_facialedbridges.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Big Tech juggles ethical pledges on facial recognition with corporate interests"
     excerpt: "The careful wording of public pledges leaves plenty of room for oppressive uses of the technology, critics say."
     publishedDateTime: 2020-06-22T20:13:00Z
@@ -46,6 +62,22 @@ related:
       - url: "https://media3.s-nbcnews.com/j/newscms/2019_23/2857426/190514-facial-recognition-ces-ew-624p_9901ee6159e029067bc24200074b6e00.fit-560w.jpg"
         width: 560
         height: 373
+        isCached: true
+  - title: "Victoria police distances itself from controversial facial recognition firm Clearview AI"
+    excerpt: "The force says it has discontinued using the service and the technology was deemed unsuitable"
+    publishedDateTime: 2020-06-19T09:08:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2020/jun/19/victoria-police-distances-itself-from-controversial-facial-recognition-firm-clearview-ai"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2020/jun/19/victoria-police-distances-itself-from-controversial-facial-recognition-firm-clearview-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2020/jun/19/victoria-police-distances-itself-from-controversial-facial-recognition-firm-clearview-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 65
+    images:
+      - url: "https://i.guim.co.uk/img/media/51f1c62e6ee32c0dca00f78c2729d5d6c269d9d7/0_51_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=71841d5c0bf7e27b56b68064234bd8ee"
+        width: 600
+        height: 360
         isCached: true
   - title: "Tech giants back off from providing facial recognition to police"
     excerpt: "Three major tech companies have backed away from their facial recognition programs after long-standing questions about privacy and inaccurate results when identifying people of color."
@@ -63,22 +95,6 @@ related:
         width: 2290
         height: 1322
         isCached: true
-  - title: "New facial recognition device that takes temperature comes to Orangeburg"
-    excerpt: "Orangeburg County says it is all about safety, and they are taking no chances in keeping their residents and employees safe during the pandemic. The county has received a new facial recognition and human temperature scanning device."
-    publishedDateTime: 2020-06-20T07:25:00Z
-    webUrl: "https://www.wltx.com/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
-    ampWebUrl: "https://www.wltx.com/amp/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
-    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
-    type: article
-    provider:
-      name: WLTX19
-      domain: wltx.com
-    quality: 58
-    images:
-      - url: "https://media.wltx.com/assets/WLTX/images/8aefd0c1-22ee-471e-bae7-44aa717f47a7/8aefd0c1-22ee-471e-bae7-44aa717f47a7_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Opinion | The futile withdrawal of facial recognition software by Big Tech"
     excerpt: "This technology is bound to proliferate regardless of flaws as it’s being pursued by such regimes as China’s for surveillance"
     publishedDateTime: 2020-06-22T16:21:00Z
@@ -94,6 +110,22 @@ related:
       - url: "https://images.livemint.com/img/2020/06/22/600x338/oped4_1592841609461_1592841617392.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Police use of facial recognition 'disproportionate', landmark court case hears"
+    excerpt: "The use of automated facial recognition will “radically change” the way Britain is policed, the Court of Appeal has heard. The technology, which scans large groups of people i"
+    publishedDateTime: 2020-06-23T14:21:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/06/23/police-use-facial-recognition-disproportionate-landmark-court/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/06/23/police-use-facial-recognition-disproportionate-landmark-court/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/06/23/police-use-facial-recognition-disproportionate-landmark-court/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 55
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/12/27/197890686_PA_Ed-Bridges-legal-action_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RQJ6Ra64K3tAxfZq0dvIBJw.jpg"
+        width: 2880
+        height: 1800
         isCached: true
   - title: "Racist practice of phrenology rears its lumpy head in facial recognition tech"
     excerpt: "We'd like to think judging people's worth based on the shape of their skull is a practice that's well behind us, but echoes of it can be found in new technologies"
@@ -117,6 +149,22 @@ related:
       name: Times LIVE
       domain: timeslive.co.za
     quality: 36
+  - title: "Shopper who brought the world's first court challenge over police use of facial recognition technology has taken his fight to the Court of Appeal"
+    excerpt: "A man whose picture was taken while he was out Christmas shopping in Cardiff and was the first person in the UK to bring a court challenge over the police's use of facial recognition has taken his fight."
+    publishedDateTime: 2020-06-23T11:03:00Z
+    webUrl: "https://www.walesonline.co.uk/news/wales-news/ed-bridges-facial-recognition-police-18470114"
+    ampWebUrl: "https://www.walesonline.co.uk/news/wales-news/ed-bridges-facial-recognition-police-18470114.amp"
+    cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/wales-news/ed-bridges-facial-recognition-police-18470114.amp"
+    type: article
+    provider:
+      name: Wales Online
+      domain: walesonline.co.uk
+    quality: 22
+    images:
+      - url: "https://i2-prod.walesonline.co.uk/incoming/article17202824.ece/ALTERNATES/s615/0_WNS_210519_Facial_Recognition_Court_Case_07JPG.jpg"
+        width: 615
+        height: 409
+        isCached: true
 
 secured: "85w6Mp+26AcCrqkscf8QNRp16NBC2hpK+sT4FjgK1+dJUcxsIEdt+IGGQx/nMPOFVBMewNVShjeBhJGA4Bl9lhwAWoNbCjdYu5jazvlgTltrFSjenEJVJNhJFFjCLbs4+BErDY97BYcbc3WZr+ZcLwsWFbHDvR2zFA8YM2gCDjjctg6mbnVz9+PnljrOOyhEDsAqQOcdPtkutCujxEa/u1UrAdYC3K/Wl/2NIwvEnwSl6ZaZ7e0LkUI9Mkh1IAIXiO2kb/behaNIzhEp184+E2EP5eTilOrEOIjalmXhnSzOmpzw1VeIsyBzXX9NAQqbsfcib+GJKK2WFuL84huxP1gwvY5tulr4Lew75j4EjUsOXb9GNxY+90kdPy5ndT6zorAaFFbIiR2egfnDo7l+ZaDyydORQn5o9LWrp5GIv3S+q/ok6AyjhiwlefPp+I2Mfnb57jw9MExA6y6QdkIBCOldic3FKMPwhT7EmLeQ4R9x2lIgQ227HI5FHEtDCb7wJZy7rWmZFRBoUTU9AiIbHA==;48/M3bE/TE89r6rLjWDGsA=="
 ---

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-
 cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/amp/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: BGR
@@ -27,50 +27,15 @@ images:
     title: "Qualcomm launches its RB5 robotics platform with Artificial Intelligence and 5G"
 
 related:
-  - title: "Qualcomm launches 5G, AI-enabled robotics platform"
-    excerpt: "Qualcomm Technologies released the Qualcomm Robotics RB5 platform ... fifth-generation Qualcomm AI Engine that delivers 15 tera operations per second of artificial intelligence (AI) performance for running complex AI and deep learning workloads."
-    publishedDateTime: 2020-06-18T22:44:00Z
-    webUrl: "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/"
-    ampWebUrl: "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/amp/"
-    cdnAmpWebUrl: "https://www-gpsworld-com.cdn.ampproject.org/c/s/www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/amp/"
+  - title: "Lantronix Teams With Misty Robotics to Create Open-Platform Robot"
+    excerpt: "Misty II Utilizes Qualcomm® Robotics Solutions to Provide Open-Platform Robot Capable of Tasks for Education, Eldercare and COVID-19 Prevention"
+    publishedDateTime: 2020-06-22T22:15:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2020/06/22/lantronix-teams-with-misty-robotics-to-create-open-platform-robot-/15401/"
     type: article
     provider:
-      name: GPS World
-      domain: gpsworld.com
-    quality: 89
-    images:
-      - url: "https://www.gpsworld.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-Development-Kit-W-300x274.jpg"
-        width: 300
-        height: 274
-        isCached: true
-  - title: "Qualcomm 5G and AI robotics platform delivers for Industry 4.0 and drones"
-    excerpt: "Its new Robotics RB5 platform featuring its QRB5165 robotics processor enables artificial intelligence (AI), machine learning (ML), heterogeneous computing, enhanced computer vision, multi-camera concurrency while supporting industrial-grade temperature ..."
-    publishedDateTime: 2020-06-18T21:19:00Z
-    webUrl: "https://www.embedded.com/qualcomm-5g-and-ai-robotics-platform-delivers-for-industry-4-0-and-drones/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 70
-    images:
-      - url: "https://www.embedded.com/wp-content/uploads/2020/06/Qualcomm-robotics-schematic.jpg"
-        width: 681
-        height: 501
-        isCached: true
-  - title: "Nvidia launches Mellanox AI platform for data center resiliency"
-    excerpt: "AI and UFM Telemetry platforms follow the acquisition by Nvidia of the Israeli networking vendor Mellanox. The latest additions apply AI to learn a data center’s operational and network workloads, drawing on both real-time and historic telemetry and workload data."
-    publishedDateTime: 2020-06-23T09:20:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-launches-mellanox-ai-platform-data-center-resiliency/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/nvidia-mellanox-ufm-cyber-ai-plat.2e16d0ba.fill-1200x630.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 34
 
 secured: "kzkrNQkpdDCKWCBoXRIv4GUmO/sVFNOPPeCZub6CM5VLQa9ZkDUcFwtrmsw59nwNWBthQqilFmRFUu9kWKT81a51vkbernvBeeLtOhI0T9Wiv3ODBG25lUnDku0ZUGlnnnrkxYMBDUZujmRcJ0ZHW4iWyvTiebiP5anYnXcdLOehshjYZkEZdaFGOj8JOD0OAXq5ESZBjllVViOo3GUnMjstLIKahpynfP6IP4jPvAUeeHVp6imRgm8RhDMPuJfAgXBP6hIaOCw53HaZhLADxHDdy781rv0zWpS//x8Nz7YPdZ9xCeNpFfgjs4/5yJx9pDeGJG6hwb1CH3EGR2vqYo8Pcx+55uNqP1PEXfay1q0jokxquMwg6aKiOdjdedSvYfN7ilAD6wAjgN1Z4538svfh+jXv94qqK3Q+2BESKVJziisB1q2dYsMlkg55X7EvULD4ycwMIvryP0T+iOZCR2D5OQ2a6rH2Dn80EAkJRtCAlh4LC2PcdXC5vedo2vkuU9kRkY33Ga6dBgtfzRzfuw==;L+YAshbUxkIOrSunFV+1/g=="
 ---

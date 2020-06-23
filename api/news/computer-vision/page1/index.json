@@ -2,33 +2,33 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-06-23-why-are-technology-companies-quitting-facial-recognition.md",
-      "title": "Why Are Technology Companies Quitting Facial Recognition?",
-      "excerpt": "These companies are reacting wisely to the potential for bias and the potential abuse of this technology in law enforcement. Let's examine three main issues related to the use of facial recognition technology in law enforcement: bias,",
-      "webUrl": "https://www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/",
-      "heat": 149,
+      "path": "_news/2020-06-23-south-wales-polices-facial-recognition-tech-not-legal.md",
+      "title": "South Wales Police's facial recognition tech 'not legal'",
+      "excerpt": "He said it is the potential use of the facial recognition powers, not actual use to date, which was the issue. \"It's not enough that it has been done in a proportionate manner so far,\" Mr Squires said.",
+      "webUrl": "https://www.bbc.com/news/uk-wales-53147221",
+      "heat": 179,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef0efa98548c80006be6f69%2F0x0.jpg%3FcropX1%3D262%26cropX2%3D633%26cropY1%3D0%26cropY2%3D371",
-          "width": 372,
-          "height": 371,
-          "title": "Why Are Technology Companies Quitting Facial Recognition?",
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6C70/production/_107006772_facialedbridges.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "South Wales Police's facial recognition tech 'not legal'",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/amp/",
-      "publishedDateTime": "2020-06-23T03:05:00-07:00",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-wales-53147221",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53147221",
+      "publishedDateTime": "2020-06-23T07:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "BBC",
+        "domain": "bbc.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

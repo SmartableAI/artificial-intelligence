@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Global Artificial General Intelligence Market 2020-2025 - General Purpose AI will Create a Positive Feedback Loop for the IoT Market - ResearchAndMarkets.com"
 
-secured: "eXIaJQmRaXqMAb+sy3Qm8OC1DG4tcAV/2AUrEEaQ01xxMhZ+2FWEHSVqHUYg0acsl2KkTqzhvVk6CKjxoiFwgUk44t/y3feCNtGkZ00yzXuDZ9ys910FS2ithhUdtIP2Kd/gTNyUVWgQ4942vDtRV9MVdhkAfuyY5GGK6Tw+g3IvNz/2Fu190KoLp8ZbzmLL9nvNbM+P4XhAGn/+9e1h4VsW9i5oEfRGhUh4oW2NLZXKWffsmGNRzhE0w+OOULK2p48gEpJcVke2rlsAFXV/dqsUFsDRTfFBVblpjY1y9asejLCBYQHNwHKQvmSG3GgDD5Nf62R3Qp/obSbGlmhB5w==;HoNaasdSyKj7+eOuRtXsFQ=="
+secured: "sOCtfsOb+VgcvcLzb/az2TKi1wbcVvVqsVMaTPPLvtlRd9p+zs0trO2z/FyjmAUtKpVfltfk95iuUriFQ4JMz4H6mrJWSNS5VZChkrvjTFbv6+ATtAeTqG5fJxdPrJdfGltVlIU5j3gM4eHKevy97vvvCeL3sVBJJoeRFEePL8PJY8VPWwPzUSpR8L6Afp4OmTvhQ1JlSEinXhOW53L4vdL4XdTiiNb2uzQWu2TqKXpRDFJ7MoNjo8Tq3DyjvNYEpDXsQtVfCzm8AxfUwClv4Ap0/xZNogcOeh7kDbO5Kko5Yvy1ml/NNDdO862M2/vmqxSs+as+/nPGvVjdOsUfhHySf/eS3xuOJlWanJAN00QeeaM9LJK8Mkwyat0gy5FbyHDlxroLm8xQS5bd/NGM88ETd8il5dXw2JqISoxy/0n60fFqOzVGC1S5HQHqx8ZFaw/q/eGnEOCM1hdatqt9/v9x9wmS0+D3MQPKciiCb+foPH0B/Ro8E5r/gvEmGITRDdSeiqDHtMeGYHjy6BiBDA==;gRIMkONtLtIoFs4JRIvUug=="
 ---
 

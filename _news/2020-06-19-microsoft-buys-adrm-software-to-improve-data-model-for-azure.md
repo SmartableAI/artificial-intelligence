@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 402
         isCached: true
-  - title: "Microsoft Acquires ADRM for Azure Cloud, Intelligent Data Lakes"
-    excerpt: "Microsoft acquires ADRM Software; sets stage for Azure customers & channel partners to build intelligent cloud data lakes."
-    publishedDateTime: 2020-06-18T21:49:00Z
-    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-buys-adrm-azure-intelligent-data-lakes/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 54
-    images:
-      - url: "https://www.channele2e.com/wp-content/uploads/2020/06/Ravi-Krishnaswamy.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "frnTIO+dgrbuxaK55VylYcu7p8Hlqxdc09+axXRY+efEjAyfmDn788jfVwnVVqG/9+6M0Uc18cNzBKl84VTBIhWzhd+j/kEtR95zEDHfRUHCdq9PPoGk7w51oOLtEVFMFZZ+IVU+KnPKTn8T7Vw5PG9gN/oi+WVpqEQjrqb4uIfzp+/lfGZuOYahpDONzJt+z5d2jdModZXWoQhcDJbu9nLvbC85Tr+sX7PTHcKPI/cKM91ml9APcLcMcn5hOdvUmkH6pys/Z6hoSd+TnPuT56AR90Y5K7+cZFQOgTzFzaxurqSyZaePEOxotTrlzuF6ul8mhBLhSlA+yfOjQtEycGbZULgT1ktEeJcd5MAtZft+XzYa6VO4zstpDdbtozkBV0Xcp2BNDdxcKgKRt2U60op7mE9FY3bsUCSqqown9lnSPF27/h1efuZ7lVbBe2wgFLTM38TjK9CHdTPt89VfG19xcMQ/2MXY2yRp4cQHBkZ9Opg09iaLHGoUdoLHPcb2RrsDQVQmkHXmkKWIaH1JgA==;tduCSFuYAo3KLWY1P3P6aw=="
 ---

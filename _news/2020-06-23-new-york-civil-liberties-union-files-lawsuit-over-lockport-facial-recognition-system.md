@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wgrz.com/amp/article/news/education/new-york-civil-liber
 cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     height: 422
     isCached: true
     title: "New York Civil Liberties Union files lawsuit over Lockport facial recognition system"
+
+related:
+  - title: "Lawmaker Questions Amazon Over Facial Recognition Amid Protests"
+    excerpt: "A House lawmaker is pressing Amazon.com Inc.’s Chief Executive Officer Jeff Bezos to reveal more details about the company’s plans to pause selling facial-recognition software to law enforcement."
+    publishedDateTime: 2020-06-19T02:04:00Z
+    webUrl: "https://www.bnnbloomberg.ca/lawmaker-questions-amazon-over-facial-recognition-amid-protests-1.1451962"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 39
+    images:
+      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1451963!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/protesters-march-through-downtown-los-angeles-on-june-3.jpg"
+        width: 620
+        height: 349
+        isCached: true
 
 secured: "gA00XBN4xlgMSfDmcaQXnIN+z0Frs0uErsbHFmmfsih6Qa91FUBsSEz0n5QRvK+QFUXaA58ZZUCD+MNM5tzOfBgHj0ri4urmrOSPMJfRXdBusEaF+pksu8GeYSA+TjU1YL0qn39L/eZWgiF5M2vqAVGgPwS0x0REFrf2GixfY6mnzZPgDPhPMl01yBjidM1A0nxU5IEyosn/0H30pRB1MSqZpUYktwgUw4S1HZ95Q/CtxNMGPBu6dC3WX1GEzM7J4iCePzKseIpEsY9SYlLs25Ficg9UveDbwWGy20J3mDaoMfDFicbvsZ9rvcyP/t4pJEqt+Tslul1xaG4R4BssEgtbakEcL2BRQ6rmrnxAkAD7mokFlz8t7N9OOXsR1c5+Xbc2qubKAzYWDezJpC8WZhc98/gviBJP8VP4KB/GvMVLB+mhDEfnv08VNMVYHWrhkVIjttEQORpwHl28HNR3TeTSdBOhRUjCIpa9+Jq9JF3CwkEvGr5sPMPi+WWp3ebvgUw2+H8HPb5IABum6SWzdw==;m/oFLYrV/Hd0SNCC3+V2EA=="
 ---

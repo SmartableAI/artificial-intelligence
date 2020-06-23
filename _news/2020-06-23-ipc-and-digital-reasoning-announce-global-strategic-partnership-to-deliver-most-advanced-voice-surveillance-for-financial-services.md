@@ -2,8 +2,8 @@
 category: news
 title: "IPC and Digital Reasoning Announce Global Strategic Partnership to Deliver Most Advanced Voice Surveillance for Financial Services"
 excerpt: "IPC, a leading global provider of secure, compliant communications and networking solutions for the financial markets community,"
-publishedDateTime: 2020-06-23T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/ipc-and-digital-reasoning-announce-global-strategic-partnership-to-deliver-most-advanced-voice-surveillance-for-financial-services-301081500.html"
+publishedDateTime: 2020-06-23T13:12:00Z
+webUrl: "https://www.prnewswire.co.uk/news-releases/ipc-and-digital-reasoning-announce-global-strategic-partnership-to-deliver-most-advanced-voice-surveillance-for-financial-services-844454869.html"
 type: article
 quality: 0
 heat: -1
@@ -11,10 +11,10 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
-  - AI in Finance
+  - Natural Language Processing
   - AI
 
 images:
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "JxY4mx7YCO3pUAqDlzqIQLeJoOcUk6jtKoxj9IQ5X4jgtqfYGoO8x6jdIp4wl+O8uxuZMQD28l+3Dj+alFw6YmI3nGxhEVx1QBA3ffckSZaZQoOWV7TGgW/wqU331YK0NjRSJF5y8RocQTOHQBd24KLnnn8lgw/Qp8xgYyawPDDo7iT3ag/hPyawOTr22hby9gapaRzQkvwOrpmv5xhqHpcNZO3dpweWQzNjuav+77hF2DVClEJwuIJEi8rP9AY+MAzoMN7Bd5A+o4Y7HJVpLL8n2MJ1oBvObsDERyfsMSDmQtdioS5mLPTlaYzZB0qOibxBWlEkvId5MLySywlRTg==;99UTxUgXDaD95qpVh+GdBQ=="
+secured: "px0T++cv3djlGiS3Ot3OvppQTt0Fv1OQWvjxw8Fzy3X3rWTk+IRX8ZdSXuDam6iXcKnxU1gPoM3C0AqxdRgVdRA3xMsGiVGEs4HIRPwW9ruzdRIE0f51pOWWbLXB6pk/iekIeSmnjnzMYBG2b6LdZtcsiNbT8KloJsSeIfLrYYMYw3U3BCNMEnxWKz1jIPdUOqaM9hkuzA0y+wvs4UCYkNpknR34FCXbxdn8+SeJGInI1Yd063yfJICARHCqfpasl10iwCvRf8aRaGHYH+pt0lRAXTwB6zw8wRPZs5kCckLzYyimi83POgq85pFcUVPpnyP53FXyEH7XYSuuPCtYYQ==;xALZfYcJ0c/C5Kh+QHdkoA=="
 ---
 

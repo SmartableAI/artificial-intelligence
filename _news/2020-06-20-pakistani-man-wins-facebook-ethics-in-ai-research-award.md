@@ -8,7 +8,7 @@ ampWebUrl: "https://dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-in-ai-research-award/amp/"
 type: article
 quality: 76
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -91,20 +91,6 @@ related:
       - url: "https://cdn.propakistani.pk/wp-content/uploads/2018/01/Chess-AI-Human-Artificial-intelligence.jpg"
         width: 1000
         height: 560
-        isCached: true
-  - title: "Pakistani scholars win Facebook 'Ethics in AI Research' award"
-    excerpt: "KARACHI: Facebook on Thursday announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Among the ..."
-    publishedDateTime: 2020-06-18T22:36:00Z
-    webUrl: "https://www.brecorder.com/news/1005548"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 56
-    images:
-      - url: "http://www.brecorder.com/_img/social-default.jpg"
-        width: 1200
-        height: 768
         isCached: true
 
 secured: "9erYI+eEPCoHmn24zofFkTNR4egSeJr6VYTFKXWZwuVvn092kPFTA6EtKtd4VrTaJc0oF8varVVsms2cdSE5cD2ZjYdtve37KMNqTN+X2VHoF6+bOqbxAVeyAqX6b5/GRH9GcpVKp/Avky/L/ZO4ke1aOflr40afXTU6P2TJoEi6+mvg1iEigGEDPl73RNYNO2rGNyQGC7Yk0hdfTMxnenqbkEBXJ4ZZQ3wKoghhRmoH4gFcnNWBWsoEKat2JZTtygdvYMjO93bP/3sfnI9AE3v3AhwtUT+5kuzeBc93OaBYLn9Dj+yQG4lEy5cNn5Fi5r1ZXShcTAOXEBRCdQLzc2ecc2kj4N16PgUkfGp+UYrFmP7pIN2Bh6e58GM9pg1WcWsDtPmMZpbeFJdWzH2iK1fVB3a27lCzq0V0oQRGDtX/NMxb2+A4nW5M1VNEXKmHjS92ncg6TNTEzQkJ500xNC3Ke3HZayGfIX2qO4q+FAsQ96mP3LtTM3zs1fSZcT7Q6z0ZcY7fAdcNkF5oFJwpCA==;C23HjUsi+INO3Ctv+PKtbg=="
