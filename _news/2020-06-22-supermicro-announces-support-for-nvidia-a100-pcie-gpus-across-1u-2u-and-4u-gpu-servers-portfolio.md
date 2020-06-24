@@ -25,6 +25,20 @@ images:
     title: "Supermicro Announces Support for NVIDIA A100 PCIe GPUs Across 1U, 2U, and 4U GPU Servers Portfolio"
 
 related:
+  - title: "Inspur eleases NF5468M6 and NF5468A5 AI servers supporting NVIDIA A100 PCIe Gen 4 GPU at ISC20"
+    excerpt: "Inspur releases NF5468M6 and NF5468A5 AI servers supporting the latest NVIDIA A100 PCIe Gen 4 GPU at ISC High Performance 2020. It will provide AI users around the world with the ultimate AI computing platform with superior performance and flexibility."
+    publishedDateTime: 2020-06-24T00:14:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/06/24/inspur-nf5468m6-nf5468a5/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 42
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/15084653/insecure-66.jpg"
+        width: 304
+        height: 430
+        isCached: true
   - title: "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20"
     excerpt: "NF5468M6 and NF5468A5 accommodate 8 pcs of double-width NVIDIA A100 PCIe GPUs in 4U chassis. Both support the latest PCIe Gen 4 of 64GB/s bi-directional bandwidth, achieving superior AI computing performance."
     publishedDateTime: 2020-06-22T07:22:00Z

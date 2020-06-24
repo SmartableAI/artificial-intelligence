@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/22/ai-ethics-tuning-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/22/ai-ethics-tuning-knobs-a-questionable-mesh-including-for-self-driving-cars/amp/"
 type: article
 quality: 103
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://s3-prod.adage.com/s3fs-public/styles/800x600/public/20200622_autopilot_TESLA_BK_3x2.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "NVIDIA & Mercedes Benz Partner For Self-Driving Cars"
+    excerpt: "Computing component manufacturer, NVIDIA, has partnered with luxury car maker, Mercedes Benz, for the production of an advanced computing system to run self-driving cars – potentially in fleets as early as 2024."
+    publishedDateTime: 2020-06-24T01:51:00Z
+    webUrl: "https://www.channelnews.com.au/nvidia-mercedes-benz-partner-for-self-driving-cars/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 24
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2020/06/Mercedes-Benz-and-NVIDIA-to-Build-Software-Defined-Computing-Architecture-for-Automated-Driving-Across-Future-Fleet.jpg"
+        width: 700
+        height: 495
         isCached: true
 
 secured: "BgqCR8INlmMjbL0uxCELl2b1DhkFyLnT/S8HZIreK5TOPSFgq/JxDVKMSJc2EXH0WSvzCg70ovW387PUP3B7TiUsUDVoIM6IZ+gTNgeM+NqlZ/dorY7aILhWKALQEqT+maj2vIiESt9sUSF1Oa0Af/r/wnMvgA8iCHXcEOi3obYGbLoMFJZ6Sw8fvUN0a7JPoFV0V8aV1bmDRIDPZgPGoP/U9vMkj8nz0H09npeivTMg3Yp1/+0bvXEz0aO13ewYa5FMPS17hTHuLq1z5FPHdbPkNkPjZFdpHk2z4IsVO2Vr0+FRLByieICOeG+/yFqP1RpJs8FEjLPWQH55yvPtEb+6wnu6DaLWYr0Rh1leE9PILRqY+/wc9E5zcBB9HPdHYppK5hpAJldzF6k2tnUrwBphb7rD9D4F7vzKazw7z3rIsFZienaP5WkrcS1SpECdHJDCLuIuUwy8Bevt1jf8A6z8jx0dO5ScvtRJ+HJJmk5PK648zq0IXJacM6r25ixX;ykHp0P3OSFYrhjo2vy4drg=="

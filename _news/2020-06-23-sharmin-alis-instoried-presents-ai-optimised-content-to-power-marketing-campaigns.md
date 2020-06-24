@@ -38,17 +38,6 @@ related:
         width: 990
         height: 498
         isCached: true
-  - title: "Algoriddim adds Neural Mix to djay: AI tech lets you isolate drums, instruments and vocals in real-time"
-    excerpt: "As things stand, Neural Mix is an iOS exclusive. Algoriddim tells us that it’s harnessed the power of Apple’s A12Z Bionic chip in order to make the technology work, so it’ll perform best on devices that have this chip or later. However, it’s ..."
-    publishedDateTime: 2020-06-19T08:56:00Z
-    webUrl: "https://www.musicradar.com/news/algoriddim-adds-neural-mix-to-djay-ai-tech-lets-you-isolate-drums-instruments-and-vocals-in-real-time"
-    ampWebUrl: "https://www.musicradar.com/amp/news/algoriddim-adds-neural-mix-to-djay-ai-tech-lets-you-isolate-drums-instruments-and-vocals-in-real-time"
-    cdnAmpWebUrl: "https://www-musicradar-com.cdn.ampproject.org/c/s/www.musicradar.com/amp/news/algoriddim-adds-neural-mix-to-djay-ai-tech-lets-you-isolate-drums-instruments-and-vocals-in-real-time"
-    type: article
-    provider:
-      name: MusicRadar
-      domain: musicradar.com
-    quality: 23
 
 secured: "JC/D0E3RTSpOAxabxahj0tX2Hr+/x0m9Ao1LY4xodYp1Vm/EZ7jgEZPuq+PrUYVMJqT4bM3pvggQutwHPli3KhkgxOaXEe2Hg3iThDAnVgaA4vSwhOFTCSLjrQXxxKoj7GSZNYwWR2PPNMq23WyMMyB+7oaLk9pIYohqox6vzMZEBDMds/HU8yMEXpWcdhotI7yaHNVphToBGl5+lEEnwxpzcjFLMPJSj7OMBcTkyqjzwQ+g1ZsvI8ZrDkWMPy4EmEHd3Vb8XItWvUI607EDiT6/KqFusoLF5it+J0qjPQSR7SyoljDG3NSqT56y9DtqqKJkNz+ui5kS+sW8eufngw==;T//z1/s6UofeJPO/8RxTNg=="
 ---

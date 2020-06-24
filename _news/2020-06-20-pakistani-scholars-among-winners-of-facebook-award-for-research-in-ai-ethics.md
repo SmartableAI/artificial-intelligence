@@ -76,22 +76,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Pakistani Scholar Wins Facebook’s Ethics in AI Research Award"
-    excerpt: "Pakistani scholar Junaid Qadir was declared the winner of the Ethics in AI Research Initiative for the Asia Pacific, an"
-    publishedDateTime: 2020-06-19T07:08:00Z
-    webUrl: "https://propakistani.pk/2020/06/19/pakistani-scholar-wins-facebooks-ethics-in-ai-research-award/"
-    ampWebUrl: "https://propakistani.pk/2020/06/19/pakistani-scholar-wins-facebooks-ethics-in-ai-research-award/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/06/19/pakistani-scholar-wins-facebooks-ethics-in-ai-research-award/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 59
-    images:
-      - url: "https://cdn.propakistani.pk/wp-content/uploads/2018/01/Chess-AI-Human-Artificial-intelligence.jpg"
-        width: 1000
-        height: 560
-        isCached: true
 
 secured: "cgLkgSb6puxPRkukH83Qzx0TLPjhNZlamz8hGJJjgtXzmhSQWRUvpaecvfIoWkljzbYk40GKlRQ8AqY+MHvpJZK5STWtr91kqJmuHmTk8T5iIH+pNDr4l9Lm4SMX2Elb++azue24Unu8bmoRf8whpNEMws7SeWv3Ttci0TyM1GEzlh6lliN7x0VsU56gDt9c2g2JnsXSsm9yZDA73LmvrAEREKBFpLuw8m3dP2HyvJUDC9yUZj45rrplHPJSPJwcVx4WLL7ls5I1dXTK3MjF2QqkCb8urIB1rkY4wL7SRDsPG3tX40Pm/53t+nJwoB25vPNPtBlY50094pbVUdfFLm0M6eS3CaLoea1waCrDwzhjrwoWxFjPl7ZvvmonjOfsppbdzkAL9l8kups+cSu//wAiO/csxiMREV7c8IyNQX/4UBHW7scZs7KHI2Kgk3M1WPHOiIVl98T7vslsTKKBIGVJxeIYYHmCFu1LZ5ttyLBYxuDtZEtv6Ijtg2j7CvAarRHs//aQM8rtTjraCiCMdQ==;Sqvh5InrrPx/a7dLexJURg=="
 ---

@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Boston City Council Set To Vote On Facial Recognition Technology Ban"
+    excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."
+    publishedDateTime: 2020-06-23T23:39:00Z
+    webUrl: "https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
+    ampWebUrl: "https://amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 61
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2020/06/GettyImages-1199025045.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Opinion | The futile withdrawal of facial recognition software by Big Tech"
     excerpt: "This technology is bound to proliferate regardless of flaws as it’s being pursued by such regimes as China’s for surveillance"
     publishedDateTime: 2020-06-22T16:21:00Z
@@ -110,6 +126,20 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2019/12/27/197890686_PA_Ed-Bridges-legal-action_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RQJ6Ra64K3tAxfZq0dvIBJw.jpg"
         width: 2880
         height: 1800
+        isCached: true
+  - title: "Tech Companies Are Limiting Police Use of Facial Recognition. Here's Why"
+    excerpt: "IBM said it was getting out of the facial recognition business. Then Amazon and Microsoft announced prohibitions on law enforcement using their facial recognition tech. There's growing evidence these algorithmic systems are riddled with gender and racial bias."
+    publishedDateTime: 2020-06-23T08:00:00Z
+    webUrl: "https://www.npr.org/2020/06/22/881845711/tech-companies-are-limiting-police-use-of-facial-recognition-heres-why"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 38
+    images:
+      - url: "https://media.npr.org/assets/img/2020/06/22/gettyimages-1052877582_wide-aa51331470b894e1f8d08d5210c495c064166205.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Racist practice of phrenology rears its lumpy head in facial recognition tech"
     excerpt: "We'd like to think judging people's worth based on the shape of their skull is a practice that's well behind us, but echoes of it can be found in new technologies"

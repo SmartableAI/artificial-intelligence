@@ -91,6 +91,20 @@ related:
       name: Daily Nation
       domain: nation.co.ke
     quality: 24
+  - title: "NVIDIA & Mercedes Benz Partner For Self-Driving Cars"
+    excerpt: "Computing component manufacturer, NVIDIA, has partnered with luxury car maker, Mercedes Benz, for the production of an advanced computing system to run self-driving cars – potentially in fleets as early as 2024."
+    publishedDateTime: 2020-06-24T01:51:00Z
+    webUrl: "https://www.channelnews.com.au/nvidia-mercedes-benz-partner-for-self-driving-cars/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 24
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2020/06/Mercedes-Benz-and-NVIDIA-to-Build-Software-Defined-Computing-Architecture-for-Automated-Driving-Across-Future-Fleet.jpg"
+        width: 700
+        height: 495
+        isCached: true
 
 secured: "eSEO6WK9+qwCJZELHN3Vq26bd+xghVOuWg87vPFd7H4fIGPRwQ4O105Z/dATHOm0IfaLz3gBDAVPBQeDdmo3GS4fkTmQ68VMJk8qKLCfGCSz7T13vBEPViJo8Es1P0EpIgnPfHnFCkOuHTlnEP9Da6iqoHRCh4UaU/YOPwSuepKQkvXPc+wnMgEE1nkIPCl5/3cnjWQMqVdrEi+0MabCgk1SlAdzYdrugWORnmBw0hViLR/TSVpKbN53qDJLnmjBWD3iQhthR+1HJ0y3XDjELjQDURgCjagcUwgIcD9XKWufgDb3btf+8F3h8ZSFeuseETyA1chjdg4nNLW0j6JPhUL4zDGA9zoWoHt2oBSozfJ8ubRaYB1GVvdetUlZZyxErptMEXJ0BicPIHY25BcUN8lW5Z6+T4E1mQbQU2rLcCg9ZgVafXs8s0iWM+XkzfoSDooMyi2eNgwR7FPCxQGqoYZS5SG0r7COcUGK/FqpT5QYBpJpTzzHYsVFbT2lZhv0PkWpgjVqWPao0n6bIUFXMA==;Jn5a9MfgCJPNhQpnywH6fg=="
 ---

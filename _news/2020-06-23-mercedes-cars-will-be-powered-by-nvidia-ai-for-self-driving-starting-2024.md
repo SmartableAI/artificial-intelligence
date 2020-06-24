@@ -96,6 +96,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "NVIDIA & Mercedes Benz Partner For Self-Driving Cars"
+    excerpt: "Computing component manufacturer, NVIDIA, has partnered with luxury car maker, Mercedes Benz, for the production of an advanced computing system to run self-driving cars – potentially in fleets as early as 2024."
+    publishedDateTime: 2020-06-24T01:51:00Z
+    webUrl: "https://www.channelnews.com.au/nvidia-mercedes-benz-partner-for-self-driving-cars/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 24
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2020/06/Mercedes-Benz-and-NVIDIA-to-Build-Software-Defined-Computing-Architecture-for-Automated-Driving-Across-Future-Fleet.jpg"
+        width: 700
+        height: 495
+        isCached: true
 
 secured: "nJh2IJxCCJ4nsG/lYZJ5z3enhzoLDgdzoJEDtpj2jRr1Nfb3dvUf/oKZXbvEUjlvnsZ8NHBl6hOibU0OXbsM224Y/SkHnjipW7bSyRRbpGpz64aeUEb/yXyFHqr4M/647C5CKHIFk3KnSMz7j80bHaAyRIs7L4uDm8fZTbBnosCg+1Nur3b4BMQ0vjbJg+/9HjGL5UbFC8oKKGnjZO4dgij0xazAFPWK+gOnNWtfxYvbsOGlYMK+juajW89oahp59W+TsT8AxzVnBSWPn/XSYU1lmYBB+rkwrvVp9o150jT9OHJX0kqmq9Q+GEwAqiELSJeGPsMAVAT6KxeX2mENELct3VFaMtBrYVqgQDGjsg0KTImnZ6rcd9QVJRlV3do8p70UK3qvXelRlfVlYR6Lvp9XXCbaJ46CXSgpPD9ZE/f8FUkdAy1lBM+o8Q/CIYU39yAEBvARgXNtSRH+tR9HWtnb97D+aHFWDAJ+7sZ/6hPxo0PLh2NeBsyIRGs11AH5125sptTtbU7A6rNgWf7k5Q==;0GNUHKEZ3k2qtslve6A1DA=="
 ---
