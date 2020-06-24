@@ -25,6 +25,20 @@ images:
     title: "$45.2 Billion Worldwide Artificial Intelligence in Healthcare Industry to 2026 - Featuring Lunit, Magnea & Maxq AI Among Others - ResearchAndMarkets.com"
 
 related:
+  - title: "Artificial Intelligence for Healthcare IT, Worldwide, 2020 - Benchmarking Future Growth Potential - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence for Healthcare IT, Global, 2020\" report has been added to ResearchAndMarkets.com's offering. This research has identified the core areas in which artificial intelligence (AI)-enabled healthcare IT solutions are most relevant for hospitals,"
+    publishedDateTime: 2020-06-24T12:28:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200624005446/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 28
+    images:
+      - url: "https://mms.businesswire.com/media/20200624005446/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "World Network Traffic Analytics Market Analysis - Rise in Trend for BYOD, Artificial Intelligence & Machine Learning in Cybersecurity"
     excerpt: "The \"Global Network Traffic Analytics Market 2019-2028\" report has been added to ResearchAndMarkets.com's offering. The global network"
     publishedDateTime: 2020-06-22T14:15:00Z

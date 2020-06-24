@@ -75,6 +75,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Facial Recognition Led Detroit PD To Arrest Innocent Black Man"
+    excerpt: "Robert Williams was arrested Jan. 9 because facial recognition technology fails to distinguish between people are color, the ACLU said."
+    publishedDateTime: 2020-06-24T13:13:00Z
+    webUrl: "https://patch.com/michigan/detroit/facial-recognition-led-detroit-pd-arrest-innocent-black-man"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 39
+    images:
+      - url: "https://patch.com/img/cdn20/shutterstock/24007010/20200624/084259/styles/patch_image/public/shutterstock-795306157-1___24084241384.jpg"
+        width: 565
+        height: 424
+        isCached: true
 
 secured: "Uaf0/7aASTADLT/41jzuiUrW6ny6pRa5ttoIkEDpRhmAvsJm0fO+X2iU8TumByrqOsUVVUziQI4Tg8BK2I/Grwd+Ztteex/rp5nU31wpcRIdvYkX9hHv3v7Z1YToaM6crVp6MCjMoMiOlPSAbTWhbP+w507FoY0qU9OG3TLrFj49Vz9C14FnEbntwUaKawIS8jQUW0yVAOtIfCMkiBlzsLJsiPX6O4nv5U8e769UzBslUCofU+BNoVkpCoYtTQffIMutEdHhLtH73DtMfRQfmEBtuWx9jLgi7r7hNnDGM/nHlcwUcEyhOuEatN3v62rLo2aqnc6YqGb/TsWp3awicmoNzO7ax6Fvem2NDhSbMg+BwXt1E65cHi7KDDDgC7/sYEYap2XOQeAmlryEmjNRSBMMrHP1QgwxhLmi30UbEyi+rThYuoQVYsR76EWsuz4SXS63BR7N0WGET+WxTbyHrqFbgghol9Jqzqh2XZlPv1xF1SQmwaqeHnzB4kZCvwyJExUZMYL1BMQ389zjvg7ybQ==;MYHOimVlOeUagKgK+jpYLQ=="
 ---

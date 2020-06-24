@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "BMW and Mercedes call it quits on their self-driving car partnership"
-    excerpt: "Less than a year after their initial announcement, BMW and Mercedes are ending what was supposed to be a long-term partnership to develop autonomous vehicles."
-    publishedDateTime: 2020-06-19T19:23:00Z
-    webUrl: "https://www.engadget.com/bmw-mercedes-end-self-driving-partnership-191920863.html"
-    ampWebUrl: "https://www.engadget.com/amp/bmw-mercedes-end-self-driving-partnership-191920863.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/bmw-mercedes-end-self-driving-partnership-191920863.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F1dd033d0-b260-11ea-ba77-c0a08587aaf6&client=amp-blogside-v2&signature=1505af955476a6c17e3ee95f00cb6dbf10aea22e"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Didi Chuxing and BAIC form self driving partnership"
     excerpt: "Chinese ride hailing company Didi Chuxing has entered into a strategic partnership with local carmaker BAIC Group, according to local reports."
     publishedDateTime: 2020-06-23T08:49:00Z
@@ -70,22 +54,6 @@ related:
       - url: "https://www.just-auto.com/images/just-auto-share.jpg"
         width: 1200
         height: 799
-        isCached: true
-  - title: "BMW terminates self-driving tech partnership with Mercedes-Benz"
-    excerpt: "German automaker BMW has announced that it will freeze its self-driving technology development program with Mercedes-Benz after a steep plunge in demand for its vehicles due to the coronavirus. BMW will also get rid of 6,"
-    publishedDateTime: 2020-06-19T19:04:00Z
-    webUrl: "https://www.teslarati.com/bmw-mercedes-benz-fsd-partnership-terminated/"
-    ampWebUrl: "https://www.teslarati.com/bmw-mercedes-benz-fsd-partnership-terminated/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/bmw-mercedes-benz-fsd-partnership-terminated/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 44
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2019/07/bmw-i-vision-dynamics-concept-1-1024x499.jpg"
-        width: 1024
-        height: 499
         isCached: true
   - title: "Mercedes-Benz joins Nvidia to build self-driving platform for 2024 fleet"
     excerpt: "Premium car manufacturer Mercedes-Benz and graphics giant Nvidia have joined hands to build an in-vehicle computing system for next-gen automated cars."
@@ -128,6 +96,20 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
+  - title: "Mercedes partners with Nvidia on self-driving tech, plans upgradable system"
+    excerpt: "Mercedes and Nvidia plan to launch a jointly developed computing system for self-driving cars starting in 2024."
+    publishedDateTime: 2020-06-24T12:30:00Z
+    webUrl: "https://www.motorauthority.com/news/1128614_mercedes-partners-with-nvidia-on-self-driving-tech-plans-upgradable-system"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 22
+    images:
+      - url: "https://images.hgmsites.net/hug/mercedes-benz-and-nvidia-self-driving-technology-partnership_100749856_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Xjoh+AZZH7X6ey95krm8Q10fKe4xGcC8ihcGeCloKphHfo1zXCThQVlAupClfXApvGqjYNy+joxVxO13jFC72RPjOHw0r8n3Bgr2KGQSS3CE7l+s+aRZZLvhk2WeZGfSkPww42wqFSNC96NQBXYsLlIkEViZ91926lG/llKXxyF0vFvuywAYs18yAIYjII0iQSDXyBVJRVYZ+anheGMbG8FSXLhDvt+zjpY9cLyFBHeDBVaAAlYQa+YhpyWuLSH5Vd1phnb8557GBvyEfmjxfvh01xcrn2sFApEs/POlsNM28aS/H/Vly8EaL5u4c1lj4UT3F67JFm/rHV+EzvVKJIyHA5nnpEXrDiA74BvHw0gNarhvfyXMVJCsw1fxziI/dabOdMwznwpvrxw+CJKRDYL0HrG/FS/rT3wKDXPtsJWv/HMpd1jrwZM1O//XtWlGdkCDOUZi9kt0J4cIeDtNGoC2sjKM3tkdMO23uKzs/UomVxnB+YO2u2eCD+bFDy+HPJQ3fFUs2Y0errvMCNGreg==;ZFMkGcLX/N34FKz9cJHkGQ=="
 ---

@@ -8,8 +8,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23V1KJ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23V1KJ"
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,19 +31,51 @@ images:
     title: "U.S. activists fault face recognition in wrongful arrest for first time"
 
 related:
-  - title: "Detroit police challenged over face recognition flaws, bias"
-    excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police. And"
-    publishedDateTime: 2020-06-24T11:44:00Z
-    webUrl: "https://apnews.com/9406d44edad083ee04e28646ead58ec7"
+  - title: "Facial recognition leads to first wrongful U.S. arrests, activists say"
+    excerpt: "Robert Williams spent over a day in custody in January after face recognition software matched his driver’s license photo to surveillance video of someone shoplifting."
+    publishedDateTime: 2020-06-24T12:09:00Z
+    webUrl: "https://www.nbcnews.com/tech/security/facial-recognition-leads-first-wrongful-u-s-arrests-activists-say-n1231971"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1231971"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231971"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
+      name: NBC News
+      domain: nbcnews.com
+    quality: 89
     images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_26/3392279/rtx5zan6_8801ea9903a80ccb7d234bcb75bfe8f1.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "The Wrongful Arrest Of A Black Man Provides More Proof Facial Recognition Is Racist"
+    excerpt: "ACLU says it is filing a complaint after the failure of a Michigan State Police face recognition tool leads to a Black man being arrested in front of his family."
+    publishedDateTime: 2020-06-24T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/24/a-wrongful-arrest-of-a-black-man-provides-more-proof-facial-recognition-is-racist/"
+    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/24/a-wrongful-arrest-of-a-black-man-provides-more-proof-facial-recognition-is-racist/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/06/24/a-wrongful-arrest-of-a-black-man-provides-more-proof-facial-recognition-is-racist/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef351d144713a0007ed4973%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'The Computer Got It Wrong': How Facial Recognition Led To A False Arrest In Michigan"
+    excerpt: "Robert Williams says his driver's license photo was incorrectly matched with a wanted suspect. He says he was arrested and detained. Though the case was dropped, Williams says its effect is lasting."
+    publishedDateTime: 2020-06-24T12:00:00Z
+    webUrl: "https://www.npr.org/2020/06/24/882683463/the-computer-got-it-wrong-how-facial-recognition-led-to-a-false-arrest-in-michig"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 32
+    images:
+      - url: "https://media.npr.org/assets/img/2020/06/24/screenshot-242-_wide-5faa93d3c27a65b83e3d27a76badf0a4ee696230.png?s=1400"
+        width: 606
+        height: 341
         isCached: true
 
 secured: "2JFpFvhNm8PKAsyqzB5UjAW42G/6KcgVVO2v567HN6z34jqOsJGtROMkM6uUKDRPcAalb+IahK9G9mnb3o2bDgnCP1NR8Bst9AucgvQPnDVVmjNA0Q90KC1UcHx1v/JyiSFwrHs9PJPD3LXSXNOGK2zkKXUqX2jMjVhxTxNx9yzqHpZtiUCRavmr+V6Xd4RailQC2bq9g5UeV9KCeOsXuNTsolNn0KLanX/SSpadfCPIR03sw5uFJXj0fmpfwe7FTZTibzMhUKhPZ82s36I16PfJVmlUOQ8LhviXL2BB1R8xuh9Y1ZvLNsOE5NH4V8ajbBHPQJd0DMlDHiC77zItbg==;KF8yfiTNZeo7moCow82vNA=="

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-lawsuit-targ
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-lawsuit-targets-ny-schools-over-student-privacy/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://media.wgrz.com/assets/WGRZ/images/471e47c5-7cde-4629-8b4a-2cdfd62b7e53/471e47c5-7cde-4629-8b4a-2cdfd62b7e53_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Facial Recognition Led Detroit PD To Arrest Innocent Black Man"
+    excerpt: "Robert Williams was arrested Jan. 9 because facial recognition technology fails to distinguish between people are color, the ACLU said."
+    publishedDateTime: 2020-06-24T13:13:00Z
+    webUrl: "https://patch.com/michigan/detroit/facial-recognition-led-detroit-pd-arrest-innocent-black-man"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 39
+    images:
+      - url: "https://patch.com/img/cdn20/shutterstock/24007010/20200624/084259/styles/patch_image/public/shutterstock-795306157-1___24084241384.jpg"
+        width: 565
+        height: 424
         isCached: true
 
 secured: "34/E54z0zTZAypeYZoyTWFsa4rc+bzigRpt7Gy8K3tY71gf8OfO4QrU7oJn0/X7CHVXW8DWOAKGuT+BAHoY5aBsuQsIpfX+q0JgvM60qU2wotnZldOq53hkTXWJg0W3aPNQnQvcLxZ5jZoGcWjDd8yoMSw/jEdwjx1cv09vnlOszrKb9cpuHUvq5Eb2aFkX/rQJ5c67UkLwZjNO+Hj8+U3oEWk0xVCOjMCJPdXG5Nil0e824pq8sEesszPZzFv2cQkVJ2bkXKUbrDFH0llV98Ta7IxTkkTv9yAtziUkAQmApncGMgRzJogvp0WR5NLTFbn8fXogNYlADFJlwH28kr6n+OXUab4STmgPJbpudPZ6UJR8wZJD9C0QGjvpcPUkLcqdVUMweENwVx9M38zHpfyeKoqR2jLFGWwT9VtIXENT9BWf4EuPeZhkr4eGbRV+X1xkoQQbi0y0HJIaQVc4Uug4eafV7u0cfp5pXLWQCvbLKrAdvcGPJDEwck2OkXmCY;Hkk6lQoZqt94rMv1Gki0PA=="

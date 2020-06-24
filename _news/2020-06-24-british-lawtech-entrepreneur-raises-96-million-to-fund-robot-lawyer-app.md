@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "British lawtech entrepreneur raises £9.6 million to fund ‘robot lawyer’ app"
 
-secured: "+v0Vzm8w7FM3pyoqxinVc1SEvj/SAurBgET1QGs7jKzb2CqUIIKp+E2ObwX9Af/3ymaVvroFlKmmOCqXSX32WJOhgJ2VCOYt9Fa/52zUduN3r9L4dGdiJ/hQXPZy4WKxgSR8GAfdc4G9pWyKEGxTDwj3dWu0V+5vOuW40nDFrnzOl4RL/p1GVuYVpxqwJ/wIdYinllxuoor19JA9XTFqK7ug6Mu89XRn9yA/eQmopAUo+EHpW7gOVUv+qlf+icWAsePNKmjglh3vIAB6uQDFZ/tnhWvtjrVvVufENT1ZzRjmAp8Touc05nBKrwf1PclZQZMMvb4VLAo4ilIp0gDlMg==;nvW2j7AQaTTxzKKbTtTcBw=="
+secured: "nDF6zb5Ozz8ncI8WIePWJ2MLNYHAe6d9r6NprN2GmgegbYoMWbt9R+ix82c+F2vJ6OJFJ1Y+HreMcVLamzkH6JqbCSU4zq1qwTA20Su/qxRnaxybwiG172g6SPmDApmY7rR434udYOoY6NkHPzMoqOOplsxAp7ipXKFopT5Z3ozhghS5AJ2gutFsaCiaMXF/LnbA2gEdbIuyYayhRqyKAJR/Uccq+BWGsvJdgBynRloXosa/rGVIli90H2o9qAk0l4Cg4pLDmULLaCleCWLaHmOkbOTtDXT+RlCA7p7nFZUG37ZPb1hMhM/RxxpgUmROiJXOD7hMTxJj+9nIzmmhDKPi6MlCYiqny27kBFI6GGV3eJuAOJYhVG+REa9dXqehdTstIGnKCav4ERQfPM3piBEzTxTPJbu/uxRZIR1QmOoPc6nERCJKA0+nSuYOatbXgW0t61ISJYBmm4dDKndxz7XhRkQ+qbbi/I5l1XTbnjjNHal3nQTUakv+cys+4pGggIUg+bSYYZVKATe7jSoB1Q==;HkVuexx7910UtV/XZnR3ng=="
 ---
 

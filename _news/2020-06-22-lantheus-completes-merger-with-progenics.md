@@ -3,7 +3,7 @@ category: news
 title: "Lantheus Completes Merger with Progenics"
 excerpt: "Lantheus Holdings, Inc. (the “Company”) (NASDAQ: LNTH), the parent company of Lantheus Medical Imaging, Inc. (“LMI”), a global leader in the developme"
 publishedDateTime: 2020-06-22T11:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200622005171/en/Lantheus-Completes-Merger-Progenics"
+webUrl: "https://www.businesswire.com/news/home/20200622005171/en/"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Lantheus Completes Merger with Progenics"
 
-secured: "x5oX0Y5PTqJqZvrpd0+bKAa76D41b/oM+AlU8lagf80ajzK0YUCGDf23qsZ9XQjkGWEw7WIRxrMiBpaJ3mnKvXpfzGcixNGpxLXgPbcu6sAURT99k7ANd5HzGjQuN8kOcsDBMnGj1ySWgDnzmarX1KbxcDAzDInTeeWDUpl3WRviwAIiiTDytwZwha6HGRmhLQ8oCT7vMNYToLWFxGXR7mICPbvdeHmAmKIfgzV4uH6s0YuG9h8lOuL8OeQ+2FUM7DHRRY6U9Fyey0QT8rICK6rXl2MYVOkuhKhWzhxNGYtAzLgFoICyjQhJZekOuqFZdMTkewIyVerY4tEUGTJNWQ==;2hbr3O4Acldijnu3wbZzcw=="
+secured: "sIkouQunm6WieNehdxWTImB6oYqGQ2yrpy+Ja7qXzOC6wObanZppPDaJsDtbqNRHFn81wHrjnpbu6YBNILWTri5PYlwTwkg7fmPtyAxQqRsO2MxvXc+Vfo0J6JL7uuENcYexYuqnQOPZnTiVzMP9CglHNIL4oOTyxMb/HRP38wk6r3kHFh2cXkMEtZLPZ9fa3E9ieXZGlrsvHsxJ0ftJSPEwUhcoVWLOfnAFk2uxfD7z9HLpFuFuF/7KXAbw9UR0YwL6gHDEBr4T3tkjROUnRIaHXDuCRarg1YIdDvocwZNQPoKR4v07vMx/jgPOLvzOmASUagByKoo8vNYJCuHvZw==;BkKvTm3fEL2Yema1TRbBaw=="
 ---
 

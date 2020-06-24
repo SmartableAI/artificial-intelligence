@@ -59,6 +59,22 @@ related:
         width: 1710
         height: 961
         isCached: true
+  - title: "South Wales Police in court over facial recognition system"
+    excerpt: "Racial and gender biases have not fully been explored in the facial recognition technology used by South Wales Police, the Court of Appeal has been told. It is the second day of a legal challenge brought by civil rights group Liberty and Ed Bridges,"
+    publishedDateTime: 2020-06-24T12:36:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-53166044"
+    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53166044"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53166044"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/897B/production/_113059153_mediaitem113059150.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "HomeKit cameras to get smart face recognition, Apple TV integration"
     excerpt: "Apple's HomeKit platform is being updated with new features, including camera \"Activity Zones\" and adaptive lighting for smart bulbs."
     publishedDateTime: 2020-06-22T18:17:00Z

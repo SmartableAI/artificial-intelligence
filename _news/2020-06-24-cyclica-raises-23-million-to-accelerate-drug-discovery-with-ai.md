@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/06/23/cyclica-raises-23-million-to-acce
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/cyclica-raises-23-million-to-accelerate-drug-discovery-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,19 +30,19 @@ images:
     title: "Cyclica raises $23 million to accelerate drug discovery with AI"
 
 related:
-  - title: "Conversational AI startup Rasa shows steady growth with fresh $26 million"
-    excerpt: "Rasa, a startup developing open source conversational AI tools, raised $26 million in venture capital from Andreessen Horowitz and others."
-    publishedDateTime: 2020-06-23T12:03:00Z
-    webUrl: "https://venturebeat.com/2020/06/23/conversational-ai-startup-rasa-shows-steady-growth-with-fresh-26-million/"
-    ampWebUrl: "https://venturebeat.com/2020/06/23/conversational-ai-startup-rasa-shows-steady-growth-with-fresh-26-million/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/conversational-ai-startup-rasa-shows-steady-growth-with-fresh-26-million/amp/"
+  - title: "SQream Technologies raises $39.4 million for GPU-accelerated databases"
+    excerpt: "Tel Aviv-based startup SQream Technologies raised $39.4 million in venture capital to further develop its GPU-accelerated database product offerings."
+    publishedDateTime: 2020-06-24T13:32:00Z
+    webUrl: "https://venturebeat.com/2020/06/24/sqream-technologies-raises-39-4-million-for-gpu-accelerated-databases/"
+    ampWebUrl: "https://venturebeat.com/2020/06/24/sqream-technologies-raises-39-4-million-for-gpu-accelerated-databases/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/sqream-technologies-raises-39-4-million-for-gpu-accelerated-databases/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 86
+    quality: 104
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/Rasa_Team-e1592901300745.jpg?w=1200&#038;strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/sqreamtechnologies-e1592865628671.png?w=1200&#038;strip=all"
         width: 1200
         height: 600
         isCached: true
