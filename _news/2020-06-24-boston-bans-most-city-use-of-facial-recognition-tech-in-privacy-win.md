@@ -59,6 +59,47 @@ related:
         width: 1024
         height: 703
         isCached: true
+  - title: "Boston Bans Municipal Use Of Facial Recognition"
+    excerpt: "Boston joins cities like San Francisco, Oakland, California, and Cambridge, Massachusetts to ban the controversial surveillance technology."
+    publishedDateTime: 2020-06-24T21:52:00Z
+    webUrl: "https://www.forbes.com/sites/siladityaray/2020/06/24/boston-bans-municipal-use-of-facial-recognition/"
+    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/06/24/boston-bans-municipal-use-of-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/06/24/boston-bans-municipal-use-of-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+  - title: "Facial-Recognition Tools Banned for Boston Police"
+    excerpt: "The Boston City Council voted unanimously Wednesday to prohibit police from using facial-recognition technology, becoming the largest city in the country to do so after San Francisco."
+    publishedDateTime: 2020-06-24T20:56:00Z
+    webUrl: "https://www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
+    ampWebUrl: "https://www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
+    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 44
+    images:
+      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2019/06/facial-recognition-graphic.png?fit=1240%2C1021&#038;ssl=1"
+        width: 1240
+        height: 1021
+        isCached: true
+  - title: "Boston becomes the biggest East Coast city to ban face recognition"
+    excerpt: "The Boston Police Department already doesn’t use the technology, and it’s now forbidden from getting facial data from third parties."
+    publishedDateTime: 2020-06-24T20:24:00Z
+    webUrl: "https://www.fastcompany.com/90520805/boston-becomes-the-biggest-east-coast-city-to-ban-face-recognition"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-banned-in-boston-city-disallows-public-use-of-face-recognition.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Wrongfully Arrested Because of Flawed Face Recognition Technology"
     excerpt: "Robert Williams was arrested and hauled away by the police in broad daylight in front of his home, his wife, and two little daughters. He was locked up for nearly"
     publishedDateTime: 2020-06-24T13:46:00Z
@@ -74,6 +115,6 @@ related:
         height: 630
         isCached: true
 
-secured: "sU78L38gn1AXelva/IXFwR3prIHTySDIF+kpyj33lS+5Gcy9hxtiyYs2ASnYw5tlJmp3xCsiI5nv+8VtKZiNSRMVm1NH38bKbyYugweWYCgHjFiioIi73uk+JU2Tx4XEd/U8FKAIJAhiU2GQ/emLtiqtFx/ZZzR7bShtXXqFdVzSwes2W+ij3q0iPsKCn7WbmVWGg6HgteKDoZO0VLqUrJt2mfnQ2IQ9TECVJTtxnIpxCrp31bZF6Wk/66KlPulaipi15z/57dEOQi1QlVREvtrM0p49tGglRH+6DVlvJUzWOzwpy6hY9L9o1yjEKTwzOlirQd2dPfUYf4fY78xNsg==;wIllDGjHgtSayE45BMoPuA=="
+secured: "qdbc6dnGnTK2aIZ92CNb02a7rKbquxHPfeQr5GuR/MXfZCxshXcR0xjS8kbZViaxz3S8dnjjkDTdH/ew2pS37bMT7OFtSHA5a3TBJu9NUjhquy6woMckCMVrHxvreKr0SlGSS+gCUjyhAjNdY88k/Fk+nAgzgXy8mGKT3ScsH5vsQrxD76Qrsp2ANl4utiIzVn+l6uDa7APdr3AREDxrBMo8C6t4IIyico1KZHxcr6GQpNurrPaEj+c/Ab3VbAQ8rYvOUqhI7iolMcDRLIfi2BqPvsA6k+qegEETX8gCwmG3B7b8Ack8gbsXHiIWfnNeXOy2coheDS6Qh8uL3gGGsAhdox1VTZcXxatbjw2dTA5pXD5whJJpHjg12EDk482qimzjAxaWqYBS6WVRdC13zHLlxQ5lXkbokL2eow2pzAkEPPuMczH7QzVcDeKJL0TwDqQo9UHIRIsGyG1mlvKi8pZaAgxHCfE6h9OrM/klW1Q32cxgk65U9h+iRJJOP3sQ2V83UuLDWIChENcRejRuRQ==;FpDtNWJX01efmZc595Av6w=="
 ---
 

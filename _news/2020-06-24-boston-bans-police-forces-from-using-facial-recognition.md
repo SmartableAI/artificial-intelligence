@@ -63,6 +63,22 @@ related:
         width: 372
         height: 371
         isCached: true
+  - title: "Facial Recognition Leads Detroit Police to Arrest the Wrong Man"
+    excerpt: "The ACLU demands that Detroit police stop using facial recognition as an investigation tool, citing the January arrest of Robert Williams, a black man wrongly accused of robbery thanks to flawed facial-recognition data."
+    publishedDateTime: 2020-06-24T20:45:00Z
+    webUrl: "https://www.pcmag.com/news/facial-recognition-leads-detroit-police-to-arrest-the-wrong-man"
+    ampWebUrl: "https://www.pcmag.com/news/facial-recognition-leads-detroit-police-to-arrest-the-wrong-man?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-leads-detroit-police-to-arrest-the-wrong-man?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/043vmlbrYOJ74sZENXugFkd-1.fit_lim.size_1200x630.v_1593028995.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Facial recognition leads to first wrongful U.S. arrests, activists say"
     excerpt: "Robert Williams spent over a day in custody in January after face recognition software matched his driver’s license photo to surveillance video of someone shoplifting."
     publishedDateTime: 2020-06-24T12:09:00Z
@@ -357,6 +373,6 @@ related:
         height: 409
         isCached: true
 
-secured: "TA2NQzKUEJbS6laIt6aZx9GB+SdlTdU5azEDuyRO4ZcC1eJ0SEAVwwjmHnhr21Axq7nwca7BE6Soeo326DF6pE1JydgNgocelzUrGmcbjrzngoXhCYnMlbFDE46tUVtN5+JDIdZLOa099m74EK9Ee8K6LLhOR2W5SQi9DG7ZBAj7ZD1sh/HyNjactBqHrhf0eNNuzMpK0xyleUmyOg6NLq91g2lsmxCsVatK0/TqLCJ5lPJEBXCokuxDg3RCfbq5Y5NGcx6Pc3M5WwNjuKUQlJVh+55VNwLxU3m+P5LK12DgiKFnXeEaCrHDXA9KRcOzjO3rsHX944v3fsXqz6nuxA==;kjziee7pfFbjJSQ5vWYYlw=="
+secured: "d2YCnjuSUodO9r2KHg2zksKF4flA67bopSDzBHeUt4F7Iu/72RYAgmnnM4Wc2S/fip8o20iWT13hltjRFPjU04Wdu5PaInkngPhno2eS1qt2tugooz2n7W3bWHvv5iQg1ZUQfknYcr1EMCkArEGsG5JhPd9Zr2KlmJMCUJNluMUVsaPm4fJaW4IkwZMUj6uN4/OQILAJZANjTCH5IfYm7IfFRCpDVF3LfDbKOnJShHDXveJGRaoeu6yAB7NqAjBjW7t8nfkAaGxValLt9M7WSTVv3SlcV10ma4Qd17hE9ou+kkQcn/2imHW5AVmNktekBCemkWQu1VbQza+I1cwpkdK1GYQiaUHHMSjeUrOEgZHqMLKDjRSXgAy+Izl4nrO0ONkBAz0tge59NhwbqJKI2YEkygAibNwMfVkjNAVLrP+RKwVcnA7r3jE1+dAy3UM9jIzL6mZXg8s3ArgwxwTbnKdcJ+uShNhua8iVRAFo16oFpKtum7teUxBloK7zi7kk6W2UOGe42sY2lcQvGojNBQ==;W/aHqv6JpPdYJo/ZRl8/DA=="
 ---
 

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Detroit police challenged over face recognition flaws, bias"
-excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police"
-publishedDateTime: 2020-06-24T11:56:00Z
-webUrl: "https://abcnews.go.com/Business/wireStory/detroit-police-challenged-face-recognition-flaws-bias-71423838"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/detroit-police-challenged-face-recognition-flaws-bias-71423838"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/detroit-police-challenged-face-recognition-flaws-bias-71423838"
+excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police. And for the department to abandon its use of the controversial technology."
+publishedDateTime: 2020-06-24T20:10:00Z
+webUrl: "https://www.sfgate.com/business/article/Detroit-police-challenged-over-face-recognition-15362382.php"
+ampWebUrl: "https://www.sfgate.com/business/amp/Detroit-police-challenged-over-face-recognition-15362382.php"
+cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/amp/Detroit-police-challenged-over-face-recognition-15362382.php"
 type: article
 quality: 59
 heat: 89
 published: true
 
 provider:
-  name: ABC
-  domain: go.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_69893733490747999fc99b2c95e8a043_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s.hdnux.com/photos/01/12/57/24/19592470/13/375x250.jpg"
+    width: 347
+    height: 250
     isCached: true
     title: "Detroit police challenged over face recognition flaws, bias"
 
@@ -69,6 +69,6 @@ related:
         height: 720
         isCached: true
 
-secured: "qkVjEfUzpne/Ci6JpxtP51qZzPU8UYuxkH2xJSK1ads+bQHV+6K/nNChZxf4WFHY2t1olGfupqAI8LARCxvYhFk6DGSS5A0K7yvLYlVeBpGGVTxZzciH8NjENcVetHDxRjaNXNrXj7Tit7p+JA1iouNsJ3wjIYv9BpWo9UDDajTCzrLM8OdCVar9yyelkvThtb+F+HaCo7IVkUHzrO6mv25n58rL8xXW7W33BEL5j94H6T8P0rH62/RwJJE4qT92M48RkgYoztwpLlJd1nfiqOciKDODfv944CeHN7bV4KBVSqiYPq1fiCp568XC6ZV3E2pR2p/YH1QgaielWmlCkr0Y6Lhd8OnzmADE6PlWpn0+dg0ww8ZQHJq6FbwcNAeUwjaxYNuouEGOAyiKONDDMaKLCY6CLT7Cwx2n2w4bOwXpiK9IPoHshp2TWl4Ith1cdFz4cEsWKwUosInpxvmTj9Eig1JxZZh1we4xF7DwGrDmmsmdRvdB7bMbA6IePM1n5dHBVdPSsrE8sHl+dyTfsg==;TDNVY8fHcH2ZHKxvNBZpDg=="
+secured: "r3yiE7tIgwFJAA1u25uXOPm9uMgMfwtqxpuvbTtWZVJpxSDLLir8ioZx1IdTPSKT384eHY/RnVfUKfi4CXm3MeVu2p9fJiv8zKqHPth/bgpwqjcLdLnThjCs+n2MVERFPSkb/a4P5J6Bt5ZtwyZ3+KrsZB4XtnJkPgZd36fV63xaafq9z8rWeacrOU9PVUiXB+DEm4uWMlfSBkww4XgDHQWT4HCRcK0GRZmTd8cG+SoAZjtGs7IssBnhlMqQHN08+mJqY1W6Y9LcT1rEYzQqiFoM0s25LLXtzlbNlY1duvc44mU34R7e+tQpODd1nrMDdX8prRxnlt61qVfs0UKG8Q==;c0tWnYyzBof3aRh7zHjVmA=="
 ---
 

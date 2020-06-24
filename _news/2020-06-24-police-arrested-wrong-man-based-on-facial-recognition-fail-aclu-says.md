@@ -70,6 +70,22 @@ related:
         width: 800
         height: 451
         isCached: true
+  - title: "Facial Recognition Leads Detroit Police to Arrest the Wrong Man"
+    excerpt: "The ACLU demands that Detroit police stop using facial recognition as an investigation tool, citing the January arrest of Robert Williams, a black man wrongly accused of robbery thanks to flawed facial-recognition data."
+    publishedDateTime: 2020-06-24T20:45:00Z
+    webUrl: "https://www.pcmag.com/news/facial-recognition-leads-detroit-police-to-arrest-the-wrong-man"
+    ampWebUrl: "https://www.pcmag.com/news/facial-recognition-leads-detroit-police-to-arrest-the-wrong-man?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-leads-detroit-police-to-arrest-the-wrong-man?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/043vmlbrYOJ74sZENXugFkd-1.fit_lim.size_1200x630.v_1593028995.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Facial recognition leads to first wrongful U.S. arrests, activists say"
     excerpt: "Robert Williams spent over a day in custody in January after face recognition software matched his driver’s license photo to surveillance video of someone shoplifting."
     publishedDateTime: 2020-06-24T12:09:00Z

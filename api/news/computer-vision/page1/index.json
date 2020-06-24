@@ -2,11 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-24-detroit-police-challenged-over-face-recognition-flaws-bias.md",
+      "title": "Detroit police challenged over face recognition flaws, bias",
+      "excerpt": "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police. And for the department to abandon its use of the controversial technology.",
+      "webUrl": "https://www.sfgate.com/business/article/Detroit-police-challenged-over-face-recognition-15362382.php",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/12/57/24/19592470/13/375x250.jpg",
+          "width": 347,
+          "height": 250,
+          "title": "Detroit police challenged over face recognition flaws, bias",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.sfgate.com/business/amp/Detroit-police-challenged-over-face-recognition-15362382.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/amp/Detroit-police-challenged-over-face-recognition-15362382.php",
+      "publishedDateTime": "2020-06-24T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-boston-just-became-the-latest-city-to-ban-use-of-facial-recognition-technology.md",
       "title": "Boston just became the latest city to ban use of facial recognition technology",
       "excerpt": "The move also bans Boston city officials from asking a third party to carry out facial recognition on their behalf.",
       "webUrl": "https://www.businessinsider.com/boston-bans-government-use-of-facial-recognition-technology-2020-6",
-      "heat": 117,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -54,7 +92,7 @@
       "title": "ACLU files first formal complaint over wrongful facial recognition arrest",
       "excerpt": "The American Civil Liberties Union (ACLU) has filed a formal complaint against Detroit police over what it says is the first known example of a wrongful arrest caused by faulty facial recognition technology.",
       "webUrl": "https://www.theverge.com/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence",
-      "heat": 323,
+      "heat": 333,
       "tags": null,
       "images": [
         {
@@ -101,7 +139,7 @@
       "title": "Facial recognition to 'predict criminals' sparks row over AI bias",
       "excerpt": "A US university's claim it can use facial recognition to \"predict criminality\" has renewed debate over racial bias in technology. Harrisburg University researchers said their software \"can predict if someone is a criminal,",
       "webUrl": "https://www.bbc.com/news/technology-53165286",
-      "heat": 145,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -141,44 +179,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-detroit-police-challenged-over-face-recognition-flaws-bias.md",
-      "title": "Detroit police challenged over face recognition flaws, bias",
-      "excerpt": "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police",
-      "webUrl": "https://abcnews.go.com/Business/wireStory/detroit-police-challenged-face-recognition-flaws-bias-71423838",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_69893733490747999fc99b2c95e8a043_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": "Detroit police challenged over face recognition flaws, bias",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/detroit-police-challenged-face-recognition-flaws-bias-71423838",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/detroit-police-challenged-face-recognition-flaws-bias-71423838",
-      "publishedDateTime": "2020-06-24T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {

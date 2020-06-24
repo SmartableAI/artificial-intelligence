@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "Detroit police challenged over face recognition flaws, bias"
-    excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police"
-    publishedDateTime: 2020-06-24T11:56:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/detroit-police-challenged-face-recognition-flaws-bias-71423838"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/detroit-police-challenged-face-recognition-flaws-bias-71423838"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/detroit-police-challenged-face-recognition-flaws-bias-71423838"
+    excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police. And for the department to abandon its use of the controversial technology."
+    publishedDateTime: 2020-06-24T20:10:00Z
+    webUrl: "https://www.sfgate.com/business/article/Detroit-police-challenged-over-face-recognition-15362382.php"
+    ampWebUrl: "https://www.sfgate.com/business/amp/Detroit-police-challenged-over-face-recognition-15362382.php"
+    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/amp/Detroit-police-challenged-over-face-recognition-15362382.php"
     type: article
     provider:
-      name: ABC
-      domain: go.com
+      name: SFGate
+      domain: sfgate.com
     quality: 59
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_69893733490747999fc99b2c95e8a043_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s.hdnux.com/photos/01/12/57/24/19592470/13/375x250.jpg"
+        width: 347
+        height: 250
         isCached: true
   - title: "Detroit police challenged over face recognition flaws"
     excerpt: "The complaint by Robert Williams is a rare challenge from someone who not only experienced an erroneous face recognition hit, but was able to discover that it was responsible for his subsequent troubles."
