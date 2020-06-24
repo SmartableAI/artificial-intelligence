@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/why-arent-people-smarter/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-arent-people-smarter/"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     title: "Why aren't people smarter? The dubious benefits of intelligence, real or artificial"
 
 related:
-  - title: "AGILOX Autonomous Mobile Robots are substantially saving costs by applying Artificial Swarm Intelligence"
-    excerpt: "Swarm Intelligence (SI) and bio-inspired computing have attracted great interest in almost every area of science and engineering, including robotics, over the last two decades.Being an"
-    publishedDateTime: 2020-06-19T09:25:00Z
-    webUrl: "https://www.sourcesecurity.com/news/agilox-autonomous-mobile-robots-substantially-saving-co-1592488786-ga.1592494744.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/agilox-autonomous-mobile-robots-substantially-saving-co-1592488786-ga.1592494744.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/agilox-autonomous-mobile-robots-substantially-saving-co-1592488786-ga.1592494744.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 42
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/920/agilox-autonomous-mobile-robots-saving-costs-artificial-swarm-intelligence-920x533.jpg"
-        width: 920
-        height: 533
-        isCached: true
   - title: "The Universal Knowledge Store on the Way to Artificial General Intelligence"
     excerpt: "When you hear the term “Artificial Intelligence or AI,” it really refers to narrow AI—a system which may have superhuman “mental” abilities, but only in a narrow area of expertise. AIs now have expert credentials at many games and can find data correlations and patterns that no human mind could ever uncover."
     publishedDateTime: 2020-06-23T18:43:00Z

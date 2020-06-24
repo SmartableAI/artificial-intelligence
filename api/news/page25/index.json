@@ -2,6 +2,44 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-06-02-the-therapy-apps-trying-to-help-you-deal-while-youre-on-the-nhs-waiting-list.md",
+      "title": "The Therapy Apps Trying To Help You Deal While You’re On The NHS Waiting List",
+      "excerpt": "Mental health problems are on the rise, with some people in the UK having to wait for up to two years to receive therapeutic treatment. With many being forced to take matters into their own hands ...",
+      "webUrl": "https://www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.r29static.com/bin/entry/696/0,1727,3544,1861/x,80/1868918/image.jpg",
+          "width": 3544,
+          "height": 1861,
+          "title": "The Therapy Apps Trying To Help You Deal While You’re On The NHS Waiting List",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence",
+      "cdnAmpWebUrl": "https://www-refinery29-com.cdn.ampproject.org/c/s/www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence",
+      "publishedDateTime": "2020-06-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Refinery29",
+        "domain": "refinery29.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-vw-completes-26b-self-driving-deal-connected-with-ford.md",
       "title": "VW completes $2.6B self-driving deal connected with Ford",
       "excerpt": "VW completes $2.6B self-driving deal connected with Ford Volkswagen and Ford are working with Pittsburgh-based startup Argo AI to develop self-driving technology. Check out this story on Freep.com ...",
@@ -1024,52 +1062,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-jeff-bezos-is-buying-a-stake-in-uk-digital-supply-chain-startup-beacon.md",
-      "title": "Jeff Bezos is buying a stake in UK digital supply chain startup Beacon",
-      "excerpt": "Based in London and founded in 2018, Beacon's investors already include executives from Uber, Google and Amazon, the firm says.",
-      "webUrl": "https://www.cnbc.com/2020/05/31/report-amazons-jeff-bezos-buying-stake-in-uk-digital-startup-beacon.html",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106284164-1575739700440gettyimages-1079533948.jpeg?v=1587656573",
-          "width": 5000,
-          "height": 3334,
-          "title": "Jeff Bezos is buying a stake in UK digital supply chain startup Beacon",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/31/report-amazons-jeff-bezos-buying-stake-in-uk-digital-startup-beacon.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/31/report-amazons-jeff-bezos-buying-stake-in-uk-digital-startup-beacon.html",
-      "publishedDateTime": "2020-06-01T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

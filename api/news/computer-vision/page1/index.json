@@ -2,6 +2,36 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-23-ai-startup-pilots-digital-masks-that-counter-facial-recognition.md",
+      "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
+      "excerpt": "Alethea AI, a synthetic media company, is piloting âprivacy-preserving face skins,â or digital masks that counter facial recognition algorithms and help users preserve privacy on pre-recorded videos.",
+      "webUrl": "https://www.nasdaq.com/articles/ai-startup-pilots-digital-masks-that-counter-facial-recognition-2020-06-23",
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-facial-recognition-lawsuit-targets-ny-schools-over-student-privacy.md",
       "title": "Facial recognition lawsuit targets NY schools over student privacy",
       "excerpt": "The New York Civil Liberties Union is suing over a $3 million facial recognition system installed at the Lockport City School District.",
@@ -53,7 +83,7 @@
       "title": "South Wales Police's facial recognition tech 'not legal'",
       "excerpt": "He said it is the potential use of the facial recognition powers, not actual use to date, which was the issue. \"It's not enough that it has been done in a proportionate manner so far,\" Mr Squires said.",
       "webUrl": "https://www.bbc.com/news/uk-wales-53147221",
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1295,53 +1325,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-clearview-ai-still-backs-facial-recognition-despite-competitors-concerns.md",
-      "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
-      "excerpt": "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse.",
-      "webUrl": "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
-      "publishedDateTime": "2020-06-10T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Computer Vision"
       ]

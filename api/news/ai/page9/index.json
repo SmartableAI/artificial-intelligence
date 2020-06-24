@@ -2,6 +2,44 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-06-14-machine-learning-behind-google-translate.md",
+      "title": "Machine Learning Behind Google Translate",
+      "excerpt": "Google Translate was launched 10 years ago. During the initial days, Google Translate was launched with Phrase-Based Machine Translation as the key algorithm. Later, Google came up with other machine learning advancements that changed the way we look at foreign languages forever.",
+      "webUrl": "https://analyticsindiamag.com/google-translate-machine-learning/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/google-translate-scaled.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": "Machine Learning Behind Google Translate",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-14T01:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-14-facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos.md",
       "title": "Facebook AI model achieves 65% accuracy to detect deepfake videos",
       "excerpt": "Alarmed at the growing forged or deepfake videos on its platform, Facebook organised a Deepfake Detection Challenge and the results were not very encouraging, as the highest-performing model achieved an average precision of 65.",
@@ -1283,53 +1321,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-ai-war-games-and-the-challenge-of-china.md",
-      "title": "AI War Games And The Challenge Of China",
-      "excerpt": "Can you talk a little bit about what an AI war game would entail? JASON: There are many different formats for war games, but the fundamental goal for all of them is to explore different approaches to addressing some competitive challenge.",
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2020/06/12/ai-war-games-and-the-challenge-of-china/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee38ea557886e0006e40d37%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D371%26cropY1%3D41%26cropY2%3D288",
-          "width": 371,
-          "height": 248,
-          "title": "AI War Games And The Challenge Of China",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2020/06/12/ai-war-games-and-the-challenge-of-china/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2020/06/12/ai-war-games-and-the-challenge-of-china/amp/",
-      "publishedDateTime": "2020-06-12T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

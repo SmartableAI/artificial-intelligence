@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53147221"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53147221"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://media3.s-nbcnews.com/j/newscms/2019_23/2857426/190514-facial-recognition-ces-ew-624p_9901ee6159e029067bc24200074b6e00.fit-560w.jpg"
         width: 560
         height: 373
-        isCached: true
-  - title: "Victoria police distances itself from controversial facial recognition firm Clearview AI"
-    excerpt: "The force says it has discontinued using the service and the technology was deemed unsuitable"
-    publishedDateTime: 2020-06-19T09:08:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2020/jun/19/victoria-police-distances-itself-from-controversial-facial-recognition-firm-clearview-ai"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2020/jun/19/victoria-police-distances-itself-from-controversial-facial-recognition-firm-clearview-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2020/jun/19/victoria-police-distances-itself-from-controversial-facial-recognition-firm-clearview-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 65
-    images:
-      - url: "https://i.guim.co.uk/img/media/51f1c62e6ee32c0dca00f78c2729d5d6c269d9d7/0_51_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=71841d5c0bf7e27b56b68064234bd8ee"
-        width: 600
-        height: 360
         isCached: true
   - title: "Boston City Council Set To Vote On Facial Recognition Technology Ban"
     excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."

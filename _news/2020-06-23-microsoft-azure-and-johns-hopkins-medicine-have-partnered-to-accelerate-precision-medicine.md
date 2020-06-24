@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T13:31:00Z
 webUrl: "https://www.businessinsider.com/microsoft-johns-hopkins-partner-to-advance-precision-medicine-2020-6"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Microsoft Azure to become preferred cloud platform for Johns Hopkins inHealth precision medicine initiative"
-    excerpt: "Microsoft and Johns Hopkins Medicine (JHM) entered a five-year relationship centered on Microsoft's Azure and analytical tools that will support new discoveries as part of JHM's inHealth precision medicine initiative."
-    publishedDateTime: 2020-06-19T09:38:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-azure-to-become-preferred-cloud-platform-for-johns-hopkins-inhealth-precision-medicine-initiative--1343190"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 16
 
 secured: "6ZLF99Lhx4rZUL7PdLbVI3seu6csCeBewPKu3QKWBExPHdTezoKUv08iO8E2zFr+T/BwuGa6CppyymdNIzXxshq36oyh1H9DWhx/1ZXCjAzvrScbPoLaOYdoexOD8h6zZzGE0ZZMqVe7MxwfjvsKll03hrgVD4kKoJ6AftQhwQjyKseF3YcBQhV96fVMBGLNWIQsbqIcbMzyFcHSIwCRORkDvsapwmoYNnLcwkxu0ALRGIHqh2mGZqfnjof7Ee9VGJAss65k3DBwMqwkYiETM1QSNC6VZnAOyC9/H8mVuM6CvL+COr8L9sX9CEYzRyZqq707yJSvb3t1Yo1mwPL5ZYwFTcyIZIcgpBJ1w67IrN8ATrgnJrtE8h3zJgdiENMGvNdr1D0tAEs07WROGqC/GvSnhoX/yLdgvxolUriHlbVABQpxrIXggTVlpR2E/qGcFmRoFDgBXrrj6b5UjNi7aQn1Dn/3PWR0s/20NHSCxKSEmsmtL6DGKHmpVkNL2Gqs;oY+3PJvUlbgZgmjrlq6G6g=="
 ---

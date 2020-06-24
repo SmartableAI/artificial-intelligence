@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New Research Revealed by P&S Intelligence, AI in BFSI Market Growing at 37.2% CAGR to Reach US$ $20,017.9 Million by 2024"
-    excerpt: "United States, In 2018-19, frauds costing INR 71,543 crore were witnessed by the Indian financial sector, as per"
-    publishedDateTime: 2020-06-19T11:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/new-research-revealed-by-ps-intelligence-ai-in-bfsi-market-growing-at-372-cagr-to-reach-us-200179-million-by-2024-2020-06-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech Recognition Market to Garner $29.28 Bn, Globally, by 2026 at 19.9% CAGR, Says Allied Market Research"
     excerpt: "Allied Market Research recently published a report, \"Speech Recognition Market by Deployment Mode (On Cloud and On Premise) and End"
     publishedDateTime: 2020-06-22T13:45:00Z

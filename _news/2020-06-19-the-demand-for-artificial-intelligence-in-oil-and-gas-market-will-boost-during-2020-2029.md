@@ -31,20 +31,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Cars and Light Trucks Market - Analysis on Current Trends by 2025"
-    excerpt: "The Artificial Intelligence (AI) Cars and Light Trucks Market 2020 report is a comprehensive, professional and in-depth research of market that delivers significant data for those who are seeking information for the Artificial Intelligence (AI) Cars and Light Trucks industry."
-    publishedDateTime: 2020-06-19T10:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-cars-and-light-trucks-market---analysis-on-current-trends-by-2025-2020-06-19?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Overview, Top Key Players, Industry Growth Analysis, Forecast 2027"
     excerpt: "On the basis of offering, the global artificial intelligence in healthcare market is segmented into hardware, software,"
     publishedDateTime: 2020-06-22T07:16:00Z
@@ -84,17 +70,6 @@ related:
       name: surfacingmagazine.net
       domain: surfacingmagazine.net
     quality: 44
-  - title: "Automotive Artificial Intelligence Market Trends, Size, Forecast - 2019-2025"
-    excerpt: "Automotive Artificial Intelligence Market is expected to grow at a moderate rate during the forecast period 2019 2025 Technological advancements across the globe have paved their ways across numerous industry verticals Automotive AI is one such advancement which is expected"
-    publishedDateTime: 2020-06-19T11:04:00Z
-    webUrl: "https://www.openpr.com/news/2077559/automotive-artificial-intelligence-market-trends-size"
-    ampWebUrl: "https://www.openpr.com/amp/2077559/automotive-artificial-intelligence-market-trends-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2077559/automotive-artificial-intelligence-market-trends-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 36
   - title: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 with (Covid-19) Impact Analysis: Growth, Latest Trend Analysis and Forecast 2027"
     excerpt: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 features key points about market share, new developments, and product analysis, market players, analysis of opportunities. According to the global Artificial Intelligence (A."
     publishedDateTime: 2020-06-20T11:53:00Z

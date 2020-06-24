@@ -76,22 +76,6 @@ related:
         width: 560
         height: 373
         isCached: true
-  - title: "Victoria police distances itself from controversial facial recognition firm Clearview AI"
-    excerpt: "The force says it has discontinued using the service and the technology was deemed unsuitable"
-    publishedDateTime: 2020-06-19T09:08:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2020/jun/19/victoria-police-distances-itself-from-controversial-facial-recognition-firm-clearview-ai"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2020/jun/19/victoria-police-distances-itself-from-controversial-facial-recognition-firm-clearview-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2020/jun/19/victoria-police-distances-itself-from-controversial-facial-recognition-firm-clearview-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 65
-    images:
-      - url: "https://i.guim.co.uk/img/media/51f1c62e6ee32c0dca00f78c2729d5d6c269d9d7/0_51_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=71841d5c0bf7e27b56b68064234bd8ee"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Opinion | The futile withdrawal of facial recognition software by Big Tech"
     excerpt: "This technology is bound to proliferate regardless of flaws as it’s being pursued by such regimes as China’s for surveillance"
     publishedDateTime: 2020-06-22T16:21:00Z

@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AGILOX Autonomous Mobile Robots are substantially saving costs by applying Artificial Swarm Intelligence"
-    excerpt: "Swarm Intelligence (SI) and bio-inspired computing have attracted great interest in almost every area of science and engineering, including robotics, over the last two decades.Being an"
-    publishedDateTime: 2020-06-19T09:25:00Z
-    webUrl: "https://www.sourcesecurity.com/news/agilox-autonomous-mobile-robots-substantially-saving-co-1592488786-ga.1592494744.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/agilox-autonomous-mobile-robots-substantially-saving-co-1592488786-ga.1592494744.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/agilox-autonomous-mobile-robots-substantially-saving-co-1592488786-ga.1592494744.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 42
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/920/agilox-autonomous-mobile-robots-saving-costs-artificial-swarm-intelligence-920x533.jpg"
-        width: 920
-        height: 533
-        isCached: true
 
 secured: "NgJgotnV9AB4DNWOaHI7yE/qa2b5DD0GdDga5Ihw0ObBAq0jLJv/wa/puZP/RJY5+hlIu08XLT6hP6Twe3jXV7E6+qBb43nOxxp9e8X9qS0BRZyNWnoNQ849i73fJsrNxDUlPcH4126+TBVrVnOixe5b+u4EU0lGhZPkKdj4txHAA+iUQZwjlhyKmVWZIRkIMVYs77+SnE6pLg9ujbQYluol78vDBu4HTJBOMdbSqgQhobNgx30HPuLpS2+CUvbdStMlKljZk4KrZV59IogpyDPsBr3Ouhuc2lhXJdkKTbvJIzJNo+5PKFi/icnReoCTuXYFZMilUj8skUku3HncwQ==;h6ftUyeYMkPxtZXTqHCU7Q=="
 ---

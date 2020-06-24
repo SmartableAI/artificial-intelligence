@@ -49,6 +49,36 @@
       ]
     },
     {
+      "path": "_news/2020-06-23-ai-startup-pilots-digital-masks-that-counter-facial-recognition.md",
+      "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
+      "excerpt": "Alethea AI, a synthetic media company, is piloting âprivacy-preserving face skins,â or digital masks that counter facial recognition algorithms and help users preserve privacy on pre-recorded videos.",
+      "webUrl": "https://www.nasdaq.com/articles/ai-startup-pilots-digital-masks-that-counter-facial-recognition-2020-06-23",
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-facebook-claims-wav2vec-20-tops-speech-recognition-performance-with-10-minutes-of-labeled-data.md",
       "title": "Facebook claims wav2vec 2.0 tops speech recognition performance with 10 minutes of labeled data",
       "excerpt": "In a paper published on the preprint server Arxiv.org, researchers at Facebook describe wave2vec 2.0, an improved framework for self-supervised speech recognition. They claim it demonstrates for ...",
@@ -279,7 +309,7 @@
       "title": "Global Voice recognition Market to reach USD 160.5 billion by 2027",
       "excerpt": "Bizwit Research & Consulting LLP's Recent Analysis on Global Voice recognition Market is poised to raise up to USD 160.5 billion by 2027. The Voice recognition market has been on the surging trend on the global scenario.",
       "webUrl": "https://www.marketwatch.com/press-release/global-voice-recognition-market-to-reach-usd-1605-billion-by-2027-2020-06-19?mod=mw_quote_news&tesla=y",
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1271,35 +1301,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-natural-language-processing-nlp-market-to-exhibit-324-cagr-increasing-technological-advancement-to-drive-growth-fortune-business-insights.md",
-      "title": "Natural Language Processing (NLP) Market to Exhibit 32.4% CAGR; Increasing Technological Advancement to Drive Growth: Fortune Business Insights™",
-      "excerpt": "This information is published by Fortune Business Insights™, in a report, titled, “Natural Language Processing (NLP) Market Size, Share & Industry Analysis, By Deployment (On-Premises ...",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/06/08/2045035/0/en/Natural-Language-Processing-NLP-Market-to-Exhibit-32-4-CAGR-Increasing-Technological-Advancement-to-Drive-Growth-Fortune-Business-Insights.html",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

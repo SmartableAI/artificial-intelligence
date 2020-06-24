@@ -73,22 +73,6 @@ related:
         width: 560
         height: 373
         isCached: true
-  - title: "Victoria police distances itself from controversial facial recognition firm Clearview AI"
-    excerpt: "The force says it has discontinued using the service and the technology was deemed unsuitable"
-    publishedDateTime: 2020-06-19T09:08:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2020/jun/19/victoria-police-distances-itself-from-controversial-facial-recognition-firm-clearview-ai"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2020/jun/19/victoria-police-distances-itself-from-controversial-facial-recognition-firm-clearview-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2020/jun/19/victoria-police-distances-itself-from-controversial-facial-recognition-firm-clearview-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 65
-    images:
-      - url: "https://i.guim.co.uk/img/media/51f1c62e6ee32c0dca00f78c2729d5d6c269d9d7/0_51_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=71841d5c0bf7e27b56b68064234bd8ee"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Boston City Council Set To Vote On Facial Recognition Technology Ban"
     excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."
     publishedDateTime: 2020-06-23T23:39:00Z
@@ -176,6 +160,6 @@ related:
         height: 409
         isCached: true
 
-secured: "ctzT8Xg3bnEpNELhBNOI262CzMkS8LL71+HRl5I5IfHWt9q+9sAFoDoAyA2SqVIT5kBC5RmuzKcGEoE6F6AS2KteNZSjKh9lH6ru18Yntg2+re+dhKiJtEBkjHUCx2UgX/5dkZbU6iytap3jCkRy+We9S+ayrZRPcVFJgwiQ+AvuJM58HJzT4q45W+Np9hDPiz7oPXuitZsBtZQO5Pl1HP09cv0Q0fZfhFfa9kwYpD9+azAisG0DTgGZkb2H2lE3d76T4dudrCeNKqZ6HNJfdb5Y0bWMzMuE+14e0U+8iB9q2G/3/8p3K1fGGXiXscvUz9jEYELlzU+DKzhozDrSzA==;TEkURf/WVg7mmifXIvTl5w=="
+secured: "fPotLnlxscrAFQrrCYZc2hplT7YjNeS+BoDIpngcqoSmiH1OeC0CHtCz+8xEVvecm/dXCvn5vN7CvfqyVthEaw7IeXqHGjS6W4W41PO5GT14wDPEoJ2JrgBlvFSS+OJ2TIbiEM1+3rI38CosImJHoJoErbMwYsO3ANLF3aKcEXPqfYMG2jxnUyXD4N0Gus5aJcTL9Iv4E7TdtbhKb0oYWyqpWdh1ImEvwuYT1W/nXDZBr/eIf6Axw3fea7pKt4+DqA8XvhrRuRdC0Yk+JqTgf3rWgd+JjzuMOTrgY2VCCFiTmvMs4UTithHpkc8wJmfceSH8dNlWI1CSN5w021CFiUsEdENndOk/Okqxzd+TE5HTib+oIPnH0ldJxHrahmnrToLTUYbioi7IHV55+b9prmPN3GFGHU3ZQKru5Ga7rqD4seHKB53I+3KLggONUw3Blq4W+Gfq6STZkCKp2Lq6uzNKEflEKVDm6hpuhYOCZmMmClNL66AjembU2u64t2JrQcA299hJDpVN+JiMZN2EJQ==;iSKkSqESHznR2WPG37XQfQ=="
 ---
 

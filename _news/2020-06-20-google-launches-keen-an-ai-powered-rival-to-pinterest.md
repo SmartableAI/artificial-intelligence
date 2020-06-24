@@ -8,7 +8,7 @@ ampWebUrl: "https://mybroadband.co.za/news/internet/356813-google-launches-keen-
 cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/internet/356813-google-launches-keen-an-ai-powered-rival-to-pinterest.html/amp"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Google quietly launches an AI-powered Pinterest rival named Keen"
-    excerpt: "On Keen [...] you say what you want to spend more time on, and then curate content from the web and people you trust to help make that happen,” writes Adams in a blog post. Y"
-    publishedDateTime: 2020-06-19T09:18:00Z
-    webUrl: "https://www.theverge.com/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 87
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/oMLxZlGuSVMylzpxK22gnkGl_Vg=/0x0:1000x502/1400x933/filters:focal(420x171:580x331):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66956670/keen.0.png"
-        width: 1000
-        height: 502
-        isCached: true
   - title: "Google unveils Pinterest rival 'Keen' that curates content using the company's machine-learning"
     excerpt: "Keen, which was quietly introduced this week, is available on the web and Android and is meant to be an alternative to the infinite scrolling associated with other types of web and social media browsing."
     publishedDateTime: 2020-06-19T16:15:00Z
