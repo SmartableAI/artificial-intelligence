@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market 2020 by Regions, Manufactures, Type, Application, Sales, Revenue and Forecast to 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Machine Learning as a Service (MLaaS) Market” report provides valuable information regarding new products in the market,"
+    publishedDateTime: 2020-06-24T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2020-by-regions-manufactures-type-application-sales-revenue-and-forecast-to-2026-2020-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026"
     excerpt: "A leading research firm Zion Market research added a recent report on “Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026” to its research database."
     publishedDateTime: 2020-06-22T11:34:00Z
@@ -109,15 +123,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "The Demand For Artificial Intelligence in Oil and Gas Market Will Boost During 2020-2029"
-    excerpt: "To get a copy of the sample report, Click here @  Some of the key players in the Artificial Intelligence in Oil and Gas Market are: Some of the prominent service providers of Artificial Intelligence in the oil and gas industry are listed below."
-    publishedDateTime: 2020-06-19T16:59:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/134142/the-demand-for-artificial-intelligence-in-oil-and/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 8
 
 secured: "9whXy2yLeCL/pmtcfC/mY6SYI0K6QZ/qpIgNAC43NAHhOa9BOnHreFh+zICZdPXp5czGCY8CkOrKgh88Iw3T5jJJGYpzy10Kqj55jNGG+qvFje12VvSncpeNAoihg4seWN+xWItjq1cUx0e5JmMYulLMeKu+6PgqTekdF1qH1+/Qlui1qbChdYS6aPiPnB9CoTWjl/fPc4CilcadXuSTQYQIKDbxzdNF2u0/QnPQRl1mlageyFULjzCMp54c5ajW9uDfH2JRKl4pPm5trxOk01GnGu2EbB9dGaw3O167F86f3gW8yff1PfXWnp4Z9cDIYP/DGL+YE75CxIwTMmEFUw==;KgfQQDk3myO6qqbcZac3KA=="
 ---

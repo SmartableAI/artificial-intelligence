@@ -139,6 +139,20 @@ related:
         width: 2880
         height: 1800
         isCached: true
+  - title: "Man Says He Was Falsely Arrested After Facial Recognition Mistake"
+    excerpt: "The ACLU has filed a complaint against the Detroit Police Department for what the group says is the first documented instance in the U.S. of someone being falsely arrested based on AI."
+    publishedDateTime: 2020-06-24T09:06:00Z
+    webUrl: "https://www.npr.org/2020/06/24/882678392/man-says-he-was-falsely-arrested-after-facial-recognition-mistake"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 39
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Tech Companies Are Limiting Police Use of Facial Recognition. Here's Why"
     excerpt: "IBM said it was getting out of the facial recognition business. Then Amazon and Microsoft announced prohibitions on law enforcement using their facial recognition tech. There's growing evidence these algorithmic systems are riddled with gender and racial bias."
     publishedDateTime: 2020-06-23T08:00:00Z
@@ -192,6 +206,6 @@ related:
         height: 409
         isCached: true
 
-secured: "OCp5+wuxFXtBkgQylI7VOm9SBrup0p62L2UOJotPcAaUNEadiowJ2mzqLd8g8WhselVYfhPkHDwUVF/xEhl0Kc9szTuxr1Ywid6uLQveoQ3DXc8iDd8ch0sLdMAqW9J9VfYcwXtwNZ8ruRs7a6H9LHuqew94PAI5zGPHK3DpnG6C7caDxsYpV/rjUTrEY78Ra2mYDFnRLwuhoD0dwtmiHBDy/dVgvFWZg86tXZ3r+XBm/+nXIheODSIJ/BfyqvfdzBiZevh/pEn55MvtZWwWcRo5AdG9ag4nEVmju8pCfRla2hXy8L3jUhF8CyYqrYbJdpguZ85IA6SxF5qwMs2QWQ==;uvEi3nElGe0uNoxidtTH5A=="
+secured: "2VOXNfDJpb3BadPde5pnExtwLpxCDW3Fp/llgJdMNHhItj01NqD0hYPxflP14urERNV6kbyA9FJYhJgSWIa89YwS/O7iF9k7AAxKNU7iqTbikPbSM9b4fRc0bFK2KOss7DO0k6GuLakbipuhGEjNw5pMj8O6Wqx7hn0xWNC/fSpluE1SR+ueFAQ2XwaX//VYWVf7Loy1j+tVDKimQ1qRFXIbbJH3a172YDpbTv933XckyYqirSpxx6A3HsnC9H9tUqxXIDycsrzA5a619Wfi4lTI0pwzALQ/6k48ryBZLd9UOFEBgIwvhvCvY7FSWnNG3BFGDLQXYUpWKZDDSWQttCMSIRqTUJpi5kCBkQ9GfmV1kHo6CkGX6hrUpTlRI3ILAP/0QpXt5ePkAYMr4bxdfw4L380wMP8+zDJh5piqRNKFg+n1Uk2m1OSbp5V8TlgYYySzYdL76qMUVg6/hgkDeWusJXI7/zUq+1iIKKo7dAcCl7Lt31M88VIjbKKIuB59ILkKXAOBFd7U0KICYQv08A==;FhiaZnRQI1FfXnQ5Y3PZsg=="
 ---
 

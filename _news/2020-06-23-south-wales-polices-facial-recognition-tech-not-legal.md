@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53147221"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53147221"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://www.itweb.co.za/static/pictures/2020/06/FlowCentric.jpg"
         width: 816
         height: 459
+        isCached: true
+  - title: "Man Says He Was Falsely Arrested After Facial Recognition Mistake"
+    excerpt: "The ACLU has filed a complaint against the Detroit Police Department for what the group says is the first documented instance in the U.S. of someone being falsely arrested based on AI."
+    publishedDateTime: 2020-06-24T09:06:00Z
+    webUrl: "https://www.npr.org/2020/06/24/882678392/man-says-he-was-falsely-arrested-after-facial-recognition-mistake"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 39
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Tech Companies Are Limiting Police Use of Facial Recognition. Here's Why"
     excerpt: "IBM said it was getting out of the facial recognition business. Then Amazon and Microsoft announced prohibitions on law enforcement using their facial recognition tech. There's growing evidence these algorithmic systems are riddled with gender and racial bias."

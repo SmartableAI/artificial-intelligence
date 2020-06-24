@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market 2020 by Regions, Manufactures, Type, Application, Sales, Revenue and Forecast to 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Machine Learning as a Service (MLaaS) Market” report provides valuable information regarding new products in the market,"
+    publishedDateTime: 2020-06-24T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2020-by-regions-manufactures-type-application-sales-revenue-and-forecast-to-2026-2020-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2025"
     excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
     publishedDateTime: 2020-06-23T15:36:00Z
@@ -108,15 +122,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "The Demand For Artificial Intelligence in Oil and Gas Market Will Boost During 2020-2029"
-    excerpt: "To get a copy of the sample report, Click here @  Some of the key players in the Artificial Intelligence in Oil and Gas Market are: Some of the prominent service providers of Artificial Intelligence in the oil and gas industry are listed below."
-    publishedDateTime: 2020-06-19T16:59:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/134142/the-demand-for-artificial-intelligence-in-oil-and/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 8
 
 secured: "DzMa0IgDcbCJSmoIaSV4tLkbvXTmjNHran/YTJpI8Yjpbgd5atPUC3+SYgekhYNDnbILIvQkyY2H1zHtpk+Cp5XXxlVIbC1sBDTRbeSw6vlcRK0EhGxwjaeeCi8SamuCZyrOWzQjpl1UkSqpobX7AXzXJ9jZ8G0gBDYadFT32kpu1Glx2QPYF2Y13kqNK3jyvrzPxqVb9vUrivlOsFBLhbL/ZX4qMN2BORpq/8fwMYighmdVdbPeXK28DByK8KYvzhhH4SbC1cBCUjpcPZ/pyz6PUD5XCMwugZaLBytiHOhsg9oHcjxyslDTr+XRPcPhXv53rJwAQJ0z3UB2qu4M5w==;A6aKmfFXe2j8d+iU/C14Sw=="
 ---

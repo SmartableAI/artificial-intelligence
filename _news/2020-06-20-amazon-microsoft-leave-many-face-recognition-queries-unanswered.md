@@ -8,7 +8,7 @@ ampWebUrl: "https://www.seattletimes.com/business/amazon-microsoft-leave-many-fa
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazon-microsoft-leave-many-face-recognition-queries-unanswered/?amp=1"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     height: 210
     isCached: true
     title: "Amazon, Microsoft leave many face-recognition queries unanswered"
-
-related:
-  - title: "Amazon, Microsoft Leave Many Face-Recognition Queries Unanswered"
-    excerpt: "A week after the tech giants said they won’t sell the tech to police for now, it’s not clear what’s included in the ban"
-    publishedDateTime: 2020-06-19T16:44:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-06-19/amazon-microsoft-leave-many-face-recognition-queries-unanswered"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-06-19/amazon-microsoft-leave-many-face-recognition-queries-unanswered"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-19/amazon-microsoft-leave-many-face-recognition-queries-unanswered"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
 
 secured: "C95V6znyyWMv7pzV3YucLIIGdsK4zKKFOZMpF2R0F604qL4bNAKa4blPkoEmRD63TuDtH/ZZdGPEAu9gP9NPS3spUnintqsndSj7+0yCav1CXr58DtcZCAh9qxqHP0m70cEubV3XLeRvyId2hBc/YmyoFAqLeiia0Fkci73Qo1qJ86Wteb680ohWAOcL53jmtBq46k1fAKDgp32tudY36/J/3W3WsJjyLzrRSOHJf7JP2SRwF2Da/17JbJHbzJocMvXJaTU09sSgshZfqlSjqgSutQSWjMHvzoWEMdKx1oblDPQUiYDrtRl+biRvj2u/15wfchun6TDIIp7G1bdXcO7s8geUoswS+mOLqGJu1SearYpQcOjkjPlIRF1jCHYRYPWAl6vTsiUq36zCdIcjzkHpbsX8oswbUjtMN/rKI5LKoXk7qconbDib50+cZGgoRAvouQRvvt61PmdNvaC7qsXR7OGwUDxVeGokb53s7bkDFF/eppNxW46t5pp85MoimU38LbZnbJGOZRxaGPyWHw==;xC1S8bfLYVrNEgTh9TOT7A=="
 ---

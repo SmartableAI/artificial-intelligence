@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market 2020 by Regions, Manufactures, Type, Application, Sales, Revenue and Forecast to 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Machine Learning as a Service (MLaaS) Market” report provides valuable information regarding new products in the market,"
+    publishedDateTime: 2020-06-24T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2020-by-regions-manufactures-type-application-sales-revenue-and-forecast-to-2026-2020-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2025"
     excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
     publishedDateTime: 2020-06-23T15:36:00Z
@@ -105,15 +119,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Demand For Artificial Intelligence in Oil and Gas Market Will Boost During 2020-2029"
-    excerpt: "To get a copy of the sample report, Click here @  Some of the key players in the Artificial Intelligence in Oil and Gas Market are: Some of the prominent service providers of Artificial Intelligence in the oil and gas industry are listed below."
-    publishedDateTime: 2020-06-19T16:59:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/134142/the-demand-for-artificial-intelligence-in-oil-and/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 8
 
 secured: "vPwOHc+zimKQVn2Y/05nyTQDFi1Ir/0sNuv1dF68MCQ9LpamjrOuBYCRGktIHUmwzliWok2rDBq1iYMIKBYP2vyW0QbQGJ+outV0I8HcTSM1LpQ8yaN4T+p0heXwP0Bqm+993LnMRge3ojWGWXvjDCXadJIraltLav0ahbpYoWh+Bx2Oe9J+G7/CDhMTI3tSSmse1/EvX4PKb7Zk7iIB99DQVo6rFFAccFIYVh+MzOLa+p5yFti3ssk9tXRx0KHLxD+faY6TP2hxjO5yBAWKZjBMiuCzunk5ogH1chMe/okysh6z0A8q9u2WYNKGW8I1D3JzleUkBcV8GloPhdbmXaFk7IDx0cv/8ejt3IQOeAtzsLcrvWitvzKq8o7uBR1qBOQAC3P8kLGEztShs3xET/R8BlNwnOkMJtRbfls54DPbKV12zllFQYIZocIV2yWBr+Bl6fXd0acTUD9UiCu2f4pQ/ON2MNBDfOX4+PCUVtPCxz89GxNC3+zEeD+6KHYmeuq6p4AcMomLciEo2YdXfg==;iTJ91ZmhYKfTL/UTXOkjoA=="
 ---

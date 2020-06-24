@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "BMW and Mercedes cease joint development of self-driving system"
-    excerpt: "Benz said in a joint statement Friday they have ceased cooperation on development of self-driving car technology. The cooperation started in February 2019 as means to accelerate the development of the technology."
-    publishedDateTime: 2020-06-19T17:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1128568_bmw-and-mercedes-cease-joint-development-of-self-driving-system"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/bmw-and-mercedes-benz-self-driving-car-concepts_100693731_h.jpg"
-        width: 1920
-        height: 982
-        isCached: true
 
 secured: "3OblOuKJ8qGVN7UCL1Av4Baq59YN8EqmZK8Qx7ICHfJmbD5K00EWhFWlghNOq6Hzw8sJvRnTHtclnudKGBRAqThCpYOs7m2WQUlltHxbYMpK6ZeCkNVfpJLc9NLNgnP/KG9/lV6J4hpAzeyLORzfZMgeZ9TAU12z6B75TU8NbxCS4eWfKWNLL0bEgghKlO92T5d3asQ2OxXlqC0omRiQJyaanvf1r3a32BQVQ6cDLPXnw6f4XBFFfQmE8UoZe5bmBZisscSQIhZz+5H59mhki8HgGxqMpGoZJ7h13dUP2kctUYGeYWQWBi45C48A+5HZPgYUuqaZnk5N/SQKD1iIt/EJZ5r7pKA5rn7lyT62eVfYjNxkaWTur1ioMfXh76d/5MBaV+dhPPrtFEzPVBrY8JOXWFgwCpjrAJVmK/KlF6LN3dmMhupikqD5iis6hJFWvtTQza+9pEa/XAv1Dz6hrppDtVQR8VWBw8zh25ara4mDQaVDdPGBgkbDG9+OjCdGWlMIODqVJLI46zIbn6bpKg==;dH707K60gs6790tjbz1Hmw=="
 ---

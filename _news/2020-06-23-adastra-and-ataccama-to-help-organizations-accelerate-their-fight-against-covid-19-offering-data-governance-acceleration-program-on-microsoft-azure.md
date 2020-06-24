@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft Azure To Help In Johns Hopkins Medicine's Discoveries"
-    excerpt: "Microsoft Corp. and Johns Hopkins Medicine or JHM said they have entered into a five-year agreement that will see Microsoft Azure become the preferred cloud platform for Johns Hopkins inHealth precision medicine initiative."
-    publishedDateTime: 2020-06-19T15:31:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-azure-to-help-in-johns-hopkins-medicines-discoveries-2020-06-19"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "Johns Hopkins Leverages Microsoft AI for Precision Medicine"
     excerpt: "Johns Hopkins Medicine will leverage Microsoft Azure's artificial intelligence and analytics tools to advance precision medicine discoveries."
     publishedDateTime: 2020-06-22T13:56:00Z

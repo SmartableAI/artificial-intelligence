@@ -38,17 +38,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
-  - title: "FEATURE-'Lost memories': War crimes evidence threatened by AI moderation"
-    excerpt: "Erroneous takedowns threaten content like videos that are used as formal evidence of rights violations by international bodies such as the International Criminal Court and the United Nations, said Dia Kayyali of digital rights group Witness."
-    publishedDateTime: 2020-06-19T16:09:00Z
-    webUrl: "https://www.reuters.com/article/global-socialmedia-rights/feature-lost-memories-war-crimes-evidence-threatened-by-ai-moderation-idUSL8N2DT3AU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2DT3AU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2DT3AU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 68
   - title: "War crimes evidence threatened by AI moderation"
     excerpt: "Companies like Facebook have also pledged to remove misinformation about the coronavirus outbreak that could contribute to imminent physical harm. These pressures, combined with an increased reliance on AI during ... \"Our research suggests that since ..."
     publishedDateTime: 2020-06-23T22:10:00Z

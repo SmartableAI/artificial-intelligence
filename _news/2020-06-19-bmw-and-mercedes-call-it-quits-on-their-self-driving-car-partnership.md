@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "BMW and Mercedes shelve shared self-driving tech plan"
-    excerpt: "Benz have put their autonomous driving collaboration on hold, blaming the expense of building a shared system for the decision. The two German automakers announced their"
-    publishedDateTime: 2020-06-19T15:23:00Z
-    webUrl: "https://www.slashgear.com/bmw-and-mercedes-shelve-shared-self-driving-tech-plan-19625593/"
-    ampWebUrl: "https://www.slashgear.com/bmw-and-mercedes-shelve-shared-self-driving-tech-plan-19625593/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/bmw-and-mercedes-shelve-shared-self-driving-tech-plan-19625593/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/mercedes-benz-autonomous-car-prototype-1.jpg"
-        width: 1593
-        height: 996
-        isCached: true
   - title: "Didi Chuxing and BAIC form self driving partnership"
     excerpt: "Chinese ride hailing company Didi Chuxing has entered into a strategic partnership with local carmaker BAIC Group, according to local reports."
     publishedDateTime: 2020-06-23T08:49:00Z
@@ -92,6 +76,20 @@ related:
       - url: "https://www.teslarati.com/wp-content/uploads/2019/07/bmw-i-vision-dynamics-concept-1-1024x499.jpg"
         width: 1024
         height: 499
+        isCached: true
+  - title: "Mercedes Benz and NVIDIA to develop new self driving architecture"
+    excerpt: "Mercedes Benz has announced that they are working with NVIDIA to develops a new Software-Defined Computing Architecture for their future self driving cars. This new architecture will be built in NVIDIA’s DRIVETM platform and it will be standard in the ..."
+    publishedDateTime: 2020-06-24T09:11:00Z
+    webUrl: "https://www.geeky-gadgets.com/mercedes-benz-and-nvidia-to-develop-new-self-driving-architecture-24-06-2020"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/06/Mercedes-Benz-and-NVIDIA-.jpg"
+        width: 700
+        height: 495
         isCached: true
   - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
     excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees"

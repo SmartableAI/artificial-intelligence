@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T13:10:00Z
 webUrl: "https://www.supplychainbrain.com/articles/31511-walmarts-self-driving-partner-is-changing-e-commerce-economics"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     title: "Walmart’s Self-Driving Partner Is Changing E-Commerce Economics"
 
 related:
-  - title: "Walmart’s self-driving partner is changing e-commerce economics"
-    excerpt: "For a self-driving vehicle startup, Gatik has an odd mantra: don’t agonize over autonomy, worry about delivery. Specifically, the three-year-old company is focused on so-called middle-mile delivery, the oft-overlooked leg between when,"
-    publishedDateTime: 2020-06-19T16:06:00Z
-    webUrl: "https://www.autonews.com/mobility-report/walmarts-self-driving-partner-changing-e-commerce-economics"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Walmart%20Delivery%20Van.jpg?h=55dc3bfa"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Walmart’s Self-Driving Partner Is Changing E-Commerce Economics"
     excerpt: "(Bloomberg) -- For a self-driving vehicle startup, Gatik has an odd mantra: don’t agonize over autonomy, worry about delivery.Specifically, the three-year-old company is focused"
     publishedDateTime: 2020-06-21T01:41:00Z

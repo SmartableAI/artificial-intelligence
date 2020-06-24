@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Artificial vs augmented intelligence: what’s the difference?"
+    excerpt: "Artificial intelligence has accrued some very bad reputation over the years. For some, the term AI has become synonymous with the mass unemployment, mass slavery, and mass extermination of humans by robots."
+    publishedDateTime: 2020-06-24T09:10:00Z
+    webUrl: "https://thenextweb.com/neural/2020/06/24/1300892-syndication/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/06/24/1300892-syndication/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/24/1300892-syndication/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 78
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/2-796x417.jpg"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Why aren't people smarter? The dubious benefits of intelligence, real or artificial"
     excerpt: "Intelligence -- real or artificial -- is supposed to be a big advantage. But we've had millions of years to evolve real intelligence and dumbness is rampant. Which raises the question: If intelligence is so good,"
     publishedDateTime: 2020-06-22T15:07:00Z
@@ -34,6 +50,20 @@ related:
       - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/07/15acec1a-c9b8-4440-80e9-2d7266e44721/thumbnail/1200x675/68d586e111b2a5939b36cf74ebe8a84e/in-the-modern-data-center.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The scandal surrounding German MP Philipp Amthor: What is Augustus Intelligence?"
+    excerpt: "The question arises whether Augustus Intelligence is a genuine commercial enterprise or rather a covert intelligence service operation."
+    publishedDateTime: 2020-06-23T07:06:00Z
+    webUrl: "https://www.wsws.org/en/articles/2020/06/23/amth-j23.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 17
+    images:
+      - url: "https://www.wsws.org/asset/4847716a-9ac6-4be3-a9b5-e48ef62acb88/image.jpg"
+        width: 3828
+        height: 2298
         isCached: true
 
 secured: "NgJgotnV9AB4DNWOaHI7yE/qa2b5DD0GdDga5Ihw0ObBAq0jLJv/wa/puZP/RJY5+hlIu08XLT6hP6Twe3jXV7E6+qBb43nOxxp9e8X9qS0BRZyNWnoNQ849i73fJsrNxDUlPcH4126+TBVrVnOixe5b+u4EU0lGhZPkKdj4txHAA+iUQZwjlhyKmVWZIRkIMVYs77+SnE6pLg9ujbQYluol78vDBu4HTJBOMdbSqgQhobNgx30HPuLpS2+CUvbdStMlKljZk4KrZV59IogpyDPsBr3Ouhuc2lhXJdkKTbvJIzJNo+5PKFi/icnReoCTuXYFZMilUj8skUku3HncwQ==;h6ftUyeYMkPxtZXTqHCU7Q=="
