@@ -70,6 +70,17 @@ related:
       name: surfacingmagazine.net
       domain: surfacingmagazine.net
     quality: 44
+  - title: "Deep Learning Market Growth 2020, Trends, Size, Share and Forecast By 2025"
+    excerpt: "Deep learning is a subset of machine learning (ML) in the field of artificial intelligence (AI), which imitates the workings of the human brain for processing big data and creating patterns. Also known as a deep neural network, it plays a vital role in ..."
+    publishedDateTime: 2020-06-24T05:47:00Z
+    webUrl: "https://www.openpr.com/news/2079471/deep-learning-market-growth-2020-trends-size-share"
+    ampWebUrl: "https://www.openpr.com/amp/2079471/deep-learning-market-growth-2020-trends-size-share"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2079471/deep-learning-market-growth-2020-trends-size-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
   - title: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 with (Covid-19) Impact Analysis: Growth, Latest Trend Analysis and Forecast 2027"
     excerpt: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 features key points about market share, new developments, and product analysis, market players, analysis of opportunities. According to the global Artificial Intelligence (A."
     publishedDateTime: 2020-06-20T11:53:00Z

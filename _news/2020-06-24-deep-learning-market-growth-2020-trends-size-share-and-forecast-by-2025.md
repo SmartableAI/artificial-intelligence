@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026"
-excerpt: "A leading research firm Zion Market research added a recent report on “Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026” to its research database."
-publishedDateTime: 2020-06-22T11:34:00Z
-webUrl: "https://surfacingmagazine.net/global-artificial-intelligence-ai-in-healthcare-market-sales-price-revenue-gross-margin-and-industry-share-2020-2026/"
-ampWebUrl: "https://surfacingmagazine.net/global-artificial-intelligence-ai-in-healthcare-market-sales-price-revenue-gross-margin-and-industry-share-2020-2026/amp/"
-cdnAmpWebUrl: "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/global-artificial-intelligence-ai-in-healthcare-market-sales-price-revenue-gross-margin-and-industry-share-2020-2026/amp/"
+title: "Deep Learning Market Growth 2020, Trends, Size, Share and Forecast By 2025"
+excerpt: "Deep learning is a subset of machine learning (ML) in the field of artificial intelligence (AI), which imitates the workings of the human brain for processing big data and creating patterns. Also known as a deep neural network, it plays a vital role in ..."
+publishedDateTime: 2020-06-24T05:47:00Z
+webUrl: "https://www.openpr.com/news/2079471/deep-learning-market-growth-2020-trends-size-share"
+ampWebUrl: "https://www.openpr.com/amp/2079471/deep-learning-market-growth-2020-trends-size-share"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2079471/deep-learning-market-growth-2020-trends-size-share"
 type: article
-quality: 44
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: surfacingmagazine.net
-  domain: surfacingmagazine.net
+  name: openpr.com
+  domain: openpr.com
 
 topics:
-  - AI in Healthcare
+  - Machine Learning
   - AI
 
 related:
@@ -62,17 +62,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Growth 2020, Trends, Size, Share and Forecast By 2025"
-    excerpt: "Deep learning is a subset of machine learning (ML) in the field of artificial intelligence (AI), which imitates the workings of the human brain for processing big data and creating patterns. Also known as a deep neural network, it plays a vital role in ..."
-    publishedDateTime: 2020-06-24T05:47:00Z
-    webUrl: "https://www.openpr.com/news/2079471/deep-learning-market-growth-2020-trends-size-share"
-    ampWebUrl: "https://www.openpr.com/amp/2079471/deep-learning-market-growth-2020-trends-size-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2079471/deep-learning-market-growth-2020-trends-size-share"
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026"
+    excerpt: "A leading research firm Zion Market research added a recent report on “Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026” to its research database."
+    publishedDateTime: 2020-06-22T11:34:00Z
+    webUrl: "https://surfacingmagazine.net/global-artificial-intelligence-ai-in-healthcare-market-sales-price-revenue-gross-margin-and-industry-share-2020-2026/"
+    ampWebUrl: "https://surfacingmagazine.net/global-artificial-intelligence-ai-in-healthcare-market-sales-price-revenue-gross-margin-and-industry-share-2020-2026/amp/"
+    cdnAmpWebUrl: "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/global-artificial-intelligence-ai-in-healthcare-market-sales-price-revenue-gross-margin-and-industry-share-2020-2026/amp/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
+      name: surfacingmagazine.net
+      domain: surfacingmagazine.net
+    quality: 44
   - title: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 with (Covid-19) Impact Analysis: Growth, Latest Trend Analysis and Forecast 2027"
     excerpt: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 features key points about market share, new developments, and product analysis, market players, analysis of opportunities. According to the global Artificial Intelligence (A."
     publishedDateTime: 2020-06-20T11:53:00Z
@@ -99,6 +99,6 @@ related:
       domain: arnnet.com.au
     quality: 8
 
-secured: "IDqAd1u9AvL68QelzdnCzMaBkXSsBzr4Mzk02es78yvaO2V03Ks1B8+QaFkrq+H/XiD1GASLFikRu4uupGDX/Z4nZnyo+qZxdc8pmx9o0b1EYsqJMI6qhXQxKeWoBGXXvxmWSQMvi2CbjnI33wN5xv6HA0YH/Ct17Hb490yt3y2gYxl9PZ5k2kp0hBLNqtu5L0od4fSR2rAQ0h6e9fXUOvEkFqekoEdioiGPqMlm4l5eI/F5tq2YrA8xPH15PlshN2dSQtfmfI9vuA7qQB6YKa62e1Os1nGt0KgsJ/W8WvWdD6mqZLPZYU5gkdoee9VSixUBzlij0HEGMT1Xvcprbw==;garceoMsrVk/q4VjFB5rnQ=="
+secured: "jdoI9PG95fwImXhyIXoCwsFpm/MonEkrKJ2BNZpFu0DZfXqx71gYqGnR37jQmaLDUcRwWX1CA9Z9Eu4RgGRTFlaXRCVTgFeAXSKM/xRUGOq/D7m9TsDckxGPmrk+XJB05laxcWcs5P7x+3acTsUc4N0woT4o9P0aUeAt6KwAixl1alrOHr2+XxISSFrwFOWAyjjrA0o7DhcrDwlPe/Eyz3XmSzXP62q7a1vnRCFePKFa0UjGgB+wRFbAHPvaDO1eFWfFqNf9U5eMnc1hOeuVnIVdhzkEG+L2zhvByGGaiRLu4gS5SWkesevcm8lh9tC2x92Ge8kTIFXzPpJDWEEksQUUoNpWxfNbX5/ir61vf5TERIv1hPRS60t7nNHkWHLTvjCywz5JZrJT8QsdnpKse+6Y5stwEjkaU4pcJikIeEsDFPOTPoyvQgsjCIiBNkQZPDmvkWDsEjjBLPigv7faGZLp31Fbpc0vFub6iCZ6gQgz+OxjWkuzNjcgGA0d724avLCKU16Kd8FocjSOedVBRQ==;6nqppnDdF5Sh66EQWAc4Ow=="
 ---
 

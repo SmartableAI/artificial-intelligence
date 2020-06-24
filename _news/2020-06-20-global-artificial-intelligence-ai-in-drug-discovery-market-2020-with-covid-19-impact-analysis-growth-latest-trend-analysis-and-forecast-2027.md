@@ -80,6 +80,17 @@ related:
       name: surfacingmagazine.net
       domain: surfacingmagazine.net
     quality: 44
+  - title: "Deep Learning Market Growth 2020, Trends, Size, Share and Forecast By 2025"
+    excerpt: "Deep learning is a subset of machine learning (ML) in the field of artificial intelligence (AI), which imitates the workings of the human brain for processing big data and creating patterns. Also known as a deep neural network, it plays a vital role in ..."
+    publishedDateTime: 2020-06-24T05:47:00Z
+    webUrl: "https://www.openpr.com/news/2079471/deep-learning-market-growth-2020-trends-size-share"
+    ampWebUrl: "https://www.openpr.com/amp/2079471/deep-learning-market-growth-2020-trends-size-share"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2079471/deep-learning-market-growth-2020-trends-size-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
   - title: "The Demand For Artificial Intelligence in Oil and Gas Market Will Boost During 2020-2029"
     excerpt: "To get a copy of the sample report, Click here @  Some of the key players in the Artificial Intelligence in Oil and Gas Market are: Some of the prominent service providers of Artificial Intelligence in the oil and gas industry are listed below."
     publishedDateTime: 2020-06-19T16:59:00Z

@@ -1,41 +1,31 @@
 ---
 category: news
 title: "AI Startup Pilots Digital Masks That Counter Facial Recognition"
-excerpt: "Alethea AI, a synthetic media company, is piloting âprivacy-preserving face skins,â or digital masks that counter facial recognition algorithms and help users preserve privacy on pre-recorded videos."
-publishedDateTime: 2020-06-23T22:04:00Z
-webUrl: "https://www.nasdaq.com/articles/ai-startup-pilots-digital-masks-that-counter-facial-recognition-2020-06-23"
+excerpt: "A Los Angeles startup has created “privacy-preserving face skins” – digital masks or avatars that counter facial recognition software."
+publishedDateTime: 2020-06-23T21:18:00Z
+webUrl: "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition"
+ampWebUrl: "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition?amp=1"
+cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition?amp=1"
 type: article
-quality: 66
-heat: 76
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: CoinDesk
+  domain: coindesk.com
 
 topics:
   - Natural Language Processing
   - AI
-  - Computer Vision
 
-related:
-  - title: "New facial recognition device that takes temperature comes to Orangeburg"
-    excerpt: "Orangeburg County says it is all about safety, and they are taking no chances in keeping their residents and employees safe during the pandemic. The county has received a new facial recognition and human temperature scanning device."
-    publishedDateTime: 2020-06-20T07:25:00Z
-    webUrl: "https://www.wltx.com/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
-    ampWebUrl: "https://www.wltx.com/amp/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
-    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
-    type: article
-    provider:
-      name: WLTX19
-      domain: wltx.com
-    quality: 58
-    images:
-      - url: "https://media.wltx.com/assets/WLTX/images/8aefd0c1-22ee-471e-bae7-44aa717f47a7/8aefd0c1-22ee-471e-bae7-44aa717f47a7_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
+images:
+  - url: "https://static.coindesk.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-23-at-3.18.31-PM.png"
+    width: 1889
+    height: 930
+    isCached: true
+    title: "AI Startup Pilots Digital Masks That Counter Facial Recognition"
 
-secured: "O+heMeahKetkHSK2JJ0helatNPCBmqktOdUhweRIVcZNLNcVrVdHoQRsMp57LdjgpXbwtpTPaZXhvB/WwUAa6dAtLECCuOZr9sDwMCDAnXj2XWIvh8XYeAgiCdyLRUKIn5suaoUnMd9W+QT3qmYG38SakcyV+OuWtkL0iWy/PAnKBUbCs0I5nV3Jf5z42rkblOxSjRC7+LoQErv21HP5x5aEheUoboeMfJtsE8C4l9XDZRSzw7QtDc7I6VuhPdzmUY5cp86Jn6ZNqXfYvCi2QzdrfXv3t+n0di0JI3IXOpoUfFvGfleqTjO1s8Z8MtWUvUQIWHCsW7hccmylR94Ou+N709Ir8L+zQvPRQm2XSlXfGqPtwgN51oWBjoi+GFcIWMWEpPrHazrfLv4fCtXZ8yFnTS+sxLlthKvJDwUMsqck1M68f5mcTs7nJHKIDzSg52b3gWsDXZ8AtrghQJGUm2thzABR+m7NV5U8ybuH3kGiDNpqVXVu8cIXusfwwzjJbpbrLzhHkDteQJLe7M0z8w==;05bs9atWPlZ2VTQhXl3oxQ=="
+secured: "ELHUaEWSfysgX2EQsZggV5RysMOCPrefWNvqGQ8150EaS4La2ZZSMZECW/2Unf2Z3W+NtR1CZqHIz3ha+vBFfKuHlEiI9jVGxXKOXPRkzSKYRxf2YLsYq7lIHS6KO6sn//E0u/TT7gbho9kEjxIvYJ6Qb0qZQcAdqMUvLgNLwiSyv+17DhIJZhsybOgNVCEKjY0Zh2pZs1ekxYVl9Z8/TSx18lzF2a/OQ7eJdEtGrto1MC1jcy+8vte35d//4kPBUmEWarT62bZreuIQnkn1EjVwVtVt3GsW43m/3at++cwxnjK9RBrw/46j36XWYeKKU0u2ixZ728RJ9gtri6kD+w==;Avq6w2yILAlqGLVNhOAZjw=="
 ---
 

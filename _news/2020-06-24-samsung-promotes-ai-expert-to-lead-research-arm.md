@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/samsung-promotes-ai-expert-to-lead-resear
 ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-promotes-ai-expert-to-lead-research-arm/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-promotes-ai-expert-to-lead-research-arm/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/2020/06/24/3f920c62-5cf9-486f-b0da-def272dec5a8/dr-sebastian-seung-main-1.jpg"
@@ -29,6 +30,6 @@ images:
     isCached: true
     title: "Samsung promotes AI expert to lead research arm"
 
-secured: "7Z04TFL228Dafoht+uL3nbuEM4d4r/rXhdwdqEhsZBXSta1ulYdQtNJ0uaMveosFGP00Nr3h8RvG776EE/KV+cSoIqRXyA5uEOjOoMNgIXXO+R4BIvUqcl0ZWKx1aAyiUFTFKAONOL95bX1cvfVEEIxndaGyA4/dZaoXiV2LFNZi0AG+EzI+hncFj44jS9yZ1tmuz54/OpCeHtaueu/dwWKqCLtN4ZZ+c8/wtZNyxfYeqPk2k5nTHody3qQt/TEmaisNtC8d0xWEnj238+o0jiTeDbyjeO2aNMz1gERLcOhLDkLUAejiw+68CsfyRC8WVDzVy9OIcdabtAE5M29XOw==;MGvcGp+rzxBB4QRDdy3pgQ=="
+secured: "IhhV+LPTxhG7ZJRSvGMCCzj2D4z+nS6UhWNYECX278tOjgXhdYAafhgQ7IMTW5i6pk14DaCZ3hwgCIYL9ntkRohAe8vsuFdjk4nKdxa8UwGxME6FN31YUvlKRU+7r6XwDo2+SUZrqAH5mz/nVoijwice9kPAzWV1NT2zgNq0etIltRgEy+tzl1e4RPSy65vltBCR0sl3PMqN9gAAPSxhrFDeKf15XFQzoQFpvzMonFm/dmy0yAVSmGJkA3RErul5jEJ2kFm2MyKd7+i6CURt7Du+kBLgjm4oGpO0QY/z6lJercQCOR0dpaiVD88M07VJWruaeZq8+s+zVeD9WIsJT/DVAMVYgu41pKeuqQw17L8aCXHONdfb7LnDcVDcheIl+EriJ7qO1lgSuzlsBpq42L5tJECCFBPSBJxSJDKHvHnQY28c0q/c1yYZe9m0PZ5MRFt5KuMhxKzr3TLIlE+mVgIhKPNEAINrif4uTlREERqs0J70mKfvShmW/4CG1TV9oife7kiahXGvBQsg28Mk8A==;J8NTuQ8uh70tlrkw4iyd1A=="
 ---
 

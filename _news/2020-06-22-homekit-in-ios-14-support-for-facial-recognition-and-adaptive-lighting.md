@@ -8,7 +8,7 @@ ampWebUrl: "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-f
 cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://video-images.vice.com/test-uploads/articles/5ef0f57c83ca6d009d2c6d35/lede/1592850289955-cctv-1144371_1920.jpeg?crop=0.8911xw:0.7561xh;0xw,0.1597xh"
         width: 1710
         height: 961
-        isCached: true
-  - title: "Podcast: PlayStation 5 details and hesitation over facial recognition"
-    excerpt: "Devindra and Cherlynn are joined by Nathan Ingraham to discuss the PlayStation 5's future and potential price, as well as games like \"The Last Of Us II.\""
-    publishedDateTime: 2020-06-19T12:36:00Z
-    webUrl: "https://www.engadget.com/engadget-podcast-playstation-5-ps-5-cost-last-of-us-facial-recognition-123016894.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 86
-    images:
-      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F08ff6ff0-aca9-11ea-9f97-87bb0692d6a6&client=amp-blogside-v2&signature=8736868f00fc245b28ff6cfb80846c2129d8f762"
-        width: 1040
-        height: 630
         isCached: true
   - title: "New HomeKit features in iOS 14: Facial recognition and more explained"
     excerpt: "A boost for home security cameras with facial recognition and activity zones turns HomeKit into a more powerful tool, but there's more, too."

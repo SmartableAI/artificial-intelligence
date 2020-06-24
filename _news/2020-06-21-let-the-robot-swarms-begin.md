@@ -8,7 +8,7 @@ ampWebUrl: "https://m.scoop.co.nz/stories/SC2006/S00043/let-the-robot-swarms-beg
 cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2006/S00043/let-the-robot-swarms-begin.htm"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     height: 250
     isCached: true
     title: "Let The Robot Swarms Begin!"
-
-related:
-  - title: "Let the robot swarms begin!"
-    excerpt: "Scientists are looking for ways to make millions of molecule-sized robots swarm together so they can perform multiple tasks simultaneously. Tsukuba, Japan, -"
-    publishedDateTime: 2020-06-19T12:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/06/a16313383/let-the-robot-swarms-begin"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16313383"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16313383"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.acnnewswire.com/contentimg/Low_STAM20200619.jpg"
-        width: 576
-        height: 380
-        isCached: true
 
 secured: "jVTqbJ9ddDjWTWNMvNZPfvxKuVDRHDOqjnzIM6UNrwZOUH8pI/rH990l8pn9tVt97A/e6Iu/Rak3q+h5WtiypLlEhzvJRJ55mt+9Du4y9Dgm6n8P+kC0ATmyFRUotWS0EKUrFlsiAmY6mHd44KHHGE6CCrsGzIvbOSZd/LzuzuLIx/0quWAoazL02ExKJZ7OOPLxlJHMiX/ccCd4pvT6wYqNBilGm+tmQSpZWaHeox6LhL4NY/U6OTOXZiLc+CFDgkp+8Tkruu8KVx+1GX5Sv0kXFG8//o4m1EuOrldEUltJOTpkTXGoObXjCUCNDzFVJmS1q7Q4N1GGz3dbGGqHFw==;dQscm5Iv2MZsgC+nUE8qqw=="
 ---

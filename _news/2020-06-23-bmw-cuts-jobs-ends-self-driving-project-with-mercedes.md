@@ -112,20 +112,6 @@ related:
         width: 1024
         height: 664
         isCached: true
-  - title: "BMW, Mercedes put self-driving alliance on hold"
-    excerpt: "Daimler said Friday it had put on hold a development alliance in the area of automated driving between its Mercedes-Benz brand and rival BMW. \"Following extensive review, the two companies have arrived at a mutual and amicable agreement to concentrate on their existing development paths,"
-    publishedDateTime: 2020-06-19T12:54:00Z
-    webUrl: "https://www.autonews.com/mobility-report/bmw-mercedes-put-self-driving-alliance-hold"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/BMW%20Daimler%20web_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Nvidia teams with Mercedes-Benz to build self-driving cars"
     excerpt: "It will contain a graphics processing unit to run the artificial intelligence models that power a self-driving car’s autonomy features. Nvidia has shared several details about the Drive AGX Orin ..."
     publishedDateTime: 2020-06-23T17:38:00Z
@@ -140,15 +126,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "BMW and Mercedes go down different self-driving roads"
-    excerpt: "There is an interesting shakeup in the world of autonomous vehicles. Per a mutual press announcement today, BMW (OTCPK:BMWYY) and Mercedes-Benz (OTCPK:DDAIF) have put their cooperation agreement for"
-    publishedDateTime: 2020-06-19T12:41:00Z
-    webUrl: "https://seekingalpha.com/news/3584494-bmw-and-mercedes-go-down-different-self-driving-roads"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
   - title: "BMW slashes 6,000 jobs, ends self-driving project with Mercedes"
     excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees demand plunging because of the coronavirus pandemic."
     publishedDateTime: 2020-06-19T14:23:00Z

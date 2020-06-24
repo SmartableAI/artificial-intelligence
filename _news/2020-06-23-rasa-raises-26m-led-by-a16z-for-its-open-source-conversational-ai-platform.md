@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/23/rasa-raises-26m-led-by-a16z-for-it
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/rasa-raises-26m-led-by-a16z-for-its-open-source-conversational-ai-platform/amp/"
 type: article
 quality: 85
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     height: 576
     isCached: true
     title: "Rasa raises $26M led by A16Z for its open source conversational AI platform"
+
+related:
+  - title: "Open-source conversational artificial intelligence startup Rasa raises $26M"
+    excerpt: "Open-source conversational artificial intelligence startup Rasa Technologies Inc. has raised $26 million in new funding to invest in continuing growth, AI research and developer and community education."
+    publishedDateTime: 2020-06-24T03:05:00Z
+    webUrl: "https://siliconangle.com/2020/06/23/open-source-conversational-artificial-intelligence-startup-rasa-raises-26m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/rasa.png"
+        width: 1500
+        height: 560
+        isCached: true
 
 secured: "g7SeSrfaSUbyR1F5tIZI6O02BG0EfrqM8wYax7FvPOI+KCifuRRVCq085a4Ne4fvP81zPOqBnOuqKPK/C7EwTGvGFJ2fDxEjIcA6cBUBBVl4cSGYuFNR11TnMrxYLt0ym5RXP5CoY3mGoaHLR3vEP1LTQhW8x6C6Io1Lnus+0BeM/P5TNNPPOQRB9qlMfrbNA467qc8G/sXReirg7II4oRv69IVZ2YCKoL+O4YbvMaLDy66CdxQeJyGUtgv08Zn3OIO0FYoBfIp7Yf1LFRfBVHXqZ7VsYbDinJzFh8aYAl5Y0tZ2axBgetsyGxzYE/7yNhmBKSMxat//z2g//mri0SgBu6Z2Lk5TKWexuL/RpZzJmSS0DyeUH1pfg/M2zq2OybvzKrj+9ndcxQYq+Cj/1/w+M9CuyLgkEfxoeAUPoOtdNBW42xjcPwbZUZ9jnWfhz5Qzspb+eJjk0QYF0t4nnF8EVBxLacHTcIcMCRV2ZOxveyOijNrzZImgcE/bjriRE+bLiXykoEpgDEJbC2EPHg==;/dg5v5dvVegG0YQ+hMyO6w=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-in-ai-research-award/amp/"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://dailytimes.com.pk/assets/uploads/2020/06/07/Facebook-removes-nearly-200-accounts-tied-to-hate-groups.jpg"
         width: 715
         height: 450
-        isCached: true
-  - title: "Pakistani scholars among winners of Facebook’s Ethics in AI Research awards"
-    excerpt: "... thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Dr Junaid Kadir along with Amana Raquib were awarded for their research into culturally ..."
-    publishedDateTime: 2020-06-19T11:44:00Z
-    webUrl: "https://tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/"
-    ampWebUrl: "https://tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 74
-    images:
-      - url: "https://c.tribune.com.pk/2020/06/2246036-download-1592566609-408-640x480.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Pakistani scholars among winners of Facebook award for research in AI ethics"
     excerpt: "Through this work, a culturally-informed, pro-social AI framework for Pakistan and the Muslim world will be proposed, says Junaid Qadir"

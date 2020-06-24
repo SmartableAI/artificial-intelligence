@@ -2,11 +2,104 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-24-aws-and-formula-1-announce-six-new-racing-performance-stats.md",
+      "title": "AWS and Formula 1 announce six new racing performance stats",
+      "excerpt": "The newly introduced performance stats include Car Performance Scores, Ultimate Driver Speed Comparison, Driver Skills Rating, and others. They will roll out in the current, 2020 season.",
+      "webUrl": "https://www.neowin.net/news/aws-and-formula-1-announce-six-new-racing-performance-stats",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1592973675_2020_f1_insight_carperfcomp-02_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "AWS and Formula 1 announce six new racing performance stats",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/aws-and-formula-1-announce-six-new-racing-performance-stats/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-and-formula-1-announce-six-new-racing-performance-stats/",
+      "publishedDateTime": "2020-06-23T22:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-cyclica-raises-23-million-to-accelerate-drug-discovery-with-ai.md",
+      "title": "Cyclica raises $23 million to accelerate drug discovery with AI",
+      "excerpt": "Cyclica, a startup developing an AI-powered platform for drug discovery, has secured $23 million in venture capital financing.",
+      "webUrl": "https://venturebeat.com/2020/06/23/cyclica-raises-23-million-to-accelerate-drug-discovery-with-ai/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/13e3a8e2-36a5-4342-b02d-e67f23790c6a-e1592852109542.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Cyclica raises $23 million to accelerate drug discovery with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/23/cyclica-raises-23-million-to-accelerate-drug-discovery-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/cyclica-raises-23-million-to-accelerate-drug-discovery-with-ai/amp/",
+      "publishedDateTime": "2020-06-23T21:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-samsung-promotes-ai-expert-to-lead-research-arm.md",
       "title": "Samsung promotes AI expert to lead research arm",
       "excerpt": "Samsung Electronics has promoted one of its key artificial intelligence (AI) experts to head its research unit. Dr Sebastian Seung will be the new head of Samsung Research, the company said on Wednesday. He will oversee research conducted at Samsung's ...",
       "webUrl": "https://www.zdnet.com/article/samsung-promotes-ai-expert-to-lead-research-arm/",
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -44,7 +137,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -185,36 +279,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-ai-startup-pilots-digital-masks-that-counter-facial-recognition.md",
-      "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
-      "excerpt": "Alethea AI, a synthetic media company, is piloting âprivacy-preserving face skins,â or digital masks that counter facial recognition algorithms and help users preserve privacy on pre-recorded videos.",
-      "webUrl": "https://www.nasdaq.com/articles/ai-startup-pilots-digital-masks-that-counter-facial-recognition-2020-06-23",
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -598,7 +662,7 @@
       "title": "Nvidia and Mercedes-Benz detail self-driving system with automated routing and parking",
       "excerpt": "The efforts build on a longstanding collaboration between Nvidia and Mercedes. At the 2018 Consumer Electronics Show, the companies showcased a concept cockpit dubbed the Mercedes-Benz User Experience,",
       "webUrl": "https://venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-self-driving-system-with-automated-routing-and-parking/",
-      "heat": 181,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1160,7 +1224,7 @@
       "title": "Artificial Intelligence (AI) Market Trends, Size, Shares, Overview and Forecast by 2020-2027",
       "excerpt": "As per the research held by Acumen Research and Consulting, \"the global Artificial Intelligence (AI) market anticipated to exceed US$ 160 Bn by 2027, along with the projected CAGR of 49% from 2020 to 2027\".",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-trends-size-shares-overview-and-forecast-by-2020-2027-2020-06-23",
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1206,7 +1270,7 @@
       "title": "Rasa raises $26M led by A16Z for its open source conversational AI platform",
       "excerpt": "As chatbots and other AI-based services like interactive voice apps continue to become more ubiquitous, a startup that’s built software to help create and — critically — improve how they work over time is announcing a significant funding round to continue expanding its business.",
       "webUrl": "https://techcrunch.com/2020/06/23/rasa-raises-26m-led-by-a16z-for-its-open-source-conversational-ai-platform/",
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1229,52 +1293,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-conversational-ai-startup-rasa-shows-steady-growth-with-fresh-26-million.md",
-      "title": "Conversational AI startup Rasa shows steady growth with fresh $26 million",
-      "excerpt": "Rasa, a startup developing open source conversational AI tools, raised $26 million in venture capital from Andreessen Horowitz and others.",
-      "webUrl": "https://venturebeat.com/2020/06/23/conversational-ai-startup-rasa-shows-steady-growth-with-fresh-26-million/",
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Rasa_Team-e1592901300745.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Conversational AI startup Rasa shows steady growth with fresh $26 million",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/23/conversational-ai-startup-rasa-shows-steady-growth-with-fresh-26-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/conversational-ai-startup-rasa-shows-steady-growth-with-fresh-26-million/amp/",
-      "publishedDateTime": "2020-06-23T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

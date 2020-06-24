@@ -21,6 +21,22 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "Automotive Voice Recognition System Market Size Hit US$ 39 Bn by 2027"
+    excerpt: "The global ​automotive voice recognition system market size is expected to reach USD 39 billion by 2027, It is projected to register a CAGR of 21%"
+    publishedDateTime: 2020-06-23T05:36:00Z
+    webUrl: "https://www.mynewsdesk.com/us/pressreleases/automotive-voice-recognition-system-market-size-hit-us$-39-bn-by-2027-3015391"
+    type: article
+    provider:
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
+    quality: 24
+    images:
+      - url: "https://resources.mynewsdesk.com/image/upload/t_open_graph_image/et7bxryqgoxjcb2qu0p6.jpg"
+        width: 600
+        height: 315
+        isCached: true
+
 secured: "PICXMm+mVDpKw1YFSJJZbDkuxrmms7od6DU4ripvXum83SjboD32AaxZqE2q4i1NEO/9DYFfWfKlVz+bvxmoM9HvEEr+9dFJmJ0SUaxqABpL/mORDiuMk1GTmKgMAKaCfYdiLcwPEcLAxXCzK6odUdeb26jF/yaqrHQM/7LRA/ew0xMs2OuljStuLaf64709MxNi6tVi5AOxlQP15aWV5S781Qnb825tvue6eguZSFOGwXv8NSix+9Y1BA/Cl/cmyQ1MhmCnY1WzXYUJscrurSIhrCiHpgXJVcaQi5mHCTmwl6fMugmkVhkQF2lv9mSs06u9bktWQU1TieL3M6hheQ==;LWH7Mrr13+VC8+MU5TU3UA=="
 ---
 
