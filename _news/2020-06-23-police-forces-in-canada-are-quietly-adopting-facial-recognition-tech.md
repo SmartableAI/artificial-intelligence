@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "New HomeKit features in iOS 14: Facial recognition and more explained"
-    excerpt: "A boost for home security cameras with facial recognition and activity zones turns HomeKit into a more powerful tool, but there's more, too."
-    publishedDateTime: 2020-06-23T12:48:00Z
-    webUrl: "https://www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236"
-    ampWebUrl: "https://www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236/amp"
-    cdnAmpWebUrl: "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236/amp"
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 74
-    images:
-      - url: "https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/06/Screen-Shot-2020-06-22-at-19.02.10-1024x640.png"
-        width: 1024
-        height: 640
-        isCached: true
   - title: "HomeKit cameras to get smart face recognition, Apple TV integration"
     excerpt: "Apple's HomeKit platform is being updated with new features, including camera \"Activity Zones\" and adaptive lighting for smart bulbs."
     publishedDateTime: 2020-06-22T18:17:00Z
@@ -78,20 +62,6 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/36332-67465-image-(1)-xl.jpg"
         width: 1320
         height: 772
-        isCached: true
-  - title: "Facial recognition software: Useful for crime fighting, but it needs rules."
-    excerpt: "IBM’s decision last week to stop selling facial recognition technology to police agencies, and Amazon’s subsequent announcement of a one-year moratorium on such sales, have put a needed spotlight on this issue. Facial recognition technology holds ..."
-    publishedDateTime: 2020-06-24T07:34:00Z
-    webUrl: "https://www.stardem.com/opinion/editorials/facial-recognition-software-useful-for-crime-fighting-but-it-needs-rules/article_4666143f-9b9b-537f-81b5-9ea035bf5b47.html"
-    type: article
-    provider:
-      name: Star Democrat
-      domain: stardem.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/stardem.com/content/tncms/custom/image/20d20780-4187-11e8-ab1c-2fc06d5d5b26.jpg"
-        width: 600
-        height: 314
         isCached: true
 
 secured: "ktvIN2Btc0R4OyBQ+gWQn1Uhb6lmPZdbra3oQjgnzNwc/YM4u5kvInfcJDAEFmCRzh24qYfHXnWWYQusTQD8Sf7IlqREiiVPLQkbQ81Gu1Yrz0g2JUTabucclN5BHbZz5+azTKIOfrZKkqjraO8BoQQFPkNIMhHXsxXPrjby5c0AUAPSOtzYezQ1ELmLsRmgGXIUFfFSF5oqc/ZctiTBI7U0+5e6YBKVxO09P/awsxL6IIQsrQTE8pbt7zFJcywG+emnijvLZSy++aDuWvE3BeeNiasO8o1me1hIfsjKHOG/EXt9HnTjAn/7ZVfqesthvF4Cb9kwjFBold8iT00hAis7AhTF+BAQaPit/c32VsqDbR+LSjcz/9/fZuN4U4CV+gyT3H6yXSP0ak12l/EiZedW4g0a30peE7HDbcWlGfTeJYhg7iT+38LG8FeqoevgSkVIwibnwZqnxyuwf23lvz2upuT/QMPvNbGj/JqpwVykUobxBZRXJHGhY/7MiiEVO/H0uABZxx5dNPIeRu7+Nw==;ZBhWazEUmAIeHKtyOUEbWw=="

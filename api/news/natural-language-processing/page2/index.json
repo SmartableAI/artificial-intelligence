@@ -2,6 +2,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-08-natural-language-processing-nlp-market-to-exhibit-324-cagr-increasing-technological-advancement-to-drive-growth-fortune-business-insights.md",
+      "title": "Natural Language Processing (NLP) Market to Exhibit 32.4% CAGR; Increasing Technological Advancement to Drive Growth: Fortune Business Insights™",
+      "excerpt": "This information is published by Fortune Business Insights™, in a report, titled, “Natural Language Processing (NLP) Market Size, Share & Industry Analysis, By Deployment (On-Premises ...",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/06/08/2045035/0/en/Natural-Language-Processing-NLP-Market-to-Exhibit-32-4-CAGR-Increasing-Technological-Advancement-to-Drive-Growth-Fortune-Business-Insights.html",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-07-the-best-performing-analysts-are-betting-on-these-5-stocks-right-now.md",
       "title": "The best-performing analysts are betting on these 5 stocks right now",
       "excerpt": "As coronavirus restrictions ease and business begins to improve, it could make sense to follow the stock picks of analysts with a proven track record of success. Here we used TipRanks analyst ranking service to pinpoint Wall Street’s best-performing analysts.",
@@ -1240,53 +1269,6 @@
         "name": "Asia One",
         "domain": "asiaone.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-google-pilots-voice-authentication-for-purchases-made-through-google-assistant.md",
-      "title": "Google pilots voice authentication for purchases made through Google Assistant",
-      "excerpt": "Google is piloting a \"new\" voice authentication method for securing purchases made via its AI Assitant. The feature, called Voice Match, has limited availability for now and is only usable with Assistant-enabled smart speakers and displays.",
-      "webUrl": "https://www.techspot.com/news/85383-google-pilots-voice-authentication-purchases-made-though-google.html",
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-26-image-25.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": "Google pilots voice authentication for purchases made through Google Assistant",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85383-google-pilots-voice-authentication-purchases-made-though-google.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85383-google-pilots-voice-authentication-purchases-made-though-google.html",
-      "publishedDateTime": "2020-05-26T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

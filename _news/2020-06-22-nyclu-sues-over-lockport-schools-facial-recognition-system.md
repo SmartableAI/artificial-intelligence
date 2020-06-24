@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "South Wales Police in court over facial recognition system"
+    excerpt: "Racial and gender biases have not fully been explored in the facial recognition technology used by South Wales Police, the Court of Appeal has been told. It is the second day of a legal challenge brought by civil rights group Liberty and Ed Bridges,"
+    publishedDateTime: 2020-06-24T12:36:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-53166044"
+    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53166044"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53166044"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/897B/production/_113059153_mediaitem113059150.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "AI experts say research into algorithms that claim to predict criminality must end"
     excerpt: "A coalition of AI researchers, data scientists, and sociologists has called on the academic world to stop publishing studies that claim to predict an individual’s criminality using algorithms trained on data like facial scans and criminal statistics."
     publishedDateTime: 2020-06-24T10:50:00Z
@@ -56,22 +72,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/H-a44apCLMyl8yEYkEovNGfurms=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66974326/acastro_180730_1777_facial_recognition_0003.0.jpg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "South Wales Police in court over facial recognition system"
-    excerpt: "Racial and gender biases have not fully been explored in the facial recognition technology used by South Wales Police, the Court of Appeal has been told. It is the second day of a legal challenge brought by civil rights group Liberty and Ed Bridges,"
-    publishedDateTime: 2020-06-24T12:38:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-wales-53166044"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-wales-53166044"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-wales-53166044"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/897B/production/_113059153_mediaitem113059150.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Hry police to launch facial recognition app"
     excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."

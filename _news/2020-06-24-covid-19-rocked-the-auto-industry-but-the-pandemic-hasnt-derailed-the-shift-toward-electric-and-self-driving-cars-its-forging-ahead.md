@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "COVID-19 rocked the auto industry, but the pandemic hasn't derailed the shift toward electric and self-driving cars. It's forging ahead."
 
-secured: "UhdgLyvUy8Mb4CpbvsjW/ePmAwBRImIWV4oRHVFxfLBNR5qciJVRhD+e4AYeHEGSC5gSJQAfhq9soffl38AFvERbAFfE8A/sBg39PYNVCLM2lE7vE883exnRCTYl/XENrSdJYI2QDyjtZ4a5j97XTEqNAD9tps6iPTfaF7DkDRwocKSci/TvhL02+hb7PiDwm6rmTIziN7G7Eb59bzM9yALX9ed7EQFlqAmaFesS6yr2LVtaMU6zED9Ggiqwn1DnixsOnQRtcvfGRYmJhwqKNi+0pu8H1tzCbfgyUkvJ4EjHRYhsT4zPOHaEiRPdSph2+nv8Mwotr8JRJV9hdev07A==;KbXrgCpPX0oaU2QJHcFZ/Q=="
+secured: "nVBRCqbs5jWcw/osIeK5HPYbl5EbFQ6SSoDUzJUalQtt1AzfDJ+jwQ7sp1BB15Qj01k25c1eSPX9NVzU7toBhjdo4FydbF9IYfWMByAn+1AHPLv0+lYskPd0LQxBcQbc+xHVkoqNvlL2xsgWHkyRKtD1NHUcXwpS8aI9MsFHlV3ZNrCTtrqOOR8EStfnbjfIubE2f9u4X94j4G8fUJyit60+yQ2OB//3PdAMeuhGadCsMrwn0NWbm8B1SAl+2H5vgWMKLkR3GXtighGQ3YouPr5HimvPilvq8Fw/tty7ONQ1SqGnMyyoSFfbCcFis14r6mAKATvDajDIF0I/eCWY8nreujONacvOcGv5LVEvCR+hOLuqkXSfT/t1MJgVn37fM/1V47Rqa8onp7ZQju1Fl4OmBvJnHXXNW9PpEfFb3CzgrZSiPuTNlfq76v1vJIUEXEJu+b4a553f9LtoM+rb6Ml+vhvfab/cgifCRnyZuTFmAZhDrgSmC+UHvEfewwGY/pGOtpnsWZ/czM4vs3uk7Q==;YN8mp8kkCrBqJbrn6MgiRQ=="
 ---
 

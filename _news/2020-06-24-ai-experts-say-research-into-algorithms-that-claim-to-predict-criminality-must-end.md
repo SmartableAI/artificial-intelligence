@@ -48,15 +48,15 @@ related:
         isCached: true
   - title: "South Wales Police in court over facial recognition system"
     excerpt: "Racial and gender biases have not fully been explored in the facial recognition technology used by South Wales Police, the Court of Appeal has been told. It is the second day of a legal challenge brought by civil rights group Liberty and Ed Bridges,"
-    publishedDateTime: 2020-06-24T12:38:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-wales-53166044"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-wales-53166044"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-wales-53166044"
+    publishedDateTime: 2020-06-24T12:36:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-53166044"
+    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53166044"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53166044"
     type: article
     provider:
       name: BBC
-      domain: bbc.co.uk
-    quality: 59
+      domain: bbc.com
+    quality: 89
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/897B/production/_113059153_mediaitem113059150.jpg"
         width: 1024
@@ -88,6 +88,6 @@ related:
         height: 1500
         isCached: true
 
-secured: "VJ+k5i5X9VujNc1E3s3wdid5FcYVGKsyYc2ySyj5eJR8pfvOHmnoX1Bs9XTOXjbsqGMzMZyo8I9fismOSbukt0/qS72SfIyrqD/gNUK0pN7bUvLB5BCvK6juurPgHAoNLIiBVak5gqb4zovjKXVY79y090KOGrr1nm4OkHBMAvt8TYSJFi6HX78ayBwN1rqQJxD30+L4sNV23t7ZK8aLADLR4eK5LY2lAoVAvA0crLPe5nYm9omXsJwH7KWw/GrPPwa0Eyao/YWFLSNuNrXFslAi1Pq1RAzavJUgLxowF/LMrlbycgBt4m4py2fVpFmFY4tCtz2sL3uXtXWQmmKRBQ==;oJKFLbk2hOlvwHdtWe6pKg=="
+secured: "46PhbSVmc/1SxIvKy6rxPuKnlvKE7O9msGOHAnxaEpBwxWBH5OthEUPvm/LhEVNl+l5aWPrCSB4PRtCT3hwLz+KUSifeVVRzh4GNXL1XEDtY1VgN1JIlngrmHWfLSY2bZo0ewTXWMzKHyP+IgVwT0IZdmP5jMnDrA+695nLh3+x1UvFC2bLTDFwPJrVoKt8suYc2Krod0hQHe4MqoV6bkYC6Y2H4Mg2jVgHcZ1cjTsusiQkzn646Y/BS2wsOrbpQqxECVtjjzDISQklrlwQVQIGuyUF/6zWbCyhl5/J7WQjsbgUDUIkmZjJGxw21/syAm/PiSRJAUZt/VqE3k8rhy4a0YQ8WLo5RpKAnwmxpZ5OEEogi0cz/4ydvXqzKUYlp0zMKXW/6xXAUfbke6UKuuAghCz+hJlXbaqF1/bIeCEOEW+RH0RqKSpuV1BCxTcz3wg9bKpExbQw2etgP7XjXqNkg0VsgAUXVGi+2zHFY/+oon8GrXFJc1gp0s76PsHABQCaOLrLBZDZ/QBYPG15zcQ==;EcU6sRqt1r8yjo/PuIuwjw=="
 ---
 

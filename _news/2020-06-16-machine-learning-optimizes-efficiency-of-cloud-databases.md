@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2015/August/DISAcloud.png"

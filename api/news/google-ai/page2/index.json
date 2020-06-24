@@ -2,6 +2,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-03-video-building-intrinsically-motivated-teams-via-self-determination-theory.md",
+      "title": "Video: Building intrinsically motivated teams via self-determination theory",
+      "excerpt": "In this GDC 2020 virtual talk DeepMind's Alexandre Moufarek discusses how you can help build intrinsically motivated teams by applying self-determination theory.",
+      "webUrl": "https://gamasutra.com/view/news/364174/Video_Building_intrinsically_motivated_teams_via_selfdetermination_theory.php",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/remedy.gif",
+          "width": 341,
+          "height": 214,
+          "title": "Video: Building intrinsically motivated teams via self-determination theory",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gamasutra",
+        "domain": "gamasutra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development.md",
       "title": "DeepMind releases Acme, a distributed framework for reinforcement learning algorithm development",
       "excerpt": "DeepMind this week released Acme, an open source distributed framework for reinforcement learning algorithm development.",

@@ -2,18 +2,22 @@
 category: news
 title: "South Wales Police in court over facial recognition system"
 excerpt: "Racial and gender biases have not fully been explored in the facial recognition technology used by South Wales Police, the Court of Appeal has been told. It is the second day of a legal challenge brought by civil rights group Liberty and Ed Bridges,"
-publishedDateTime: 2020-06-24T12:38:00Z
-webUrl: "https://www.bbc.co.uk/news/uk-wales-53166044"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-wales-53166044"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-wales-53166044"
+publishedDateTime: 2020-06-24T12:36:00Z
+webUrl: "https://www.bbc.com/news/uk-wales-53166044"
+ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53166044"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53166044"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -85,6 +89,6 @@ related:
         height: 1500
         isCached: true
 
-secured: "cAZ4NQOKw1LOPwW/VHalt+e8S2T9yDquaNxdS86AB7IiNxkFBcLoY1ibpjfCriWX60txGP4BnYWVXCIuAVr+IRqVoMhZ9FvC3z2xePLQenJHggSgbzL3Qeg7dOXwTmZXQXoaAvm011aoJkGCNiftwkWYVxOa7T3u/e49bVuXbotbTmQgRZALZ/KkSx18zX1J95qvVIZfnCsMOqOtEDzLA+qB8aoxpsS90MEzasnpUDElnZ9fKjtM8Ooa3ngI+Mg2LowQ18FZncW+SrgMJ9stKKwz0I9vCZJ4isTZUhPYp0Owtd1MkAyopwfQp2ziYUCnK2bNYZNI4ILIEgOsAZXuVw==;G2KSCmSMyRt4tT+JJ1240Q=="
+secured: "eRvhOoR4PlY/TkVmNEx6qT9COiRJ3iALtrvclG2M2X1Wr+okdBMPK3Gx1+46fWXHgXBto91i24TjX7qervpXnHn68wa1vNSYz1l8mNMWjRY+yGq13BU6Lp1NHBMD81FQt6WzzJ2EiJLqN3JlCAIsspn4yWymPuxrBN4vXYA5Wdp1A2KJ7wXZxnqMvIboXkIlzAp2q+oeGsIwvq9y3keW/oGyH6ebG4un7wK6cExJAwLMb4jlATTQdq3dOUOtkcrhW554n2VAApLCw/XTLGz/JaYoqNIHwYqsQRcCH3Ct8ys6Y+qRDb3bxaa+3xmoEh5lw09txSxaJ35BVfmEhXvr7g==;0e9u2hrKtX3gtBwxGbDjOg=="
 ---
 

@@ -44,54 +44,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Why Are Technology Companies Quitting Facial Recognition?"
-    excerpt: "These companies are reacting wisely to the potential for bias and the potential abuse of this technology in law enforcement. Let's examine three main issues related to the use of facial recognition technology in law enforcement: bias,"
-    publishedDateTime: 2020-06-23T10:05:00Z
-    webUrl: "https://www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/"
-    ampWebUrl: "https://www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef0efa98548c80006be6f69%2F0x0.jpg%3FcropX1%3D262%26cropX2%3D633%26cropY1%3D0%26cropY2%3D371"
-        width: 372
-        height: 371
-        isCached: true
-  - title: "Big Tech juggles ethical pledges on facial recognition with corporate interests"
-    excerpt: "The careful wording of public pledges leaves plenty of room for oppressive uses of the technology, critics say."
-    publishedDateTime: 2020-06-22T20:13:00Z
-    webUrl: "https://www.nbcnews.com/tech/security/big-tech-juggles-ethical-pledges-facial-recognition-corporate-interests-n1231778"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1231778"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231778"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2019_23/2857426/190514-facial-recognition-ces-ew-624p_9901ee6159e029067bc24200074b6e00.fit-560w.jpg"
-        width: 560
-        height: 373
-        isCached: true
-  - title: "Amazon pauses police use of its facial recognition for year"
-    excerpt: "Civil rights groups and Amazon's own employees have pushed the company to stop selling its technology to government agencies."
-    publishedDateTime: 2020-06-24T07:23:00Z
-    webUrl: "https://www.kare11.com/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
-    ampWebUrl: "https://www.kare11.com/amp/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
-    cdnAmpWebUrl: "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
-    type: article
-    provider:
-      name: KARE 11
-      domain: kare11.com
-    quality: 59
-    images:
-      - url: "https://media.kare11.com/assets/CCT/images/626789424/626789424_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Opinion | The futile withdrawal of facial recognition software by Big Tech"
     excerpt: "This technology is bound to proliferate regardless of flaws as it’s being pursued by such regimes as China’s for surveillance"
     publishedDateTime: 2020-06-22T16:21:00Z
@@ -140,36 +92,6 @@ related:
         width: 816
         height: 459
         isCached: true
-  - title: "I was wrongfully arrested because of facial recognition. Why are police allowed to use this technology?"
-    excerpt: "They sent that footage to the Michigan State Police, who then ran it through their facial-recognition system. That system incorrectly spit out a photograph of me pulled from an old driver’s license picture. Federal studies have shown that facial ..."
-    publishedDateTime: 2020-06-24T11:05:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 43
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PY5FPLTWPMI6TJ57ZCSDXBHOGE.jpg&w=1440"
-        width: 1440
-        height: 1010
-        isCached: true
-  - title: "Man Says He Was Falsely Arrested After Facial Recognition Mistake"
-    excerpt: "The ACLU has filed a complaint against the Detroit Police Department for what the group says is the first documented instance in the U.S. of someone being falsely arrested based on AI."
-    publishedDateTime: 2020-06-24T09:06:00Z
-    webUrl: "https://www.npr.org/2020/06/24/882678392/man-says-he-was-falsely-arrested-after-facial-recognition-mistake"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 39
-    images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "Tech Companies Are Limiting Police Use of Facial Recognition. Here's Why"
     excerpt: "IBM said it was getting out of the facial recognition business. Then Amazon and Microsoft announced prohibitions on law enforcement using their facial recognition tech. There's growing evidence these algorithmic systems are riddled with gender and racial bias."
     publishedDateTime: 2020-06-23T08:00:00Z
@@ -206,22 +128,6 @@ related:
       name: Times LIVE
       domain: timeslive.co.za
     quality: 36
-  - title: "Shopper who brought the world's first court challenge over police use of facial recognition technology has taken his fight to the Court of Appeal"
-    excerpt: "A man whose picture was taken while he was out Christmas shopping in Cardiff and was the first person in the UK to bring a court challenge over the police's use of facial recognition has taken his fight."
-    publishedDateTime: 2020-06-23T11:03:00Z
-    webUrl: "https://www.walesonline.co.uk/news/wales-news/ed-bridges-facial-recognition-police-18470114"
-    ampWebUrl: "https://www.walesonline.co.uk/news/wales-news/ed-bridges-facial-recognition-police-18470114.amp"
-    cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/wales-news/ed-bridges-facial-recognition-police-18470114.amp"
-    type: article
-    provider:
-      name: Wales Online
-      domain: walesonline.co.uk
-    quality: 22
-    images:
-      - url: "https://i2-prod.walesonline.co.uk/incoming/article17202824.ece/ALTERNATES/s615/0_WNS_210519_Facial_Recognition_Court_Case_07JPG.jpg"
-        width: 615
-        height: 409
-        isCached: true
 
 secured: "EVhSSj5VCdXH9po/ZOeU8loINPA/WAhCrXs7hBICroRiLlq2Kh6JHlbZHaQg6NCuoOuSMUGBBCjLFpllAnNw8lV2KOiuD5Fbv85Zk760HcnwwuU+V/L7JFke1Y/kscmV8GU9RbE8rFzES6thseuOeCGSnZRER545sNlDCcmy8O1CL9k6O5yiNE7Yo6N5ms935aYYtIenB+9H54s+d5EsnuZFZAl0aF6gLibLjpZv607EfzbmNIKaEcEM3DLNpI/0xGI+UbpEKsUeW7dR/jNxdgxTs6YEBiIITiYzNExxxhaGQ3QJ7fPZ95CCA9mVDN4qU+YebcKrcputoTjZpfULpKUkIr6Ltnq5xHmaY1w76osBbuOd1eAqnRIPyj2xzs983ifO2biiAHvjFQQn3rkFSYWgNts2Hud4UywFMd75Jk9RImEuPlb5nLESrTQOzric+aC3EFg44cHGyvrPNuntr5wFHc7UAvJByHBK0PBMw0SgogdxHB32CvqyxSu7FO7wdd98ScUK473iwVM6CqC+OQ==;mAPDjbTbsKqgMqL4J5enZQ=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-f
 cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html"
 type: article
 quality: 89
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
         width: 1710
         height: 961
         isCached: true
-  - title: "New HomeKit features in iOS 14: Facial recognition and more explained"
-    excerpt: "A boost for home security cameras with facial recognition and activity zones turns HomeKit into a more powerful tool, but there's more, too."
-    publishedDateTime: 2020-06-23T12:48:00Z
-    webUrl: "https://www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236"
-    ampWebUrl: "https://www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236/amp"
-    cdnAmpWebUrl: "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236/amp"
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 74
-    images:
-      - url: "https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/06/Screen-Shot-2020-06-22-at-19.02.10-1024x640.png"
-        width: 1024
-        height: 640
-        isCached: true
   - title: "HomeKit cameras to get smart face recognition, Apple TV integration"
     excerpt: "Apple's HomeKit platform is being updated with new features, including camera \"Activity Zones\" and adaptive lighting for smart bulbs."
     publishedDateTime: 2020-06-22T18:17:00Z
@@ -78,20 +62,6 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/36332-67465-image-(1)-xl.jpg"
         width: 1320
         height: 772
-        isCached: true
-  - title: "Facial recognition software: Useful for crime fighting, but it needs rules."
-    excerpt: "IBM’s decision last week to stop selling facial recognition technology to police agencies, and Amazon’s subsequent announcement of a one-year moratorium on such sales, have put a needed spotlight on this issue. Facial recognition technology holds ..."
-    publishedDateTime: 2020-06-24T07:34:00Z
-    webUrl: "https://www.stardem.com/opinion/editorials/facial-recognition-software-useful-for-crime-fighting-but-it-needs-rules/article_4666143f-9b9b-537f-81b5-9ea035bf5b47.html"
-    type: article
-    provider:
-      name: Star Democrat
-      domain: stardem.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/stardem.com/content/tncms/custom/image/20d20780-4187-11e8-ab1c-2fc06d5d5b26.jpg"
-        width: 600
-        height: 314
         isCached: true
 
 secured: "yucx++QDsx7xqyqIhIqbhpGETUzpJpdcMvCxwgOcXLAcHTTQDX/A33zLCXsUXsLnP869Bpn87+Mr7Cf8NzGmAExHi9FrzbMSaIW/njQJkzbpVAVPj8VBDKT4fOLB7i53hp29V7gWQ/apmXrDE7ziSZK+V94739JlnLq+L/edyyn8+wjuXNaxIWm6vDPCygf+XF7TCQEBUYEV5H79GuUVos2rTIzkadH26GoCwTjfaWI8ULLhAHV2LZAZTLIhMR9HaezP35wJ7D1eAXoC3mprdcRTnttCCDhACkO/D+BdQbREIo2wcEoYHgjDrJApRoYPB7a2TXGLIe4+xbwy2n0heP+5bpsawhOWnoYxxznxSqpKDtvd0zDkX7fKqyxliA6ZP4ZC6C7ujz1uH/mfsikDeapFhcGkTWdSPpdftOSqJP4iOwk7MvRevDPwGcbd+v14yzByY7P6wzY+JO/+oHHAnTOLEfwbCpIXKQP+QVPvmlHKovzsddMFoLijxl2V/5ED;gZnP+uqUjkF8zOPFZnVveA=="

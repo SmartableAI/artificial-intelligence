@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Two in three CEOs are in the driver’s seat for AI adoption, according to report"
 
-secured: "FKT7a2kWEbjIFrkJPbXtEojrPNU2FgAcExRloAvxR60hIZX/Jtdoq73qbn43pq/ow0DaFkU2tDwox6LRSBuGSytGfFpxn8yGQ/N/9w/wCpuzdJwh82pA7nGvtbnOcjGF/Wtfjrf1byLAAOZNwRlWg3DMmfbBtnQtK0SCBPTSKygAdJNAy4SbShUEpCkHuQPoseDa/9s03PbW6O/fTQuoZ51ri97xrOrapAMB3iWNTGjusI9GHsZeZX2am5ePxAyL7cQI9qLg+zU0SCMTyjzIwhTcaxg7drtV/w8gWnYks5/TD6tzyh9VYYeWQUx7YAP/mSTd/u/o9km1gxTsAN2Sgw==;9xUQwl6FPxR+zkFdBUKRbw=="
+secured: "m2CAxta5gfDBOj6K4E5iwpPV9aOTXQVAXdgJNF2DIbICNyje9SIyk/jTiwIINLxz81BABF1qcBPXV3U78lbGdaCqjNyUXTYsAu437oeV6rsKdLtCyl/YAsb6oEGFrXRigtB6gMI70PLh3EuAiNqdOzmu38LLxIvAvN370Z6qqd0Zvi++FSoELQg6wyro6RzHp9XuEinKeD8JnfH0FxX1b83KPAXFPkGKIqtHjKUfGum7PjYYfjyvZzkCF4YBntO2671UAQsQtyQHwitkQm2oCTIP8g/08WMKVWk3n5j+JOAizuTyIzsJIBPwz3Mh+ACf3BackbYxHn3M0M3Vcr5bpBkFyUWQxFwLJfVTxoWkqyVw5it7rMeoevUZsASomeYGqObq6Kd6YkmwfnmTJ4z+5DQglczoYC2qbENsvbUpUC4dMS1giz1yLJOo8n69irwMOe8QdSyvCahSQ6XW8IKZ/owLvt+V/Q+BCKQtPvJIugoi+IYbhC/EhEWg1M1dY1N9I3QiaquY/4wfbHzx/6iHpA==;J9r2wsQvileyv/LtL5dyTw=="
 ---
 

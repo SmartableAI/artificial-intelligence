@@ -59,36 +59,6 @@ related:
         width: 1710
         height: 961
         isCached: true
-  - title: "New HomeKit features in iOS 14: Facial recognition and more explained"
-    excerpt: "A boost for home security cameras with facial recognition and activity zones turns HomeKit into a more powerful tool, but there's more, too."
-    publishedDateTime: 2020-06-23T12:48:00Z
-    webUrl: "https://www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236"
-    ampWebUrl: "https://www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236/amp"
-    cdnAmpWebUrl: "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236/amp"
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 74
-    images:
-      - url: "https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/06/Screen-Shot-2020-06-22-at-19.02.10-1024x640.png"
-        width: 1024
-        height: 640
-        isCached: true
-  - title: "Facial recognition software: Useful for crime fighting, but it needs rules."
-    excerpt: "IBM’s decision last week to stop selling facial recognition technology to police agencies, and Amazon’s subsequent announcement of a one-year moratorium on such sales, have put a needed spotlight on this issue. Facial recognition technology holds ..."
-    publishedDateTime: 2020-06-24T07:34:00Z
-    webUrl: "https://www.stardem.com/opinion/editorials/facial-recognition-software-useful-for-crime-fighting-but-it-needs-rules/article_4666143f-9b9b-537f-81b5-9ea035bf5b47.html"
-    type: article
-    provider:
-      name: Star Democrat
-      domain: stardem.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/stardem.com/content/tncms/custom/image/20d20780-4187-11e8-ab1c-2fc06d5d5b26.jpg"
-        width: 600
-        height: 314
-        isCached: true
 
 secured: "hyc7mNnF/siQlapZO4Jx3/yQx2rYSu3gi1aLWb7zdJlPEyIhvtl4VW9M+/AWRZnMqls7Kyrp+r2CLVd8H0Ee/ln936XEJUzKXhyZKWGmd7wBO4LKT5Eg6CN4OaLmHtZVHIuqzEC8FAslp5jt2HfW7JORlmX8g4etjp3gkvr4vmYEO0NMMdkYXOwpsikVDg8sXezjUnph9kX711/n+KvyfhUDVPVD4DU6MADQ46tIu9KJLwJ5Yus8jwGbNF1FNnDbr/+8x+NzJwuQZUWAbwMZjw7FftEea5LqRcLdv9T+kEFu5l503aet/dXKdWIhAN12xmOSC6ufDiR8VX38KnYBoSzz7xDhfcOK3Y3JPbQSamy0VtGb05ioQ9aK8JPWYFU+u5Q9RRYkfw+gmk9Cs8iROdClAfVzzfA3U0rHABF4SSVNgnI9gbhbY/6mithYhmdjp2T+kEAOcwydFWOCMgq7WeiuF3F0QppVDs3lbpV0+69BL4NaMtSyituHvbw7o4JiXkZ1xYSpBL+Bcg48tBsVFw==;RkMgJDVVinoCMcocE8eUrw=="
 ---
