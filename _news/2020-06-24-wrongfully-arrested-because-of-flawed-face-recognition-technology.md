@@ -25,46 +25,53 @@ images:
     title: "Wrongfully Arrested Because of Flawed Face Recognition Technology"
 
 related:
-  - title: "Detroit police challenged over face recognition flaws, bias"
-    excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police"
-    publishedDateTime: 2020-06-24T11:56:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/detroit-police-challenged-face-recognition-flaws-bias-71423838"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/detroit-police-challenged-face-recognition-flaws-bias-71423838"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/detroit-police-challenged-face-recognition-flaws-bias-71423838"
+  - title: "Boston just became the latest city to ban use of facial recognition technology"
+    excerpt: "The move also bans Boston city officials from asking a third party to carry out facial recognition on their behalf."
+    publishedDateTime: 2020-06-24T17:51:00Z
+    webUrl: "https://www.businessinsider.com/boston-bans-government-use-of-facial-recognition-technology-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/boston-bans-government-use-of-facial-recognition-technology-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boston-bans-government-use-of-facial-recognition-technology-2020-6?amp"
     type: article
     provider:
-      name: ABC
-      domain: go.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
     images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_69893733490747999fc99b2c95e8a043_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.insider.com/5ef38a255af6cc5dd8746d84?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Detroit police challenged over face recognition flaws, bias | Charlotte Observer"
-    excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police."
-    publishedDateTime: 2020-06-24T12:27:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article243758167.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article243758167.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article243758167.html"
+  - title: "Boston bans most city use of facial-recognition tech in privacy win"
+    excerpt: "Boston joins cities like San Francisco in banning the official use of facial-recognition tech after the unanimous vote."
+    publishedDateTime: 2020-06-24T19:27:00Z
+    webUrl: "https://mashable.com/article/boston-bans-facial-recognition-technology/"
+    ampWebUrl: "https://mashable.com/article/boston-bans-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/boston-bans-facial-recognition-technology.amp"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 34
-  - title: "The Latest: Detroit police challenged over face recognition flaws after Black man’s mistaken arrest"
-    excerpt: "The latest on protests against racism and police brutality around the U.S. and the world. A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police."
-    publishedDateTime: 2020-06-24T15:37:00Z
-    webUrl: "https://www.pressherald.com/2020/06/24/the-latest-detroit-police-challenged-over-face-recognition-flaws-after-black-mans-mistaken-arrest/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 25
+      name: Mashable
+      domain: mashable.com
+    quality: 74
     images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/06/Racial_Injustice_Facial_Recognition_37415.jpg"
-        width: 1000
-        height: 720
+      - url: "https://mondrian.mashable.com/2020%252F06%252F24%252Fe6%252F48e216407ae64ae58a33a0d81cb9c1c5.28a23.jpg%252F1200x630.jpg?signature=9ioxsUaZTvrqoZR7r_dKNqdQDRU="
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Rose Bowl officials defend use of facial recognition program during the big game"
+    excerpt: "Recent media reports painted a dystopian picture of the Rose Bowl’s facial recognition programs used Jan. 1, but stadium officials say they got it wrong."
+    publishedDateTime: 2020-06-23T20:24:00Z
+    webUrl: "https://www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/"
+    ampWebUrl: "https://www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 54
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2020/06/Gallery43-1.jpg?w=1024&h=703"
+        width: 1024
+        height: 703
         isCached: true
 
 secured: "5/2oE4binKPuypmZOPIf2wKJYs4/pSooLchNv/t0Spm58K5CWGYI0uVUKh++40ElNTXHqtS5MJfU63FVwszS+Xp+5AaO49i1qcxcRpsDoq1CqgOyzlrcYBwaiZjtOcRCzjqfMIctE+DFHOYrUE6db43wJm9crWz/n+BQB4ieZ8vmR+Vs7xG6/spI+KzoylFi1yulOIt47eSTt0J6yB6iN8C31kW71asA5EVrpuqr6ofBU6orf3d4xF+p9xMs+8FT4ArTlq35RLTV6ZfzmD3cgdb55mVCHGcO8z6SIe0B7Ti37zURPFWz6EbCJ31GYjsnQE3s/W/0eByaOyAuc8qh2A==;cm2MeXB4E78EPoCllSpeVQ=="

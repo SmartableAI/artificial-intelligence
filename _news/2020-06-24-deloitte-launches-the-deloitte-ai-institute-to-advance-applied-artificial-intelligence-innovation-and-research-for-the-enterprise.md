@@ -5,7 +5,7 @@ excerpt: "Deloitte today announced the launch of the Deloitte AI Institute, a ce
 publishedDateTime: 2020-06-24T12:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/deloitte-launches-the-deloitte-ai-institute-to-advance-applied-artificial-intelligence-innovation-and-research-for-the-enterprise-301082507.html"
 type: article
-quality: 23
+quality: 25
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://mma.prnewswire.com/media/379251/Deloitte_Logo.jpg?p=facebook"
@@ -53,6 +54,6 @@ related:
         height: 315
         isCached: true
 
-secured: "fh80oC4aGHUs+U6uA1uoOz1uICG94TFanxbzx1WKRVjkgocEc2MVn1NV9zEaSk2qLZmGQwbu3ue0moqjh39kWQzAWPYm3h+FxDuSpRGDAdW9htwe2I6i+YZTBoHibJwecEgRFRtEwG5fyY2GkIkWm8k/qCYK+Ynf2pNeKLSMv2LvKvh/yK/nRmZO/yxw/OOTmdNfCzBVasvM44pvT+eN1k7FeUcRYVdt8p3qLcRRxP1vWHi6JHV5AvRXVc7iYApzSFk9+94UzwW7CE/0T/k2Sp3yEFuXIHhGouwPZKNW6W+6aAssz2oiWo0LmnR04DQvRX+2xHAOBhERS+7D94ZpnA==;D94Cs8uwfyBOh8s5FJF/dQ=="
+secured: "uMst9lloDgQFuoUw97YhTok8PXnAkushKtJSyVFz15gNa+j0HH3wjFwSv8rBKrWT0YcZEzuoYSA9syptogyqaajM5bx5L0pH5zomDgBCgqTV6jaxexQQqq3suIx9a4Hv4vCaabn4c6ajrFgMcjiwrZ6w3oEePNp+pNh4JwmFYZ4knfK8eT+htrTqs48UMk7TZauNx0AN6PPgKy6M+TZNmRwlaJW6SbcQF8WdLvsPhFpdbNSKeWL7CCZq4ghTrP8YeKDCFfycmsc3ZUAQYXDW0hi3QQUPiyPTKEbLmWGkWlSL6Kn1nmPJo2feuyEMtVxlqB9Z5lh9ZZ1HCTsZIwFl6oFDOWYeJ68tsT9QuZ1Kay3qIQ7QFXW72abXgTEp+ZvHmmOmWEJs2R16Z4evUjiwcQNHhU7ypGZSmDkSvgswialYXhfd1b1Mvl75mL3oJ+nwD21WU0ITMTrK3G2kES45fgStimZZ8drgp5FMlNsAmqg2cMMz7j4us95uFAXJWcy6swYwOUld7HM5I+gaX1lOOw==;mS18OcVR/jPqORvYTLLJpQ=="
 ---
 

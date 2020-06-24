@@ -8,7 +8,7 @@ ampWebUrl: "https://www.freightwaves.com/news/dhl-supply-chain-partners-with-blu
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics/amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
     title: "DHL Supply Chain partners with Blue Yonder to accelerate warehouse robotics"
 
-secured: "dZAscbv/NNuZE2CHVmTMYMN0ExlpipMsHd1+FPeSNJZfj2KH13YAg1wRnBiOzPC0kbbefg4ERiS9mTK+ZmtCIkiG0NGocD3sTAId1Qwko9dsw1lDbKwj0Y+qbCd5C6QEjlo2OGf4wegQu/pZJ2VEaI9DK8DLhc/OG2R6YiGTlXrrIawHQYlOASXzSwhfWGP4z89SxX+T3JO8LHt5sVRz8PPgkmsvIm6KsZleD6QEeC6N4Rb5sJDELpYFzEkFRW4Crs0Q2P0HrRZ+jTLI35yecLqh0RABMhUYy/hqTtePFhAClE0ZxxBDAF7JRqsNt2lU3lvbmn3ugSEofyCmhlnqBw==;6jdDqPHc9OJdcHyM3NwcDA=="
+related:
+  - title: "DHL Supply Chain Launches Software Platform with Blue Yonder on Microsoft Cloud to Accelerate Implementation of Warehouse Robotics Through Standardization"
+    excerpt: "DHL Supply Chain, the global leader in contract logistics and part of Deutsche Post DHL Group, has just launched a new “plug & play” robotics plat"
+    publishedDateTime: 2020-06-24T15:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200624005053/en/DHL-Supply-Chain-Launches-Software-Platform-Blue"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
+    images:
+      - url: "https://mms.businesswire.com/media/20200624005053/en/785816/23/Blue_Yonder_Logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+
+secured: "YUTmlUqJlvwob+cefpXb9TUTcrOc8T+ZTEuxWNbODvwyjPrFtxTd5h+8xvBPXHW9poDKtnfIDO57x09qZWTSU/44dVMJfJnk5SOw9kQ2AOY/X4TedHWl8i4yo3OKsir6ZZB3PBCZn7MNfTlueo6u2zcsytQc4jELgHRyaJkZ9sXjufkewtoquXHk7agtdhWnyi/GD5VyJL/xP0aTpzJIJH0AQqdomIXTssfPzwl4uqMM/tycCF5eu76ZlGy83z8rmtpTiEB3QF5uTpBsKoHctfesklG55cvKyusN1FEAGjs5UC0yOQ7bOKWRScTsVV7swKTQCfoa3w7s/TGN7TxDRTfKiDkd5IXKHrZt4I1zZvNOwEynuSqmq75YhjwThF9Wx4096lRu6O4QpzvPEVJwOD5BIntGGerj3bdyrdSuIjK3/CaC22E7yZGmdanNlgRGCMDyYLEAwQVqslaLzmrK74L2+2oMhPrTv9vS0jLowO4dxSeW3trRhu7QjOPR51gok4/lwZFtgm7z2wXINjTDig==;RQHzUB7g+pfCKF3AiplK8A=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 777
         height: 518
         isCached: true
+  - title: "Machine learning is gullible, shows new study"
+    excerpt: "Artificial intelligence and machine learning technologies are poised to supercharge productivity in the knowledge economy, transforming the future of work. But they’re far from perfect. Machine learning is the technology in which algorithms “learn” from existing patterns in data to conduct statistically driven predictions and facilitate decisions."
+    publishedDateTime: 2020-06-24T10:32:00Z
+    webUrl: "https://knowridge.com/2020/06/machine-learning-is-gullible-shows-new-study/"
+    type: article
+    provider:
+      name: Knowridge
+      domain: knowridge.com
+    quality: 39
+    images:
+      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/06/Machine-learning-is-gullible-shows-new-study.jpg"
+        width: 800
+        height: 548
+        isCached: true
 
 secured: "IwIXFOuD2Nc43jQyQlSiWHItI9Lbdb0qWYkct+hDIX6f0Tm10uobYlwr+Y0W1Fo8xGVgkIT6n5vBLoXROHMPH5TPJb5aBTaO3uQTEyBQnxQgniJO4ct/sJFmfH9YiTzxHYqcRulvjJFu5dVEbIVQ9cX4uXXwcqp3wWh71sICClywuzQHR2bqdfjwvFsFEASham3KyeUUV7Y6Xr5mkKQVmiH2PZVKpX8FkD+VIfPon383gtlA3Pmxtb/IaOzUJC1hODUyjk58ePB84IQZlRbGQbJw3iNMnIYNACotxxu3MaK+rYB3+ohkrcHizVDDEqq1bRcDC/iC8Rjs7i8IxDUdhQ==;U/+z0Q7rAsSmfykifyXq6Q=="
 ---

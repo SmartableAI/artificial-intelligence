@@ -1,9 +1,9 @@
 ---
 category: news
 title: "UN, telcos in Africa take on Covid-19 with AI and digital service"
-excerpt: "(CNN)The United Nations Economic Commission for Africa joined forces with a group of telecoms operating in Africa to reach over 600,000 million mobile subscribers with coronavirus health advice ..."
-publishedDateTime: 2020-06-24T13:36:00Z
-webUrl: "https://edition.cnn.com/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html"
+excerpt: "The United Nations Economic Commission for Africa joined forces with a group of telecoms operating in Africa to reach over 600,000 million mobile subscribers with coronavirus health advice."
+publishedDateTime: 2020-06-24T13:35:00Z
+webUrl: "https://www.cnn.com/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html"
 type: article
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "UN, telcos in Africa take on Covid-19 with AI and digital service"
 
-secured: "ra0p5qY1747vadic7TiRLbdk72oSa9+nyUDwiOvHNy7Cri/Gn3hE/W2Wdvs6QK2Emzk4WzyecYPDNy6RSd8nJ4n4jpHNOMbrMATdo2DMkpCj0tFTh+lCD7SG9AZnk9VUn+CJxRr7Jjd9e32U2Myna+/6C5HvRFgJnk7kzAOKNciCUShOAsueYzK804dWIEvQAe2KM8zaz1RY+thOfRnMIkvhtYT2HR+vFWphWkETyLkqx2I1pFegCJV725mK7oKbK3+bSJexfSRywjBXGihJ4OZpY6o6qHedqzPZdI+b2TnSk8JKSWct7L68Z4SaUld7z6AioaBtB+Y/EpQJA3VS9IUvb+5NCteaYdnQ31F56u+mLa9y7MGVQufJxp189BIhp041bDKiNln2aXSa5ybCxyU/yOS4uBU8fOSXdUQT6PPgSqBVQqzFR36uT4sJx1X74ALDJYXOxcwyA3Nt4D6QADVnjDCV2KkfvkfygqPUCTIACe/8Orvkga5fZfFNg4nroDwXJ/5Y8MXb4sw7RA73QA==;4PCOv0VH7FU25RemgwYJgg=="
+secured: "8lNBH20x6TxCULZRnuXLZBfLJXjj/A5gQVGakq/SkoReXuq78PvLR3svOm6wsBkzDS/xpXFjd/a+hX3u4A6IkHeEQOr+Y3qLWRIjh6H24WxyNuWoIbEPyEEAllQ/ee/WZlJZ39M1WvZCmrtRlNFz3KoBRCrK+8xX9p1nXsIp1rq9LgHZoPBfLc3aVXZUW5A/hXdAvwZpoKPGCYM5NHd937vHkrf3dNOehc1AEyqQms5htWxznSNkw3Y5evebtc7AIflYQIMnDQ3+UK+ky/+tRbBs8JReNADgebKt8pExUKzIEe3JdfZ03QTigX2YokTjed51C8ZjzVHtQAM6wRSHUA==;c/AruFJds/fY8lR/gVyL5g=="
 ---
 

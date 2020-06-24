@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/facebook-ai-choreography-170023727.html
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-choreography-170023727.html"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

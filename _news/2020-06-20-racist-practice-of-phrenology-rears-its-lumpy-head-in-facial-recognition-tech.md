@@ -36,6 +36,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Boston Just Banned Its Government From Using Facial Recognition Technology"
+    excerpt: "Citing “racial bias in facial surveillance,” the Boston City Council voted unanimously to stop the use of facial recognition by public agencies."
+    publishedDateTime: 2020-06-24T18:03:00Z
+    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/boston-vote-ban-facial-recognition"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/boston-vote-ban-facial-recognition"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/boston-vote-ban-facial-recognition"
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 87
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-07/10/14/campaign_images/722e4d2ed160/privacy-and-civil-rights-groups-ask-the-us-govern-2-344-1562770255-0_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
   - title: "Boston City Council Set To Vote On Facial Recognition Technology Ban"
     excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."
     publishedDateTime: 2020-06-23T23:39:00Z

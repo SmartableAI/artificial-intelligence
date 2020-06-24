@@ -36,19 +36,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Wrongfully Arrested Because of Flawed Face Recognition Technology"
-    excerpt: "Robert Williams was arrested and hauled away by the police in broad daylight in front of his home, his wife, and two little daughters. He was locked up for nearly"
-    publishedDateTime: 2020-06-24T13:46:00Z
-    webUrl: "https://www.wisconsingazette.com/multimedia/wrongfully-arrested-because-of-flawed-face-recognition-technology/video_fbc3ca15-039c-5a4a-8b54-4b69b40fee39.html"
+  - title: "Detroit police challenged over face recognition flaws"
+    excerpt: "The complaint by Robert Williams is a rare challenge from someone who not only experienced an erroneous face recognition hit, but was able to discover that it was responsible for his subsequent troubles."
+    publishedDateTime: 2020-06-24T17:55:00Z
+    webUrl: "https://www.pbs.org/newshour/nation/detroit-police-challenged-over-face-recognition-flaws"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/detroit-police-challenged-over-face-recognition-flaws"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/detroit-police-challenged-over-face-recognition-flaws"
     type: article
     provider:
-      name: Wisconsin Gazette
-      domain: wisconsingazette.com
-    quality: 39
+      name: PBS
+      domain: pbs.org
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wisconsingazette.com/content/tncms/assets/v3/editorial/f/bc/fbc3ca15-039c-5a4a-8b54-4b69b40fee39/5ef35944c800c.preview.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/06/GettyImages-1149113711-1024x718.jpg"
+        width: 1024
+        height: 718
         isCached: true
   - title: "The Latest: Detroit police challenged over face recognition flaws after Black man’s mistaken arrest"
     excerpt: "The latest on protests against racism and police brutality around the U.S. and the world. A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police."

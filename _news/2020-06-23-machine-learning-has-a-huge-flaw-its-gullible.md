@@ -8,8 +8,8 @@ ampWebUrl: "https://scitechdaily.com/machine-learning-has-a-huge-flaw-its-gullib
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/machine-learning-has-a-huge-flaw-its-gullible/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: SciTech Daily
@@ -40,6 +40,20 @@ related:
       - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
         width: 900
         height: 300
+        isCached: true
+  - title: "Machine learning is gullible, shows new study"
+    excerpt: "Artificial intelligence and machine learning technologies are poised to supercharge productivity in the knowledge economy, transforming the future of work. But they’re far from perfect. Machine learning is the technology in which algorithms “learn” from existing patterns in data to conduct statistically driven predictions and facilitate decisions."
+    publishedDateTime: 2020-06-24T10:32:00Z
+    webUrl: "https://knowridge.com/2020/06/machine-learning-is-gullible-shows-new-study/"
+    type: article
+    provider:
+      name: Knowridge
+      domain: knowridge.com
+    quality: 39
+    images:
+      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/06/Machine-learning-is-gullible-shows-new-study.jpg"
+        width: 800
+        height: 548
         isCached: true
 
 secured: "i875sUUjmRmV76p5LD/LXtDzvraJj+n5pvz2H1vHX1klIbaC5hw0gZeWsrmCugQYTX4/FEcuGDMnzsjEZqLLXnK87k29+a19z2NrE/rgmvm/Rc7aw2TWkylgoZYZE+Hc1wWI/NATbTl64h8RH0zY43WNpHusY6iW71Mk5fgThTqyUAaPrJiaexLb35NsmHqsw2pYd3p8v1wIk1sPGfw8rQwgxe6ehlu95MoXC5BUI6+DV0i+/cv1GEwMxHBHTeSVzPaqgDz3IlxJzpIbhDeWkjT2HQD3ncYQ6zumPNPs7mfp9m1moSVkLWx/mTwmtHl1YEB/Tlm/5PIDrbFDIZivMg==;Bz2NZq/KSCd/TyGqhq+9kQ=="

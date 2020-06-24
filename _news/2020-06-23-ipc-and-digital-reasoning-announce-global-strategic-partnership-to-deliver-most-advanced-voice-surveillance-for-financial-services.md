@@ -48,7 +48,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 23
+    quality: 25
     images:
       - url: "https://mma.prnewswire.com/media/379251/Deloitte_Logo.jpg?p=facebook"
         width: 1612

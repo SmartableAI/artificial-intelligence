@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Real estate tech startup OJO Labs raises $62.5 million, acquires Movoto"
+    excerpt: "With the latest financing, OJO Labs has now raised a known $134 million in venture funding since its 2015 inception, according to Crunchbase."
+    publishedDateTime: 2020-06-24T18:08:00Z
+    webUrl: "https://www.housingwire.com/articles/real-estate-tech-startup-ojo-labs-raises-62-5-million-acquires-movoto/"
+    ampWebUrl: "https://www.housingwire.com/articles/real-estate-tech-startup-ojo-labs-raises-62-5-million-acquires-movoto/amp/"
+    cdnAmpWebUrl: "https://www-housingwire-com.cdn.ampproject.org/c/s/www.housingwire.com/articles/real-estate-tech-startup-ojo-labs-raises-62-5-million-acquires-movoto/amp/"
+    type: article
+    provider:
+      name: HousingWire
+      domain: housingwire.com
+    quality: 57
+    images:
+      - url: "https://www.housingwire.com/wp-content/uploads/2019/09/CFPB.jpeg?w=1010&resize=540,275"
+        width: 540
+        height: 275
+        isCached: true
 
 secured: "FtkLBTVjaWU9PEMOHoQ5w+BbVEolXY/bz0vj5/+kZ/7umW9Gq5WAb450M49vBm2L3bmp+rDrZOfE0ss5OZXAap4E+yL1lda9jOofhnKeeBWhwjBvOFADb5x6lnWLVq6ZoJ2tApoIaMMQXgiSV2qqQVoObeiVcvjVCiCJtlqWzH2uKW7DoEh3BJ0dns5yUqfP4CNKfju5gidpg6ck7MihYPU+f4SFjA+lCqkr8aWYu+RIRNH3KhSJWzJvHpxlqr1wkt4V8KkBJpqlo90Wu+GpHMmpu4mFwUlXOeGqoZV3LmrrHHtQjWpXVuRlDNu5VYHsQuYoJx3yiPRNjdtCQQ2bb4LU9wdj2XNlpO5qz4D/dZH/uYdCE9A8EqxKYnj9HavI4YWzg+975JyvNU0UCV7CiQSZ9QYTvfHjYhLGZanZ++lh9xMA3tpGl4jxkisf0v3w09nCTeY7ltSM/3w+p1I4nkf3GZjm9bmBHs4mYz15XqNdAtNhhccvjpb0/Vf3IlXlkm8F7Pv/VNvnEeTpSZ+4qA==;VtJMdQW1cresSCDfc3d96A=="
 ---
