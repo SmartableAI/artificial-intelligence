@@ -87,6 +87,22 @@ related:
         width: 1024
         height: 499
         isCached: true
+  - title: "Mercedes-Benz joins Nvidia to build self-driving platform for 2024 fleet"
+    excerpt: "Premium car manufacturer Mercedes-Benz and graphics giant Nvidia have joined hands to build an in-vehicle computing system for next-gen automated cars."
+    publishedDateTime: 2020-06-24T10:52:00Z
+    webUrl: "https://www.sify.com/news/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet-news-education-ugykPGceaabec.html"
+    ampWebUrl: "https://www.sify.com/news/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet-news-education-ugykPGceaabec.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet-news-education-ugykPGceaabec.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 43
+    images:
+      - url: "https://www.sify.com/uploads/mercedes_benz_ugylaNhagjahi.jpg"
+        width: 896
+        height: 597
+        isCached: true
   - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
     excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees"
     publishedDateTime: 2020-06-23T06:51:00Z
@@ -113,6 +129,6 @@ related:
         height: 400
         isCached: true
 
-secured: "HGu3lYX18ADBGqxnHfRAfn1CMNyX/OOZ/xAYLb4PRRtZXoPMbYThU7oFw8Silv7Kp6pvjgnD3Z+0ZpZkBwyyjm7iEx6rJ3S0LoTFHQP6q52tDtxFQsRj1L2YA6aBA39LnDz4VD+Ve9/w71wVfHVsl6uAAgW+loWCcO8dTCNBXM9mMGf2Svwg932X2Cd83oaTYVMG/2OLHUotWkXn6xXOGHj8gE9sK+jrOTXo4eiOA23iB62mbyhIHcWSlV66PCP/jxqpploI3p59Qb6yzryD9rLMV80j0Quxk2DNEDytduaWDytEJf4uPUyZ7o3+IhdOIdpXK4nDbegiEfYNnrXZBw==;xlUcJQY6Pf7RxyAOmyU9sQ=="
+secured: "lrejHGFx8MEIMvkb9t2t7Ht2BwMVQlnGf/b2zJSbtkljn31dJVTz0HlVfZxzqDnlcBtqglNB56EVctu3UrQmprEwWRb8EVnLob5th1DlxJ5C4ZSpbe3MkEzh1ny/cqmbcAXJBwCRCF2YZb1UzbyTcwdZ+T3NYPJ2vKQvdXlI6Q42SjpFwjX+d09THs97/J6rwskLuMHMGc/PjXofLlDN19XkfpwBuqcM16Qg6x7aMXV11vEnt/fzo7b7WYc158ZZH34MwmD/hv107/pRKsd0nvfJuDJrTzBBDJ03l2Xx5YnVdvq953ZkLtY8n0TDesUX7A0yVMiHEhPx423ETN+WOBuZbHeI2Brzz4rb+WQPTtzuA6N9U6If2hAnMYK+X33XOAR3scjclKXOBvvRvJF6kL8KaxKuSVweXu5WSCTec0K58/2wBmApDFlC87w+x76vdfqwHOemf54wkSiASqVV+9kh/q/Uiu5gUhetnsVgKwB8I3Iy4l0SSB6Bre3kc6rtJ1r4k/A2+Fp2DpgaMgk4qw==;08HQcHE6Wo+zBCY3I9FlUA=="
 ---
 

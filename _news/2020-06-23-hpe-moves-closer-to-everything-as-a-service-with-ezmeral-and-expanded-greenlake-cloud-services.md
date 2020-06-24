@@ -47,18 +47,13 @@ related:
         isCached: true
   - title: "Hewlett Packard Enterprise Helps Customers Accelerate Transformation with Breakthrough HPE GreenLake Cloud Services"
     excerpt: "Cloud services for Machine Learning Operations – Through HPE GreenLake ... HPE Ezmeral software portfolio, and backing from HPE Financial Services and HPE Pointnext Technology Services provide a differentiated solution that competitors cannot match."
-    publishedDateTime: 2020-06-23T16:11:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/hewlett-packard-enterprise-helps-customers-accelerate-transformation-with-breakthrough-hpe-greenlake-cloud-services/article_f85c8832-5b36-531f-ad20-340101d3a082.html"
+    publishedDateTime: 2020-06-23T16:22:00Z
+    webUrl: "https://www.oaoa.com/news/business/article_ffe063a1-4397-5961-aed8-cf4b9aedafe7.html"
     type: article
     provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 2
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
 
 secured: "0o+u/adj6WphBAKRCzxSOBz4kUeQ396KkCNxr1WMkF4qa8wnJ/WFjWl0nk/lyaGzjmcChtysuFSoiIF+f0aOGluxBrEaLThg6q7I4uc9+8LE4m5Fd0KJXu5A8G9PpN+Zsic66HJ2Hkx9k0QkZ1DJ1mHicdWujGhzIuEJePW3775eUtofItr/S2f0T+BVaPjE0pOcFXzCjgyA9Kz1/wfc5AeeW71y95fHcr/c3NSo1cQJOPPO86PnNyNVCRDDqpAKujmWnOHSs7bk4GEPgeWdkDGNe+ESuyBCjGQ5H39Wj5NTU6rAe41X4CI53YtmLflHasXLyE35jxS92BCg98DoF4ejeLX+FA5AZC9XHlqYQyqo5BpoNaa80qdEgcF8xX/qcD3z2ROj+96i0N4P6hPBBKFLxxRBwJ7gpg8UlfJu4Eso98yutpFdOwAN+U7TI+9uA4vVmOsKn7Gw6ANXraEmPVH8CxshmdX5y0Yzz1XVERuWI4BJh2GAaWorvLWZCFLIpij+9PwlJtLcm9Dq6zqoqg==;UATVvMt6rDuEak93isxUmQ=="
 ---

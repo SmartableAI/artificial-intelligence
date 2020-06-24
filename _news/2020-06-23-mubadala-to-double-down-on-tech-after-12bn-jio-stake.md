@@ -36,6 +36,22 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 54
+  - title: "Mubadala looks to beef up tech investments and boost Asia portfolio"
+    excerpt: "The company is predominantly eyeing the technology sector, including medicine technology, life sciences, artificial intelligence and ... is investing $2.25bn in Waymo, the self-driving technology ..."
+    publishedDateTime: 2020-06-22T13:41:00Z
+    webUrl: "https://www.thenational.ae/business/economy/mubadala-looks-to-beef-up-tech-investments-and-boost-asia-portfolio-1.1037473"
+    ampWebUrl: "https://amp.thenational.ae/business/economy/mubadala-looks-to-beef-up-tech-investments-and-boost-asia-portfolio-1.1037473"
+    cdnAmpWebUrl: "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/business/economy/mubadala-looks-to-beef-up-tech-investments-and-boost-asia-portfolio-1.1037473"
+    type: article
+    provider:
+      name: The National Blogs
+      domain: thenational.ae
+    quality: 44
+    images:
+      - url: "https://www.thenational.ae/image/policy:1.1037472:1592845105/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "S/KLJanhC8fdzrSNkGdbciWxUKGZS/1Fu4hcHRMjoi6lx5kJJff3Zi2GKMNB2Hu9gnq1AbPZKqPg+rWl77STeJzInXMuI6YxbaWzxIsima5dBEqo0Jak1hEAQtrMlff2RcPG1z7RozwjUr/360H4KfG1FvUbBAH77kf8jG1vSeuwcpm/yD1rlyMt+eFOsC3062LVaHXqKW+hvaSIQu6COe1T1r8jp/SvgZF01jjv5JajMfImEJdDVeRuiVU9JtrkrT8uTj65IzxTnAYantmPRgdYH5m12M8uKM7zjjEjjnK6fc8mGwkEkfSrHqZWXVCe1LaYQmcusaGGVV4Y7yGekz/tOV1m96F+TUDCv2ZhbwBV2sdDdAi4F0Tt93Vm02z6XkifLQmfWQMaRfGicppg1yaD1MYjIHUjtqHW8vY0U11gcrqLB1TsSxrE1o6ietOPDLBz+rOI7l2SvbDEelQULdo4b6MwyPiFiQGa6iAswtvnLiGtndw3CsFk/oVyYEKfIV8Zt4bCZyJAkY1xbt5WIg==;9RHbJuInN8GLIhhCj8cprw=="
 ---

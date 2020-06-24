@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/22/ai-ethics-tuning-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/22/ai-ethics-tuning-knobs-a-questionable-mesh-including-for-self-driving-cars/amp/"
 type: article
 quality: 103
-heat: 163
+heat: 173
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/06/sm_20C0302_04.jpg?quality=82&strip=all&w=1000"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Lyft details how it's going to make self-driving cars safer"
+    excerpt: "Lyft’s self-driving team called Level 5 has published its first ever Voluntary Safety Self-Assessment (VSSA) report (PDF), giving us a glimpse of how it plans to make sure that its autonomous vehicles are safe to use."
+    publishedDateTime: 2020-06-23T10:49:00Z
+    webUrl: "https://www.engadget.com/lyfts-publishes-first-safety-assessment-report-104539689.html"
+    ampWebUrl: "https://www.engadget.com/amp/lyfts-publishes-first-safety-assessment-report-104539689.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lyfts-publishes-first-safety-assessment-report-104539689.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F71f7b8b0-b52c-11ea-bfde-95534e1b930b&client=amp-blogside-v2&signature=7aea62f88da4d147a2e9b5531fd0e4915575118a"
+        width: 600
+        height: 350
         isCached: true
   - title: "Making more data available for training self-driving cars"
     excerpt: "For safety's sake, a self-driving car must accurately track the movement of pedestrians, bicycles and other vehicles around it. Training those tracking systems may now be more effective thanks to a new method."

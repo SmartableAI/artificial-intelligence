@@ -87,6 +87,22 @@ related:
         width: 1024
         height: 499
         isCached: true
+  - title: "Mercedes-Benz joins Nvidia to build self-driving platform for 2024 fleet"
+    excerpt: "Premium car manufacturer Mercedes-Benz and graphics giant Nvidia have joined hands to build an in-vehicle computing system for next-gen automated cars."
+    publishedDateTime: 2020-06-24T10:52:00Z
+    webUrl: "https://www.sify.com/news/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet-news-education-ugykPGceaabec.html"
+    ampWebUrl: "https://www.sify.com/news/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet-news-education-ugykPGceaabec.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet-news-education-ugykPGceaabec.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 43
+    images:
+      - url: "https://www.sify.com/uploads/mercedes_benz_ugylaNhagjahi.jpg"
+        width: 896
+        height: 597
+        isCached: true
   - title: "Mercedes Benz and NVIDIA to develop new self driving architecture"
     excerpt: "Mercedes Benz has announced that they are working with NVIDIA to develops a new Software-Defined Computing Architecture for their future self driving cars. This new architecture will be built in NVIDIA’s DRIVETM platform and it will be standard in the ..."
     publishedDateTime: 2020-06-24T09:11:00Z

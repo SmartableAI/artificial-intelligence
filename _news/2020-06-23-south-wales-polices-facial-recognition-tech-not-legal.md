@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53147221"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53147221"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://www.itweb.co.za/static/pictures/2020/06/FlowCentric.jpg"
         width: 816
         height: 459
+        isCached: true
+  - title: "I was wrongfully arrested because of facial recognition. Why are police allowed to use this technology?"
+    excerpt: "They sent that footage to the Michigan State Police, who then ran it through their facial-recognition system. That system incorrectly spit out a photograph of me pulled from an old driver’s license picture. Federal studies have shown that facial ..."
+    publishedDateTime: 2020-06-24T11:05:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 43
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PY5FPLTWPMI6TJ57ZCSDXBHOGE.jpg&w=1440"
+        width: 1440
+        height: 1010
         isCached: true
   - title: "Man Says He Was Falsely Arrested After Facial Recognition Mistake"
     excerpt: "The ACLU has filed a complaint against the Detroit Police Department for what the group says is the first documented instance in the U.S. of someone being falsely arrested based on AI."
