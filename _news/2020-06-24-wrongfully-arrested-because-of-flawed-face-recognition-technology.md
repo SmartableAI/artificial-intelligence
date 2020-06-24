@@ -52,6 +52,20 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 34
+  - title: "The Latest: Detroit police challenged over face recognition flaws after Black man’s mistaken arrest"
+    excerpt: "The latest on protests against racism and police brutality around the U.S. and the world. A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police."
+    publishedDateTime: 2020-06-24T15:37:00Z
+    webUrl: "https://www.pressherald.com/2020/06/24/the-latest-detroit-police-challenged-over-face-recognition-flaws-after-black-mans-mistaken-arrest/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 25
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/06/Racial_Injustice_Facial_Recognition_37415.jpg"
+        width: 1000
+        height: 720
+        isCached: true
 
 secured: "5/2oE4binKPuypmZOPIf2wKJYs4/pSooLchNv/t0Spm58K5CWGYI0uVUKh++40ElNTXHqtS5MJfU63FVwszS+Xp+5AaO49i1qcxcRpsDoq1CqgOyzlrcYBwaiZjtOcRCzjqfMIctE+DFHOYrUE6db43wJm9crWz/n+BQB4ieZ8vmR+Vs7xG6/spI+KzoylFi1yulOIt47eSTt0J6yB6iN8C31kW71asA5EVrpuqr6ofBU6orf3d4xF+p9xMs+8FT4ArTlq35RLTV6ZfzmD3cgdb55mVCHGcO8z6SIe0B7Ti37zURPFWz6EbCJ31GYjsnQE3s/W/0eByaOyAuc8qh2A==;cm2MeXB4E78EPoCllSpeVQ=="
 ---

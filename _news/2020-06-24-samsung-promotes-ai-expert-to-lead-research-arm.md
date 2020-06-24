@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/samsung-promotes-ai-expert-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-promotes-ai-expert-to-lead-research-arm/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     height: 430
     isCached: true
     title: "Samsung promotes AI expert to lead research arm"
-
-related:
-  - title: "Samsung hires top AI guru as head of R&D hub"
-    excerpt: "Samsung on Wednesday said it has named Sebastian Seung, professor at Princeton Universitys Neuroscience Institute and Department of Computer Science and a renowned Artificial Intelligence (AI) expert,"
-    publishedDateTime: 2020-06-24T09:43:00Z
-    webUrl: "https://www.sify.com/finance/samsung-hires-top-ai-guru-as-head-of-rd-hub-news-topnews-ugyj4Bacfhbba.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
-    images:
-      - url: "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "IhhV+LPTxhG7ZJRSvGMCCzj2D4z+nS6UhWNYECX278tOjgXhdYAafhgQ7IMTW5i6pk14DaCZ3hwgCIYL9ntkRohAe8vsuFdjk4nKdxa8UwGxME6FN31YUvlKRU+7r6XwDo2+SUZrqAH5mz/nVoijwice9kPAzWV1NT2zgNq0etIltRgEy+tzl1e4RPSy65vltBCR0sl3PMqN9gAAPSxhrFDeKf15XFQzoQFpvzMonFm/dmy0yAVSmGJkA3RErul5jEJ2kFm2MyKd7+i6CURt7Du+kBLgjm4oGpO0QY/z6lJercQCOR0dpaiVD88M07VJWruaeZq8+s+zVeD9WIsJT/DVAMVYgu41pKeuqQw17L8aCXHONdfb7LnDcVDcheIl+EriJ7qO1lgSuzlsBpq42L5tJECCFBPSBJxSJDKHvHnQY28c0q/c1yYZe9m0PZ5MRFt5KuMhxKzr3TLIlE+mVgIhKPNEAINrif4uTlREERqs0J70mKfvShmW/4CG1TV9oife7kiahXGvBQsg28Mk8A==;J8NTuQ8uh70tlrkw4iyd1A=="
 ---

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Mercedes-Benz joins Nvidia to build self-driving platform for 2024 fleet"
-excerpt: "Premium car manufacturer Mercedes-Benz and graphics giant Nvidia have joined hands to build an in-vehicle computing system for next-gen automated cars."
-publishedDateTime: 2020-06-24T10:52:00Z
-webUrl: "https://www.sify.com/news/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet-news-education-ugykPGceaabec.html"
-ampWebUrl: "https://www.sify.com/news/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet-news-education-ugykPGceaabec.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet-news-education-ugykPGceaabec.html"
+excerpt: "Benz and graphics giant Nvidia have joined hands to build an in-vehicle computing system for next-gen automated cars. Starting in 2024, the software-defined computing architecture will be rolled out across the fleet of Mercedes-Benz vehicles,"
+publishedDateTime: 2020-06-24T15:24:00Z
+webUrl: "https://www.dailypioneer.com/2020/technology/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet.html"
 type: article
-quality: 43
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.sify.com/uploads/mercedes_benz_ugylaNhagjahi.jpg"
-    width: 896
-    height: 597
+  - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet-2020-06-24.jpg"
+    width: 1000
+    height: 800
     isCached: true
     title: "Mercedes-Benz joins Nvidia to build self-driving platform for 2024 fleet"
 
@@ -111,6 +109,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Omv5+XLvvvPtHvVygGgg+JXeieNFyw/Py4W8eSbTYJ6ok2oRPC2rfwvR0wN1A77jpwzp96Mpc4dvPv7JDtUbNyOjpcmRc+yP9l4Z30OKzrR8SPGnJVcalbV+Rma30fPSJNQ7YGR4pGRVkEFjDE1NPTzbqkgTc5npbLL8G/1b81Lwx2hTvYqCapma7yZ2m/NhNz1KfXQB0AHfxkn+Ailo5yLNcvV6QJXxguo21gT7yIab6ldWgogXvNkCbtwBiXviEuCg6Hh7EyWtFVNJjJhDL9qp23UA4wVgfxezotXGNPMaYblmb9vt1Z1mRz0vhMlPlTwog6ymCmKSTNzKKtTO4g==;3SFWR34J400K2UEGhUjQag=="
+secured: "VSPUBI00ZuTLl+v2TN+GJOoQBh1FoImrOYtgAut0Yx37UFgYZs3jF4bM/Pb6e+Mvp/+eEchc37Br1wMLh1Ykhn34UguLWYf0+yCtDuzNbei8gJu5N64S90Pt2spV6xvJU52ubA98c732XI7B4QAaHdSXpQMf34has5UloCT4DIGz0VP/8w9ZMEkVO6hO5p9TcTZgKbzHBKqNSOvKf0BeUSJ5lm8H7Cu2/JrLQ4nxrvcwN7n6hntq31yW1I8PpJBoONuR8H2rp2h7pQweOzIBAGCDNXlcqmO/kS+San4Lwq3lRgvsVtG9k6up61tGQ0VdYXkPmmwDmev0xTiKDjSHDQ==;4xQNykHOpLF4VBVpiyqQiQ=="
 ---
 

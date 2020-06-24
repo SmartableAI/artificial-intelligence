@@ -75,6 +75,17 @@ related:
         width: 1200
         height: 603
         isCached: true
+  - title: "Mighty Dust Storm Drifting Toward Southeastern U.S., Even Self-Driving Cars To Be Flummoxed"
+    excerpt: "Meteorologists are closely following some mega-sized dust plumes that are slowly drifting from the Sahara Desert and for which those murky clouds have already descended upon the normally scenic Caribbean islands,"
+    publishedDateTime: 2020-06-24T15:43:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/24/mighty-dust-storm-drifting-toward-southeastern-us-even-self-driving-cars-to-be-flummoxed/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/24/mighty-dust-storm-drifting-toward-southeastern-us-even-self-driving-cars-to-be-flummoxed/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/24/mighty-dust-storm-drifting-toward-southeastern-us-even-self-driving-cars-to-be-flummoxed/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 44
   - title: "BMW and Daimler agree to halt joint self-driving development"
     excerpt: "Benz, a division of Daimler, have put their joint autonomous driving development on hold following a review of the technology and agreed to concentrate on individual existing development paths. The companies said they could return to development at a later data,"
     publishedDateTime: 2020-06-23T13:39:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/detroit-police-challen
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/detroit-police-challenged-face-recognition-flaws-bias-71423838"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -52,7 +52,21 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 34
+  - title: "The Latest: Detroit police challenged over face recognition flaws after Black man’s mistaken arrest"
+    excerpt: "The latest on protests against racism and police brutality around the U.S. and the world. A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police."
+    publishedDateTime: 2020-06-24T15:37:00Z
+    webUrl: "https://www.pressherald.com/2020/06/24/the-latest-detroit-police-challenged-over-face-recognition-flaws-after-black-mans-mistaken-arrest/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 25
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/06/Racial_Injustice_Facial_Recognition_37415.jpg"
+        width: 1000
+        height: 720
+        isCached: true
 
-secured: "T8MBLw8nJI+B6sgu5BTh1kMPwMy8Pe96pSD6bQ+30Z6sWpmOjBUxTQp6NX52/EGNlJ9ZxmuwmCXtzzujrLM7ECSKYe56HOZZ2w6V51lbqjUrT93GsbamXrcoawb5cbfKQROYNZ2qTWAWg/N1azl4IMekaS3qBhRpiBLg8WlhepF1NRregtF2TqtmleuxtNDj6MibX/ze3Vt4WElv5e5m0PfDC6yd21uX5bik0y25alKlKlNUUXeQmu0C5VvEQ1vz2I/apSWhCAgFBLYvd5VoV8Gr+fagCUQKP0EaImJcM12bdg+VTQmAZ8X2RE1Va4BGYRu/i+oiYo/hy6kmHgG9+g==;/yguf2Fs1KhdQFGX+PkG2Q=="
+secured: "qkVjEfUzpne/Ci6JpxtP51qZzPU8UYuxkH2xJSK1ads+bQHV+6K/nNChZxf4WFHY2t1olGfupqAI8LARCxvYhFk6DGSS5A0K7yvLYlVeBpGGVTxZzciH8NjENcVetHDxRjaNXNrXj7Tit7p+JA1iouNsJ3wjIYv9BpWo9UDDajTCzrLM8OdCVar9yyelkvThtb+F+HaCo7IVkUHzrO6mv25n58rL8xXW7W33BEL5j94H6T8P0rH62/RwJJE4qT92M48RkgYoztwpLlJd1nfiqOciKDODfv944CeHN7bV4KBVSqiYPq1fiCp568XC6ZV3E2pR2p/YH1QgaielWmlCkr0Y6Lhd8OnzmADE6PlWpn0+dg0ww8ZQHJq6FbwcNAeUwjaxYNuouEGOAyiKONDDMaKLCY6CLT7Cwx2n2w4bOwXpiK9IPoHshp2TWl4Ith1cdFz4cEsWKwUosInpxvmTj9Eig1JxZZh1we4xF7DwGrDmmsmdRvdB7bMbA6IePM1n5dHBVdPSsrE8sHl+dyTfsg==;TDNVY8fHcH2ZHKxvNBZpDg=="
 ---
 

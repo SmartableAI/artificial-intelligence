@@ -25,85 +25,53 @@ images:
     title: "NYCLU sues over Lockport schools' facial recognition system"
 
 related:
-  - title: "HomeKit in iOS 14: Support for facial recognition and adaptive lighting"
-    excerpt: "HomeKit will soon be able to automatically change the color temperature of your lights throughout the day, as well as tell you who’s waiting on your doorstep."
-    publishedDateTime: 2020-06-22T19:50:00Z
-    webUrl: "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.html"
-    ampWebUrl: "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html"
-    cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html"
-    type: article
-    provider:
-      name: Macworld
-      domain: macworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/06/homekit-facial-recognition-100849644-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Police Forces in Canada Are Quietly Adopting Facial Recognition Tech"
-    excerpt: "Police in York and Peel regions are in the process of buying the technology, which has been shown to be racially biased."
-    publishedDateTime: 2020-06-23T09:00:00Z
-    webUrl: "https://www.vice.com/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech"
-    ampWebUrl: "https://www.vice.com/amp/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech"
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 89
-    images:
-      - url: "https://video-images.vice.com/test-uploads/articles/5ef0f57c83ca6d009d2c6d35/lede/1592850289955-cctv-1144371_1920.jpeg?crop=0.8911xw:0.7561xh;0xw,0.1597xh"
-        width: 1710
-        height: 961
-        isCached: true
-  - title: "South Wales Police in court over facial recognition system"
-    excerpt: "Racial and gender biases have not fully been explored in the facial recognition technology used by South Wales Police, the Court of Appeal has been told. It is the second day of a legal challenge brought by civil rights group Liberty and Ed Bridges,"
-    publishedDateTime: 2020-06-24T12:36:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-53166044"
-    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53166044"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53166044"
+  - title: "Facial recognition to 'predict criminals' sparks row over AI bias"
+    excerpt: "A US university's claim it can use facial recognition to \"predict criminality\" has renewed debate over racial bias in technology. Harrisburg University researchers said their software \"can predict if someone is a criminal,"
+    publishedDateTime: 2020-06-24T14:09:00Z
+    webUrl: "https://www.bbc.com/news/technology-53165286"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-53165286"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53165286"
     type: article
     provider:
       name: BBC
       domain: bbc.com
-    quality: 89
+    quality: 104
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9F70/production/_113061804_gettyimages-1141687200.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "AI experts say research into algorithms that claim to predict criminality must end"
+    excerpt: "A coalition of AI researchers, data scientists, and sociologists has called on the academic world to stop publishing studies that claim to predict an individual’s criminality using algorithms trained on data like facial scans and criminal statistics."
+    publishedDateTime: 2020-06-24T10:50:00Z
+    webUrl: "https://www.theverge.com/2020/6/24/21301465/ai-machine-learning-racist-crime-prediction-coalition-critical-technology-springer-study"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/24/21301465/ai-machine-learning-racist-crime-prediction-coalition-critical-technology-springer-study"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/24/21301465/ai-machine-learning-racist-crime-prediction-coalition-critical-technology-springer-study"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 81
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/H-a44apCLMyl8yEYkEovNGfurms=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66974326/acastro_180730_1777_facial_recognition_0003.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "South Wales Police in court over facial recognition system"
+    excerpt: "Racial and gender biases have not fully been explored in the facial recognition technology used by South Wales Police, the Court of Appeal has been told. It is the second day of a legal challenge brought by civil rights group Liberty and Ed Bridges,"
+    publishedDateTime: 2020-06-24T12:38:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-wales-53166044"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-wales-53166044"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-wales-53166044"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/897B/production/_113059153_mediaitem113059150.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "New HomeKit features in iOS 14: Facial recognition and more explained"
-    excerpt: "A boost for home security cameras with facial recognition and activity zones turns HomeKit into a more powerful tool, but there's more, too."
-    publishedDateTime: 2020-06-23T12:48:00Z
-    webUrl: "https://www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236"
-    ampWebUrl: "https://www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236/amp"
-    cdnAmpWebUrl: "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236/amp"
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 74
-    images:
-      - url: "https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/06/Screen-Shot-2020-06-22-at-19.02.10-1024x640.png"
-        width: 1024
-        height: 640
-        isCached: true
-  - title: "HomeKit cameras to get smart face recognition, Apple TV integration"
-    excerpt: "Apple's HomeKit platform is being updated with new features, including camera \"Activity Zones\" and adaptive lighting for smart bulbs."
-    publishedDateTime: 2020-06-22T18:17:00Z
-    webUrl: "https://appleinsider.com/articles/20/06/22/homekit-cameras-to-get-smart-face-recognition-apple-tv-integration"
-    ampWebUrl: "https://appleinsider.com/articles/20/06/22/homekit-cameras-to-get-smart-face-recognition-apple-tv-integration/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/06/22/homekit-cameras-to-get-smart-face-recognition-apple-tv-integration/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/36332-67465-image-(1)-xl.jpg"
-        width: 1320
-        height: 772
         isCached: true
   - title: "Hry police to launch facial recognition app"
     excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."
@@ -116,20 +84,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
-  - title: "Facial recognition software: Useful for crime fighting, but it needs rules."
-    excerpt: "IBM’s decision last week to stop selling facial recognition technology to police agencies, and Amazon’s subsequent announcement of a one-year moratorium on such sales, have put a needed spotlight on this issue. Facial recognition technology holds ..."
-    publishedDateTime: 2020-06-24T07:34:00Z
-    webUrl: "https://www.stardem.com/opinion/editorials/facial-recognition-software-useful-for-crime-fighting-but-it-needs-rules/article_4666143f-9b9b-537f-81b5-9ea035bf5b47.html"
-    type: article
-    provider:
-      name: Star Democrat
-      domain: stardem.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/stardem.com/content/tncms/custom/image/20d20780-4187-11e8-ab1c-2fc06d5d5b26.jpg"
-        width: 600
-        height: 314
-        isCached: true
 
 secured: "KUkJHgphWvGPmfWxDrcvecnZ6BhT0RyKi/9SBZIrh3ISdYsokZ++dA6che5Q9CdiOTWNOeh33mPJNDO0RWVFdUTTkcv0WQLLzZvgntuYStDsQragd4C9KgKv6HAupZ87J6ocqR1WyRHrhZS/59Nk2KrDCjQMN/4JPnBxVCNDdGlXWNxaYQ+MyjVqSv2zz9naXVVOo83graErfItSM/eK1Aj+RwRiNt2NTaGdLrU4MYZfjqK3x898z+5CbXCvvWn2Or1o4UgeQg7BgVZq5S9+PMzROB5gL2bPuRPSgZIHqiFeRpPH8jnEIQ5413KkWweDEZJWSW8X7IV/pjntYvRwsP+TBO+bXS/dnP/y5sTuQdXNjVCj5e60l7pHU4p3ZBalLHJfdOHn+EN4UHK10I8HzQGerN/TxF3kiJ53D4DuHndEet2R0BRAYj079f/VelvMZQe2mQvz0Xh5n8g+pHYLdy6EuSKvv5zcC5cwSn1PiaMJg4AbPE6k/CHmVqQisrHBAaiR7OYrkxvs3KnmVGcICA==;24Er4OXXKUCwGi4V6bwOSQ=="
 ---

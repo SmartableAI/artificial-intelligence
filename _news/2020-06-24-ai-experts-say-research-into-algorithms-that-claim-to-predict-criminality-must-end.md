@@ -30,21 +30,62 @@ images:
     title: "AI experts say research into algorithms that claim to predict criminality must end"
 
 related:
-  - title: "Letter decrying predictive criminality AI research paper passes 1,000 signatures"
-    excerpt: "In response to a research paper that claims to predict criminality from people's faces, hundreds demand its withdrawal from publication."
-    publishedDateTime: 2020-06-23T18:39:00Z
-    webUrl: "https://venturebeat.com/2020/06/23/letter-decrying-predictive-criminality-ai-research-paper-passes-1000-signatures/"
-    ampWebUrl: "https://venturebeat.com/2020/06/23/letter-decrying-predictive-criminality-ai-research-paper-passes-1000-signatures/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/letter-decrying-predictive-criminality-ai-research-paper-passes-1000-signatures/amp/"
+  - title: "Facial recognition to 'predict criminals' sparks row over AI bias"
+    excerpt: "A US university's claim it can use facial recognition to \"predict criminality\" has renewed debate over racial bias in technology. Harrisburg University researchers said their software \"can predict if someone is a criminal,"
+    publishedDateTime: 2020-06-24T14:09:00Z
+    webUrl: "https://www.bbc.com/news/technology-53165286"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-53165286"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53165286"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
+      name: BBC
+      domain: bbc.com
+    quality: 104
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/06/IMG_20190530_135205.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 688
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9F70/production/_113061804_gettyimages-1141687200.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "South Wales Police in court over facial recognition system"
+    excerpt: "Racial and gender biases have not fully been explored in the facial recognition technology used by South Wales Police, the Court of Appeal has been told. It is the second day of a legal challenge brought by civil rights group Liberty and Ed Bridges,"
+    publishedDateTime: 2020-06-24T12:38:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-wales-53166044"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-wales-53166044"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-wales-53166044"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/897B/production/_113059153_mediaitem113059150.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Hry police to launch facial recognition app"
+    excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."
+    publishedDateTime: 2020-06-21T18:30:00Z
+    webUrl: "https://www.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK.html"
+    ampWebUrl: "https://m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 39
+  - title: "NYCLU sues over Lockport schools' facial recognition system"
+    excerpt: "The controversial facial recognition security system in Lockport schools was illegally approved by the state Education Department, a lawsuit"
+    publishedDateTime: 2020-06-22T23:08:00Z
+    webUrl: "https://buffalonews.com/2020/06/22/draft-nyclu-sues-to-revoke-state-approval-of-lockport-schools-facial-recognition-system/"
+    type: article
+    provider:
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg"
+        width: 2000
+        height: 1500
         isCached: true
 
 secured: "VJ+k5i5X9VujNc1E3s3wdid5FcYVGKsyYc2ySyj5eJR8pfvOHmnoX1Bs9XTOXjbsqGMzMZyo8I9fismOSbukt0/qS72SfIyrqD/gNUK0pN7bUvLB5BCvK6juurPgHAoNLIiBVak5gqb4zovjKXVY79y090KOGrr1nm4OkHBMAvt8TYSJFi6HX78ayBwN1rqQJxD30+L4sNV23t7ZK8aLADLR4eK5LY2lAoVAvA0crLPe5nYm9omXsJwH7KWw/GrPPwa0Eyao/YWFLSNuNrXFslAi1Pq1RAzavJUgLxowF/LMrlbycgBt4m4py2fVpFmFY4tCtz2sL3uXtXWQmmKRBQ==;oJKFLbk2hOlvwHdtWe6pKg=="

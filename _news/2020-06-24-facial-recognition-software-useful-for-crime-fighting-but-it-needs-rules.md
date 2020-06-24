@@ -57,22 +57,6 @@ related:
         width: 1710
         height: 961
         isCached: true
-  - title: "South Wales Police in court over facial recognition system"
-    excerpt: "Racial and gender biases have not fully been explored in the facial recognition technology used by South Wales Police, the Court of Appeal has been told. It is the second day of a legal challenge brought by civil rights group Liberty and Ed Bridges,"
-    publishedDateTime: 2020-06-24T12:36:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-53166044"
-    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53166044"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53166044"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/897B/production/_113059153_mediaitem113059150.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "New HomeKit features in iOS 14: Facial recognition and more explained"
     excerpt: "A boost for home security cameras with facial recognition and activity zones turns HomeKit into a more powerful tool, but there's more, too."
     publishedDateTime: 2020-06-23T12:48:00Z
@@ -104,31 +88,6 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/36332-67465-image-(1)-xl.jpg"
         width: 1320
         height: 772
-        isCached: true
-  - title: "Hry police to launch facial recognition app"
-    excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."
-    publishedDateTime: 2020-06-21T18:30:00Z
-    webUrl: "https://www.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK.html"
-    ampWebUrl: "https://m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
-  - title: "NYCLU sues over Lockport schools' facial recognition system"
-    excerpt: "The controversial facial recognition security system in Lockport schools was illegally approved by the state Education Department, a lawsuit"
-    publishedDateTime: 2020-06-22T23:08:00Z
-    webUrl: "https://buffalonews.com/2020/06/22/draft-nyclu-sues-to-revoke-state-approval-of-lockport-schools-facial-recognition-system/"
-    type: article
-    provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg"
-        width: 2000
-        height: 1500
         isCached: true
 
 secured: "MPIq2VlQWe3YDKeE3d2EnhYskZjYfn5mTHrWxXfKtUl0Lv0FYqR8ub/lAhseyhiVR+P7qQn7nQ1ir3S4QKp/+HcOUXzOdEQxJ0ru1rFfv6P0MvrkI6/7pTKvr8LhzYovgi8/eJBPz4+8XR68RutFMSixdJOJ30cU9ocibj4QUay7p+/DfTPwft6deU1k/cV87yi0Wa9hO6vM3W1g2Sot3qakN+7UWbiR0tyQ+atMMOA82caQhgNJdAaSsopugNvkBZTzVnur8Q1C/0wASvrCRsUth3yKC2eZzDfVAiBL9ztFBKzl9CZPsJZEzHaU8wJHhnqOEBhsfpthUdF9r9S65A==;SWxx6XnFihJnGmVcdRxw7A=="

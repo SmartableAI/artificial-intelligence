@@ -39,6 +39,20 @@ related:
         width: 1154
         height: 605
         isCached: true
+  - title: "Kespry Announces Summer 2020 Aerial Intelligence Platform Release"
+    excerpt: "PRNewswire/ -- Kespry, the leading drone-based Aerial Intelligence solution provider, today announced its Summer 2020 Aerial Intelligence platform"
+    publishedDateTime: 2020-06-24T15:42:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/kespry-announces-summer-2020-aerial-intelligence-platform-release-301083019.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/547324/Kespry_Logo.jpg?p=facebook"
+        width: 1972
+        height: 1035
+        isCached: true
 
 secured: "v4xl3HRU/Y6CnAveqdnmQYSW0RXV/Aw+n9WOrA6Em+M97G01eHprIBSAExf6URdKOcd/wChCLM9UaeUK7svY3/3lzpZrgxgDMkPnhhE5ZnBcQMFSq1NqZ2gWIHxQ9DRjTMDXZKYKgCZMK3HFZBDVk1JdarZZlCxBftgI4YpMgt5HP3IoXQlt1ECuZAIlHIwJMD4VAIX2E3UEAOFvRArHLvYIWGdi8HDBqeel98R/890WHdHDew01Flqm2maL4HlVX3XMd7ubjALmgRBYjak+rIuoW+n4sMyPxlNIB48qKu7isaxVy48AfRamZ994FIlpQNrBQnV8yoGxPK0ROdG+3A==;2mTAfzPW4Th8gQHlMHw2Mw=="
 ---

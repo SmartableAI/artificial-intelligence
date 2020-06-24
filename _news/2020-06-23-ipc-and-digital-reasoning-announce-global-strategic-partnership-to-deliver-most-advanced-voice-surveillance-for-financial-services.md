@@ -40,6 +40,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Deloitte Launches the Deloitte AI Institute to Advance Applied Artificial Intelligence Innovation and Research for the Enterprise"
+    excerpt: "Deloitte today announced the launch of the Deloitte AI Institute, a center that focuses on artificial intelligence (AI) research, eminence"
+    publishedDateTime: 2020-06-24T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/deloitte-launches-the-deloitte-ai-institute-to-advance-applied-artificial-intelligence-innovation-and-research-for-the-enterprise-301082507.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
+    images:
+      - url: "https://mma.prnewswire.com/media/379251/Deloitte_Logo.jpg?p=facebook"
+        width: 1612
+        height: 845
+        isCached: true
 
 secured: "d8dh7vI3CqIgPurov7+LP0f1cSSSPoh/gmND7RTPllhJfr8+Lwm4o8Ir0H4id3Q3CC4v99CLHgucADrE6mexjCj+o+jKAWfmQH1OSxQgTtq0AbbN4axiTtCUVyGIVENnvqOP9kT5lKTofPPRCAlmJ3V8jpoWcnx4IHlkfwx6izqZtAcP8AxseR3jHHfvdttib+h+nAFk2DS3ZD+ZBhrbyGCvqjL8gN3e6NEPT1k1QCHjNLG+23Yq97YQgTDiLZWfeUQKFPA0cWO0VXcTS/sMMyL81Y+/iTezZTXZH+yAeh6MTfs3mhyzGBF67TOzGwmwuWL5BDn61n51QCyIAKlU+jfhw3VtG3TufzWi8eTIU6O252ehVqMWQ522n1kGmlFbsfGmB6EwOFXOQl6/Oq0SaBH4gV+gfvlwVv519YYNHR5I849vHqzIMpPaSpz3ZzTNQOnnMT+GRvBi9JCxTy9wFBSXfmx/e3TsEE0Bn5Wmb/nrpDD2HYRU/nmw3cnyzfaIMhL+izeUcCCjaW48hGF1Dg==;za6BmFu0mvFsS9r6yk/OkA=="
 ---

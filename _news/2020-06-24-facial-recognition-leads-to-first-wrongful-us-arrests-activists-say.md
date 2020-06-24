@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1231971"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231971"
 type: article
 quality: 89
-heat: 119
+heat: 149
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     title: "Facial recognition leads to first wrongful U.S. arrests, activists say"
 
 related:
+  - title: "False facial recognition match leads to a wrongful arrest in Detroit"
+    excerpt: "A Michigan man was arrested due to a false match in a facial recognition system, and the ACLU is filing a complaint in response."
+    publishedDateTime: 2020-06-24T14:40:00Z
+    webUrl: "https://www.engadget.com/facial-recognition-wrongful-arrest-michigan-141531393.html"
+    ampWebUrl: "https://www.engadget.com/amp/facial-recognition-wrongful-arrest-michigan-141531393.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-wrongful-arrest-michigan-141531393.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F456ef2e0-b61c-11ea-97ef-f3dc0132a313&client=amp-blogside-v2&signature=62d6d7980dde9b996786e4b6e12008a10d0a1403"
+        width: 600
+        height: 350
+        isCached: true
   - title: "U.S. activists fault face recognition in wrongful arrest for first time"
     excerpt: "An incorrect facial recognition match led to the first known wrongful arrest in the United States based on the increasingly used technology, civil liberties activists alleged in a complaint to Detroit police on Wednesday."
     publishedDateTime: 2020-06-24T11:13:00Z
@@ -59,6 +75,31 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Black Man Wrongfully Arrested Due to 'Flawed' Face Recognition Tech: ACLU"
+    excerpt: "The American Civil Liberties Union has filed a formal complaint against Detroit police for wrongfully arresting a Black man earlier this year after he was allegedly targeted due to \"flawed and biased\" facial recognition technology."
+    publishedDateTime: 2020-06-24T14:54:00Z
+    webUrl: "https://www.newsweek.com/black-man-wrongfully-arrested-due-flawed-face-recognition-tech-aclu-1513086"
+    ampWebUrl: "https://www.newsweek.com/black-man-wrongfully-arrested-due-flawed-face-recognition-tech-aclu-1513086?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-man-wrongfully-arrested-due-flawed-face-recognition-tech-aclu-1513086?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 68
+  - title: "Wrongful Arrest Based On Face Recognition System, Complaint Says"
+    excerpt: "A flawed facial recognition algorithm led to the wrongful arrest of an African-American man in Detroit, according to a complaint filed Wednesday in a case highlighting concerns over the technology which critics say reinforces racial bias."
+    publishedDateTime: 2020-06-24T15:53:00Z
+    webUrl: "https://www.ibtimes.com/wrongful-arrest-based-face-recognition-system-complaint-says-2999768"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/24/amid-rising-concerns-over-facial-recognition-technology-used.jpg"
+        width: 1024
+        height: 651
+        isCached: true
   - title: "'The Computer Got It Wrong': How Facial Recognition Led To A False Arrest In Michigan"
     excerpt: "Robert Williams says his driver's license photo was incorrectly matched with a wanted suspect. He says he was arrested and detained. Though the case was dropped, Williams says its effect is lasting."
     publishedDateTime: 2020-06-24T12:00:00Z
@@ -74,6 +115,6 @@ related:
         height: 341
         isCached: true
 
-secured: "eKZ91C7oss3r+q9uqAoeTfwqi7bid9jCUvyXb927S6jkAL3IAljW6iPDB4ToZln2V2dnuPUyTmCmRQOviN13CTFoF55fi5Nh4K5CZMUHk/nml6XKxa2hRi9HxtA4jE2HYgjpK/SummZWBgV4tQLeQMHTE5A+8m/YcH4Yoi3wLxZmI0YCzjK0yz2IAnwJTAnc/H9BfwsS+9BgJd0L9xWW8JJULWQSC0SCAhAawH1JOY3iwON+rkZsGuv+qWtswVW3x9G97myNew/XXoPa5wutCBltkPBSjQrib2FMOmF7DM9eMnCRSfAOhncr4IiPTzswkvfVdt8KzOhXo4Gj/1PmkQ==;VSxOlzEBxdlq/BNKF7zrxQ=="
+secured: "GiMS2K4OhI9GXiX03GLHYtd/iVSnSGoa/SsvTtw6txn/a3NT9G0d9/Weop9139X924qS2S2PTqw7Lj8bbHOV5EHLgRVDBtWiKCWg70SPB5CReW1HP5NAlezbqiKzOM4PiOVll8P1VkYNkO5UVdkIPbbU5K8IXcv44noGyx6eZBTNHoTEVRULfclTyiGLH5PyBu+aRlKrFffUSj4UruVU2oR2ZEjitnjmrGDRWexDrSkw2rNepzPWJYjjgCJrfOILkU1MkPNoDzPLBfS4EOgeBioX1dDy2bpIOsuHujXTDQHnm0TuFu2Jh+jC7YXcS9NYdF3Nkf2BnlVpyY7tHkOGda5XHp/WoQnJbKj+1EQUb66hfUnzpGcfhITshCSIimffoH5iR5E8p6zHDNWkxkSXv0ZD7jQJIaJwytC+4E8nPvcVPHWDKn4aEu+35HkPgfYdzZGtm4LcJLsnEwIxSAsBEXDgAqTZ1OK+empehwlwrHuRdjQ+E17c7hy1/zOEdE3x/9aQ4jBZt5b/x7GH4FcFIw==;my9fCDY0CTIX8TBNH/iBmQ=="
 ---
 

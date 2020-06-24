@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/aws-and-formula-1-announce-six-new-racing
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-and-formula-1-announce-six-new-racing-performance-stats/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     title: "AWS and Formula 1 announce six new racing performance stats"
 
 related:
+  - title: "Amazon's AWS Client Formula 1 Offers New Racing Statistics"
+    excerpt: "In first-quarter 2020, AWS generated $10.2 billion sales, accounting for 14% of Amazon’s net sales. Further, the figure was up 32.8% year over year. Recently, AWS was selected as the preferred cloud provider by Genesys for Genesys Cloud."
+    publishedDateTime: 2020-06-24T14:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazons-aws-client-formula-1-offers-new-racing-statistics-2020-06-24"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "AWS and Formula 1 Announce New Racing Performance Stats for 2020 Season"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), and Formula 1 (F1) (NASDAQ: FWONA, FWONK) are introducing six new, real-"
     publishedDateTime: 2020-06-23T08:49:00Z

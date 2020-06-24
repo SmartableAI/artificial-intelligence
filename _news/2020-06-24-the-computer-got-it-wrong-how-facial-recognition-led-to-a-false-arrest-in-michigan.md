@@ -41,6 +41,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "False facial recognition match leads to a wrongful arrest in Detroit"
+    excerpt: "A Michigan man was arrested due to a false match in a facial recognition system, and the ACLU is filing a complaint in response."
+    publishedDateTime: 2020-06-24T14:40:00Z
+    webUrl: "https://www.engadget.com/facial-recognition-wrongful-arrest-michigan-141531393.html"
+    ampWebUrl: "https://www.engadget.com/amp/facial-recognition-wrongful-arrest-michigan-141531393.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-wrongful-arrest-michigan-141531393.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F456ef2e0-b61c-11ea-97ef-f3dc0132a313&client=amp-blogside-v2&signature=62d6d7980dde9b996786e4b6e12008a10d0a1403"
+        width: 600
+        height: 350
+        isCached: true
   - title: "U.S. activists fault face recognition in wrongful arrest for first time"
     excerpt: "An incorrect facial recognition match led to the first known wrongful arrest in the United States based on the increasingly used technology, civil liberties activists alleged in a complaint to Detroit police on Wednesday."
     publishedDateTime: 2020-06-24T11:13:00Z
@@ -73,7 +89,32 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Black Man Wrongfully Arrested Due to 'Flawed' Face Recognition Tech: ACLU"
+    excerpt: "The American Civil Liberties Union has filed a formal complaint against Detroit police for wrongfully arresting a Black man earlier this year after he was allegedly targeted due to \"flawed and biased\" facial recognition technology."
+    publishedDateTime: 2020-06-24T14:54:00Z
+    webUrl: "https://www.newsweek.com/black-man-wrongfully-arrested-due-flawed-face-recognition-tech-aclu-1513086"
+    ampWebUrl: "https://www.newsweek.com/black-man-wrongfully-arrested-due-flawed-face-recognition-tech-aclu-1513086?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-man-wrongfully-arrested-due-flawed-face-recognition-tech-aclu-1513086?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 68
+  - title: "Wrongful Arrest Based On Face Recognition System, Complaint Says"
+    excerpt: "A flawed facial recognition algorithm led to the wrongful arrest of an African-American man in Detroit, according to a complaint filed Wednesday in a case highlighting concerns over the technology which critics say reinforces racial bias."
+    publishedDateTime: 2020-06-24T15:53:00Z
+    webUrl: "https://www.ibtimes.com/wrongful-arrest-based-face-recognition-system-complaint-says-2999768"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/24/amid-rising-concerns-over-facial-recognition-technology-used.jpg"
+        width: 1024
+        height: 651
+        isCached: true
 
-secured: "4sG/K8zzJHS+A7KV05LEB8SQqAxKewgf0cQ2IQCiqMOKH77WKY05UitShNOeGivMIy/Yc2FdXatza29iPOi594npooTAIG6cqjLKotleMGWTcjqKDcg/eRNvnTNWQl+bB9xuxv1FQTx4pTQiGdyAo3quY1iY0jHte+aJwsCBC1HBHfu+6QCan+N/iHWR318pRQuds/NlqeRakimCi0AatMiSrx0IG2BkGxPQdNZxumwAmu1KGmib6cneAPwBT+9o4Jcv3JBNnwgEScnLluql7A49c1DUotdP+hW2Y6Qq3ANYPDuDYnRQZsurisJ61NoZ+EfI2efQbxcXoVaAqxBVwg==;+BHYGTzhZaaZrjLzrh8Afg=="
+secured: "0xfSmnArm5CGic+dcl5lsE8LVV3HtVE0fpa32bYXABk+m8CiHthn9JfRhN8UBjrW6JQx2w/Rjig9hlqpfwWOwj7JL7Qm9K+VodQvhABzgOr0v/lNjq3isw2ABJQ+5B+sKjZ2CItyaEEOzJc8Y2tzWEwBF/qFxglFUDAkd/lqkfthmTwGygswB+8AlmTZHW2RvXjPYp7dkI+yEQjFAxrVfv33w9fminhJpWmsWqJZU2rJM/yqVFBPZaAnsCqta4xbuhy8p1EGgSZG3tc+809XOIezSJMa2Vyd8Jjn6ZX0zvCdW1wMN6sIb8Bq4q9ej1hzaXvg14goSGLVsM00rOIMgbHEsTshF9sOMuifKbYmvnIVmgSdq//2DIqGvEWY4/4c4+n+iDjxxUc2n0s6sh86t64DWkR3KczWlcKa9NndrtoxqOBywiYPftZRSfKhIg7NWmYvO6thbNDajoArbBTgFCfWxWh32+ttY394r5Ul+xE4zebypj04criRMYuYNhfnaOkV5WOQfuF3XdDhJhezvQ==;gn2EN/Ewvjyaf4aw6devjQ=="
 ---
 

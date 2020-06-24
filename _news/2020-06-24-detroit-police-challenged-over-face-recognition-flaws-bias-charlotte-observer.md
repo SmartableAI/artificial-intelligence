@@ -50,6 +50,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "The Latest: Detroit police challenged over face recognition flaws after Black man’s mistaken arrest"
+    excerpt: "The latest on protests against racism and police brutality around the U.S. and the world. A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police."
+    publishedDateTime: 2020-06-24T15:37:00Z
+    webUrl: "https://www.pressherald.com/2020/06/24/the-latest-detroit-police-challenged-over-face-recognition-flaws-after-black-mans-mistaken-arrest/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 25
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/06/Racial_Injustice_Facial_Recognition_37415.jpg"
+        width: 1000
+        height: 720
+        isCached: true
 
 secured: "H4mThGcOwPUCRB18zOODs8Ofr5RnO1Knlj4rpUVn5MmasSjMob1BVyjdOm4RrG1eilOm3iTGLXoDfX59KkYqDc5UVRO8y3/wrzckAwBT4TnpeQOnIvGxVQ6iydMeO9WuNZW3tDLiuUDeLy6QU3gL4E66QQEdEGUVsbbAWKFeA7Ia7McUvY411MTY588s9cbGdEf2tcKy+4HbDbSF+sWHDtUPM+pDbauevRs16FvSFDhdKyCR0I6YLFmlxcMU/wLBKfLqXNl4Y8c3RspYbcpxDZmmR+12DtnMoB7t5IndChPBLrcOg28bIr8zeKLPIFXs4GLlMCXaXl2RVMBj7Dhbu4Z9dRZSXoMxSD0k/OflVZHxybIVXC1tOSI26A2LVSKLHNE5q8POLAdRaVU4MViScEKPTLa7vTd+JsBqYSbLsWszK0aw3184t/IkDH956RQZAK3Y68P8Sbvoy0j1t/d8S34oyY9Oap/Piljn+gD55UYoNwA/JGWZCktor3kBWh6Xnr3/ldO8zgD03novf+xiQg==;+0Q3lNBpq1sTnwD4TI8DFQ=="
 ---
