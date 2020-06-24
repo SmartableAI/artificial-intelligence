@@ -2,6 +2,90 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-15-ibm-watson-advertising-and-ad-council-will-use-ai-to-help-brands-do-social-good.md",
+      "title": "IBM Watson Advertising and Ad Council Will Use AI to Help Brands Do Social Good",
+      "excerpt": "During Adweek at Home, a weeklong virtual gathering of marketing and creativity’s most influential voices that kicked off today and runs until Thursday, IBM Watson Advertising announced a new initiative that offers brands the power of data,",
+      "webUrl": "https://www.adweek.com/agencies/ibm-watson-ad-council-ai-brands-social-good/",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/2020/06/ibm-call-for-creative-CONTENT-2020-640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": "IBM Watson Advertising and Ad Council Will Use AI to Help Brands Do Social Good",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.adweek.com/agencies/ibm-watson-ad-council-ai-brands-social-good/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/agencies/ibm-watson-ad-council-ai-brands-social-good/amp/",
+      "publishedDateTime": "2020-06-15T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-linkedin-ai-hiring-is-slowing-down-due-to-the-pandemic.md",
+      "title": "LinkedIn: AI hiring is slowing down due to the pandemic",
+      "excerpt": "A new report published by LinkedIn found that AI and machine learning jobs hiring slowed down in the weeks following the COVID-19 outbreak.",
+      "webUrl": "https://venturebeat.com/2020/06/15/linkedin-ai-hiring-is-slowing-down-due-to-the-pandemic/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/LinkedIn-logo-e1585672001937.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "LinkedIn: AI hiring is slowing down due to the pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/15/linkedin-ai-hiring-is-slowing-down-due-to-the-pandemic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/15/linkedin-ai-hiring-is-slowing-down-due-to-the-pandemic/amp/",
+      "publishedDateTime": "2020-06-15T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-artificial-intelligence-fully-automated-luxury-capitalism.md",
       "title": "Artificial Intelligence, & Fully Automated Luxury Capitalism",
       "excerpt": "Some have argued for a version of communism, called fully automated luxury communism. While this approach deserves credit for facing up to the exponential future, it overlooks two important facts. First,",
@@ -1256,91 +1340,6 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-only-artificial-intelligence-can-protect-britain-top-general-warns.md",
-      "title": "Only artificial intelligence can protect Britain, top general warns",
-      "excerpt": "BRITAIN'S Armed Forces are still fighting \"yesterday's wars\" and can neither protect this country nor meet increasing 21st Century challenges, General Sir Richard Barrons said last night.",
-      "webUrl": "https://www.express.co.uk/news/politics/1295693/armed-forces-artificial-intelligence-sir-richard-barrons",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/139/590x/1295693_1.jpg?r=1592139773569",
-          "width": 590,
-          "height": 350,
-          "title": "Only artificial intelligence can protect Britain, top general warns",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/politics/1295693/armed-forces-artificial-intelligence-sir-richard-barrons/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/politics/1295693/armed-forces-artificial-intelligence-sir-richard-barrons/amp",
-      "publishedDateTime": "2020-06-14T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-this-ai-powered-app-will-build-you-a-winning-logo-for-just-40-flat.md",
-      "title": "This AI-Powered App Will Build You a Winning Logo for Just $40 Flat",
-      "excerpt": "A logo creates instant resonance between you and your customers and sticks in their minds whenever they need your services. Just think: When you get hungry, do you sometimes see the golden arches? That's the power of logos at work.",
-      "webUrl": "https://www.entrepreneur.com/article/351755",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591895053-Ent-Logo.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This AI-Powered App Will Build You a Winning Logo for Just $40 Flat",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351755",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351755",
-      "publishedDateTime": "2020-06-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

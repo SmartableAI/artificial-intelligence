@@ -8,8 +8,8 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/bmw-to-cut-6000-jobs-and-slam-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: MarketWatch
@@ -29,22 +29,6 @@ images:
     height: 742
     isCached: true
     title: "BMW to cut 6,000 jobs and slam brakes on Mercedes self-driving alliance amid Covid-19 impact"
-
-related:
-  - title: "BMW to cut 6,000 jobs andslam brakes on Mercedes self-driving alliance amid Covid-19 impact"
-    excerpt: "German automaker BMW revealed plans to cut 6,000 jobs on Friday as it grapples with the impact of the coronavirus pandemic."
-    publishedDateTime: 2020-06-19T14:52:00Z
-    webUrl: "https://www.marketwatch.com/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://s.marketwatch.com/public/resources/images/MW-II931_BMW619_ZG_20200619111549.jpg"
-        width: 1320
-        height: 742
-        isCached: true
 
 secured: "8vYnZ3v4SswW762kyhWRlkcvbiLc5QM0+FbKqBbjSyDS9P6fAhgaZsrGfL7tPI6Xoz4qwrGyvvR6Sq3s6CsZeZIz++eAeIms73DYGrmHpUBT+plKbsYFQHFgTBbhDUtAEvFJ/w4G5+62EneeiqhbHiPkMjRvtS9VXDZJ0jy8lk5mMn74wb2LDNtGHDjFqoESr9m1W36UFtUUV9r+GNbla/viPNJGTfcW5EK3zkggptwc/UK6nHsVlyMe4y3xaSeAkHL0zlShckdxlSlk0tGjmRWtgZTWx8CI1eabMnt44lcHqabr3CjqU+ImmrLPSEjT3xNYG9fApe8I7aYX1Wwdog==;n+cnjI+naEif+R+Apwx+Pw=="
 ---

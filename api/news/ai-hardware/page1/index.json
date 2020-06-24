@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-24-mercedes-benz-nvidia-deepen-autonomous-driving-alliance.md",
+      "title": "Mercedes-Benz, Nvidia deepen autonomous driving alliance",
+      "excerpt": "Semiconductor maker Nvidia Corp has struck a deal with Germany's Daimler to develop and equip Mercedes-Benz cars with a next generation chip and software platform that could eventually be used for autonomous driving functions.",
+      "webUrl": "https://www.reuters.com/article/us-nvidia-daimler-autonomous-idUSKBN23U2W5",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200623&t=2&i=1523230547&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5M1PR",
+          "width": 813,
+          "height": 545,
+          "title": "Mercedes-Benz, Nvidia deepen autonomous driving alliance",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23U2W5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23U2W5",
+      "publishedDateTime": "2020-06-23T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-samsung-promotes-ai-expert-to-lead-research-arm.md",
       "title": "Samsung promotes AI expert to lead research arm",
       "excerpt": "Samsung Electronics has promoted one of its key artificial intelligence (AI) experts to head its research unit. Dr Sebastian Seung will be the new head of Samsung Research, the company said on Wednesday. He will oversee research conducted at Samsung's ...",
@@ -1289,55 +1336,6 @@
         "AI Hardware",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-aspiring-intel-rival-graphcore-has-shipped-tens-of-thousands-of-ai-chips.md",
-      "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
-      "excerpt": "U.K. chip start-up Graphcore has leveraged relationships with Microsoft and Dell to ship chips to over 100 customers.",
-      "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143",
-          "width": 4328,
-          "height": 2906,
-          "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
-      "publishedDateTime": "2020-06-09T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     }
   ],

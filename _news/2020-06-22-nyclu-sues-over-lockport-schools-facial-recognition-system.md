@@ -100,6 +100,20 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
+  - title: "Facial recognition software: Useful for crime fighting, but it needs rules."
+    excerpt: "IBM’s decision last week to stop selling facial recognition technology to police agencies, and Amazon’s subsequent announcement of a one-year moratorium on such sales, have put a needed spotlight on this issue. Facial recognition technology holds ..."
+    publishedDateTime: 2020-06-24T07:34:00Z
+    webUrl: "https://www.stardem.com/opinion/editorials/facial-recognition-software-useful-for-crime-fighting-but-it-needs-rules/article_4666143f-9b9b-537f-81b5-9ea035bf5b47.html"
+    type: article
+    provider:
+      name: Star Democrat
+      domain: stardem.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/stardem.com/content/tncms/custom/image/20d20780-4187-11e8-ab1c-2fc06d5d5b26.jpg"
+        width: 600
+        height: 314
+        isCached: true
 
 secured: "KUkJHgphWvGPmfWxDrcvecnZ6BhT0RyKi/9SBZIrh3ISdYsokZ++dA6che5Q9CdiOTWNOeh33mPJNDO0RWVFdUTTkcv0WQLLzZvgntuYStDsQragd4C9KgKv6HAupZ87J6ocqR1WyRHrhZS/59Nk2KrDCjQMN/4JPnBxVCNDdGlXWNxaYQ+MyjVqSv2zz9naXVVOo83graErfItSM/eK1Aj+RwRiNt2NTaGdLrU4MYZfjqK3x898z+5CbXCvvWn2Or1o4UgeQg7BgVZq5S9+PMzROB5gL2bPuRPSgZIHqiFeRpPH8jnEIQ5413KkWweDEZJWSW8X7IV/pjntYvRwsP+TBO+bXS/dnP/y5sTuQdXNjVCj5e60l7pHU4p3ZBalLHJfdOHn+EN4UHK10I8HzQGerN/TxF3kiJ53D4DuHndEet2R0BRAYj079f/VelvMZQe2mQvz0Xh5n8g+pHYLdy6EuSKvv5zcC5cwSn1PiaMJg4AbPE6k/CHmVqQisrHBAaiR7OYrkxvs3KnmVGcICA==;24Er4OXXKUCwGi4V6bwOSQ=="
 ---

@@ -2,6 +2,73 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-05-22-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-projected-to-grow-37-billion-by-2025.md",
+      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Projected to Grow $3.7 billion by 2025",
+      "excerpt": "According to research report \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market by Component, NLP Type, Application (Pattern and Image Recognition, and Auto Coding ...",
+      "webUrl": "https://www.openpr.com/news/2054896/natural-language-processing-nlp-in-healthcare-and-life",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2054896/natural-language-processing-nlp-in-healthcare-and-life",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2054896/natural-language-processing-nlp-in-healthcare-and-life",
+      "publishedDateTime": "2020-05-22T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-week-in-review-design-low-power.md",
+      "title": "Week In Review: Design, Low Power",
+      "excerpt": "The VectorBlox Accelerator SDK allows developers to code in C/C++ and program neural networks without prior FPGA design experience, can execute models in TensorFlow and the open neural network exchange (ONNX) format, supports Linux and Windows, and ...",
+      "webUrl": "https://semiengineering.com/week-in-review-design-low-power-95/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/09/iStock-513307992-blue-mascot.jpg?fit=1394%2C753&#038;ssl=1",
+          "width": 1394,
+          "height": 753,
+          "title": "Week In Review: Design, Low Power",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-22T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-coronavirus-impact-on-machine-learning-as-a-service-market.md",
       "title": "Coronavirus Impact on Machine Learning as a Service Market",
       "excerpt": "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The Machine Learning as a Service Market is expected to be around US$ 10746.",
@@ -937,100 +1004,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-ai-chips-in-2020-nvidia-and-the-challengers.md",
-      "title": "AI chips in 2020: Nvidia and the challengers",
-      "excerpt": "Now that the dust from Nvidia's unveiling of its new Ampere AI chip has settled, let's take a look at the AI chip market behind the scenes and away from the spotlight",
-      "webUrl": "https://www.zdnet.com/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2019/04/03/156d6478-5ded-4ada-835a-784899fa6564/abstraction-layer-runai.png",
-          "width": 954,
-          "height": 672,
-          "title": "AI chips in 2020: Nvidia and the challengers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
-      "publishedDateTime": "2020-05-21T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-a-case-for-cooperation-between-machines-and-humans.md",
-      "title": "A Case for Cooperation Between Machines and Humans",
-      "excerpt": "A computer scientist argues that the quest for fully automated robots is misguided, perhaps even dangerous. His decades of warnings are gaining more attention.",
-      "webUrl": "https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.html",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/04/30/business/30hybrid/01hybrid-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "A Case for Cooperation Between Machines and Humans",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.amp.html",
-      "publishedDateTime": "2020-05-21T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

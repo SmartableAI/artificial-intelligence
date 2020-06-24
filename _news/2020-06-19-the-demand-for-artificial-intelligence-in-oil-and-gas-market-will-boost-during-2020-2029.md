@@ -81,6 +81,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 37
+  - title: "Big Data Technology Market Global Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
+    excerpt: "The global big data technology market is set to experience an impressive growth trajectory owing to the rising"
+    publishedDateTime: 2020-06-24T07:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/big-data-technology-market-global-industry-size-share-emerging-trends-future-demands-revenue-and-forecasts-research-report-2020-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 with (Covid-19) Impact Analysis: Growth, Latest Trend Analysis and Forecast 2027"
     excerpt: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 features key points about market share, new developments, and product analysis, market players, analysis of opportunities. According to the global Artificial Intelligence (A."
     publishedDateTime: 2020-06-20T11:53:00Z

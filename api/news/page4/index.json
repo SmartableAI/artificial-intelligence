@@ -2,6 +2,191 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-21-robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era.md",
+      "title": "Robots Play Pivotal Role In Keeping Travel Safe During Covid-19 Era",
+      "excerpt": "Robots are changing the way the travel industry approaches cleaning as it grapples with how to restore confidence amid the Coronavirus pandemic.",
+      "webUrl": "https://www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb8cacda69980007712aa2%2F0x0.jpg",
+          "width": 1080,
+          "height": 720,
+          "title": "Robots Play Pivotal Role In Keeping Travel Safe During Covid-19 Era",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/amp/",
+      "publishedDateTime": "2020-06-21T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-21-the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits.md",
+      "title": "The new startup playbook: It’s about avoiding ridiculous ‘unicorn’ habits",
+      "excerpt": "Join leading AI executives: Register for the free livestream. That means all the rules you think you know about building a tech startup have been completely flipped. Which is ultimately a good ...",
+      "webUrl": "https://venturebeat.com/2020/06/21/the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits/",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/brainstorm.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": "The new startup playbook: It’s about avoiding ridiculous ‘unicorn’ habits",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/21/the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/21/the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits/amp/",
+      "publishedDateTime": "2020-06-21T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-21-how-ethical-is-your-ai.md",
+      "title": "How Ethical Is Your AI?",
+      "excerpt": "Samasource is setting out to prove that ethical data-labeling is not only good for people, but is also good for business.",
+      "webUrl": "https://www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecd17de48a850006bf0594%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How Ethical Is Your AI?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/amp/",
+      "publishedDateTime": "2020-06-21T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-21-google-will-shut-down-its-ai-guided-photos-printing-service-on-june-30th.md",
+      "title": "Google will shut down its AI-guided Photos printing service on June 30th",
+      "excerpt": "Google is ending its AI-guided Photos printing trial service on June 30th, but it might lead to a similar feature in the long run.",
+      "webUrl": "https://www.engadget.com/google-photos-printing-trial-ends-023308003.html",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F0c6735a0-b344-11ea-bafe-160a0b0e31fc&client=amp-blogside-v2&signature=b58b18d9c10038d1386655a2cdb759e378701301",
+          "width": 600,
+          "height": 350,
+          "title": "Google will shut down its AI-guided Photos printing service on June 30th",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-photos-printing-trial-ends-023308003.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-photos-printing-trial-ends-023308003.html",
+      "publishedDateTime": "2020-06-20T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-20-what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols.md",
       "title": "What does that tattoo mean? AI app decodes extremist political symbols",
       "excerpt": "VizPol can help journalists spot far-right and white supremacist symbols like Odal rune tattoos and boogaloo igloo flags.",
@@ -266,44 +451,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-19-engineers-design-ion-based-device-that-operates-like-an-energy-efficient-brain-synapse.md",
-      "title": "Engineers Design Ion-Based Device That Operates Like an Energy-Efficient Brain Synapse",
-      "excerpt": "Ion-based technology may enable energy-efficient simulations of the brain’s learning process, for neural network AI systems. Teams around the world are building ever more sophisticated artificial intelligence systems of a type called neural networks,",
-      "webUrl": "https://scitechdaily.com/engineers-design-ion-based-device-that-operates-like-an-energy-efficient-brain-synapse/",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Artificial-Brain-Synapse-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": "Engineers Design Ion-Based Device That Operates Like an Energy-Efficient Brain Synapse",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/engineers-design-ion-based-device-that-operates-like-an-energy-efficient-brain-synapse/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/engineers-design-ion-based-device-that-operates-like-an-energy-efficient-brain-synapse/amp/",
-      "publishedDateTime": "2020-06-19T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-19-artificial-intelligence-wrote-the-lyrics-to-this-fake-nirvana-song.md",
       "title": "Artificial intelligence wrote the lyrics to this fake Nirvana song",
       "excerpt": "YouTuber Funk Turkey has been experimenting with this very proposition, feeding band lyrics to an AI and asking it to write an entirely new song based on the output. The results are, well… interesting,",
@@ -438,53 +585,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact.md",
-      "title": "BMW to cut 6,000 jobs and slam brakes on Mercedes self-driving alliance amid Covid-19 impact",
-      "excerpt": "BMW and Mercedes-Benz’s partnership, to cooperate on the development of self-driving technology, was announced last year but has now been put on hold. BMW said that the timing was “not right” given the current business and economic conditions and the ...",
-      "webUrl": "https://www.marketwatch.com/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19?mod=darrell-delamaides-political-capital",
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.marketwatch.com/public/resources/images/MW-II931_BMW619_ZG_20200619111549.jpg",
-          "width": 1320,
-          "height": 742,
-          "title": "BMW to cut 6,000 jobs and slam brakes on Mercedes self-driving alliance amid Covid-19 impact",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bmw-to-cut-6000-jobs-and-slam-brakes-on-mercedes-self-driving-alliance-amid-covid-19-impact-2020-06-19",
-      "publishedDateTime": "2020-06-19T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1009,82 +1109,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges.md",
-      "title": "IBM’S Newly Launched ‘Watson Works’ Uses AI To Help Firms Manage New Work Challenges",
-      "excerpt": "IBM recently launched Watson Works, a curated set of products that uses Watson AI models and applications to manage return to workplace challenges.",
-      "webUrl": "https://in.mashable.com/tech/14925/ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges",
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/news/i/ibm-gets-w/ibm-gets-woke-pulls-facial-recognition-software-from-law-enf_xmru.620.jpg",
-          "width": 620,
-          "height": 414,
-          "title": "IBM’S Newly Launched ‘Watson Works’ Uses AI To Help Firms Manage New Work Challenges",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/14925/ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/14925/ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges?amp=1",
-      "publishedDateTime": "2020-06-19T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-add-artificial-intelligence-expert-to-your-resume-after-this-35-training.md",
-      "title": "Add 'Artificial Intelligence Expert' to your résumé after this $35 training",
-      "excerpt": "Artificial intelligence experts. Many of today's most exciting technologies have artificial intelligence to thank. Think personalized Netflix queues, self-driving cars, and this app that blurs out the faces of protestors.",
-      "webUrl": "https://mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale/",
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F06%252F19%252F88%252F2240500266b74523b0293e3e05db6d76.089f6.jpg%252F1200x630.jpg?signature=G-7BbAQ99OQQq5C9x57kGAJsLIs=",
-          "width": 1200,
-          "height": 630,
-          "title": "Add 'Artificial Intelligence Expert' to your résumé after this $35 training",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale.amp",
-      "publishedDateTime": "2020-06-19T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

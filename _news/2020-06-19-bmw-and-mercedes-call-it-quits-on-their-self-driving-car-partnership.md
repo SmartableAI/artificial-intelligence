@@ -94,20 +94,6 @@ related:
         height: 499
         isCached: true
   - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
-    excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees demand plunging because of the coronavirus pandemic."
-    publishedDateTime: 2020-06-19T14:45:00Z
-    webUrl: "https://www.ibtimes.com/bmw-cuts-jobs-ends-self-driving-project-mercedes-2997200"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/19/bmw-like-may-of-its-rivals-is-cutting.jpg"
-        width: 1024
-        height: 664
-        isCached: true
-  - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
     excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees"
     publishedDateTime: 2020-06-23T06:51:00Z
     webUrl: "https://infosurhoy.com/news/bmw-cuts-jobs-ends-self-driving-project-with-mercedes/"
@@ -132,15 +118,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "BMW slashes 6,000 jobs, ends self-driving project with Mercedes"
-    excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees demand plunging because of the coronavirus pandemic."
-    publishedDateTime: 2020-06-19T14:23:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2020/06/19/bmw-slashes-6000-jobs-ends-self-driving-project-with-mercedes/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 4
 
 secured: "25C+iNx4oA6cOzxnSXqaAHvgRJNxFeOZPachaJ6UVJCV3Y3rKa/1nXdnH0OSmIFZmVRdfHAKVtOU64AXQYzy0T15O3pE9BaXv2zUFeBtTc9bnWJuhcYYCMEjdlw0GJOMpEvJ8+/VnwMJMMipNyjARdvApfPGHVwj8gTCr7IDwP2sm7xGsUAzzyYHBcr38Z5oqUnn2yA8J5Z8locpQhAUGm1HKDAqG0DLD/n2svypNVsQbh4syd1ZN2sPzKHk0HzjsXOTEECim0YPibIs2e8yW8Cy8gB9cwSzYkY3hKAesG6hOo0kNoa7fQfdcfWxaTmmK0Iv4Rr7s1/BjF3wTv49G21L2LJiEoZh+788UJClAsrorYcOFXDPTzeLfP3LUbMo6es/DByhU0nF6UF2kUQysSO1fzcjGh/iNW+5pnnLh0OFdhGxq5neIK+7mB4zaiNFPYjJySj8WakhOKp8p6knYu8Py8UTn8UonHZ5j+/5TzGATBoZWHRM0qXdmosmdMhZ;xVn+Yo5+cU3B60/R1EanJA=="
 ---

@@ -20,6 +20,22 @@ topics:
   - AI
 
 related:
+  - title: "Fujitsu and RIKEN take first place worldwide in TOP500, HPCG, HPL-AI with supercomputer Fugaku"
+    excerpt: "Fugaku ranked number one in the 58th TOP500 list of the world's supercomputers, with LINPACK performance of 415.53 PFLOPS."
+    publishedDateTime: 2020-06-24T06:53:00Z
+    webUrl: "https://www.itweb.co.za/content/VgZeyqJoGRRvdjX9"
+    ampWebUrl: "https://amp.itweb.co.za/content/VgZeyqJoGRRvdjX9"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/VgZeyqJoGRRvdjX9"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 47
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2020/06/fugaku-photo2-small-C.JPG"
+        width: 816
+        height: 459
+        isCached: true
   - title: "Fujitsu and RIKEN Take First Place Worldwide in TOP500, HPCG, and HPL-AI with Supercomputer Fugaku"
     excerpt: "Fujitsu announced that Fugaku(1), a supercomputer jointly developed by RIKEN and Fujitsu, was ranked No. 1 in the 58th TOP500"
     publishedDateTime: 2020-06-22T16:17:00Z

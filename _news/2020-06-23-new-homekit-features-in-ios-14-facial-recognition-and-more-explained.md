@@ -100,6 +100,20 @@ related:
         width: 2000
         height: 1500
         isCached: true
+  - title: "Facial recognition software: Useful for crime fighting, but it needs rules."
+    excerpt: "IBM’s decision last week to stop selling facial recognition technology to police agencies, and Amazon’s subsequent announcement of a one-year moratorium on such sales, have put a needed spotlight on this issue. Facial recognition technology holds ..."
+    publishedDateTime: 2020-06-24T07:34:00Z
+    webUrl: "https://www.stardem.com/opinion/editorials/facial-recognition-software-useful-for-crime-fighting-but-it-needs-rules/article_4666143f-9b9b-537f-81b5-9ea035bf5b47.html"
+    type: article
+    provider:
+      name: Star Democrat
+      domain: stardem.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/stardem.com/content/tncms/custom/image/20d20780-4187-11e8-ab1c-2fc06d5d5b26.jpg"
+        width: 600
+        height: 314
+        isCached: true
 
 secured: "2IXGVy3TmKDKxLAE4nbov/cokJSSnc4BUYqBm2Xh8xEi4Ib1O6Z0VGk6BGOHG31QZHJPihdWXZTBr682+gRVGK/VypXlCSR519DTZWJwY8vkLqQ9fLYGJcqeyX2KlOjvM7GR1sj7ExTnjo9LuW5mPCMOOnuim5aSvGsCGAmWTFlFbtsKb6JTMO63WZP/axa5SDfer4or768CvKihKepugqrzD4XHTLN5X2pc4PAhL0fdcJuJHxzTdBcvGaIED8oM2Jc8/EUR1wP3h5c9Zry4VmyY8C4Hapll1U3FrpSikjQSypQ5rWhdecuc75aOMqHFwLR56Vd19NrUs7ceOrJaSA==;+pXYGlwbVNgsXYfsXjs57A=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/06/22/the-impact-of
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/22/the-impact-of-artificial-intelligence-on-influencer-marketing/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     height: 800
     isCached: true
     title: "The Impact Of Artificial Intelligence On Influencer Marketing"
-
-related:
-  - title: "Artificial Intelligence in Fintech - Global Market Growth, Trends and Forecasts to 2025 - Assessment of the Impact of COVID-19 on the Industry - ResearchAndMarkets.com"
-    excerpt: "Growth, Trends, Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The global AI in Fintech market was estimated at USD 6.67 billion in 2019 and is expected to reach USD 22."
-    publishedDateTime: 2020-06-19T14:50:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200619005338/en/Artificial-Intelligence-Fintech---Global-Market-Growth"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200619005338/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "F8c5m+fqKT66BM6D/XTT1val21+i4xg700VbhnRpHcg0i6dpA8otM6CR4rcXSqqYzk90Dp4Nu4QoVvOnIIkSw60K07nEz+lxexoYoTb97QoAdJpfIZpp9JfN4DuucA4rxNPBWojG3Bsud77GZJtfloCkSjGrW3nIZU6OOTE/txbdbSXRLMN3Oegd2oKdCpzghDHpYXC2CTP3lbrugYm56yTPV3HniZFaW+HXFDoFQPXrHurpFjak85oqkQKPFygEV0bRAzSpzp8MRtA2eIqKSBGASKpO9wEMtkCk8C6HpZ1n73Ddq7IaepWFSTU8N5PwlKjUNyQp9ZXRIbwyhir+2SuFbvBvpSwgvxyemKGpYB+nKMd5zltJxydYt+X99l2nfYtn0uwQaA/vLS0ARPhbHQz9qvNMr0F9jp0/HC/+A3MvumqXSehwkuQFTV/vi9953FY/XW1S53rE2LHyhKsBEqDvraaCzyyiIlPrF6/wHJguo0h3JF+VB3uVX93/brOLMoYYTyE6G5AgF0miJ0k3bw==;cYTX9bLJ0ITXIhHQWhzP1w=="
 ---

@@ -2,6 +2,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-22-ge-healthcare-ai-suite-pinpoints-chest-x-ray-abnormalities.md",
+      "title": "GE Healthcare AI Suite Pinpoints Chest X-ray Abnormalities",
+      "excerpt": "This eight-algorithm AI suite is designed to quickly analyze chest X-ray findings and flags any abnormalities, such as pneumonia, for further radiologist review. The suite can also pinpoint tuberculosis,",
+      "webUrl": "https://www.diagnosticimaging.com/x-ray/ge-healthcare-ai-suite-pinpoints-chest-x-ray-abnormalities",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.diagnosticimaging.com/sites/default/files/chest-x-ray_ST_Puwadol-Jaturawutthichal_0.jpg",
+          "width": 348,
+          "height": 340,
+          "title": "GE Healthcare AI Suite Pinpoints Chest X-ray Abnormalities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diagnostic Imaging",
+        "domain": "diagnosticimaging.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-10-wonderful-examples-of-using-artificial-intelligence-ai-for-good.md",
       "title": "10 Wonderful Examples Of Using Artificial Intelligence (AI) For Good",
       "excerpt": "There are many ways artificial intelligence can be used for good and to help solve some of the world’s biggest problems. Many researchers and organizations are prioritizing projects where artificial intelligence can be used for good.",
@@ -1235,53 +1273,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-artificial-intelligence-ai-in-healthcare-market-forecast-report-2020-2027-top-key-players-analysis.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
-      "excerpt": "According to the latest report by GMI Research, Artificial Intelligence (AI) in Healthcare Market: Global Industry Trends, Share, Size, Growth, Opportunity, and Forecast 2020-2027. The global Artificial Intelligence (AI) in the healthcare market illustrates the impact of the COVID-19 pandemic and represents that the market is anticipated to bounce back in 2021 over 2020 while growing at a significant growth rate from 2022 onwards.",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-forecast-report-2020---2027---top-key-players-analysis-2020-06-03",
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Healthcare Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-03T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

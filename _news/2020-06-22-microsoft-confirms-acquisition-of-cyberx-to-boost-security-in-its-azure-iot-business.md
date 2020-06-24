@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
 type: article
 quality: 97
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.techcentral.ie/wp-content/uploads/2016/03/IOT_2016.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "Microsoft acquires CyberX to bolster Azure IoT security"
+    excerpt: "Microsoft has announced the acquisition of IoT security specialist CyberX to beef up Azure IoT’s capabilities and help customers assess their risk profile across industrial environments. CyberX, which will complement existing Azure IoT security offerings,"
+    publishedDateTime: 2020-06-24T06:35:00Z
+    webUrl: "https://iottechnews.com/news/2020/jun/24/microsoft-acquires-cyberx-to-bolster-azure-iot-security/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 54
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/06/iStock-458544341.jpg"
+        width: 1254
+        height: 836
         isCached: true
   - title: "Microsoft Buys Israeli Company CyberX To Boost Azure IoT Security Capabilities"
     excerpt: "CyberX develops cybersecurity solutions for the industrial and critical infrastructure IoT (Internet of Things) sectors."

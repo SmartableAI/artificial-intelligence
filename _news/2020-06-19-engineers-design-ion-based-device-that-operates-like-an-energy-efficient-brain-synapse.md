@@ -8,8 +8,8 @@ ampWebUrl: "https://scitechdaily.com/engineers-design-ion-based-device-that-oper
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/engineers-design-ion-based-device-that-operates-like-an-energy-efficient-brain-synapse/amp/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: SciTech Daily
@@ -27,20 +27,6 @@ images:
     title: "Engineers Design Ion-Based Device That Operates Like an Energy-Efficient Brain Synapse"
 
 related:
-  - title: "Engineers design a device that operates like a brain synapse"
-    excerpt: "Ion-based technology may enable energy-efficient simulations of the brain's learning process, for neural network AI systems."
-    publishedDateTime: 2020-06-19T14:48:00Z
-    webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=55446.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 39
-    images:
-      - url: "https://www.nanowerk.com/nanotechnology-news2/id55446_1.jpg"
-        width: 400
-        height: 212
-        isCached: true
   - title: "Engineers design a device that operates like a brain synapse"
     excerpt: "Teams around the world are building ever more sophisticated artificial intelligence systems of a type called neural networks, designed in some ways to"
     publishedDateTime: 2020-06-20T17:05:00Z

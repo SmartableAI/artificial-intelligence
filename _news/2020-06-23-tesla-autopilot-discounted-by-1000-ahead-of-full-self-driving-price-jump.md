@@ -55,22 +55,6 @@ related:
         width: 800
         height: 418
         isCached: true
-  - title: "Tesla is removing Autopilot’s green light confirmation in step towards inner-city Full Self-Driving"
-    excerpt: "Tesla is planning to improve the recently released Traffic Light and Stop Sign Control feature by removing the function’s existing green light confirmation. This bodes well for the company’s pursuit of its Full Self-Driving suite,"
-    publishedDateTime: 2020-06-19T13:37:00Z
-    webUrl: "https://www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/"
-    ampWebUrl: "https://www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 45
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/04/tesla-stop-sign-traffic-light-control-1024x439.jpg"
-        width: 1024
-        height: 439
-        isCached: true
 
 secured: "DW+PaS9POLwLUZienXhBrDy2IfH2d6/7mpgjwBExZil3ow0uent5LiG/zWmvyRuz3aNE9FnL/B1mi9+6sa81I7dQ7glF2IGMbVM9q1C4ore7yFB2w/EGaKNoNZw/kbTXHHozXUoH0tlJtywZ8mzQDJXve+J6DP4PTEYnhqd0vpmgqobkSrr21+TsqaROm0SAdHPWmuBoc1Cz5KdPWYiYdRnb52hofrX+NqU4KT8naVll6hLDxZBf8s0NOU/ed8sLSNs7zFGfbtn/kFc4mLkunQu7YaI0oeNCQnoXnCoh1zUHpo8Q0tSJwMF5LWWmMYWrrJXw8HO7yleBOjSSW7Zg1p+RFAE4Sea8US2p4poFQZuExZptJJ0d8kresl212nOzf7aSJTXvAN+8z2lDtnwptx+poMGqlx849GIdo9HlkA4Q4ACt+yhzWRm98nq37EMJ0pUtVKQ6Xe4qkZfZji7BcKx6estYltLe4aIV3sLSewqky555sNCI04GtrNfHgN1YjXm68iwIexRVPHhbOC11Tw==;t+/DTxOa7sRp4DrZTRyocg=="
 ---

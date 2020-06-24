@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-06-15-perfectly-imperfect-coping-with-the-flaws-of-artificial-intelligence-ai.md",
+      "title": "Perfectly Imperfect: Coping With The ‘Flaws’ Of Artificial Intelligence (AI)",
+      "excerpt": "Is artificial intelligence (AI) perfect? What would be consider for them to be \"good enough?\" To be acceptable for people, AI has three big challenges to overcome: implicit bias, poor data, and human expectation.",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/15/perfectly-imperfect-coping-with-the-flaws-of-artificial-intelligence-ai/",
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee5934b3ff0e90006e3ccf6%2F0x0.jpg",
+          "width": 1199,
+          "height": 684,
+          "title": "Perfectly Imperfect: Coping With The ‘Flaws’ Of Artificial Intelligence (AI)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/15/perfectly-imperfect-coping-with-the-flaws-of-artificial-intelligence-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/15/perfectly-imperfect-coping-with-the-flaws-of-artificial-intelligence-ai/amp/",
+      "publishedDateTime": "2020-06-15T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-deep-learning-incorporating-biologically-inspired-neural-dynamics-and-in-memory-computing.md",
+      "title": "Deep learning incorporating biologically inspired neural dynamics and in-memory computing",
+      "excerpt": "Spiking neural networks and in-memory computing are both promising routes towards energy-efficient hardware for deep learning. Woźniak et al. incorporate the biologically inspired dynamics of spiking neurons into conventional recurrent neural network units and in-memory computing,",
+      "webUrl": "https://www.nature.com/articles/s42256-020-0187-0",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs42256-020-0187-0/MediaObjects/42256_2020_187_Fig3_HTML.png",
+          "width": 312,
+          "height": 243,
+          "title": "Deep learning incorporating biologically inspired neural dynamics and in-memory computing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-microsoft-azure-becomes-sass-preferred-cloud-platform.md",
       "title": "Microsoft Azure becomes SAS’s preferred cloud platform",
       "excerpt": "SAS goes all in on Azure as both conclude a strategic partnership covering go to market and product development. SAS analytics capabilities could be integrated across the Azure portfolio to provide an additional option for model lifecycle management.",
@@ -992,101 +1078,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-13-facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence.md",
-      "title": "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?",
-      "excerpt": "Because of the advances of deep learning and faster systems for processing enormous amounts of data, facial recognition has certainly seen major strides over the past decade. Yet there is still much to be done.",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/",
-      "heat": 218,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee4fb8ed78e91000737b17f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679",
-          "width": 1200,
-          "height": 675,
-          "title": "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-06-13T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-13-aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence.md",
-      "title": "AIOps: Artificial intelligence helps build and run artificial intelligence",
-      "excerpt": "The 6 essential building blocks of artificial intelligence for IT operations (AIOps), and why it matters. As cyber threats and the data protection environment evolve, companies are increasingly looking to bring their cybersecurity functions in-house.",
-      "webUrl": "https://www.zdnet.com/article/aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence/",
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/13/c1bbec68-98b3-482c-9627-8f5fe1b342e9/building-path-station-world-trade-center-ny-cropped-photo-by-joe-mckendrick.jpg",
-          "width": 1512,
-          "height": 1676,
-          "title": "AIOps: Artificial intelligence helps build and run artificial intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence/",
-      "publishedDateTime": "2020-06-13T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

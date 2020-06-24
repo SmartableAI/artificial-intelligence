@@ -90,20 +90,6 @@ related:
         height: 499
         isCached: true
   - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
-    excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees demand plunging because of the coronavirus pandemic."
-    publishedDateTime: 2020-06-19T14:45:00Z
-    webUrl: "https://www.ibtimes.com/bmw-cuts-jobs-ends-self-driving-project-mercedes-2997200"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/19/bmw-like-may-of-its-rivals-is-cutting.jpg"
-        width: 1024
-        height: 664
-        isCached: true
-  - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
     excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees"
     publishedDateTime: 2020-06-23T06:51:00Z
     webUrl: "https://infosurhoy.com/news/bmw-cuts-jobs-ends-self-driving-project-with-mercedes/"
@@ -128,15 +114,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "BMW slashes 6,000 jobs, ends self-driving project with Mercedes"
-    excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees demand plunging because of the coronavirus pandemic."
-    publishedDateTime: 2020-06-19T14:23:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2020/06/19/bmw-slashes-6000-jobs-ends-self-driving-project-with-mercedes/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 4
 
 secured: "eM0XtYwXWaC9rauOSf4L/7TXIfPJFWRTen9s6IPcJ+ootSO7BZZsitUocCbDpIjGGxWWlq4IbWOXIftQRxMxMtYdVknkrXdV7w5lc9/VY9ifPy6u12osF2Afs8x2mPbvlXuvQMX/pAxbm8qU7rG6Ca/oDo2N4a/i+jtc9mVd7wYEJpFAGUAURCMzcuBBeKsfdNrwQWUaGEXFmmFHW2u+AV7rVVW5I5nIhXRZcaRJmzwiyZUtZzaqc4F95qbqTb09xwlNGUC5rlgPT39LIbssmvnKy4Cb6Fe2TqFM8Wu4ioOmutY9SY3ETc049hCQj82Dr59UQMdHp0eq3r2C32YCtg==;ttozuWvkqg3xTesRiC/rFA=="
 ---

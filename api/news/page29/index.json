@@ -2,6 +2,101 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-05-28-cvs-pharmacy-prescriptions-go-high-tech-with-self-driving-delivery.md",
+      "title": "CVS Pharmacy prescriptions go high-tech with self-driving delivery",
+      "excerpt": "As we continue to sort out life in the coronavirus era, many households are making use of delivery services for things like groceries, baby food and pet supplies. Soon, Houston residents will be able to have their CVS Pharmacy prescriptions delivered with a self-driving car performing the service.",
+      "webUrl": "https://www.cnet.com/roadshow/news/cvs-pharmacy-prescriptions-delivery-nuro-self-driving/",
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/Qys-BncoeEz1nrHHcjhZ7In0SsM=/2020/05/28/c821a1fe-212f-4276-a45f-ec9a873c0758/ogi-nuro.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "CVS Pharmacy prescriptions go high-tech with self-driving delivery",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/cvs-pharmacy-prescriptions-delivery-nuro-self-driving/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cvs-pharmacy-prescriptions-delivery-nuro-self-driving/",
+      "publishedDateTime": "2020-05-28T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations.md",
+      "title": "ACLU sues facial recognition startup Clearview AI for privacy and safety violations",
+      "excerpt": "The ACLU claims Clearview AI \"will end privacy as we know it if it isn't stopped\" and calls the startup a threat to safety.",
+      "webUrl": "https://venturebeat.com/2020/05/28/aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations/",
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/law.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": "ACLU sues facial recognition startup Clearview AI for privacy and safety violations",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/28/aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/28/aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations/amp/",
+      "publishedDateTime": "2020-05-28T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-this-biotech-artist-wants-scientists-to-think-about-their-creations.md",
       "title": "This Biotech Artist Wants Scientists To Think About Their Creations",
       "excerpt": "In 2015, artist Ani Liu heard two sentences that changed her entire approach to art: “Digital is dead. Bio is the new digital.” Those words, spoken at a welcome talk on her first day as a grad student at the MIT Media Lab, triggered panic at first ...",
@@ -989,99 +1084,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic.md",
-      "title": "AI algorithms are puzzled by our online behavior during the coronavirus pandemic",
-      "excerpt": "At some point, every one of us has had the feeling that online applications like YouTube, Amazon, and Spotify seem to know us better than ourselves, recommending content that we like even before we say it.",
-      "webUrl": "https://thenextweb.com/neural/2020/05/28/ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic-syndication/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-32-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "AI algorithms are puzzled by our online behavior during the coronavirus pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/28/ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/28/ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic-syndication/amp/",
-      "publishedDateTime": "2020-05-28T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-greyparrot-bags-22m-seed-to-scale-its-ai-for-waste-management.md",
-      "title": "Greyparrot bags $2.2M seed to scale its AI for waste management",
-      "excerpt": "London-based Greyparrot, which uses computer vision AI to scale efficient processing of recycling, has bagged £1.825 million (~$2.2M) in seed funding, topping up the $1.2M in pre-seed funding it had raised previously.",
-      "webUrl": "https://techcrunch.com/2020/05/28/greyparrot-bags-2-2m-seed-to-scale-its-ai-for-waste-management/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/2480600971_1c62bbb626_k.jpg?w=1024",
-          "width": 1024,
-          "height": 745,
-          "title": "Greyparrot bags $2.2M seed to scale its AI for waste management",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/28/greyparrot-bags-2-2m-seed-to-scale-its-ai-for-waste-management/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/28/greyparrot-bags-2-2m-seed-to-scale-its-ai-for-waste-management/amp/",
-      "publishedDateTime": "2020-05-28T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

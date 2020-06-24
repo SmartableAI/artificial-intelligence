@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-22T13:00:00Z
 webUrl: "https://thenextweb.com/shift/2020/06/22/differences-between-teslas-autopilot-and-full-self-driving-system-adas-tech/"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-autonomy-investor-day-1a.jpg"
         width: 800
         height: 418
-        isCached: true
-  - title: "Tesla is removing Autopilot’s green light confirmation in step towards inner-city Full Self-Driving"
-    excerpt: "Tesla is planning to improve the recently released Traffic Light and Stop Sign Control feature by removing the function’s existing green light confirmation. This bodes well for the company’s pursuit of its Full Self-Driving suite,"
-    publishedDateTime: 2020-06-19T13:37:00Z
-    webUrl: "https://www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/"
-    ampWebUrl: "https://www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-autopilot-removes-green-light-confirmation/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 45
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/04/tesla-stop-sign-traffic-light-control-1024x439.jpg"
-        width: 1024
-        height: 439
         isCached: true
   - title: "Tesla Autopilot Discounted by $1000 Ahead of 'Full Self-Driving' Price Jump"
     excerpt: "Basic Autopilot dropping from $3,000 to $2,000 isn't insignificant. To be clear, this isn't for the \"full self-driving\" feature that isn't actually full self-driving but people still pay $7,000 (soon $8,"

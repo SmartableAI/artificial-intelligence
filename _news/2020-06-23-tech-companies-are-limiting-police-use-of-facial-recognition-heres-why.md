@@ -89,6 +89,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Amazon pauses police use of its facial recognition for year"
+    excerpt: "Civil rights groups and Amazon's own employees have pushed the company to stop selling its technology to government agencies."
+    publishedDateTime: 2020-06-24T07:23:00Z
+    webUrl: "https://www.kare11.com/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
+    ampWebUrl: "https://www.kare11.com/amp/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
+    cdnAmpWebUrl: "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
+    type: article
+    provider:
+      name: KARE 11
+      domain: kare11.com
+    quality: 59
+    images:
+      - url: "https://media.kare11.com/assets/CCT/images/626789424/626789424_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Opinion | The futile withdrawal of facial recognition software by Big Tech"
     excerpt: "This technology is bound to proliferate regardless of flaws as it’s being pursued by such regimes as China’s for surveillance"
     publishedDateTime: 2020-06-22T16:21:00Z
@@ -120,6 +136,22 @@ related:
       - url: "https://www.telegraph.co.uk/content/dam/technology/2019/12/27/197890686_PA_Ed-Bridges-legal-action_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RQJ6Ra64K3tAxfZq0dvIBJw.jpg"
         width: 2880
         height: 1800
+        isCached: true
+  - title: "FlowCentric Technologies, Eldir roll-out facial recognition, thermal detection solution"
+    excerpt: "The company has developed EGAN, a facial recognition and thermal detection solution, in conjunction with Eldir."
+    publishedDateTime: 2020-06-24T07:11:00Z
+    webUrl: "https://www.itweb.co.za/content/nWJadMbek9W7bjO1"
+    ampWebUrl: "https://amp.itweb.co.za/content/nWJadMbek9W7bjO1"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/nWJadMbek9W7bjO1"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 51
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2020/06/FlowCentric.jpg"
+        width: 816
+        height: 459
         isCached: true
   - title: "Racist practice of phrenology rears its lumpy head in facial recognition tech"
     excerpt: "We'd like to think judging people's worth based on the shape of their skull is a practice that's well behind us, but echoes of it can be found in new technologies"

@@ -2,6 +2,90 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-06-08-your-company-needs-ai-training-heres-how-to-get-it-for-free.md",
+      "title": "Your company needs AI training: Here's how to get it for free",
+      "excerpt": "Just because you don't have a large training budget doesn't mean you shouldn't democratize your AI. Here are some ways to get the training your staff needs.",
+      "webUrl": "https://www.techrepublic.com/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/08/c72c3495-4430-4506-a732-ccffd727714b/resize/1200x/38c546efe64f75f3cbb60431c1a91006/istock-1183313700.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": "Your company needs AI training: Here's how to get it for free",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
+      "publishedDateTime": "2020-06-08T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-durr-brings-artificial-intelligence-to-the-paint-shop.md",
+      "title": "Durr brings artificial intelligence to the paint shop",
+      "excerpt": "The automotive industry is a key driver and user of artificial intelligence (AI), which is fast percolating to different work areas. Now German major Durr has developed Advanced Analytics, the first market-ready AI application for paint shops.",
+      "webUrl": "https://www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/cc8e20a9-9966-44d0-bbfb-4cae9eefcc8e.jpg",
+          "width": 735,
+          "height": 490,
+          "title": "Durr brings artificial intelligence to the paint shop",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448?amp=1",
+      "cdnAmpWebUrl": "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448?amp=1",
+      "publishedDateTime": "2020-06-08T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autocar Pro",
+        "domain": "autocarpro.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-mit-fit-tens-of-thousands-of-artificial-brain-synapses-on-a-single-chip.md",
       "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
       "excerpt": "MIT engineers put tens of thousands of artificial brain synapses on a single chip that's smaller than a piece of confetti.",
@@ -994,91 +1078,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-the-best-performing-analysts-are-betting-on-these-5-stocks-right-now.md",
-      "title": "The best-performing analysts are betting on these 5 stocks right now",
-      "excerpt": "As coronavirus restrictions ease and business begins to improve, it could make sense to follow the stock picks of analysts with a proven track record of success. Here we used TipRanks analyst ranking service to pinpoint Wall Street’s best-performing analysts.",
-      "webUrl": "https://www.cnbc.com/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1591230244",
-          "width": 5255,
-          "height": 3402,
-          "title": "The best-performing analysts are betting on these 5 stocks right now",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "publishedDateTime": "2020-06-07T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-robots-help-employees-at-jaipur-firm-stay-safe-during-covid-19.md",
-      "title": "Robots Help Employees At Jaipur Firm Stay Safe During COVID-19",
-      "excerpt": "With a COVID-19-battered world hard-pressed to maintain social distancing, a private firm here has deployed seven humanoid robots and other artificial intelligence techniques to reduce human to human interaction almost next to nil in its functioning.",
-      "webUrl": "https://www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229",
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2019-07/em33jo3o_robots-pixabay-650_625x300_05_July_19.jpg",
-          "width": 650,
-          "height": 400,
-          "title": "Robots Help Employees At Jaipur Firm Stay Safe During COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229?amp=1&akamai-rum=off",
-      "publishedDateTime": "2020-06-07T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

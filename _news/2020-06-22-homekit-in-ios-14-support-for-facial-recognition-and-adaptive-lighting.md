@@ -8,7 +8,7 @@ ampWebUrl: "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-f
 cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg"
         width: 2000
         height: 1500
+        isCached: true
+  - title: "Facial recognition software: Useful for crime fighting, but it needs rules."
+    excerpt: "IBM’s decision last week to stop selling facial recognition technology to police agencies, and Amazon’s subsequent announcement of a one-year moratorium on such sales, have put a needed spotlight on this issue. Facial recognition technology holds ..."
+    publishedDateTime: 2020-06-24T07:34:00Z
+    webUrl: "https://www.stardem.com/opinion/editorials/facial-recognition-software-useful-for-crime-fighting-but-it-needs-rules/article_4666143f-9b9b-537f-81b5-9ea035bf5b47.html"
+    type: article
+    provider:
+      name: Star Democrat
+      domain: stardem.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/stardem.com/content/tncms/custom/image/20d20780-4187-11e8-ab1c-2fc06d5d5b26.jpg"
+        width: 600
+        height: 314
         isCached: true
 
 secured: "yucx++QDsx7xqyqIhIqbhpGETUzpJpdcMvCxwgOcXLAcHTTQDX/A33zLCXsUXsLnP869Bpn87+Mr7Cf8NzGmAExHi9FrzbMSaIW/njQJkzbpVAVPj8VBDKT4fOLB7i53hp29V7gWQ/apmXrDE7ziSZK+V94739JlnLq+L/edyyn8+wjuXNaxIWm6vDPCygf+XF7TCQEBUYEV5H79GuUVos2rTIzkadH26GoCwTjfaWI8ULLhAHV2LZAZTLIhMR9HaezP35wJ7D1eAXoC3mprdcRTnttCCDhACkO/D+BdQbREIo2wcEoYHgjDrJApRoYPB7a2TXGLIe4+xbwy2n0heP+5bpsawhOWnoYxxznxSqpKDtvd0zDkX7fKqyxliA6ZP4ZC6C7ujz1uH/mfsikDeapFhcGkTWdSPpdftOSqJP4iOwk7MvRevDPwGcbd+v14yzByY7P6wzY+JO/+oHHAnTOLEfwbCpIXKQP+QVPvmlHKovzsddMFoLijxl2V/5ED;gZnP+uqUjkF8zOPFZnVveA=="

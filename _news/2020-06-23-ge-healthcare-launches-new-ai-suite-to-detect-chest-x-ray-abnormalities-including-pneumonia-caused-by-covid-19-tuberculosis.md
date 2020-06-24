@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "GE Healthcare taps Lunit’s AI for its new chest X-ray suite"
-    excerpt: "GE Healthcare launched an artificial intelligence-powered chest X-ray analysis suite, designed to spot and highlight eight common conditions, using algorithms built by the South Korean startup Lunit ... analytics, AI and connectivity will only become ..."
-    publishedDateTime: 2020-06-19T14:38:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-taps-lunit-s-ai-for-its-new-chest-x-ray-suite"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 54
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1592492062/Lunit%20Xray%20AI.jpeg?H_Tp7Ynhb8bsEI3Y4GISbyNH7u9Sjepp"
-        width: 2700
-        height: 1518
-        isCached: true
   - title: "GE Healthcare AI Suite Pinpoints Chest X-ray Abnormalities"
     excerpt: "This eight-algorithm AI suite is designed to quickly analyze chest X-ray findings and flags any abnormalities, such as pneumonia, for further radiologist review. The suite can also pinpoint tuberculosis,"
     publishedDateTime: 2020-06-22T17:26:00Z

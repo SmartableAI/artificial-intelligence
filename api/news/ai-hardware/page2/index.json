@@ -2,6 +2,55 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-09-aspiring-intel-rival-graphcore-has-shipped-tens-of-thousands-of-ai-chips.md",
+      "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
+      "excerpt": "U.K. chip start-up Graphcore has leveraged relationships with Microsoft and Dell to ship chips to over 100 customers.",
+      "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143",
+          "width": 4328,
+          "height": 2906,
+          "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
+      "publishedDateTime": "2020-06-09T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-mit-brain-on-a-chip-could-make-ai-more-portable.md",
       "title": "MIT “brain-on-a-chip” could make AI more portable",
       "excerpt": "We have made quite a lot of progress in artificial intelligence in the past years, partly thanks to the rising popularity of consumer products powered by machine learning and neural networks. We",
@@ -1261,44 +1310,6 @@
       "provider": {
         "name": "Techgage",
         "domain": "techgage.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-nvidia-launches-new-gpu-for-ai-systems.md",
-      "title": "NVIDIA Launches New GPU for AI Systems",
-      "excerpt": "DGX A100 includes dual AMD Rome EPYC CPUs with PCIe 4.0. Exploded view of the NVIDIA DGX A100. (1) 8 NVIDIA A100 GPUs; (2) 6 NVSwitches; (3) Mellanox Connect-6; (4) Dual AMD 64-core EPYC CPUs/1TB system memory;",
-      "webUrl": "https://www.engineering.com/Hardware/ArticleID/20316/NVIDIA-Launches-New-GPU-for-AI-Systems.aspx",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.engineering.com/portals/0/BlogFiles/2_ima3.jpg",
-          "width": 640,
-          "height": 336,
-          "title": "NVIDIA Launches New GPU for AI Systems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.engineering.com/amp/20316.html",
-      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20316.html",
-      "publishedDateTime": "2020-05-25T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering",
-        "domain": "engineering.com",
         "images": null,
         "publishers": null,
         "authors": null

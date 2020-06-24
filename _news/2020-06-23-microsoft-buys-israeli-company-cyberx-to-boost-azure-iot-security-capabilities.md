@@ -71,6 +71,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Microsoft acquires CyberX to bolster Azure IoT security"
+    excerpt: "Microsoft has announced the acquisition of IoT security specialist CyberX to beef up Azure IoT’s capabilities and help customers assess their risk profile across industrial environments. CyberX, which will complement existing Azure IoT security offerings,"
+    publishedDateTime: 2020-06-24T06:35:00Z
+    webUrl: "https://iottechnews.com/news/2020/jun/24/microsoft-acquires-cyberx-to-bolster-azure-iot-security/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 54
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/06/iStock-458544341.jpg"
+        width: 1254
+        height: 836
+        isCached: true
   - title: "Microsoft acquires industrial cybersecurity startup CyberX for $165M"
     excerpt: "Microsoft Corp. has acquired industrial cybersecurity startup CyberX Inc. for an undisclosed sum. Various reports suggest that the acquisition price was $165 million with the deal"
     publishedDateTime: 2020-06-23T02:53:00Z

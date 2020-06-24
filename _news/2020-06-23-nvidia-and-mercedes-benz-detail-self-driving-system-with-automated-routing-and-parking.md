@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-self-driving-system-with-automated-routing-and-parking/amp/"
 type: article
 quality: 81
-heat: 161
+heat: 141
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
         height: 499
         isCached: true
   - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
-    excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees demand plunging because of the coronavirus pandemic."
-    publishedDateTime: 2020-06-19T14:45:00Z
-    webUrl: "https://www.ibtimes.com/bmw-cuts-jobs-ends-self-driving-project-mercedes-2997200"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/19/bmw-like-may-of-its-rivals-is-cutting.jpg"
-        width: 1024
-        height: 664
-        isCached: true
-  - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
     excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees"
     publishedDateTime: 2020-06-23T06:51:00Z
     webUrl: "https://infosurhoy.com/news/bmw-cuts-jobs-ends-self-driving-project-with-mercedes/"
@@ -132,15 +118,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "BMW slashes 6,000 jobs, ends self-driving project with Mercedes"
-    excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees demand plunging because of the coronavirus pandemic."
-    publishedDateTime: 2020-06-19T14:23:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2020/06/19/bmw-slashes-6000-jobs-ends-self-driving-project-with-mercedes/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 4
 
 secured: "TmkjGfi/LzT35cPtO38vrciqi7DbT5DTbyyeFmjvRL5wdquZ+3PatCFwBLUJ0XDzC1C5yV5WuEMfcXtx7volgwIg1F8Hh7PwHRU9Qeur2Rie1fFiRaCYojPDag4hs9/N/32xkO8Xjymcc5rkozPdKhlQdQjR/X9xTxEhH2BVBC2lNlFAHzByvGyeZpk4wXRqblhDjWLZ/dy8NIqRJ00ZmtiysnewcciA6Z9bJI28jt82KrBDQRh+0ZfCUzEp3gd9m6+lodmo0ln93HwWHpgxWBSQ6S5/sS/oSZWXEi1km5DGJbQWUp48ksVCbML2ZM8pLraN0bgqtJ/AVW3QEvngkuP52Y5ONZ/RXAptEy9GKDmU4GhRVrQRXFJnUJT9HYzsjVeGav/VglljrSH2mhAxoyF0NnQoy3YBcePjcDsnhcuxKcCFEM74Yngi5xA5K9CGGnrjwrNOXNfz/CEhgKZM6QsfK68fD2VEyMIyEvxbK4Us3Yg0bauwtERH18rFPoC9N6kh7H4jJjDfiGb0qM7x8g==;TtsNDTMrqv/RlEaNm9nD8A=="
 ---

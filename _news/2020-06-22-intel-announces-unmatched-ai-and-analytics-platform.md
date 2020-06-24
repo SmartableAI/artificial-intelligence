@@ -24,6 +24,22 @@ images:
     isCached: true
     title: "Intel announces unmatched AI and analytics platform"
 
+related:
+  - title: "Lenovo announces new AI servers for intense workloads"
+    excerpt: "Chinese manufacturer, Lenovo has announced a new product line of servers focused on artificial intelligence. The new ThinkSystem SR860 V2 and SR850 V2 servers have been designed for data center customers and feature Intel Xeon processors and support Intel Deep Learning platforms."
+    publishedDateTime: 2020-06-22T10:11:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/lenovo-announces-new-ai-servers-intense-workloads/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Lenovo_ThinkSystem_SR860.2e16d0ba.fill-1200x630.jpg"
+        width: 1154
+        height: 605
+        isCached: true
+
 secured: "v4xl3HRU/Y6CnAveqdnmQYSW0RXV/Aw+n9WOrA6Em+M97G01eHprIBSAExf6URdKOcd/wChCLM9UaeUK7svY3/3lzpZrgxgDMkPnhhE5ZnBcQMFSq1NqZ2gWIHxQ9DRjTMDXZKYKgCZMK3HFZBDVk1JdarZZlCxBftgI4YpMgt5HP3IoXQlt1ECuZAIlHIwJMD4VAIX2E3UEAOFvRArHLvYIWGdi8HDBqeel98R/890WHdHDew01Flqm2maL4HlVX3XMd7ubjALmgRBYjak+rIuoW+n4sMyPxlNIB48qKu7isaxVy48AfRamZ994FIlpQNrBQnV8yoGxPK0ROdG+3A==;2mTAfzPW4Th8gQHlMHw2Mw=="
 ---
 

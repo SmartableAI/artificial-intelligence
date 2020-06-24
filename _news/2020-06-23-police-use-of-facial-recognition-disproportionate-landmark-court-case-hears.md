@@ -91,6 +91,22 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Amazon pauses police use of its facial recognition for year"
+    excerpt: "Civil rights groups and Amazon's own employees have pushed the company to stop selling its technology to government agencies."
+    publishedDateTime: 2020-06-24T07:23:00Z
+    webUrl: "https://www.kare11.com/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
+    ampWebUrl: "https://www.kare11.com/amp/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
+    cdnAmpWebUrl: "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
+    type: article
+    provider:
+      name: KARE 11
+      domain: kare11.com
+    quality: 59
+    images:
+      - url: "https://media.kare11.com/assets/CCT/images/626789424/626789424_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Opinion | The futile withdrawal of facial recognition software by Big Tech"
     excerpt: "This technology is bound to proliferate regardless of flaws as it’s being pursued by such regimes as China’s for surveillance"
     publishedDateTime: 2020-06-22T16:21:00Z
@@ -106,6 +122,22 @@ related:
       - url: "https://images.livemint.com/img/2020/06/22/600x338/oped4_1592841609461_1592841617392.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "FlowCentric Technologies, Eldir roll-out facial recognition, thermal detection solution"
+    excerpt: "The company has developed EGAN, a facial recognition and thermal detection solution, in conjunction with Eldir."
+    publishedDateTime: 2020-06-24T07:11:00Z
+    webUrl: "https://www.itweb.co.za/content/nWJadMbek9W7bjO1"
+    ampWebUrl: "https://amp.itweb.co.za/content/nWJadMbek9W7bjO1"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/nWJadMbek9W7bjO1"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 51
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2020/06/FlowCentric.jpg"
+        width: 816
+        height: 459
         isCached: true
   - title: "Tech Companies Are Limiting Police Use of Facial Recognition. Here's Why"
     excerpt: "IBM said it was getting out of the facial recognition business. Then Amazon and Microsoft announced prohibitions on law enforcement using their facial recognition tech. There's growing evidence these algorithmic systems are riddled with gender and racial bias."
