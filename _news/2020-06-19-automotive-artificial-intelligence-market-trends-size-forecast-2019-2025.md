@@ -87,20 +87,6 @@ related:
       name: surfacingmagazine.net
       domain: surfacingmagazine.net
     quality: 44
-  - title: "Cognitive Analytics Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2026"
-    excerpt: "Selbyville, Delaware Market Study Report adds Global Cognitive Analytics report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends, companies active in the industry and forecasts for the coming years."
-    publishedDateTime: 2020-06-19T05:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2026-2020-06-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 with (Covid-19) Impact Analysis: Growth, Latest Trend Analysis and Forecast 2027"
     excerpt: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 features key points about market share, new developments, and product analysis, market players, analysis of opportunities. According to the global Artificial Intelligence (A."
     publishedDateTime: 2020-06-20T11:53:00Z

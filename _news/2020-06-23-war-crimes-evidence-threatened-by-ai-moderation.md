@@ -1,28 +1,21 @@
 ---
 category: news
 title: "War crimes evidence threatened by AI moderation"
-excerpt: "Firms such as Facebook have also pledged to remove misinformation about the novel coronavirus outbreak that could contribute to imminent physical harm. These pressures, combined with an increased reliance on AI during the pandemic, puts human rights ..."
-publishedDateTime: 2020-06-23T16:07:00Z
-webUrl: "https://www.taipeitimes.com/News/editorials/archives/2020/06/24/2003738756"
+excerpt: "Companies like Facebook have also pledged to remove misinformation about the coronavirus outbreak that could contribute to imminent physical harm. These pressures, combined with an increased reliance on AI during ... \"Our research suggests that since ..."
+publishedDateTime: 2020-06-23T22:10:00Z
+webUrl: "https://japantoday.com/category/features/opinions/feature-'lost-memories'-war-crimes-evidence-threatened-by-ai-moderation"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Taipei Times
-  domain: taipeitimes.com
+  name: Japan Today
+  domain: japantoday.com
 
 topics:
   - Facebook AI
   - AI
-
-images:
-  - url: "https://www.taipeitimes.com/images/2020/06/24/p09-200624-mp0624.jpg"
-    width: 800
-    height: 800
-    isCached: true
-    title: "War crimes evidence threatened by AI moderation"
 
 related:
   - title: "'Lost memories': War crimes evidence threatened by AI moderation"
@@ -64,6 +57,6 @@ related:
         height: 700
         isCached: true
 
-secured: "UOI8+AFm63fOR7wfXgaEdstXh2rljXso5lSShNQqv3Nb929TndDpZxUMeFbSl44QbMGSiJzN6jyPjX1jXei+Uh9fXvd9XZsCik2OAK8bah9CacknE0PtZHuMAhisjxzxr4wBGCWFGEJs70Q1TKQnMXpDE8zb9kGKW+EJ1TWjvRxXj4v/puh6rlfqr2cAF6DtBi5RraOwsH4KAtJnFOelCib73Oxx4rYKOFRdavtdZv8kMVi1sgjE0fr8RK5X5EOsJq08AhUwDOLhpa6WOTgXPnV3SofWE0MDdebYDBwzNPz8ymLPCFm81kZYSM0xoR03Hmrkn+1p1SsHmhP038IuZ42SU6sSOWP2JeHJLHdaoCL3M/61xNjZFqUWAiJUOJHUzDyUTARVNmW90gb9PBccd1Qb1Fd2uDzuwineRSXRIZ1gcEEFBU4yEmfU9yb+2aENLriQtCuAaobgS/28h1QGvdqZe+wgNg4d5rYFit2l9+g+eJDT02hu9aIDlXUDSXXRANuO1BYWmvMzIvQRSKqYww==;rdT+0Cv6DOHSQ8FWXXmQOg=="
+secured: "m6+cAeG0FS6sE93ZI0OgIbW76bb92XDkvxOTLkL7qwBXpd36Cj6bKNcSj87U2vpiFZPivCuK/ImTqAMjbzCEAZMAlbc27Qztw85UZyJtroOtGgX2ae8UnK9RVdtCuUgGiB144WinjDukQJG1fIfHvQpHTd6UvsFsPYVGaDi4NzFkx+J2Vfp2IyoLjSdmcrXDJLmwUl0E4bvTQRuEd3S67fx7WW708YZKhJDNpqbyhH2UxhYGe9QlVPaMr3Uu/8DJwA7Q8e64SY7oTyecli+QECxvY7CiIzUAhMLEK+hf3bJPVWFMXnGKIcd716r2xBDgZ3Tx3Qz1xMWs7LB+j4exjw==;yshN+Wgtaaaj0cGtPpUurw=="
 ---
 

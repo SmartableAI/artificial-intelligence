@@ -2,18 +2,18 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-06-23-enhancing-enterprise-search-with-amazon-kendra.md",
-      "title": "Enhancing enterprise search with Amazon Kendra",
-      "excerpt": "Amazon Kendra is an easy-to-use enterprise search service that allows you to add search capabilities to your applications so end-users can easily find information stored in different data sources within your company. This could include invoices, business documents, technical manuals, sales reports, corporate",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-search-with-amazon-kendra/",
-      "heat": 74,
+      "path": "_news/2020-06-23-building-ai-powered-forecasting-automation-with-amazon-forecast-by-applying-mlops.md",
+      "title": "Building AI-powered forecasting automation with Amazon Forecast by applying MLOps",
+      "excerpt": "This post demonstrates how to create a serverless Machine Learning Operations (MLOps) pipeline to develop and visualize a forecasting model built with Amazon Forecast. Because Machine Learning (ML) workloads need to scale, it’s important to break down the silos among different stakeholders to capture",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-ai-powered-forecasting-automation-with-amazon-forecast-by-applying-mlops/",
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/18/kendra-958-004.jpg",
-          "width": 800,
-          "height": 461,
-          "title": "Enhancing enterprise search with Amazon Kendra",
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/22/Screen-Shot-2020-06-19-at-15.00.38-1260x566.png",
+          "width": 1260,
+          "height": 566,
+          "title": "Building AI-powered forecasting automation with Amazon Forecast by applying MLOps",
           "attribution": null,
           "isCached": true
         }
@@ -21,7 +21,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T13:13:56-07:00",
+      "publishedDateTime": "2020-06-23T15:52:34-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -49,18 +49,18 @@
       ]
     },
     {
-      "path": "_news/2020-06-22-predicting-driving-speed-violations-with-the-amazon-sagemaker-deepar-algorithm.md",
-      "title": "Predicting driving speed violations with the Amazon SageMaker DeepAR algorithm",
-      "excerpt": "Forecasting is an important aspect for many businesses and industries; forging ahead without clearly defined goals could have serious consequences. Product planning, financial forecasting, and weather forecasting create scientific estimates based on hard data and critical analysis. Time-series forecasting",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-driving-speed-violations-with-the-amazon-sagemaker-deepar-algorithm/",
-      "heat": 85,
+      "path": "_news/2020-06-23-enhancing-enterprise-search-with-amazon-kendra.md",
+      "title": "Enhancing enterprise search with Amazon Kendra",
+      "excerpt": "Amazon Kendra is an easy-to-use enterprise search service that allows you to add search capabilities to your applications so end-users can easily find information stored in different data sources within your company. This could include invoices, business documents, technical manuals, sales reports, corporate",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-search-with-amazon-kendra/",
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/19/speed-violations-3.gif",
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/18/kendra-958-004.jpg",
           "width": 800,
-          "height": 319,
-          "title": "Predicting driving speed violations with the Amazon SageMaker DeepAR algorithm",
+          "height": 461,
+          "title": "Enhancing enterprise search with Amazon Kendra",
           "attribution": null,
           "isCached": true
         }
@@ -68,7 +68,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T12:59:25-07:00",
+      "publishedDateTime": "2020-06-23T13:13:56-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

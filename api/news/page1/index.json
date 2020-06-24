@@ -2,31 +2,40 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-06-23-ai-startup-pilots-digital-masks-that-counter-facial-recognition.md",
-      "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
-      "excerpt": "Khan compares the proliferation of facial recognition data now to the Napster-style explosion ... “We will get to a point where there needs to be an iTunes sort of layer, where your face and voice data somehow gets protected,” said Khan.",
-      "webUrl": "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition",
-      "heat": 86,
+      "path": "_news/2020-06-23-building-ai-powered-forecasting-automation-with-amazon-forecast-by-applying-mlops.md",
+      "title": "Building AI-powered forecasting automation with Amazon Forecast by applying MLOps",
+      "excerpt": "This post demonstrates how to create a serverless Machine Learning Operations (MLOps) pipeline to develop and visualize a forecasting model built with Amazon Forecast. Because Machine Learning (ML) workloads need to scale, it’s important to break down the silos among different stakeholders to capture",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-ai-powered-forecasting-automation-with-amazon-forecast-by-applying-mlops/",
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://static.coindesk.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-23-at-3.18.31-PM.png",
-          "width": 1889,
-          "height": 930,
-          "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/22/Screen-Shot-2020-06-19-at-15.00.38-1260x566.png",
+          "width": 1260,
+          "height": 566,
+          "title": "Building AI-powered forecasting automation with Amazon Forecast by applying MLOps",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition?amp=1",
-      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition?amp=1",
-      "publishedDateTime": "2020-06-23T14:29:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T15:52:34-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CoinDesk",
-        "domain": "coindesk.com",
-        "images": null,
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -35,9 +44,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI",
-        "Computer Vision"
+        "AWS AI"
       ]
     },
     {
@@ -1029,7 +1037,7 @@
       "title": "Artificial Intelligence (AI) Market Trends, Size, Shares, Overview and Forecast by 2020-2027",
       "excerpt": "As per the research held by Acumen Research and Consulting, \"the global Artificial Intelligence (AI) market anticipated to exceed US$ 160 Bn by 2027, along with the projected CAGR of 49% from 2020 to 2027\".",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-trends-size-shares-overview-and-forecast-by-2020-2027-2020-06-23",
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {

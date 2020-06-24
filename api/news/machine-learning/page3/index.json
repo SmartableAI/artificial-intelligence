@@ -2,6 +2,35 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-29-apple-grabs-machine-learning-startup-inductiv.md",
+      "title": "Apple Grabs Machine-Learning Startup Inductiv",
+      "excerpt": "Apple just confirmed the acquisition of machine-learning startup Inductiv, Bloomberg reports. “The engineering team from Waterloo, Ontario-based Inductiv joined Apple in recent weeks to work on Siri,",
+      "webUrl": "https://www.mediapost.com/publications/article/351904/apple-grabs-machine-learning-startup-inductiv.html",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-apple-acquires-machine-learning-startup-inductiv.md",
       "title": "Apple Acquires Machine Learning Startup Inductiv",
       "excerpt": "Apple (NASDAQ:AAPL) has acquired Inductiv, a machine-learning (ML) start-up that uses artificial intelligence (AI) to automatically identify and correct errors that may be lurking",
@@ -1217,45 +1246,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates.md",
-      "title": "Microsoft's hybrid platform, Azure Stack Hub, gets management, machine learning updates",
-      "excerpt": "Microsoft is adding some new incremental features to its hybrid Azure Stack Hub platform, and it's continuing its Azure Arc unified management push at Build 2020.",
-      "webUrl": "https://www.zdnet.com/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
-      "heat": 103,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
-      "publishedDateTime": "2020-05-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

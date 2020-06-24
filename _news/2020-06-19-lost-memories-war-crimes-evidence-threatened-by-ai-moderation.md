@@ -52,19 +52,14 @@ related:
         height: 700
         isCached: true
   - title: "War crimes evidence threatened by AI moderation"
-    excerpt: "Firms such as Facebook have also pledged to remove misinformation about the novel coronavirus outbreak that could contribute to imminent physical harm. These pressures, combined with an increased reliance on AI during the pandemic, puts human rights ..."
-    publishedDateTime: 2020-06-23T16:07:00Z
-    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2020/06/24/2003738756"
+    excerpt: "Companies like Facebook have also pledged to remove misinformation about the coronavirus outbreak that could contribute to imminent physical harm. These pressures, combined with an increased reliance on AI during ... \"Our research suggests that since ..."
+    publishedDateTime: 2020-06-23T22:10:00Z
+    webUrl: "https://japantoday.com/category/features/opinions/feature-'lost-memories'-war-crimes-evidence-threatened-by-ai-moderation"
     type: article
     provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 39
-    images:
-      - url: "https://www.taipeitimes.com/images/2020/06/24/p09-200624-mp0624.jpg"
-        width: 800
-        height: 800
-        isCached: true
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
 
 secured: "NHTpLS74G4spVue8GztNlV6EWdiMlFXfAN/HKZs0sAABYp3BISz+NX+aOgjhqXTY0YYMhHB/LAXuCMTiwh83ze0txsbTsc9HkHnqCZKaeGOQHqLMU7cQQyr7YJqGc2bSv3k470fD/Ud5hRsroT3vWFTQITFTbDKI9ScESjZcyRVjkM5b2ZitjOzJqCqzmdRG9MKkNqjI3qu15vgWPcAG4HCyArio1YNq75CvC4jSruOwnd5vgLLVLB3O3LaXPvOk0fVDZunyAa+df6kaxMDV5Kth96klOeHMSxlztnpihP1kQvNiZV+jbKeTyAiCywsyHGx5fwnYyMpJa+5zNJkMLA==;nWlbPqa2fPllVhmKxTPmmA=="
 ---

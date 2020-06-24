@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-22T19:59:25Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/predicting-driving-speed-violations-with-the-amazon-sagemaker-deepar-algorithm/"
 type: article
 quality: 85
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -27,6 +27,22 @@ images:
     height: 319
     isCached: true
     title: "Predicting driving speed violations with the Amazon SageMaker DeepAR algorithm"
+
+related:
+  - title: "Building AI-powered forecasting automation with Amazon Forecast by applying MLOps"
+    excerpt: "This post demonstrates how to create a serverless Machine Learning Operations (MLOps) pipeline to develop and visualize a forecasting model built with Amazon Forecast. Because Machine Learning (ML) workloads need to scale, it’s important to break down the silos among different stakeholders to capture"
+    publishedDateTime: 2020-06-23T22:52:34Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-ai-powered-forecasting-automation-with-amazon-forecast-by-applying-mlops/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/22/Screen-Shot-2020-06-19-at-15.00.38-1260x566.png"
+        width: 1260
+        height: 566
+        isCached: true
 
 secured: "dTbeye6V35dZVfqaIdhbm1zjOJQ9wOZKsnMeSIFqGdgjGagtHQr7wHTFeLA/OjapEeKPHSBA3vFn6m2KhF/biYWp2/Lob0QNTn9RxKHUfBx5kl5SHSjHoxBsKosnoKvOBd2CZU/VK9MXjkVhPIQubKuod3/F5+45aDxBIuJLM0icwwhA3jBE6abHH8Sn+ps1gZeVsAWiEsOu7KfEX7s9E2382PC7uFWEiOXDTXXgtJyn0DKMSU2rsXapHAvsOCc2aJdzbk+qIaDWZFpJi5qVRSGfUkAdAo5SjW8AYwiuMmjBfYt4Gde54BOqBX1cIgldMnF3h0FvvyETdQ3m2zCD2w==;3Z/toC8ALfbqhRfUft8thg=="
 ---

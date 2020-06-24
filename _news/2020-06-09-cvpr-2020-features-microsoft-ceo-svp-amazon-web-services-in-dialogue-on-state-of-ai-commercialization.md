@@ -2,24 +2,25 @@
 category: news
 title: "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization"
 excerpt: "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others."
-publishedDateTime: 2020-06-09T11:24:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-1029292097"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-1029292097"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-1029292097"
+publishedDateTime: 2020-06-09T11:19:00Z
+webUrl: "https://www.prnewswire.com/news-releases/cvpr-2020-features-microsoft-ceo--svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization-301072534.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "UJxqH7OyKoxcbQ/y5rlVJGW7AbfdlEnwWPKQUa+j3TcluCxk4Mf4Xzg1PvtOatM8XnFa/7zNM87ur1sB8F2oqbZEPpCqtDMHBt2Uqpr8ZxrKIi2ZGM8FIgpfSaFXNc3XlGEhHicpBdPr8gMWo9RcV43exjnyea3qx6+3PbMwAMVGTVmVX6UAFYbVUt3FtgnkaqLekAEL7WkZcGpyI/46VYadRQ5p5ZIPqRwE7lkkQVHsULeJbU5caQfwaBG7rn8duyi02wOI5Gl5fAL4tI7KhxD9piNl/pMD+is+RogzqTs/nFUwnNE+m9VvF4VTRgAxpsobpXqdCTdiOgDvhHdRpA==;3GY8cJWIfTc39dXKRp3ZUQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/462374/IEEE_Computer_Society_Logo.jpg?p=facebook"
+    width: 597
+    height: 314
+    isCached: true
+    title: "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization"
+
+secured: "AmYRD5Vqa/sUbNrZeE7NqXzysvd70hV7+Wi677KI38dPQa1WTkiPu6nI8HtFPtA5hLG5hsIwVLoF7qIC6wjL76zJTo+d/nG/C03/lrEwf+EiL+39E0cmiHQILWqqFaX+4SHx7+m0BIrGJbp2YgUyYJFhTSGUKY0etVPuKU1diIwIpH9SwhhRcmKHj8ln3Vd82LDu0eJ6NZvFCkTVSPNx1N+M24e248O+lZw3oBAhqNa1FmqjbrRuYelKnJ8drUu3zW+o0g9/wBl8ERmPad97KvT3TfKsxUHIUbem1hAusR04RSyOrumR+R/05HHhJau2EQJIOcnhyX0lbNQdr6wtUQ==;aDS8YuA2cnDW9bRWpBMlgw=="
 ---
 
