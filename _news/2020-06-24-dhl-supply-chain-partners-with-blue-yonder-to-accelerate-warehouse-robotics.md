@@ -8,7 +8,7 @@ ampWebUrl: "https://www.freightwaves.com/news/dhl-supply-chain-partners-with-blu
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics/amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     title: "DHL Supply Chain partners with Blue Yonder to accelerate warehouse robotics"
 
 related:
+  - title: "DHL lunches software platform for warehouse robotics with Microsoft, Blue Yonder"
+    excerpt: "DHL Supply Chain has just launched a new \"plug & play\" robotics platform in collaboration with Microsoft, and leading artificial intelligence (AI) driven digital fulfilment provider Blue Yonder."
+    publishedDateTime: 2020-06-25T06:09:00Z
+    webUrl: "https://www.stattimes.com/news/dhl-lunches-software-platform-for-warehouse-robotics-with-microsoft-blue-yonder-logistics/"
+    ampWebUrl: "https://www.stattimes.com/news/dhl-lunches-software-platform-for-warehouse-robotics-with-microsoft-blue-yonder-logistics/amp/"
+    cdnAmpWebUrl: "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/news/dhl-lunches-software-platform-for-warehouse-robotics-with-microsoft-blue-yonder-logistics/amp/"
+    type: article
+    provider:
+      name: air cargo
+      domain: stattimes.com
+    quality: 69
+    images:
+      - url: "https://www.stattimes.com/statbackend/assets/uploads/dsc-robotics.jpg"
+        width: 496
+        height: 374
+        isCached: true
   - title: "DHL Supply Chain Launches Software Platform with Blue Yonder on Microsoft Cloud to Accelerate Implementation of Warehouse Robotics Through Standardization"
     excerpt: "DHL Supply Chain, the global leader in contract logistics and part of Deutsche Post DHL Group, has just launched a new “plug & play” robotics plat"
     publishedDateTime: 2020-06-24T15:30:00Z

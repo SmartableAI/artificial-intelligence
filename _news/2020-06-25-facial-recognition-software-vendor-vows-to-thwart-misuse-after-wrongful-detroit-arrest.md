@@ -1,28 +1,34 @@
 ---
 category: news
-title: "IBM quits facial recognition, joins call for police reforms"
-excerpt: "IBM is getting out of the facial recognition business, saying it's concerned about how the technology can be used for mass surveillance and racial profiling. Ongoing protests responding to the death of George Floyd have sparked a broader reckoning"
-publishedDateTime: 2020-06-25T01:22:00Z
-webUrl: "https://www.seattletimes.com/business/ibm-quits-facial-recognition-joins-call-for-police-reforms/"
+title: "Facial recognition software vendor vows to thwart misuse after wrongful Detroit arrest"
+excerpt: "Facial recognition vendor Rank One Computing said on Wednesday it would “add legal means” and research other ways to thwart misuse."
+publishedDateTime: 2020-06-25T07:31:00Z
+webUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/"
+ampWebUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
 type: article
-quality: 39
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://static.seattletimes.com/wp-content/uploads/2019/12/12192019_facialRecStudy_tzr_tzr_131656-780x501.jpg"
-    width: 780
-    height: 501
+  - url: "https://venturebeat.com/wp-content/uploads/2020/06/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all"
+    width: 1146
+    height: 613
     isCached: true
-    title: "IBM quits facial recognition, joins call for police reforms"
+    title: "Facial recognition software vendor vows to thwart misuse after wrongful Detroit arrest"
 
 related:
   - title: "ACLU files first formal complaint over wrongful facial recognition arrest"
@@ -121,22 +127,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facial recognition software vendor vows to thwart misuse after wrongful Detroit arrest"
-    excerpt: "Facial recognition vendor Rank One Computing said on Wednesday it would “add legal means” and research other ways to thwart misuse."
-    publishedDateTime: 2020-06-25T07:31:00Z
-    webUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/"
-    ampWebUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all"
-        width: 1146
-        height: 613
-        isCached: true
   - title: "ACLU files complaint against Detroit police for false facial recognition arrest"
     excerpt: "The ACLU wants the Detroit Police to stop using facial recognition technology after a Black man was wrongfully arrested with the technology earlier this year."
     publishedDateTime: 2020-06-24T18:23:00Z
@@ -196,6 +186,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "IBM quits facial recognition, joins call for police reforms"
+    excerpt: "IBM is getting out of the facial recognition business, saying it's concerned about how the technology can be used for mass surveillance and racial profiling. Ongoing protests responding to the death of George Floyd have sparked a broader reckoning"
+    publishedDateTime: 2020-06-25T01:22:00Z
+    webUrl: "https://www.seattletimes.com/business/ibm-quits-facial-recognition-joins-call-for-police-reforms/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
+    images:
+      - url: "https://static.seattletimes.com/wp-content/uploads/2019/12/12192019_facialRecStudy_tzr_tzr_131656-780x501.jpg"
+        width: 780
+        height: 501
+        isCached: true
   - title: "Facial recognition software: Useful for crime fighting, but it needs rules."
     excerpt: "IBM’s decision last week to stop selling facial recognition technology to police agencies, and Amazon’s subsequent announcement of a one-year moratorium on such sales, have put a needed spotlight on this issue. Facial recognition technology holds ..."
     publishedDateTime: 2020-06-24T07:34:00Z
@@ -227,6 +231,6 @@ related:
         height: 409
         isCached: true
 
-secured: "/pzqbA+GC+GzuSX2oRWcRfK04nj2nnollt+3dD10KPYcwfiBgIfxRFlLkCa46wPHy3k3c0PIMqXvMHNdRJmom4Q5C9PHzDbkpYX0XZObXnzoy87Woz7HF1+qFWrJwFWAYBpCZvPGo9uIniVpSPVi4lq96XQMPo/4qO5B3JPbzSYkJeGdf4rkB2ZqqE5ww+Dxl9CTmivD3S6nycHMgqUl5/PE4jh2PWx3+SesOhsnNTvbqDowCEQl9ntFBTx6OatWIcehscLIJthmv6kGIuav738y+JkqPR0oTQxWMmm08IuoFXNPiuAwHePx3kHkyKRCqun2oYAXuOfXFBtGf7kIP0/IcV975b+zomQCB9hGPIYmB3VZlKbR7iuLdp3DhJzkkKqBrHmyYI8vnCFgTWpdGQdv3mr/CVBcBgdxafX0c2zVzu6rNF20OwZMEJCM2eofgUk91WCV5ElItB/EdjvX2eUrdh9DuczjqcC6vwDO2Gun+0qnkVIHS8QT4uSSXxzZho2hJsPzY+HTKkPjLKq/mQ==;d3A4glhdtUOTYkrpbwq6Wg=="
+secured: "nRVfg/suezag0PI93ieJ3o2P624MSKdlBWffe/Z7V2fkUJ/Z52OSnE6UhDcUXZqLC3/e74sGnSFn/Njf2fX4wcYVYGI3WjUgTZlVAwxUYWZLehOM8/+VhiGFJyyndSIAQtnxQJ6XyulhaUKEbEWc4WzD61mhQWq3pnIE9hlz9SpZeWJjlYmWzEdbg9lQe88zK8lDWRpT/AVDQwDhQ6mPwmXy/BA0n5w1xF7QNd7stpc5+blIScoPawF5t4QfF5HPW6GqqH4gRZYvuIh54fvp55gFbcZ8qo2zgYVdtH+NatxzqLD/jMimQp2XPnoPrQakBn+6tKHL2pBklaTrQS3aWA==;xUohoyf5wJF5CxNuE9VIxw=="
 ---
 

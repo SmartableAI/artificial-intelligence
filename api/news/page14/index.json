@@ -363,6 +363,35 @@
       ]
     },
     {
+      "path": "_news/2020-06-11-amazon-rekognition-announce-moratorium-on-facial-recognition-use-by-police.md",
+      "title": "Amazon Rekognition announce moratorium on facial recognition use by police",
+      "excerpt": "“We will continue to allow organisations … to use Amazon Rekognition to help rescue human trafficking victims and reunite missing children with their families. “We’ve advocated that ...",
+      "webUrl": "https://www.cairnspost.com.au/technology/amazon-rekognition-announce-moratorium-on-facial-recognition-use-by-police/news-story/a3b6a329af715f494f6946ac6baef74a",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Cairns Post",
+        "domain": "cairnspost.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-repairing-and-rewiring-the-brain.md",
       "title": "Repairing and Rewiring the Brain",
       "excerpt": "Perhaps the most rewarding part of my work is helping post- traumatic brain injury clients to regain mastery of skills they thought were lost forever. Many of you may be familiar with this aspect of my work from Clark Elliott’s book,",
@@ -1015,44 +1044,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-police-wont-be-using-ibm-amazon-facial-recognition-technology-for-now-as-companies-either-pause-or-suspend-its-use.md",
-      "title": "Police won’t be using IBM, Amazon facial recognition technology for now as companies either pause or suspend its use",
-      "excerpt": "Amazon Rekognition, the company’s face identification technology that launched in 2016 and has been sold to multiple U.S. government agencies, will not be used by law enforcement for at least a ...",
-      "webUrl": "https://www.masslive.com/police-fire/2020/06/police-wont-be-using-ibm-amazon-facial-recognition-technology-for-now-as-companies-either-pause-or-suspend-its-use.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SKEUAF4FRNG3JOQ3T7XVREA5NQ.jpg",
-          "width": 6320,
-          "height": 4213,
-          "title": "Police won’t be using IBM, Amazon facial recognition technology for now as companies either pause or suspend its use",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.masslive.com/police-fire/2020/06/police-wont-be-using-ibm-amazon-facial-recognition-technology-for-now-as-companies-either-pause-or-suspend-its-use.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/06/police-wont-be-using-ibm-amazon-facial-recognition-technology-for-now-as-companies-either-pause-or-suspend-its-use.html?outputType=amp",
-      "publishedDateTime": "2020-06-11T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassLive",
-        "domain": "masslive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

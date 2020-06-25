@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DHL lunches software platform for warehouse robotics with Microsoft, Blue Yonder"
+    excerpt: "DHL Supply Chain has just launched a new \"plug & play\" robotics platform in collaboration with Microsoft, and leading artificial intelligence (AI) driven digital fulfilment provider Blue Yonder."
+    publishedDateTime: 2020-06-25T06:09:00Z
+    webUrl: "https://www.stattimes.com/news/dhl-lunches-software-platform-for-warehouse-robotics-with-microsoft-blue-yonder-logistics/"
+    ampWebUrl: "https://www.stattimes.com/news/dhl-lunches-software-platform-for-warehouse-robotics-with-microsoft-blue-yonder-logistics/amp/"
+    cdnAmpWebUrl: "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/news/dhl-lunches-software-platform-for-warehouse-robotics-with-microsoft-blue-yonder-logistics/amp/"
+    type: article
+    provider:
+      name: air cargo
+      domain: stattimes.com
+    quality: 69
+    images:
+      - url: "https://www.stattimes.com/statbackend/assets/uploads/dsc-robotics.jpg"
+        width: 496
+        height: 374
+        isCached: true
 
 secured: "MV4cY7q5IR6xGJSLAbz1Jt8SjDbwb9gjumnG4ZEXUYeY7m2FmH2qKPQoEQiau+RNpIu6R/oG92ZcaWMBw9+JDmpXAtiH5o/rjAQKsh2Xp4EGctbgpIFG8WzM8DnTE29N7KVfoKtMCyV3IDkaLl0TyApSJmHW+jNpkEi8UmVeHuEoV+ezjMWFLLIiW5LXNZO8Wcm6IFMvX2e/zHnVNxXvD0ZLHdSzfkaxYG38mwx8KEosv1iPcSEpQMatzuyKqu0QX2C6NQBXwGNRymbxe5fIo8b9tnz5o7XUPR87n3O3+M+VW4aZwkf+9HLzXolOODTBjzASdFXHhK7Jb+qoOgI/n88HFIMUeyVKPGhpeA1WpEe6Ny4dGdRtBLlYx+99O+GBwJWqs9cL2ifdzqvhwFnoZPDSamoAydA4dcgABMGazX86ahjTSJ/7m++ZbEWQCRd9b72xG1EUmEi6IprH1LHuTvrQ7GaeRFIqklfkp7Z9gOEX67Iv/HN14T2C3l8XBQ8VWwhzbR101OkEt2Ij7ra3Pg==;iP+Z4dnKzZc1cKe89Jbpqg=="
 ---

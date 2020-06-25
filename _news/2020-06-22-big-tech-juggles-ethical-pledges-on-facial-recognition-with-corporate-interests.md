@@ -108,6 +108,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facial recognition software vendor vows to thwart misuse after wrongful Detroit arrest"
+    excerpt: "Facial recognition vendor Rank One Computing said on Wednesday it would “add legal means” and research other ways to thwart misuse."
+    publishedDateTime: 2020-06-25T07:31:00Z
+    webUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/"
+    ampWebUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all"
+        width: 1146
+        height: 613
+        isCached: true
   - title: "ACLU files complaint against Detroit police for false facial recognition arrest"
     excerpt: "The ACLU wants the Detroit Police to stop using facial recognition technology after a Black man was wrongfully arrested with the technology earlier this year."
     publishedDateTime: 2020-06-24T18:23:00Z
