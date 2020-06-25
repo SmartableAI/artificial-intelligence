@@ -8,7 +8,7 @@ ampWebUrl: "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-f
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/"
 type: article
 quality: 75
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -26,24 +26,6 @@ images:
     height: 450
     isCached: true
     title: "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards"
-
-related:
-  - title: "Pakistani scholars among winners of Facebook award for research in AI ethics"
-    excerpt: "Through this work, a culturally-informed, pro-social AI framework for Pakistan and the Muslim world will be proposed, says Junaid Qadir"
-    publishedDateTime: 2020-06-20T18:07:00Z
-    webUrl: "https://www.geo.tv/latest/294140-pakistani-scholars-among-winners-of-facebook-award-for-research-in-ai-ethics"
-    ampWebUrl: "https://www.geo.tv/amp/294140-pakistani-scholars-among-winners-of-facebook-award-for-research-in-ai-ethics"
-    cdnAmpWebUrl: "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/294140-pakistani-scholars-among-winners-of-facebook-award-for-research-in-ai-ethics"
-    type: article
-    provider:
-      name: Geo News
-      domain: www.geo.tv
-    quality: 73
-    images:
-      - url: "https://www.geo.tv/assets/uploads/updates/2020-06-20/l_294140_111332_updates.jpg"
-        width: 700
-        height: 390
-        isCached: true
 
 secured: "KvNLL0UkcguxQD3nSpQeo6VfWEXq+I/uJCbazRdh0N109EwXL4Pk8xW8O1n2HwwHlaLcXAlFM+A+WH6EFjy5Yhd23/gZIiQ1BhbFpc81sZQ3YRhUcs0XwLHVyZL3YzYs5KsXjbQUzN8EPMhawNnctKuX6p3x3IVM00sUI+1cjNYhpx0UbjC832m0RoYA9Qd3CsjjXCXOW+dKlFqmBFKTt8S00eN8z8LEmsuEQJQUxCUxrkn7Dcjrx+TGGZOsjvzlGyvmh7edQeIHg6ADp6Ky85CKyf0XKGxCiZAE2gnquht5M+e1Lk28IDLadDGv4SrvYG/CMNVyiW3gFQnMsBsFyQ3gxFirhGyM1RSaqvXc9w0SCkJWK2DLljYC/HQYziGUtxZ9ZdHmcDQkQaGTMlGsw0YT+I9d9L7jKP5C2avwig3dJSrmh6H5Vfqt4xNwMjPo9+G5Mnr+nUJVq1NFpGlamg/tm6Ow667hmQ0ea0XW2wPHUO8l6mhVLxlCHAaFW+rgNgwnfxbqnr3jeIHjZctdag==;hNebq7h8RSo7qnjq7ukTvQ=="
 ---

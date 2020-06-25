@@ -62,6 +62,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "AI That Predicts Criminality Based On A Person's Face Sparks Concern Over Bias"
+    excerpt: "Experts are concerned that a new algorithm designed to “predict criminality” using nothing but a person's face could result to discriminatory accusations based on racial bias."
+    publishedDateTime: 2020-06-25T11:27:00Z
+    webUrl: "https://www.ibtimes.com/ai-predicts-criminality-based-persons-face-sparks-concern-over-bias-3000499"
+    ampWebUrl: "https://www.ibtimes.com/ai-predicts-criminality-based-persons-face-sparks-concern-over-bias-3000499?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ai-predicts-criminality-based-persons-face-sparks-concern-over-bias-3000499?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 53
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/21/counter-terrorism-police-have-taken-over-the-investigation.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "46PhbSVmc/1SxIvKy6rxPuKnlvKE7O9msGOHAnxaEpBwxWBH5OthEUPvm/LhEVNl+l5aWPrCSB4PRtCT3hwLz+KUSifeVVRzh4GNXL1XEDtY1VgN1JIlngrmHWfLSY2bZo0ewTXWMzKHyP+IgVwT0IZdmP5jMnDrA+695nLh3+x1UvFC2bLTDFwPJrVoKt8suYc2Krod0hQHe4MqoV6bkYC6Y2H4Mg2jVgHcZ1cjTsusiQkzn646Y/BS2wsOrbpQqxECVtjjzDISQklrlwQVQIGuyUF/6zWbCyhl5/J7WQjsbgUDUIkmZjJGxw21/syAm/PiSRJAUZt/VqE3k8rhy4a0YQ8WLo5RpKAnwmxpZ5OEEogi0cz/4ydvXqzKUYlp0zMKXW/6xXAUfbke6UKuuAghCz+hJlXbaqF1/bIeCEOEW+RH0RqKSpuV1BCxTcz3wg9bKpExbQw2etgP7XjXqNkg0VsgAUXVGi+2zHFY/+oon8GrXFJc1gp0s76PsHABQCaOLrLBZDZ/QBYPG15zcQ==;EcU6sRqt1r8yjo/PuIuwjw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-s
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
 type: article
 quality: 72
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     title: "Lyft is using data from its ride-share drivers to develop self-driving cars"
 
 related:
-  - title: "Self-Driving Cars Won’t Avoid Most Crashes"
-    excerpt: "Tumisu via PixabayWhile excitement has been gradually growing in anticipation of self-driving cars’ debut, you may be disappointed to learn that these vehicles won’t necessari"
-    publishedDateTime: 2020-06-20T18:49:00Z
-    webUrl: "https://thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/"
-    ampWebUrl: "https://thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/amp/"
-    cdnAmpWebUrl: "https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/self-driving-cars-will-not-avoid-most-crashes/amp/"
-    type: article
-    provider:
-      name: thenewswheel.com
-      domain: thenewswheel.com
-    quality: 44
-    images:
-      - url: "https://thenewswheel.com/wp-content/uploads/2019/09/car-accident-1995852_1280-1000x580.png"
-        width: 1000
-        height: 580
-        isCached: true
   - title: "BMW Takes Self-Driving to the Next Level"
     excerpt: "It’s the point at which you get to call something a self-driving car. BMW’s system—no proper marketing name yet—will debut on the iNext, an all-new, all-electric production vehicle modeled on the 2018 iNext concept, an exuberantly futuristic take ..."
     publishedDateTime: 2020-06-23T20:05:00Z

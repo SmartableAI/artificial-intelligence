@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-53165286"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53165286"
 type: article
 quality: 104
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/06/24/23/25231512-0-image-a-17_1593038165802.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "AI That Predicts Criminality Based On A Person's Face Sparks Concern Over Bias"
+    excerpt: "Experts are concerned that a new algorithm designed to “predict criminality” using nothing but a person's face could result to discriminatory accusations based on racial bias."
+    publishedDateTime: 2020-06-25T11:27:00Z
+    webUrl: "https://www.ibtimes.com/ai-predicts-criminality-based-persons-face-sparks-concern-over-bias-3000499"
+    ampWebUrl: "https://www.ibtimes.com/ai-predicts-criminality-based-persons-face-sparks-concern-over-bias-3000499?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ai-predicts-criminality-based-persons-face-sparks-concern-over-bias-3000499?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 53
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/21/counter-terrorism-police-have-taken-over-the-investigation.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "sJXGbN2PTB3+HbwY8cHZAoGlCIVPHhXxfWKYn7hpCaDpMKZ6+YOAlrpa+a7HoRwcQqBH5KZ7lRs/RNe7XfG14HVF77SE4j1KcijNDUJ3C3mqa0rqJ0wTUPdStJ0w1cS59+7Ko/6WKrnT/b10OHrATzsYPsphGhN19QSKobubjM4oZZHFGg5KvN+aAWyhm2U4gHQ+TLVENC5FiConLblNKqvVdJv44InlX5iYnLiwVWJBFwqP0P03rK9QT1CP9Ldv+UOwNztxQGQYBSD4Bt3fcIadyM26UDzkJPW/qTMlnVPeDWYtYiB3pfxLgKmRhkM5TCuD3CdCyk86AaNQzOXSQAInWr0frNns5PfIZQs/dN+3e96bBsr/ZaNQgUew0An2vQE+9CZyE5Mq3oQ/E0AqEwBc0WCMx0243IolP/jVFISuLpQ1tW7o0R9Ubc2pMHbNl65A9gKJB+Z7iGW9dySIc+ETElsKRReJJm/cB4amjyrP43DpsbeCddlQhtHXnNBq;Y0+ttpCHe8oF9Vbx7dhY7w=="
