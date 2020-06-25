@@ -2,6 +2,139 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-18-5-of-the-coolest-prosthetic-arm-breakthroughs.md",
+      "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
+      "excerpt": "Easton LaChappelle, a young engineer from Cortez, Colorado has set out to develop the world's first mind-controlled robotic limb, and aims to make it affordable as well. The device works in tandem with a headset that reads brainwaves, reading about 12 ...",
+      "webUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/carlos-arturo_torres.png",
+          "width": 660,
+          "height": 371,
+          "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-integrate-amazon-kendra-and-amazon-lex-using-a-search-intent.md",
+      "title": "Integrate Amazon Kendra and Amazon Lex using a search intent",
+      "excerpt": "Customer service conversations typically revolve around one or more topics and contain related questions. Answering these questions seamlessly is essential for a good conversational experience. For example, as part of a car rental reservation, you have queries such as, “What’s the charge for an additional",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-amazon-kendra-and-amazon-lex-using-a-search-intent/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/17/lex-kendra-001.jpg",
+          "width": 800,
+          "height": 284,
+          "title": "Integrate Amazon Kendra and Amazon Lex using a search intent",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-17T14:47:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.md",
+      "title": "Windows 10's Linux subsystem gets GPU compute and an easier install in new preview",
+      "excerpt": "Microsoft's latest Insider Build 20150 allows you to install the Windows Subsystem for Linx 2 via a typed command, and adds GPU compute support via Nvidia's CUDA.",
+      "webUrl": "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.html",
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/06/windows-susbsystem-for-linux-2-windows-update-100849123-large.jpg",
+          "width": 1200,
+          "height": 598,
+          "title": "Windows 10's Linux subsystem gets GPU compute and an easier install in new preview",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.amp.html",
+      "publishedDateTime": "2020-06-17T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office.md",
       "title": "Attention All Business Owners: With This AI Platform, You Can Now Safely Get Back To Your Office",
       "excerpt": "A unique platform analyzes an organization's digital and physical footprints as well as existing office layouts, then generates new ones",
@@ -783,6 +916,35 @@
       ]
     },
     {
+      "path": "_news/2020-06-17-speech-recognition-market-size-growth-share-industry-analysis.md",
+      "title": "Speech Recognition Market Size | Growth, Share, Industry Analysis",
+      "excerpt": "The global Speech Recognition market size is projected to reach USD 10390 million by 2026 from USD 9461 8 million in 2020 at a CAGR of 9 1 during 2021 2026 Speech recognition technology is a high technology that enables",
+      "webUrl": "https://www.openpr.com/news/2076276/speech-recognition-market-size-growth-share-industry",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2076276/speech-recognition-market-size-growth-share-industry",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2076276/speech-recognition-market-size-growth-share-industry",
+      "publishedDateTime": "2020-06-17T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-deepfacedrawing-ai-can-turn-simple-sketches-into-detailed-photo-portraits.md",
       "title": "'DeepFaceDrawing' AI can turn simple sketches into detailed photo portraits",
       "excerpt": "Researchers have found a way to turn simple line drawings into photo-realistic facial images. Developed by a team at the Chinese Academy of Sciences in Beijing, DeepFaceDrawing uses artificial intelligence to help “users with little training in drawing to produce high-quality images from rough or even incomplete freehand sketches.",
@@ -1183,185 +1345,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-slamcore-wants-to-give-mobile-robots-better-spatial-intelligence.md",
-      "title": "Slamcore wants to give mobile robots better spatial intelligence",
-      "excerpt": "Slamcore is setting out to develop and commercialize AI-powered SLAM algorithms that give robots better positional awareness in any environment.",
-      "webUrl": "https://venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/",
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-932632442.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "Slamcore wants to give mobile robots better spatial intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/amp/",
-      "publishedDateTime": "2020-06-17T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-global-deep-learning-chip-market-set-to-progress-at-cagr-of-300-to-accrue-usd-2131-by-2027.md",
-      "title": "Global Deep Learning Chip Market Set to Progress at CAGR of 30.0% to Accrue USD 21.31 by 2027",
-      "excerpt": "Selbyville, Delaware, Global Deep Learning Chip Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends, companies active in the industry and forecasts for the coming years.",
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chip-market-set-to-progress-at-cagr-of-300-to-accrue-usd-2131-by-2027-2020-06-17",
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Deep Learning Chip Market Set to Progress at CAGR of 30.0% to Accrue USD 21.31 by 2027",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-aws-marketplace-and-aws-data-exchange-launch-in-uae.md",
-      "title": "AWS Marketplace and AWS Data Exchange launch in UAE",
-      "excerpt": "This expansion unlocks new business opportunities for UAE-based partners, enabling customers from around the world to discover and subscribe to software from UAE ISVs and Consulting Partners.\"",
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/AWS_Marketplace_and_AWS_Data_Exchange_launch_in_UAE-ZAWYA20200617075308/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "AWS Marketplace and AWS Data Exchange launch in UAE",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T01:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-covid-19-impact-on-artificial-intelligence-market-latest-demand-by-2020-2026.md",
-      "title": "COVID-19 Impact on Artificial Intelligence Market Latest Demand by 2020-2026",
-      "excerpt": "Based on Deployment, the global Enterprise Artificial Intelligence market is segmented in Cloud and On-Premises. The report also bifurcates the global Enterprise Artificial Intelligence market based on Solution in Business Intelligence,",
-      "webUrl": "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-market-latest-demand-by-2020-2026-2020-06-17",
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "COVID-19 Impact on Artificial Intelligence Market Latest Demand by 2020-2026",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-16T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

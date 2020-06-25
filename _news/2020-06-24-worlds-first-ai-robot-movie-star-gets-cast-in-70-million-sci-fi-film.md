@@ -8,7 +8,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/worlds-first-ai-robot-movie-st
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/worlds-first-ai-robot-movie-star-gets-cast-in-70-m/1100-6478953/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     height: 720
     isCached: true
     title: "World's First AI Robot Movie Star Gets Cast In $70 Million Sci-Fi Film"
+
+related:
+  - title: "Real AI Robot Cast In Lead Role Of Sci-Fi Movie"
+    excerpt: "A new sci-fi movie is set to become the first-ever film to rely on an artificial intelligence robot named Erica."
+    publishedDateTime: 2020-06-25T03:01:00Z
+    webUrl: "https://www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-3000166"
+    ampWebUrl: "https://www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-3000166?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-3000166?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 57
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/12/07/robotaicapital-markets.jpg"
+        width: 1200
+        height: 848
+        isCached: true
 
 secured: "IgRPIaOTJM+CSm5webJq/ctsuXPC6amct7G2PwOK5POtUDlrJEgZkpVT4IPoNC2HbVTDkPv3rtVzJ1/HKsTvWkbzGamgGEZvFzeOoCG7cDno2foBqWzKZqlLttcO9lkOcspe2NM5AeJrC3M9CSa7XWj5Quby1PMlwDogIDRZTlEKw7I2kdOKz4hHrPxUWBDzg/DWXO2dk0ool34GjKAuzaP1MZws8Csego4z8GcOurcDT3tBxZocMsJs+I80b3bqq0zaYJ1zReFcMqmXEWiTmyRZ7rcz0VkDlwoVQ/ZIm2ZqmZpPNo4kHyE3YTJzzXudPGCqDGTH0RoKVzg697n/+jMsACNR19LFT/wdhJ3FBTVHLPtSzvXrpVhQHAwjlg37AIpL0CfLzT/YVgxQ9T24AVnO0K4gfa1fJlDo7MxSmBHjC6vZnxMvcK0CnrQ5MWr58xWnOTXzQT9HyvaQfQ+5hwg2zm3N7wbS4hjGPXjOVlYBhGrSp0wVxDFWdzPGe8J+sFaMRvRofybwE43210mC+w==;Q8x8S7Sm8opwl0yAz2R89Q=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.itweb.co.za/content/VgZeyqJoGRRvdjX9"
 cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/VgZeyqJoGRRvdjX9"
 type: article
 quality: 47
-heat: 67
+heat: 47
 published: false
 
 provider:

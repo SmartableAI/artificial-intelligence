@@ -2,6 +2,168 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-06-11-the-smart-future-will-robotics-call-the-shots-post-coronavirus.md",
+      "title": "The Smart Future: Will Robotics Call the Shots Post Coronavirus?",
+      "excerpt": "Robotics revolution is swiftly gaining momentum and in the months to come, it might become the new normal. AI is already an integral element of our daily lives from online shopping to digital assistance from Sire and Alexi to diagnosis of life-endangering diseases.",
+      "webUrl": "https://www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11",
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11?amp",
+      "publishedDateTime": "2020-06-11T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-facial-recognition-tech-developed-by-clearview-ai-could-be-illegal-in-europe-privacy-group-says.md",
+      "title": "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says",
+      "excerpt": "The European Data Protection Board warned on Wednesday that Clearview AI's technology is likely to be illegal in Europe.",
+      "webUrl": "https://www.cnbc.com/2020/06/11/clearview-ai-facial-recognition-europe.html",
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775",
+          "width": 3999,
+          "height": 2666,
+          "title": "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html",
+      "publishedDateTime": "2020-06-11T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-hawaii-travel-update-quarantine-extended-interisland-travel-facial-recognition-safe-routes.md",
+      "title": "Hawaii Travel Update: Quarantine Extended, Interisland Travel, Facial Recognition, Safe Routes",
+      "excerpt": "Here’s the latest news about COVID-19 travel coming out of Hawaii: Out of state visitors are out of luck until at least August, as Hawaii has extended its mandatory 14-day quarantine through the end of July.",
+      "webUrl": "https://www.forbes.com/sites/willmcgough/2020/06/11/hawaii-travel-update-quarantine-extended-interisland-travel-facial-recognition-safe-routes/",
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/willmcgough/2020/06/11/hawaii-travel-update-quarantine-extended-interisland-travel-facial-recognition-safe-routes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/willmcgough/2020/06/11/hawaii-travel-update-quarantine-extended-interisland-travel-facial-recognition-safe-routes/amp/",
+      "publishedDateTime": "2020-06-11T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-is-amazons-facial-recognition-moratorium-a-victory-for-police-reformers-or-just-good-pr.md",
+      "title": "Is Amazon’s facial recognition moratorium a victory for police reformers or just good PR?",
+      "excerpt": "Amazon’s surprise reversal on selling facial recognition software to police this week helped the company earn some goodwill at a time when law enforcement technology is under a microscope.",
+      "webUrl": "https://www.geekwire.com/2020/amazons-facial-recognition-moratorium-victory-police-reformers-just-good-pr/",
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/12/reInvent-2018_Wednesday_AndyJassyKeynote_140-630x442.jpg",
+          "width": 630,
+          "height": 442,
+          "title": "Is Amazon’s facial recognition moratorium a victory for police reformers or just good PR?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazons-facial-recognition-moratorium-victory-police-reformers-just-good-pr/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazons-facial-recognition-moratorium-victory-police-reformers-just-good-pr/amp/",
+      "publishedDateTime": "2020-06-11T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-openai-launches-an-api-to-commercialize-its-research.md",
       "title": "OpenAI launches an API to commercialize its research",
       "excerpt": "OpenAI launched an API to commercialize -- and prevent the abuse of -- the AI and machine leraning models it's actively developing.",
@@ -803,6 +965,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-11-5-reasons-why-your-chatbot-needs-natural-language-processing.md",
+      "title": "5 Reasons Why Your Chatbot Needs Natural Language Processing",
+      "excerpt": "This is where Natural Language Processing (NLP) comes into the picture. Within the right context for the right applications, NLP can pave the way for an easier-to-use interface to features and ...",
+      "webUrl": "https://inc42.com/resources/5-reasons-why-your-chatbot-needs-natural-language-processing/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/inc42.com/wp-content/uploads/2019/06/nlp-social.jpg?fit=1200%2C628&#038;ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": "5 Reasons Why Your Chatbot Needs Natural Language Processing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/resources/5-reasons-why-your-chatbot-needs-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/5-reasons-why-your-chatbot-needs-natural-language-processing/amp/",
+      "publishedDateTime": "2020-06-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-speech-recognition-startup-uniphore-leverages-ai-to-ready-for-post-coronavirus-world.md",
       "title": "Speech recognition startup Uniphore leverages AI to ready for post-coronavirus world",
       "excerpt": "The need for automation is soaring amid the coronavirus crisis as BPO calls swell. Conversational AI startup Uniphore is tapping technology to change the way enterprises engage with consumers and build loyalty in the post-COVID-19 world.",
@@ -837,216 +1037,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-robots-usage-rises-amid-coronavirus-crisis-etfs-to-gain.md",
-      "title": "Robots' Usage Rises Amid Coronavirus Crisis: ETFs to Gain",
-      "excerpt": "The fund tracks investment results that correspond generally to the performance of the Indxx Global Robotics & Artificial Intelligence Thematic Index. Notably, the fund provides exposure to the performance of companies that benefit from the rising adoption of AI, robotics and automation. The fund has 37 holdings with AUM of $1.51 billion.",
-      "webUrl": "https://www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10",
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10?amp",
-      "publishedDateTime": "2020-06-10T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-amazon-pauses-police-use-of-its-facial-recognition-software.md",
-      "title": "Amazon Pauses Police Use of Its Facial Recognition Software",
-      "excerpt": "The company said it hoped the moratorium “might give Congress enough time to put in place appropriate rules” for the technology.",
-      "webUrl": "https://www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.html",
-      "heat": 841,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/06/10/business/10UNREST-AMAZON-sub/10UNREST-AMAZON-sub-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": "Amazon Pauses Police Use of Its Facial Recognition Software",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.amp.html",
-      "publishedDateTime": "2020-06-10T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-how-a-kirkland-company-uses-ai-to-make-it-safer-for-you-to-return-to-your-office.md",
-      "title": "How a Kirkland company uses AI to make it safer for you to return to your office",
-      "excerpt": "Nomad Go's HealthySpaces system collects anonymous data using computer vision and can track how many people have entered and exited an office and whether people are social distancing. It can also ...",
-      "webUrl": "https://www.bizjournals.com/seattle/news/2020/06/10/nomad-go-ai-computer-vision-office-covid-kirkland.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11677837/nomad-go-mask-detection*600xx1676-1122-0-0.png",
-          "width": 600,
-          "height": 401,
-          "title": "How a Kirkland company uses AI to make it safer for you to return to your office",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/seattle/news/2020/06/10/nomad-go-ai-computer-vision-office-covid-kirkland.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2020/06/10/nomad-go-ai-computer-vision-office-covid-kirkland.amp.html",
-      "publishedDateTime": "2020-06-10T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-ibm-for-financial-services-banking-tradition-meets-hybrid-cloud.md",
-      "title": "IBM for Financial Services: Banking Tradition Meets Hybrid Cloud",
-      "excerpt": "WEEK FINANCIAL IT ANALYSIS: Banks are often leading-edge adopters of the latest technological solutions, such as hybrid cloud, digital transformation and artificial intelligence. But there's always something new to consider,",
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/ibm-for-financial-services-banking-tradition-meets-hybrid-cloud",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/06/Banking.apps.JPG?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": "IBM for Financial Services: Banking Tradition Meets Hybrid Cloud",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-10T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses.md",
-      "title": "COVID-19: How AI is helping to streamline SBA payroll loans to small businesses",
-      "excerpt": "Fintech companies like Kabbage were deputized by the SBA to help process a deluge of loan applications the agency couldn't handle on its own.",
-      "webUrl": "https://www.techrepublic.com/article/covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/10/87eec36c-971a-4290-a5be-1740b202d089/resize/1200x/21024d39652d3dd9d4c9d2f7c7c6438e/istock-1225358381.jpg",
-          "width": 1200,
-          "height": 849,
-          "title": "COVID-19: How AI is helping to streamline SBA payroll loans to small businesses",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/",
-      "publishedDateTime": "2020-06-10T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

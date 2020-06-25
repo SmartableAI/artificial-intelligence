@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/24/21301759/facial-reco
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence"
 type: article
 quality: 103
-heat: 213
+heat: 223
 published: true
 
 provider:
@@ -169,6 +169,20 @@ related:
       - url: "https://media.kare11.com/assets/CCT/images/626789424/626789424_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "IBM quits facial recognition, joins call for police reforms"
+    excerpt: "IBM is getting out of the facial recognition business, saying it's concerned about how the technology can be used for mass surveillance and racial profiling. Ongoing protests responding to the death of George Floyd have sparked a broader reckoning"
+    publishedDateTime: 2020-06-25T01:22:00Z
+    webUrl: "https://www.seattletimes.com/business/ibm-quits-facial-recognition-joins-call-for-police-reforms/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
+    images:
+      - url: "https://static.seattletimes.com/wp-content/uploads/2019/12/12192019_facialRecStudy_tzr_tzr_131656-780x501.jpg"
+        width: 780
+        height: 501
         isCached: true
   - title: "Facial recognition software: Useful for crime fighting, but it needs rules."
     excerpt: "IBM’s decision last week to stop selling facial recognition technology to police agencies, and Amazon’s subsequent announcement of a one-year moratorium on such sales, have put a needed spotlight on this issue. Facial recognition technology holds ..."

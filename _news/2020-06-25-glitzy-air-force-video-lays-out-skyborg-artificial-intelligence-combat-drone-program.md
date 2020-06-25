@@ -7,6 +7,7 @@ webUrl: "https://www.thedrive.com/the-war-zone/34351/glitzy-air-force-video-lays
 type: article
 quality: 44
 heat: 44
+published: false
 
 provider:
   name: The Drive
@@ -22,6 +23,6 @@ images:
     isCached: true
     title: "Glitzy Air Force Video Lays Out \"Skyborg\" Artificial Intelligence Combat Drone Program"
 
-secured: "+SnHsuhqvPsVAGzVjthvTjcNJKRQDvWdv93tjsFOLd+GOquA/rHQR9DEA6TVJKPmuhYN+c/yxg1na4chZsjZo1LAWt8lmSZI8litD5KRQrPeIp7S309wth7+z3mMQoKAmlWs+6FaNz4CxCaAovGXUVv+CUvglwSQX/FPIOW3DtZ3zYEtXavQr+jyiei7bA2QD2tgbTd6dbHdAbHzaPEn4DJRHWNUpSBZMHTjH0iJqMXJfX3cAfV99qHhP08u9pSdJctmUmz20U4L8mstHJIfuk3Cns7Bdtp6jPRDTuCyq+ZmPzJ5O+/Dubk8QSzb5Xm666EfrZYubr9adf20GXMSfQ==;Jgz3k8TN5V3VtwColI7FPA=="
+secured: "oqfYN+sfoRKgXvAeukuaw1Bwe0ZyBp+9wfHFtTyzf5knBQ6dCpcnK3jbEaQC6LNzSWrWhoZPKAlNRYazy0S7V2wffhGKysQv2gRbZc8HUWXlw/ceTLjlnF8WsGrWx4VF5nJAwUi8yHR+rz7aIJzwiI1J3IzgJJRJtOBplkjur7HHagLmpqvYVu66qlHvtGSh8N6elSQpQSrZBlkDbA72utcpe1Qc6loNUBfwhwW5arzXcGRFOauP0/qqr4eqUqhdRx0SX2HhsFDXNflsqmyPyoIa1LQSDGxGpb9gous6Jd72NImKxspF6k9EbaeDAKfZP74Day7wLB6ELVzEsArMgJt3BfoES+J9KFk/rKcD0K5mzoxP3X/U3Kr7Qgd70yGpT+EEs4mM7O9V3QGoJROT+noSgqk+U7uu0NiJC69pzKc1t4JDLGYpjMAn8EAi3uHCNgWp9RAkEZbhTjMlYzZGOaDijfX6alW42KT76BDByGJWdydM2PMD7KZyHF3vaJR73C6r5gHX9lTG5Dgxi33Xaw==;by1GRB8i9zgl0TrdmXt2tg=="
 ---
 

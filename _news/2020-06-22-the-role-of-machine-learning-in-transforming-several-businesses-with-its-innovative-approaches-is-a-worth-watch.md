@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-22T07:18:00Z
 webUrl: "https://www.analyticsinsight.net/chatbots-cybersecurity-machine-learning-innovating-various-business-dimensions/"
 type: article
 quality: 18
-heat: 28
+heat: 18
 published: false
 
 provider:

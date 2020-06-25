@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T17:46:00Z
 webUrl: "https://siliconangle.com/2020/06/23/disney-studios-partners-with-hpe-to-bring-ai-into-storytelling-hpediscover/"
 type: article
 quality: 37
-heat: 47
+heat: 37
 published: false
 
 provider:

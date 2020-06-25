@@ -8,7 +8,7 @@ ampWebUrl: "https://techent.tv/2020/06/22/global-airlines-leverage-ai-machine-le
 cdnAmpWebUrl: "https://techent-tv.cdn.ampproject.org/c/s/techent.tv/2020/06/22/global-airlines-leverage-ai-machine-learning-and-blockchain-to-save-costs-and-generate-new-revenues-says-frost-sullivan/?amp"
 type: article
 quality: 48
-heat: 58
+heat: 48
 published: false
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T15:23:00Z
 webUrl: "https://www.manufacturing.net/home/news/21138103/selfdriving-taxis-a-setback-for-those-with-different-needs"
 type: article
 quality: 24
-heat: 34
+heat: 24
 published: false
 
 provider:

@@ -59,6 +59,20 @@ related:
         width: 1240
         height: 1021
         isCached: true
+  - title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition..."
+    excerpt: "The city council unanimously voted on Wednesday to ban the use of the technology and prohibit any city official from obtaining facial surveillance by asking for it through third parties. The measure will now go to Mayor Marty Walsh with a veto-proof majority."
+    publishedDateTime: 2020-06-25T00:08:00Z
+    webUrl: "https://wfuv.org/content/boston-lawmakers-vote-ban-use-facial-recognition-technology-city"
+    type: article
+    provider:
+      name: WFUV
+      domain: wfuv.org
+    quality: 24
+    images:
+      - url: "https://wfuv.org/sites/default/files/logo_0.png"
+        width: 342
+        height: 240
+        isCached: true
   - title: "Legislation would block police from using facial recognition with body cam footage"
     excerpt: "The newly introduced Stop Biometric Surveillance by Law Enforcement Act would ban federal law enforcement agencies from using facial recognition and other biometric surveillance technologies on"
     publishedDateTime: 2020-06-23T18:38:00Z

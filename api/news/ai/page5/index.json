@@ -2,6 +2,120 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-19-ge-healthcare-taps-lunits-ai-for-its-new-chest-x-ray-suite.md",
+      "title": "GE Healthcare taps Lunit’s AI for its new chest X-ray suite",
+      "excerpt": "GE Healthcare launched an artificial intelligence-powered chest X-ray analysis suite, designed to spot and highlight eight common conditions, using algorithms built by the South Korean startup Lunit ... analytics, AI and connectivity will only become ...",
+      "webUrl": "https://www.fiercebiotech.com/medtech/ge-healthcare-taps-lunit-s-ai-for-its-new-chest-x-ray-suite",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1592492062/Lunit%20Xray%20AI.jpeg?H_Tp7Ynhb8bsEI3Y4GISbyNH7u9Sjepp",
+          "width": 2700,
+          "height": 1518,
+          "title": "GE Healthcare taps Lunit’s AI for its new chest X-ray suite",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-19T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-microsoft-acquires-adrm-software-to-develop-data-models-for-azure.md",
+      "title": "Microsoft Acquires ADRM Software to Develop Data Models for Azure",
+      "excerpt": "Microsoft has announced the purchase of data model develop ADRM, which will be incorporated into its Microsoft Azure division.",
+      "webUrl": "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2020/06/Data-Model-ADRM-Microsoft.jpg",
+          "width": 1024,
+          "height": 402,
+          "title": "Microsoft Acquires ADRM Software to Develop Data Models for Azure",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/?amp",
+      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/?amp",
+      "publishedDateTime": "2020-06-19T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-mowing-made-easy-robots-tackle-lawn-care.md",
+      "title": "Mowing made easy: Robots tackle lawn care",
+      "excerpt": "Maintaining a lawn in the summer heat is often a dreaded chore for homeowners. Now there are robots that can do the job for you. Worx, the company that makes the highly-rated Landroid, says autonomous mowers are getting more popular.",
+      "webUrl": "https://www.wdtn.com/news/u-s-world/mowing-made-easy-robots-tackle-lawn-care/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wdtn.com/wp-content/uploads/sites/45/2020/06/NC_mowers0619_700x394.jpg?w=700&h=394&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Mowing made easy: Robots tackle lawn care",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wdtn.com/news/u-s-world/mowing-made-easy-robots-tackle-lawn-care/amp/",
+      "cdnAmpWebUrl": "https://www-wdtn-com.cdn.ampproject.org/c/s/www.wdtn.com/news/u-s-world/mowing-made-easy-robots-tackle-lawn-care/amp/",
+      "publishedDateTime": "2020-06-19T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WDTN",
+        "domain": "wdtn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-google-unveils-experimental-keen-social-network-for-users-interests.md",
       "title": "Google Unveils Experimental Keen Social Network For Users’ Interests",
       "excerpt": "Google announced a place for \"long-term interests\" called Keen that was made as part of its space for experimental efforts named Area 120.",
@@ -1201,138 +1315,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-ai-and-machine-learning-in-healthcare-garbage-in-garbage-out.md",
-      "title": "AI And Machine Learning In Healthcare: Garbage In, Garbage Out",
-      "excerpt": "Much proselytizing has occurred regarding the value and future of artificial intelligence (AI) and machine learning in healthcare. The industry is burgeoning. As with blockchain technology, which continues to evolve in the healthcare marketplace ...",
-      "webUrl": "https://www.forbes.com/sites/jeffgorke/2020/06/18/ai-and-machine-learning-in-healthcare-garbage-in-garbage-out/",
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1197598173%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D556%26cropY2%3D3931",
-          "width": 1200,
-          "height": 675,
-          "title": "AI And Machine Learning In Healthcare: Garbage In, Garbage Out",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-gpu-accelerated-ml-training-now-available-for-35-million-windows-subsystem-for-linux-users.md",
-      "title": "GPU accelerated ML training now available for 3.5 million Windows Subsystem for Linux users",
-      "excerpt": "Microsoft has announced the availability of GPU Compute on the WSL2, allowing users to run native Linux command-line tools directly on Windows 10",
-      "webUrl": "https://news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/06/GPU-Compute-WSL-2.jpg",
-          "width": 700,
-          "height": 365,
-          "title": "GPU accelerated ML training now available for 3.5 million Windows Subsystem for Linux users",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/amp/",
-      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/amp/",
-      "publishedDateTime": "2020-06-18T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-ai-model-uses-smartphone-location-data-to-predict-power-grid-usage.md",
-      "title": "AI model uses smartphone location data to predict power grid usage",
-      "excerpt": "Researchers propose an AI model that incorporates smartphone location data to predict power grid usage during the COVID-19 pandemic.",
-      "webUrl": "https://venturebeat.com/2020/06/18/ai-model-uses-smartphone-location-data-to-predict-power-grid-usage/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/07/australia-powerpack-blog-e1592499666353.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI model uses smartphone location data to predict power grid usage",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/18/ai-model-uses-smartphone-location-data-to-predict-power-grid-usage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/ai-model-uses-smartphone-location-data-to-predict-power-grid-usage/amp/",
-      "publishedDateTime": "2020-06-18T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

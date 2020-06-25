@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/site
 type: article
 quality: 74
 heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -29,6 +30,6 @@ images:
     isCached: true
     title: "How Technology Will Create These 7 Jobs In The Future"
 
-secured: "veKeEmBD7lltaAUJsVJb09P7GxXCYJFuxabSCvXcw7wwcxuMB5YIuHa+OInl32YVUIfb04F22X6oTUlRYDrhZRXsCzVcpGhXEHJ01pK04IaSRSigZ8pFdxtRdhrb4AZ2xM385w/12M1kS0HDcIpP6kBmhOBkSCVor+jdfblFuYy504A2AmeVCHJZVLqBuH72rd9nha3JjW/30lKIbmh+2xMMFD91nSU08Yf22dIY+PrmrsBCKvxjDNFwpFvNWJ14Y+XR3Y6nxIAPDXraFHLpV8OsnkJjE00AMkrOUXafSgSPpZiJxlxu8/0WN3TFWWNAvSaZXsMZohjKAlP5pLhaTw==;u7WPAuvSiZu052SNS/Hcvw=="
+secured: "9sGrtRKl0vdy9ejD1lXrrdwGEEQz3ATao5ms5XvDuqC4CjzClC7CH5RsVlzGEoDcdQS1EewGaYVob7S0g3BWnLgzn8he5zaQGjyoSVpAEr++a4jKX5xMcVuWfw8GkKCdqMsRNrY9o1p34FPlgW4RfBKZcSVCyo444LwMnOHf273PycI31JBN2ocIGyFKABStrzZNCxXRCWQu3+h9JVhmWg0ECxTkT0Ih3TwsGp44rzWRLiGPyVismlMb86MNkDJIAHgdyKQQV/+TY5WDEB2AWQ3WU8KExWowj3N+Njf0ylWYRC6iuokGJRCJ6ok8ks5fNrevNix5zENQnFcWGJayyXOni2B1reoe3Go8tU8rINylEfbvKJpwkxujmYGt3fDO8ODLCHZXST81F1tn6Fy//24XNzXLZPUXqlAA+imnp5eZgY/eJYVCspJ1dxJbneOPz/6GKxLF5d+MRbNLtKoTb/T+9xmyVfoB/L7itnyg6EHdE+9/rnpzjxeolapfHlwiLepq0r1DUizJuof8W4UdRQ==;e/5BEgJnfMwlwx4fiNHMog=="
 ---
 

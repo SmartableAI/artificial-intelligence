@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dqindia.com/top-10-data-analytics-technology-trends-2020
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/top-10-data-analytics-technology-trends-2020/amp/"
 type: article
 quality: 24
-heat: 44
+heat: 24
 published: false
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T13:10:00Z
 webUrl: "https://www.supplychainbrain.com/articles/31511-walmarts-self-driving-partner-is-changing-e-commerce-economics"
 type: article
 quality: 24
-heat: 34
+heat: 24
 published: false
 
 provider:

@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big
 type: article
 quality: 86
 heat: 86
+published: true
 
 provider:
   name: South China Morning Post

@@ -2,6 +2,296 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-06-01-breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week.md",
+      "title": "Breaking: AI startup Stitch Fix to conduct massive layoffs starting this week",
+      "excerpt": "AI startup Stitch Fix, a company that uses algorithms and computer vision to help consumers find clothes they like, is apparently taking a bold approach to company expansion: it’s “significantly reducing” the number of employees it has so that it can hire people in other states.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/01/breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/layoffs-796x402.jpg",
+          "width": 796,
+          "height": 402,
+          "title": "Breaking: AI startup Stitch Fix to conduct massive layoffs starting this week",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/01/breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/01/breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week/amp/",
+      "publishedDateTime": "2020-06-01T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments.md",
+      "title": "AI tools could improve fake news detection by analyzing users’ interactions and comments",
+      "excerpt": "Researchers at Microsoft and Arizona State University propose in a paper a method of detecting fake news using a technique called weak supervision.",
+      "webUrl": "https://venturebeat.com/2020/06/01/ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments/",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/fake_news.shutterstock_559003162-e1582064474697.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI tools could improve fake news detection by analyzing users’ interactions and comments",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/01/ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments/amp/",
+      "publishedDateTime": "2020-06-01T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-the-best-computer-reading-glasses-to-help-reduce-eye-strain.md",
+      "title": "The best computer reading glasses to help reduce eye strain",
+      "excerpt": "These Truvision Readers may not be prescription, but their anti-reflective coating and blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to go to an eye doctor. If you are already suffering from Presbyopia, these computer reading glasses can also assist with blurred vision caused by too ...",
+      "webUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?itm_source=15&itm_content=2x2&itm_term=2377055",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
+      "publishedDateTime": "2020-06-01T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us.md",
+      "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
+      "excerpt": "Predicting wildfires is a tricky business. A new artificial intelligence model could help fire agencies allocate resources to mitigate wildfire risks across the West.",
+      "webUrl": "https://www.techrepublic.com/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/01/b9176e1d-1077-48f8-8817-349aa8ebe44a/resize/1200x/5e79b0a17d7fead9c196dc9e6025c51f/wildfire.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
+      "publishedDateTime": "2020-06-01T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-7-ai-stocks-that-are-looking-to-the-future.md",
+      "title": "7 AI Stocks That Are Looking to the Future",
+      "excerpt": "The interesting thing is that until about 10 years ago or so, AI was mostly a backwater. Let’s face it, investors were more interested in areas like cloud computing. But there would emerge some major catalysts that would make AI a must-have.",
+      "webUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "7 AI Stocks That Are Looking to the Future",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
+      "publishedDateTime": "2020-06-01T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure.md",
+      "title": "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure",
+      "excerpt": "WANdisco, the LiveData company, today announced the limited public preview availability of WANdisco LiveData Platform for Azure, a new service offering available on Microsoft Azure exclusively. The WANdisco LiveData Platform features the company’s patented consensus engine which ensures data consistency,",
+      "webUrl": "https://www.newswiretoday.com/news/172992/WANdisco-Releases-LiveData-Platform-for-Petabyte-Scale-Cloud-Migration-to-Microsoft-Azure/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-third-pixel-feature-drop-improves-ai-powered-adaptive-battery-integrates-recorder-and-google-assistant.md",
+      "title": "Third Pixel feature drop improves AI-powered Adaptive Battery, integrates Recorder and Google Assistant",
+      "excerpt": "Google's third Pixel feature drop brings a smarter Adaptive Battery, Recorder integration with Google Assistant, and bedtime and personal safety features.",
+      "webUrl": "https://venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/android-bedtime-graphic.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Third Pixel feature drop improves AI-powered Adaptive Battery, integrates Recorder and Google Assistant",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/amp/",
+      "publishedDateTime": "2020-06-01T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-growing-at-a-cagr-205-key-player-3m-cerner-nuance-microsoft-ibm.md",
       "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Growing at a CAGR 20.5% | Key Player 3M, Cerner, Nuance, Microsoft, IBM",
       "excerpt": "and Region – Global Forecast to 2025 MarketsandMarkets forecasts the global Natural Language Processing (NLP) in Healthcare and Life Sciences Market size to grow from USD 1.5 billion in 2020 to ...",
@@ -790,316 +1080,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-armed-with-disinfectant-and-admonishments-south-korean-robot-fights-coronavirus-spread.md",
-      "title": "Armed with disinfectant and admonishments, South Korean robot fights coronavirus spread",
-      "excerpt": "A self-driving robot equipped with cameras and an LED screen greets visitors at the lobby in the headquarters of South Korea's largest mobile operator, checking their temperature, dispensing hand sanitiser and disinfecting the floor.",
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-southkorea-robots-idUSKBN23816M",
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200601&t=2&i=1520590902&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG50147",
-          "width": 818,
-          "height": 545,
-          "title": "Armed with disinfectant and admonishments, South Korean robot fights coronavirus spread",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23816M",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23816M",
-      "publishedDateTime": "2020-05-31T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai.md",
-      "title": "OpenAI’s gigantic GPT-3 hints at the limits of language models for AI",
-      "excerpt": "A presentation in April by AI chip company Tenstorrent described future neural networks with over one trillion parameters. For a good part of the machine learning community, bigger and bigger language model is going to remain the state of the art.",
-      "webUrl": "https://www.zdnet.com/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/01/1b57a8c3-e280-4aa8-9487-e8149a3b63ea/gpt-3-versus-the-others-may-2020.png",
-          "width": 2020,
-          "height": 1148,
-          "title": "OpenAI’s gigantic GPT-3 hints at the limits of language models for AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
-      "publishedDateTime": "2020-05-31T20:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-understanding-the-foundations-of-successful-ai.md",
-      "title": "Understanding the foundations of successful AI",
-      "excerpt": "Despite the disruption to the overall economy and most industries in the wake of COVID-19 pandemic, there are sections of IT that are booming.",
-      "webUrl": "https://www.zdnet.com/paid-content/article/understanding-the-foundations-of-successful-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/22/e2eb3989-521e-4ac7-8453-b1837ff492a5/adobestock-300893166.jpg",
-          "width": 6479,
-          "height": 4319,
-          "title": "Understanding the foundations of successful AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/understanding-the-foundations-of-successful-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/understanding-the-foundations-of-successful-ai/",
-      "publishedDateTime": "2020-05-31T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
-      "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
-      "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
-      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-chinese-tech-giant-baidu-chooses-europe-for-driverless-car-push.md",
-      "title": "Chinese tech giant Baidu chooses Europe for driverless car push",
-      "excerpt": "\"AI (artificial intelligence) technology has huge potential to promote social development, and one of AI's biggest opportunities lies in intelligent vehicles,\" said Qi Lu, chief operating officer ...",
-      "webUrl": "https://www.cnbc.com/2017/06/01/chinese-tech-giant-baidu-chooses-europe-for-driverless-car-push.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104324500-GettyImages-458949014.jpg?v=1529474405",
-          "width": 1024,
-          "height": 767,
-          "title": "Chinese tech giant Baidu chooses Europe for driverless car push",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer.md",
-      "title": "'It's fundamental': Graphcore CEO believes new kinds of AI will prove the worth of a new kind of computer",
-      "excerpt": "Graphcore, the four-year-old startup based in Bristol, England, has a chip that takes the kinds of math that a neural network processes and splits them across 1,216 tiny computers, each of which does its work in parallel with its brethren.",
-      "webUrl": "https://www.zdnet.com/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/31/d262fc29-e229-4d74-ab42-89e55b45ba5a/thumbnail/1200x675/e45b9da0b744d2b665aa2cd44166a115/nigel-toon-ceo-graphcore-may-2020.png",
-          "width": 1200,
-          "height": 675,
-          "title": "'It's fundamental': Graphcore CEO believes new kinds of AI will prove the worth of a new kind of computer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
-      "publishedDateTime": "2020-05-31T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-microsoft-replaces-msn-journalists-with-ai-robots.md",
-      "title": "Microsoft Replaces MSN Journalists With AI Robots",
-      "excerpt": "In a nightmare come true, Microsoft is letting go dozens of news editors at Microsoft News in favour of artificial intelligence (AI), according to The Guardian. For those unaware,",
-      "webUrl": "https://www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techworm.net/wp-content/uploads/2020/05/ai.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft Replaces MSN Journalists With AI Robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html/amp",
-      "cdnAmpWebUrl": "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html/amp",
-      "publishedDateTime": "2020-05-31T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techworm.net",
-        "domain": "techworm.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

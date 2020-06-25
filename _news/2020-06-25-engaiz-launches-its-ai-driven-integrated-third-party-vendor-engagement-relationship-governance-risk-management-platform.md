@@ -1,22 +1,25 @@
 ---
 category: news
 title: "ENGAIZ Launches its AI-Driven Integrated Third-Party Vendor Engagement, Relationship, Governance & Risk Management Platform"
-excerpt: "ENGAIZ, a North American technology startup with offices in Toronto and New York, has launched a ground breaking"
-publishedDateTime: 2020-06-25T01:10:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/06/g16382055/engaiz-launches-its-ai-driven-integrated-third-party-vendor-engagement-relationship-governance-ris"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16382055"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16382055"
+excerpt: "Stock quotes by finanzen.net TORONTO and NEW YORK, June 24, 2020 (GLOBE NEWSWIRE) -- ENGAIZ, a North American technology startup with offices in Toronto and New York, has launched a ground breaking AI-Driven SaaS Integrated Third-Party Engagement platform to help enterprises identify and mitigate third-party vendor risks including cybersecurity,"
+publishedDateTime: 2020-06-25T01:41:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/engaiz-launches-its-ai-driven-integrated-third-party-vendor-engagement-relationship-governance-risk-management-platform-1029340118"
 type: article
-quality: 11
-heat: 11
+quality: 21
+heat: 21
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-secured: "rqi5t7NkUvUR/ql5l1DJAFoicFOZcCl7PvU988Cw0w5niPl3IMsLChX0pTkOvCCoPIoxJG79PTuEWp4vNqlnQD8T/8gXjvntRQ8ueNiKW9QtoY4M9aStb6ZbFAR9Vf74pVHMGKgW8j5Fzt9JnZESlwptPop1B3p2hKs+2DxKaCkbfkCHhmMEV58U9JcsKch9hetUI2EbQKVacsGjw56iNY/xpmCI03URNAkH5E4raDEGMSWMjatbuErJxX7COvas6cgqwvn9a3sf4I4VFu9DckobfZXBqZWjrm/FOFnOnIZ6OUfsh7manvWCCffpPwpnmrSORABbwV7JfiLhgXEhyQ==;FStKYlr/+5BcIpGLyeplKg=="
+secured: "yQIm4QD3xv3W92VD0nDHEsi4r3vDzwHLCmbv7Kpm6AsUWMXqPtVMbASYbwscExrFDQXJwu3rbEiNyuvXiqLQbUvALKbxgWj/iM6yhnOD1gq6LeSLY+DXDv9KUL9MW8Qjy+PB6ML4fBI+gGnYFCWhEbAUMPkGBMkfeMGTNrWSwcS78gXTL9GfgCnl836Qtnj76Wfi/CG8UZls1APvrFtwvsHRGfmaVohuoA16HBB+LkcLptxHiJ3HTVHlmktWWMMuPDtlE54kMb0wqEzEQrYjo6ljOWXyy1Ae5NjR/3X3sU1nw496YuCkNQhwOMRqUyT10BaHAF5HwE763vZOFaSc4A==;zY1Y2ulZk3AODTmCZL9LiA=="
 ---
 

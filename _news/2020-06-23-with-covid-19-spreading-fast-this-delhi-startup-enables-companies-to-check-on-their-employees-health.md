@@ -8,7 +8,7 @@ ampWebUrl: "https://yourstory.com/2020/06/covid-19-delhi-startup-companies-emplo
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/06/covid-19-delhi-startup-companies-employee-health-san8tize/amp"
 type: article
 quality: 26
-heat: 36
+heat: 26
 published: false
 
 provider:

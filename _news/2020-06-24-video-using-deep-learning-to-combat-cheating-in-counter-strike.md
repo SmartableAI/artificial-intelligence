@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-24T19:08:00Z
 webUrl: "https://gamasutra.com/view/news/365410/Video_Using_deep_learning_to_combat_cheating_in_CounterStrike.php"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

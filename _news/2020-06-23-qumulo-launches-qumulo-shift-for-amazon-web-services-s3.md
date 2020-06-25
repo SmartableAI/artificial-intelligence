@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T15:01:00Z
 webUrl: "https://www.hpcwire.com/off-the-wire/qumulo-launches-qumulo-shift-for-amazon-web-services-s3/"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

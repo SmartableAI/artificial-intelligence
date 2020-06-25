@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200624/Automated-classificat
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200624/Automated-classification-of-colorectal-cancer-using-IR-imaging.aspx"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

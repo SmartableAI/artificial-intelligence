@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-24T00:14:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/06/24/inspur-nf5468m6-nf5468a5/"
 type: article
 quality: 42
-heat: 62
+heat: 42
 published: false
 
 provider:

@@ -6,7 +6,8 @@ publishedDateTime: 2020-06-25T00:08:00Z
 webUrl: "https://wfuv.org/content/boston-lawmakers-vote-ban-use-facial-recognition-technology-city"
 type: article
 quality: 24
-heat: 24
+heat: -1
+published: false
 
 provider:
   name: WFUV
@@ -23,6 +24,70 @@ images:
     isCached: true
     title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition..."
 
-secured: "WTyvkeOC+Im74OKifO2VJS8vG+m3ASw/AhGSwjwvuuaoruM7RSzY2zpT/fm+yDcN64FSknrAMZnr9r/XnQ+Ii5dCb/y+sHlGhQIAdv23WOAm7LoObQ8hYSfbhbElbw/d0+l2zEe5ugB9v6cvA7k7jQGZhXrdRM0au2NrjnjISEF794SG7hWjmqLxkEOV873CtLQqwhiFOtzvnZT4Wr+LsYei/vbAbT0yLnuz1yx6+Q3PLlyIX+FkmxdOaqdN7viDN1GOfFjn0FTqPIECWxH44wimej1j/88U7OsYFOMQ2fFCBVfrXHhzjMQllAIdrOV6PCDtIi0A+T6ZeN037FQUPg==;Fs2VCQQjH4hcTF40PyuS0Q=="
+related:
+  - title: "Boston bans police from using facial recognition technology"
+    excerpt: "Boston has banned police from using facial recognition technology, becoming the second-largest U.S. community to do so."
+    publishedDateTime: 2020-06-24T22:10:00Z
+    webUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology"
+    ampWebUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 74
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/facial-recognition-iStock.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Facial-Recognition Tools Banned for Boston Police"
+    excerpt: "The Boston City Council voted unanimously Wednesday to prohibit police from using facial-recognition technology, becoming the largest city in the country to do so after San Francisco."
+    publishedDateTime: 2020-06-24T20:56:00Z
+    webUrl: "https://www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
+    ampWebUrl: "https://www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
+    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 44
+    images:
+      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2019/06/facial-recognition-graphic.png?fit=1240%2C1021&#038;ssl=1"
+        width: 1240
+        height: 1021
+        isCached: true
+  - title: "The City Of Boston Will Be Banning The Use Of Facial Recognition Based Surveillance"
+    excerpt: "While some parts of the world, facial recognition based surveillance is being adopted, there are some part of the world where the technology is"
+    publishedDateTime: 2020-06-24T23:48:00Z
+    webUrl: "https://www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/"
+    ampWebUrl: "https://www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/amp/"
+    type: article
+    provider:
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 38
+    images:
+      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2018/04/security-camera.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Legislation would block police from using facial recognition with body cam footage"
+    excerpt: "The newly introduced Stop Biometric Surveillance by Law Enforcement Act would ban federal law enforcement agencies from using facial recognition and other biometric surveillance technologies on"
+    publishedDateTime: 2020-06-23T18:38:00Z
+    webUrl: "https://www.biometricupdate.com/202006/legislation-would-block-police-from-using-facial-recognition-with-body-cam-footage"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/06/25113324/axon-body-camera-police.jpg"
+        width: 1600
+        height: 1065
+        isCached: true
+
+secured: "mzvMe6IkS8bEbIPKju5WMniC2yJOGn6Pu0BI+Ywfpg57HJeLr43yQE4+pdTH+V0Ga+bMPQqC4WZ+oWLd3xXgwJHxn99aE2BCn8C/Je44pT2JOkqNEIVpZcyxg6v7N8FS4V6ib/PFDgj8hsuUR5tZkJOVZVDQxZddogPQAwd0RvVL/GX+TBSKG9mCUj4JFc5dRHRCh+Nbxoae4IAq8CBn60fmUlXcBlO9Q1ZT8x5RO4ZWZA4JiLt+mhavLFVCcUR5A0OgSfM7itCDP1JQjZHHgWltCD6xb2yaY6EOljllzzepeqDw1X/yGODHmLpcwL0oQfxk9i2LbbUpQS8dTDPXneG04TYcHve8K4+8BcKLLM1mRuHABCbQa+O8RZpbeaZE7mdgZm9ufqhpy9gnW8BP+1BbHIgDrCfnEyTjnt8q9IWtbQMNKVaWoWIurbNNK5oyb/ZKRDKF06p7Yb2a8ZXr1UZG9s+IjdVEK5Vf5nDLbyERDUxQ/C9yUnLUI+tWE20qjmy8t9+drTQlGLOFGBZCrQ==;efZEjdqXa5aZnPLNl7QNKA=="
 ---
 
