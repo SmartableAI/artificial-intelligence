@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-24T21:51:00Z
 webUrl: "https://www.biometricupdate.com/202006/nvidia-offers-edge-ai-software-hardware-for-ai-and-biometrics-to-hospitals-on-the-frontline"
 type: article
 quality: 28
-heat: 28
+heat: 38
 published: false
 
 provider:

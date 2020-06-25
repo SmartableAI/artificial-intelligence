@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T02:10:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-ai-in-drug-discovery-market-is-expected-to-reach-usd-40-36-billion-by-2027-fior-markets-1029331522"
 type: article
 quality: 38
-heat: 38
+heat: 48
 published: false
 
 provider:

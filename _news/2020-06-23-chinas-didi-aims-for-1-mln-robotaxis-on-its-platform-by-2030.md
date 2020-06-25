@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T13:04:00Z
 webUrl: "https://www.nasdaq.com/articles/chinas-didi-aims-for-1-mln-robotaxis-on-its-platform-by-2030-2020-06-23"
 type: article
 quality: 49
-heat: 49
+heat: 59
 published: false
 
 provider:

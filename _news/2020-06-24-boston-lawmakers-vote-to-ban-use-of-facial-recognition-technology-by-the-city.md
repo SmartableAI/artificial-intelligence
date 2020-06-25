@@ -5,7 +5,7 @@ excerpt: "The city council also voted on Wednesday to prohibit any city official
 publishedDateTime: 2020-06-24T23:05:00Z
 webUrl: "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/24/883107627/boston-lawmakers-vote-to-ban-use-of-facial-recognition-technology-by-the-city"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media.npr.org/assets/img/2020/06/24/rts35ary_wide-0a3b97cb8bc95daa0b59356f6ad16f6de0f5ea76.jpg?s=1400"
@@ -459,6 +460,6 @@ related:
         height: 341
         isCached: true
 
-secured: "xOZq7OuMqDrzYOKfTaWvqaNc8BvCr4UMhdAN18yqcHNMQxhUacnYX3tZaudzAe37EgZYsA6CIwUuVNtenuel5SGhbF28Vqm3h+Dx6KssARqI8pmaNkfmoLl7Rm3zuviFxnHr6sy+n4y1Gn5SdmMRDIyIMfjD8gp1AWYXMWvHIdDdNdYqjOB9h0hQD2iait0GxysBmTemSvmFplcUtKlrGDBMo05+nIOlfUupBiSWHPLeSkIV2cEWNrlr3xTiyb01t78gEnvCpprAs2MO/CA7zCAtL6dgIQABf2H74/qR3hpDbaOcrMjaKqwTZNtol6dKUPwZrFNb+J9Nt+u189rXuA==;stmAbPVrsEPvd64nBIpMkw=="
+secured: "tAeUim92XHaXZQl/qo9oc2MnUZQcMxguUO9sl+z8mfTtJuOsBLlmS5gi5PQh5NfN+I6B6KKWIvZdTtxXZBA+lPZt8Yqa92cn3bcp5ZcSp/xTwPU2MW4pp59Dgv+kHP/2bx/1c4fOkEKq6thSibAarzNIX6+dYQDOKlZ/6prizKoMOfwOAh5EXJEUDN8Cw9P/yeveAvYjgrN//ounDf49squBPjQLGoP8PPCIiS5SCqcn3XuiHGVedYkilnMyA+M4gzD6GAgxDNxHhEwzzj8AzLj7pBFS4XtdnAZtxXdgiLYoaB+n+Uj93nr9xWnxJYKH7faVgwrHRr20TESStBa6jEhw7U6VGr1skLvYPALBv8CJF4keRyjd+m2o2GN9/t2euZoiChu/8zzjBtUjCB3B3Fq1ul70uKUhFolxDGLfm/LZsZBwr67yE6aosUlANdbSUqIA1flQqRqfQFQCjck06W2IWs1eLhz/3Hv3yuu1jZ/BQ1K9s1ZT30cNMjFmC/pBiVhmVsdPiv52/ODnaPqWEw==;c+iOA+RPomX9awiOHwPCCw=="
 ---
 

@@ -1,39 +1,28 @@
 ---
 category: news
 title: "Deloitte Launches the Deloitte AI Institute to Advance Applied Artificial Intelligence Innovation and Research for the Enterprise"
-excerpt: "Deloitte today announced the launch of the Deloitte AI Institute, a center that focuses on artificial intelligence (AI) research, eminence and applied innovation across industries. The Institute will bring together the brightest minds in the field of AI to apply cutting-edge research to help address a wide spectrum of relevant AI use cases."
+excerpt: "Deloitte today announced the launch of the Deloitte AI Institute, a center that focuses on artificial intelligence (AI) research, eminence"
 publishedDateTime: 2020-06-24T12:00:00Z
-webUrl: "https://apnews.com/PR Newswire/c0e76b7b4ac4a3567504eaff48a3d770"
+webUrl: "https://www.prnewswire.com/news-releases/deloitte-launches-the-deloitte-ai-institute-to-advance-applied-artificial-intelligence-innovation-and-research-for-the-enterprise-301082507.html"
 type: article
-quality: 23
-heat: 23
-published: false
+quality: 25
+heat: 25
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/379251/Deloitte_Logo.jpg?p=facebook"
+    width: 1612
+    height: 845
     isCached: true
     title: "Deloitte Launches the Deloitte AI Institute to Advance Applied Artificial Intelligence Innovation and Research for the Enterprise"
 
-related:
-  - title: "Cape Privacy Launches Privacy Platform for Collaborative Data Science and Machine Learning; Raises $5 Million in Seed Funding"
-    excerpt: "Cape Privacy, a privacy platform for collaborative data science and machine learning, announces today the launch of its open source platform as it sec"
-    publishedDateTime: 2020-06-24T12:21:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200624005055/en/Cape-Privacy-Launches-Privacy-Platform-Collaborative-Data"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
-
-secured: "dbNKGhoCTA0d4sGYFL4rk53wduxleEToAT9w/VHMdNGhWpmv6Ck06UO6eL38NVbFkr05evTKy/b9/DKzjHjYSHVUi8XoI8gGC8+eVCpaXL6ZEaCWo0DD5EnS8xdRAflGGKhC1R4J+q9bGQbSfR18EMojbwiHpCN7UBkJro8/jE/Vw6Yn1tT8VE+I9+w47pZmvtwelmhiRpO4FEq7pwzZGuIflspRb37FaEBQSQbhXY+N87PJ+whhpaW0A7iebyvInDrEp3sAIipEPrbZ+tQXBGUK27M4zg5OdK8TBBaogozWYWPcUyhkZ48oBdAxZFvGYu40yVQvTzH2upHX2OnZ4Q==;YI2ZxQ/s4YY4NxeVFkHkdA=="
+secured: "Kx4z7zOK5uaLZkyV0v5Px1sSnTY3/+Yk20/xriVBaXkWRXbjvehDswSpIO0NdVtojqQ+bExPLYRH2mviP141S6rlIIg85QclOV+GIo6Yw10IuHL5TC289pr3q9O0g/b/kGkdzuLl9VbEldTB7uveUckLxJZGGTvJY7qoSEhvcH5aIXst5Q6qr9l4RDhij4qthvEWOlTMljlFnn0xnCqVD2Ol9Xih8CVYPfYY+oQVk4at2jmKBo5yM7fA0SPa5J5PE8rjpXx+HF76sa8V7DLbYg+0LVH5E2ueWDymBfl5XjzpAOY2jGyVlwt4QHrsv7DdGhZpgV2mZi4TcjLlFB43Gg==;SwhuE48Ql2FUTxr6ae7ixQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200623/Collaboration-between
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200623/Collaboration-between-human-and-artificial-intelligence-has-huge-potential-in-medicine.aspx"
 type: article
 quality: 49
-heat: 49
+heat: 59
 published: false
 
 provider:

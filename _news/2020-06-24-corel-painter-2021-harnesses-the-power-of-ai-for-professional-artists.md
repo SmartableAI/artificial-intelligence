@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-24T00:03:00Z
 webUrl: "https://www.finanznachrichten.de/nachrichten-2020-06/49992259-corel-painter-2021-harnesses-the-power-of-ai-for-professional-artists-399.htm"
 type: article
 quality: 19
-heat: 19
+heat: 29
 published: false
 
 provider:
