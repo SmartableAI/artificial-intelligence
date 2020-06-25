@@ -27,94 +27,53 @@ images:
     title: "Facial-Recognition Tools Banned for Boston Police"
 
 related:
-  - title: "Boston just became the latest city to ban use of facial recognition technology"
-    excerpt: "The move also bans Boston city officials from asking a third party to carry out facial recognition on their behalf."
-    publishedDateTime: 2020-06-24T17:51:00Z
-    webUrl: "https://www.businessinsider.com/boston-bans-government-use-of-facial-recognition-technology-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/boston-bans-government-use-of-facial-recognition-technology-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boston-bans-government-use-of-facial-recognition-technology-2020-6?amp"
+  - title: "Boston bans police from using facial recognition technology"
+    excerpt: "Boston has banned police from using facial recognition technology, becoming the second-largest U.S. community to do so."
+    publishedDateTime: 2020-06-24T22:10:00Z
+    webUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology"
+    ampWebUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/5ef38a255af6cc5dd8746d84?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Boston bans most city use of facial-recognition tech in privacy win"
-    excerpt: "Boston joins cities like San Francisco in banning the official use of facial-recognition tech after the unanimous vote."
-    publishedDateTime: 2020-06-24T19:27:00Z
-    webUrl: "https://mashable.com/article/boston-bans-facial-recognition-technology/"
-    ampWebUrl: "https://mashable.com/article/boston-bans-facial-recognition-technology.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/boston-bans-facial-recognition-technology.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
+      name: Fox News
+      domain: foxnews.com
     quality: 74
     images:
-      - url: "https://mondrian.mashable.com/2020%252F06%252F24%252Fe6%252F48e216407ae64ae58a33a0d81cb9c1c5.28a23.jpg%252F1200x630.jpg?signature=9ioxsUaZTvrqoZR7r_dKNqdQDRU="
-        width: 1200
-        height: 630
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/facial-recognition-iStock.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Rose Bowl officials defend use of facial recognition program during the big game"
-    excerpt: "Recent media reports painted a dystopian picture of the Rose Bowl’s facial recognition programs used Jan. 1, but stadium officials say they got it wrong."
-    publishedDateTime: 2020-06-23T20:24:00Z
-    webUrl: "https://www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/"
-    ampWebUrl: "https://www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/amp/"
+  - title: "The City Of Boston Will Be Banning The Use Of Facial Recognition Based Surveillance"
+    excerpt: "While some parts of the world, facial recognition based surveillance is being adopted, there are some part of the world where the technology is"
+    publishedDateTime: 2020-06-24T23:48:00Z
+    webUrl: "https://www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/"
+    ampWebUrl: "https://www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/amp/"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 54
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 38
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2020/06/Gallery43-1.jpg?w=1024&h=703"
-        width: 1024
-        height: 703
+      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2018/04/security-camera.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Boston Bans Municipal Use Of Facial Recognition"
-    excerpt: "Boston joins cities like San Francisco, Oakland, California, and Cambridge, Massachusetts to ban the controversial surveillance technology."
-    publishedDateTime: 2020-06-24T21:52:00Z
-    webUrl: "https://www.forbes.com/sites/siladityaray/2020/06/24/boston-bans-municipal-use-of-facial-recognition/"
-    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/06/24/boston-bans-municipal-use-of-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/06/24/boston-bans-municipal-use-of-facial-recognition/amp/"
+  - title: "Legislation would block police from using facial recognition with body cam footage"
+    excerpt: "The newly introduced Stop Biometric Surveillance by Law Enforcement Act would ban federal law enforcement agencies from using facial recognition and other biometric surveillance technologies on"
+    publishedDateTime: 2020-06-23T18:38:00Z
+    webUrl: "https://www.biometricupdate.com/202006/legislation-would-block-police-from-using-facial-recognition-with-body-cam-footage"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-  - title: "Boston becomes the biggest East Coast city to ban face recognition"
-    excerpt: "The Boston Police Department already doesn’t use the technology, and it’s now forbidden from getting facial data from third parties."
-    publishedDateTime: 2020-06-24T20:24:00Z
-    webUrl: "https://www.fastcompany.com/90520805/boston-becomes-the-biggest-east-coast-city-to-ban-face-recognition"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
     images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-banned-in-boston-city-disallows-public-use-of-face-recognition.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Wrongfully Arrested Because of Flawed Face Recognition Technology"
-    excerpt: "Robert Williams was arrested and hauled away by the police in broad daylight in front of his home, his wife, and two little daughters. He was locked up for nearly"
-    publishedDateTime: 2020-06-24T13:46:00Z
-    webUrl: "https://www.wisconsingazette.com/multimedia/wrongfully-arrested-because-of-flawed-face-recognition-technology/video_fbc3ca15-039c-5a4a-8b54-4b69b40fee39.html"
-    type: article
-    provider:
-      name: Wisconsin Gazette
-      domain: wisconsingazette.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wisconsingazette.com/content/tncms/assets/v3/editorial/f/bc/fbc3ca15-039c-5a4a-8b54-4b69b40fee39/5ef35944c800c.preview.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/06/25113324/axon-body-camera-police.jpg"
+        width: 1600
+        height: 1065
         isCached: true
 
-secured: "oR8QBqwyBU/WRokVWHrheJt/N7G8GHT9JQbAqkD8vTMloahEy04gpEdpRQZHj+5WWPg8v1pFHGcEvaqpAZ/dNFOsTWtgkXVGa3H/htKsdIY67Dwe9kJr3fXnnOGdaofk2V4kl+ike9Jj2prG9tLw2hwwUgXFVCTkVzQjz1mEYjZrourKsHWvlYbGt+9yS6NQjV+qGqxKjKQRNfLZIDccOjI+DmuGTiA07r1DCk/gSACYU7Pi3qMcB9DzFnzenN+freoZR0L6XewHiwx5hQ4zvFmyB+ct6o059ye5y/YGuO2aH5IlhiCD9z9Lhy+g519jKlUHa+i6Wh2eClXuoHvBaA==;R8qLf9l4eIOKut/ouGaj3A=="
+secured: "qcduTVzAGfATAoLAUvFgSa5RFWNO9Dvdg+tel2kI1X6r9dhW59iu5QuXIh66Qv35lW8D/ESTQg3y+njdMvv58D50GqjzxlcjMv6GoGSU/bp2PsHpH+M205bivLJFOWEWQqJabFqMs6Y/XmDGBs8wVYWO4KpDYxYWMftWCq/D/o37Wa1K8Uhli2abETswwzW5LE7G6C+/aYtpnjNWkN45zlHyEHBxJRDIHs/+VXijfvYiRan8zJ3zG7NAKstHg2MK+nRYftP6mKhblWXnrRdvWh4801dVHnqOqbQjhF/D7AnCJk99rowBgLj0Fugi/bREjKvcHX5lUXoAbAS+lyj29lQbcCxDrm1j7rf2aR877RT16dLcn+Yrjx7v4Eu3ikzB1JWzYQ/gMlN1BGmf7sGQk2W49rFMnsZ3C9kz0bpxeC+XZ/4/5UpvaKZz6CjqYcaQCwVmUVmZFu/5ODQeo6r7MitD0vADimTtN7BnjXwJ6XGBTXXDlUfwb7ZMPikvS0D6q4Dp5zfusC26Xh+kglBMXg==;B2ItGWdSVOrQz2bC4ILOhA=="
 ---
 

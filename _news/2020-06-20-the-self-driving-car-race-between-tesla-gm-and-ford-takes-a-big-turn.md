@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 577
         isCached: true
+  - title: "Deepfake software used to aid self-driving car development"
+    excerpt: "Cutting-edge deepfake tech sees computer software simulate infinite number of different road environments to aid autonomous car development"
+    publishedDateTime: 2020-06-24T23:18:00Z
+    webUrl: "https://www.autoexpress.co.uk/news/352605/deepfake-software-used-aid-self-driving-car-development"
+    type: article
+    provider:
+      name: AutoExpress
+      domain: autoexpress.co.uk
+    quality: 39
+    images:
+      - url: "https://media.autoexpress.co.uk/image/private/s--Y8EeJWCa--/v1593011823/autoexpress/2020/06/deepfake%20self-driving%20car%20testing.jpg"
+        width: 3200
+        height: 1800
+        isCached: true
   - title: "BMW And Mercedes end self-driving car partnership"
     excerpt: "The two carmakers had previously said that they intended to jointly develop a Level 4 self-driving car by 2024."
     publishedDateTime: 2020-06-23T13:26:00Z

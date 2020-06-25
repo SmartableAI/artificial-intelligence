@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/23/rasa-raises-26m-led-by-a16z-for-it
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/rasa-raises-26m-led-by-a16z-for-its-open-source-conversational-ai-platform/amp/"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:

@@ -75,22 +75,6 @@ related:
         width: 800
         height: 451
         isCached: true
-  - title: "Facial Recognition Leads Detroit Police to Arrest the Wrong Man"
-    excerpt: "The ACLU demands that Detroit police stop using facial recognition as an investigation tool, citing the January arrest of Robert Williams, a black man wrongly accused of robbery thanks to flawed facial-recognition data."
-    publishedDateTime: 2020-06-24T20:45:00Z
-    webUrl: "https://www.pcmag.com/news/facial-recognition-leads-detroit-police-to-arrest-the-wrong-man"
-    ampWebUrl: "https://www.pcmag.com/news/facial-recognition-leads-detroit-police-to-arrest-the-wrong-man?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-leads-detroit-police-to-arrest-the-wrong-man?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 89
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/043vmlbrYOJ74sZENXugFkd-1.fit_lim.size_1200x630.v_1593028995.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Facial recognition leads to first wrongful U.S. arrests, activists say"
     excerpt: "Robert Williams spent over a day in custody in January after face recognition software matched his driver’s license photo to surveillance video of someone shoplifting."
     publishedDateTime: 2020-06-24T12:09:00Z
@@ -106,38 +90,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_26/3392279/rtx5zan6_8801ea9903a80ccb7d234bcb75bfe8f1.JPG"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "False facial recognition match leads to a wrongful arrest in Detroit"
-    excerpt: "A Michigan man was arrested due to a false match in a facial recognition system, and the ACLU is filing a complaint in response."
-    publishedDateTime: 2020-06-24T14:40:00Z
-    webUrl: "https://www.engadget.com/facial-recognition-wrongful-arrest-michigan-141531393.html"
-    ampWebUrl: "https://www.engadget.com/amp/facial-recognition-wrongful-arrest-michigan-141531393.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-wrongful-arrest-michigan-141531393.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F456ef2e0-b61c-11ea-97ef-f3dc0132a313&client=amp-blogside-v2&signature=62d6d7980dde9b996786e4b6e12008a10d0a1403"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "U.S. activists fault face recognition in wrongful arrest for first time"
-    excerpt: "An incorrect facial recognition match led to the first known wrongful arrest in the United States based on the increasingly used technology, civil liberties activists alleged in a complaint to Detroit police on Wednesday."
-    publishedDateTime: 2020-06-24T11:13:00Z
-    webUrl: "https://www.reuters.com/article/us-michigan-facial-recognition-idUSKBN23V1KJ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23V1KJ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23V1KJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200624&t=2&i=1523322435&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5N19S"
-        width: 817
-        height: 545
         isCached: true
   - title: "Big Tech juggles ethical pledges on facial recognition with corporate interests"
     excerpt: "The careful wording of public pledges leaves plenty of room for oppressive uses of the technology, critics say."
@@ -198,26 +150,6 @@ related:
         width: 1024
         height: 640
         isCached: true
-  - title: "Black Man Wrongfully Arrested Due to 'Flawed' Face Recognition Tech: ACLU"
-    excerpt: "The American Civil Liberties Union has filed a formal complaint against Detroit police for wrongfully arresting a Black man earlier this year after he was allegedly targeted due to \"flawed and biased\" facial recognition technology."
-    publishedDateTime: 2020-06-24T14:54:00Z
-    webUrl: "https://www.newsweek.com/black-man-wrongfully-arrested-due-flawed-face-recognition-tech-aclu-1513086"
-    ampWebUrl: "https://www.newsweek.com/black-man-wrongfully-arrested-due-flawed-face-recognition-tech-aclu-1513086?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-man-wrongfully-arrested-due-flawed-face-recognition-tech-aclu-1513086?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 68
-  - title: "Police arrested wrong man based on facial recognition fail, ACLU says"
-    excerpt: "Wednesday on behalf of Robert Williams, a Michigan man who was arrested in January based on a false positive generated by facial recognition software. \"At every step, DPD's conduct has been improper,\" the complaint alleges."
-    publishedDateTime: 2020-06-24T17:57:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/06/police-arrested-wrong-man-based-on-facial-recognition-fail-aclu-says/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 64
   - title: "Amazon pauses police use of its facial recognition for year"
     excerpt: "Civil rights groups and Amazon's own employees have pushed the company to stop selling its technology to government agencies."
     publishedDateTime: 2020-06-24T07:23:00Z
@@ -234,96 +166,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Wrongful Arrest Based On Face Recognition System, Complaint Says"
-    excerpt: "A flawed facial recognition algorithm led to the wrongful arrest of an African-American man in Detroit, according to a complaint filed Wednesday in a case highlighting concerns over the technology which critics say reinforces racial bias."
-    publishedDateTime: 2020-06-24T15:53:00Z
-    webUrl: "https://www.ibtimes.com/wrongful-arrest-based-face-recognition-system-complaint-says-2999768"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/24/amid-rising-concerns-over-facial-recognition-technology-used.jpg"
-        width: 1024
-        height: 651
-        isCached: true
-  - title: "New York Civil Liberties Union files lawsuit over Lockport facial recognition system"
-    excerpt: "The lawsuit aims to have the New York State Education Department's approval of the facial recognition system revoked, and have Lockport deactivate the system."
-    publishedDateTime: 2020-06-23T03:46:00Z
-    webUrl: "https://www.wgrz.com/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
-    ampWebUrl: "https://www.wgrz.com/amp/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
-    cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
-    type: article
-    provider:
-      name: WGRZ
-      domain: wgrz.com
-    quality: 52
-    images:
-      - url: "https://media.wgrz.com/assets/WGRZ/images/471e47c5-7cde-4629-8b4a-2cdfd62b7e53/471e47c5-7cde-4629-8b4a-2cdfd62b7e53_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "I was wrongfully arrested because of facial recognition. Why are police allowed to use this technology?"
-    excerpt: "They sent that footage to the Michigan State Police, who then ran it through their facial-recognition system. That system incorrectly spit out a photograph of me pulled from an old driver’s license picture. Federal studies have shown that facial ..."
-    publishedDateTime: 2020-06-24T11:05:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 43
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PY5FPLTWPMI6TJ57ZCSDXBHOGE.jpg&w=1440"
-        width: 1440
-        height: 1010
-        isCached: true
-  - title: "Black man is first wrongful arrest in US caused by facial recognition tech, ACLU says | Charlotte Observer"
-    excerpt: "The American Civil Liberties Union filed a complaint to Detroit police on Wednesday, alleging the wrongful arrest of a Black man resulted from an incorrect facial recognition match. Robert Williams was arrested in January by the Detroit Police Department based on a facial recognition identification that incorrectly matched him with a person who stole five watches from a Shinola store,"
-    publishedDateTime: 2020-06-24T17:12:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article243761967.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article243761967.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article243761967.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 41
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557041001/ce5d9fea-4e51-4168-b818-24fa45901fae/d71cce00-769d-4922-9959-f62b4967f9a8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Facial Recognition Led Detroit PD To Arrest Innocent Black Man"
-    excerpt: "Robert Williams was arrested Jan. 9 because facial recognition technology fails to distinguish between people are color, the ACLU said."
-    publishedDateTime: 2020-06-24T13:13:00Z
-    webUrl: "https://patch.com/michigan/detroit/facial-recognition-led-detroit-pd-arrest-innocent-black-man"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 39
-    images:
-      - url: "https://patch.com/img/cdn20/shutterstock/24007010/20200624/084259/styles/patch_image/public/shutterstock-795306157-1___24084241384.jpg"
-        width: 565
-        height: 424
-        isCached: true
-  - title: "Man Says He Was Falsely Arrested After Facial Recognition Mistake"
-    excerpt: "The ACLU has filed a complaint against the Detroit Police Department for what the group says is the first documented instance in the U.S. of someone being falsely arrested based on AI."
-    publishedDateTime: 2020-06-24T09:06:00Z
-    webUrl: "https://www.npr.org/2020/06/24/882678392/man-says-he-was-falsely-arrested-after-facial-recognition-mistake"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 39
-    images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "Facial recognition software: Useful for crime fighting, but it needs rules."
     excerpt: "IBM’s decision last week to stop selling facial recognition technology to police agencies, and Amazon’s subsequent announcement of a one-year moratorium on such sales, have put a needed spotlight on this issue. Facial recognition technology holds ..."
     publishedDateTime: 2020-06-24T07:34:00Z
@@ -337,20 +179,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/stardem.com/content/tncms/custom/image/20d20780-4187-11e8-ab1c-2fc06d5d5b26.jpg"
         width: 600
         height: 314
-        isCached: true
-  - title: "'The Computer Got It Wrong': How Facial Recognition Led To A False Arrest In Michigan"
-    excerpt: "Robert Williams says his driver's license photo was incorrectly matched with a wanted suspect. He says he was arrested and detained. Though the case was dropped, Williams says its effect is lasting."
-    publishedDateTime: 2020-06-24T12:00:00Z
-    webUrl: "https://www.npr.org/2020/06/24/882683463/the-computer-got-it-wrong-how-facial-recognition-led-to-a-false-arrest-in-michig"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 32
-    images:
-      - url: "https://media.npr.org/assets/img/2020/06/24/screenshot-242-_wide-5faa93d3c27a65b83e3d27a76badf0a4ee696230.png?s=1400"
-        width: 606
-        height: 341
         isCached: true
   - title: "Shopper who brought the world's first court challenge over police use of facial recognition technology has taken his fight to the Court of Appeal"
     excerpt: "A man whose picture was taken while he was out Christmas shopping in Cardiff and was the first person in the UK to bring a court challenge over the police's use of facial recognition has taken his fight."

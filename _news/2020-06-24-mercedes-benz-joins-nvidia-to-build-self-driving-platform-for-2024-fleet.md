@@ -94,6 +94,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Mercedes-Benz partners with Nvidia for next-gen self-driving vehicles"
+    excerpt: "Software-defined computing architecture based on Nvidia Drive platform Mercedes-Benz has partnered up with Nvidia to create a new in-vehicle computing system and AI computing infrastructure, all based on a new software-defined architecture that will be rolling out to the fleet of next-generation"
+    publishedDateTime: 2020-06-24T23:15:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/51064-mercedes-benz-partners-with-nvidia-for-next-gen-self-driving-vehicles"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/d50cd04edb05beaa9a3f744aae2bcaac_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Mercedes partners with Nvidia on self-driving tech, plans upgradable system"
     excerpt: "Mercedes and Nvidia plan to launch a jointly developed computing system for self-driving cars starting in 2024."
     publishedDateTime: 2020-06-24T12:30:00Z

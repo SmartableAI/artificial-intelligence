@@ -46,62 +46,21 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Boston bans facial recognition due to concern about racial bias"
-    excerpt: "The Boston City Council voted unanimously to ban facial recognition use by city officials, making it one of the largest cities in the world to ban the tech."
-    publishedDateTime: 2020-06-24T20:25:00Z
-    webUrl: "https://venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/"
-    ampWebUrl: "https://venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/amp/"
+  - title: "AI experts call to block publication of study on neural network that claims to 'predict' criminality"
+    excerpt: "The study itself claims that an automated facial recognition software can be used as a 'predictive policing' tool for law enforcement that can identify criminals before they commit crimes."
+    publishedDateTime: 2020-06-24T23:03:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8457423/AI-experts-call-block-publication-study-neural-network-claims-predict-criminality.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8457423/amp/AI-experts-call-block-publication-study-neural-network-claims-predict-criminality.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8457423/amp/AI-experts-call-block-publication-study-neural-network-claims-predict-criminality.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/todd-kent-iRKv_XiN-M-unsplash.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "South Wales Police in court over facial recognition system"
-    excerpt: "Racial and gender biases have not fully been explored in the facial recognition technology used by South Wales Police, the Court of Appeal has been told. It is the second day of a legal challenge brought by civil rights group Liberty and Ed Bridges,"
-    publishedDateTime: 2020-06-24T12:36:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-53166044"
-    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53166044"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53166044"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/897B/production/_113059153_mediaitem113059150.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Hry police to launch facial recognition app"
-    excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."
-    publishedDateTime: 2020-06-21T18:30:00Z
-    webUrl: "https://www.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK.html"
-    ampWebUrl: "https://m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
-  - title: "NYCLU sues over Lockport schools' facial recognition system"
-    excerpt: "The controversial facial recognition security system in Lockport schools was illegally approved by the state Education Department, a lawsuit"
-    publishedDateTime: 2020-06-22T23:08:00Z
-    webUrl: "https://buffalonews.com/2020/06/22/draft-nyclu-sues-to-revoke-state-approval-of-lockport-schools-facial-recognition-system/"
-    type: article
-    provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg"
-        width: 2000
-        height: 1500
+      - url: "https://i.dailymail.co.uk/1s/2020/06/24/23/25231512-0-image-a-17_1593038165802.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "46PhbSVmc/1SxIvKy6rxPuKnlvKE7O9msGOHAnxaEpBwxWBH5OthEUPvm/LhEVNl+l5aWPrCSB4PRtCT3hwLz+KUSifeVVRzh4GNXL1XEDtY1VgN1JIlngrmHWfLSY2bZo0ewTXWMzKHyP+IgVwT0IZdmP5jMnDrA+695nLh3+x1UvFC2bLTDFwPJrVoKt8suYc2Krod0hQHe4MqoV6bkYC6Y2H4Mg2jVgHcZ1cjTsusiQkzn646Y/BS2wsOrbpQqxECVtjjzDISQklrlwQVQIGuyUF/6zWbCyhl5/J7WQjsbgUDUIkmZjJGxw21/syAm/PiSRJAUZt/VqE3k8rhy4a0YQ8WLo5RpKAnwmxpZ5OEEogi0cz/4ydvXqzKUYlp0zMKXW/6xXAUfbke6UKuuAghCz+hJlXbaqF1/bIeCEOEW+RH0RqKSpuV1BCxTcz3wg9bKpExbQw2etgP7XjXqNkg0VsgAUXVGi+2zHFY/+oon8GrXFJc1gp0s76PsHABQCaOLrLBZDZ/QBYPG15zcQ==;EcU6sRqt1r8yjo/PuIuwjw=="

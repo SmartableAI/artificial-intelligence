@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T18:38:00Z
 webUrl: "https://www.biometricupdate.com/202006/legislation-would-block-police-from-using-facial-recognition-with-body-cam-footage"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,56 @@ images:
     isCached: true
     title: "Legislation would block police from using facial recognition with body cam footage"
 
-secured: "YIIF830q6BjLo6D5BG+ijRHFWDQpXyNgCDvLUDiBvICKA+LmGLSfIk9B6GKoiwm6D93JVzpHq2dD9/J/UM07mVptxAuyg6++WBGV+Tq5yXJDldCiICIos2ILe9Cps7MtnnHLvgkVp5tjRg54XyTZLApTxFqAIIwz9IUnewgaNq/fvloXV870AOC3VCB86CayVwxN/vp1Mb2mBjQdoAOk8a1CaYmx2bS/vWD/oc0QjJnkLak5VDdafxZd5+G9OhnOYfWgZ9SvkVJ9td2wcf769twBtyr5wz4/qVbIqL2yuAJarmthGa3Hb84S/7xeuMxFA+oFz90i3W2gtOx+ehYsmg==;3IEQxyGgk/syrQKZC2hDDQ=="
+related:
+  - title: "Boston bans police from using facial recognition technology"
+    excerpt: "Boston has banned police from using facial recognition technology, becoming the second-largest U.S. community to do so."
+    publishedDateTime: 2020-06-24T22:10:00Z
+    webUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology"
+    ampWebUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 74
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/facial-recognition-iStock.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Facial-Recognition Tools Banned for Boston Police"
+    excerpt: "The Boston City Council voted unanimously Wednesday to prohibit police from using facial-recognition technology, becoming the largest city in the country to do so after San Francisco."
+    publishedDateTime: 2020-06-24T20:56:00Z
+    webUrl: "https://www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
+    ampWebUrl: "https://www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
+    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 44
+    images:
+      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2019/06/facial-recognition-graphic.png?fit=1240%2C1021&#038;ssl=1"
+        width: 1240
+        height: 1021
+        isCached: true
+  - title: "The City Of Boston Will Be Banning The Use Of Facial Recognition Based Surveillance"
+    excerpt: "While some parts of the world, facial recognition based surveillance is being adopted, there are some part of the world where the technology is"
+    publishedDateTime: 2020-06-24T23:48:00Z
+    webUrl: "https://www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/"
+    ampWebUrl: "https://www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/amp/"
+    type: article
+    provider:
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 38
+    images:
+      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2018/04/security-camera.jpg"
+        width: 900
+        height: 600
+        isCached: true
+
+secured: "0JcrUEiYzdObqK85kv/tW56L+ErPsj9ecMqSjbj7srjy0FsGSeMAnsHBaQCPZ04Tg6TUg8UTpQfZP7a/yt0rQ5iglH2Hs5oPz3fY6NkYQr8cls15OQ15FdRdAtT93FjpXy/j0iZN/Dv1IyLMW/3HTRqI1cgRzw5ahr5FuUxjAooLo1RBXrzBTS11DNAKIvd47yhpibUOEoGk8LExgBe7zJjEB0kODQ6rM+5JgvNM1kIA9u4ufYeKeGgT79L/SAeAdixB0BaEHaEVM+1Nma9dUqeIYK7l0bHMJReb2cC82B/v81EPMtn4tn9/syO2hbgSGlEyNivSCPCErmZiLSmrceVok27djlPXigzFPxO9mN1ctGRMsCXQ9obW/ylihkby0dE/YZoKY2ECnCwhmeyWaSYgrM9RTWO7cSD7jSlEuILfFEchfbyGFiDhBpuy+nlq6cjdVnxGBh2PGJQDygnKhRCkilYMJayAoOARYBEXDel8ks0noK5qs+kfF+TeWaoY0X/hOLvjzTjxgLgV4A1qdw==;YKuKsU/nmH5d1w6FY3T8og=="
 ---
 

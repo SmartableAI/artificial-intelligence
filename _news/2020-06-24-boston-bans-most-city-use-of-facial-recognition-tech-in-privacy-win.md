@@ -8,8 +8,8 @@ ampWebUrl: "https://mashable.com/article/boston-bans-facial-recognition-technolo
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/boston-bans-facial-recognition-technology.amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: Mashable
@@ -27,21 +27,37 @@ images:
     title: "Boston bans most city use of facial-recognition tech in privacy win"
 
 related:
-  - title: "Boston just became the latest city to ban use of facial recognition technology"
-    excerpt: "The move also bans Boston city officials from asking a third party to carry out facial recognition on their behalf."
-    publishedDateTime: 2020-06-24T17:51:00Z
-    webUrl: "https://www.businessinsider.com/boston-bans-government-use-of-facial-recognition-technology-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/boston-bans-government-use-of-facial-recognition-technology-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boston-bans-government-use-of-facial-recognition-technology-2020-6?amp"
+  - title: "UK’s facial recognition technology ‘breaches privacy rights’"
+    excerpt: "South Wales police accused of using system with ‘racial bias’ that breaks data protection law Notices displayed by the Metropolitan Police notify the public of the use of automated facial recognition cameras around Whitehall for the Remembrance Sunday ..."
+    publishedDateTime: 2020-06-23T16:28:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/5ef38a255af6cc5dd8746d84?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.guim.co.uk/img/media/8e6e98b9bdc1c7e71fbcc4fc0b52022b9c2b43d4/0_170_5138_3084/master/5138.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6e67cf17a849c14a6238c590ede46efc"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Police use of facial recognition 'disproportionate', landmark court case hears"
+    excerpt: "The use of automated facial recognition will “radically change” the way Britain is policed, the Court of Appeal has heard. The technology, which scans large groups of people i"
+    publishedDateTime: 2020-06-23T14:21:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/06/23/police-use-facial-recognition-disproportionate-landmark-court/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/06/23/police-use-facial-recognition-disproportionate-landmark-court/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/06/23/police-use-facial-recognition-disproportionate-landmark-court/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 55
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/12/27/197890686_PA_Ed-Bridges-legal-action_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RQJ6Ra64K3tAxfZq0dvIBJw.jpg"
+        width: 2880
+        height: 1800
         isCached: true
   - title: "Rose Bowl officials defend use of facial recognition program during the big game"
     excerpt: "Recent media reports painted a dystopian picture of the Rose Bowl’s facial recognition programs used Jan. 1, but stadium officials say they got it wrong."
@@ -59,33 +75,6 @@ related:
         width: 1024
         height: 703
         isCached: true
-  - title: "Boston Bans Municipal Use Of Facial Recognition"
-    excerpt: "Boston joins cities like San Francisco, Oakland, California, and Cambridge, Massachusetts to ban the controversial surveillance technology."
-    publishedDateTime: 2020-06-24T21:52:00Z
-    webUrl: "https://www.forbes.com/sites/siladityaray/2020/06/24/boston-bans-municipal-use-of-facial-recognition/"
-    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/06/24/boston-bans-municipal-use-of-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/06/24/boston-bans-municipal-use-of-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-  - title: "Facial-Recognition Tools Banned for Boston Police"
-    excerpt: "The Boston City Council voted unanimously Wednesday to prohibit police from using facial-recognition technology, becoming the largest city in the country to do so after San Francisco."
-    publishedDateTime: 2020-06-24T20:56:00Z
-    webUrl: "https://www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
-    ampWebUrl: "https://www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 44
-    images:
-      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2019/06/facial-recognition-graphic.png?fit=1240%2C1021&#038;ssl=1"
-        width: 1240
-        height: 1021
-        isCached: true
   - title: "Boston becomes the biggest East Coast city to ban face recognition"
     excerpt: "The Boston Police Department already doesn’t use the technology, and it’s now forbidden from getting facial data from third parties."
     publishedDateTime: 2020-06-24T20:24:00Z
@@ -100,20 +89,39 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Wrongfully Arrested Because of Flawed Face Recognition Technology"
-    excerpt: "Robert Williams was arrested and hauled away by the police in broad daylight in front of his home, his wife, and two little daughters. He was locked up for nearly"
-    publishedDateTime: 2020-06-24T13:46:00Z
-    webUrl: "https://www.wisconsingazette.com/multimedia/wrongfully-arrested-because-of-flawed-face-recognition-technology/video_fbc3ca15-039c-5a4a-8b54-4b69b40fee39.html"
+  - title: "Racist practice of phrenology rears its lumpy head in facial recognition tech"
+    excerpt: "We'd like to think judging people's worth based on the shape of their skull is a practice that's well behind us, but echoes of it can be found in new technologies"
+    publishedDateTime: 2020-06-20T22:15:00Z
+    webUrl: "https://www.timeslive.co.za/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
     type: article
     provider:
-      name: Wisconsin Gazette
-      domain: wisconsingazette.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wisconsingazette.com/content/tncms/assets/v3/editorial/f/bc/fbc3ca15-039c-5a4a-8b54-4b69b40fee39/5ef35944c800c.preview.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 36
+  - title: "Racist practice of phrenology rears its lumpy head in facial recognition tech"
+    excerpt: "We'd like to think judging people's worth based on the shape of their skull is a practice that's well behind us, but echoes of it can be found in new technologies"
+    publishedDateTime: 2020-06-22T06:27:00Z
+    webUrl: "https://timeslive.co.za/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 36
+  - title: "Boston City Council bans use of facial recognition technology"
+    excerpt: "Lawmakers in Boston have outlawed the use of facial recognition software by city officials. In a unanimous vote on Wednesday, Boston's City Council passed the ordinance, which will make it illegal for officials in the Massachusetts capital to \"obtain,"
+    publishedDateTime: 2020-06-24T23:01:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 24
 
 secured: "qdbc6dnGnTK2aIZ92CNb02a7rKbquxHPfeQr5GuR/MXfZCxshXcR0xjS8kbZViaxz3S8dnjjkDTdH/ew2pS37bMT7OFtSHA5a3TBJu9NUjhquy6woMckCMVrHxvreKr0SlGSS+gCUjyhAjNdY88k/Fk+nAgzgXy8mGKT3ScsH5vsQrxD76Qrsp2ANl4utiIzVn+l6uDa7APdr3AREDxrBMo8C6t4IIyico1KZHxcr6GQpNurrPaEj+c/Ab3VbAQ8rYvOUqhI7iolMcDRLIfi2BqPvsA6k+qegEETX8gCwmG3B7b8Ack8gbsXHiIWfnNeXOy2coheDS6Qh8uL3gGGsAhdox1VTZcXxatbjw2dTA5pXD5whJJpHjg12EDk482qimzjAxaWqYBS6WVRdC13zHLlxQ5lXkbokL2eow2pzAkEPPuMczH7QzVcDeKJL0TwDqQo9UHIRIsGyG1mlvKi8pZaAgxHCfE6h9OrM/klW1Q32cxgk65U9h+iRJJOP3sQ2V83UuLDWIChENcRejRuRQ==;FpDtNWJX01efmZc595Av6w=="
 ---

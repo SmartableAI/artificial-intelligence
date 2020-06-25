@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-53165286"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53165286"
 type: article
 quality: 104
-heat: 155
+heat: 125
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     title: "Facial recognition to 'predict criminals' sparks row over AI bias"
 
 related:
-  - title: "Boston bans facial recognition due to concern about racial bias"
-    excerpt: "The Boston City Council voted unanimously to ban facial recognition use by city officials, making it one of the largest cities in the world to ban the tech."
-    publishedDateTime: 2020-06-24T20:25:00Z
-    webUrl: "https://venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/"
-    ampWebUrl: "https://venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/todd-kent-iRKv_XiN-M-unsplash.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "South Wales Police in court over facial recognition system"
-    excerpt: "Racial and gender biases have not fully been explored in the facial recognition technology used by South Wales Police, the Court of Appeal has been told. It is the second day of a legal challenge brought by civil rights group Liberty and Ed Bridges,"
-    publishedDateTime: 2020-06-24T12:36:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-53166044"
-    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53166044"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53166044"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/897B/production/_113059153_mediaitem113059150.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI experts say research into algorithms that claim to predict criminality must end"
     excerpt: "A coalition of AI researchers, data scientists, and sociologists has called on the academic world to stop publishing studies that claim to predict an individual’s criminality using algorithms trained on data like facial scans and criminal statistics."
     publishedDateTime: 2020-06-24T10:50:00Z
@@ -79,30 +47,21 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Hry police to launch facial recognition app"
-    excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."
-    publishedDateTime: 2020-06-21T18:30:00Z
-    webUrl: "https://www.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK.html"
-    ampWebUrl: "https://m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
+  - title: "AI experts call to block publication of study on neural network that claims to 'predict' criminality"
+    excerpt: "The study itself claims that an automated facial recognition software can be used as a 'predictive policing' tool for law enforcement that can identify criminals before they commit crimes."
+    publishedDateTime: 2020-06-24T23:03:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8457423/AI-experts-call-block-publication-study-neural-network-claims-predict-criminality.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8457423/amp/AI-experts-call-block-publication-study-neural-network-claims-predict-criminality.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8457423/amp/AI-experts-call-block-publication-study-neural-network-claims-predict-criminality.html"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
-  - title: "NYCLU sues over Lockport schools' facial recognition system"
-    excerpt: "The controversial facial recognition security system in Lockport schools was illegally approved by the state Education Department, a lawsuit"
-    publishedDateTime: 2020-06-22T23:08:00Z
-    webUrl: "https://buffalonews.com/2020/06/22/draft-nyclu-sues-to-revoke-state-approval-of-lockport-schools-facial-recognition-system/"
-    type: article
-    provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 39
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 59
     images:
-      - url: "https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg"
-        width: 2000
-        height: 1500
+      - url: "https://i.dailymail.co.uk/1s/2020/06/24/23/25231512-0-image-a-17_1593038165802.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "sJXGbN2PTB3+HbwY8cHZAoGlCIVPHhXxfWKYn7hpCaDpMKZ6+YOAlrpa+a7HoRwcQqBH5KZ7lRs/RNe7XfG14HVF77SE4j1KcijNDUJ3C3mqa0rqJ0wTUPdStJ0w1cS59+7Ko/6WKrnT/b10OHrATzsYPsphGhN19QSKobubjM4oZZHFGg5KvN+aAWyhm2U4gHQ+TLVENC5FiConLblNKqvVdJv44InlX5iYnLiwVWJBFwqP0P03rK9QT1CP9Ldv+UOwNztxQGQYBSD4Bt3fcIadyM26UDzkJPW/qTMlnVPeDWYtYiB3pfxLgKmRhkM5TCuD3CdCyk86AaNQzOXSQAInWr0frNns5PfIZQs/dN+3e96bBsr/ZaNQgUew0An2vQE+9CZyE5Mq3oQ/E0AqEwBc0WCMx0243IolP/jVFISuLpQ1tW7o0R9Ubc2pMHbNl65A9gKJB+Z7iGW9dySIc+ETElsKRReJJm/cB4amjyrP43DpsbeCddlQhtHXnNBq;Y0+ttpCHe8oF9Vbx7dhY7w=="

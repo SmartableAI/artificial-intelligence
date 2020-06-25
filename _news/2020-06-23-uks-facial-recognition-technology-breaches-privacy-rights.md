@@ -31,22 +31,101 @@ images:
     title: "UK’s facial recognition technology ‘breaches privacy rights’"
 
 related:
-  - title: "Facial recognition lawsuit targets NY schools over student privacy"
-    excerpt: "The New York Civil Liberties Union is suing over a $3 million facial recognition system installed at the Lockport City School District."
-    publishedDateTime: 2020-06-23T20:58:00Z
-    webUrl: "https://www.cnet.com/news/facial-recognition-lawsuit-targets-ny-schools-over-student-privacy/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-lawsuit-targets-ny-schools-over-student-privacy/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-lawsuit-targets-ny-schools-over-student-privacy/"
+  - title: "Boston bans most city use of facial-recognition tech in privacy win"
+    excerpt: "Boston joins cities like San Francisco in banning the official use of facial-recognition tech after the unanimous vote."
+    publishedDateTime: 2020-06-24T19:27:00Z
+    webUrl: "https://mashable.com/article/boston-bans-facial-recognition-technology/"
+    ampWebUrl: "https://mashable.com/article/boston-bans-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/boston-bans-facial-recognition-technology.amp"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
+      name: Mashable
+      domain: mashable.com
+    quality: 74
     images:
-      - url: "https://cnet3.cbsistatic.com/img/e0kL3lKVf7lv_j8-aZUZt798TRE=/756x567/2020/06/23/bd9975d1-9066-4f4d-8556-e4458dfb957c/gettyimages-1239553143.jpg"
-        width: 756
-        height: 567
+      - url: "https://mondrian.mashable.com/2020%252F06%252F24%252Fe6%252F48e216407ae64ae58a33a0d81cb9c1c5.28a23.jpg%252F1200x630.jpg?signature=9ioxsUaZTvrqoZR7r_dKNqdQDRU="
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Police use of facial recognition 'disproportionate', landmark court case hears"
+    excerpt: "The use of automated facial recognition will “radically change” the way Britain is policed, the Court of Appeal has heard. The technology, which scans large groups of people i"
+    publishedDateTime: 2020-06-23T14:21:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/06/23/police-use-facial-recognition-disproportionate-landmark-court/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/06/23/police-use-facial-recognition-disproportionate-landmark-court/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/06/23/police-use-facial-recognition-disproportionate-landmark-court/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 55
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/12/27/197890686_PA_Ed-Bridges-legal-action_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RQJ6Ra64K3tAxfZq0dvIBJw.jpg"
+        width: 2880
+        height: 1800
+        isCached: true
+  - title: "Rose Bowl officials defend use of facial recognition program during the big game"
+    excerpt: "Recent media reports painted a dystopian picture of the Rose Bowl’s facial recognition programs used Jan. 1, but stadium officials say they got it wrong."
+    publishedDateTime: 2020-06-23T20:24:00Z
+    webUrl: "https://www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/"
+    ampWebUrl: "https://www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 54
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2020/06/Gallery43-1.jpg?w=1024&h=703"
+        width: 1024
+        height: 703
+        isCached: true
+  - title: "Boston becomes the biggest East Coast city to ban face recognition"
+    excerpt: "The Boston Police Department already doesn’t use the technology, and it’s now forbidden from getting facial data from third parties."
+    publishedDateTime: 2020-06-24T20:24:00Z
+    webUrl: "https://www.fastcompany.com/90520805/boston-becomes-the-biggest-east-coast-city-to-ban-face-recognition"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-banned-in-boston-city-disallows-public-use-of-face-recognition.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Racist practice of phrenology rears its lumpy head in facial recognition tech"
+    excerpt: "We'd like to think judging people's worth based on the shape of their skull is a practice that's well behind us, but echoes of it can be found in new technologies"
+    publishedDateTime: 2020-06-20T22:15:00Z
+    webUrl: "https://www.timeslive.co.za/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 36
+  - title: "Racist practice of phrenology rears its lumpy head in facial recognition tech"
+    excerpt: "We'd like to think judging people's worth based on the shape of their skull is a practice that's well behind us, but echoes of it can be found in new technologies"
+    publishedDateTime: 2020-06-22T06:27:00Z
+    webUrl: "https://timeslive.co.za/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 36
+  - title: "Boston City Council bans use of facial recognition technology"
+    excerpt: "Lawmakers in Boston have outlawed the use of facial recognition software by city officials. In a unanimous vote on Wednesday, Boston's City Council passed the ordinance, which will make it illegal for officials in the Massachusetts capital to \"obtain,"
+    publishedDateTime: 2020-06-24T23:01:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 24
 
 secured: "Xi/lOC2eDEBN1+QBBGrDfhlEB9vQlAY8069pLhaja1LqyXpzJrje2Yj4KEuxvRBvyAtm0NnJZ0i3bVzy2x6PP5EEir6SgxigJ5J7APYU0HyiuRHqHkcVd0zgQql5WNqoq7tKSCMYlZq6qq2jON15TuZ1caioFjSmimwXsJYHOsc52XwW74zrYVdBWid72chPRuqDw6JPobANwivrfxiyjoM3wK/J3f1uWjbCoCptPorF8v/ENyt8h1uv2cqXE1emF8Iai0hGWto2vHRI1zwArOgWJAH/NtXXilKu5EMUIQnxslEmeudIpp3mCeyh1ywWSML7zQaWE/RnNlSE6Dz2cplyQHO+BlBjlkXInFOk5gACaJ2qfiuNrYbsBYFIlQK96c/WJgMQumZYz0PcG6T4kTXHPSUamgjnW1YPCrHGUGzdFu/IhM9A/Ad50ZFx6JwK5z0eJM1n3Fkk0uXkSt4F3ECUdHQlmoLUU/FdLCoDZ0aTUvRK6UX/fafOjtQJbOMOSXYdkURSQiHcgCFfi1ikvw==;5opl3JVfJ4073qr4uwSh2Q=="
 ---

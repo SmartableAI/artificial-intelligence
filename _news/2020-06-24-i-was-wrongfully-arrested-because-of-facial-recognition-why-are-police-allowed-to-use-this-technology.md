@@ -27,53 +27,101 @@ images:
     title: "I was wrongfully arrested because of facial recognition. Why are police allowed to use this technology?"
 
 related:
-  - title: "ACLU files first formal complaint over wrongful facial recognition arrest"
-    excerpt: "The American Civil Liberties Union (ACLU) has filed a formal complaint against Detroit police over what it says is the first known example of a wrongful arrest caused by faulty facial recognition technology."
-    publishedDateTime: 2020-06-24T16:34:00Z
-    webUrl: "https://www.theverge.com/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence"
+  - title: "A Flawed Facial Recognition System Sent This Man to Jail"
+    excerpt: "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used."
+    publishedDateTime: 2020-06-24T23:30:00Z
+    webUrl: "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/"
+    ampWebUrl: "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 103
+      name: Wired
+      domain: wired.com
+    quality: 104
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/pNPPy70RTA3CkRzF3BnMEwoBjEc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66976095/acastro_180730_1777_facial_recognition_0003.0.jpg"
-        width: 1400
-        height: 933
+      - url: "https://media.wired.com/photos/5ef3e17c6cd63b0e8be2ce66/master/pass/business_facial-recognition_FXJBF0.jpg"
+        width: 2400
+        height: 1600
         isCached: true
-  - title: "Why Are Technology Companies Quitting Facial Recognition?"
-    excerpt: "These companies are reacting wisely to the potential for bias and the potential abuse of this technology in law enforcement. Let's examine three main issues related to the use of facial recognition technology in law enforcement: bias,"
-    publishedDateTime: 2020-06-23T10:05:00Z
-    webUrl: "https://www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/"
-    ampWebUrl: "https://www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/amp/"
+  - title: "Boston Bans Municipal Use Of Facial Recognition"
+    excerpt: "Boston joins cities like San Francisco, Oakland, California, and Cambridge, Massachusetts to ban the controversial surveillance technology."
+    publishedDateTime: 2020-06-24T21:52:00Z
+    webUrl: "https://www.forbes.com/sites/siladityaray/2020/06/24/boston-bans-municipal-use-of-facial-recognition/"
+    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/06/24/boston-bans-municipal-use-of-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/06/24/boston-bans-municipal-use-of-facial-recognition/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 91
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef0efa98548c80006be6f69%2F0x0.jpg%3FcropX1%3D262%26cropX2%3D633%26cropY1%3D0%26cropY2%3D371"
-        width: 372
-        height: 371
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef3c911edefda00066e53cc%2F0x0.jpg"
+        width: 1200
+        height: 754
         isCached: true
-  - title: "Boston Bans Police Forces From Using Facial Recognition"
-    excerpt: "It’s official, as of today, Boston’s become the second-largest US community to ban police use of facial recognition technology, thanks to a unanimous vote by more than a dozen city council people. The move follows similar bans by the neighboring cities Brookline,"
-    publishedDateTime: 2020-06-24T19:02:00Z
-    webUrl: "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524"
-    ampWebUrl: "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp"
+  - title: "Facial recognition lawsuit targets NY schools over student privacy"
+    excerpt: "The New York Civil Liberties Union is suing over a $3 million facial recognition system installed at the Lockport City School District."
+    publishedDateTime: 2020-06-23T20:58:00Z
+    webUrl: "https://www.cnet.com/news/facial-recognition-lawsuit-targets-ny-schools-over-student-privacy/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-lawsuit-targets-ny-schools-over-student-privacy/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-lawsuit-targets-ny-schools-over-student-privacy/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
+      name: CNET
+      domain: cnet.com
     quality: 89
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/vedoqaujncze30yfosyq.jpg"
-        width: 800
-        height: 451
+      - url: "https://cnet3.cbsistatic.com/img/e0kL3lKVf7lv_j8-aZUZt798TRE=/756x567/2020/06/23/bd9975d1-9066-4f4d-8556-e4458dfb957c/gettyimages-1239553143.jpg"
+        width: 756
+        height: 567
+        isCached: true
+  - title: "South Wales Police's facial recognition tech 'not legal'"
+    excerpt: "He said it is the potential use of the facial recognition powers, not actual use to date, which was the issue. \"It's not enough that it has been done in a proportionate manner so far,\" Mr Squires said."
+    publishedDateTime: 2020-06-23T14:05:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-53147221"
+    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53147221"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53147221"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6C70/production/_107006772_facialedbridges.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Boston bans facial recognition due to concern about racial bias"
+    excerpt: "The Boston City Council voted unanimously to ban facial recognition use by city officials, making it one of the largest cities in the world to ban the tech."
+    publishedDateTime: 2020-06-24T20:25:00Z
+    webUrl: "https://venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/"
+    ampWebUrl: "https://venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/todd-kent-iRKv_XiN-M-unsplash.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Boston bans police and city use of facial recognition software"
+    excerpt: "Following the wrongful arrest of Robert Williams, Boston has become the second-largest city in the US to ban the use of facial recognition software."
+    publishedDateTime: 2020-06-24T20:42:00Z
+    webUrl: "https://www.engadget.com/boston-bans-facial-recognition-193303141.html"
+    ampWebUrl: "https://www.engadget.com/amp/boston-bans-facial-recognition-193303141.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/boston-bans-facial-recognition-193303141.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2Ff2e045f0-b64e-11ea-abf7-4e8e44ceb97c&client=amp-blogside-v2&signature=774879a54502119225b3a463abaf2b721e0dbf44"
+        width: 600
+        height: 350
         isCached: true
   - title: "Facial Recognition Leads Detroit Police to Arrest the Wrong Man"
     excerpt: "The ACLU demands that Detroit police stop using facial recognition as an investigation tool, citing the January arrest of Robert Williams, a black man wrongly accused of robbery thanks to flawed facial-recognition data."
@@ -91,22 +139,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Facial recognition leads to first wrongful U.S. arrests, activists say"
-    excerpt: "Robert Williams spent over a day in custody in January after face recognition software matched his driver’s license photo to surveillance video of someone shoplifting."
-    publishedDateTime: 2020-06-24T12:09:00Z
-    webUrl: "https://www.nbcnews.com/tech/security/facial-recognition-leads-first-wrongful-u-s-arrests-activists-say-n1231971"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1231971"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231971"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_26/3392279/rtx5zan6_8801ea9903a80ccb7d234bcb75bfe8f1.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "False facial recognition match leads to a wrongful arrest in Detroit"
     excerpt: "A Michigan man was arrested due to a false match in a facial recognition system, and the ACLU is filing a complaint in response."
     publishedDateTime: 2020-06-24T14:40:00Z
@@ -122,6 +154,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F456ef2e0-b61c-11ea-97ef-f3dc0132a313&client=amp-blogside-v2&signature=62d6d7980dde9b996786e4b6e12008a10d0a1403"
         width: 600
         height: 350
+        isCached: true
+  - title: "South Wales Police in court over facial recognition system"
+    excerpt: "Racial and gender biases have not fully been explored in the facial recognition technology used by South Wales Police, the Court of Appeal has been told. It is the second day of a legal challenge brought by civil rights group Liberty and Ed Bridges,"
+    publishedDateTime: 2020-06-24T12:36:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-53166044"
+    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53166044"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53166044"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/897B/production/_113059153_mediaitem113059150.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "U.S. activists fault face recognition in wrongful arrest for first time"
     excerpt: "An incorrect facial recognition match led to the first known wrongful arrest in the United States based on the increasingly used technology, civil liberties activists alleged in a complaint to Detroit police on Wednesday."
@@ -139,64 +187,37 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Big Tech juggles ethical pledges on facial recognition with corporate interests"
-    excerpt: "The careful wording of public pledges leaves plenty of room for oppressive uses of the technology, critics say."
-    publishedDateTime: 2020-06-22T20:13:00Z
-    webUrl: "https://www.nbcnews.com/tech/security/big-tech-juggles-ethical-pledges-facial-recognition-corporate-interests-n1231778"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1231778"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231778"
+  - title: "Boston Just Banned Its Government From Using Facial Recognition Technology"
+    excerpt: "Citing “racial bias in facial surveillance,” the Boston City Council voted unanimously to stop the use of facial recognition by public agencies."
+    publishedDateTime: 2020-06-24T18:03:00Z
+    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/boston-vote-ban-facial-recognition"
+    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/boston-vote-ban-facial-recognition"
+    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/boston-vote-ban-facial-recognition"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: BuzzFeed News
+      domain: buzzfeednews.com
     quality: 87
     images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2019_23/2857426/190514-facial-recognition-ces-ew-624p_9901ee6159e029067bc24200074b6e00.fit-560w.jpg"
-        width: 560
-        height: 373
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-07/10/14/campaign_images/722e4d2ed160/privacy-and-civil-rights-groups-ask-the-us-govern-2-344-1562770255-0_dblbig.jpg"
+        width: 625
+        height: 415
         isCached: true
-  - title: "The Wrongful Arrest Of A Black Man Provides More Proof Facial Recognition Is Racist"
-    excerpt: "ACLU says it is filing a complaint after the failure of a Michigan State Police face recognition tool leads to a Black man being arrested in front of his family."
-    publishedDateTime: 2020-06-24T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/24/a-wrongful-arrest-of-a-black-man-provides-more-proof-facial-recognition-is-racist/"
-    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/24/a-wrongful-arrest-of-a-black-man-provides-more-proof-facial-recognition-is-racist/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/06/24/a-wrongful-arrest-of-a-black-man-provides-more-proof-facial-recognition-is-racist/amp/"
+  - title: "Boston just became the latest city to ban use of facial recognition technology"
+    excerpt: "The move also bans Boston city officials from asking a third party to carry out facial recognition on their behalf."
+    publishedDateTime: 2020-06-24T17:51:00Z
+    webUrl: "https://www.businessinsider.com/boston-bans-government-use-of-facial-recognition-technology-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/boston-bans-government-use-of-facial-recognition-technology-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boston-bans-government-use-of-facial-recognition-technology-2020-6?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef351d144713a0007ed4973%2F0x0.jpg"
+      - url: "https://i.insider.com/5ef38a255af6cc5dd8746d84?width=1200&format=jpeg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "ACLU files complaint against Detroit police for false facial recognition arrest"
-    excerpt: "The ACLU wants the Detroit Police to stop using facial recognition technology after a Black man was wrongfully arrested with the technology earlier this year."
-    publishedDateTime: 2020-06-24T18:23:00Z
-    webUrl: "https://www.digitaltrends.com/news/aclu-files-complaint-against-detroit-police-for-false-facial-recognition-test/"
-    ampWebUrl: "https://www.digitaltrends.com/news/aclu-files-complaint-against-detroit-police-for-false-facial-recognition-test/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/aclu-files-complaint-against-detroit-police-for-false-facial-recognition-test/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 80
-  - title: "New HomeKit features in iOS 14: Facial recognition and more explained"
-    excerpt: "A boost for home security cameras with facial recognition and activity zones turns HomeKit into a more powerful tool, but there's more, too."
-    publishedDateTime: 2020-06-23T12:48:00Z
-    webUrl: "https://www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236"
-    ampWebUrl: "https://www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236/amp"
-    cdnAmpWebUrl: "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236/amp"
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 74
-    images:
-      - url: "https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/06/Screen-Shot-2020-06-22-at-19.02.10-1024x640.png"
-        width: 1024
-        height: 640
+        height: 600
         isCached: true
   - title: "Black Man Wrongfully Arrested Due to 'Flawed' Face Recognition Tech: ACLU"
     excerpt: "The American Civil Liberties Union has filed a formal complaint against Detroit police for wrongfully arresting a Black man earlier this year after he was allegedly targeted due to \"flawed and biased\" facial recognition technology."
@@ -218,37 +239,53 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 64
-  - title: "Liberties Union Sues New York Schools over Facial Recognition"
-    excerpt: "The New York Civil Liberties Union, which has consistently opposed the system since it was first proposed, sued the Education Department in State Supreme Court in an effort to overturn the approval for the system."
-    publishedDateTime: 2020-06-23T16:03:00Z
-    webUrl: "https://www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html?AMP"
+  - title: "Boston City Council Set To Vote On Facial Recognition Technology Ban"
+    excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."
+    publishedDateTime: 2020-06-23T23:39:00Z
+    webUrl: "https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
+    ampWebUrl: "https://amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: WBUR
+      domain: wbur.org
+    quality: 61
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
-        width: 927
-        height: 626
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2020/06/GettyImages-1199025045.jpg"
+        width: 3000
+        height: 2000
         isCached: true
-  - title: "Amazon pauses police use of its facial recognition for year"
-    excerpt: "Civil rights groups and Amazon's own employees have pushed the company to stop selling its technology to government agencies."
-    publishedDateTime: 2020-06-24T07:23:00Z
-    webUrl: "https://www.kare11.com/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
-    ampWebUrl: "https://www.kare11.com/amp/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
-    cdnAmpWebUrl: "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
+  - title: "New facial recognition device that takes temperature comes to Orangeburg"
+    excerpt: "Orangeburg County says it is all about safety, and they are taking no chances in keeping their residents and employees safe during the pandemic. The county has received a new facial recognition and human temperature scanning device."
+    publishedDateTime: 2020-06-20T07:25:00Z
+    webUrl: "https://www.wltx.com/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
+    ampWebUrl: "https://www.wltx.com/amp/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
+    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/local/street-squad/new-facial-recognition-device-that-provides-human-temperature-comes-to-orangeburg/101-b8ae3c0b-a1a8-493c-830f-1f5b33418c9a"
     type: article
     provider:
-      name: KARE 11
-      domain: kare11.com
-    quality: 59
+      name: WLTX19
+      domain: wltx.com
+    quality: 58
     images:
-      - url: "https://media.kare11.com/assets/CCT/images/626789424/626789424_750x422.jpg"
+      - url: "https://media.wltx.com/assets/WLTX/images/8aefd0c1-22ee-471e-bae7-44aa717f47a7/8aefd0c1-22ee-471e-bae7-44aa717f47a7_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Opinion | The futile withdrawal of facial recognition software by Big Tech"
+    excerpt: "This technology is bound to proliferate regardless of flaws as it’s being pursued by such regimes as China’s for surveillance"
+    publishedDateTime: 2020-06-22T16:21:00Z
+    webUrl: "https://www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech-11592841353953.html"
+    ampWebUrl: "https://www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech/amp-11592841353953.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech/amp-11592841353953.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2020/06/22/600x338/oped4_1592841609461_1592841617392.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Wrongful Arrest Based On Face Recognition System, Complaint Says"
     excerpt: "A flawed facial recognition algorithm led to the wrongful arrest of an African-American man in Detroit, according to a complaint filed Wednesday in a case highlighting concerns over the technology which critics say reinforces racial bias."
@@ -280,6 +317,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "FlowCentric Technologies, Eldir roll-out facial recognition, thermal detection solution"
+    excerpt: "The company has developed EGAN, a facial recognition and thermal detection solution, in conjunction with Eldir."
+    publishedDateTime: 2020-06-24T07:11:00Z
+    webUrl: "https://www.itweb.co.za/content/nWJadMbek9W7bjO1"
+    ampWebUrl: "https://amp.itweb.co.za/content/nWJadMbek9W7bjO1"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/nWJadMbek9W7bjO1"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 51
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2020/06/FlowCentric.jpg"
+        width: 816
+        height: 459
+        isCached: true
   - title: "Black man is first wrongful arrest in US caused by facial recognition tech, ACLU says | Charlotte Observer"
     excerpt: "The American Civil Liberties Union filed a complaint to Detroit police on Wednesday, alleging the wrongful arrest of a Black man resulted from an incorrect facial recognition match. Robert Williams was arrested in January by the Detroit Police Department based on a facial recognition identification that incorrectly matched him with a person who stole five watches from a Shinola store,"
     publishedDateTime: 2020-06-24T17:12:00Z
@@ -295,6 +348,31 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557041001/ce5d9fea-4e51-4168-b818-24fa45901fae/d71cce00-769d-4922-9959-f62b4967f9a8/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Hry police to launch facial recognition app"
+    excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."
+    publishedDateTime: 2020-06-21T18:30:00Z
+    webUrl: "https://www.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK.html"
+    ampWebUrl: "https://m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 39
+  - title: "NYCLU sues over Lockport schools' facial recognition system"
+    excerpt: "The controversial facial recognition security system in Lockport schools was illegally approved by the state Education Department, a lawsuit"
+    publishedDateTime: 2020-06-22T23:08:00Z
+    webUrl: "https://buffalonews.com/2020/06/22/draft-nyclu-sues-to-revoke-state-approval-of-lockport-schools-facial-recognition-system/"
+    type: article
+    provider:
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 39
+    images:
+      - url: "https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg"
+        width: 2000
+        height: 1500
         isCached: true
   - title: "Facial Recognition Led Detroit PD To Arrest Innocent Black Man"
     excerpt: "Robert Williams was arrested Jan. 9 because facial recognition technology fails to distinguish between people are color, the ACLU said."
@@ -324,19 +402,47 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Facial recognition software: Useful for crime fighting, but it needs rules."
-    excerpt: "IBM’s decision last week to stop selling facial recognition technology to police agencies, and Amazon’s subsequent announcement of a one-year moratorium on such sales, have put a needed spotlight on this issue. Facial recognition technology holds ..."
-    publishedDateTime: 2020-06-24T07:34:00Z
-    webUrl: "https://www.stardem.com/opinion/editorials/facial-recognition-software-useful-for-crime-fighting-but-it-needs-rules/article_4666143f-9b9b-537f-81b5-9ea035bf5b47.html"
+  - title: "Wrongfully Arrested Because of Flawed Face Recognition Technology"
+    excerpt: "Robert Williams was arrested and hauled away by the police in broad daylight in front of his home, his wife, and two little daughters. He was locked up for nearly"
+    publishedDateTime: 2020-06-24T13:46:00Z
+    webUrl: "https://www.wisconsingazette.com/multimedia/wrongfully-arrested-because-of-flawed-face-recognition-technology/video_fbc3ca15-039c-5a4a-8b54-4b69b40fee39.html"
     type: article
     provider:
-      name: Star Democrat
-      domain: stardem.com
-    quality: 37
+      name: Wisconsin Gazette
+      domain: wisconsingazette.com
+    quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/stardem.com/content/tncms/custom/image/20d20780-4187-11e8-ab1c-2fc06d5d5b26.jpg"
-        width: 600
-        height: 314
+      - url: "https://bloximages.newyork1.vip.townnews.com/wisconsingazette.com/content/tncms/assets/v3/editorial/f/bc/fbc3ca15-039c-5a4a-8b54-4b69b40fee39/5ef35944c800c.preview.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Tech Companies Are Limiting Police Use of Facial Recognition. Here's Why"
+    excerpt: "IBM said it was getting out of the facial recognition business. Then Amazon and Microsoft announced prohibitions on law enforcement using their facial recognition tech. There's growing evidence these algorithmic systems are riddled with gender and racial bias."
+    publishedDateTime: 2020-06-23T08:00:00Z
+    webUrl: "https://www.npr.org/2020/06/22/881845711/tech-companies-are-limiting-police-use-of-facial-recognition-heres-why"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 38
+    images:
+      - url: "https://media.npr.org/assets/img/2020/06/22/gettyimages-1052877582_wide-aa51331470b894e1f8d08d5210c495c064166205.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition Technology By The City"
+    excerpt: "The city council also voted on Wednesday to prohibit any city official from obtaining such surveillance through third parties. Sponsors said the technology is inaccurate for people of color."
+    publishedDateTime: 2020-06-24T23:05:00Z
+    webUrl: "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/24/883107627/boston-lawmakers-vote-to-ban-use-of-facial-recognition-technology-by-the-city"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 36
+    images:
+      - url: "https://media.npr.org/assets/img/2020/06/24/rts35ary_wide-0a3b97cb8bc95daa0b59356f6ad16f6de0f5ea76.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "'The Computer Got It Wrong': How Facial Recognition Led To A False Arrest In Michigan"
     excerpt: "Robert Williams says his driver's license photo was incorrectly matched with a wanted suspect. He says he was arrested and detained. Though the case was dropped, Williams says its effect is lasting."
@@ -351,22 +457,6 @@ related:
       - url: "https://media.npr.org/assets/img/2020/06/24/screenshot-242-_wide-5faa93d3c27a65b83e3d27a76badf0a4ee696230.png?s=1400"
         width: 606
         height: 341
-        isCached: true
-  - title: "Shopper who brought the world's first court challenge over police use of facial recognition technology has taken his fight to the Court of Appeal"
-    excerpt: "A man whose picture was taken while he was out Christmas shopping in Cardiff and was the first person in the UK to bring a court challenge over the police's use of facial recognition has taken his fight."
-    publishedDateTime: 2020-06-23T11:03:00Z
-    webUrl: "https://www.walesonline.co.uk/news/wales-news/ed-bridges-facial-recognition-police-18470114"
-    ampWebUrl: "https://www.walesonline.co.uk/news/wales-news/ed-bridges-facial-recognition-police-18470114.amp"
-    cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/wales-news/ed-bridges-facial-recognition-police-18470114.amp"
-    type: article
-    provider:
-      name: Wales Online
-      domain: walesonline.co.uk
-    quality: 22
-    images:
-      - url: "https://i2-prod.walesonline.co.uk/incoming/article17202824.ece/ALTERNATES/s615/0_WNS_210519_Facial_Recognition_Court_Case_07JPG.jpg"
-        width: 615
-        height: 409
         isCached: true
 
 secured: "HUQnyEcMK/WL20zv5MQESWQ0Cmd+/x+xdWBFQViDOzarFPhwzI8514+IbKnoI/0FUNcv3vErzfG0NWtxEJecBVWHnp5/gFK0Q5KxVC4z1+x7UWgpz6I0mqLMEWmgZ5HFUHRdMeyXr9+bOx5stlsu6hpdQVVqgttMzLgW5pNgnivbCu/enxOX+R1EYGjwlYlCSD1KZ34cxdGQcdCqf4UX89vDjYy5TDbaUXhFC/hAkpJPRyDOMwepAflZO71KPtIt2i1bmYI3E/Kn+Xdc2kbfm6mmBrnD+EL/9cLa0Z9mR7Ez4wIKPc9OCp7ZLO6mxwUY4aAf26OygzCFTz3EPwTS8Q==;M1zZ33fJepFbF+DTjf/T3Q=="

@@ -20,69 +20,37 @@ topics:
   - AI
 
 related:
-  - title: "South Wales Police's facial recognition tech 'not legal'"
-    excerpt: "He said it is the potential use of the facial recognition powers, not actual use to date, which was the issue. \"It's not enough that it has been done in a proportionate manner so far,\" Mr Squires said."
-    publishedDateTime: 2020-06-23T14:05:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-53147221"
-    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53147221"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53147221"
+  - title: "Boston bans most city use of facial-recognition tech in privacy win"
+    excerpt: "Boston joins cities like San Francisco in banning the official use of facial-recognition tech after the unanimous vote."
+    publishedDateTime: 2020-06-24T19:27:00Z
+    webUrl: "https://mashable.com/article/boston-bans-facial-recognition-technology/"
+    ampWebUrl: "https://mashable.com/article/boston-bans-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/boston-bans-facial-recognition-technology.amp"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
+      name: Mashable
+      domain: mashable.com
+    quality: 74
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6C70/production/_107006772_facialedbridges.jpg"
-        width: 1024
-        height: 576
+      - url: "https://mondrian.mashable.com/2020%252F06%252F24%252Fe6%252F48e216407ae64ae58a33a0d81cb9c1c5.28a23.jpg%252F1200x630.jpg?signature=9ioxsUaZTvrqoZR7r_dKNqdQDRU="
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Boston Just Banned Its Government From Using Facial Recognition Technology"
-    excerpt: "Citing “racial bias in facial surveillance,” the Boston City Council voted unanimously to stop the use of facial recognition by public agencies."
-    publishedDateTime: 2020-06-24T18:03:00Z
-    webUrl: "https://www.buzzfeednews.com/article/carolinehaskins1/boston-vote-ban-facial-recognition"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/carolinehaskins1/boston-vote-ban-facial-recognition"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/boston-vote-ban-facial-recognition"
+  - title: "UK’s facial recognition technology ‘breaches privacy rights’"
+    excerpt: "South Wales police accused of using system with ‘racial bias’ that breaks data protection law Notices displayed by the Metropolitan Police notify the public of the use of automated facial recognition cameras around Whitehall for the Remembrance Sunday ..."
+    publishedDateTime: 2020-06-23T16:28:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
+    ampWebUrl: "https://amp.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
     type: article
     provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 87
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2019-07/10/14/campaign_images/722e4d2ed160/privacy-and-civil-rights-groups-ask-the-us-govern-2-344-1562770255-0_dblbig.jpg"
-        width: 625
-        height: 415
-        isCached: true
-  - title: "Boston City Council Set To Vote On Facial Recognition Technology Ban"
-    excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."
-    publishedDateTime: 2020-06-23T23:39:00Z
-    webUrl: "https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    ampWebUrl: "https://amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 61
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2020/06/GettyImages-1199025045.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Opinion | The futile withdrawal of facial recognition software by Big Tech"
-    excerpt: "This technology is bound to proliferate regardless of flaws as it’s being pursued by such regimes as China’s for surveillance"
-    publishedDateTime: 2020-06-22T16:21:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech-11592841353953.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech/amp-11592841353953.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech/amp-11592841353953.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2020/06/22/600x338/oped4_1592841609461_1592841617392.jpg"
+      - url: "https://i.guim.co.uk/img/media/8e6e98b9bdc1c7e71fbcc4fc0b52022b9c2b43d4/0_170_5138_3084/master/5138.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6e67cf17a849c14a6238c590ede46efc"
         width: 600
-        height: 337
+        height: 360
         isCached: true
   - title: "Police use of facial recognition 'disproportionate', landmark court case hears"
     excerpt: "The use of automated facial recognition will “radically change” the way Britain is policed, the Court of Appeal has heard. The technology, which scans large groups of people i"
@@ -100,35 +68,35 @@ related:
         width: 2880
         height: 1800
         isCached: true
-  - title: "FlowCentric Technologies, Eldir roll-out facial recognition, thermal detection solution"
-    excerpt: "The company has developed EGAN, a facial recognition and thermal detection solution, in conjunction with Eldir."
-    publishedDateTime: 2020-06-24T07:11:00Z
-    webUrl: "https://www.itweb.co.za/content/nWJadMbek9W7bjO1"
-    ampWebUrl: "https://amp.itweb.co.za/content/nWJadMbek9W7bjO1"
-    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/nWJadMbek9W7bjO1"
+  - title: "Rose Bowl officials defend use of facial recognition program during the big game"
+    excerpt: "Recent media reports painted a dystopian picture of the Rose Bowl’s facial recognition programs used Jan. 1, but stadium officials say they got it wrong."
+    publishedDateTime: 2020-06-23T20:24:00Z
+    webUrl: "https://www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/"
+    ampWebUrl: "https://www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/amp/"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 51
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 54
     images:
-      - url: "https://www.itweb.co.za/static/pictures/2020/06/FlowCentric.jpg"
-        width: 816
-        height: 459
+      - url: "https://www.dailynews.com/wp-content/uploads/2020/06/Gallery43-1.jpg?w=1024&h=703"
+        width: 1024
+        height: 703
         isCached: true
-  - title: "Tech Companies Are Limiting Police Use of Facial Recognition. Here's Why"
-    excerpt: "IBM said it was getting out of the facial recognition business. Then Amazon and Microsoft announced prohibitions on law enforcement using their facial recognition tech. There's growing evidence these algorithmic systems are riddled with gender and racial bias."
-    publishedDateTime: 2020-06-23T08:00:00Z
-    webUrl: "https://www.npr.org/2020/06/22/881845711/tech-companies-are-limiting-police-use-of-facial-recognition-heres-why"
+  - title: "Boston becomes the biggest East Coast city to ban face recognition"
+    excerpt: "The Boston Police Department already doesn’t use the technology, and it’s now forbidden from getting facial data from third parties."
+    publishedDateTime: 2020-06-24T20:24:00Z
+    webUrl: "https://www.fastcompany.com/90520805/boston-becomes-the-biggest-east-coast-city-to-ban-face-recognition"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 38
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
     images:
-      - url: "https://media.npr.org/assets/img/2020/06/22/gettyimages-1052877582_wide-aa51331470b894e1f8d08d5210c495c064166205.jpg?s=1400"
-        width: 1400
-        height: 787
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-banned-in-boston-city-disallows-public-use-of-face-recognition.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Racist practice of phrenology rears its lumpy head in facial recognition tech"
     excerpt: "We'd like to think judging people's worth based on the shape of their skull is a practice that's well behind us, but echoes of it can be found in new technologies"
@@ -141,6 +109,17 @@ related:
       name: Times LIVE
       domain: timeslive.co.za
     quality: 36
+  - title: "Boston City Council bans use of facial recognition technology"
+    excerpt: "Lawmakers in Boston have outlawed the use of facial recognition software by city officials. In a unanimous vote on Wednesday, Boston's City Council passed the ordinance, which will make it illegal for officials in the Massachusetts capital to \"obtain,"
+    publishedDateTime: 2020-06-24T23:01:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 24
 
 secured: "+Nrouv1Hcy2kMQnmCPxq9/A3B01yOrDG7sxBMHyoq5PK7jg0OGYO60rbNNGtOIA10EsK/1zOEJ4aaQIFzUqvpDOGj03KDVrqunBfdNjPnFTu8Nn3Gaf80QuxzdhkrmYzh/jUx3RObWvlqa7wPysw9LsY1+/cuipyCYaB1eeI/CWcZswwIxVviCu/DIWqcXI5KdG86MGIZZSD70eKWVakELqMY+Pn9IlyrxUZnX983E/u0lH8+DlVgqdSotDoNHMHHkg5QThy9PuGGKpFI2pnWH7dvhfGXsLlhivp/bdJCXGm7hVi8WySs5CNjPCijSHlY8Z44Ta1Q/EVWIEFZ7o3j1nZIkfpIamT2G0oUeyjhEKlLU0Qig576AVVpUle9sAFKahslSgv1TxFJNViY3hfVjU8eUbp8W4+b8R1zLs2ZDihY8htosNleYPH6773Jgwqwa8fq+tfk5eJiNX7Z3kabrIU90ridztX2TDIUDPOsmHmySDZkfaVxfjRAbOxD/MdxLDmo2+7605uaaM2OAndRA==;+tM6O7quvk+zEwHM7FgPKw=="
 ---
