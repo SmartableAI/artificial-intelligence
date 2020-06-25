@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/06/23/trumps-latest-immigration-b
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/23/trumps-latest-immigration-ban-is-bad-news-for-us-ai-ambitions/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

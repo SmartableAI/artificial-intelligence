@@ -25,6 +25,20 @@ images:
     title: "Self-Driving Taxis a Setback for Those with Different Needs"
 
 related:
+  - title: "Self-driving taxis should be designed with accessibility at the forefront—not as an afterthought"
+    excerpt: "For autonomous vehicles to fulfill the promise of accessibility and still be environmentally efficient, all cars need to be similarly accessible."
+    publishedDateTime: 2020-06-25T14:23:00Z
+    webUrl: "https://www.fastcompany.com/90520798/self-driving-taxis-should-be-designed-with-accessibility-at-the-forefront-not-as-an-afterthought?partner=feedburner"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 11
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-90520798-self-driving-taxis-should-be-designed-with-accessibility-at-the-forefrontnot-as-an-afterthought.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Self-driving taxis could be a setback for those with different needs – unless companies embrace accessible design now"
     excerpt: "But for people who have different mobility needs and rely on human drivers for work beyond the task of driving, the prospect of driverless taxis may not sound like progress. Unless accommodations are built in to autonomous vehicle designs,"
     publishedDateTime: 2020-06-23T00:11:00Z

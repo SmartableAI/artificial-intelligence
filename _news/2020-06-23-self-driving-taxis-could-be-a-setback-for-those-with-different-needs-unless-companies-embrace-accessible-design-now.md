@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Self-driving taxis should be designed with accessibility at the forefront—not as an afterthought"
+    excerpt: "For autonomous vehicles to fulfill the promise of accessibility and still be environmentally efficient, all cars need to be similarly accessible."
+    publishedDateTime: 2020-06-25T14:23:00Z
+    webUrl: "https://www.fastcompany.com/90520798/self-driving-taxis-should-be-designed-with-accessibility-at-the-forefront-not-as-an-afterthought?partner=feedburner"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 11
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-90520798-self-driving-taxis-should-be-designed-with-accessibility-at-the-forefrontnot-as-an-afterthought.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "1IPGG9vLahnvHQ6qwMRVQFWchi4OmKPRwiVuHg9wsYLSaAV+B/EfoCqvSlZNQJQbwMD30kmoKKksWXfgb0NgMWvI12Loi7xr9zvqRjRso53QFf5TIDbsF+5rjty3Copm1eRS1qXqhyQuK0/gwZwNNPR7ueXSJmFqUO7oW/gmhrTGq4NcdDEW6LLUdrLh7qQuCZIRXg7kQZ1xEUnBcFNlX5NfCl7VBvTB7paRlQk2wjTNDTBdWLfJ2HzDXXCu7Ar61Euz98dWQdvECWtfxsU4MLqah5SCYKKyLoWngWr8YLCs7Rp5OwwIYOeCaKjDHaor24JH2tZRGHrDNDtxoRx5Zw==;XWFaRY8ewpndUioq3Unc4A=="
 ---

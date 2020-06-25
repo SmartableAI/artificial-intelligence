@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Grants Available for COVID-19 Research that Uses Artificial Intelligence and Big Data"
+    excerpt: "Research that Uses Artificial Intelligence and Big Data | Read more about UCF Colleges & Campus News, Research, Orlando and Central Florida news."
+    publishedDateTime: 2020-06-25T15:39:00Z
+    webUrl: "https://www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/"
+    ampWebUrl: "https://www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/?amp"
+    cdnAmpWebUrl: "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/?amp"
+    type: article
+    provider:
+      name: UCF Today
+      domain: ucf.edu
+    quality: 65
+    images:
+      - url: "https://www.ucf.edu/news/files/2020/06/WebAI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "C3.ai Digital Transformation Institute Announces COVID-19 Awards"
     excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the first C3.ai DTI awards for artificial intelligence (AI) techniques to mitigate the COVID-19 pandemic. C3.ai DTI, jointly managed by the University of Illinois at Urbana-Champaign and the University of California,"
     publishedDateTime: 2020-06-23T04:01:00Z

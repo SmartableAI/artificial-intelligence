@@ -6,7 +6,7 @@
       "title": "If Done Right, AI Could Make Policing Fairer",
       "excerpt": "Li herself has ridden the ups and downs of the AI boom. In 2017 she joined Google to help, in her words, “democratize” the technology. Not long after, the company, and Li herself, became embroiled in a controversy over supplying AI to the military through an effort known as Maven,",
       "webUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -45,7 +45,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -194,7 +195,7 @@
       "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
       "excerpt": "A Los Angeles startup has created “privacy-preserving face skins” – digital masks or avatars that counter facial recognition software.",
       "webUrl": "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition",
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {

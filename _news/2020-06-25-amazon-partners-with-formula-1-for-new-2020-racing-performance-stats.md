@@ -1,0 +1,76 @@
+---
+category: news
+title: "Amazon partners with Formula 1 for new 2020 racing performance stats"
+excerpt: "The Formula 1 season begins on July 3 in Spielberg, Austria and Amazon Web Services will help the league roll out six new, real-time racing statistics that will be shown as the ra"
+publishedDateTime: 2020-06-25T14:24:00Z
+webUrl: "https://www.techrepublic.com/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/"
+type: article
+quality: 74
+heat: -1
+published: false
+
+provider:
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AWS AI
+  - AI
+
+images:
+  - url: "https://tr1.cbsistatic.com/hub/i/r/2020/06/25/3657df80-765d-48af-bf16-4110fd6d0261/resize/1200x/94c3ec5113c8d020d33728a0a7338236/optimized-carperfsingledetail-02.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+    title: "Amazon partners with Formula 1 for new 2020 racing performance stats"
+
+related:
+  - title: "AWS and Formula 1 announce six new racing performance stats"
+    excerpt: "The newly introduced performance stats include Car Performance Scores, Ultimate Driver Speed Comparison, Driver Skills Rating, and others. They will roll out in the current, 2020 season."
+    publishedDateTime: 2020-06-24T05:52:00Z
+    webUrl: "https://www.neowin.net/news/aws-and-formula-1-announce-six-new-racing-performance-stats"
+    ampWebUrl: "https://www.neowin.net/amp/aws-and-formula-1-announce-six-new-racing-performance-stats/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-and-formula-1-announce-six-new-racing-performance-stats/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 89
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/06/1592973675_2020_f1_insight_carperfcomp-02_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
+  - title: "Amazon's AWS Client Formula 1 Offers New Racing Statistics"
+    excerpt: "In first-quarter 2020, AWS generated $10.2 billion sales, accounting for 14% of Amazon’s net sales. Further, the figure was up 32.8% year over year. Recently, AWS was selected as the preferred cloud provider by Genesys for Genesys Cloud."
+    publishedDateTime: 2020-06-24T14:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazons-aws-client-formula-1-offers-new-racing-statistics-2020-06-24"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "AWS and Formula 1 Announce New Racing Performance Stats for 2020 Season"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), and Formula 1 (F1) (NASDAQ: FWONA, FWONK) are introducing six new, real-"
+    publishedDateTime: 2020-06-23T08:49:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200623005380/en/AWS-Formula-1-Announce-New-Racing-Performance"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 39
+    images:
+      - url: "https://mms.businesswire.com/media/20200623005380/en/800446/23/2020_F1_Insight_CarPerfTop5-02.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+
+secured: "86ilgkyX3ojCoEcxK8z/86w3CRkKNT0YGNrk2m3m/t+HWqmjJBcw5S2C2Dqp54O+MCHnnIECIGpE0kDNgq4XBCcR9LgucL2Nr5frXR2tH0nI7i8VUWjoaKZT3q4Z6HB5n/rMpfwZDavf5GvkGW9x9JCc626Ex89/OR4AfRShKBfStvnGN57XJPnkSvfe250lL7XgKKM97KiH6PTxk6kSQ97m1B/MuQBjxtPLr/fFfzVn1bDgSxvMUHTdfVZxJOmShpPUwca0mgx74DJdgsQ7AtugscU9zGGYgaRJHMe6gwZRu0YD0KX1MZlL6Kmyl8yVtIXU9WxxyLlfl7pzclsrYg==;FcxJ+v5hH3ehDdbNM8A9VQ=="
+---
+

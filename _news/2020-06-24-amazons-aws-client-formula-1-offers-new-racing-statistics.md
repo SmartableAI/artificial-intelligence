@@ -34,6 +34,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Amazon partners with Formula 1 for new 2020 racing performance stats"
+    excerpt: "The Formula 1 season begins on July 3 in Spielberg, Austria and Amazon Web Services will help the league roll out six new, real-time racing statistics that will be shown as the ra"
+    publishedDateTime: 2020-06-25T14:24:00Z
+    webUrl: "https://www.techrepublic.com/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/06/25/3657df80-765d-48af-bf16-4110fd6d0261/resize/1200x/94c3ec5113c8d020d33728a0a7338236/optimized-carperfsingledetail-02.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AWS and Formula 1 Announce New Racing Performance Stats for 2020 Season"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), and Formula 1 (F1) (NASDAQ: FWONA, FWONK) are introducing six new, real-"
     publishedDateTime: 2020-06-23T08:49:00Z

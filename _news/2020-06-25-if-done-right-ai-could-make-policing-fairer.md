@@ -7,8 +7,8 @@ webUrl: "https://www.wired.com/story/done-right-ai-make-policing-fairer/"
 ampWebUrl: "https://www.wired.com/story/done-right-ai-make-policing-fairer/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/done-right-ai-make-policing-fairer/amp"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.wired.com/photos/5ef419aeaf3d0a069fd1d59d/master/pass/business_policing_1175954210.jpg"
@@ -30,6 +31,6 @@ images:
     isCached: true
     title: "If Done Right, AI Could Make Policing Fairer"
 
-secured: "CVFlFGPZrNPxTa89jpG0uTxW0ILJokHuefyZoTAWGU7gEdkHFI1lFH69ZiaSKdCbBDeeEECHA6I8OaEpbqC05mcEhuOjvM4GUy8qmjkQAVVP6I2JOhMaooqdh2xFTEIC2zE2UTPLsNdhLUANDz3cg9u9Zo+pbWf2R4c0cXSoaYaa8aAPhHTKXn8CsK3EwFNgWeXfKOL40zamssO7krI2ENCzrcESTjs8Vsh1LA1tmrFZZnfMVa7dK+MrFGIZM+czKkpOONDwN3/EEAGJl3nJz2omwXLO0EbjppLEYyR5FZ2tluLtj59DO8A4mxcVLUFD/SsOvDgjyRXlnMlYlT+Jig==;/eQutlkmiMtgsfurLqnmuQ=="
+secured: "t1v7qXndhlu3vkiCy/Fjq8LCtcRECRbGOJH/XG14HdqUSMs2IK67gGL9c+N+Zs/1FcWMs4nRrT3/ZfHc4XdIZGwySUHugmpu0mzoT10SyuSN8H8vq4b02McZt1kusQD6cIWfEWZjIcLB05YI5LmLeuJ77rrmla8zxAXDYq/+Z1ttAURiZILBztuVJ1MG2fbX8Iqewy41QmBjuNcGGVH3PK8PSvG0HiWEjPlnppXM3GVjgQffjr5YYD+ITxs/DaVhzftVBhE7LEjRq9yerEhWhLefsc6iriApmGCL4E8zFKUlZG/Ez606pvfbKX+DOKZRE0PSb55PHl6I4DgNY85P44duYsw5R8BoTn/ZwFZDjS4TzKlrDbQpodv6vdlXKNR7BzQZRO2nn9DBbA29LKTwh0jLlpcGWFKcwddNJDDa2hxeF8fD8MKGFFACoVK2NWUkBqIy+X0Y/u9tNn1c1ASUVpfnhoMSQQGlj0YZfDT3zJjacopZ9QZ90vigm88LwzPnWLCOWdasd/39itjAFgPYYg==;sLSxOglGKxdHwHv//D3k8Q=="
 ---
 

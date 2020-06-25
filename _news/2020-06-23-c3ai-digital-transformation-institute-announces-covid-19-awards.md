@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Grants Available for COVID-19 Research that Uses Artificial Intelligence and Big Data"
+    excerpt: "Research that Uses Artificial Intelligence and Big Data | Read more about UCF Colleges & Campus News, Research, Orlando and Central Florida news."
+    publishedDateTime: 2020-06-25T15:39:00Z
+    webUrl: "https://www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/"
+    ampWebUrl: "https://www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/?amp"
+    cdnAmpWebUrl: "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/?amp"
+    type: article
+    provider:
+      name: UCF Today
+      domain: ucf.edu
+    quality: 65
+    images:
+      - url: "https://www.ucf.edu/news/files/2020/06/WebAI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Princeton faculty members receive grants for COVID-19 research from C3.ai Digital Transformation Institute"
     excerpt: "By using the computing capabilities of C3.ai Suite and Microsoft Azure Cloud, we expect to analyze large volumes of location data as they are collected and adapt the intervention policy. We will make our research outcomes, including software, non ..."
     publishedDateTime: 2020-06-23T19:40:00Z

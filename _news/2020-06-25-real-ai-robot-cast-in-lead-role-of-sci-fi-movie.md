@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "A Real ‘Ex Machina’? An A.I. Robot Learns Method Acting to Star in $70 Million Film"
+    excerpt: "What if Alex Garland’s 2014 science-fiction favorite “Ex Machina” starred a real artificially intelligent robot as Ava instead of Alicia Vikander? Moviegoers are about to find out, sort of. Bondit Capital Media,"
+    publishedDateTime: 2020-06-25T10:49:00Z
+    webUrl: "https://www.indiewire.com/2020/06/ex-machina-real-robot-erica-science-fiction-movie-1234569484/"
+    ampWebUrl: "https://www.indiewire.com/2020/06/ex-machina-real-robot-erica-science-fiction-movie-1234569484/amp/"
+    cdnAmpWebUrl: "https://www-indiewire-com.cdn.ampproject.org/c/s/www.indiewire.com/2020/06/ex-machina-real-robot-erica-science-fiction-movie-1234569484/amp/"
+    type: article
+    provider:
+      name: IndieWire
+      domain: indiewire.com
+    quality: 53
+    images:
+      - url: "https://www.indiewire.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-25-at-10.30.13-AM.png?w=670&h=377&crop=1"
+        width: 670
+        height: 377
+        isCached: true
 
 secured: "AGmHIK1v4YYkLL2BhIiSQH3x0hPVagvbKXUrRzsfdZydcyuEG4HfdE0X3Ftrha/9z+Lpppv7A04ni74e7oNNrhsxmdv7+mZgsupedsKpOK/Q1jqsO82YjYRf3I5nXnxMeQIHuiWz+S/ItvGBjWDgf+t3UvizDc7wftbKEUrKbNecQrodr48Y3rdqUkSZwLAe68XfatRjrVYNyh8W2bj/qS9R5g1qUWn/7E+Yd0BDBFDfX9DpAs3YCCCeeg0z2gKXQ3XtFMtaqYU//yrJxiotc+gya+MjAtv7IJBDUWV4bwKED0jrkDmOUvJY+LHtyEao+D+2Mut+0apBRoR4oNYjqr76AiMi8vq8e7th367EFNpkYuXvqsJF9eOTLaw7QpG7E92RvqjRVtDDZ7N18UqC2c7gaU5PPgY6cLWTa5BJJjungCsyoP+2XNU0oZkybf+RgfgKpxfw6R1xIxqRqE9r6EwW5KducKfA83Nntv0627IdeKLV6xb9Km6uC1abSxIDZhztwX8B5EqM8yq4ffRjJw==;Ll/dAcdEnIZSJVoCHUSMOQ=="
 ---

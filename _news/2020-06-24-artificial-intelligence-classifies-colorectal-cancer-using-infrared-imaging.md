@@ -20,6 +20,22 @@ topics:
   - AI
 
 related:
+  - title: "New AI-Based Technique to Classify Colorectal Cancer with IR Imaging"
+    excerpt: "Automatic detection of intestinal tumor type can be performed by using infrared microscopy in just 30 minutes. Then, the results are utilized to make targeted therapy decisions."
+    publishedDateTime: 2020-06-25T14:43:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11401"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11401"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11401"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: "https://www.azorobotics.com/images/news/ImageForNews_11401_15930904212407405.png"
+        width: 804
+        height: 535
+        isCached: true
   - title: "Automated classification of colorectal cancer using IR imaging"
     excerpt: "A research team from the Prodi Centre for Protein Diagnostics at Ruhr-Universität Bochum has used infrared microscopes based on quantum cascade lasers to classify tissue samples of colorectal cancer from routine clinical operations in a marker-free and automated way."
     publishedDateTime: 2020-06-24T21:33:00Z
