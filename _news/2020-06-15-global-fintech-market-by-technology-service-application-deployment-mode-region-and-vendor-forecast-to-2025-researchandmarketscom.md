@@ -3,7 +3,7 @@ category: news
 title: "Global FinTech Market by Technology, Service, Application, Deployment Mode, Region and Vendor - Forecast to 2025 - ResearchAndMarkets.com"
 excerpt: "The \"Global FinTech Market By Technology (API; AI; Blockchain; Distributed Computing), By Service (Payment; Fund Transfer; Personal Finance; Loans; Insurance; Wealth Management), By Application, By Deployment Mode,"
 publishedDateTime: 2020-06-15T12:39:00Z
-webUrl: "https://www.businesswire.com/news/home/20200615005414/en/Global-FinTech-Market-Technology-Service-Application-Deployment"
+webUrl: "https://www.businesswire.com/news/home/20200615005414/en/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "Global FinTech Market by Technology, Service, Application, Deployment Mode, Region and Vendor - Forecast to 2025 - ResearchAndMarkets.com"
 
-secured: "WFTbC5Ji8Vlg5VvcxmFjXE4dAZFZAdf7gcEx3VB36RMfXjzz7dEqI3pjSCoBgFSvxCA8AEF/hr40gdUvbooQ6Mxt7Sjq503RDAL1lhKGrtn5iEl1/1OdihAdx8j2/Gl8hg8juGmajGWPWI3ypPhgkf5llK/Aj5d5DLntpvRuaBx5aoDB0D0sC4sv0Zw33mP1eQy8Xgs7J1owwBDSxxhONEhX7rjFVhHi3t2jqL7RbfaozVA41hfVqsczePKZ6e2sbH84trdPtqmL0av14HslzrSc0R9vbYSnRpRyLI4KUlx1swqMjRLXrXtZBgYqSBwPjSQu0S/7YaTbVi2xMVGyvg==;nIoaYmlfpreLm6YcY+W+7g=="
+secured: "urFSsMPLqTBNu/bXDUK9ojpPFXL/2z9hAEm68FspJZ2UHVOf3A2Rdzok0UJO13KwAUiVu2zJ/U2eBO6saQpKd6BPQ/tfsA2O2mq1wZfoo/ghwmAQ0P0DuZ9GKbKCeODBfMdFqCgsCygjwf7/ox+ubqo3cttmTwm/zO93bPt7Fccg8WHERquNJ7LW7MzvkXksWKeo1A/BkTZQZC2hk2oEUEVqce2LAWos7B7NCW2/qiWbu7kfkY1MKff1y11WoGSweMcn0B5Dv10JQ3DpFYuXYvxUKdlvDCo96DtGStfrHdEJ9XK3i9ZfrV/mgdDbeHzdM6pI6HbTVMIhRY9QZOV/5w==;JHTusS+d6Ha5on57kWYqxw=="
 ---
 

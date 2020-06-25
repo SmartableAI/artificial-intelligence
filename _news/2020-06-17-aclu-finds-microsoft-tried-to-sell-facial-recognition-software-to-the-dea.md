@@ -17,6 +17,7 @@ topics:
   - Natural Language Processing
   - AI
   - Computer Vision
+  - Microsoft AI
 
 images:
   - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_F1Outsource.jpg"

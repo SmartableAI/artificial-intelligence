@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://rcpmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/1017red_F2Ransomware.jpg"
@@ -338,6 +339,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "TOOQI7ycbIW3mWWzwF6wD8iSQ6T8wDNQYWwiZVNvodGV4NosCmRY55PNXPi0Ht1dVW3pKqwt5GdUyPw1q2hb9s95VHigcXDWciRnvZ/WYZB6uRaLyiagBLMx2m271+DC3Uq++QpgDqZQdyTASOXQTCG9gEhrjgf4u7X00XOqqLXlTxkmBkS9D+ALbj3aFIDrqlIWM6zTlLfgiPW0V0Vw9ZNrvN1kofot1Cthbm7qMW/AGoJD3mYteJImiIzb7rWV/3KP8pGlmS//ARo9CUJFTd97zOlgshQOxyVF19s51bFJdGOi08N4MMFMM9JUV7EDuf0zgw4pMQfmbhY1tIvlMw==;iTI3dD0NtOMKv8sapan81g=="
+secured: "kh3JtMyMAtQkmoUnT0MwaXx8g9uoQkqPxuiAP1qfNmEB5M6EIYVpFNSt0Xw72vNzloX99DaGOjVHhOfKiM2OlCLqbiGFmKvETXNcOMgdLEAy9b6NHO/qoZPH6ZkOdozWXPsle1NrSt0Ypcr+ZeeLO4q2n6r5itq3iOrh5fqyV2zkCtaIO5bHoDSTvSgYspPtnK+y8wVG0OkE4WeNO+UGKAYESVhsMfqGMFCpEMQbl8PqiFvJU6mo5s6NraxP+CeFYpMsYBSvC5VwlnVeXTAy/52BUMn5/0sGQ7Kg2BbUcCsyDApMANYd+8BHIw0diZ3SrQEb6FRbZK0fKSHaWUECd9MTZOfrQtF+Nc5bm3akqQTGX5HTFXsEOss0TWmi+XH64UyAdnp2CB3GsLhcyWaJlCtpFTUc8v7gTSYgtVfVxaA24pVL3adPhOIVwqcIiVjoijunNLHxwAph7xm1OoTjASuDQVq+M0uQQvih6AKadTxaS40c3SUNLX6ZeLsKYfKlZP/NKKJyD67PACFNhGTonA==;EyTopEUdaypI4xkJXPDDlQ=="
 ---
 

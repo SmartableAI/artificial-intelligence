@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 577
         isCached: true
-  - title: "The Self-Driving Car Race Between Tesla, GM and Ford Takes a Big Turn"
-    excerpt: "General Motors introduced Super Cruise, a system that can steer a car on thousands of miles of highways in North America, in 2017. And this week, Ford finally unveiled its own Autopilot answer, a hands-free driver assistance feature called “Active Drive Assist."
-    publishedDateTime: 2020-06-20T16:06:00Z
-    webUrl: "https://observer.com/2020/06/tesla-gm-ford-electric-vehicle-self-driving-autopilot-update/"
-    ampWebUrl: "https://observer.com/2020/06/tesla-gm-ford-electric-vehicle-self-driving-autopilot-update/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/06/tesla-gm-ford-electric-vehicle-self-driving-autopilot-update/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 59
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2020/06/GettyImages-1199703559.jpg?quality=80&strip"
-        width: 7964
-        height: 5309
-        isCached: true
   - title: "BMW And Mercedes end self-driving car partnership"
     excerpt: "The two carmakers had previously said that they intended to jointly develop a Level 4 self-driving car by 2024."
     publishedDateTime: 2020-06-23T13:26:00Z
