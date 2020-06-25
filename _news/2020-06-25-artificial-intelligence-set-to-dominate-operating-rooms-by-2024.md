@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/jenniferhicks/2020/06/25/artificial-intell
 ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2020/06/25/artificial-intelligence-set-to-dominate-operating-rooms-by-2024/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/06/25/artificial-intelligence-set-to-dominate-operating-rooms-by-2024/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef4bfd4b002b30007f79a6c%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     isCached: true
     title: "Artificial Intelligence Set To Dominate Operating Rooms By 2024"
 
-secured: "cTIbyeJ2E+oDPRMn6mF1BGadSYTU1b2kKqcFvXOK0y9o0srBQol5Uysz2EPP76EksqMZx0U0/32ob8u1ONgAwj3y0cPDflIS11f0TBDVrNAH3uk7Dg7P9a0QM/Zh4dj41ic6bOh0TE2yQABvqif9EbNyzGL5jJA2LVFisz9cl6NsHiX3QKcC51S//hQb0h9by1fB3XtwSDBLGsbqYDaayVZhBPrcKCzemig5W6RIMd/4i2Fk5ODzB0GuZ0OIkNVSukFAqsKAxh/ebFG08exjD0IIEsL8LNkY8w2QmwOy3GmN7ARIVC9PZgNdfXWFseXVFDcvUXVUtm73NylSOg1IvA==;HeCztMORxH2jHVPGoYnC/A=="
+secured: "IvicAaJ7HCFn0ihZCzM/7roa+MfrhAbRyJ8L1DGERjw7y90wPgwqZ3p55dvPVPa4cmZrReOceoPtcdOM20h3e/jcnemQgh/kaBQ2YYrW9NzTJYdruxZTWSXm8BfuyAw2SxAsAYHGDFeJmZ5fiY5OJzQdpHA/PmlwRQ4zk4aWW9ghRxe8XHFccwuQrIid3m/VIPDVAbgXtwYdBBomhpNfgTEQk8cuBwRa4/pHsH9voY+dUZJLVVdwtHneuzn4yCWXvrxyVUFatMYdYSnFGGkBeNEfJflwV0ABBZAjSKeC4iqR6BJGVMFP1NBMYjGy7OPaG5ImTU/41U6QViOe4xltuuTbTp0lUCUgW1LXa9y8GwBfFCGSznrlaf4JX891PnRfcu3ofSTS3dlUzp+sK9TWpcz+LLU/D2pP8Keod3CAWCUSZff3gsp+96IREtKG0Yi5/GzpYCNnGAWT9Vt27NG6THygPjyrGggwFEk4uSbonTpYPjUpJ8lHhfGdBwpx/8VIbO/LDaEByXHL76ngLe5fzA==;cBnZ8vDtY3fugfjMQTH95w=="
 ---
 

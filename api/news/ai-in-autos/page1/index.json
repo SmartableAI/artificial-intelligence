@@ -1026,6 +1026,53 @@
       ]
     },
     {
+      "path": "_news/2020-06-10-cruise-is-using-food-bank-deliveries-as-cover-to-run-tests-that-may-violate-stay-home-orders-drivers-say.md",
+      "title": "Cruise is using food bank deliveries as cover to run tests that may violate stay-home orders, drivers say",
+      "excerpt": "Cruise’s self-driving cars are back on the road in San Francisco, but the company may be skirting the city’s shelter-in-place rules in its rush to get there, some of the company’s backup ...",
+      "webUrl": "https://www.theverge.com/2020/6/10/21286301/cruise-self-driving-car-testing-san-francisco-stay-home-order",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/zSpaDLuU-iIUGURwAN6VFFRLQtw=/0x0:2190x1468/1400x933/filters:focal(920x559:1270x909):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66916562/1189070702.jpg.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Cruise is using food bank deliveries as cover to run tests that may violate stay-home orders, drivers say",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/10/21286301/cruise-self-driving-car-testing-san-francisco-stay-home-order",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/10/21286301/cruise-self-driving-car-testing-san-francisco-stay-home-order",
+      "publishedDateTime": "2020-06-10T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-why-we-drive-takes-aim-at-self-driving-vehicles-and-other-threats-to-car-culture.md",
       "title": "‘Why We Drive’ Takes Aim at Self-Driving Vehicles and Other Threats to Car Culture",
       "excerpt": "Toward a Philosophy of the Open Road,’ author Matthew Crawford forms an argument for the feeling of power and possibility that can only be attained by taking the",
@@ -1091,6 +1138,53 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-tesla-launches-new-car-sharing-feature-to-simplify-access.md",
+      "title": "Tesla launches new car-sharing feature to simplify access",
+      "excerpt": "Tesla has launched a new feature that simplifies sharing your car with other people — another step toward its self-driving car-sharing network. With Model 3, Tesla focused on designing around ...",
+      "webUrl": "https://electrek.co/2020/06/09/tesla-new-car-sharing-feature-access/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/06/Tesla-car-sharing-hero.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 430,
+          "title": "Tesla launches new car-sharing feature to simplify access",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/06/09/tesla-new-car-sharing-feature-access/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/06/09/tesla-new-car-sharing-feature-access/amp/",
+      "publishedDateTime": "2020-06-09T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1212,100 +1306,6 @@
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-self-driving-cars-wont-eradicate-the-car-crash-study-says.md",
-      "title": "Self-driving cars won't eradicate the car crash, study says",
-      "excerpt": "While self-driving cars won't get distracted or drive drunk, that only accounts for a third of wrecks that occur, according to the insurance industry. In a blow to hopes for a future free of car ...",
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-cars-crash-study/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving cars won't eradicate the car crash, study says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
-      "publishedDateTime": "2020-06-08T21:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-experts-rank-tesla-waymo-and-16-other-power-players-in-the-world-on-self-driving-cars.md",
-      "title": "Experts rank Tesla, Waymo and 16 other power players in the world on self-driving cars",
-      "excerpt": "Guidehouse Insights evaluated Tesla, Waymo, and 16 of their rivals on a variety of criteria related to strategy and execution.",
-      "webUrl": "https://www.businessinsider.com/experts-rank-tesla-waymo-other-self-driving-car-power-players-2020-6",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ede3fd74dca686dbd47b084?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Experts rank Tesla, Waymo and 16 other power players in the world on self-driving cars",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -27,15 +27,20 @@ images:
 
 related:
   - title: "Intel Launches First Artificial Intelligence Associate Degree Program"
-    excerpt: "Intel is partnering with Maricopa County Community"
-    publishedDateTime: 2020-06-25T14:09:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-06-25/intel-launches-first-artificial-intelligence-associate-degree-program"
+    excerpt: "Intel is partnering with Maricopa County Community College District to launch an Intel-designed artificial intelligence associate degree."
+    publishedDateTime: 2020-06-25T14:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200625005201/en/Intel-Launches-Artificial-Intelligence-Associate-Degree-Program"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 47
+      name: Business Wire
+      domain: businesswire.com
+    quality: 39
+    images:
+      - url: "https://mms.businesswire.com/media/20200625005201/en/801097/23/MCC-students-1.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
-secured: "d9s1X4T4i7adiPNFywIE0DoMW/rKaGlJ10+sUEBWD8qJp9zjUw11OsSBo/3aGDy0GuplSFek0xQBPqEY6uTbgB1LjwkWq5tHw7d0/RGo9t0KJBNlW1GBf+dCepQxwylGMhweCi4ZjuZXG/EmZrRm/WqbBT1UqqXQBeXogoHc8om83dU8+HUkSSjTNJ3Q1HqxNaILitT7hQh7e+I4w5fpk3QhvHViuFz0SmlVpwbQBV+tYy9ql+Elh1XbI7ZSpkNfuydnM8oix8nAchqE0W21tirs2CkbcHtuzkKyrWxXJvET3mHNCHEpLMmrQdiC+YUwnK1CRVLxHwVkr16/+GUKFw==;g85d+3Xme4viwwITk0PWrw=="
+secured: "jHkROtYzTAiZUm5KeEMg3z1uKVOIUL+/XInUQ59YaWXhdE3iUdMD2D15IpLJk9YIXaLwPv3jtRP55SQJTeprn7LxoeS6sOiyK4WJR8+13ojbUqbbqedDh4sJH7vm4ihVEsZeJWbC/IGLMg6ifxTa/AB6osLcFcvDVMeNVZ1YnTvzZl26LoaCxHVJBluPChsuMy3Xr0irA3tZZGTO6S0IIAy+IA83wIn4tkQ2KQau1SgcVaaLPNaFZLhRSHtqhKrHMNB0kFmFr42BSbBh07asoQLd3s64NkggKVG1fPs7GeAS9AhFGw9F6WerMhzudWWAhEIGUlRu8/zH5sy5Idny1HYS3afWBZIVGX7vDu6UxRbWXSrGlaoB0/A6J0xVKIKo6+by1w4zmJdrl+aQ/+S/fp42EfK65yAKThaS7Z7ubZYspIszylqE544DWVLPmkBXd8w+TvWxtxEEvM4V2NmRI30PpkxI7t9+WD2SjWzEKC+cjZ0N83Q+4Hn+eLnAqv1fs9GI5YiMoeLnqLI26uTrQQ==;ic8p0IwXj1SkjR73viq4Tw=="
 ---
 

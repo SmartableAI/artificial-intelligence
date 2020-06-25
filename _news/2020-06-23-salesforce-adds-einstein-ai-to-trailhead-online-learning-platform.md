@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/salesforce-adds-eins
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/salesforce-adds-einstein-ai-to-trailhead-online-learning-platform/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -30,6 +30,22 @@ images:
     title: "Salesforce adds Einstein AI to Trailhead online learning platform"
 
 related:
+  - title: "Machine learning platform MLflow joins the Linux Foundation"
+    excerpt: "Handing the platform run by Databricks to the vendor-neutral foundation will speed growth, the organizations say."
+    publishedDateTime: 2020-06-25T16:00:00Z
+    webUrl: "https://www.techrepublic.com/article/machine-learning-platform-mlflow-joins-the-linux-foundation/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/machine-learning-platform-mlflow-joins-the-linux-foundation/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-platform-mlflow-joins-the-linux-foundation/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 104
+    images:
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2019/01/24/815af793-11d7-4337-8ab0-cc3048fe78cf/resize/1200x/fe1818e94dbdea2e87869e3264c8e2b5/opensourceistock-479493570boygovideo.jpg"
+        width: 1200
+        height: 960
+        isCached: true
   - title: "Einstein Recommendations for Trailhead brings AI to Salesforce's online learning platform"
     excerpt: "Bill Detwiler speaks with Sandeep Bhanot, SVP of Trailhead Product at Salesforce, about Einstein Recommendations for Trailhead."
     publishedDateTime: 2020-06-23T12:33:00Z

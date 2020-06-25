@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Intel Launches First Artificial Intelligence Associate Degree Program"
-excerpt: "Intel is partnering with Maricopa County Community"
-publishedDateTime: 2020-06-25T14:09:00Z
-webUrl: "https://www.bloomberg.com/press-releases/2020-06-25/intel-launches-first-artificial-intelligence-associate-degree-program"
+excerpt: "Intel is partnering with Maricopa County Community College District to launch an Intel-designed artificial intelligence associate degree."
+publishedDateTime: 2020-06-25T14:00:00Z
+webUrl: "https://www.businesswire.com/news/home/20200625005201/en/Intel-Launches-Artificial-Intelligence-Associate-Degree-Program"
 type: article
-quality: 47
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://mms.businesswire.com/media/20200625005201/en/801097/23/MCC-students-1.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+    title: "Intel Launches First Artificial Intelligence Associate Degree Program"
 
 related:
   - title: "Intel takes new twist on artificial intelligence innovation with Valley degree program"
@@ -38,6 +42,6 @@ related:
         height: 399
         isCached: true
 
-secured: "DLfXPzSeASEBtw6yUrEfSf9JI91yzGudPF/6EdaJ1Jjy+7CIpMR54l/EPALR7yHfizRmeKqTEbsFV+rmLG6BNau/Fdvst/QyXASiLTGA/fRUHqKuADvYJJcPDqzlJWc3rNh4cvuY7Tx0NHLgiJ4hkFKdrX7m2r0aWNfqdBKAleMmwMIRm4BHGLzfzOmdk6itwlhIy64X/+ylmmA+KdFGog+E1oALes4MHnoyw1US+P0ZjJlVAd29HO3T5MSzjE8dBOlzmVm72F2Kvkh8cwrD+yw4NAdwWzVpXlQWotTcAk5kslgHgxX1ER0MiGgmO1dG2NT7eT9Rre5CYeQIGi3Hqw==;dh4YeQ9vwhFGCJNCEDzorA=="
+secured: "vFlLZMj18b33D9DGkjvxRWPAvreY5iVHv8SrbpQjWIsMkoaz48EUAeGEPe7+O8vKbPeb42+LdqKiaSVk6iBnSrsaUX6sY3FjNWkTjrPKxZ9ffKQcwmCHxr61JsFNG0LDPWWZHu+onNnb6xIgIZAzVG9gicEXCL32AxgpfkL0W7iBPkxmSFZ+9qYfhEdnHUPDMy6HMn3WV+DsyZIXf3TUeg9QoCQqLMBJoPBqdsdpCpsK5qoPMQeYpl0pWw2LJeY/4G7aC2dQB22oiF2d4zmWJEEuVmSeSKF/TIcGFOafGmvRrujIoMYl819Rdge7xuoljoIpPq3ynCEqNRtmZp0zXQ==;EcKQHfIY20ATFQNzH5oc3g=="
 ---
 

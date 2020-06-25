@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Volvo, Waymo partner to build self-driving vehicles"
+    excerpt: "Waymo and Volvo Cars have agreed to develop a self-driving electric vehicle designed for ride-hailing use, as part of a new global partnership, the companies said Thursday. Waymo, a unit of Silicon Valley's Alphabet Inc."
+    publishedDateTime: 2020-06-25T17:38:00Z
+    webUrl: "https://www.autonews.com/mobility-report/volvo-waymo-partner-build-self-driving-vehicles"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Volvo%20grille%20new%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Walmart’s Self-Driving Partner Is Changing E-Commerce Economics"
     excerpt: "Last summer, it raised $4.5 million from investors, a pint-sized sum among self-driving ventures. Though Gatik may not be sexy, its slow-lane approach has proved to be pragmatic and lucrative. Last summer,"
     publishedDateTime: 2020-06-23T13:10:00Z

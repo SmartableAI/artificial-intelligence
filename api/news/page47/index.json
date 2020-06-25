@@ -2,6 +2,223 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-05-18-facial-recognition-and-your-right-to-privacy.md",
+      "title": "Facial recognition and your right to privacy",
+      "excerpt": "Would your social media habits change if you knew your posts could be used by law enforcement? Jacob Ward brings to light the privacy issues surrounding AI and facial recognition on the Weekend Report.",
+      "webUrl": "https://www.nbcnews.com/video/facial-recognition-and-your-right-to-privacy-83601477518",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202005/sg_3.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Facial recognition and your right to privacy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo83601477518",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo83601477518",
+      "publishedDateTime": "2020-05-18T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages.md",
+      "title": "Hackers spoof new Azure AD and Microsoft 365 sign-in pages",
+      "excerpt": "The Azure AD sign-in experience underwent a redesign about three months ago, but the new sign-in pages didn’t roll out until the first week of April. Microsoft intended the rede",
+      "webUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1589818624/itpro/shutterstock_357803588.jpg",
+          "width": 2957,
+          "height": 1958,
+          "title": "Hackers spoof new Azure AD and Microsoft 365 sign-in pages",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages?amp",
+      "publishedDateTime": "2020-05-18T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-samsung-backs-startup-that-has-made-an-artificial-window-which-mimics-sunlight.md",
+      "title": "Samsung Backs Startup That Has Made An Artificial Window Which Mimics Sunlight",
+      "excerpt": "The SunnySide artificial window not only changes the angle of light according to the time of the day but is also claimed to help users synthesize vitamin D.",
+      "webUrl": "https://in.mashable.com/tech/14101/samsung-backs-startup-that-has-made-an-artificial-window-which-mimics-sunlight",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/samsung-backs-startup-that-has-made-an-artificial-window-whi_ruku.620.png",
+          "width": 620,
+          "height": 331,
+          "title": "Samsung Backs Startup That Has Made An Artificial Window Which Mimics Sunlight",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/14101/samsung-backs-startup-that-has-made-an-artificial-window-which-mimics-sunlight?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/14101/samsung-backs-startup-that-has-made-an-artificial-window-which-mimics-sunlight?amp=1",
+      "publishedDateTime": "2020-05-18T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-deepmind-claims-its-ai-predicts-macular-degeneration-more-accurately-than-experts.md",
+      "title": "DeepMind claims its AI predicts macular degeneration more accurately than experts",
+      "excerpt": "DeepMind claims that its machine learning system can predict macular degeneration more accurately than a team of human experts.",
+      "webUrl": "https://venturebeat.com/2020/05/18/deepmind-claims-its-ai-predicts-macular-degeneration-more-accurately-than-experts/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": "DeepMind claims its AI predicts macular degeneration more accurately than experts",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-how-ai-could-predict-sight-threatening-eye-conditions.md",
+      "title": "How AI could predict sight-threatening eye conditions",
+      "excerpt": "Age-related macular degeneration (AMD) is the biggest cause of sight loss in the UK and USA and is the third largest cause of blindness across the globe. The latest research collaboration between Google Health, DeepMind and Moorfields Eye Hospital is published in Nature Medicine today. It shows that",
+      "webUrl": "https://www.blog.google/technology/health/predicting-sight-threatening-eye-condition/",
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": "How AI could predict sight-threatening eye conditions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/health/predicting-sight-threatening-eye-condition/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/predicting-sight-threatening-eye-condition/amp/",
+      "publishedDateTime": "2020-05-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-this-ai-tool-automatically-identifies-different-types-of-brain-injury.md",
       "title": "This AI tool automatically identifies different types of brain injury",
       "excerpt": "Scientists from Imperial College London and Cambridge have developed an AI tool that can identify different brain injuries by analyzing images of CT scans",
@@ -920,241 +1137,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-china-injects-us22-billion-into-local-chip-maker-smic.md",
-      "title": "China injects US$2.2 billion into local chip maker SMIC",
-      "excerpt": "The investment comes as Washington moves to further restrict the ability of Chinese telecommunications equipment maker Huawei Technologies to develop chips using American technologies.",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/17/a5b50f20-980a-11ea-ae0d-0e69ba128e68_image_hires_153449.jpg?itok=Qs4iyILB&v=1589700900",
-          "width": 1200,
-          "height": 630,
-          "title": "China injects US$2.2 billion into local chip maker SMIC",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
-      "publishedDateTime": "2020-05-17T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-16-hugging-face-dives-into-machine-translation-with-release-of-1000-models.md",
-      "title": "Hugging Face dives into machine translation with release of 1,000 models",
-      "excerpt": "Hugging Face launched about 1,000 AI models for translation, the first venture into translation for the startup that seeks out and shares cutting-edge NLP.",
-      "webUrl": "https://venturebeat.com/2020/05/16/hugging-face-dives-into-machine-translation-with-release-of-1000-models/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/hugging-face.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Hugging Face dives into machine translation with release of 1,000 models",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-16T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-16-steve-platt-and-experian-decades-of-delivering-return-on-ai.md",
-      "title": "Steve Platt And Experian: Decades Of Delivering Return On AI",
-      "excerpt": "Steve Platt, an Experian executive, has a long history of delivering economic returns from artificial intelligence.",
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/05/16/steve-platt-and-experian-decades-of-delivering-return-on-ai/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ebfdc7cdf2b8f00069d4a2f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Steve Platt And Experian: Decades Of Delivering Return On AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/05/16/steve-platt-and-experian-decades-of-delivering-return-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/05/16/steve-platt-and-experian-decades-of-delivering-return-on-ai/amp/",
-      "publishedDateTime": "2020-05-16T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-16-this-n95-like-mask-would-allow-you-to-unlock-your-phone-with-face-id.md",
-      "title": "This N95-like mask would allow you to unlock your phone with Face ID",
-      "excerpt": "If you're struggling to unlock your phone with facial recognition while wearing a face mask due to the coronavirus outbreak, a better alternative may be on the way. The Chinese tech company Huami, best known for its Amazfit wearable devices,",
-      "webUrl": "https://www.cnet.com/news/n95-like-mask-concept-would-allow-you-unlock-phone-with-face-id/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/F2kIQhUcGfgh3zP_EUna2KVKcrk=/756x567/2020/05/01/4390e8d4-7ab5-43eb-af57-126a3d9e863d/aeri-concept-x-05.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "This N95-like mask would allow you to unlock your phone with Face ID",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/n95-like-mask-concept-would-allow-you-unlock-phone-with-face-id/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/n95-like-mask-concept-would-allow-you-unlock-phone-with-face-id/",
-      "publishedDateTime": "2020-05-16T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-16-artificial-intelligence-ai-in-healthcare-market-study-navigating-the-future-growth-outlook.md",
-      "title": "Artificial Intelligence Ai In Healthcare Market: Study Navigating the Future Growth Outlook",
-      "excerpt": "The definitive source for facts, data and analysis of the Global Artificial Intelligence Ai",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-navigating-the-future-growth-outlook-2020-05-16",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Ai In Healthcare Market: Study Navigating the Future Growth Outlook",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-16T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

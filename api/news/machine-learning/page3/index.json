@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-02-all-you-need-to-know-about-symbolic-artificial-intelligence.md",
+      "title": "All you need to know about symbolic artificial intelligence",
+      "excerpt": "Today, artificial intelligence is mostly about artificial neural networks and deep learning. But this is not how it always was. In fact, for most of its six-decade history, the field was dominated by symbolic artificial intelligence,",
+      "webUrl": "https://thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-3-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "All you need to know about symbolic artificial intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-06-02T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us.md",
+      "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
+      "excerpt": "Predicting wildfires is a tricky business. A new artificial intelligence model could help fire agencies allocate resources to mitigate wildfire risks across the West.",
+      "webUrl": "https://www.techrepublic.com/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/01/b9176e1d-1077-48f8-8817-349aa8ebe44a/resize/1200x/5e79b0a17d7fead9c196dc9e6025c51f/wildfire.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
+      "publishedDateTime": "2020-06-01T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-31-thanks-to-renewables-and-machine-learning-google-now-forecasts-the-wind.md",
       "title": "Thanks To Renewables And Machine Learning, Google Now Forecasts The Wind",
       "excerpt": "Using machine learning, they have been able to better predict wind production, better predict electricity supply and demand, and as a result, reduce operating costs. “What we've been doing is working in partnership with the DeepMind team to use machine learning to take the weather data that's available publicly, actually forecast what we ...",
@@ -1122,91 +1217,6 @@
         "name": "Gamasutra",
         "domain": "gamasutra.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-sas-boosts-healthy-bee-populations-through-advanced-analytics-and-machine-learning.md",
-      "title": "SAS boosts healthy bee populations through advanced analytics and machine learning",
-      "excerpt": "As part of its commitment to using data and analytics to solve the world's most pressing problems, SAS' recent work includes helping to",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-boosts-healthy-bee-populations-through-advanced-analytics-and-machine-learning/article_485ec294-2a44-5327-ae6a-1709e3772f22.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/ab/9aba8953-86d7-52f2-b984-7311e20a2062/5ec523443f416.image.jpg?resize=400%2C240",
-          "width": 400,
-          "height": 240,
-          "title": "SAS boosts healthy bee populations through advanced analytics and machine learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-nvidia-reveals-why-it-chose-rival-amd-over-intel-for-its-deep-learning-system.md",
-      "title": "Nvidia reveals why it chose rival AMD over Intel for its deep learning system",
-      "excerpt": "In Nvidia’s first two DGX systems, Intel’s Xeon CPUs were the preferred processor, but the company dropped them in the DGX A100 for two of AMD's 64-core, Zen 2-based Epyc 7742 CPUs. The system, which uses the new,",
-      "webUrl": "https://www.techspot.com/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-20-image-3.jpg",
-          "width": 1037,
-          "height": 598,
-          "title": "Nvidia reveals why it chose rival AMD over Intel for its deep learning system",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
-      "publishedDateTime": "2020-05-20T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

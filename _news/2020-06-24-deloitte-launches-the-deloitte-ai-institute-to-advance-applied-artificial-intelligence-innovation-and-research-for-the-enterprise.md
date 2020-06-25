@@ -34,6 +34,6 @@ related:
       domain: businesswire.com
     quality: 7
 
-secured: "my3I31XE2noZx1SD1Psg1cNZ+mXmx2i35rFf7V1bif8noXtBMOs4bxsVAjAXPGZck/Mnwty23kryMOH16JKeXjOUVduTbdmy0FxBWU9pbR5MEG8inhnmaLLqvdxOEnUbZ32Cn727i28XrlRiqmsLf6cVoXfWwU6o7iybbhJlqxSldMfpmjXhVcZ1k9hBVL8b+Qil3MGADODfkV2m9sbR/qEQqWKeQd+y1jC+UmuACwm4roJZYImlK/tJjhC2MiO5MsIyDfZUvwnIUQSGdsqN/st2XOfHrgSeenqD5oHlKnqVSPcYcZKl4MaKaRJZRn3lLyoPYN7AjDuRakDfNv0/Jw==;Dgi7GMSPhiV4UuVoZDzv4g=="
+secured: "LRFKcVJzuOt1bHNp3olKasmyhT5G7UMQYmpD3PvUQvXKB5qCb9/vEvGO21Ctq6JdrXFqpAax7h0uclLc5piRgXOnjDpYhi/X8CJ2IIWQusOXf6F5gi+y6QGbhZHecmGPcJ4KMyqeoBZ9AydCLIO2nsfwuQk0mf7k+qfGP0o37GcxFaI+utPCHshSgDJ/0xgM/r+rGSK0l+1IoA69FFgJ+5oom3mhwmp5Db8rr0aNrkHJ07YgcQ+bU5iMMqDFVt3HuPr1Ro5NMNKeFUr782H9qiokPHN0044mLCR72zebp0Apw/ldBVGgmFneAkEbgtSD/EDD7yvM2ix5W9U5PdhGPQ==;DpASm1LWpkdXGui26Yi+6g=="
 ---
 

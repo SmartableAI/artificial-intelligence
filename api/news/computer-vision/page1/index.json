@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-25-lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition.md",
+      "title": "Lawmakers propose indefinite nationwide ban on police use of facial recognition",
+      "excerpt": "The proposed law would prevent police, both federal and local, from using facial recognition until Congress passes a bill lifting the ban.",
+      "webUrl": "https://www.cnet.com/news/lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition/",
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/frnYR1dnFZM7iRquJi9FF9Ccs0c=/756x567/2020/06/25/28bb78d1-6da9-4408-a8ea-5e06ec105b3d/gettyimages-869082432.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Lawmakers propose indefinite nationwide ban on police use of facial recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition/",
+      "publishedDateTime": "2020-06-25T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-a-black-man-in-detroit-was-arrested-and-detained-for-30-hours-after-being-falsely-identified-by-facial-recognition.md",
       "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
       "excerpt": "Activists have objected to the use of facial recognition by law enforcement for years, as the technology has been shown to display racial bias.",
@@ -53,7 +101,7 @@
       "title": "A Flawed Facial Recognition System Sent This Man to Jail",
       "excerpt": "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used.",
       "webUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/",
-      "heat": 424,
+      "heat": 434,
       "tags": null,
       "images": [
         {
@@ -83,44 +131,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-boston-bans-most-city-use-of-facial-recognition-tech-in-privacy-win.md",
-      "title": "Boston bans most city use of facial-recognition tech in privacy win",
-      "excerpt": "Boston joins cities like San Francisco in banning the official use of facial-recognition tech after the unanimous vote.",
-      "webUrl": "https://mashable.com/article/boston-bans-facial-recognition-technology/",
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F06%252F24%252Fe6%252F48e216407ae64ae58a33a0d81cb9c1c5.28a23.jpg%252F1200x630.jpg?signature=9ioxsUaZTvrqoZR7r_dKNqdQDRU=",
-          "width": 1200,
-          "height": 630,
-          "title": "Boston bans most city use of facial-recognition tech in privacy win",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/boston-bans-facial-recognition-technology.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/boston-bans-facial-recognition-technology.amp",
-      "publishedDateTime": "2020-06-24T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

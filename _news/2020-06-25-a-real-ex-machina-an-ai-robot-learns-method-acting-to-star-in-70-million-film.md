@@ -59,7 +59,21 @@ related:
         width: 1200
         height: 848
         isCached: true
+  - title: "AI robot trained in method acting to star in a $70 million sci-fi movie"
+    excerpt: "It seems on-brand with all that has been going on in the world that a sci-fi movie would cast a robot as its lead actress. The movie explores how a scientist who came up with a program to perfect human DNA must help the artificially intelligent woman he created,"
+    publishedDateTime: 2020-06-25T17:49:00Z
+    webUrl: "https://www.fastcompany.com/90521262/ai-robot-trained-in-method-acting-to-star-in-a-70-million-sci-fi-movie?partner=rss"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-ai-robot-trained-in-method-acting-to-star-in-a-dollar70-million-sci-fi-movie.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "ledkbnt3E+gzsKyAJ17TnIpyVxe17EwzpTNddw2GXrCL5k6GnNiBRYhKBlUPI9rmD7d4XrYfe9Tmzz/uYVVvmIZSRHq8lYl6A2eAxP6yVdzfMgmGRdtlRzi9CeOFKmSHYtLYwk5DIvzXN4RahI1xcRM/GMPJ1gbqQwLioQEJjTm2a5EbCBBJRJ0MDAtcVwCptNuwGxGXVDFwYr1NPhpxt0+5cz2wh1BV06mDJUuQjsps/QGS68qKZ8Up3aPrjJ8jCOU+N4PjF8k1IJajS8sH43pldptmVAxKbG2HUte4MV+Oli70G3iyRrqUZIG5OXZILGae73vAXhc6UaDrTbwvEw==;pahmtSrRZ08xYhlnWC05qQ=="
+secured: "JCS0NkK0NFC8NcPJmRrBojP+zTGBPaht0gpN8WSWyO0U/BW4VCKD8mHPp3gmR3wbRKJ/cfogyhx8KwGMDZ703ZiMce9uba5//zE5F2/Zvy4k9jxR5RLhvOurQELSAvftoOPyVz/o3Lmtd6DZhzMgF99SH0ew7xCG8IkkkNbRD/xDLehPVjwTjdtqJQzZMDyiLG0MhwkWFLjISIM9wYJDqxLjwhW1OO9myM9bNkER8feWe06uW786I+ZF4o+Dbr+e/fahS5ucMmZHbvZxSWCWqRO00qshxfxbqw5d9zdm/E2o9Z1yCdvfIZerHx3g2iNBYWzrGLYdBypJn10jfW5gwG2INdtscHg5oX4qTzQafxmQH6MZk1gqYnzVd7iVVjBad1SDg35EhnyJJpIY1xHH+vndxBzKpG4EqiJrcL0ofNuxDAHnBiXVDBHFtQjbM+30densrQeXoAC7Q7OBaeEMpfRbpmRDsk8EKIFEhT/zTLhGo0rNEr5wonJVqVEnvp9IvB4zXGqGhj1iW2RRDc/izQ==;QseA4gik4JiweGFi+thjQw=="
 ---
 

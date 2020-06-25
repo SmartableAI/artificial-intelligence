@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-22-seafarers-need-recognition-and-support-from-governments-imo-chief.md",
+      "title": "Seafarers Need Recognition and Support from Governments: IMO Chief",
+      "excerpt": "Restrictions on individual travel have left many seafarers effectively stuck on ships, at sea or at anchor, with their vessels unable to dock, disembark or resupply, and unable to access medical care,",
+      "webUrl": "https://www.wsj.com/articles/seafarers-need-recognition-and-support-from-governments-imo-chief-11592847895",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-201157/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Seafarers Need Recognition and Support from Governments: IMO Chief",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/seafarers-need-recognition-and-support-from-governments-imo-chief-11592847895",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/seafarers-need-recognition-and-support-from-governments-imo-chief-11592847895",
+      "publishedDateTime": "2020-06-22T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-ios-14-serves-up-major-updates-for-siri-messages-translate.md",
+      "title": "iOS 14 serves up major updates for Siri, Messages, Translate",
+      "excerpt": "Apple, unsurprisingly, led its WWDC 2020 press conference with the announcement of iOS 14. In the next version of Apple’s latest operating system, we’ll see some improvements to Siri,",
+      "webUrl": "https://www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/Apple_Events_-_Special_Event_Stream_-_Apple-25.jpg",
+          "width": 2372,
+          "height": 1332,
+          "title": "iOS 14 serves up major updates for Siri, Messages, Translate",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/amp/",
+      "publishedDateTime": "2020-06-22T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-ge-healthcare-ai-suite-pinpoints-chest-x-ray-abnormalities.md",
       "title": "GE Healthcare AI Suite Pinpoints Chest X-ray Abnormalities",
       "excerpt": "This eight-algorithm AI suite is designed to quickly analyze chest X-ray findings and flags any abnormalities, such as pneumonia, for further radiologist review. The suite can also pinpoint tuberculosis,",
@@ -1274,100 +1368,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-dive-into-ai-and-machine-learning-for-just-35.md",
-      "title": "Dive into AI and machine learning for just $35",
-      "excerpt": "It’s no secret that some of the world’s most important technologies and innovations are increasingly fueled by Artificial Intelligence (AI) and machine learning.",
-      "webUrl": "https://www.engadget.com/dive-into-ai-and-machine-learning-175503638.html",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F8976d670-b19d-11ea-bf3c-cfa9c5973137&client=amp-blogside-v2&signature=897136f6e645595efaee92715fc68511ec724c1a",
-          "width": 600,
-          "height": 350,
-          "title": "Dive into AI and machine learning for just $35",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/dive-into-ai-and-machine-learning-175503638.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/dive-into-ai-and-machine-learning-175503638.html",
-      "publishedDateTime": "2020-06-21T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era.md",
-      "title": "Robots Play Pivotal Role In Keeping Travel Safe During Covid-19 Era",
-      "excerpt": "Robots are changing the way the travel industry approaches cleaning as it grapples with how to restore confidence amid the Coronavirus pandemic.",
-      "webUrl": "https://www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb8cacda69980007712aa2%2F0x0.jpg",
-          "width": 1080,
-          "height": 720,
-          "title": "Robots Play Pivotal Role In Keeping Travel Safe During Covid-19 Era",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/amp/",
-      "publishedDateTime": "2020-06-21T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

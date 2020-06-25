@@ -31,6 +31,20 @@ images:
     title: "C3.ai's Digital Transformation Institute issues awards for data-driven COVID-19 research"
 
 related:
+  - title: "C3.ai Digital Transformation Institute Announces COVID-19 Awards"
+    excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the first C3.ai DTI awards for artificial intelligence (AI) techniques to mitigate"
+    publishedDateTime: 2020-06-23T04:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/c3ai-digital-transformation-institute-announces-covid-19-awards-2020-06-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Grants Available for COVID-19 Research that Uses Artificial Intelligence and Big Data"
     excerpt: "Research that Uses Artificial Intelligence and Big Data | Read more about UCF Colleges & Campus News, Research, Orlando and Central Florida news."
     publishedDateTime: 2020-06-25T15:39:00Z
@@ -46,20 +60,6 @@ related:
       - url: "https://www.ucf.edu/news/files/2020/06/WebAI.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "C3.ai Digital Transformation Institute Announces COVID-19 Awards"
-    excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the first C3.ai DTI awards for artificial intelligence (AI) techniques to mitigate the COVID-19 pandemic. C3.ai DTI, jointly managed by the University of Illinois at Urbana-Champaign and the University of California,"
-    publishedDateTime: 2020-06-23T04:01:00Z
-    webUrl: "https://apnews.com/7aefe63736b6420abb073f7125f302bc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Princeton faculty members receive grants for COVID-19 research from C3.ai Digital Transformation Institute"
     excerpt: "By using the computing capabilities of C3.ai Suite and Microsoft Azure Cloud, we expect to analyze large volumes of location data as they are collected and adapt the intervention policy. We will make our research outcomes, including software, non ..."

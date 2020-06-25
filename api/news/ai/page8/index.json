@@ -2,6 +2,90 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-17-broadridge-executes-first-trades-on-ai-driven-digital-platform.md",
+      "title": "Broadridge Executes First Trades on AI-Driven Digital Platform",
+      "excerpt": "New York-based global fintech firm Broadridge today announced that its new AI-driven corporate bond trading platform, LTX®, has executed its first trades.",
+      "webUrl": "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financemagnates.com/wp-content/uploads/2016/01/New-York.jpg",
+          "width": 880,
+          "height": 400,
+          "title": "Broadridge Executes First Trades on AI-Driven Digital Platform",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/",
+      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/",
+      "publishedDateTime": "2020-06-17T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finance Magnates",
+        "domain": "financemagnates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art.md",
+      "title": "MIT researchers train AI to predict how humans paint works of art",
+      "excerpt": "MIT researchers created an AI model that generates time-lapse videos to predict how people paint still life and landscape art.",
+      "webUrl": "https://venturebeat.com/2020/06/17/mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/MIT-painting-ai.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "MIT researchers train AI to predict how humans paint works of art",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/17/mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art/amp/",
+      "publishedDateTime": "2020-06-17T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-equitable-tech-companies-pause-facial-recognition-but-major-questions-remain.md",
       "title": "Equitable tech: Companies pause facial recognition, but major questions remain",
       "excerpt": "In response to protest calling for police reform around the country, some of the biggest names in tech are taking a closer look at their facial recognition technologies.",
@@ -1203,98 +1287,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-ai-model-creates-3d-avatars-from-a-persons-picture.md",
-      "title": "AI model creates 3D avatars from a person’s picture",
-      "excerpt": "An AI system dubbed AvatarMe creates 3D avatars of people from nothing but face images, whether hand-drawn or photographed in black-and-white.",
-      "webUrl": "https://venturebeat.com/2020/06/16/ai-model-creates-3d-avatars-from-a-persons-picture/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/results_preview.gif?w=520&resize=520%2C293&strip=all",
-          "width": 520,
-          "height": 293,
-          "title": "AI model creates 3D avatars from a person’s picture",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/16/ai-model-creates-3d-avatars-from-a-persons-picture/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/ai-model-creates-3d-avatars-from-a-persons-picture/amp/",
-      "publishedDateTime": "2020-06-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing.md",
-      "title": "Amazon's new Distance Assistant uses AI to encourage social distancing",
-      "excerpt": "Amazon said Tuesday it's developed a new artificial intelligence system to help maintain social distancing in its warehouses, and it plans to share the underlying technology for free. Called Distance Assistant,",
-      "webUrl": "https://www.cnet.com/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/",
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/VVtAMDc2hhLaPrj5n2SzE2T5ZH8=/756x567/2020/06/16/1d156dc2-9fad-4065-af55-4c0247ccb4cc/amazon-distance-assistant-image.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Amazon's new Distance Assistant uses AI to encourage social distancing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/",
-      "publishedDateTime": "2020-06-16T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

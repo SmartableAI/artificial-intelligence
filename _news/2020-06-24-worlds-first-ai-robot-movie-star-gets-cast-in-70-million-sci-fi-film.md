@@ -8,7 +8,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/worlds-first-ai-robot-movie-st
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/worlds-first-ai-robot-movie-star-gets-cast-in-70-m/1100-6478953/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.indiewire.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-25-at-10.30.13-AM.png?w=670&h=377&crop=1"
         width: 670
         height: 377
+        isCached: true
+  - title: "AI robot trained in method acting to star in a $70 million sci-fi movie"
+    excerpt: "It seems on-brand with all that has been going on in the world that a sci-fi movie would cast a robot as its lead actress. The movie explores how a scientist who came up with a program to perfect human DNA must help the artificially intelligent woman he created,"
+    publishedDateTime: 2020-06-25T17:49:00Z
+    webUrl: "https://www.fastcompany.com/90521262/ai-robot-trained-in-method-acting-to-star-in-a-70-million-sci-fi-movie?partner=rss"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-ai-robot-trained-in-method-acting-to-star-in-a-dollar70-million-sci-fi-movie.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "IgRPIaOTJM+CSm5webJq/ctsuXPC6amct7G2PwOK5POtUDlrJEgZkpVT4IPoNC2HbVTDkPv3rtVzJ1/HKsTvWkbzGamgGEZvFzeOoCG7cDno2foBqWzKZqlLttcO9lkOcspe2NM5AeJrC3M9CSa7XWj5Quby1PMlwDogIDRZTlEKw7I2kdOKz4hHrPxUWBDzg/DWXO2dk0ool34GjKAuzaP1MZws8Csego4z8GcOurcDT3tBxZocMsJs+I80b3bqq0zaYJ1zReFcMqmXEWiTmyRZ7rcz0VkDlwoVQ/ZIm2ZqmZpPNo4kHyE3YTJzzXudPGCqDGTH0RoKVzg697n/+jMsACNR19LFT/wdhJ3FBTVHLPtSzvXrpVhQHAwjlg37AIpL0CfLzT/YVgxQ9T24AVnO0K4gfa1fJlDo7MxSmBHjC6vZnxMvcK0CnrQ5MWr58xWnOTXzQT9HyvaQfQ+5hwg2zm3N7wbS4hjGPXjOVlYBhGrSp0wVxDFWdzPGe8J+sFaMRvRofybwE43210mC+w==;Q8x8S7Sm8opwl0yAz2R89Q=="

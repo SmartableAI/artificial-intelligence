@@ -1,27 +1,30 @@
 ---
 category: news
 title: "C3.ai Digital Transformation Institute Announces COVID-19 Awards"
-excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the first C3.ai DTI awards for artificial intelligence (AI) techniques to mitigate the COVID-19 pandemic. C3.ai DTI, jointly managed by the University of Illinois at Urbana-Champaign and the University of California,"
+excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the first C3.ai DTI awards for artificial intelligence (AI) techniques to mitigate"
 publishedDateTime: 2020-06-23T04:01:00Z
-webUrl: "https://apnews.com/7aefe63736b6420abb073f7125f302bc"
+webUrl: "https://www.marketwatch.com/press-release/c3ai-digital-transformation-institute-announces-covid-19-awards-2020-06-23"
 type: article
-quality: 41
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-  - AI Ethics
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
     title: "C3.ai Digital Transformation Institute Announces COVID-19 Awards"
 
@@ -73,6 +76,6 @@ related:
         height: 810
         isCached: true
 
-secured: "ALCMX9TppXqjPJmsF40INjfoC4GEX+GdLx+q9r6tba5lAqbjB6b6VSyOk2RMMYnFe/o+ffIxtOT+Ch3WW8zDlQBTHnPsfRT4wwC0LqDNBgYudAcF4TqMHdq9JQXmhKtEUBp3mx4lAdyou2QQylVIPeREriyTYnlfoNn4K+2Zb4Z3z3228DJWhnZS81iuiC4Z8COVLrxlqCdf72APt/a9kCRxCNvk9rN+Q0HuJrVQI8LOlGM005+/K3mKVY9x6MODVTXNjw38hxd9QJnUY43RKL9c7KMnNdmm3ZrY61Ol7KTK5AQ0YgxY+iW0n4tfn1NjVI7UNSrhIyZWI9veRJJUbQ==;0gdxdsPQMw7ZNutTB7fRrw=="
+secured: "BGi7lGoaKuE7tCfI3YaTbVyNWpewER/NZt6opWwypTBNwg43KZdo1Gn8S/d8lKYcj/HM2nYjewoTP0G0Qfond71umx2IlcWvLIVmFZ+h//Vu5XvYKS1umWfR0HpaIKoC6fvnkM3Xtjo/dSzc9hLiFbnrz/WrpQAEjOp6PTyIt7yx9V6ZdVmDiSPzEY8VEKUkf1kpBtWw1luTuYcQlLBBQkB4bDzERgpDCBr1BxwpVaapdWWDe11fz7ah+LFj8OgwBSH2xR1QrS7bo7Zrnnhudb4TiY5MkHSNeWkA2FF9SBoLcGd+LqVELdZfpxbrHsDzoK5Yr50V/bhsE91mosOesg==;0xZpfni9Sr8aX+A/P5L+yQ=="
 ---
 

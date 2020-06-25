@@ -87,6 +87,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 37
+  - title: "Artificial Intelligence in Manufacturing Market- Global Industry Analysis By Development, Size, Share and Demand Forecast From to 2023"
+    excerpt: "Artificial Intelligence in Manufacturing Market: Global Drivers, Restraints, Opportunities, Trends, and Forecasts up"
+    publishedDateTime: 2020-06-25T16:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market--global-industry-analysis-by-development-size-share-and-demand-forecast-from-to-2023-2020-06-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Big Data Technology Market Global Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
     excerpt: "The global big data technology market is set to experience an impressive growth trajectory owing to the rising"
     publishedDateTime: 2020-06-24T07:08:00Z

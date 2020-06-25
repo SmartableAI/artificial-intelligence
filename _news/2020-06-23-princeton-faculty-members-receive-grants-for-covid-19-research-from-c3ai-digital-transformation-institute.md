@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "C3.ai Digital Transformation Institute Announces COVID-19 Awards"
+    excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the first C3.ai DTI awards for artificial intelligence (AI) techniques to mitigate"
+    publishedDateTime: 2020-06-23T04:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/c3ai-digital-transformation-institute-announces-covid-19-awards-2020-06-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Grants Available for COVID-19 Research that Uses Artificial Intelligence and Big Data"
     excerpt: "Research that Uses Artificial Intelligence and Big Data | Read more about UCF Colleges & Campus News, Research, Orlando and Central Florida news."
     publishedDateTime: 2020-06-25T15:39:00Z
@@ -56,20 +70,6 @@ related:
       - url: "https://www.ucf.edu/news/files/2020/06/WebAI.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "C3.ai Digital Transformation Institute Announces COVID-19 Awards"
-    excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the first C3.ai DTI awards for artificial intelligence (AI) techniques to mitigate the COVID-19 pandemic. C3.ai DTI, jointly managed by the University of Illinois at Urbana-Champaign and the University of California,"
-    publishedDateTime: 2020-06-23T04:01:00Z
-    webUrl: "https://apnews.com/7aefe63736b6420abb073f7125f302bc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 41
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "GWpmaOCBB80sEyM0LbBCIZl0YbKwyNqQuUDYO4PE+u9GKappT+rEInWy1owX5+aYq+tSEdeH0E7L9EkTuI6VCjTCReMFgzJ5w5XQ+Y0dXHGy9TVZLNXi4iv7OyOK2ZCo1M8uA74S4XJrHq7BHcymSjdKlUilV+4jsZ/9m+389xsMrRPWyvDJdlmXfhkhXADVk0xfVtk8ovjJ2LlNeY2KUFUoWERwwhWN6YnDzx/YflX+QYZo9U0lwH24H38xaVOUrCCEj0QNa8/+jT8J7Tn6CDV8vJJewKsG82pt1pM08N23zdrctQxwJMorCC/rZjKKYWQODqKylm3m4hJ/cBTfULwlDkKQo31tbYpEHtcU2+yWbASg0YbwhbMcUvfHWgsQzT2uMi2VeEdHqtFfeP56gFalSCHnFJPTb8/xw4BzavMS4iuyXp/VXfPJ43K6dWUgcD6867D7Wb2QUQ7oPl+J51JAGHy+1b0CUH2WMyj9dthcokkyoY+BtJNpZ/bhfhuKtpghIym/6F2xr12NBS2OHQ==;almXwjjF1u0TUWg0RJ4M+g=="
