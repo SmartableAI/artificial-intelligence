@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Lyft is using data from its ride-share drivers to develop self-driving cars"
-    excerpt: "Lyft is using data collected from drivers on its ride-hailing app to accelerate the development of self-driving cars. Lyft’s Level 5 self-driving car program is using the data to build 3D maps ..."
-    publishedDateTime: 2020-06-23T15:53:00Z
-    webUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/"
-    ampWebUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/06/lyft-maps.gif"
-        width: 600
-        height: 338
-        isCached: true
   - title: "BMW Takes Self-Driving to the Next Level"
     excerpt: "It’s the point at which you get to call something a self-driving car. BMW’s system—no proper marketing name yet—will debut on the iNext, an all-new, all-electric production vehicle modeled on the 2018 iNext concept, an exuberantly futuristic take ..."
     publishedDateTime: 2020-06-23T20:05:00Z
@@ -50,46 +34,35 @@ related:
         width: 1200
         height: 603
         isCached: true
-  - title: "Mighty Dust Storm Drifting Toward Southeastern U.S., Even Self-Driving Cars To Be Flummoxed"
-    excerpt: "Meteorologists are closely following some mega-sized dust plumes that are slowly drifting from the Sahara Desert and for which those murky clouds have already descended upon the normally scenic Caribbean islands,"
-    publishedDateTime: 2020-06-24T15:43:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/24/mighty-dust-storm-drifting-toward-southeastern-us-even-self-driving-cars-to-be-flummoxed/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/24/mighty-dust-storm-drifting-toward-southeastern-us-even-self-driving-cars-to-be-flummoxed/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/24/mighty-dust-storm-drifting-toward-southeastern-us-even-self-driving-cars-to-be-flummoxed/amp/"
+  - title: "Winnipeg-based company to test self-driving buses in the U.S."
+    excerpt: "Winnipeg-based New Flyer is going to be the first North America. David Warren, who is the director of sustainable transportation for New Flyer, said the project will take place in Connecticut and the Department of Transportation there will lead it."
+    publishedDateTime: 2020-06-23T21:28:00Z
+    webUrl: "https://winnipeg.ctvnews.ca/winnipeg-based-company-to-test-self-driving-buses-in-the-u-s-1.4996824"
+    ampWebUrl: "https://beta.ctvnews.ca/local/winnipeg/2020/6/23/1_4996824.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/winnipeg/2020/6/23/1_4996824.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: CTV News
+      domain: ctvnews.ca
     quality: 44
-  - title: "China deploys self-driving cars to deliver foods; disinfect places in the streets"
-    excerpt: "As a way to reduce the spread of coronavirus, China, according to Mashable, is using self-driving vans called Hercules to deliver foods and disinfect streets."
-    publishedDateTime: 2020-06-23T08:18:00Z
-    webUrl: "https://yen.com.gh/160685-china-deploys-driving-cars-deliver-foods-disinfect-places-streets.html"
-    ampWebUrl: "https://yen.com.gh/amp/160685-china-deploys-driving-cars-deliver-foods-disinfect-places-streets.html"
-    cdnAmpWebUrl: "https://yen-com-gh.cdn.ampproject.org/c/s/yen.com.gh/amp/160685-china-deploys-driving-cars-deliver-foods-disinfect-places-streets.html"
-    type: article
-    provider:
-      name: Yen.com.gh
-      domain: yen.com.gh
-    quality: 39
     images:
-      - url: "https://netstorage-yen.akamaized.net/images/542a3866856416d8.jpg"
-        width: 1200
-        height: 675
+      - url: "https://beta.ctvnews.ca/local/winnipeg/2020/6/23/1_4996824/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "China Deploys Self-Driving Cars To Deliver Foods; Disinfect Places In The Streets [Video]"
-    excerpt: "As a way to reduce the spread of coronavirus, China, according to Mashable, is using self-driving vans called Hercules to deliver foods and disinfect streets. In a Tweet shared by Mashable on Saturday,"
-    publishedDateTime: 2020-06-23T11:08:00Z
-    webUrl: "https://www.peacefmonline.com/pages/local/news/202006/415329.php"
+  - title: "Rugged COTS Platform Takes On Fast-Changing Needs of Self-Driving Trucks"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2020-06-22T21:19:00Z
+    webUrl: "https://www.computerworld.com/resources/204893/rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks"
     type: article
     provider:
-      name: Peace FM Online
-      domain: peacefmonline.com
-    quality: 15
+      name: Computerworld
+      domain: computerworld.com
+    quality: 23
     images:
-      - url: "https://w5p2r8x5.stackpathcdn.com/photos/news/202006/829420881_415791.jpg"
-        width: 600
-        height: 337
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "GHm4+AGqazJ6DwMKOwiIZlFuA2EgKRkGtVDwM68n4v47FVr9WFgG3YuDri29lsgB0QDNJuZgefMyxYige3BYATE0gTchFRNjvU3xGlwuwyShJQzm90VVgnwx9AXTJdDzTfwFeI8wvpC17VoWD3WVS9+KmvQnuywGBvjb2g0x224/TCpLpq31hCTzBhcHjb9AOhhsLNxblvIPnbSf+O21IrSw2/+Xe08W7/m7Km6k/7WfnDr7NM2ELL3u0/nVfWMg9iESx+DnhgTuvk6UzIRhJAt/cqyzCR1x7RNutXKKS93gadyHJd59934pStku/YFi9LnUn/DzPdnjV++rWTqIDw==;B0JvArLF21OthKBPOfhH5A=="

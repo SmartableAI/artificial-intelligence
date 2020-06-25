@@ -2,6 +2,44 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-29-colleges-prep-for-facial-recognition-temperatures-checks.md",
+      "title": "Colleges prep for facial recognition, temperatures checks",
+      "excerpt": "Drew Bogner, retiring president of Molloy College, says his school is preparing for many different scenarios for the start of the academic year.",
+      "webUrl": "https://www.newsday.com/news/health/coronavirus/college-coronavirus-1.45049734",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/polopoly_fs/1.45055781.1590775535!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": "Colleges prep for facial recognition, temperatures checks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/news/health/coronavirus/college-coronavirus-1.45049734",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/health/coronavirus/college-coronavirus-1.45049734",
+      "publishedDateTime": "2020-05-29T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians.md",
       "title": "Study finds Amazon's face recognition incorrectly matches 105 US and UK politicians",
       "excerpt": "Amazon's Rekognition software is still struggling with basic facial recognition, according to Comparitech, in a follow-up to an ACLU experiment.",
@@ -1233,44 +1271,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years.md",
-      "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
-      "excerpt": "Facial recognition technology led to a joyful reunion and a happy ending to what had been a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday.",
-      "webUrl": "https://www.wkrn.com/news/facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wkrn.com/wp-content/uploads/sites/73/2020/05/97DEC7C8C9EC4C018B904AD24A8ED6A2_7.jpg?w=576&h=324&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wkrn.com/news/facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years/amp/",
-      "cdnAmpWebUrl": "https://www-wkrn-com.cdn.ampproject.org/c/s/www.wkrn.com/news/facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years/amp/",
-      "publishedDateTime": "2020-05-20T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKRN",
-        "domain": "wkrn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

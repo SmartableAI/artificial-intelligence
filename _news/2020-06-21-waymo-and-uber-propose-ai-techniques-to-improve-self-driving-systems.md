@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniq
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     title: "Waymo and Uber propose AI techniques to improve self-driving systems"
 
 related:
+  - title: "Volvo will use Waymo technology to power its self-driving cars"
+    excerpt: "Volvo will use Waymo technology to guide its self-driving cars, including one built for ride-hailing services."
+    publishedDateTime: 2020-06-25T19:26:00Z
+    webUrl: "https://www.engadget.com/volvo-waymo-self-driving-car-partnership-192450966.html"
+    ampWebUrl: "https://www.engadget.com/amp/volvo-waymo-self-driving-car-partnership-192450966.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/volvo-waymo-self-driving-car-partnership-192450966.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F330f5320-b715-11ea-8bff-ded22acc56bd&client=amp-blogside-v2&signature=aa6885b83be1e636943df5f7d64dfe77790ff3a4"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "Waymo and Volvo Team to Make Self-Driving Vehicles"
+    excerpt: "Get Report Waymo is partnering with Volvo VLVLY to develop a self-driving electric vehicle designed for ride hailing, the companies said Thursday. Shares of Alphabe"
+    publishedDateTime: 2020-06-25T19:54:00Z
+    webUrl: "https://www.thestreet.com/investing/waymo-volvo-team-to-make-self-driving-vehicles"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/waymo-volvo-team-to-make-self-driving-vehicles"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/waymo-volvo-team-to-make-self-driving-vehicles"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://content.jwplatform.com/thumbs/Y5FbLPhi-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "AImotive secures $20 million to expand locations and self-driving technology"
     excerpt: "AImotive has become what it claims is the most-funded automated driving software supplier in Europe with an additional $20 million raised in funding. IEEE GlobalSpec websites place cookies on your device to give you the best user experience."
     publishedDateTime: 2020-06-23T13:39:00Z

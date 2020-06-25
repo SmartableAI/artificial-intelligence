@@ -2,11 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-25-boston-dynamics-will-ship-spot-with-a-robot-arm-in-a-few-months-and-for-home-use-someday.md",
+      "title": "Boston Dynamics will ship Spot with a robot arm ‘in a few months’ and for home use ‘someday’",
+      "excerpt": "Boston Dynamics will start selling Spot with a robot arm to businesses interested in mobile manipulation in a few months, and eventually for home use.",
+      "webUrl": "https://venturebeat.com/2020/06/25/boston-dynamics-spot-robot-arm-months-home-use-someday/",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/spot-robot-arm-home.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Boston Dynamics will ship Spot with a robot arm ‘in a few months’ and for home use ‘someday’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/25/boston-dynamics-spot-robot-arm-months-home-use-someday/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/boston-dynamics-spot-robot-arm-months-home-use-someday/amp/",
+      "publishedDateTime": "2020-06-25T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-worlds-first-ai-robot-movie-star-gets-cast-in-70-million-sci-fi-film.md",
       "title": "World's First AI Robot Movie Star Gets Cast In $70 Million Sci-Fi Film",
       "excerpt": "It was perhaps inevitable that we'd eventually get an AI movie star, and it seems that day is here. It's been reported that a new sci-fi movie is in development, and it's set to star an AI robot named Erica.",
       "webUrl": "https://www.gamespot.com/articles/worlds-first-ai-robot-movie-star-gets-cast-in-70-m/1100-6478953/",
-      "heat": 104,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1249,53 +1296,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-slamcore-wants-to-give-mobile-robots-better-spatial-intelligence.md",
-      "title": "Slamcore wants to give mobile robots better spatial intelligence",
-      "excerpt": "Slamcore is setting out to develop and commercialize AI-powered SLAM algorithms that give robots better positional awareness in any environment.",
-      "webUrl": "https://venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/",
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-932632442.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "Slamcore wants to give mobile robots better spatial intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/amp/",
-      "publishedDateTime": "2020-06-17T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

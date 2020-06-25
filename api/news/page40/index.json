@@ -2,6 +2,326 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-05-21-gain-customer-insights-using-amazon-aurora-machine-learning.md",
+      "title": "Gain customer insights using Amazon Aurora machine learning",
+      "excerpt": "In recent years, AWS customers have been running machine learning (ML) on an increasing variety of datasets and data sources. Because a large percentage of organizational data is stored in relational databases such as Amazon Aurora, there’s a common need to make this relational data available for training",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/gain-customer-insights-using-amazon-aurora-machine-learning/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/05/gain-customer-insights-1.gif",
+          "width": 726,
+          "height": 413,
+          "title": "Gain customer insights using Amazon Aurora machine learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T13:56:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-the-register-calls-for-aid-and-microsofts-rohan-kumar-will-answer-our-questions-about-sql-edge-and-azure-synapse.md",
+      "title": "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse",
+      "excerpt": "Build There was SQL Edge and Azure Synapse news at Microsoft's reimagined Build gathering this week, so The Register had a chat with corporate vice president Rohan Kumar about the company's database ambitions.",
+      "webUrl": "https://www.theregister.co.uk/2020/05/21/sql_edge_azure_synapse/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/01/15/shutterstock_db.jpg",
+          "width": 648,
+          "height": 429,
+          "title": "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/21/sql_edge_azure_synapse/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/21/sql_edge_azure_synapse/",
+      "publishedDateTime": "2020-05-21T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-gap-is-rushing-more-robots-into-its-warehouses-to-handle-coronavirus-disruption.md",
+      "title": "Gap is rushing more robots into its warehouses to handle coronavirus disruption",
+      "excerpt": "The news illustrates how the pandemic may speed up automation in the retail industry. Companies including Gap and Amazon have long used such systems for a range of tasks, like moving items across warehouse floors.",
+      "webUrl": "https://www.cnbc.com/2020/05/21/gap-rushing-more-robots-into-warehouses.html",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106547755-1590087185389gap.jpg?v=1590087262",
+          "width": 1326,
+          "height": 745,
+          "title": "Gap is rushing more robots into its warehouses to handle coronavirus disruption",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/21/gap-rushing-more-robots-into-warehouses.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/21/gap-rushing-more-robots-into-warehouses.html",
+      "publishedDateTime": "2020-05-21T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-ai-chips-in-2020-nvidia-and-the-challengers.md",
+      "title": "AI chips in 2020: Nvidia and the challengers",
+      "excerpt": "Now that the dust from Nvidia's unveiling of its new Ampere AI chip has settled, let's take a look at the AI chip market behind the scenes and away from the spotlight",
+      "webUrl": "https://www.zdnet.com/article/ai-chips-in-2020-nvidia-and-the-challengers/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2019/04/03/156d6478-5ded-4ada-835a-784899fa6564/abstraction-layer-runai.png",
+          "width": 954,
+          "height": 672,
+          "title": "AI chips in 2020: Nvidia and the challengers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-2020-nvidia-and-the-challengers/",
+      "publishedDateTime": "2020-05-21T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-a-case-for-cooperation-between-machines-and-humans.md",
+      "title": "A Case for Cooperation Between Machines and Humans",
+      "excerpt": "A computer scientist argues that the quest for fully automated robots is misguided, perhaps even dangerous. His decades of warnings are gaining more attention.",
+      "webUrl": "https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.html",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/04/30/business/30hybrid/01hybrid-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "A Case for Cooperation Between Machines and Humans",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.amp.html",
+      "publishedDateTime": "2020-05-21T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-microsoft-in-collaboration-with-openai-unveils-ai-supercomputer.md",
+      "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
+      "excerpt": "During its Build 2020 developer conference on Tuesday, Microsoft unveiled the new supercomputer built in collaboration with OpenAI, an artificial intelligence startup found by Elon Musk. Microsoft announced that the supercomputer hosted in Azure was developed exclusively to train OpenAI’s large-scale artificial intelligence models.",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai",
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1587037150/itpro/MicrosoftLogo.jpg",
+          "width": 5157,
+          "height": 2973,
+          "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai?amp",
+      "publishedDateTime": "2020-05-21T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-the-trash-apps-new-features-can-create-ai-edited-music-videos-and-more.md",
+      "title": "The Trash app’s new features can create AI-edited music videos and more",
+      "excerpt": "The team behind Trash, an app that uses artificial intelligence to edit your video footage, launched a number of new features this week that should make it more useful for anyone — but especially independent musicians.",
+      "webUrl": "https://techcrunch.com/2020/05/21/trash-app-music-video/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Founders-2.jpg?w=1024",
+          "width": 1024,
+          "height": 592,
+          "title": "The Trash app’s new features can create AI-edited music videos and more",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/05/21/trash-app-music-video/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/21/trash-app-music-video/amp/",
+      "publishedDateTime": "2020-05-21T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-facebook-is-turning-to-ai-to-teach-kids-about-stranger-danger.md",
       "title": "Facebook Is Turning to AI to Teach Kids About Stranger Danger",
       "excerpt": "Scams and creepers abound on Facebook Messenger. To combat them, Facebook is now turning to artificial intelligence. A new AI-powered safety feature for Messenger will now help people, particularly kids,",
@@ -758,272 +1078,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-deep-learning-market-analysis-as-per-the-latest-covid-19-impact.md",
-      "title": "Deep Learning Market Analysis as per the Latest COVID-19 Impact",
-      "excerpt": "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The Deep Learning Market is expected to be around US$ 25.",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-as-per-the-latest-covid-19-impact-2020-05-21",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market Analysis as per the Latest COVID-19 Impact",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-patriot-one-selected-for-45m-cad-co-investment-from-digital-technology-supercluster-covid-19-program.md",
-      "title": "Patriot One Selected for $4.5M CAD Co-Investment from Digital Technology Supercluster COVID-19 Program",
-      "excerpt": "The Health & Safety Modules are additional video object recognition solutions that have been added to the PATSCAN Platform, which also includes weapon detection, disturbance and fight detection modules. “Our mission has always been to create safer ...",
-      "webUrl": "https://stockhouse.com/news/press-releases/2020/05/21/patriot-one-selected-for-4-5m-cad-co-investment-from-digital-technology",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-sogou-introduces-worlds-first-3d-ai-news-anchor.md",
-      "title": "Sogou Introduces World's First 3D AI News Anchor",
-      "excerpt": "PRNewswire/ -- Sogou Inc. (NYSE: SOGO) ('Sogou' or 'the Company'), an innovator in search and a leader in China's internet",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sogou-introduces-world-s-first-3d-ai-news-anchor-1029222053",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/sogou-introduces-world-s-first-3d-ai-news-anchor-1029222053",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sogou-introduces-world-s-first-3d-ai-news-anchor-1029222053",
-      "publishedDateTime": "2020-05-20T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years.md",
-      "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
-      "excerpt": "Unbelievable! 😲 With the help of facial recognition, this man who was abducted as a child 32 years ago, was finally reunited with his birth parents.",
-      "webUrl": "https://abc7.com/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/6200174_052020-ktrk-cnn-facial-recognition-reunites-family-carolina-final.png",
-          "width": 1920,
-          "height": 1080,
-          "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abc7.com/amp/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/",
-      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/child-abducted-in-china-man-reunited-with-birth-parents-after-32-years-facial-recognition-helps-reunite/6200119/",
-      "publishedDateTime": "2020-05-20T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7",
-        "domain": "abc7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-brain-hacking-with-entrainment.md",
-      "title": "Brain Hacking With Entrainment",
-      "excerpt": "At its most basic we’ve seen toys and simple hobby projects that purport to be “mind controlled” but only at an incredibly rudimentary level. Brainwave entrainment is a hypothesis that ...",
-      "webUrl": "https://hackaday.com/2019/04/08/brain-hacking-with-entrainment/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2017/04/deep.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": "Brain Hacking With Entrainment",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-dig-deeper-artificial-intelligence-and-trucking.md",
-      "title": "Dig Deeper: Artificial Intelligence and Trucking",
-      "excerpt": "In our May 2020 issue, we shared five ways artificial intelligence can help ... HDT Talks Trucking Podcast: Self-driving Trucks: Savior or Scourge for Trucking? Richard Bishop, AI industry analyst ...",
-      "webUrl": "https://www.truckinginfo.com/358975/dig-deeper-artificial-intelligence-and-trucking",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fleetimages.bobitstudios.com/upload/trucking-info/content/article/2020-05/artificial-intelligence-gerdaltmannpixabay-__-1200x630-s.jpg",
-          "width": 1118,
-          "height": 630,
-          "title": "Dig Deeper: Artificial Intelligence and Trucking",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Truckinginfo",
-        "domain": "truckinginfo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-leigh-johnsons-guide-to-machine-vision-on-raspberry-pi.md",
-      "title": "Leigh Johnson’s Guide To Machine Vision On Raspberry Pi",
-      "excerpt": "When Leigh started exploring, she didn’t find enough satisfactory end-to-end examples for TensorFlow machine vision on Raspberry Pi, so she created her own to share and help future people who ...",
-      "webUrl": "https://hackaday.com/2019/03/01/leigh-johnsons-guide-to-machine-vision-on-raspberry-pi/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/03/leigh-johnson-machine-vision-pi-fire-engine-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Leigh Johnson’s Guide To Machine Vision On Raspberry Pi",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

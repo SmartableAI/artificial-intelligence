@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-11-facial-recognition-tech-developed-by-clearview-ai-could-be-illegal-in-europe-privacy-group-says.md",
+      "title": "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says",
+      "excerpt": "The European Data Protection Board warned on Wednesday that Clearview AI's technology is likely to be illegal in Europe.",
+      "webUrl": "https://www.cnbc.com/2020/06/11/clearview-ai-facial-recognition-europe.html",
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775",
+          "width": 3999,
+          "height": 2666,
+          "title": "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html",
+      "publishedDateTime": "2020-06-11T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-hawaii-travel-update-quarantine-extended-interisland-travel-facial-recognition-safe-routes.md",
       "title": "Hawaii Travel Update: Quarantine Extended, Interisland Travel, Facial Recognition, Safe Routes",
       "excerpt": "Here’s the latest news about COVID-19 travel coming out of Hawaii: Out of state visitors are out of luck until at least August, as Hawaii has extended its mandatory 14-day quarantine through the end of July.",
@@ -1239,44 +1287,6 @@
       "provider": {
         "name": "Tom's Guide",
         "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-colleges-prep-for-facial-recognition-temperatures-checks.md",
-      "title": "Colleges prep for facial recognition, temperatures checks",
-      "excerpt": "Drew Bogner, retiring president of Molloy College, says his school is preparing for many different scenarios for the start of the academic year.",
-      "webUrl": "https://www.newsday.com/news/health/coronavirus/college-coronavirus-1.45049734",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsday.com/polopoly_fs/1.45055781.1590775535!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": "Colleges prep for facial recognition, temperatures checks",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/news/health/coronavirus/college-coronavirus-1.45049734",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/health/coronavirus/college-coronavirus-1.45049734",
-      "publishedDateTime": "2020-05-29T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
         "images": null,
         "publishers": null,
         "authors": null

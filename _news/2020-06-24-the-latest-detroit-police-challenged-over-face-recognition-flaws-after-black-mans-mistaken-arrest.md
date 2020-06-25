@@ -25,22 +25,6 @@ images:
     title: "The Latest: Detroit police challenged over face recognition flaws after Black man’s mistaken arrest"
 
 related:
-  - title: "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition"
-    excerpt: "Activists have objected to the use of facial recognition by law enforcement for years, as the technology has been shown to display racial bias."
-    publishedDateTime: 2020-06-25T09:38:00Z
-    webUrl: "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
-    images:
-      - url: "https://i.insider.com/5d9b1756138e4a2e893e4931?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Detroit police challenged over face recognition flaws, bias"
     excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police. And for the department to abandon its use of the controversial technology."
     publishedDateTime: 2020-06-24T20:10:00Z
@@ -56,6 +40,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/12/57/24/19592470/17/375x250.jpg"
         width: 347
         height: 250
+        isCached: true
+  - title: "Detroit police challenged over face recognition flaws"
+    excerpt: "The complaint by Robert Williams is a rare challenge from someone who not only experienced an erroneous face recognition hit, but was able to discover that it was responsible for his subsequent troubles."
+    publishedDateTime: 2020-06-24T17:55:00Z
+    webUrl: "https://www.pbs.org/newshour/nation/detroit-police-challenged-over-face-recognition-flaws"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/detroit-police-challenged-over-face-recognition-flaws"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/detroit-police-challenged-over-face-recognition-flaws"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 59
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/06/GettyImages-1149113711-1024x718.jpg"
+        width: 1024
+        height: 718
         isCached: true
   - title: "Detroit police challenged over face recognition flaws, bias | Charlotte Observer"
     excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police."

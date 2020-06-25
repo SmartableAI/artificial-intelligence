@@ -27,22 +27,6 @@ images:
     title: "Police use of facial recognition 'disproportionate', landmark court case hears"
 
 related:
-  - title: "Lawmakers propose indefinite nationwide ban on police use of facial recognition"
-    excerpt: "The proposed law would prevent police, both federal and local, from using facial recognition until Congress passes a bill lifting the ban."
-    publishedDateTime: 2020-06-25T17:43:00Z
-    webUrl: "https://www.cnet.com/news/lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/frnYR1dnFZM7iRquJi9FF9Ccs0c=/756x567/2020/06/25/28bb78d1-6da9-4408-a8ea-5e06ec105b3d/gettyimages-869082432.jpg"
-        width: 756
-        height: 567
-        isCached: true
   - title: "Boston bans most city use of facial-recognition tech in privacy win"
     excerpt: "Boston joins cities like San Francisco in banning the official use of facial-recognition tech after the unanimous vote."
     publishedDateTime: 2020-06-24T19:27:00Z
@@ -59,37 +43,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Boston bans police from using facial recognition technology"
-    excerpt: "Boston has banned police from using facial recognition technology, becoming the second-largest U.S. community to do so."
-    publishedDateTime: 2020-06-24T22:10:00Z
-    webUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology"
-    ampWebUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
+  - title: "Boston bans government use of facial recognition"
+    excerpt: "Boston City Council has voted to ban the use of facial recognition by the municipality, joining a growing list of US cities to restrict use of the tech."
+    publishedDateTime: 2020-06-25T18:08:00Z
+    webUrl: "https://thenextweb.com/neural/2020/06/25/boston-bans-government-use-of-facial-recognition/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/06/25/boston-bans-government-use-of-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/25/boston-bans-government-use-of-facial-recognition/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
+      name: The Next Web
+      domain: thenextweb.com
     quality: 74
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/facial-recognition-iStock.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "2 Democratic senators to propose ban on use of facial recognition by federal law enforcement"
-    excerpt: "The bill would also make federal funding for state and local law enforcement contingent on the enactment of similar bans."
-    publishedDateTime: 2020-06-25T17:14:00Z
-    webUrl: "https://www.nbcnews.com/tech/security/2-democratic-senators-propose-ban-use-facial-recognition-federal-law-n1232128"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1232128"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1232128"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 63
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2019_46/3101861/191114-facial-recognition-se-724p_89349dce96428fbb668c940dd897e041.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-84-1-796x417.png"
+        width: 796
+        height: 417
         isCached: true
   - title: "UK’s facial recognition technology ‘breaches privacy rights’"
     excerpt: "South Wales police accused of using system with ‘racial bias’ that breaks data protection law Notices displayed by the Metropolitan Police notify the public of the use of automated facial recognition cameras around Whitehall for the Remembrance Sunday ..."
@@ -107,22 +75,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Detroit police challenged over face recognition flaws"
-    excerpt: "The complaint by Robert Williams is a rare challenge from someone who not only experienced an erroneous face recognition hit, but was able to discover that it was responsible for his subsequent troubles."
-    publishedDateTime: 2020-06-24T17:55:00Z
-    webUrl: "https://www.pbs.org/newshour/nation/detroit-police-challenged-over-face-recognition-flaws"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/detroit-police-challenged-over-face-recognition-flaws"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/detroit-police-challenged-over-face-recognition-flaws"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 59
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/06/GettyImages-1149113711-1024x718.jpg"
-        width: 1024
-        height: 718
-        isCached: true
   - title: "Rose Bowl officials defend use of facial recognition program during the big game"
     excerpt: "Recent media reports painted a dystopian picture of the Rose Bowl’s facial recognition programs used Jan. 1, but stadium officials say they got it wrong."
     publishedDateTime: 2020-06-23T20:24:00Z
@@ -138,38 +90,6 @@ related:
       - url: "https://www.dailynews.com/wp-content/uploads/2020/06/Gallery43-1.jpg?w=1024&h=703"
         width: 1024
         height: 703
-        isCached: true
-  - title: "Facial-Recognition Tools Banned for Boston Police"
-    excerpt: "The Boston City Council voted unanimously Wednesday to prohibit police from using facial-recognition technology, becoming the largest city in the country to do so after San Francisco."
-    publishedDateTime: 2020-06-24T20:56:00Z
-    webUrl: "https://www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
-    ampWebUrl: "https://www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 44
-    images:
-      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2019/06/facial-recognition-graphic.png?fit=1240%2C1021&#038;ssl=1"
-        width: 1240
-        height: 1021
-        isCached: true
-  - title: "The City Of Boston Will Be Banning The Use Of Facial Recognition Based Surveillance"
-    excerpt: "While some parts of the world, facial recognition based surveillance is being adopted, there are some part of the world where the technology is"
-    publishedDateTime: 2020-06-24T23:48:00Z
-    webUrl: "https://www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/"
-    ampWebUrl: "https://www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/amp/"
-    type: article
-    provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
-    quality: 38
-    images:
-      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2018/04/security-camera.jpg"
-        width: 900
-        height: 600
         isCached: true
   - title: "Boston Bans Use Of Facial Recognition Technology. It's The 2nd-Largest City To Do So"
     excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."
@@ -209,48 +129,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 24
-  - title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition..."
-    excerpt: "The city council unanimously voted on Wednesday to ban the use of the technology and prohibit any city official from obtaining facial surveillance by asking for it through third parties. The measure will now go to Mayor Marty Walsh with a veto-proof majority."
-    publishedDateTime: 2020-06-25T00:08:00Z
-    webUrl: "https://wfuv.org/content/boston-lawmakers-vote-ban-use-facial-recognition-technology-city"
-    type: article
-    provider:
-      name: WFUV
-      domain: wfuv.org
-    quality: 24
-    images:
-      - url: "https://wfuv.org/sites/default/files/logo_0.png"
-        width: 342
-        height: 240
-        isCached: true
-  - title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition Technology By The City"
-    excerpt: "Boston is poised to ban its use of facial surveillance technology, becoming the second-largest community in the world to do so. The city council"
-    publishedDateTime: 2020-06-25T01:17:00Z
-    webUrl: "https://www.wnpr.org/post/boston-lawmakers-vote-ban-use-facial-recognition-technology-city"
-    type: article
-    provider:
-      name: WNPR
-      domain: wnpr.org
-    quality: 21
-    images:
-      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202006/883132109.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Legislation would block police from using facial recognition with body cam footage"
-    excerpt: "The newly introduced Stop Biometric Surveillance by Law Enforcement Act would ban federal law enforcement agencies from using facial recognition and other biometric surveillance technologies on"
-    publishedDateTime: 2020-06-23T18:38:00Z
-    webUrl: "https://www.biometricupdate.com/202006/legislation-would-block-police-from-using-facial-recognition-with-body-cam-footage"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/06/25113324/axon-body-camera-police.jpg"
-        width: 1600
-        height: 1065
-        isCached: true
 
 secured: "xTggVyEg79hZikbfIFbNHnYqkWfLSKGDLRS45yZygnZSZXG+90DfMJ3QwRnP4zzAf3bZmncvbY4RKbFQVIpfD0ziYjW1uoCxL42ekmLHDgOds7dUFnNZ9GoedL+Ly0kCbdjZY3ctAwT5MyAqJI/MaTT8LYDUumIaalS/ywoEF+kM1viJout7MYvNF+Jl28nwtyJ6LC0PQhS1c6ZjBsHrvK5wrYnHA+sarcBfQDjKvB3JNleX9R0ah3bChRy+7FrJUptFKmIh6fTVTDGp4awVsbvRPcc/W5U14h4mtWKjkTki5Qyj6a6qA4qtv6HYjzSULSRK95SWqM3Uzwk6gu/wHNyws65JaSDtrUnpHtdAKl6JdpJus5OQiwdpqCYUiWnBg1Uq52zZYF5cofbnlM4v8rJ96E9wc+4mvpBBINov4+lYHioZ3QBbTEtNbi5PpitMuS8/eK+iY2zmSvSSFkkHz6ih3xHyZcyk+/UdsYbrWIXSo3yjOOZUrgrqTWPDeUjkomFeK0hAjrtft1aJ5MUH2Q==;gbyJ9zxah+QMhAQFzJe7Bg=="
 ---

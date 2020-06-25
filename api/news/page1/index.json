@@ -2,33 +2,33 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-06-25-lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition.md",
-      "title": "Lawmakers propose indefinite nationwide ban on police use of facial recognition",
-      "excerpt": "The proposed law would prevent police, both federal and local, from using facial recognition until Congress passes a bill lifting the ban.",
-      "webUrl": "https://www.cnet.com/news/lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition/",
-      "heat": 237,
+      "path": "_news/2020-06-25-boston-dynamics-will-ship-spot-with-a-robot-arm-in-a-few-months-and-for-home-use-someday.md",
+      "title": "Boston Dynamics will ship Spot with a robot arm ‘in a few months’ and for home use ‘someday’",
+      "excerpt": "Boston Dynamics will start selling Spot with a robot arm to businesses interested in mobile manipulation in a few months, and eventually for home use.",
+      "webUrl": "https://venturebeat.com/2020/06/25/boston-dynamics-spot-robot-arm-months-home-use-someday/",
+      "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://cnet2.cbsistatic.com/img/frnYR1dnFZM7iRquJi9FF9Ccs0c=/756x567/2020/06/25/28bb78d1-6da9-4408-a8ea-5e06ec105b3d/gettyimages-869082432.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Lawmakers propose indefinite nationwide ban on police use of facial recognition",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/spot-robot-arm-home.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Boston Dynamics will ship Spot with a robot arm ‘in a few months’ and for home use ‘someday’",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition/",
-      "publishedDateTime": "2020-06-25T10:43:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2020/06/25/boston-dynamics-spot-robot-arm-months-home-use-someday/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/boston-dynamics-spot-robot-arm-months-home-use-someday/amp/",
+      "publishedDateTime": "2020-06-25T11:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -44,9 +44,140 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-waymo-inks-deal-with-volvo-to-develop-self-driving-electric-cars.md",
+      "title": "Waymo inks deal with Volvo to develop self-driving electric cars",
+      "excerpt": "Waymo has inked a deal with Volvo Cars Group to develop fully electric self-driving passenger cars, the two companies announced.",
+      "webUrl": "https://venturebeat.com/2020/06/25/waymo-inks-deal-with-volvo-to-develop-self-driving-electric-cars/",
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/waymo-one-dome-e1585787576926.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Waymo inks deal with Volvo to develop self-driving electric cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/25/waymo-inks-deal-with-volvo-to-develop-self-driving-electric-cars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/waymo-inks-deal-with-volvo-to-develop-self-driving-electric-cars/amp/",
+      "publishedDateTime": "2020-06-25T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-teslas-most-robust-self-driving-package-will-cost-more-again.md",
+      "title": "Tesla's most robust self-driving package will cost more — again",
+      "excerpt": "It'll soon cost you $8,000 to buy a Tesla upgrade package, which includes some features that don't even exist yet. Tesla's Full Self-Driving package is a future-ready option for t",
+      "webUrl": "https://mashable.com/article/tesla-fsd-price-increase-/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F25%252Fd1%252F85b76a05bbb241488ffceb4b20b4d9a3.8b07b.jpg%252F1200x630.jpg?signature=Kdns6EbdS8gZHz0DCtCccLpQqcE=",
+          "width": 1200,
+          "height": 630,
+          "title": "Tesla's most robust self-driving package will cost more — again",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/tesla-fsd-price-increase-.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-price-increase-.amp",
+      "publishedDateTime": "2020-06-25T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-feds-would-be-banned-from-using-facial-recognition-under-new-bill.md",
+      "title": "Feds would be banned from using facial recognition under new bill",
+      "excerpt": "Democrats introduced a new bill that would ban federal law enforcement from using facial recognition technology and make it more difficult for state and local police departments to use the tech. The Facial Recognition and Biometric Technology Moratorium Act of 2020,",
+      "webUrl": "https://www.theverge.com/2020/6/25/21303355/facial-recognition-ed-markey-ayanna-pressley-ban-federal-agencies-fed-law-enforcement",
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/im0bF6Wt0wvixDyM-9eYhRYPLwI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66982255/acastro_180730_1777_facial_recognition_0003.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Feds would be banned from using facial recognition under new bill",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/25/21303355/facial-recognition-ed-markey-ayanna-pressley-ban-federal-agencies-fed-law-enforcement",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/25/21303355/facial-recognition-ed-markey-ayanna-pressley-ban-federal-agencies-fed-law-enforcement",
+      "publishedDateTime": "2020-06-25T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -834,53 +965,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-25-a-black-man-in-detroit-was-arrested-and-detained-for-30-hours-after-being-falsely-identified-by-facial-recognition.md",
-      "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
-      "excerpt": "Activists have objected to the use of facial recognition by law enforcement for years, as the technology has been shown to display racial bias.",
-      "webUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6",
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5d9b1756138e4a2e893e4931?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
-      "publishedDateTime": "2020-06-25T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-25-how-technology-will-create-these-7-jobs-in-the-future.md",
       "title": "How Technology Will Create These 7 Jobs In The Future",
       "excerpt": "These seven futuristic LinkedIn job ads can offer a small glimpse into a future where our children grow up to be hologram stylists, chief empathy officers, or even augmented reality life designers.",
@@ -979,7 +1063,7 @@
       "title": "A Flawed Facial Recognition System Sent This Man to Jail",
       "excerpt": "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used.",
       "webUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/",
-      "heat": 434,
+      "heat": 474,
       "tags": null,
       "images": [
         {
@@ -1022,33 +1106,33 @@
       ]
     },
     {
-      "path": "_news/2020-06-24-vb-transform-2020-the-event-for-ai-decision-makers-to-be-hosted-online-with-tame.md",
-      "title": "VB Transform 2020, the event for AI decision-makers, to be hosted online with Tame",
-      "excerpt": "VentureBeat is excited to announce Tame as the technology platform for  VB Transform 2020, the leading digital AI event for business executives, hosted online July 15-17.",
-      "webUrl": "https://venturebeat.com/2020/06/24/vb-transform-2020-the-event-for-ai-decision-makers-to-be-hosted-online-with-tame/",
-      "heat": 83,
+      "path": "_news/2020-06-24-boston-bans-police-from-using-facial-recognition-technology.md",
+      "title": "Boston bans police from using facial recognition technology",
+      "excerpt": "Boston has banned police from using facial recognition technology, becoming the second-largest U.S. community to do so.",
+      "webUrl": "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology",
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/VB-Transform-2020.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "VB Transform 2020, the event for AI decision-makers, to be hosted online with Tame",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/facial-recognition-iStock.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Boston bans police from using facial recognition technology",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/24/vb-transform-2020-the-event-for-ai-decision-makers-to-be-hosted-online-with-tame/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/vb-transform-2020-the-event-for-ai-decision-makers-to-be-hosted-online-with-tame/amp/",
-      "publishedDateTime": "2020-06-24T14:30:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp",
+      "publishedDateTime": "2020-06-24T15:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1064,92 +1148,7 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-biased-ai-perpetuates-racial-injustice.md",
-      "title": "Biased AI perpetuates racial injustice",
-      "excerpt": "As we increasingly rely on AI, we must be vigilant to ensure these programs are helping to solve problems of racial injustice, rather than perpetuate and magnify them.",
-      "webUrl": "https://techcrunch.com/2020/06/24/biased-ai-perpetuates-racial-injustice/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-508482219.jpg?w=1024",
-          "width": 1024,
-          "height": 751,
-          "title": "Biased AI perpetuates racial injustice",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/24/biased-ai-perpetuates-racial-injustice/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/24/biased-ai-perpetuates-racial-injustice/amp/",
-      "publishedDateTime": "2020-06-24T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-worlds-first-ai-robot-movie-star-gets-cast-in-70-million-sci-fi-film.md",
-      "title": "World's First AI Robot Movie Star Gets Cast In $70 Million Sci-Fi Film",
-      "excerpt": "It was perhaps inevitable that we'd eventually get an AI movie star, and it seems that day is here. It's been reported that a new sci-fi movie is in development, and it's set to star an AI robot named Erica.",
-      "webUrl": "https://www.gamespot.com/articles/worlds-first-ai-robot-movie-star-gets-cast-in-70-m/1100-6478953/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamespot1.cbsistatic.com/uploads/original/1557/15576725/3690829-erica.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "World's First AI Robot Movie Star Gets Cast In $70 Million Sci-Fi Film",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/worlds-first-ai-robot-movie-star-gets-cast-in-70-m/1100-6478953/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/worlds-first-ai-robot-movie-star-gets-cast-in-70-m/1100-6478953/",
-      "publishedDateTime": "2020-06-24T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
+        "Natural Language Processing",
         "AI"
       ]
     }

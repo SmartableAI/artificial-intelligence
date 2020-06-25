@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Mercedes Benz and NVIDIA to develop new self driving architecture"
-    excerpt: "Mercedes Benz has announced that they are working with NVIDIA to develops a new Software-Defined Computing Architecture for their future self driving cars. This new architecture will be built in NVIDIA’s DRIVETM platform and it will be standard in the ..."
-    publishedDateTime: 2020-06-24T09:11:00Z
-    webUrl: "https://www.geeky-gadgets.com/mercedes-benz-and-nvidia-to-develop-new-self-driving-architecture-24-06-2020"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/06/Mercedes-Benz-and-NVIDIA-.jpg"
-        width: 700
-        height: 495
-        isCached: true
   - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
     excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees"
     publishedDateTime: 2020-06-23T06:51:00Z
@@ -96,20 +82,6 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
-  - title: "Nvidia teams with Mercedes-Benz to build self-driving cars"
-    excerpt: "It will contain a graphics processing unit to run the artificial intelligence models that power a self-driving car’s autonomy features. Nvidia has shared several details about the Drive AGX Orin ..."
-    publishedDateTime: 2020-06-23T17:38:00Z
-    webUrl: "https://siliconangle.com/2020/06/23/nvidia-teams-mercedes-benz-build-software-defined-cars/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/nvidia-1.png"
-        width: 718
-        height: 400
-        isCached: true
   - title: "Mercedes-Benz partners with Nvidia for next-gen self-driving vehicles"
     excerpt: "Software-defined computing architecture based on Nvidia Drive platform Mercedes-Benz has partnered up with Nvidia to create a new in-vehicle computing system and AI computing infrastructure, all based on a new software-defined architecture that will be rolling out to the fleet of next-generation"
     publishedDateTime: 2020-06-24T23:15:00Z

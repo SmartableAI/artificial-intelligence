@@ -8,8 +8,8 @@ ampWebUrl: "https://www.businessinsider.com/black-man-arrested-after-being-false
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp"
 type: article
 quality: 82
-heat: 112
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,46 +31,65 @@ images:
     title: "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition"
 
 related:
-  - title: "Detroit police challenged over face recognition flaws, bias"
-    excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police. And for the department to abandon its use of the controversial technology."
-    publishedDateTime: 2020-06-24T20:10:00Z
-    webUrl: "https://www.sfgate.com/business/article/Detroit-police-challenged-over-face-recognition-15362382.php"
-    ampWebUrl: "https://www.sfgate.com/business/amp/Detroit-police-challenged-over-face-recognition-15362382.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/amp/Detroit-police-challenged-over-face-recognition-15362382.php"
+  - title: "Feds would be banned from using facial recognition under new bill"
+    excerpt: "Democrats introduced a new bill that would ban federal law enforcement from using facial recognition technology and make it more difficult for state and local police departments to use the tech. The Facial Recognition and Biometric Technology Moratorium Act of 2020,"
+    publishedDateTime: 2020-06-25T18:10:00Z
+    webUrl: "https://www.theverge.com/2020/6/25/21303355/facial-recognition-ed-markey-ayanna-pressley-ban-federal-agencies-fed-law-enforcement"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/25/21303355/facial-recognition-ed-markey-ayanna-pressley-ban-federal-agencies-fed-law-enforcement"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/25/21303355/facial-recognition-ed-markey-ayanna-pressley-ban-federal-agencies-fed-law-enforcement"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 59
+      name: The Verge
+      domain: theverge.com
+    quality: 89
     images:
-      - url: "https://s.hdnux.com/photos/01/12/57/24/19592470/17/375x250.jpg"
-        width: 347
-        height: 250
+      - url: "https://cdn.vox-cdn.com/thumbor/im0bF6Wt0wvixDyM-9eYhRYPLwI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66982255/acastro_180730_1777_facial_recognition_0003.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
-  - title: "Detroit police challenged over face recognition flaws, bias | Charlotte Observer"
-    excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police."
-    publishedDateTime: 2020-06-24T12:27:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article243758167.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article243758167.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article243758167.html"
+  - title: "Lawmakers propose indefinite nationwide ban on police use of facial recognition"
+    excerpt: "The proposed law would prevent police, both federal and local, from using facial recognition until Congress passes a bill lifting the ban."
+    publishedDateTime: 2020-06-25T17:43:00Z
+    webUrl: "https://www.cnet.com/news/lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition/"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 34
-  - title: "The Latest: Detroit police challenged over face recognition flaws after Black man’s mistaken arrest"
-    excerpt: "The latest on protests against racism and police brutality around the U.S. and the world. A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police."
-    publishedDateTime: 2020-06-24T15:37:00Z
-    webUrl: "https://www.pressherald.com/2020/06/24/the-latest-detroit-police-challenged-over-face-recognition-flaws-after-black-mans-mistaken-arrest/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 25
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/06/Racial_Injustice_Facial_Recognition_37415.jpg"
-        width: 1000
+      - url: "https://cnet2.cbsistatic.com/img/frnYR1dnFZM7iRquJi9FF9Ccs0c=/756x567/2020/06/25/28bb78d1-6da9-4408-a8ea-5e06ec105b3d/gettyimages-869082432.jpg"
+        width: 756
+        height: 567
+        isCached: true
+  - title: "Boston becomes the biggest East Coast city to ban face recognition"
+    excerpt: "The Boston Police Department already doesn’t use the technology, and it’s now forbidden from getting facial data from third parties."
+    publishedDateTime: 2020-06-24T20:24:00Z
+    webUrl: "https://www.fastcompany.com/90520805/boston-becomes-the-biggest-east-coast-city-to-ban-face-recognition"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-banned-in-boston-city-disallows-public-use-of-face-recognition.jpg"
+        width: 1280
         height: 720
+        isCached: true
+  - title: "CyberLink FaceMe® Updates with New “Social Distancing” Features, including Mask Detection & Enhanced Facial Recognition Capabilities"
+    excerpt: "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced new updates to its landmark facial recognition softwar"
+    publishedDateTime: 2020-06-23T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200623005015/en/CyberLink-FaceMe®-Updates-New-“Social-Distancing”-Features"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 8
+    images:
+      - url: "https://mms.businesswire.com/media/20200623005015/en/799351/23/FaceMe_Mask-1200x628.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "DszfXeQKuQM2I8QzM6MTcJ8lmSV4m1j09Va1t3/MQf0gABUIf05McHhzOV+XbciF1MfuuuiKzRxgMTLeVMgm80uyt5eCki/GaGmIN+TR3mz5/eGOVmOXzzpXvP1NPUw/6bXUSbM+IYy2UgaIArYe3UMVxIjQeXuMimQiPIG7jGnC9X47+cz8zTOdO7+01kMQN0TPQ34vIBlrX3b8+xjWW2StsqWsyi0fKb4nVtD92Nm98H8f1nKyI/th977FRkafQhrJlC1xdlueUIQbQcpSye+EbO8UCSmMH8Gpfba2fOEH1n9ft6JWwCbFlAzzczHXERGVVuruXkZo52uGHengHRtsvEGjJP8PStC5ZmypOm/aXmn4xDo7rpXskAIAwLpXCYOZd3gwuNU/GrmkdQxmNMEWMU3ikaxpkRSwqFm/wUY8bJAMtlfqkeaJOP5ug5K2qShvimuDrfpGCXDaBSA8351TlH8f+qUyX8DJdiPcTDccBD64D17Mit191W/2Rh6p;AYgf5iFyCXyRtDVtjJRtQg=="

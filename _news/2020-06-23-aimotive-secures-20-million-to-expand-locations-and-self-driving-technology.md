@@ -41,6 +41,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Volvo will use Waymo technology to power its self-driving cars"
+    excerpt: "Volvo will use Waymo technology to guide its self-driving cars, including one built for ride-hailing services."
+    publishedDateTime: 2020-06-25T19:26:00Z
+    webUrl: "https://www.engadget.com/volvo-waymo-self-driving-car-partnership-192450966.html"
+    ampWebUrl: "https://www.engadget.com/amp/volvo-waymo-self-driving-car-partnership-192450966.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/volvo-waymo-self-driving-car-partnership-192450966.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F330f5320-b715-11ea-8bff-ded22acc56bd&client=amp-blogside-v2&signature=aa6885b83be1e636943df5f7d64dfe77790ff3a4"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "Waymo and Volvo Team to Make Self-Driving Vehicles"
+    excerpt: "Get Report Waymo is partnering with Volvo VLVLY to develop a self-driving electric vehicle designed for ride hailing, the companies said Thursday. Shares of Alphabe"
+    publishedDateTime: 2020-06-25T19:54:00Z
+    webUrl: "https://www.thestreet.com/investing/waymo-volvo-team-to-make-self-driving-vehicles"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/waymo-volvo-team-to-make-self-driving-vehicles"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/waymo-volvo-team-to-make-self-driving-vehicles"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://content.jwplatform.com/thumbs/Y5FbLPhi-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
 
 secured: "3OblOuKJ8qGVN7UCL1Av4Baq59YN8EqmZK8Qx7ICHfJmbD5K00EWhFWlghNOq6Hzw8sJvRnTHtclnudKGBRAqThCpYOs7m2WQUlltHxbYMpK6ZeCkNVfpJLc9NLNgnP/KG9/lV6J4hpAzeyLORzfZMgeZ9TAU12z6B75TU8NbxCS4eWfKWNLL0bEgghKlO92T5d3asQ2OxXlqC0omRiQJyaanvf1r3a32BQVQ6cDLPXnw6f4XBFFfQmE8UoZe5bmBZisscSQIhZz+5H59mhki8HgGxqMpGoZJ7h13dUP2kctUYGeYWQWBi45C48A+5HZPgYUuqaZnk5N/SQKD1iIt/EJZ5r7pKA5rn7lyT62eVfYjNxkaWTur1ioMfXh76d/5MBaV+dhPPrtFEzPVBrY8JOXWFgwCpjrAJVmK/KlF6LN3dmMhupikqD5iis6hJFWvtTQza+9pEa/XAv1Dz6hrppDtVQR8VWBw8zh25ara4mDQaVDdPGBgkbDG9+OjCdGWlMIODqVJLI46zIbn6bpKg==;dH707K60gs6790tjbz1Hmw=="
 ---

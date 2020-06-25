@@ -2,6 +2,327 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-05-18-sony-to-use-microsofts-azure-ai-technology-in-new-smart-camera-sensors.md",
+      "title": "Sony to use Microsoft’s Azure AI technology in new smart camera sensors",
+      "excerpt": "Sony Semiconductor Solutions says it will embed Microsoft’s Azure AI technology into its new intelligent vision sensor for smart cameras under a partnership between the companies. Sony will also",
+      "webUrl": "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/",
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/sony-to-use-microsoft-azure-arti-1260x709.jpg",
+          "width": 1260,
+          "height": 709,
+          "title": "Sony to use Microsoft’s Azure AI technology in new smart camera sensors",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/amp/",
+      "publishedDateTime": "2020-05-18T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-self-driving-shuttle-company-adds-seatbelts-in-order-to-resume-us-operations.md",
+      "title": "Self-driving shuttle company adds seatbelts in order to resume US operations",
+      "excerpt": "French self-driving vehicle company EasyMile will add seatbelts to its shuttles in order to be able to once again carry passengers in the US. EasyMile’s shuttles were suspended by the National Highway Traffic Safety Administration (NHTSA) in late February after an incident where a passenger fell out of her seat during a sudden stop in Columbus,",
+      "webUrl": "https://www.theverge.com/2020/5/18/21262684/easymile-autonomous-shuttle-seatbelt-nhtsa-columbus-ohio",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/z-UVj3QgibfWeTwxywPX0pKWUYA=/0x0:2048x1365/1400x933/filters:focal(861x520:1187x846):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66812972/Credit___City_of_Columbus__OH___Linden_LEAP___EasyMile_EZ10s___2020.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Self-driving shuttle company adds seatbelts in order to resume US operations",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/18/21262684/easymile-autonomous-shuttle-seatbelt-nhtsa-columbus-ohio",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/18/21262684/easymile-autonomous-shuttle-seatbelt-nhtsa-columbus-ohio",
+      "publishedDateTime": "2020-05-18T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-microsoft-and-sony-partner-to-make-smart-cameras-smarter-with-azure-ai.md",
+      "title": "Microsoft and Sony partner to make smart cameras smarter with Azure AI",
+      "excerpt": "Microsoft and Sony announced a partnership today that will bring Azure AI smarts to Sony's intelligent vision sensor IMX500. The combination is intended to result in faster analysis for enterprise scenarios.",
+      "webUrl": "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg?itok=T29z3T0D",
+          "width": 800,
+          "height": 600,
+          "title": "Microsoft and Sony partner to make smart cameras smarter with Azure AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai?amp",
+      "publishedDateTime": "2020-05-18T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-sogou-inc-sogo-q1-2020-earnings-call-transcript.md",
+      "title": "Sogou Inc. (SOGO) Q1 2020 Earnings Call Transcript",
+      "excerpt": "Sogou Inc. Q1 2020 Earnings Call May 18, 2020, 6:30 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator. Ladies and gentlemen",
+      "webUrl": "https://www.fool.com/earnings/call-transcripts/2020/05/18/sogou-inc-sogo-q1-2020-earnings-call-transcript.aspx",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/fool-transcripts-logo.png",
+          "width": 580,
+          "height": 618,
+          "title": "Sogou Inc. (SOGO) Q1 2020 Earnings Call Transcript",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/earnings/call-transcripts/2020/05/18/sogou-inc-sogo-q1-2020-earnings-call-transcript.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/earnings/call-transcripts/2020/05/18/sogou-inc-sogo-q1-2020-earnings-call-transcript.aspx",
+      "publishedDateTime": "2020-05-18T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-microsoft-and-fedex-team-up-against-amazon-with-new-technology-and-logistics-partnership.md",
+      "title": "Microsoft and FedEx team up against Amazon with new technology and logistics partnership",
+      "excerpt": "Microsoft and FedEx will work together to develop new products and services under a multiyear technology and logistics partnership announced Monday morning. The deal aligns the two corporate",
+      "webUrl": "https://www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/",
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/06/DSC05118-630x432.jpg",
+          "width": 630,
+          "height": 432,
+          "title": "Microsoft and FedEx team up against Amazon with new technology and logistics partnership",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/amp/",
+      "publishedDateTime": "2020-05-18T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-amazons-ai-tool-can-plan-collision-free-paths-for-1000-warehouse-robots.md",
+      "title": "Amazon’s AI tool can plan collision-free paths for 1,000 warehouse robots",
+      "excerpt": "Amazon researchers describe a machine learning system that plans the movements and paths of up to 1,000 mobile warehouse robots.",
+      "webUrl": "https://venturebeat.com/2020/05/18/amazons-ai-tool-can-plan-collision-free-paths-for-1000-warehouse-robots/",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon’s AI tool can plan collision-free paths for 1,000 warehouse robots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-deep-instinct-vies-with-mcafee-and-crowdstrike-for-17b-market.md",
+      "title": "Deep Instinct Vies With McAfee And CrowdStrike For $17B Market",
+      "excerpt": "CrowdStrike faces a formidable challenger in Manhattan-based Deep Instinct. Which can save companies the most money by fending off cyberattacks before they happen?",
+      "webUrl": "https://www.forbes.com/sites/petercohan/2020/05/18/deep-instinct-vies-with-mcafee-and-cloudstrike-for-17b-market/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1203031516%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D258%26cropY2%3D3070",
+          "width": 1200,
+          "height": 675,
+          "title": "Deep Instinct Vies With McAfee And CrowdStrike For $17B Market",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2020/05/18/deep-instinct-vies-with-mcafee-and-cloudstrike-for-17b-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2020/05/18/deep-instinct-vies-with-mcafee-and-cloudstrike-for-17b-market/amp/",
+      "publishedDateTime": "2020-05-18T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors.md",
       "title": "What SoftBank’s Vision Fund results tell us about troubled startup sectors",
       "excerpt": "A famous investor published notes today concerning its startup investments, detailing where they excelled and where they struggled. To understand why we care about this particular investor’s results,",
@@ -1042,328 +1363,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form.md",
-      "title": "Edward Saatchi on virtual beings: AI is the next great art form",
-      "excerpt": "Edward Saatchi believes AI is the next great art form. It is fighting for its legitimacy now, just as virtual reality, video games, and films did before.",
-      "webUrl": "https://venturebeat.com/2020/05/17/edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form/",
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/lucy.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": "Edward Saatchi on virtual beings: AI is the next great art form",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-17T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-openai-finds-machine-learning-efficiency-is-outpacing-moores-law.md",
-      "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
-      "excerpt": "OpenAI researchers outline a new way to measure AI efficiency, and using their measure, they show AI has been getting more efficient at a wicked pace.",
-      "webUrl": "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/05/frankie-lopez-sMzlrCmZSwY-unsplash-2.jpg",
-          "width": 1408,
-          "height": 793,
-          "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/",
-      "publishedDateTime": "2020-05-17T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-nvidia-announces-ampere-the-most-exciting-gpu-architecture-for-modern-ai.md",
-      "title": "NVIDIA Announces Ampere - The Most Exciting GPU Architecture For Modern AI",
-      "excerpt": "NVIDIA A100 AI accelerator based on the Ampere architecture truly revolutionizes AI workloads in the cloud, enterprise data center and at the edge.",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/05/17/nvidia-announces-amperethe-most-exciting-gpu-architecture-for-modern-ai/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec14b1ce25ff100063bdf87%2F0x0.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": "NVIDIA Announces Ampere - The Most Exciting GPU Architecture For Modern AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/05/17/nvidia-announces-amperethe-most-exciting-gpu-architecture-for-modern-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/17/nvidia-announces-amperethe-most-exciting-gpu-architecture-for-modern-ai/amp/",
-      "publishedDateTime": "2020-05-17T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-could-creepy-ai-come-to-the-rescue-and-help-bosses-do-their-job.md",
-      "title": "Could Creepy AI Come To The Rescue And Help Bosses Do Their Job?",
-      "excerpt": "In a world of virtual-only work, could surveillance algorithms improve the performance of the average boss? The good news is that the bar is quite low.",
-      "webUrl": "https://www.forbes.com/sites/tomaspremuzic/2020/05/17/could-creepy-ai-come-to-the-rescue-and-help-bosses-do-their-job/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1189384530%2F0x0.jpg%3FcropX1%3D265%26cropX2%3D5721%26cropY1%3D0%26cropY2%3D3069",
-          "width": 1200,
-          "height": 675,
-          "title": "Could Creepy AI Come To The Rescue And Help Bosses Do Their Job?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomaspremuzic/2020/05/17/could-creepy-ai-come-to-the-rescue-and-help-bosses-do-their-job/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomaspremuzic/2020/05/17/could-creepy-ai-come-to-the-rescue-and-help-bosses-do-their-job/amp/",
-      "publishedDateTime": "2020-05-17T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-help-wanted-autonomous-robot-guide.md",
-      "title": "Help wanted: Autonomous robot guide",
-      "excerpt": "COVID-19 knocked the wheels off the economy, but one nascent tech job not only kept rolling, it picked up speed. Teleoperations — or more specifically, teleops for autonomous delivery robots — is still a niche job within an industry that has yet to dive into the deep end of the commercialization",
-      "webUrl": "https://techcrunch.com/2020/05/17/help-wanted-autonomous-robot-guide/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/POSTMATES-OUSTER-1.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": "Help wanted: Autonomous robot guide",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/17/help-wanted-autonomous-robot-guide/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/17/help-wanted-autonomous-robot-guide/amp/",
-      "publishedDateTime": "2020-05-17T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-in-the-ai-era-universities-need-to-strengthen-students-creativity.md",
-      "title": "In the AI era, universities need to strengthen students’ creativity",
-      "excerpt": "But the past few years have only highlighted the limits of current AI technologies. At the turn of the decade, as the world locked down to prevent the spread of the novel coronavirus, we got to see whether the promises of artificial intelligence and robots replacing humans would materialize.",
-      "webUrl": "https://thenextweb.com/neural/2020/05/17/in-the-ai-era-universities-need-to-strengthen-students-creativity-syndication/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/crativitiy_header-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "In the AI era, universities need to strengthen students’ creativity",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/17/in-the-ai-era-universities-need-to-strengthen-students-creativity-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/17/in-the-ai-era-universities-need-to-strengthen-students-creativity-syndication/amp/",
-      "publishedDateTime": "2020-05-17T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-china-injects-us22-billion-into-local-chip-maker-smic.md",
-      "title": "China injects US$2.2 billion into local chip maker SMIC",
-      "excerpt": "The investment comes as Washington moves to further restrict the ability of Chinese telecommunications equipment maker Huawei Technologies to develop chips using American technologies.",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/17/a5b50f20-980a-11ea-ae0d-0e69ba128e68_image_hires_153449.jpg?itok=Qs4iyILB&v=1589700900",
-          "width": 1200,
-          "height": 630,
-          "title": "China injects US$2.2 billion into local chip maker SMIC",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
-      "publishedDateTime": "2020-05-17T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

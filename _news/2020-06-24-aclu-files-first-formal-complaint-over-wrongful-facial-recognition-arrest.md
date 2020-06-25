@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/24/21301759/facial-reco
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence"
 type: article
 quality: 103
-heat: 253
+heat: 263
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2020/06/25/42043e15-6892-4dd7-a76e-9b9907fa692f/resize/1200x/5870a86fa7da001a2c9e24b01f3605f8/istock-962263142.jpg"
         width: 1200
         height: 801
+        isCached: true
+  - title: "Congress introduces bill that bans facial recognition use by federal government"
+    excerpt: "The bill would prohibit facial recognition use by the federal government and withhold funds from state and local governments that use the tech."
+    publishedDateTime: 2020-06-25T19:34:00Z
+    webUrl: "https://venturebeat.com/2020/06/25/congress-introduces-bill-that-bans-facial-recognition-use-by-federal-government/"
+    ampWebUrl: "https://venturebeat.com/2020/06/25/congress-introduces-bill-that-bans-facial-recognition-use-by-federal-government/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/congress-introduces-bill-that-bans-facial-recognition-use-by-federal-government/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The Wrongful Arrest Of A Black Man Provides More Proof Facial Recognition Is Racist"
     excerpt: "ACLU says it is filing a complaint after the failure of a Michigan State Police face recognition tool leads to a Black man being arrested in front of his family."

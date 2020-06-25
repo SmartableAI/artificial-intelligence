@@ -2,11 +2,11 @@
 category: news
 title: "Volvo, Waymo partner to build self-driving vehicles"
 excerpt: "Waymo and Volvo Cars have agreed to develop a self-driving electric vehicle designed for ride-hailing use, as part of a new global partnership, the companies said Thursday. Waymo, a unit of Silicon Valley's Alphabet Inc."
-publishedDateTime: 2020-06-25T17:38:00Z
-webUrl: "https://www.autonews.com/mobility-report/volvo-waymo-partner-build-self-driving-vehicles"
+publishedDateTime: 2020-06-25T19:28:00Z
+webUrl: "https://europe.autonews.com/automakers/volvo-waymo-partner-build-self-driving-vehicles"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -18,37 +18,120 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Volvo%20grille%20new%20web.jpg"
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Volvo%20grille%20new%20web_0.jpg"
     width: 800
     height: 600
     isCached: true
     title: "Volvo, Waymo partner to build self-driving vehicles"
 
 related:
-  - title: "Walmart’s Self-Driving Partner Is Changing E-Commerce Economics"
-    excerpt: "Last summer, it raised $4.5 million from investors, a pint-sized sum among self-driving ventures. Though Gatik may not be sexy, its slow-lane approach has proved to be pragmatic and lucrative. Last summer,"
-    publishedDateTime: 2020-06-23T13:10:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/31511-walmarts-self-driving-partner-is-changing-e-commerce-economics"
+  - title: "Waymo inks deal with Volvo to develop self-driving electric cars"
+    excerpt: "Waymo has inked a deal with Volvo Cars Group to develop fully electric self-driving passenger cars, the two companies announced."
+    publishedDateTime: 2020-06-25T18:35:00Z
+    webUrl: "https://venturebeat.com/2020/06/25/waymo-inks-deal-with-volvo-to-develop-self-driving-electric-cars/"
+    ampWebUrl: "https://venturebeat.com/2020/06/25/waymo-inks-deal-with-volvo-to-develop-self-driving-electric-cars/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/waymo-inks-deal-with-volvo-to-develop-self-driving-electric-cars/amp/"
     type: article
     provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/03/waymo-one-dome-e1585787576926.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Volvo will use Waymo’s self-driving technology to power a fleet of electric robotaxis"
+    excerpt: "Waymo is the “exclusive global L4 partner” for Volvo Car Group, the two companies announced Thursday. That means that Volvo will integrate Waymo’s autonomous driving technology, widely considered to be among the best in the world,"
+    publishedDateTime: 2020-06-25T18:43:00Z
+    webUrl: "https://www.theverge.com/2020/6/25/21303324/volvo-waymo-l4-deal-electric-self-driving-robot-taxi"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/25/21303324/volvo-waymo-l4-deal-electric-self-driving-robot-taxi"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/25/21303324/volvo-waymo-l4-deal-electric-self-driving-robot-taxi"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 82
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/WvqKBF364KYueS3Osz6ZMexUCtw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66982504/vpavic_191202_3827_0054.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Lyft is using data from its ride-share drivers to develop self-driving cars"
+    excerpt: "Lyft is using data collected from drivers on its ride-hailing app to accelerate the development of self-driving cars. Lyft’s Level 5 self-driving car program is using the data to build 3D maps ..."
+    publishedDateTime: 2020-06-23T15:53:00Z
+    webUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/"
+    ampWebUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/lyft-maps.gif"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Lyft is using data from its rideshare drivers to develop self-driving cars"
+    excerpt: "Lyft is using data collected from drivers on its ride-hailing app to accelerate the development of self-driving cars. Lyft’s Level 5 self-driving car program is using the data to build 3D maps, understand human driving patterns and improve simulation tests — all tools needed to push their"
+    publishedDateTime: 2020-06-24T14:04:00Z
+    webUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/"
+    ampWebUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/lyft-maps.gif"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Deepfake software used to aid self-driving car development"
+    excerpt: "Cutting-edge deepfake tech sees computer software simulate infinite number of different road environments to aid autonomous car development"
+    publishedDateTime: 2020-06-24T23:18:00Z
+    webUrl: "https://www.autoexpress.co.uk/news/352605/deepfake-software-used-aid-self-driving-car-development"
+    type: article
+    provider:
+      name: AutoExpress
+      domain: autoexpress.co.uk
+    quality: 39
+    images:
+      - url: "https://media.autoexpress.co.uk/image/private/s--Y8EeJWCa--/v1593011823/autoexpress/2020/06/deepfake%20self-driving%20car%20testing.jpg"
+        width: 3200
+        height: 1800
+        isCached: true
+  - title: "Mercedes Benz and NVIDIA to develop new self driving architecture"
+    excerpt: "Mercedes Benz has announced that they are working with NVIDIA to develops a new Software-Defined Computing Architecture for their future self driving cars. This new architecture will be built in NVIDIA’s DRIVETM platform and it will be standard in the ..."
+    publishedDateTime: 2020-06-24T09:11:00Z
+    webUrl: "https://www.geeky-gadgets.com/mercedes-benz-and-nvidia-to-develop-new-self-driving-architecture-24-06-2020"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/06/Mercedes-Benz-and-NVIDIA-.jpg"
+        width: 700
+        height: 495
+        isCached: true
+  - title: "Nvidia teams with Mercedes-Benz to build self-driving cars"
+    excerpt: "It will contain a graphics processing unit to run the artificial intelligence models that power a self-driving car’s autonomy features. Nvidia has shared several details about the Drive AGX Orin ..."
+    publishedDateTime: 2020-06-23T17:38:00Z
+    webUrl: "https://siliconangle.com/2020/06/23/nvidia-teams-mercedes-benz-build-software-defined-cars/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 24
     images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0622_Walmart.jpg?height=635&t=1592797745&width=1200"
-        width: 847
-        height: 635
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/nvidia-1.png"
+        width: 718
+        height: 400
         isCached: true
-  - title: "Walmart’s Self-Driving Partner Is Changing E-Commerce Economics"
-    excerpt: "(Bloomberg) -- For a self-driving vehicle startup, Gatik has an odd mantra: don’t agonize over autonomy, worry about delivery.Specifically, the three-year-old company is focused"
-    publishedDateTime: 2020-06-21T01:41:00Z
-    webUrl: "https://www.bnnbloomberg.ca/walmart-s-self-driving-partner-is-changing-e-commerce-economics-1.1453044"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 4
 
-secured: "+6qTeKhRiS5Nafg21EL1pr0eeTrdFgbzPx2/osjUKS7f9+fEUesFok4Z5qCQWjP9uAyhDNKn4n77SPXi6aP1jcMfYwHXiuDlukvyfvj4m7hh5vU1nvqe10i3TGFZflFrnOqt0Pj7QnOA8ahBnnrSXiQ8fY2ySHHnW6CtTfoL3C4RV1xkHczMzL4xK8WBd2aYbQP8An78IGjah9+hfPTKqUQLbQvzk+J0FtHVj7MTHUL3fuF+orMjdY0sG8b1RY1k53MzD6/Pb9ben1n1NzrP/DGP9XPHXWWdTereNhM6OS8O2GyjUFjugkbbl1DyZ+eDjy32c88uvpru1SFK9axcUw==;udsh8JovXS5j2Mo7DoIC8Q=="
+secured: "Vqzy8BCqYzOnVcjATM1YwDUzxF9XtHhRXcoGld6mppqqIOtpRvYI0zJ9d/KPshAgOW+IMV7PiTOBJm8lgKDZzQO5Xhgid4Kq+/Y4zdDPxU23OaOjgEKmk6WAGSMSRqEZymknUEJhlo2hM32mx6T2SZQ4LH4shn6FtVhOou+ualxjHS6MlsXVFbHJGKBcx3RFHFecUCWWvUgk/Xr9V4yFZntekFmY9QOZ2PyFmdHatu+3fK5whlVwdvyfqlqgdTGkALadrAru/0uF36MMrZAnNx0gJVfNcRCL7nxhTWgmSu3ZPyTOrcLl44B+DG8QbNzyQO435kTP2Q7WqsgCetxVkQ==;eRb28DJFpsFlUPYUfUeF6Q=="
 ---
 

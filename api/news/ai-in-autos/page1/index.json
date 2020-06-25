@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-25-waymo-inks-deal-with-volvo-to-develop-self-driving-electric-cars.md",
+      "title": "Waymo inks deal with Volvo to develop self-driving electric cars",
+      "excerpt": "Waymo has inked a deal with Volvo Cars Group to develop fully electric self-driving passenger cars, the two companies announced.",
+      "webUrl": "https://venturebeat.com/2020/06/25/waymo-inks-deal-with-volvo-to-develop-self-driving-electric-cars/",
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/waymo-one-dome-e1585787576926.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Waymo inks deal with Volvo to develop self-driving electric cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/25/waymo-inks-deal-with-volvo-to-develop-self-driving-electric-cars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/waymo-inks-deal-with-volvo-to-develop-self-driving-electric-cars/amp/",
+      "publishedDateTime": "2020-06-25T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-teslas-most-robust-self-driving-package-will-cost-more-again.md",
+      "title": "Tesla's most robust self-driving package will cost more — again",
+      "excerpt": "It'll soon cost you $8,000 to buy a Tesla upgrade package, which includes some features that don't even exist yet. Tesla's Full Self-Driving package is a future-ready option for t",
+      "webUrl": "https://mashable.com/article/tesla-fsd-price-increase-/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F25%252Fd1%252F85b76a05bbb241488ffceb4b20b4d9a3.8b07b.jpg%252F1200x630.jpg?signature=Kdns6EbdS8gZHz0DCtCccLpQqcE=",
+          "width": 1200,
+          "height": 630,
+          "title": "Tesla's most robust self-driving package will cost more — again",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/tesla-fsd-price-increase-.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-price-increase-.amp",
+      "publishedDateTime": "2020-06-25T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge.md",
       "title": "Lyft releases new self-driving vehicle data set and launches $30,000 challenge",
       "excerpt": "Lyft released a data set containing logs recorded by its self-driving vehicles' sensors to kick off a new AI research challenge.",
@@ -149,7 +234,7 @@
       "title": "Nvidia and Mercedes-Benz detail self-driving system with automated routing and parking",
       "excerpt": "The efforts build on a longstanding collaboration between Nvidia and Mercedes. At the 2018 Consumer Electronics Show, the companies showcased a concept cockpit dubbed the Mercedes-Benz User Experience,",
       "webUrl": "https://venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-self-driving-system-with-automated-routing-and-parking/",
-      "heat": 161,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -172,53 +257,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars.md",
-      "title": "Lyft is using data from its ride-share drivers to develop self-driving cars",
-      "excerpt": "Lyft is using data collected from drivers on its ride-hailing app to accelerate the development of self-driving cars. Lyft’s Level 5 self-driving car program is using the data to build 3D maps ...",
-      "webUrl": "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/",
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/lyft-maps.gif",
-          "width": 600,
-          "height": 338,
-          "title": "Lyft is using data from its ride-share drivers to develop self-driving cars",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/",
-      "publishedDateTime": "2020-06-23T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -338,7 +376,7 @@
       "title": "AImotive raises $20 million for driver-assistance and self-driving car software",
       "excerpt": "AImotive has raised a $20 million round to further develop its software for self-driving cars and advanced driver assistance.",
       "webUrl": "https://venturebeat.com/2020/06/22/aimotive-raises-20-million-for-driver-assistance-and-self-driving-car-software/",
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -470,7 +508,7 @@
       "title": "Waymo and Uber propose AI techniques to improve self-driving systems",
       "excerpt": "Waymo and Uber researchers presented new techniques to improve the reliability -- and safety -- of their self-driving systems.",
       "webUrl": "https://venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/",
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1277,35 +1315,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization.md",
-      "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
-      "excerpt": "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others.",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai/article_d2d9a8e5-54aa-5b3b-815b-9bdf63586341.html",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

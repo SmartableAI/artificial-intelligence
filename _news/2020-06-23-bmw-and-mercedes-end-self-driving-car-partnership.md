@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 577
         isCached: true
-  - title: "Deepfake software used to aid self-driving car development"
-    excerpt: "Cutting-edge deepfake tech sees computer software simulate infinite number of different road environments to aid autonomous car development"
-    publishedDateTime: 2020-06-24T23:18:00Z
-    webUrl: "https://www.autoexpress.co.uk/news/352605/deepfake-software-used-aid-self-driving-car-development"
-    type: article
-    provider:
-      name: AutoExpress
-      domain: autoexpress.co.uk
-    quality: 39
-    images:
-      - url: "https://media.autoexpress.co.uk/image/private/s--Y8EeJWCa--/v1593011823/autoexpress/2020/06/deepfake%20self-driving%20car%20testing.jpg"
-        width: 3200
-        height: 1800
-        isCached: true
 
 secured: "OF7m+gNuw5za/1j0RgN09OvqGEslrXPN0zOHuhd8qZkfy+frDBdjJ9vi/dyFLtEiztYIUnUpeflf+g1nPdL9Y7KT4ub9Rtrxi+rOBu9NBt4NkQA6FK5xGEpv4j1LQyAPrhP+HjOQ9jOg3I+wJGlKNeA3aACum7xTXT+EQrGGOTor5fcKHzsN60lFn7kG8CsmPQMtMRbSpSGH+OOGaC3pDB+rPIcvZM5aOD3IhoF7K+HfCB4n/AlA0F1HD7tl1GhFoEGb71zG44aD3aoiAWQLZ0O7DtJJhOXbdulJqKfGpv6+cVz4l0GZ/JTfRNpXyFAdlLyLGMzHmHKssjZMeP9pyg==;LDUpvDD9bL1SQyDUcZNrEw=="
 ---

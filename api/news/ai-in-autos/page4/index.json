@@ -2,6 +2,35 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-22-three-stocks-to-profit-from-the-robot-revolution.md",
+      "title": "Three stocks to profit from the robot revolution",
+      "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
+      "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://moneyweek.com/472370/the-robot-revolution?amp",
+      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/472370/the-robot-revolution?amp",
+      "publishedDateTime": "2020-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MoneyWeek",
+        "domain": "moneyweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-nvidia-reports-308-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar.md",
       "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
       "excerpt": "Nvidia posted revenues of $3.08 billion for the first quarter ended April 26, up 39% from a year earlier as data center revenues soared.",

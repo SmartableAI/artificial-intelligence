@@ -2,6 +2,327 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-05-28-facebook-ai-research-applies-transformer-architecture-to-streamline-object-detection-models.md",
+      "title": "Facebook AI Research applies Transformer architecture to streamline object detection models",
+      "excerpt": "Facebook AI researchers claim they created the first object detection model with the Transformer neural network architecture typically used for NLP.",
+      "webUrl": "https://venturebeat.com/2020/05/28/facebook-ai-research-applies-transformer-architecture-to-streamline-object-detection-models/",
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/DETR.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook AI Research applies Transformer architecture to streamline object detection models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/28/facebook-ai-research-applies-transformer-architecture-to-streamline-object-detection-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/28/facebook-ai-research-applies-transformer-architecture-to-streamline-object-detection-models/amp/",
+      "publishedDateTime": "2020-05-28T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-square-enix-establishes-new-company-to-pursue-entertainment-ai.md",
+      "title": "Square Enix establishes new company to pursue ‘entertainment AI’",
+      "excerpt": "Square Enix wants to get into the exciting new business of \"entertainment AI.\" Does that mean you'll finally get the digital Tifa of your dreams?",
+      "webUrl": "https://venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ff7-tifa.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "Square Enix establishes new company to pursue ‘entertainment AI’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/28/square-enix-establishes-new-company-to-pursue-entertainment-ai/amp/",
+      "publishedDateTime": "2020-05-28T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-its-the-data-stupid-why-ai-might-get-it-wrong.md",
+      "title": "It’s The Data, Stupid! Why AI Might Get It Wrong.",
+      "excerpt": "Artificial Intelligence is based on data. But that data might not be sufficient, biased, or out-right wrong. To have control over AI we need tools to check for biases.",
+      "webUrl": "https://www.forbes.com/sites/lutzfinger/2020/05/28/its-the-data-stupid-why-ai-might-get-it-wrong/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecfd6dd75134600060969b1%2F0x0.jpg",
+          "width": 940,
+          "height": 788,
+          "title": "It’s The Data, Stupid! Why AI Might Get It Wrong.",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lutzfinger/2020/05/28/its-the-data-stupid-why-ai-might-get-it-wrong/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lutzfinger/2020/05/28/its-the-data-stupid-why-ai-might-get-it-wrong/amp/",
+      "publishedDateTime": "2020-05-28T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent.md",
+      "title": "Clearview AI faces lawsuit over gathering people's images without consent",
+      "excerpt": "Clearview AI has spent months amassing its facial recognition database with more than 3 billion pictures of people it gathered from the internet. Now it faces a lawsuit in Illinois for taking those photos without people's consent.",
+      "webUrl": "https://www.cnet.com/news/clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent/",
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/2Xk6hmSaVxblXYNhWoSGstkx7-s=/756x567/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Clearview AI faces lawsuit over gathering people's images without consent",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-faces-lawsuit-over-gathering-peoples-images-without-consent/",
+      "publishedDateTime": "2020-05-28T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-us-joins-g7-ai-alliance-to-counter-chinas-influence.md",
+      "title": "US joins G7 AI alliance to counter China’s influence",
+      "excerpt": "The US is joining the rest of the G7 in the Global Partnership on Artificial Intelligence, in an effort to contain China's influence on AI",
+      "webUrl": "https://thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/",
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-56-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "US joins G7 AI alliance to counter China’s influence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/28/us-joins-g7-ai-alliance-to-counter-chinas-influence/amp/",
+      "publishedDateTime": "2020-05-28T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-responding-to-the-european-commissions-ai-white-paper.md",
+      "title": "Responding to the European Commission’s AI white paper",
+      "excerpt": "In January, our CEO Sundar Pichai visited Brussels to talk about artificial intelligence and how Google could help people and businesses succeed in the digital age through partnership. Much has changed since then due to COVID-19, but one thing hasn’t—our commitment to the potential of partnership with",
+      "webUrl": "https://www.blog.google/around-the-globe/google-europe/responding-to-the-european-commissions-ai-white-paper/",
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": "Responding to the European Commission’s AI white paper",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-europe/responding-to-the-european-commissions-ai-white-paper/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/responding-to-the-european-commissions-ai-white-paper/amp/",
+      "publishedDateTime": "2020-05-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more.md",
+      "title": "CVPR 2020 Features Latest in Machine Learning, Facial Recognition, Autonomous Driving, Medical Data Analysis, and More",
+      "excerpt": "The annual Computer Vision and Pattern Recognition Conference (CVPR), the largest conference of its kind, unveils the latest research spanning the fields of computer vision, deep learning, artificial intelligence,",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cvpr-2020-features-latest-in-machine-learning-facial-recognition-autonomous-driving-medical-data-analysis-and-more-1029250739",
+      "publishedDateTime": "2020-05-28T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-artificial-intelligence-ai-in-healthcare-market-in-india-2020-share-revenue-growth-development-and-demand-forecast-to-2023.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market in India 2020 Share, Revenue Growth, Development And Demand Forecast To 2023",
       "excerpt": "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled",
@@ -957,290 +1278,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-iwave-releases-the-corazon-ai-solution.md",
-      "title": "iWave Releases the Corazon-AI Solution",
-      "excerpt": "Featured on the new solution are interfaces to connect 8 IP cameras, USB cameras, and an SDI camera. Additionally, it hosts multiple connectivity options which include Dual Gigabit Ethernet, 802.11 ac Wi-Fi,",
-      "webUrl": "https://www.embedded-computing.com/news/iwave-releases-the-corazon-ai-solution",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.cdntwrk.com/mediaproxy?url=https%3A%2F%2Fs3.amazonaws.com%2Ffiles.formstack.com%2Fuploads%2F3411018%2F76219803%2F617442100%2F76219803_vl53l3cx_tof_sensor_n4252d_big.jpg&size=1&version=1590616252&sig=6f92827caaac11ef6425a1a2793ec720&default=hubs%2Ftilebg-blogs.jpg",
-          "width": 500,
-          "height": 272,
-          "title": "iWave Releases the Corazon-AI Solution",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded Computing Design",
-        "domain": "embedded-computing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects.md",
-      "title": "Apple buys machine learning specialist Inductiv to bolster Siri, AI projects",
-      "excerpt": "Adding to a mounting number of artificial intelligence-related acquisitions, Apple in the past few weeks purchased Ontario-based Inductiv to work on Siri and machine learning initiatives.",
-      "webUrl": "https://appleinsider.com/articles/20/05/27/apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/35976-66479-200527-Siri-xl.jpg",
-          "width": 1092,
-          "height": 692,
-          "title": "Apple buys machine learning specialist Inductiv to bolster Siri, AI projects",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/20/05/27/apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/05/27/apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects/amp/",
-      "publishedDateTime": "2020-05-27T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-amazon-is-in-advanced-talks-to-purchase-self-driving-vehicle-start-up-zoox.md",
-      "title": "Amazon is in advanced talks to purchase self-driving vehicle start-up Zoox",
-      "excerpt": "Amazon is reportedly in advanced talks to purchase self-driving vehicle start-up Zoox. Sources familiar with the matter tell The Wall Street Journal that the deal would value the company under $3.2 billion,",
-      "webUrl": "https://www.techspot.com/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-27-image-45.jpg",
-          "width": 1260,
-          "height": 840,
-          "title": "Amazon is in advanced talks to purchase self-driving vehicle start-up Zoox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html",
-      "publishedDateTime": "2020-05-27T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls.md",
-      "title": "Joint AI Center Turns To Air Force cloudONE As JEDI Stalls",
-      "excerpt": "The Joint Artificial Intelligence Center needs three things: new acquisition authorities, more staff, and the cloud. With JEDI delayed ‘potentially many more months,’ director Lt. Gen. Jack Shanahan said,",
-      "webUrl": "https://breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2019/11/5099088-1-e1573655588617-1024x722.jpg",
-          "width": 1024,
-          "height": 722,
-          "title": "Joint AI Center Turns To Air Force cloudONE As JEDI Stalls",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/amp/",
-      "publishedDateTime": "2020-05-27T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-making-it-easier-to-stay-caught-up-with-cortana-in-microsoft-365.md",
-      "title": "Making it easier to stay caught up with Cortana in Microsoft 365",
-      "excerpt": "The post Making it easier to stay caught up with Cortana in Microsoft 365 appeared first on The AI Blog.\n",
-      "webUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/05/27/making-easier-stay-caught-cortana-microsoft-365/",
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/05/Cortana-Briefing-SOCIAL.png",
-          "width": 1200,
-          "height": 634,
-          "title": "Making it easier to stay caught up with Cortana in Microsoft 365",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/05/27/making-easier-stay-caught-cortana-microsoft-365/amp/",
-      "cdnAmpWebUrl": "https://www-microsoft-com.cdn.ampproject.org/c/s/www.microsoft.com/en-us/microsoft-365/blog/2020/05/27/making-easier-stay-caught-cortana-microsoft-365/amp/",
-      "publishedDateTime": "2020-05-27T12:48:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-computer-vision-and-uncertainty-in-ai-for-robotic-prosthetics.md",
-      "title": "Computer vision and uncertainty in AI for robotic prosthetics",
-      "excerpt": "Researchers have developed new software that can be integrated with existing hardware to enable people using robotic prosthetics or exoskeletons to walk in a safer, more natural manner on different types of terrain.",
-      "webUrl": "https://www.sciencedaily.com/releases/2020/05/200527133147.htm",
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-new-models-use-computer-vision-and-ai-to-identify-covid-19-in-x-rays.md",
-      "title": "New models use computer vision and AI to identify COVID-19 in X-rays",
-      "excerpt": "Students at Cranfield University have designed computer models that can identify COVID-19 in X-rays. The models use computer vision and artificial intelligence (AI) to analyze chest X-ray imagery. It can classify information which would not normally be recognized with the naked eye and assist with the diagnosis of COVID-19.",
-      "webUrl": "https://www.news-medical.net/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "New models use computer vision and AI to identify COVID-19 in X-rays",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
-      "publishedDateTime": "2020-05-27T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

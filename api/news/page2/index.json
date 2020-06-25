@@ -2,6 +2,176 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-24-vb-transform-2020-the-event-for-ai-decision-makers-to-be-hosted-online-with-tame.md",
+      "title": "VB Transform 2020, the event for AI decision-makers, to be hosted online with Tame",
+      "excerpt": "VentureBeat is excited to announce Tame as the technology platform for  VB Transform 2020, the leading digital AI event for business executives, hosted online July 15-17.",
+      "webUrl": "https://venturebeat.com/2020/06/24/vb-transform-2020-the-event-for-ai-decision-makers-to-be-hosted-online-with-tame/",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/VB-Transform-2020.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": "VB Transform 2020, the event for AI decision-makers, to be hosted online with Tame",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/24/vb-transform-2020-the-event-for-ai-decision-makers-to-be-hosted-online-with-tame/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/vb-transform-2020-the-event-for-ai-decision-makers-to-be-hosted-online-with-tame/amp/",
+      "publishedDateTime": "2020-06-24T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-biased-ai-perpetuates-racial-injustice.md",
+      "title": "Biased AI perpetuates racial injustice",
+      "excerpt": "As we increasingly rely on AI, we must be vigilant to ensure these programs are helping to solve problems of racial injustice, rather than perpetuate and magnify them.",
+      "webUrl": "https://techcrunch.com/2020/06/24/biased-ai-perpetuates-racial-injustice/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-508482219.jpg?w=1024",
+          "width": 1024,
+          "height": 751,
+          "title": "Biased AI perpetuates racial injustice",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/24/biased-ai-perpetuates-racial-injustice/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/24/biased-ai-perpetuates-racial-injustice/amp/",
+      "publishedDateTime": "2020-06-24T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-worlds-first-ai-robot-movie-star-gets-cast-in-70-million-sci-fi-film.md",
+      "title": "World's First AI Robot Movie Star Gets Cast In $70 Million Sci-Fi Film",
+      "excerpt": "It was perhaps inevitable that we'd eventually get an AI movie star, and it seems that day is here. It's been reported that a new sci-fi movie is in development, and it's set to star an AI robot named Erica.",
+      "webUrl": "https://www.gamespot.com/articles/worlds-first-ai-robot-movie-star-gets-cast-in-70-m/1100-6478953/",
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/original/1557/15576725/3690829-erica.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "World's First AI Robot Movie Star Gets Cast In $70 Million Sci-Fi Film",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/worlds-first-ai-robot-movie-star-gets-cast-in-70-m/1100-6478953/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/worlds-first-ai-robot-movie-star-gets-cast-in-70-m/1100-6478953/",
+      "publishedDateTime": "2020-06-24T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-detroit-police-challenged-over-face-recognition-flaws-bias.md",
+      "title": "Detroit police challenged over face recognition flaws, bias",
+      "excerpt": "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police. And for the department to abandon its use of the controversial technology.",
+      "webUrl": "https://www.sfgate.com/business/article/Detroit-police-challenged-over-face-recognition-15362382.php",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/12/57/24/19592470/17/375x250.jpg",
+          "width": 347,
+          "height": 250,
+          "title": "Detroit police challenged over face recognition flaws, bias",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.sfgate.com/business/amp/Detroit-police-challenged-over-face-recognition-15362382.php",
+      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/amp/Detroit-police-challenged-over-face-recognition-15362382.php",
+      "publishedDateTime": "2020-06-24T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SFGate",
+        "domain": "sfgate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly.md",
       "title": "Apple’s Core ML now lets app developers update AI models on the fly",
       "excerpt": "Apple's Core ML can now update AI models without the need to ship an App Store update, while Create ML now has an action classification template.",
@@ -45,6 +215,44 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-boston-bans-most-city-use-of-facial-recognition-tech-in-privacy-win.md",
+      "title": "Boston bans most city use of facial-recognition tech in privacy win",
+      "excerpt": "Boston joins cities like San Francisco in banning the official use of facial-recognition tech after the unanimous vote.",
+      "webUrl": "https://mashable.com/article/boston-bans-facial-recognition-technology/",
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F24%252Fe6%252F48e216407ae64ae58a33a0d81cb9c1c5.28a23.jpg%252F1200x630.jpg?signature=9ioxsUaZTvrqoZR7r_dKNqdQDRU=",
+          "width": 1200,
+          "height": 630,
+          "title": "Boston bans most city use of facial-recognition tech in privacy win",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/boston-bans-facial-recognition-technology.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/boston-bans-facial-recognition-technology.amp",
+      "publishedDateTime": "2020-06-24T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -232,7 +440,7 @@
       "title": "ACLU files first formal complaint over wrongful facial recognition arrest",
       "excerpt": "The American Civil Liberties Union (ACLU) has filed a formal complaint against Detroit police over what it says is the first known example of a wrongful arrest caused by faulty facial recognition technology.",
       "webUrl": "https://www.theverge.com/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence",
-      "heat": 253,
+      "heat": 263,
       "tags": null,
       "images": [
         {
@@ -634,7 +842,7 @@
       "title": "Researchers use AI and simulation to optimize ride-sharing earnings",
       "excerpt": "Researchers at Boston University propose a framework that optimizes ride-hailing earnings for drivers without negatively impacting the rider experience.",
       "webUrl": "https://venturebeat.com/2020/06/24/researchers-use-ai-and-simulation-to-optimize-ride-sharing-earnings/",
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -908,241 +1116,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-teaching-ai-to-fourth-graders-is-a-thing-now.md",
-      "title": "Teaching AI to fourth-graders is a thing now",
-      "excerpt": "Real-world projects taught by industry leaders help fourth-graders understand AI in an innovative way, an alternative to cranking out a learn-to-code factory.",
-      "webUrl": "https://www.techrepublic.com/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/23/ae3777d3-b430-4d47-867d-c4acd0aa296f/resize/1200x/a43663c878d6831ebf3e25149e0be50c/create-learn-kid.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": "Teaching AI to fourth-graders is a thing now",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
-      "publishedDateTime": "2020-06-24T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-modular-robotics-market-to-cross-151497-million-value-by-2030-ps-intelligence.md",
-      "title": "Modular Robotics Market to Cross $15,149.7 Million Value by 2030: P&S Intelligence",
-      "excerpt": "NEW YORK, June 24, 2020 (GLOBE NEWSWIRE) -- With the Industry 4.0 revolution gaining ground, the global modular robotics market revenue is projected to reach $15,149.7 million by 2030, from $5,619.1 million in 2019,",
-      "webUrl": "https://www.marketwatch.com/press-release/modular-robotics-market-to-cross-151497-million-value-by-2030-ps-intelligence-2020-06-24",
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Modular Robotics Market to Cross $15,149.7 Million Value by 2030: P&S Intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-mercedes-benz-nvidia-deepen-autonomous-driving-alliance.md",
-      "title": "Mercedes-Benz, Nvidia deepen autonomous driving alliance",
-      "excerpt": "Semiconductor maker Nvidia Corp has struck a deal with Germany's Daimler to develop and equip Mercedes-Benz cars with a next generation chip and software platform that could eventually be used for autonomous driving functions.",
-      "webUrl": "https://www.reuters.com/article/us-nvidia-daimler-autonomous-idUSKBN23U2W5",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200623&t=2&i=1523230547&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5M1PR",
-          "width": 813,
-          "height": 545,
-          "title": "Mercedes-Benz, Nvidia deepen autonomous driving alliance",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23U2W5",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23U2W5",
-      "publishedDateTime": "2020-06-23T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-aws-and-formula-1-announce-six-new-racing-performance-stats.md",
-      "title": "AWS and Formula 1 announce six new racing performance stats",
-      "excerpt": "The newly introduced performance stats include Car Performance Scores, Ultimate Driver Speed Comparison, Driver Skills Rating, and others. They will roll out in the current, 2020 season.",
-      "webUrl": "https://www.neowin.net/news/aws-and-formula-1-announce-six-new-racing-performance-stats",
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1592973675_2020_f1_insight_carperfcomp-02_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "AWS and Formula 1 announce six new racing performance stats",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/aws-and-formula-1-announce-six-new-racing-performance-stats/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-and-formula-1-announce-six-new-racing-performance-stats/",
-      "publishedDateTime": "2020-06-23T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-samsung-promotes-ai-expert-to-lead-research-arm.md",
-      "title": "Samsung promotes AI expert to lead research arm",
-      "excerpt": "Samsung Electronics has promoted one of its key artificial intelligence (AI) experts to head its research unit. Dr Sebastian Seung will be the new head of Samsung Research, the company said on Wednesday. He will oversee research conducted at Samsung's ...",
-      "webUrl": "https://www.zdnet.com/article/samsung-promotes-ai-expert-to-lead-research-arm/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/24/3f920c62-5cf9-486f-b0da-def272dec5a8/dr-sebastian-seung-main-1.jpg",
-          "width": 705,
-          "height": 430,
-          "title": "Samsung promotes AI expert to lead research arm",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsung-promotes-ai-expert-to-lead-research-arm/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-promotes-ai-expert-to-lead-research-arm/",
-      "publishedDateTime": "2020-06-23T20:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

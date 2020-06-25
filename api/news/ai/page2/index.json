@@ -2,11 +2,228 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-24-boston-bans-most-city-use-of-facial-recognition-tech-in-privacy-win.md",
+      "title": "Boston bans most city use of facial-recognition tech in privacy win",
+      "excerpt": "Boston joins cities like San Francisco in banning the official use of facial-recognition tech after the unanimous vote.",
+      "webUrl": "https://mashable.com/article/boston-bans-facial-recognition-technology/",
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F24%252Fe6%252F48e216407ae64ae58a33a0d81cb9c1c5.28a23.jpg%252F1200x630.jpg?signature=9ioxsUaZTvrqoZR7r_dKNqdQDRU=",
+          "width": 1200,
+          "height": 630,
+          "title": "Boston bans most city use of facial-recognition tech in privacy win",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/boston-bans-facial-recognition-technology.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/boston-bans-facial-recognition-technology.amp",
+      "publishedDateTime": "2020-06-24T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-how-product-placement-works-in-2020-with-ai-deep-learning-and-more.md",
+      "title": "How Product Placement Works In 2020 - With AI, Deep Learning And More",
+      "excerpt": "Lela London chats to BEN, the Bill Gates-owned product placement agency behind most of your streaming screen's magic.",
+      "webUrl": "https://www.forbes.com/sites/lelalondon/2020/06/24/how-product-placement-works-in-2020with-ai-deep-learning-and-more/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1159735354%2F0x0.jpg%3FcropX1%3D600%26cropX2%3D1805%26cropY1%3D200%26cropY2%3D891",
+          "width": 1200,
+          "height": 689,
+          "title": "How Product Placement Works In 2020 - With AI, Deep Learning And More",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lelalondon/2020/06/24/how-product-placement-works-in-2020with-ai-deep-learning-and-more/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lelalondon/2020/06/24/how-product-placement-works-in-2020with-ai-deep-learning-and-more/amp/",
+      "publishedDateTime": "2020-06-24T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-space-robotics-market-may-see-a-growth-rate-of-873-maxar-technologies-ispace-northrop-grumman.md",
+      "title": "Space Robotics Market may see a growth rate of 8.73% | Maxar Technologies, Ispace, Northrop Grumman",
+      "excerpt": "Latest added Global Space Robotics Market research study by AMA Research offers detailed outlook and elaborates market review till 2025. The market Study is segmented by key regions that are accelerating the marketization.",
+      "webUrl": "https://www.marketwatch.com/press-release/space-robotics-market-may-see-a-growth-rate-of-873-maxar-technologies-ispace-northrop-grumman-2020-06-24",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Space Robotics Market may see a growth rate of 8.73% | Maxar Technologies, Ispace, Northrop Grumman",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics.md",
+      "title": "DHL Supply Chain partners with Blue Yonder to accelerate warehouse robotics",
+      "excerpt": "AI-driven fulfillment provider Blue Yonder and DHL have deployed a new platform for the integration of warehouse robots, built on Microsoft Azure.",
+      "webUrl": "https://www.freightwaves.com/news/dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics",
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/06/DHL_Blue_Yonder_1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "DHL Supply Chain partners with Blue Yonder to accelerate warehouse robotics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics/amp",
+      "publishedDateTime": "2020-06-24T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-autonomous-farm-robot-burro-assists-human-workers-with-grape-harvest.md",
+      "title": "Autonomous farm robot Burro assists human workers with grape harvest",
+      "excerpt": "Burro is an autonomous driving robot that assists farm workers harvesting grapes in California that can augment or replace humans.",
+      "webUrl": "https://venturebeat.com/2020/06/24/autonomous-farm-robot-burro-assists-human-workers-with-grape-harvest/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/burro-robot.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Autonomous farm robot Burro assists human workers with grape harvest",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/24/autonomous-farm-robot-burro-assists-human-workers-with-grape-harvest/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/autonomous-farm-robot-burro-assists-human-workers-with-grape-harvest/amp/",
+      "publishedDateTime": "2020-06-24T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-aclu-files-first-formal-complaint-over-wrongful-facial-recognition-arrest.md",
       "title": "ACLU files first formal complaint over wrongful facial recognition arrest",
       "excerpt": "The American Civil Liberties Union (ACLU) has filed a formal complaint against Detroit police over what it says is the first known example of a wrongful arrest caused by faulty facial recognition technology.",
       "webUrl": "https://www.theverge.com/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence",
-      "heat": 253,
+      "heat": 263,
       "tags": null,
       "images": [
         {
@@ -408,7 +625,7 @@
       "title": "Researchers use AI and simulation to optimize ride-sharing earnings",
       "excerpt": "Researchers at Boston University propose a framework that optimizes ride-hailing earnings for drivers without negatively impacting the rider experience.",
       "webUrl": "https://venturebeat.com/2020/06/24/researchers-use-ai-and-simulation-to-optimize-ride-sharing-earnings/",
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1143,232 +1360,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-what-a-machine-learning-tool-that-turns-obama-white-can-and-cant-tell-us-about-ai-bias.md",
-      "title": "What a machine learning tool that turns Obama white can (and can’t) tell us about AI bias",
-      "excerpt": "This image speaks volumes about the dangers of bias in AI.” But what’s causing these outputs and what do they really tell us about AI bias? First, we need to know a little a bit about the technology being used here.",
-      "webUrl": "https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/GLeIAWEwxhvIP7CfZ4nkm6zKe0o=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/13762264/fake_ai_faces.png",
-          "width": 1400,
-          "height": 940,
-          "title": "What a machine learning tool that turns Obama white can (and can’t) tell us about AI bias",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias",
-      "publishedDateTime": "2020-06-23T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-machine-learning-has-a-huge-flaw-its-gullible.md",
-      "title": "Machine Learning Has a Huge Flaw: It’s Gullible",
-      "excerpt": "Research shows how humans can shield machine learning from manipulation. Artificial intelligence and machine learning technologies are poised to supercharge productivity in the knowledge economy, transforming the future of work.",
-      "webUrl": "https://scitechdaily.com/machine-learning-has-a-huge-flaw-its-gullible/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Gullible-Machine-Learning-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": "Machine Learning Has a Huge Flaw: It’s Gullible",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/machine-learning-has-a-huge-flaw-its-gullible/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/machine-learning-has-a-huge-flaw-its-gullible/amp/",
-      "publishedDateTime": "2020-06-23T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-azure-front-door-and-cdn-rules-engine-now-generally-available.md",
-      "title": "Azure Front Door and CDN Rules Engine now generally available",
-      "excerpt": "In recent cloud-related news, Microsoft unveiled new Azure Machine Learning courses and scholarships on Udacity. The tech giant also signed a five-year deal with John Hopkins Medicine last week, centered around the utilization of Azure. Today, Microsoft ...",
-      "webUrl": "https://www.neowin.net/news/azure-front-door-and-cdn-rules-engine-now-generally-available",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329604_azure-1_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Azure Front Door and CDN Rules Engine now generally available",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/azure-front-door-and-cdn-rules-engine-now-generally-available/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-front-door-and-cdn-rules-engine-now-generally-available/",
-      "publishedDateTime": "2020-06-23T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-trumps-latest-immigration-ban-is-bad-news-for-us-ai-ambitions.md",
-      "title": "Trump’s latest immigration ban is bad news for US AI ambitions",
-      "excerpt": "America’s access to global talent has helped it stay ahead of China in the AI arms race ... program that allowed me to move to the US to start @huggingface! Unfortunately, I won’t be able ...",
-      "webUrl": "https://thenextweb.com/neural/2020/06/23/trumps-latest-immigration-ban-is-bad-news-for-us-ai-ambitions/",
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/30020836983_181ebce05e_o-796x531.jpg",
-          "width": 796,
-          "height": 531,
-          "title": "Trump’s latest immigration ban is bad news for US AI ambitions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/23/trumps-latest-immigration-ban-is-bad-news-for-us-ai-ambitions/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/23/trumps-latest-immigration-ban-is-bad-news-for-us-ai-ambitions/amp/",
-      "publishedDateTime": "2020-06-23T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-facebook-claims-wav2vec-20-tops-speech-recognition-performance-with-10-minutes-of-labeled-data.md",
-      "title": "Facebook claims wav2vec 2.0 tops speech recognition performance with 10 minutes of labeled data",
-      "excerpt": "In a paper published on the preprint server Arxiv.org, researchers at Facebook describe wave2vec 2.0, an improved framework for self-supervised speech recognition. They claim it demonstrates for ...",
-      "webUrl": "https://venturebeat.com/2020/06/23/facebook-claims-wav2vec-2-0-tops-speech-recognition-performance-with-10-minutes-of-labeled-data/",
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook claims wav2vec 2.0 tops speech recognition performance with 10 minutes of labeled data",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/23/facebook-claims-wav2vec-2-0-tops-speech-recognition-performance-with-10-minutes-of-labeled-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/facebook-claims-wav2vec-2-0-tops-speech-recognition-performance-with-10-minutes-of-labeled-data/amp/",
-      "publishedDateTime": "2020-06-23T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

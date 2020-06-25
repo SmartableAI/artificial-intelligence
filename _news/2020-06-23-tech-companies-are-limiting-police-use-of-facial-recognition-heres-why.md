@@ -217,6 +217,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "House bill seeks to ban federal use of facial recognition"
+    excerpt: "Senators Ed Markey (Massachusetts) and Jeff Merkley (Oregon) authored the Facial Recognition and Biometric Technology Moratorium Act, which Reps. Pramila Jayapal and Ayanna Pressley co-sponsored, according to Vice."
+    publishedDateTime: 2020-06-25T18:23:00Z
+    webUrl: "https://www.engadget.com/facial-recognition-ban-bill-democrats-182006734.html"
+    ampWebUrl: "https://www.engadget.com/amp/facial-recognition-ban-bill-democrats-182006734.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-ban-bill-democrats-182006734.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2Fce6af050-1fe8-11ea-b9bb-6e91861f58e5&client=amp-blogside-v2&signature=79939f8d1f2406b6a8f123e213fa81fc9f175876"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Boston Just Banned Its Government From Using Facial Recognition Technology"
     excerpt: "Citing “racial bias in facial surveillance,” the Boston City Council voted unanimously to stop the use of facial recognition by public agencies."
     publishedDateTime: 2020-06-24T18:03:00Z
@@ -248,6 +264,38 @@ related:
       - url: "https://i.insider.com/5ef38a255af6cc5dd8746d84?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "2 Democratic senators to propose ban on use of facial recognition by federal law enforcement"
+    excerpt: "The bill would also make federal funding for state and local law enforcement contingent on the enactment of similar bans."
+    publishedDateTime: 2020-06-25T17:14:00Z
+    webUrl: "https://www.nbcnews.com/tech/security/2-democratic-senators-propose-ban-use-facial-recognition-federal-law-n1232128"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1232128"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1232128"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 80
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2019_46/3101861/191114-facial-recognition-se-724p_89349dce96428fbb668c940dd897e041.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Democratic lawmakers seek to ban government use of facial recognition technology with new bill"
+    excerpt: "This comes after IBM, Microsoft and Amazon said they would end sales of the technology to law enforcement, at least temporarily."
+    publishedDateTime: 2020-06-25T18:48:00Z
+    webUrl: "https://www.cnbc.com/2020/06/25/facial-recognition-ban-sought-in-democratic-lawmaker-bill.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/25/facial-recognition-ban-sought-in-democratic-lawmaker-bill.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/25/facial-recognition-ban-sought-in-democratic-lawmaker-bill.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 79
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/102413653-462755014.jpg?v=1423588785"
+        width: 1661
+        height: 1107
         isCached: true
   - title: "Black Man Wrongfully Arrested Due to 'Flawed' Face Recognition Tech: ACLU"
     excerpt: "The American Civil Liberties Union has filed a formal complaint against Detroit police for wrongfully arresting a Black man earlier this year after he was allegedly targeted due to \"flawed and biased\" facial recognition technology."
@@ -311,6 +359,22 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "Black man wrongfully arrested because of incorrect facial recognition"
+    excerpt: "A Black man was wrongfully arrested and held in a detention center for nearly 30 hours in Michigan after facial recognition technology incorrectly identified him as a suspect in a shoplifting case, according to the man,"
+    publishedDateTime: 2020-06-25T18:17:00Z
+    webUrl: "https://abcnews.go.com/US/black-man-wrongfully-arrested-incorrect-facial-recognition/story?id=71425751"
+    ampWebUrl: "https://abcnews.go.com/amp/US/black-man-wrongfully-arrested-incorrect-facial-recognition/story?id=71425751"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/black-man-wrongfully-arrested-incorrect-facial-recognition/story?id=71425751"
+    type: article
+    provider:
+      name: ABC
+      domain: go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/US/williams-01-as-ht-200625_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Boston approves ban on facial recognition technology"
     excerpt: "The Boston City Council voted unanimously Wednesday to pass a ban on the use of facial recognition technology by city government. The move makes Boston the second-largest U.S. city after San Francisco to enact a ban."

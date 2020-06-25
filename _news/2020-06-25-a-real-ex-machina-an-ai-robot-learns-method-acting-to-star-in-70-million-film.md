@@ -59,10 +59,26 @@ related:
         width: 1200
         height: 848
         isCached: true
+  - title: "This AI Robot Just Nabbed the Lead Role in a Sci-Fi Movie"
+    excerpt: "For the first time ever, an AI robot will star in a feature film, per The Hollywood Reporter. A humanoid actress named Erica will appear in b, a sci-fi flick that eerily mirrors the android's own origin story."
+    publishedDateTime: 2020-06-25T18:52:00Z
+    webUrl: "https://www.popularmechanics.com/technology/robots/a32968811/artificial-intelligence-robot-movie-star-erica/"
+    ampWebUrl: "https://www.popularmechanics.com/technology/robots/amp32968811/artificial-intelligence-robot-movie-star-erica/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/robots/amp32968811/artificial-intelligence-robot-movie-star-erica/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 74
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/robot-created-by-japans-hiroshi-ishiguro-laboratories-news-photo-1593095893.jpg?crop=0.984xw:0.740xh;0.00160xw,0.106xh&resize=1200:*"
+        width: 1200
+        height: 601
+        isCached: true
   - title: "AI robot trained in method acting to star in a $70 million sci-fi movie"
     excerpt: "It seems on-brand with all that has been going on in the world that a sci-fi movie would cast a robot as its lead actress. The movie explores how a scientist who came up with a program to perfect human DNA must help the artificially intelligent woman he created,"
     publishedDateTime: 2020-06-25T17:49:00Z
-    webUrl: "https://www.fastcompany.com/90521262/ai-robot-trained-in-method-acting-to-star-in-a-70-million-sci-fi-movie?partner=rss"
+    webUrl: "https://www.fastcompany.com/90521262/ai-robot-trained-in-method-acting-to-star-in-a-70-million-sci-fi-movie?partner=feedburner"
     type: article
     provider:
       name: Fast Company
@@ -72,6 +88,20 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-ai-robot-trained-in-method-acting-to-star-in-a-dollar70-million-sci-fi-movie.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Artificial Intelligence ‘Actor’ Cast in Lead Role of $70 Million Sci-Fi Movie"
+    excerpt: "If you thought creative jobs like acting would be among the last to be taken over by AI-powered robots, think again, as 'b', the world's first film to feature an AI robot in the lead"
+    publishedDateTime: 2020-06-25T19:00:00Z
+    webUrl: "https://www.odditycentral.com/news/artificial-intelligence-actor-cast-in-lead-role-of-70-million-sci-fi-movie.html"
+    type: article
+    provider:
+      name: Oddity Central
+      domain: odditycentral.com
+    quality: 36
+    images:
+      - url: "https://www.odditycentral.com/wp-content/uploads/2020/06/Erica-the-robot.jpg"
+        width: 750
+        height: 376
         isCached: true
 
 secured: "JCS0NkK0NFC8NcPJmRrBojP+zTGBPaht0gpN8WSWyO0U/BW4VCKD8mHPp3gmR3wbRKJ/cfogyhx8KwGMDZ703ZiMce9uba5//zE5F2/Zvy4k9jxR5RLhvOurQELSAvftoOPyVz/o3Lmtd6DZhzMgF99SH0ew7xCG8IkkkNbRD/xDLehPVjwTjdtqJQzZMDyiLG0MhwkWFLjISIM9wYJDqxLjwhW1OO9myM9bNkER8feWe06uW786I+ZF4o+Dbr+e/fahS5ucMmZHbvZxSWCWqRO00qshxfxbqw5d9zdm/E2o9Z1yCdvfIZerHx3g2iNBYWzrGLYdBypJn10jfW5gwG2INdtscHg5oX4qTzQafxmQH6MZk1gqYnzVd7iVVjBad1SDg35EhnyJJpIY1xHH+vndxBzKpG4EqiJrcL0ofNuxDAHnBiXVDBHFtQjbM+30densrQeXoAC7Q7OBaeEMpfRbpmRDsk8EKIFEhT/zTLhGo0rNEr5wonJVqVEnvp9IvB4zXGqGhj1iW2RRDc/izQ==;QseA4gik4JiweGFi+thjQw=="

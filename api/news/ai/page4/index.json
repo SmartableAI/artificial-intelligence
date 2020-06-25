@@ -2,6 +2,194 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-22-us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing.md",
+      "title": "US government doesn't know how it uses facial recognition in public housing",
+      "excerpt": "The Department of Housing and Urban Development says it doesn't have policies limiting how facial recognition is used in public housing.",
+      "webUrl": "https://www.cnet.com/news/us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/mBcbBBTe2lIFz0R4LQ7bhNmWx0E=/756x567/2020/05/01/7d392c22-fd26-4e41-bfc7-0eef3e0bf34d/security-facial-recognition-contact-tracing.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "US government doesn't know how it uses facial recognition in public housing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing/",
+      "publishedDateTime": "2020-06-22T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.md",
+      "title": "HomeKit in iOS 14: Support for facial recognition and adaptive lighting",
+      "excerpt": "HomeKit will soon be able to automatically change the color temperature of your lights throughout the day, as well as tell you who’s waiting on your doorstep.",
+      "webUrl": "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.html",
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/06/homekit-facial-recognition-100849644-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "HomeKit in iOS 14: Support for facial recognition and adaptive lighting",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html",
+      "publishedDateTime": "2020-06-22T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-scheduling-jupyter-notebooks-on-sagemaker-ephemeral-instances.md",
+      "title": "Scheduling Jupyter notebooks on SageMaker ephemeral instances",
+      "excerpt": "It’s 5 PM on a Friday. You’ve spent all afternoon coding out a complex, sophisticated feature engineering strategy. It just started working on your Amazon SageMaker Studio t3.medium notebook, and all you want to do is plug this onto a massive instance, scale it out over the rest of your dataset, and",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scheduling-jupyter-notebooks-on-sagemaker-ephemeral-instances/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/19/sagemaker-ephemeral-instances-4-1219x630.jpg",
+          "width": 1219,
+          "height": 630,
+          "title": "Scheduling Jupyter notebooks on SageMaker ephemeral instances",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T11:23:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-aws-deepcomposer-chartbusters-generate-compositions-in-the-style-of-bach-and-compete-to-top-the-charts.md",
+      "title": "AWS DeepComposer Chartbusters: generate compositions in the style of Bach and compete to top the charts",
+      "excerpt": "We are excited to announce the launch of AWS DeepComposer Chartbusters, a monthly challenge where developers can use AWS DeepComposer to create original compositions and compete to top the charts and win prizes. AWS DeepComposer gives developers a creative way to get started with machine learning (ML)",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepcomposer-chartbusters-generate-compositions-in-the-style-of-bach-and-compete-to-top-the-charts/",
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/19/chartbusters-3.gif",
+          "width": 730,
+          "height": 508,
+          "title": "AWS DeepComposer Chartbusters: generate compositions in the style of Bach and compete to top the charts",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T11:23:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-seafarers-need-recognition-and-support-from-governments-imo-chief.md",
       "title": "Seafarers Need Recognition and Support from Governments: IMO Chief",
       "excerpt": "Restrictions on individual travel have left many seafarers effectively stuck on ships, at sea or at anchor, with their vessels unable to dock, disembark or resupply, and unable to access medical care,",
@@ -597,7 +785,7 @@
       "title": "AImotive raises $20 million for driver-assistance and self-driving car software",
       "excerpt": "AImotive has raised a $20 million round to further develop its software for self-driving cars and advanced driver assistance.",
       "webUrl": "https://venturebeat.com/2020/06/22/aimotive-raises-20-million-for-driver-assistance-and-self-driving-car-software/",
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1189,185 +1377,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards.md",
-      "title": "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards",
-      "excerpt": "Facebook announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and groundbreaking academic research in the field of artificial intelligence (AI) ethics.",
-      "webUrl": "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/",
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2020/06/07/Facebook-removes-nearly-200-accounts-tied-to-hate-groups.jpg",
-          "width": 715,
-          "height": 450,
-          "title": "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/",
-      "publishedDateTime": "2020-06-21T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-type-x-armored-combat-robot-equipped-for-unmanned-convoy-protection.md",
-      "title": "Type-X armored combat robot equipped for unmanned convoy protection",
-      "excerpt": "Estonia-based Milrem Robotics and Belgium's John Cockerill Defense have unveiled Milrem's Type-X Robotic Combat Vehicle. Based on a modular design and equipped with the Cockerill Protected Weapons Station Generation II (CPWS II) turret,",
-      "webUrl": "https://newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/a91bde8/2147483647/strip/true/crop/2560x1707+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Feb%2F43%2F55a42262488984eecb91ad84851a%2Fimg-0688-scaled.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Type-X armored combat robot equipped for unmanned convoy protection",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/?amp=true",
-      "publishedDateTime": "2020-06-21T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems.md",
-      "title": "Waymo and Uber propose AI techniques to improve self-driving systems",
-      "excerpt": "Waymo and Uber researchers presented new techniques to improve the reliability -- and safety -- of their self-driving systems.",
-      "webUrl": "https://venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/",
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/waymo-ipace-e1572290208222.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Waymo and Uber propose AI techniques to improve self-driving systems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/amp/",
-      "publishedDateTime": "2020-06-21T16:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-victoria-police-emails-reveal-clearview-ais-dodgy-direct-marketing.md",
-      "title": "Victoria Police emails reveal Clearview AI's dodgy direct marketing",
-      "excerpt": "Why bother with messy official approvals, tedious legal and privacy assessments, or even ethics when cops use facial recognition? 'Feel free to run wild with your searches,' says Clearview.",
-      "webUrl": "https://www.zdnet.com/article/victoria-police-emails-reveal-clearview-ais-dodgy-direct-marketing/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/21/4255271c-e78c-453d-8441-0131f1324aae/clearvew-email.png",
-          "width": 1138,
-          "height": 960,
-          "title": "Victoria Police emails reveal Clearview AI's dodgy direct marketing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/victoria-police-emails-reveal-clearview-ais-dodgy-direct-marketing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/victoria-police-emails-reveal-clearview-ais-dodgy-direct-marketing/",
-      "publishedDateTime": "2020-06-21T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

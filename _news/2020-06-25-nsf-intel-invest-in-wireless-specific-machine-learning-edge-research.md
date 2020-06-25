@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-25T16:25:00Z
 webUrl: "https://www.hpcwire.com/off-the-wire/nsf-intel-invest-in-wireless-specific-machine-learning-edge-research/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,21 +25,21 @@ images:
     title: "NSF, Intel Invest in Wireless-Specific Machine Learning Edge Research"
 
 related:
-  - title: "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research"
-    excerpt: "Intel and the National Science Foundation announce award recipients of joint funding for research into the development of future wireless systems."
-    publishedDateTime: 2020-06-25T14:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200625005022/en/Intel-National-Science-Foundation-Invest-Wireless-Specific-Machine"
+  - title: "Intel, NSF Name Winners of Wireless Machine Learning Research Funding"
+    excerpt: "Intel and the National Science Foundation (NSF), joint funders of the Machine Learning for Wireless Networking Systems (MLWiNS) program, today announced recipients of awards to research into ultra-dense wireless systems that deliver the throughput,"
+    publishedDateTime: 2020-06-25T19:07:00Z
+    webUrl: "https://insidehpc.com/2020/06/intel-nsf-name-winners-of-wireless-machine-learning-research-funding/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
     images:
-      - url: "https://mms.businesswire.com/media/20200625005022/en/59121/23/intel_rgb.jpg"
-        width: 1200
-        height: 627
+      - url: "https://insidehpc.com/wp-content/uploads/2020/06/wireless-network-shutterstock-763512952-.jpg"
+        width: 500
+        height: 231
         isCached: true
 
-secured: "reicPKfSPEWXHkBnQ4OFRfchRURukaWQ4OsXDimIe8r4Qbdig++1qZQBmnHvhpdNRQAOavbnUryQfcxQO9wK9NCCzLO92pByrw+axiX4D9y9ZFFedODKjNLKMzaHqAHMYPB5hcWXjABoT8ox5L1S34NmU1+9Fx9ikNvhd7FZ63OwZ2x7OA6did7096W/t75MG26hqfdktPXKjEGKerIjvdnTT10B3X1MEe7vX/jsODlqE+/6QoYbdZFp244YsogQZPTsMyBazX5QKQ3iO/Aqi62M/pdymSA238EwAXKOuq5Uj9rV9zIP3X4qERTcLRYZh+1LoBGqkCPBh4IiT48UFQ==;F+DFxXS1Nook9O3eHTDtTA=="
+secured: "9S6ihyJHq4hxe7is85Xe48bdrYf2nVH1RlOV47fMGJPu0y/GO43QRolay7M9dfh7fwXy29r7JaUZHMh2iv8OWPDb0V/Iz4L2UumBdVo1gALSm/SvFeVIyBKzpNoofiUsqmSAJhXYBIO5w2GXXXwwV/wUPkySLulsqiMWnpjIjgLVtmtUKwdWPxDljBD2epPZc8D3y7d7rtBCfyoWg0qOBfAZ/RAej4wcC4WW0KDEzz0bPCIXkPE2XEoATuiEUsvCNTHg7PpBQD4GuWqgjWgMhp2zaUNE285/95GGsvTkU7n54oI1YF8Xx3XQdfEX4R90ODXljKwlayyQHGDxByQHzQQu/GQrS7138ucMfUmLNhVQUdc5l6rah2bEtgZkKg8/WvRL4ZgnR3mQMe4BCueRBNKugnB5K6WsWN1JfBLGnEIh4Z9nccolKLnW7MYtYS+UADHuFJbpvNAmsEHZ5RANAzZOkAtRuAIIyncxzpAU6O3bq7O1hzIhK38qBVpql1kl9nZlHGmrcEgsdtd7Bk/xFg==;hSCLWiJF0h2hJfSpGEIZ1w=="
 ---
 

@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Congress introduces bill that bans facial recognition use by federal government"
+    excerpt: "The bill would prohibit facial recognition use by the federal government and withhold funds from state and local governments that use the tech."
+    publishedDateTime: 2020-06-25T19:34:00Z
+    webUrl: "https://venturebeat.com/2020/06/25/congress-introduces-bill-that-bans-facial-recognition-use-by-federal-government/"
+    ampWebUrl: "https://venturebeat.com/2020/06/25/congress-introduces-bill-that-bans-facial-recognition-use-by-federal-government/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/congress-introduces-bill-that-bans-facial-recognition-use-by-federal-government/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Facial recognition software vendor vows to thwart misuse after wrongful Detroit arrest"
     excerpt: "Facial recognition vendor Rank One Computing said on Wednesday it would “add legal means” and research other ways to thwart misuse."
     publishedDateTime: 2020-06-25T07:31:00Z

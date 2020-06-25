@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/24/researchers-use-ai-and-simulation
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/researchers-use-ai-and-simulation-to-optimize-ride-sharing-earnings/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     height: 600
     isCached: true
     title: "Researchers use AI and simulation to optimize ride-sharing earnings"
-
-related:
-  - title: "Lyft is using data from its rideshare drivers to develop self-driving cars"
-    excerpt: "Lyft is using data collected from drivers on its ride-hailing app to accelerate the development of self-driving cars. Lyft’s Level 5 self-driving car program is using the data to build 3D maps, understand human driving patterns and improve simulation tests — all tools needed to push their"
-    publishedDateTime: 2020-06-24T14:04:00Z
-    webUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/"
-    ampWebUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/06/lyft-maps.gif"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "6iAkF1rBI/jWrGm20XO+fYp02lbXJu2ZCXiY2WWPbaKwJmR2ZO4aY8c7aB5YqJgUCoTDAJ9uqZU/qEbcS0ju+/NsvBa21zNqD12ENTUJzSK5uzSi439EjEPY8i5r3vm4tRTovE5SfjuoI0ZWbkk2A0j6iBIzA478dGJfX6O1BVGyH1JbqREoFFVIkyxs2t61Iq1F/Daag5/FGE2uCUZRaZKLxJ+eIgRHZamHcC+N2HqfQ0oLmtEkZCxxB7laE3arlPbNsG48IdCHsZXLwmltEbT7k3oq2rizFUG7WAx9OqXpy7Y4Uelxmd0Ux2MhT+yqukV5ct2Bs95Odt+L+kYKUYuYH3ZHwEkhXV5/pBiksA3vRIVjxeV4PE2T7uFgjF93zsDYImYZw82QDiJw9w20gi/t+98Z+LVuRCN25IeKp7YzTGU6ad4qCACabPY7fBgixa55qZiuAc6QHhfbJFeylPWssb9lTsu4YN9nOlXsPlcgvQZNxW3mUzsmRjpTMzI6pUXK8fR5aAjSK5VX/e/Pkw==;SE9j4t/276e+h4KiXgq8IQ=="
 ---

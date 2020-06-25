@@ -2,6 +2,195 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-06-15-arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge.md",
+      "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
+      "excerpt": "Alternatively, there’s color night vision for a more surreptitious view of the garden, porch, or whatever else you might point the camera at. Much the same way, the built-in siren can be automatically triggered or done manually through the app. There’s also two-way audio support. Motion detection uses computer vision to filter out the ...",
+      "webUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/Essential-_Spotlight_Lifestyle_Mounted_B.jpg",
+          "width": 1680,
+          "height": 1050,
+          "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
+      "publishedDateTime": "2020-06-15T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-facebook-cto-says-hiring-matters-for-mitigating-ai-bias-but-the-company-lacks-ai-research-diversity-stats.md",
+      "title": "Facebook CTO says hiring matters for mitigating AI bias, but the company lacks AI research diversity stats",
+      "excerpt": "Facebook CTO Mike Schroepfer on the importance of diversity and hiring at Facebook to address algorithmic bias despite little evident diversity at Facebook.",
+      "webUrl": "https://venturebeat.com/2020/06/15/facebook-cto-says-hiring-matters-for-mitigating-ai-bias-but-the-company-lacks-ai-research-diversity-stats/",
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-621759882.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook CTO says hiring matters for mitigating AI bias, but the company lacks AI research diversity stats",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/15/facebook-cto-says-hiring-matters-for-mitigating-ai-bias-but-the-company-lacks-ai-research-diversity-stats/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/15/facebook-cto-says-hiring-matters-for-mitigating-ai-bias-but-the-company-lacks-ai-research-diversity-stats/amp/",
+      "publishedDateTime": "2020-06-15T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-robot-to-safely-swab-for-coronavirus-developed-by-scientists-in-denmark.md",
+      "title": "Robot to safely swab for coronavirus developed by scientists in Denmark",
+      "excerpt": "Danish researchers have developed a fully automated robot that can take coronavirus swabs so that health care professionals are not exposed to the risk of infection.",
+      "webUrl": "https://in.reuters.com/article/us-health-coronavirus-swab-robot-idINKBN23B1PF",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Robot to safely swab for coronavirus developed by scientists in Denmark",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN23B1PF",
+      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN23B1PF",
+      "publishedDateTime": "2020-06-15T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study.md",
+      "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
+      "excerpt": "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday.",
+      "webUrl": "https://in.reuters.com/article/autos-self-driving-idINKBN23B2QM",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN23B2QM",
+      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN23B2QM",
+      "publishedDateTime": "2020-06-15T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-delivering-real-time-racing-analytics-using-machine-learning.md",
       "title": "Delivering real-time racing analytics using machine learning",
       "excerpt": "AWS DeepRacer is a fun and easy way for developers with no prior experience to get started with machine learning (ML). At the end of the 2019 season, the AWS DeepRacer League engaged the Amazon ML Solutions Lab to develop a new sports analytics feature for the AWS DeepRacer Championship Cup at re:Invent",
@@ -447,6 +636,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-15-amazon-issues-12-month-ban-on-police-use-of-facial-recognition.md",
+      "title": "Amazon issues 12-month ban on police use of facial recognition",
+      "excerpt": "The one-year moratorium on police use of Amazon Rekognition does not include organizations that work closely with law enforcement to identify victims of child sexual exploitation and human ...",
+      "webUrl": "https://www.nbcnews.com/tech/security/amazon-issues-12-month-ban-police-use-facial-recognition-n1229601?cid=sm_npd_nn_tw_ma",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_24/3386551/200610-jeff-bezos-2017-ac-544p_ad2fd0aa2b3277bf6be8e39a10c6a956.jpg",
+          "width": 2500,
+          "height": 1690,
+          "title": "Amazon issues 12-month ban on police use of facial recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1229601",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1229601",
+      "publishedDateTime": "2020-06-15T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-huami-launched-second-gen-smart-wearable-chip-namely-huangshan-no-2.md",
       "title": "Huami Launched Second-gen Smart Wearable Chip, Namely Huangshan No. 2",
       "excerpt": "Huami Technology held the first Huami Technology AI Innovation Conference in Hefei, China. At the event, it released the second generation of self-developed RISC-V",
@@ -877,226 +1104,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c.md",
-      "title": "Marketing To Robots: Why CMOs Need To Start Thinking About Business To Robot To Consumer (B2R2C)",
-      "excerpt": "What happens when robots & virtual assistants own the relationship with the consumer? In this new era of B2R2C, brands will need to think outside the “bot.",
-      "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/14/marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1185170041%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Marketing To Robots: Why CMOs Need To Start Thinking About Business To Robot To Consumer (B2R2C)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/14/marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/06/14/marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/amp/",
-      "publishedDateTime": "2020-06-14T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-assembling-a-top-notch-ai-team.md",
-      "title": "Assembling A Top-Notch AI Team",
-      "excerpt": "Even though there are many great AI software tools on the market, you still need to assemble a strong team when it comes to putting together projects. The technology is complex and evolving. There are also the challenges of change management within an organization.",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F981091096%2F0x0.jpg%3FcropX1%3D469%26cropX2%3D7295%26cropY1%3D0%26cropY2%3D3840",
-          "width": 1200,
-          "height": 675,
-          "title": "Assembling A Top-Notch AI Team",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/amp/",
-      "publishedDateTime": "2020-06-14T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-improving-financial-sentiment-analysis-with-machine-learning-proxy-servers.md",
-      "title": "Improving Financial Sentiment Analysis with Machine Learning & Proxy Servers",
-      "excerpt": "Improving financial sentiment analysis with Afrtificial intelligence, machine learning and proxy servers is the new word in trading. Here's why",
-      "webUrl": "https://www.financemagnates.com/fintech/trading/improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/",
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2019/05/AI_risk-management.jpg",
-          "width": 880,
-          "height": 400,
-          "title": "Improving Financial Sentiment Analysis with Machine Learning & Proxy Servers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.financemagnates.com/fintech/trading/improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/trading/improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/amp/",
-      "publishedDateTime": "2020-06-14T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-where-are-all-the-robots.md",
-      "title": "Where are all the robots?",
-      "excerpt": "D2, all we got is Facebook serving us ads we don’t want to click on, Netflix recommending us another movie that we probably shouldn’t stay up to watch, and iRobot’s Roomba.",
-      "webUrl": "https://techcrunch.com/2020/06/14/where-are-all-the-robots/",
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-168265499.jpg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": "Where are all the robots?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/14/where-are-all-the-robots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/14/where-are-all-the-robots/amp/",
-      "publishedDateTime": "2020-06-14T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-only-artificial-intelligence-can-protect-britain-top-general-warns.md",
-      "title": "Only artificial intelligence can protect Britain, top general warns",
-      "excerpt": "BRITAIN'S Armed Forces are still fighting \"yesterday's wars\" and can neither protect this country nor meet increasing 21st Century challenges, General Sir Richard Barrons said last night.",
-      "webUrl": "https://www.express.co.uk/news/politics/1295693/armed-forces-artificial-intelligence-sir-richard-barrons",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/139/590x/1295693_1.jpg?r=1592139773569",
-          "width": 590,
-          "height": 350,
-          "title": "Only artificial intelligence can protect Britain, top general warns",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/politics/1295693/armed-forces-artificial-intelligence-sir-richard-barrons/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/politics/1295693/armed-forces-artificial-intelligence-sir-richard-barrons/amp",
-      "publishedDateTime": "2020-06-14T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
