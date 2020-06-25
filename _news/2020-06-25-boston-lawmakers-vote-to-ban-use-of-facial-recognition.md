@@ -73,6 +73,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition Technology By The City"
+    excerpt: "Boston is poised to ban its use of facial surveillance technology, becoming the second-largest community in the world to do so. The city council"
+    publishedDateTime: 2020-06-25T01:17:00Z
+    webUrl: "https://www.wnpr.org/post/boston-lawmakers-vote-ban-use-facial-recognition-technology-city"
+    type: article
+    provider:
+      name: WNPR
+      domain: wnpr.org
+    quality: 21
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202006/883132109.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Legislation would block police from using facial recognition with body cam footage"
     excerpt: "The newly introduced Stop Biometric Surveillance by Law Enforcement Act would ban federal law enforcement agencies from using facial recognition and other biometric surveillance technologies on"
     publishedDateTime: 2020-06-23T18:38:00Z

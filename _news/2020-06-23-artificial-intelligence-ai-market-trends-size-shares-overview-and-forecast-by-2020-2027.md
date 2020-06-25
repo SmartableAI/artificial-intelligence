@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T12:22:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-trends-size-shares-overview-and-forecast-by-2020-2027-2020-06-23"
 type: article
 quality: 71
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -105,22 +105,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 with (Covid-19) Impact Analysis: Growth, Latest Trend Analysis and Forecast 2027"
-    excerpt: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 features key points about market share, new developments, and product analysis, market players, analysis of opportunities. According to the global Artificial Intelligence (A."
-    publishedDateTime: 2020-06-20T11:53:00Z
-    webUrl: "https://surfacingmagazine.net/global-artificial-intelligence-a-i-in-drug-discovery-market-2020-with-covid-19-impact-analysis-growth-latest-trend-analysis-and-forecast-2027/"
-    ampWebUrl: "https://surfacingmagazine.net/global-artificial-intelligence-a-i-in-drug-discovery-market-2020-with-covid-19-impact-analysis-growth-latest-trend-analysis-and-forecast-2027/amp/"
-    cdnAmpWebUrl: "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/global-artificial-intelligence-a-i-in-drug-discovery-market-2020-with-covid-19-impact-analysis-growth-latest-trend-analysis-and-forecast-2027/amp/"
-    type: article
-    provider:
-      name: surfacingmagazine.net
-      domain: surfacingmagazine.net
-    quality: 20
-    images:
-      - url: "https://scitechdaily.com/images/Artist-Concept-AI-Molecules.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "DzMa0IgDcbCJSmoIaSV4tLkbvXTmjNHran/YTJpI8Yjpbgd5atPUC3+SYgekhYNDnbILIvQkyY2H1zHtpk+Cp5XXxlVIbC1sBDTRbeSw6vlcRK0EhGxwjaeeCi8SamuCZyrOWzQjpl1UkSqpobX7AXzXJ9jZ8G0gBDYadFT32kpu1Glx2QPYF2Y13kqNK3jyvrzPxqVb9vUrivlOsFBLhbL/ZX4qMN2BORpq/8fwMYighmdVdbPeXK28DByK8KYvzhhH4SbC1cBCUjpcPZ/pyz6PUD5XCMwugZaLBytiHOhsg9oHcjxyslDTr+XRPcPhXv53rJwAQJ0z3UB2qu4M5w==;A6aKmfFXe2j8d+iU/C14Sw=="

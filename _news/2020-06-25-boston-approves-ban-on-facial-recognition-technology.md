@@ -123,6 +123,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Boston votes to ban government use of facial recognition"
+    excerpt: "Boston joined cities like San Francisco, Oakland, California, and Cambridge, Massachusetts, on Wednesday in passing a vote to ban facial recognition technology for municipal use. It's the second largest city in the US to ban facial recognition,"
+    publishedDateTime: 2020-06-24T16:58:00Z
+    webUrl: "https://www.cnet.com/news/boston-votes-to-ban-government-use-of-facial-recognition/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/boston-votes-to-ban-government-use-of-facial-recognition/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/boston-votes-to-ban-government-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/QySY5WOxLVEc5TuYCXYsPgXryIo=/756x567/2020/06/24/27df7a30-14d8-40cb-90f6-08d04c23e80c/gettyimages-1139860049.jpg"
+        width: 756
+        height: 567
+        isCached: true
   - title: "Facial Recognition Leads Detroit Police to Arrest the Wrong Man"
     excerpt: "The ACLU demands that Detroit police stop using facial recognition as an investigation tool, citing the January arrest of Robert Williams, a black man wrongly accused of robbery thanks to flawed facial-recognition data."
     publishedDateTime: 2020-06-24T20:45:00Z
@@ -486,6 +502,6 @@ related:
         height: 341
         isCached: true
 
-secured: "2erhqlkG0Yrpy67gLqCvox43/vDV096KMsahdKApckMxD1wZitlKfsD3W6sRlewbdW1vd4qnoCX1upz19y2fAOYPfjOmf7S5cm2Zpakqw3tJcoW7fVOH978v7gIDprz1/u9iFShFMpvr/iWIYUcJLujsOgL6H6KNqNUvKhLSvqq5gE800m54NVq2RFdnE6VdYEu00Gy37VxatQsW03SVedBwf9Natr2ldwbyMxlD5npab3rqkMloqVjnBnN69N3NR2vJmCRYrhi3QAd4porzZwcKDN4YSHI6zcB09+RKlxJPSZAph4Bmke9h/SqJILPYBeXG1+nSR/es7vLi8tBj0g==;vzaHRxnC0IVp+akP3iAfRg=="
+secured: "KSDDQVwBtQMRCTZSxnNib3NquJVtKlW8RThBBNo7mzHatapEhmM4v3AuLmkfSuiEqzuiMBNbuMNjs/k4UZ+22KADi10BLp4+ScHPbhbYzqDZQLQNkLO7OqNQoNrFGnefkVUiHphRtjRMPhPHqqy8yph9z10bHHr94YhqlRf0i8OXcEY7EOjYkQwChzNeDeFvLqcIUKY3tmj4yLv22n5EShOUz3poBwFrkdOxWTC7xsz1vmvuH6D09SUtBld6stov9Bqbx1n1Fxp2G2LXnRIxvbtdTrQqa75SZTe4AeRtR9XQe7tF1TR/TQrt9HPkBLXjuoka66xa34leaJOGxpOieoY7LP5+TvUUX54+5bA7/W++VGcxntdtlnrHmVR0riAPVKjhQRMZILDfywaooa8bwLdZUNY184LwvEIHQvFlFerFg3sefaLlBXadS4Fki04B4hrCcODiZLbaqazAry6eNAoE058Ziq2PKhLc7yhgX0XG9ZSGDA5tMjbGZshm4fCdVl7QBvAFe0jmq6+d+r+VXw==;+wGUsptqSlXcS4VH1MqiiA=="
 ---
 

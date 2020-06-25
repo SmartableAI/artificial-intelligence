@@ -8,8 +8,8 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/nation/detroit-police-challenged-ov
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/detroit-police-challenged-over-face-recognition-flaws"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: PBS
@@ -28,20 +28,18 @@ images:
 
 related:
   - title: "Detroit police challenged over face recognition flaws, bias"
-    excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police. And for the department to abandon its use of the controversial technology."
-    publishedDateTime: 2020-06-24T20:10:00Z
-    webUrl: "https://www.sfgate.com/business/article/Detroit-police-challenged-over-face-recognition-15362382.php"
-    ampWebUrl: "https://www.sfgate.com/business/amp/Detroit-police-challenged-over-face-recognition-15362382.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/amp/Detroit-police-challenged-over-face-recognition-15362382.php"
+    excerpt: "A Black man who was wrongfully arrested when facial recognition technology mistakenly identified him as a suspected shoplifter wants Detroit police to apologize — and to end their use of"
+    publishedDateTime: 2020-06-24T11:44:00Z
+    webUrl: "https://apnews.com/9406d44edad083ee04e28646ead58ec7"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 59
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
     images:
-      - url: "https://s.hdnux.com/photos/01/12/57/24/19592470/13/375x250.jpg"
-        width: 347
-        height: 250
+      - url: "https://storage.googleapis.com/afs-prod/media/5987aad84f314fe1acddaa3dc9f6af9a/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Detroit police challenged over face recognition flaws, bias | Charlotte Observer"
     excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police."

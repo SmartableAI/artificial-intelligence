@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/flawed-facial-recognition-system-sent-ma
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp"
 type: article
 quality: 104
-heat: 414
+heat: 424
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2Ff2e045f0-b64e-11ea-abf7-4e8e44ceb97c&client=amp-blogside-v2&signature=774879a54502119225b3a463abaf2b721e0dbf44"
         width: 600
         height: 350
+        isCached: true
+  - title: "Boston votes to ban government use of facial recognition"
+    excerpt: "Boston joined cities like San Francisco, Oakland, California, and Cambridge, Massachusetts, on Wednesday in passing a vote to ban facial recognition technology for municipal use. It's the second largest city in the US to ban facial recognition,"
+    publishedDateTime: 2020-06-24T16:58:00Z
+    webUrl: "https://www.cnet.com/news/boston-votes-to-ban-government-use-of-facial-recognition/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/boston-votes-to-ban-government-use-of-facial-recognition/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/boston-votes-to-ban-government-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/QySY5WOxLVEc5TuYCXYsPgXryIo=/756x567/2020/06/24/27df7a30-14d8-40cb-90f6-08d04c23e80c/gettyimages-1139860049.jpg"
+        width: 756
+        height: 567
         isCached: true
   - title: "Facial Recognition Leads Detroit Police to Arrest the Wrong Man"
     excerpt: "The ACLU demands that Detroit police stop using facial recognition as an investigation tool, citing the January arrest of Robert Williams, a black man wrongly accused of robbery thanks to flawed facial-recognition data."

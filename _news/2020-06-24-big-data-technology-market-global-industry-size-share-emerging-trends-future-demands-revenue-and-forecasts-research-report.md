@@ -107,22 +107,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 37
-  - title: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 with (Covid-19) Impact Analysis: Growth, Latest Trend Analysis and Forecast 2027"
-    excerpt: "Global Artificial Intelligence (A.I.) in Drug Discovery Market 2020 features key points about market share, new developments, and product analysis, market players, analysis of opportunities. According to the global Artificial Intelligence (A."
-    publishedDateTime: 2020-06-20T11:53:00Z
-    webUrl: "https://surfacingmagazine.net/global-artificial-intelligence-a-i-in-drug-discovery-market-2020-with-covid-19-impact-analysis-growth-latest-trend-analysis-and-forecast-2027/"
-    ampWebUrl: "https://surfacingmagazine.net/global-artificial-intelligence-a-i-in-drug-discovery-market-2020-with-covid-19-impact-analysis-growth-latest-trend-analysis-and-forecast-2027/amp/"
-    cdnAmpWebUrl: "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/global-artificial-intelligence-a-i-in-drug-discovery-market-2020-with-covid-19-impact-analysis-growth-latest-trend-analysis-and-forecast-2027/amp/"
-    type: article
-    provider:
-      name: surfacingmagazine.net
-      domain: surfacingmagazine.net
-    quality: 20
-    images:
-      - url: "https://scitechdaily.com/images/Artist-Concept-AI-Molecules.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "Ix7tGGSW5YWZh5nmZyi4JfQiQCJCx5Un6mrfYTeak1lpLOky60zJAQtirM3d2OxV6dDZX69WxZCUFhtndTyv7Das7D7BEMwKULBvO1V5NVT1qmVAZwql9kvA9YFBA+AHJpg1JAMHC2r73/ftav7sy3DYNakuSBr+TRGn7A9KNxAPJPwYcnmyiMiGA4Twdt+UaJEEcWU1cieAzJEeXH4eKwx9zppGVDLsFEdiMheU6SmU/trzdO+0a/Xv8Nvov5kiao4LCVhhSfc0w+PuMW1Le0AwxMugMoyclWebvUTR+iMbbmsnF18JHLSUlLkuNKfCC37T8u2UzYF2jwExSEAT7w==;SnX2wpSKIK2OKyKADNXNwQ=="
 ---

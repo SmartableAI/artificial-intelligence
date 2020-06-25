@@ -7,7 +7,7 @@ webUrl: "https://www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-30001
 ampWebUrl: "https://www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-3000166?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-3000166?amp=1"
 type: article
-quality: 57
+quality: 74
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/12/07/robotaicapital-markets.jpg"
@@ -43,6 +44,6 @@ related:
         height: 720
         isCached: true
 
-secured: "hffltszhJA4fRJ+m1Oc4mk61LdQOP1o7wQR+1COqLr9H+SXcHsv1BxP8Q3EpZuZgp/Ck2bEZ1nvk7AFuyeMtGlVOiLUW4my7OiPe3DxxL9Q/g+pI7WylTDtIHqT0E+9ofGuBjCRcB+282yXbLXgUxtsiSMAKBz+rQ75sTCetOAETvN1/pRo6jtW+/yNyKc27039RVNd8sLxgJD3hzn3LBQcHjQfVRT1w+yH8DDleMt/3bni0mpQU2KTzEyflnRmxkA9lzpdRih2GplnB2MsN89GB5HF4wE+eEoF25IYel41aktyKS9DaaYmMFY+7A/+qW2OGuJnGLP98HGBj3Rwi9Q==;M73TzWjbCkenyS+Pb4OVpA=="
+secured: "AGmHIK1v4YYkLL2BhIiSQH3x0hPVagvbKXUrRzsfdZydcyuEG4HfdE0X3Ftrha/9z+Lpppv7A04ni74e7oNNrhsxmdv7+mZgsupedsKpOK/Q1jqsO82YjYRf3I5nXnxMeQIHuiWz+S/ItvGBjWDgf+t3UvizDc7wftbKEUrKbNecQrodr48Y3rdqUkSZwLAe68XfatRjrVYNyh8W2bj/qS9R5g1qUWn/7E+Yd0BDBFDfX9DpAs3YCCCeeg0z2gKXQ3XtFMtaqYU//yrJxiotc+gya+MjAtv7IJBDUWV4bwKED0jrkDmOUvJY+LHtyEao+D+2Mut+0apBRoR4oNYjqr76AiMi8vq8e7th367EFNpkYuXvqsJF9eOTLaw7QpG7E92RvqjRVtDDZ7N18UqC2c7gaU5PPgY6cLWTa5BJJjungCsyoP+2XNU0oZkybf+RgfgKpxfw6R1xIxqRqE9r6EwW5KducKfA83Nntv0627IdeKLV6xb9Km6uC1abSxIDZhztwX8B5EqM8yq4ffRjJw==;Ll/dAcdEnIZSJVoCHUSMOQ=="
 ---
 

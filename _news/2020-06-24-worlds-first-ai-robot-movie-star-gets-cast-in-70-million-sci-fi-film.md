@@ -37,7 +37,7 @@ related:
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 57
+    quality: 74
     images:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/12/07/robotaicapital-markets.jpg"
         width: 1200

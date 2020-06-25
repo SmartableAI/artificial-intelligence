@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://wfuv.org/sites/default/files/logo_0.png"
         width: 342
         height: 240
+        isCached: true
+  - title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition Technology By The City"
+    excerpt: "Boston is poised to ban its use of facial surveillance technology, becoming the second-largest community in the world to do so. The city council"
+    publishedDateTime: 2020-06-25T01:17:00Z
+    webUrl: "https://www.wnpr.org/post/boston-lawmakers-vote-ban-use-facial-recognition-technology-city"
+    type: article
+    provider:
+      name: WNPR
+      domain: wnpr.org
+    quality: 21
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202006/883132109.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Legislation would block police from using facial recognition with body cam footage"
     excerpt: "The newly introduced Stop Biometric Surveillance by Law Enforcement Act would ban federal law enforcement agencies from using facial recognition and other biometric surveillance technologies on"

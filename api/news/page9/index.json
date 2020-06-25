@@ -2,53 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2020-06-17-equitable-tech-companies-pause-facial-recognition-but-major-questions-remain.md",
-      "title": "Equitable tech: Companies pause facial recognition, but major questions remain",
-      "excerpt": "In response to protest calling for police reform around the country, some of the biggest names in tech are taking a closer look at their facial recognition technologies.",
-      "webUrl": "https://www.techrepublic.com/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/17/c1454581-0581-4f64-9a34-6b1c4e7dbf59/resize/1200x/c4ecd1309d8c01046284dfd75d817e98/facial-recognition.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Equitable tech: Companies pause facial recognition, but major questions remain",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
-      "publishedDateTime": "2020-06-17T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-17-enhancing-robotic-process-automation-with-ai.md",
       "title": "Enhancing robotic process automation with AI",
       "excerpt": "Seth Siegel, North American head of AI consulting at Infosys, tells Tonya Hall about a new industry for enhancing the robotic process automation with AI and why this new industry is already worth billions in market value.",
@@ -1097,6 +1050,52 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-5-ways-to-close-more-deals-in-a-downturn-using-ai.md",
+      "title": "5 Ways To Close More Deals In A Downturn Using AI",
+      "excerpt": "Improving sales in a downturn is possible when AI is used to decipher the data this recent downturn is producing and find new margin opportunities fast.",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/16/5-ways-to-close-more-deals-in-a-downturn-using-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee8eb37ed4d100006fc02d1%2F0x0.jpg",
+          "width": 1200,
+          "height": 771,
+          "title": "5 Ways To Close More Deals In A Downturn Using AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/16/5-ways-to-close-more-deals-in-a-downturn-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/06/16/5-ways-to-close-more-deals-in-a-downturn-using-ai/amp/",
+      "publishedDateTime": "2020-06-16T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

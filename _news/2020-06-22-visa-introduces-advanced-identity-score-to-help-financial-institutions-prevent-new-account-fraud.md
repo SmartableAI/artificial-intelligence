@@ -1,21 +1,32 @@
 ---
 category: news
 title: "Visa Introduces Advanced Identity Score to Help Financial Institutions Prevent New Account Fraud"
-excerpt: "Visa introduces Advanced Identity Score to help financial institutions prevent new account fraud by using AI to identify risk."
-publishedDateTime: 2020-06-22T11:06:00Z
-webUrl: "https://www.businesswire.com/news/home/20200622005251/en/Visa-Introduces-Advanced-Identity-Score-Financial-Institutions"
+excerpt: "Visa Inc. (NYSE: V) today announced a digital tool to help U.S. financial institutions with their efforts to combat new account fraud – estimated at"
+publishedDateTime: 2020-06-22T11:00:00Z
+webUrl: "https://www.marketwatch.com/press-release/visa-introduces-advanced-identity-score-to-help-financial-institutions-prevent-new-account-fraud-2020-06-22"
 type: article
-quality: 0
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+    title: "Visa Introduces Advanced Identity Score to Help Financial Institutions Prevent New Account Fraud"
 
 related:
   - title: "Visa unveils AI tool to help stop digital identity fraud"
@@ -51,6 +62,6 @@ related:
         height: 558
         isCached: true
 
-secured: "pcp2QDlIMdof0muiGMdjuEUaPKzqBdV6vK3XSRM5QmyAjACy6+RfwvCkf5JVfuLiyNgm7NU9v5xZkv6tu/WbPOJtZBSXJhHW8evx9dWPYj3HvIAwal6XJxtJ9+JF0IP9bwsa8JoclpqPWeCz1muaOa/CznCsai28DmIzlGnGqbQ6djKZNSImfmGJ9siA3PHmd4QksRczrN73zu9JRDgpW4MkFRXoNH5m/IYXDPxPKu/zjkPPwlZ5xBAGFLhUNT2HEFJ4oLLDH9RhCdNPbr9XxK4lh8YXVtvp7HAUEl0gpo/Efvy5jLOzO1fjftB0JZkBz3gL1eX8R8IMJRSwUtXDhA==;Va/1261XpFhA0SSi6f97WA=="
+secured: "mxEDlt5BPUesrZC/BvB1iPTfY/CHvwX9LbJr8GqSm/rroZPd7VhH06Hms77q/fjLhYi246hLeN7F/aTz3geI7zG/OLKwxkYC+5iEAgNBZ44bhQTpThWJ3coSlw11uoEXjKxj4JRqXOg6K2jtaa6ucXcbyHBcjVuzz2WImz3IdV0GOk/GYPEpRwk1RoWjVEJK73jUOe0iNrCyxRy/ZcSNv96MQihrD4bcMccrHLMUddw6If6aWC2aPePfiy9+uYsMsUyAggXHsuES2Yp9HAJih0TrKVKACxV+cXOsCBtPNx0gF81+cmSGJKTxvCC4o8uvsL9WmxZQuhBlBs0wEHZ63g==;6sNPZ2sVsRPr7ZUKwiSc9Q=="
 ---
 

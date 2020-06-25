@@ -2,53 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2020-06-15-were-never-going-to-get-meaningful-data-on-self-driving-car-testing.md",
-      "title": "We’re never going to get meaningful data on self-driving car testing",
-      "excerpt": "The US Department of Transportation launched a new voluntary program to collect and share data from autonomous vehicle operators. Companies testing AVs on public roads are invited to submit information to the government,",
-      "webUrl": "https://www.theverge.com/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary",
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/tPWCcMshwdjqMp7htX3K26tYh-s=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66938010/vpavic_191202_3827_0004.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "We’re never going to get meaningful data on self-driving car testing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary",
-      "publishedDateTime": "2020-06-15T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-15-ibm-watson-advertising-and-ad-council-will-use-ai-to-help-brands-do-social-good.md",
       "title": "IBM Watson Advertising and Ad Council Will Use AI to Help Brands Do Social Good",
       "excerpt": "During Adweek at Home, a weeklong virtual gathering of marketing and creativity’s most influential voices that kicked off today and runs until Thursday, IBM Watson Advertising announced a new initiative that offers brands the power of data,",
@@ -901,7 +854,7 @@
       "path": "_news/2020-06-15-global-fintech-market-by-technology-service-application-deployment-mode-region-and-vendor-forecast-to-2025-researchandmarketscom.md",
       "title": "Global FinTech Market by Technology, Service, Application, Deployment Mode, Region and Vendor - Forecast to 2025 - ResearchAndMarkets.com",
       "excerpt": "The \"Global FinTech Market By Technology (API; AI; Blockchain; Distributed Computing), By Service (Payment; Fund Transfer; Personal Finance; Loans; Insurance; Wealth Management), By Application, By Deployment Mode,",
-      "webUrl": "https://www.businesswire.com/news/home/20200615005414/en/Global-FinTech-Market-Technology-Service-Application-Deployment",
+      "webUrl": "https://www.businesswire.com/news/home/20200615005414/en/",
       "heat": null,
       "tags": null,
       "images": [
@@ -1110,6 +1063,53 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-company-boards-arent-ready-for-the-ai-revolution.md",
+      "title": "Company boards aren't ready for the AI revolution",
+      "excerpt": "Other businesses are now following suit, eager not to miss out on the AI advantage. I’m certain that companies which delay drafting and delivering their own AI strategies are bound for obsolescence. However,",
+      "webUrl": "https://www.techradar.com/news/company-boards-arent-ready-for-the-ai-revolution",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Company boards aren't ready for the AI revolution",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/company-boards-arent-ready-for-the-ai-revolution",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/company-boards-arent-ready-for-the-ai-revolution",
+      "publishedDateTime": "2020-06-15T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

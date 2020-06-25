@@ -127,6 +127,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Boston votes to ban government use of facial recognition"
+    excerpt: "Boston joined cities like San Francisco, Oakland, California, and Cambridge, Massachusetts, on Wednesday in passing a vote to ban facial recognition technology for municipal use. It's the second largest city in the US to ban facial recognition,"
+    publishedDateTime: 2020-06-24T16:58:00Z
+    webUrl: "https://www.cnet.com/news/boston-votes-to-ban-government-use-of-facial-recognition/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/boston-votes-to-ban-government-use-of-facial-recognition/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/boston-votes-to-ban-government-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/QySY5WOxLVEc5TuYCXYsPgXryIo=/756x567/2020/06/24/27df7a30-14d8-40cb-90f6-08d04c23e80c/gettyimages-1139860049.jpg"
+        width: 756
+        height: 567
+        isCached: true
   - title: "Facial Recognition Leads Detroit Police to Arrest the Wrong Man"
     excerpt: "The ACLU demands that Detroit police stop using facial recognition as an investigation tool, citing the January arrest of Robert Williams, a black man wrongly accused of robbery thanks to flawed facial-recognition data."
     publishedDateTime: 2020-06-24T20:45:00Z
