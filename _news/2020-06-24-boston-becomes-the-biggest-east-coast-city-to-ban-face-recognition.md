@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Democratic lawmakers just introduced a bill that would ban the use of facial recognition technology by federal law enforcement"
+    excerpt: "The proposed bill comes after civil rights advocates have campaigned against the technology for years amid growing evidence of racial bias."
+    publishedDateTime: 2020-06-25T20:01:00Z
+    webUrl: "https://www.businessinsider.com/lawmakers-introduce-ban-on-federal-facial-recognition-technology-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/lawmakers-introduce-ban-on-federal-facial-recognition-technology-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lawmakers-introduce-ban-on-federal-facial-recognition-technology-2020-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/5ef4ef202618b90ba25e4161?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "CyberLink FaceMe® Updates with New “Social Distancing” Features, including Mask Detection & Enhanced Facial Recognition Capabilities"
     excerpt: "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced new updates to its landmark facial recognition softwar"
     publishedDateTime: 2020-06-23T13:00:00Z

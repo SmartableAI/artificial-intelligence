@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Apple’s AI plan: a thousand small conveniences"
 
-secured: "LEeihPAj3z8C6BuqzLP3EU0QqvlcGvgO1g5K9bCspQCVqq3vozc5N1BXkNdJoprMDJYte1jN/2Bn+CC7HFKafu3coYbuTIeOp3Auaoyp4P1ui0JhlQTDmW/19F/0QfcmBi35XMYYygb5H+YfC4mCj6/RWsOIZn7bJg1xvb3tt7YYz2MFawtAsqfYSd9JjgcsaUyKexufCfxdwku0Gri+9s+wdAg0ZrjLM0npiBBDfDg6Sb2uyc+oKRWdPD00ACLxYsbg83/xPPtALOkN9uY/r9qPZL+eWsumpSoFW5NCxTzEHxxJ14w2s+vgFwuZmip4RKs3QMOHAbkja94vRiytfA==;0yRaqnzgusXprLiMZo/Iwg=="
+secured: "/O+tLGeZorTL36Xx4tbaFdIpDWy2egs/CcOh75LP8R2JNlplsVbIS3v3kHPJfcQVXJm08DqW60s2JSMzYuTjIP0bB0/WvJk6Wu4Ns1VPIz2n9xkcBziIm1c/Jl22/2bJrQqBWMp1WJzAM0rU5toInWeVD98uolto5EXVFYqHOKDR8+xBzZfOB5RiM9bfffpFAHl6b+vTYAB5TtUqeE7HMH8UhvDkihRlhxW8ILQvQqDEQQuPkUB37FqnUqOGMfFA8k4qL+f+elHOYO5TMOCjy17o7biP6FJdJb3uRnP+M/PsaPbgySS7DL1uHPvvjFzV7Zvh6hiPCI+rrJ/NYiAr2iS6u+bBS6lDi7vQYBsXCxxtdyJQAxRbXFAI9PgqEtpDG8YSZ/jhifbgTdl6FjeXd2IJrJwiIPA/WmrsUBTXlghwS/nOnMiOOPswJCHa58/wNHwVPJ7Vb+Th6lj1rGq37/YiUBftshGtrHnYHtvF9vAxA2zw3zo0faq6xXjhYPpVd2AxfRWKLJBw7Yav6gQ3+w==;efxDRGRms/RprIRYyvuHwQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.autoweek.com/news/technology/amp32852529/bmw-takes-self-
 cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp32852529/bmw-takes-self-driving-to-the-next-level/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,35 +27,48 @@ images:
     title: "BMW Takes Self-Driving to the Next Level"
 
 related:
-  - title: "Winnipeg-based company to test self-driving buses in the U.S."
-    excerpt: "Winnipeg-based New Flyer is going to be the first North America. David Warren, who is the director of sustainable transportation for New Flyer, said the project will take place in Connecticut and the Department of Transportation there will lead it."
-    publishedDateTime: 2020-06-23T21:28:00Z
-    webUrl: "https://winnipeg.ctvnews.ca/winnipeg-based-company-to-test-self-driving-buses-in-the-u-s-1.4996824"
-    ampWebUrl: "https://beta.ctvnews.ca/local/winnipeg/2020/6/23/1_4996824.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/winnipeg/2020/6/23/1_4996824.html"
+  - title: "Lyft is using data from its ride-share drivers to develop self-driving cars"
+    excerpt: "Lyft is using data collected from drivers on its ride-hailing app to accelerate the development of self-driving cars. Lyft’s Level 5 self-driving car program is using the data to build 3D maps ..."
+    publishedDateTime: 2020-06-23T15:53:00Z
+    webUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/"
+    ampWebUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 44
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
     images:
-      - url: "https://beta.ctvnews.ca/local/winnipeg/2020/6/23/1_4996824/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1280
-        height: 720
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/lyft-maps.gif"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Rugged COTS Platform Takes On Fast-Changing Needs of Self-Driving Trucks"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2020-06-22T21:19:00Z
-    webUrl: "https://www.computerworld.com/resources/204893/rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks"
+  - title: "Mighty Dust Storm Drifting Toward Southeastern U.S., Even Self-Driving Cars To Be Flummoxed"
+    excerpt: "Meteorologists are closely following some mega-sized dust plumes that are slowly drifting from the Sahara Desert and for which those murky clouds have already descended upon the normally scenic Caribbean islands,"
+    publishedDateTime: 2020-06-24T15:43:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/24/mighty-dust-storm-drifting-toward-southeastern-us-even-self-driving-cars-to-be-flummoxed/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/24/mighty-dust-storm-drifting-toward-southeastern-us-even-self-driving-cars-to-be-flummoxed/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/24/mighty-dust-storm-drifting-toward-southeastern-us-even-self-driving-cars-to-be-flummoxed/amp/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 23
+      name: Forbes
+      domain: forbes.com
+    quality: 44
+  - title: "China deploys self-driving cars to deliver foods; disinfect places in the streets"
+    excerpt: "As a way to reduce the spread of coronavirus, China, according to Mashable, is using self-driving vans called Hercules to deliver foods and disinfect streets."
+    publishedDateTime: 2020-06-23T08:18:00Z
+    webUrl: "https://yen.com.gh/160685-china-deploys-driving-cars-deliver-foods-disinfect-places-streets.html"
+    ampWebUrl: "https://yen.com.gh/amp/160685-china-deploys-driving-cars-deliver-foods-disinfect-places-streets.html"
+    cdnAmpWebUrl: "https://yen-com-gh.cdn.ampproject.org/c/s/yen.com.gh/amp/160685-china-deploys-driving-cars-deliver-foods-disinfect-places-streets.html"
+    type: article
+    provider:
+      name: Yen.com.gh
+      domain: yen.com.gh
+    quality: 39
     images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
+      - url: "https://netstorage-yen.akamaized.net/images/542a3866856416d8.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "BMW and Daimler agree to halt joint self-driving development"
     excerpt: "Benz, a division of Daimler, have put their joint autonomous driving development on hold following a review of the technology and agreed to concentrate on individual existing development paths. The companies said they could return to development at a later data,"
@@ -66,6 +79,20 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 19
+  - title: "China Deploys Self-Driving Cars To Deliver Foods; Disinfect Places In The Streets [Video]"
+    excerpt: "As a way to reduce the spread of coronavirus, China, according to Mashable, is using self-driving vans called Hercules to deliver foods and disinfect streets. In a Tweet shared by Mashable on Saturday,"
+    publishedDateTime: 2020-06-23T11:08:00Z
+    webUrl: "https://www.peacefmonline.com/pages/local/news/202006/415329.php"
+    type: article
+    provider:
+      name: Peace FM Online
+      domain: peacefmonline.com
+    quality: 15
+    images:
+      - url: "https://w5p2r8x5.stackpathcdn.com/photos/news/202006/829420881_415791.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "FzxNtYlRkVl9Po1HQiAtMTV3DFNjkgUZHIYjGoz0vYWrm+0JMpxpoLp1HdrBsGlq/D3NrCYrUDD0fq522HdV16eegGMVUDpZDJ5s3BeXgPe6W/+VkHeOriqFFqnfik8O+gDeXZvccExOitFyY5NLM0mnUwOHkyxj7KRkE0iSGACMKjdb2co2fTEpDtVHED1SxHbdkgbXWJDE/I6myeOcHlqB4SgiZxB9+41rrQ3vwqjS4sY9wzIafKTaRX640YrmFE9TIwbwQEFbujdVGpUCTxJeAlT+mGK1lgPqrn/Ijwtc/UwcpbEH7mQ0HO50wFwOFHP71Nqn+BwnSK4l549JdrEAAL2psuMFMOho1a+AjKpwx4MFZTsetGUNTI8Cxxhw38kBek54/SJf8NspF9FXcLq5CnTTjAE7XFCiCs/DXG67sERRcY+HBoiL3ZBy3CgCAo4aOuyAtRFfTWlK2PDUoMKSJMfFF6NUmOrU9VK6kzg9NSEnTIMyy538twQeDi/aWp0/3yErxZoXkHUbhlYH7A==;W0pXSCEZU1bqfOEFSZEJOQ=="
 ---

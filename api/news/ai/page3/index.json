@@ -2,6 +2,186 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-23-this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19.md",
+      "title": "This New App Analyzes Your Voice Quality To Diagnose Congestive Heart Failure: Can It Help With Covid-19?",
+      "excerpt": "A new app developed by an Israeli biotech startup has shown promise in evaluating voice quality to detect buildup of fluid in the lungs, an important finding associated with congestive heart failure (CHF).",
+      "webUrl": "https://www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F801249656%2F0x0.jpg",
+          "width": 1200,
+          "height": 795,
+          "title": "This New App Analyzes Your Voice Quality To Diagnose Congestive Heart Failure: Can It Help With Covid-19?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/amp/",
+      "publishedDateTime": "2020-06-23T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-building-ai-powered-forecasting-automation-with-amazon-forecast-by-applying-mlops.md",
+      "title": "Building AI-powered forecasting automation with Amazon Forecast by applying MLOps",
+      "excerpt": "This post demonstrates how to create a serverless Machine Learning Operations (MLOps) pipeline to develop and visualize a forecasting model built with Amazon Forecast. Because Machine Learning (ML) workloads need to scale, it’s important to break down the silos among different stakeholders to capture",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-ai-powered-forecasting-automation-with-amazon-forecast-by-applying-mlops/",
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/22/Screen-Shot-2020-06-19-at-15.00.38-1260x566.png",
+          "width": 1260,
+          "height": 566,
+          "title": "Building AI-powered forecasting automation with Amazon Forecast by applying MLOps",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T15:52:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-ai-startup-pilots-digital-masks-that-counter-facial-recognition.md",
+      "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
+      "excerpt": "A Los Angeles startup has created “privacy-preserving face skins” – digital masks or avatars that counter facial recognition software.",
+      "webUrl": "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.coindesk.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-23-at-3.18.31-PM.png",
+          "width": 1889,
+          "height": 930,
+          "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition?amp=1",
+      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition?amp=1",
+      "publishedDateTime": "2020-06-23T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinDesk",
+        "domain": "coindesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-enhancing-enterprise-search-with-amazon-kendra.md",
+      "title": "Enhancing enterprise search with Amazon Kendra",
+      "excerpt": "Amazon Kendra is an easy-to-use enterprise search service that allows you to add search capabilities to your applications so end-users can easily find information stored in different data sources within your company. This could include invoices, business documents, technical manuals, sales reports, corporate",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-enterprise-search-with-amazon-kendra/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/18/kendra-958-004.jpg",
+          "width": 800,
+          "height": 461,
+          "title": "Enhancing enterprise search with Amazon Kendra",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T13:13:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-what-a-machine-learning-tool-that-turns-obama-white-can-and-cant-tell-us-about-ai-bias.md",
       "title": "What a machine learning tool that turns Obama white can (and can’t) tell us about AI bias",
       "excerpt": "This image speaks volumes about the dangers of bias in AI.” But what’s causing these outputs and what do they really tell us about AI bias? First, we need to know a little a bit about the technology being used here.",
@@ -364,7 +544,7 @@
       "title": "Nvidia and Mercedes-Benz detail self-driving system with automated routing and parking",
       "excerpt": "The efforts build on a longstanding collaboration between Nvidia and Mercedes. At the 2018 Consumer Electronics Show, the companies showcased a concept cockpit dubbed the Mercedes-Benz User Experience,",
       "webUrl": "https://venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-self-driving-system-with-automated-routing-and-parking/",
-      "heat": 141,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -496,6 +676,53 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars.md",
+      "title": "Lyft is using data from its ride-share drivers to develop self-driving cars",
+      "excerpt": "Lyft is using data collected from drivers on its ride-hailing app to accelerate the development of self-driving cars. Lyft’s Level 5 self-driving car program is using the data to build 3D maps ...",
+      "webUrl": "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/",
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/lyft-maps.gif",
+          "width": 600,
+          "height": 338,
+          "title": "Lyft is using data from its ride-share drivers to develop self-driving cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/",
+      "publishedDateTime": "2020-06-23T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1139,231 +1366,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-c3ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research.md",
-      "title": "C3.ai's Digital Transformation Institute issues awards for data-driven COVID-19 research",
-      "excerpt": "The research projects looked at COVID-19 as well as its impact on housing precarity, eviction and inequality as well as the role of social determinants on health and using data science to detect and understand transmission.",
-      "webUrl": "https://www.zdnet.com/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/",
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/23/02428142-0b66-4a7f-bc5f-747fba9b6ecc/thumbnail/1200x675/65b00467acc2a9c0f0f617b40fbc3806/3-2.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "C3.ai's Digital Transformation Institute issues awards for data-driven COVID-19 research",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/",
-      "publishedDateTime": "2020-06-22T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-ai-researchers-condemn-predictive-crime-software-citing-racial-bias-and-flawed-methods.md",
-      "title": "AI researchers condemn predictive crime software, citing racial bias and flawed methods",
-      "excerpt": "At the time of writing, more than 50 employees working on AI at companies like Facebook, Google and Microsoft had signed on to an open letter opposing the research and imploring its publisher to ...",
-      "webUrl": "https://techcrunch.com/2020/06/23/ai-crime-prediction-open-letter-springer/",
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1236590500.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "AI researchers condemn predictive crime software, citing racial bias and flawed methods",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/23/ai-crime-prediction-open-letter-springer/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/ai-crime-prediction-open-letter-springer/amp/",
-      "publishedDateTime": "2020-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-applying-for-technical-roles.md",
-      "title": "Applying for technical roles",
-      "excerpt": "We answer the Women in Machine Learning community's questions about applying for a job in industry.",
-      "webUrl": "https://deepmind.com/blog/article/Women-in-machine-learning-A-look-into-the-technical-interview-process",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/a7e8Kag7pYvvx5kOvdSuSg80YBVRh9ROA_1iPRqIHXauAiO6MJCdpnSt_54v6Tm7lHiymfla0JyVjJYlAPCYlZ_zz6WQFFYPa-ofaQ",
-          "width": 512,
-          "height": 288,
-          "title": "Applying for technical roles",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-apple-ios-14-the-top-new-features-coming-to-the-iphone.md",
-      "title": "Apple iOS 14: the top new features coming to the iPhone",
-      "excerpt": "Widgets used to be an afterthought in iOS, but starting with iOS 14 the company is changing course and making them a lot more data-rich and customizable. These can now have multiple sizes, and it looks like Apple has",
-      "webUrl": "https://www.techspot.com/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-22-image-24.jpg",
-          "width": 1248,
-          "height": 857,
-          "title": "Apple iOS 14: the top new features coming to the iPhone",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
-      "publishedDateTime": "2020-06-22T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-trump-signs-executive-order-suspending-certain-work-visas-through-2020.md",
-      "title": "Trump signs executive order suspending certain work visas through 2020",
-      "excerpt": "President Trump on Monday signed an executive order to suspend the issuance of certain temporary worker visas through the end of 2020, cracking down further on immigration after signing a more narrow measure in April.",
-      "webUrl": "https://thehill.com/homenews/administration/503914-trump-signs-executive-order-suspending-certain-work-visas-through",
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_061620getty_memo.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "Trump signs executive order suspending certain work visas through 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/503914-trump-signs-executive-order-suspending-certain-work-visas-through?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/503914-trump-signs-executive-order-suspending-certain-work-visas-through?amp",
-      "publishedDateTime": "2020-06-22T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

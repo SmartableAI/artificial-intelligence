@@ -75,6 +75,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Ed Markey and Ayanna Pressley are proposing a federal ban on facial recognition technology"
+    excerpt: "A day after the Boston City Council passed an ordinance to ban the city from using facial recognition technology, Sen. Ed Markey and Rep. Ayanna Pressley are pushing to do the same at the national level."
+    publishedDateTime: 2020-06-25T21:16:00Z
+    webUrl: "https://www.boston.com/news/politics/2020/06/25/markey-pressley-federal-ban-facial-recognition-technology"
+    ampWebUrl: "https://www.boston.com/news/politics/2020/06/25/markey-pressley-federal-ban-facial-recognition-technology/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2020/06/25/markey-pressley-federal-ban-facial-recognition-technology/amp"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 34
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2020/06/Racial_Injustice-Facial_Recognition-Boston_52737-850x478.jpg"
+        width: 850
+        height: 478
+        isCached: true
   - title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition..."
     excerpt: "The city council unanimously voted on Wednesday to ban the use of the technology and prohibit any city official from obtaining facial surveillance by asking for it through third parties. The measure will now go to Mayor Marty Walsh with a veto-proof majority."
     publishedDateTime: 2020-06-25T00:08:00Z
@@ -118,6 +134,6 @@ related:
         height: 1065
         isCached: true
 
-secured: "e45YUoTavcg3JNU/Y3E4mwWEJYzDh4Aw+9KBEmt1IBYLYbtwdacak980xm/WIdLikqvGdlBNWF6JTCy4SQJl22HvpyDQwSivZvTGirVsJlIpumB6I2Q8IT9uNcGpSp8az4vRgT9vhvamZwQWshVFvLIF3sl8Mo5GRx8dRMBaz61pJnOzoNTkHPp8TIOozDZ2XWEmzXtuDj5j/7pxxw7sNxgRXwICD6orXzEhqn+6pxMehtZpKiVXavQeFQWHUJ1ATJWL9XywWu2CBc5LR2AGQfhGIQfQGkp68NQ4DTd8Icn9LUGwMr7S7xaVYq7D348Obqin57jN3rDDRZLByXXhQA==;k2RKXShuoUBVdG0VhpBDgA=="
+secured: "SpeKnWeX9T8dY5xfu6YHDCkVUTx+npbOTc26G0XfizFvM6vIQ5ntRMB3xki+fK2BZ5zwimXGrC3m+zh82BsFUOmSTfLhpWFPbiXNpHJ26zNb/7Vz0mzLNyocF4GiMWoiYvGGTNjgX3gp/1yuGdbEbEgz1Ya5dUh3yjmvhnRStzMnZpW2KKpS5TzfrvMnn/DY+OJifqcmgrdf9R9oLPxVqQxvATAjeoPIjB4u5hpHQtInAOI+D8lFQ9X3taIy61vCHV8Z+6MmJ47se6zEPEJl63JqKzM8ixH5fU5yF1oreqaUI8z2BgxBzt65xVIN72MXddzvvwG8no5hDzFE1hHk45NE8KGvoV4hp+493qebLX3lc9dPrhFpTgmRqYtL3/TToDwi4eQcY1oxH9F1E3T446c6kWAGYKIeTHpRzWKqgQswjj1TZz7TZdEFp/O2wEYvSvRitH4qvy5BFa7mR+Q4lVI7K9WaxDd0kkuFSd5QU6wqPuA8/LOUSRIKuXv6O1KRlOIkzKP9kF5JP5gFLNhqLg==;0wVUhZKMZPdpoV+Sh11UsQ=="
 ---
 

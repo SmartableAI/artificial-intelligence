@@ -25,6 +25,49 @@ images:
     title: "China Deploys Self-Driving Cars To Deliver Foods; Disinfect Places In The Streets [Video]"
 
 related:
+  - title: "Lyft is using data from its ride-share drivers to develop self-driving cars"
+    excerpt: "Lyft is using data collected from drivers on its ride-hailing app to accelerate the development of self-driving cars. Lyft’s Level 5 self-driving car program is using the data to build 3D maps ..."
+    publishedDateTime: 2020-06-23T15:53:00Z
+    webUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/"
+    ampWebUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/lyft-maps.gif"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "BMW Takes Self-Driving to the Next Level"
+    excerpt: "It’s the point at which you get to call something a self-driving car. BMW’s system—no proper marketing name yet—will debut on the iNext, an all-new, all-electric production vehicle modeled on the 2018 iNext concept, an exuberantly futuristic take ..."
+    publishedDateTime: 2020-06-23T20:05:00Z
+    webUrl: "https://www.autoweek.com/news/technology/a32852529/bmw-takes-self-driving-to-the-next-level/"
+    ampWebUrl: "https://www.autoweek.com/news/technology/amp32852529/bmw-takes-self-driving-to-the-next-level/"
+    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp32852529/bmw-takes-self-driving-to-the-next-level/"
+    type: article
+    provider:
+      name: Autoweek
+      domain: autoweek.com
+    quality: 44
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/p90321870-highres-bmw-vision-inext-ext-1592930565.jpg?crop=1.00xw:0.754xh;0,0&resize=1200:*"
+        width: 1200
+        height: 603
+        isCached: true
+  - title: "Mighty Dust Storm Drifting Toward Southeastern U.S., Even Self-Driving Cars To Be Flummoxed"
+    excerpt: "Meteorologists are closely following some mega-sized dust plumes that are slowly drifting from the Sahara Desert and for which those murky clouds have already descended upon the normally scenic Caribbean islands,"
+    publishedDateTime: 2020-06-24T15:43:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/24/mighty-dust-storm-drifting-toward-southeastern-us-even-self-driving-cars-to-be-flummoxed/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/24/mighty-dust-storm-drifting-toward-southeastern-us-even-self-driving-cars-to-be-flummoxed/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/24/mighty-dust-storm-drifting-toward-southeastern-us-even-self-driving-cars-to-be-flummoxed/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 44
   - title: "China deploys self-driving cars to deliver foods; disinfect places in the streets"
     excerpt: "As a way to reduce the spread of coronavirus, China, according to Mashable, is using self-driving vans called Hercules to deliver foods and disinfect streets."
     publishedDateTime: 2020-06-23T08:18:00Z
@@ -41,6 +84,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "BMW and Daimler agree to halt joint self-driving development"
+    excerpt: "Benz, a division of Daimler, have put their joint autonomous driving development on hold following a review of the technology and agreed to concentrate on individual existing development paths. The companies said they could return to development at a later data,"
+    publishedDateTime: 2020-06-23T13:39:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15327/bmw-and-daimler-agree-to-halt-joint-self-driving-development"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "qZLC5yxqajSFhnUNKPk8R2X9zimvUnuvlQgxdEO2DmjUgcjyOmO2TEoC/+aJyO2JmetJLokzr2hKtgy9IM38bPBFCPgEwy+D2S50ivc09OAponfRmRQLENLerAKDXGoQTXE+T9yDeilU6Hb+5dQwUdpIjgpqN1UuWSH+eHLBPm5xtxpOpCzNhYSGRA9N5FNNYwKPmt/E3wD1XYpyuM9cLk2rD6wKX4CnxRw34notz0s4ml5UCCvbWeIJtx7351qQIXy2dCeeR+/JSjnsQkw3foEZYqcF3xwoL5yN9jZkz5NOXoPpwq4bSa9qTu67MWJM1yZZpcTvyhZZgWoXCbFobw==;TG/BAUkmm5tM0MggOmQYcg=="
 ---

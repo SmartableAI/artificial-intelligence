@@ -2,6 +2,250 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-06-12-how-ai-can-help-find-a-coronavirus-vaccine.md",
+      "title": "How AI can help find a coronavirus vaccine",
+      "excerpt": "Murat Sonmez, managing director of the World Economic Forum, explains how big data and machine learning can help find a vaccine for COVID-19.",
+      "webUrl": "https://www.techrepublic.com/article/how-ai-can-help-find-a-coronavirus-vaccine/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/12/70e49bbc-cbc1-4955-ab58-dea875785790/resize/1200x/6730efc6ea35da13bc5bdc2fe4478178/20200610-sonmez-dan.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How AI can help find a coronavirus vaccine",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-can-help-find-a-coronavirus-vaccine/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-can-help-find-a-coronavirus-vaccine/",
+      "publishedDateTime": "2020-06-12T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt.md",
+      "title": "You can help a Mars Rover’s AI learn to tell rocks from dirt",
+      "excerpt": "Mars Rover Curiosity has been on the Red Planet for going on 8 years, but its journey is nowhere near finished — and it’s still getting upgrades. You can help it out by spending a few minutes labeling raw data to feed to its terrain-scanning AI.",
+      "webUrl": "https://techcrunch.com/2020/06/12/you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/spoc-examples.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": "You can help a Mars Rover’s AI learn to tell rocks from dirt",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/12/you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/12/you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/amp/",
+      "publishedDateTime": "2020-06-12T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-hackers-target-microsoft-azure-servers-to-illegally-mine-crypto.md",
+      "title": "Hackers Target Microsoft Azure Servers to Illegally Mine Crypto",
+      "excerpt": "The machine learning cluster of Microsoft Azure cloud computing services has become the recent target of hackers for mining digital currencies.",
+      "webUrl": "https://www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financemagnates.com/wp-content/uploads/2015/12/microsoft.jpg",
+          "width": 880,
+          "height": 400,
+          "title": "Hackers Target Microsoft Azure Servers to Illegally Mine Crypto",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/amp/",
+      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/amp/",
+      "publishedDateTime": "2020-06-12T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finance Magnates",
+        "domain": "financemagnates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-ab-testing-ml-models-in-production-using-amazon-sagemaker.md",
+      "title": "A/B Testing ML models in production using Amazon SageMaker",
+      "excerpt": "Amazon SageMaker is a fully managed service that provides developers and data scientists the ability to quickly build, train, and deploy machine learning (ML) models. Tens of thousands of customers, including Intuit, Voodoo, ADP, Cerner, Dow Jones, and Thomson Reuters, use Amazon SageMaker to remove",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/a-b-testing-ml-models-in-production-using-amazon-sagemaker/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/12/targeted-routing-003-2.gif",
+          "width": 500,
+          "height": 373,
+          "title": "A/B Testing ML models in production using Amazon SageMaker",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-12T12:27:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-udacity-microsoft-partner-to-launch-machine-learning-scholarship-program.md",
+      "title": "Udacity & Microsoft partner to Launch Machine Learning Scholarship Program",
+      "excerpt": "One of the world’s leading lifelong learning platforms Udacity has collaborated with Microsoft to confer scholarships for its all new Machine Learning Nanodegree program in Microsoft",
+      "webUrl": "https://indiaeducationdiary.in/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/?amp",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/?amp",
+      "publishedDateTime": "2020-06-12T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-revolutionizing-data-collaboration-with-federated-machine-learning.md",
+      "title": "Revolutionizing Data Collaboration with Federated Machine Learning",
+      "excerpt": "We now live in a world that’s becoming more data-driven every day. Organizations across a wide range of industries are using artificial intelligence (AI)",
+      "webUrl": "https://www.datanami.com/2020/06/12/revolutionizing-data-collaboration-with-federated-machine-learning/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/collaboration_people_shutterstock_ImageFlow.jpg",
+          "width": 1000,
+          "height": 555,
+          "title": "Revolutionizing Data Collaboration with Federated Machine Learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-12T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer.md",
       "title": "Bigfoot Biomedical® Appoints Jim Malone MD Chief Medical Officer",
       "excerpt": "Press Release Bigfoot Biomedical, Inc. announced today the appointment of Dr. Jim Malone as Chief Medical Officer. Dr. Malone, an endocrinologist specializing in diabetes, spent 12 years in clinical practice and 21 years in clinical research,",
@@ -860,253 +1104,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-war-machines-dods-ethical-principles-for-battlefield-ai.md",
-      "title": "War machines: DOD's ethical principles for battlefield AI",
-      "excerpt": "Earlier this year, the Department of Defense announced the adoption of its ethical principles for Artificial Intelligence. ZDNet has been tracking this process since it gained momentum, but DoD's official adoption of the principles was overshadowed in the general media when COVID hit the US.",
-      "webUrl": "https://www.zdnet.com/article/war-machines-dods-ethical-guidelines-for-battlefield-ai/",
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/12/b14492a0-fe4f-4a1f-b49e-5da9940e838d/thumbnail/1200x675/3f6aeeb5b49721051dac99e4176703d9/20200612-greg-karen-war.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "War machines: DOD's ethical principles for battlefield AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/war-machines-dods-ethical-guidelines-for-battlefield-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/war-machines-dods-ethical-guidelines-for-battlefield-ai/",
-      "publishedDateTime": "2020-06-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-convolutional-neural-network-based-diagnosis-of-appendicitis-via-ct-scans-in-patients-with-acute-abdominal-pain-presenting-in-the-emergency-department.md",
-      "title": "Convolutional-neural-network-based diagnosis of appendicitis via CT scans in patients with acute abdominal pain presenting in the emergency department",
-      "excerpt": "Acute appendicitis is one of the most common causes of abdominal emergencies. We investigated the feasibility of a neural-network-based diagnosis algorithm of appendicitis by using computed tomography (CT) for patients with acute abdominal pain visiting the emergency room (ER).",
-      "webUrl": "https://www.nature.com/articles/s41598-020-66674-7",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-66674-7/MediaObjects/41598_2020_66674_Fig1_HTML.png",
-          "width": 685,
-          "height": 396,
-          "title": "Convolutional-neural-network-based diagnosis of appendicitis via CT scans in patients with acute abdominal pain presenting in the emergency department",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-12T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero.md",
-      "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
-      "excerpt": "Hackers have attacked badly configured machine learning clusters on Microsoft’s Azure cloud computing network, and hijacked them to mine Monero",
-      "webUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero",
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYTk5ZTE1ZjFmYTEwNGZmYjc0ZDg2ZDkzNmE5MGE4ZC5qcGc=.jpg",
-          "width": 370,
-          "height": 246,
-          "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp",
-      "publishedDateTime": "2020-06-12T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-goosegrass-detection-in-strawberry-and-tomato-using-a-convolutional-neural-network.md",
-      "title": "Goosegrass Detection in Strawberry and Tomato Using a Convolutional Neural Network",
-      "excerpt": "Goosegrass is a problematic weed species in Florida vegetable plasticulture production. To reduce costs associated with goosegrass control, a post-emergence precision applicator i",
-      "webUrl": "https://www.nature.com/articles/s41598-020-66505-9",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-66505-9/MediaObjects/41598_2020_66505_Fig1_HTML.png",
-          "width": 685,
-          "height": 580,
-          "title": "Goosegrass Detection in Strawberry and Tomato Using a Convolutional Neural Network",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-12T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-tutorial-build-and-deploy-a-custom-skill-with-azure-machine-learning.md",
-      "title": "Tutorial: Build and deploy a custom skill with Azure Machine Learning",
-      "excerpt": "This tutorial demonstrates how to use Azure Machine Learning to build and deploy a custom skill for Azure Cognitive Search's AI enrichment pipeline.",
-      "webUrl": "https://docs.microsoft.com/en-us/azure/search/cognitive-search-tutorial-aml-custom-skill",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Tutorial: Build and deploy a custom skill with Azure Machine Learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T22:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision.md",
-      "title": "3 (Not So Obvious) Industries That Could Be Transformed By Computer Vision",
-      "excerpt": "Computer vision, or machine vision, is an important business trend that will transform many industries and many business processes. Here we look at three not so obvious examples to showcase that it is important for any industry.",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/12/3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/12/3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/12/3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/amp/",
-      "publishedDateTime": "2020-06-11T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

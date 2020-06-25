@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/25/21303355/facial-reco
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/25/21303355/facial-recognition-ed-markey-ayanna-pressley-ban-federal-agencies-fed-law-enforcement"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Democratic lawmakers just introduced a bill that would ban the use of facial recognition technology by federal law enforcement"
+    excerpt: "The proposed bill comes after civil rights advocates have campaigned against the technology for years amid growing evidence of racial bias."
+    publishedDateTime: 2020-06-25T20:01:00Z
+    webUrl: "https://www.businessinsider.com/lawmakers-introduce-ban-on-federal-facial-recognition-technology-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/lawmakers-introduce-ban-on-federal-facial-recognition-technology-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lawmakers-introduce-ban-on-federal-facial-recognition-technology-2020-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/5ef4ef202618b90ba25e4161?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Boston becomes the biggest East Coast city to ban face recognition"
     excerpt: "The Boston Police Department already doesn’t use the technology, and it’s now forbidden from getting facial data from third parties."
     publishedDateTime: 2020-06-24T20:24:00Z
@@ -92,6 +108,6 @@ related:
         height: 627
         isCached: true
 
-secured: "3ILq9Etczt0Mn0akioWlJCljF0TbMhIytWsdOaOOkV3aBDaOEgtD8TKkmDW7tOvyjU+jhpYZ4Pd7nbEF7Vbli/7GVEpqNkzA7XX51zMMi4Uq1vMM7SvYsP154HQP2NhBM4XGdLfrQCYpj9AInZudhHH0kQM+iKPoDlibi1OnDYIpLvjYXXGQQRqzDFuqge2codolOMTxCc0GPEWyUFXl7on7Xn+MC47o/oKv0MrBNrjwsI2TyPkcJqQK4lzdRicjdPGvzKSF+Qc7L0S+wf2+wx2DM2NVQJc+u7Xzt18iUlhRCFJrUzkBHxt3aqkzjlTIzuUINUTxyLJbJMPdWm86Gg==;9Y4ZU+f8NwTonjnf7DNCGA=="
+secured: "LPlcRQ4Srd7s7ccsuAL5pNLpUX+Ey6l25r8WIvZtY/ZiSaN5J+KPKo+n0PbdxXzvNGRryZzai4jBNxylWUkd45Onf4jvyUwXoHuO1i6xhxcEwbDL1/G/f/IIg9yi7MbFDzdENJN4Fv/JQawuaj96BeCr53EjAPUfQRGJeNxIMQSqecUjsNkir1hHS31V+UJXUNp8D9DPT5wkSZsspSng1k8pFQz6jM5jPhBJ67OG1en7xCWfGf2MtP8wQXU5jz2Nb7yIz1MRmxVqY9VG2IfB1Cmwz0xyJ4t2wNQepE/Dkm6ar11EFecJbjctyPWwdgOA0oNgKUwMcLdJ0qw434IOTQ/Mzi8bcn5btoggPENfO5ZB35YvYKYwlWlKE57U+Nz69/VJ6o3Wxl7rc250UdoZo51ametv0RqOglFHlAQgYq/RUEou11hJG48h2mUs4JqAII3cXyon3HVQbK20mX+BLk1LxFPiaPIeZf0UTrnvm8qfvcozEID5QIWWPYnSomcL27NbmvD2bpckK4NiXMuNdg==;TGd7DhpXNIyBEwh5m3VAQw=="
 ---
 

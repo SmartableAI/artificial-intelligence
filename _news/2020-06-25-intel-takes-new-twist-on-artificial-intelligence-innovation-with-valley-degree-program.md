@@ -26,22 +26,6 @@ images:
     title: "Intel takes new twist on artificial intelligence innovation with Valley degree program"
 
 related:
-  - title: "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research"
-    excerpt: "Intel and the National Science Foundation (NSF) announced award recipients of joint funding for research into the development of future wireless systems. The Machine Learning for Wireless Networking Systems (MLWiNS) program is the latest in a series of joint efforts between the two partners to support research that accelerates innovation with the focus of enabling ultra-dense wireless systems and architectures that meet the throughput,"
-    publishedDateTime: 2020-06-25T19:43:00Z
-    webUrl: "https://www.telecomtv.com/content/5g/intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research-39033/"
-    ampWebUrl: "https://www.telecomtv.com/content/5g/intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research-39033/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/5g/intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research-39033/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 46
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Intel Launches First Artificial Intelligence Associate Degree Program"
     excerpt: "Intel is partnering with Maricopa County Community College District to launch an Intel-designed artificial intelligence associate degree."
     publishedDateTime: 2020-06-25T14:00:00Z

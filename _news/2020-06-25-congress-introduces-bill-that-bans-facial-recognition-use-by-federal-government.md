@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Detroit’s fight over policing and facial recognition is a microcosm of the nation"
+    excerpt: "Everything you need to know about policing and facial recognition is happening right now in Detroit, where the scales are tipping."
+    publishedDateTime: 2020-06-25T20:10:00Z
+    webUrl: "https://venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/"
+    ampWebUrl: "https://venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/black-lives-matter-protest-detroit.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 605
+        isCached: true
   - title: "The Wrongful Arrest Of A Black Man Provides More Proof Facial Recognition Is Racist"
     excerpt: "ACLU says it is filing a complaint after the failure of a Michigan State Police face recognition tool leads to a Black man being arrested in front of his family."
     publishedDateTime: 2020-06-24T13:30:00Z
@@ -279,6 +295,6 @@ related:
         height: 409
         isCached: true
 
-secured: "VybqMhBwOtkG31W/9KnZkyKc8YnWBSP0zHBOyn3lxgV0xGypxig3F9ZFDKzw/HmySLge2saTW+WHrlr/L+GPbxG/JnJ+36wGQRoQYz2jRfi8803Tn9RUCzQ5kzpyx1+CP5ui97pu5B6rXIwe9PBLoNA6YH01dNNzdl3PbE+BRckTOt011pK40wVgwM4Hn27nELkR5B35yXfsThnWKRG2btuC1FR2B9JcX91HSv+W/WFY6D5qCZ6M9iZCY78C3/HNxX5s4uc+IlG3ikpotLKnfU14A4+FhfNBEY6sqvwe0Ib1TBOwSV4DzeUskDyk9NmnaQoJidckVUFhmDjRPUsFOg==;m57OGQm7nxMG7a74qmQ6RA=="
+secured: "m7N7zVM1MuD7mErvzXgju/6QXzs/HWaaMAo9g50DjZu0MdaAS9Zl5r4eAh5XCjjZQyOmyvIu6oC78gFJI8DTxCLJF4ou2qUhbMmVTCPK3FOYZm4oKpCb3+WKSKr7UuI+tP2bKzx7AevCPMm99QiF1nxlBmW/YaAf8Q3JNjXZb4EUcM7wGQ/s0WTmIKIk2zj0VSAnZtLoefCT1ewOkMaIlfxNDCIVZZ1UNsb6NUgauAMR7zV/e4lEgCMlA5HooqpD5cD+I5j79x97EEpnUm+ZIZg4ffMifZ4w11cxIZ79poHK9xPPe8a6LCzwsbP8Yq1WS5R3dNz/aeSVhM3gz9OCt9d8zF9PU9/1X8LEC/nHL+Qekhkte8T7ino7Rwgmja80b92blUDmcsPQmqYXkhUsCj0hi7cnuxDSwbNQ63cLIUkTHuDrQOOR6hMGrvns2p4r/Huvos4ANieS8NDQIy4J7H0KMuLFDL9BWx7h2agCPr12uBtkQVnByxJfgzcMDVo7eMFWR9kre9TThS3q95mC6w==;kZFu+27bDv7l925xDR2hXw=="
 ---
 

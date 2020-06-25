@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Detroit’s fight over policing and facial recognition is a microcosm of the nation"
+    excerpt: "Everything you need to know about policing and facial recognition is happening right now in Detroit, where the scales are tipping."
+    publishedDateTime: 2020-06-25T20:10:00Z
+    webUrl: "https://venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/"
+    ampWebUrl: "https://venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/black-lives-matter-protest-detroit.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 605
+        isCached: true
   - title: "The Wrongful Arrest Of A Black Man Provides More Proof Facial Recognition Is Racist"
     excerpt: "ACLU says it is filing a complaint after the failure of a Michigan State Police face recognition tool leads to a Black man being arrested in front of his family."
     publishedDateTime: 2020-06-24T13:30:00Z

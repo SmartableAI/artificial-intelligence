@@ -2,6 +2,194 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-25-how-technology-will-create-these-7-jobs-in-the-future.md",
+      "title": "How Technology Will Create These 7 Jobs In The Future",
+      "excerpt": "These seven futuristic LinkedIn job ads can offer a small glimpse into a future where our children grow up to be hologram stylists, chief empathy officers, or even augmented reality life designers.",
+      "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/24/how-technology-will-create-these-7-jobs-in-the-future/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef3f7eec4f2390006f0c356%2F0x0.jpg",
+          "width": 1200,
+          "height": 663,
+          "title": "How Technology Will Create These 7 Jobs In The Future",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/24/how-technology-will-create-these-7-jobs-in-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/06/24/how-technology-will-create-these-7-jobs-in-the-future/amp/",
+      "publishedDateTime": "2020-06-24T18:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-sino-us-tech-race-turbocharges-china-chip-investment-triggering-bubble-fear.md",
+      "title": "Sino-US tech race turbocharges China chip investment, triggering bubble fear",
+      "excerpt": "An investment boom across China’s semiconductor industry is driving prices of both publicly traded and venture-backed firms into bubble territory.",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3090507/sino-us-tech-race-turbocharges-china-chip-investment-triggering",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/25/9ab56d58-b679-11ea-94a5-08ba74052128_image_hires_091527.jpeg?itok=dswalvtC&v=1593047733",
+          "width": 1200,
+          "height": 630,
+          "title": "Sino-US tech race turbocharges China chip investment, triggering bubble fear",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3090507/sino-us-tech-race-turbocharges-china-chip-investment-triggering",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3090507/sino-us-tech-race-turbocharges-china-chip-investment-triggering",
+      "publishedDateTime": "2020-06-24T17:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-a-flawed-facial-recognition-system-sent-this-man-to-jail.md",
+      "title": "A Flawed Facial Recognition System Sent This Man to Jail",
+      "excerpt": "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used.",
+      "webUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/",
+      "heat": 474,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ef3e17c6cd63b0e8be2ce66/master/pass/business_facial-recognition_FXJBF0.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "A Flawed Facial Recognition System Sent This Man to Jail",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp",
+      "publishedDateTime": "2020-06-24T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-boston-bans-police-from-using-facial-recognition-technology.md",
+      "title": "Boston bans police from using facial recognition technology",
+      "excerpt": "Boston has banned police from using facial recognition technology, becoming the second-largest U.S. community to do so.",
+      "webUrl": "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology",
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/facial-recognition-iStock.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Boston bans police from using facial recognition technology",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp",
+      "publishedDateTime": "2020-06-24T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-vb-transform-2020-the-event-for-ai-decision-makers-to-be-hosted-online-with-tame.md",
       "title": "VB Transform 2020, the event for AI decision-makers, to be hosted online with Tame",
       "excerpt": "VentureBeat is excited to announce Tame as the technology platform for  VB Transform 2020, the leading digital AI event for business executives, hosted online July 15-17.",
@@ -130,44 +318,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-detroit-police-challenged-over-face-recognition-flaws-bias.md",
-      "title": "Detroit police challenged over face recognition flaws, bias",
-      "excerpt": "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police. And for the department to abandon its use of the controversial technology.",
-      "webUrl": "https://www.sfgate.com/business/article/Detroit-police-challenged-over-face-recognition-15362382.php",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/12/57/24/19592470/17/375x250.jpg",
-          "width": 347,
-          "height": 250,
-          "title": "Detroit police challenged over face recognition flaws, bias",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.sfgate.com/business/amp/Detroit-police-challenged-over-face-recognition-15362382.php",
-      "cdnAmpWebUrl": "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/amp/Detroit-police-challenged-over-face-recognition-15362382.php",
-      "publishedDateTime": "2020-06-24T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SFGate",
-        "domain": "sfgate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -351,6 +501,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-24-detroit-police-challenged-over-face-recognition-flaws.md",
+      "title": "Detroit police challenged over face recognition flaws",
+      "excerpt": "The complaint by Robert Williams is a rare challenge from someone who not only experienced an erroneous face recognition hit, but was able to discover that it was responsible for his subsequent troubles.",
+      "webUrl": "https://www.pbs.org/newshour/nation/detroit-police-challenged-over-face-recognition-flaws",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/06/GettyImages-1149113711-1024x718.jpg",
+          "width": 1024,
+          "height": 718,
+          "title": "Detroit police challenged over face recognition flaws",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/nation/detroit-police-challenged-over-face-recognition-flaws",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/detroit-police-challenged-over-face-recognition-flaws",
+      "publishedDateTime": "2020-06-24T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics.md",
       "title": "DHL Supply Chain partners with Blue Yonder to accelerate warehouse robotics",
       "excerpt": "AI-driven fulfillment provider Blue Yonder and DHL have deployed a new platform for the integration of warehouse robots, built on Microsoft Azure.",
@@ -440,7 +628,7 @@
       "title": "ACLU files first formal complaint over wrongful facial recognition arrest",
       "excerpt": "The American Civil Liberties Union (ACLU) has filed a formal complaint against Detroit police over what it says is the first known example of a wrongful arrest caused by faulty facial recognition technology.",
       "webUrl": "https://www.theverge.com/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence",
-      "heat": 263,
+      "heat": 273,
       "tags": null,
       "images": [
         {
@@ -804,7 +992,7 @@
       "title": "inContext.ai Awarded $225K by the National Science Foundation to Develop Artificial Intelligence Tools for Healthcare",
       "excerpt": "Press Release inContext.ai, a developer of healthcare-centric information extraction software and AI-powered clinical applications, announced an award of $225K in National Science Foundation (NSF) funding.",
       "webUrl": "https://venturebeat.com/2020/06/24/incontext-ai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare/",
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": null,
       "type": "article",
@@ -927,195 +1115,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-librestream-raises-24-million-to-automate-field-technician-tasks-with-ai.md",
-      "title": "Librestream raises $24 million to automate field technician tasks with AI",
-      "excerpt": "The Canadian augmented worker platform maker is increasing its AI investments and employee count to address growing demand for quick analysis of field data.",
-      "webUrl": "https://venturebeat.com/2020/06/24/librestream-raises-24-million-to-automate-field-technician-tasks-with-ai/",
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Librestream-IoT-Remote-Expert-e1592599754192.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Librestream raises $24 million to automate field technician tasks with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/24/librestream-raises-24-million-to-automate-field-technician-tasks-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/librestream-raises-24-million-to-automate-field-technician-tasks-with-ai/amp/",
-      "publishedDateTime": "2020-06-24T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-artificial-intelligence-helps-to-decode-mysterious-earthquake-swarms.md",
-      "title": "Artificial Intelligence Helps to Decode Mysterious Earthquake Swarms",
-      "excerpt": "AI software has yielded one of the most detailed descriptions of so-called earthquake swarms—unpredictable strings of often low-intensity quakes. The analysis could help yield insights into how earthquakes originate.",
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-helps-to-decode-mysterious-earthquake-swarms-11592998200",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-201904/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Artificial Intelligence Helps to Decode Mysterious Earthquake Swarms",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/artificial-intelligence-helps-to-decode-mysterious-earthquake-swarms-11592998200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-helps-to-decode-mysterious-earthquake-swarms-11592998200",
-      "publishedDateTime": "2020-06-24T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device.md",
-      "title": "Google’s new ML Kit SDK keeps all machine learning on the device",
-      "excerpt": "Smartphones today have become so powerful that sometimes even mid-range handsets can support some fancy machine learning and AI applications. Most of those, however, still rely on cloud-hosted",
-      "webUrl": "https://www.slashgear.com/googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device-24626181/",
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/ml-kit.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "Google’s new ML Kit SDK keeps all machine learning on the device",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device-24626181/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device-24626181/amp/",
-      "publishedDateTime": "2020-06-24T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-artificial-vs-augmented-intelligence-whats-the-difference.md",
-      "title": "Artificial vs augmented intelligence: what’s the difference?",
-      "excerpt": "Artificial intelligence has accrued some very bad reputation over the years. For some, the term AI has become synonymous with the mass unemployment, mass slavery, and mass extermination of humans by robots.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/24/1300892-syndication/",
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/2-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Artificial vs augmented intelligence: what’s the difference?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/24/1300892-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/24/1300892-syndication/amp/",
-      "publishedDateTime": "2020-06-24T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
       ]
     }
   ],

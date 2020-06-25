@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-25-facebook-releases-ai-development-tool-based-on-nethack.md",
+      "title": "Facebook releases AI development tool based on NetHack",
+      "excerpt": "Facebook released the NetHack Learning Environment, a research tool based on the Atari game NetHack that's designed to benchmark and train AI agents.",
+      "webUrl": "https://venturebeat.com/2020/06/25/facebook-releases-ai-development-tool-based-on-nethack/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook releases AI development tool based on NetHack",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/25/facebook-releases-ai-development-tool-based-on-nethack/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/facebook-releases-ai-development-tool-based-on-nethack/amp/",
+      "publishedDateTime": "2020-06-25T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-what-a-machine-learning-tool-that-turns-obama-white-can-and-cant-tell-us-about-ai-bias.md",
       "title": "What a machine learning tool that turns Obama white can (and can’t) tell us about AI bias",
       "excerpt": "This image speaks volumes about the dangers of bias in AI.” But what’s causing these outputs and what do they really tell us about AI bias? First, we need to know a little a bit about the technology being used here.",
@@ -1260,53 +1307,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-former-microsoft-ai-and-bing-chief-harry-shum-joins-fast-growing-startup-news-break-as-chairman.md",
-      "title": "Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
-      "excerpt": "Microsoft’s former top artificial intelligence executive, Harry Shum, has signed on as chairman of the board of News Break, the technology startup founded and led by former Yahoo engineering",
-      "webUrl": "https://www.geekwire.com/2020/former-microsoft-ai-bing-chief-harry-shum-joins-fast-growing-startup-news-break-chairman/",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Harry-Shum_Headshot-630x499.png",
-          "width": 630,
-          "height": 499,
-          "title": "Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/former-microsoft-ai-bing-chief-harry-shum-joins-fast-growing-startup-news-break-chairman/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/former-microsoft-ai-bing-chief-harry-shum-joins-fast-growing-startup-news-break-chairman/amp/",
-      "publishedDateTime": "2020-05-27T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,267 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-06-16-stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1.md",
+      "title": "Stockwell, the AI-vending machine startup formerly known as Bodega, is shutting down July 1",
+      "excerpt": "Stockwell AI entered the world with a bang but it is leaving with a whimper. Founded in 2017 by ex-Googlers, the AI vending machine startup formerly known as Bodega first raised blood pressures — people hated how it referenced and poorly ‘disrupted’ mom-and-pop shops in one fell",
+      "webUrl": "https://techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/09/stockwell-bodega.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": "Stockwell, the AI-vending machine startup formerly known as Bodega, is shutting down July 1",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/amp/",
+      "publishedDateTime": "2020-06-15T17:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-company-boards-arent-ready-for-the-ai-revolution.md",
+      "title": "Company boards aren't ready for the AI revolution",
+      "excerpt": "Bolt-on solutions don’t make an AI strategy. My second piece of advice to boards is that they should urgently develop and then monitor strong ethics guidelines for the use of AI and Big Data in their enterprise. That’s especially important now ...",
+      "webUrl": "https://www.techradar.com/in/news/company-boards-arent-ready-for-the-ai-revolution",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Company boards aren't ready for the AI revolution",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/company-boards-arent-ready-for-the-ai-revolution",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/company-boards-arent-ready-for-the-ai-revolution",
+      "publishedDateTime": "2020-06-15T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-artificial-intelligence-could-be-used-to-track-invasive-species.md",
+      "title": "Artificial intelligence could be used to track invasive species",
+      "excerpt": "Scientists are developing artificial intelligence that can track invasive species in the latest tool in the battle against Japanese knotweed and ash dieback. A team from the UK Centre for Ecology and Hydrology and Keen AI,",
+      "webUrl": "https://www.telegraph.co.uk/news/2020/06/15/artificial-intelligence-could-used-track-invasive-species/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/news/2016/07/03/Japanese_Knotweed_Rin_full_flower.B7G6NM_Invasive_weed_Jap_trans_NvBQzQNjv4Bqxf0udJPckKC_3Kw9fqS3NdVSpfFxuU2jZG0HzVweans.jpg",
+          "width": 2880,
+          "height": 1800,
+          "title": "Artificial intelligence could be used to track invasive species",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/news/2020/06/15/artificial-intelligence-could-used-track-invasive-species/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/06/15/artificial-intelligence-could-used-track-invasive-species/amp/",
+      "publishedDateTime": "2020-06-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-were-never-going-to-get-meaningful-data-on-self-driving-car-testing.md",
+      "title": "We’re never going to get meaningful data on self-driving car testing",
+      "excerpt": "The US Department of Transportation launched a new voluntary program to collect and share data from autonomous vehicle operators. Companies testing AVs on public roads are invited to submit information to the government,",
+      "webUrl": "https://www.theverge.com/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary",
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/tPWCcMshwdjqMp7htX3K26tYh-s=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66938010/vpavic_191202_3827_0004.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "We’re never going to get meaningful data on self-driving car testing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary",
+      "publishedDateTime": "2020-06-15T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-ibm-watson-advertising-and-ad-council-will-use-ai-to-help-brands-do-social-good.md",
+      "title": "IBM Watson Advertising and Ad Council Will Use AI to Help Brands Do Social Good",
+      "excerpt": "During Adweek at Home, a weeklong virtual gathering of marketing and creativity’s most influential voices that kicked off today and runs until Thursday, IBM Watson Advertising announced a new initiative that offers brands the power of data,",
+      "webUrl": "https://www.adweek.com/agencies/ibm-watson-ad-council-ai-brands-social-good/",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/2020/06/ibm-call-for-creative-CONTENT-2020-640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": "IBM Watson Advertising and Ad Council Will Use AI to Help Brands Do Social Good",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.adweek.com/agencies/ibm-watson-ad-council-ai-brands-social-good/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/agencies/ibm-watson-ad-council-ai-brands-social-good/amp/",
+      "publishedDateTime": "2020-06-15T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-linkedin-ai-hiring-is-slowing-down-due-to-the-pandemic.md",
+      "title": "LinkedIn: AI hiring is slowing down due to the pandemic",
+      "excerpt": "A new report published by LinkedIn found that AI and machine learning jobs hiring slowed down in the weeks following the COVID-19 outbreak.",
+      "webUrl": "https://venturebeat.com/2020/06/15/linkedin-ai-hiring-is-slowing-down-due-to-the-pandemic/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/LinkedIn-logo-e1585672001937.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "LinkedIn: AI hiring is slowing down due to the pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/15/linkedin-ai-hiring-is-slowing-down-due-to-the-pandemic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/15/linkedin-ai-hiring-is-slowing-down-due-to-the-pandemic/amp/",
+      "publishedDateTime": "2020-06-15T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-artificial-intelligence-fully-automated-luxury-capitalism.md",
       "title": "Artificial Intelligence, & Fully Automated Luxury Capitalism",
       "excerpt": "Some have argued for a version of communism, called fully automated luxury communism. While this approach deserves credit for facing up to the exponential future, it overlooks two important facts. First,",
@@ -1066,272 +1327,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-global-and-china-automotive-vision-industry-chain-report-2020-breakthroughs-in-binocular-camera.md",
-      "title": "Global and China Automotive Vision Industry Chain Report 2020 - Breakthroughs in Binocular Camera",
-      "excerpt": "Stock quotes by finanzen.net Dublin, June 15, 2020 (GLOBE NEWSWIRE) -- The \"Automotive Vision Industry Chain Report (II) Binocular and Others\" report has been added to ResearchAndMarkets.com's offering.",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/global-and-china-automotive-vision-industry-chain-report-2020-breakthroughs-in-binocular-camera-1029307120",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T01:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-four-business-benefits-of-ai-powered-analytics.md",
-      "title": "Four business benefits of AI-powered analytics",
-      "excerpt": "Thanks to AI, increasing amounts of data can become a boon to a business rather than a drain on resources or a lost opportunity. Not only does AI help with sifting through the data, but it can also automate otherwise time-consuming processes,",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356053/four-business-benefits-of-ai-powered-analytics",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1589985008/itpro/2020/05/shutterstock_robot_ai_artificial_intelligence.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": "Four business benefits of AI-powered analytics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356053/four-business-benefits-of-ai-powered-analytics?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/356053/four-business-benefits-of-ai-powered-analytics?amp",
-      "publishedDateTime": "2020-06-15T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c.md",
-      "title": "Marketing To Robots: Why CMOs Need To Start Thinking About Business To Robot To Consumer (B2R2C)",
-      "excerpt": "What happens when robots & virtual assistants own the relationship with the consumer? In this new era of B2R2C, brands will need to think outside the “bot.",
-      "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/14/marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1185170041%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Marketing To Robots: Why CMOs Need To Start Thinking About Business To Robot To Consumer (B2R2C)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/14/marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/06/14/marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/amp/",
-      "publishedDateTime": "2020-06-14T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-assembling-a-top-notch-ai-team.md",
-      "title": "Assembling A Top-Notch AI Team",
-      "excerpt": "Even though there are many great AI software tools on the market, you still need to assemble a strong team when it comes to putting together projects. The technology is complex and evolving. There are also the challenges of change management within an organization.",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F981091096%2F0x0.jpg%3FcropX1%3D469%26cropX2%3D7295%26cropY1%3D0%26cropY2%3D3840",
-          "width": 1200,
-          "height": 675,
-          "title": "Assembling A Top-Notch AI Team",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/amp/",
-      "publishedDateTime": "2020-06-14T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-improving-financial-sentiment-analysis-with-machine-learning-proxy-servers.md",
-      "title": "Improving Financial Sentiment Analysis with Machine Learning & Proxy Servers",
-      "excerpt": "Improving financial sentiment analysis with Afrtificial intelligence, machine learning and proxy servers is the new word in trading. Here's why",
-      "webUrl": "https://www.financemagnates.com/fintech/trading/improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/",
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2019/05/AI_risk-management.jpg",
-          "width": 880,
-          "height": 400,
-          "title": "Improving Financial Sentiment Analysis with Machine Learning & Proxy Servers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.financemagnates.com/fintech/trading/improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/trading/improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/amp/",
-      "publishedDateTime": "2020-06-14T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-where-are-all-the-robots.md",
-      "title": "Where are all the robots?",
-      "excerpt": "D2, all we got is Facebook serving us ads we don’t want to click on, Netflix recommending us another movie that we probably shouldn’t stay up to watch, and iRobot’s Roomba.",
-      "webUrl": "https://techcrunch.com/2020/06/14/where-are-all-the-robots/",
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-168265499.jpg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": "Where are all the robots?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/14/where-are-all-the-robots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/14/where-are-all-the-robots/amp/",
-      "publishedDateTime": "2020-06-14T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

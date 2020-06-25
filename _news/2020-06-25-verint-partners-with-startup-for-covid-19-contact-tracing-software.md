@@ -26,6 +26,20 @@ related:
       name: Mint
       domain: livemint.com
     quality: 19
+  - title: "Verint to Partner With Startup Viziblezone for COVID-19 Contact Tracing Software"
+    excerpt: "PRNewswire/ -- Jerusalem based Artificial Intelligence (AI) startup, Viziblezone, has today announced a strategic alliance with renowned global"
+    publishedDateTime: 2020-06-25T20:51:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/verint-to-partner-with-startup-viziblezone-for-covid-19-contact-tracing-software-301083763.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "j8tTbdqleTTAQxdQAo92r5YjMFByCuFeFSwSAJNWtTCBsRNfu0jAT1l0MSWQ6ozDEV/uUFRAE+tFwuHOE/cjb7Fh7EhFO0BO/jsI69uYRNv9f5qeKdH7JDCFFBW3NSqxZI0jJz86o2uoyVBuQVQvC8w7OH92UcmNa1ONPqisbQ7GL4/axFJkqPwftonvKtfEY8P4cx9+uR9g5R5LZnCkD9yxO34/cFd/rGSuy90sO0Aq4Ce7f4ELYJkmYa0BM0QHa8zE1cER9OpDmF58p7CXtGlIfY5NpcFc3fK4R3N/uoLNw1nQPKd8Z1rR8X6XDViuJVVOzode/zhV7Mejt0V5nA==;OZkF3sxC2d/va6n+4WVkUw=="
 ---

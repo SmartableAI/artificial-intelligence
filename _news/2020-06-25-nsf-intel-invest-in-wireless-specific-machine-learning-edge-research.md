@@ -39,6 +39,20 @@ related:
         width: 500
         height: 231
         isCached: true
+  - title: "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research"
+    excerpt: "Intel and the National Science Foundation announce award recipients of joint funding for research into the development of future wireless systems."
+    publishedDateTime: 2020-06-25T14:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200625005022/en/Intel-National-Science-Foundation-Invest-Wireless-Specific-Machine"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 26
+    images:
+      - url: "https://mms.businesswire.com/media/20200625005022/en/59121/23/intel_rgb.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "9S6ihyJHq4hxe7is85Xe48bdrYf2nVH1RlOV47fMGJPu0y/GO43QRolay7M9dfh7fwXy29r7JaUZHMh2iv8OWPDb0V/Iz4L2UumBdVo1gALSm/SvFeVIyBKzpNoofiUsqmSAJhXYBIO5w2GXXXwwV/wUPkySLulsqiMWnpjIjgLVtmtUKwdWPxDljBD2epPZc8D3y7d7rtBCfyoWg0qOBfAZ/RAej4wcC4WW0KDEzz0bPCIXkPE2XEoATuiEUsvCNTHg7PpBQD4GuWqgjWgMhp2zaUNE285/95GGsvTkU7n54oI1YF8Xx3XQdfEX4R90ODXljKwlayyQHGDxByQHzQQu/GQrS7138ucMfUmLNhVQUdc5l6rah2bEtgZkKg8/WvRL4ZgnR3mQMe4BCueRBNKugnB5K6WsWN1JfBLGnEIh4Z9nccolKLnW7MYtYS+UADHuFJbpvNAmsEHZ5RANAzZOkAtRuAIIyncxzpAU6O3bq7O1hzIhK38qBVpql1kl9nZlHGmrcEgsdtd7Bk/xFg==;hSCLWiJF0h2hJfSpGEIZ1w=="
 ---

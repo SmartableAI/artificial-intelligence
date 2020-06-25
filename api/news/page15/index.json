@@ -2,6 +2,253 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-06-12-war-machines-dods-ethical-principles-for-battlefield-ai.md",
+      "title": "War machines: DOD's ethical principles for battlefield AI",
+      "excerpt": "Earlier this year, the Department of Defense announced the adoption of its ethical principles for Artificial Intelligence. ZDNet has been tracking this process since it gained momentum, but DoD's official adoption of the principles was overshadowed in the general media when COVID hit the US.",
+      "webUrl": "https://www.zdnet.com/article/war-machines-dods-ethical-guidelines-for-battlefield-ai/",
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/12/b14492a0-fe4f-4a1f-b49e-5da9940e838d/thumbnail/1200x675/3f6aeeb5b49721051dac99e4176703d9/20200612-greg-karen-war.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "War machines: DOD's ethical principles for battlefield AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/war-machines-dods-ethical-guidelines-for-battlefield-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/war-machines-dods-ethical-guidelines-for-battlefield-ai/",
+      "publishedDateTime": "2020-06-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-convolutional-neural-network-based-diagnosis-of-appendicitis-via-ct-scans-in-patients-with-acute-abdominal-pain-presenting-in-the-emergency-department.md",
+      "title": "Convolutional-neural-network-based diagnosis of appendicitis via CT scans in patients with acute abdominal pain presenting in the emergency department",
+      "excerpt": "Acute appendicitis is one of the most common causes of abdominal emergencies. We investigated the feasibility of a neural-network-based diagnosis algorithm of appendicitis by using computed tomography (CT) for patients with acute abdominal pain visiting the emergency room (ER).",
+      "webUrl": "https://www.nature.com/articles/s41598-020-66674-7",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-66674-7/MediaObjects/41598_2020_66674_Fig1_HTML.png",
+          "width": 685,
+          "height": 396,
+          "title": "Convolutional-neural-network-based diagnosis of appendicitis via CT scans in patients with acute abdominal pain presenting in the emergency department",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-12T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero.md",
+      "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
+      "excerpt": "Hackers have attacked badly configured machine learning clusters on Microsoft’s Azure cloud computing network, and hijacked them to mine Monero",
+      "webUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero",
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYTk5ZTE1ZjFmYTEwNGZmYjc0ZDg2ZDkzNmE5MGE4ZC5qcGc=.jpg",
+          "width": 370,
+          "height": 246,
+          "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp",
+      "publishedDateTime": "2020-06-12T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-goosegrass-detection-in-strawberry-and-tomato-using-a-convolutional-neural-network.md",
+      "title": "Goosegrass Detection in Strawberry and Tomato Using a Convolutional Neural Network",
+      "excerpt": "Goosegrass is a problematic weed species in Florida vegetable plasticulture production. To reduce costs associated with goosegrass control, a post-emergence precision applicator i",
+      "webUrl": "https://www.nature.com/articles/s41598-020-66505-9",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-66505-9/MediaObjects/41598_2020_66505_Fig1_HTML.png",
+          "width": 685,
+          "height": 580,
+          "title": "Goosegrass Detection in Strawberry and Tomato Using a Convolutional Neural Network",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-12T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-tutorial-build-and-deploy-a-custom-skill-with-azure-machine-learning.md",
+      "title": "Tutorial: Build and deploy a custom skill with Azure Machine Learning",
+      "excerpt": "This tutorial demonstrates how to use Azure Machine Learning to build and deploy a custom skill for Azure Cognitive Search's AI enrichment pipeline.",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/search/cognitive-search-tutorial-aml-custom-skill",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Tutorial: Build and deploy a custom skill with Azure Machine Learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision.md",
+      "title": "3 (Not So Obvious) Industries That Could Be Transformed By Computer Vision",
+      "excerpt": "Computer vision, or machine vision, is an important business trend that will transform many industries and many business processes. Here we look at three not so obvious examples to showcase that it is important for any industry.",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/12/3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/12/3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/12/3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/amp/",
+      "publishedDateTime": "2020-06-11T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-reference-design-supports-memory-intensive-ai-workloads.md",
       "title": "Reference design supports memory-intensive AI workloads",
       "excerpt": "One of the challenges is that smart vision and other AI applications generate a lot of data that is ... smaller than a 9 × 13-mm BGA packaging used by a standard DDR3 DRAM chip. Another advantage of the solution is that it doesn’t require expertise ...",
@@ -780,270 +1027,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19.md",
-      "title": "How a smartphone coupled with machine learning may become a simple, efficient test for COVID-19",
-      "excerpt": "A scientist at the University of Cincinnati has been refining an ingenious design for an ultra-portable genetic test that uses AI and smartphones. It could eventually offer a cheaper, simpler alternative for detecting coronavirus infections.",
-      "webUrl": "https://www.zdnet.com/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/11/24859aeb-4a40-45a9-a322-30b18146042c/priye-et-al-2017-lamp-box-materials.png",
-          "width": 2126,
-          "height": 1144,
-          "title": "How a smartphone coupled with machine learning may become a simple, efficient test for COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
-      "publishedDateTime": "2020-06-11T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-mobile-ai-market-2020-global-share-trend-and-opportunities-forecast-to-2023.md",
-      "title": "Mobile AI Market 2020 Global Share, Trend And Opportunities Forecast To 2023",
-      "excerpt": "This has led to an increase in demand for on-device AI processing. For instance, Apple's A11 Bionic chip, which is an AI-enabled chip with neural engine used in their latest iPhone X, adding the high accuracy face locking feature for mobile security. The investments for on-device AI enabled processors are increasing, which is supporting ...",
-      "webUrl": "https://www.marketwatch.com/press-release/mobile-ai-market-2020-global-share-trend-and-opportunities-forecast-to-2023-2020-06-11",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Mobile AI Market 2020 Global Share, Trend And Opportunities Forecast To 2023",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software.md",
-      "title": "Amazon Puts 1-Year Ban on Police Use of its Biased Facial Recognition Software",
-      "excerpt": "This article originally appeared on VICE US. Amazon announced that it is placing a one-year moratorium on police use of Rekognition, its facial recognition software that has repeatedly been shown ...",
-      "webUrl": "https://www.vice.com/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5ee156a9329d2500bd1ab495/lede/1591826437188-Screen-Shot-2020-06-10-at-55950-PM.png?crop=1xw:0.9538973384030418xh;center,center",
-          "width": 2676,
-          "height": 1505,
-          "title": "Amazon Puts 1-Year Ban on Police Use of its Biased Facial Recognition Software",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/935ayv/amazon-puts-1-year-ban-on-police-use-of-its-biased-facial-recognition-software",
-      "publishedDateTime": "2020-06-11T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-miso-robotics-flippy-and-the-robotic-future-for-restaurants.md",
-      "title": "Miso Robotics: Flippy and the Robotic Future for Restaurants",
-      "excerpt": "Miso Robotics developed Flippy, which is an AI-based robot that cooks food. Now it's looking to crowdfunding for its next round of capital.",
-      "webUrl": "https://investorplace.com/2020/06/miso-robotics-flippy-and-the-robot-future-for-restaurants/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/06/miso-robotics-flippy.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "Miso Robotics: Flippy and the Robotic Future for Restaurants",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/06/miso-robotics-flippy-and-the-robot-future-for-restaurants/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/miso-robotics-flippy-and-the-robot-future-for-restaurants/amp/",
-      "publishedDateTime": "2020-06-11T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-vb-transform-2020-women-in-ai-to-kick-off-the-digital-ai-conference-of-the-year.md",
-      "title": "VB Transform 2020: Women in AI to kick off the digital AI conference of the year",
-      "excerpt": "Bias in AI models and algorithms is among the biggest challenges in applied AI. Women leaders and practitioners have been leading the charge in tackling those blind spots. They’re at the forefront in thinking about how the ethics of applied AI, and how it can center empathy, fairness, and human centricity to create truly balanced models and ...",
-      "webUrl": "https://venturebeat.com/2020/06/11/vb-transform-2020-women-in-ai-to-kick-off-the-digital-ai-conference-of-the-year/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Women-in-AI-Breakfast.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": "VB Transform 2020: Women in AI to kick off the digital AI conference of the year",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/11/vb-transform-2020-women-in-ai-to-kick-off-the-digital-ai-conference-of-the-year/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/vb-transform-2020-women-in-ai-to-kick-off-the-digital-ai-conference-of-the-year/amp/",
-      "publishedDateTime": "2020-06-11T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-amazon-temporarily-bans-police-use-of-its-facial-recognition-technology.md",
-      "title": "Amazon temporarily bans police use of its facial recognition technology",
-      "excerpt": "known as Amazon Rekognition. The move comes as protesters clash with police across the U.S. following the killing of George Floyd in Minneapolis. Floyd's death has spurred widespread calls for ...",
-      "webUrl": "https://www.bizjournals.com/seattle/news/2020/06/10/amazon-bans-use-of-facial-recognition-technology.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11318094/san-francisco-facial-recognition-0*600xx3991-2667-0-0.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "Amazon temporarily bans police use of its facial recognition technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/seattle/news/2020/06/10/amazon-bans-use-of-facial-recognition-technology.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2020/06/10/amazon-bans-use-of-facial-recognition-technology.amp.html",
-      "publishedDateTime": "2020-06-11T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

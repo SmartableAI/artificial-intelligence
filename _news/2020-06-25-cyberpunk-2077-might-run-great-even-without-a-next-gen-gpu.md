@@ -3,9 +3,9 @@ category: news
 title: "Cyberpunk 2077 might run great even without a next-gen GPU"
 excerpt: "Nvidia confirms Cyberpunk 2077 will support DLSS 2.0. Cyberpunk 2077 is shaping up to be one hell of a wild ride—our own Andy Kelly spent four hours in the game's massive open world and was left hungry for more."
 publishedDateTime: 2020-06-25T19:04:00Z
-webUrl: "https://www.pcgamer.com/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/"
-ampWebUrl: "https://www.pcgamer.com/amp/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/"
+webUrl: "https://www.pcgamer.com/uk/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/"
+ampWebUrl: "https://www.pcgamer.com/uk/amp/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/uk/amp/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/"
 type: article
 quality: 59
 heat: 59
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Cyberpunk 2077 might run great even without a next-gen GPU"
 
-secured: "L8ANGiZxWB8vlhlqrp6CCSmjTh/QU1t8EL3wu+6GIkeQ6pf/BQfUqNK63sVAGDY6SKA+qxI9MpR4ZiePJat6WZjvTG4ubz4oDzUE+bRT0+Va6re+VkhalDNn9K4LrjXAr3v2eW0Ya/EefHMkPCmvIeBYf5Tk5JeWqinR1c3t3XTYwv0YYAEB0iiTKwxTxChxRJjAiBGANY/KjpehlLWuNXusymoYRzR7KBucme5/76igA5psgq0bHwMHNusleN54qRXX0MYT1HUWEBWDL7zxc3uhaqXT62XbairXP3fe2KWeawpgysYK7Uk1WZWcLYoIUbOby1+N1ypG+farcGjwyg==;DW1O3PcpDsq8PtrJci2T7A=="
+secured: "uRqTE2AX6lZD808qFtS7uADCPBg8gJG5bgiekFe8xmvudY7mPxotYc7kLS5KJ/Hux3/LyFS9JvrUl5DlQFyWipOGAsZcIu1eFPOqBkdS+cCHRqRNcAaSl6aYUHuxsBAu7fQwgHp3oAlN8DnGeVDh2Qe+5Rhz1R07txuClD+sNlfJfZbUBR5V7fg2z/QXlwW3fI4RXPz/gLLj4ICoCsPEJzg5ZwO2nNVLrkrfDCaR02DKnEfhCtTqKbP25kY2iu6dQba0lBODEDJSWgwMyyvzcJnYVJaPvB4i/wlwTgub4QyT6xjgq+AJKpZZnX4ijwXzYD066v324QDmCqw9ru+hJQ==;Y0AB0baFd2Kh0JFl01PrjQ=="
 ---
 

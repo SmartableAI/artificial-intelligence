@@ -29,6 +29,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 76
+  - title: "inContext.ai Secures NSF Funds for AI-Based Healthcare Tech Dev’t"
+    excerpt: "Texas-based healthcare information technology company inContext.ai has received $225,000 in funds from the National Science Foundation (NSF) to build artificial intelligence-based healthcare tools. Robert Grzeszczuk,"
+    publishedDateTime: 2020-06-25T20:55:00Z
+    webUrl: "https://www.executivegov.com/2020/06/incontextai-secures-nsf-funds-for-ai-based-healthcare-tech-devt/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 34
 
 secured: "UsoqlmhnDFM/YdJzm0IAnE3Z5thDNrTuV75IPOv7f7rhLv9/6ViC1eHoArzaV+CXY1+3/NeRUlHgl+f8OPr9NbpZdHqOwciWmW3XJsTz3S+FwFza3phUmf5ic1So2qkEPkCsOhlKWmWF1TSsIO8icwfpPmBGIt0c4cVmDZnYsm6PGZ67H3aJL4MUNY1q484dljYLmD5n0zLql4+Zj11xMUwoleErRpV8liaUWSVNuhmK+FkZ/2pF0E2ZuTSmKzp6s5U+QzTxceexDwFleDRpGqyYc0wQIVJRo9PIw58oIRZz9JojYaxytdeCmo9cE4X7qeqeEsQWiuvnA2h3DUL6qw==;sTyR41cpgVHAEPoQv1qiHg=="
 ---

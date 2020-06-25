@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-self-driving-system-with-automated-routing-and-parking/amp/"
 type: article
 quality: 81
-heat: 141
+heat: 121
 published: true
 
 provider:
@@ -47,19 +47,19 @@ related:
         width: 711
         height: 474
         isCached: true
-  - title: "Didi Chuxing and BAIC form self driving partnership"
-    excerpt: "Chinese ride hailing company Didi Chuxing has entered into a strategic partnership with local carmaker BAIC Group, according to local reports."
-    publishedDateTime: 2020-06-23T08:49:00Z
-    webUrl: "https://www.just-auto.com/news/didi-chuxing-and-baic-form-self-driving-partnership_id196227.aspx"
+  - title: "Mercedes Benz and NVIDIA to develop new self driving architecture"
+    excerpt: "Mercedes Benz has announced that they are working with NVIDIA to develops a new Software-Defined Computing Architecture for their future self driving cars. This new architecture will be built in NVIDIA’s DRIVETM platform and it will be standard in the ..."
+    publishedDateTime: 2020-06-24T09:11:00Z
+    webUrl: "https://www.geeky-gadgets.com/mercedes-benz-and-nvidia-to-develop-new-self-driving-architecture-24-06-2020"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 54
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
     images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/06/Mercedes-Benz-and-NVIDIA-.jpg"
+        width: 700
+        height: 495
         isCached: true
   - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
     excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees"
@@ -72,34 +72,6 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
-  - title: "Mercedes-Benz partners with Nvidia for next-gen self-driving vehicles"
-    excerpt: "Software-defined computing architecture based on Nvidia Drive platform Mercedes-Benz has partnered up with Nvidia to create a new in-vehicle computing system and AI computing infrastructure, all based on a new software-defined architecture that will be rolling out to the fleet of next-generation"
-    publishedDateTime: 2020-06-24T23:15:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/51064-mercedes-benz-partners-with-nvidia-for-next-gen-self-driving-vehicles"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 24
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/d50cd04edb05beaa9a3f744aae2bcaac_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "Mercedes-Benz joins Nvidia to build self-driving platform for 2024 fleet"
-    excerpt: "Benz and graphics giant Nvidia have joined hands to build an in-vehicle computing system for next-gen automated cars. Starting in 2024, the software-defined computing architecture will be rolled out across the fleet of Mercedes-Benz vehicles,"
-    publishedDateTime: 2020-06-24T15:24:00Z
-    webUrl: "https://www.dailypioneer.com/2020/technology/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 23
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet-2020-06-24.jpg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "Mercedes partners with Nvidia on self-driving tech, plans upgradable system"
     excerpt: "Mercedes and Nvidia plan to launch a jointly developed computing system for self-driving cars starting in 2024."
     publishedDateTime: 2020-06-24T12:30:00Z

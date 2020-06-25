@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 754
         isCached: true
-  - title: "Democratic lawmakers propose nationwide facial recognition ban"
-    excerpt: "Democratic lawmakers proposed a sweeping nationwide ban on facial recognition software Thursday, with a bill that seeks tough new limits on the technology at all levels of government."
-    publishedDateTime: 2020-06-25T17:30:00Z
-    webUrl: "https://www.cnn.com/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 91
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200625112853-capitol-hill-0607-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Facial recognition lawsuit targets NY schools over student privacy"
     excerpt: "The New York Civil Liberties Union is suing over a $3 million facial recognition system installed at the Lockport City School District."
     publishedDateTime: 2020-06-23T20:58:00Z
@@ -222,6 +206,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200624&t=2&i=1523322435&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5N19S"
         width: 817
         height: 545
+        isCached: true
+  - title: "Democratic lawmakers propose nationwide facial recognition ban"
+    excerpt: "Democratic lawmakers proposed a sweeping nationwide ban on facial recognition software Thursday, with a bill that seeks tough new limits on the technology at all levels of government."
+    publishedDateTime: 2020-06-25T17:30:00Z
+    webUrl: "https://edition.cnn.com/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200625112853-capitol-hill-0607-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Boston Just Banned Its Government From Using Facial Recognition Technology"
     excerpt: "Citing “racial bias in facial surveillance,” the Boston City Council voted unanimously to stop the use of facial recognition by public agencies."
@@ -586,6 +586,6 @@ related:
         height: 341
         isCached: true
 
-secured: "PBw0YJAnvMNktUWa+KhiA12034R6STnFynC1oQG1A9dzhaT8vlDWqYtNPkwsSN3d/pwdqExav4P+O99RwOqVx4FO8OtU60Uo97ASwcuh6vFyL4/Q3rfCosXxepZ57JK6ITa1lVexFXsm6KeP6Cr8RgD4bWt3sXM0wc2lH4UAorVt2rdM02dNhG2JGOBfCUm164igdDRBmSBRyFN+I5taFQN83xb4Q1EDxuNwazSMtYS1pbp478LCPN/rIjKJObgKQy10Eoon1UrKNboi1RAobcSFzUCiug6EPaccrCn8DAJAE8/NjZInzQYyYzlaOqNLRF6IRtYacQvG0x7jlgVxHA==;4scesgTzq7RUDS+TKcwsLQ=="
+secured: "0ZMSxwkV+EoCbBMTQ6gBb5ihqPPVnIyeJY2F9A2Vr5j5/uyQtwsuCcxTlJLhD78RcE/mjGDTgbwy/zXTDdnGoFxTq/HpKyWF0AzHLxEjJtPYxrKZMd+WCqYMs9t46cAC1BH2ZdJypjjkl0QufTbLJt4iwfAWM9m17EFpB+HzP1TQ0gLAmz+OvuJ78D9rrTDFkqyeJAG7OP42NkWIPm+ia4exKdGzqM158n6PMU/xMeHeUllcDJF7ZEcAVbmkDCKHa1CIQ0M8uusLRtRG6J35vDhCHgvB2vx06KtLQov9IbzzptPg6rvNc1UOJjhFLu1Zakp7b7sAFRTZZQ0ExzVp2NIyQ8yO72iUpwwbGvQanI0OTHwYt2m4i4ATQlyfczlTe/Ocrxt2dMQDSHG4J1T3tK1mn1VC7FvCfc81bCIAxfC8uehrn96zjRG/9ikWbhHlEtqOsjeQmwCTdlKL7shd+kH1+nAoiz9lmXBdzEYJm8azXq33Eraex2LdmOTTURYxqB50Q+D54HXbScdX8Ysylg==;yh5z/Pr8KKjbHiz2K3uw+A=="
 ---
 

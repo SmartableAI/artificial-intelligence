@@ -89,6 +89,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Ed Markey and Ayanna Pressley are proposing a federal ban on facial recognition technology"
+    excerpt: "A day after the Boston City Council passed an ordinance to ban the city from using facial recognition technology, Sen. Ed Markey and Rep. Ayanna Pressley are pushing to do the same at the national level."
+    publishedDateTime: 2020-06-25T21:16:00Z
+    webUrl: "https://www.boston.com/news/politics/2020/06/25/markey-pressley-federal-ban-facial-recognition-technology"
+    ampWebUrl: "https://www.boston.com/news/politics/2020/06/25/markey-pressley-federal-ban-facial-recognition-technology/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2020/06/25/markey-pressley-federal-ban-facial-recognition-technology/amp"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 34
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2020/06/Racial_Injustice-Facial_Recognition-Boston_52737-850x478.jpg"
+        width: 850
+        height: 478
+        isCached: true
   - title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition..."
     excerpt: "The city council unanimously voted on Wednesday to ban the use of the technology and prohibit any city official from obtaining facial surveillance by asking for it through third parties. The measure will now go to Mayor Marty Walsh with a veto-proof majority."
     publishedDateTime: 2020-06-25T00:08:00Z

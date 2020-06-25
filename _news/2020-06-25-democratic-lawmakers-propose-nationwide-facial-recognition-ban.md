@@ -3,11 +3,11 @@ category: news
 title: "Democratic lawmakers propose nationwide facial recognition ban"
 excerpt: "Democratic lawmakers proposed a sweeping nationwide ban on facial recognition software Thursday, with a bill that seeks tough new limits on the technology at all levels of government."
 publishedDateTime: 2020-06-25T17:30:00Z
-webUrl: "https://www.cnn.com/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+webUrl: "https://edition.cnn.com/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
 type: article
-quality: 91
+quality: 89
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/200625112853-capitol-hill-0607-restricted-super-tease.jpg"
@@ -587,6 +586,6 @@ related:
         height: 341
         isCached: true
 
-secured: "Suj19XWpXSnZe5tkm5eV/dnijZbVLvBSMjk4f0mJrP9GRlj8nRfqV4f6lm+Hmw00bX1sQB6WK6a4j/FCBeUDp46gQoArnQggGwgARwzK6OlDQqOVNpBMriH5JGl1gmENO/xpeQT2tUnpRPkQxZud0P4Ef6z5J2IwK4L+1luZeSF6YYT17GvCJksheyN3qGkP/Xk07SxujuHXkxKeEtX97kVTgUGSX8EJ6n/Qp7eNFBPsjwpBpnMfFZoB6RuWf2IhuOZdNctZo6p0QcQ0RDgKgqPaDc2JL3l03BCzi48UK37G8Taa5mf/RV4tEXSIRV59Axdo/9yKnwmVg6GnyTuTTRjOaC78xuxwFCWX4NpQaYSUuT/2aSky54FQDezIDHn23qbP7oL2oITIPkEEhJXmy2MUC6cwi+2vWF0voPJQu169jktH/lCBjUQn0WwXRbZG6mS/cP3fXNhBpOw2yFP3YO9aOGU+pvxSSaSiZPYHb61FmK/Qj9RMcfJOKm0TckDKX2orq6NtFiAQxKIItMS+Mg==;MTho6ZT6Y5hJGzCp/x6IOw=="
+secured: "xv8FN80ARJtJv9yer0LyZ/F/11KPTIjuEAJFgYv020hWjKeANqPogoG1i50votl4FniQZbAv9dLLgQ1jy+NW1DY/IgwsnbNxFA9IjGNM0ft01rUvjtjBQMVVdvR9vXOrjnXYbSSEcEqoiz0RCaamuwMRLJV+1CJ7mk0RgOONfasdBGWCMqJaRDG91eNmjyuu7krJ4Oqob0vFaaWJT6Z5HuZ0336TuvqXqWZQgZqU8+DVa1hHGK0WigzMUEXW2kiW1UhJT/tX9bRpHrGPiZ6j2Ir8myGQ+ZHwMYVRifRccwbHPBbRDyiO4gWWxNHjuDG0cufgym7Mxj9iB64SUVUZQA==;vNt+Xps30kgo6vvN5SCfYw=="
 ---
 

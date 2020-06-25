@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 754
         isCached: true
-  - title: "Democratic lawmakers propose nationwide facial recognition ban"
-    excerpt: "Democratic lawmakers proposed a sweeping nationwide ban on facial recognition software Thursday, with a bill that seeks tough new limits on the technology at all levels of government."
-    publishedDateTime: 2020-06-25T17:30:00Z
-    webUrl: "https://www.cnn.com/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 91
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200625112853-capitol-hill-0607-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Facial recognition lawsuit targets NY schools over student privacy"
     excerpt: "The New York Civil Liberties Union is suing over a $3 million facial recognition system installed at the Lockport City School District."
     publishedDateTime: 2020-06-23T20:58:00Z
@@ -218,6 +202,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200624&t=2&i=1523322435&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5N19S"
         width: 817
         height: 545
+        isCached: true
+  - title: "Democratic lawmakers propose nationwide facial recognition ban"
+    excerpt: "Democratic lawmakers proposed a sweeping nationwide ban on facial recognition software Thursday, with a bill that seeks tough new limits on the technology at all levels of government."
+    publishedDateTime: 2020-06-25T17:30:00Z
+    webUrl: "https://edition.cnn.com/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200625112853-capitol-hill-0607-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "House bill seeks to ban federal use of facial recognition"
     excerpt: "Senators Ed Markey (Massachusetts) and Jeff Merkley (Oregon) authored the Facial Recognition and Biometric Technology Moratorium Act, which Reps. Pramila Jayapal and Ayanna Pressley co-sponsored, according to Vice."
@@ -582,6 +582,6 @@ related:
         height: 341
         isCached: true
 
-secured: "YSdyZrr+0t76HtSG/w2BJTjvzPypt9naFgGQzFIyTOERf9jon0fTTS8u/g+umvGrTvz4/jYt54nmDJDJ1dmbDa3zEsdg+Ax7X5RS1w+rY2A4vwA6ppSRtBMsooX4w4COhkF1xPQ3zIjUYyuIAcMi5M4f0BHMqQ+W3vMZ9J54rObUv7oyRiOGP+OiqEY/6oIx7wSidb/+YroZnEGjX8SuAZ/hZZphzJEDx9B3HYgPqDl+LFRcaOWNKtz0OoVCUD3aaiMnlWVLxnbFYrd7+o8gpXb7J319FfgHmMFB3Ski5QCyxXN4sbFz3UxmyKhSNbCy8TNw4V6g6D+cdT5S9biRUA==;TUTlrYUT6ZEXJZViVGjDAw=="
+secured: "V8NsWfnX/j43VUC+/QZa7Fw6CPxFMyjvsIiC01jP6vtSxO8sMkpAWp127+EMwj/cToyToKESENzCpxXR/58/T21nCLoHdwELZeiqBSasIJXO2bfVGyWw59KZEneY3jAgBy8WRKK2AfdpVbJ0XFGCamyIvqnKyMj0zUHAPM2dqjfbmeLhQ0guMRYLRn1990DcnFkT/b95LwkvVspdnMZh61xl7koka/umC+qPZFfcpo3jxjwj+Wg8EfYmYQEvxnmm0KlGn6SCtrlRKd4uBuzKenKd5VY1R7abomn7+4Hz29MrQDXatHAzz0LHxJpGM5UrxNBvdA9IqhsgKvKr2Chh4LQPwzb0BDrkMuzvumGaBIktVLR/VT+2luTNGzYaB5FImos7+Dci+SIOKhDFQVNFmO2dOm9msx7m4nYLhCOx1BYLPth7+H4gg5GkeabWKABYe6rkPnj4c4jMLU6X/G02SZXD/pT6yRTRDsc0mW+N0FQebUEHOaH9vMc8oV0uy7qBOfS8sNoeFH4Mu1LsJclVBQ==;RPzjIe7n9cdOHIb4Ye8kkg=="
 ---
 

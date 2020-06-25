@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Verint to Partner With Startup Viziblezone for COVID-19 Contact Tracing Software"
+    excerpt: "PRNewswire/ -- Jerusalem based Artificial Intelligence (AI) startup, Viziblezone, has today announced a strategic alliance with renowned global"
+    publishedDateTime: 2020-06-25T20:51:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/verint-to-partner-with-startup-viziblezone-for-covid-19-contact-tracing-software-301083763.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Verint partners with startup for COVID-19 contact tracing software"
     excerpt: "Verint (VRNT -0.3%) and Jerusalem based Artificial Intelligence (AI) startup, Viziblezone have entered in a strategic alliance wherein the former will offer high accuracy contact tracing techn"
     publishedDateTime: 2020-06-25T17:09:00Z
