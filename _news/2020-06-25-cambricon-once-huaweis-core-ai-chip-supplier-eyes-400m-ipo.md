@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Cambricon, once Huawei’s core AI chip supplier, eyes $400M IPO"
 
-secured: "Z9Ggo/fH260kT1dXVSpvaVUCHp8qnGmhCQzqGG9i2hzVeDL89IVOjBXhwaVZgxR/en+3IXjiS4O7GOFvQ/JOuzVqCrNXuWCZIS5RpmXgtt2OxEHMTrbpAGmsmDKzoENNe1nm5wBciF7H71ZhGV4JxoFqxWm22wK2Jm5TTt2d56+dtZKDpqY+VLfZNEkwbw8nJCxri02SKpV7tMQHnii3RoVlf2pwRTU0KoKWApyYvHOTqflMV10sjw3E8y3C4CLd1w7nZfEjOcRAbMiH0O3j2cegYFwAISa8KuPAdbmvHkqbvbO+i3fshU8fwRbhXanO4LJYE22gt2hsFTL3Tgo6rg==;wn0JvW31Zcsr+PXa/Co5Rw=="
+secured: "wui7vKwmQIbu8OOwR+0xk9PrKmvfYW5mbDAZCTDizSmXnBydvXqV8ekNpvWVhoP1qwLBvcVUflvET0SmS2q4NanqKRZgtoe6O8rJLUYNQCTZUS7ainW7hMgL2rgYUVKMECB1wStACPl8E0S8pJOvSVh4/Vu1kcnSqqijAtCxyO7k/X8L+md3veCZh+CfwvWj+cd+SE92COsTyDqXRTWmt2nQIvVnBBYqo91ljRWuyPW9TavobSz6dJrabetdmfjK8ZMR5Bn7nxWwIdayLEAH3ZWpH+0oxRbHFaNqrmiS7QSjtweVBTvFjNu7FclnKb4iiYaUSJJqgmkFdhTr6YqNzg==;Ko/5LQpGv4cXNTf42lAvlA=="
 ---
 
