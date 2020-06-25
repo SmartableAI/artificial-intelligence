@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Tesla's most robust self-driving package will cost more — again"
 
-secured: "YgTTEQ4DrqxjWhQYg+xkVqG0VtO+Onfv87pbTios8o1j8t3USj5J5wcRGXBaQYO+XmwYGs+wyvHwoC/Z+NvTbjfocy1ZJhryHHCsmJTdSycaQB7vA4zl0IsvjHRLxnyOs38rD6eH5lzS2p/vAg8Dod9m2gyNKOhy0HXjx0i4WWRE9yqqPaeJjxS0GQnusDkQTqf35fqWu/vQLz/YMUpaRV6Y2vHq31Wk6z3X3qQZvfbOCJd1tntNBGiIzU9cLzsT56IAMTu+PUdxBDCd4plMRvk+Z/U22y/CJzi0d5U4tsxu1YjNDvrG2UlN5m1rAE0quRhHwCe+MWVStl3WYBoIsA==;ihk0d5pHWAfOfm6sYHn2Ug=="
+secured: "Gtk86CBv4AtuQRsOsp4D97R0Tvxmfsb6Udn99f+EFGgbDCLTi8+7h8AJ9jl6a0wuJiov1B3CRRMglnGppvrX11i2ovIaKUJbpsSN6dpGldbABVbA6YJGE+sZA6bX9rFzhdpY4Yli8E7HN2pcdoBZLVQPowSHKNLlB2+6d6wVZL4RBPOmWLjcKuUjUpNidYO+wC6loX1VDpV3hLJVk9izzy35copAutUpuFkuWYO8zkEZh/wdpCNwciMqh61XnWhc+FHq/GVa4cjiLYVo5cFooHchN/UXlepS6dxCbovIn3rV5GOpOWRLMQ5PeLO3purYeLZEDtXer+6iNwTKsiKLHg==;Fjm6ndsiLYY6LCBuZ2K2RQ=="
 ---
 
