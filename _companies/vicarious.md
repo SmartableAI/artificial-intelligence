@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "vicariousinc"
   url: "https://twitter.com/vicariousinc"
-  followers: 46
+  followers: 47
 
 size: 51-200 employees
 locations:
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=m6XVt9H2cDE"
 
-secured: "lAyOLzWKkf9pCqIKwP2YwSEyHnmJe4BSCh72rZlffmavgvlpu18I0xa0ASSR5rJRTlcaMT82nz8MV7GZGq13eJlCJhrufqpsLjKgv25sNnuh2ex6bmygLCXCWfIbOM2+h+9e/xeetJnEXGBzBp5baLMubnaFnvzZ+QMrnXGi6+bnXYttEbSEn5wxpcOfHWbA0hWUQNmqrjh0NwkM9Aa9/zJKDlGh0Q0uXfbfeq0GptYzzZq+XegfgTiPWC4RrPKYpn7tzTjDVqV6O5h8votcNamvPNhrg+w58XxG1K83prAxe+VLqRpBEMyw73tvYaNKJ+XducY2ClK6Qlo1HsEyTBSpYwxx6kt9xpYpm3YiFo/CHTzlvP+slVHaLHAzSjLX;Vf7OMxIYmXIjSAygcyfCIQ=="
+secured: "m9S2OtQRhrB/H1DGAgv1Jmpz376Weuq0PZmUscesLZuBgPLRRcuFyMNeLtlXpRRARfGqSkvR0aA7uV6x0liUFWbb8uNOG5JbXBICUdGOGD0pH1Lmu7TzNRtQ4ROUkRP2GMpseP98bjnslgrZfQX6wm5HNdVP6z0Gdt4TZq9tPBlJpeaJFL7FfoGo+2GoEUvIrGD6AUt+Vw4RnYfTeN4KmPyBEm8+3f/m7bZvfv1H12juwrjXu1URAay7i12HuB6cv/TxjPR590wM6dmY4QMAX/8ci8rBqUzM0Xfa0DcQTiAeYP3B6kLH3HZY5lMx2VWA7QEphPrlVTJ4OtrPsJPITumVynreHz9X/Qzqzp1XXWo4awxYmgpiGMl6gDajQSxj;YEJx1QPub+LI+txdNU6SIQ=="
 ---
 

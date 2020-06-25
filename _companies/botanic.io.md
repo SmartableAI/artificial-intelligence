@@ -2,7 +2,7 @@
 name: "Botanic.io"
 overview: "Your friendly A.I. clinical assistant. I provide doctors with a smarter, simpler way to search clinical content."
 type: "profile"
-heat: 50
+heat: 42
 
 website: https://botanic.io
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "botanic_io"
   url: "https://www.twitter.com/botanic_io"
-  followers: 597
+  followers: 596
 
 locations:
   - CA, USA
@@ -31,6 +31,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=-RfVBN3nfRs"
 
-secured: "cCwLV7/yMs5NMP4TFm3hvbWcBOnoO07fTWxizxsXh4HBsIRj7Wo/kZk31qypt/T0W9jia7ljY7xNESQTmjC/CQlyjg3eGz9BhwqzCg4RM0DDNTkdhOTfJJvHvJxOcgEJN8m2w6/5qC395XIMPOOweww3yFC74CymisgR34aJZQme+IHIHpoonV3ySGOiZiEEGtB3eD+shNMoJmY/3+ME6SsEOVcDRL3dXgk9+GlyknuKSr1cOsATjaiABB7vy5ZrMUvMsdiI6YROb2KTBh7oixYV2z/HzSxZB1bGfvcLOgW4tM7Bown0FhoRGF/6nue+DyqbUx8UVRV+vrBGvX8RINHQ1WlLKCos+vK+dlbrD1ERgoHe0gV41caMBpqDzo0W;Kv/97H73+VkrUysd58pG8Q=="
+secured: "7gMHnVEMSdC5hoi1gShgI+WgjC+WMPfLc9tyr5zqeK4bFK530HT/F+XYeO5BWyKJAv+VY/5oMI1WDMzGbOsvTfvdmQWHF0WQz+klY7ElTNUkG6jhd3hiIc7gOGlrzbA/gamjaM213wg4ImqQcqqTi9Dqjc5QOKJT+OA2LvKVSgib6jGaD7cGd3rrNb1yuDUeddoY22Kyb0pZ3cKwQpgm3kS4j+cyEZNfTCH3lJsN3jtn81yH0rsci0QF5rmUGbQnRyqOCTpGZZInn9W7/FHxJymkkwzmftDZugQOrDEFuA4tlJ7C7iKDWBAdcktB72x890jLZqrS8Inp0M6vJQnVpTZO6Gdy0cveTJNhXOgbuxtuumHlxWP6rWivdeV3uDen;VggS/LL+VXdii//wYq1A7g=="
 ---
 

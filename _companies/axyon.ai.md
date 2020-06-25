@@ -2,7 +2,7 @@
 name: "Axyon AI"
 overview: "Axyon AI leverages the most recent advancements in deep learning to create bespoke business applications for asset management and trading."
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://axyon.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "axyonai"
   url: "https://twitter.com/axyonai"
-  followers: 132
+  followers: 133
 
 size: 11-50 employees
 yearFounded: 2016
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "HSD3JEGp0AtPm0ZBnzYYJkjrDFKFbu7hzDtUMc+4fOFn4YKBpYtbID9ytSK3GJ3aB/l27jcXkRaKEvpOeUyFEMjRSlog/fSRurcgDc4n+WekMtflWpf1mNtOb4/ike11Neq2b46HUmaghC2VEdOnWymMl+zxtdabGIrMhB3mkl/PvMpmd71O8p8hw96HtrJJDh3ADV2HJFWp7yEhiU0ulvXtfIBb24zOoISzWGfb3bCqbGLd6/jjjLNPw8Fmj3kXib+uSoS2SVX6gBWU2DSbiiF18S+TRqFDxgOl+WvNtmq9RZL2fZovhGemHcDbKZ5+YFFUzz3DL0+C/kgFWBI2UQJlyaJpRbLe4JwhsQPP3gs1DBEYgQ3Yy9wnn9owAdi8;5YEgyhN8CZAY9hYjXynUVQ=="
+secured: "EXtcN8DuP0I59XTD0V6DpKMSxHV8NTkVXxso1qFkLaPwYJbtvKZ9fEwjrAHEYw3+hksCRgZkEIjQcvDIEgdr1Buu/iR3zzuYuxKumZdZ1viOBxY7A1Htyw8PKSVSeTifVhZ1bDrxn6jYwyUvah3ecO6um4E6cKEfbEdcFGrn41GXBD21PXLtqAL/BT3JODfGElDT41rr6/PTTqh0DBjCXQrK0ACXzZ1yz1JIVTfRymLdFmH50qnib8BrS9upFFSfkBWz4uw0De6sYxrO/mOJtj8hdAv4+6z2XKNZSKLwAAYwKF1Q0wBsw0ewDmqwtJHqQvJRjbEWstnlIWue83oxJzZcFSStvJQB1DyejLzgaKjED8+zWckcNL+JuGQGFxBc;PP2Lgrd4pfF4KXfUV0PgdA=="
 ---
 
