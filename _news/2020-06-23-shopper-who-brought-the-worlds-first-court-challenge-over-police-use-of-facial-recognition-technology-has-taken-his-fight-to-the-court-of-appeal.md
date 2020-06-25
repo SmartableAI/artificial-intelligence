@@ -107,6 +107,22 @@ related:
         width: 560
         height: 373
         isCached: true
+  - title: "Detroit police admit to first facial recognition mistake after false arrest"
+    excerpt: "Police in Detroit have admitted that they mistakenly arrested a Black man because of facial recognition software they were using."
+    publishedDateTime: 2020-06-25T12:44:00Z
+    webUrl: "https://www.techrepublic.com/article/detroit-police-admit-to-first-facial-recognition-mistake-after-false-arrest/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/detroit-police-admit-to-first-facial-recognition-mistake-after-false-arrest/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/detroit-police-admit-to-first-facial-recognition-mistake-after-false-arrest/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://tr3.cbsistatic.com/hub/i/r/2020/06/25/42043e15-6892-4dd7-a76e-9b9907fa692f/resize/1200x/5870a86fa7da001a2c9e24b01f3605f8/istock-962263142.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "The Wrongful Arrest Of A Black Man Provides More Proof Facial Recognition Is Racist"
     excerpt: "ACLU says it is filing a complaint after the failure of a Michigan State Police face recognition tool leads to a Black man being arrested in front of his family."
     publishedDateTime: 2020-06-24T13:30:00Z
@@ -197,6 +213,22 @@ related:
       - url: "https://media.kare11.com/assets/CCT/images/626789424/626789424_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "I was wrongfully arrested because of facial recognition. Why are police allowed to use it?"
+    excerpt: "While I was leaving work in January, my wife called and said a police officer had called and said I needed to turn myself in. I told her it was probably a prank. But as I pulled u"
+    publishedDateTime: 2020-06-25T13:25:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 49
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PY5FPLTWPMI6TJ57ZCSDXBHOGE.jpg&w=1440"
+        width: 1440
+        height: 1010
         isCached: true
   - title: "IBM quits facial recognition, joins call for police reforms"
     excerpt: "IBM is getting out of the facial recognition business, saying it's concerned about how the technology can be used for mass surveillance and racial profiling. Ongoing protests responding to the death of George Floyd have sparked a broader reckoning"

@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Market Worth $45.2 Billion by 2026 - Exclusive Report by MarketsandMarkets™"
-excerpt: "© 2020 Insider Inc. and finanzen.net GmbH All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ..."
+excerpt: "2020 /PRNewswire/ -- According to the new market research report on the \"Artificial Intelligence in Healthcare Market with COVID-19 Impact Analysisby Offering (Hardware, Software, Services ..."
 publishedDateTime: 2020-06-09T13:49:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293163"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293163"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293163"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293172"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293172"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293172"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "kWFAxMNaBPz+d5Py7JOb1opsjm4HL5Z7dZ1ox4kHTPrc6EN0pPvgOO7pxUMavMfSjar4UMprntL+YI5Y9ry9yOk3GC2KSC2iJRKwzk4ShosMJKUfJZnRDv+j3T/ud7Eitmuj8/JoUY1c9HTG2rde0drQM49HJVv07ao/tGws49GVRjxXFyOfkVEv6BvRoidxJnX1+U0WaslmMwXe7Lm9DFTwoJc+XO7l/29spdyTckIQmpJVbLRH8q6Xf30RZUrj6IwxGBtjsJ0sE6lC38/nvKiucL3iSOdBA+Qs033MTv8h0HWNzESS1v9UzKcY4bQj5TDkrXafuBg1+OgJs55iqQ==;s9SgpNbxZsMleozb675rgw=="
+secured: "Dmw8zxu0WgmrN33VoWuA6oG0vOjjdc/Xzbjc8lw0fjDABnLXOwPyDu2OljjinAJ+Dq7mBomG7EP6qJWcX6J2iZzveWudsaY1L1iRu+ydvkmZrV8idB0+pY1rWe5LUry7RPqWvsQfqXXwF598JDrLnefYr5Ta0i8hFI7bTn9CGjsF4LDUGA7Ob2ostsEHybK2nSUnZRETtqBHyDdAOfLMWduld2KwJ6nQa/nG93OZuwkawuEGPgPhVTx4OTmsQL3JAyK7EHtHrJ2uDrnproCL/AW4MSmkhXOMYWAANzaelsi/FMEhHkar/WyPXOWm6mqDrs3nMY4JNExWBTcyfB6SNA==;8R8QOYJlef9tIkB68J7yDw=="
 ---
 

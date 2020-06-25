@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/22/ai-ethics-tuning-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/22/ai-ethics-tuning-knobs-a-questionable-mesh-including-for-self-driving-cars/amp/"
 type: article
 quality: 103
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -125,6 +125,20 @@ related:
       - url: "https://www.channelnews.com.au/wp-content/uploads/2020/06/Mercedes-Benz-and-NVIDIA-to-Build-Software-Defined-Computing-Architecture-for-Automated-Driving-Across-Future-Fleet.jpg"
         width: 700
         height: 495
+        isCached: true
+  - title: "Nvidia and Mercedes-Benz team for self-driving cars"
+    excerpt: "Beginning in 2024, the infrastructure will be rolled out across the fleet of next-generation Mercedes-Benz vehicles, the companies said. The software-defined architecture will be built on Nvidia’s DRIVE platform and will be standard in Mercedes-Benz vehicles enabling automated driving functions."
+    publishedDateTime: 2020-06-25T12:12:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15341/nvidia-and-mercedes-benz-team-for-self-driving-cars"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/341/15341/20C0302_02.jpg"
+        width: 752
+        height: 531
         isCached: true
 
 secured: "BgqCR8INlmMjbL0uxCELl2b1DhkFyLnT/S8HZIreK5TOPSFgq/JxDVKMSJc2EXH0WSvzCg70ovW387PUP3B7TiUsUDVoIM6IZ+gTNgeM+NqlZ/dorY7aILhWKALQEqT+maj2vIiESt9sUSF1Oa0Af/r/wnMvgA8iCHXcEOi3obYGbLoMFJZ6Sw8fvUN0a7JPoFV0V8aV1bmDRIDPZgPGoP/U9vMkj8nz0H09npeivTMg3Yp1/+0bvXEz0aO13ewYa5FMPS17hTHuLq1z5FPHdbPkNkPjZFdpHk2z4IsVO2Vr0+FRLByieICOeG+/yFqP1RpJs8FEjLPWQH55yvPtEb+6wnu6DaLWYr0Rh1leE9PILRqY+/wc9E5zcBB9HPdHYppK5hpAJldzF6k2tnUrwBphb7rD9D4F7vzKazw7z3rIsFZienaP5WkrcS1SpECdHJDCLuIuUwy8Bevt1jf8A6z8jx0dO5ScvtRJ+HJJmk5PK648zq0IXJacM6r25ixX;ykHp0P3OSFYrhjo2vy4drg=="

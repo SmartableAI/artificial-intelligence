@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-21T06:32:00Z
 webUrl: "https://www.livemint.com/companies/start-ups/health-tech-startups-use-deep-tech-to-contain-covid-19-spread-11592719921253.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -16,24 +16,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "With COVID-19 spreading fast, this Delhi startup enables companies to check on their employees' health"
-    excerpt: "Delhi-based San8tize enables businesses to attain visibility, traceability, and enhances their ability to timely intervene using data and machine learning to make businesses and their employees pandemic proof."
-    publishedDateTime: 2020-06-23T01:53:00Z
-    webUrl: "https://yourstory.com/2020/06/covid-19-delhi-startup-companies-employee-health-san8tize"
-    ampWebUrl: "https://yourstory.com/2020/06/covid-19-delhi-startup-companies-employee-health-san8tize/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/06/covid-19-delhi-startup-companies-employee-health-san8tize/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 26
-    images:
-      - url: "https://images.yourstory.com/cs/2/b3bfb136ab5e11e88691f70342131e20/RajivArora-1592849027336.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "Y0oxSAq/WSAzxcFs6bj19a5MEtWqDHINGg5jfFnU59nAlMCgDKui+s4ApbLeVeZ+AcnfKoMsOV5vUm7FJgP4LieKV2ccuf1NKoASEgemylXBnnZRWBpg5zAV+iVadmsXpJ1msoB7fmE2kJ3e2KmGKiOxtI8/HSPJ5Hv4CpyH7uFbVSBm3RgE5uaFZN0FKSQxbzweev+SCkPGYCgsQs5V/kqtzzB2IPbkqO+ogmPpiLVcFVW1ATO7nDPLVquw+jXdML6P9dyQTME0/tNLQnpCq4Zbdspc0Qcw7fRUy6QcxjC7pyMZvR1oGy74UL2S3T1f4NC04ZCTkcCBSiyM5yySUszTsB2wRVuqX4fZPAUaegHNn3v/+WOo5qgbiGVlxvKIjxJWOQnZuAbub+/1c//Yo7vhKHDbg3EmUNDIxZLMDp7uYc23EFFJqo14FZAQG89BC2Pg3ls0BAVBUbLku6xUd7fLKq+eZSqX/Ij91LaKalyRwVN6DTQk6WF57m4UVTuZOI1W7jqACAurLs8mai9WbA==;efsJK0nyoX1ahBbtO6lPtg=="
 ---

@@ -121,6 +121,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Nvidia and Mercedes-Benz team for self-driving cars"
+    excerpt: "Beginning in 2024, the infrastructure will be rolled out across the fleet of next-generation Mercedes-Benz vehicles, the companies said. The software-defined architecture will be built on Nvidia’s DRIVE platform and will be standard in Mercedes-Benz vehicles enabling automated driving functions."
+    publishedDateTime: 2020-06-25T12:12:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15341/nvidia-and-mercedes-benz-team-for-self-driving-cars"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/341/15341/20C0302_02.jpg"
+        width: 752
+        height: 531
+        isCached: true
 
 secured: "zFTlo5vao/pkgUWrnrAdQFeGf08zNHfBSACefRLYvRE1FPsgMfmkQr6RfvIYvGGCkrp836jeqTXESEdmWpdmdY+ksjfkysxmaNY6eYGwqOVSDQfi2SxaRFwugew0nWCqirhtgK7dnnvhsmJLnvMxrbYBqYWNCc2FlQA7U5mhwtiC3PsFi7yxcJh+JoXwieehu7cQmMlM8PHuwqx+3scJ2x3B3UV3l0xtOoHLa0SeXJSMeU070inQ01uQ/Re8rujwt0lh4m4nouOSos2eCOS8DiP6RERwfHzRh/zfy48eZBRI2rpc9TeBuXJMvk6BynK2NMqYNBX+wXfpu5kPhew2Xg==;GUhvjTbAnvrtAlphYJpsBg=="
 ---

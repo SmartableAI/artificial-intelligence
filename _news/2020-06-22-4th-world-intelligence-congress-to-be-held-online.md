@@ -23,6 +23,22 @@ images:
     isCached: true
     title: "4th World Intelligence Congress to be held online"
 
+related:
+  - title: "The Fourth World Intelligence Congress Kicked Off Online in Tianjin"
+    excerpt: "On the afternoon of June 23, the Fourth World Intelligence Congress kicked off in Media Theater, Tianjin. Wan Gang, Vice Chairman of CPPCC"
+    publishedDateTime: 2020-06-25T13:13:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/the-fourth-world-intelligence-congress-kicked-off-online-in-tianjin-800349814.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 22
+    images:
+      - url: "https://mma.prnewswire.com/media/1196494/Congress_Venue.jpg"
+        width: 400
+        height: 349
+        isCached: true
+
 secured: "RvpAl+fmqeAkafpbYMcV2Oy5pXO+VHKW4XjKroA8d1KYKComQ0hjXpGkTw5xTg+JHb08A043BVnrqs1rl8yMh19hm/3Xk0Hn5CADORe2p99la7zDoEvI9kd72HRY230qLJTqepKbVZfpJlC8oNpSb5zyWFFtApAk/aqLee+I2yDbnBU5OY7DPEg+IFYGklrgMLTLMLxquEtJPBp/JVBxK60dKJLEsHN+6qiHKtz0gMblR8aqGjT+M4qX4JYAcgoAfnkcu3HmqLQCo88UV84xE0XLy7Arc/gvRTI6BeBPYFpWH7LJqDZIQKB5qi4rpYXDHRXCMfaIThluUMguuRqQkQ==;/z1vQkbtbCJXkR9RQMGQeg=="
 ---
 

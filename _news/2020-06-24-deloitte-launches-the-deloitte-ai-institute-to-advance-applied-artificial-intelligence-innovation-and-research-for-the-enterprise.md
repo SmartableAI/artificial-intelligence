@@ -1,39 +1,59 @@
 ---
 category: news
 title: "Deloitte Launches the Deloitte AI Institute to Advance Applied Artificial Intelligence Innovation and Research for the Enterprise"
-excerpt: "Deloitte today announced the launch of the Deloitte AI Institute, a center that focuses on artificial intelligence (AI) research, eminence and applied innovation across industries. The Institute will bring together the brightest minds in the field of AI to apply cutting-edge research to help address a wide spectrum of relevant AI use cases."
+excerpt: "Deloitte today announced the launch of the Deloitte AI Institute, a center that focuses on artificial intelligence (AI) research, eminence"
 publishedDateTime: 2020-06-24T12:00:00Z
-webUrl: "https://apnews.com/PR Newswire/c0e76b7b4ac4a3567504eaff48a3d770"
+webUrl: "https://www.prnewswire.com/news-releases/deloitte-launches-the-deloitte-ai-institute-to-advance-applied-artificial-intelligence-innovation-and-research-for-the-enterprise-301082507.html"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/379251/Deloitte_Logo.jpg?p=facebook"
+    width: 1612
+    height: 845
     isCached: true
     title: "Deloitte Launches the Deloitte AI Institute to Advance Applied Artificial Intelligence Innovation and Research for the Enterprise"
 
 related:
-  - title: "Cape Privacy Launches Privacy Platform for Collaborative Data Science and Machine Learning; Raises $5 Million in Seed Funding"
-    excerpt: "Cape Privacy, a privacy platform for collaborative data science and machine learning, announces today the launch of its open source platform as it sec"
-    publishedDateTime: 2020-06-24T12:21:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200624005055/en/Cape-Privacy-Launches-Privacy-Platform-Collaborative-Data"
+  - title: "Grid Dynamics Announces Partnership with Dataiku for Advanced Enterprise AI Solutions"
+    excerpt: "Grid Dynamics Holdings, Inc. (Nasdaq: GDYN) (“Grid Dynamics”), a global provider of data science and digital transformation services, today announced a partnership with Dataiku, one of the world’s leading Enterprise AI platforms."
+    publishedDateTime: 2020-06-22T12:00:00Z
+    webUrl: "https://apnews.com/1559d38449344e1ca7953e4cf5a474a4"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "IPC and Digital Reasoning Announce Global Strategic Partnership to Deliver Most Advanced Voice Surveillance for Financial Services"
+    excerpt: "IPC, a leading global provider of secure, compliant communications and networking solutions for the financial markets community,"
+    publishedDateTime: 2020-06-23T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ipc-and-digital-reasoning-announce-global-strategic-partnership-to-deliver-most-advanced-voice-surveillance-for-financial-services-301081500.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/352841/ipc_logo_strapline_cmyk_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
 
-secured: "bEFC7RxfRYQZ0vGTkZfgTsaWseC3c9JY5Pl5Rs510mIwfMGQhAfRsh2kM8Izz5z7P35pi/yZljH8Onpg7FwGVhnLiNsNsGuAEyfCg1dI2uAvntsJyG0h/Q0JX5P0XnChU4z2Qo31sMauXzMSrS7a7wWlE3XesNWuCMRl2fwL5Lv19koIKFo7mSFkMqBA3TTItbvVtLZA5u3S+MpEx0YHltav/xaVXvFmBBszXMSyH+MI4Mh8i7wpi+T9L8eYvKWPZ3QRvL+nkeyLLs9r64rO1xmH4+Fkvx2qswN4Zf5Q5+xAcA+txDvGDllqQZigJbyGzV6uG8deNyhbf+WTGiRr2A==;AhLP9HkAXKO0OsivxV9cAg=="
+secured: "WzA5azZDEeNJ/naFcBN6MM12G4t8DVNwFTJhdB3Iiv8EAL7hoR6I2rIx5lNhYz0t9GxY4OvU+tgAW31WHpc9yLRIcZ55FrgK2U8U4SrUIIkwg0AKjHUGZcElLHK2XtAYLpE7wocS7ENN6uj3/WehWkPzzTFetB4lr6Ez0MFuwb0x+J4KUqAQkUwDsivf93FE3gzfC7xMEGUUOgFzFl/HUgtTriM/DCDuWEQJgb0A9QBCH5NoYu7kfHQ0z5B9chRAd8YxyMdv4uGOMy3omdnRjXuEz0mEXp9U5VfsTNGJUUo0ASrbZHJ8zImBs1KGIJTHdYxM34DVpn6XvxU5e9IzvA==;apfDaUsg8csF28KUsdqrwQ=="
 ---
 

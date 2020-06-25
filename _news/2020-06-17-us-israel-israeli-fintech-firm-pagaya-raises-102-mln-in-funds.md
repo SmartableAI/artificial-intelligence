@@ -1,22 +1,25 @@
 ---
 category: news
 title: "U.S.-Israel Israeli fintech firm Pagaya raises $102 mln in funds"
-excerpt: "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round. TEL AVIV, June 17 (Reuters) - U.S.-Israeli Pagaya, which uses artificial intelligence (AI ..."
-publishedDateTime: 2020-06-17T09:06:00Z
-webUrl: "https://www.nasdaq.com/articles/u.s.-israel-israeli-fintech-firm-pagaya-raises-%24102-mln-in-funds-2020-06-17"
+excerpt: "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round."
+publishedDateTime: 2020-06-17T09:20:00Z
+webUrl: "https://www.reuters.com/article/tech-pagaya-fundraising-idUSL8N2DU1DP"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2DU1DP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2DU1DP"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-secured: "EDNV/bI2IUwRA6r02pIuGTdu0upDIBqw8Sc6VoVNBP6LdCzMUZHDtgBir0iyY6LJ/A3LkDko7Fb29pF5GwwT3uNnWPdUs+SCFUhHLYtKi7LcAHp5WJtm1srNXPHb9v1ODab+HunQ+OL5tVtMz0f4prklpMNGpzCeeVlq2nroM9e/B46PHg827VKLtYs+1DR0mKGeOyv29oZekOAHBeRZ/RbQomgOGjg5fPlwaXz/j4mETbX/mxZgYM/H7UF5Dp21UkGdTMUi7BQAACaDdJ29hRr624vuvCJIwaUcUhekgkUCYnFMKJFTXFwOo0wdd/+lQfjtccO1XOJUBDddwCUo1ePgZ2QdkQ6NM7ezwrkjhzHCHJSQErErVQ4wjDd9azarrfTSp06yRlnBB/e3hQ/aGokZIObvFLy6KVjCdD2RKdSUrEd+eI775lcSwDqVcdw9JHJvtp5DRa3IzirGswXlwC9QsuWotRiQ0PAK3Z4hSPuT4uziTJdWce4AAB/0Mv3n/d9n+pXja5rYN7C7KDlVog==;/CRe2aq7XwDqiHIpF9AZPg=="
+secured: "ANvT9OkksOMwBfSUd7x/Nxjh6Q4rD9/Y/6d1mEhtb7UEeBmNamD3GofIqH9y2bZ/4xsXqrN9dMx38WQ6UsHiVk5pOlqGDWASv1LfD6aQra9JO2uHvJ44lsf0dTvAVTPTgY3RNBGMKgixPcNSYZ49IUOUD1b0dH3yNYUFaBsthw1ERhy/Zg5MHD94hGJSMfmgqmCkML8iORKHbFaMTBbXjbo3o2Q4B5tLA38sw4Bg0Ry5596iEsWlGF1Bqbf+J4Q3Slo5JBkVMyVE8DrH3Vp6ehI6cntkk5wzirdKFmcTggI/UjxHWG4lY9+AWQNpztEw1VHdpRe8d4I6NIFToczNoQ==;54edJ3F1A+wr1D1PL8qR1w=="
 ---
 
