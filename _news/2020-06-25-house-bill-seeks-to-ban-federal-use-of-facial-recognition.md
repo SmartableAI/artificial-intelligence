@@ -223,6 +223,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Democratic lawmakers propose nationwide facial recognition ban"
+    excerpt: "Four Democratic members of Congress unveiled a bill Thursday that would seek to ban facial recognition and other types of surveillance nationwide. The legislation would prohibit federal agencies from investing in facial,"
+    publishedDateTime: 2020-06-25T18:28:00Z
+    webUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/"
+    ampWebUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/facial-recognition-crowd-getty-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Boston Just Banned Its Government From Using Facial Recognition Technology"
     excerpt: "Citing “racial bias in facial surveillance,” the Boston City Council voted unanimously to stop the use of facial recognition by public agencies."
     publishedDateTime: 2020-06-24T18:03:00Z

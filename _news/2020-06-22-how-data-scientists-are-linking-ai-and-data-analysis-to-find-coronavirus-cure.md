@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/06/22/how-data-scientists-are-lin
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/22/how-data-scientists-are-linking-ai-and-data-analysis-to-find-coronavirus-cure-syndication/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     height: 417
     isCached: true
     title: "How data scientists are linking AI and data analysis to find coronavirus cure"
+
+related:
+  - title: "Pivot and Persist: Analytics startup uses AI to monitor social distancing amid coronavirus"
+    excerpt: "Amid coronavirus, Pune-based retail analytics startup Glimpse Analytics has repurposed its AI device to alert in case of social distancing and occupancy limit violations in stores and offices."
+    publishedDateTime: 2020-06-26T00:16:00Z
+    webUrl: "https://yourstory.com/2020/06/pivot-and-persist-retail-analytics-startup-social-distancing-ai-coronavirus"
+    ampWebUrl: "https://yourstory.com/2020/06/pivot-and-persist-retail-analytics-startup-social-distancing-ai-coronavirus/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/06/pivot-and-persist-retail-analytics-startup-social-distancing-ai-coronavirus/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 47
+    images:
+      - url: "https://images.yourstory.com/cs/2/b094ec506da611eab285b7ee8106293d/Glimpseanalytics-1593072975675.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "LyLXYAX6GmdBjxjjZMYSlGSsZu4HpeBdY/UvNwukg4DnN4RFaEUp8As4xBO8qtFfoEzbIo/eMPDwFuE+rcoo+zqjSwPZQnJPT3WPJiIFcviTQ7lufhgP0VBgitE+a6ZSE/rZmeA7e31HmyPBnM4M8r6eT43ImPRhxFIV/X6qku+cwCIUse1ZiWHoJ4aN7KIsCDkS68r5V3Ug9BzWxg/ztm8HPXOb0fT/QnfHDOVqIgk1KImrLd4FbrS0BOFqtXVdM6RMAKvD2Sk7wMHHHPbtrbgDjgmykTW/Rs+HK1DK2/GMR6if0YcALhEH2v70tatLUdvxLHiW2CBY8erLrwzVB4v+bYhq4of/fJ5o8aiMv5QqRsoYj81pD7PwOWGeiIhtczVKrcZE+fqRqBZGEPVUxbaXFfX+yCXedlwdHH9kVXSCanUc8wBI6HAVpCr7Ce1V5fABNnwspGMU1k6SMz6MDJcBiV2CppSZSgICCjN43H6o+2DMJo3l/R6Gzl92RLyHBtuGuRAfOZxtpa+COL+Vyg==;5QG++EvEyXug/L9mziDw+A=="
 ---

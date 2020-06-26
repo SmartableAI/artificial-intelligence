@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/flawed-facial-recognition-system-sent-ma
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp"
 type: article
 quality: 104
-heat: 474
+heat: 484
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F06%252F25%252F2e%252F415e4b59be1c4226b4741302a64266da.f317a.jpg%252F1200x630.jpg?signature=9Ma1jAJL-JsglwgBXLdTrEngcYg="
         width: 1200
         height: 630
+        isCached: true
+  - title: "Democratic lawmakers propose nationwide facial recognition ban"
+    excerpt: "Four Democratic members of Congress unveiled a bill Thursday that would seek to ban facial recognition and other types of surveillance nationwide. The legislation would prohibit federal agencies from investing in facial,"
+    publishedDateTime: 2020-06-25T18:28:00Z
+    webUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/"
+    ampWebUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/facial-recognition-crowd-getty-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "House bill seeks to ban federal use of facial recognition"
     excerpt: "Senators Ed Markey (Massachusetts) and Jeff Merkley (Oregon) authored the Facial Recognition and Biometric Technology Moratorium Act, which Reps. Pramila Jayapal and Ayanna Pressley co-sponsored, according to Vice."

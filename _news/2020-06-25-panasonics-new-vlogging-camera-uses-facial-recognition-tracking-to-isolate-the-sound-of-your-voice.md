@@ -5,8 +5,8 @@ excerpt: "When shooting in 4K, however, the camera can’t utilize the entire se
 publishedDateTime: 2020-06-25T19:55:00Z
 webUrl: "https://www.popsci.com/story/technology/vlogging-cameras-panasonic-g100/"
 type: article
-quality: 25
-heat: 25
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.popsci.com/resizer/x4pD98Ruq8aNyMPOG-HLszF6EiU=/1200x628/smart/cloudfront-us-east-1.images.arcpublishing.com/bonnier/RWEO3SZBSBHPBD57FA2LWWNUX4.jpg"
@@ -24,6 +25,6 @@ images:
     isCached: true
     title: "Panasonic’s new vlogging camera uses facial recognition tracking to isolate the sound of your voice"
 
-secured: "17YjikjMhriRtPLMfqHTcrdY9prryKcK81Ye2nm2XTseyj/dNzQeAi5P8qeK4mzF7a3O7WfrR0PyqJ1N9jz3wf83OkvoyQFveOXrTTNRMnJS2K9LxTsTQ+0EEteK0va+DHlUNBKBRfkLYojk1sqoZXnBQJ+Vfm76x1FWJqwJ+qIJ0s9tiaXCovhFVOlczcqc053znV8uxuZoyvbzYArcmj4HxBKQjDjphjbAFgrTGypV7tV0GfoIXiFxJcHgctz4Qe+ARv7rcMeLTZVKPV5Dyp0dkFrOpHwyOHlxu8EnQ4B14y4B24VHKPiPoZf0K/56y1oLr9bopvDXEsTXo1AoWQ==;QjlMRnj6A8mSKdmGq55khw=="
+secured: "4b4H4astTAYwazoZsKiDYW/4iffEiHjRewlEIrspeOvaXY7bLbg4LoHxABaNPwm829M4xpWAwhN519ESowouUS/AtDd87KMZCw/0UJm5FyEH2X8Idrrnos0z6U7HrIVyPgeGtIGE0fkqdoFgfOIt/3EOs2Rvo4o160tFK/GkiLKzIBjfiX2rp6vlrH5LC/56rQCo+xSsxWuwBf0gElyzfFf0uhAcVBTNGZ+HVMkeSJRaIEJqGBgBV2DevCRvfT9DlomJKRdciDXCxFdntTdwMlT4fH5P+HbOpKJEtGZpCWIcHWpUOCih1JebDThSkTLC4/jqu0m6sz8n2DryLGGuG390XkVxx+PudwyXFs5JHJ7+ffk12z6MToY3FpOAHO8vZnquyFsl2FzP87PP6OYQhOi6DJD1I+dxxh7i+1nf9ml0AKFeJ6BdgjOaQIhW8ipB+X0VacCDi9bxc8U1bI5ztfByxlYYDT+yBgOanbTT7ipurqGauAiCv36nsrjz5w0FqbfkRfejsYYcgzPbs5XBZQ==;GobND1Qn6Ff0LYedk1emUw=="
 ---
 

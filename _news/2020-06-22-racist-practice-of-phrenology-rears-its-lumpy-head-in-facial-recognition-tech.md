@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Boston bans government use of facial recognition"
-    excerpt: "Boston City Council has voted to ban the use of facial recognition by the municipality, joining a growing list of US cities to restrict use of the tech."
-    publishedDateTime: 2020-06-25T18:08:00Z
-    webUrl: "https://thenextweb.com/neural/2020/06/25/boston-bans-government-use-of-facial-recognition/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/06/25/boston-bans-government-use-of-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/25/boston-bans-government-use-of-facial-recognition/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 74
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-84-1-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "UK’s facial recognition technology ‘breaches privacy rights’"
     excerpt: "South Wales police accused of using system with ‘racial bias’ that breaks data protection law Notices displayed by the Metropolitan Police notify the public of the use of automated facial recognition cameras around Whitehall for the Remembrance Sunday ..."
     publishedDateTime: 2020-06-23T16:28:00Z
@@ -116,17 +100,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Boston City Council bans use of facial recognition technology"
-    excerpt: "Lawmakers in Boston have outlawed the use of facial recognition software by city officials. In a unanimous vote on Wednesday, Boston's City Council passed the ordinance, which will make it illegal for officials in the Massachusetts capital to \"obtain,"
-    publishedDateTime: 2020-06-24T23:01:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 24
 
 secured: "JxnusLuFc7AyyCfeZBK8gw+pKcpod7bPJU6PeMd30Lr6VTQwJkYIlGGkYWzCwKHRcEKGbJQ8NuXC4ouogRMfiKFA4niiA7Ve000yQsQiMxZ9nX9XkvIj1R8xQDd99X1ejc6MzTAgA/9PMsC0u27m7+9w9f7eaPKrmtwUszUkxM/iHiwr0zfMDP5BuE+08VL93zZSfOiEsolmtl/yj+L2k/zD8yH3sTseCkx+yfjGn3db6yqIl+ZEhDKEqRcPnPxCzgv1eCG4brDuGPVM3OFT/ts8IXXwcNQE3jtJytuQtQA/K6Y+JdwiAGci6/NdWMqEkiAvhJfBBbk4l44LzUrG1hBg//I+pxqTAhRVvKtxyizbws3BhwG5e2VhsbhnjAZ02dEwvr6sauH+icR6yTG6opBzHAqnkTfh7QJRJ9EcGM+Y04aGmdkSRhneRMwkSwwzvRKaiol8NgNN6dfdISf+2XMJnCRfCEbGuyYhIBLnN7TorbxBj2PNaJYuBllEJd0RiW5JFcSa/KjnvljA9TA89g==;tI1SjzPzPlQGwHaJXn6BoQ=="
 ---

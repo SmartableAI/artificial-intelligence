@@ -25,21 +25,131 @@ images:
     title: "Detroit police challenged over face recognition flaws, bias"
 
 related:
-  - title: "Detroit police challenged over face recognition flaws"
-    excerpt: "The complaint by Robert Williams is a rare challenge from someone who not only experienced an erroneous face recognition hit, but was able to discover that it was responsible for his subsequent troubles."
-    publishedDateTime: 2020-06-24T17:55:00Z
-    webUrl: "https://www.pbs.org/newshour/nation/detroit-police-challenged-over-face-recognition-flaws"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/detroit-police-challenged-over-face-recognition-flaws"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/detroit-police-challenged-over-face-recognition-flaws"
+  - title: "Members of Congress push to ban federal use of face recognition"
+    excerpt: "A group of Democratic Senators and House representatives have introduced a bill that seeks to ban federal use of facial recognition technology. It follows an incident in which Detroit police wrongfully arrested a man after a facial recognition system incorrectly flagged him as a suspect."
+    publishedDateTime: 2020-06-26T00:50:00Z
+    webUrl: "https://www.engadget.com/facial-recognition-ban-bill-democrats-182006734.html"
+    ampWebUrl: "https://www.engadget.com/amp/facial-recognition-ban-bill-democrats-182006734.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-ban-bill-democrats-182006734.html"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 59
+      name: Engadget
+      domain: engadget.com
+    quality: 91
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/06/GettyImages-1149113711-1024x718.jpg"
-        width: 1024
-        height: 718
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2Fce6af050-1fe8-11ea-b9bb-6e91861f58e5&client=amp-blogside-v2&signature=79939f8d1f2406b6a8f123e213fa81fc9f175876"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "Feds would be banned from using facial recognition under new bill"
+    excerpt: "Democrats introduced a new bill that would ban federal law enforcement from using facial recognition technology and make it more difficult for state and local police departments to use the tech. The Facial Recognition and Biometric Technology Moratorium Act of 2020,"
+    publishedDateTime: 2020-06-25T18:10:00Z
+    webUrl: "https://www.theverge.com/2020/6/25/21303355/facial-recognition-ed-markey-ayanna-pressley-ban-federal-agencies-fed-law-enforcement"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/25/21303355/facial-recognition-ed-markey-ayanna-pressley-ban-federal-agencies-fed-law-enforcement"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/25/21303355/facial-recognition-ed-markey-ayanna-pressley-ban-federal-agencies-fed-law-enforcement"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 89
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/im0bF6Wt0wvixDyM-9eYhRYPLwI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66982255/acastro_180730_1777_facial_recognition_0003.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Lawmakers propose indefinite nationwide ban on police use of facial recognition"
+    excerpt: "The proposed law would prevent police, both federal and local, from using facial recognition until Congress passes a bill lifting the ban."
+    publishedDateTime: 2020-06-25T17:43:00Z
+    webUrl: "https://www.cnet.com/news/lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lawmakers-propose-indefinite-nationwide-ban-on-police-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/frnYR1dnFZM7iRquJi9FF9Ccs0c=/756x567/2020/06/25/28bb78d1-6da9-4408-a8ea-5e06ec105b3d/gettyimages-869082432.jpg"
+        width: 756
+        height: 567
+        isCached: true
+  - title: "Boston bans government use of facial recognition"
+    excerpt: "Boston City Council has voted to ban the use of facial recognition by the municipality, joining a growing list of US cities to restrict use of the tech."
+    publishedDateTime: 2020-06-25T18:08:00Z
+    webUrl: "https://thenextweb.com/neural/2020/06/25/boston-bans-government-use-of-facial-recognition/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/06/25/boston-bans-government-use-of-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/25/boston-bans-government-use-of-facial-recognition/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 74
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-84-1-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "Democratic lawmakers just introduced a bill that would ban the use of facial recognition technology by federal law enforcement"
+    excerpt: "The proposed bill comes after civil rights advocates have campaigned against the technology for years amid growing evidence of racial bias."
+    publishedDateTime: 2020-06-25T20:01:00Z
+    webUrl: "https://www.businessinsider.com/lawmakers-introduce-ban-on-federal-facial-recognition-technology-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/lawmakers-introduce-ban-on-federal-facial-recognition-technology-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lawmakers-introduce-ban-on-federal-facial-recognition-technology-2020-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/5ef4ef202618b90ba25e4161?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Congress puts forward bill to ban use of facial recognition"
+    excerpt: "Several members of Congress unveiled a bill that would completely ban the use of biometric information, including facial recognition, by the government."
+    publishedDateTime: 2020-06-25T18:46:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-ban-bill-congress/"
+    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-ban-bill-congress/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-ban-bill-congress/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 44
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/06/Ban-Facial-Recognition-Bill-Congress.jpg"
+        width: 1828
+        height: 914
+        isCached: true
+  - title: "Markey Signals Bill to Ban Government Use of Facial Recognition"
+    excerpt: "Ed Markey (D-Mass.) will join with some of his colleagues to introduce legislation to ban government use of facial recognition and other biometric technology. The Facial Recognition and Biometric Technology Moratorium Act is in response to reports that law enforcement has been teaming up with tech companies as well as some of those companies' pledges to call their own moratorium on supplying it to law enforcement."
+    publishedDateTime: 2020-06-25T18:00:00Z
+    webUrl: "https://www.multichannel.com/news/markey-signals-bill-to-ban-government-use-of-facial-recognition"
+    ampWebUrl: "https://www.multichannel.com/.amp/news/markey-signals-bill-to-ban-government-use-of-facial-recognition"
+    cdnAmpWebUrl: "https://www-multichannel-com.cdn.ampproject.org/c/s/www.multichannel.com/.amp/news/markey-signals-bill-to-ban-government-use-of-facial-recognition"
+    type: article
+    provider:
+      name: Multichannel News
+      domain: multichannel.com
+    quality: 44
+    images:
+      - url: "https://www.multichannel.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTU0MDYzNjkzNTczODU5MDY3/ed-markey-4x3jpg.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "Boston becomes the biggest East Coast city to ban face recognition"
+    excerpt: "The Boston Police Department already doesn’t use the technology, and it’s now forbidden from getting facial data from third parties."
+    publishedDateTime: 2020-06-24T20:24:00Z
+    webUrl: "https://www.fastcompany.com/90520805/boston-becomes-the-biggest-east-coast-city-to-ban-face-recognition"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-banned-in-boston-city-disallows-public-use-of-face-recognition.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Detroit police challenged over face recognition flaws, bias | Charlotte Observer"
     excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police."
@@ -52,21 +162,46 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 34
-  - title: "The Latest: Detroit police challenged over face recognition flaws after Black man’s mistaken arrest"
-    excerpt: "The latest on protests against racism and police brutality around the U.S. and the world. A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police."
-    publishedDateTime: 2020-06-24T15:37:00Z
-    webUrl: "https://www.pressherald.com/2020/06/24/the-latest-detroit-police-challenged-over-face-recognition-flaws-after-black-mans-mistaken-arrest/"
+  - title: "Boston City Council bans use of facial recognition technology"
+    excerpt: "Lawmakers in Boston have outlawed the use of facial recognition software by city officials. In a unanimous vote on Wednesday, Boston's City Council passed the ordinance, which will make it illegal for officials in the Massachusetts capital to \"obtain,"
+    publishedDateTime: 2020-06-24T23:01:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology?_amp=true"
     type: article
     provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 25
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 24
+  - title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition..."
+    excerpt: "The city council unanimously voted on Wednesday to ban the use of the technology and prohibit any city official from obtaining facial surveillance by asking for it through third parties. The measure will now go to Mayor Marty Walsh with a veto-proof majority."
+    publishedDateTime: 2020-06-25T00:08:00Z
+    webUrl: "https://wfuv.org/content/boston-lawmakers-vote-ban-use-facial-recognition-technology-city"
+    type: article
+    provider:
+      name: WFUV
+      domain: wfuv.org
+    quality: 24
     images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/06/Racial_Injustice_Facial_Recognition_37415.jpg"
-        width: 1000
-        height: 720
+      - url: "https://wfuv.org/sites/default/files/logo_0.png"
+        width: 342
+        height: 240
+        isCached: true
+  - title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition Technology By The City"
+    excerpt: "Boston is poised to ban its use of facial surveillance technology, becoming the second-largest community in the world to do so. The city council"
+    publishedDateTime: 2020-06-25T10:25:00Z
+    webUrl: "https://news.wbfo.org/post/boston-lawmakers-vote-ban-use-facial-recognition-technology-city"
+    type: article
+    provider:
+      name: WBFO
+      domain: wbfo.org
+    quality: 21
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202006/883132109.jpg"
+        width: 800
+        height: 450
         isCached: true
 
-secured: "+6SAwGG6YtRtRU35gc8Gria5SjsHoDDpCU1Kl2PjN6AWTNjxvoAHNk+MDs+OxktE/YI+nQ1M/9Uuyh13QzOXJW7oMdzhek9AXA6mhEEA8p6vBYXF/bQnaACw0Ysmie1KmM2YkfAoTCexVd7/3QkyEA8vsnsTEFWRIQjyyYL+t9DBZ6M3sHqwRJDevDzUSHOj3a4/v99MRzL8kP9TQYlkDELDLPSMY7lIcZ8tONDMcRoPnelf/69tL+O1dDV/AKMDCMH6xEqhanXphWLSpqLczqlD6romoPgBHsUA9431RbiPRLFwn19IOrxoRP2LVuDWLLh/cS2+VX0lU3n8IoZIJQ==;DvV//xe/1duKwDmLaCy3lg=="
+secured: "jFcPSh8Dxicx8gqofIlVRf/zLSi3ZAF1Ftag2PGoPFK1zxgWQzTYuZlDdZhk6Z3QVHSRBlRoky0ajuboS+ZhPJLvM+L8TJ2gsgZVnPgQXZ9mLcW6O89chisJk26nNBT1SN4BT/fCDjSAGnWzvaChDcnRT8v9CxXMkog4FWCtfE/EbkUbUWZvdV9pge0+AmBDUjKFY6bywApKxTQoh7Zp3o5Qt7racEe2t3Otc5MhIbfmorsRQfDeFhyreyZlURh+B5GchsbO20K41ZoSkhkthqaV8GcttFBX+tENLMWGYsJ9xC2OM/1oz48WFUcHhuaHK088Ca+9gDNYEo9O7CFJg/zLQrp18SGhcaJFcnE6afbxtDVX0BBYmt2cfejxyL/NyjdqwI+moXSrtwkZzHHrO+fro4KS+kKCjctDaouOoLQT1Eg39g5ia8klpv6D8C8MW4u81ZQ6K36qOFCqKXthhV0S97vD/G4vwquTTtNAKQ5/KX+LYh4ECudl4OLW3XjSD9yvdC/bBPE4rvRrunc0Bw==;o/6Q9Jw85nRkRRl2A+dw+Q=="
 ---
 

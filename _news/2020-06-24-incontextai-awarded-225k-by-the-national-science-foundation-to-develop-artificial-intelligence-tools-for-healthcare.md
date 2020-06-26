@@ -24,15 +24,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Telefonica and GE Healthcare ink AI collaboration deal"
-    excerpt: "Telefonica has signed an agreement with GE Healthcare to work together on the development of joint projects in the field of Artificial Intelligence applied to health, medical imaging, diagnostic solutions and big data in Spain."
-    publishedDateTime: 2020-06-23T05:07:00Z
-    webUrl: "https://www.telecompaper.com/news/telefonica-and-ge-healthcare-ink-ai-collaboration-deal--1343495"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
   - title: "inContext.ai Secures NSF Funds for AI-Based Healthcare Tech Dev’t"
     excerpt: "Texas-based healthcare information technology company inContext.ai has received $225,000 in funds from the National Science Foundation (NSF) to build artificial intelligence-based healthcare tools. Robert Grzeszczuk,"
     publishedDateTime: 2020-06-25T20:55:00Z
@@ -41,6 +32,20 @@ related:
     provider:
       name: Executive Gov
       domain: executivegov.com
+    quality: 54
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2020/06/25/87/ad/3d/a7/79/5e/a6/34/incontext_logo_20200625.png"
+        width: 272
+        height: 270
+        isCached: true
+  - title: "Telefonica and GE Healthcare ink AI collaboration deal"
+    excerpt: "Telefonica has signed an agreement with GE Healthcare to work together on the development of joint projects in the field of Artificial Intelligence applied to health, medical imaging, diagnostic solutions and big data in Spain."
+    publishedDateTime: 2020-06-23T05:07:00Z
+    webUrl: "https://www.telecompaper.com/news/telefonica-and-ge-healthcare-ink-ai-collaboration-deal--1343495"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 34
 
 secured: "RMKhh/3JVUQ2cA+xXvQRCT+k7xRN4LLL4tziA+dpv+NkSBpTVYecBIZHt/izMgfV/XJcmttE2Wwd+l4Jylxwt3vbBFADiqcetranQtzeKS5JlwsE9RjywCAiAPqU2ccaPoTURJhuCy2C81POfkSwJoT/1yiWsGWIdAWQizXcbC8uHbw86zrLkL+h25eGs0UIzMWWCdENEsm7DRnnanzOGRvxD6391EMjYVWjpdH7I2FpzMmz0oB5kGEkBIZlT6LRRJ4kqD87PbtPiw/9eKY+uqhEWmmxHJcB4ktGu6hepJb4uZk5Vsb9cUroeAfyhKKHcGCl0JIAkBlrwQxKLaocxg==;s9s9NtKmWzl+AHQc9V8PkA=="

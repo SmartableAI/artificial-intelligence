@@ -3,7 +3,7 @@ category: news
 title: "Human rights activists want to use AI to help prove war crimes in court"
 excerpt: "In 2015, alarmed by an escalating civil war in Yemen, Saudi Arabia led an air campaign against the country to defeat what it deemed a threatening rise of Shia power. The intervention, launched with eight other largely Sunni Arab states,"
 publishedDateTime: 2020-06-25T16:23:00Z
-webUrl: "https://www.technologyreview.com/2020/06/25/1004466/ai-could-help-human-rights-activists-prove-war-crimes/"
+webUrl: "https://www.technologyreview.com/2020/06/25/1004466/ai-could-help-human-rights-activists-prove-war-crimes"
 ampWebUrl: "https://www.technologyreview.com/2020/06/25/1004466/ai-could-help-human-rights-activists-prove-war-crimes/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/06/25/1004466/ai-could-help-human-rights-activists-prove-war-crimes/amp/"
 type: article
@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "Human rights activists want to use AI to help prove war crimes in court"
 
-secured: "+k2Jp8n0I4dP7599OC+Q6FEbKS5h82if7k1wRWft0bnd5ISA9uwUJuUF0HWNM3OQ8mhRWk8JAjqRPC5PHlpqG6sNbG2xBX+B2ZV5Fe2SSAJSA4O2xblkgrnhZjnOS/tJrist/4Qy+wBACIs5cW6z43p3C+cdDbYnIowFTQ8I5Cuh6/fWWvCTuoz9nQaRkHwO6Dc8VyCDPFgax8yyC+WNXOtves3R2e++4e354W56xnFM8TxHP5TqPdMuu9tWzVjpGymVR6HSR8NhEmas9ZkSnuuxR/RZLvRUW0j31A0MjtKve3Qd0XHVXCoZIIp+diOVtT46y55clDzLONUANeWb1nivW+ypkZGemwaRVnLwKjaduXsfhMZyJen0shPrJUiw3MqGcfVN9hqeSKF9jOyrI6aoq59vJnrXox3XLWAKgOXz6L5S8GkVthw1kh5r7/VVfOvUSIHgNmW7iQTamlVmADTLsXuqng6WX+lCbrnMy1WKrJjXvOlXsHTzERAjvPkYhYwmx5e8VX84zi1Q5WnOMg==;TrFyyjqIMgoF96z3dzHmAw=="
+secured: "GXut5R81UHm2+tO6H4PYaBX343zM+4tjBgWKfjwHYhcYHetrc6lrlB0/4Q8rGqD09KK5YA8PqWHHCvLaLXIn1+aO6u20OX5DNSP0jaNARy3BTBTZ/QCcjoLnFruKcXhUyyQh+U+hWidWGK/NVVsEqBd8CogbxLsGBI5b1M64mAsP0IKd+CE5iBa42oAmeth/nc8ZlWbUmV5czBa0eYf9ghj9KovSbpdBL3S5R1lcy/nUPqepVhbURAIR/ysGwLA8VIQzIGFN3HU0Lo8+11oKTpsxti3bW1InCATUgIRbiW7ZE9HwJ948CuwN0X7LEfUFDmKr/7mZ8tL/RWeXNmX3hA==;FMF7THSoevArZc+3DrnsLw=="
 ---
 

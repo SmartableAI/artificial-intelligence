@@ -203,6 +203,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Democratic lawmakers propose nationwide facial recognition ban"
+    excerpt: "Four Democratic members of Congress unveiled a bill Thursday that would seek to ban facial recognition and other types of surveillance nationwide. The legislation would prohibit federal agencies from investing in facial,"
+    publishedDateTime: 2020-06-25T18:28:00Z
+    webUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/"
+    ampWebUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/facial-recognition-crowd-getty-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "House bill seeks to ban federal use of facial recognition"
     excerpt: "Senators Ed Markey (Massachusetts) and Jeff Merkley (Oregon) authored the Facial Recognition and Biometric Technology Moratorium Act, which Reps. Pramila Jayapal and Ayanna Pressley co-sponsored, according to Vice."
     publishedDateTime: 2020-06-25T18:23:00Z
@@ -582,6 +598,6 @@ related:
         height: 341
         isCached: true
 
-secured: "hp0GniC32KsQm/MATA9l5cNbHJhSe2r+u/6bRtJBApOx/6B4+GWFKgRRSvPy8lEwm8gyA7a1DsR1wRR7aw1pdRvBiQPvgNmKZc2jtF8H8HfZmnkYyhbF1KxzAXAyjxmH+FGCHOZQZ4t3HGUiq3u0DfxtMXY+nLO4edVeXiHGEJeBHRp+l2ygRpXfVk9FRlUA6LJVzq28HkcS5pHi3gIcXbIXRRM1TiVagjvpaIewUlfjHuC5R5PPCKO2gvU3bJwaYkLoPcGdvUeTR1YAc5up+8eV1biywF4L76hsggTHQhsuNXU0fVf2jZbhshSGSxXr9X+/JShyoqu/0fTYcaj2AA==;0ESBU+88mk6bHkCPs8mVyQ=="
+secured: "81R96NKTNGLja+xiT8Zf4moaveSq0m4iYoezv0sC35lVsi+oj8haxyUc5vh1aj/FQOrnaKTwdefD8cOyc2DLWLwJAVdMwYsC9e1n1tbM5h0qV3OPKQsTFf5gx/Uk0MhrlF4OJAbkRxLncCkp7kPTP/HpRLchcF4gJfLWoPgUFafJCgkqIGoCUJ1Brbt/rgo+FJLPJGJAYcsqoczbh9RP5uXbn9HMxVJrs/luiD8f1fqjDETFFW8PaZdlv6QyO3BLswdKezX7afCZw0vSIqYK77Nq0Cyu1SPs6tZPV0Gu0BagqszktH16YvDRakmI7SSM69GRmnO8wBDVp8iR0HxXfGKojJY3NZedmBbPTYyyGEApKXSfGEA+Aa5M89okpsoiN25NLLftjAeYJmJEKUMNatP0dO9Mef3VnewLwPrB/05qAltqgeOjV2121OLtNrSCNFESKN4v1aQVu3YYJNVT1bPB1Zfc0R9udJsw/q6HTppMi+QZ0HDe0xB1l9MWyvNQ1d++I2e+0H7LfscKZk/nfw==;2JVYjiTqsh984QbGC9QH2A=="
 ---
 

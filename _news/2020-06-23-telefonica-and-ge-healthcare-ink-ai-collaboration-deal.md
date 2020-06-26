@@ -37,7 +37,12 @@ related:
     provider:
       name: Executive Gov
       domain: executivegov.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2020/06/25/87/ad/3d/a7/79/5e/a6/34/incontext_logo_20200625.png"
+        width: 272
+        height: 270
+        isCached: true
 
 secured: "UsoqlmhnDFM/YdJzm0IAnE3Z5thDNrTuV75IPOv7f7rhLv9/6ViC1eHoArzaV+CXY1+3/NeRUlHgl+f8OPr9NbpZdHqOwciWmW3XJsTz3S+FwFza3phUmf5ic1So2qkEPkCsOhlKWmWF1TSsIO8icwfpPmBGIt0c4cVmDZnYsm6PGZ67H3aJL4MUNY1q484dljYLmD5n0zLql4+Zj11xMUwoleErRpV8liaUWSVNuhmK+FkZ/2pF0E2ZuTSmKzp6s5U+QzTxceexDwFleDRpGqyYc0wQIVJRo9PIw58oIRZz9JojYaxytdeCmo9cE4X7qeqeEsQWiuvnA2h3DUL6qw==;sTyR41cpgVHAEPoQv1qiHg=="
 ---
