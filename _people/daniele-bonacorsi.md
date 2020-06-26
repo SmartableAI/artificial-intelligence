@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Daniele Bonacorsi"
 
-secured: "PmfAPXqWSO2wsziUb6+pC37TEv3MsR7rMRRvpQizhL9wtgZWTRpdU+8k/1p/0cEhknMhenVM8n3vmV8h5/+eo9w+sKmguYCCDNyDMavE1o4QinuyGKox6CsprrXWyLlFM/svOX7gTZNvPjBddb2orVa32iKMk0xqxbrZ/8EclzuY5yVS88ic50MjMEvzqUxA5Uc7juMSubV3gdbJ4LVjHfcDyuRSLBsMLrsr1PMAc/v6T7lMRSgm1aiBmDAimYrT1NuBF8pK1lcgdvr6N5Fww0dNEeT1MKfRg+q7IXUI5jZudZ66ZK/3/sxhczXUz+2k1t8WV7psvzcS2cQD0ydR3ZcfXUo7KeygtcxRz/UIE5vTbd6gLofrLUM3l+EQJyu7;AOpSAf/qR4+wpCxCbLTcAw=="
+secured: "dxUKFafdNddX2OtdFAuePErfxQyNHg2LB+oNlw/yw2T4l4fXSIe9k+9OYvv4hjW2PUmF7ap7tVA0XGWBvJShveWCZAftFLvk73nDafaPOghHmu/loIs72C6h38HpQzcTbVxfw11eWodIEJVkEQMgdeGetPw0Zs/yRMt6EUsjxYsPGR5Jwx5zspm4k23AgIxZ+Ghiyk+nXsu+p+vZ0sG5gMQBZs8TOxpw8BEvBzMdC4fS2+1XD9Q9nuvu3s6F6+tQ+HULPc876O+xo80UOkcugAzWxQzDoG87gYaZ+WLUDy2hrH0CMQ2SGDq6tnjrssEH0eH2xEoCP8nGeOew/MBwYf66UZXntdGfsAKfhhWYYXzBFBbsLWUVB7QV6+7KOID3;KoUZ7FS6gtVv85d1r0nhqQ=="
 ---
 

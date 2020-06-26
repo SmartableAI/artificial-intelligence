@@ -3,7 +3,7 @@ name: "Javier M. Duarte"
 bio: "Lederman Fellow, Fermilab"
 location: San Diego, CA
 type: "profile"
-heat: 41
+heat: 58
 published: false
 
 affiliation:
@@ -32,6 +32,6 @@ images:
     isCached: true
     title: "Javier M. Duarte"
 
-secured: "Z3dF2339y1Nj60RW5cqB0RBhJbZRO2OBC+YaAOGL9SxayFWwOK3SkgLVX/7Yv+2zCx2WMRVzwzY5minBDXqYURJRf9I89nHOiW6/Y4mDmEBXWYXgA+McvJReOBQkq0tWFFJxQ02cobbvzUV8DoucK+rrIXuHNqQ1QJyRv12DYiZy0ZkghCCce6upk1a8bu7FPJE933QwD50jke61+b9cBnqoyWTVzf5DatiJ714G8HZmNRSUds26bGf6wEKBGd3c931JtLmlQIrxE3zvJtNQMjyqCaAsYd+RUJt6NWFGg6xHjWOS8WZvh0jJHfZVDp/7ZoazFdBNKcpvriLf3gv10Mfo7LHSs/sLsDHzXmctnns3C6KCuefE+vpcYyoSbkaK;/qpMbEhdhRonwA++dhcezA=="
+secured: "LyDxj8Xln3Eq2V8hzC1JU+HdKkuuWW+1Q3yNx6DSt7JpCnbNRXd5/FQ5HMTUbpJ2gIE67iqqs8Sk5W/LyaXmZpEi+ZAYxSFj9uhEgnqYYYYmRu/fvKIECeUv4u3DSbwCCdOeAILsgvHxjvHsAX2CfMwmaIfwCCdl3Viojqc1iDIoO/dwOJcTipVeIyETKlrGRYBeQuFgIXJetD90wCY71FvAR8C4GN5tZzW/omZBk9zzklerqHYAuj11dCa7fcU2pZdbsad5ufpfdM60957NW42qix46vnggK0aG9ZglOY4A4T5UYitCQ6iM8J1HDze3qqtSwFPV74RKt3d2uM5mPI5eyVXdQ4fzwwQArW/GQITLWBVDpdkCBckqqnYG+5JE;L4sfiveO6IFGWhUWLwfGMg=="
 ---
 
