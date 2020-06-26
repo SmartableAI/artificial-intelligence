@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "AI Weekly: A deep learning pioneer’s teachable moment on AI bias"
 
-secured: "DAYzT4HnaQbSk0KRf2EX6V9YabaKKmbthn7sqgjEsyU8fFQYj7tc28jumWb2sDwvatBJSWCk0wyFoqEUHnpY0fTLr8RWbTBO/wOdmUnsRJCe/pB2opoObueGELyvKN6MicBhrApfr5Yp/ylBtZNnnJtL6SARan593ssJmzbz9X8LjBKNtkRqhG9yIq/N50S90BzsJXfmgk6OCF+/L7Sqn8uLQrgkbzuL55jH+qN/KpGZeIIKXo0Om23P7mMQfQNkD7xXKc8w7x2ooq6CgPRdcKqbxwSfOCzNhHpDx9gnaOiUPd5K4EShZ41xuxzXfg21hlRTmTe4RDC6YSeVSUUElg==;71wvNf1y5j8vDO6co0I7Yg=="
+secured: "+e/W6x3xfXfFChPe051H76yKU8UccWRkRgDaSMRZhvfErb4SbOamn9FSNxZykyqov/zbMa3rgpksDR9oJyxbfoT9A7uNtgJnYw78k4ikzplUVHL5eDPHnpjBL3W1RRVadhiepCzD0RGXtkwGcbaYy1DnL/QWFo9paHYlBrQmdrL3PpcEOH5nSf4w/Sd9w0ng+JeQ1YABZWuLEcD3xJ7GHQz9jwdfmuGk+E643NmIfz3iN+0uYKM7nKuYWN7eYuB7vVMdoh5aIO8mNr8fhuitauNjN417Cd25eDSFVLZeTvAw+BS9Hq8dEOu74augQT4XV22b9fmC9ar/WBlYhZzIqw==;Eb4OQ0EuV6D8aTyrNiIqCg=="
 ---
 
