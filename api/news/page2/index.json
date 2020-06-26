@@ -2,6 +2,148 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-25-apples-ai-plan-a-thousand-small-conveniences.md",
+      "title": "Apple’s AI plan: a thousand small conveniences",
+      "excerpt": "Sprinkled throughout Apple’s announcements about iOS, iPadOS, and macOS were a number of features and updates that have machine learning at their heart. Some weren’t announced onstage, and some features that almost certainly use AI weren’t identified as such,",
+      "webUrl": "https://www.theverge.com/2020/6/25/21301511/apple-ai-machine-learning-features-wwdc-2020-convenience",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/-2YBHYjho09Yd9WWECA00opzEn8=/0x0:2556x1634/1400x933/filters:focal(1074x613:1482x1021):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66979576/Screen_Shot_2020_06_22_at_6.54.32_PM.0.png",
+          "width": 1400,
+          "height": 933,
+          "title": "Apple’s AI plan: a thousand small conveniences",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/25/21301511/apple-ai-machine-learning-features-wwdc-2020-convenience",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/25/21301511/apple-ai-machine-learning-features-wwdc-2020-convenience",
+      "publishedDateTime": "2020-06-25T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-if-done-right-ai-could-make-policing-fairer.md",
+      "title": "If Done Right, AI Could Make Policing Fairer",
+      "excerpt": "Li herself has ridden the ups and downs of the AI boom. In 2017 she joined Google to help, in her words, “democratize” the technology. Not long after, the company, and Li herself, became embroiled in a controversy over supplying AI to the military through an effort known as Maven,",
+      "webUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ef419aeaf3d0a069fd1d59d/master/pass/business_policing_1175954210.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "If Done Right, AI Could Make Policing Fairer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/done-right-ai-make-policing-fairer/amp",
+      "publishedDateTime": "2020-06-25T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-ai-is-now-a-c-suite-imperative.md",
+      "title": "AI is now a C-suite imperative",
+      "excerpt": "Machines can work at infinitely higher speed and the pressure on the C-suite has never been higher. Now the execs are turning to AI to help them make the best decisions in as short a time as possible.",
+      "webUrl": "https://www.infoworld.com/article/3563885/ai-is-now-a-c-suite-imperative.html",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/priority_high_priorities_importance_important_urgent_thinkstock_680720450-100749329-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI is now a C-suite imperative",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3563885/ai-is-now-a-c-suite-imperative.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3563885/ai-is-now-a-c-suite-imperative.amp.html",
+      "publishedDateTime": "2020-06-25T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-startup-genome-80-regions-have-produced-unicorns-as-tech-democratizes.md",
       "title": "Startup Genome: 80 regions have produced unicorns as tech democratizes",
       "excerpt": "Startup Genome warned of a “mass extinction event” coming because of the pandemic. VB Transform 2020 Online - July 15-17. Join leading AI executives: Register for the free livestream.",
@@ -239,7 +381,7 @@
       "title": "A Flawed Facial Recognition System Sent This Man to Jail",
       "excerpt": "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used.",
       "webUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/",
-      "heat": 484,
+      "heat": 494,
       "tags": null,
       "images": [
         {
@@ -993,137 +1135,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-un-telcos-in-africa-take-on-covid-19-with-ai-and-digital-service.md",
-      "title": "UN, telcos in Africa take on Covid-19 with AI and digital service",
-      "excerpt": "The United Nations Economic Commission for Africa joined forces with a group of telecoms operating in Africa to reach over 600 million mobile subscribers with coronavirus health advice.",
-      "webUrl": "https://www.cnn.com/2020/06/24/africa/un-africa-telcos-coronavius-intl/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200624084633-02-cameroon-coronavirus-0306-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "UN, telcos in Africa take on Covid-19 with AI and digital service",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html",
-      "publishedDateTime": "2020-06-24T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-sqream-technologies-raises-394-million-for-gpu-accelerated-databases.md",
-      "title": "SQream Technologies raises $39.4 million for GPU-accelerated databases",
-      "excerpt": "Tel Aviv-based startup SQream Technologies raised $39.4 million in venture capital to further develop its GPU-accelerated database product offerings.",
-      "webUrl": "https://venturebeat.com/2020/06/24/sqream-technologies-raises-39-4-million-for-gpu-accelerated-databases/",
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/sqreamtechnologies-e1592865628671.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "SQream Technologies raises $39.4 million for GPU-accelerated databases",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/24/sqream-technologies-raises-39-4-million-for-gpu-accelerated-databases/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/sqream-technologies-raises-39-4-million-for-gpu-accelerated-databases/amp/",
-      "publishedDateTime": "2020-06-24T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-incontextai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare.md",
-      "title": "inContext.ai Awarded $225K by the National Science Foundation to Develop Artificial Intelligence Tools for Healthcare",
-      "excerpt": "Press Release inContext.ai, a developer of healthcare-centric information extraction software and AI-powered clinical applications, announced an award of $225K in National Science Foundation (NSF) funding.",
-      "webUrl": "https://venturebeat.com/2020/06/24/incontext-ai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare/",
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/24/incontext-ai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/incontext-ai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare/amp/",
-      "publishedDateTime": "2020-06-24T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

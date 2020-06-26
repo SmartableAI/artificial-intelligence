@@ -41,6 +41,20 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "UN Urges 'Moratorium' On Facial Recognition Tech Use In Protests"
+    excerpt: "The UN human rights chief called Thursday for a \"moratorium\" on the use of facial recognition technology during peaceful protests, stressing that it could increase discrimination against people of African descent and other minorities."
+    publishedDateTime: 2020-06-25T14:46:00Z
+    webUrl: "https://www.ibtimes.com/un-urges-moratorium-facial-recognition-tech-use-protests-3000619"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/25/as-protests-about-police-violence-and-racism-spread.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "Pz5SLfQFevvQ2mETLw5o8kVz8SHWLpAa5Np0rSfvSndB1owL1un2QGsW1qDQV4dXL3mAw+K+ttpHgU9LgtGIaNVYDopoZyDGGPSpqL9OirgHi0wVHZIyVEtuvDeVu5+H+iWuiAIm82Av+Cz4+Q+zMtwzn0+gc8PUk0seUPnmlE3DuM503JRNVDxlkohAFvRuGJ9xBwRqVIvEZyeiGnutXMCDMdlLloPTCqgKBPEEjrBIF1ELjBkgvkMyTd15gMymD2Wjj/1EWowovMibAp97E25i8YUD+IkuC5uy7BNN30vM/ZZsJ+vTXrjn2HJ1U4mBhuJm6ZoM/CJleVJODPa4o72QPBM9tGqEng9ZckKP8+e9TAGhNwQh2RRBTt7RAoTyuGAZA+lotj3yzjPXyWM0yTYLhIPHVAkP0ill4SBFCitEgoyGm8ZYxXi+sRYI8K0aifOUBiJk0WiduSOPndPCLW/1dDIO9tjkcBn1iHNhjGNdAPiwIMjK79KZMrAdFxraNQWBYGD2NGvHq1yLz9eizQ==;UObu/SzzkgbeJeR+CdpoUg=="
 ---

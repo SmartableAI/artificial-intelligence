@@ -1,13 +1,10 @@
 ---
 category: news
 title: "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023"
-excerpt: "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,"
-publishedDateTime: 2020-06-12T03:43:00Z
-webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-06-11"
+excerpt: "Jun 11, 2020 (AmericaNewsHour) -- Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End ..."
+publishedDateTime: 2020-06-12T03:49:00Z
+webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-06-11?mod=mw_quote_news"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
   name: MarketWatch
@@ -20,8 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-  - AI in Finance
-  - Microsoft AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -30,6 +25,6 @@ images:
     isCached: true
     title: "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023"
 
-secured: "miYdsFJKr+USq7/TaAd/FfgbjmZFBSEWan2M9wei0c70zaxqDjEkKBX1nUm+yTENb1StdH9uVWn7rtDU7Od1Df85f898UjC4332mhjUKdaO1Pye4yr4W6v9XOR1W9d+FxW7Bsay82ahimmq6yG5fEYYBkL8IcxrKtRxhDyjwe/GCXtzrThGUHb1FgE2bl005edSQuPc2F+hNktPOoy4WJptbE7Lax0j+jf5P3Xk0b26Ai/s0w+mY2/aeYgG2Q7EJp2PVepVoYGddYILI/1ta9W8D3YeyQLTTvuyuVUxYsL1+nh7Pl5O6a5Vo7igobi6tO5QD/lorXe0IKrBK6QaU1Q==;1lWUeaeT/AMEKS3pMm9SPw=="
+secured: "4qUoXLMbckPswGKeq7WYZ1M17/n+vSzGIYK7VAvICCP8hKuXPLmFJM/YAw3FFalLpFhZPd3IARPPBQghJZ7GqgcGVu5Pomz1+Bu0+OR/3bOPX1rNmPyMTOVGxEU7UUzaEkKKCmC1nfGrvx8PIYtRfrWRJsaXPq0i7SAIN6cspu6Ocski3HP4ImufptRK2JJSzbuJhMjb2+s66nQf2xVvHSxf8Dcu2oCCIj9LSPlKDQU2wbKeGYSz9rAj4sI/SXuCFfRvQ1wcNJZ8Z0GnlgTbzCMHwRXFUfOuBps1AEQns/m2cTHvARx8v6H5aUyr1a5B2s/SRCOxgJXUNx/XhtatgA==;ZQGD8do69YxW4OSehlKLZQ=="
 ---
 

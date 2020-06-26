@@ -54,6 +54,38 @@ related:
         width: 1200
         height: 754
         isCached: true
+  - title: "Democratic lawmakers propose nationwide facial recognition ban"
+    excerpt: "Democratic lawmakers proposed a sweeping nationwide ban on facial recognition software Thursday, with a bill that seeks tough new limits on the technology at all levels of government."
+    publishedDateTime: 2020-06-25T17:30:00Z
+    webUrl: "https://www.cnn.com/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 91
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200625112853-capitol-hill-0607-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Facial recognition bill would ban use by federal law enforcement"
+    excerpt: "The bill would also make federal funding for state and local law enforcement contingent on the enactment of similar bans."
+    publishedDateTime: 2020-06-26T03:38:00Z
+    webUrl: "https://www.nbcnews.com/tech/security/2-democratic-senators-propose-ban-use-facial-recognition-federal-law-n1232128"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1232128"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1232128"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 91
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2019_46/3101861/191114-facial-recognition-se-724p_89349dce96428fbb668c940dd897e041.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Facial recognition lawsuit targets NY schools over student privacy"
     excerpt: "The New York Civil Liberties Union is suing over a $3 million facial recognition system installed at the Lockport City School District."
     publishedDateTime: 2020-06-23T20:58:00Z
@@ -213,22 +245,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F06%252F25%252F2e%252F415e4b59be1c4226b4741302a64266da.f317a.jpg%252F1200x630.jpg?signature=9Ma1jAJL-JsglwgBXLdTrEngcYg="
         width: 1200
         height: 630
-        isCached: true
-  - title: "Democratic lawmakers propose nationwide facial recognition ban"
-    excerpt: "Four Democratic members of Congress unveiled a bill Thursday that would seek to ban facial recognition and other types of surveillance nationwide. The legislation would prohibit federal agencies from investing in facial,"
-    publishedDateTime: 2020-06-25T18:28:00Z
-    webUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/"
-    ampWebUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/facial-recognition-crowd-getty-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "House bill seeks to ban federal use of facial recognition"
     excerpt: "Senators Ed Markey (Massachusetts) and Jeff Merkley (Oregon) authored the Facial Recognition and Biometric Technology Moratorium Act, which Reps. Pramila Jayapal and Ayanna Pressley co-sponsored, according to Vice."

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/facial-recognition-ban-bill-democrats-1
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-ban-bill-democrats-182006734.html"
 type: article
 quality: 91
-heat: 211
+heat: 212
 published: true
 
 provider:
@@ -207,6 +207,6 @@ related:
         height: 450
         isCached: true
 
-secured: "2YKKisKbnVw7YsEM+1lQUj6WqtDg624QkxjMUBHNxz4SrPJ+f6+SV+q1wm4IzRmD2fUclffNKcrKW2dTtgu6XCUlHGhUMXdeWf1ButGE0e17b1PrjEht6Za4vO+C47xPWF+g6NJCff6q12s/RsbLuELSDG9w0oC0h6vhanF9ezbUtQ2RO1jUpJAhRKpAzdkQrYFa0Jp1PkyLdlSl8WjZtnH0JXe/6YlanCO3/WdQ8K7GocEeCJm3rM9m123ZAOL4GO08C6aD/EGGYzSBhKUKzVm93gAtfaWCFm2IxgsyurOVTfpjZa8x19DbHNNa3s5Jw2fQ/2JRupcwaMLQ/hzMJw==;36P8YRVrnJ+OhChiBQNQWQ=="
+secured: "WlGwRK1PUwYDy0/JWpk98lcJCLEs1VuuAjvcBlORZGbScB8U7Jhu9vV2tZBbEzA7/IZuFTJO9ZDufC47/PoRfyomVeKoCjfQ6a7nUZXQu3eYbh7RGJxriyzTp2dg9oeRwyiDYxzshdSv+mm8KGDNQqpGD6M8zMpjinvUcg3J0FTHSK2i13q5J53Wy9+Y+9AdeQs6IkbwJ3lHPpuIla5IE9vhOJN4N/b4SCUsLCKiaCeOsDT8VSQ3tdr0RINYZDh9jSFOLYlwNeCtzskLl92S3NJSVo2USsIFOabfwadbIGwHho2SvOLEnGRpX2wEw7mZhqTt2Tdv94ivMkQOJts6KkC5dwEVWr1qlGSCvP5FVII/JQOaypyUejp99hCVEeEd3vz9F8z1cD1lfUkF/ks3hQL+2rWzSNkjswIeql1n9GRjiIXayV7NmyB/LvMEtCoUgpWqV4VND3D4WC/1REtYCiVeHWUTpwIttbncSE8c5FxsmN+tknxU6FsaeR8VWZ7e;HqKfkW181ax3Kyf1PbtwfA=="
 ---
 

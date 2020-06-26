@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/us-government-doesnt-know-how-i
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     title: "US government doesn't know how it uses facial recognition in public housing"
 
 related:
+  - title: "UN Urges 'Moratorium' On Facial Recognition Tech Use In Protests"
+    excerpt: "The UN human rights chief called Thursday for a \"moratorium\" on the use of facial recognition technology during peaceful protests, stressing that it could increase discrimination against people of African descent and other minorities."
+    publishedDateTime: 2020-06-25T14:46:00Z
+    webUrl: "https://www.ibtimes.com/un-urges-moratorium-facial-recognition-tech-use-protests-3000619"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/25/as-protests-about-police-violence-and-racism-spread.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Hearing problems: Early recognition is very critical"
     excerpt: "Compared to other developmental milestones like crawling, sitting, standing, walking etc., development of hearing and speech is less known to the public,” added DrDathathri. Early detection and rehabilitation very important: He also mentioned that early recognition and rehabilitation are very critical in the management of inborn hearing loss."
     publishedDateTime: 2020-06-23T06:12:00Z

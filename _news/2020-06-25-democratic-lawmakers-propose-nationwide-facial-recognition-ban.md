@@ -1,32 +1,33 @@
 ---
 category: news
 title: "Democratic lawmakers propose nationwide facial recognition ban"
-excerpt: "Four Democratic members of Congress unveiled a bill Thursday that would seek to ban facial recognition and other types of surveillance nationwide. The legislation would prohibit federal agencies from investing in facial,"
-publishedDateTime: 2020-06-25T18:28:00Z
-webUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/"
-ampWebUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
-cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
+excerpt: "Democratic lawmakers proposed a sweeping nationwide ban on facial recognition software Thursday, with a bill that seeks tough new limits on the technology at all levels of government."
+publishedDateTime: 2020-06-25T17:30:00Z
+webUrl: "https://www.cnn.com/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
 provider:
-  name: Digital Trends
-  domain: digitaltrends.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://icdn4.digitaltrends.com/image/digitaltrends/facial-recognition-crowd-getty-1200x630-c-ar1.91.jpg"
-    width: 1200
-    height: 628
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200625112853-capitol-hill-0607-restricted-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
     title: "Democratic lawmakers propose nationwide facial recognition ban"
 
@@ -62,6 +63,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef3c911edefda00066e53cc%2F0x0.jpg"
         width: 1200
         height: 754
+        isCached: true
+  - title: "Facial recognition bill would ban use by federal law enforcement"
+    excerpt: "The bill would also make federal funding for state and local law enforcement contingent on the enactment of similar bans."
+    publishedDateTime: 2020-06-26T03:38:00Z
+    webUrl: "https://www.nbcnews.com/tech/security/2-democratic-senators-propose-ban-use-facial-recognition-federal-law-n1232128"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1232128"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1232128"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 91
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2019_46/3101861/191114-facial-recognition-se-724p_89349dce96428fbb668c940dd897e041.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Facial recognition lawsuit targets NY schools over student privacy"
     excerpt: "The New York Civil Liberties Union is suing over a $3 million facial recognition system installed at the Lockport City School District."
@@ -602,6 +619,6 @@ related:
         height: 341
         isCached: true
 
-secured: "j1S8EP8NFWGJ2KtCkhzoQBFsQDF54WrwoeF/qszY0RHJadHzUDmnUIAEV8SBhd0T5+AfJA/DAacKt3n24WhscVIRBOMb0ruTaoLmafTSJJSq7K+B/0LUtH9CvCTPWbGVWYywxAovDx+84LOvGfD7xuOfZvWIyJoPk57q5zS7fcX2qUW0jD57zRstGG8oSS/vDkhNdknHylQkBfHIRj0M0nkPaHFK7YHv8HyDmNSQK4TC9FVHs71dx37j+DhyP2pw7J7tIgnRxChJ3YBMVJqB82tWSKNQAbqANhl/RsljQPEUz1Rpj+BXyUkMDYCjsoXzUNHDU1vtF3ozz+709JQ5cA==;E1lc/OZDHm7ote4g9Ots6w=="
+secured: "Dr2QkW1eM8K+oafzTHpO/nI3XwMTGq3bGzZRyXde8BSMaZCYHhPq9Sy3te1J/5k8Yypxj25gtGxp5DPRmgm1/zj4UnuFJIX6icVs/2vG8ZPWtQA7ftn64r91rkw6ICmsr30u0gic9TGaI6zXlb/W1iqxpiqNwQEfS2zDduNV14ofc08i5qtTJToFwwEk7kVahL/V8DBnp3WOOst/24tA4+qeo+8CRWrVVBjS7O3meyQgIvE/RSbmkdOUXTeS/xz3a0OZ+lav/wBEA0+nSSh2tOnz3l/JZ6EEQvra8NCoiMkvGQekbUrDWeRQqGdAjmggWFXaL7QEjttS6XWEQAyEuQ==;YTVwE5ar2HUB02BzGpffeg=="
 ---
 
