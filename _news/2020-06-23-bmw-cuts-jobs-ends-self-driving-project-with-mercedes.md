@@ -66,6 +66,22 @@ related:
         width: 700
         height: 495
         isCached: true
+  - title: "Amazon buys self-driving car firm Zoox, suggesting a future of automated deliveries"
+    excerpt: "The deal provides Amazon with a new piece of technology as it reduces its dependence on shipping companies to get packages to customers."
+    publishedDateTime: 2020-06-26T15:57:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/06/26/amazon-zoom/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/06/26/amazon-zoom/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/06/26/amazon-zoom/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 38
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XYF7FUFXWUI6VGQ52PNRZPQHZY.jpg&w=1440"
+        width: 1440
+        height: 942
+        isCached: true
   - title: "Mercedes partners with Nvidia on self-driving tech, plans upgradable system"
     excerpt: "Mercedes and Nvidia plan to launch a jointly developed computing system for self-driving cars starting in 2024."
     publishedDateTime: 2020-06-24T12:30:00Z

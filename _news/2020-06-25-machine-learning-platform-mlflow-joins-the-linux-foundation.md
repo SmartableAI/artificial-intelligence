@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/machine-learning-pla
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-platform-mlflow-joins-the-linux-foundation/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2020/06/23/32d6a54f-228e-42c5-9f22-8a6b32193d86/resize/350x/4349083879114a263a0675e37307a77b/em3vj1fkjdyxil6xh0ht.png"
         width: 350
         height: 350
+        isCached: true
+  - title: "MLflow has Grown Up and Left Home: Machine Learning Framework Joins Linux Foundation"
+    excerpt: "“We’ve moved MLflow into the Linux Foundation as a vendor-neutral non-profit organization to manage the project long-term” The open source tool from the US company (whose founders created analytics engine Apache Spark) sees an eye-ball popping 2.5 ..."
+    publishedDateTime: 2020-06-26T15:39:00Z
+    webUrl: "https://www.cbronline.com/news/mlflow-linux-foundation"
+    ampWebUrl: "https://www.cbronline.com/news/mlflow-linux-foundation/amp/"
+    cdnAmpWebUrl: "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/mlflow-linux-foundation/amp/"
+    type: article
+    provider:
+      name: Computer Business Review
+      domain: cbronline.com
+    quality: 67
+    images:
+      - url: "https://www.cbronline.com/wp-content/uploads/2020/06/MLflow-1024x768.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Einstein Recommendations for Trailhead brings AI to Salesforce's online learning platform"
     excerpt: "Bill Detwiler speaks with Sandeep Bhanot, SVP of Trailhead Product at Salesforce, about Einstein Recommendations for Trailhead."

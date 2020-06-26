@@ -8,8 +8,8 @@ ampWebUrl: "http://www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-p
 cdnAmpWebUrl: "https://www-iotevolutionworld-com.cdn.ampproject.org/c/www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm/amp"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: iotevolutionworld.com
@@ -20,19 +20,33 @@ topics:
   - AI
 
 related:
-  - title: "SAS partners with Microsoft for stronger analytics, AI"
-    excerpt: "SAS’ AI and analytics will now tightly integrate with Microsoft Azure for powerful cloud-based business applications."
-    publishedDateTime: 2020-06-21T22:12:00Z
-    webUrl: "https://gadget.co.za/sas-partners-with-microsoft-for-stronger-analytics-ai/"
+  - title: "BNY Mellon to build ESG data analytics on Microsoft Azure"
+    excerpt: "The Bank of New York Mellon Corporation (\"BNY Mellon\") today announced the launch of three new Data and Analytics Solutions offerings designed to help investment managers better manage their data, improve the success of U."
+    publishedDateTime: 2020-06-26T08:57:00Z
+    webUrl: "https://www.finextra.com/pressarticle/83073/bny-mellon-to-build-esg-data-analytics-on-microsoft-azure"
     type: article
     provider:
-      name: gadget.co.za
-      domain: gadget.co.za
+      name: Finextra
+      domain: finextra.com
     quality: 54
     images:
-      - url: "https://gadget.co.za/wp-content/uploads/2020/06/background-cloud-computer-computing.jpg"
-        width: 910
-        height: 562
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "BNY Mellon Launches New Data and Analytics Solutions Offerings, Collaborates with Microsoft to Build Solutions on Microsoft Azure"
+    excerpt: "PRNewswire/ -- The Bank of New York Mellon Corporation (\"BNY Mellon\") today announced the launch of three new Data and Analytics Solutions offerings"
+    publishedDateTime: 2020-06-25T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/bny-mellon-launches-new-data-and-analytics-solutions-offerings-collaborates-with-microsoft-to-build-solutions-on-microsoft-azure-301083452.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/323907/bny_mellon_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
         isCached: true
 
 secured: "VzRSYqblnBZyxUuPw5pN9a5j/m4NjtDeHuL6u2ky0ZjkhNQIFtcV1B7g2O1yXR0g2ByePGhAvxLzYicmtiaD0j7IOO7EeD7SfrVBIjeWFlJlsVGTfA9mewuPN9um5H9MzlFri75N3s6axbWSgtFk421rqhR8W6trX/vGWCEhc2DIj8UzuqZidI1ydKclsYH19EA3ATiQPiNH8/pytTn56x7wAZs0103ZyiI2DVmN1fopgqlXYcq+B6FKKKV6QG0yX7Iekn6vEtx6RmurVtAiODsjHd69I4MhXcgwabFMk5mBtbPSGpykXcWzIu/5jLjZt04RU+BCpL8Hik78RdTgLhYKoAVgzimOLPMcpJUzs+X2TMl/4J9V06aJJvx3plYwsn4Jp8kLSht2EMjShSofaN9XtBOlgAN/N7ZpZmubwXM5PkZYCcRJNVEqftsuCm3Y8Awrj2vmx83KmTtIggB/T/T9W6q6/2slohXF753rLw8LiLRrt/NwQthvP0Qaex5IYLckWlQBnOtGKfr5SdvEbQ==;86ZurGfdARzKzy4Rd66y3A=="

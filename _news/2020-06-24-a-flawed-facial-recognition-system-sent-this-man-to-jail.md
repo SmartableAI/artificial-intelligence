@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/flawed-facial-recognition-system-sent-ma
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp"
 type: article
 quality: 104
-heat: 504
+heat: 514
 published: true
 
 provider:
@@ -445,6 +445,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2020/06/GettyImages-1139860049.jpg?w=3000"
         width: 3000
         height: 1912
+        isCached: true
+  - title: "Boston's move to ban facial recognition could pressure big tech players to exit the market"
+    excerpt: "Boston's facial recognition ban could precipitate similar initiatives in other US cities, adding pressure for big tech players to exit the market."
+    publishedDateTime: 2020-06-26T14:44:00Z
+    webUrl: "https://www.businessinsider.com/boston-facial-recognition-ban-pushes-tech-players-to-exit-market-2020-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://i.insider.com/5ef5fc1df0f4197e4f318f94?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Opinion | The futile withdrawal of facial recognition software by Big Tech"
     excerpt: "This technology is bound to proliferate regardless of flaws as it’s being pursued by such regimes as China’s for surveillance"

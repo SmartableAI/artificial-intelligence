@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-26T08:57:00Z
 webUrl: "https://www.finextra.com/pressarticle/83073/bny-mellon-to-build-esg-data-analytics-on-microsoft-azure"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     title: "BNY Mellon to build ESG data analytics on Microsoft Azure"
 
 related:
+  - title: "SAS and Microsoft Partner on Future of Analytics And AI"
+    excerpt: "“Through this partnership, Microsoft and SAS will help our customers accelerate growth and find new ways to drive innovation with a broad set of SAS Analytics offerings on Microsoft Azure,” said Scott Guthrie, EVP, Cloud and AI, Microsoft ..."
+    publishedDateTime: 2020-06-24T19:20:00Z
+    webUrl: "https://www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm"
+    ampWebUrl: "http://www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm/amp"
+    cdnAmpWebUrl: "https://www-iotevolutionworld-com.cdn.ampproject.org/c/www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm/amp"
+    type: article
+    provider:
+      name: iotevolutionworld.com
+      domain: iotevolutionworld.com
+    quality: 54
   - title: "BNY Mellon Launches New Data and Analytics Solutions Offerings, Collaborates with Microsoft to Build Solutions on Microsoft Azure"
     excerpt: "PRNewswire/ -- The Bank of New York Mellon Corporation (\"BNY Mellon\") today announced the launch of three new Data and Analytics Solutions offerings"
     publishedDateTime: 2020-06-25T12:00:00Z

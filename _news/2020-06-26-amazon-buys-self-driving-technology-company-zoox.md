@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technol
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html"
 type: article
 quality: 74
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     title: "Amazon buys self-driving technology company Zoox"
 
 related:
+  - title: "Amazon Is Buying Self-Driving Startup Zoox"
+    excerpt: "Amazon (NASDAQ:AMZN) has signed an agreement to buy Zoox, a six-year old start-up seeking to create autonomous driving vehicles from the ground up. Amazon is reportedly paying over $1.2 billion, which is one of its largest acquisitions,"
+    publishedDateTime: 2020-06-26T15:53:00Z
+    webUrl: "https://www.fool.com/investing/2020/06/26/amazon-is-buying-self-driving-startup-zoox.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/06/26/amazon-is-buying-self-driving-startup-zoox.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/26/amazon-is-buying-self-driving-startup-zoox.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F580202%2Fautonomousdriving.jpg&w=1200&op=resize"
+        width: 1200
+        height: 682
+        isCached: true
   - title: "Amazon reportedly acquires self-driving car startup Zoox"
     excerpt: "Amazon is acquiring self-driving car startup Zoox in a deal estimated to be worth over $1 billion, The Information and The Financial Times are reporting. The deal would give Amazo"
     publishedDateTime: 2020-06-26T08:57:00Z
@@ -207,6 +223,15 @@ related:
         width: 952
         height: 536
         isCached: true
+  - title: "Amazon agrees to buy self-driving technology startup Zoox"
+    excerpt: "Amazon.com Inc has agreed to buy California-based self-driving startup Zoox Inc in a deal reported to be worth more than $1 billion that gives it options to use autonomous technology in either ride-hailing or its delivery network."
+    publishedDateTime: 2020-06-26T15:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-agrees-to-buy-self-driving-technology-startup-zoox-2020-06-26"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "Amazon reportedly just scooped up its third self-driving car company"
     excerpt: "Amazon may be looking to leverage Zoox’s tech for its delivery network, which could contribute to the company saving $20 billion a year."
     publishedDateTime: 2020-06-26T12:01:00Z

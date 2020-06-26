@@ -26,21 +26,21 @@ images:
     title: "TS in top 30 start-up ecosystems for affordable talent"
 
 related:
-  - title: "Tel Aviv-Jerusalem ranked world's 6th strongest start-up ecosystem"
-    excerpt: "In addition, the report noted that Israel ranks third worldwide in the total number of AI start-ups, many of which are the among the field's leading firms. The Israeli ecosystem is valued at $47 billion with early stage funding totaling at $3 billion."
-    publishedDateTime: 2020-06-25T16:18:00Z
-    webUrl: "https://www.jpost.com/jpost-tech/tel-aviv-jerusalem-ranked-worlds-6th-strongest-start-up-ecosystem-632815"
-    ampWebUrl: "https://m.jpost.com/jpost-tech/tel-aviv-jerusalem-ranked-worlds-6th-strongest-start-up-ecosystem-632815/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/tel-aviv-jerusalem-ranked-worlds-6th-strongest-start-up-ecosystem-632815/amp"
+  - title: "Seattle rises three spots, cracks the top 10 in annual global startup ecosystem rankings"
+    excerpt: "Seattle jumped three spots and moved into the top 10 of Startup Genome’s annual global startup ecosystem rankings. The list ranks cities based on seven “success factors”: performance,"
+    publishedDateTime: 2020-06-26T15:06:00Z
+    webUrl: "https://www.geekwire.com/2020/seattle-rises-three-spots-cracks-top-10-annual-global-startup-ecosystem-rankings/"
+    ampWebUrl: "https://www.geekwire.com/2020/seattle-rises-three-spots-cracks-top-10-annual-global-startup-ecosystem-rankings/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-rises-three-spots-cracks-top-10-annual-global-startup-ecosystem-rankings/amp/"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 42
+      name: GeekWire
+      domain: geekwire.com
+    quality: 63
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/459304"
-        width: 640
-        height: 428
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/20200409_Alki_32-630x354.jpg"
+        width: 630
+        height: 354
         isCached: true
 
 secured: "/3smRv2FCBwtg2h0KrwNXme5usiiW97qlODntsu3oGiz3Zhw6pPnGrXO68cln1f28qVmmGOjhmSIr+VvQr6n9r+lX2b1Yssr1Yu8jY2gMJJqHicpiOirUfMZGTGEyXiBGHseJdOMHziZTfe25m6sZBRrgegUD6ScY5G3lAEdeFnTFCYjZGJZAuSxSn34lB2GiSX5mIJ5oVcBKpBL9l1U7vfcNhtxVAegmpJ6pU4sCGO+EOHhURaSbj1Velc870B4oQaYkyuRaG+ofME5jqgEGckOfBpl3KSoPoq2lyaAnmL1/djA0cWVA3Gn4pKBPRy476KQ9y9R92w3HduOu5x8Mg==;iOsSFcPcBkJUNW9Pb7M58g=="

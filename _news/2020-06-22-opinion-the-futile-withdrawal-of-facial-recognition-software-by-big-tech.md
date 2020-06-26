@@ -458,6 +458,20 @@ related:
         width: 3000
         height: 1912
         isCached: true
+  - title: "Boston's move to ban facial recognition could pressure big tech players to exit the market"
+    excerpt: "Boston's facial recognition ban could precipitate similar initiatives in other US cities, adding pressure for big tech players to exit the market."
+    publishedDateTime: 2020-06-26T14:44:00Z
+    webUrl: "https://www.businessinsider.com/boston-facial-recognition-ban-pushes-tech-players-to-exit-market-2020-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://i.insider.com/5ef5fc1df0f4197e4f318f94?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Wrongful Arrest Based On Face Recognition System, Complaint Says"
     excerpt: "A flawed facial recognition algorithm led to the wrongful arrest of an African-American man in Detroit, according to a complaint filed Wednesday in a case highlighting concerns over the technology which critics say reinforces racial bias."
     publishedDateTime: 2020-06-24T15:53:00Z

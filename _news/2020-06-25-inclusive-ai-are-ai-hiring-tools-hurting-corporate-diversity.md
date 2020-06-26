@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/inclusive-ai-are-ai-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     height: 900
     isCached: true
     title: "Inclusive AI: Are AI hiring tools hurting corporate diversity?"
-
-related:
-  - title: "Relentless Centering: These Inclusive Accelerator Programs Are Encouraging The Next Generation Of AI Tech"
-    excerpt: "The good news is that there are organizations within the technology/startup sector working overtime to ensure that the next generation of advanced technologies are built by diverse teams."
-    publishedDateTime: 2020-06-21T22:50:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/06/21/relentless-centering/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/06/21/relentless-centering/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/21/relentless-centering/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 50
 
 secured: "KuTP1bZybpVeDmHIxfGINXI9lhgrQyZYuzFI85YflvuWb3ameZ5B/1vExeVSvmNkliG6o4XGkmvV5i7PCUZf463bHXobiPtBbmUuOWFGnoTtZ0QfogjuhBFXLsfCn/lafjSij8vFD9iFEdCelmdhUDJmjprsayto/v4j88rypUd6+K6r2VnvYg3VzRGs0L1L7u1lSttaBAH1Or/cQW4pZxt/pCCzdeOR0aFhl8Y5/rX1/bbZsF7NyDRvrAfToDA5Pv7ix3Ao72jHttUm1OuNYkLOApVWKTFJ8OlrOpWtM6ZwIWrK/qW0QULUHcprTRYkNhx2JWi431edvyRniG6dBWQg/izddo+gX03noHv4t+5M5I6RKI6r6PSuTli0fYQq0TWp+kwfhVk4G7XYrPh8dw9g6L7tQn8CKz7FL3a1jgjD9UAq5SJh+EVVdKUhTgLYK/38bQAbkZJwPWXjfyJg1uGJaQAWydA70B7BoN2+7/ehNam2+E8kII0oGmG9QbtbGScvYR+AKRwYGD9/eotbSA==;fcQXGYM4TPvyOtHkkA994w=="
 ---

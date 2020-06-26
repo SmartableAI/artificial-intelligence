@@ -43,6 +43,20 @@ related:
         width: 1260
         height: 566
         isCached: true
+  - title: "Amplifying Advertising and Marketing with Artificial Intelligence"
+    excerpt: "Amplifying Advertising and Marketing with Artificial Intelligence  - Whether it is Google or Tesla’s self-driven cars, AI is ruling all over. Assimilating these AI technologies"
+    publishedDateTime: 2020-06-26T13:08:00Z
+    webUrl: "https://www.cioreview.com/news/amplifying-advertising-and-marketing-with-artificial-intelligence-nid-31486-cid-51.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://cioreview.com/Rank_subcat_images/pzhs8digimas.jpg"
+        width: 453
+        height: 512
+        isCached: true
 
 secured: "dTbeye6V35dZVfqaIdhbm1zjOJQ9wOZKsnMeSIFqGdgjGagtHQr7wHTFeLA/OjapEeKPHSBA3vFn6m2KhF/biYWp2/Lob0QNTn9RxKHUfBx5kl5SHSjHoxBsKosnoKvOBd2CZU/VK9MXjkVhPIQubKuod3/F5+45aDxBIuJLM0icwwhA3jBE6abHH8Sn+ps1gZeVsAWiEsOu7KfEX7s9E2382PC7uFWEiOXDTXXgtJyn0DKMSU2rsXapHAvsOCc2aJdzbk+qIaDWZFpJi5qVRSGfUkAdAo5SjW8AYwiuMmjBfYt4Gde54BOqBX1cIgldMnF3h0FvvyETdQ3m2zCD2w==;3Z/toC8ALfbqhRfUft8thg=="
 ---

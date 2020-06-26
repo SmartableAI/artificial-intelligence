@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-26T12:50:00Z
 webUrl: "https://www.directionsmag.com/pressrelease/9920"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     height: 577
     isCached: true
     title: "Fugro partners with Australian Space Agency on new robotics control complex"
+
+related:
+  - title: "Fugro working with Australian Space Agency on new robotics control complex"
+    excerpt: "The Australian government’s newly formed Australian Space Agency (ASA) has partnered with Fugro to design, build and operate the Australian Space Automation, Artificial intelligence and Robotics"
+    publishedDateTime: 2020-06-26T11:30:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/06/26/fugro-partners-with-australian-space-agency-on-new-robotics-control-complex/33492/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 52
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/04/randomsckbutton32.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "cgTNXAZf5t/DZ6Jl5P2nLzBBAzessZmwk5NghsIo/Xs23e6zJjPk4ZP4iRlvgj6p50mpKTWVhWDu1PMWM1u5I3BMZbkgyfpB9XWt3zpJmwm/8qStgggxcjQvsEQuM4JB5RKBkyeeZySiMFs4FV9Dbp7rT336zfL1tZzkGgDLf/S4AT9S+IfoVt7yGjB9xKg8HxyIqCZC8RBhrQetpnp3mAoorLHhw2CfABwJQWHxZSRlHX1oa5Y/4y4egWu8n72KyhlqN6ldyuctWupOqzg2PesC5OIQjkIpWXK3TivwlRbcKIKIvqqq115bv2d8ZaABY911U/qjz1H9H7uqCAkpng==;j/91IacafcnTbgvD5SQ1hA=="
 ---

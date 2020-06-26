@@ -57,6 +57,22 @@ related:
         width: 350
         height: 350
         isCached: true
+  - title: "MLflow has Grown Up and Left Home: Machine Learning Framework Joins Linux Foundation"
+    excerpt: "“We’ve moved MLflow into the Linux Foundation as a vendor-neutral non-profit organization to manage the project long-term” The open source tool from the US company (whose founders created analytics engine Apache Spark) sees an eye-ball popping 2.5 ..."
+    publishedDateTime: 2020-06-26T15:39:00Z
+    webUrl: "https://www.cbronline.com/news/mlflow-linux-foundation"
+    ampWebUrl: "https://www.cbronline.com/news/mlflow-linux-foundation/amp/"
+    cdnAmpWebUrl: "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/mlflow-linux-foundation/amp/"
+    type: article
+    provider:
+      name: Computer Business Review
+      domain: cbronline.com
+    quality: 67
+    images:
+      - url: "https://www.cbronline.com/wp-content/uploads/2020/06/MLflow-1024x768.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Einstein Recommendations for Trailhead brings AI to Salesforce's online learning platform"
     excerpt: "Bill Detwiler speaks with Sandeep Bhanot, SVP of Trailhead Product at Salesforce, about Einstein Recommendations for Trailhead."
     publishedDateTime: 2020-06-23T12:33:00Z

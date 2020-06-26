@@ -442,6 +442,20 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Boston's move to ban facial recognition could pressure big tech players to exit the market"
+    excerpt: "Boston's facial recognition ban could precipitate similar initiatives in other US cities, adding pressure for big tech players to exit the market."
+    publishedDateTime: 2020-06-26T14:44:00Z
+    webUrl: "https://www.businessinsider.com/boston-facial-recognition-ban-pushes-tech-players-to-exit-market-2020-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://i.insider.com/5ef5fc1df0f4197e4f318f94?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Opinion | The futile withdrawal of facial recognition software by Big Tech"
     excerpt: "This technology is bound to proliferate regardless of flaws as it’s being pursued by such regimes as China’s for surveillance"
     publishedDateTime: 2020-06-22T16:21:00Z
@@ -635,6 +649,6 @@ related:
         height: 341
         isCached: true
 
-secured: "dppyE4T/Wn/5bSjzsPI3vm4RcTNpsj5zjvQw0e2Y3drQyIjKu8p+UOI1i0V4Jrjf4CtMQ9hBcKancfKTIyiPYrxe4ZAD1/vqf+RgraL5m3E8exqGExyDevdqHzFjQPFPd8s5twXWasij5g7LSE+xnnaO91AOl4CCXLU/cpcm21vyDzasaUIHQAL+l6dxnDXZ5wKRH4FRYr8uUFje3ZXX9Spp+UzUG1vQlwn7AeGlpfFSClec7W4K48C0pkrAjGCB/PcjUVgWSo0On8fMO87DZnKUMBYLYH7i7OAAm54n84HFH3otzlYSKOJ1k8mPLHf2TSlJktVGe8w8aTncSTCwCg==;9KCjnUDmnl3o3QKqhjodkQ=="
+secured: "BLVrAJ6kCP8+EIfSAmU49M5ulJyb0nj56P3Y9yU/+S7oUw85TS6VPY720Wr3gcmneah2Mm8IyMK6q0Hu/k9vQ8v2SgmfkbKEINMhr/ypLZq2PfPKrhbpAfIUOwY0TZZwnbPN28OZcvi6qibsMLfrDr63DGd012w4vfjwT3i4vRUAIZBS1OlyKz3zH986mOz0mkdOZBAQpHJxmyZFFfJVLSwIyy8+B73jRjjVii4QxsjZweWjrJHl9zm5jdNfJhFm0uYfZA9K844H+uyOZaRBDKvEhz4I6qnObk/y5EfZ1JYwje9MWEXtOMKJBW4kbKnC0imqOlI4nITNwyK0PkCaAR6Pzgw/U98+FQurPsjOiq2pW/N46s0Oa2dAM5553AiFWzB/l6iS7SmnRWGaGCRquv4rkd1rFmZljhgEIUF4tF9ki8YtiQ+jN97TAo/MRcEDjKQ8nx2rE8ImJ6S/0HaalDz+StWs4Bn8zkQi6A0lmn63vt1ePGx4xsCU2jIDNqodB0e/fOQ6m8jIX0f90B45Sw==;JbZyr7GXkjz8BBKswmOJNw=="
 ---
 

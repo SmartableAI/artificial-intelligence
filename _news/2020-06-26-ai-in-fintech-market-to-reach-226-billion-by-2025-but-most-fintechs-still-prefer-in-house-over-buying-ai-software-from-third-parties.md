@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "AI in Fintech Market to Reach $22.6 Billion by 2025, but Most Fintechs Still Prefer In-House Over Buying AI Software from Third Parties"
 
-secured: "Tsa3tNNU4EeU1QP+cEU4re9e/zxKYHE6RAEiKm62aNCTP4KN5Xm+ldNniyfAB2F3FNLKAZ3UCFqA1t4ktjEu72vw7xe/Gj/HwpjXB2y3Sc3XAsqXKwDWg1VE76fQV4mB4ng0vl0oXinL9+Au09YFS5ygZRnW7Z2RoO/c012uK2iHz2x8e7ZIV89VRenVeqsvudDyuW4a924MPcCb/A9HLLPaxWxZMlHNiAjuMuYo3jKLFoMc9X0qZYTOYnCBB88beP+we2bqBjtHgB6SOZ8IqZcGzoMA9zbHiV1GiLdvijTkHaxG+oKqrYnszI3zcTstzBjZ1tqE9jm0OyV5/MmyLA==;Q6MVO3+KZE7p/Ztdy1KJvA=="
+secured: "AXaBEkO5Np9vktu+MR0bpfdEYA8cTy3zxuqftDEexanU0K6PEb23E+XcoXyJ/nqHrdO/8HGiGHSFrMFNn7zEN96fEHySHHZqnJzVWBAMfH3NeBj1WbltfCPf+X22Y1xlQ9KFgJSaj+1G+JntGIQcTohxoOtjvxHEBtT+k1aW/edYRTsEIu4gjk05pFYd+AHridCgW4wF9KBrUd+/TmRCUeLt4VXlgpnoWMsjWH0ORWO/0a4gRk5ybdOR8umbTqAg0DXsUHTC2HB809JObhJA7PLca2f5Sx+Vq6GC0oTJqNq6rf47s+Rz70YrAxbaE982wqVY3jDeJ+dxyT35PIbWX4quOQI9lP/S4WaobtvTDMW4VUhB65nct+UKc4RsN23uGy+GgfnB8erxMwJS8fdBO5i7OjYv3AhXcdi3Yuxvm6N118ubYsbXxYEeR3KitJsU72Two/RSzvDaJOh3Q1Yjo3rb0DsJefUO0+E2SM4WYisdnYTD2sNRhZfTmqF0aKk/BcOtoHgA04gv8PznWWRcCQ==;RJOK0bHP9E9UqcuiOrA4hw=="
 ---
 

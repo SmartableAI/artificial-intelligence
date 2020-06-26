@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-self-driving-system-with-automated-routing-and-parking/amp/"
 type: article
 quality: 81
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/06/Mercedes-Benz-and-NVIDIA-.jpg"
         width: 700
         height: 495
+        isCached: true
+  - title: "Amazon buys self-driving car firm Zoox, suggesting a future of automated deliveries"
+    excerpt: "The deal provides Amazon with a new piece of technology as it reduces its dependence on shipping companies to get packages to customers."
+    publishedDateTime: 2020-06-26T15:57:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/06/26/amazon-zoom/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/06/26/amazon-zoom/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/06/26/amazon-zoom/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 38
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XYF7FUFXWUI6VGQ52PNRZPQHZY.jpg&w=1440"
+        width: 1440
+        height: 942
         isCached: true
   - title: "BMW Cuts Jobs, Ends Self-driving Project With Mercedes"
     excerpt: "BMW will slash 6,000 jobs this year and freeze a major self-driving technology collaboration with rival Mercedes-Benz as the German luxury carmaker sees"
