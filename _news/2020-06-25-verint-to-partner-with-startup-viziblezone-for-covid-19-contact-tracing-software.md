@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-25T20:51:00Z
 webUrl: "https://www.prnewswire.com/il/news-releases/verint-to-partner-with-startup-viziblezone-for-covid-19-contact-tracing-software-301083763.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -24,15 +24,6 @@ images:
     title: "Verint to Partner With Startup Viziblezone for COVID-19 Contact Tracing Software"
 
 related:
-  - title: "Health tech startups use deep tech to contain covid-19 spread"
-    excerpt: "Qure.ai uses an artificial intelligence-powered solution to identify 24 different abnormalities in a chest X-ray, including ones indicative of a covid-19 infection.Trufactor, a subsidiary of InMobi Group,"
-    publishedDateTime: 2020-06-21T06:32:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/health-tech-startups-use-deep-tech-to-contain-covid-19-spread-11592719921253.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 19
   - title: "Verint partners with startup for COVID-19 contact tracing software"
     excerpt: "Verint (VRNT -0.3%) and Jerusalem based Artificial Intelligence (AI) startup, Viziblezone have entered in a strategic alliance wherein the former will offer high accuracy contact tracing techn"
     publishedDateTime: 2020-06-25T17:09:00Z

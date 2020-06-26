@@ -1,34 +1,30 @@
 ---
 category: news
-title: "Boston bans facial recognition due to concern about racial bias"
-excerpt: "The Boston City Council voted unanimously to ban facial recognition use by city officials, making it one of the largest cities in the world to ban the tech."
-publishedDateTime: 2020-06-24T20:25:00Z
-webUrl: "https://venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/"
-ampWebUrl: "https://venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/amp/"
+title: "Congress needs to pass this facial recognition ban now"
+excerpt: "Earlier this year, for the first time (that we know of), a false match by a facial recognition algorithm led to the arrest of an innocent man. Now, members of Congress are finally"
+publishedDateTime: 2020-06-25T22:20:00Z
+webUrl: "https://mashable.com/article/congress-federal-facial-recognition-ban-bill/"
+ampWebUrl: "https://mashable.com/article/congress-federal-facial-recognition-ban-bill.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/congress-federal-facial-recognition-ban-bill.amp"
 type: article
 quality: 89
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mashable
+  domain: mashable.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/06/todd-kent-iRKv_XiN-M-unsplash.jpg?w=1200&#038;strip=all"
+  - url: "https://mondrian.mashable.com/2020%252F06%252F25%252F2e%252F415e4b59be1c4226b4741302a64266da.f317a.jpg%252F1200x630.jpg?signature=9Ma1jAJL-JsglwgBXLdTrEngcYg="
     width: 1200
-    height: 600
+    height: 630
     isCached: true
-    title: "Boston bans facial recognition due to concern about racial bias"
+    title: "Congress needs to pass this facial recognition ban now"
 
 related:
   - title: "A Flawed Facial Recognition System Sent This Man to Jail"
@@ -94,6 +90,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6C70/production/_107006772_facialedbridges.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Boston bans facial recognition due to concern about racial bias"
+    excerpt: "The Boston City Council voted unanimously to ban facial recognition use by city officials, making it one of the largest cities in the world to ban the tech."
+    publishedDateTime: 2020-06-24T20:25:00Z
+    webUrl: "https://venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/"
+    ampWebUrl: "https://venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/todd-kent-iRKv_XiN-M-unsplash.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Boston bans police and city use of facial recognition software"
     excerpt: "Following the wrongful arrest of Robert Williams, Boston has become the second-largest city in the US to ban the use of facial recognition software."
@@ -190,22 +202,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200624&t=2&i=1523322435&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5N19S"
         width: 817
         height: 545
-        isCached: true
-  - title: "Congress needs to pass this facial recognition ban now"
-    excerpt: "Earlier this year, for the first time (that we know of), a false match by a facial recognition algorithm led to the arrest of an innocent man. Now, members of Congress are finally"
-    publishedDateTime: 2020-06-25T22:20:00Z
-    webUrl: "https://mashable.com/article/congress-federal-facial-recognition-ban-bill/"
-    ampWebUrl: "https://mashable.com/article/congress-federal-facial-recognition-ban-bill.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/congress-federal-facial-recognition-ban-bill.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F06%252F25%252F2e%252F415e4b59be1c4226b4741302a64266da.f317a.jpg%252F1200x630.jpg?signature=9Ma1jAJL-JsglwgBXLdTrEngcYg="
-        width: 1200
-        height: 630
         isCached: true
   - title: "House bill seeks to ban federal use of facial recognition"
     excerpt: "Senators Ed Markey (Massachusetts) and Jeff Merkley (Oregon) authored the Facial Recognition and Biometric Technology Moratorium Act, which Reps. Pramila Jayapal and Ayanna Pressley co-sponsored, according to Vice."
@@ -586,6 +582,6 @@ related:
         height: 341
         isCached: true
 
-secured: "qQDqo4xPetOC0oZKdhIHcV5eS5JWOo6ssBBDcNdkoIVfdk+HO1wynnXKdaYBqOzm+H5TdljanevHbVLYqpLzc1Q+QJXcEEFC3+dQM//HH9mNn7FtlJQGL4Is44RmL093cIEthX4qMpS/MsPND0AmSJmePZszqeb6dFYxyb3yDmXvbcjrFZOkbVMhQ+SfKe5lH/t5COWXQdzH9xAyfydJGnoe1DFaMONxhNxfnaebEnWk6G6SBRpa5BlEZRXj8MQaxW4iz2QAQTf9rTCVCLFDMmeufjhxBzqHjKli06CueJzq2GpRVVW6p+ZccC2dlH8H4G6b/yVvgknRW6jWWxBIZIpg1YDgTMEjhX7qEcqbf0XJs3lCs04XDX9exaEEcwMnO8jLJAIar9Rle3HC/DljtDztem81SCTV3mDWu5LO3OgxGIf0RWCQd75+QlxtGhY7VFEMK2hIbqd3NpAdfW68YmsNYkxlrnieHKvvWYrO9WddlS9RenROe6/iOn7lyuzFQTO4Hp0y+XlenOn0y6gt2w==;gojt2EPuuuwq/aqZngMx7w=="
+secured: "hp0GniC32KsQm/MATA9l5cNbHJhSe2r+u/6bRtJBApOx/6B4+GWFKgRRSvPy8lEwm8gyA7a1DsR1wRR7aw1pdRvBiQPvgNmKZc2jtF8H8HfZmnkYyhbF1KxzAXAyjxmH+FGCHOZQZ4t3HGUiq3u0DfxtMXY+nLO4edVeXiHGEJeBHRp+l2ygRpXfVk9FRlUA6LJVzq28HkcS5pHi3gIcXbIXRRM1TiVagjvpaIewUlfjHuC5R5PPCKO2gvU3bJwaYkLoPcGdvUeTR1YAc5up+8eV1biywF4L76hsggTHQhsuNXU0fVf2jZbhshSGSxXr9X+/JShyoqu/0fTYcaj2AA==;0ESBU+88mk6bHkCPs8mVyQ=="
 ---
 

@@ -80,6 +80,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Democratic lawmakers propose nationwide facial recognition ban"
+    excerpt: "Democratic lawmakers proposed a sweeping nationwide ban on facial recognition software Thursday, with a bill that seeks tough new limits on the technology at all levels of government."
+    publishedDateTime: 2020-06-25T17:30:00Z
+    webUrl: "https://www.cnn.com/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 74
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200625112853-capitol-hill-0607-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Boston becomes the biggest East Coast city to ban face recognition"
     excerpt: "The Boston Police Department already doesn’t use the technology, and it’s now forbidden from getting facial data from third parties."
     publishedDateTime: 2020-06-24T20:24:00Z
@@ -109,6 +125,6 @@ related:
         height: 627
         isCached: true
 
-secured: "Pt0LTqhlAz79EewL8UQBOAIWXIkUTSzzoAyKlj24CScSFEIUP0bjN+TXXqIsDnPZI1XvKJuQLcbmhNcxxGa/yFZQqb2SMKSQAxLFPi6plDb3CmSMDvRD+kKLL5ckG/hqwC/fS6gDicLvRDzqpIZnS5Zi2IVi5QflYWsnqvywBV1mKBYtdyQ7TiWe8hVYEpHBZH7+Fxtz6qp5SSkdjrbzs2pT6z7yy2+/CB1IaOFs8E6hEKF5nxqzYMV8x0wdNg3+Vc8Zpw1uwdZLVaHLcWUtek+39SJCDDgQnOpwoxULmXKH7flM0rPcm4ATJ+ArNw1krX5+ibOkI7jmRiQU5Ottgg==;IjJYEsBmylhqcaDA0pr2aQ=="
+secured: "uGGX3Wc8HddFBnVLWR33XYNAqxXEj/RhkH9KopN7CXvWLl2i7kuO3YQoKjjRBNs787o2M6/54IsfMRWIflBg1SYVWldCFDhonF6BLcpPbZxzLUMqdiMXg3kK8Z1cqTdveiEeLWcNQZZotWwO8gvLHvsXLbIdEfcgPzdv7HkIQhlR2zsIFJNVTwcn/eJTUvsq/RIt0OkEaUj7wgjvqcWy/aRtL7D3cXcn2unlqcWNYQ5CLhuHfGT1hG5gK1/nbGwjW1punNpCqC3b+4k0NdOTH7AIGzQdvWZIeMEPfx56SQb0pquit/d2bUj51B5rlzvr3WgSlvXUyV4iv4nEx4iN+xJIs/gdAxtfqeE1FXmUQu13/lqXxIJDnKaiP5TmUSRpQ4tIpQR8o1j3OtvKgdE+a1yQ3Ewntqp4pVchlhDCZzlct13DBcdEkbSSgZ9swhAZT6HoTm1ax+PknxFvlsAGQze97pWImmYtLfwfYtKRm0R5GMWceqDqAnYTMQMZRpxSeOTjOObrTtyJX+uCEyAozA==;/ulXsdvzA7Au/1KlIGjstQ=="
 ---
 

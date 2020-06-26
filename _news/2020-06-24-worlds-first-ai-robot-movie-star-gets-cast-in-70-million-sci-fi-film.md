@@ -78,7 +78,7 @@ related:
   - title: "AI robot trained in method acting to star in a $70 million sci-fi movie"
     excerpt: "It seems on-brand with all that has been going on in the world that a sci-fi movie would cast a robot as its lead actress. The movie explores how a scientist who came up with a program to perfect human DNA must help the artificially intelligent woman he created,"
     publishedDateTime: 2020-06-25T17:49:00Z
-    webUrl: "https://www.fastcompany.com/90521262/ai-robot-trained-in-method-acting-to-star-in-a-70-million-sci-fi-movie?partner=feedburner"
+    webUrl: "https://www.fastcompany.com/90521262/ai-robot-trained-in-method-acting-to-star-in-a-70-million-sci-fi-movie?partner=rss"
     type: article
     provider:
       name: Fast Company

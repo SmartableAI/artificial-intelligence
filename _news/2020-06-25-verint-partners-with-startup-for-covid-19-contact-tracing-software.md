@@ -17,15 +17,6 @@ topics:
   - AI
 
 related:
-  - title: "Health tech startups use deep tech to contain covid-19 spread"
-    excerpt: "Qure.ai uses an artificial intelligence-powered solution to identify 24 different abnormalities in a chest X-ray, including ones indicative of a covid-19 infection.Trufactor, a subsidiary of InMobi Group,"
-    publishedDateTime: 2020-06-21T06:32:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/health-tech-startups-use-deep-tech-to-contain-covid-19-spread-11592719921253.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 19
   - title: "Verint to Partner With Startup Viziblezone for COVID-19 Contact Tracing Software"
     excerpt: "PRNewswire/ -- Jerusalem based Artificial Intelligence (AI) startup, Viziblezone, has today announced a strategic alliance with renowned global"
     publishedDateTime: 2020-06-25T20:51:00Z

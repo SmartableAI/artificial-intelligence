@@ -60,6 +60,20 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Databricks hands its MLflow machine learning platform to the Linux Foundation"
+    excerpt: "Databricks Inc., the big data and machine learning company that leads the commercial development of Apache Spark, says it’s putting its MLflow project into the hands of the Linux Foundation. MLflow is an open source machine learning operations,"
+    publishedDateTime: 2020-06-25T23:41:00Z
+    webUrl: "https://siliconangle.com/2020/06/25/databricks-hands-mlflow-machine-learning-platform-linux-foundation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/MLflow.jpg"
+        width: 995
+        height: 535
+        isCached: true
 
 secured: "fJMfojrREJX+8rSEoySbCe/m2J4haFVf0KX7o/UaFVUFfd7WBHQVKdcMeQF4KlRy6u0fsJOy2Nhv+TX+HFPvg1fkn5x1BeRfMhKfdPrk9TkUW0NThESZJl+Vj70el1yZCtsKWergU+O95FmngLpSk6nY5E+qL7X3JGJbPpfwTrzcOMO7zaN0vaI+nskd+z+IOblqGSEmfV3TFY9q6jR7fls4Z4GKkzjHfw3J+C0jbt9nk0wJAj52vgOGsMhKhB1aDkqeciXGWqg1Udbfzuf5oo3bmqv1p/OWEIngLq0YFRMCQL443WDRvKocS5/vuIkkjK5VeGSoEPlXsm1nmVFXFfWUCux7Cc4K5RbR7vOfDzdhKYfQXxwhzf3utlNDr/eLnXJtl6bo6u+XvrrXCTdnnokRqV7+BMPtUlxPszb/cw7Z+Oh7cgNmd40kl+7bk7UoRlSYPh8J0yFHRHtfUV15IGmw2ykp3RicYlRUL9j1dw+PIVPffSB8IdzPTG+Blj8PB4Y+RvQhCDIOLaAqnK1YmA==;6Z/tPuc4R97IzqEPrI+uew=="
 ---

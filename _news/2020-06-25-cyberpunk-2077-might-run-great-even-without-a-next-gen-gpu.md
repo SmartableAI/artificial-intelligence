@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Cyberpunk 2077 might run great even without a next-gen GPU"
 
-secured: "uRqTE2AX6lZD808qFtS7uADCPBg8gJG5bgiekFe8xmvudY7mPxotYc7kLS5KJ/Hux3/LyFS9JvrUl5DlQFyWipOGAsZcIu1eFPOqBkdS+cCHRqRNcAaSl6aYUHuxsBAu7fQwgHp3oAlN8DnGeVDh2Qe+5Rhz1R07txuClD+sNlfJfZbUBR5V7fg2z/QXlwW3fI4RXPz/gLLj4ICoCsPEJzg5ZwO2nNVLrkrfDCaR02DKnEfhCtTqKbP25kY2iu6dQba0lBODEDJSWgwMyyvzcJnYVJaPvB4i/wlwTgub4QyT6xjgq+AJKpZZnX4ijwXzYD066v324QDmCqw9ru+hJQ==;Y0AB0baFd2Kh0JFl01PrjQ=="
+secured: "e8oCijWX74pySIywHcZWEpPqIUeimXCuEEIoqjKDBds9rDbZQu1/TNezH+tJxTsoIDZhZcdqmogC2VHOMAvTUNv3Hvqyo+6bs+l/3ihKax+WdfKHEpwON68IF3J7yHXb+Dk0+9ZU/Z8pmSj5gipg1r/291w2iP3KcNp1A7moxeztvcFmhQ38vdwVvnclELmePOdZBKrisrHpBcT4X6SPM2q7YZfFzcObqkmNrv2NE2+yEm8ljtWW1bn6XTvqKRZmGK/IsCXZeui2fG6AN2jyzlyUBo25m6K1tuVGs63SAp/X+Ji8col2cA+5WVO25TkNL9iP5G+cxly93KYaRMMVmc2u/B2BmNQZ1oKR6/Y2C5/cA+wvvMT/ooHuqQA0pUjtbC/dWkeRMgqeCVQgI+oq/SBnTLIBy6rQRSdBZRqzMjal3cwQ8q1zf/227/JXaIgDjA5ViHmq6mVZnWwXXbCIquP9w7ybCVD5tppnmmE1qsfFd6LCYTrk/7A8+f+ecjoLO0LxifIzzA8nmIl9x65S2A==;EiknZCyL0yUU5RMGf/zE+g=="
 ---
 

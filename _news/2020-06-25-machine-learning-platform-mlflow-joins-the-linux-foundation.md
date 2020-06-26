@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/machine-learning-pla
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-platform-mlflow-joins-the-linux-foundation/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/06/23/2aff1898-485d-4c9e-a7fe-7ce07aba71da/thumbnail/770x578/8f62aa1aee9d5c262af72953c5149e5a/20200622-tdx20-sandeep-bill.jpg"
         width: 770
         height: 578
+        isCached: true
+  - title: "Databricks hands its MLflow machine learning platform to the Linux Foundation"
+    excerpt: "Databricks Inc., the big data and machine learning company that leads the commercial development of Apache Spark, says it’s putting its MLflow project into the hands of the Linux Foundation. MLflow is an open source machine learning operations,"
+    publishedDateTime: 2020-06-25T23:41:00Z
+    webUrl: "https://siliconangle.com/2020/06/25/databricks-hands-mlflow-machine-learning-platform-linux-foundation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/MLflow.jpg"
+        width: 995
+        height: 535
         isCached: true
 
 secured: "jKh7MEiF8t/e3/ks1HRkfWcuJd5dp16ONWNiWaUoDjENm6W8LhAtf6CPeEx9Sbp5aiAoUvqlPaCRnfMUrqotWxSAquMKzZ0Bouhe8G/d1imOHw7ebiM6yWpeUTjT8QJ4nc3ZJLiV/siEITclJhPr6ZAOG1FBRuMn7F3Z/J4qKcXHNzoa3hKo7rh27RK9x21X15LFkwMuWBd22fgyfRzw/bVJCSalS2vPXhHl2+WnV7otwtb/Q2IU+2hLRPuDTucOSeDKpOJjPunopsEUtcbBlLS2BuYXmSn+lQXZA4anPZ3bMOJFodkBl2Dnx86snLjKcuEEBsM/MDYX7iCTT392EsehSOgfGAykwXobc3hHrHA7z0LqdI9e2B3BEM8xaOb4J0G69FsuRQZT8GdIo0L8bM/Kk7e2Ji7UG9Dg8WaU2v1wU9uPpVta6hrmZGkZwgkxc4SmXCFQtWs0BLOSpxeVZ702P51Avv9VJo+aS+WM82eps51R+hjUQmbe3zAX76Bw;ZmUdcHI34W+f9jtrm5xfXA=="

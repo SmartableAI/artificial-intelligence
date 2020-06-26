@@ -1256,21 +1256,21 @@
       ]
     },
     {
-      "path": "_news/2020-06-11-amazon-rekognition-announce-moratorium-on-facial-recognition-use-by-police.md",
-      "title": "Amazon Rekognition announce moratorium on facial recognition use by police",
-      "excerpt": "“We will continue to allow organisations … to use Amazon Rekognition to help rescue human trafficking victims and reunite missing children with their families. “We’ve advocated that ...",
-      "webUrl": "https://www.cairnspost.com.au/technology/amazon-rekognition-announce-moratorium-on-facial-recognition-use-by-police/news-story/a3b6a329af715f494f6946ac6baef74a",
+      "path": "_news/2020-06-11-repairing-and-rewiring-the-brain.md",
+      "title": "Repairing and Rewiring the Brain",
+      "excerpt": "Perhaps the most rewarding part of my work is helping post- traumatic brain injury clients to regain mastery of skills they thought were lost forever. Many of you may be familiar with this aspect of my work from Clark Elliott’s book,",
+      "webUrl": "https://www.psychologytoday.com/us/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain",
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T13:16:00-07:00",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain?amp",
+      "publishedDateTime": "2020-06-11T13:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Cairns Post",
-        "domain": "cairnspost.com.au",
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1280,7 +1280,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI in Healthcare",
         "AI"
       ]
     }
