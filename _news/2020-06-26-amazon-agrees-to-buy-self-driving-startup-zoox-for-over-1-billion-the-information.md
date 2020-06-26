@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23X0PI"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23X0PI"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 412
         height: 275
         isCached: true
+  - title: "Amazon agrees to buy self-driving startup Zoox for over $1 billion: Report"
+    excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology."
+    publishedDateTime: 2020-06-26T06:35:00Z
+    webUrl: "https://www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report"
+    ampWebUrl: "https://www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 42
+    images:
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2020/05/Zoox3.png"
+        width: 952
+        height: 536
+        isCached: true
   - title: "Amazon to buy self-driving start-up Zoox for over $1-billion: report"
     excerpt: "Amazon.com has agreed to pay over $1-billion to buy self-driving start-up Zoox, according to a report. It would would expand its reach in autonomous vehicle technology."
     publishedDateTime: 2020-06-26T05:50:00Z
@@ -62,6 +78,6 @@ related:
         height: 1120
         isCached: true
 
-secured: "+71iYv1jm1MkZoeRO9IMmgkLUJ5MEs40k3+LXc5Z/jff4s5s7N/Qvad6nd+DMNXdZhbt4TLcb2Di9cGXmVDyZc0lODMX25rpNQ+jbevWVL5if7eKuqApYiz7arjhyix9KZ6h4pmIuofyWzntpdwj5gfOhe8815ebRER01j1Oq2cyWWFre1FhOBInQeguOvIYomP2aE5uqVQEQ1oQYR//zu8YPc9ZfMA+6i2YoY/BBfSSkohoOPtT/B0fnMZbEV7Pqo6+2N5oP53uoSspMUoboCoB0Dd8S2BTDStnxhwAtltd3v6kFdf0yzdELAw4KA+/uqi1f9cOFh3vrxvuUtp8WA==;Fo+/hSECCG/VagHXV03GiA=="
+secured: "dP5OZzDk7atRqqUJljw/Z9vJY95xXcZHK8TzzNZuQM/6GcSTUbNTz1Vlis9Qd3XcmmHttwl9KdCBJFk/lAvUnik3UYmduarDEiHXwEYgFVwPeBACcJbJRdV6O18cohu9mPTYToT3/i5GRHf4IkW50sSinzrq8695zqaEfFTAFkTjMoup3/zl3uDNhxKKXebIljkG2yOmmXA3JWlwtJ8R0O/cLdIfOFYLajFgOGnkyorlYs5Z/ikFpHUkHQ5xlY0F6LkpXUOTCXlr2NlGDsVliqnQLltKxxTc0c1fko43V/S6g9nUj//gM8MfLUjumZaa6hfTpB9yn0iND4lu3FYLZqFWC///zZLOfxMm8DTaxRXGbTT3n8JlpnTk4QCoVU7ccCnt+rIfNCBRAx+gyA6KUUrjgGwYZegclwNOsiW5rHIjix49KvGL3x8CQAFVHaarqAqxHSbo4WQenxbVGUtttn5tyXSLc6pDbdMEUO059KKjpmmIU+07u+l7z3IJlBrrcrUEyzXJSrBq/S5UfZ0l8g==;2uZsfr3NWrYmOXZOXvJJWA=="
 ---
 

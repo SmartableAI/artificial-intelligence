@@ -1,30 +1,30 @@
 ---
 category: news
-title: "Waymo and Volvo Team to Make Self-Driving Vehicles"
-excerpt: "Get Report Waymo is partnering with Volvo VLVLY to develop a self-driving electric vehicle designed for ride hailing, the companies said Thursday. Shares of Alphabe"
-publishedDateTime: 2020-06-25T19:54:00Z
-webUrl: "https://www.thestreet.com/investing/waymo-volvo-team-to-make-self-driving-vehicles"
-ampWebUrl: "https://www.thestreet.com/.amp/investing/waymo-volvo-team-to-make-self-driving-vehicles"
-cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/waymo-volvo-team-to-make-self-driving-vehicles"
+title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
+excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday"
+publishedDateTime: 2020-06-26T07:46:00Z
+webUrl: "https://www.dispatchlive.co.za/lifestyle/motoring/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+ampWebUrl: "https://www.dispatchlive.co.za/amp/lifestyle/motoring/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+cdnAmpWebUrl: "https://www-dispatchlive-co-za.cdn.ampproject.org/c/s/www.dispatchlive.co.za/amp/lifestyle/motoring/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: TheStreet.com
-  domain: thestreet.com
+  name: The Daily Dispatch
+  domain: dispatchlive.co.za
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://content.jwplatform.com/thumbs/Y5FbLPhi-720.jpg"
-    width: 720
-    height: 406
+  - url: "https://lh3.googleusercontent.com/H0ihMXS0QNI9A5-qG-yB0_l67GccHLaM3u5Bx0Yi-Fu4lgLOTeK39hNZ7u7uBwHlRHv1Qb86hDBUz7xkP8iau38=s1000"
+    width: 1000
+    height: 628
     isCached: true
-    title: "Waymo and Volvo Team to Make Self-Driving Vehicles"
+    title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
 
 related:
   - title: "Waymo and Uber propose AI techniques to improve self-driving systems"
@@ -59,21 +59,21 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
-    excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday"
-    publishedDateTime: 2020-06-26T07:46:00Z
-    webUrl: "https://www.dispatchlive.co.za/lifestyle/motoring/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
-    ampWebUrl: "https://www.dispatchlive.co.za/amp/lifestyle/motoring/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
-    cdnAmpWebUrl: "https://www-dispatchlive-co-za.cdn.ampproject.org/c/s/www.dispatchlive.co.za/amp/lifestyle/motoring/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+  - title: "Waymo and Volvo Team to Make Self-Driving Vehicles"
+    excerpt: "Get Report Waymo is partnering with Volvo VLVLY to develop a self-driving electric vehicle designed for ride hailing, the companies said Thursday. Shares of Alphabe"
+    publishedDateTime: 2020-06-25T19:54:00Z
+    webUrl: "https://www.thestreet.com/investing/waymo-volvo-team-to-make-self-driving-vehicles"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/waymo-volvo-team-to-make-self-driving-vehicles"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/waymo-volvo-team-to-make-self-driving-vehicles"
     type: article
     provider:
-      name: The Daily Dispatch
-      domain: dispatchlive.co.za
+      name: TheStreet.com
+      domain: thestreet.com
     quality: 59
     images:
-      - url: "https://lh3.googleusercontent.com/H0ihMXS0QNI9A5-qG-yB0_l67GccHLaM3u5Bx0Yi-Fu4lgLOTeK39hNZ7u7uBwHlRHv1Qb86hDBUz7xkP8iau38=s1000"
-        width: 1000
-        height: 628
+      - url: "https://content.jwplatform.com/thumbs/Y5FbLPhi-720.jpg"
+        width: 720
+        height: 406
         isCached: true
   - title: "AImotive secures $20 million to expand locations and self-driving technology"
     excerpt: "AImotive has become what it claims is the most-funded automated driving software supplier in Europe with an additional $20 million raised in funding. IEEE GlobalSpec websites place cookies on your device to give you the best user experience."
@@ -90,6 +90,6 @@ related:
         height: 470
         isCached: true
 
-secured: "t+DCj/zN8gXnBTOnFp96VN0B64uDslf87TCYsO+8DH9hmuZ6dU2+paTFDeEZ3mNcrbbzyMTg2WHBkj3Pn8y03cXdyeNdW2uwsH9MnZ+0BXY7W3M3vIvNF7UJRhVIru9HsjztPlWnj5Vjh1sOTLAvdaYaEqbBKKWBedi9YiXLmnoVFG5Zy0YbfVfg7vYTZYcbb1m7pA05P6INzvifp9R5z9eoCsK0zjBsM4P/WQZmnzZn8yh9yUZZlj+kge8+Xjnc2dyS8BDDxZ92qHNS8rEZwR8urtQe+dwiK9OTgx0yM5pYx68+ogDZhRS2aW2mxWEnJFWSVw0NnWvUsLcQyBNEmidt33aUsbPQLZCvOB22um4LHEcWvAzZWeBi39m0X89dIC4B5yMwakIfz6Aur2CDFx8fV8EMkY3npGGmOmgZFETpKlMOMtOWgdemQouHDZx2L0Su0zR5C/3VwMDxQWigP5nTdJUwR0QZQyfH4WUUMrN7my2anZK/hpWBao4B76srrOPC6ouL3M4UnRj/KpbB+w==;y2ZwREuHGTV6txClem4Cyg=="
+secured: "ojKJCxpYlp8gQ3AQLK/y3REeUHU09mDJbn7CRKFA6pFyMhVOVkOt2MTJ9soZwdwvyxnTqf3K3tmLqlzybXQZAaOg/e2Jnq8uCWonQxqV3x+9C5P09ZnaYDvrKUVAdJeE9H4Nvb9QfnRzbv3ThLP6pZMhLgCaYRWYsJK53kqEUwWKKjn3JJYfW5c+4DvRikyMC5/D249jUJtflKK0dJDS8PS0kIsta/rPXL6Eq0IFIBTM8k9Xt6FJaffwxBdPUJfiWaP0g4vRphRRVrpS1FnyErVMJUx2oRNAe6fvnjT6twY7Qe8hBWyjvluhpJXnzrZB/FyOGOH39ass76Damf6t0A==;FKv0/zbDt8C8eoTBeAydFA=="
 ---
 

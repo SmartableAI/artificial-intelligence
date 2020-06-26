@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research"
-excerpt: "Intel and the National Science Foundation announce award recipients of joint funding for research into the development of future wireless systems."
+excerpt: "Intel and the National Science Foundation (NSF) announced award recipients of joint funding for research into the development of"
 publishedDateTime: 2020-06-25T14:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200625005022/en/Intel-National-Science-Foundation-Invest-Wireless-Specific-Machine"
+webUrl: "https://www.marketwatch.com/press-release/intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research-2020-06-25"
 type: article
-quality: 26
-heat: -1
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200625005022/en/59121/23/intel_rgb.jpg"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
-    height: 627
+    height: 630
     isCached: true
     title: "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research"
 
@@ -54,6 +58,6 @@ related:
         height: 228
         isCached: true
 
-secured: "TCLxPAaNH/VYl8lI2qVh1WO9D4MZ3Jbj0LBKfAy9qS1cs6OfA9GZPusM81A1eyHTmALIQPwtK8pJL2vMUBxbRk7d1j2B7aQo9gvPYVZujg1jYgisJJ2HdMBdBZRzR4FXjIH83oxIiDhJtB1pYLTYmNLxYohiOR0CJvKYXRO2B/acvNSeGztMl5+6MtDQfvT+jRjg8ivcQ7hvnpHmmn7uflGJ6w4jf43PtqcT1KPvg1dwq8kKwqlnZXt7+cbcBreA+zUgn2uO5iTqz6iqF6zDUbbKIuefncRhNnqd4aULWuBvqfRZ+9Ma+72DIz2e/tGQSB/y5T1CmwFB0XtwRbGdsw==;TpISAMs/QHFBQDoTWTpAwA=="
+secured: "RTGThKW8Fha65Gq9xtGRFaxUbd3TIDgHnN/rphPyi+K0HI5/QxeFbZd9Wuf75cRxshMphfRqvhTRwfJ1UkEiFWxRwj4GPeFtYDlg8l3jjxBO0LS4PrpTgAiLpYKFJ+SG0fQfGne8umjtP1kUQPBm4jmvNfK8l5rbJSz/6VZr1JVg6WF7/s3CL5sB8S3TMOhfF5oV8Z5l4ojAHgyv1HoVBB5BU0kXBYZRr1gWzkX2Sbyu0iu4eRXoPA0qX/mKmdJpFkjIxEoO2nQkBqA98LySXLYQOtW7es5EOZti9K0JCsj1my5LLoihOPDnLPabaDyhFaJ07RKs/TxBwHJQIYQ03Q==;oi9arPZlSf4JuUzcAzmj0Q=="
 ---
 

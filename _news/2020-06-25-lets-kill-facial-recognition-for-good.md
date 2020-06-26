@@ -1,34 +1,30 @@
 ---
 category: news
-title: "Let's Kill Facial Recognition For Good"
+title: "Let’s Kill Facial Recognition For Good"
 excerpt: "There’s a buffet of things to be scared shitless about these days, but for those who have sampled even a taste of big tech’s eagerness to build and sell facial recognition surveillance software to law enforcement,"
-publishedDateTime: 2020-06-25T21:16:00Z
-webUrl: "https://gizmodo.com/lets-kill-facial-recognition-for-good-1844168367"
-ampWebUrl: "https://gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp"
-cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp"
+publishedDateTime: 2020-06-25T21:00:00Z
+webUrl: "https://www.gizmodo.com.au/2020/06/lets-kill-facial-recognition-for-good/"
+ampWebUrl: "https://www.gizmodo.com.au/2020/06/lets-kill-facial-recognition-for-good/amp/"
+cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/06/lets-kill-facial-recognition-for-good/amp/"
 type: article
-quality: 74
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Gizmodo
-  domain: gizmodo.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Gizmodo Australia
+  domain: gizmodo.com.au
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nvw4abg7rvdyxyeklgsr.jpg"
-    width: 800
-    height: 449
+  - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/06/26/nvw4abg7rvdyxyeklgsr.jpg"
+    width: 1021
+    height: 573
     isCached: true
-    title: "Let's Kill Facial Recognition For Good"
+    title: "Let’s Kill Facial Recognition For Good"
 
 related:
   - title: "AI Startup Pilots Digital Masks That Counter Facial Recognition"
@@ -48,6 +44,6 @@ related:
         height: 930
         isCached: true
 
-secured: "t5/pfiSBpjrFDPKIKoZcn1AZHi1Lvnqa8L0AizpuuzT6fNiKGUHNh5s0cXMqSpcVnb7jRGtqES9lBkanzPXueRHLXrwDwIDgCYuwPQke1oYtTd8559bYVBEpLBIgITuhNSboTNaS0TzQjU0/OWLCEf79IPjNu+kOMK8OvaU805omPeQFGpyQ97lV3zOeFDXXgdH9R7DG8YL0Fiu6SqCTnmbqsyrnTrtrdOa8JeLu/1VZQAFtSrzj8hWN9JmvSepmml2mIt00gjbZpp9gzAHv7JcXcZtt/2k5uRMMftxI5k19SASE3E3BVmGB1Er2Rb7UblODrrUTde0jKTlobQVuSA==;oe1ZkRDt6wrxKvj5c/aqmA=="
+secured: "+5hbLd9aczkzAWOdNuOesfV9Fd6Tj/ZLk40E7RnavQ32MfyetX8EA/qmHU4meP6iZBmGaX3P7Blcf9SErFbMJTbiIEUIid6jxq6xKDO0ZnXUmxRAnaZ3nrx3mLSMUvqAfoKsU9tNlMz33z3FO1jy4elkBXZe+TUiLNybepDewzv0b74ABNYbTKV3NalC4aHMWb2lNqqCKjXF3DjVoY8vIPogWvfThP0JT2VsvwrkpfFAa0zfEBSmok2f2aLtrYemjSutWbv33RQikZC8CHFbJbmBV/KMjxp05koat6zJZU4BZKs6bU37PVJTVfouZsX1N7FPHJCk3ySC+J7hld4MVA==;JBMeyxTOZh9ncbsMZngzvQ=="
 ---
 

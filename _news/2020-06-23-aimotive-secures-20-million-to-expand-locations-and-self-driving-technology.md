@@ -73,6 +73,22 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
+    excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday"
+    publishedDateTime: 2020-06-26T07:46:00Z
+    webUrl: "https://www.dispatchlive.co.za/lifestyle/motoring/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+    ampWebUrl: "https://www.dispatchlive.co.za/amp/lifestyle/motoring/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+    cdnAmpWebUrl: "https://www-dispatchlive-co-za.cdn.ampproject.org/c/s/www.dispatchlive.co.za/amp/lifestyle/motoring/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+    type: article
+    provider:
+      name: The Daily Dispatch
+      domain: dispatchlive.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/H0ihMXS0QNI9A5-qG-yB0_l67GccHLaM3u5Bx0Yi-Fu4lgLOTeK39hNZ7u7uBwHlRHv1Qb86hDBUz7xkP8iau38=s1000"
+        width: 1000
+        height: 628
+        isCached: true
 
 secured: "3OblOuKJ8qGVN7UCL1Av4Baq59YN8EqmZK8Qx7ICHfJmbD5K00EWhFWlghNOq6Hzw8sJvRnTHtclnudKGBRAqThCpYOs7m2WQUlltHxbYMpK6ZeCkNVfpJLc9NLNgnP/KG9/lV6J4hpAzeyLORzfZMgeZ9TAU12z6B75TU8NbxCS4eWfKWNLL0bEgghKlO92T5d3asQ2OxXlqC0omRiQJyaanvf1r3a32BQVQ6cDLPXnw6f4XBFFfQmE8UoZe5bmBZisscSQIhZz+5H59mhki8HgGxqMpGoZJ7h13dUP2kctUYGeYWQWBi45C48A+5HZPgYUuqaZnk5N/SQKD1iIt/EJZ5r7pKA5rn7lyT62eVfYjNxkaWTur1ioMfXh76d/5MBaV+dhPPrtFEzPVBrY8JOXWFgwCpjrAJVmK/KlF6LN3dmMhupikqD5iis6hJFWvtTQza+9pEa/XAv1Dz6hrppDtVQR8VWBw8zh25ara4mDQaVDdPGBgkbDG9+OjCdGWlMIODqVJLI46zIbn6bpKg==;dH707K60gs6790tjbz1Hmw=="
 ---

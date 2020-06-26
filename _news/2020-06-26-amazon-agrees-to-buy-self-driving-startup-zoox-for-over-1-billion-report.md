@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Amazon to buy self-driving start-up Zoox for over $1-billion: report"
-excerpt: "Amazon.com has agreed to pay over $1-billion to buy self-driving start-up Zoox, according to a report. It would would expand its reach in autonomous vehicle technology."
-publishedDateTime: 2020-06-26T05:50:00Z
-webUrl: "https://techcentral.co.za/amazon-to-buy-self-driving-start-up-zoox-for-over-1-billion-report/99116/"
+title: "Amazon agrees to buy self-driving startup Zoox for over $1 billion: Report"
+excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology."
+publishedDateTime: 2020-06-26T06:35:00Z
+webUrl: "https://www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report"
+ampWebUrl: "https://www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report.amp"
+cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report.amp"
 type: article
-quality: 24
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: TechCentral
-  domain: techcentral.co.za
+  name: Fox Business
+  domain: foxbusiness.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://techcentral.co.za/wp-content/uploads/2020/06/re-amazon-2156-1120.jpg"
-    width: 2156
-    height: 1120
+  - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2020/05/Zoox3.png"
+    width: 952
+    height: 536
     isCached: true
-    title: "Amazon to buy self-driving start-up Zoox for over $1-billion: report"
+    title: "Amazon agrees to buy self-driving startup Zoox for over $1 billion: Report"
 
 related:
   - title: "Amazon agrees to buy self-driving startup Zoox for over $1 billion: The Information"
@@ -57,23 +59,21 @@ related:
         width: 412
         height: 275
         isCached: true
-  - title: "Amazon agrees to buy self-driving startup Zoox for over $1 billion: Report"
-    excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology."
-    publishedDateTime: 2020-06-26T06:35:00Z
-    webUrl: "https://www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report"
-    ampWebUrl: "https://www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report.amp"
+  - title: "Amazon to buy self-driving start-up Zoox for over $1-billion: report"
+    excerpt: "Amazon.com has agreed to pay over $1-billion to buy self-driving start-up Zoox, according to a report. It would would expand its reach in autonomous vehicle technology."
+    publishedDateTime: 2020-06-26T05:50:00Z
+    webUrl: "https://techcentral.co.za/amazon-to-buy-self-driving-start-up-zoox-for-over-1-billion-report/99116/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 42
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 24
     images:
-      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2020/05/Zoox3.png"
-        width: 952
-        height: 536
+      - url: "https://techcentral.co.za/wp-content/uploads/2020/06/re-amazon-2156-1120.jpg"
+        width: 2156
+        height: 1120
         isCached: true
 
-secured: "vRooykb9422XxxLRi8raxITCWCICMLOHCfoYR7PtpS7GexXST9ZC41vqkWLUESMX98yt3iR0BvMLyjDeneIfC22AL5b7c1AV7Mn4xyN4ArGJzTicgYLZ0tDcwPgHcYMFotouZXZ0isSKj7+7MzHJqrsSCd5iHqakN/gNVlXSQfIfeOHStLqmMykW0xMpGnDuE3qIAt9hT2uWJXh/lXeQ5o7w/wEPf/5EyyEq9mwmXRfS+JLT8QVA8cdMZerhD3sazg7dV7UoNq2Da2bCdvgyrURKGut624UGPPfJ835fHvLR9VkmQZM9VVV0nHclEKQNykXrvgvG2SP9Hggg87ESIw==;NFUR+spBNiUt4NLB6bOLWw=="
+secured: "yn4rKVOsz7NlTiPmPLqwoA73yjYI1/4waJymke32lmALmV4dsI8fGLo5bMnk20A0POCVO1TOtzPHJZ24XQUcoIkpkbaxNqL9sfDMVoJa17EAHOkXSofbDJCclgPyUtPR+2GIaJ9FJECG9ymJdVsQQ5DxcFu/AhQX8UDVfQeeI4PTEecDr77zDR45cmq/CTPMyZySE5weIBZhQEgDD9u4EB7CjFxuwYJjHnYzZ4CUFV2SlKJInHZ0axw5K1+NCz14F2PlrIrIIEdaAWQsFFSiufrD1BC27ZfzkOkqFsP9+/+PktfIldPLNrfNxDsaVVrOD1bNA8n63RaicjGUMdESJA==;NVq1OEmBGV4BnRX9nwNNJg=="
 ---
 

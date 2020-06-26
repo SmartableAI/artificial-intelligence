@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 577
         isCached: true
+  - title: "Amazon to buy self-driving startup Zoox for $1 billion"
+    excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-comm"
+    publishedDateTime: 2020-06-26T07:47:00Z
+    webUrl: "https://www.businesstoday.in/current/corporate/amazon-to-buy-self-driving-startup-zoox-for-1-billion/story/408110.html"
+    ampWebUrl: "https://m.businesstoday.in/lite/story/amazon-to-buy-self-driving-startup-zoox-for-1-billion/1/408110.html"
+    cdnAmpWebUrl: "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/amazon-to-buy-self-driving-startup-zoox-for-1-billion/1/408110.html"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 44
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/amazon_505_220520034228_260620010820.jpg?size=1200:675"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "JF3vBPLwTGH5yBf4D4OnfJq+OQvFTWPabT29/KLgNOO46vk2Pivj6IEuIi0Xt+qx65dWz9wnR/KpiZa0oycj5UAxkmShduRL1SLX8L5xgSKYix3eq92th6KjpIkXyAOvsUZv9mFUKikY7vdBMs4YfOkYuI6HnjARnxiQlwlLxwC3J3VngMDHS3aa01BaNugl1aEeYRLrotU/U3rho3xk6vpyFYjXt2BMbzgrDNvuoW8zwS+ZjZCl9dRmKBSvyf8PaQG1rpG63w7km94AHYhXSqz3z/VHtqzRZ+8z3RgLi72dOxyKe4qwTxSI+vMwAHdm7C6UsFQFVZc/p0a+AWukMg==;lyGoLHPBokZbMKz3KkcJdg=="
 ---

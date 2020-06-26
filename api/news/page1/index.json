@@ -6,7 +6,7 @@
       "title": "Amazon agrees to buy self-driving startup Zoox for over $1 billion: The Information",
       "excerpt": "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology.",
       "webUrl": "https://www.reuters.com/article/us-zoox-m-a-amazon-com-idUSKBN23X0PI",
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1079,18 +1079,18 @@
       ]
     },
     {
-      "path": "_news/2020-06-25-meet-the-ai-startup-using-your-health-data-to-help-drug-companies-target-ads.md",
-      "title": "Meet the AI startup using your health data to help drug companies target ads",
-      "excerpt": "DeepIntent says its platform that uses de-identified health information can increase ad reach to desired patient populations by 60%.",
-      "webUrl": "https://www.businessinsider.com/how-this-startup-aiming-to-better-connect-drugs-ads-patients-2020-6",
-      "heat": 74,
+      "path": "_news/2020-06-25-intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research.md",
+      "title": "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research",
+      "excerpt": "Intel and the National Science Foundation (NSF) announced award recipients of joint funding for research into the development of",
+      "webUrl": "https://www.marketwatch.com/press-release/intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research-2020-06-25",
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5ef3956d19182414391dfbd4?width=1200&format=jpeg",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 600,
-          "title": "Meet the AI startup using your health data to help drug companies target ads",
+          "height": 630,
+          "title": "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research",
           "attribution": null,
           "isCached": true
         }
@@ -1098,14 +1098,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T06:32:00-07:00",
+      "publishedDateTime": "2020-06-25T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1121,6 +1121,7 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     }
