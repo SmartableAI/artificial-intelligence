@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T12:22:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-trends-size-shares-overview-and-forecast-by-2020-2027-2020-06-23"
 type: article
 quality: 71
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market By Offering, By Technology, By Region - Trends, Analysis, and Forecast Till 2025"
+    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
+    publishedDateTime: 2020-06-26T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-by-offering-by-technology-by-region---trends-analysis-and-forecast-till-2025-2020-06-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -148,6 +162,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Smart Learning Systems Market Size, Share, Growth, Research and Forecast 2020-2026"
+    excerpt: "The adoption of AI tools enables to provide learning easily and interactively to all whether students with visual and hearing impairments or speak different languages. Presentation Translator is one of the best instances that create subtitles in real-time ..."
+    publishedDateTime: 2020-06-26T12:46:00Z
+    webUrl: "https://www.openpr.com/news/2080747/smart-learning-systems-market-size-share-growth-research"
+    ampWebUrl: "https://www.openpr.com/amp/2080747/smart-learning-systems-market-size-share-growth-research"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2080747/smart-learning-systems-market-size-share-growth-research"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
 
 secured: "DzMa0IgDcbCJSmoIaSV4tLkbvXTmjNHran/YTJpI8Yjpbgd5atPUC3+SYgekhYNDnbILIvQkyY2H1zHtpk+Cp5XXxlVIbC1sBDTRbeSw6vlcRK0EhGxwjaeeCi8SamuCZyrOWzQjpl1UkSqpobX7AXzXJ9jZ8G0gBDYadFT32kpu1Glx2QPYF2Y13kqNK3jyvrzPxqVb9vUrivlOsFBLhbL/ZX4qMN2BORpq/8fwMYighmdVdbPeXK28DByK8KYvzhhH4SbC1cBCUjpcPZ/pyz6PUD5XCMwugZaLBytiHOhsg9oHcjxyslDTr+XRPcPhXv53rJwAQJ0z3UB2qu4M5w==;A6aKmfFXe2j8d+iU/C14Sw=="
 ---

@@ -6,7 +6,7 @@
       "title": "Members of Congress push to ban federal use of face recognition",
       "excerpt": "A group of Democratic Senators and House representatives have introduced a bill that seeks to ban federal use of facial recognition technology. It follows an incident in which Detroit police wrongfully arrested a man after a facial recognition system incorrectly flagged him as a suspect.",
       "webUrl": "https://www.engadget.com/facial-recognition-ban-bill-democrats-182006734.html",
-      "heat": 222,
+      "heat": 212,
       "tags": null,
       "images": [
         {
@@ -101,7 +101,7 @@
       "title": "A Flawed Facial Recognition System Sent This Man to Jail",
       "excerpt": "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used.",
       "webUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/",
-      "heat": 484,
+      "heat": 504,
       "tags": null,
       "images": [
         {
@@ -186,7 +186,7 @@
       "title": "ACLU files first formal complaint over wrongful facial recognition arrest",
       "excerpt": "The American Civil Liberties Union (ACLU) has filed a formal complaint against Detroit police over what it says is the first known example of a wrongful arrest caused by faulty facial recognition technology.",
       "webUrl": "https://www.theverge.com/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence",
-      "heat": 273,
+      "heat": 283,
       "tags": null,
       "images": [
         {
@@ -1218,18 +1218,27 @@
       "path": "_news/2020-06-12-cvpr-2020-convenes-thousands-from-the-global-ai-machine-learning-and-computer-vision-community-in-virtual-event-beginning-sunday.md",
       "title": "CVPR 2020 Convenes Thousands from the Global AI, Machine Learning and Computer Vision Community in Virtual Event Beginning Sunday",
       "excerpt": "LOS ALAMITOS, Calif., June 12, 2020 /PRNewswire/ -- The Computer Vision and Pattern Recognition (CVPR) Conference, one of the largest events exploring artificial intelligence, machine learning ...",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/n16241122/cvpr-2020-convenes-thousands-from-the-global-ai-machine-learning-and-computer-vision-community-in-",
+      "webUrl": "https://www.prnewswire.com/news-releases/cvpr-2020-convenes-thousands-from-the-global-ai-machine-learning-and-computer-vision-community-in-virtual-event-beginning-sunday-301074876.html",
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/462374/IEEE_Computer_Society_Logo.jpg?p=facebook",
+          "width": 597,
+          "height": 314,
+          "title": "CVPR 2020 Convenes Thousands from the Global AI, Machine Learning and Computer Vision Community in Virtual Event Beginning Sunday",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16241122",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16241122",
-      "publishedDateTime": "2020-06-12T04:35:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-12T04:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

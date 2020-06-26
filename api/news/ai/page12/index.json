@@ -2,6 +2,52 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-06-12-ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work.md",
+      "title": "AI Weekly: AI phrenology is racist nonsense, so of course it doesn’t work",
+      "excerpt": "Researchers torched studies that claim to be able to determine a person's criminality using facial recognition technology.",
+      "webUrl": "https://venturebeat.com/2020/06/12/ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": "AI Weekly: AI phrenology is racist nonsense, so of course it doesn’t work",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/12/ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work/amp/",
+      "publishedDateTime": "2020-06-12T15:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-vergecast-android-11-beta-ps5-reveal-and-big-tech-halts-facial-recognition-for-police.md",
       "title": "Vergecast: Android 11 beta, PS5 reveal, and big tech halts facial recognition for police",
       "excerpt": "During the first part of the show, Verge reporter Megan Farokhmanesh and games editor Andrew Webster take over to run through everything announced at Sony’s virtual event on Thursday — from all the games to the long-awaited reveal of the PS5 design.",
@@ -1266,35 +1312,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-cvpr-2020-convenes-thousands-from-the-global-ai-machine-learning-and-computer-vision-community-in-virtual-event-beginning-sunday.md",
-      "title": "CVPR 2020 Convenes Thousands from the Global AI, Machine Learning and Computer Vision Community in Virtual Event Beginning Sunday",
-      "excerpt": "LOS ALAMITOS, Calif., June 12, 2020 /PRNewswire/ -- The Computer Vision and Pattern Recognition (CVPR) Conference, one of the largest events exploring artificial intelligence, machine learning ...",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/n16241122/cvpr-2020-convenes-thousands-from-the-global-ai-machine-learning-and-computer-vision-community-in-",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16241122",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16241122",
-      "publishedDateTime": "2020-06-12T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

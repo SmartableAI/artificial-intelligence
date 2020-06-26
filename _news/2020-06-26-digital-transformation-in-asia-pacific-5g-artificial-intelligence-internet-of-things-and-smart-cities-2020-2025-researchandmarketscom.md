@@ -1,41 +1,90 @@
 ---
 category: news
 title: "Digital Transformation in Asia-Pacific: 5G, Artificial Intelligence, Internet of Things and Smart Cities 2020-2025 - ResearchAndMarkets.com"
-excerpt: "The \"Digital Transformation Asia Pacific: 5G, Artificial Intelligence, Internet of Things, and Smart Cities in APAC 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. From predicting what will happen with 5G technology in the next few ..."
-publishedDateTime: 2020-06-26T11:31:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/06/b16403929/digital-transformation-in-asia-pacific-5g-artificial-intelligence-internet-of-things-and-smart-cit"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16403929"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16403929"
+excerpt: "The \"Digital Transformation Asia Pacific: 5G, Artificial Intelligence, Internet of Things, and Smart Cities in APAC 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. From predicting what will happen with 5G technology in the next few years to identifying how 5G will transform business,"
+publishedDateTime: 2020-06-26T11:18:00Z
+webUrl: "https://www.businesswire.com/news/home/20200626005177/en/Digital-Transformation-Asia-Pacific-5G-Artificial-Intelligence-Internet"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
 
+images:
+  - url: "https://mms.businesswire.com/media/20200626005177/en/371054/23/ResearchAndMarkets_800px.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+    title: "Digital Transformation in Asia-Pacific: 5G, Artificial Intelligence, Internet of Things and Smart Cities 2020-2025 - ResearchAndMarkets.com"
+
 related:
-  - title: "Digital Transformation Report: AI, Cloud based SaaS, and the Latest Fintech will Transform Banking in Next 5 Years"
-    excerpt: "Max Chuard, CEO at Temenos , a Switzerland-based banking software company, notes that the COVID-19 outbreak has accelerated the demand for the latest banking technologies and othe"
-    publishedDateTime: 2020-06-24T01:45:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/06/163117-digital-transformation-report-ai-cloud-based-saas-and-the-latest-fintech-will-transform-banking-in-next-5-years/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/06/163117-digital-transformation-report-ai-cloud-based-saas-and-the-latest-fintech-will-transform-banking-in-next-5-years/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/06/163117-digital-transformation-report-ai-cloud-based-saas-and-the-latest-fintech-will-transform-banking-in-next-5-years/amp/"
+  - title: "C3.ai's Digital Transformation Institute issues awards for data-driven COVID-19 research"
+    excerpt: "The research projects looked at COVID-19 as well as its impact on housing precarity, eviction and inequality as well as the role of social determinants on health and using data science to detect and understand transmission."
+    publishedDateTime: 2020-06-23T04:01:00Z
+    webUrl: "https://www.zdnet.com/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 52
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/01/Bank-Banking-Teller-Wait-Queue-Delay-600x800.jpg"
-        width: 600
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/23/02428142-0b66-4a7f-bc5f-747fba9b6ecc/thumbnail/1200x675/65b00467acc2a9c0f0f617b40fbc3806/3-2.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "C3.ai Digital Transformation Institute Announces COVID-19 Awards"
+    excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the first C3.ai DTI awards for artificial intelligence (AI) techniques to mitigate"
+    publishedDateTime: 2020-06-23T04:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/c3ai-digital-transformation-institute-announces-covid-19-awards-2020-06-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Grants Available for COVID-19 Research that Uses Artificial Intelligence and Big Data"
+    excerpt: "Research that Uses Artificial Intelligence and Big Data | Read more about UCF Colleges & Campus News, Research, Orlando and Central Florida news."
+    publishedDateTime: 2020-06-25T15:39:00Z
+    webUrl: "https://www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/"
+    ampWebUrl: "https://www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/?amp"
+    cdnAmpWebUrl: "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/?amp"
+    type: article
+    provider:
+      name: UCF Today
+      domain: ucf.edu
+    quality: 65
+    images:
+      - url: "https://www.ucf.edu/news/files/2020/06/WebAI.jpg"
+        width: 1200
         height: 800
         isCached: true
+  - title: "Princeton faculty members receive grants for COVID-19 research from C3.ai Digital Transformation Institute"
+    excerpt: "By using the computing capabilities of C3.ai Suite and Microsoft Azure Cloud, we expect to analyze large volumes of location data as they are collected and adapt the intervention policy. We will make our research outcomes, including software, non ..."
+    publishedDateTime: 2020-06-23T19:40:00Z
+    webUrl: "https://www.princeton.edu/news/2020/06/23/princeton-faculty-members-receive-grants-covid-19-research-c3ai-digital"
+    type: article
+    provider:
+      name: Princeton University
+      domain: princeton.edu
+    quality: 21
+    images:
+      - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2020/06/20180411_LewisSci-ibrary_DJA_008.jpg?itok=ONNt0pT9"
+        width: 1440
+        height: 810
+        isCached: true
 
-secured: "4yMwbG5XYF1SccS3GWdeDGNvWhr7WRFTlDeH+0dbQMsqIDbRfvcEu82jjBrG4mrqVLzW7pZRznp70ig+3KV0IB/4BXurYTLYOLdOY89IKZsYFDJ0w5ajvttuqyfStY1VbQnvNH3Dl4YbvRg6QoBfepQRPMzt6y0jzKyOCWi01AELW0frOc9+jneCEcYbq/5CYPQXDWKdUMQ81ojh2y3QDoLRszMF8089D4BHf+3OjXk+JzFWSE+6cLSHIoJh7drZGzLAuSSq7RayjIz8B+fZE0QdfHDajM9ZSxw8YByFTGSMnGSeOjuVqth6c4SFd/eO8JjaswUS4LVZpoYC7A6RUA==;LslEjzh+2AO4RqIUTxUMmg=="
+secured: "NQ5ODm0aw1k2mRg0+tFa8GaHm2fIjRHQpJXZFif8wWrZX0IHtPL6dVyuBChsL1D5f2JcwCy1waIbtxqwg0DR6SrFerYaO1gQXP4TudSQfosjLsGD2BduHvAsHnl1tUHLmSByHN6OCVmVuPG5y2tCTOknM+BX8U8YJD8ij3QqDEVgun6yI+SNsSPSWeOpWDOU+TnYBmDnP4m9sO/oeiZD0PmERChHPX6OMXhBP2S3AWW8jVzN9ZNHKP6OKvumxt4IMUKTfM20mPKmgS98M8q5p9VFQhx0+gzug90/M9Zz4hLz8mHIWvLevm/IKSDqcBnObHvwoEfMiVooukOyZuixcA==;6QEISPelOiaXbVtz7Y8qFQ=="
 ---
 

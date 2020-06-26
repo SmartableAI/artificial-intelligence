@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-self-driving-system-with-automated-routing-and-parking/amp/"
 type: article
 quality: 81
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://images.hgmsites.net/hug/mercedes-benz-and-nvidia-self-driving-technology-partnership_100749856_h.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Delighting Customers with Intelligent Merchandising and a Self-Driving Site | Sponsored Content | Tech-Talk Webinar, On-Demand"
+    excerpt: "Talk Webinar featuring Matthew Wasley, senior product marketing manager at Adobe. He shared the concept of self-driving sites and how product recommendations can increase conversions, average order value and brand loyalty."
+    publishedDateTime: 2020-06-26T13:58:00Z
+    webUrl: "https://www.emarketer.com/content/delighting-customers-with-intelligent-merchandising-self-driving-site-sponsored-content-tech-talk-webinar-on-demand"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 0
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/3fc686f30deacea090a5171daa4f93b3/default-image-share.png"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "TmkjGfi/LzT35cPtO38vrciqi7DbT5DTbyyeFmjvRL5wdquZ+3PatCFwBLUJ0XDzC1C5yV5WuEMfcXtx7volgwIg1F8Hh7PwHRU9Qeur2Rie1fFiRaCYojPDag4hs9/N/32xkO8Xjymcc5rkozPdKhlQdQjR/X9xTxEhH2BVBC2lNlFAHzByvGyeZpk4wXRqblhDjWLZ/dy8NIqRJ00ZmtiysnewcciA6Z9bJI28jt82KrBDQRh+0ZfCUzEp3gd9m6+lodmo0ln93HwWHpgxWBSQ6S5/sS/oSZWXEi1km5DGJbQWUp48ksVCbML2ZM8pLraN0bgqtJ/AVW3QEvngkuP52Y5ONZ/RXAptEy9GKDmU4GhRVrQRXFJnUJT9HYzsjVeGav/VglljrSH2mhAxoyF0NnQoy3YBcePjcDsnhcuxKcCFEM74Yngi5xA5K9CGGnrjwrNOXNfz/CEhgKZM6QsfK68fD2VEyMIyEvxbK4Us3Yg0bauwtERH18rFPoC9N6kh7H4jJjDfiGb0qM7x8g==;TtsNDTMrqv/RlEaNm9nD8A=="

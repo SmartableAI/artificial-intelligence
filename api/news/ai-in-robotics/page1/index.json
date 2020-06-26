@@ -2,6 +2,147 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-26-amazon-acquires-autonomous-vehicle-startup-zoox.md",
+      "title": "Amazon acquires autonomous vehicle startup Zoox",
+      "excerpt": "Amazon announced that it's acquired Zoox, a startup developing a range of autonomous vehicle technologies. The details of the deal weren't disclosed.",
+      "webUrl": "https://venturebeat.com/2020/06/26/amazon-acquires-autonomous-vehicle-startup-zoox/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/zoox_highlander_04.jpg?w=1200&#038;strip=all",
+          "width": 1000,
+          "height": 563,
+          "title": "Amazon acquires autonomous vehicle startup Zoox",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/26/amazon-acquires-autonomous-vehicle-startup-zoox/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/26/amazon-acquires-autonomous-vehicle-startup-zoox/amp/",
+      "publishedDateTime": "2020-06-26T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-ai-robot-erica-will-star-in-70-million-sci-fi-movie-b.md",
+      "title": "AI robot 'Erica' will star in $70 million sci-fi movie 'b'",
+      "excerpt": "The humanoid robot was 'taught' method acting by her creators. Robots are likely to replace a lot of jobs in the future, but these roles are generally well-suited to automation. For some jobs — particularly creative professions — it’ll be much harder to simply swap in a digital employee.",
+      "webUrl": "https://www.engadget.com/ai-robot-erica-will-star-in-70-million-scifi-movie-b-130539023.html",
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F7745e800-b79d-11ea-b771-32a7a9fe7396&client=amp-blogside-v2&signature=7afb01dc5b87fd3dc7880f68d9b69e0879100a30",
+          "width": 600,
+          "height": 350,
+          "title": "AI robot 'Erica' will star in $70 million sci-fi movie 'b'",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ai-robot-erica-will-star-in-70-million-scifi-movie-b-130539023.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-robot-erica-will-star-in-70-million-scifi-movie-b-130539023.html",
+      "publishedDateTime": "2020-06-26T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-robotics-in-business-everything-humans-need-to-know.md",
+      "title": "Robotics in business: Everything humans need to know",
+      "excerpt": "3D gaming sensors are helping robots navigate the clutter of the unstructured human world. And companies like Google, Amazon, and Apple have been hard at work bringing limited Artificial Intelligence platforms online and into homes. This has all been ...",
+      "webUrl": "https://www.zdnet.com/article/robotics-in-business-everything-humans-need-to-know/",
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2017/02/07/0d0d7aa7-1578-4781-b083-4913601d89dc/resize/1200x900/831cf0856b72eff833dd5e676a5302e9/20170207104736-intro.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Robotics in business: Everything humans need to know",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robotics-in-business-everything-humans-need-to-know/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robotics-in-business-everything-humans-need-to-know/",
+      "publishedDateTime": "2020-06-26T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-boston-dynamics-will-ship-spot-with-a-robot-arm-in-a-few-months-and-for-home-use-someday.md",
       "title": "Boston Dynamics will ship Spot with a robot arm ‘in a few months’ and for home use ‘someday’",
       "excerpt": "Boston Dynamics will start selling Spot with a robot arm to businesses interested in mobile manipulation in a few months, and eventually for home use.",
@@ -36,44 +177,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-worlds-first-ai-robot-movie-star-gets-cast-in-70-million-sci-fi-film.md",
-      "title": "World's First AI Robot Movie Star Gets Cast In $70 Million Sci-Fi Film",
-      "excerpt": "It was perhaps inevitable that we'd eventually get an AI movie star, and it seems that day is here. It's been reported that a new sci-fi movie is in development, and it's set to star an AI robot named Erica.",
-      "webUrl": "https://www.gamespot.com/articles/worlds-first-ai-robot-movie-star-gets-cast-in-70-m/1100-6478953/",
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gamespot1.cbsistatic.com/uploads/original/1557/15576725/3690829-erica.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "World's First AI Robot Movie Star Gets Cast In $70 Million Sci-Fi Film",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/worlds-first-ai-robot-movie-star-gets-cast-in-70-m/1100-6478953/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/worlds-first-ai-robot-movie-star-gets-cast-in-70-m/1100-6478953/",
-      "publishedDateTime": "2020-06-24T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -386,44 +489,6 @@
       "provider": {
         "name": "All About Circuits",
         "domain": "allaboutcircuits.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-the-pop-culture-robots-that-influenced-smart-voice-assistants.md",
-      "title": "The Pop Culture Robots that Influenced Smart Voice Assistants",
-      "excerpt": "Last year, nearly one third of Australian adults owned a smart speaker device allowing them to call on “Alexa” or “Siri”. Now, with more time spent indoors due to COVID-19, smart voice assistants may be playing even bigger roles in people’s lives.",
-      "webUrl": "https://www.gizmodo.com.au/2020/06/the-pop-culture-robots-that-influenced-smart-voice-assistants/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/content/uploads/sites/2/2016/12/westworld.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "The Pop Culture Robots that Influenced Smart Voice Assistants",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2020/06/the-pop-culture-robots-that-influenced-smart-voice-assistants/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/06/the-pop-culture-robots-that-influenced-smart-voice-assistants/amp/",
-      "publishedDateTime": "2020-06-23T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1256,45 +1321,6 @@
       "topics": [
         "AI",
         "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets.md",
-      "title": "Artificial intelligence company raises $5m as robotics demand \"skyrockets\"",
-      "excerpt": "A London AI company has announced that it has secured $5m to help meet demand from firms looking to use… | London | Engineering | Digital | Funding | Technology | Technology | Industrial |",
-      "webUrl": "https://bdaily.co.uk/articles/2020/06/17/artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdaily.co.uk/images/uploads/iL8idSQksHVXogyIlRInDEcqnmsj2kf5UFA6lpaK.jpeg?w=940&h=430&fit=crop-43-42&s=b3eb9769a05d898d8a9c8014abe2dfcd",
-          "width": 940,
-          "height": 430,
-          "title": "Artificial intelligence company raises $5m as robotics demand \"skyrockets\"",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bdaily Business Network",
-        "domain": "bdaily.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
         "AI in Robotics"
       ]
     }

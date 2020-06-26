@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniq
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F330f5320-b715-11ea-8bff-ded22acc56bd&client=amp-blogside-v2&signature=aa6885b83be1e636943df5f7d64dfe77790ff3a4"
         width: 600
         height: 350
+        isCached: true
+  - title: "Waymo and Volvo team to work on self-driving cars"
+    excerpt: "Waymo and Volvo Car Group announced an expanded partnership that is intended to create a collaboration enabling easy integration of vehicles with the Waymo Driver. The integration will make the vehicles well-suited to ride-hailing, local delivery, tracking ..."
+    publishedDateTime: 2020-06-26T13:21:00Z
+    webUrl: "https://www.slashgear.com/waymo-and-volvo-team-to-work-on-self-driving-cars-26626550/"
+    ampWebUrl: "https://www.slashgear.com/waymo-and-volvo-team-to-work-on-self-driving-cars-26626550/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-and-volvo-team-to-work-on-self-driving-cars-26626550/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/polestar-2.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Waymo and Volvo Team to Make Self-Driving Vehicles"
     excerpt: "Get Report Waymo is partnering with Volvo VLVLY to develop a self-driving electric vehicle designed for ride hailing, the companies said Thursday. Shares of Alphabe"

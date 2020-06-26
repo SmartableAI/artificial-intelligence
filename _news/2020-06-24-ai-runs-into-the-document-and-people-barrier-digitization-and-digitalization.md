@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     height: 407
     isCached: true
     title: "AI Runs Into The Document And People Barrier: Digitization And Digitalization"
+
+related:
+  - title: "We’re Still Awash In Paper: Insights Into How Industry Digitization Is Enabling AI"
+    excerpt: "For companies looking to gain insights and extract value from their data, they need to get that data into a state where computers are able to process it. To do that, companies need to digitize and digitalize their information and processes."
+    publishedDateTime: 2020-06-26T13:27:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/06/26/were-still-awash-in-paper-insights-into-how-industry-digitization-is-enabling-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/06/26/were-still-awash-in-paper-insights-into-how-industry-digitization-is-enabling-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/26/were-still-awash-in-paper-insights-into-how-industry-digitization-is-enabling-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
 
 secured: "mw/Qd5vTyw8F0sMhO+xb4wNen//z8RuFeXopEM4CeX4BAMat8uYrsdTc9fqRIjrD/KNqS54TRxem62vOHg+iJel6IJj3oB9ZzA7MfbPOn2xzAwBYtxrNFK8Zm5hoPgNki/7e40tLrcg+RS008+eXc/Lt/XK/z869YSwMIc/4mCT2bPDvAxMBeCuVvbe65rhmH4y6DwuezJQBnu09221CmE3y9cIw5HucsSc5SLYYOBXKlaHOldbGAowCMmil3RLQfJJG/7Jm8ivbVvKVUMN+qToZHtcG9xW4chsAnJKH/qJQxWgn5uadw6Lvnewal2B3Nj4yfq8QTyFn0K3baErlFYVX649LocXjcscXIvTWW8/Fe7KgwfYGNLFKgdyIIfmHwOJc1aGmlD6W5SRyVzkm6pWqMWEA6M80lMVddURZRdU1L572OnipvrBc1EH44Rp82nsISVe5fs4m3tC2WQ1kcS1RlWmGW3wKyeGs9pmx5FfMe6XFxY4TeG1O+XtCTE3qk6WepxvelCrGmqYGW8IVGQ==;CzwV7rHmrJVMau2wZCzmPQ=="
 ---

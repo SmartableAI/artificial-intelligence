@@ -8,8 +8,8 @@ ampWebUrl: "https://www.gizmodo.com.au/2020/06/the-pop-culture-robots-that-influ
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/06/the-pop-culture-robots-that-influenced-smart-voice-assistants/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Gizmodo Australia
@@ -27,22 +27,6 @@ images:
     title: "The Pop Culture Robots that Influenced Smart Voice Assistants"
 
 related:
-  - title: "From HAL 9000 to Westworld’s Dolores: the pop culture robots that influenced smart voice assistants"
-    excerpt: "In our paper published in New Media Society, we trace anxiety about smart assistants to a long history of threatening robot voices and narratives in Hollywood. The warm and solicitous female voices of smart assistants contrast with cinematic robot archetypes of the “menacing male” or “monstrous mother”,"
-    publishedDateTime: 2020-06-21T20:06:00Z
-    webUrl: "https://theconversation.com/from-hal-9000-to-westworlds-dolores-the-pop-culture-robots-that-influenced-smart-voice-assistants-140341"
-    ampWebUrl: "https://theconversation.com/amp/from-hal-9000-to-westworlds-dolores-the-pop-culture-robots-that-influenced-smart-voice-assistants-140341"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/from-hal-9000-to-westworlds-dolores-the-pop-culture-robots-that-influenced-smart-voice-assistants-140341"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 45
-    images:
-      - url: "https://images.theconversation.com/files/341383/original/file-20200612-38691-1o44b26.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
   - title: "From HAL 9000 to Westworld’s Dolores: pop culture robots that influenced smart voice assistants"
     excerpt: "Two media scholars analysed how Siri, Alexa and other smart voice assistants got their distinctive voices. Their work reveals the consequences of this"
     publishedDateTime: 2020-06-22T01:15:00Z

@@ -2,6 +2,52 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-18-ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec.md",
+      "title": "AI Mining ESG Data Companies Not Disclosing Says Blackrock Exec",
+      "excerpt": "Machine learning is helping the $7 trillion investment firm to uncover ESG impacts from satellite images of pollution to cars in a parking lot, he said. He added AI is aiding in the analysis of voice inflections from executives and whether the inflections have change from the last time they spoke.",
+      "webUrl": "https://www.forbes.com/sites/tedknutson/2020/06/18/ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F4b464d37cc9c46399f1bc34acbd0f90a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3344%26cropY1%3D139%26cropY2%3D2020",
+          "width": 1199,
+          "height": 675,
+          "title": "AI Mining ESG Data Companies Not Disclosing Says Blackrock Exec",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tedknutson/2020/06/18/ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/06/18/ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec/amp/",
+      "publishedDateTime": "2020-06-18T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-tech-in-latin-america-an-entrepreneurs-guide-to-mays-startup-news.md",
       "title": "Tech in Latin America: An entrepreneur’s guide to May’s startup news",
       "excerpt": "The Venture City, a startup accelerator with presences in Brazil ... Elsewhere, the United Nations AI for Good Summit geared up for a webinar about indigenous knowledge and AI which featured ...",
@@ -1285,44 +1331,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-sas-microsoft-partner-to-further-shape-future-of-analytics-and-ai.md",
-      "title": "SAS, Microsoft partner to further shape future of analytics and AI",
-      "excerpt": "Microsoft Corporation and SAS today announced an extensive technology and go-to-market strategic partnership. The two companies will enable customers to easily run their SAS workloads in the cloud, expanding their business solutions and unlocking critical value from their digital transformation initiatives.",
-      "webUrl": "https://www.itweb.co.za/content/KBpdg7pzEAzqLEew",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/k-KrNcDkdz_xM9SDHP5O4k9y9X152gcmWw7DNu7IR_QQRsB5vwbWfcT-f09xWshd5LkFrDfwd6SHQda5Zq9D-lk=w400-h312-c",
-          "width": 400,
-          "height": 312,
-          "title": "SAS, Microsoft partner to further shape future of analytics and AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.itweb.co.za/content/KBpdg7pzEAzqLEew",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/KBpdg7pzEAzqLEew",
-      "publishedDateTime": "2020-06-18T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

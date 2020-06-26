@@ -2,33 +2,33 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-06-26-amazon-reportedly-acquires-self-driving-car-startup-zoox.md",
-      "title": "Amazon reportedly acquires self-driving car startup Zoox",
-      "excerpt": "Amazon is acquiring self-driving car startup Zoox in a deal estimated to be worth over $1 billion, The Information and The Financial Times are reporting. The deal would give Amazo",
-      "webUrl": "https://www.theverge.com/2020/6/26/21304111/amazon-zoox-acquisition-self-driving-car-autonomous-vehicles-startup-robotaxi-bi-directional-vehicle",
-      "heat": 184,
+      "path": "_news/2020-06-26-amazon-buys-self-driving-technology-company-zoox.md",
+      "title": "Amazon buys self-driving technology company Zoox",
+      "excerpt": "Amazon is jumping deeper into the market for autonomous driving with the purchase of Zoox, which was valued at over $3 billion in 2018.",
+      "webUrl": "https://www.cnbc.com/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
+      "heat": 214,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.vox-cdn.com/thumbor/3MXgDoro-Kcttn1ufwizeK1uQlg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66985247/acastro_190920_1777_amazon_0003.0.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Amazon reportedly acquires self-driving car startup Zoox",
+          "url": "https://image.cnbcfm.com/api/v1/image/105525572-1540337875521main.00_02_15_18.still007.jpg?v=1540337919",
+          "width": 1920,
+          "height": 1080,
+          "title": "Amazon buys self-driving technology company Zoox",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/26/21304111/amazon-zoox-acquisition-self-driving-car-autonomous-vehicles-startup-robotaxi-bi-directional-vehicle",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/26/21304111/amazon-zoox-acquisition-self-driving-car-autonomous-vehicles-startup-robotaxi-bi-directional-vehicle",
-      "publishedDateTime": "2020-06-26T01:57:00-07:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
+      "publishedDateTime": "2020-06-26T06:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -91,7 +91,7 @@
       "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
       "excerpt": "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday.",
       "webUrl": "https://www.reuters.com/article/us-waymo-volvo-autonomous-idUKKBN23W2V0",
-      "heat": 239,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -281,7 +281,7 @@
       "title": "Nvidia and Mercedes-Benz detail self-driving system with automated routing and parking",
       "excerpt": "The efforts build on a longstanding collaboration between Nvidia and Mercedes. At the 2018 Consumer Electronics Show, the companies showcased a concept cockpit dubbed the Mercedes-Benz User Experience,",
       "webUrl": "https://venturebeat.com/2020/06/23/nvidia-and-mercedes-benz-detail-self-driving-system-with-automated-routing-and-parking/",
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -602,7 +602,7 @@
       "title": "Waymo and Uber propose AI techniques to improve self-driving systems",
       "excerpt": "Waymo and Uber researchers presented new techniques to improve the reliability -- and safety -- of their self-driving systems.",
       "webUrl": "https://venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/",
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {

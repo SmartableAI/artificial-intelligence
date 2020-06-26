@@ -5,8 +5,8 @@ excerpt: "The ways innovation is achieved will change, and patent and copyright 
 publishedDateTime: 2020-06-26T10:43:00Z
 webUrl: "https://www.lawgazette.co.uk/legal-updates/magic-of-the-machine-can-artificial-intelligence-invent/5104742.article"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/2000x2000fit/7/6/1/91761_iStock-645609968_crop.jpg"
@@ -23,6 +24,6 @@ images:
     isCached: true
     title: "Magic of the machine: can artificial intelligence invent?"
 
-secured: "f8jQvHNW5+09wO46tWp7mMI626MkTckzWyCMWZjFumI2Jn4L3AAbKOHwxRxGFbBYGUpiB4juUaHlKxu+U8R/+sgJvFtgSZM4keE7NCGubZPNoNCEWM4M2dyVtUuR/BbuVrmIUYqtWi4RuQl1zvdp5MbMAtO2rLanjjT3x7bZMN4snVh2gbkfyCSL3vRJUVe/Bu0qTnDEubclptDmOwMPaARrhKdlE9+uFor7RzMs/PVvXIqs6t7xnHQB5qOH4/yffRgL10QPFGUlMeC6OLupXcjUKs7NmbpI5UpyiCpjxNs/5IBjzmQ124W1r++hcPwxhdogX6K2f2pafDH5osVpUQ==;uNbScGbxFzShrbB2gUUb0Q=="
+secured: "Ez/pE54ih9UWMBe3sNkxL9BSxyFwW7yRhBXF2tT9AyjfzUS1wHTsNyYijWcwYw4VmQlOvJUDNYaqq3PSCQUfoUWK5c/w27DzY+UdVOq+AnywYnxcgrVlFJeg9DiKGaiCT0y/Qk/KSMZiJF03RfHp/swQVues4/EG9ZKLmxYV6uT5YhqSE/zBzV5COYuAgtl4H2uKTo5gWzmvsRlgNVPsYPPsNOamjTOTKr7fHbIAjbEzgfhsue15WoBLrZiHgAXM5lNLWsabh8pzqjsxUthU9r6rigP1uxspaqr5xjuiuvjKSpy+hMfY5U5wAKePZB1YSrtqKHIc84EIkm6KgJrI2mBrtxgRRNUkfEgdIXy7oAbrAAazNnQT5TcnlqouyB79NF1vBzPKki3hxnXwukSdzNaX4IXh6KcTEk+sy54kikJhHrNBQSevz1gVVmPzzYAejIQriW/SgBOyELUKVKcmxWs34VpFc9AbDpLyprHLAN2HW/ByfZD/LuE4DSjq2f42yUj1Y3Gsi7tOgesJnIndqA==;NSgaOtcWMLB6SfOep+j4qg=="
 ---
 

@@ -59,6 +59,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Waymo and Volvo team to work on self-driving cars"
+    excerpt: "Waymo and Volvo Car Group announced an expanded partnership that is intended to create a collaboration enabling easy integration of vehicles with the Waymo Driver. The integration will make the vehicles well-suited to ride-hailing, local delivery, tracking ..."
+    publishedDateTime: 2020-06-26T13:21:00Z
+    webUrl: "https://www.slashgear.com/waymo-and-volvo-team-to-work-on-self-driving-cars-26626550/"
+    ampWebUrl: "https://www.slashgear.com/waymo-and-volvo-team-to-work-on-self-driving-cars-26626550/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-and-volvo-team-to-work-on-self-driving-cars-26626550/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/polestar-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
     excerpt: "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver”. Volvo will design and manufacture the vehicles. The companies said Waymo would work with Volvo's global brands ..."
     publishedDateTime: 2020-06-26T07:16:00Z

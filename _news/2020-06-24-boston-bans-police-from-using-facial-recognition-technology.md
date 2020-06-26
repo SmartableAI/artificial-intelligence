@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     title: "Boston bans police from using facial recognition technology"
 
 related:
+  - title: "Democrats and civil liberties groups back law banning facial recognition across the US"
+    excerpt: "New legislation that would ban police use of facial recognition software across the US has been backed by civil liberties groups -- but not Big Tech."
+    publishedDateTime: 2020-06-26T12:46:00Z
+    webUrl: "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 66
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-85-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Facial-Recognition Tools Banned for Boston Police"
     excerpt: "The Boston City Council voted unanimously Wednesday to prohibit police from using facial-recognition technology, becoming the largest city in the country to do so after San Francisco."
     publishedDateTime: 2020-06-24T20:56:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ais-digital-transformati
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2020/06/20180411_LewisSci-ibrary_DJA_008.jpg?itok=ONNt0pT9"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Digital Transformation in Asia-Pacific: 5G, Artificial Intelligence, Internet of Things and Smart Cities 2020-2025 - ResearchAndMarkets.com"
+    excerpt: "The \"Digital Transformation Asia Pacific: 5G, Artificial Intelligence, Internet of Things, and Smart Cities in APAC 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. From predicting what will happen with 5G technology in the next few years to identifying how 5G will transform business,"
+    publishedDateTime: 2020-06-26T11:18:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200626005177/en/Digital-Transformation-Asia-Pacific-5G-Artificial-Intelligence-Internet"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
+    images:
+      - url: "https://mms.businesswire.com/media/20200626005177/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "jgm3izgIQpTCr898kCSM1NRX9i9iaAq+ESl46zaJsLV3eBOsWEq+ERAmYo+UBaobscccFkk8Oc6LMWam8rLvsJhm2MdgNcaXNJEfsRIEQYkCL56WXkUIoKvAm0qf8QeFpoeVql30cJUroquW053hq4oZvqBOEwf63OBKyvLdxmcxGnJo7QUgpC/zQEx6KqYJikix4gUmVefG2FE2CoRNtrkVe6EXekpG0i7Bu3kCjrILMjgqaNjPfsOu6irNoyyqQcWHpTz2x5VO/rwimXia0ps0NCBH5hQWpTt89cl+xwcCvxMzkKsK/JQ0PmEug+zI/vOyy0v2xWOGB7LLccYemfFRMSS+7VUVYEzXANSKwFk09I8i6VK4Zz/c4qQ5VJPn8ae/0aZpN1xyk2yzjNpQAdtOOZkUUjlFaAbgTZbApxQciRqA6IIx2c9vsOd02PXejDAL5bSQ1OkerokABh9MaDBioAnBR3UdHt3QGK7sJKy3yG4WyZeI5GK3HfVgYPAw2UJhjW2be7iMnBPZuJyfIQ==;64EO31YdwfB8RFoW7p8Q0Q=="

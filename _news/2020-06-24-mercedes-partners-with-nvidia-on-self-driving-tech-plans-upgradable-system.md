@@ -82,6 +82,20 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
+  - title: "Delighting Customers with Intelligent Merchandising and a Self-Driving Site | Sponsored Content | Tech-Talk Webinar, On-Demand"
+    excerpt: "Talk Webinar featuring Matthew Wasley, senior product marketing manager at Adobe. He shared the concept of self-driving sites and how product recommendations can increase conversions, average order value and brand loyalty."
+    publishedDateTime: 2020-06-26T13:58:00Z
+    webUrl: "https://www.emarketer.com/content/delighting-customers-with-intelligent-merchandising-self-driving-site-sponsored-content-tech-talk-webinar-on-demand"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 0
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/3fc686f30deacea090a5171daa4f93b3/default-image-share.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "fM0DHfsjqlwO3A0gVwOvzQUdrTZ4KjmQ3uJ5/QklgnvFKo6VRyYHFd86V7vnovEZ2KE3Q8AKAqSM2Pp18CcQsllA72KxUIdDA+3O9J9ce6unV/zhNMw8G/lwZowQaZ7ZU8v9j7i1khjNdP6auIFITU/JefJ/P29QtyJYZRgJs0ooPeRxIzOPISjRvMlBYabCrsnUWl63QpjBgMQUL/tZWXfQLG4trAoUqE2T3slN84bJovGMXUlP/xu6wq7E2pS+5qDaFuzxXddRacHldLsLRgBvR7IuE6SDv59CobixLclvdfd5iMNusSgZqPYddGa9bPy4XbD7PnrRAlWRsRw7d/I8DQF4I1w8zMIFM0X06CAOYapgaNN0I4bLNhn9Sq26om/6dvUPA0QboKb40potUCMbme+dOmnaNes9aOF8wCFjVHMab23d0Bvx8mHLcOA98AW6i60JowaLaC6dqL61rGnXHojfyiSj4rp7072R4opC45uTLSDaygDyPhPg5fVzRoI69g3F/wfciRomIMMGLA==;qgpDybOs8RuZw7aaiDlkLw=="
 ---

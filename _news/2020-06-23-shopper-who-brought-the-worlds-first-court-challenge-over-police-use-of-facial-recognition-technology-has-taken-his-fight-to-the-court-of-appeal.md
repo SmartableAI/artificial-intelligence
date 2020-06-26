@@ -198,6 +198,22 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 80
+  - title: "Man wrongfully arrested due to facial recognition software talks about 'humiliating' experience"
+    excerpt: "A Black man in Detroit spent over a day in custody in January after an incorrect facial recognition match led to his wrongful arrest."
+    publishedDateTime: 2020-06-26T13:55:00Z
+    webUrl: "https://www.nbcnews.com/business/business-news/man-wrongfully-arrested-due-facial-recognition-software-talks-about-humiliating-n1232184"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1232184"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1232184"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 77
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202006/tdy_news_ward_security_200626_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "New HomeKit features in iOS 14: Facial recognition and more explained"
     excerpt: "A boost for home security cameras with facial recognition and activity zones turns HomeKit into a more powerful tool, but there's more, too."
     publishedDateTime: 2020-06-23T12:48:00Z

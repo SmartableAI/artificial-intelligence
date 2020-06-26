@@ -41,22 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "From HAL 9000 to Westworld’s Dolores: the pop culture robots that influenced smart voice assistants"
-    excerpt: "In our paper published in New Media Society, we trace anxiety about smart assistants to a long history of threatening robot voices and narratives in Hollywood. The warm and solicitous female voices of smart assistants contrast with cinematic robot archetypes of the “menacing male” or “monstrous mother”,"
-    publishedDateTime: 2020-06-21T20:06:00Z
-    webUrl: "https://theconversation.com/from-hal-9000-to-westworlds-dolores-the-pop-culture-robots-that-influenced-smart-voice-assistants-140341"
-    ampWebUrl: "https://theconversation.com/amp/from-hal-9000-to-westworlds-dolores-the-pop-culture-robots-that-influenced-smart-voice-assistants-140341"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/from-hal-9000-to-westworlds-dolores-the-pop-culture-robots-that-influenced-smart-voice-assistants-140341"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 45
-    images:
-      - url: "https://images.theconversation.com/files/341383/original/file-20200612-38691-1o44b26.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
 
 secured: "1u2hMFxEL3dbQVMUF7cjb4jV34SBuKbV6pn0etXXr3iLTjWzBaWgYBV/58Erdnt239ERnAgBBkmS3FbaCjM2++/kmPN43xTTw9uBT5jY5poqDR4JOGeiHb1/03h7jDcQ6qfKlalCc3KdIkBNKjNIcMW9gu6qRLDddXTWCDkZ2jVHyrWzdmbvGo8vdBxc5ZFFHt7fGMp9RXrwkmr/WtjutrL6GJe/5Y6EWsuscCjuD0ZOAXgeuGJ2hHcn4DgXa7pMKDmF+BpPPaBkf70OPbi09pM95pjXnlHlYH/vLAGdxb7/WeTtGL6zc5a2NM+OamwjRoqSLPceet80X+MAwmQe5w==;0/3e0+gqRq5lPIwegGTHEA=="
 ---

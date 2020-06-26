@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Volvo Cars, Waymo partner to build self-driving vehicles"
+    excerpt: "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles. The companies said Waymo will work with Volvo’s global brands ..."
+    publishedDateTime: 2020-06-26T13:07:00Z
+    webUrl: "https://www.reuters.com/article/us-waymo-volvo-autonomous-idUSKBN23W2V0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23W2V0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23W2V0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200625&t=2&i=1523643342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5O27V"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Volvo will use Waymo’s self-driving technology to power a fleet of electric robotaxis"
     excerpt: "Waymo is the “exclusive global L4 partner” for Volvo Car Group, the two companies announced Thursday. That means that Volvo will integrate Waymo’s autonomous driving technology, widely considered to be among the best in the world,"
     publishedDateTime: 2020-06-25T18:43:00Z
@@ -184,6 +200,20 @@ related:
       - url: "https://www.expressandstar.com/resizer/dCsdvWhT--hBK_XltQX6dV_XP7M=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/expressandstar.mna/UH6F4Y3C3FG7THDOV3TQKD2G2I.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Volvo partners Waymo to build self-driving cars"
+    excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership."
+    publishedDateTime: 2020-06-26T12:10:00Z
+    webUrl: "https://www.nyoooz.com/features/automobile/volvo-partners-waymo-to-build-selfdriving-cars.html/3767/"
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 39
+    images:
+      - url: "https://www.nyoooz.com/uploads/hindi/nyoooz-images/social_gaming2.png"
+        width: 647
+        height: 400
         isCached: true
   - title: "BMW And Mercedes end self-driving car partnership"
     excerpt: "The two carmakers had previously said that they intended to jointly develop a Level 4 self-driving car by 2024."

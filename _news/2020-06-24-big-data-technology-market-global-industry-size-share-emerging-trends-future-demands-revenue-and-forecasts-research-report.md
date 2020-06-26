@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market By Offering, By Technology, By Region - Trends, Analysis, and Forecast Till 2025"
+    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
+    publishedDateTime: 2020-06-26T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-by-offering-by-technology-by-region---trends-analysis-and-forecast-till-2025-2020-06-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2025"
     excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
     publishedDateTime: 2020-06-23T15:36:00Z
@@ -149,6 +163,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Smart Learning Systems Market Size, Share, Growth, Research and Forecast 2020-2026"
+    excerpt: "The adoption of AI tools enables to provide learning easily and interactively to all whether students with visual and hearing impairments or speak different languages. Presentation Translator is one of the best instances that create subtitles in real-time ..."
+    publishedDateTime: 2020-06-26T12:46:00Z
+    webUrl: "https://www.openpr.com/news/2080747/smart-learning-systems-market-size-share-growth-research"
+    ampWebUrl: "https://www.openpr.com/amp/2080747/smart-learning-systems-market-size-share-growth-research"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2080747/smart-learning-systems-market-size-share-growth-research"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
 
 secured: "Ix7tGGSW5YWZh5nmZyi4JfQiQCJCx5Un6mrfYTeak1lpLOky60zJAQtirM3d2OxV6dDZX69WxZCUFhtndTyv7Das7D7BEMwKULBvO1V5NVT1qmVAZwql9kvA9YFBA+AHJpg1JAMHC2r73/ftav7sy3DYNakuSBr+TRGn7A9KNxAPJPwYcnmyiMiGA4Twdt+UaJEEcWU1cieAzJEeXH4eKwx9zppGVDLsFEdiMheU6SmU/trzdO+0a/Xv8Nvov5kiao4LCVhhSfc0w+PuMW1Le0AwxMugMoyclWebvUTR+iMbbmsnF18JHLSUlLkuNKfCC37T8u2UzYF2jwExSEAT7w==;SnX2wpSKIK2OKyKADNXNwQ=="
 ---

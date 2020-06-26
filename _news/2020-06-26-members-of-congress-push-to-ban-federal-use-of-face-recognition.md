@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/facial-recognition-ban-bill-democrats-1
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-ban-bill-democrats-182006734.html"
 type: article
 quality: 91
-heat: 222
+heat: 212
 published: true
 
 provider:
@@ -79,22 +79,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-84-1-796x417.png"
         width: 796
         height: 417
-        isCached: true
-  - title: "Democratic lawmakers propose nationwide facial recognition ban"
-    excerpt: "Democrats in Congress proposed a law on Thursday that would ban federal investment in facial recognition technology as well as other types of surveillance."
-    publishedDateTime: 2020-06-25T18:28:00Z
-    webUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/"
-    ampWebUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
-    images:
-      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/facial-recognition-crowd-getty-1200x630-c-ar1.91.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Democratic lawmakers just introduced a bill that would ban the use of facial recognition technology by federal law enforcement"
     excerpt: "The proposed bill comes after civil rights advocates have campaigned against the technology for years amid growing evidence of racial bias."

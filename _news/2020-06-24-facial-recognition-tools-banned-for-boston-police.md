@@ -43,6 +43,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Democrats and civil liberties groups back law banning facial recognition across the US"
+    excerpt: "New legislation that would ban police use of facial recognition software across the US has been backed by civil liberties groups -- but not Big Tech."
+    publishedDateTime: 2020-06-26T12:46:00Z
+    webUrl: "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 66
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-85-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "The City Of Boston Will Be Banning The Use Of Facial Recognition Based Surveillance"
     excerpt: "While some parts of the world, facial recognition based surveillance is being adopted, there are some part of the world where the technology is"
     publishedDateTime: 2020-06-24T23:48:00Z

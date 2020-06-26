@@ -27,6 +27,22 @@ images:
     title: "Real AI Robot Cast In Lead Role Of Sci-Fi Movie"
 
 related:
+  - title: "AI robot 'Erica' will star in $70 million sci-fi movie 'b'"
+    excerpt: "The humanoid robot was 'taught' method acting by her creators. Robots are likely to replace a lot of jobs in the future, but these roles are generally well-suited to automation. For some jobs — particularly creative professions — it’ll be much harder to simply swap in a digital employee."
+    publishedDateTime: 2020-06-26T13:09:00Z
+    webUrl: "https://www.engadget.com/ai-robot-erica-will-star-in-70-million-scifi-movie-b-130539023.html"
+    ampWebUrl: "https://www.engadget.com/amp/ai-robot-erica-will-star-in-70-million-scifi-movie-b-130539023.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-robot-erica-will-star-in-70-million-scifi-movie-b-130539023.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 104
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F7745e800-b79d-11ea-b771-32a7a9fe7396&client=amp-blogside-v2&signature=7afb01dc5b87fd3dc7880f68d9b69e0879100a30"
+        width: 600
+        height: 350
+        isCached: true
   - title: "World's First AI Robot Movie Star Gets Cast In $70 Million Sci-Fi Film"
     excerpt: "It was perhaps inevitable that we'd eventually get an AI movie star, and it seems that day is here. It's been reported that a new sci-fi movie is in development, and it's set to star an AI robot named Erica."
     publishedDateTime: 2020-06-24T20:29:00Z
@@ -58,6 +74,22 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/robot-created-by-japans-hiroshi-ishiguro-laboratories-news-photo-1593095893.jpg?crop=0.984xw:0.740xh;0.00160xw,0.106xh&resize=1200:*"
         width: 1200
         height: 601
+        isCached: true
+  - title: "A robot named Erica will star in an upcoming $70M Sci-Fi feature"
+    excerpt: "who designed the real life automaton as a part of their exploration into the realm of robotics. In addition to her fabrication, Ishiguro and Ogawa taught Erica how to act, as well as how to apply the principles of method acting to artificial intelligence."
+    publishedDateTime: 2020-06-24T17:57:00Z
+    webUrl: "https://www.joblo.com/movie-news/a-robot-named-erica-will-star-in-an-upcoming-70m-sci-fi-feature"
+    ampWebUrl: "https://www.joblo.com/movie-news/a-robot-named-erica-will-star-in-an-upcoming-70m-sci-fi-feature/amp"
+    cdnAmpWebUrl: "https://www-joblo-com.cdn.ampproject.org/c/s/www.joblo.com/movie-news/a-robot-named-erica-will-star-in-an-upcoming-70m-sci-fi-feature/amp"
+    type: article
+    provider:
+      name: JoBlo.com
+      domain: joblo.com
+    quality: 59
+    images:
+      - url: "https://www.joblo.com/resizer/resizer.php?file=/assets/images/joblo/news/2020/06/aitothebone913.jpg&height=650&width=1416.3484486874&action=resize"
+        width: 1416
+        height: 650
         isCached: true
   - title: "A Real ‘Ex Machina’? An A.I. Robot Learns Method Acting to Star in $70 Million Film"
     excerpt: "What if Alex Garland’s 2014 science-fiction favorite “Ex Machina” starred a real artificially intelligent robot as Ava instead of Alicia Vikander? Moviegoers are about to find out, sort of. Bondit Capital Media,"
