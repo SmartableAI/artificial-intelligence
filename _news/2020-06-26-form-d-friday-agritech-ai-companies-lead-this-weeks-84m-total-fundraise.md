@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Form D Friday: Agritech, AI companies lead this week's $84M total fundraise"
 
-secured: "pOEYBa9ohRuYw84uZeK3gn6jyCgu5M6/O7TRMzGy75xN3Inzx1+2BkoRC8Sm+vtiaDiHGfM4j8rbPoFMFmbSMkpOticIZPjgI+vK5uWfcS3unYvJz13MGp2xeW1j7pc2Zhs3GDpuxxMAWv9thSQ4LGRXN9D5847jKLoCeLYnHS+9a3feNSZ+B1PEuisE3lFsNBExRBGSIp6oA5OWIYtHQ9wKrZKkwd9Vqi9C0/Wu/n5VWVazpyBPY+ViEb1ASUy+/0IR2TovBzm1f/k7EjA6fOfv6b0vcEV7HDfM/kwFgnDUV+xOl/9R276Rizto6Jr694+Rah+2GvKlLoFrHCXOxQ==;N0Xwv6uUjSz+3Xau+yZOgQ=="
+secured: "j4mnq/2QF/i6x9plWWwbu1UEQu23MVOA+T3a7IkGm3WWM+1xITvfxCQgCmRjp5SYkrraakwWT0FUapveHwxmI3lhhANIZbeKHojJU/8+DVIES8F3BNggKxU4zE3CYTZCS1S49ajoz2htx7pk2EtLI0dl9OFKTdb6iTl08Fg0JaKtDuj/yWuHe4fHcidBkRCjizulQPaDBYttFpx7LH+lgm0Qs2SK7LXC7jYJI9J8/4qUWDI5vHiSYPAYsOGYK4rKlaRUmAblgyGObM3VqqfrUA0lepdxXXEkXIH8I5TZxDVdbZsCOHDKuiX6pUjDxbelB4ITVhVt3Eq862HFuWwGAVe+uk7TDNP8/to/zRiEid5YEQRczTlKzOtbU5TrYRTZgJU0k/L03zkaxd+77WSSMxdszY/42P64GBCPaXreHhiqHZkozY6jjzOrGCHYkZZFI+BhrARRr9rtBQeTKV19DOuQe17wvyfXmIv4flPJS55JvW6E/rcTuAeYYdgSJhSrjaN3I+Ak5UMbDy2gG/v5fg==;5l8YQSGnA8oxHbZlNsUb3A=="
 ---
 

@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/06/26/ai-weekly-a-deep-learning-pioneers-t
 ampWebUrl: "https://venturebeat.com/2020/06/26/ai-weekly-a-deep-learning-pioneers-teachable-moment-on-ai-bias/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/26/ai-weekly-a-deep-learning-pioneers-teachable-moment-on-ai-bias/amp/"
 type: article
-quality: 106
-heat: 106
+quality: 108
+heat: 108
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - Machine Learning
   - AI
   - AI Ethics
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-540680990.jpg?w=1200&#038;strip=all"

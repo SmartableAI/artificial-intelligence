@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T09:31:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-global-industry-trends-supply-demand-scenario-and-growth-prospects-survey-till-2026-2020-06-23"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     height: 630
     isCached: true
     title: "Artificial Intelligence Market Global Industry Trends, Supply Demand Scenario and Growth Prospects Survey till 2026"
-
-related:
-  - title: "Artificial Intelligence In Fashion Market Size Future Scope, Demands and Projected Industry Growths to 2025"
-    excerpt: "Selbyville, Delaware According to Market Study Report LLC adds new research on Artificial Intelligence In Fashion market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape,"
-    publishedDateTime: 2020-06-26T17:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2020-06-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "1jq8DIiwTqvyUUwrsYn/8PJPjYCW+MNmTcaeWeh7bMnyvbSNK9FnI9gCag52g2TeHKf1z0/e7iJP+PJJC9VXUcxS9cJaLmG6J+kCWTEOVgUbPLi8bA95ury2Eckfctcy5+wevns/m24ZwYWlr3+qRjhp35EilOkNcx+okOiCtheLGtqa3EVTO5YYS70D50SswVTs8kNXP+LHC2TdUQzGGvE4s4TNyxr28fRKt2UP2LfPjCvTaM+ilaXm+kJ5DJ9bQscb2RnzUnN+7O1tm6LotyNh/fvWHkA1zY9eWUzZ10dHOl6fyLMw4j6/YhYN91MhWAI8I/FM5lZUwQXUV8VIkQ==;rHV2+HdI1GjqSdbeOfpcaw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/facial-recognition-ban-bill-democrats-1
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-ban-bill-democrats-182006734.html"
 type: article
 quality: 91
-heat: 222
+heat: 232
 published: true
 
 provider:
@@ -80,22 +80,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Congress proposes ban on government use of facial recognition software"
-    excerpt: "The Facial Recognition and Biometric Technology Moratorium Act would explicitly ban police from using the technology."
-    publishedDateTime: 2020-06-26T18:31:00Z
-    webUrl: "https://www.techrepublic.com/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 74
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/06/26/7c55ee40-db2b-451e-81be-dcf139a52efd/resize/1200x/deba963ae5747533086f986458e1d090/facial-recognition-software-image.jpg"
-        width: 1200
-        height: 831
-        isCached: true
   - title: "Democratic lawmakers just introduced a bill that would ban the use of facial recognition technology by federal law enforcement"
     excerpt: "The proposed bill comes after civil rights advocates have campaigned against the technology for years amid growing evidence of racial bias."
     publishedDateTime: 2020-06-25T20:01:00Z
@@ -112,6 +96,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Democratic lawmakers propose nationwide facial recognition ban"
+    excerpt: "Democrats in Congress proposed a law on Thursday that would ban federal investment in facial recognition technology as well as other types of surveillance."
+    publishedDateTime: 2020-06-25T18:28:00Z
+    webUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/"
+    ampWebUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 54
   - title: "Congress puts forward bill to ban use of facial recognition"
     excerpt: "Several members of Congress unveiled a bill that would completely ban the use of biometric information, including facial recognition, by the government."
     publishedDateTime: 2020-06-25T18:46:00Z
@@ -207,6 +202,20 @@ related:
       - url: "https://wfuv.org/sites/default/files/logo_0.png"
         width: 342
         height: 240
+        isCached: true
+  - title: "Lawmakers Introduce Bill to Ban Federal Use of Facial Recognition Tech"
+    excerpt: "If passed, federal agencies would not be able to run, fund, purchase or otherwise use data from facial biometric systems without congressional authorization."
+    publishedDateTime: 2020-06-26T19:59:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/06/lawmakers-introduce-bill-ban-federal-use-facial-recognition-tech/166489/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 24
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/06/26/NGface20200626_OPoDmHB/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition Technology By The City"
     excerpt: "Boston is poised to ban its use of facial surveillance technology, becoming the second-largest community in the world to do so. The city council"
