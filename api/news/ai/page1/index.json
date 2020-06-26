@@ -2,6 +2,137 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-26-amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-the-information.md",
+      "title": "Amazon agrees to buy self-driving startup Zoox for over $1 billion: The Information",
+      "excerpt": "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology.",
+      "webUrl": "https://www.reuters.com/article/us-zoox-m-a-amazon-com-idUSKBN23X0PI",
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200626&t=2&i=1523697904&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5P0G9",
+          "width": 817,
+          "height": 545,
+          "title": "Amazon agrees to buy self-driving startup Zoox for over $1 billion: The Information",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23X0PI",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23X0PI",
+      "publishedDateTime": "2020-06-25T22:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-machine-learning-ai-experts-create-models-for-covid-19-decisions.md",
+      "title": "Machine learning, AI experts create models for COVID-19 decisions",
+      "excerpt": "Experts in the Air Force Research Laboratory are applying explainable machine learning and artificial intelligence approaches to develop thousands of models that could help federal, state and local decision makers as they make re-opening decisions during the COVID-19 pandemic.",
+      "webUrl": "https://www.daytondailynews.com/news/local/machine-learning-experts-create-models-for-covid-decisions/bGgtiaImkzIPndS1fW6PPJ/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.daytondailynews.com/rf/image_medium/Pub/p11/DaytonDailyNews/2020/06/26/Images/newsEngin.25885980_RGB_sky-062620-Brain.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "Machine learning, AI experts create models for COVID-19 decisions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.daytondailynews.com/news/local/machine-learning-experts-create-models-for-covid-decisions/bGgtiaImkzIPndS1fW6PPJ/amp.html",
+      "cdnAmpWebUrl": "https://www-daytondailynews-com.cdn.ampproject.org/c/s/www.daytondailynews.com/news/local/machine-learning-experts-create-models-for-covid-decisions/bGgtiaImkzIPndS1fW6PPJ/amp.html",
+      "publishedDateTime": "2020-06-25T21:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dayton Daily News",
+        "domain": "daytondailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer.md",
+      "title": "Can We Have Conscious Artificial Intelligence And Other Mind-Blowing Things Science Can’t Answer",
+      "excerpt": "In a recent conversation with Professor of Public Understanding of Science at Oxford University, mathematician, broadcaster and author Marcus du Sautoy we explored some questions that he pondered in his book What We Cannot Know: Explorations at the Edge of Knowledge.",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/26/can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef575a661d20f0007e1dbd5%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Can We Have Conscious Artificial Intelligence And Other Mind-Blowing Things Science Can’t Answer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/26/can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/26/can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer/amp/",
+      "publishedDateTime": "2020-06-25T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-new-german-canadian-lab-decodes-the-brain-with-artificial-intelligence.md",
       "title": "New German-Canadian lab decodes the brain with artificial intelligence",
       "excerpt": "Canadian lab HIBALL aims to create a microscopic 3D map of functional neuroanatomy at the cellular level with the help of high-performance computing and artificial intelligence.",
@@ -541,7 +672,7 @@
       "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
       "excerpt": "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday.",
       "webUrl": "https://www.reuters.com/article/us-waymo-volvo-autonomous-idUKKBN23W2V0",
-      "heat": 209,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -1224,146 +1355,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-ai-is-now-a-c-suite-imperative.md",
-      "title": "AI is now a C-suite imperative",
-      "excerpt": "Machines can work at infinitely higher speed and the pressure on the C-suite has never been higher. Now the execs are turning to AI to help them make the best decisions in as short a time as possible.",
-      "webUrl": "https://www.infoworld.com/article/3563885/ai-is-now-a-c-suite-imperative.html",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/priority_high_priorities_importance_important_urgent_thinkstock_680720450-100749329-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI is now a C-suite imperative",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3563885/ai-is-now-a-c-suite-imperative.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3563885/ai-is-now-a-c-suite-imperative.amp.html",
-      "publishedDateTime": "2020-06-25T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-startup-genome-80-regions-have-produced-unicorns-as-tech-democratizes.md",
-      "title": "Startup Genome: 80 regions have produced unicorns as tech democratizes",
-      "excerpt": "Startup Genome warned of a “mass extinction event” coming because of the pandemic. VB Transform 2020 Online - July 15-17. Join leading AI executives: Register for the free livestream.",
-      "webUrl": "https://venturebeat.com/2020/06/25/startup-genome-80-regions-have-produced-unicorns-with-the-democratization-of-tech-ecosystems/",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/sg.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": "Startup Genome: 80 regions have produced unicorns as tech democratizes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/25/startup-genome-80-regions-have-produced-unicorns-with-the-democratization-of-tech-ecosystems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/startup-genome-80-regions-have-produced-unicorns-with-the-democratization-of-tech-ecosystems/amp/",
-      "publishedDateTime": "2020-06-25T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-circadia-gets-fda-nod-for-ai-powered-respiratory-monitor.md",
-      "title": "Circadia Gets FDA Nod for AI-Powered Respiratory Monitor",
-      "excerpt": "Startup Circadia Technologies has received FDA approval for a bedside device that remotely monitors breathing using artificial intelligence and that has been shown to help detect Covid-19 symptoms such as breathlessness.",
-      "webUrl": "https://www.wsj.com/articles/circadia-gets-fda-nod-for-ai-powered-respiratory-monitor-11593077402",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-202428/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Circadia Gets FDA Nod for AI-Powered Respiratory Monitor",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/circadia-gets-fda-nod-for-ai-powered-respiratory-monitor-11593077402",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/circadia-gets-fda-nod-for-ai-powered-respiratory-monitor-11593077402",
-      "publishedDateTime": "2020-06-25T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

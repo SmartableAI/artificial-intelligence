@@ -2,6 +2,128 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-19-ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough.md",
+      "title": "AI Weekly: Restricting surveillance technologies is a strong first step, but it’s not enough",
+      "excerpt": "New laws and regulations are curbing law enforcement's use of surveillance technologies, but that might not be enough.",
+      "webUrl": "https://venturebeat.com/2020/06/19/ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_340300073-e1592521538361.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Restricting surveillance technologies is a strong first step, but it’s not enough",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/19/ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/19/ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough/amp/",
+      "publishedDateTime": "2020-06-19T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-ge-healthcare-taps-lunits-ai-for-its-new-chest-x-ray-suite.md",
+      "title": "GE Healthcare taps Lunit’s AI for its new chest X-ray suite",
+      "excerpt": "GE Healthcare launched an artificial intelligence-powered chest X-ray analysis suite, designed to spot and highlight eight common conditions, using algorithms built by the South Korean startup Lunit ... analytics, AI and connectivity will only become ...",
+      "webUrl": "https://www.fiercebiotech.com/medtech/ge-healthcare-taps-lunit-s-ai-for-its-new-chest-x-ray-suite",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1592492062/Lunit%20Xray%20AI.jpeg?H_Tp7Ynhb8bsEI3Y4GISbyNH7u9Sjepp",
+          "width": 2700,
+          "height": 1518,
+          "title": "GE Healthcare taps Lunit’s AI for its new chest X-ray suite",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-19T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-microsoft-acquires-adrm-software-to-develop-data-models-for-azure.md",
+      "title": "Microsoft Acquires ADRM Software to Develop Data Models for Azure",
+      "excerpt": "Microsoft has announced the purchase of data model develop ADRM, which will be incorporated into its Microsoft Azure division.",
+      "webUrl": "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2020/06/Data-Model-ADRM-Microsoft.jpg",
+          "width": 1024,
+          "height": 402,
+          "title": "Microsoft Acquires ADRM Software to Develop Data Models for Azure",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/?amp",
+      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/?amp",
+      "publishedDateTime": "2020-06-19T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-mowing-made-easy-robots-tackle-lawn-care.md",
       "title": "Mowing made easy: Robots tackle lawn care",
       "excerpt": "Maintaining a lawn in the summer heat is often a dreaded chore for homeowners. Now there are robots that can do the job for you. Worx, the company that makes the highly-rated Landroid, says autonomous mowers are getting more popular.",
@@ -961,145 +1083,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-tech-in-latin-america-an-entrepreneurs-guide-to-mays-startup-news.md",
-      "title": "Tech in Latin America: An entrepreneur’s guide to May’s startup news",
-      "excerpt": "The Venture City, a startup accelerator with presences in Brazil ... Elsewhere, the United Nations AI for Good Summit geared up for a webinar about indigenous knowledge and AI which featured ...",
-      "webUrl": "https://thenextweb.com/podium/2020/06/18/tech-in-latin-america-an-entrepreneurs-guide-to-mays-startup-news/",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/marcus-dantus-1.jpeg",
-          "width": 592,
-          "height": 370,
-          "title": "Tech in Latin America: An entrepreneur’s guide to May’s startup news",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/podium/2020/06/18/tech-in-latin-america-an-entrepreneurs-guide-to-mays-startup-news/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/06/18/tech-in-latin-america-an-entrepreneurs-guide-to-mays-startup-news/amp/",
-      "publishedDateTime": "2020-06-18T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-openais-commercial-release-of-api-raises-serious-questions-about-ai-misuse.md",
-      "title": "OpenAI's commercial release of API raises serious questions about AI misuse",
-      "excerpt": "The organization previously aired reservations related to potential misuse of the text-generation model. Now, the company is taking the AI commercial.",
-      "webUrl": "https://www.techrepublic.com/article/openais-commercial-release-of-api-raises-serious-questions-about-ai-misuse/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/18/953aa22e-374d-478f-ac00-2aa854affe24/resize/1200x/6f60a13b933639e8f7894b9f42c8e830/artificial-intelligence-2.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "OpenAI's commercial release of API raises serious questions about AI misuse",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/openais-commercial-release-of-api-raises-serious-questions-about-ai-misuse/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/openais-commercial-release-of-api-raises-serious-questions-about-ai-misuse/",
-      "publishedDateTime": "2020-06-18T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-why-it-matters-that-ibm-has-abandoned-its-facial-recognition-technology.md",
-      "title": "Why It Matters That IBM Has Abandoned Its Facial Recognition Technology",
-      "excerpt": "Now that tide has started to turn when last week three significant players, who have created face recognition technology, made some bold decisions to not sell their technology to law enforcement and other agencies that could misuse it.",
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2020/06/18/why-it-matters-that-ibm-has-abandoned-its-facial-recognition-technology/",
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb8bcb84bc02000770522f%2F0x0.jpg",
-          "width": 1200,
-          "height": 1074,
-          "title": "Why It Matters That IBM Has Abandoned Its Facial Recognition Technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2020/06/18/why-it-matters-that-ibm-has-abandoned-its-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2020/06/18/why-it-matters-that-ibm-has-abandoned-its-facial-recognition-technology/amp/",
-      "publishedDateTime": "2020-06-18T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

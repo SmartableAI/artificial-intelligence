@@ -2,6 +2,128 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-06-02-yandex-reveals-its-fourth-generation-self-driving-hyundai.md",
+      "title": "Yandex reveals its fourth-generation self-driving Hyundai",
+      "excerpt": "Researchers all around the world are working hard on self-driving cars to help people unable to drive themselves to get around and take the roads around the nation and the world safer. Yandex has",
+      "webUrl": "https://www.slashgear.com/yandex-reveals-its-fourth-generation-self-driving-hyundai-02623270/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/yandex-sdc.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": "Yandex reveals its fourth-generation self-driving Hyundai",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/yandex-reveals-its-fourth-generation-self-driving-hyundai-02623270/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/yandex-reveals-its-fourth-generation-self-driving-hyundai-02623270/amp/",
+      "publishedDateTime": "2020-06-02T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-predictive-oncology-completes-acquisition-of-soluble-therapeutics-and-biodtech.md",
+      "title": "Predictive Oncology Completes Acquisition of Soluble Therapeutics and BioDtech",
+      "excerpt": "Predictive Oncology Inc. (NASDAQ:POAI) (the \"Company\") a knowledge-driven company focused on applying artificial intelligence",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16158810/predictive-oncology-completes-acquisition-of-soluble-therapeutics-and-biodtech",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16158810",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16158810",
+      "publishedDateTime": "2020-06-02T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-is-your-sales-team-ready-for-ai.md",
+      "title": "Is Your Sales Team Ready For AI?",
+      "excerpt": "While the human connection factor remains a significant part of closing any deal, the advances in technology, such as AI, can help negate the impact of other factors.",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F06%2F881.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Is Your Sales Team Ready For AI?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/amp/",
+      "publishedDateTime": "2020-06-02T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-this-voice-recorder-looks-like-a-cassette-tape-and-uses-ai-to-transcribe-10-languages.md",
       "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
       "excerpt": "The 399 yuan (US$56) gadget needs five minutes to transcribe each hour of content. It uses Bluetooth to connect to a smartphone app, which you can open to read the transcript. And don’t worry about your bilingual recordings: iFlytek says the Recording Pen can transcribe a person switching between Chinese and English words.",
@@ -967,129 +1089,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-the-best-computer-reading-glasses-to-help-reduce-eye-strain.md",
-      "title": "The best computer reading glasses to help reduce eye strain",
-      "excerpt": "These Truvision Readers may not be prescription, but their anti-reflective coating and blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to go to an eye doctor. If you are already suffering from Presbyopia, these computer reading glasses can also assist with blurred vision caused by too ...",
-      "webUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?itm_source=15&itm_content=2x2&itm_term=2377055",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
-      "publishedDateTime": "2020-06-01T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us.md",
-      "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
-      "excerpt": "Predicting wildfires is a tricky business. A new artificial intelligence model could help fire agencies allocate resources to mitigate wildfire risks across the West.",
-      "webUrl": "https://www.techrepublic.com/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/01/b9176e1d-1077-48f8-8817-349aa8ebe44a/resize/1200x/5e79b0a17d7fead9c196dc9e6025c51f/wildfire.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
-      "publishedDateTime": "2020-06-01T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-7-ai-stocks-that-are-looking-to-the-future.md",
-      "title": "7 AI Stocks That Are Looking to the Future",
-      "excerpt": "The interesting thing is that until about 10 years ago or so, AI was mostly a backwater. Let’s face it, investors were more interested in areas like cloud computing. But there would emerge some major catalysts that would make AI a must-have.",
-      "webUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "7 AI Stocks That Are Looking to the Future",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
-      "publishedDateTime": "2020-06-01T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

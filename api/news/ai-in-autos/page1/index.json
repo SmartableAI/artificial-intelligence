@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-26-amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-the-information.md",
+      "title": "Amazon agrees to buy self-driving startup Zoox for over $1 billion: The Information",
+      "excerpt": "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology.",
+      "webUrl": "https://www.reuters.com/article/us-zoox-m-a-amazon-com-idUSKBN23X0PI",
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200626&t=2&i=1523697904&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5P0G9",
+          "width": 817,
+          "height": 545,
+          "title": "Amazon agrees to buy self-driving startup Zoox for over $1 billion: The Information",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23X0PI",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23X0PI",
+      "publishedDateTime": "2020-06-25T22:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-teslas-most-robust-self-driving-package-will-cost-more-again.md",
       "title": "Tesla's most robust self-driving package will cost more — again",
       "excerpt": "It'll soon cost you $8,000 to buy a Tesla upgrade package, which includes some features that don't even exist yet. Tesla's Full Self-Driving package is a future-ready option for t",
@@ -44,7 +91,7 @@
       "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
       "excerpt": "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday.",
       "webUrl": "https://www.reuters.com/article/us-waymo-volvo-autonomous-idUKKBN23W2V0",
-      "heat": 209,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -1261,53 +1308,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-tesla-launches-new-car-sharing-feature-to-simplify-access.md",
-      "title": "Tesla launches new car-sharing feature to simplify access",
-      "excerpt": "Tesla has launched a new feature that simplifies sharing your car with other people — another step toward its self-driving car-sharing network. With Model 3, Tesla focused on designing around ...",
-      "webUrl": "https://electrek.co/2020/06/09/tesla-new-car-sharing-feature-access/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/06/Tesla-car-sharing-hero.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 430,
-          "title": "Tesla launches new car-sharing feature to simplify access",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/06/09/tesla-new-car-sharing-feature-access/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/06/09/tesla-new-car-sharing-feature-access/amp/",
-      "publishedDateTime": "2020-06-09T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

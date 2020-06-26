@@ -91,6 +91,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Volvo and Waymo explore their own route for self-driving taxis"
+    excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday. Waymo, a unit of Google's parent company Alphabet,"
+    publishedDateTime: 2020-06-25T17:51:00Z
+    webUrl: "https://www.thenational.ae/business/volvo-and-waymo-explore-their-own-route-for-self-driving-taxis-1.1039334"
+    ampWebUrl: "https://amp.thenational.ae/business/volvo-and-waymo-explore-their-own-route-for-self-driving-taxis-1.1039334"
+    cdnAmpWebUrl: "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/business/volvo-and-waymo-explore-their-own-route-for-self-driving-taxis-1.1039334"
+    type: article
+    provider:
+      name: The National Blogs
+      domain: thenational.ae
+    quality: 59
+    images:
+      - url: "https://www.thenational.ae/image/policy:1.1039333:1593107510/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Didi Chuxing and BAIC form self driving partnership"
     excerpt: "Chinese ride hailing company Didi Chuxing has entered into a strategic partnership with local carmaker BAIC Group, according to local reports."
     publishedDateTime: 2020-06-23T08:49:00Z

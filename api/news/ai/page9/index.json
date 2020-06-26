@@ -2,6 +2,128 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-06-17-us-israel-israeli-fintech-firm-pagaya-raises-102-mln-in-funds.md",
+      "title": "U.S.-Israel Israeli fintech firm Pagaya raises $102 mln in funds",
+      "excerpt": "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round.",
+      "webUrl": "https://www.reuters.com/article/tech-pagaya-fundraising-idUSL8N2DU1DP",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2DU1DP",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2DU1DP",
+      "publishedDateTime": "2020-06-17T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-us-israeli-fintech-firm-pagaya-raises-102-million-in-funds.md",
+      "title": "U.S.-Israeli fintech firm Pagaya raises $102 million in funds",
+      "excerpt": "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round.",
+      "webUrl": "https://www.reuters.com/article/us-tech-pagaya-fundraising-idUSKBN23O1AF",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23O1AF",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23O1AF",
+      "publishedDateTime": "2020-06-17T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-pagaya-raises-102-million-to-manage-assets-with-ai.md",
+      "title": "Pagaya raises $102 million to manage assets with AI",
+      "excerpt": "Pagaya, a startup that taps AI to manage asset-backed securities, has raised over $100 million in venture capital financing.",
+      "webUrl": "https://venturebeat.com/2020/06/17/pagaya-raises-102-million-to-manage-assets-with-ai/",
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/03/406669c0-1e4f-4829-8fc5-233708467216-e1592276972478.png?w=1200&#038;strip=all",
+          "width": 1179,
+          "height": 588,
+          "title": "Pagaya raises $102 million to manage assets with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/17/pagaya-raises-102-million-to-manage-assets-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/pagaya-raises-102-million-to-manage-assets-with-ai/amp/",
+      "publishedDateTime": "2020-06-17T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-slamcore-wants-to-give-mobile-robots-better-spatial-intelligence.md",
       "title": "Slamcore wants to give mobile robots better spatial intelligence",
       "excerpt": "Slamcore is setting out to develop and commercialize AI-powered SLAM algorithms that give robots better positional awareness in any environment.",
@@ -1216,137 +1338,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-mark-cuban-on-race-robotics-and-why-now-is-a-great-time-to-start-a-business.md",
-      "title": "Mark Cuban on race, robotics and why now is a great time to start a business",
-      "excerpt": "Billionaire entrepreneur, Shark Tank regular and Dallas Mavericks owner Mark Cuban has never been shy about saying what was on his mind. Recently he sat down with Jordan Harbinger, host of the The Show podcast and a Newsweek contributor,",
-      "webUrl": "https://www.newsweek.com/mark-cuban-race-robotics-why-now-great-time-start-business-1511017",
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mark-cuban-race-robotics-why-now-great-time-start-business-1511017?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mark-cuban-race-robotics-why-now-great-time-start-business-1511017?amp=1",
-      "publishedDateTime": "2020-06-16T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-this-project-is-using-fitness-trackers-and-ai-to-monitor-workers-lockdown-stress.md",
-      "title": "This project is using fitness trackers and AI to monitor workers' lockdown stress",
-      "excerpt": "Times are toug and employee wellbeing is more important than ever. PwC is harnessing AI and fitness-tracking wearables to gain a deeper understanding of how work and external stressors are impacting employees' state of mind.",
-      "webUrl": "https://www.techrepublic.com/article/this-project-is-using-fitness-trackers-and-ai-to-monitor-workers-lockdown-stress/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/20/25193518-f8f7-4b6f-b761-2844310ac12d/thumbnail/1200x675/3943be5c0ad1bd8c76b1e6d02bfc6d19/20200513-compucom-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "This project is using fitness trackers and AI to monitor workers' lockdown stress",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/this-project-is-using-fitness-trackers-and-ai-to-monitor-workers-lockdown-stress/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/this-project-is-using-fitness-trackers-and-ai-to-monitor-workers-lockdown-stress/",
-      "publishedDateTime": "2020-06-16T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-microsoft-and-sas-join-forces-for-cloud-based-analytics-and-ai.md",
-      "title": "Microsoft and SAS join forces for cloud-based analytics and AI",
-      "excerpt": "The partnership builds on previous SAS integrations across Microsoft's Azure, Dynamics 365, Microsoft 365 and Power Platform and supports the companies shared vision to further \"d",
-      "webUrl": "https://www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas",
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1592297479/itpro/Microsoft_sign_shutterstock.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "Microsoft and SAS join forces for cloud-based analytics and AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas?amp",
-      "publishedDateTime": "2020-06-16T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
