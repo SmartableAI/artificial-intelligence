@@ -253,22 +253,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Democratic lawmakers propose nationwide facial recognition ban"
-    excerpt: "Democratic lawmakers proposed a sweeping nationwide ban on facial recognition software Thursday, with a bill that seeks tough new limits on the technology at all levels of government."
-    publishedDateTime: 2020-06-25T17:30:00Z
-    webUrl: "https://www.cnn.com/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200625112853-capitol-hill-0607-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "House bill seeks to ban federal use of facial recognition"
     excerpt: "Senators Ed Markey (Massachusetts) and Jeff Merkley (Oregon) authored the Facial Recognition and Biometric Technology Moratorium Act, which Reps. Pramila Jayapal and Ayanna Pressley co-sponsored, according to Vice."
     publishedDateTime: 2020-06-25T18:23:00Z
@@ -349,6 +333,17 @@ related:
         width: 1661
         height: 1107
         isCached: true
+  - title: "Democratic lawmakers propose nationwide facial recognition ban"
+    excerpt: "Democrats in Congress proposed a law on Thursday that would ban federal investment in facial recognition technology as well as other types of surveillance."
+    publishedDateTime: 2020-06-25T18:28:00Z
+    webUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/"
+    ampWebUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 71
   - title: "Black Man Wrongfully Arrested Due to 'Flawed' Face Recognition Tech: ACLU"
     excerpt: "The American Civil Liberties Union has filed a formal complaint against Detroit police for wrongfully arresting a Black man earlier this year after he was allegedly targeted due to \"flawed and biased\" facial recognition technology."
     publishedDateTime: 2020-06-24T14:54:00Z
@@ -653,6 +648,6 @@ related:
         height: 341
         isCached: true
 
-secured: "kN0zglU3R4H+2WwtTw6+JTT1P9iiw0AZVv1/yte2VvuJ3zV4ei3LeF9KAO4+vE7he9ITQ13Iu5Bs0f3dQzT5uTQqCmUmOaFDWSodcFfm7NQah94EhPbY5pgM3L8KHjLjxyuciHsTIwuRRCyhRwy/eyEMQVgJSR6kRYokT5G4EsiWK/itzc+82yWKgI8zZqqkGkOsLNSAQEKY5L+xpcNppKeTJMmR6UC1yjK722XPocVPY9KzhozVIGtE0ipoNBxXO8+/pi9eZBWtcX/FUeXU3A5hld13hl8c+rB9Zbf6MfT9eVNzDG2PglsuNTOAe7QktdeX5B7H0RVc20vvjSTzqQ==;LjPyhNrivGpI+sEjSYcXSg=="
+secured: "yubEHUNHsUN+sCCx+sp9hqWk9InrqdbbyJBCo3EqvX50LK6Cw+XaLhd87CengZTcPw1SAw0PUagg7rKnD6QZiCTfxKUp+6C9Z5FJhioOY/hcAy5IZi2yrPxgz9DV+NxmbofeESsv1qGwX71n8f7VxaBk0DqIhsFQAvNqf0s3qafabewKLMFqS1O3s86u0oI86NnjApmxR3cp1HjAlE0orxJAG1cCiO5WwKf8pZbbXG0L50WYWKsnwDFh8w3LRU0PKt8Ofl0JiF1dEj97cw2Ka4qsvNDcVHMVC9e7GnYLJ9/81BolWOSqgmhcLSCIrhsJMHeCgObQtqRrLZtJncetXTvqfFfQLZgAZ7ZDG6vKLi4HW8hnmK3S1IAiJx+Crfx9cGpe0QYVf5VN1wjeU7uep6XahJ+/6n/3DssVsaFbtXWlbd8JVSjFzwosMtoSuFSlQtCBT580NMJbQ40quwzKj4S6CFvkRHfbahF4gfyLqhEvMcNYCvQfYRJIW0UWqBvr6csQq3ToSNmne/XRyiroiQ==;4SRS4ALt0JeNghk/8ciOXg=="
 ---
 

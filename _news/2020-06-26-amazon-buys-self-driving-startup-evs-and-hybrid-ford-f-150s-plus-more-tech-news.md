@@ -31,6 +31,22 @@ images:
     title: "Amazon buys self-driving startup, EVs and hybrid Ford F-150s, plus more tech news"
 
 related:
+  - title: "Daily Crunch: Amazon buys self-driving startup Zoox"
+    excerpt: "The company has also invested in autonomous driving startup Aurora, and it has tested self-driving trucks powered by self-driving freight startup Embark. 2. Microsoft is closing all of its retail ..."
+    publishedDateTime: 2020-06-26T16:30:00Z
+    webUrl: "https://techcrunch.com/2020/06/26/daily-crunch-amazon-buys-self-driving-startup-zoox/"
+    ampWebUrl: "https://techcrunch.com/2020/06/26/daily-crunch-amazon-buys-self-driving-startup-zoox/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/26/daily-crunch-amazon-buys-self-driving-startup-zoox/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/10/Zoox_LV_2019_005-1.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Amazon buys self-driving technology company Zoox"
     excerpt: "Amazon is jumping deeper into the market for autonomous driving with the purchase of Zoox, which was valued at over $3 billion in 2018."
     publishedDateTime: 2020-06-26T13:34:00Z
@@ -95,6 +111,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon to acquire autonomous driving startup Zoox"
+    excerpt: "Amazon has announced that it will acquire Zoox, a self-driving startup founded in 2014, which has raised nearly $1 billion in funding and which aims to develop autonomous driving technology, including vehicles,"
+    publishedDateTime: 2020-06-26T13:40:00Z
+    webUrl: "https://techcrunch.com/2020/06/26/amazon-to-acquire-autonomous-driving-startup-zoox/"
+    ampWebUrl: "https://techcrunch.com/2020/06/26/amazon-to-acquire-autonomous-driving-startup-zoox/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/26/amazon-to-acquire-autonomous-driving-startup-zoox/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/90.png?w=1024"
+        width: 1024
+        height: 462
+        isCached: true
   - title: "Amazon reportedly seals $1.2 billion acquisition of self-driving startup Zoox"
     excerpt: "Amazon will reportedly pay over $1.2 billion to acquire Zoox, one of the many companies working on self-driving technology. The acquisition represents Amazon’s strongest commitment to self-driving so far."
     publishedDateTime: 2020-06-26T09:14:00Z
@@ -110,6 +142,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F50918640-b781-11ea-8e6f-31cf8ce3363a&client=amp-blogside-v2&signature=65c2889bedae9f838318604b8d787b0fd94eff5b"
         width: 600
         height: 350
+        isCached: true
+  - title: "Amazon to reportedly acquire self-driving car startup Zoox for over $1 billion"
+    excerpt: "The firm has reportedly agreed to pay over $1 billion to acquire Zoox. This will give Amazon control of the 1000-person startup; however, Zoox is expected to operate as an independent subsidiary."
+    publishedDateTime: 2020-06-26T10:12:00Z
+    webUrl: "https://www.neowin.net/news/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion"
+    ampWebUrl: "https://www.neowin.net/amp/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 70
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2019/02/1551367567_amazonlogo_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "Amazon agrees to buy self-driving startup Zoox for over $1 billion: The Information"
     excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology."
@@ -127,21 +175,37 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Winnipeg-based company to test self-driving buses in the U.S."
-    excerpt: "Winnipeg-based New Flyer is going to be the first North America. David Warren, who is the director of sustainable transportation for New Flyer, said the project will take place in Connecticut and the Department of Transportation there will lead it."
-    publishedDateTime: 2020-06-23T21:28:00Z
-    webUrl: "https://winnipeg.ctvnews.ca/winnipeg-based-company-to-test-self-driving-buses-in-the-u-s-1.4996824"
-    ampWebUrl: "https://beta.ctvnews.ca/local/winnipeg/2020/6/23/1_4996824.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/winnipeg/2020/6/23/1_4996824.html"
+  - title: "Amazon has reportedly bought self-driving-car startup Zoox for more than $1 billion"
+    excerpt: "Sources told the Financial Times that Zoox's management team will report to Jeff Wilke, head of Amazon's worldwide consumer division"
+    publishedDateTime: 2020-06-26T11:21:00Z
+    webUrl: "https://www.businessinsider.com/amazon-reportedly-buys-self-driving-car-startup-zoox-for-one-billion2020-6"
+    ampWebUrl: "https://www.businessinsider.com/amazon-reportedly-buys-self-driving-car-startup-zoox-for-one-billion2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-reportedly-buys-self-driving-car-startup-zoox-for-one-billion2020-6?amp"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 44
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
     images:
-      - url: "https://beta.ctvnews.ca/local/winnipeg/2020/6/23/1_4996824/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/5ece37e6aee6a8643064e963?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Self-Driving Car Startup Argo AI Expands in Pittsburgh"
+    excerpt: "Even with the ongoing novel coronavirus pandemic, the self-driving car startup may have reason to expand. Earlier this month, it closed on a deal with Volkswagen on a $2.6 billion investment."
+    publishedDateTime: 2020-06-25T21:49:00Z
+    webUrl: "https://www.govtech.com/fs/automation/Self-Driving-Car-Startup-Argo-AI-Expands-in-Pittsburgh.html"
+    ampWebUrl: "https://www.govtech.com/fs/automation/Self-Driving-Car-Startup-Argo-AI-Expands-in-Pittsburgh.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/automation/Self-Driving-Car-Startup-Argo-AI-Expands-in-Pittsburgh.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/S5A5904.jpg"
+        width: 922
+        height: 615
         isCached: true
   - title: "Amazon Agrees To Buy Self-Driving Startup Zoox For Over $1bn: Report"
     excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, according to a report in The Information, citing sources, in a move that would"
@@ -159,6 +223,38 @@ related:
         width: 437
         height: 245
         isCached: true
+  - title: "Amazon buys self-driving car company run by former Intel Oregon exec"
+    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
+    publishedDateTime: 2020-06-26T16:13:00Z
+    webUrl: "https://www.oregonlive.com/silicon-forest/2020/06/amazon-buys-self-driving-car-company-run-by-former-intel-oregon-exec.html"
+    ampWebUrl: "https://www.oregonlive.com/silicon-forest/2020/06/amazon-buys-self-driving-car-company-run-by-former-intel-oregon-exec.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/silicon-forest/2020/06/amazon-buys-self-driving-car-company-run-by-former-intel-oregon-exec.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 44
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/NSF67VQSGFAS7JFQY3BHQCZZC4.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Amazon looks to self-driving future by acquiring Zoox"
+    excerpt: "NEW YORK (AP) - Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
+    publishedDateTime: 2020-06-26T17:02:00Z
+    webUrl: "https://www.sfgate.com/business/article/Amazon-looking-to-the-future-of-ride-hailing-15368472.php"
+    ampWebUrl: "https://www.sfgate.com/business/amp/Amazon-looking-to-the-future-of-ride-hailing-15368472.php"
+    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/amp/Amazon-looking-to-the-future-of-ride-hailing-15368472.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 44
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/61/62/19602620/9/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Amazon Reportedly Buys Self-Driving Startup Zoox For Over $1.2 Billion"
     excerpt: "E-commerce giant Amazon has reportedly agreed to pay more than $1.2 billion to buy self-driving startup Zoox, in a move that sheds light on the company’s huge ambitions regarding autonomous vehicle technology."
     publishedDateTime: 2020-06-26T10:39:00Z
@@ -174,6 +270,54 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2020/06/Amazon-logo-0-1024x554.jpg"
         width: 1024
         height: 554
+        isCached: true
+  - title: "Amazon To Acquire Self-Driving Startup In A $1 Billion+ Deal"
+    excerpt: "Amazon.com Inc (NASDAQ: AMZN) is expected to announce a deal to buy self-driving technology startup Zoox for over $1 billion, according to a report by The Information. This does not come as a surprise, considering Amazon's closed doors discussion with Zoox ..."
+    publishedDateTime: 2020-06-26T16:18:00Z
+    webUrl: "https://www.benzinga.com/m-a/20/06/16407224/amazon-to-acquire-self-driving-startup-in-a-1-billion-deal"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16407224"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16407224"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2020/06/Screen-Shot-2020-06-26-at-14.20.54.png"
+        width: 592
+        height: 375
+        isCached: true
+  - title: "Amazon to buy self-driving startup Zoox for $1 billion"
+    excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-comm"
+    publishedDateTime: 2020-06-26T07:47:00Z
+    webUrl: "https://www.businesstoday.in/current/corporate/amazon-to-buy-self-driving-startup-zoox-for-1-billion/story/408110.html"
+    ampWebUrl: "https://m.businesstoday.in/lite/story/amazon-to-buy-self-driving-startup-zoox-for-1-billion/1/408110.html"
+    cdnAmpWebUrl: "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/amazon-to-buy-self-driving-startup-zoox-for-1-billion/1/408110.html"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 44
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/amazon_505_220520034228_260620010820.jpg?size=1200:675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Amazon to buy self-driving technology startup Zoox"
+    excerpt: "Amazon has agreed to buy California-based self-driving startup Zoox in a deal reported to be worth more than $1 billion that gives it options to use autonomous technology in either ride-hailing or ..."
+    publishedDateTime: 2020-06-26T17:06:00Z
+    webUrl: "https://nypost.com/2020/06/26/amazon-buying-self-driving-startup-zoox-for-1b/"
+    ampWebUrl: "https://nypost.com/2020/06/26/amazon-buying-self-driving-startup-zoox-for-1b/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/06/26/amazon-buying-self-driving-startup-zoox-for-1b/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/06/Zoox-car.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Report: Amazon to pay $1 billion+ for self-driving tech firm Zoox"
     excerpt: "Amazon is expected to announce a deal as early as today to purchase self-driving vehicle technology provider Zoox for upwards of $1 billion, according to a report in The Information. Why it matters: While Apple,"
@@ -223,6 +367,38 @@ related:
         width: 952
         height: 536
         isCached: true
+  - title: "Amazon Buys Another Self-Driving Car Company, Intensifying Big Tech’s Wild Race"
+    excerpt: "See Also: How Coronavirus and Protests Broke Artificial Intelligence And Why It’s A Good Thing It’s been widely speculated that Amazon could deploy Zoox’s self-driving technology in building ..."
+    publishedDateTime: 2020-06-26T17:09:00Z
+    webUrl: "https://observer.com/2020/06/amazon-acquire-zoox-self-driving-car-big-tech/"
+    ampWebUrl: "https://observer.com/2020/06/amazon-acquire-zoox-self-driving-car-big-tech/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/06/amazon-acquire-zoox-self-driving-car-big-tech/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 40
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2020/06/GettyImages-1148406588.jpg?quality=80&strip"
+        width: 5200
+        height: 3583
+        isCached: true
+  - title: "Amazon buys self-driving car firm Zoox, suggesting a future of automated deliveries"
+    excerpt: "The deal provides Amazon with a new piece of technology as it reduces its dependence on shipping companies to get packages to customers."
+    publishedDateTime: 2020-06-26T15:57:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/06/26/amazon-zoom/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/06/26/amazon-zoom/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/06/26/amazon-zoom/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 38
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XYF7FUFXWUI6VGQ52PNRZPQHZY.jpg&w=1440"
+        width: 1440
+        height: 942
+        isCached: true
   - title: "Amazon agrees to buy self-driving technology startup Zoox"
     excerpt: "Amazon.com Inc has agreed to buy California-based self-driving startup Zoox Inc in a deal reported to be worth more than $1 billion that gives it options to use autonomous technology in either ride-hailing or its delivery network."
     publishedDateTime: 2020-06-26T15:35:00Z
@@ -232,10 +408,24 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "Amazon reportedly just scooped up its third self-driving car company"
+  - title: "Amazon buys self-driving startup Zoox"
+    excerpt: "Amazon announced Friday it has acquired self-driving startup Zoox. No details on the amount paid was mentioned but the Financial Times reported earlier that the deal was worth in excess of $1.2 billion. Silicon Valley-based Zoox was founded in 2014."
+    publishedDateTime: 2020-06-26T17:03:00Z
+    webUrl: "https://www.motorauthority.com/news/1128656_amazon-buys-self-driving-startup-zoox"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/zoox-and-amazon-logos_100750070_h.jpg"
+        width: 1920
+        height: 988
+        isCached: true
+  - title: "Amazon reportedly just scooped up Zoox, a self-driving car company"
     excerpt: "Amazon may be looking to leverage Zoox’s tech for its delivery network, which could contribute to the company saving $20 billion a year."
-    publishedDateTime: 2020-06-26T12:01:00Z
-    webUrl: "https://www.fastcompany.com/90521704/amazon-reportedly-just-scooped-up-its-third-self-driving-car-company"
+    publishedDateTime: 2020-06-26T17:41:00Z
+    webUrl: "https://www.fastcompany.com/90521704/amazon-reportedly-just-scooped-up-its-third-self-driving-car-company?amp&amp&amp&amp"
     type: article
     provider:
       name: Fast Company
@@ -259,6 +449,20 @@ related:
       - url: "https://techcentral.co.za/wp-content/uploads/2020/06/re-amazon-2156-1120.jpg"
         width: 2156
         height: 1120
+        isCached: true
+  - title: "Bay Area self-driving startup Zoox bought by Amazon for reported $1.2 billion"
+    excerpt: "Amazon announced Friday it is buying Bay Area self-driving car startup Zoox, as the internet giant makes its strongest foray yet into the autonomous vehicle market. The six-year-old Foster City company will continue to run as a standalone business ..."
+    publishedDateTime: 2020-06-26T16:15:00Z
+    webUrl: "https://www.sfchronicle.com/business/article/Bay-Area-self-driving-startup-Zoox-bought-by-15368852.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 21
+    images:
+      - url: "https://s.hdnux.com/photos/77/50/00/16678916/27/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Amazon to acquire self-driving firm Zoox for over $1bn: Report"
     excerpt: "Amazon is set to spend over $1 billion to acquire self-driving car startup Zoox, The Information reported. The deal could be officially announced as early as Friday. The news comes after The Wall ..."

@@ -42,6 +42,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "How Coronavirus and Protests Broke Artificial Intelligence And Why It’s A Good Thing"
+    excerpt: "AI researchers are grappling with what our role should be in dismantling systemic racism, economic oppression, and other forms of injustice and discrimination.”"
+    publishedDateTime: 2020-06-26T16:01:00Z
+    webUrl: "https://observer.com/2020/06/how-coronavirus-and-protests-broke-artificial-intelligence-and-why-its-a-good-thing/"
+    ampWebUrl: "https://observer.com/2020/06/how-coronavirus-and-protests-broke-artificial-intelligence-and-why-its-a-good-thing/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/06/how-coronavirus-and-protests-broke-artificial-intelligence-and-why-its-a-good-thing/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 50
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2020/06/GettyImages-1211133822.jpg?quality=80&strip"
+        width: 2800
+        height: 1772
+        isCached: true
 
 secured: "r5k2+PxvPDnEHP2h9E94m7iB0HF7ZOCSKRwTAnBL/D1cxCcvTYxrYWY2J7pUOwU3cOJcwotRrIwAOo+8DBX0JXEz6XyX1EUCNkkjhl57vAUN9X/uoQFFvrdJ2pMbpH9lhScpnqpdelegwsPGxw4qI15Rar3QOq2s+rPCYlWdzJYTUdQ7+xLG0rbEWGGOawKykUUkU3QTlQsDzsFQ1GJw/XKPs6aRtwZmL/n/AzkAjRkJUZipHHyW97/pxThrVMw2d8VonmVDJtEdGpNo3PARfVrzkdddiQpKs7X1GLzpma1TU4bOYwDaxXEfyGstYIn4GlNLgC+PwOy9t6ixmtj/V4uUDKs4J+13SwCPaUVskPWtlrPxsOkTKwWa73OW1ITIDhn08/qI7epEwf5LKVGTy74icLHU9ZVKC5RU3aIhpGwaLbmRMQLg5ROmuxLk+MJwRvNWBpesSqpKNudAEdaUr7tIxl+5oAVxjhHg7eq64WuubyZeVxypwkreDaCrV3h6n4AuBwD6sKQaetI/+Sa51Q==;XlrshXY/1LOiG28B3SWgfw=="
 ---

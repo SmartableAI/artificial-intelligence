@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Democratic lawmakers propose nationwide facial recognition ban"
-excerpt: "Democratic lawmakers proposed a sweeping nationwide ban on facial recognition software Thursday, with a bill that seeks tough new limits on the technology at all levels of government."
-publishedDateTime: 2020-06-25T17:30:00Z
-webUrl: "https://www.cnn.com/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+excerpt: "Democrats in Congress proposed a law on Thursday that would ban federal investment in facial recognition technology as well as other types of surveillance."
+publishedDateTime: 2020-06-25T18:28:00Z
+webUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/"
+ampWebUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
 type: article
-quality: 89
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Digital Trends
+  domain: digitaltrends.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200625112853-capitol-hill-0607-restricted-super-tease.jpg"
-    width: 1100
-    height: 619
-    isCached: true
-    title: "Democratic lawmakers propose nationwide facial recognition ban"
+  - Computer Vision
 
 related:
   - title: "A Flawed Facial Recognition System Sent This Man to Jail"
@@ -653,6 +647,6 @@ related:
         height: 341
         isCached: true
 
-secured: "HdGseDtM+VlMrm/EgPuXVJRBu30gy7fs3p/MODIF6c2qasYhtVKke6Aw6rO/yZHzC/iEe5simTUwSd71uSiJkQkPm65v15o+UPQC9e4PlNtm/X7FuqtwJH3CVEajwpavwXkbDeDcDSsmpEAbUOHnRMfDxSa0Id1AyASqBmbdiYTofXL+cubU+cJpVZ9wXdaZ54tibABc9c2NsBVimo9fBLGS+YmchR41E4B1acOGTDIL8ScChaYbAiF9eXaP3XoR8TlFFhnyyM25CD9oIRnZrT8OHxqA87xD+XLBLwA2Hw/wM4rN5hEasONq0OiUrKb0jNPnjAr7dD54e55nOMweQg==;/xSNWmw98Xb83a6qOhLnYw=="
+secured: "UzUAA2CjuC2ZsXNHTJbTKqo3t62HUf3ihKuhSKMdhyjtG7TjnBj8QPWBgvnrvy3TJ7FGVyXZR5dmDgrpsW0q8qhLnPok86wV+FhmRZTt0rQW/kCFRg+8HdWD3aE68zJxNWj/Wkqhs6QwsPAv2mc46OVRy7mK9YdVg+PmNt5ATjkmtKaW7FdLtGzhb4TwyEWsON9tg8ZASDFlBPyIfzaeuQtZ6+WEsiGXKsmuOfwI3qp1Wx/lL6pmvrYnJvwjQlCqgX74usfgKmXatTzwVcGSDaAIGgn3Y0S12aqWmICO9/mPHCgd8g0b+wmQUDodZ9vDwHn+cLwzbgmkFrW59aYOriVKdSQSp21KgSXAxaQwxYkeHR4RNaWfuk3zpdO3sATpWEUNl+NRJ1VpMqw0DvVMF2XFDKkTXQWWlxzxGLh3AWbLhynYf6xlKcB4l4COIrtL+boJdx91N9/6SAT72Y3L5W0XLkSsRC6XiTe+l/YdW3z/+wiP0HHEb1Ss0A8Eb1/TdgFzMLHks0YFMg0W384cXQ==;yPBpTPtQVeNfrHxGZMDuGg=="
 ---
 

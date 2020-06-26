@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/06/22/how-data-scientists-are-lin
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/22/how-data-scientists-are-linking-ai-and-data-analysis-to-find-coronavirus-cure-syndication/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     title: "How data scientists are linking AI and data analysis to find coronavirus cure"
 
 related:
+  - title: "How Coronavirus and Protests Broke Artificial Intelligence And Why It’s A Good Thing"
+    excerpt: "AI researchers are grappling with what our role should be in dismantling systemic racism, economic oppression, and other forms of injustice and discrimination.”"
+    publishedDateTime: 2020-06-26T16:01:00Z
+    webUrl: "https://observer.com/2020/06/how-coronavirus-and-protests-broke-artificial-intelligence-and-why-its-a-good-thing/"
+    ampWebUrl: "https://observer.com/2020/06/how-coronavirus-and-protests-broke-artificial-intelligence-and-why-its-a-good-thing/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/06/how-coronavirus-and-protests-broke-artificial-intelligence-and-why-its-a-good-thing/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 50
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2020/06/GettyImages-1211133822.jpg?quality=80&strip"
+        width: 2800
+        height: 1772
+        isCached: true
   - title: "Pivot and Persist: Analytics startup uses AI to monitor social distancing amid coronavirus"
     excerpt: "Amid coronavirus, Pune-based retail analytics startup Glimpse Analytics has repurposed its AI device to alert in case of social distancing and occupancy limit violations in stores and offices."
     publishedDateTime: 2020-06-26T00:16:00Z
