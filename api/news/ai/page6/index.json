@@ -2,6 +2,98 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-19-artificial-intelligence-wrote-the-lyrics-to-this-fake-nirvana-song.md",
+      "title": "Artificial intelligence wrote the lyrics to this fake Nirvana song",
+      "excerpt": "YouTuber Funk Turkey has been experimenting with this very proposition, feeding band lyrics to an AI and asking it to write an entirely new song based on the output. The results are, well… interesting,",
+      "webUrl": "https://www.techspot.com/news/85706-artificial-intelligence-wrote-lyrics-fake-nirvana-song.html",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-19-image-9.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": "Artificial intelligence wrote the lyrics to this fake Nirvana song",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85706-artificial-intelligence-wrote-lyrics-fake-nirvana-song.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85706-artificial-intelligence-wrote-lyrics-fake-nirvana-song.html",
+      "publishedDateTime": "2020-06-19T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai.md",
+      "title": "CVPR challenge pushes researchers to improve car accident detection AI",
+      "excerpt": "The AI City Challenge attracted AI researchers from 30+ countries in a competition for tasks like spotting car accidents or stalled cars on highways.",
+      "webUrl": "https://venturebeat.com/2020/06/19/cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/ai-city-challenge.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "CVPR challenge pushes researchers to improve car accident detection AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/19/cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/19/cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai/amp/",
+      "publishedDateTime": "2020-06-19T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough.md",
       "title": "AI Weekly: Restricting surveillance technologies is a strong first step, but it’s not enough",
       "excerpt": "New laws and regulations are curbing law enforcement's use of surveillance technologies, but that might not be enough.",
@@ -1222,98 +1314,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-google-builds-ai-agent-that-learns-to-generalize-to-new-environments-by-ignoring-distractions.md",
-      "title": "Google builds AI agent that learns to generalize to new environments by ignoring distractions",
-      "excerpt": "Google researchers propose an AI system that uses the concept of self-attention to generalize to unfamiliar environments.",
-      "webUrl": "https://venturebeat.com/2020/06/18/google-builds-ai-agent-that-learns-to-generalize-to-new-environments-by-ignoring-distractions/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google builds AI agent that learns to generalize to new environments by ignoring distractions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/18/google-builds-ai-agent-that-learns-to-generalize-to-new-environments-by-ignoring-distractions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/google-builds-ai-agent-that-learns-to-generalize-to-new-environments-by-ignoring-distractions/amp/",
-      "publishedDateTime": "2020-06-18T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-youtube-sued-for-using-ai-to-racially-profile-content-creators.md",
-      "title": "YouTube sued for using AI to racially profile content creators",
-      "excerpt": "A group of black content creators has sued YouTube for allegedly using AI to censor their videos based “wholly or in part” on race.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/18/youtube-sued-for-using-ai-to-racially-profile-content-creators/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-79-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "YouTube sued for using AI to racially profile content creators",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/18/youtube-sued-for-using-ai-to-racially-profile-content-creators/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/18/youtube-sued-for-using-ai-to-racially-profile-content-creators/amp/",
-      "publishedDateTime": "2020-06-18T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

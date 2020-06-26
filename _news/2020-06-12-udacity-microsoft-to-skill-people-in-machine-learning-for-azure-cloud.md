@@ -1,26 +1,19 @@
 ---
 category: news
 title: "Udacity, Microsoft to skill people in machine learning for Azure Cloud"
-excerpt: "New Delhi, June 12 (IANS) US-based learning platform Udacity on Friday announced a partnership with Microsoft to confer scholarships for a new Machine Learning Nanodegree programme in Microsoft Azure."
-publishedDateTime: 2020-06-12T08:14:00Z
-webUrl: "https://www.sify.com/news/udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud-news-education-ugmilGceefiag.html"
+excerpt: "Phase one of the programme will provide 10,000 applicants access to the two-month-long foundation course titled Introduction to Machine Learning on Azure' with a low-code experience. The second phase will offer a scholarship for the new programme in Microsoft Azure to top 300 performers of the foundation course,"
+publishedDateTime: 2020-06-12T13:30:00Z
+webUrl: "https://news.webindia123.com/news/articles/Science/20200612/3574912.html"
 type: article
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.sify.com/uploads/Hindi-Chini600x600_ugriulddadbea_ugrizcghbbjbg.jpg"
-    width: 600
-    height: 600
-    isCached: true
-    title: "Udacity, Microsoft to skill people in machine learning for Azure Cloud"
-
-secured: "JpCyTVc2zRYZ7gY2MZa0ELTbG/+7qOMHK9YG8VDswkSwvhzB9wNY/B4GpGBHTH2Twxkmx/6C/ZyJhEhMlCRuSG1NshylFwa0vJ4zTY6D+PA+qiWSy2tZEycS3NPYHQS9ldMzgd5BS2iXXb1fx0HtYN05sBiZLNb/uY4LWzCk6UtuFRIaomnqjS9KNmguv2waI6aIw9qy7IGw5iYYvM8hox6z6/UmEpsi26bkTrkzBAagYuq8q7zL0s8Z+W1DCdXR7jyrhb/Ajr+RWGlrmmM/neocsqyzs3O2N69LL+3zlk6VhJZ0DIl9AumxAaa2OnLK2j3T1tX5wNe9LHoBhfdE8w==;Q+Xf9dnWbtav5lYFy0beTg=="
+secured: "3u5KvdqheCFx4I0AcuFp1T0k7izV43NBJgSVwy03jwJIyGyli0pf8RYKEWt0do68BJFR02hKOtKWH45ZuiLIfvYmTTHMSgz3Lqf8j7UWp9Esal2lmiFtyvMiNO7t/iKmSQrjLyV/ZlR6WaZHh+LHJqczTHVjK5ldrv2gRAQH8KgnmpCE3FW+TIoL2APsZNlo2msonel8axrXzPHDwrh2iGSn73fgNls7UGoskoUlMFi0+MQfkXrjcQJGGYADWnLdZLsnx3IWD8ueKdxkNM2kwnYTJefl0GhCcQ47pJP88Nm6RrURBgmLeAe9Pjy4dWMmugx1Z/mWKfPX5GksJn2i1Q==;vCBJ5+LYN6zv9xOw8SLHCA=="
 ---
 

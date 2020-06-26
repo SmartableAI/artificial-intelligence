@@ -2,6 +2,91 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-05-18-fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics.md",
+      "title": "FedEx partners with Microsoft to improve supply chains and shipping logistics",
+      "excerpt": "The companies said their first offering, called FedEx Surround, will provide real-time analytics into commerce supply chains and shipment tracking.",
+      "webUrl": "https://www.zdnet.com/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/",
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/18/2151fc49-7ad9-4a65-9002-0414a1081af1/thumbnail/1200x675/8639db4c7592580202910c59cd9b807c/screen-shot-2020-05-18-at-3-59-56-pm.png",
+          "width": 1200,
+          "height": 675,
+          "title": "FedEx partners with Microsoft to improve supply chains and shipping logistics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/",
+      "publishedDateTime": "2020-05-18T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-facial-recognition-and-your-right-to-privacy.md",
+      "title": "Facial recognition and your right to privacy",
+      "excerpt": "Would your social media habits change if you knew your posts could be used by law enforcement? Jacob Ward brings to light the privacy issues surrounding AI and facial recognition on the Weekend Report.",
+      "webUrl": "https://www.nbcnews.com/video/facial-recognition-and-your-right-to-privacy-83601477518",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202005/sg_3.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Facial recognition and your right to privacy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo83601477518",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo83601477518",
+      "publishedDateTime": "2020-05-18T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages.md",
       "title": "Hackers spoof new Azure AD and Microsoft 365 sign-in pages",
       "excerpt": "The Azure AD sign-in experience underwent a redesign about three months ago, but the new sign-in pages didn’t roll out until the first week of April. Microsoft intended the rede",
@@ -1053,99 +1138,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-in-the-ai-era-universities-need-to-strengthen-students-creativity.md",
-      "title": "In the AI era, universities need to strengthen students’ creativity",
-      "excerpt": "But the past few years have only highlighted the limits of current AI technologies. At the turn of the decade, as the world locked down to prevent the spread of the novel coronavirus, we got to see whether the promises of artificial intelligence and robots replacing humans would materialize.",
-      "webUrl": "https://thenextweb.com/neural/2020/05/17/in-the-ai-era-universities-need-to-strengthen-students-creativity-syndication/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/crativitiy_header-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "In the AI era, universities need to strengthen students’ creativity",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/17/in-the-ai-era-universities-need-to-strengthen-students-creativity-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/17/in-the-ai-era-universities-need-to-strengthen-students-creativity-syndication/amp/",
-      "publishedDateTime": "2020-05-17T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-17-china-injects-us22-billion-into-local-chip-maker-smic.md",
-      "title": "China injects US$2.2 billion into local chip maker SMIC",
-      "excerpt": "The investment comes as Washington moves to further restrict the ability of Chinese telecommunications equipment maker Huawei Technologies to develop chips using American technologies.",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/17/a5b50f20-980a-11ea-ae0d-0e69ba128e68_image_hires_153449.jpg?itok=Qs4iyILB&v=1589700900",
-          "width": 1200,
-          "height": 630,
-          "title": "China injects US$2.2 billion into local chip maker SMIC",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3084760/china-injects-us22-billion-local-chip-foundry-smic",
-      "publishedDateTime": "2020-05-17T00:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

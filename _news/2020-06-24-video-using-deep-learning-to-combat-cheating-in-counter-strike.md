@@ -53,6 +53,20 @@ related:
         width: 500
         height: 685
         isCached: true
+  - title: "Uncovering the effects of interface-induced ordering of liquid on crystal growth using machine learning"
+    excerpt: "Considerably less is known about the role of the liquid structure on the kinetics of crystal growth. Here atomistic simulations and machine learning methods are employed together to demonstrate that the liquid adjacent to solid-liquid interfaces presents ..."
+    publishedDateTime: 2020-06-26T09:10:00Z
+    webUrl: "https://www.nature.com/articles/s41467-020-16892-4"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 23
+    images:
+      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-16892-4/MediaObjects/41467_2020_16892_Fig3_HTML.png"
+        width: 685
+        height: 240
+        isCached: true
 
 secured: "pbBxeFRRN5F9yrnGdFT8s+qsCX7e8iZLpERnfVYuSiABBlTCFVom0vf0XB4It82Wz3TS32zL7sNQ59GGkK9c81CcZdAidD9JRcAwblHZgp9127aTHjyyc2ekOVgPha2RYIJV8MQkWCmRaP9z4m1cif9di2hR1wMzGGnpntWmbh3ZtHzyraT3Li6BDfdVgOrURO+tttrVLN/gXUDGA1DcPdWjKGtpPsjuw1JFCPqorH9ltSNY3BbmaY/AgopBiSWWcGSGccasjtoDnEB4fxx57MrwOCUrWC3agdz3eXg61dWGkgT7Cj84+B79ueDa4Ocg8/O7p8j19gT/UrPWc8ly7K0YR6mKom1tLjzFcvi4jujnV848h1XEum1fX8KBwTMaDCOael9OqTA0Pc0FIQq4vShv6QsQIxQmYfulPcIWMANuBxw42NpHep0w1hoQX75XVH+y0pQJYmSXjD9/XFDMEGu6XXDiYJW/z+9d4G/YTElQ3gUJMctBTIdsbg+G9qPIZluZGLIDsbbfGbt7fsyg8g==;GMlWmfS1tWKxF8G5vfh8vg=="
 ---

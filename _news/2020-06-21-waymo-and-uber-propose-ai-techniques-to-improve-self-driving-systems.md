@@ -64,21 +64,16 @@ related:
         height: 406
         isCached: true
   - title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
-    excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday"
-    publishedDateTime: 2020-06-26T07:46:00Z
-    webUrl: "https://www.dispatchlive.co.za/lifestyle/motoring/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
-    ampWebUrl: "https://www.dispatchlive.co.za/amp/lifestyle/motoring/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
-    cdnAmpWebUrl: "https://www-dispatchlive-co-za.cdn.ampproject.org/c/s/www.dispatchlive.co.za/amp/lifestyle/motoring/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+    excerpt: "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver”. Volvo will design and manufacture the vehicles. The companies said Waymo would work with Volvo's global brands ..."
+    publishedDateTime: 2020-06-26T07:16:00Z
+    webUrl: "https://www.timeslive.co.za/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
     type: article
     provider:
-      name: The Daily Dispatch
-      domain: dispatchlive.co.za
-    quality: 59
-    images:
-      - url: "https://lh3.googleusercontent.com/H0ihMXS0QNI9A5-qG-yB0_l67GccHLaM3u5Bx0Yi-Fu4lgLOTeK39hNZ7u7uBwHlRHv1Qb86hDBUz7xkP8iau38=s1000"
-        width: 1000
-        height: 628
-        isCached: true
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 39
   - title: "AImotive secures $20 million to expand locations and self-driving technology"
     excerpt: "AImotive has become what it claims is the most-funded automated driving software supplier in Europe with an additional $20 million raised in funding. IEEE GlobalSpec websites place cookies on your device to give you the best user experience."
     publishedDateTime: 2020-06-23T13:39:00Z

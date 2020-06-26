@@ -41,6 +41,15 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "Intel start first AI associate degree programme"
+    excerpt: "Intel has started its first artificial intelligence (AI) associate degree programme, with the Maricopa County Community College District (MCCCD). The Arizona Commerce Authority will also provide a workforce grant of USD 100,"
+    publishedDateTime: 2020-06-26T08:05:00Z
+    webUrl: "https://www.telecompaper.com/news/intel-start-first-ai-associate-degree-programme--1344146"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "QfIm/wvW55V8RlprZg1X0WzZz2Pdo1A4+h2RYuCy1wpir/FIq5eoBpPBMIRYcCEajT4PvgJBhV4GIJLxvPbISORH62miYfz1sv3jvH1wxKWY725fKxSCsZpr4fWql2gN47TF2GeFw67AIDqnqiUYgyPSEa/Ogq2rLppMC2/EpYA/6Wl1rOcCtInHaWoViAUaemnbUkZEd6kS86XZb6uW6CPgWgFotJ634/UfoZPCdJSopRQ1WpGvcu4dtVYU3kWqHokgc/scziIUXyJgXdrCCdmG3lf52pyfKw8RCI7YILVpmrft4enEjle9csv5OVvEiqnY4ip3Z3chUwE6mWLT8u0pdB41BjOnu/OeFYNsROXYGgoOaBSGYZwsUGGiSLMg5HaU7eRc1jv7UEcC2ZDtVIk5kjJAJCrhbINRwMiHg+QVsvIpvwdANJFs0To15gN1QWl6vuWGGDyi22Ztb6CP5xgPjf7rq6ZTYIEjL5LaKKWD7gpWxjZSVv3o2SOCQxRJ05TD7JMuXuDs80mWtk+7aw==;NjEhfVCsbsJcZsut/j7dzw=="
 ---

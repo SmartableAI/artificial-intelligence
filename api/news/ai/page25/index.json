@@ -2,6 +2,99 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-06-01-jeff-bezos-is-buying-a-stake-in-uk-digital-supply-chain-startup-beacon.md",
+      "title": "Jeff Bezos is buying a stake in UK digital supply chain startup Beacon",
+      "excerpt": "Based in London and founded in 2018, Beacon's investors already include executives from Uber, Google and Amazon, the firm says.",
+      "webUrl": "https://www.cnbc.com/2020/05/31/report-amazons-jeff-bezos-buying-stake-in-uk-digital-startup-beacon.html",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106284164-1575739700440gettyimages-1079533948.jpeg?v=1587656573",
+          "width": 5000,
+          "height": 3334,
+          "title": "Jeff Bezos is buying a stake in UK digital supply chain startup Beacon",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/31/report-amazons-jeff-bezos-buying-stake-in-uk-digital-startup-beacon.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/31/report-amazons-jeff-bezos-buying-stake-in-uk-digital-startup-beacon.html",
+      "publishedDateTime": "2020-06-01T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-artificial-intelligence-market-to-experience-significant-growth-during-the-forecast-period-2020-2025.md",
+      "title": "Artificial Intelligence Market To Experience Significant Growth During The Forecast Period 2020-2025",
+      "excerpt": "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-experience-significant-growth-during-the-forecast-period-2020-2025-2020-06-01",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Market To Experience Significant Growth During The Forecast Period 2020-2025",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-armed-with-disinfectant-and-admonishments-south-korean-robot-fights-coronavirus-spread.md",
       "title": "Armed with disinfectant and admonishments, South Korean robot fights coronavirus spread",
       "excerpt": "A self-driving robot equipped with cameras and an LED screen greets visitors at the lobby in the headquarters of South Korea's largest mobile operator, checking their temperature, dispensing hand sanitiser and disinfecting the floor.",
@@ -1224,82 +1317,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-machine-learning-helps-map-global-ocean-communities.md",
-      "title": "Machine learning helps map global ocean communities",
-      "excerpt": "On land, it’s fairly obvious where one ecological region ends and another begins, for instance at the boundary between a desert and savanna. In the ocean,",
-      "webUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2020/05/MIT-Plankton-Province-01_0.jpg",
-          "width": 639,
-          "height": 426,
-          "title": "Machine learning helps map global ocean communities",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/amp/",
-      "publishedDateTime": "2020-05-29T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-aclu-sues-clearview-ai-over-unlawful-facial-recognition-technology.md",
-      "title": "ACLU sues Clearview AI over 'unlawful' facial recognition technology",
-      "excerpt": "Facial recognition software provider Clearview AI has been hit with a lawsuit by the American Civil Liberties Union and several other organizations. The lawsuit, filed in state court in Illinois, accuses the firm of violating state privacy laws over its use of facial recognition and biometric technology.",
-      "webUrl": "https://www.tomsguide.com/news/aclu-clearview-ai-lawsuit",
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/d3GVUkpobEW7uy8jkkVq94-1200-80.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "ACLU sues Clearview AI over 'unlawful' facial recognition technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit",
-      "cdnAmpWebUrl": "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit",
-      "publishedDateTime": "2020-05-29T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

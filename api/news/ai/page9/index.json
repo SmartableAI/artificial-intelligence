@@ -2,6 +2,91 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-06-17-tempus-health-start-up-backed-by-groupon-co-founder-joins-the-fight-against-covid-19.md",
+      "title": "Tempus: Health start-up backed by Groupon co-founder joins the fight against Covid-19",
+      "excerpt": "Groupon co-founder Eric Lefkofsky discovered the health-care system's flawed approach to data when his wife was diagnosed with cancer. Tempus is now on the front lines of the coronavirus fight. It made the CNBC 2020 Disruptor 50 list,",
+      "webUrl": "https://www.cnbc.com/2020/06/17/tempus-ai-health-firm-backed-by-groupon-co-founder-hunts-coronavirus.html",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106576188-1591993393250lab_sequencing21.jpg?v=1591993998",
+          "width": 7617,
+          "height": 5308,
+          "title": "Tempus: Health start-up backed by Groupon co-founder joins the fight against Covid-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/17/tempus-ai-health-firm-backed-by-groupon-co-founder-hunts-coronavirus.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/17/tempus-ai-health-firm-backed-by-groupon-co-founder-hunts-coronavirus.html",
+      "publishedDateTime": "2020-06-17T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-zellis-to-build-hcm-solution-on-microsoft-azure.md",
+      "title": "Zellis to Build HCM Solution on Microsoft Azure",
+      "excerpt": "Zellis will use Microsoft cloud, data, and AI technologies to build new capabilities that extend and enhance its award-winning, market-leading",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/zellis-to-build-hcm-solution-on-microsoft-azure-1029316477",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/zellis-to-build-hcm-solution-on-microsoft-azure-1029316477",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/zellis-to-build-hcm-solution-on-microsoft-azure-1029316477",
+      "publishedDateTime": "2020-06-17T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets.md",
       "title": "Artificial intelligence company raises $5m as robotics demand \"skyrockets\"",
       "excerpt": "A London AI company has announced that it has secured $5m to help meet demand from firms looking to use… | London | Engineering | Digital | Funding | Technology | Technology | Industrial |",
@@ -1237,100 +1322,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-working-with-the-azure-kinect-developer-kit.md",
-      "title": "Working with the Azure Kinect Developer Kit",
-      "excerpt": "Azure Kinect is a direct descendent of the second-generation Kinect modules that shipped with the Xbox One, but instead of providing real-world inputs for gaming, it’s targeted at enterprise users and applications.",
-      "webUrl": "https://www.infoworld.com/article/3562738/working-with-the-azure-kinect-developer-kit.html",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/02/azure-kinect-100789304-large.jpg",
-          "width": 1200,
-          "height": 658,
-          "title": "Working with the Azure Kinect Developer Kit",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3562738/working-with-the-azure-kinect-developer-kit.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3562738/working-with-the-azure-kinect-developer-kit.amp.html",
-      "publishedDateTime": "2020-06-16T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-apprentice-raises-75-million-to-expedite-lab-work-with-ai-and-ar.md",
-      "title": "Apprentice raises $7.5 million to expedite lab work with AI and AR",
-      "excerpt": "Apprentice, a startup developing AI and augmented reality technologies tailored to life sciences customers, raised $7.5 million in venture capital.",
-      "webUrl": "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/",
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/apprentice.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "Apprentice raises $7.5 million to expedite lab work with AI and AR",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/amp/",
-      "publishedDateTime": "2020-06-16T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

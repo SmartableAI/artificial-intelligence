@@ -1,30 +1,23 @@
 ---
 category: news
 title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
-excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday"
-publishedDateTime: 2020-06-26T07:46:00Z
-webUrl: "https://www.dispatchlive.co.za/lifestyle/motoring/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
-ampWebUrl: "https://www.dispatchlive.co.za/amp/lifestyle/motoring/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
-cdnAmpWebUrl: "https://www-dispatchlive-co-za.cdn.ampproject.org/c/s/www.dispatchlive.co.za/amp/lifestyle/motoring/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+excerpt: "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver”. Volvo will design and manufacture the vehicles. The companies said Waymo would work with Volvo's global brands ..."
+publishedDateTime: 2020-06-26T07:16:00Z
+webUrl: "https://www.timeslive.co.za/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Daily Dispatch
-  domain: dispatchlive.co.za
+  name: Times LIVE
+  domain: timeslive.co.za
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://lh3.googleusercontent.com/H0ihMXS0QNI9A5-qG-yB0_l67GccHLaM3u5Bx0Yi-Fu4lgLOTeK39hNZ7u7uBwHlRHv1Qb86hDBUz7xkP8iau38=s1000"
-    width: 1000
-    height: 628
-    isCached: true
-    title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
 
 related:
   - title: "Waymo and Uber propose AI techniques to improve self-driving systems"
@@ -90,6 +83,6 @@ related:
         height: 470
         isCached: true
 
-secured: "ojKJCxpYlp8gQ3AQLK/y3REeUHU09mDJbn7CRKFA6pFyMhVOVkOt2MTJ9soZwdwvyxnTqf3K3tmLqlzybXQZAaOg/e2Jnq8uCWonQxqV3x+9C5P09ZnaYDvrKUVAdJeE9H4Nvb9QfnRzbv3ThLP6pZMhLgCaYRWYsJK53kqEUwWKKjn3JJYfW5c+4DvRikyMC5/D249jUJtflKK0dJDS8PS0kIsta/rPXL6Eq0IFIBTM8k9Xt6FJaffwxBdPUJfiWaP0g4vRphRRVrpS1FnyErVMJUx2oRNAe6fvnjT6twY7Qe8hBWyjvluhpJXnzrZB/FyOGOH39ass76Damf6t0A==;FKv0/zbDt8C8eoTBeAydFA=="
+secured: "d/HjwqdUMbhX37h8TwEAR5BPYtTlywliuaNY37D4fhroXIGmuA0Tj5fEFp7/StZ9JAxB+D1jTsSd8NX6dHXsEHAXHF+wgEBk14uhXPGYWk6abOgkmusuW0nRxaPQdy3VRHXH6NUy1Iu7jN/tLFUVtDi3qVTL17R1EHSeGmyovcHlbqsjUfPEZlmpHnVMwl5a62CfFJ93sIuHHuXswgMGgeRkAwRpHhihtw6Z+SdB0n8PQomffmkjnOHfN11FvPnKhouJ4IgGz8MMiI+kZzdRCMKNbsuUNUMyJLQdNUQtVgjrHw4KVbWI/c/mKMzu6250cJwSfV5UMFrPxTptllsRkQ6Td1d7Q8k1tITrQzfZk78EjdotTeFNP1TIQvtmvWzWE0BWFQLOi6/qy0gm0n5u/kRSPpPBn3pvP5RUiOzvcuvqyUlmSub7icrfAmfer90jg+QW8s+H0JNl9KB+odccYoaneKwLguA7te5my/f0ZXxyu8U7uryV01SBxgM3etgntnxrKe3J0s1Q0KEY9lZAHg==;Yo4IYwcWQul3OZwYiHRIIg=="
 ---
 

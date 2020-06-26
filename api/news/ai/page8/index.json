@@ -2,6 +2,91 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-18-worker-upskilling-and-innovation-a-key-to-working-with-robots-artificial-intelligence.md",
+      "title": "Worker upskilling and innovation a key to working with robots, artificial intelligence",
+      "excerpt": "Upskilling workers with vital innovation capabilities is key for the future employment landscape, according to a study by Flinders University Professor Giselle Rampersad which also found that for workers of the future to thrive with robots and artificial intelligence,",
+      "webUrl": "https://itwire.com/education/worker-upskilling-and-innovation-a-key-to-working-with-robots,-artificial-intelligence.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/27208dbd1d90ed77d7644abecd22dc82_M.jpg",
+          "width": 375,
+          "height": 346,
+          "title": "Worker upskilling and innovation a key to working with robots, artificial intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-17T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-geek-raises-50-million-more-to-bring-autonomous-warehouse-robots-to-the-us.md",
+      "title": "Geek+ raises $50 million more to bring autonomous warehouse robots to the U.S.",
+      "excerpt": "Warehouse robot logistics and distribution startup Geek+ announced that it raised a $50 million extension to its series C financing round.",
+      "webUrl": "https://venturebeat.com/2020/06/17/geek-raises-50-million-more-to-bring-autonomous-warehouse-robots-to-the-u-s/",
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/geek-plus-products-all-copy-e1592443027367.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Geek+ raises $50 million more to bring autonomous warehouse robots to the U.S.",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/17/geek-raises-50-million-more-to-bring-autonomous-warehouse-robots-to-the-u-s/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/geek-raises-50-million-more-to-bring-autonomous-warehouse-robots-to-the-u-s/amp/",
+      "publishedDateTime": "2020-06-17T18:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-machine-learning-in-palo-alto-firewalls-adds-new-protection-for-iot-containers.md",
       "title": "Machine learning in Palo Alto firewalls adds new protection for IoT, containers",
       "excerpt": "OS firewall operating system, the firewalls are better equipped to defend IoT devices and containers, whether on-prem or in the cloud.",
@@ -1253,91 +1338,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-tempus-health-start-up-backed-by-groupon-co-founder-joins-the-fight-against-covid-19.md",
-      "title": "Tempus: Health start-up backed by Groupon co-founder joins the fight against Covid-19",
-      "excerpt": "Groupon co-founder Eric Lefkofsky discovered the health-care system's flawed approach to data when his wife was diagnosed with cancer. Tempus is now on the front lines of the coronavirus fight. It made the CNBC 2020 Disruptor 50 list,",
-      "webUrl": "https://www.cnbc.com/2020/06/17/tempus-ai-health-firm-backed-by-groupon-co-founder-hunts-coronavirus.html",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106576188-1591993393250lab_sequencing21.jpg?v=1591993998",
-          "width": 7617,
-          "height": 5308,
-          "title": "Tempus: Health start-up backed by Groupon co-founder joins the fight against Covid-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/17/tempus-ai-health-firm-backed-by-groupon-co-founder-hunts-coronavirus.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/17/tempus-ai-health-firm-backed-by-groupon-co-founder-hunts-coronavirus.html",
-      "publishedDateTime": "2020-06-17T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-zellis-to-build-hcm-solution-on-microsoft-azure.md",
-      "title": "Zellis to Build HCM Solution on Microsoft Azure",
-      "excerpt": "Zellis will use Microsoft cloud, data, and AI technologies to build new capabilities that extend and enhance its award-winning, market-leading",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/zellis-to-build-hcm-solution-on-microsoft-azure-1029316477",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/zellis-to-build-hcm-solution-on-microsoft-azure-1029316477",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/zellis-to-build-hcm-solution-on-microsoft-azure-1029316477",
-      "publishedDateTime": "2020-06-17T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

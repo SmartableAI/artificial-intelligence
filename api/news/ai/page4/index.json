@@ -2,6 +2,99 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-23-worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era.md",
+      "title": "‘World’s First’ Digital Human AI Partner Promises Companionship During Coronavirus Era",
+      "excerpt": "Planned before the coronavirus pandemic erupted, the Hybri app lets users create a partner, friend or family member. Once created, the digital partner or friend comes to life using either VR or AR, with users able to interact with them through either a smartphone alone,",
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef1c3a78d2fdf0006333444%2F0x0.jpg",
+          "width": 1200,
+          "height": 719,
+          "title": "‘World’s First’ Digital Human AI Partner Promises Companionship During Coronavirus Era",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/amp/",
+      "publishedDateTime": "2020-06-23T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-lyft-says-self-driving-car-safety-will-be-built-on-trust.md",
+      "title": "Lyft says self-driving car safety will be built on trust",
+      "excerpt": "Lyft on Monday published what it calls a Voluntary Safety Self-Assessment to provide insight into how the ride-sharing company approaches potentially revolutionary technology like self-driving cars. At the end of the day,",
+      "webUrl": "https://www.cnet.com/roadshow/news/lyft-self-driving-car-safety-trust/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/GXmk09msC0IU3WKmEQZZ8MFEUEM=/2020/06/23/e08c41fe-c6ae-4acb-be10-f3204caace01/ogi-lyft.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Lyft says self-driving car safety will be built on trust",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/lyft-self-driving-car-safety-trust/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lyft-self-driving-car-safety-trust/",
+      "publishedDateTime": "2020-06-23T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-microsoft-azure-and-johns-hopkins-medicine-have-partnered-to-accelerate-precision-medicine.md",
       "title": "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine",
       "excerpt": "Microsoft Azure and Johns Hopkins Medicine partnered to leverage Microsoft's AI and analytics tools to facilitate precision medicine breakthroughs.",
@@ -1271,99 +1364,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-azure-iot-business.md",
-      "title": "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business",
-      "excerpt": "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,",
-      "webUrl": "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/",
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1175327728.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/",
-      "publishedDateTime": "2020-06-22T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-the-impact-of-artificial-intelligence-on-influencer-marketing.md",
-      "title": "The Impact Of Artificial Intelligence On Influencer Marketing",
-      "excerpt": "Not long before, New York-based influencer marketing agency Amra & Elma had developed a platform that ingested data from Instagram, and allowed its client to use AI image classifiers to find very specific influencers.",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/22/the-impact-of-artificial-intelligence-on-influencer-marketing/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1171685700%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "The Impact Of Artificial Intelligence On Influencer Marketing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/22/the-impact-of-artificial-intelligence-on-influencer-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/22/the-impact-of-artificial-intelligence-on-influencer-marketing/amp/",
-      "publishedDateTime": "2020-06-22T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

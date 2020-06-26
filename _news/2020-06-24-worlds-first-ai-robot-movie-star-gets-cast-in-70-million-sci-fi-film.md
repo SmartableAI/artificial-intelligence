@@ -8,7 +8,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/worlds-first-ai-robot-movie-st
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/worlds-first-ai-robot-movie-star-gets-cast-in-70-m/1100-6478953/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -103,6 +103,15 @@ related:
         width: 750
         height: 376
         isCached: true
+  - title: "AI robot, Erica, to take lead in USD 70 million sci-fi movie"
+    excerpt: "who created Erica in real life as part of their study of robotics, also taught her to act, applying the principles of method acting to artificial intelligence, according to Khoze. \"In other ..."
+    publishedDateTime: 2020-06-26T09:01:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Entertainment/20200626/3582413.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
 
 secured: "IgRPIaOTJM+CSm5webJq/ctsuXPC6amct7G2PwOK5POtUDlrJEgZkpVT4IPoNC2HbVTDkPv3rtVzJ1/HKsTvWkbzGamgGEZvFzeOoCG7cDno2foBqWzKZqlLttcO9lkOcspe2NM5AeJrC3M9CSa7XWj5Quby1PMlwDogIDRZTlEKw7I2kdOKz4hHrPxUWBDzg/DWXO2dk0ool34GjKAuzaP1MZws8Csego4z8GcOurcDT3tBxZocMsJs+I80b3bqq0zaYJ1zReFcMqmXEWiTmyRZ7rcz0VkDlwoVQ/ZIm2ZqmZpPNo4kHyE3YTJzzXudPGCqDGTH0RoKVzg697n/+jMsACNR19LFT/wdhJ3FBTVHLPtSzvXrpVhQHAwjlg37AIpL0CfLzT/YVgxQ9T24AVnO0K4gfa1fJlDo7MxSmBHjC6vZnxMvcK0CnrQ5MWr58xWnOTXzQT9HyvaQfQ+5hwg2zm3N7wbS4hjGPXjOVlYBhGrSp0wVxDFWdzPGe8J+sFaMRvRofybwE43210mC+w==;Q8x8S7Sm8opwl0yAz2R89Q=="
 ---

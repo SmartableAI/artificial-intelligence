@@ -2,33 +2,79 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-06-26-amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-the-information.md",
-      "title": "Amazon agrees to buy self-driving startup Zoox for over $1 billion: The Information",
-      "excerpt": "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology.",
-      "webUrl": "https://www.reuters.com/article/us-zoox-m-a-amazon-com-idUSKBN23X0PI",
-      "heat": 98,
+      "path": "_news/2020-06-26-this-edtech-startup-uses-ai-to-provide-affordable-education.md",
+      "title": "This Edtech Startup Uses AI To Provide Affordable Education",
+      "excerpt": "ConveGenius provides learning solutions from kindergarten to class 10, and has aligned with 20 curriculums and 16 state boards",
+      "webUrl": "https://www.entrepreneur.com/article/352411",
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200626&t=2&i=1523697904&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5P0G9",
-          "width": 817,
-          "height": 545,
-          "title": "Amazon agrees to buy self-driving startup Zoox for over $1 billion: The Information",
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1593163777-DSC-0227.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "This Edtech Startup Uses AI To Provide Affordable Education",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23X0PI",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23X0PI",
-      "publishedDateTime": "2020-06-25T22:54:00-07:00",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/352411",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/352411",
+      "publishedDateTime": "2020-06-26T02:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-amazon-reportedly-acquires-self-driving-car-startup-zoox.md",
+      "title": "Amazon reportedly acquires self-driving car startup Zoox",
+      "excerpt": "Amazon is acquiring self-driving car startup Zoox in a deal estimated to be worth over $1 billion, The Information and The Financial Times are reporting. The deal would give Amazo",
+      "webUrl": "https://www.theverge.com/2020/6/26/21304111/amazon-zoox-acquisition-self-driving-car-autonomous-vehicles-startup-robotaxi-bi-directional-vehicle",
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/3MXgDoro-Kcttn1ufwizeK1uQlg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66985247/acastro_190920_1777_amazon_0003.0.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Amazon reportedly acquires self-driving car startup Zoox",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/26/21304111/amazon-zoox-acquisition-self-driving-car-autonomous-vehicles-startup-robotaxi-bi-directional-vehicle",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/26/21304111/amazon-zoox-acquisition-self-driving-car-autonomous-vehicles-startup-robotaxi-bi-directional-vehicle",
+      "publishedDateTime": "2020-06-26T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -45,6 +91,100 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-how-machine-learning-finds-anomalies-to-catch-financial-cybercriminals.md",
+      "title": "How machine learning finds anomalies to catch financial cybercriminals",
+      "excerpt": "In the last few months, millions of dollars have been stolen from unemployment systems during this time of immense pressure due to coronavirus-related claims. A skilled ring of international fraudsters has been submitting false unemployment claims for individuals that still have steady work.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/26/how-machine-learning-combats-financial-cybercrime-syndication/",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/2-6-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "How machine learning finds anomalies to catch financial cybercriminals",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/how-machine-learning-combats-financial-cybercrime-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/how-machine-learning-combats-financial-cybercrime-syndication/amp/",
+      "publishedDateTime": "2020-06-26T01:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-why-ai-is-the-next-way-patients-will-choose-their-doctors.md",
+      "title": "Why AI is the next way patients will choose their doctors",
+      "excerpt": "Web reviews and personal recommendations are imperfect solutions to finding the best doctor to handle your heath. Can AI help?",
+      "webUrl": "https://qz.com/1869760/how-ai-can-help-solve-the-coming-post-covid-patient-backlog/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/06/RTR4AF6R-e1592382796908.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 790,
+          "title": "Why AI is the next way patients will choose their doctors",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1869760/how-ai-can-help-solve-the-coming-post-covid-patient-backlog/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1869760/how-ai-can-help-solve-the-coming-post-covid-patient-backlog/amp/",
+      "publishedDateTime": "2020-06-26T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -990,138 +1130,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-new-ai-based-technique-to-classify-colorectal-cancer-with-ir-imaging.md",
-      "title": "New AI-Based Technique to Classify Colorectal Cancer with IR Imaging",
-      "excerpt": "Automatic detection of intestinal tumor type can be performed by using infrared microscopy in just 30 minutes. Then, the results are utilized to make targeted therapy decisions.",
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=11401",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.azorobotics.com/images/news/ImageForNews_11401_15930904212407405.png",
-          "width": 804,
-          "height": 535,
-          "title": "New AI-Based Technique to Classify Colorectal Cancer with IR Imaging",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=11401",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11401",
-      "publishedDateTime": "2020-06-25T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge.md",
-      "title": "Lyft releases new self-driving vehicle data set and launches $30,000 challenge",
-      "excerpt": "Lyft released a data set containing logs recorded by its self-driving vehicles' sensors to kick off a new AI research challenge.",
-      "webUrl": "https://venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/",
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/234b6a00-a635-4d40-b917-77416e1da96f-e1593067960296.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 571,
-          "title": "Lyft releases new self-driving vehicle data set and launches $30,000 challenge",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/amp/",
-      "publishedDateTime": "2020-06-25T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research.md",
-      "title": "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research",
-      "excerpt": "Intel and the National Science Foundation (NSF) announced award recipients of joint funding for research into the development of",
-      "webUrl": "https://www.marketwatch.com/press-release/intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research-2020-06-25",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
