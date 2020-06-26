@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T12:22:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-trends-size-shares-overview-and-forecast-by-2020-2027-2020-06-23"
 type: article
 quality: 71
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2023"
+    excerpt: "Global \"Artificial Intelligence (AI) Market\" report 2020 has brief analysis and full-scale proposition of market"
+    publishedDateTime: 2020-06-26T10:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2023-2020-06-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

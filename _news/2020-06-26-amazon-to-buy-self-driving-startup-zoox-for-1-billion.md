@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 577
         isCached: true
+  - title: "Amazon to reportedly acquire self-driving car startup Zoox for over $1 billion"
+    excerpt: "The firm has reportedly agreed to pay over $1 billion to acquire Zoox. This will give Amazon control of the 1000-person startup; however, Zoox is expected to operate as an independent subsidiary."
+    publishedDateTime: 2020-06-26T10:12:00Z
+    webUrl: "https://www.neowin.net/news/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion"
+    ampWebUrl: "https://www.neowin.net/amp/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 70
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2019/02/1551367567_amazonlogo_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Deepfake software used to aid self-driving car development"
     excerpt: "Cutting-edge deepfake tech sees computer software simulate infinite number of different road environments to aid autonomous car development"
     publishedDateTime: 2020-06-24T23:18:00Z

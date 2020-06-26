@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
+  - title: "North American Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 - ResearchAndMarkets.com"
+    excerpt: "The \"North America Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 by Offering, Technology, Drug Type, Therapeutic Area, Application, End User, and Country: Trend Forecast and Growth Opportunity\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-06-26T11:43:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200626005182/en/North-American-Artificial-Intelligence-AI-Drug-Discovery"
+    type: article
+    provider:
+      name: Baytown Sun
+      domain: businesswire.com
+    quality: 36
+    images:
+      - url: "https://mms.businesswire.com/media/20200626005182/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "R/8keIebXVbqoKGLtk/5zq6LGXHFiKhg0vNZpfE1y9f6jfwHrg5hHbR+EH1KZM4vNXEiQLR/o0TyESY8zt9jyyi++6rDinDaJ5UCS13mBTnNF8kQW5ibyyRko50NjYv5Nnstl77h86f2g8Wo60xHCwYq5+OsZIjRDSLp9+BLIHUpoJGoaHpunm3zhlUZnCxecNPYYbq3nJlybZcVEaZy4eUGmLEnwq/aeq1sIV+BXtlhy2inFkpyCE60Lob+tx0Co7NG5m3CzIzBc29WmH768TAN+DH+zD0eTN19po8vye9FfcE7CcuPPB95TwYLSdAkUetYuKXH2QBZtII8ExCZ66Vkmf28tMvBlmyygS7/QeLYVK1eQzfg3NdqDHS4q+9ocxMYMXKNKaGpltc+UqtL17Ou3A8ZibN22z4FLqQLT67QBINgLwnqqqTWiQoY349xJ5dpr4oUuZKfpPZBqzPpJY0z3o5nSdVcZdp4Y0XprahA/Ggefg+sFywbubEvYh+f5ndHN7VqNNPGj83a2ACepA==;zps3gg9i0kJSPBBaeVl76w=="
 ---

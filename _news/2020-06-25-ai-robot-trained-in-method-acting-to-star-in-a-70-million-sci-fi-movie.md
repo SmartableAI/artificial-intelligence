@@ -88,6 +88,22 @@ related:
         width: 670
         height: 377
         isCached: true
+  - title: "Artificially intelligent humanoid robot 'Erica' nabs lead role in $70 million Hollywood sci-fi movie"
+    excerpt: "The electric leading lady is understood to have shot her first scenes for the movie in Japan last year - with the rest of the film scheduled to be shot next year."
+    publishedDateTime: 2020-06-26T11:14:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8462879/Artificially-intelligent-humanoid-robot-Erica-nabs-lead-role-70-million-Hollywood-sci-fi-movie.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8462879/amp/Artificially-intelligent-humanoid-robot-Erica-nabs-lead-role-70-million-Hollywood-sci-fi-movie.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8462879/amp/Artificially-intelligent-humanoid-robot-Erica-nabs-lead-role-70-million-Hollywood-sci-fi-movie.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 44
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/06/26/12/30085970-0-image-a-5_1593169593937.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Artificial Intelligence ‘Actor’ Cast in Lead Role of $70 Million Sci-Fi Movie"
     excerpt: "If you thought creative jobs like acting would be among the last to be taken over by AI-powered robots, think again, as 'b', the world's first film to feature an AI robot in the lead"
     publishedDateTime: 2020-06-25T19:00:00Z

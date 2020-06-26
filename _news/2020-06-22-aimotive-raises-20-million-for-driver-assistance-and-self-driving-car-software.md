@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/22/aimotive-raises-20-million-for-dr
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/22/aimotive-raises-20-million-for-driver-assistance-and-self-driving-car-software/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     title: "AImotive raises $20 million for driver-assistance and self-driving car software"
 
 related:
+  - title: "Amazon to reportedly acquire self-driving car startup Zoox for over $1 billion"
+    excerpt: "The firm has reportedly agreed to pay over $1 billion to acquire Zoox. This will give Amazon control of the 1000-person startup; however, Zoox is expected to operate as an independent subsidiary."
+    publishedDateTime: 2020-06-26T10:12:00Z
+    webUrl: "https://www.neowin.net/news/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion"
+    ampWebUrl: "https://www.neowin.net/amp/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 70
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2019/02/1551367567_amazonlogo_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Amazon to buy self-driving startup Zoox for $1 billion"
     excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-comm"
     publishedDateTime: 2020-06-26T07:47:00Z

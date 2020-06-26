@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2023"
+    excerpt: "Global \"Artificial Intelligence (AI) Market\" report 2020 has brief analysis and full-scale proposition of market"
+    publishedDateTime: 2020-06-26T10:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2023-2020-06-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026"
     excerpt: "A leading research firm Zion Market research added a recent report on “Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026” to its research database."
     publishedDateTime: 2020-06-22T11:34:00Z

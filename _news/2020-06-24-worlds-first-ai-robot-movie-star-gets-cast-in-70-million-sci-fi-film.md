@@ -8,7 +8,7 @@ ampWebUrl: "https://www.gamespot.com/amp-articles/worlds-first-ai-robot-movie-st
 cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/worlds-first-ai-robot-movie-star-gets-cast-in-70-m/1100-6478953/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://www.indiewire.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-25-at-10.30.13-AM.png?w=670&h=377&crop=1"
         width: 670
         height: 377
+        isCached: true
+  - title: "Artificially intelligent humanoid robot 'Erica' nabs lead role in $70 million Hollywood sci-fi movie"
+    excerpt: "The electric leading lady is understood to have shot her first scenes for the movie in Japan last year - with the rest of the film scheduled to be shot next year."
+    publishedDateTime: 2020-06-26T11:14:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8462879/Artificially-intelligent-humanoid-robot-Erica-nabs-lead-role-70-million-Hollywood-sci-fi-movie.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8462879/amp/Artificially-intelligent-humanoid-robot-Erica-nabs-lead-role-70-million-Hollywood-sci-fi-movie.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8462879/amp/Artificially-intelligent-humanoid-robot-Erica-nabs-lead-role-70-million-Hollywood-sci-fi-movie.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 44
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/06/26/12/30085970-0-image-a-5_1593169593937.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "AI robot trained in method acting to star in a $70 million sci-fi movie"
     excerpt: "It seems on-brand with all that has been going on in the world that a sci-fi movie would cast a robot as its lead actress. The movie explores how a scientist who came up with a program to perfect human DNA must help the artificially intelligent woman he created,"

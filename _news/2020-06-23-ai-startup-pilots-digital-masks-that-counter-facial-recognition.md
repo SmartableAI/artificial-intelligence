@@ -8,7 +8,7 @@ ampWebUrl: "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counte
 cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition?amp=1"
 type: article
 quality: 76
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     title: "AI Startup Pilots Digital Masks That Counter Facial Recognition"
 
 related:
+  - title: "Let's Kill Facial Recognition For Good"
+    excerpt: "Those emails mention all three classes of surveillance covered in today’s bill—pattern, facial, and voice recognition—as being available for the DEA to use at its discretion. “Facial recognition technology doesn’t just pose a grave threat to our ..."
+    publishedDateTime: 2020-06-26T11:00:00Z
+    webUrl: "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367"
+    ampWebUrl: "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp"
+    cdnAmpWebUrl: "https://paleofuture-gizmodo-com.cdn.ampproject.org/c/s/paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp"
+    type: article
+    provider:
+      name: paleofuture.gizmodo
+      domain: gizmodo.com
+    quality: 74
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nvw4abg7rvdyxyeklgsr.jpg"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Let’s Kill Facial Recognition For Good"
     excerpt: "There’s a buffet of things to be scared shitless about these days, but for those who have sampled even a taste of big tech’s eagerness to build and sell facial recognition surveillance software to law enforcement,"
     publishedDateTime: 2020-06-25T21:00:00Z

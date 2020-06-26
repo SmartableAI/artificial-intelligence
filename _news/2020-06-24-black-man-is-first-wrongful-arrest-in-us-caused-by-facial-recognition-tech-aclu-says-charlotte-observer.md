@@ -43,6 +43,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "The little-known AI firms whose facial recognition tech led to a false arrest"
+    excerpt: "The opaque industry that sells facial recognition technology, and the patchwork of police policies that govern its use, have made effective oversight extremely difficult."
+    publishedDateTime: 2020-06-26T10:00:00Z
+    webUrl: "https://qz.com/1873731/the-unknown-firms-whose-facial-recognition-led-to-a-false-arrest/"
+    ampWebUrl: "https://qz.com/1873731/the-unknown-firms-whose-facial-recognition-led-to-a-false-arrest/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1873731/the-unknown-firms-whose-facial-recognition-led-to-a-false-arrest/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 101
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/06/2020-06-17T180157Z_1_LYNXMPEG5G1Z6_RTROPTP_4_USA-POLICE-SURVEILLANCE-e1593123970767.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Boston Bans Municipal Use Of Facial Recognition"
     excerpt: "Boston joins cities like San Francisco, Oakland, California, and Cambridge, Massachusetts to ban the controversial surveillance technology."
     publishedDateTime: 2020-06-24T21:52:00Z
@@ -58,22 +74,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef3c911edefda00066e53cc%2F0x0.jpg"
         width: 1200
         height: 754
-        isCached: true
-  - title: "Democratic lawmakers propose nationwide facial recognition ban"
-    excerpt: "Democratic lawmakers proposed a sweeping nationwide ban on facial recognition software Thursday, with a bill that seeks tough new limits on the technology at all levels of government."
-    publishedDateTime: 2020-06-25T17:30:00Z
-    webUrl: "https://www.cnn.com/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 91
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200625112853-capitol-hill-0607-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
   - title: "Facial recognition bill would ban use by federal law enforcement"
     excerpt: "The bill would also make federal funding for state and local law enforcement contingent on the enactment of similar bans."
@@ -504,17 +504,6 @@ related:
         width: 1440
         height: 1010
         isCached: true
-  - title: "Hry police to launch facial recognition app"
-    excerpt: "The Haryana Police are collecting data about criminals while preparing to launch an Android application for facial recognition within a month in the state, they said."
-    publishedDateTime: 2020-06-21T18:30:00Z
-    webUrl: "https://www.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK.html"
-    ampWebUrl: "https://m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/gurugram/hry-police-to-launch-facial-recognition-app/story-LVRdhjdVqB54Gf3ApRzDBK_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
   - title: "NYCLU sues over Lockport schools' facial recognition system"
     excerpt: "The controversial facial recognition security system in Lockport schools was illegally approved by the state Education Department, a lawsuit"
     publishedDateTime: 2020-06-22T23:08:00Z

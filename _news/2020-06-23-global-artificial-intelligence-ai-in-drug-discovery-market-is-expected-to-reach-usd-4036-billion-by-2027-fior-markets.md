@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "North American Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 - ResearchAndMarkets.com"
+    excerpt: "The \"North America Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 by Offering, Technology, Drug Type, Therapeutic Area, Application, End User, and Country: Trend Forecast and Growth Opportunity\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-06-26T11:43:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200626005182/en/North-American-Artificial-Intelligence-AI-Drug-Discovery"
+    type: article
+    provider:
+      name: Baytown Sun
+      domain: businesswire.com
+    quality: 36
+    images:
+      - url: "https://mms.businesswire.com/media/20200626005182/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Automotive Voice Recognition System Market Size Hit US$ 39 Bn by 2027"
     excerpt: "The global ​automotive voice recognition system market size is expected to reach USD 39 billion by 2027, It is projected to register a CAGR of 21%"
     publishedDateTime: 2020-06-23T05:36:00Z
