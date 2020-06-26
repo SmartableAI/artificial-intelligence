@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Amazon announces purchase of Zoox, a self-driving, ride-hailing vehicle maker"
-excerpt: "NEW YORK (AP) — Amazon AMZN, -0.40% said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones. Seattle-based Amazon did not disclose ..."
-publishedDateTime: 2020-06-26T16:30:00Z
-webUrl: "https://www.marketwatch.com/story/amazon-announces-purchase-of-zoox-a-self-driving-ride-hailing-vehicle-maker-2020-06-26?mod=mw_latestnews"
+excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that"
+publishedDateTime: 2020-06-26T15:29:00Z
+webUrl: "https://www.marketwatch.com/story/amazon-announces-purchase-of-zoox-a-self-driving-ride-hailing-vehicle-maker-2020-06-26"
 ampWebUrl: "https://www.marketwatch.com/amp/story/amazon-announces-purchase-of-zoox-a-self-driving-ride-hailing-vehicle-maker-2020-06-26"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-announces-purchase-of-zoox-a-self-driving-ride-hailing-vehicle-maker-2020-06-26"
 type: article
@@ -393,6 +393,6 @@ related:
         height: 800
         isCached: true
 
-secured: "suOIxgsB8N0gj9jV3mKRrJIRQy5BUwlkPFz8TEUPdsPrwSZv7XIrUlJO+oyqbkmSpLwBcsfwtV117hyRBDvAgK1/xT7ZPmpUM0MMA1g2IWmNzzBopvjsl4eb/3Rne/Lqu0Au6/mmd+sn+dZXzgz+YF8g7jNevELIcrWIt+6lJB9JPH9C64muBcvTa/lkDEKLac66IH2p8DsHt98F8FpqldzEcuItYsxyMAZnQ9lT7v4DAV4PnYvAOtIsOKITC0JJsAJLPOkjykLJ8bMl894Vz9dLO+OQCV4y3s2pQiiv5+euu/QOuwpIF7yJRcMrMO08LXrYLwVp7KW3c6hcjTEJFg==;F4+EcXLEFDYYYAiGCzB7+g=="
+secured: "+r4hVRZLJ0dt8V7/3LkfhiMSb7Js/kn88ZXYsNIWK65LQD1JHnMnPmoA6hVfHoc5pYPYcUpdABZkO+fStQr5Fa/2SIkXwmT1l/sQLxHzCnM4roLJ5fBkVMOuAtEk77cW48ytPc2LHOOMWyZ+BO5MU0LC5C8GAD6KLeS+7EXQVGo9/ji2dUQlBoCvzbYyxJDtvIV75+a947Jag9xa4ZfeYX8aVN/m1L6GFDSkyD0YFx8w2J3SzIDOQxN9gx+s1TZcLndcSI7TQ0llTcPjvcAz27j1PaPy9zEr+j66ntOVIfkUn0r2qOWZcBdb8PqOQGUQ0YixDkEGwstulgH0wGjHMg==;LTWxbHl4Hua7UulFwwZJvQ=="
 ---
 

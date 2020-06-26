@@ -8,8 +8,8 @@ ampWebUrl: "https://www.engadget.com/amp/ai-robot-erica-will-star-in-70-million-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-robot-erica-will-star-in-70-million-scifi-movie-b-130539023.html"
 type: article
 quality: 104
-heat: 194
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -31,6 +31,38 @@ images:
     title: "AI robot 'Erica' will star in $70 million sci-fi movie 'b'"
 
 related:
+  - title: "$70 million sci-fi flick 'b' stars an AI robot named 'Erica'"
+    excerpt: "A movie, simply titled \"b,\" is currently in early production. What makes it unique is that it will be the first big-budget feature film to star an AI actor named Erica. Produced by the makers of Oscar-nominated film Loving Vincent,"
+    publishedDateTime: 2020-06-26T18:36:00Z
+    webUrl: "https://www.techspot.com/news/85788-70-million-sci-fi-flick-b-stars-ai.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-stars-ai.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-stars-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 104
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-26-image-9.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "A robot will be the lead actress in a new sci-fi movie"
+    excerpt: "Four production companies announced earlier this week that they were teaming up to create a movie in which an artificial intelligence woman named Erica ... In the movie, Erica, the robot, is trapped in a laboratory until a scientist working on a human ..."
+    publishedDateTime: 2020-06-26T18:21:00Z
+    webUrl: "https://www.foxnews.com/entertainment/robot-lead-actress-new-sci-fi-movie"
+    ampWebUrl: "https://www.foxnews.com/entertainment/robot-lead-actress-new-sci-fi-movie.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/robot-lead-actress-new-sci-fi-movie.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 89
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Erica-The-Robot.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "World's First AI Robot Movie Star Gets Cast In $70 Million Sci-Fi Film"
     excerpt: "It was perhaps inevitable that we'd eventually get an AI movie star, and it seems that day is here. It's been reported that a new sci-fi movie is in development, and it's set to star an AI robot named Erica."
     publishedDateTime: 2020-06-24T20:29:00Z
@@ -46,22 +78,6 @@ related:
       - url: "https://gamespot1.cbsistatic.com/uploads/original/1557/15576725/3690829-erica.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Real AI Robot Cast In Lead Role Of Sci-Fi Movie"
-    excerpt: "A new sci-fi movie is set to become the first-ever film to rely on an artificial intelligence robot named Erica."
-    publishedDateTime: 2020-06-25T03:01:00Z
-    webUrl: "https://www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-3000166"
-    ampWebUrl: "https://www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-3000166?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-3000166?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/12/07/robotaicapital-markets.jpg"
-        width: 1200
-        height: 848
         isCached: true
   - title: "This AI Robot Just Nabbed the Lead Role in a Sci-Fi Movie"
     excerpt: "For the first time ever, an AI robot will star in a feature film, per The Hollywood Reporter. A humanoid actress named Erica will appear in b, a sci-fi flick that eerily mirrors the android's own origin story."
@@ -95,22 +111,6 @@ related:
         width: 1416
         height: 650
         isCached: true
-  - title: "A Real ‘Ex Machina’? An A.I. Robot Learns Method Acting to Star in $70 Million Film"
-    excerpt: "What if Alex Garland’s 2014 science-fiction favorite “Ex Machina” starred a real artificially intelligent robot as Ava instead of Alicia Vikander? Moviegoers are about to find out, sort of. Bondit Capital Media,"
-    publishedDateTime: 2020-06-25T10:49:00Z
-    webUrl: "https://www.indiewire.com/2020/06/ex-machina-real-robot-erica-science-fiction-movie-1234569484/"
-    ampWebUrl: "https://www.indiewire.com/2020/06/ex-machina-real-robot-erica-science-fiction-movie-1234569484/amp/"
-    cdnAmpWebUrl: "https://www-indiewire-com.cdn.ampproject.org/c/s/www.indiewire.com/2020/06/ex-machina-real-robot-erica-science-fiction-movie-1234569484/amp/"
-    type: article
-    provider:
-      name: IndieWire
-      domain: indiewire.com
-    quality: 53
-    images:
-      - url: "https://www.indiewire.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-25-at-10.30.13-AM.png?w=670&h=377&crop=1"
-        width: 670
-        height: 377
-        isCached: true
   - title: "Artificially intelligent humanoid robot 'Erica' nabs lead role in $70 million Hollywood sci-fi movie"
     excerpt: "The electric leading lady is understood to have shot her first scenes for the movie in Japan last year - with the rest of the film scheduled to be shot next year."
     publishedDateTime: 2020-06-26T11:14:00Z
@@ -140,20 +140,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-ai-robot-trained-in-method-acting-to-star-in-a-dollar70-million-sci-fi-movie.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Artificial Intelligence ‘Actor’ Cast in Lead Role of $70 Million Sci-Fi Movie"
-    excerpt: "If you thought creative jobs like acting would be among the last to be taken over by AI-powered robots, think again, as 'b', the world's first film to feature an AI robot in the lead"
-    publishedDateTime: 2020-06-25T19:00:00Z
-    webUrl: "https://www.odditycentral.com/news/artificial-intelligence-actor-cast-in-lead-role-of-70-million-sci-fi-movie.html"
-    type: article
-    provider:
-      name: Oddity Central
-      domain: odditycentral.com
-    quality: 36
-    images:
-      - url: "https://www.odditycentral.com/wp-content/uploads/2020/06/Erica-the-robot.jpg"
-        width: 750
-        height: 376
         isCached: true
   - title: "AI robot, Erica, to take lead in USD 70 million sci-fi movie"
     excerpt: "who created Erica in real life as part of their study of robotics, also taught her to act, applying the principles of method acting to artificial intelligence, according to Khoze. \"In other ..."

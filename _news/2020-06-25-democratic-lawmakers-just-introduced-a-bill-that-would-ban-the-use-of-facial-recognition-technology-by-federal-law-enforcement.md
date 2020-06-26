@@ -96,6 +96,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Congress proposes ban on government use of facial recognition software"
+    excerpt: "The Facial Recognition and Biometric Technology Moratorium Act would explicitly ban police from using the technology."
+    publishedDateTime: 2020-06-26T18:31:00Z
+    webUrl: "https://www.techrepublic.com/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/06/26/7c55ee40-db2b-451e-81be-dcf139a52efd/resize/1200x/deba963ae5747533086f986458e1d090/facial-recognition-software-image.jpg"
+        width: 1200
+        height: 831
+        isCached: true
   - title: "Congress puts forward bill to ban use of facial recognition"
     excerpt: "Several members of Congress unveiled a bill that would completely ban the use of biometric information, including facial recognition, by the government."
     publishedDateTime: 2020-06-25T18:46:00Z

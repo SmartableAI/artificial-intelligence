@@ -190,6 +190,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture"
+    excerpt: "This time, Musk took aim at Amazon’s $1.2 billion acquisition of Zoox, a venture focusing on self-driving cars that could compete with Tesla, the car company that Musk heads: .@JeffBezos is a copy 🐈 haha https://t.co/plR7uupqBG — Elon Musk (@ ..."
+    publishedDateTime: 2020-06-26T19:41:00Z
+    webUrl: "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/"
+    ampWebUrl: "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 61
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/04/190410-musk-bezos-630x366.jpg"
+        width: 630
+        height: 366
+        isCached: true
   - title: "Self-Driving Car Startup Argo AI Expands in Pittsburgh"
     excerpt: "Even with the ongoing novel coronavirus pandemic, the self-driving car startup may have reason to expand. Earlier this month, it closed on a deal with Volkswagen on a $2.6 billion investment."
     publishedDateTime: 2020-06-25T21:49:00Z
@@ -205,6 +221,36 @@ related:
       - url: "https://media2.govtech.com/images/S5A5904.jpg"
         width: 922
         height: 615
+        isCached: true
+  - title: "Elon Musk trolls Jeff Bezos calling him a copy cat after Amazon acquires self-driving-car startup Zoox"
+    excerpt: "The Tesla CEO tweeted a cat emoji at Bezos on Friday after Amazon took another step into the autonomous-driving world."
+    publishedDateTime: 2020-06-26T19:57:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/5dc17beb7eece50907358663?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "5 key takeaways from Amazon's $1 billion acquisition of self-driving startup Zoox"
+    excerpt: "Analysts say the Zoox acquisition gives a good look into Amazon's thinking over a number of different areas, including delivery and M&A strategies."
+    publishedDateTime: 2020-06-26T18:59:00Z
+    webUrl: "https://www.businessinsider.com/amazons-1-billion-zoox-acquisition-5-takeaways-on-what-it-means-2020-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://i.insider.com/5ef21a1619182402da2ee234?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Amazon Agrees To Buy Self-Driving Startup Zoox For Over $1bn: Report"
     excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, according to a report in The Information, citing sources, in a move that would"
@@ -239,20 +285,20 @@ related:
         height: 500
         isCached: true
   - title: "Amazon looks to self-driving future by acquiring Zoox"
-    excerpt: "NEW YORK (AP) - Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
-    publishedDateTime: 2020-06-26T17:02:00Z
-    webUrl: "https://www.sfgate.com/business/article/Amazon-looking-to-the-future-of-ride-hailing-15368472.php"
-    ampWebUrl: "https://www.sfgate.com/business/amp/Amazon-looking-to-the-future-of-ride-hailing-15368472.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/amp/Amazon-looking-to-the-future-of-ride-hailing-15368472.php"
+    excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will drive up without a driver"
+    publishedDateTime: 2020-06-26T16:55:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-future-ride-hailing-buy-zoox-71472803"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/amazon-future-ride-hailing-buy-zoox-71472803"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/amazon-future-ride-hailing-buy-zoox-71472803"
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
+      name: ABC
+      domain: go.com
     quality: 44
     images:
-      - url: "https://s.hdnux.com/photos/01/12/61/62/19602620/9/375x250.jpg"
-        width: 375
-        height: 249
+      - url: "https://s.abcnews.com/images/Technology/WireAP_0fabd4301fa44126a26d44edb3a4e60b_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Amazon Reportedly Buys Self-Driving Startup Zoox For Over $1.2 Billion"
     excerpt: "E-commerce giant Amazon has reportedly agreed to pay more than $1.2 billion to buy self-driving startup Zoox, in a move that sheds light on the company’s huge ambitions regarding autonomous vehicle technology."
@@ -382,6 +428,22 @@ related:
         width: 5200
         height: 3583
         isCached: true
+  - title: "Amazon looks to self-driving future by acquiring Zoox | Raleigh News & Observer"
+    excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will drive up without a driver."
+    publishedDateTime: 2020-06-26T19:12:00Z
+    webUrl: "https://www.newsobserver.com/news/business/article243816587.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/business/article243816587.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article243816587.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 40
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/f18ce1ed-cf4c-4d20-999e-9061dff2befe/2905bfb2-5838-40e0-bf8f-1e2a74a0602e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Amazon buys self-driving car firm Zoox, suggesting a future of automated deliveries"
     excerpt: "The deal provides Amazon with a new piece of technology as it reduces its dependence on shipping companies to get packages to customers."
     publishedDateTime: 2020-06-26T15:57:00Z
@@ -406,6 +468,15 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
+    quality: 34
+  - title: "Amazon pays $1.2 billion for self-driving startup Zoox"
+    excerpt: "Venture capitalists, hungry for a stake in the much-hyped self-driving industry, poured hundreds of millions of dollars into Zoox between 2016 and 2019. But as self-driving companies have failed to hit self-imposed milestones over the last couple of years,"
+    publishedDateTime: 2020-06-26T19:35:00Z
+    webUrl: "https://arstechnica.com/cars/2020/06/amazon-pays-1-2-billion-for-self-driving-startup-zoox/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
     quality: 34
   - title: "Amazon buys self-driving startup Zoox"
     excerpt: "Amazon announced Friday it has acquired self-driving startup Zoox. No details on the amount paid was mentioned but the Financial Times reported earlier that the deal was worth in excess of $1.2 billion. Silicon Valley-based Zoox was founded in 2014."

@@ -96,9 +96,9 @@ related:
         height: 720
         isCached: true
   - title: "Amazon announces purchase of Zoox, a self-driving, ride-hailing vehicle maker"
-    excerpt: "NEW YORK (AP) — Amazon AMZN, -0.40% said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones. Seattle-based Amazon did not disclose ..."
-    publishedDateTime: 2020-06-26T16:30:00Z
-    webUrl: "https://www.marketwatch.com/story/amazon-announces-purchase-of-zoox-a-self-driving-ride-hailing-vehicle-maker-2020-06-26?mod=mw_latestnews"
+    excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that"
+    publishedDateTime: 2020-06-26T15:29:00Z
+    webUrl: "https://www.marketwatch.com/story/amazon-announces-purchase-of-zoox-a-self-driving-ride-hailing-vehicle-maker-2020-06-26"
     ampWebUrl: "https://www.marketwatch.com/amp/story/amazon-announces-purchase-of-zoox-a-self-driving-ride-hailing-vehicle-maker-2020-06-26"
     cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-announces-purchase-of-zoox-a-self-driving-ride-hailing-vehicle-maker-2020-06-26"
     type: article

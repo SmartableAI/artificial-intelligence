@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T22:52:34Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/building-ai-powered-forecasting-automation-with-amazon-forecast-by-applying-mlops/"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     title: "Building AI-powered forecasting automation with Amazon Forecast by applying MLOps"
 
 related:
-  - title: "Predicting driving speed violations with the Amazon SageMaker DeepAR algorithm"
-    excerpt: "Forecasting is an important aspect for many businesses and industries; forging ahead without clearly defined goals could have serious consequences. Product planning, financial forecasting, and weather forecasting create scientific estimates based on hard data and critical analysis. Time-series forecasting"
-    publishedDateTime: 2020-06-22T19:59:25Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/predicting-driving-speed-violations-with-the-amazon-sagemaker-deepar-algorithm/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 85
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/19/speed-violations-3.gif"
-        width: 800
-        height: 319
-        isCached: true
   - title: "Amplifying Advertising and Marketing with Artificial Intelligence"
     excerpt: "Amplifying Advertising and Marketing with Artificial Intelligence  - Whether it is Google or Tesla’s self-driven cars, AI is ruling all over. Assimilating these AI technologies"
     publishedDateTime: 2020-06-26T13:08:00Z

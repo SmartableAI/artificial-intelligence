@@ -29,33 +29,19 @@ images:
     title: "Predicting driving speed violations with the Amazon SageMaker DeepAR algorithm"
 
 related:
-  - title: "Building AI-powered forecasting automation with Amazon Forecast by applying MLOps"
-    excerpt: "This post demonstrates how to create a serverless Machine Learning Operations (MLOps) pipeline to develop and visualize a forecasting model built with Amazon Forecast. Because Machine Learning (ML) workloads need to scale, it’s important to break down the silos among different stakeholders to capture"
-    publishedDateTime: 2020-06-23T22:52:34Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-ai-powered-forecasting-automation-with-amazon-forecast-by-applying-mlops/"
+  - title: "Developing NER models with Amazon SageMaker Ground Truth and Amazon Comprehend"
+    excerpt: "Named entity recognition (NER) involves sifting through text data to locate noun phrases called named entities and categorizing each with a label, such as person, organization, or brand. For example, in the statement “I recently subscribed to Amazon Prime,” Amazon Prime is the named entity and can be"
+    publishedDateTime: 2020-06-26T19:19:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/developing-ner-models-with-amazon-sagemaker-ground-truth-and-amazon-comprehend/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 99
+    quality: 100
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/22/Screen-Shot-2020-06-19-at-15.00.38-1260x566.png"
-        width: 1260
-        height: 566
-        isCached: true
-  - title: "Amplifying Advertising and Marketing with Artificial Intelligence"
-    excerpt: "Amplifying Advertising and Marketing with Artificial Intelligence  - Whether it is Google or Tesla’s self-driven cars, AI is ruling all over. Assimilating these AI technologies"
-    publishedDateTime: 2020-06-26T13:08:00Z
-    webUrl: "https://www.cioreview.com/news/amplifying-advertising-and-marketing-with-artificial-intelligence-nid-31486-cid-51.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://cioreview.com/Rank_subcat_images/pzhs8digimas.jpg"
-        width: 453
-        height: 512
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/26/named-entit-recognition-001-2.jpg"
+        width: 1000
+        height: 550
         isCached: true
 
 secured: "dTbeye6V35dZVfqaIdhbm1zjOJQ9wOZKsnMeSIFqGdgjGagtHQr7wHTFeLA/OjapEeKPHSBA3vFn6m2KhF/biYWp2/Lob0QNTn9RxKHUfBx5kl5SHSjHoxBsKosnoKvOBd2CZU/VK9MXjkVhPIQubKuod3/F5+45aDxBIuJLM0icwwhA3jBE6abHH8Sn+ps1gZeVsAWiEsOu7KfEX7s9E2382PC7uFWEiOXDTXXgtJyn0DKMSU2rsXapHAvsOCc2aJdzbk+qIaDWZFpJi5qVRSGfUkAdAo5SjW8AYwiuMmjBfYt4Gde54BOqBX1cIgldMnF3h0FvvyETdQ3m2zCD2w==;3Z/toC8ALfbqhRfUft8thg=="

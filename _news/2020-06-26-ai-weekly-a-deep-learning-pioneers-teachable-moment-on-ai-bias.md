@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/06/26/ai-weekly-a-deep-learning-pioneers-t
 ampWebUrl: "https://venturebeat.com/2020/06/26/ai-weekly-a-deep-learning-pioneers-teachable-moment-on-ai-bias/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/26/ai-weekly-a-deep-learning-pioneers-teachable-moment-on-ai-bias/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-540680990.jpg?w=1200&#038;strip=all"
@@ -30,6 +31,6 @@ images:
     isCached: true
     title: "AI Weekly: A deep learning pioneer’s teachable moment on AI bias"
 
-secured: "+e/W6x3xfXfFChPe051H76yKU8UccWRkRgDaSMRZhvfErb4SbOamn9FSNxZykyqov/zbMa3rgpksDR9oJyxbfoT9A7uNtgJnYw78k4ikzplUVHL5eDPHnpjBL3W1RRVadhiepCzD0RGXtkwGcbaYy1DnL/QWFo9paHYlBrQmdrL3PpcEOH5nSf4w/Sd9w0ng+JeQ1YABZWuLEcD3xJ7GHQz9jwdfmuGk+E643NmIfz3iN+0uYKM7nKuYWN7eYuB7vVMdoh5aIO8mNr8fhuitauNjN417Cd25eDSFVLZeTvAw+BS9Hq8dEOu74augQT4XV22b9fmC9ar/WBlYhZzIqw==;Eb4OQ0EuV6D8aTyrNiIqCg=="
+secured: "4PgoBf6wAgeTKHWx6gPR6ftCAZHIOBJsjxs1y5LwTC5CZsFgaTYqKWc+j4Agc/++qnO8tawWFomg1pbH6bQ7b/bK+tFpAtT5mdxEPKSlP2oOEpWNW7e7BCq484A6GKTTu/iL+EbeaMzpbf/izlW9IgSzRD1WgENIoPE6fLcTsVKoXCOPVDeDaBLtva7wQyOSDcc0x6548129K0Eu5rNr97pldKGGCYe0GC2WdWkh0M9yJCTFRpHMPrCW7DIfn8cCiNKUTQQvzDYZobHksrdS0n0EhHSzPK6xBPAQEUxv5XZM/EQCszEQOeL2MZxDsgkIAvvSfqqPONtWeDZ5/SDXqVeuRNQNEwKAZzvA2h71b/5kOWGDe9NyzRS1RtUI6VaAi03kbgdBeGyqKe6XWpnTXCaPNptTDho9Ki3ukqE1C7qAvQ2/9l98CqIY1faPVMh1FTb3uQd1/KB9Za7NTGJzAVXhfggbwoz94ZOd1oN4OPU/iNV88WxKISdJkuFFSgtV;T6UvdE9AuR+LIS5oU08EJA=="
 ---
 
