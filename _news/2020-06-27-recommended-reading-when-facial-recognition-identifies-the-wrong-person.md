@@ -1,31 +1,34 @@
 ---
 category: news
-title: "Boston City Council Set To Vote On Facial Recognition Technology Ban"
-excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."
-publishedDateTime: 2020-06-23T23:39:00Z
-webUrl: "https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-ampWebUrl: "https://amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
+title: "Recommended Reading: When facial recognition identifies the wrong person"
+excerpt: "Law enforcement at all levels are employing facial recognition for a variety of things. When the US and countries around the world began to shut down, tech companies of all sizes announced plans to help."
+publishedDateTime: 2020-06-27T14:07:00Z
+webUrl: "https://www.engadget.com/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
+ampWebUrl: "https://www.engadget.com/amp/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
 type: article
-quality: 61
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: WBUR
-  domain: wbur.org
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://d279m997dpfwgl.cloudfront.net/wp/2020/06/GettyImages-1199025045.jpg"
-    width: 3000
-    height: 2000
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Fb72763a0-c01c-11e9-befb-17263ab358ba&client=amp-blogside-v2&signature=38dee4b3efbeac7f4000006b08effbd870812c8c"
+    width: 600
+    height: 350
     isCached: true
-    title: "Boston City Council Set To Vote On Facial Recognition Technology Ban"
+    title: "Recommended Reading: When facial recognition identifies the wrong person"
 
 related:
   - title: "A Flawed Facial Recognition System Sent This Man to Jail"
@@ -300,22 +303,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Recommended Reading: When facial recognition identifies the wrong person"
-    excerpt: "Law enforcement at all levels are employing facial recognition for a variety of things. When the US and countries around the world began to shut down, tech companies of all sizes announced plans to help."
-    publishedDateTime: 2020-06-27T14:07:00Z
-    webUrl: "https://www.engadget.com/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
-    ampWebUrl: "https://www.engadget.com/amp/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 88
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Fb72763a0-c01c-11e9-befb-17263ab358ba&client=amp-blogside-v2&signature=38dee4b3efbeac7f4000006b08effbd870812c8c"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Boston Just Banned Its Government From Using Facial Recognition Technology"
     excerpt: "Citing “racial bias in facial surveillance,” the Boston City Council voted unanimously to stop the use of facial recognition by public agencies."
     publishedDateTime: 2020-06-24T18:03:00Z
@@ -411,6 +398,22 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 64
+  - title: "Boston City Council Set To Vote On Facial Recognition Technology Ban"
+    excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."
+    publishedDateTime: 2020-06-23T23:39:00Z
+    webUrl: "https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
+    ampWebUrl: "https://amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 61
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2020/06/GettyImages-1199025045.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Boston approves ban on facial recognition technology"
     excerpt: "The Boston City Council voted unanimously Wednesday to pass a ban on the use of facial recognition technology by city government. The move makes Boston the second-largest U.S. city after San Francisco to enact a ban."
     publishedDateTime: 2020-06-24T18:41:00Z
@@ -636,6 +639,6 @@ related:
         height: 341
         isCached: true
 
-secured: "EVhSSj5VCdXH9po/ZOeU8loINPA/WAhCrXs7hBICroRiLlq2Kh6JHlbZHaQg6NCuoOuSMUGBBCjLFpllAnNw8lV2KOiuD5Fbv85Zk760HcnwwuU+V/L7JFke1Y/kscmV8GU9RbE8rFzES6thseuOeCGSnZRER545sNlDCcmy8O1CL9k6O5yiNE7Yo6N5ms935aYYtIenB+9H54s+d5EsnuZFZAl0aF6gLibLjpZv607EfzbmNIKaEcEM3DLNpI/0xGI+UbpEKsUeW7dR/jNxdgxTs6YEBiIITiYzNExxxhaGQ3QJ7fPZ95CCA9mVDN4qU+YebcKrcputoTjZpfULpKUkIr6Ltnq5xHmaY1w76osBbuOd1eAqnRIPyj2xzs983ifO2biiAHvjFQQn3rkFSYWgNts2Hud4UywFMd75Jk9RImEuPlb5nLESrTQOzric+aC3EFg44cHGyvrPNuntr5wFHc7UAvJByHBK0PBMw0SgogdxHB32CvqyxSu7FO7wdd98ScUK473iwVM6CqC+OQ==;mAPDjbTbsKqgMqL4J5enZQ=="
+secured: "PDrPtpTC/zrY5OCX1l+AwK8EMM/xuO8aXAmJFRPFjuCsaHYq75yhW2sUY1PNuRXz6ZIkYhToWmEFuP6i975709Fh69UC9P9Jzt4zPTGRYX3eD3t5YKEBMMZLdevT4Yn54xusJUjuZuuZaY1TiScCT96yVrtsVFsq7eNQGVp7tzfIG5w0uHQIExnCLDf6vzlqy3rl63VV8o6FPme7QadzSi6Ai8/nvBIt9KRAjh0LIdsBhHKvl2jzxtiJmMIpksm1gKTCwM8FyAD3U0N2cn0reZ2QgVINzdF5TxBZf87/AgkYsPm0a3nKYyOI7VRbSziQQtaDStC2O1QKydkUTO3Z8Q==;qK9j9f6loLsugB1IraVxhA=="
 ---
 

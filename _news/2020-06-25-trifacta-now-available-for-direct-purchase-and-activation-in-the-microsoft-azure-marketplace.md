@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-25T13:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace-2020-06-25"
 type: article
 quality: 88
-heat: 118
+heat: 98
 published: true
 
 provider:
@@ -42,34 +42,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCETON,"
-    publishedDateTime: 2020-06-23T04:10:00Z
-    webUrl: "https://apnews.com/9b74b62cca4d2bfb3ba2f77a58c9d3b4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 65
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "GAVS Technologies: Zero Incident Framework (ZIF) Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to ZIF to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies PRINCET"
-    publishedDateTime: 2020-06-23T04:20:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-06/49985840-gavs-technologies-zero-incident-framework-zif-now-available-in-the-microsoft-azure-marketplace-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 56
-    images:
-      - url: "https://www.accesswire.com/users/newswire/images/594875/image-20200623114459-1.jpeg"
-        width: 1223
-        height: 476
         isCached: true
 
 secured: "yrEqSA8NF94S/mcVtyJupCnIkjJGmavXr0vbdESMs7MAxkiBUZKDkjFM8cIqhE58J8rNAx7m3SZTUkgq04F8bxYEWmRQ9ZMIPtjzjhjt3pr2CBaBLlGFpAOB+lQ59M1ecs7f887tn3tmZfdwT/LzlQb+LU1pwh1LZUqo/PKkXX0HhbC3Zj774Kj61/mxmZmDKEqCUppsfWOwjNJ4+E6XWk9YL5Nw3AdcDKvhF8n2ZUrJzZMS5pjVqSU0QnfaONhZ23gn03L1r4UaHzi286hB6QMFdM7p11DcXYwqykMDxd5E8E0zcLyAngY/uOkCNwAVpaUwvWw/oLgwWob2K10SRw==;gosLoa8y9rV+oKNcxxfweQ=="

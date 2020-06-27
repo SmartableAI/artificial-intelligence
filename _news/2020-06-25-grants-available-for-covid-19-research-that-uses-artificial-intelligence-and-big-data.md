@@ -8,8 +8,8 @@ ampWebUrl: "https://www.ucf.edu/news/grants-available-for-covid-19-research-that
 cdnAmpWebUrl: "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/?amp"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: UCF Today
@@ -26,36 +26,6 @@ images:
     title: "Grants Available for COVID-19 Research that Uses Artificial Intelligence and Big Data"
 
 related:
-  - title: "C3.ai's Digital Transformation Institute issues awards for data-driven COVID-19 research"
-    excerpt: "The research projects looked at COVID-19 as well as its impact on housing precarity, eviction and inequality as well as the role of social determinants on health and using data science to detect and understand transmission."
-    publishedDateTime: 2020-06-23T04:01:00Z
-    webUrl: "https://www.zdnet.com/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/23/02428142-0b66-4a7f-bc5f-747fba9b6ecc/thumbnail/1200x675/65b00467acc2a9c0f0f617b40fbc3806/3-2.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "C3.ai Digital Transformation Institute Announces COVID-19 Awards"
-    excerpt: "C3.ai Digital Transformation Institute (C3.ai DTI) today announced the first C3.ai DTI awards for artificial intelligence (AI) techniques to mitigate"
-    publishedDateTime: 2020-06-23T04:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/c3ai-digital-transformation-institute-announces-covid-19-awards-2020-06-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Princeton faculty members receive grants for COVID-19 research from C3.ai Digital Transformation Institute"
     excerpt: "By using the computing capabilities of C3.ai Suite and Microsoft Azure Cloud, we expect to analyze large volumes of location data as they are collected and adapt the intervention policy. We will make our research outcomes, including software, non ..."
     publishedDateTime: 2020-06-23T19:40:00Z
@@ -69,20 +39,6 @@ related:
       - url: "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2020/06/20180411_LewisSci-ibrary_DJA_008.jpg?itok=ONNt0pT9"
         width: 1440
         height: 810
-        isCached: true
-  - title: "Digital Transformation in Asia-Pacific: 5G, Artificial Intelligence, Internet of Things and Smart Cities 2020-2025 - ResearchAndMarkets.com"
-    excerpt: "The \"Digital Transformation Asia Pacific: 5G, Artificial Intelligence, Internet of Things, and Smart Cities in APAC 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. From predicting what will happen with 5G technology in the next few years to identifying how 5G will transform business,"
-    publishedDateTime: 2020-06-26T11:18:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200626005177/en/Digital-Transformation-Asia-Pacific-5G-Artificial-Intelligence-Internet"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 3
-    images:
-      - url: "https://mms.businesswire.com/media/20200626005177/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "Bm/xNLxHaviVSxnphpFRPxZiZJcyqtTLfTXffbvo+JDiXZkamAr63R+Tc4LsTdxEcgvSuxcBc4iiggMLt901jg5bNZZNWdPty2oD9tREQBCRbWo49qNie8Jr8zinmHt0Vd6uLD5Pds6oU9rmcl+zrEAdB675VH4sReH+ZF88Fqryx9vFB1plx+bkmEb5HZKZYvE/tBrSPaP+YBYlHzd+FKf9S4YlnHf2nm4sBJA69Y567nKqNIA8TBdW9h8TPMQlL87JC2Yr7xSslIHDkUIt0wpLUG869ik0dORuFyoBpCmy84pij3Xhokf5YhN2WpgL1rfYp6Kxl+2NdTXPbiCGaKl8U4ep6ArwBx7nTnEpXb6rIse/WqSvJScitmAGGZbudqWrM6tK2OEG8kFG5tbPE9eaWn8WWcIdD2qvlO1Il8rqVge08lO7yD05BL5tL/1If77hZLgXwTgAs9r01nmQdJOOFkfVjyE5uc1YHbCVR3xzi95PGTsOvGNoXElZle3TFk4OAak+x4oFk/KR+IMVGQ==;4nhT+cpEXriDDhCR2aAQtw=="

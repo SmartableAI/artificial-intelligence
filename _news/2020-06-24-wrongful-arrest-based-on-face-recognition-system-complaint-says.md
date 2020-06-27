@@ -297,6 +297,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Recommended Reading: When facial recognition identifies the wrong person"
+    excerpt: "Law enforcement at all levels are employing facial recognition for a variety of things. When the US and countries around the world began to shut down, tech companies of all sizes announced plans to help."
+    publishedDateTime: 2020-06-27T14:07:00Z
+    webUrl: "https://www.engadget.com/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
+    ampWebUrl: "https://www.engadget.com/amp/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 88
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Fb72763a0-c01c-11e9-befb-17263ab358ba&client=amp-blogside-v2&signature=38dee4b3efbeac7f4000006b08effbd870812c8c"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Boston Just Banned Its Government From Using Facial Recognition Technology"
     excerpt: "Citing “racial bias in facial surveillance,” the Boston City Council voted unanimously to stop the use of facial recognition by public agencies."
     publishedDateTime: 2020-06-24T18:03:00Z
@@ -485,22 +501,6 @@ related:
       - url: "https://i.insider.com/5ef5fc1df0f4197e4f318f94?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "New York Civil Liberties Union files lawsuit over Lockport facial recognition system"
-    excerpt: "The lawsuit aims to have the New York State Education Department's approval of the facial recognition system revoked, and have Lockport deactivate the system."
-    publishedDateTime: 2020-06-23T03:46:00Z
-    webUrl: "https://www.wgrz.com/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
-    ampWebUrl: "https://www.wgrz.com/amp/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
-    cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
-    type: article
-    provider:
-      name: WGRZ
-      domain: wgrz.com
-    quality: 52
-    images:
-      - url: "https://media.wgrz.com/assets/WGRZ/images/471e47c5-7cde-4629-8b4a-2cdfd62b7e53/471e47c5-7cde-4629-8b4a-2cdfd62b7e53_750x422.jpg"
-        width: 750
-        height: 422
         isCached: true
   - title: "FlowCentric Technologies, Eldir roll-out facial recognition, thermal detection solution"
     excerpt: "The company has developed EGAN, a facial recognition and thermal detection solution, in conjunction with Eldir."

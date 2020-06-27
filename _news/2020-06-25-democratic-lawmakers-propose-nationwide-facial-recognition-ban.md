@@ -287,6 +287,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Recommended Reading: When facial recognition identifies the wrong person"
+    excerpt: "Law enforcement at all levels are employing facial recognition for a variety of things. When the US and countries around the world began to shut down, tech companies of all sizes announced plans to help."
+    publishedDateTime: 2020-06-27T14:07:00Z
+    webUrl: "https://www.engadget.com/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
+    ampWebUrl: "https://www.engadget.com/amp/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 88
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Fb72763a0-c01c-11e9-befb-17263ab358ba&client=amp-blogside-v2&signature=38dee4b3efbeac7f4000006b08effbd870812c8c"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Boston Just Banned Its Government From Using Facial Recognition Technology"
     excerpt: "Citing “racial bias in facial surveillance,” the Boston City Council voted unanimously to stop the use of facial recognition by public agencies."
     publishedDateTime: 2020-06-24T18:03:00Z
@@ -490,22 +506,6 @@ related:
         width: 1024
         height: 651
         isCached: true
-  - title: "New York Civil Liberties Union files lawsuit over Lockport facial recognition system"
-    excerpt: "The lawsuit aims to have the New York State Education Department's approval of the facial recognition system revoked, and have Lockport deactivate the system."
-    publishedDateTime: 2020-06-23T03:46:00Z
-    webUrl: "https://www.wgrz.com/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
-    ampWebUrl: "https://www.wgrz.com/amp/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
-    cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-civil-liberties-union-files-lawsuit-over-lockport-facial-recognition-system/71-0c6f6c19-e7eb-4211-9f73-9c08dd038d75"
-    type: article
-    provider:
-      name: WGRZ
-      domain: wgrz.com
-    quality: 52
-    images:
-      - url: "https://media.wgrz.com/assets/WGRZ/images/471e47c5-7cde-4629-8b4a-2cdfd62b7e53/471e47c5-7cde-4629-8b4a-2cdfd62b7e53_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "FlowCentric Technologies, Eldir roll-out facial recognition, thermal detection solution"
     excerpt: "The company has developed EGAN, a facial recognition and thermal detection solution, in conjunction with Eldir."
     publishedDateTime: 2020-06-24T07:11:00Z
@@ -639,6 +639,6 @@ related:
         height: 341
         isCached: true
 
-secured: "BNpQYTOyZ1YxZvPsLRlS2BOCp4QRHInU2+pMJNPX0z0phFdd5tVVOtQphBnNBUjixXyfuMAYq6QWNLLm7mm4z7fLfo2AnqktojwWWC04T0UNroh/JRpq/UfOKOldNz+Z4Hkh+zCFeGy/+5FKXaW/wfrq5HiDPSWE5DXlnqLlAmlNXljQCql++/41Sc/wnTh2n2ygP8/BQJWosBAuHrrE6M3flRwaVMuiXXWhwnpj91DF5Jj4kJfJQaqt9iBh66aBwnDfoOaD3T1S3jHKAgRp88OUq3X9I1HSEiEls+k82+fk7+H5bMfZ/GddxCahjOSuh1t6+Sge+prRD6bZIbrRag==;XCG6fsmOe0wzZqApkjXnVg=="
+secured: "jzvnLu6sUnQ9+6e0XCZ8w+eqFu1J6ORutiJlOZtWdwSLcVUfEZenYhPaez/WNx0QoNXjoykyTWhDQaMMKnrhqNNsdW3KGYyYTM/3WX/BUsNDktQibSdtD5CfhxGYc1R280mRd30vmn7t1SWap+dz8ofr2UuIOgrVvwRxk5brvTTR21pKQtbSX2dRC/sLVMqmBFjhGG6DmCbdd3TH7Vanl0pva+zGkI5d1F88oGlrlNDNTN/Dx0hVqDMxYMObiq+AXTEEZVfDX9YOLVcM2W1cFrTmSK8/5UeOZpveHl52i3O4ONpEnT6hDunlRgNXAmV+2VT2KD5EHoq/UQSO3uoDKjpCymFkobjH/o3pt+2Al/Xt3ai79/2O2/E/loKcZo/ldledLVXvBE9qLnnkG4kD9QGclsy5f0zhjegBsj9RpIGeRUWsX4Xw3Ah00ZyYFDQ+0CciPvDZXvNiOkUJcJMpkCsy/lwylJVzvyaw6P0h74nmkVHMXdpqQ5ngLJgTByJ/TiXY/tSC0G3VdPTCXrq2uw==;zjhizySnkTKvE7vkjgkzAQ=="
 ---
 
