@@ -180,6 +180,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-11-facebook-google-and-microsoft-team-up-to-build-ai-paedo-hunter-that-tracks-down-child-abuse-online.md",
+      "title": "Facebook, Google and Microsoft team up to build AI paedo-hunter that tracks down child abuse online",
+      "excerpt": "Project Protect will establish a multi-million pound research and innovation fund ... Facebook's hugely popular Messenger chat app. Facebook is using an AI machine learning system to spot ...",
+      "webUrl": "https://www.thesun.co.uk/tech/11840091/facebook-google-twitter-microsoft-ai-project-protect-child-abuse-online/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2020/06/NINTCHDBPICT000542482426.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+          "width": 1200,
+          "height": 800,
+          "title": "Facebook, Google and Microsoft team up to build AI paedo-hunter that tracks down child abuse online",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/11840091/facebook-google-twitter-microsoft-ai-project-protect-child-abuse-online/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/11840091/facebook-google-twitter-microsoft-ai-project-protect-child-abuse-online/amp/",
+      "publishedDateTime": "2020-06-11T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19.md",
       "title": "How a smartphone coupled with machine learning may become a simple, efficient test for COVID-19",
       "excerpt": "A scientist at the University of Cincinnati has been refining an ingenious design for an ultra-portable genetic test that uses AI and smartphones. It could eventually offer a cheaper, simpler alternative for detecting coronavirus infections.",
@@ -991,35 +1029,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-amazon-bans-police-use-of-facial-recognition-technology-for-a-year.md",
-      "title": "Amazon Bans Police Use Of Facial Recognition Technology For A Year",
-      "excerpt": "(RTTNews) - Amazon announced a one-year moratorium on police use of its facial recognition technology, Rekognition, to give ample time to the governments to implement stronger regulations for racial equality and justice.",
-      "webUrl": "https://www.nasdaq.com/articles/amazon-bans-police-use-of-facial-recognition-technology-for-a-year-2020-06-11",
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-bans-police-use-of-facial-recognition-technology-for-a-year-2020-06-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-bans-police-use-of-facial-recognition-technology-for-a-year-2020-06-11?amp",
-      "publishedDateTime": "2020-06-11T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -105,6 +105,22 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "Boston becomes the second largest city in the US to ban facial recognition software, citing concerns that the technology is 'racially discriminatory' and threatens basic rights"
+    excerpt: "Boston will become the second major city in the US to ban facial recognition software for government use after a unanimous city council vote, citing concerns of racial bias."
+    publishedDateTime: 2020-06-27T01:21:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8464719/Boston-second-largest-city-ban-facial-recognition-software.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-second-largest-city-ban-facial-recognition-software.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-second-largest-city-ban-facial-recognition-software.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/06/27/00/30104344-0-image-a-10_1593215913669.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "0JcrUEiYzdObqK85kv/tW56L+ErPsj9ecMqSjbj7srjy0FsGSeMAnsHBaQCPZ04Tg6TUg8UTpQfZP7a/yt0rQ5iglH2Hs5oPz3fY6NkYQr8cls15OQ15FdRdAtT93FjpXy/j0iZN/Dv1IyLMW/3HTRqI1cgRzw5ahr5FuUxjAooLo1RBXrzBTS11DNAKIvd47yhpibUOEoGk8LExgBe7zJjEB0kODQ6rM+5JgvNM1kIA9u4ufYeKeGgT79L/SAeAdixB0BaEHaEVM+1Nma9dUqeIYK7l0bHMJReb2cC82B/v81EPMtn4tn9/syO2hbgSGlEyNivSCPCErmZiLSmrceVok27djlPXigzFPxO9mN1ctGRMsCXQ9obW/ylihkby0dE/YZoKY2ECnCwhmeyWaSYgrM9RTWO7cSD7jSlEuILfFEchfbyGFiDhBpuy+nlq6cjdVnxGBh2PGJQDygnKhRCkilYMJayAoOARYBEXDel8ks0noK5qs+kfF+TeWaoY0X/hOLvjzTjxgLgV4A1qdw==;YKuKsU/nmH5d1w6FY3T8og=="
 ---

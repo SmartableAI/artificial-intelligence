@@ -271,6 +271,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Amazon looks to self-driving future by acquiring Zoox"
+    excerpt: "NEW YORK (AP) - Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
+    publishedDateTime: 2020-06-27T00:48:00Z
+    webUrl: "https://www.sfgate.com/business/article/Amazon-looking-to-the-future-of-ride-hailing-15368472.php"
+    ampWebUrl: "https://www.sfgate.com/business/amp/Amazon-looking-to-the-future-of-ride-hailing-15368472.php"
+    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/amp/Amazon-looking-to-the-future-of-ride-hailing-15368472.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 44
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/61/62/19602620/11/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Amazon to buy Zoox for $1B, a self-driving car startup with Apple lineage"
     excerpt: "Online retail giant Amazon has reportedly agreed to pay over a billion dollars to buy Zoox, which was an early entrant into the autonomous car industry, and has previously hired away \"Apple Car\" engineers."
     publishedDateTime: 2020-06-26T12:06:00Z
@@ -389,6 +405,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "JQaVU3qqtKgPLd8wwSYo0T3zoC+WZbNHWDD7Kix6JZ65PDqeWTjmdIyAwzhSyZJ/R7NP1x7Qs1JaZ0uTJ3LHKqshf/QO6kovlNby2YKVB3DwccZD9ouO/1dTH2Pz4bKVjUCzwtR5wmY07ikxblzUn+GG2hvs3PPX3TMip2XP3Mr6XfGtktI77IusNX3ytTbiTh/PD2DJ/bbUVskdUAdvNyyKu0hPs4pYrSStC3shuXOQqOQ63tqcTZqAsJ78OqL/5iDvvqZAVcmCPgYNhFr00ah5sYpZSLu1414DJU1SwOIoc8yGwHOO6ayHGHkeHr2HBmk+2wJPSZg8YZs5dgOXFA==;GhFq658AoNHOlb3+rF6QQQ=="
+secured: "XZ3W9UrDRQr7vrqVm++D4ljOwNdF8kM+PE0k400LiqG4WMeUbNGCqdIbhnSMDB65dWW/ZTHWLmggItk4D3vKfPR94nenV6SrbHEampv8x+Drr+l2IF20waekCGA8T+YYD/+IW9yE0GlhHEfYNH5k5LFXE3xHWaoyCciHctjVv0MGftrnwKPPNBwnzDkyr2qxNeCKWbYZNQ/0Gv4Z0hlMoWkYkBEA5io3fSlFrvm0eGCzDX7Z/Xp21zNh7dIwAKMbjTjTiHA1RCPPxAsHuiByezR3JL6ujNipqwHgXx9U+wuXnuLOmS6IdIWhFWjM/X8qyuqS+f1kEtfFD7F8pM9q3aImkh3k3ZwJo5fIghOAD4b/s4fCzvub9lMplEJfKR8xxczNsXi/Mg4Db7sLMWaa3NyER+iin8FRgtEKHat4V2/0aTe2Gm4HH9i29lN1khj4yZHVQYxCBri3mXUeLpMzoe+aoB3fQwLq1ajDnXf9ZSDe5OznS0hcrBYRwhmGAgDkMXQ52Y7CvxfA0b53QfuHug==;JLquydgPb55D/ObHzDyexQ=="
 ---
 

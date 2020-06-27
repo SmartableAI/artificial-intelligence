@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-versi
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-06/image001.png?itok=-VfC6ZJl"
         width: 960
         height: 540
+        isCached: true
+  - title: "System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing"
+    excerpt: "NVIDIA and the world’s leading server manufacturers today announced NVIDIA A100-powered systems in a variety of"
+    publishedDateTime: 2020-06-22T14:54:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/system-makers-unveil-nvidia-a100-powered-servers-to-accelerate-ai-data-science-and-scientific-computing/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 22
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/nvidia-a100-pcie-gpu-300x225.png"
+        width: 300
+        height: 225
         isCached: true
   - title: "NVIDIA Ampere A100 250W TDP GPU On PCIe 4.0 Made For AI, Data Science, And Supercomputing Launched With Promised 90 Percent Performance Of 400W Model"
     excerpt: "NVIDIA has officially launched the A100, a PCIe 4.0 compatible GPU based on the next-gen Ampere architecture. Although featuring a lower 250W TDP profile,"

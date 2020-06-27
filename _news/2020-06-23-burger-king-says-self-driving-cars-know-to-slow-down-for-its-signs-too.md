@@ -96,6 +96,20 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "Didi, BAIC ink self-driving pact"
+    excerpt: "Chinese ride-hailing giant Didi Chuxing is hitting the accelerator for its autonomous driving business by inking a strategic partnership deal with major Chinese carmaker BAIC Group. The move came as China is ramping up the development of smart connected vehicles."
+    publishedDateTime: 2020-06-23T01:31:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202006/23/WS5ef15b72a310834817254c6b.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202006/23/5ef15b72a3108348fcd785bc.jpeg"
+        width: 660
+        height: 440
+        isCached: true
   - title: "Uber putting self-driving cars back on the road"
     excerpt: "The on-demand ride service grounded its test fleet of self-driving cars pending an investigation into a crash of an Uber autonomous vehicle in Arizona. No one was seriously injure"
     publishedDateTime: 2020-06-22T11:46:00Z

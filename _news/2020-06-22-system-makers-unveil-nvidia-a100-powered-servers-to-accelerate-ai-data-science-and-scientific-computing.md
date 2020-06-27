@@ -25,51 +25,51 @@ images:
     title: "System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing"
 
 related:
-  - title: "Computer makers unveil 50 AI servers with Nvidia’s A100 GPUs"
-    excerpt: "Computer makers are launching 50 servers with Nvidia's A100 GPUs to power AI, data science, and scientific computing applications."
-    publishedDateTime: 2020-06-22T08:00:00Z
-    webUrl: "https://venturebeat.com/2020/06/22/computer-makers-unveil-50-ai-servers-with-nvidias-a100-gpus/"
-    ampWebUrl: "https://venturebeat.com/2020/06/22/computer-makers-unveil-50-ai-servers-with-nvidias-a100-gpus/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/22/computer-makers-unveil-50-ai-servers-with-nvidias-a100-gpus/amp/"
+  - title: "Nvidia reveals PCIe 4.0 version of its Ampere A100 GPU"
+    excerpt: "Nvidia finally showed off its new 7nm Ampere architecture last month in the form of the A100 GPU. Now, the company has announced a number of A100 powered systems from leading server manufacturers, including Asus,"
+    publishedDateTime: 2020-06-22T15:01:00Z
+    webUrl: "https://www.techspot.com/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/nvidia-selene.jpg?w=1200&#038;strip=all"
-        width: 1145
-        height: 580
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-22-image-5.jpg"
+        width: 1800
+        height: 1350
         isCached: true
-  - title: "NVIDIA Expects A100 Ampere GPUs Will Flex AI Muscle In More Than 50 High Performance Servers In 2020"
-    excerpt: "NVIDIA anticipates Ampere will find its way into more than 50 high performance servers by the end of the year."
-    publishedDateTime: 2020-06-22T17:50:00Z
-    webUrl: "https://hothardware.com/news/nvidia-a100-ampere-gpu-ai-muscle-50-servers"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-a100-ampere-gpu-ai-muscle-50-servers"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-a100-ampere-gpu-ai-muscle-50-servers"
+  - title: "ASUS Middle East Announces ESC4000A-E10 Server Powered by the NVIDIA A100 PCIe GPU"
+    excerpt: "ASUS Middle East, the leading IT company in server systems, server motherboards and workstations, today announced ESC4000A-E10, a new GPU server powered"
+    publishedDateTime: 2020-06-23T07:49:00Z
+    webUrl: "https://www.albawaba.com/business/pr/asus-middle-east-announces-esc4000a-e10-server-powered-nvidia-a100-pcie-gpu-1364177"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/asus-middle-east-announces-esc4000a-e10-server-powered-nvidia-a100-pcie-gpu-1364177"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/asus-middle-east-announces-esc4000a-e10-server-powered-nvidia-a100-pcie-gpu-1364177"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 59
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 53
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/52008/content/Nvidia_A100.jpg"
-        width: 708
-        height: 427
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-06/image001.png?itok=-VfC6ZJl"
+        width: 960
+        height: 540
         isCached: true
-  - title: "System makers take the wraps off their Nvidia A100 GPU servers"
-    excerpt: "Nvidia CEO Jensen Huang took the wraps off the Ampere architecture and A100 GPU during his 'kitchen keynote'. The new GPU is built on TSMC's N7 process and utilises 54 billion transistors within its 3D chip stack (which includes HBM2)."
-    publishedDateTime: 2020-06-22T09:11:00Z
-    webUrl: "https://www.hexus.net/tech/news/graphics/143608-system-makers-take-wraps-nvidia-a100-gpu-servers/"
+  - title: "NVIDIA Ampere A100 250W TDP GPU On PCIe 4.0 Made For AI, Data Science, And Supercomputing Launched With Promised 90 Percent Performance Of 400W Model"
+    excerpt: "NVIDIA has officially launched the A100, a PCIe 4.0 compatible GPU based on the next-gen Ampere architecture. Although featuring a lower 250W TDP profile,"
+    publishedDateTime: 2020-06-23T12:08:00Z
+    webUrl: "https://appuals.com/nvidia-ampere-a100-250w-tdp-gpu-on-pcie-4-0-made-for-ai-data-science-and-supercomputing-launched-with-promised-90-percent-performance-of-400w-model/"
     type: article
     provider:
-      name: Hexus
-      domain: hexus.net
-    quality: 39
+      name: appuals.com
+      domain: appuals.com
+    quality: 15
     images:
-      - url: "https://hexus.net/media/uploaded/2020/6/b0c3b885-8955-430d-9c9b-e4facb7c1d2d.jpg"
-        width: 515
-        height: 221
+      - url: "https://cdn.appuals.com/wp-content/uploads/2019/02/Nvidia.jpg"
+        width: 590
+        height: 332
         isCached: true
 
 secured: "PGtpdqd21qiZ4gN/t/aCy3MeT/VfCFCGvPe0pK7DDTZi98gfARxHOUDkBCn9t7yGvKRHN7wohPf5/3lHqD9+Rc7BTfhZD/uiMelRP8p3j8b3tjgfrRnhxxUh7cdi07XXEQJCwjozCaOMU4E7e1ddP5LRRVyD2HL+SnZnFzjlAh3IPjVkovfBA8FDGtPIKXzoK5xVdrUAyYdJ/Hh6+JiZDliCh7SJPKGWONndPeE4oFDbjws+Cnt8kEvctASKBerblkszTaroAZjpL1Bss3p35uxdPOcKkMcjWUrK67PA+mHlPvo9StHQaNzAqed5h2/kMDjtz7zKeDRujzmtXZ2cLN0o2pNtsKQVtT6ESJviJnqDRrP2r8hW0ywJH6gPox8YIpem30kQ0lz0qighsJkKol9IjvnlMN0YQRIGjUEm23G7mx5A0k+4J7TP0gEFjI9yBFNAR830x0G6ggOlv015pzkUpfb/p9A7u23ss6rX+0qk1foH2YTJZU8mIaRPNq1wGhx9e3j4sVY95lUuvLa/rA==;9rniC6qylrczAkG5BbV5Vw=="

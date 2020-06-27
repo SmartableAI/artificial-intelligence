@@ -57,6 +57,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing"
+    excerpt: "NVIDIA and the world’s leading server manufacturers today announced NVIDIA A100-powered systems in a variety of"
+    publishedDateTime: 2020-06-22T14:54:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/system-makers-unveil-nvidia-a100-powered-servers-to-accelerate-ai-data-science-and-scientific-computing/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 22
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/nvidia-a100-pcie-gpu-300x225.png"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "jbdS03lrYzaqCqR2+oARDdAIKzzQ/3am9zKUw+rAdjS/rLG+KvCzKZnYA+gOFtvQAG0LAlhfFKQdOft4PooP4uk210M1lUhBFUErnLN5JXXyRnwq5pCqnPFNY1SH7QZPDIjS0U6kKLaO3HGDqFH8cjp+ykg4zfEX+aXAAwzhkPEVVN7AEE1HKm9GF9sjsR4UX2Khu/W9Wx+F/84be4tfXqX5SvrNgMPhvNDAjmQQwYEg6ZvcG+JvhwwMywDCBuztq16X413Z95P3F7rLaHi4GHYRca8LPCDmYb6QgwLSRBzaJ1ncrfkDw5qgziL+v+wEVtRIoIMiQW3gmFhmpqZ2dwlmRTFCDC2SiZQGw1inJ5Mo/GRpayFioS+JOhNpXUqZx9Fzi7KiAY/G8WVgiW8dUgRL6i7qTpZRGMPLJBGpFQAiwtaZjv0mINbp4y4AQjgrnhDaVIGYfMMdguV3SbRqIGHtxMLx/pwrdUNzJpOk6fsLxmYoi5xPjco84vayLslXp4ODbEGDZhMsEbZ1OHikFA==;B9ofdp8Kgv1nQprSjihE+w=="
 ---

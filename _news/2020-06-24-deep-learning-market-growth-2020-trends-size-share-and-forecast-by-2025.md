@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Overview, Top Key Players, Industry Growth Analysis, Forecast 2027"
-    excerpt: "On the basis of offering, the global artificial intelligence in healthcare market is segmented into hardware, software,"
-    publishedDateTime: 2020-06-22T07:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-overview-top-key-players-industry-growth-analysis-forecast-2027-2020-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market 2020 by Regions, Manufactures, Type, Application, Sales, Revenue and Forecast to 2026"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Machine Learning as a Service (MLaaS) Market” report provides valuable information regarding new products in the market,"
     publishedDateTime: 2020-06-24T09:07:00Z
@@ -142,6 +128,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Chips 2020 Global Market Expected to Grow at CAGR of 35 % with consideration of the COVID-19 impact and Forecast to 2026"
+    excerpt: "Artificial Intelligence AI Chips 2020 Global Market Expected to Grow at CAGR of 35 with consideration of the COVID-19 impact and Forecast to 2026"
+    publishedDateTime: 2020-06-27T01:06:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/265585830/artificial-intelligence-ai-chips-2020-global-market-expected-to-grow-at-cagr-of-35--with-consideration-of-the-covid-19-impact-and-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 30
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1593176177525.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Big Data Technology Market Global Industry Size, Share, Emerging Trends, Future Demands, Revenue and Forecasts Research Report"
     excerpt: "The global big data technology market is set to experience an impressive growth trajectory owing to the rising"

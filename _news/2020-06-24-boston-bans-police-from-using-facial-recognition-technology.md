@@ -8,7 +8,7 @@ ampWebUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/06/25113324/axon-body-camera-police.jpg"
         width: 1600
         height: 1065
+        isCached: true
+  - title: "Boston becomes the second largest city in the US to ban facial recognition software, citing concerns that the technology is 'racially discriminatory' and threatens basic rights"
+    excerpt: "Boston will become the second major city in the US to ban facial recognition software for government use after a unanimous city council vote, citing concerns of racial bias."
+    publishedDateTime: 2020-06-27T01:21:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8464719/Boston-second-largest-city-ban-facial-recognition-software.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-second-largest-city-ban-facial-recognition-software.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-second-largest-city-ban-facial-recognition-software.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/06/27/00/30104344-0-image-a-10_1593215913669.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "nki42bGBuLEFRvGrHxF77ediOVAGsu32Vc8iP7ngUn4ViEBxqOVcJVS9yVYIDtwao9A0H/kf3RGNjQCLm6flwukXH+gCXTzU+A+p4v+tfPacF9HMqXU6Tz4bZjwhGdGMTIJ5BO21JMEbsY9KcIj27HxdTP1al5n/CU5uz5E4y5xhQX0v319V0o7t7C8dhBGt1vi6dmyrIbgskcP2+RWrGGZcSvlK71mvdpTYDmDZagmaJdha/SkzoiZPOsI0jNZIHztWuDtpqZxt72hW3Tf1eox+0aGm+pmHpyj/c3Ms5ghRAcRpyYIjt3FL12uVad3VI9f8KMsaf1r9g87FGKmts1qe9iHoGBJJcEho3pwDI72JYOo2TA+piGRfd/1BztUFo1tT2pyVvLhkKEPQkWHg4hUpH0CvDyjeyKy7RgC/nJFCmF/MjzxKgwFFzFyaiUMAopUn/yg2jALOxWlDbW2/0Rn+XU+XDiotY1k+ZW0uPzVtjF6L0x7YEi/sB78haVQA;3n0qW6lUGiqv8dIA+KJ/hg=="

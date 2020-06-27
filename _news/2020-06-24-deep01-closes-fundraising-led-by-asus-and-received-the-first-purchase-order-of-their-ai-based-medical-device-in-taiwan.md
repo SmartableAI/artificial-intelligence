@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/deep01-closes-fundraisi
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/deep01-closes-fundraising-led-by-asus-and-received-the-first-purchase-order-of-their-ai-based-medical-device-in-taiwan-1029338715"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -21,19 +21,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Taiwanese startup Deep01 raises $2.7 million for its AI-based medical imaging software"
-    excerpt: "In a press statement, Albert Chang, ASUS corporate vice president and co-head of its AIoT Business Group, said “Deep01 is a leading startup in the AI medical area. The collaboration is promising ..."
-    publishedDateTime: 2020-06-22T08:44:00Z
-    webUrl: "https://techcrunch.com/2020/06/22/taiwanese-startup-deep01-raises-2-7-million-for-its-ai-based-medical-imaging-software/"
-    ampWebUrl: "https://techcrunch.com/2020/06/22/taiwanese-startup-deep01-raises-2-7-million-for-its-ai-based-medical-imaging-software/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/taiwanese-startup-deep01-raises-2-7-million-for-its-ai-based-medical-imaging-software/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 59
 
 secured: "jjNmNmtpFnBn7xk+pgcLRYFDtJJUSoHrDBNZyFkVQZlvmva5yuLh874X9YZMXDTCbXncR9ImvhbNsy+20ECyUoSIXFqTgZiQwmvFpK596QEOSitdMM4VbETUjFQrQuPazXJveLK5pce/UbRSwBKnxPF2dIreddxsxt0uCoHpGfBBBD+pNlEmAFf1ymXYchVOceKDA2m4zQRQVsHQ3j3K6TtNhcvJ0Rpxx5le2ghMd1v5+BEZPmJifdqkMlMrJFIvdam/p5V6wkFzi3DqEJlI+CH+aNRsppZf94U8nFjDUynO7XKrt+r+TMB0cZahhRTyIE4dpZtgNbsdeCVdiA7eTcsyWnf1kkZsWPt4/bng3HeCUGKGYYN0zWi8PNb0wqpInqVbE4bIH17FB3ypiQCjLu10KPFLPySAK25kKoD/mhSiK+IIxy8cz9tf2M/CS0dXCv/Mt4J9KhBL9Gm4Sm/4aV9WMh0UmOKtYK1CMefl9MPWChWllJOv/gK6ELr2Fym+x3PDcXxjhCLZ5sg9WVwdRA==;XyXi/ct4FMGjwW9IeLj/Ng=="
 ---

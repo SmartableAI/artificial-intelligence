@@ -43,6 +43,22 @@ related:
         width: 804
         height: 535
         isCached: true
+  - title: "Artificial intelligence classifies colorectal cancer using infrared imaging."
+    excerpt: "A research team from the Prodi Centre for Protein Diagnostics at Ruhr-Universität Bochum (RUB) has used infrared (IR) microscopes based on quantum cascade lasers to classify tissue samples of colorectal cancer from routine clinical operations in a marker-free and automated way."
+    publishedDateTime: 2020-06-27T01:41:00Z
+    webUrl: "https://infosurhoy.com/news-summary/artificial-intelligence-classifies-colorectal-cancer-using-infrared-imaging/"
+    ampWebUrl: "https://infosurhoy.com/news-summary/artificial-intelligence-classifies-colorectal-cancer-using-infrared-imaging/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news-summary/artificial-intelligence-classifies-colorectal-cancer-using-infrared-imaging/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 56
+    images:
+      - url: "https://infosurhoy.com/wp-content/uploads/2020/06/research.jpg"
+        width: 800
+        height: 480
+        isCached: true
   - title: "Artificial intelligence classifies colorectal cancer using infrared imaging"
     excerpt: "A research team from the Prodi Centre for Protein Diagnostics at Ruhr-Universität Bochum (RUB) has used infrared (IR) microscopes based on quantum cascade lasers to classify tissue samples of colorectal cancer from routine clinical operations in a marker-free and automated way."
     publishedDateTime: 2020-06-24T20:00:00Z

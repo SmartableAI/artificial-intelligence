@@ -25,20 +25,6 @@ images:
     title: "Inspur eleases NF5468M6 and NF5468A5 AI servers supporting NVIDIA A100 PCIe Gen 4 GPU at ISC20"
 
 related:
-  - title: "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20"
-    excerpt: "NF5468M6 and NF5468A5 accommodate 8 pcs of double-width NVIDIA A100 PCIe GPUs in 4U chassis. Both support the latest PCIe Gen 4 of 64GB/s bi-directional bandwidth, achieving superior AI computing performance."
-    publishedDateTime: 2020-06-22T07:22:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200622005207/en/Inspur-Launches-New-AI-Servers-Support-Latest"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
-    images:
-      - url: "https://mms.businesswire.com/media/20200622005207/en/799983/23/inspur_logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Supermicro Announces Support for NVIDIA A100 PCIe GPUs Across 1U, 2U, and 4U GPU Servers Portfolio"
     excerpt: "Super Micro Computer, Inc. announced full support for the new NVIDIA A100 PCIe GPUs across the company's broad"
     publishedDateTime: 2020-06-22T14:58:00Z
