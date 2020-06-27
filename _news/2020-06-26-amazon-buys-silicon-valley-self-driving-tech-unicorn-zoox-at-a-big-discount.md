@@ -1,34 +1,30 @@
 ---
 category: news
-title: "Amazon buys self-driving startup, EVs and hybrid Ford F-150s, plus more tech news"
-excerpt: "There's a lot going on with EVs, self-driving vehicles, and hybrid trucks too. Plus, OnePlus Nord camera news!"
-publishedDateTime: 2020-06-26T12:37:00Z
-webUrl: "https://www.androidauthority.com/tech-news-68-1132806/"
-ampWebUrl: "https://www.androidauthority.com/tech-news-68-1132806/amp/"
-cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tech-news-68-1132806/amp/"
+title: "Amazon buys Silicon Valley self-driving tech unicorn Zoox at a big discount"
+excerpt: "Amazon may be paying upwards of $1 billion for the Foster City startup, a move that puts it more squarely in Silicon Valley self-driving vehicle race."
+publishedDateTime: 2020-06-26T12:08:00Z
+webUrl: "https://www.bizjournals.com/sanjose/news/2020/06/26/amazon-zoox-acquisition-amzn.html"
+ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/06/26/amazon-zoox-acquisition-amzn.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/06/26/amazon-zoox-acquisition-amzn.amp.html"
 type: article
-quality: 69
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Android Authority
-  domain: androidauthority.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Business Journals
+  domain: bizjournals.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/04/Waymo-screenshot-840x470.jpg"
-    width: 840
-    height: 470
+  - url: "https://media.bizj.us/view/img/11686814/gettyimages-1215628106*600xx4000-2667-0-2.jpg"
+    width: 600
+    height: 400
     isCached: true
-    title: "Amazon buys self-driving startup, EVs and hybrid Ford F-150s, plus more tech news"
+    title: "Amazon buys Silicon Valley self-driving tech unicorn Zoox at a big discount"
 
 related:
   - title: "Amazon buys self-driving technology company Zoox"
@@ -94,6 +90,22 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2019/02/1551367567_amazonlogo_story.jpg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Amazon buys self-driving startup, EVs and hybrid Ford F-150s, plus more tech news"
+    excerpt: "There's a lot going on with EVs, self-driving vehicles, and hybrid trucks too. Plus, OnePlus Nord camera news!"
+    publishedDateTime: 2020-06-26T12:37:00Z
+    webUrl: "https://www.androidauthority.com/tech-news-68-1132806/"
+    ampWebUrl: "https://www.androidauthority.com/tech-news-68-1132806/amp/"
+    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tech-news-68-1132806/amp/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 69
+    images:
+      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/04/Waymo-screenshot-840x470.jpg"
+        width: 840
+        height: 470
         isCached: true
   - title: "Amazon gets serious about self-driving cars by dropping more than $1 billion on Zoox"
     excerpt: "The retail giant acquired self-driving startup Zoox for more than $1 billion, The Information reported Friday. The Financial Times has a similar report, claiming that the actual value of the acquisition is more than $1."
@@ -221,22 +233,6 @@ related:
         width: 1366
         height: 797
         isCached: true
-  - title: "Amazon buys Silicon Valley self-driving tech unicorn Zoox at a big discount"
-    excerpt: "Amazon may be paying upwards of $1 billion for the Foster City startup, a move that puts it more squarely in Silicon Valley self-driving vehicle race."
-    publishedDateTime: 2020-06-26T12:08:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/06/26/amazon-zoox-acquisition-amzn.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/06/26/amazon-zoox-acquisition-amzn.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/06/26/amazon-zoox-acquisition-amzn.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 42
-    images:
-      - url: "https://media.bizj.us/view/img/11686814/gettyimages-1215628106*600xx4000-2667-0-2.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Amazon looks to self-driving future by acquiring Zoox | Raleigh News & Observer"
     excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will drive up without a driver."
     publishedDateTime: 2020-06-26T19:12:00Z
@@ -326,6 +322,6 @@ related:
         height: 720
         isCached: true
 
-secured: "zUzO4fJ2Jn211Ombeuo/zKf9MTXBRHAw1AJFvbn2C+JWsaCwXj8hOywJKy3MUM40CQojrJrM9RvI/eqyNksL+/Il94Z+MORZvDZbmOV0i2WHdr5qhmfM6SWLpJovmrpAPX4pCjr7YhdDhOHSXgc9/y6xIWmloc1OKNBAyBG2Z+Svyopq3dvlXVRxJjCjUT82lvLDntSywDPj1q36bDxi8E2keRnv22ip4zJCni0WVfhteO8rWXvfLYb+l8jpUvmero4kgCne0YLp/RXVpV7cA1/JE8RqzkfZghx8ppbuhE/9fWa+TU7rJqZGDpV0DiWxp8+raPrAV3DsLZgXXOWnmDL30GHviKP9jjnt4lEG6xaAgTb0Hdxib50eZpTsdm4bbiWZIpTgS7pND5XwH5FXsXdUo/ABHTJxnRtU4bMbJKw1XYg89r7weMQsisOePHCLmQByiaKHiVck7rSKYZ4ZYstbDErHAO7DlLIQCMdU1VxSmSlab+NUssHU1Zl7bAVGnmqQECF2Q7TmtcAsHuxbZg==;y7EIKPf6E7sUARXa2/jWtA=="
+secured: "4gvoYJpiVJ+/0SaIYROg1KWANB5UEDoNoC4crGuPLk7ykP2ZakZQrkiXrp9cwbOKV1J6LG55/bUyrSRZc9XYgBqO0+tDwOV2JXCfm3yt9mnjGNQaFWWLVvxZvvauoy/WzzMoe41zE8nx5yIoajx4DsMRHJqMRnpVKeICybsVR56RdqAF4yUqx1gdWWwJoLdY+Z7ytXrAJCnkcM7zrswCPLJVPrkTVocTpPxfSIDAziMdvN4aYH4IA/YCxaJeagKUaw/wX0vdAqabH59+fHGQ/lsO8oB7ptuu0AFC5T/+75xQ9yxwUE/+6FKjX4lCaJOZJuENsxcC2Nm0DGmLmTMP4Q==;3OcMzq33UkFnyfFOOrtnIQ=="
 ---
 

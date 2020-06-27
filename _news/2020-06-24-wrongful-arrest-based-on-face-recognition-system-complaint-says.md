@@ -486,22 +486,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Opinion | The futile withdrawal of facial recognition software by Big Tech"
-    excerpt: "This technology is bound to proliferate regardless of flaws as it’s being pursued by such regimes as China’s for surveillance"
-    publishedDateTime: 2020-06-22T16:21:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech-11592841353953.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech/amp-11592841353953.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech/amp-11592841353953.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2020/06/22/600x338/oped4_1592841609461_1592841617392.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "New York Civil Liberties Union files lawsuit over Lockport facial recognition system"
     excerpt: "The lawsuit aims to have the New York State Education Department's approval of the facial recognition system revoked, and have Lockport deactivate the system."
     publishedDateTime: 2020-06-23T03:46:00Z

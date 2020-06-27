@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Amazon Is Buying Self-Driving Startup Zoox"
-excerpt: "Amazon (NASDAQ:AMZN) has signed an agreement to buy Zoox, a six-year old start-up seeking to create autonomous driving vehicles from the ground up. Amazon is reportedly paying over $1.2 billion, which is one of its largest acquisitions,"
-publishedDateTime: 2020-06-26T15:53:00Z
-webUrl: "https://www.fool.com/investing/2020/06/26/amazon-is-buying-self-driving-startup-zoox.aspx"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/06/26/amazon-is-buying-self-driving-startup-zoox.aspx"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/26/amazon-is-buying-self-driving-startup-zoox.aspx"
+title: "Amazon Is Acquiring Self-Driving Start-Up Zoox"
+excerpt: "Amazon has announced that it is acquiring self-driving car startup Zoox in a deal estimated to be worth over $1 billion. Foster City, California-based Zoox has founded in 2014 and raised $955 million funding from investors,"
+publishedDateTime: 2020-06-27T09:06:00Z
+webUrl: "https://www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/"
+ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/amp/"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,11 +24,11 @@ topics:
   - AI
 
 images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F580202%2Fautonomousdriving.jpg&w=1200&op=resize"
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068"
     width: 1200
-    height: 682
+    height: 676
     isCached: true
-    title: "Amazon Is Buying Self-Driving Startup Zoox"
+    title: "Amazon Is Acquiring Self-Driving Start-Up Zoox"
 
 related:
   - title: "Mercedes cars will be powered by NVIDIA AI for self-driving starting 2024"
@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Is Buying Self-Driving Startup Zoox"
+    excerpt: "Amazon (NASDAQ:AMZN) has signed an agreement to buy Zoox, a six-year old start-up seeking to create autonomous driving vehicles from the ground up. Amazon is reportedly paying over $1.2 billion, which is one of its largest acquisitions,"
+    publishedDateTime: 2020-06-26T15:53:00Z
+    webUrl: "https://www.fool.com/investing/2020/06/26/amazon-is-buying-self-driving-startup-zoox.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/06/26/amazon-is-buying-self-driving-startup-zoox.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/26/amazon-is-buying-self-driving-startup-zoox.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F580202%2Fautonomousdriving.jpg&w=1200&op=resize"
+        width: 1200
+        height: 682
+        isCached: true
   - title: "Amazon to Acquire Self-Driving Car Startup Zoox"
     excerpt: "Although Zoox has been trying to develop a robot taxi service, Amazon could use the same technologies to one day power self-driving delivery vehicles."
     publishedDateTime: 2020-06-26T16:28:00Z
@@ -126,22 +142,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/03B67ZCaMv3OJA9m8qLEVfX-1.fit_lim.size_1200x630.v_1593188466.jpg"
         width: 940
         height: 529
-        isCached: true
-  - title: "Amazon Is Acquiring Self-Driving Start-Up Zoox"
-    excerpt: "Amazon has announced that it is acquiring self-driving car startup Zoox in a deal estimated to be worth over $1 billion. Foster City, California-based Zoox has founded in 2014 and raised $955 million funding from investors,"
-    publishedDateTime: 2020-06-27T09:06:00Z
-    webUrl: "https://www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/"
-    ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Mercedes Drops Partnership With BMW, Hooks Up With NVIDIA On Self-Driving: Robocar Roundup"
     excerpt: "With the field slowing down, why would Mercedes and BMW end their partnership? Just adding NVIDIA chips isn't enough explanation. Plus, a roundup of other robocar news for the week."
@@ -416,6 +416,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "dLJ1WoVJaPJtUOIOsZA5s0aBNrnKIo7++bQv3j68sw/sE8Hf3CTWUgGpUaUqpaeNkDHjBXu9Iy/Kbj+X79+f0lyCbMhH71Ts+4Kgvg3I4onGRJ/ZdzrCiCa5WOCBycIxZjb+qlblcAyZoR73fKo0HLadod6198fNKKJdiCGrkOUeqJvq8xdUo38c3/3XpTzkaL4626kAaiVPn32Vy+GRKwNZRZLO90OkzB0Z841I7VeOQJXQcVePLYOf/Fki+B8LYsitCiKkd67F0oH+UFuKaMv4GW/NU2VoylpNULtTWOgUPHyLttLJxmSpOdKudDdjuDLQHUZ7/RMYzQC02D0qyHtAHqWK2UWCnDhzILbTOe4S/DaN704McNy/IKUtCqjksQi0YWGHcn3MB+G3+/UbLI3MEl35itKeo7f+EEkVDuVYIamxLFi0dd3o37gYqu4PKEreoKUaeka6E4yHhD4wR2JY3sIzwbe99u19Amj0J2pY3Bz4re2UM5YRTgV9zJLl2s0nc0FsbsfxWtQgr84eNA==;Q1J4DBiFlRow/MMh7zVClg=="
+secured: "wULfu6eBUSKAd8MgBFhn68FDwvMX4Plspk9edd895AgpvYi1uqlVkNB2zhMQpQqJoDjlGHVTNghuUs+vGffvpmZxVy4mo83mbsKU/OdbiZlLyZDpPDaCqMUvfuS0YjP0GT1ps59PAA5zSTCivdTUyE3zgxegI+4axH0N9xG6bCh3YLnhSbzrfKuwLZsqYb2FRhLA2hA6YyXQsib0G7NwZn+nFDOqUox8BiwRa8TpPbVAalQ4swA0AUCia8/MQzJZJcYjMZ3djWoXq2sQAl1PRldyjU0CzWuMO0yF/FCEj0f3Nlf3ROnfUaOxMXg1W7Nluxzm0j6RH8wW+UtXG1g+qA==;vbtszIR7km7bYIuyAuMX6g=="
 ---
 

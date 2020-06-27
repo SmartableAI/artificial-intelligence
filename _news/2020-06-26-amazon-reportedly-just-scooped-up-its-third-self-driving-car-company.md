@@ -169,22 +169,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Amazon will have to invest many billions more than it's spending on Zoox to bring self-driving tech to market"
-    excerpt: "Amazon's announced purchase of Zoox on Friday is just the beginning of its investment in a nascent technology that will cost billions more to bring to market."
-    publishedDateTime: 2020-06-26T20:55:00Z
-    webUrl: "https://www.cnbc.com/2020/06/26/amazon-spending-1-billion-on-zoox-will-have-to-invest-billions-more.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/06/26/amazon-spending-1-billion-on-zoox-will-have-to-invest-billions-more.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-spending-1-billion-on-zoox-will-have-to-invest-billions-more.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 55
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106201621-1571933003929gettyimages-1177532680.jpeg?v=1591693465"
-        width: 4500
-        height: 2976
-        isCached: true
   - title: "5 key takeaways from Amazon's $1 billion acquisition of self-driving startup Zoox"
     excerpt: "Analysts say the Zoox acquisition gives a good look into Amazon's thinking over a number of different areas, including delivery and M&A strategies."
     publishedDateTime: 2020-06-26T18:59:00Z
@@ -247,6 +231,22 @@ related:
         width: 1366
         height: 797
         isCached: true
+  - title: "Amazon buys Silicon Valley self-driving tech unicorn Zoox at a big discount"
+    excerpt: "Amazon may be paying upwards of $1 billion for the Foster City startup, a move that puts it more squarely in Silicon Valley self-driving vehicle race."
+    publishedDateTime: 2020-06-26T12:08:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/06/26/amazon-zoox-acquisition-amzn.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/06/26/amazon-zoox-acquisition-amzn.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/06/26/amazon-zoox-acquisition-amzn.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 42
+    images:
+      - url: "https://media.bizj.us/view/img/11686814/gettyimages-1215628106*600xx4000-2667-0-2.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Amazon looks to self-driving future by acquiring Zoox | Raleigh News & Observer"
     excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will drive up without a driver."
     publishedDateTime: 2020-06-26T19:12:00Z
@@ -262,6 +262,36 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/f18ce1ed-cf4c-4d20-999e-9061dff2befe/2905bfb2-5838-40e0-bf8f-1e2a74a0602e/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Didi, BAIC ink self-driving pact"
+    excerpt: "Chinese ride-hailing giant Didi Chuxing is hitting the accelerator for its autonomous driving business by inking a strategic partnership deal with major Chinese carmaker BAIC Group. The move came as China is ramping up the development of smart connected vehicles."
+    publishedDateTime: 2020-06-23T01:31:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202006/23/WS5ef15b72a310834817254c6b.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202006/23/5ef15b72a3108348fcd785bc.jpeg"
+        width: 660
+        height: 440
+        isCached: true
+  - title: "Amazon buys self-driving car firm Zoox, suggesting a future of automated deliveries"
+    excerpt: "The deal provides Amazon with a new piece of technology as it reduces its dependence on shipping companies to get packages to customers."
+    publishedDateTime: 2020-06-26T15:57:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/06/26/amazon-zoom/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/06/26/amazon-zoom/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/06/26/amazon-zoom/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 38
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XYF7FUFXWUI6VGQ52PNRZPQHZY.jpg&w=1440"
+        width: 1440
+        height: 942
         isCached: true
   - title: "AImotive secures $20 million to expand locations and self-driving technology"
     excerpt: "AImotive has become what it claims is the most-funded automated driving software supplier in Europe with an additional $20 million raised in funding. IEEE GlobalSpec websites place cookies on your device to give you the best user experience."

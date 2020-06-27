@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16380951"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16380951"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     height: 484
     isCached: true
     title: "How will fast-paced developments in self-driving technologies change the dynamics of this semi-autonomous & autonomous bus market?"
+
+related:
+  - title: "Autonomous vehicles market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 202"
+    excerpt: "Globally, automakers are aggressively focusing on autonomous vehicles to satisfy customer demand, to remain competitive"
+    publishedDateTime: 2020-06-23T06:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicles-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-202-2020-06-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "aV+aAyK7hS4E7Rr3kEWH4uF/gyx7YnzYFoU78QbKRCs6CN8lZiT/7TTZ9adF9UIxbqiA3BrvZcGvByaGR4MlzOcvkYe+wRe+FQEVxUW5Xuj06esQMv+qSZo4UjZN3GYNLYy+IrYYzNm6c+uYQp+XL1rUonHsRe5Ch+L15O1ycccZFagoo/Ck1Bv4NpabvTc1T3joWv7Rpe5xzjcUOTz/LRAz7+jlFug5U9ru5HDqcIxpo7abLhcqkvbWfLM1CZXkbPH09gMfSFea3m+bD50Yom0fuHKOzFXku8ikWg9dYtGAqWB/glVgwDk0zm2T6yvC30bY4SmGV8gZPZRcx4w+rKFIyGwkFSFozxm7JMtvgZTRRlBXzhte2QQ4fGU7Z16lIvWB2kfIIBeDdtTsoNfvmUtEnByR8uuQfStXeP+IC5LKzfRSZWj7woKm4Rt+v4jdtdVa3TDfie7qgAham24riNOukzTvQR9y4t2TWl4w9JhumfIM7QAHf5zaoQ5z6Li0C9jpF6CJDgEL1YlBmzeRtg==;PjYhaD5gobAtlLCmvtbwgQ=="
 ---

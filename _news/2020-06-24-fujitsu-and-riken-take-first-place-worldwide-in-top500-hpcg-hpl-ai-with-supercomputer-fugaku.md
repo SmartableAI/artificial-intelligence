@@ -28,20 +28,6 @@ images:
 
 related:
   - title: "Fujitsu and RIKEN Take First Place Worldwide in TOP500, HPCG, and HPL-AI with Supercomputer Fugaku"
-    excerpt: "Fujitsu announced that Fugaku(1), a supercomputer jointly developed by RIKEN and Fujitsu, was ranked No. 1 in the 58th TOP500"
-    publishedDateTime: 2020-06-22T16:17:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/fujitsu-and-riken-take-first-place-worldwide-in-top500-hpcg-and-hpl-ai-with-supercomputer-fugaku/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 25
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/Riken-Fugaku-diagonal_600x.jpg"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Fujitsu and RIKEN Take First Place Worldwide in TOP500, HPCG, and HPL-AI with Supercomputer Fugaku"
     excerpt: "As the information technology platform, Fugaku demonstrates overall high performance to make Society 5.0 a realityNews Facts:- Supercomputer Fugaku jointly developed by RIKEN"
     publishedDateTime: 2020-06-23T00:51:00Z
     webUrl: "https://www.benzinga.com/pressreleases/20/06/a16344829/fujitsu-and-riken-take-first-place-worldwide-in-top500-hpcg-and-hpl-ai-with-supercomputer-fugaku"

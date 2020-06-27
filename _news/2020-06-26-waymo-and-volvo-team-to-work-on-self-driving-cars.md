@@ -31,6 +31,22 @@ images:
     title: "Waymo and Volvo team to work on self-driving cars"
 
 related:
+  - title: "Lyft details how it's going to make self-driving cars safer"
+    excerpt: "Lyft’s self-driving team called Level 5 has published its first ever Voluntary Safety Self-Assessment (VSSA) report (PDF), giving us a glimpse of how it plans to make sure that its autonomous vehicles are safe to use."
+    publishedDateTime: 2020-06-23T10:49:00Z
+    webUrl: "https://www.engadget.com/lyfts-publishes-first-safety-assessment-report-104539689.html"
+    ampWebUrl: "https://www.engadget.com/amp/lyfts-publishes-first-safety-assessment-report-104539689.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lyfts-publishes-first-safety-assessment-report-104539689.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F71f7b8b0-b52c-11ea-bfde-95534e1b930b&client=amp-blogside-v2&signature=7aea62f88da4d147a2e9b5531fd0e4915575118a"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Volvo Cars, Waymo partner to build self-driving vehicles"
     excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday."
     publishedDateTime: 2020-06-25T17:11:00Z
@@ -46,70 +62,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200625&t=2&i=1523643342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5O27V"
         width: 817
         height: 545
-        isCached: true
-  - title: "Volvo will use Waymo technology to power its self-driving cars"
-    excerpt: "Volvo will use Waymo technology to guide its self-driving cars, including one built for ride-hailing services."
-    publishedDateTime: 2020-06-25T19:26:00Z
-    webUrl: "https://www.engadget.com/volvo-waymo-self-driving-car-partnership-192450966.html"
-    ampWebUrl: "https://www.engadget.com/amp/volvo-waymo-self-driving-car-partnership-192450966.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/volvo-waymo-self-driving-car-partnership-192450966.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F330f5320-b715-11ea-8bff-ded22acc56bd&client=amp-blogside-v2&signature=aa6885b83be1e636943df5f7d64dfe77790ff3a4"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Waymo inks deal with Volvo to develop self-driving electric cars"
-    excerpt: "Waymo has inked a deal with Volvo Cars Group to develop fully electric self-driving passenger cars, the two companies announced."
-    publishedDateTime: 2020-06-25T18:35:00Z
-    webUrl: "https://venturebeat.com/2020/06/25/waymo-inks-deal-with-volvo-to-develop-self-driving-electric-cars/"
-    ampWebUrl: "https://venturebeat.com/2020/06/25/waymo-inks-deal-with-volvo-to-develop-self-driving-electric-cars/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/waymo-inks-deal-with-volvo-to-develop-self-driving-electric-cars/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/03/waymo-one-dome-e1585787576926.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Volvo Cars, Waymo partner to build self-driving vehicles"
-    excerpt: "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles. The companies said Waymo will work with Volvo’s global brands ..."
-    publishedDateTime: 2020-06-26T13:07:00Z
-    webUrl: "https://www.reuters.com/article/us-waymo-volvo-autonomous-idUSKBN23W2V0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23W2V0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23W2V0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200625&t=2&i=1523643342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5O27V"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Amazon announces purchase of Zoox, a self-driving, ride-hailing vehicle maker"
-    excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that"
-    publishedDateTime: 2020-06-26T15:29:00Z
-    webUrl: "https://www.marketwatch.com/story/amazon-announces-purchase-of-zoox-a-self-driving-ride-hailing-vehicle-maker-2020-06-26"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/amazon-announces-purchase-of-zoox-a-self-driving-ride-hailing-vehicle-maker-2020-06-26"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-announces-purchase-of-zoox-a-self-driving-ride-hailing-vehicle-maker-2020-06-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
-    images:
-      - url: "https://s.marketwatch.com/public/resources/images/MW-IF322_Amazon_ZG_20200427143916.jpg"
-        width: 1320
-        height: 742
         isCached: true
   - title: "Baidu-backed maker of self-driving vehicle sensors said to be in talks to go public"
     excerpt: "Velodyne Lidar, in which Baidu and Ford invested US$150 million in 2016, makes radar-like systems used in autonomous vehicles."
@@ -127,38 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Volvo will use Waymo’s self-driving technology to power a fleet of electric robotaxis"
-    excerpt: "Waymo is the “exclusive global L4 partner” for Volvo Car Group, the two companies announced Thursday. That means that Volvo will integrate Waymo’s autonomous driving technology, widely considered to be among the best in the world,"
-    publishedDateTime: 2020-06-25T18:43:00Z
-    webUrl: "https://www.theverge.com/2020/6/25/21303324/volvo-waymo-l4-deal-electric-self-driving-robot-taxi"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/25/21303324/volvo-waymo-l4-deal-electric-self-driving-robot-taxi"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/25/21303324/volvo-waymo-l4-deal-electric-self-driving-robot-taxi"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 82
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/WvqKBF364KYueS3Osz6ZMexUCtw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66982504/vpavic_191202_3827_0054.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Amazon to Acquire Self-Driving Car Startup Zoox"
-    excerpt: "Although Zoox has been trying to develop a robot taxi service, Amazon could use the same technologies to one day power self-driving delivery vehicles."
-    publishedDateTime: 2020-06-26T16:28:00Z
-    webUrl: "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox"
-    ampWebUrl: "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 74
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03B67ZCaMv3OJA9m8qLEVfX-1.fit_lim.size_1200x630.v_1593188466.jpg"
-        width: 940
-        height: 529
-        isCached: true
   - title: "Amazon to Buy Zoox, in a Move Toward Self-Driving Cars"
     excerpt: "Amazon for several years has worked on self-driving technology to deliver goods, a natural fit with its shopping business. The company did not disclose the terms of the deal nor say when it expected the transaction to close. Advertisement"
     publishedDateTime: 2020-06-26T17:56:00Z
@@ -174,6 +94,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/06/26/business/26amazon/26amazon-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Lyft is using data from its ride-share drivers to develop self-driving cars"
+    excerpt: "Lyft is using data collected from drivers on its ride-hailing app to accelerate the development of self-driving cars. Lyft’s Level 5 self-driving car program is using the data to build 3D maps ..."
+    publishedDateTime: 2020-06-23T15:53:00Z
+    webUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/"
+    ampWebUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/lyft-maps.gif"
+        width: 600
+        height: 338
         isCached: true
   - title: "Lyft is using data from its rideshare drivers to develop self-driving cars"
     excerpt: "Lyft is using data collected from drivers on its ride-hailing app to accelerate the development of self-driving cars. Lyft’s Level 5 self-driving car program is using the data to build 3D maps, understand human driving patterns and improve simulation tests — all tools needed to push their"
@@ -191,22 +127,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Volvo and Waymo explore their own route for self-driving taxis"
-    excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday. Waymo, a unit of Google's parent company Alphabet,"
-    publishedDateTime: 2020-06-25T17:51:00Z
-    webUrl: "https://www.thenational.ae/business/volvo-and-waymo-explore-their-own-route-for-self-driving-taxis-1.1039334"
-    ampWebUrl: "https://amp.thenational.ae/business/volvo-and-waymo-explore-their-own-route-for-self-driving-taxis-1.1039334"
-    cdnAmpWebUrl: "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/business/volvo-and-waymo-explore-their-own-route-for-self-driving-taxis-1.1039334"
-    type: article
-    provider:
-      name: The National Blogs
-      domain: thenational.ae
-    quality: 59
-    images:
-      - url: "https://www.thenational.ae/image/policy:1.1039333:1593107510/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Waymo and Volvo Team to Make Self-Driving Vehicles"
     excerpt: "Get Report Waymo is partnering with Volvo VLVLY to develop a self-driving electric vehicle designed for ride hailing, the companies said Thursday. Shares of Alphabe"
     publishedDateTime: 2020-06-25T19:54:00Z
@@ -223,52 +143,49 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "Waymo, Volvo sign exclusive self-driving vehicle partnership"
-    excerpt: "Waymo's deal with Vovlo is the latest in a string of partnerships Waymo has won with automakers. #SelfDrivingCars #SiliconValley"
-    publishedDateTime: 2020-06-25T19:09:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/06/25/waymo-volvo-partner-on-self-driving-vehicles.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/06/25/waymo-volvo-partner-on-self-driving-vehicles.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/06/25/waymo-volvo-partner-on-self-driving-vehicles.amp.html"
+  - title: "Amazon will have to invest many billions more than it's spending on Zoox to bring self-driving tech to market"
+    excerpt: "Amazon's announced purchase of Zoox on Friday is just the beginning of its investment in a nascent technology that will cost billions more to bring to market."
+    publishedDateTime: 2020-06-26T20:55:00Z
+    webUrl: "https://www.cnbc.com/2020/06/26/amazon-spending-1-billion-on-zoox-will-have-to-invest-billions-more.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/26/amazon-spending-1-billion-on-zoox-will-have-to-invest-billions-more.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-spending-1-billion-on-zoox-will-have-to-invest-billions-more.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 59
+      name: CNBC
+      domain: cnbc.com
+    quality: 55
     images:
-      - url: "https://media.bizj.us/view/img/11151320/volvo-cars-ceo-hakan-samuelsson*600xx3024-2016-0-311.jpg"
-        width: 600
-        height: 400
+      - url: "https://image.cnbcfm.com/api/v1/image/106201621-1571933003929gettyimages-1177532680.jpeg?v=1591693465"
+        width: 4500
+        height: 2976
         isCached: true
-  - title: "Volvo Car Group And Waymo Team Up To Develop Self-Driving Vehicles"
-    excerpt: "Volvo Car Group and Waymo have established a strategic partnership that will see the Google-owned self-driving tech company become the car manufacturer’s exclusive L4 (Level 4) partner. The deal includes Volvo Car Group’s strategic affiliates Polestar and Lynk & Co International,"
-    publishedDateTime: 2020-06-26T09:53:00Z
-    webUrl: "https://www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/"
-    ampWebUrl: "https://www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/amp/"
+  - title: "BMW Takes Self-Driving to the Next Level"
+    excerpt: "It’s the point at which you get to call something a self-driving car. BMW’s system—no proper marketing name yet—will debut on the iNext, an all-new, all-electric production vehicle modeled on the 2018 iNext concept, an exuberantly futuristic take ..."
+    publishedDateTime: 2020-06-23T20:05:00Z
+    webUrl: "https://www.autoweek.com/news/technology/a32852529/bmw-takes-self-driving-to-the-next-level/"
+    ampWebUrl: "https://www.autoweek.com/news/technology/amp32852529/bmw-takes-self-driving-to-the-next-level/"
+    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp32852529/bmw-takes-self-driving-to-the-next-level/"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 59
+      name: Autoweek
+      domain: autoweek.com
+    quality: 44
     images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2020/06/Volvo-XC40-Recharge-0-1024x554.jpg"
-        width: 1024
-        height: 554
-        isCached: true
-  - title: "Didi Chuxing and BAIC form self driving partnership"
-    excerpt: "Chinese ride hailing company Didi Chuxing has entered into a strategic partnership with local carmaker BAIC Group, according to local reports."
-    publishedDateTime: 2020-06-23T08:49:00Z
-    webUrl: "https://www.just-auto.com/news/didi-chuxing-and-baic-form-self-driving-partnership_id196227.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 54
-    images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/p90321870-highres-bmw-vision-inext-ext-1592930565.jpg?crop=1.00xw:0.754xh;0,0&resize=1200:*"
         width: 1200
-        height: 799
+        height: 603
         isCached: true
+  - title: "Mighty Dust Storm Drifting Toward Southeastern U.S., Even Self-Driving Cars To Be Flummoxed"
+    excerpt: "Meteorologists are closely following some mega-sized dust plumes that are slowly drifting from the Sahara Desert and for which those murky clouds have already descended upon the normally scenic Caribbean islands,"
+    publishedDateTime: 2020-06-24T15:43:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/24/mighty-dust-storm-drifting-toward-southeastern-us-even-self-driving-cars-to-be-flummoxed/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/24/mighty-dust-storm-drifting-toward-southeastern-us-even-self-driving-cars-to-be-flummoxed/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/24/mighty-dust-storm-drifting-toward-southeastern-us-even-self-driving-cars-to-be-flummoxed/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 44
   - title: "Volvo partners with tech company to build self-driving cars"
     excerpt: "Swiftmile CEO Colin Roche on the company's self-driving scooter that can drive itself back to its charging base. Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use,"
     publishedDateTime: 2020-06-25T20:37:00Z
@@ -285,45 +202,36 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Volvo, Waymo partner to build self-driving vehicles"
-    excerpt: "Waymo and Volvo Cars have agreed to develop a self-driving electric vehicle designed for ride-hailing use, as part of a new global partnership, the companies said Thursday. Waymo, a unit of Silicon Valley's Alphabet Inc."
-    publishedDateTime: 2020-06-25T19:28:00Z
-    webUrl: "https://europe.autonews.com/automakers/volvo-waymo-partner-build-self-driving-vehicles"
+  - title: "China deploys self-driving cars to deliver foods; disinfect places in the streets"
+    excerpt: "As a way to reduce the spread of coronavirus, China, according to Mashable, is using self-driving vans called Hercules to deliver foods and disinfect streets."
+    publishedDateTime: 2020-06-23T08:18:00Z
+    webUrl: "https://yen.com.gh/160685-china-deploys-driving-cars-deliver-foods-disinfect-places-streets.html"
+    ampWebUrl: "https://yen.com.gh/amp/160685-china-deploys-driving-cars-deliver-foods-disinfect-places-streets.html"
+    cdnAmpWebUrl: "https://yen-com-gh.cdn.ampproject.org/c/s/yen.com.gh/amp/160685-china-deploys-driving-cars-deliver-foods-disinfect-places-streets.html"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: Yen.com.gh
+      domain: yen.com.gh
     quality: 39
     images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Volvo%20grille%20new%20web_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Future Polestar vehicles will feature Waymo self-driving technology"
-    excerpt: "Swedish car firm teams up with American technology company for future car collaborations. Polestar has formed a strategic partnership with Waymo, which will see the Swedish car maker’s cars fitted with its American partner’s self-driving technology in ..."
-    publishedDateTime: 2020-06-26T11:54:00Z
-    webUrl: "https://www.expressandstar.com/news/motors/2020/06/26/future-polestar-vehicles-will-feature-waymo-self-driving-technology/"
-    type: article
-    provider:
-      name: Express & Star
-      domain: expressandstar.com
-    quality: 39
-    images:
-      - url: "https://www.expressandstar.com/resizer/dCsdvWhT--hBK_XltQX6dV_XP7M=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/expressandstar.mna/UH6F4Y3C3FG7THDOV3TQKD2G2I.jpg"
+      - url: "https://netstorage-yen.akamaized.net/images/542a3866856416d8.jpg"
         width: 1200
-        height: 900
+        height: 675
         isCached: true
-  - title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
-    excerpt: "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver”. Volvo will design and manufacture the vehicles. The companies said Waymo would work with Volvo's global brands ..."
-    publishedDateTime: 2020-06-26T07:16:00Z
-    webUrl: "https://www.timeslive.co.za/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+  - title: "Deepfake software used to aid self-driving car development"
+    excerpt: "Cutting-edge deepfake tech sees computer software simulate infinite number of different road environments to aid autonomous car development"
+    publishedDateTime: 2020-06-24T23:18:00Z
+    webUrl: "https://www.autoexpress.co.uk/news/352605/deepfake-software-used-aid-self-driving-car-development"
     type: article
     provider:
-      name: Times LIVE
-      domain: timeslive.co.za
+      name: AutoExpress
+      domain: autoexpress.co.uk
     quality: 39
+    images:
+      - url: "https://media.autoexpress.co.uk/image/private/s--Y8EeJWCa--/v1593011823/autoexpress/2020/06/deepfake%20self-driving%20car%20testing.jpg"
+        width: 3200
+        height: 1800
+        isCached: true
   - title: "Volvo partners Waymo to build self-driving cars"
     excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership."
     publishedDateTime: 2020-06-26T12:10:00Z
@@ -338,61 +246,33 @@ related:
         width: 647
         height: 400
         isCached: true
-  - title: "BMW And Mercedes end self-driving car partnership"
-    excerpt: "The two carmakers had previously said that they intended to jointly develop a Level 4 self-driving car by 2024."
-    publishedDateTime: 2020-06-23T13:26:00Z
-    webUrl: "https://gulfbusiness.com/bmw-and-mercedes-end-self-driving-car-partnership/"
+  - title: "COVID-19 rocked the auto industry, but the pandemic hasn't derailed the shift toward electric and self-driving cars. It's forging ahead."
+    excerpt: "In the world of electric and autonomous vehicles, COVID-19's impact will come at the margins or accelerate trends that have already begun."
+    publishedDateTime: 2020-06-24T15:11:00Z
+    webUrl: "https://www.businessinsider.com/covid-19-and-electric-vehicles-self-driving-cars-whats-next-2020-6"
     type: article
     provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+    images:
+      - url: "https://i.insider.com/5eea839ef34d053ed50be4d4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Burger King says self-driving cars know to slow down for its signs, too"
+    excerpt: "Burger King’s latest marketing effort suggests that smart cars are so smart that they know to tap the brakes when nearing one of its restaurants. And some smart cars, it turns out, appear to identify a Burger King sign,"
+    publishedDateTime: 2020-06-23T11:18:00Z
+    webUrl: "https://adage.com/article/cmo-strategy/burger-king-says-self-driving-cars-know-slow-down-its-signs-too/2263346"
+    type: article
+    provider:
+      name: Ad Age
+      domain: adage.com
     quality: 24
     images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2020/06/bmw-mercedes-auto.jpg"
+      - url: "https://s3-prod.adage.com/s3fs-public/styles/800x600/public/20200622_autopilot_TESLA_BK_3x2.jpg"
         width: 800
-        height: 530
-        isCached: true
-  - title: "Nvidia teams with Mercedes-Benz to build self-driving cars"
-    excerpt: "It will contain a graphics processing unit to run the artificial intelligence models that power a self-driving car’s autonomy features. Nvidia has shared several details about the Drive AGX Orin ..."
-    publishedDateTime: 2020-06-23T17:38:00Z
-    webUrl: "https://siliconangle.com/2020/06/23/nvidia-teams-mercedes-benz-build-software-defined-cars/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/nvidia-1.png"
-        width: 718
-        height: 400
-        isCached: true
-  - title: "Walmart’s Self-Driving Partner Is Changing E-Commerce Economics"
-    excerpt: "Last summer, it raised $4.5 million from investors, a pint-sized sum among self-driving ventures. Though Gatik may not be sexy, its slow-lane approach has proved to be pragmatic and lucrative. Last summer,"
-    publishedDateTime: 2020-06-23T13:10:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/31511-walmarts-self-driving-partner-is-changing-e-commerce-economics"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 24
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0622_Walmart.jpg?height=635&t=1592797745&width=1200"
-        width: 847
-        height: 635
-        isCached: true
-  - title: "Mercedes-Benz partners with Nvidia for next-gen self-driving vehicles"
-    excerpt: "Software-defined computing architecture based on Nvidia Drive platform Mercedes-Benz has partnered up with Nvidia to create a new in-vehicle computing system and AI computing infrastructure, all based on a new software-defined architecture that will be rolling out to the fleet of next-generation"
-    publishedDateTime: 2020-06-24T23:15:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/51064-mercedes-benz-partners-with-nvidia-for-next-gen-self-driving-vehicles"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 24
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/d50cd04edb05beaa9a3f744aae2bcaac_L.jpg"
-        width: 620
-        height: 465
+        height: 600
         isCached: true
   - title: "Amazon buying Zoox to veer into self-driving tech"
     excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
@@ -407,20 +287,6 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2020/06/27/resized_150246-1damazon0627rgb_54-29733_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 399
-        isCached: true
-  - title: "Mercedes-Benz joins Nvidia to build self-driving platform for 2024 fleet"
-    excerpt: "Benz and graphics giant Nvidia have joined hands to build an in-vehicle computing system for next-gen automated cars. Starting in 2024, the software-defined computing architecture will be rolled out across the fleet of Mercedes-Benz vehicles,"
-    publishedDateTime: 2020-06-24T15:24:00Z
-    webUrl: "https://www.dailypioneer.com/2020/technology/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 23
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet-2020-06-24.jpg"
-        width: 1000
-        height: 800
         isCached: true
 
 secured: "j4jIxEcT14VX09mg6dYyuDHFhkOdvH/0csl8elx7XXhSZHYDlNyeZ7vEY93HGZRcklmeAXcViMam2iTd13KqXoSWb9y0uaG5cHwZhFq202WSj+shNV4EtTi/27S/JTwfg/4Kb+5WvWjQAnYf/Oiy02INwazWJoXCHxsagJPnS2tzRnZfdXiZabX8QAXwMnhtjvDWn5NTOr8Z1huO3aATIFYCyMCx5VGAyZImBrBXcmlJ78qO7w08IwnqoFiMPZsinGKikf+vqTXfOP1b+thnmleMYhHhYW+/ibrwAknYC9NFfJrUNROgsLDYx6lIqoxXXjcXNQGBOkJt5XiDkIMCoA==;RkvVq2xTDT4kRRD3c+MBHg=="

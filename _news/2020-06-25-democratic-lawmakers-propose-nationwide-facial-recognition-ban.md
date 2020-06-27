@@ -476,22 +476,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Opinion | The futile withdrawal of facial recognition software by Big Tech"
-    excerpt: "This technology is bound to proliferate regardless of flaws as it’s being pursued by such regimes as China’s for surveillance"
-    publishedDateTime: 2020-06-22T16:21:00Z
-    webUrl: "https://www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech-11592841353953.html"
-    ampWebUrl: "https://www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech/amp-11592841353953.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/the-futile-withdrawal-of-facial-recognition-software-by-big-tech/amp-11592841353953.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2020/06/22/600x338/oped4_1592841609461_1592841617392.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Wrongful Arrest Based On Face Recognition System, Complaint Says"
     excerpt: "A flawed facial recognition algorithm led to the wrongful arrest of an African-American man in Detroit, according to a complaint filed Wednesday in a case highlighting concerns over the technology which critics say reinforces racial bias."
     publishedDateTime: 2020-06-24T15:53:00Z
@@ -669,6 +653,6 @@ related:
         height: 341
         isCached: true
 
-secured: "wj4qSSTGNReoBgDoFXLXVGJXgF3pm/GmDnatGGBIAtDh8IcgZBhZDpuiY44eaBnyEJc/hWNbVk7Hzwi2BGxpoA1KaFLGqZYTzFrKZYd2uwD6DWznXorG0ObVZKzQQXnQNcUbP8vApX/MI7Lzvg3KFRyB7DiZNhdRlwix9DXASZlbNRkgvXZvYZvEvNcVaSlfUs395ebwBDPm1YT1yWYa7qq9DzD2qBfV4ArefZJlCXuhqlB7H6olccE34G6W1oRJsrLWUIX1VARecFX2FQueBU93to2wkTRG+xZYFjjVKfqQXEFArtOKl5QGARrh+QCNX4MWtBxkM08FyvPWfj8vsQ==;KvKqGhFDQRuWXeegsG1+fQ=="
+secured: "aD4As0m4DxCqJ1koL9/duDvR8nsFHJ2wQ7LzU+UqmNnIYWkLQDfS2cI05haesgn2PtktQN6ADR8LoZHC9Y/rudQl+TvPTel5bvBdALhigk8cxY4mRCuH1grWFhgs+iLMLRAAh9b79o5qge91ZnSJTwNbzFXzSKvWOItv/79aK62xpO/aZbIYeyIe3Bw5KLYIT85MrcidezAe3VjMObXNsn6MkSZeIg0rApDfNXFIGfBMhyUQilWWoUYQ7L8lbw6nwUFkCBBKFoM8NDO8B4iCoFb2fZNyocK0gnDw+dxj7km9n1X9FgMrr8scr6IteMLzXSxd1dwBjVWWGpwZziVCRQ==;mYH0hq+7OdP+SyNQviABfQ=="
 ---
 

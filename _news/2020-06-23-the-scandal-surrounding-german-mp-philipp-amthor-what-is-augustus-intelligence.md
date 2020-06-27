@@ -40,22 +40,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Why aren't people smarter? The dubious benefits of intelligence, real or artificial"
-    excerpt: "Intelligence -- real or artificial -- is supposed to be a big advantage. But we've had millions of years to evolve real intelligence and dumbness is rampant. Which raises the question: If intelligence is so good,"
-    publishedDateTime: 2020-06-22T15:07:00Z
-    webUrl: "https://www.zdnet.com/article/why-arent-people-smarter/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/why-arent-people-smarter/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-arent-people-smarter/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 66
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/07/15acec1a-c9b8-4440-80e9-2d7266e44721/thumbnail/1200x675/68d586e111b2a5939b36cf74ebe8a84e/in-the-modern-data-center.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Universal Knowledge Store on the Way to Artificial General Intelligence"
     excerpt: "When you hear the term “Artificial Intelligence or AI,” it really refers to narrow AI—a system which may have superhuman “mental” abilities, but only in a narrow area of expertise. AIs now have expert credentials at many games and can find data correlations and patterns that no human mind could ever uncover."
     publishedDateTime: 2020-06-23T18:43:00Z
