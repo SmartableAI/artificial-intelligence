@@ -2,7 +2,7 @@
 name: "Moveworks"
 overview: "Moveworks is a cloud-based AI platform purpose-built for large enterprises that solves one, big, frustrating problem: Resolving employees'​ IT support issues. Instead of tracking issues, we use advanced AI to solve them, instantly and automatically—with no human intervention."
 type: "profile"
-heat: 0
+heat: 32
 
 website: https://www.moveworks.com/
 
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "CNEtuXAdf5tCU6mrXvg1j/IeubmTn2WehRwsESf6xR60CFoIZdnk06ntGb29UWfW5bhkysB9AgO4WJ5AlNoazl2UxvYlVdqE7MsDym1fk0RK5wHyAoZ1KVMoQquNMAsk+BTYSAbybSRO2FgUspvnjzx40uTnl3foKVA24li/EiNm2oEZVWxxr+s6VjLE3PRkkZZ3s+0fkTqJefBZqtsUN0ioIdo7GOXSnTsO3QRrqRI8ajAVQew/zT4d2ukogdRS2vt4HOLvQZEDxwzFiHu4RluuscjzHEj/h/TrIIDjDmS/kHtq0LJ/b/u1aPz5hMKTi7Cl7p1jolE7GjAc4aOT1JADCnWUn/9HNQDn/KHk4U+3QUJykY9eBqYyhGouIEoV;oXN0huH8f8nuiI2HGgztGg=="
+secured: "A6DeLCYi1vLkwbpzlx5JdGCXr6yM+WoGtRZJ+yXo+xZ9Jg2jbqofRaaQ1/rHLnljZwaiYf0bY053KN0vBg2JvlqnzFLvowzOsBzhe+bx+97b+pJI+0KNXXYzk3UZfKVJU1mBfAjMgVP6WGK9uk2EP35HLpVpyWCSl/DgQab27ftGsCVESNd5tHL+e2jClobteXRl21YQOLLaaRxUbvK2RuKaFWudd/Bf8/TdvAUstFLj3bvLoM5fws5EPyZ5acyF8HpHfldXszNG36iXyl8unF/DVlPO+NWNLr1AH3EVaWvGrkdEn4ZbGBZod2elgNmemXas0fMsbG4zkCmx32Jrflor7TDHjbIkP81+ZdO9H3KTOeN9fXyXEbBMSZ3KlGH+;T7OlpJYO2eLL5PNlDEB8EA=="
 ---
 

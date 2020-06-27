@@ -2,7 +2,7 @@
 name: "BeaconCure"
 overview: "AI-Driven Robots for Food Service, Retail, & Health Care"
 type: "profile"
-heat: 42
+heat: 50
 
 website: https://www.beaconcure.com/
 
@@ -31,6 +31,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=kag2mOw2Tj0"
 
-secured: "vRYbY0wwd/hV3uKRT8O6OelTAdW1/WJVzv5RVKARYKYsjEsPWw9ruas+jReoC8Q6hRnQguFWhYWY4i78jCG6BuNfBH+f2ZZoIA2Jg9PFH3Cz/t4zzi5JQvhxTKYMKzHwVIWDSa1rZ8ehRw9uxwKiq8nIjHCTsHau0Ax0AppVmG0BHn9h3dvovHS/CwQkbEzTlbfdlh2QohSOWYMa60IVXAFXmdMJQTuXw1Ui+p7eT40ZDnDZf7aymwwWI8oH9XovFuTkCwWXatKaFo0W4raSPp/KWohjFzl69Iwv+vQyUmI4xz+TfHuHS+IitxgpDqVdOmdMrgVg+/KIieBEGAcjCZa49R4yX80ApnhKj4lBgQPFJpW0YGzsL2HbascmrPyf;vA8V7lRqiXDA1TXAxQ1lQg=="
+secured: "7siHV58pAACREAyvOc3wLU8MjWcwDFGW86CuRIf1sbFNDPmF3RvzWmmL4/G7vOQyrk787uYi/AebMLfofGD2sZ1pJSr1L9qBRxupuqSjKEwRKgD2vLhFK+ZIReyP/5QwEf9CtDVOTCp4FAzga63wFeS/ddmNjZ4wc+UpBAbphLHCHzycDEp12zkuAMS0YHnSYZgb+IV64qW1ETFmqy1VSnKfScr71AlV6geYZHzRNrjZh3FjF9NBCZXDiG1NYMGxield3or53IMlCA/ad6sJw98B4ftQQT515r/EpozQXTLHH8KTOGf5uuUw4aLU19EgBbqh3h5ULMYec9N4dIWr0qn+EfV1+hgvMJ+7nvSCqALlfsFoHRIbIOkj76w6hLE5;kIn/Qz5la9pRhbbsY0gz+Q=="
 ---
 
