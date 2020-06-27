@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-23T10:49:00Z
 webUrl: "https://www.techcentral.ie/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Mozilla
@@ -25,22 +25,6 @@ images:
     title: "Microsoft to acquire CyberX to bolster Azure IoT security"
 
 related:
-  - title: "Microsoft is buying CyberX to bolster its Azure IoT security"
-    excerpt: "Azure IoT users can look for additional security and monitoring capabilities as Microsoft announces plans to buy CyberX"
-    publishedDateTime: 2020-06-22T22:02:00Z
-    webUrl: "https://www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.html"
-    ampWebUrl: "https://www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 74
-    images:
-      - url: "https://images.techhive.com/images/article/2016/08/iot_security-100675572-large.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft acquires CyberX to bolster Azure IoT security"
     excerpt: "Microsoft has announced the acquisition of IoT security specialist CyberX to beef up Azure IoT’s capabilities and help customers assess their risk profile across industrial environments. CyberX, which will complement existing Azure IoT security offerings,"
     publishedDateTime: 2020-06-24T06:35:00Z
