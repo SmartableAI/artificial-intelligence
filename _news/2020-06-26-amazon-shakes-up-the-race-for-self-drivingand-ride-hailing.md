@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp"
 type: article
 quality: 89
-heat: 270
+heat: 280
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/3MXgDoro-Kcttn1ufwizeK1uQlg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66985247/acastro_190920_1777_amazon_0003.0.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Amazon to Acquire Self-Driving Startup Zoox"
+    excerpt: "Amazon.com has reached an agreement to acquire autonomous-car developer Zoox."
+    publishedDateTime: 2020-06-26T15:27:00Z
+    webUrl: "https://www.wsj.com/articles/amazon-to-acquire-self-driving-startup-zoox-11593183986"
+    ampWebUrl: "https://www.wsj.com/amp/articles/amazon-to-acquire-self-driving-startup-zoox-11593183986"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-to-acquire-self-driving-startup-zoox-11593183986"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-203096/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Amazon agrees to buy self-driving startup Zoox for over $1 billion: The Information"
     excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology."

@@ -107,6 +107,22 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Amazon to Acquire Self-Driving Startup Zoox"
+    excerpt: "Amazon.com has reached an agreement to acquire autonomous-car developer Zoox."
+    publishedDateTime: 2020-06-26T15:27:00Z
+    webUrl: "https://www.wsj.com/articles/amazon-to-acquire-self-driving-startup-zoox-11593183986"
+    ampWebUrl: "https://www.wsj.com/amp/articles/amazon-to-acquire-self-driving-startup-zoox-11593183986"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/amazon-to-acquire-self-driving-startup-zoox-11593183986"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-203096/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Amazon agrees to buy self-driving startup Zoox for over $1 billion: The Information"
     excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology."
     publishedDateTime: 2020-06-26T05:54:00Z

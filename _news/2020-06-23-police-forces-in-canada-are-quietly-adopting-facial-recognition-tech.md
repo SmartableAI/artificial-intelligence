@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "HomeKit cameras to get smart face recognition, Apple TV integration"
-    excerpt: "Apple's HomeKit platform is being updated with new features, including camera \"Activity Zones\" and adaptive lighting for smart bulbs."
-    publishedDateTime: 2020-06-22T18:17:00Z
-    webUrl: "https://appleinsider.com/articles/20/06/22/homekit-cameras-to-get-smart-face-recognition-apple-tv-integration"
-    ampWebUrl: "https://appleinsider.com/articles/20/06/22/homekit-cameras-to-get-smart-face-recognition-apple-tv-integration/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/06/22/homekit-cameras-to-get-smart-face-recognition-apple-tv-integration/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/36332-67465-image-(1)-xl.jpg"
-        width: 1320
-        height: 772
-        isCached: true
 
 secured: "ktvIN2Btc0R4OyBQ+gWQn1Uhb6lmPZdbra3oQjgnzNwc/YM4u5kvInfcJDAEFmCRzh24qYfHXnWWYQusTQD8Sf7IlqREiiVPLQkbQ81Gu1Yrz0g2JUTabucclN5BHbZz5+azTKIOfrZKkqjraO8BoQQFPkNIMhHXsxXPrjby5c0AUAPSOtzYezQ1ELmLsRmgGXIUFfFSF5oqc/ZctiTBI7U0+5e6YBKVxO09P/awsxL6IIQsrQTE8pbt7zFJcywG+emnijvLZSy++aDuWvE3BeeNiasO8o1me1hIfsjKHOG/EXt9HnTjAn/7ZVfqesthvF4Cb9kwjFBold8iT00hAis7AhTF+BAQaPit/c32VsqDbR+LSjcz/9/fZuN4U4CV+gyT3H6yXSP0ak12l/EiZedW4g0a30peE7HDbcWlGfTeJYhg7iT+38LG8FeqoevgSkVIwibnwZqnxyuwf23lvz2upuT/QMPvNbGj/JqpwVykUobxBZRXJHGhY/7MiiEVO/H0uABZxx5dNPIeRu7+Nw==;ZBhWazEUmAIeHKtyOUEbWw=="
 ---

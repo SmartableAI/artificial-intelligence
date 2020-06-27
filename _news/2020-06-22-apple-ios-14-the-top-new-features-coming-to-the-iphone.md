@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85725-apple-ios-14-top-new-feature
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85725-apple-ios-14-top-new-features-coming-iphone.html"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     title: "Apple iOS 14: the top new features coming to the iPhone"
 
 related:
-  - title: "WWDC 2020: Everything to know about iOS 14 and how it takes cues from Android"
-    excerpt: "Apple is also bringing a feature from its macOS, which runs on the company’s laptop and desktop computers, to the iPhone.On iOS, users will be able to see how many home screens they have from one spot and hide some of these,"
-    publishedDateTime: 2020-06-22T18:41:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/wwdc-2020-everything-to-know-about-ios-14-and-how-it-takes-cues-from-android-11592850616364.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/wwdc-2020-everything-to-know-about-ios-14-and-how-it-takes-cues-from-android/amp-11592850616364.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/wwdc-2020-everything-to-know-about-ios-14-and-how-it-takes-cues-from-android/amp-11592850616364.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 41
-    images:
-      - url: "https://images.livemint.com/img/2020/06/22/600x338/iOS_1592850862096_1592850869734.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "At WWDC, Apple debuts new updates to iOS 14, watchOS 7 and more"
     excerpt: "Apple Inc. today announced sweeping updates to many of its mobile device operating systems, including features added to iOS, iPadOS and watchOS. Many of these changes affect how commonly used apps have been upgraded – including Messages,"
     publishedDateTime: 2020-06-22T20:42:00Z

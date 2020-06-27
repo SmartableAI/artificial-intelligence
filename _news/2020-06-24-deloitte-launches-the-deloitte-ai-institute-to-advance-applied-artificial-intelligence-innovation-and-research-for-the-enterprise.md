@@ -1,25 +1,26 @@
 ---
 category: news
 title: "Deloitte Launches the Deloitte AI Institute to Advance Applied Artificial Intelligence Innovation and Research for the Enterprise"
-excerpt: "Deloitte today announced the launch of the Deloitte AI Institute, a center that focuses on artificial intelligence (AI) research, eminence and applied innovation across industries. The Institute will bring together the brightest minds in the field of AI to apply cutting-edge research to help address a wide spectrum of relevant AI use cases."
+excerpt: "Deloitte today announced the launch of the Deloitte AI Institute, a center that focuses on artificial intelligence (AI) research, eminence"
 publishedDateTime: 2020-06-24T12:00:00Z
-webUrl: "https://apnews.com/PR Newswire/c0e76b7b4ac4a3567504eaff48a3d770"
+webUrl: "https://www.prnewswire.com/news-releases/deloitte-launches-the-deloitte-ai-institute-to-advance-applied-artificial-intelligence-innovation-and-research-for-the-enterprise-301082507.html"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/379251/Deloitte_Logo.jpg?p=facebook"
+    width: 1612
+    height: 845
     isCached: true
     title: "Deloitte Launches the Deloitte AI Institute to Advance Applied Artificial Intelligence Innovation and Research for the Enterprise"
 
@@ -34,6 +35,6 @@ related:
       domain: businesswire.com
     quality: 7
 
-secured: "TVxXsu2dSWy1j3XeM5ZIVKAiYhdqoGQsGddLDBWJzFo1V18hNe9Dm4PSUQqwkJ0Bkz2H0bmzldzzXlqj/UwxYDMT6HPhX5gSsuqdoe5GNeA553ODJkJgg+IJ8pWa43Oj12ZD4GTc2BCRya4MlCfn4g/d5fu+Od4B7RADb5AP1xSZVw4y9zfXaiLYZU3VN9fgNIKpQu24Z38v/s6FeAdgIGzSWoCA4n9Ls5n/t+KJ+m7gX1esXHe8e1to+C/jBg9QCgo/esiHT0i7oGquBNCS98mSY7kWmC/1sIo1+89HQrQVezCXjCmbdwmBIV4QmYAec+8u+1b33aZdSustTVHX8g==;yWTAgjmHQXNWw8OvG2eyqQ=="
+secured: "bZEMxL+veaJeEog4cemhcJke6+Kl0hTIG2sq6BdGKhOtXmRh+jxMZ2adpxHIrMF47lcN3SkVVSXrFGOBbC+AAgcqVYC50bs8X6smgjTpYY/NTaLjyM/iJyllcdeuGk1hqbLPdmd3J9MsdmdwTnMlkypn1wv8Ri//F0Aak+XSdybq0pRoSFWK86RrvRo4jOebF2hns3KXeZBcZeK2UfIiZZVieB8PAbobzQRiBIgpUMrs6sG0lhOrT+Qz/c5cZUoJ3RuDxcumoWGjhUlzBowc/bZxXAKIvD+GIcVbtmaJtK3P9eSOBP1BIJu7vCIX52Rnj0TvNbpmOQmzfgmqleq63w==;4cDu8MBAPDgWJ4vGF4TFRg=="
 ---
 

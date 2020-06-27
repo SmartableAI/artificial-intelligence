@@ -8,7 +8,7 @@ ampWebUrl: "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-f
 cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://video-images.vice.com/test-uploads/articles/5ef0f57c83ca6d009d2c6d35/lede/1592850289955-cctv-1144371_1920.jpeg?crop=0.8911xw:0.7561xh;0xw,0.1597xh"
         width: 1710
         height: 961
-        isCached: true
-  - title: "HomeKit cameras to get smart face recognition, Apple TV integration"
-    excerpt: "Apple's HomeKit platform is being updated with new features, including camera \"Activity Zones\" and adaptive lighting for smart bulbs."
-    publishedDateTime: 2020-06-22T18:17:00Z
-    webUrl: "https://appleinsider.com/articles/20/06/22/homekit-cameras-to-get-smart-face-recognition-apple-tv-integration"
-    ampWebUrl: "https://appleinsider.com/articles/20/06/22/homekit-cameras-to-get-smart-face-recognition-apple-tv-integration/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/06/22/homekit-cameras-to-get-smart-face-recognition-apple-tv-integration/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/36332-67465-image-(1)-xl.jpg"
-        width: 1320
-        height: 772
         isCached: true
 
 secured: "yucx++QDsx7xqyqIhIqbhpGETUzpJpdcMvCxwgOcXLAcHTTQDX/A33zLCXsUXsLnP869Bpn87+Mr7Cf8NzGmAExHi9FrzbMSaIW/njQJkzbpVAVPj8VBDKT4fOLB7i53hp29V7gWQ/apmXrDE7ziSZK+V94739JlnLq+L/edyyn8+wjuXNaxIWm6vDPCygf+XF7TCQEBUYEV5H79GuUVos2rTIzkadH26GoCwTjfaWI8ULLhAHV2LZAZTLIhMR9HaezP35wJ7D1eAXoC3mprdcRTnttCCDhACkO/D+BdQbREIo2wcEoYHgjDrJApRoYPB7a2TXGLIe4+xbwy2n0heP+5bpsawhOWnoYxxznxSqpKDtvd0zDkX7fKqyxliA6ZP4ZC6C7ujz1uH/mfsikDeapFhcGkTWdSPpdftOSqJP4iOwk7MvRevDPwGcbd+v14yzByY7P6wzY+JO/+oHHAnTOLEfwbCpIXKQP+QVPvmlHKovzsddMFoLijxl2V/5ED;gZnP+uqUjkF8zOPFZnVveA=="

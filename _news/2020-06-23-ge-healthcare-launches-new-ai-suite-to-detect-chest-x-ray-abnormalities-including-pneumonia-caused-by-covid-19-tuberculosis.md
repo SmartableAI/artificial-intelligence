@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T17:42:00Z
 webUrl: "https://www.cnbcafrica.com/africa-press-office/2020/06/23/ge-healthcare-launches-new-ai-suite-to-detect-chest-x-ray-abnormalities-including-pneumonia-caused-by-covid-19-tuberculosis/"
 type: article
 quality: 6
-heat: -1
+heat: 6
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "GE Healthcare AI Suite Pinpoints Chest X-ray Abnormalities"
-    excerpt: "This eight-algorithm AI suite is designed to quickly analyze chest X-ray findings and flags any abnormalities, such as pneumonia, for further radiologist review. The suite can also pinpoint tuberculosis,"
-    publishedDateTime: 2020-06-22T17:26:00Z
-    webUrl: "https://www.diagnosticimaging.com/x-ray/ge-healthcare-ai-suite-pinpoints-chest-x-ray-abnormalities"
-    type: article
-    provider:
-      name: Diagnostic Imaging
-      domain: diagnosticimaging.com
-    quality: 54
-    images:
-      - url: "https://www.diagnosticimaging.com/sites/default/files/chest-x-ray_ST_Puwadol-Jaturawutthichal_0.jpg"
-        width: 348
-        height: 340
-        isCached: true
 
 secured: "Pcw0At2xBeQpx1ytwTIe1WlKt1pBv+v11reBX3XEkABroS4fm9PGKDq1UZlS4g08lvEDlavvDJi+JFPsN7OBnHtc9AzuS94Ng4MU+l52tSF8jy5HpdB+Cm51SSLYDqSxLTgoDTfgz+9TaBCD7i34K/DeKUi7SrajqyEjaggRrmwZP2sTFP+FKHfbWMTZ80nnRjjGyYAv2g+VykHZCXunKsA48/MxPwb5jH7eOuCJIBZsCJLXo7/E/0NRNOA2+301lf3zYCRmx3xy5gAGURDXOXQBwmv3cSt7BDWnRQI+Gk94O/AuTfNji/+axCC+7OFIt/kZa1QEapWY4YU6CfVe5w==;uoPOKSyL9LJl31VburtuWA=="
 ---
