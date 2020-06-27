@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing"
-excerpt: "Uber CEO Dara Khosrowshahi says his company wants to be the “Amazon for transportation.” Friday, Amazon made clear that it intends to be the Amazon for transportation. The ecommerce giant said it had agreed to acquire Bay Area-based autonomous vehicle company Zoox,"
-publishedDateTime: 2020-06-26T21:07:00Z
-webUrl: "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/"
-ampWebUrl: "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp"
-cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp"
+title: "Amazon Buys Self-Driving Company Zoox For $1.2B And May Rule The World"
+excerpt: "Reports have emerged that Amazon.com will purchase self-driving startup Zoox for “more than $1.2B” with exact details of the deal not disclosed."
+publishedDateTime: 2020-06-26T18:40:00Z
+webUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/26/amazon-buys-self-driving-company-zoox-for-12b-and-may-rule-the-world/"
+ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/26/amazon-buys-self-driving-company-zoox-for-12b-and-may-rule-the-world/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/26/amazon-buys-self-driving-company-zoox-for-12b-and-may-rule-the-world/amp/"
 type: article
-quality: 89
-heat: 329
-published: true
+quality: 74
+heat: -1
+published: false
 
 provider:
-  name: Wired
-  domain: wired.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,13 +24,29 @@ topics:
   - AI
 
 images:
-  - url: "https://media.wired.com/photos/5ef60bd7be64fa7887c43297/master/pass/Biz_Zoox_1215628120.jpg"
-    width: 2400
-    height: 1602
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F45239846%2F0x0.jpg"
+    width: 1200
+    height: 801
     isCached: true
-    title: "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing"
+    title: "Amazon Buys Self-Driving Company Zoox For $1.2B And May Rule The World"
 
 related:
+  - title: "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing"
+    excerpt: "Uber CEO Dara Khosrowshahi says his company wants to be the “Amazon for transportation.” Friday, Amazon made clear that it intends to be the Amazon for transportation. The ecommerce giant said it had agreed to acquire Bay Area-based autonomous vehicle company Zoox,"
+    publishedDateTime: 2020-06-26T21:07:00Z
+    webUrl: "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/"
+    ampWebUrl: "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/5ef60bd7be64fa7887c43297/master/pass/Biz_Zoox_1215628120.jpg"
+        width: 2400
+        height: 1602
+        isCached: true
   - title: "Daily Crunch: Amazon buys self-driving startup Zoox"
     excerpt: "The company has also invested in autonomous driving startup Aurora, and it has tested self-driving trucks powered by self-driving freight startup Embark. 2. Microsoft is closing all of its retail ..."
     publishedDateTime: 2020-06-26T16:30:00Z
@@ -62,22 +78,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/aimotive-4.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 577
-        isCached: true
-  - title: "Amazon Buys Self-Driving Company Zoox For $1.2B And May Rule The World"
-    excerpt: "Reports have emerged that Amazon.com will purchase self-driving startup Zoox for “more than $1.2B” with exact details of the deal not disclosed."
-    publishedDateTime: 2020-06-26T18:40:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/26/amazon-buys-self-driving-company-zoox-for-12b-and-may-rule-the-world/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/26/amazon-buys-self-driving-company-zoox-for-12b-and-may-rule-the-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/26/amazon-buys-self-driving-company-zoox-for-12b-and-may-rule-the-world/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F45239846%2F0x0.jpg"
-        width: 1200
-        height: 801
         isCached: true
   - title: "Amazon Is Buying Self-Driving Startup Zoox"
     excerpt: "Amazon (NASDAQ:AMZN) has signed an agreement to buy Zoox, a six-year old start-up seeking to create autonomous driving vehicles from the ground up. Amazon is reportedly paying over $1.2 billion, which is one of its largest acquisitions,"
@@ -389,6 +389,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "t+phz1Z6/X9661VlSzfs/4ITU2dWbBL53SOlfBNHCXQAFxKpfkoTrcAqwTra0EQ76tqvTs/VCAXZawzcEo+Nwrucm4aIzFuaoS/zmSo4UDCFZkPVHM5twuvBIijpuPjMAZ/Lf15r+/MLiLnlNj4bocX6zh2lY7ZXp8X1ykv/C9mhKZvg1Jg/1Cv2Y2vvYIEHIlkNH9Qj3ThrrP7dBEVlvJKNK0hBvziglGNyGwtvlcjU4rG5wQhVfEAJR+HnN27uk5FC3Afc7ZMVpdZqH1k2sCC7lRRP5ZvYhTr1RryseaeYa0+gQbo8HhMikww/OmZ3v5wRduzJqgyg0u1RY+pDr96bmY+7peBtoBXHsJbJZLymcwJiDx7pwuOg11UVBMBjfy+fLbV91vehqto45Th70dEhBIc1C3lT+AaNJtZcuQuy1orC5ofo3/cDclyB6vJ/JmjZ/e3LobRqdSS71gHilCq0ZmMmNIeWkgcxxJu4B2oYwD4agmnqeTxqICA/bY3g;dBJDTaoul0hB7GXiRe3GxQ=="
+secured: "JQaVU3qqtKgPLd8wwSYo0T3zoC+WZbNHWDD7Kix6JZ65PDqeWTjmdIyAwzhSyZJ/R7NP1x7Qs1JaZ0uTJ3LHKqshf/QO6kovlNby2YKVB3DwccZD9ouO/1dTH2Pz4bKVjUCzwtR5wmY07ikxblzUn+GG2hvs3PPX3TMip2XP3Mr6XfGtktI77IusNX3ytTbiTh/PD2DJ/bbUVskdUAdvNyyKu0hPs4pYrSStC3shuXOQqOQ63tqcTZqAsJ78OqL/5iDvvqZAVcmCPgYNhFr00ah5sYpZSLu1414DJU1SwOIoc8yGwHOO6ayHGHkeHr2HBmk+2wJPSZg8YZs5dgOXFA==;GhFq658AoNHOlb3+rF6QQQ=="
 ---
 

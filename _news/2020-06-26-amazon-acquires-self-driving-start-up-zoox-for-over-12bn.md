@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing"
-excerpt: "Uber CEO Dara Khosrowshahi says his company wants to be the “Amazon for transportation.” Friday, Amazon made clear that it intends to be the Amazon for transportation. The ecommerce giant said it had agreed to acquire Bay Area-based autonomous vehicle company Zoox,"
-publishedDateTime: 2020-06-26T21:07:00Z
-webUrl: "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/"
-ampWebUrl: "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp"
-cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp"
+title: "Amazon acquires self-driving start-up Zoox for over $1.2bn"
+excerpt: "Amazon has acquired self-driving start-up Zoox for more than $1.2bn, marking the ecommerce group’s biggest investment into the autonomous vehicle sector. The deal is set to be announced on Friday, according to two people familiar with the matter."
+publishedDateTime: 2020-06-26T06:21:00Z
+webUrl: "https://www.ft.com/content/37ae69d9-f160-48c3-b3c5-736730c110ce"
+ampWebUrl: "https://amp.ft.com/content/37ae69d9-f160-48c3-b3c5-736730c110ce"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/37ae69d9-f160-48c3-b3c5-736730c110ce"
 type: article
-quality: 89
-heat: 329
-published: true
+quality: 44
+heat: -1
+published: false
 
 provider:
-  name: Wired
-  domain: wired.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Financial Times
+  domain: ft.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.wired.com/photos/5ef60bd7be64fa7887c43297/master/pass/Biz_Zoox_1215628120.jpg"
-    width: 2400
-    height: 1602
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0340552e-1aa6-4953-8795-a822ba949aee.jpg?source=google-amp&fit=scale-down&width=500"
+    width: 500
+    height: 281
     isCached: true
-    title: "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing"
+    title: "Amazon acquires self-driving start-up Zoox for over $1.2bn"
 
 related:
+  - title: "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing"
+    excerpt: "Uber CEO Dara Khosrowshahi says his company wants to be the “Amazon for transportation.” Friday, Amazon made clear that it intends to be the Amazon for transportation. The ecommerce giant said it had agreed to acquire Bay Area-based autonomous vehicle company Zoox,"
+    publishedDateTime: 2020-06-26T21:07:00Z
+    webUrl: "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/"
+    ampWebUrl: "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.wired.com/photos/5ef60bd7be64fa7887c43297/master/pass/Biz_Zoox_1215628120.jpg"
+        width: 2400
+        height: 1602
+        isCached: true
   - title: "Daily Crunch: Amazon buys self-driving startup Zoox"
     excerpt: "The company has also invested in autonomous driving startup Aurora, and it has tested self-driving trucks powered by self-driving freight startup Embark. 2. Microsoft is closing all of its retail ..."
     publishedDateTime: 2020-06-26T16:30:00Z
@@ -158,22 +170,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/p90321870-highres-bmw-vision-inext-ext-1592930565.jpg?crop=1.00xw:0.754xh;0,0&resize=1200:*"
         width: 1200
         height: 603
-        isCached: true
-  - title: "Amazon acquires self-driving start-up Zoox for over $1.2bn"
-    excerpt: "Amazon has acquired self-driving start-up Zoox for more than $1.2bn, marking the ecommerce group’s biggest investment into the autonomous vehicle sector. The deal is set to be announced on Friday, according to two people familiar with the matter."
-    publishedDateTime: 2020-06-26T06:21:00Z
-    webUrl: "https://www.ft.com/content/37ae69d9-f160-48c3-b3c5-736730c110ce"
-    ampWebUrl: "https://amp.ft.com/content/37ae69d9-f160-48c3-b3c5-736730c110ce"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/37ae69d9-f160-48c3-b3c5-736730c110ce"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0340552e-1aa6-4953-8795-a822ba949aee.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
         isCached: true
   - title: "Amazon Agrees To Buy Self-Driving Startup Zoox For Over $1bn: Report"
     excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, according to a report in The Information, citing sources, in a move that would"
@@ -389,6 +385,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "t+phz1Z6/X9661VlSzfs/4ITU2dWbBL53SOlfBNHCXQAFxKpfkoTrcAqwTra0EQ76tqvTs/VCAXZawzcEo+Nwrucm4aIzFuaoS/zmSo4UDCFZkPVHM5twuvBIijpuPjMAZ/Lf15r+/MLiLnlNj4bocX6zh2lY7ZXp8X1ykv/C9mhKZvg1Jg/1Cv2Y2vvYIEHIlkNH9Qj3ThrrP7dBEVlvJKNK0hBvziglGNyGwtvlcjU4rG5wQhVfEAJR+HnN27uk5FC3Afc7ZMVpdZqH1k2sCC7lRRP5ZvYhTr1RryseaeYa0+gQbo8HhMikww/OmZ3v5wRduzJqgyg0u1RY+pDr96bmY+7peBtoBXHsJbJZLymcwJiDx7pwuOg11UVBMBjfy+fLbV91vehqto45Th70dEhBIc1C3lT+AaNJtZcuQuy1orC5ofo3/cDclyB6vJ/JmjZ/e3LobRqdSS71gHilCq0ZmMmNIeWkgcxxJu4B2oYwD4agmnqeTxqICA/bY3g;dBJDTaoul0hB7GXiRe3GxQ=="
+secured: "cN2C7RGE8iM3s4tSuw7s0Xqt8GyWArVI+6R7t4RS7Qq3eiDylzHoocCl/m3lhIfgBUzp8k/IBB0nEgayRKPgXDuQoHS6VU3N+M8utyaGPj+JmEwKgfAyU/uX106bq+qKw3fATEpD8GiO1ivCByq2RrIsDaFPRHR438JTAsO2Fpulzs+Z+l9YhQ52EvH6vFQDyO/odOx04td+QcmgFo2xDZs9aQye5UU8WMIa+DPqNfHZ+m7HpJEaSvYiHIAqIgV6HzlpoFXbq5n+4NDZqR6BxHoq8lj5EBxMH9LnetobNbL1hhFU9FxyVE/5KrLhZOJpUOCpvbXXTGv4vdLEL598jQ==;BCQ9F+5i0ZDBj0cV5f89pg=="
 ---
 

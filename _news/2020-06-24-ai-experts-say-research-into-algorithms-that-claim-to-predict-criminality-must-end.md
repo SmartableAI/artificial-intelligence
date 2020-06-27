@@ -7,7 +7,7 @@ webUrl: "https://www.theverge.com/2020/6/24/21301465/ai-machine-learning-racist-
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/24/21301465/ai-machine-learning-racist-crime-prediction-coalition-critical-technology-springer-study"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/24/21301465/ai-machine-learning-racist-crime-prediction-coalition-critical-technology-springer-study"
 type: article
-quality: 81
+quality: 83
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.vox-cdn.com/thumbor/H-a44apCLMyl8yEYkEovNGfurms=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66974326/acastro_180730_1777_facial_recognition_0003.0.jpg"

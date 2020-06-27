@@ -1,34 +1,30 @@
 ---
 category: news
-title: "Amazon buys self-driving startup, EVs and hybrid Ford F-150s, plus more tech news"
-excerpt: "There's a lot going on with EVs, self-driving vehicles, and hybrid trucks too. Plus, OnePlus Nord camera news!"
-publishedDateTime: 2020-06-26T12:37:00Z
-webUrl: "https://www.androidauthority.com/tech-news-68-1132806/"
-ampWebUrl: "https://www.androidauthority.com/tech-news-68-1132806/amp/"
-cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tech-news-68-1132806/amp/"
+title: "Amazon gets serious about self-driving cars by dropping more than $1 billion on Zoox"
+excerpt: "The retail giant acquired self-driving startup Zoox for more than $1 billion, The Information reported Friday. The Financial Times has a similar report, claiming that the actual value of the acquisition is more than $1."
+publishedDateTime: 2020-06-26T14:53:00Z
+webUrl: "https://mashable.com/article/amazon-self-driving-car-zoox-acquisition/"
+ampWebUrl: "https://mashable.com/article/amazon-self-driving-car-zoox-acquisition.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/amazon-self-driving-car-zoox-acquisition.amp"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Android Authority
-  domain: androidauthority.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mashable
+  domain: mashable.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/04/Waymo-screenshot-840x470.jpg"
-    width: 840
-    height: 470
+  - url: "https://mondrian.mashable.com/2020%252F06%252F26%252F5c%252F9fad4dc065ef428a8d5d21cbe1207f3a.1d099.jpg%252F1200x630.jpg?signature=E0eXHEZV8PUCKxRVyk9siSTox0g="
+    width: 1200
+    height: 630
     isCached: true
-    title: "Amazon buys self-driving startup, EVs and hybrid Ford F-150s, plus more tech news"
+    title: "Amazon gets serious about self-driving cars by dropping more than $1 billion on Zoox"
 
 related:
   - title: "Amazon buys self-driving technology company Zoox"
@@ -95,21 +91,21 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Amazon gets serious about self-driving cars by dropping more than $1 billion on Zoox"
-    excerpt: "The retail giant acquired self-driving startup Zoox for more than $1 billion, The Information reported Friday. The Financial Times has a similar report, claiming that the actual value of the acquisition is more than $1."
-    publishedDateTime: 2020-06-26T14:53:00Z
-    webUrl: "https://mashable.com/article/amazon-self-driving-car-zoox-acquisition/"
-    ampWebUrl: "https://mashable.com/article/amazon-self-driving-car-zoox-acquisition.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/amazon-self-driving-car-zoox-acquisition.amp"
+  - title: "Amazon buys self-driving startup, EVs and hybrid Ford F-150s, plus more tech news"
+    excerpt: "There's a lot going on with EVs, self-driving vehicles, and hybrid trucks too. Plus, OnePlus Nord camera news!"
+    publishedDateTime: 2020-06-26T12:37:00Z
+    webUrl: "https://www.androidauthority.com/tech-news-68-1132806/"
+    ampWebUrl: "https://www.androidauthority.com/tech-news-68-1132806/amp/"
+    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tech-news-68-1132806/amp/"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 67
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 69
     images:
-      - url: "https://mondrian.mashable.com/2020%252F06%252F26%252F5c%252F9fad4dc065ef428a8d5d21cbe1207f3a.1d099.jpg%252F1200x630.jpg?signature=E0eXHEZV8PUCKxRVyk9siSTox0g="
-        width: 1200
-        height: 630
+      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/04/Waymo-screenshot-840x470.jpg"
+        width: 840
+        height: 470
         isCached: true
   - title: "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture"
     excerpt: "This time, Musk took aim at Amazon’s $1.2 billion acquisition of Zoox, a venture focusing on self-driving cars that could compete with Tesla, the car company that Musk heads: .@JeffBezos is a copy 🐈 haha https://t.co/plR7uupqBG — Elon Musk (@ ..."
@@ -280,6 +276,6 @@ related:
         height: 720
         isCached: true
 
-secured: "zUzO4fJ2Jn211Ombeuo/zKf9MTXBRHAw1AJFvbn2C+JWsaCwXj8hOywJKy3MUM40CQojrJrM9RvI/eqyNksL+/Il94Z+MORZvDZbmOV0i2WHdr5qhmfM6SWLpJovmrpAPX4pCjr7YhdDhOHSXgc9/y6xIWmloc1OKNBAyBG2Z+Svyopq3dvlXVRxJjCjUT82lvLDntSywDPj1q36bDxi8E2keRnv22ip4zJCni0WVfhteO8rWXvfLYb+l8jpUvmero4kgCne0YLp/RXVpV7cA1/JE8RqzkfZghx8ppbuhE/9fWa+TU7rJqZGDpV0DiWxp8+raPrAV3DsLZgXXOWnmDL30GHviKP9jjnt4lEG6xaAgTb0Hdxib50eZpTsdm4bbiWZIpTgS7pND5XwH5FXsXdUo/ABHTJxnRtU4bMbJKw1XYg89r7weMQsisOePHCLmQByiaKHiVck7rSKYZ4ZYstbDErHAO7DlLIQCMdU1VxSmSlab+NUssHU1Zl7bAVGnmqQECF2Q7TmtcAsHuxbZg==;y7EIKPf6E7sUARXa2/jWtA=="
+secured: "62f6ZOt+LFHPeRK/+ts11+EgkVx98BF/raP17/fMDxWSGGMX1RjF0v4wdcAyVzOLud5Ibdzu/MzayZBjaxXXPP+VvqxUcZZ0VHA1Cuf212QOfKzBdv/lUZA0Ql861mS1vjt1BONsD3v2gf14lDfNIcJgsL3+D+CRoaEeasSBTeqaTq8dArHy3cF+wmHCY5UvKpphYv7cbaPrpZBiUJw1br3134LoAL1Lo43NPsIPCqrBsG3r+xUws2syYs6PXMhGRFvtkXkDjpu0OQWQ0SXkeS5WtpU+hXHM9TzfykDvMQ5naSCxK7uItogujpHEZWMinuXe/lCfwfLEITdFhQIU9w==;gH3vVJfxIrIkQxqA+RzAJQ=="
 ---
 

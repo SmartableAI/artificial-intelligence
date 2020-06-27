@@ -71,20 +71,6 @@ related:
         width: 515
         height: 221
         isCached: true
-  - title: "World’s Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing"
-    excerpt: "ISC Digital—June 22, 2020—NVIDIA and the world’s leading server manufacturers today announced NVIDIA A100-powered systems in a variety of designs and configurations to tackle the most complex challenges in AI,"
-    publishedDateTime: 2020-06-22T07:00:00Z
-    webUrl: "https://apnews.com/7208593b875025f54adbc52c6713c4c0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "PGtpdqd21qiZ4gN/t/aCy3MeT/VfCFCGvPe0pK7DDTZi98gfARxHOUDkBCn9t7yGvKRHN7wohPf5/3lHqD9+Rc7BTfhZD/uiMelRP8p3j8b3tjgfrRnhxxUh7cdi07XXEQJCwjozCaOMU4E7e1ddP5LRRVyD2HL+SnZnFzjlAh3IPjVkovfBA8FDGtPIKXzoK5xVdrUAyYdJ/Hh6+JiZDliCh7SJPKGWONndPeE4oFDbjws+Cnt8kEvctASKBerblkszTaroAZjpL1Bss3p35uxdPOcKkMcjWUrK67PA+mHlPvo9StHQaNzAqed5h2/kMDjtz7zKeDRujzmtXZ2cLN0o2pNtsKQVtT6ESJviJnqDRrP2r8hW0ywJH6gPox8YIpem30kQ0lz0qighsJkKol9IjvnlMN0YQRIGjUEm23G7mx5A0k+4J7TP0gEFjI9yBFNAR830x0G6ggOlv015pzkUpfb/p9A7u23ss6rX+0qk1foH2YTJZU8mIaRPNq1wGhx9e3j4sVY95lUuvLa/rA==;9rniC6qylrczAkG5BbV5Vw=="
 ---

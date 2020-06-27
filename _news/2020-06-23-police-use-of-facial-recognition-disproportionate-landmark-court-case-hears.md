@@ -91,17 +91,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Racist practice of phrenology rears its lumpy head in facial recognition tech"
-    excerpt: "We'd like to think judging people's worth based on the shape of their skull is a practice that's well behind us, but echoes of it can be found in new technologies"
-    publishedDateTime: 2020-06-22T06:27:00Z
-    webUrl: "https://timeslive.co.za/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/sunday-times/lifestyle/2020-06-21-racist-practice-of-phrenology-rears-its-lumpy-head-in-facial-recognition-tech/"
-    type: article
-    provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 36
 
 secured: "xTggVyEg79hZikbfIFbNHnYqkWfLSKGDLRS45yZygnZSZXG+90DfMJ3QwRnP4zzAf3bZmncvbY4RKbFQVIpfD0ziYjW1uoCxL42ekmLHDgOds7dUFnNZ9GoedL+Ly0kCbdjZY3ctAwT5MyAqJI/MaTT8LYDUumIaalS/ywoEF+kM1viJout7MYvNF+Jl28nwtyJ6LC0PQhS1c6ZjBsHrvK5wrYnHA+sarcBfQDjKvB3JNleX9R0ah3bChRy+7FrJUptFKmIh6fTVTDGp4awVsbvRPcc/W5U14h4mtWKjkTki5Qyj6a6qA4qtv6HYjzSULSRK95SWqM3Uzwk6gu/wHNyws65JaSDtrUnpHtdAKl6JdpJus5OQiwdpqCYUiWnBg1Uq52zZYF5cofbnlM4v8rJ96E9wc+4mvpBBINov4+lYHioZ3QBbTEtNbi5PpitMuS8/eK+iY2zmSvSSFkkHz6ih3xHyZcyk+/UdsYbrWIXSo3yjOOZUrgrqTWPDeUjkomFeK0hAjrtft1aJ5MUH2Q==;gbyJ9zxah+QMhAQFzJe7Bg=="
 ---

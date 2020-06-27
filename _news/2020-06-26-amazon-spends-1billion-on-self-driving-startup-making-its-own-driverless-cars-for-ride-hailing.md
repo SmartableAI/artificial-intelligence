@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 577
         isCached: true
+  - title: "Amazon Buys Self-Driving Company Zoox For $1.2B And May Rule The World"
+    excerpt: "Reports have emerged that Amazon.com will purchase self-driving startup Zoox for “more than $1.2B” with exact details of the deal not disclosed."
+    publishedDateTime: 2020-06-26T18:40:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/26/amazon-buys-self-driving-company-zoox-for-12b-and-may-rule-the-world/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/26/amazon-buys-self-driving-company-zoox-for-12b-and-may-rule-the-world/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/26/amazon-buys-self-driving-company-zoox-for-12b-and-may-rule-the-world/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F45239846%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Amazon Is Buying Self-Driving Startup Zoox"
     excerpt: "Amazon (NASDAQ:AMZN) has signed an agreement to buy Zoox, a six-year old start-up seeking to create autonomous driving vehicles from the ground up. Amazon is reportedly paying over $1.2 billion, which is one of its largest acquisitions,"
     publishedDateTime: 2020-06-26T15:53:00Z
@@ -138,6 +154,22 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/p90321870-highres-bmw-vision-inext-ext-1592930565.jpg?crop=1.00xw:0.754xh;0,0&resize=1200:*"
         width: 1200
         height: 603
+        isCached: true
+  - title: "Amazon acquires self-driving start-up Zoox for over $1.2bn"
+    excerpt: "Amazon has acquired self-driving start-up Zoox for more than $1.2bn, marking the ecommerce group’s biggest investment into the autonomous vehicle sector. The deal is set to be announced on Friday, according to two people familiar with the matter."
+    publishedDateTime: 2020-06-26T06:21:00Z
+    webUrl: "https://www.ft.com/content/37ae69d9-f160-48c3-b3c5-736730c110ce"
+    ampWebUrl: "https://amp.ft.com/content/37ae69d9-f160-48c3-b3c5-736730c110ce"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/37ae69d9-f160-48c3-b3c5-736730c110ce"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0340552e-1aa6-4953-8795-a822ba949aee.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
   - title: "Amazon Agrees To Buy Self-Driving Startup Zoox For Over $1bn: Report"
     excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, according to a report in The Information, citing sources, in a move that would"
@@ -353,6 +385,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "ColZOPA86Khx6xHUPpD7rm70gBUxB8qr0BfXaVj3ob5wCUH9iQ07tkr8bfmif2RUP+0kQEFn47L6JpRcRx+YH7gog6C7D04MpQULHnROlwLu5Y5YPfrfNNxvhHgk19yqnFsJDNKooJadiCIcMjNFUGxTIKgsQpXsjpaTjNwnz/swuJkzzSysPImhY7iIbiZu2uAVB22sCGLa9Yzr55DRggvY7krrKsDhwEoQrqpTTt9vkmjQXa3fC75vQ8OLPlsom7klWynfqIQtmA76lutFoOf/ppFuvQ7kN36V6RldAptjqvAZTOMhZi2aDvePppweBCJXy1YHvtDlY8F0Oj5s4A==;nCjud6PBGOuHLZK93fcsbQ=="
+secured: "RCzfcRXFYli3FB/vhnIi7w4EhM9lYf9W5s1eINzCsSoIXyDi6iUjx8LEvGkZFxuLpPynqR4yeRR878DuqQCC5bD7zei2RTkTE2ovwXUjJ7rbvZKMQaaZyFiYUtsA1ORiArkTZ8Tt0UNBBzWF/ieIe8Oq5Akg83gY0CeaOwteZ2aPqW3Uly/3v3/9909fe60KPmvXajs0DPXgSXLk4IM1oUHCQuCDJkXCA5gle8igRCBmrCiQTxGKJVAeoNIuFhJWCbkkNNfxnjGaZawI4mQREeeqyP4lKT4L7HU/PXkzXa3Cb0K58p15YPG9JRQefwjctI2OAbD3gZeAKL6NXHiIAXnnD5zdcwCSTUZS+A7zJxkn/oVVkoeklQ9GdaokL3/j7Ln7bHtEzHX/RZVCf3ugWIpBfBG7gRITfujnkeAuY+u+c9G1XypUbsvCbW3/h3shnHy8HAcoT9YR2fdEXG5lrZCviaHmDvqdHnc2qbqfUPZ30DBic6KMsX6eB2I3L6EuxVje8b2J6x5770Wae0Mssw==;92GgivtQHzgLHIEYNL25Bg=="
 ---
 

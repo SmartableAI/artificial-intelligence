@@ -8,7 +8,7 @@ ampWebUrl: "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counte
 cdnAmpWebUrl: "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition?amp=1"
 type: article
 quality: 76
-heat: 97
+heat: 96
 published: true
 
 provider:

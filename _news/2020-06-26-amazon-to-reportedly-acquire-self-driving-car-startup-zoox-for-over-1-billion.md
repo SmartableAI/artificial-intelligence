@@ -95,6 +95,22 @@ related:
         width: 840
         height: 470
         isCached: true
+  - title: "Amazon gets serious about self-driving cars by dropping more than $1 billion on Zoox"
+    excerpt: "The retail giant acquired self-driving startup Zoox for more than $1 billion, The Information reported Friday. The Financial Times has a similar report, claiming that the actual value of the acquisition is more than $1."
+    publishedDateTime: 2020-06-26T14:53:00Z
+    webUrl: "https://mashable.com/article/amazon-self-driving-car-zoox-acquisition/"
+    ampWebUrl: "https://mashable.com/article/amazon-self-driving-car-zoox-acquisition.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/amazon-self-driving-car-zoox-acquisition.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 67
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F06%252F26%252F5c%252F9fad4dc065ef428a8d5d21cbe1207f3a.1d099.jpg%252F1200x630.jpg?signature=E0eXHEZV8PUCKxRVyk9siSTox0g="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture"
     excerpt: "This time, Musk took aim at Amazon’s $1.2 billion acquisition of Zoox, a venture focusing on self-driving cars that could compete with Tesla, the car company that Musk heads: .@JeffBezos is a copy 🐈 haha https://t.co/plR7uupqBG — Elon Musk (@ ..."
     publishedDateTime: 2020-06-26T19:41:00Z

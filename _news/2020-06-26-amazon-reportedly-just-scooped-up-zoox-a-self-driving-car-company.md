@@ -105,6 +105,22 @@ related:
         width: 840
         height: 470
         isCached: true
+  - title: "Amazon gets serious about self-driving cars by dropping more than $1 billion on Zoox"
+    excerpt: "The retail giant acquired self-driving startup Zoox for more than $1 billion, The Information reported Friday. The Financial Times has a similar report, claiming that the actual value of the acquisition is more than $1."
+    publishedDateTime: 2020-06-26T14:53:00Z
+    webUrl: "https://mashable.com/article/amazon-self-driving-car-zoox-acquisition/"
+    ampWebUrl: "https://mashable.com/article/amazon-self-driving-car-zoox-acquisition.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/amazon-self-driving-car-zoox-acquisition.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 67
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F06%252F26%252F5c%252F9fad4dc065ef428a8d5d21cbe1207f3a.1d099.jpg%252F1200x630.jpg?signature=E0eXHEZV8PUCKxRVyk9siSTox0g="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture"
     excerpt: "This time, Musk took aim at Amazon’s $1.2 billion acquisition of Zoox, a venture focusing on self-driving cars that could compete with Tesla, the car company that Musk heads: .@JeffBezos is a copy 🐈 haha https://t.co/plR7uupqBG — Elon Musk (@ ..."
     publishedDateTime: 2020-06-26T19:41:00Z
@@ -260,6 +276,6 @@ related:
         height: 720
         isCached: true
 
-secured: "OWmvNa/PE1TdLvrWGRFCZOzk2JQwhSC3p3M6Ugp74Z5UxmqMhrhYGYbbsf0S48RSAOUWLegGWgOOvAfdA+MQ679c8ggCDD05dW7mpBkGlWzabFRTiMFDioJPrq6JqSTuDocYBGN/T39nHb4k7B992mgjGktuDniX0/OKehR5QKMhy50Hqs5ItJ4hP8EVFuUdoOrKpb47upvbjXPm1JwtyiI+gwrzP8dViw0n7tTaHYuSS8Lx2P1bZ+VaxuVOI306t2Sn37KUFbClGza3RxOF2GEYeGGGqX6kZOPguwRJqhvFabu6l2Qxqstsb+2pk2K50Vo8n69A8uNHSU0+RP+Y8A==;+8poM/pMIzVdO7Gex59+sw=="
+secured: "aiyvMXgKNcMvztWGsBMRTwcTiNCcnqED1u+hYPLhmQv7gT1S7PHDHQN+fSlxPNZyAvOir4yTQBpAFA90FH4LukOM6uP+aLvg8WBU+bApAXinp/P7JkH/WIh12wloavQygKFCSz93bPWCLyf+9v386Gf0p56fOhqAuxRAUUkj8Eti4OOKwhFv0D5yBvmo6czWnwnNx2u3hgHnFRbC68cB/pLPw8/2Irnp/9zZw++tFkc8+aawQQD+nksdmHYxZ9E7VZOglhI6CwbN0qlOHsVUTn7LEsPDKXUmSVbUHEEbMG6JldorkW37g3ARThSRTxwaTMtiog6+z5aL0njeUag5RpO97wP77FYby6wG6h3loLleh8IiFVuOHSa5O2zeDjOsjuIWJSRPnRFgp9ytBdMakVGTiTuohsCSpDO7UtCHKvriNbcc/Sau/rfo26EjCT4aePrmixaqU5EN6eZPUE08ndVz37JHJu0ri6X/j+2B1YS8VBsBsW52u8jHNBvKix4o10McqE9txgxnc97J6InzaQ==;q2jjpDafymnap9SuFvbLvw=="
 ---
 

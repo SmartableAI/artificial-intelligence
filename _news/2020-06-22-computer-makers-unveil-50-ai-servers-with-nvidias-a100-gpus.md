@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/22/computer-makers-unveil-50-ai-serv
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/22/computer-makers-unveil-50-ai-servers-with-nvidias-a100-gpus/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/nvidia-a100-pcie-gpu-300x225.png"
         width: 300
         height: 225
-        isCached: true
-  - title: "World’s Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing"
-    excerpt: "ISC Digital—June 22, 2020—NVIDIA and the world’s leading server manufacturers today announced NVIDIA A100-powered systems in a variety of designs and configurations to tackle the most complex challenges in AI,"
-    publishedDateTime: 2020-06-22T07:00:00Z
-    webUrl: "https://apnews.com/7208593b875025f54adbc52c6713c4c0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "Z/P09mqHwBvVFCMC+ygDtMRt5Y9THXqfGQbGfDhbVU5flaLWGDaamjldNIEfCzi9o1t+57ZCcmKZfAs6BnyNt4w/IbNqTlesFmFvq8pcZoNo5N92YYcSlkZUjUVZrNdxwSSOlpMmWIlA2Rve1EUos1O6XFFCjgHwJ+SQ/Go6rRe3yxzPobFLgS4ct7uxs1utIpWeuKsl1ezIxC7H4cKcvF2BAaC9EL/n9qDu9rHWecLe5DhOzKboyu9pLTS8zT+Du4Xju3ShVDU8PQBjod/CrSq0jGYxgPtazOTggX7AJNt4pVfXjI0CqMya/bC8REJOCZTDVYdsohb4bOkOMA96uVlL/IGHNJUjyGW1k/mV5wtJP17wTEbaTVHISxCDzldsy+izQ4fisjMJQ/BaRZqkqWMkTqjHev3+uWJ64vIHyHGVZvtFnXlKfVL02AqN9RSsHWWThpK85haLI7wZX49bA+GxZcQmlB2eZNE5trfDqsBvYHW/rIpPhG8beiWjNGzNv1csv+Vp5SuOeP/afFd96Q==;CfjgU5CKnsTtKsUaKziYZQ=="
