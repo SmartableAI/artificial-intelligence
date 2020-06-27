@@ -3,7 +3,7 @@ category: news
 title: "Trump’s freeze on new visas could threaten US dominance in AI"
 excerpt: "Even before president Trump’s executive order on June 22, the US was already bucking global tech immigration trends. Over the past five years, as other countries have opened up their borders to highly skilled technical people,"
 publishedDateTime: 2020-06-27T15:45:00Z
-webUrl: "https://www.technologyreview.com/2020/06/26/1004520/trump-executive-order-h1b-visa-threatens-us-ai/"
+webUrl: "https://www.technologyreview.com/2020/06/26/1004520/trump-executive-order-h1b-visa-threatens-us-ai"
 ampWebUrl: "https://www.technologyreview.com/2020/06/26/1004520/trump-executive-order-h1b-visa-threatens-us-ai/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/06/26/1004520/trump-executive-order-h1b-visa-threatens-us-ai/amp/"
 type: article
@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "Trump’s freeze on new visas could threaten US dominance in AI"
 
-secured: "yQNiVZ0MUK1w27oOjD0S/13I8xUACHp+kEYm/I11Or8vVsRm1pA+IKkdouwpOQRaoEhblYSUSwSDd4B4GKwwYQNqfaVmdHkSiHHMqhlzG9j0TnkESDDA2VFCQrqpBI+XXEwovMdFV1d+2iZA1WUYgOZQ1rfpXcMVxyQy1D7s+ZdXkR9QxoIlzjqsAu2dOFE4+CPX/OQOj1oohHLwxfCjUM9zsi/rR5BGzd87/Y5i19psb4Q3qFiezy/+7lAOJdkCUk+WfWKj/qTBUoIbsoXBPS20anfrQ6Ku2YG2n77neGtR5E0+sSGtsTjiKe/zx2GJL9ZDoYGVeeVDB/sSts9LyQ==;i9nb73wRkdWosn8YSIS0Hg=="
+secured: "GcJoP1Nu+rlUrJfAP75s6pjVH04g5rDWWB4kPsdM1abZuoXtS0E/YnC6r6t5PY0QcQ0s3O/12wwkCGysZz2lPTHfALP/rOmUZPDPqCFFEpLi8zmEAzx6AnCVxOaZEvgZutsX/WiSpc3ernUTYbNU/0WueTi/SUA90CI+3vkNMWSuEyJXBA1QEZtxLSb5vCjMpbgFjEvNsVV+KeI3YfUJXoQEEgW286jbIV9BAhNxuCrNxoWt+rahx2XfNjUXjSIQflz3fgbxBXD1SHkTULFqBXHAPCcvVD5GtnoFbkBwJHbm1AKOkDhERK0ySS693kUyhID6W05ypsRnK42M/QfOIg==;fizXbLE971UVPik1lONGLw=="
 ---
 

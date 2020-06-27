@@ -26,19 +26,6 @@ images:
     isCached: true
     title: "Fujitsu and RIKEN take first place worldwide in TOP500, HPCG, HPL-AI with supercomputer Fugaku"
 
-related:
-  - title: "Fujitsu and RIKEN Take First Place Worldwide in TOP500, HPCG, and HPL-AI with Supercomputer Fugaku"
-    excerpt: "As the information technology platform, Fugaku demonstrates overall high performance to make Society 5.0 a realityNews Facts:- Supercomputer Fugaku jointly developed by RIKEN"
-    publishedDateTime: 2020-06-23T00:51:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/06/a16344829/fujitsu-and-riken-take-first-place-worldwide-in-top500-hpcg-and-hpl-ai-with-supercomputer-fugaku"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16344829"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16344829"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-
 secured: "1q56wCZg7OCKSAfCc/suMowvcVm3lcv0ByRZ0Itj52kuSL1vLePCs7KcxLxiy+vs8x4aXI6EUxHVep6YfTm5ylzcYlhuxx/m7OpbYrZfeRCovIk6h8UaxUq5/3Brspvj21G3LmslJ3Owl9HpdOvjU2Vuy+ESyM6xYVHnP48EzFLNMTI3ApQWhoCTcdEX50x3N/60iZVILd75lAGxMtWz2+spjghmrwgnZz2QOvYlovcgkg2wJFuJlF67Sp3EFYOTtpkmh420JsHU9H8jA3I2VH8j7OJAWQpfBmMz7gxE48qEVMxxKxuyinf7Aw2BgBmfTg3mavZgFBhoZP0Rz+CgWg==;AuS1oPELWBjGS+h25H7ZhA=="
 ---
 

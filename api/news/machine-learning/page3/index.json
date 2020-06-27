@@ -2,6 +2,53 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-05-heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases.md",
+      "title": "Here's how a new machine learning software can beef up cloud-based databases",
+      "excerpt": "A Purdue data team just developed a way for organizations to improve performance and efficiency through cloud-hosted databases.",
+      "webUrl": "https://www.techrepublic.com/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/30/4498c6d2-249e-43f5-9fdb-d73748c5133c/thumbnail/1200x675/525834390ac0b81774241960fcb96d8e/smb-stack4jpg.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Here's how a new machine learning software can beef up cloud-based databases",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
+      "publishedDateTime": "2020-06-05T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-05-covid-19-impact-on-neural-network-software-market.md",
       "title": "COVID-19 Impact on Neural Network Software Market",
       "excerpt": "The Neural Network Software Market is expected to be around US$ 53 Billion by 2025 at a CAGR of 33% in the given forecast period. You will get latest updated report as per the COVID-19 Impact on this industry.",
@@ -1161,54 +1208,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-everything-you-need-to-know-about-neuromorphic-computing.md",
-      "title": "Everything you need to know about neuromorphic computing",
-      "excerpt": "In July, a group of artificial intelligence researchers showcased a self-driving bicycle that could navigate around obstacles, follow a person, and respond to voice commands. While the self-driving bike itself was of little use,",
-      "webUrl": "https://thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-26-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Everything you need to know about neuromorphic computing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/amp/",
-      "publishedDateTime": "2020-05-23T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

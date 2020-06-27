@@ -2,6 +2,52 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-06-01-ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments.md",
+      "title": "AI tools could improve fake news detection by analyzing users’ interactions and comments",
+      "excerpt": "Researchers at Microsoft and Arizona State University propose in a paper a method of detecting fake news using a technique called weak supervision.",
+      "webUrl": "https://venturebeat.com/2020/06/01/ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments/",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/fake_news.shutterstock_559003162-e1582064474697.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI tools could improve fake news detection by analyzing users’ interactions and comments",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/01/ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments/amp/",
+      "publishedDateTime": "2020-06-01T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-the-best-computer-reading-glasses-to-help-reduce-eye-strain.md",
       "title": "The best computer reading glasses to help reduce eye strain",
       "excerpt": "These Truvision Readers may not be prescription, but their anti-reflective coating and blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to go to an eye doctor. If you are already suffering from Presbyopia, these computer reading glasses can also assist with blurred vision caused by too ...",
@@ -1034,52 +1080,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai.md",
-      "title": "OpenAI’s gigantic GPT-3 hints at the limits of language models for AI",
-      "excerpt": "A presentation in April by AI chip company Tenstorrent described future neural networks with over one trillion parameters. For a good part of the machine learning community, bigger and bigger language model is going to remain the state of the art.",
-      "webUrl": "https://www.zdnet.com/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/01/1b57a8c3-e280-4aa8-9487-e8149a3b63ea/gpt-3-versus-the-others-may-2020.png",
-          "width": 2020,
-          "height": 1148,
-          "title": "OpenAI’s gigantic GPT-3 hints at the limits of language models for AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
-      "publishedDateTime": "2020-05-31T20:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

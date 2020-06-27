@@ -2,6 +2,53 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-05-20-five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie.md",
+      "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
+      "excerpt": "What's Microsoft's head of Cloud and AI been up to lately? What is he most excited about at Build 2020 and beyond? I asked and ScottGu (sort of) answered.",
+      "webUrl": "https://www.zdnet.com/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/20/9e85075f-4425-4576-995a-976a4acc1b40/guthriewhereareyou.jpg",
+          "width": 1071,
+          "height": 728,
+          "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
+      "publishedDateTime": "2020-05-20T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-sas-boosts-healthy-bee-populations-through-advanced-analytics-and-machine-learning.md",
       "title": "SAS boosts healthy bee populations through advanced analytics and machine learning",
       "excerpt": "As part of its commitment to using data and analytics to solve the world's most pressing problems, SAS' recent work includes helping to",
@@ -1027,52 +1074,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity.md",
-      "title": "Autism as an advantage in AI jobs: This organization is making an argument for neurodiversity",
-      "excerpt": "For Daivergent, matching tech workers with autism to jobs isn't an act of charity. It was 2018, and Leon Campbell was worried about getting a job. The Hunter College grad, now 25, had a degree in computer science,",
-      "webUrl": "https://www.cnet.com/news/autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/WnHHrp55u-AazHFNi1YkNLOOH1U=/756x567/2020/05/19/2501608e-54cd-4831-992a-af2e0acc7ea5/gettyimages-1219925426.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Autism as an advantage in AI jobs: This organization is making an argument for neurodiversity",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity/",
-      "publishedDateTime": "2020-05-19T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

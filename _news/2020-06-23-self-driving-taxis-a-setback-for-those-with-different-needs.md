@@ -39,17 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Self-driving taxis could be a setback for those with different needs – unless companies embrace accessible design now"
-    excerpt: "But for people who have different mobility needs and rely on human drivers for work beyond the task of driving, the prospect of driverless taxis may not sound like progress. Unless accommodations are built in to autonomous vehicle designs,"
-    publishedDateTime: 2020-06-23T00:11:00Z
-    webUrl: "https://www.houstonchronicle.com/news/article/Self-driving-taxis-could-be-a-setback-for-those-15356651.php"
-    ampWebUrl: "https://www.houstonchronicle.com/news/amp/Self-driving-taxis-could-be-a-setback-for-those-15356651.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/amp/Self-driving-taxis-could-be-a-setback-for-those-15356651.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 1
 
 secured: "/ksUPGQuO+mSPfFUYlwEh+eneXZkOPzHgnoZGy6aeAIRxNxsrYje/2ApjaoNKNG4I6gK+yMx6vn5Anwz4R0e9dB6xmSzdy5gU3tTfhP9ovCl8Y7U4IZ1javIwbg8TaDTZFBe4a1D0BV7LB2lBVMDPaHAcHq2IA/qBldx2TB7BcsKbmg9bq/NrqpQQaDL9A9/6vgN4we0bqg8STlp7A/jbBnWhiKIcRid+IyXuWxk+zMUVegev6DpaE1f3z1VtGDEKWmPGdJX5h161nBgXzyPI0q1wF34/NVfciWAZVGoo94QCQSIBO2Ew6dMY6QWRjjP7qT0zBBdPrxDNDa44IHyBi5Bi2dcGKOdqpr1qBbOJgpdwNAupxwsE8eWzszNWMrM06XdAvBgDo9UeabYmOSHF+O+TiO3eR6mEUzPP+b+yYxjWoyTcD8Q66G5VTrewQvJgfUBwZDuYvK0SGb3Xa3mI5tJMeZYLHegdvWpge/6mINK/ggWntbC68KUcruV64BpEL5XhRLY3tXA/RAQwaeh9A==;ZgA+bS/WKM1ER+wemNiFNw=="
 ---

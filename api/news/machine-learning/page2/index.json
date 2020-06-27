@@ -810,6 +810,53 @@
       ]
     },
     {
+      "path": "_news/2020-06-09-artificial-neural-networks-can-day-dreamheres-what-they-see.md",
+      "title": "Artificial Neural Networks Can Day Dream–Here's What They See",
+      "excerpt": "In a post yesterday on its blog, Google’s artificial neural networks research team explains how they’re building the kind of very advanced computer vision systems that are able to identify ...",
+      "webUrl": "https://gizmodo.com/these-are-the-incredible-day-dreams-of-artificial-neura-1712226908",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/1302697548119371923.png",
+          "width": 800,
+          "height": 539,
+          "title": "Artificial Neural Networks Can Day Dream–Here's What They See",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/these-are-the-incredible-day-dreams-of-artificial-neura-1712226908/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/these-are-the-incredible-day-dreams-of-artificial-neura-1712226908/amp",
+      "publishedDateTime": "2020-06-09T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-google-has-made-it-simple-for-anyone-to-tap-into-its-image-recognition-ai.md",
       "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
       "excerpt": "A lot of image recognition is about identifying patterns ... data to the frequency of specific brands of cars. Hopefully AutoML Vision will energize more projects like these.",
@@ -1216,53 +1263,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases.md",
-      "title": "Here's how a new machine learning software can beef up cloud-based databases",
-      "excerpt": "A Purdue data team just developed a way for organizations to improve performance and efficiency through cloud-hosted databases.",
-      "webUrl": "https://www.techrepublic.com/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/30/4498c6d2-249e-43f5-9fdb-d73748c5133c/thumbnail/1200x675/525834390ac0b81774241960fcb96d8e/smb-stack4jpg.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Here's how a new machine learning software can beef up cloud-based databases",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
-      "publishedDateTime": "2020-06-05T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

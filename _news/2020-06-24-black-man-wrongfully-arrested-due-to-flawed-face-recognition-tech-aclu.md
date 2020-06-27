@@ -344,17 +344,6 @@ related:
         width: 1661
         height: 1107
         isCached: true
-  - title: "Democratic lawmakers propose nationwide facial recognition ban"
-    excerpt: "Democratic lawmakers proposed a sweeping nationwide ban on facial recognition software Thursday, with a bill that seeks tough new limits on the technology at all levels of government."
-    publishedDateTime: 2020-06-25T17:30:00Z
-    webUrl: "https://www.cnn.com/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 69
   - title: "U.S. Activists Decry First Known Wrongful Arrest Blamed on Face Recognition"
     excerpt: "An incorrect facial recognition match led to the first known wrongful arrest in the United States based on the increasingly used technology, civil liberties activists alleged in a complaint to Detroit police on Wednesday."
     publishedDateTime: 2020-06-25T00:04:00Z
@@ -546,20 +535,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557041001/ce5d9fea-4e51-4168-b818-24fa45901fae/d71cce00-769d-4922-9959-f62b4967f9a8/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "NYCLU sues over Lockport schools' facial recognition system"
-    excerpt: "The controversial facial recognition security system in Lockport schools was illegally approved by the state Education Department, a lawsuit"
-    publishedDateTime: 2020-06-22T23:08:00Z
-    webUrl: "https://buffalonews.com/2020/06/22/draft-nyclu-sues-to-revoke-state-approval-of-lockport-schools-facial-recognition-system/"
-    type: article
-    provider:
-      name: Buffalo News
-      domain: buffalonews.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/bncore/wp-content/uploads/2018/06/Anna-Merritt-Entrance-e1561665444738.jpg"
-        width: 2000
-        height: 1500
         isCached: true
   - title: "Facial Recognition Led Detroit PD To Arrest Innocent Black Man"
     excerpt: "Robert Williams was arrested Jan. 9 because facial recognition technology fails to distinguish between people are color, the ACLU said."

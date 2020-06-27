@@ -2,6 +2,52 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-05-20-waymo-is-using-ai-to-simulate-autonomous-vehicle-camera-data.md",
+      "title": "Waymo is using AI to simulate autonomous vehicle camera data",
+      "excerpt": "Waymo's new machine learning model -- SurfelGAN -- simulates autonomous vehicle camera data highly realistically.",
+      "webUrl": "https://venturebeat.com/2020/05/20/waymo-is-using-ai-to-simulate-autonomous-vehicle-camera-data/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/waymo-one-dome-e1585787576926.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Waymo is using AI to simulate autonomous vehicle camera data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/20/waymo-is-using-ai-to-simulate-autonomous-vehicle-camera-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/20/waymo-is-using-ai-to-simulate-autonomous-vehicle-camera-data/amp/",
+      "publishedDateTime": "2020-05-20T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-scientists-claim-they-can-teach-ai-to-judge-right-from-wrong.md",
       "title": "Scientists claim they can teach AI to judge ‘right’ from ‘wrong’",
       "excerpt": "Scientists claim they can \"teach\" an AI moral reasoning by training it to extract ideas of right and wrong from texts",
@@ -1261,44 +1307,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-robots-deployed-to-help-bahrains-frontline-workers-in-virus-fight.md",
-      "title": "Robots deployed to help Bahrain's frontline workers in virus fight",
-      "excerpt": "One of the robots also speaks 12 different languages and can identify patients through facial recognition. Health Ministry Under-Secretary Dr Waleed Al Manea said yesterday that this was their first time foraying into Artificial Intelligence (AI) and using it to fight the pandemic. “We have started using the robots in the isolation and ...",
-      "webUrl": "https://www.zawya.com/mena/en/business/story/Robots_deployed_to_help_Bahrains_frontline_workers_in_virus_fight-SNG_174983408/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Robots deployed to help Bahrain's frontline workers in virus fight",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_174983408/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_174983408/",
-      "publishedDateTime": "2020-05-20T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

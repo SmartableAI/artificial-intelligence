@@ -2,6 +2,53 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-06-03-realnetworks-expands-facial-recognition-tech-to-id-celebrities-in-videos-and-its-actually-pretty-useful.md",
+      "title": "RealNetworks expands facial recognition tech to ID celebrities in videos — and it’s actually pretty useful",
+      "excerpt": "RealNetworks is releasing a browser extension that automatically identifies celebrities and other public figures in YouTube and Netflix videos, using the same facial recognition technology that",
+      "webUrl": "https://www.geekwire.com/2020/realnetworks-browser-extension-uses-facial-recognition-id-celebrities-videos-actually-pretty-useful/",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/StarSearch_SGN-Prom_indexed-video-630x355.png",
+          "width": 630,
+          "height": 355,
+          "title": "RealNetworks expands facial recognition tech to ID celebrities in videos — and it’s actually pretty useful",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/realnetworks-browser-extension-uses-facial-recognition-id-celebrities-videos-actually-pretty-useful/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/realnetworks-browser-extension-uses-facial-recognition-id-celebrities-videos-actually-pretty-useful/amp/",
+      "publishedDateTime": "2020-06-03T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-america-is-awash-in-cameras-a-double-edged-sword-for-protesters-and-police.md",
       "title": "America is awash in cameras, a double-edged sword for protesters and police",
       "excerpt": "Law enforcement agencies have existing networks of surveillance cameras and body cameras worn by officers, as well as face- and object-recognition software. Large retail and food chains have ...",
@@ -1268,52 +1315,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai.md",
-      "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
-      "excerpt": "Volkswagen AG has closed on its $2.6 billion investment in Argo AI, the Pittsburgh-based autonomous vehicle startup announced in a blog post Tuesday.",
-      "webUrl": "https://www.cnbc.com/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106016157-1562936612118img_2062.jpg?v=1562936715",
-          "width": 3758,
-          "height": 2504,
-          "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html",
-      "publishedDateTime": "2020-06-02T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
