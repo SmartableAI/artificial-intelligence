@@ -1,6 +1,6 @@
 ---
 name: "Javier M. Duarte"
-bio: "Lederman Fellow, Fermilab"
+bio: "particle physics assistant prof at @UCSanDiego on the @CMSExperiment"
 location: San Diego, CA
 type: "profile"
 heat: 58
@@ -15,7 +15,7 @@ website: https://t.co/Z06UY9gVRv
 twitter:
   username: jmgduarte
   url: https://twitter.com/jmgduarte
-  followers: 159
+  followers: 161
 
 googleScholar:
   url: https://scholar.google.com/citations?user=GTtW9H0AAAAJ
