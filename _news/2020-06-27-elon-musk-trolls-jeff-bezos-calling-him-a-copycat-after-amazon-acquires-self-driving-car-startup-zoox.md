@@ -1,30 +1,34 @@
 ---
 category: news
-title: "Amazon gets serious about self-driving cars by dropping more than $1 billion on Zoox"
-excerpt: "The retail giant acquired self-driving startup Zoox for more than $1 billion, The Information reported Friday. The Financial Times has a similar report, claiming that the actual value of the acquisition is more than $1."
-publishedDateTime: 2020-06-26T14:53:00Z
-webUrl: "https://mashable.com/article/amazon-self-driving-car-zoox-acquisition/"
-ampWebUrl: "https://mashable.com/article/amazon-self-driving-car-zoox-acquisition.amp"
-cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/amazon-self-driving-car-zoox-acquisition.amp"
+title: "Elon Musk trolls Jeff Bezos, calling him a copycat after Amazon acquires self-driving-car startup Zoox"
+excerpt: "The Tesla CEO tweeted a cat emoji at Bezos on Friday after Amazon took another step into the autonomous-driving world."
+publishedDateTime: 2020-06-27T03:08:00Z
+webUrl: "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6"
+ampWebUrl: "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp"
 type: article
-quality: 67
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mondrian.mashable.com/2020%252F06%252F26%252F5c%252F9fad4dc065ef428a8d5d21cbe1207f3a.1d099.jpg%252F1200x630.jpg?signature=E0eXHEZV8PUCKxRVyk9siSTox0g="
+  - url: "https://i.insider.com/5dc17beb7eece50907358663?width=1200&format=jpeg"
     width: 1200
-    height: 630
+    height: 600
     isCached: true
-    title: "Amazon gets serious about self-driving cars by dropping more than $1 billion on Zoox"
+    title: "Elon Musk trolls Jeff Bezos, calling him a copycat after Amazon acquires self-driving-car startup Zoox"
 
 related:
   - title: "Amazon buys self-driving technology company Zoox"
@@ -107,6 +111,22 @@ related:
         width: 840
         height: 470
         isCached: true
+  - title: "Amazon gets serious about self-driving cars by dropping more than $1 billion on Zoox"
+    excerpt: "The retail giant acquired self-driving startup Zoox for more than $1 billion, The Information reported Friday. The Financial Times has a similar report, claiming that the actual value of the acquisition is more than $1."
+    publishedDateTime: 2020-06-26T14:53:00Z
+    webUrl: "https://mashable.com/article/amazon-self-driving-car-zoox-acquisition/"
+    ampWebUrl: "https://mashable.com/article/amazon-self-driving-car-zoox-acquisition.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/amazon-self-driving-car-zoox-acquisition.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 67
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F06%252F26%252F5c%252F9fad4dc065ef428a8d5d21cbe1207f3a.1d099.jpg%252F1200x630.jpg?signature=E0eXHEZV8PUCKxRVyk9siSTox0g="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture"
     excerpt: "This time, Musk took aim at Amazon’s $1.2 billion acquisition of Zoox, a venture focusing on self-driving cars that could compete with Tesla, the car company that Musk heads: .@JeffBezos is a copy 🐈 haha https://t.co/plR7uupqBG — Elon Musk (@ ..."
     publishedDateTime: 2020-06-26T19:41:00Z
@@ -126,22 +146,6 @@ related:
   - title: "Elon Musk trolls Jeff Bezos calling him a copy cat after Amazon acquires self-driving-car startup Zoox"
     excerpt: "The Tesla CEO tweeted a cat emoji at Bezos on Friday after Amazon took another step into the autonomous-driving world."
     publishedDateTime: 2020-06-26T19:57:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/5dc17beb7eece50907358663?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Elon Musk trolls Jeff Bezos, calling him a copycat after Amazon acquires self-driving-car startup Zoox"
-    excerpt: "The Tesla CEO tweeted a cat emoji at Bezos on Friday after Amazon took another step into the autonomous-driving world."
-    publishedDateTime: 2020-06-27T03:08:00Z
     webUrl: "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6"
     ampWebUrl: "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp"
@@ -292,6 +296,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Y+KyIE6MAVCT5gpo4gzEg9du+f9xDKT4Q43VJj88Y4Ywcu0qWe+6PYLx7pBTzpH2dZwAY3FKMwMiFv/VjcHG9vmxeXqyzj+l5KjoKTUuVCONtP6ydIXKlUC/njOZRrKTsIimwIZd9O0ZfBDro4Poft+GxeqjNvRtH+Zipl7yFQ31uozXNfjoPC+8aE1uzhguK7iEmquq9nU4BYqyeF1XEjgWYmo9yiRfLnLTnMYSjrLKbRsy3zYMXTWPOT20pQJpZM1VFpxDetTonOEg1cOCY6yQ7cYRsKmi349aHC+iCGzV6fw3KCSl/DIzLpCyNqrLDqo/vq7CbI6Q1vBcikIzMWc3e7QqM6qgcnt9FntjRIo2k82Da4TpyyywTtl2EPiWAJYCwHT19L91S8mx1nsU9nts0nGyRroML8ihdrTs9/4A9v1686zm9F1ZzLQhXTaM0p0plK86ZlYLR1q81vzbtCZClbCSA98KJrVldsTIL4udEi200GFDPTNOgDnX+/FA+etmbxaKMPfzZQH0jqnXjw==;MQsznPXEZurmmLKB6FxPZg=="
+secured: "CxegHx/0Bi/ElXtNx78hgoPVkDRg5FjeFpF4ef7Rhbf2efMZ4Ptv720l/NzclDZxAkPSUgi7kVFiZAkHxeAo4pAL2Uz3zkSjmeBnNX/MTmmyCX3AdhYaOQGY6wh1pL1ojjNJFVvzMlekqOlm3/EWxd3YvGuq61x8bgM0q3Uh/9tugzXLQpDPg8sbbiSC8shKmSkF90R1SGl5MQntxaJXVTQI3XmA0V4FW15+RnZ8HilTvzI3DbEFuOwRM5ceb1u//oKsV8JZ93d/Axime6z31fmRrDT2DaMc7OHxtY4IaXrPUTfz5m9SY1STGLUwNTFlr4XjoKgzHDLI3oZwiFIqQA==;Yui3fwTjQCUoXatgyspoFg=="
 ---
 

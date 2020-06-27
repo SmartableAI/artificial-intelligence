@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/visa-unveils-ai-tool
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/visa-unveils-ai-tool-to-help-stop-digital-identity-fraud/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     title: "Visa unveils AI tool to help stop digital identity fraud"
 
 related:
-  - title: "Visa Introduces Advanced Identity Score to Help Financial Institutions Prevent New Account Fraud"
-    excerpt: "Visa Inc. (NYSE: V) today announced a digital tool to help U.S. financial institutions with their efforts to combat new account fraud – estimated at"
-    publishedDateTime: 2020-06-22T11:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/visa-introduces-advanced-identity-score-to-help-financial-institutions-prevent-new-account-fraud-2020-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Visa Unveils Advanced Identity Score to Help Financial Institutions Prevent New Account Fraud"
     excerpt: "Visa Inc. (NYSE: V) announced on Monday it has launched a digital tool, Advanced Identity Score, to help U.S. financial institutions with their efforts to combat new account fraud. According to Visa,"
     publishedDateTime: 2020-06-22T19:31:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-22T17:26:00Z
 webUrl: "https://www.diagnosticimaging.com/x-ray/ge-healthcare-ai-suite-pinpoints-chest-x-ray-abnormalities"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Diagnostic Imaging
@@ -25,20 +25,6 @@ images:
     title: "GE Healthcare AI Suite Pinpoints Chest X-ray Abnormalities"
 
 related:
-  - title: "GE Healthcare launches new AI Suite to detect chest X-ray abnormalities, including pneumonia caused by COVID-19 & tuberculosis"
-    excerpt: "Thoracic Care Suite harnesses the power of AI to scan for eight chest x-ray abnormalities, including pneumonia indicative of COVID-19 – a key cause of mortality in patients who"
-    publishedDateTime: 2020-06-22T10:41:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/GE_Healthcare_launches_new_AI_Suite_to_detect_chest_Xray_abnormalities_including_pneumonia_caused_by_COVID19__tuberculosis-ZAWYA20200622101839/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 9
-    images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
-        isCached: true
   - title: "GE Healthcare Launches New AI Suite to Detect Chest X-ray Abnormalities, Including Pneumonia Caused by COVID-19 & Tuberculosis"
     excerpt: "GE Healthcare ( continues to provide tools to support clinicians in today’s COVID-19 environment; Thoracic Care Suite harnesses the power of AI to scan for eight chest x-ray abnormalities, including pneumonia indicative of COVID-19 – a key cause of mortality in patients who contract coronavirus [1];"
     publishedDateTime: 2020-06-23T17:42:00Z

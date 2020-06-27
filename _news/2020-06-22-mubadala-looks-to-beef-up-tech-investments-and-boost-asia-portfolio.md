@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.thenational.ae/business/economy/mubadala-looks-to-beef-u
 cdnAmpWebUrl: "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/business/economy/mubadala-looks-to-beef-up-tech-investments-and-boost-asia-portfolio-1.1037473"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     title: "Mubadala looks to beef up tech investments and boost Asia portfolio"
 
 related:
-  - title: "Mubadala to Double Down on Tech After $1.2 Billion Jio Stake"
-    excerpt: "Mubadala Investment Co. is preparing to double down on its exposure to the technology sector, setting its sights on Asia, after the Abu Dhabi fund took a $1.2 billion stake in India’s Jio Platforms."
-    publishedDateTime: 2020-06-22T10:17:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
   - title: "Mubadala to double down on tech after $1.2bn Jio stake"
     excerpt: "Mubadala Investment Co. is preparing to double down on its exposure to the technology sector, setting its sights on Asia, after the Abu Dhabi fund took a $1.2bn stake in India’s Jio Platforms. Technology,"
     publishedDateTime: 2020-06-23T04:40:00Z

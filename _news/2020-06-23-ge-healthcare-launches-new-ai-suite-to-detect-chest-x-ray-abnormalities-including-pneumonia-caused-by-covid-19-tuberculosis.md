@@ -32,20 +32,6 @@ related:
         width: 348
         height: 340
         isCached: true
-  - title: "GE Healthcare launches new AI Suite to detect chest X-ray abnormalities, including pneumonia caused by COVID-19 & tuberculosis"
-    excerpt: "Thoracic Care Suite harnesses the power of AI to scan for eight chest x-ray abnormalities, including pneumonia indicative of COVID-19 – a key cause of mortality in patients who"
-    publishedDateTime: 2020-06-22T10:41:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/GE_Healthcare_launches_new_AI_Suite_to_detect_chest_Xray_abnormalities_including_pneumonia_caused_by_COVID19__tuberculosis-ZAWYA20200622101839/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 9
-    images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
-        isCached: true
 
 secured: "Pcw0At2xBeQpx1ytwTIe1WlKt1pBv+v11reBX3XEkABroS4fm9PGKDq1UZlS4g08lvEDlavvDJi+JFPsN7OBnHtc9AzuS94Ng4MU+l52tSF8jy5HpdB+Cm51SSLYDqSxLTgoDTfgz+9TaBCD7i34K/DeKUi7SrajqyEjaggRrmwZP2sTFP+FKHfbWMTZ80nnRjjGyYAv2g+VykHZCXunKsA48/MxPwb5jH7eOuCJIBZsCJLXo7/E/0NRNOA2+301lf3zYCRmx3xy5gAGURDXOXQBwmv3cSt7BDWnRQI+Gk94O/AuTfNji/+axCC+7OFIt/kZa1QEapWY4YU6CfVe5w==;uoPOKSyL9LJl31VburtuWA=="
 ---

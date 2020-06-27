@@ -24,22 +24,6 @@ images:
     isCached: true
     title: "AI and Machine Learning Are Changing Everything. Here’s How You Can Get In On The Fun"
 
-related:
-  - title: "Deep learning in genomics – are we there yet?"
-    excerpt: "The influence of machine learning has developed the success of bioinformatics. However, current advances in the “-omics” space post new challenges for the machine learning (ML) community. Deep learning (DL) is considered a more efficient and effective way to deal with big data,"
-    publishedDateTime: 2020-06-22T10:44:00Z
-    webUrl: "https://frontlinegenomics.com/deep-learning-in-genomics-are-we-there-yet/"
-    type: article
-    provider:
-      name: Front Line Genomics
-      domain: frontlinegenomics.com
-    quality: 39
-    images:
-      - url: "https://frontlinegenomics.com/wp-content/uploads/2020/06/1055-scaled.jpg"
-        width: 2560
-        height: 2560
-        isCached: true
-
 secured: "WrohCYTk7AB3X0dzQRmG/fmEqo71bMgQfrJU2f1qM/Lkqg25vxz+11/tCeD3AchPfaanPoUN3u9t3uGDI12DLtUe+1YYjd7/09sbDeMB1MnJUUHmguR4IJWBUt0yHvQ3q25YHPSwx715+RgHA7hYt+6OpwqZJ78lMMge+w3YzVM6t0BbNMh87bNRL78XMCrrGvZyLyVQudNVclI1+Knn3+NNc/UQdW5CVy52EgRIyQJiS4a+tPvdzTV9s8DvhDK9Xv5XLbHTVd7ZzHQQIVrz7o9dHrq2gjULO/b9/uotsahBozr1pCWZldAt9cB129Pl7n+7ZQjhd4EF1kdqyFnk6kpA/bLlxSLZvENQg7PwkMIj++DORRSX+wQkfUG3mqLT7RLOnHoHsbqi+031ZZrgwv4bdizmqNO778G6kWgBUlEWj8IJwl0iJCiUItowLndZVEP6/lVhf7EoXiudZm8cYfgLT6jf0RvjKvidaYO1bBY0tfjKUPBtuGfDvfPPVjZi7BIoI+x6/xTH+WuiS+nLWg==;kyXwh0kE1WdBf8Li3F+tPw=="
 ---
 

@@ -174,44 +174,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-22-ge-healthcare-ai-suite-pinpoints-chest-x-ray-abnormalities.md",
-      "title": "GE Healthcare AI Suite Pinpoints Chest X-ray Abnormalities",
-      "excerpt": "This eight-algorithm AI suite is designed to quickly analyze chest X-ray findings and flags any abnormalities, such as pneumonia, for further radiologist review. The suite can also pinpoint tuberculosis,",
-      "webUrl": "https://www.diagnosticimaging.com/x-ray/ge-healthcare-ai-suite-pinpoints-chest-x-ray-abnormalities",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.diagnosticimaging.com/sites/default/files/chest-x-ray_ST_Puwadol-Jaturawutthichal_0.jpg",
-          "width": 348,
-          "height": 340,
-          "title": "GE Healthcare AI Suite Pinpoints Chest X-ray Abnormalities",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diagnostic Imaging",
-        "domain": "diagnosticimaging.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-22-10-wonderful-examples-of-using-artificial-intelligence-ai-for-good.md",
       "title": "10 Wonderful Examples Of Using Artificial Intelligence (AI) For Good",
       "excerpt": "There are many ways artificial intelligence can be used for good and to help solve some of the world’s biggest problems. Many researchers and organizations are prioritizing projects where artificial intelligence can be used for good.",
@@ -1281,6 +1243,35 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-06-black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19.md",
+      "title": "Black-Owned Laboratory Uses Artificial Intelligence-Based Drug Discovery Platform to Develop Treatment for COVID-19",
+      "excerpt": "We anticipate the clinical trials could start within 90 days. The clinical trial itself could take a month. We feel quite optimistic that in the 120-day window, when our clinical material would be ready,",
+      "webUrl": "https://blackpressusa.com/black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://blackpressusa.com/black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19/?amp",
+      "cdnAmpWebUrl": "https://blackpressusa-com.cdn.ampproject.org/c/s/blackpressusa.com/black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19/?amp",
+      "publishedDateTime": "2020-06-06T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jury",
+        "domain": "blackpressusa.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

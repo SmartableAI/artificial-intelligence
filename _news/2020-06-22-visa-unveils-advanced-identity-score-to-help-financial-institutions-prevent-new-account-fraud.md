@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Visa Introduces Advanced Identity Score to Help Financial Institutions Prevent New Account Fraud"
-    excerpt: "Visa Inc. (NYSE: V) today announced a digital tool to help U.S. financial institutions with their efforts to combat new account fraud – estimated at"
-    publishedDateTime: 2020-06-22T11:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/visa-introduces-advanced-identity-score-to-help-financial-institutions-prevent-new-account-fraud-2020-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "DrgXfCkT7+fehj2exz8MOr2bBiFLRpFU0jpriM5yg1DgiwQT5mBxitSNuYIWm1j79OUz3WeaX2QqE5dQmco653BkcDT1t0iK2xyetV141OrC/Nlb3V9/m4aU2wxUz11epJZazb6lZxChkgZhklJN6AW7ThD6j2YoP4bdqHjuxYlSiS+ts4ueI1t2sU1qkJ1CW0WBCPplR6LiRW9AImFrrKoOiWaP7vXOY5xzxMIfVzMvFTDpeiWbSN8/rT9x18zh1YZkcqMCjhkBNllL9uTwt9mG993MM3RnuXzH9LbRWoPUIQ1SDca4QEw8IVeMWsap03FAFDrurP5r/p74YxvBUvvDsfNT4yJk4DtxWwaVusyiDfpTVb+FXPY2Vb9JkNcj8KlnoTms7Oe8Kzr5TDxL9RwS+Uv+j/Wv7883F1nrf3w80LO9Hiww2Xnsc2h/RI3+TLWqM/oeN/flrA7nZKsB87iplPqusIZCGPhRCeYU+if+px8nVZH5i3P/tF95arBWPjvLw2Xs+b+5fvscBZBNkA==;3Gjc4V9uI5+tmx8d9wYF8w=="
 ---
