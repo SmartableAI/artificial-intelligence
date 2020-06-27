@@ -2,6 +2,44 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-05-20-the-robots-are-taking-our-jobs-threat-gets-real.md",
+      "title": "The Robots-Are-Taking-Our-Jobs Threat Gets Real",
+      "excerpt": "The coronavirus is hastening the need for a labor force that doesn’t get sick or locked down.",
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-05-20/robot-makers-like-japan-s-fanuc-will-get-a-post-coronavirus-boom",
+      "publishedDateTime": "2020-05-20T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-facial-recognition-tech-reunites-missing-child-parents-after-32-years-in-china.md",
       "title": "Facial recognition tech reunites missing child, parents after 32 years in China",
       "excerpt": "Investigators used facial recognition technology to analyze an old photo of Mao as a boy and came up with a simulated image of him as an adult.",
@@ -1043,43 +1081,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-google-says-it-wont-build-ai-tools-for-oil-and-gas-drillers.md",
-      "title": "Google says it won't build AI tools for oil and gas drillers",
-      "excerpt": "Google's announcement followed a report that documents how three tech giants are using AI to help oil companies find and access oil and gas deposits.",
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/google-says-it-won-t-build-ai-tools-oil-gas-n1211076",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_21/3357371/200520-oil-ai-google-al-0752_6a6bf87340ba869d23f0d6a33a87699d.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": "Google says it won't build AI tools for oil and gas drillers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1211076",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1211076",
-      "publishedDateTime": "2020-05-20T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

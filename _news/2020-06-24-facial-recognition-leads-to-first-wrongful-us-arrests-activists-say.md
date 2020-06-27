@@ -91,22 +91,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Big Tech juggles ethical pledges on facial recognition with corporate interests"
-    excerpt: "The careful wording of public pledges leaves plenty of room for oppressive uses of the technology, critics say."
-    publishedDateTime: 2020-06-22T20:13:00Z
-    webUrl: "https://www.nbcnews.com/tech/security/big-tech-juggles-ethical-pledges-facial-recognition-corporate-interests-n1231778"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1231778"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231778"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2019_23/2857426/190514-facial-recognition-ces-ew-624p_9901ee6159e029067bc24200074b6e00.fit-560w.jpg"
-        width: 560
-        height: 373
-        isCached: true
   - title: "Detroit police admit to first facial recognition mistake after false arrest"
     excerpt: "Police in Detroit have admitted that they mistakenly arrested a Black man because of facial recognition software they were using."
     publishedDateTime: 2020-06-25T12:44:00Z

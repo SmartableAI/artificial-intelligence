@@ -145,7 +145,7 @@
       "title": "Developing NER models with Amazon SageMaker Ground Truth and Amazon Comprehend",
       "excerpt": "Named entity recognition (NER) involves sifting through text data to locate noun phrases called named entities and categorizing each with a label, such as person, organization, or brand. For example, in the statement “I recently subscribed to Amazon Prime,” Amazon Prime is the named entity and can be",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/developing-ner-models-with-amazon-sagemaker-ground-truth-and-amazon-comprehend/",
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -799,7 +799,7 @@
       "title": "Smart Artificial Intelligence Needs An Open (Source) Classroom",
       "excerpt": "Could the same 'human classroom' type need for interconnected cross-fertilization also help computers to ‘learn’ as they build their data-powered Artificial Intelligence (AI) knowledge bases and software-driven analytics engines?",
       "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/06/26/smart-artificial-intelligence-needs-an-open-source-classroom/",
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -837,7 +837,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1153,7 +1154,7 @@
       "title": "Members of Congress push to ban federal use of face recognition",
       "excerpt": "A group of Democratic Senators and House representatives have introduced a bill that seeks to ban federal use of facial recognition technology. It follows an incident in which Detroit police wrongfully arrested a man after a facial recognition system incorrectly flagged him as a suspect.",
       "webUrl": "https://www.engadget.com/facial-recognition-ban-bill-democrats-182006734.html",
-      "heat": 232,
+      "heat": 222,
       "tags": null,
       "images": [
         {

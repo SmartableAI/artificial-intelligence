@@ -1,30 +1,30 @@
 ---
 category: news
-title: "Mercedes-Benz, NVIDIA join forces for in-vehicle & AI computing system for 2024 models"
-excerpt: "Benz cars will be powered by NVIDIA's DRIVE platform. The computer system-on-chip (SoC), called Orin, is based on the recently announced NVIDIA Ampere supercomputing architecture."
-publishedDateTime: 2020-06-25T13:07:00Z
-webUrl: "https://www.financialexpress.com/auto/car-news/mercedes-benz-nvidia-join-forces-for-in-vehicle-ai-computing-system-for-2024-models/2003850/"
-ampWebUrl: "https://www.financialexpress.com/auto/car-news/mercedes-benz-nvidia-join-forces-for-in-vehicle-ai-computing-system-for-2024-models/2003850/lite/"
-cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/car-news/mercedes-benz-nvidia-join-forces-for-in-vehicle-ai-computing-system-for-2024-models/2003850/lite/"
+title: "Amazon reportedly paying $1.2B for self-driving startup Zoox. Will it deliver for online e-tailing giant?"
+excerpt: "Amazon is paying over $1.2 billion for the six-year-old autonomous driving tech company, according to the Financial Times."
+publishedDateTime: 2020-06-27T12:04:00Z
+webUrl: "https://www.usatoday.com/story/money/2020/06/27/amazon-is-buying-self-driving-startup-zoox/112021444/"
+ampWebUrl: "https://amp.usatoday.com/amp/112021444"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/112021444"
 type: article
-quality: 51
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: The Financial Express
-  domain: financialexpress.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
-  - AI Hardware
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://images.financialexpress.com/2020/06/mercedes-benz-nvidia.jpg"
-    width: 660
-    height: 440
+  - url: "https://www.gannett-cdn.com/-mm-/3e1d8fb5ab6a22d87e18f1e51138466c6e2ab31b/c=0-8-2295-1299/local/-/media/2020/06/26/USATODAY/usatsports/MotleyFool-TMOT-8e34a620-autonomousdriving.jpg?auto=webp&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
-    title: "Mercedes-Benz, NVIDIA join forces for in-vehicle & AI computing system for 2024 models"
+    title: "Amazon reportedly paying $1.2B for self-driving startup Zoox. Will it deliver for online e-tailing giant?"
 
 related:
   - title: "Mercedes cars will be powered by NVIDIA AI for self-driving starting 2024"
@@ -219,6 +219,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Mercedes-Benz, NVIDIA join forces for in-vehicle & AI computing system for 2024 models"
+    excerpt: "Benz cars will be powered by NVIDIA's DRIVE platform. The computer system-on-chip (SoC), called Orin, is based on the recently announced NVIDIA Ampere supercomputing architecture."
+    publishedDateTime: 2020-06-25T13:07:00Z
+    webUrl: "https://www.financialexpress.com/auto/car-news/mercedes-benz-nvidia-join-forces-for-in-vehicle-ai-computing-system-for-2024-models/2003850/"
+    ampWebUrl: "https://www.financialexpress.com/auto/car-news/mercedes-benz-nvidia-join-forces-for-in-vehicle-ai-computing-system-for-2024-models/2003850/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/car-news/mercedes-benz-nvidia-join-forces-for-in-vehicle-ai-computing-system-for-2024-models/2003850/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 51
+    images:
+      - url: "https://images.financialexpress.com/2020/06/mercedes-benz-nvidia.jpg"
+        width: 660
+        height: 440
+        isCached: true
   - title: "Amazon acquires self-driving start-up Zoox for over $1.2bn"
     excerpt: "Amazon has acquired self-driving start-up Zoox for more than $1.2bn, marking the ecommerce group’s biggest investment into the autonomous vehicle sector. The deal is set to be announced on Friday, according to two people familiar with the matter."
     publishedDateTime: 2020-06-26T06:21:00Z
@@ -248,22 +264,6 @@ related:
     quality: 44
     images:
       - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/amazon_505_220520034228_260620010820.jpg?size=1200:675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Amazon reportedly paying $1.2B for self-driving startup Zoox. Will it deliver for online e-tailing giant?"
-    excerpt: "Amazon is paying over $1.2 billion for the six-year-old autonomous driving tech company, according to the Financial Times."
-    publishedDateTime: 2020-06-27T12:04:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/06/27/amazon-is-buying-self-driving-startup-zoox/112021444/"
-    ampWebUrl: "https://amp.usatoday.com/amp/112021444"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/112021444"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 42
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/3e1d8fb5ab6a22d87e18f1e51138466c6e2ab31b/c=0-8-2295-1299/local/-/media/2020/06/26/USATODAY/usatsports/MotleyFool-TMOT-8e34a620-autonomousdriving.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -428,6 +428,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "YSJHWXQWEQh3KUujRVwrYyHSjjIiYJbe2tY4dT7CnotB8IFECwoWsmYOvncyaGlAa1uYe+rLIrbmAeyR6CgHQcHlbcOE5kn+xIMaA9XnpQ3dEF4xOipWWLpXZSgK7U6srmf4iEntVA9wSLPbTrZIsgTlWRvldRAswntMLV9V2ZjkiUbb73RQ+EWGU5KJLDc3MFwCzp04P3f3fRKggC9W3vei8pWluiqU/o7FzDENKzaIQgj8iLDlwCYKkaCxiMJtkMZy/gyRP7Wrx8OVu/nN3Kai87cojaJtsVw32ZA6Zvs8V0zQkzka6VKbJ/7vSkZhS9Na0TH4UPwU+EgYXr+LoA==;kxbX7qu1HppRzA4h5rPDtA=="
+secured: "9tOLJCfKIrvfs/2BSxiElbGx7+7v3CMHxOUWvCIG7bhVdpclwKgUocJ1wYxCHPqOLjz/nvheH1VQLrIrVYoRt9Q/PK8BMo/A4bxTWXweQkGHkfhpocRivha03QcpgzEfd83UTZfJF5sZhPLOGEoxnhouXeMsUnNjm3b+Ib3JS+Zm8eYQ9LODcbnO142EVhfTOaKgeK66LLHTtq6aT1AEuLwLYFU7Ejrj1cumdFxHkwEswUvw89f00CEsz5Xgfp3p5UMH/nxDYALuGDLFEcLfbNPtzfNJX/CVHWwS04o+yv248pFDvYfwHVhXp+ZSm+b00TLdM8x+fVrOqdukWNYUzw==;NInmZwIWdldu7qFIYL8CeQ=="
 ---
 

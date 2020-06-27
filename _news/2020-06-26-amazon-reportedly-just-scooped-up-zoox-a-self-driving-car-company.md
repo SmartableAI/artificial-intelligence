@@ -3,7 +3,7 @@ category: news
 title: "Amazon reportedly just scooped up Zoox, a self-driving car company"
 excerpt: "Amazon may be looking to leverage Zoox’s tech for its delivery network, which could contribute to the company saving $20 billion a year."
 publishedDateTime: 2020-06-26T17:41:00Z
-webUrl: "https://www.fastcompany.com/90521704/amazon-reportedly-just-scooped-up-its-third-self-driving-car-company?amp&amp&amp&amp"
+webUrl: "https://www.fastcompany.com/90521704/amazon-reportedly-just-scooped-up-its-third-self-driving-car-company?partner=rss&"
 type: article
 quality: 24
 heat: -1
@@ -322,6 +322,6 @@ related:
         height: 720
         isCached: true
 
-secured: "aiyvMXgKNcMvztWGsBMRTwcTiNCcnqED1u+hYPLhmQv7gT1S7PHDHQN+fSlxPNZyAvOir4yTQBpAFA90FH4LukOM6uP+aLvg8WBU+bApAXinp/P7JkH/WIh12wloavQygKFCSz93bPWCLyf+9v386Gf0p56fOhqAuxRAUUkj8Eti4OOKwhFv0D5yBvmo6czWnwnNx2u3hgHnFRbC68cB/pLPw8/2Irnp/9zZw++tFkc8+aawQQD+nksdmHYxZ9E7VZOglhI6CwbN0qlOHsVUTn7LEsPDKXUmSVbUHEEbMG6JldorkW37g3ARThSRTxwaTMtiog6+z5aL0njeUag5RpO97wP77FYby6wG6h3loLleh8IiFVuOHSa5O2zeDjOsjuIWJSRPnRFgp9ytBdMakVGTiTuohsCSpDO7UtCHKvriNbcc/Sau/rfo26EjCT4aePrmixaqU5EN6eZPUE08ndVz37JHJu0ri6X/j+2B1YS8VBsBsW52u8jHNBvKix4o10McqE9txgxnc97J6InzaQ==;q2jjpDafymnap9SuFvbLvw=="
+secured: "cMwucYi35rvJHL+gnYBJMszQKTHl5rDq1s9qhUg3RAyOt9lc66JilBJF8M3GoUhQH9y4jTxzUeIx5htneo2vE8Lzz2Jilatd6B9DRTJk4mv7kzg8o7/75g1uOYjetUSxlohlEsB95FGhrBsjvSe33hpo31Dobkga8TF8VfV/x1kz6rqP+NRo9FugPtbOYBzgRTxvxGy6lLE7TTWAU+9+2Q/3mdfWqYBuqnfTnL9w6uF3aYFli4qDsfWRiVG3T05qrwbMSEv/NyuzjQ7fW6vi25RxSPUSnxfUBjzxzDtFX817iUNMWJaH3tsxsxQ4dRIKiTC0M4cHB9lVaTQz1Oha0Q==;BEDijoqlvEMiORxs+wHjEA=="
 ---
 

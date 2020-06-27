@@ -190,53 +190,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-25-a-black-man-in-detroit-was-arrested-and-detained-for-30-hours-after-being-falsely-identified-by-facial-recognition.md",
-      "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
-      "excerpt": "Activists have objected to the use of facial recognition by law enforcement for years, as the technology has been shown to display racial bias.",
-      "webUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6",
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5d9b1756138e4a2e893e4931?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
-      "publishedDateTime": "2020-06-25T02:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-25-real-ai-robot-cast-in-lead-role-of-sci-fi-movie.md",
       "title": "Real AI Robot Cast In Lead Role Of Sci-Fi Movie",
       "excerpt": "A new sci-fi movie is set to become the first-ever film to rely on an artificial intelligence robot named Erica.",
@@ -373,7 +326,7 @@
       "title": "A Flawed Facial Recognition System Sent This Man to Jail",
       "excerpt": "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used.",
       "webUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/",
-      "heat": 504,
+      "heat": 514,
       "tags": null,
       "images": [
         {
@@ -608,7 +561,7 @@
       "title": "Boston bans most city use of facial-recognition tech in privacy win",
       "excerpt": "Boston joins cities like San Francisco in banning the official use of facial-recognition tech after the unanimous vote.",
       "webUrl": "https://mashable.com/article/boston-bans-facial-recognition-technology/",
-      "heat": 114,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -854,7 +807,7 @@
       "title": "ACLU files first formal complaint over wrongful facial recognition arrest",
       "excerpt": "The American Civil Liberties Union (ACLU) has filed a formal complaint against Detroit police over what it says is the first known example of a wrongful arrest caused by faulty facial recognition technology.",
       "webUrl": "https://www.theverge.com/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence",
-      "heat": 293,
+      "heat": 283,
       "tags": null,
       "images": [
         {
@@ -1109,6 +1062,52 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-un-telcos-in-africa-take-on-covid-19-with-ai-and-digital-service.md",
+      "title": "UN, telcos in Africa take on Covid-19 with AI and digital service",
+      "excerpt": "The United Nations Economic Commission for Africa joined forces with a group of telecoms operating in Africa to reach over 600 million mobile subscribers with coronavirus health advice.",
+      "webUrl": "https://www.cnn.com/2020/06/24/africa/un-africa-telcos-coronavius-intl/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200624084633-02-cameroon-coronavirus-0306-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "UN, telcos in Africa take on Covid-19 with AI and digital service",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html",
+      "publishedDateTime": "2020-06-24T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

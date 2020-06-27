@@ -2,6 +2,53 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-06-08-uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products.md",
+      "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
+      "excerpt": "Uber open-sourced Neuropod, an abstraction layer designed to unify disparate AI frameworks like Google's TensorFlow and Facebook's PyTorch.",
+      "webUrl": "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/a326eb8a-48ed-4442-922c-700d5efb48e6-e1591635426426.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/amp/",
+      "publishedDateTime": "2020-06-08T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-google-meet-noise-cancellation-is-rolling-out-now-heres-how-it-works.md",
       "title": "Google Meet noise cancellation is rolling out now — here’s how it works",
       "excerpt": "Google Meet is getting AI-powered noise cancellation for Android, iOS, and the web. Here is how Google built its cloud denoiser and how it works.",
@@ -1220,35 +1267,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19.md",
-      "title": "Black-Owned Laboratory Uses Artificial Intelligence-Based Drug Discovery Platform to Develop Treatment for COVID-19",
-      "excerpt": "We anticipate the clinical trials could start within 90 days. The clinical trial itself could take a month. We feel quite optimistic that in the 120-day window, when our clinical material would be ready,",
-      "webUrl": "https://blackpressusa.com/black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://blackpressusa.com/black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19/?amp",
-      "cdnAmpWebUrl": "https://blackpressusa-com.cdn.ampproject.org/c/s/blackpressusa.com/black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19/?amp",
-      "publishedDateTime": "2020-06-06T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jury",
-        "domain": "blackpressusa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

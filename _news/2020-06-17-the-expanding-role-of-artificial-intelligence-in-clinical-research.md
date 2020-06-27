@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://vertassets.blob.core.windows.net/image/fb2cccda/fb2cccda-ba52-468d-9c54-81672cab0058/istock_1180529694.jpg"
@@ -37,6 +38,6 @@ related:
       domain: theglobeandmail.com
     quality: 35
 
-secured: "SD1Bi3nHyq3Phg7NZy1LKwONQxRDAs63tZmtYspt0xeP0PlJKQ+HSEosVg/4c2fgLQTHCkZd1ZsNukKA7pWCaV9wAIp9XLOXLnR7K8LvRD/1PwK8Ls1J5so9znDrAOye0xIxusW49knnDAWdmuSK+CW/FC62JESjDrXVN56X8710HJjNwPbAMWC7jePucdB7D/ZV7KoFASyL/wKNpKKU/nfkKJKLZ3gT0shklDPlQT6aLI9xtWjmj18jUG65GB6DSO9tfC1d0Gxrsg+Iol3KhjTMvZspRhScdXcugwT2SdmXEGn6e3DaKwsaDGBxLLbY1P1vB3inFImHDsc1QjkQ6A==;0AiDkOHUaNJLAHNMYQZbPQ=="
+secured: "lDT/HDTEJvGvy/WjYUxwP7AhlarZPu34K0+HXR8lyPNgPmSS3P6uoLDTdC2MZgDJTE9oaIlXl2Va8rtHt0ReXCIOSZP3e1DHos553UAO8G77Mdxmgsced4ZYSFEPr17rYqo8y1bDXiQpvq4d7tRqbicLgwAIUkGkQRVH58RaL9ZLKvBEiX4abr4kSsNaJKfkrAl9DJ4u+0J7/Cq0mJd09N4uzxe19FpK4hoJ0lncfA0mECsaflBFNQt7KfEjqAWqD3i5F/eplWScNcIKoRiAnv/Shn6aWXNhNl+f3VF50DjqG9PPdZQA/aEF0hFJvPIb2Kpf/HvlWTOrFYAFx21GXJep+ML1f2qs9UXBk908JQb391AzEfxfXyz6qvn3xTS4ziyJDQ2scT2zj7to+1pA+x00wpVUcF2rTBc5Ta603cI9Ts+izDbRfRboG3Foxqq4s1N7PzjjduYyi/Aoh1uWSQ2vakJkh0QvEm5B6f2gpmItKh0Dcl1hIkzP9RSA+n2T8xi/kk3kUpwWQiYvoNOscA==;yyJ1Ahg+UO68bFvT6wELBg=="
 ---
 

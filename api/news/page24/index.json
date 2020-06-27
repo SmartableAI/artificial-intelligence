@@ -2,6 +2,52 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-06-06-these-amazing-audio-deepfakes-showcase-progress-of-ai-speech-synthesis.md",
+      "title": "These amazing audio deepfakes showcase progress of A.I. speech synthesis",
+      "excerpt": "Z rap one of Billy Joel's greatest hits, or hear Queen Elizabeth II do a rendition of the Sex Pistols? You've come to the right place.",
+      "webUrl": "https://www.digitaltrends.com/news/best-audio-deepfakes-web/",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/audio_sound_visualization-1200x630-c-ar1.91.jpg",
+          "width": 1000,
+          "height": 523,
+          "title": "These amazing audio deepfakes showcase progress of A.I. speech synthesis",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/best-audio-deepfakes-web/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/best-audio-deepfakes-web/?amp",
+      "publishedDateTime": "2020-06-06T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-06-on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars.md",
       "title": "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars",
       "excerpt": "This brings us to a most intriguing twist and the intended focus of this discussion, namely, where does AI fit into this murky matter of intent and intention. AI systems are increasingly becoming a vital part of our lives. There are AI systems that do life ...",
@@ -1020,44 +1066,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-tibco-delivers-advanced-cognitive-services-on-microsoft-azure-to-joint-customers.md",
-      "title": "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers",
-      "excerpt": "Leveraging AI at the Edge and in Containers Fuels Timely and Responsive Analytics Sydney, Australia, June 5, 2020 – TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect,",
-      "webUrl": "https://www.cmo.com.au/mediareleases/130462/tibco-delivers-advanced-cognitive-services-on/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg",
-          "width": 600,
-          "height": 246,
-          "title": "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-04T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

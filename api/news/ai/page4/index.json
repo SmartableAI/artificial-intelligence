@@ -2,53 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-06-23-this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19.md",
-      "title": "This New App Analyzes Your Voice Quality To Diagnose Congestive Heart Failure: Can It Help With Covid-19?",
-      "excerpt": "A new app developed by an Israeli biotech startup has shown promise in evaluating voice quality to detect buildup of fluid in the lungs, an important finding associated with congestive heart failure (CHF).",
-      "webUrl": "https://www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F801249656%2F0x0.jpg",
-          "width": 1200,
-          "height": 795,
-          "title": "This New App Analyzes Your Voice Quality To Diagnose Congestive Heart Failure: Can It Help With Covid-19?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/amp/",
-      "publishedDateTime": "2020-06-23T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-23-building-ai-powered-forecasting-automation-with-amazon-forecast-by-applying-mlops.md",
       "title": "Building AI-powered forecasting automation with Amazon Forecast by applying MLOps",
       "excerpt": "This post demonstrates how to create a serverless Machine Learning Operations (MLOps) pipeline to develop and visualize a forecasting model built with Amazon Forecast. Because Machine Learning (ML) workloads need to scale, it’s important to break down the silos among different stakeholders to capture",
@@ -412,7 +365,7 @@
       "title": "Mercedes cars will be powered by NVIDIA AI for self-driving starting 2024",
       "excerpt": "Mercedes will use a full NVIDIA software and hardware system for their vehicles to power self-driving, with the first cars hitting the road in 2024. The system will be based on NVIDIA’s Orin chip, which they claim outperforms Tesla’s FSD computer by ~38%.",
       "webUrl": "https://electrek.co/2020/06/23/mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024/",
-      "heat": 350,
+      "heat": 360,
       "tags": null,
       "images": [
         {
@@ -1191,6 +1144,53 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-police-forces-in-canada-are-quietly-adopting-facial-recognition-tech.md",
+      "title": "Police Forces in Canada Are Quietly Adopting Facial Recognition Tech",
+      "excerpt": "Police in York and Peel regions are in the process of buying the technology, which has been shown to be racially biased.",
+      "webUrl": "https://www.vice.com/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech",
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5ef0f57c83ca6d009d2c6d35/lede/1592850289955-cctv-1144371_1920.jpeg?crop=0.8911xw:0.7561xh;0xw,0.1597xh",
+          "width": 1710,
+          "height": 961,
+          "title": "Police Forces in Canada Are Quietly Adopting Facial Recognition Tech",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech",
+      "publishedDateTime": "2020-06-23T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {

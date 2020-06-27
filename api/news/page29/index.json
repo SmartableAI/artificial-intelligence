@@ -2,6 +2,35 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-06-02-predictive-oncology-completes-acquisition-of-soluble-therapeutics-and-biodtech.md",
+      "title": "Predictive Oncology Completes Acquisition of Soluble Therapeutics and BioDtech",
+      "excerpt": "Predictive Oncology Inc. (NASDAQ:POAI) (the \"Company\") a knowledge-driven company focused on applying artificial intelligence",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16158810/predictive-oncology-completes-acquisition-of-soluble-therapeutics-and-biodtech",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16158810",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16158810",
+      "publishedDateTime": "2020-06-02T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-is-your-sales-team-ready-for-ai.md",
       "title": "Is Your Sales Team Ready For AI?",
       "excerpt": "While the human connection factor remains a significant part of closing any deal, the advances in technology, such as AI, can help negate the impact of other factors.",
@@ -1051,53 +1080,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us.md",
-      "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
-      "excerpt": "Predicting wildfires is a tricky business. A new artificial intelligence model could help fire agencies allocate resources to mitigate wildfire risks across the West.",
-      "webUrl": "https://www.techrepublic.com/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/01/b9176e1d-1077-48f8-8817-349aa8ebe44a/resize/1200x/5e79b0a17d7fead9c196dc9e6025c51f/wildfire.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
-      "publishedDateTime": "2020-06-01T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

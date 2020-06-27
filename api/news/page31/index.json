@@ -2,6 +2,44 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-06-01-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
+      "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
+      "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
+      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-chinese-tech-giant-baidu-chooses-europe-for-driverless-car-push.md",
       "title": "Chinese tech giant Baidu chooses Europe for driverless car push",
       "excerpt": "\"AI (artificial intelligence) technology has huge potential to promote social development, and one of AI's biggest opportunities lies in intelligent vehicles,\" said Qi Lu, chief operating officer ...",
@@ -1047,44 +1085,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-machine-learning-helps-map-global-ocean-communities.md",
-      "title": "Machine learning helps map global ocean communities",
-      "excerpt": "On land, it’s fairly obvious where one ecological region ends and another begins, for instance at the boundary between a desert and savanna. In the ocean,",
-      "webUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2020/05/MIT-Plankton-Province-01_0.jpg",
-          "width": 639,
-          "height": 426,
-          "title": "Machine learning helps map global ocean communities",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/amp/",
-      "publishedDateTime": "2020-05-29T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

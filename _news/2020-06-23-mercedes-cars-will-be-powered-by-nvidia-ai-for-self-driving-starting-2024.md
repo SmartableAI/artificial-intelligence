@@ -8,7 +8,7 @@ ampWebUrl: "https://electrek.co/2020/06/23/mercedes-cars-will-be-powered-by-nvid
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/06/23/mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024/amp/"
 type: article
 quality: 90
-heat: 350
+heat: 360
 published: true
 
 provider:
@@ -253,6 +253,22 @@ related:
     quality: 44
     images:
       - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/amazon_505_220520034228_260620010820.jpg?size=1200:675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Amazon reportedly paying $1.2B for self-driving startup Zoox. Will it deliver for online e-tailing giant?"
+    excerpt: "Amazon is paying over $1.2 billion for the six-year-old autonomous driving tech company, according to the Financial Times."
+    publishedDateTime: 2020-06-27T12:04:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/06/27/amazon-is-buying-self-driving-startup-zoox/112021444/"
+    ampWebUrl: "https://amp.usatoday.com/amp/112021444"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/112021444"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 42
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/3e1d8fb5ab6a22d87e18f1e51138466c6e2ab31b/c=0-8-2295-1299/local/-/media/2020/06/26/USATODAY/usatsports/MotleyFool-TMOT-8e34a620-autonomousdriving.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

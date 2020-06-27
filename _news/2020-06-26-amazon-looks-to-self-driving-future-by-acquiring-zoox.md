@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Amazon looks to self-driving future by acquiring Zoox"
-excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on"
-publishedDateTime: 2020-06-26T13:52:00Z
-webUrl: "https://apnews.com/2203a719d6e4bd2d439acda51449c625"
+excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will drive up without a driver"
+publishedDateTime: 2020-06-26T16:55:00Z
+webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-future-ride-hailing-buy-zoox-71472803"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/amazon-future-ride-hailing-buy-zoox-71472803"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/amazon-future-ride-hailing-buy-zoox-71472803"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/0fabd4301fa44126a26d44edb3a4e60b/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://s.abcnews.com/images/Technology/WireAP_0fabd4301fa44126a26d44edb3a4e60b_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
     title: "Amazon looks to self-driving future by acquiring Zoox"
 
@@ -312,6 +314,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "GAjh2PvFt0b5psFGuRfx6U7+iezVKB+e/YyjQuR0ZfgVCMusg/GuB+BTV5BaFMpRF3pYPrypQdqUmkFIT0E3VLaeNpgZSXDISHavCQM99mhco0Di7YhvsGx2+jT/4pMcBfPkStCRuH8XLDF/rovjGXFYCna+CobuRnVHnbUOv4TVvkpkzWPkULBW36GEmcEt4wznvbFuyoQSUFJ1pvG9oqRMjgq6Pa9esJ/ySgXXXZsK2djlYFZSmQyJbs0qB5TfvbPT5pt5G1tZ+n8mKcowXRK8S2maEvTe8Vxm9hFucbr901kgeN1+kwDLyjk9DRRc7zuhLBg4N1TRICnORgU/Sk8YkQ1Lb1K8hgxlK8y3ztVWCO8B4B5OlnvpGCj1gVeG+cFlLjrrgYKZGKT0h0rNpW21sgQaG5KvXVAWfe2CBQUei0V3z2GvMfbZL2QHnqdpOktNneN1WAdxkSNCVyycnMzOMUAzdmozKwjq25ftri8Vz/zvRZtQgf25sgh/sYRZSuGXqiokkeYyC8S0n6/H4w==;8ybSKl8N9jITI5C8zYwaJQ=="
+secured: "sBiScKRmBMSCeJnSZarDoup3f06rmlZiLkOp716dmxVlQ3XdEPLwCIjQ97CsXJuo/6w0uMmRiDd0gYVEhJxt8I7X25QI05eJVZ+mLrM2t70X9cYRWQI93RPt/medxvgsCzhsZ2g3zmQ/XLeIAQgnTQIosjkLXsoubK238C5rU2fqe6cL5jPE0h3T/AJOelZYvdOvUZC0zRRzdKo/NUp1L2iDpMBaqBJI/6I7hFnszhxRuPFMPiBciqn+pAfT+UntpEOZVhBX/NADlmmXSwl2ICSODHG16coTcQigL59y5DjOSYUyHK9zUDjr04pJ3RYyEGA4sv5jlJL5jkuvVDAouA==;CQ7s/gj5ASuXEwDMzGqRBQ=="
 ---
 

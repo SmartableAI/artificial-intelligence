@@ -344,6 +344,17 @@ related:
         width: 1661
         height: 1107
         isCached: true
+  - title: "Democratic lawmakers propose nationwide facial recognition ban"
+    excerpt: "Democratic lawmakers proposed a sweeping nationwide ban on facial recognition software Thursday, with a bill that seeks tough new limits on the technology at all levels of government."
+    publishedDateTime: 2020-06-25T17:30:00Z
+    webUrl: "https://www.cnn.com/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 69
   - title: "U.S. Activists Decry First Known Wrongful Arrest Blamed on Face Recognition"
     excerpt: "An incorrect facial recognition match led to the first known wrongful arrest in the United States based on the increasingly used technology, civil liberties activists alleged in a complaint to Detroit police on Wednesday."
     publishedDateTime: 2020-06-25T00:04:00Z
