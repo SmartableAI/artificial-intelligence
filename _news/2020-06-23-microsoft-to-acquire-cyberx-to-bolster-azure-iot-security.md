@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T10:49:00Z
 webUrl: "https://www.techcentral.ie/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://nocamels.com/wp-content/uploads/2020/06/Microsoft-e1592916151758-1024x554.jpg"
         width: 1024
         height: 554
-        isCached: true
-  - title: "Microsoft acquires industrial cybersecurity startup CyberX for $165M"
-    excerpt: "Microsoft Corp. has acquired industrial cybersecurity startup CyberX Inc. for an undisclosed sum. Various reports suggest that the acquisition price was $165 million with the deal"
-    publishedDateTime: 2020-06-23T02:53:00Z
-    webUrl: "https://siliconangle.com/2020/06/22/microsoft-acquires-industrial-cybersecurity-startup-cyberx-165m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/03/cyberx.png"
-        width: 1100
-        height: 799
         isCached: true
 
 secured: "H3yQbneHhpTqmLRowHp7iCkH9wYCMpCp/V4oSiGgR6woRgnN+q7CbPmfU/UKoTmc5E1eCOCV5GvTSKj5aIX1Bqhu62XA5/9bftgTWJNlxJ8KLogAFccEjdZno2KAM62ocdnTCd3ffSfbRCdxKLday9nRMYUVSFwdtCHyX1Iiyc85Axinivm/IQnHJZH+37aO4b+RyaA5O66l+oaVQwIL95kN9s3wpRaStmZBuJd594BMdGKxwj9fCLIWncmnv7VdxA9AL0K12XnpaHiZtCzZCPAFHm4lJ+ftPTCKA5NttvSKrBPw4Wdge+M87b6TZWoN8B6Qs5l0NNIzW12H4bFpnA==;Y7W+xVhTd6KSbZ1VtYX9yQ=="

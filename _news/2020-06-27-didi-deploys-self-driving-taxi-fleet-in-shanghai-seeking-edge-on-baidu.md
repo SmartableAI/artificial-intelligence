@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Amazon to reportedly acquire self-driving car startup Zoox for over $1 billion"
-excerpt: "The firm has reportedly agreed to pay over $1 billion to acquire Zoox. This will give Amazon control of the 1000-person startup; however, Zoox is expected to operate as an independent subsidiary."
-publishedDateTime: 2020-06-26T10:12:00Z
-webUrl: "https://www.neowin.net/news/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion"
-ampWebUrl: "https://www.neowin.net/amp/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion/"
-cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion/"
+title: "Didi deploys self-driving taxi fleet in Shanghai, seeking edge on Baidu"
+excerpt: "Didi hopes the alliance with accelerate the development of self-driving vehicles. Leading Chinese search engine company Baidu has set up the \"Apollo\" platform to develop autonomous driving technology."
+publishedDateTime: 2020-06-27T18:05:00Z
+webUrl: "https://asia.nikkei.com/Business/China-tech/Didi-deploys-self-driving-taxi-fleet-in-Shanghai-seeking-edge-on-Baidu"
 type: article
-quality: 70
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Neowin
-  domain: neowin.net
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg"
-      width: 50
-      height: 50
+  name: NIKKEI
+  domain: nikkei.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.neow.in/news/images/uploaded/2019/02/1551367567_amazonlogo_story.jpg"
-    width: 760
-    height: 428
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F6%2F0%2F0%2F27940064-3-eng-GB%2FCropped-1593271902photo.JPG?source=nar-cms&width=1600&height=900&fit=cover&gravity=faces"
+    width: 1600
+    height: 900
     isCached: true
-    title: "Amazon to reportedly acquire self-driving car startup Zoox for over $1 billion"
+    title: "Didi deploys self-driving taxi fleet in Shanghai, seeking edge on Baidu"
 
 related:
   - title: "Amazon buys self-driving technology company Zoox"
@@ -78,6 +72,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F50918640-b781-11ea-8e6f-31cf8ce3363a&client=amp-blogside-v2&signature=65c2889bedae9f838318604b8d787b0fd94eff5b"
         width: 600
         height: 350
+        isCached: true
+  - title: "Amazon to reportedly acquire self-driving car startup Zoox for over $1 billion"
+    excerpt: "The firm has reportedly agreed to pay over $1 billion to acquire Zoox. This will give Amazon control of the 1000-person startup; however, Zoox is expected to operate as an independent subsidiary."
+    publishedDateTime: 2020-06-26T10:12:00Z
+    webUrl: "https://www.neowin.net/news/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion"
+    ampWebUrl: "https://www.neowin.net/amp/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 70
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2019/02/1551367567_amazonlogo_story.jpg"
+        width: 760
+        height: 428
         isCached: true
   - title: "Amazon buys self-driving startup, EVs and hybrid Ford F-150s, plus more tech news"
     excerpt: "There's a lot going on with EVs, self-driving vehicles, and hybrid trucks too. Plus, OnePlus Nord camera news!"
@@ -253,20 +263,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Didi deploys self-driving taxi fleet in Shanghai, seeking edge on Baidu"
-    excerpt: "Didi hopes the alliance with accelerate the development of self-driving vehicles. Leading Chinese search engine company Baidu has set up the \"Apollo\" platform to develop autonomous driving technology."
-    publishedDateTime: 2020-06-27T18:05:00Z
-    webUrl: "https://asia.nikkei.com/Business/China-tech/Didi-deploys-self-driving-taxi-fleet-in-Shanghai-seeking-edge-on-Baidu"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F6%2F0%2F0%2F27940064-3-eng-GB%2FCropped-1593271902photo.JPG?source=nar-cms&width=1600&height=900&fit=cover&gravity=faces"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Amazon buys self-driving car firm Zoox, suggesting a future of automated deliveries"
     excerpt: "The deal provides Amazon with a new piece of technology as it reduces its dependence on shipping companies to get packages to customers."
     publishedDateTime: 2020-06-26T15:57:00Z
@@ -326,6 +322,6 @@ related:
         height: 720
         isCached: true
 
-secured: "z6XAmOlO3jXTapbgh5ZJXQyPj6hN0cLCOmq/8uPrXNKCmjY2NJ+5j6IMxZlKKyZovB3gA4tSQhH1qtNY5Vonw9RdKcu0QpHmyGoqC9uUl4yi4vnRQcS5g7LCid/1qlSmtBwkTs/WeQMbm5oUygD2YmDGnD40D8uszncdtX2lAvQnhljsNndAREwGZRm650zmQVPqF1MoXuG2rrkSCu9cKDZEMeYNnYQGSs3BSkrTMj9Vw/+rT8n0h9M+GgTXsEN1usj22XDCwqdCnSPPKXn/s2+6eDCXs+QtmCE5GD6JeDd0sf2mMvXBYdwJIcMKuIIyl2Xh9og90BY+QQ5mQKw1qDvZkT4WHx8R1TxZF5CBV41Ua5sHbDd65Aia5PZ9AlbVN+e3L13CTcsn1m347p2X0imnm5V0nMTC2ZkCI5F+1+gk4Pcaenwdko4/MVOTywnmvdaoPQHL7X71IWGOpsM1RH8+Fisog4RkDFqzsZRZgRQqemVijWyDN6Z7DEIL2Gn2i6PpAYpZD/guZ0D/Jw+BHw==;A1lcrOQ1O3WNK/05REXL0w=="
+secured: "3lvXz3IsMTKrei8yjkQnen6qeDa992bRJFK9/je3V8sYfT2oMEUL6yitdlGJy7ZmnjMOmL2voGInWD7RetG0OYZauhoSIGLvWAvi2RsR+4/Myks8xWEYqq6wOJTigvYkXc9UfUndGVFjuVpttG/vLh8mwzr8C9lIVGT/9pZ2SJ34Erqaym3gMYIeSl2W57mCuSkAiyYdVy8KSMjCCfS9BxPhFXtR4NSeP9Aevl9rZ5wqFU5+jF3Ca70F7qgpLCqmg7UJlETAiQ5cDT/4l5XeLOFWF273VLC83ZBFtOtxfXekh3O1g171wabrq5A/qdE2/3TRAEpSOhw2EVyHhtTMXg==;mRiOirDn5aJpoA4nbf9z4g=="
 ---
 

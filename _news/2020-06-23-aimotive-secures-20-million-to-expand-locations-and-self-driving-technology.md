@@ -263,19 +263,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Didi, BAIC ink self-driving pact"
-    excerpt: "Chinese ride-hailing giant Didi Chuxing is hitting the accelerator for its autonomous driving business by inking a strategic partnership deal with major Chinese carmaker BAIC Group. The move came as China is ramping up the development of smart connected vehicles."
-    publishedDateTime: 2020-06-23T01:31:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202006/23/WS5ef15b72a310834817254c6b.html"
+  - title: "Didi deploys self-driving taxi fleet in Shanghai, seeking edge on Baidu"
+    excerpt: "Didi hopes the alliance with accelerate the development of self-driving vehicles. Leading Chinese search engine company Baidu has set up the \"Apollo\" platform to develop autonomous driving technology."
+    publishedDateTime: 2020-06-27T18:05:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/Didi-deploys-self-driving-taxi-fleet-in-Shanghai-seeking-edge-on-Baidu"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
+      name: NIKKEI
+      domain: nikkei.com
     quality: 39
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202006/23/5ef15b72a3108348fcd785bc.jpeg"
-        width: 660
-        height: 440
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F6%2F0%2F0%2F27940064-3-eng-GB%2FCropped-1593271902photo.JPG?source=nar-cms&width=1600&height=900&fit=cover&gravity=faces"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Amazon buys self-driving car firm Zoox, suggesting a future of automated deliveries"
     excerpt: "The deal provides Amazon with a new piece of technology as it reduces its dependence on shipping companies to get packages to customers."

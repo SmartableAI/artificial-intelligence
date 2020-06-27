@@ -210,6 +210,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Amazon looks to self-driving future by acquiring Zoox"
+    excerpt: "NEW YORK (AP) - Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
+    publishedDateTime: 2020-06-27T00:48:00Z
+    webUrl: "https://www.sfgate.com/business/article/Amazon-looking-to-the-future-of-ride-hailing-15368472.php"
+    ampWebUrl: "https://www.sfgate.com/business/amp/Amazon-looking-to-the-future-of-ride-hailing-15368472.php"
+    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/amp/Amazon-looking-to-the-future-of-ride-hailing-15368472.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 44
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/61/62/19602620/11/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Amazon to buy Zoox for $1B, a self-driving car startup with Apple lineage"
     excerpt: "Online retail giant Amazon has reportedly agreed to pay over a billion dollars to buy Zoox, which was an early entrant into the autonomous car industry, and has previously hired away \"Apple Car\" engineers."
     publishedDateTime: 2020-06-26T12:06:00Z
@@ -280,20 +296,6 @@ related:
       - url: "https://techcentral.co.za/wp-content/uploads/2020/06/re-amazon-2156-1120.jpg"
         width: 2156
         height: 1120
-        isCached: true
-  - title: "Amazon looks to self-driving future by acquiring Zoox"
-    excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
-    publishedDateTime: 2020-06-27T15:04:00Z
-    webUrl: "https://www.startribune.com/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox/571502302/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 24
-    images:
-      - url: "https://stmedia.stimg.co/AMAZON_ZOOX_59225669.JPG?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Bay Area self-driving startup Zoox bought by Amazon for reported $1.2 billion"
     excerpt: "Amazon announced Friday it is buying Bay Area self-driving car startup Zoox, as the internet giant makes its strongest foray yet into the autonomous vehicle market. The six-year-old Foster City company will continue to run as a standalone business ..."
