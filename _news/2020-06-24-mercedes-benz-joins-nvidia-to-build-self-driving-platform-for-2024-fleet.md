@@ -404,6 +404,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Amazon buying Zoox to veer into self-driving tech"
+    excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
+    publishedDateTime: 2020-06-27T06:54:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/jun/27/amazon-buying-zoox-to-veer-into-self-driving-tech/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2020/06/27/resized_150246-1damazon0627rgb_54-29733_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
 
 secured: "VSPUBI00ZuTLl+v2TN+GJOoQBh1FoImrOYtgAut0Yx37UFgYZs3jF4bM/Pb6e+Mvp/+eEchc37Br1wMLh1Ykhn34UguLWYf0+yCtDuzNbei8gJu5N64S90Pt2spV6xvJU52ubA98c732XI7B4QAaHdSXpQMf34has5UloCT4DIGz0VP/8w9ZMEkVO6hO5p9TcTZgKbzHBKqNSOvKf0BeUSJ5lm8H7Cu2/JrLQ4nxrvcwN7n6hntq31yW1I8PpJBoONuR8H2rp2h7pQweOzIBAGCDNXlcqmO/kS+San4Lwq3lRgvsVtG9k6up61tGQ0VdYXkPmmwDmev0xTiKDjSHDQ==;4xQNykHOpLF4VBVpiyqQiQ=="
 ---

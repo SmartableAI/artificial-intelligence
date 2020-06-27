@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp"
 type: article
 quality: 89
-heat: 340
+heat: 330
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/10/Zoox_LV_2019_005-1.jpg?w=1024"
         width: 1024
         height: 576
-        isCached: true
-  - title: "AImotive raises $20 million for driver-assistance and self-driving car software"
-    excerpt: "AImotive has raised a $20 million round to further develop its software for self-driving cars and advanced driver assistance."
-    publishedDateTime: 2020-06-22T14:04:00Z
-    webUrl: "https://venturebeat.com/2020/06/22/aimotive-raises-20-million-for-driver-assistance-and-self-driving-car-software/"
-    ampWebUrl: "https://venturebeat.com/2020/06/22/aimotive-raises-20-million-for-driver-assistance-and-self-driving-car-software/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/22/aimotive-raises-20-million-for-driver-assistance-and-self-driving-car-software/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/aimotive-4.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 577
         isCached: true
   - title: "Amazon Buys Self-Driving Company Zoox For $1.2B And May Rule The World"
     excerpt: "Reports have emerged that Amazon.com will purchase self-driving startup Zoox for “more than $1.2B” with exact details of the deal not disclosed."

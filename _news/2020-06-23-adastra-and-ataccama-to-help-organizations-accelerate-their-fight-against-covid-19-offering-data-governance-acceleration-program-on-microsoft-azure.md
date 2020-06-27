@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Johns Hopkins Leverages Microsoft AI for Precision Medicine"
-    excerpt: "Johns Hopkins Medicine will leverage Microsoft Azure's artificial intelligence and analytics tools to advance precision medicine discoveries."
-    publishedDateTime: 2020-06-22T13:56:00Z
-    webUrl: "https://healthitanalytics.com/news/johns-hopkins-leverages-microsoft-ai-for-precision-medicine"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
 
 secured: "NFJvGSczUzXnkODlG4xQPqROHJ2L1qIoNss+vfvLJtC+ZaWcW4K75c+quAI2clzegghY4kYG11HGT/BHfxzN+QapIlBao1NGajzG3U6LjaJUyl5iVdOaLFDlMi/TkMG0z1NaqVANiWwzd4FA0o4qse4zP5Z3XR4YmCyJaGqcePERBYD5V753bHaIbXtHe3JDM2HR1rWesinClZvNZAkVKBwaioIB5Nbp7SU8pwR7pu0eBiYsnEJVwJ8kfprqR4RQAXLSY3EvSQII0idsAq9x00bvwDL0XTctJNWoSdLgVXqRXZEgCSgMfIRoQp2VnV6QLL4iyUR1hbP71MiS5rxhhg==;wzW5TwceRb4BTfcUek890w=="
 ---

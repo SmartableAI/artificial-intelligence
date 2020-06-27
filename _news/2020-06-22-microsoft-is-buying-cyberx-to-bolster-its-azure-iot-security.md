@@ -8,8 +8,8 @@ ampWebUrl: "https://www.networkworld.com/article/3563889/microsoft-is-buying-cyb
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.amp.html"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: Network World
@@ -27,22 +27,6 @@ images:
     title: "Microsoft is buying CyberX to bolster its Azure IoT security"
 
 related:
-  - title: "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business"
-    excerpt: "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,"
-    publishedDateTime: 2020-06-22T14:21:00Z
-    webUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/"
-    ampWebUrl: "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 97
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1175327728.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Microsoft to acquire CyberX to bolster Azure IoT security"
     excerpt: "Microsoft has announced it will purchase the industrially focused network security vendor CyberX for an undisclosed sum in an effort to bolster the security capabilities of its Azure IoT platform. The acquisition strikes at the heart of two key IIoT security pain points."
     publishedDateTime: 2020-06-23T10:49:00Z

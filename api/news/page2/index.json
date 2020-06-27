@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-26-members-of-congress-push-to-ban-federal-use-of-face-recognition.md",
+      "title": "Members of Congress push to ban federal use of face recognition",
+      "excerpt": "A group of Democratic Senators and House representatives have introduced a bill that seeks to ban federal use of facial recognition technology. It follows an incident in which Detroit police wrongfully arrested a man after a facial recognition system incorrectly flagged him as a suspect.",
+      "webUrl": "https://www.engadget.com/facial-recognition-ban-bill-democrats-182006734.html",
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2Fce6af050-1fe8-11ea-b9bb-6e91861f58e5&client=amp-blogside-v2&signature=79939f8d1f2406b6a8f123e213fa81fc9f175876",
+          "width": 600,
+          "height": 350,
+          "title": "Members of Congress push to ban federal use of face recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/facial-recognition-ban-bill-democrats-182006734.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-ban-bill-democrats-182006734.html",
+      "publishedDateTime": "2020-06-25T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-generating-compositions-in-the-style-of-bach-using-the-ar-cnn-algorithm-in-aws-deepcomposer.md",
       "title": "Generating compositions in the style of Bach using the AR-CNN algorithm in AWS DeepComposer",
       "excerpt": "AWS DeepComposer gives you a creative way to get started with machine learning (ML) and generative AI techniques. AWS DeepComposer recently launched a new generative AI algorithm called autoregressive convolutional neural network (AR-CNN), which allows you to generate music in the style of Bach. In this",
@@ -418,7 +466,7 @@
       "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
       "excerpt": "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday.",
       "webUrl": "https://www.reuters.com/article/us-waymo-volvo-autonomous-idUKKBN23W2V0",
-      "heat": 339,
+      "heat": 349,
       "tags": null,
       "images": [
         {
@@ -1100,54 +1148,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-if-done-right-ai-could-make-policing-fairer.md",
-      "title": "If Done Right, AI Could Make Policing Fairer",
-      "excerpt": "Li herself has ridden the ups and downs of the AI boom. In 2017 she joined Google to help, in her words, “democratize” the technology. Not long after, the company, and Li herself, became embroiled in a controversy over supplying AI to the military through an effort known as Maven,",
-      "webUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ef419aeaf3d0a069fd1d59d/master/pass/business_policing_1175954210.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "If Done Right, AI Could Make Policing Fairer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/done-right-ai-make-policing-fairer/amp",
-      "publishedDateTime": "2020-06-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

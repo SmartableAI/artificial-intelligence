@@ -73,29 +73,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Making more data available for training self-driving cars"
-    excerpt: "For safety's sake, a self-driving car must accurately track the movement of pedestrians, bicycles and other vehicles around it. Training those tracking systems may now be more effective thanks to a new method."
-    publishedDateTime: 2020-06-22T14:29:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/06/200617091024.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-  - title: "Making More Data Available for Self-Driving Cars"
-    excerpt: "PITTSBURGH -- For safety's sake, a self-driving car must accurately track the movement of pedestrians, bicycles and other vehicles around it. Training those tracking systems may now be more effective thanks to a new method developed at Carnegie Mellon University."
-    publishedDateTime: 2020-06-22T14:26:00Z
-    webUrl: "https://www.manufacturing.net/home/news/21137930/making-more-data-available-for-selfdriving-cars"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/AP18352862637244.5c1a63698a800.5ef0ba4ce9096.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 673
-        isCached: true
   - title: "Burger King says self-driving cars know to slow down for its signs, too"
     excerpt: "Burger King’s latest marketing effort suggests that smart cars are so smart that they know to tap the brakes when nearing one of its restaurants. And some smart cars, it turns out, appear to identify a Burger King sign,"
     publishedDateTime: 2020-06-23T11:18:00Z

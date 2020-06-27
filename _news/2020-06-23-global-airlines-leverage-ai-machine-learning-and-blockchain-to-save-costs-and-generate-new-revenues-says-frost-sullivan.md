@@ -26,22 +26,6 @@ images:
     isCached: true
     title: "Global Airlines Leverage AI, Machine Learning and Blockchain to Save Costs and Generate New Revenues, Says Frost & Sullivan"
 
-related:
-  - title: "Global Airlines Leverage AI, Machine Learning and Blockchain to Save Costs and Generate New Revenues, Says Frost & Sullivan"
-    excerpt: "Frost & Sullivan's recent study, Analysis of the Global Airline IT Market, Forecast to 2025, finds that the increasing expectations"
-    publishedDateTime: 2020-06-22T14:12:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/global-airlines-leverage-ai-machine-learning-and-blockchain-to-save-costs-and-generate-new-revenues-says-frost-amp-sullivan-815020218.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/1194317/Airline_Technology.jpg?p=facebook"
-        width: 2621
-        height: 1373
-        isCached: true
-
 secured: "ngmhOdcM7ZA8EWC+x0v9IbIW/E59G3o6CuzHDgIEUxq4O4c0kigY2oGw7LAA8A0uYQu49EvzanGi1l3W1f6j0jgj2CF/6rD/lOjBMY7D7EeH4O4EhotxASqrxYwpeAVoKfWot9tr4AFOzF/Cq0nlRGP/FSSqWi24lI1yEP7TWIA5K1Lvrdsy1DDAt2CTmBSPLr1KbG8ad/dPaIt5Yax7cN9UZXZwUPk6NNvfTjorkxGmobiF7J8Uy2IoduibbmYd9QcP/sL4eaXVxjhMG8TGcJu++Yl6vNo91qp8rCw846cWp1UhNzQIzxJ7L2/HbzHUEk8agH+j72qcWUP1vYwLEw==;1QutcgEWb9JJNmnyDRCV7g=="
 ---
 

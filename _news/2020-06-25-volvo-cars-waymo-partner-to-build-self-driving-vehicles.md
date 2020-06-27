@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN23W2V0"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN23W2V0"
 type: article
 quality: 89
-heat: 339
+heat: 349
 published: true
 
 provider:
@@ -393,6 +393,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/d50cd04edb05beaa9a3f744aae2bcaac_L.jpg"
         width: 620
         height: 465
+        isCached: true
+  - title: "Amazon buying Zoox to veer into self-driving tech"
+    excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
+    publishedDateTime: 2020-06-27T06:54:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/jun/27/amazon-buying-zoox-to-veer-into-self-driving-tech/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2020/06/27/resized_150246-1damazon0627rgb_54-29733_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
         isCached: true
   - title: "Mercedes-Benz joins Nvidia to build self-driving platform for 2024 fleet"
     excerpt: "Benz and graphics giant Nvidia have joined hands to build an in-vehicle computing system for next-gen automated cars. Starting in 2024, the software-defined computing architecture will be rolled out across the fleet of Mercedes-Benz vehicles,"

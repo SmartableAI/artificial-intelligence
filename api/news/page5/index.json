@@ -2,6 +2,53 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-23-hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services.md",
+      "title": "HPE moves closer to everything-as-a-service with Ezmeral and expanded GreenLake cloud services",
+      "excerpt": "HPE's new products take into account the current tight financial times with an emphasis on using existing infrastructure and limiting additional costs.",
+      "webUrl": "https://www.techrepublic.com/article/hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/06/23/41556b91-92f7-4142-8488-1d39ecd6cc09/resize/1200x/0567b58d92c7016516f9b60f8ff693bf/hpe-exmeral.jpg",
+          "width": 1200,
+          "height": 603,
+          "title": "HPE moves closer to everything-as-a-service with Ezmeral and expanded GreenLake cloud services",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services/",
+      "publishedDateTime": "2020-06-23T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-qualcomm-puts-ai-and-5g-in-the-hands-of-robotics-designers.md",
       "title": "Qualcomm Puts AI and 5G in the Hands of Robotics Designers",
       "excerpt": "According to Qualcomm’s press release, the platform features artificial intelligence (AI) and machine learning (ML) capabilities while still minimizing power consumption. This platform has been designed specifically for applications in robotics ...",
@@ -512,7 +559,7 @@
       "title": "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine",
       "excerpt": "Microsoft Azure and Johns Hopkins Medicine partnered to leverage Microsoft's AI and analytics tools to facilitate precision medicine breakthroughs.",
       "webUrl": "https://www.businessinsider.com/microsoft-johns-hopkins-partner-to-advance-precision-medicine-2020-6",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1066,30 +1113,30 @@
       ]
     },
     {
-      "path": "_news/2020-06-22-trump-signs-executive-order-suspending-certain-work-visas-through-2020.md",
-      "title": "Trump signs executive order suspending certain work visas through 2020",
-      "excerpt": "President Trump on Monday signed an executive order to suspend the issuance of certain temporary worker visas through the end of 2020, cracking down further on immigration after signing a more narrow measure in April.",
-      "webUrl": "https://thehill.com/homenews/administration/503914-trump-signs-executive-order-suspending-certain-work-visas-through",
-      "heat": 157,
+      "path": "_news/2020-06-22-microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.md",
+      "title": "Microsoft is buying CyberX to bolster its Azure IoT security",
+      "excerpt": "Azure IoT users can look for additional security and monitoring capabilities as Microsoft announces plans to buy CyberX",
+      "webUrl": "https://www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.html",
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_061620getty_memo.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "Trump signs executive order suspending certain work visas through 2020",
+          "url": "https://images.techhive.com/images/article/2016/08/iot_security-100675572-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft is buying CyberX to bolster its Azure IoT security",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/503914-trump-signs-executive-order-suspending-certain-work-visas-through?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/503914-trump-signs-executive-order-suspending-certain-work-visas-through?amp",
-      "publishedDateTime": "2020-06-22T13:32:00-07:00",
+      "ampWebUrl": "https://www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.amp.html",
+      "publishedDateTime": "2020-06-22T15:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "Network World",
+        "domain": "networkworld.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1099,53 +1146,7 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing.md",
-      "title": "US government doesn't know how it uses facial recognition in public housing",
-      "excerpt": "The Department of Housing and Urban Development says it doesn't have policies limiting how facial recognition is used in public housing.",
-      "webUrl": "https://www.cnet.com/news/us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing/",
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/mBcbBBTe2lIFz0R4LQ7bhNmWx0E=/756x567/2020/05/01/7d392c22-fd26-4e41-bfc7-0eef3e0bf34d/security-facial-recognition-contact-tracing.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "US government doesn't know how it uses facial recognition in public housing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing/",
-      "publishedDateTime": "2020-06-22T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
+        "Microsoft AI",
         "AI"
       ]
     }

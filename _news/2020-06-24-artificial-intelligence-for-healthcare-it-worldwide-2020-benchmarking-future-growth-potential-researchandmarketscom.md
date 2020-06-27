@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-24T12:28:00Z
 webUrl: "https://www.businesswire.com/news/home/20200624005446/en/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     title: "Artificial Intelligence for Healthcare IT, Worldwide, 2020 - Benchmarking Future Growth Potential - ResearchAndMarkets.com"
 
 related:
-  - title: "$45.2 Billion Worldwide Artificial Intelligence in Healthcare Industry to 2026 - Featuring Lunit, Magnea & Maxq AI Among Others - ResearchAndMarkets.com"
-    excerpt: "Billion Worldwide Artificial Intelligence in Healthcare Industry to 2026 - Featuring Lunit, Magnea & Maxq AI Among Others - ResearchAndMarkets.com DUBLIN-- ( BUSINESS WIRE )--The \"Artificial Intelligence in Healthcare Market with Covid-19 Impact Analysis by Offering (Hardware,"
-    publishedDateTime: 2020-06-22T14:06:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200622005457/en/"
+  - title: "Global Artificial General Intelligence Market 2020-2025 - General Purpose AI will Create a Positive Feedback Loop for the IoT Market - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial General Intelligence Market: General Purpose Artificial Intelligence, AI Agent Platforms, and Software 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. This research evaluates the artificial general intelligence market including leading companies,"
+    publishedDateTime: 2020-06-23T09:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200623005441/en/Global-Artificial-General-Intelligence-Market-2020-2025--"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 28
+    quality: 0
     images:
-      - url: "https://mms.businesswire.com/media/20200622005457/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mms.businesswire.com/media/20200623005441/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "World Network Traffic Analytics Market Analysis - Rise in Trend for BYOD, Artificial Intelligence & Machine Learning in Cybersecurity"
-    excerpt: "The \"Global Network Traffic Analytics Market 2019-2028\" report has been added to ResearchAndMarkets.com's offering. The global network"
-    publishedDateTime: 2020-06-22T14:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/world-network-traffic-analytics-market-analysis---rise-in-trend-for-byod-artificial-intelligence--machine-learning-in-cybersecurity-301081007.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
-    images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
         isCached: true
 
 secured: "NBvo1fwncqaHn05dMjnOnshyT0hcqHkfuYX2lJZIzah07dlHKpQOSRYNhVCMyW3Cp5WJiHKs+irjtCnU0thnfj7SW5/HVag4Qz5EfKAXagqm58C+3AqYL4JhCicqQrdQpeJxnuVipkbQg67R7YgrdllD9/PXioqtD/PWFhfIzyZBxZaycVLUmQBmxm6pQ8IV6qpzmQyiT7hCzXb5p449IEPc7KTQqxhc9/orpONKJCBF1OvwttshixXMcs1mMvMiKIoueq6v/YF4fAghFUYFWzl8fkwqawIKIMSl1YqqudvFmLLSr+scts/NLZcZrZXTPojLXpmRI4CaNAxzHNNaS2Bo/G8Sa3C2JrU6HrjP7MTB4mnj0/o4ekaDGKeapeCLF1cCfi1aEvDVi3LSm8lbYhFyFKxN3WSShFtLhj+hHEAcUhbXFkDUukbgCkeHD9YjGvakSncd1cauANTTC3Nbx9H+oMj+S7mGZfHZoxBI6TJDCBHsIkPKCDZrynmEu0ealgJaGtgc+RhDOfkSyxXezQ==;MsI8uGpQj9x6bBBywFj9cw=="

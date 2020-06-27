@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Volvo Car Group And Waymo Team Up To Develop Self-Driving Vehicles"
-excerpt: "Volvo Car Group and Waymo have established a strategic partnership that will see the Google-owned self-driving tech company become the car manufacturer’s exclusive L4 (Level 4) partner. The deal includes Volvo Car Group’s strategic affiliates Polestar and Lynk & Co International,"
-publishedDateTime: 2020-06-26T09:53:00Z
-webUrl: "https://www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/"
-ampWebUrl: "https://www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/amp/"
-cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/amp/"
+title: "Amazon buying Zoox to veer into self-driving tech"
+excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
+publishedDateTime: 2020-06-27T06:54:00Z
+webUrl: "https://www.arkansasonline.com/news/2020/jun/27/amazon-buying-zoox-to-veer-into-self-driving-tech/"
 type: article
-quality: 59
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Carscoops
-  domain: carscoops.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.carscoops.com/wp-content/uploads/2020/06/Volvo-XC40-Recharge-0-1024x554.jpg"
-    width: 1024
-    height: 554
+  - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2020/06/27/resized_150246-1damazon0627rgb_54-29733_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+    width: 600
+    height: 399
     isCached: true
-    title: "Volvo Car Group And Waymo Team Up To Develop Self-Driving Vehicles"
+    title: "Amazon buying Zoox to veer into self-driving tech"
 
 related:
   - title: "Volvo Cars, Waymo partner to build self-driving vehicles"
@@ -251,6 +249,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Volvo Car Group And Waymo Team Up To Develop Self-Driving Vehicles"
+    excerpt: "Volvo Car Group and Waymo have established a strategic partnership that will see the Google-owned self-driving tech company become the car manufacturer’s exclusive L4 (Level 4) partner. The deal includes Volvo Car Group’s strategic affiliates Polestar and Lynk & Co International,"
+    publishedDateTime: 2020-06-26T09:53:00Z
+    webUrl: "https://www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/"
+    ampWebUrl: "https://www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/06/Volvo-XC40-Recharge-0-1024x554.jpg"
+        width: 1024
+        height: 554
+        isCached: true
   - title: "Didi Chuxing and BAIC form self driving partnership"
     excerpt: "Chinese ride hailing company Didi Chuxing has entered into a strategic partnership with local carmaker BAIC Group, according to local reports."
     publishedDateTime: 2020-06-23T08:49:00Z
@@ -390,20 +404,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Amazon buying Zoox to veer into self-driving tech"
-    excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
-    publishedDateTime: 2020-06-27T06:54:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/jun/27/amazon-buying-zoox-to-veer-into-self-driving-tech/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 24
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2020/06/27/resized_150246-1damazon0627rgb_54-29733_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
-        isCached: true
   - title: "Mercedes-Benz joins Nvidia to build self-driving platform for 2024 fleet"
     excerpt: "Benz and graphics giant Nvidia have joined hands to build an in-vehicle computing system for next-gen automated cars. Starting in 2024, the software-defined computing architecture will be rolled out across the fleet of Mercedes-Benz vehicles,"
     publishedDateTime: 2020-06-24T15:24:00Z
@@ -419,6 +419,6 @@ related:
         height: 800
         isCached: true
 
-secured: "fzvXU7xrZ3PJjydAqXWBrBq/M4i2qordhsdqmhlxg+I05y6pNEFsT/PVedTpuUyHItOb5WfDSplTuSdoYP8cVsTH/hdUklkBetoBJLb/4JKQCX2WaMUaomDEu9g3C73rLU/u6Mr+eg27zmKVA0GP03L6R2r2WYYMMi97Bn/GWMt/TeW/rcWyv+8TRy+UJ1bN8IKW1j3AQpTxqceyKKMptku5vx14BEu2xCtiAOQIHN3TA+zsXXhqCsX+YcgXOrT28OLqtXaxVQGqNrVieGSBFFjKD8xOxuJAk9whGFaIknFqkCJn7oBIuf2AEfcJ1FNJ8Er/ANjAvVEuQHoah0o/lDWcOkBEYgjZEQwnItjEGUmTxLwNW21ia/eczxOPBpU7j9PMtzA3bEM9FPtuHnN2syI5Op0dC5rrqSibU3xGYuyyQOQbCh097Ngca+cdvPDyXDWUqY2c3xULdtYmn+6hMYllwO32XUM1POCAfCM4oSjztv1ao7HjQdh+nTxELdq49EVFrQjeAPd6IcX5mA62ow==;46j/mUmgGj7sUtxnu6xKBw=="
+secured: "cTbih33ad7wB3Cnb1ezIJiy5KrbBDdBf4fsqD2VpeB3i8vjWWR1GVh99joffwvtwJYuD10k098IRnolMVTK4CzkFPO68VUJilvfkqwh/1vtsux3/MERUtyycyZym+lAguaVFYkWdag1ADDsEkoShWNFCtqAFxIs6fddiTlmG/KZ+ItqDQwIZxoDt8aWZ9iENnD7enZnyn13iouB2Qm2FPXqkNkoogTrM5d3VcmsuBjDNKmlFNbpe1pgIWA7oFCnfH/U6hPwEysqkdb2XVobFuB4h0cX0wTZCMDaOsEHgFx3fj9Sx42CQqOtqzFR5Fj05BVoNOmNtaXJy9+a8nurNOQ==;7yXBtXNXNyXqm2FNgTTkOg=="
 ---
 

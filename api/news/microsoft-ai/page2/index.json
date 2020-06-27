@@ -2,6 +2,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-11-power-bi-june-update-brings-new-ui-and-ai-assisted-graphics.md",
+      "title": "Power BI June update brings new UI and AI assisted graphics",
+      "excerpt": "Microsoft announced the new Power BI June update for the desktop application. It comes with new UI features and AI assisted graphics. Read more!",
+      "webUrl": "https://windowsreport.com/power-bi-june-update/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/06/Power-BI-June-update-brings-new-UI-and-AI-assisted-graphics.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": "Power BI June update brings new UI and AI assisted graphics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://windowsreport.com/power-bi-june-update/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/power-bi-june-update/?amp",
+      "publishedDateTime": "2020-06-11T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-phoenixville-public-library-offers-free-online-programs.md",
       "title": "Phoenixville Public Library offers free online programs",
       "excerpt": "Phoenixville Public Library will host a free online presentation, \"End-of-Life Care: The Conversation Project\", on Monday, June 15 at 7:00 PM. Dana Gibson, Community Liaison for Willow Tree Hospice, will be the speaker.",
@@ -1205,35 +1243,6 @@
       "provider": {
         "name": "GCN",
         "domain": "gcn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-googles-new-accessibility-features-to-drive-user-momentum.md",
-      "title": "Google's New Accessibility Features to Drive User Momentum",
-      "excerpt": "Alphabet’s GOOGL division Google is making every effort to bolster accessibility features in a bid to strengthen presence among people with cognitive and physical disabilities. This is evident from the latest move of unveiling Action Blocks app for the Android users on the Global Accessibility Awareness Day.",
-      "webUrl": "https://www.nasdaq.com/articles/googles-new-accessibility-features-to-drive-user-momentum-2020-05-26",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/googles-new-accessibility-features-to-drive-user-momentum-2020-05-26?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/googles-new-accessibility-features-to-drive-user-momentum-2020-05-26?amp",
-      "publishedDateTime": "2020-05-26T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

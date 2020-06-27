@@ -25,22 +25,6 @@ images:
     title: "Self-Driving Taxis a Setback for Those with Different Needs"
 
 related:
-  - title: "Self-driving taxis could be a setback for those with different needs - unless companies embrace accessible design now"
-    excerpt: "(THE CONVERSATION) Autonomous vehicles (AVs), like self-driving taxis, continue to garner media attention as industry and political stakeholders claim that they will improve safety and access to transportation for everyone."
-    publishedDateTime: 2020-06-22T13:08:00Z
-    webUrl: "https://www.timesunion.com/news/article/Self-driving-taxis-could-be-a-setback-for-those-15356651.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Self-driving-taxis-could-be-a-setback-for-those-15356651.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Self-driving-taxis-could-be-a-setback-for-those-15356651.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 21
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "Self-driving taxis should be designed with accessibility at the forefront—not as an afterthought"
     excerpt: "For autonomous vehicles to fulfill the promise of accessibility and still be environmentally efficient, all cars need to be similarly accessible."
     publishedDateTime: 2020-06-25T14:23:00Z

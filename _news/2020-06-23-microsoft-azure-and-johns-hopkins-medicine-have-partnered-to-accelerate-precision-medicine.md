@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T13:31:00Z
 webUrl: "https://www.businessinsider.com/microsoft-johns-hopkins-partner-to-advance-precision-medicine-2020-6"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     title: "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine"
 
 related:
-  - title: "Johns Hopkins Leverages Microsoft AI for Precision Medicine"
-    excerpt: "Johns Hopkins Medicine will leverage Microsoft Azure's artificial intelligence and analytics tools to advance precision medicine discoveries."
-    publishedDateTime: 2020-06-22T13:56:00Z
-    webUrl: "https://healthitanalytics.com/news/johns-hopkins-leverages-microsoft-ai-for-precision-medicine"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
   - title: "Adastra and Ataccama to Help Organizations Accelerate Their Fight Against COVID-19, offering Data Governance Acceleration Program on Microsoft Azure"
     excerpt: "Adastra and Ataccama to Help Organizations Accelerate Their Fight Against COVID-19, offering Data Governance Acceleration Program on Microsoft Azure"
     publishedDateTime: 2020-06-23T11:30:00Z

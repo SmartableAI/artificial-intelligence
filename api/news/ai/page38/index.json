@@ -2,6 +2,100 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-05-19-mount-sinais-ai-can-diagnose-covid-19.md",
+      "title": "Mount Sinai’s AI can diagnose COVID-19",
+      "excerpt": "Researchers from Mount Sinai believe they are the first in the US to use AI, combined with imaging and clinical data, to diagnose COVID-19.",
+      "webUrl": "https://www.engadget.com/mount-sinai-ai-diagnoses-covid-19-152430735.html",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F1b148db0-99df-11ea-bffc-6f21960ebf57&client=amp-blogside-v2&signature=289127313e83e511d92b33c506a4697f8eb8a732",
+          "width": 600,
+          "height": 350,
+          "title": "Mount Sinai’s AI can diagnose COVID-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/mount-sinai-ai-diagnoses-covid-19-152430735.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mount-sinai-ai-diagnoses-covid-19-152430735.html",
+      "publishedDateTime": "2020-05-19T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-azure-cognitive-services-learns-more-languages.md",
+      "title": "Azure Cognitive Services learns more languages",
+      "excerpt": "It wouldn’t be a Microsoft Build without a bunch of new capabilities for Azure Cognitive Services, Microsoft’s cloud-based AI tools for developers. The first new feature is what Microsoft calls the “personalized apprentice mode,",
+      "webUrl": "https://techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/",
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1173107665-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Azure Cognitive Services learns more languages",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/amp/",
+      "publishedDateTime": "2020-05-19T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-launches-new-tools-for-building-fairer-machine-learning-models.md",
       "title": "Microsoft launches new tools for building fairer machine learning models",
       "excerpt": "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s",
@@ -1234,73 +1328,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-cvpr-2020-to-reveal-latest-technical-and-commercial-advancements-in-computer-vision-ai-and-machine-learning-in-all-virtual-event.md",
-      "title": "CVPR 2020 to Reveal Latest Technical and Commercial Advancements in Computer Vision, AI and Machine Learning in All-Virtual Event",
-      "excerpt": "With a record-breaking number of submissions and a finite number of program slots, the content for CVPR 2020 will be some of",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/n16062768/cvpr-2020-to-reveal-latest-technical-and-commercial-advancements-in-computer-vision-ai-and-machine",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16062768",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16062768",
-      "publishedDateTime": "2020-05-19T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-sony-microsoft-unveil-latest-joint-ai-play.md",
-      "title": "Sony, Microsoft unveil latest joint AI play",
-      "excerpt": "Sony’s semiconductor division and Microsoft announced a collaboration to develop AI video analytics systems for",
-      "webUrl": "https://www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "Sony, Microsoft unveil latest joint AI play",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/amp/",
-      "publishedDateTime": "2020-05-19T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

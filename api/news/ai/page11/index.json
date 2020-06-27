@@ -2,6 +2,91 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-06-15-were-never-going-to-get-meaningful-data-on-self-driving-car-testing.md",
+      "title": "We’re never going to get meaningful data on self-driving car testing",
+      "excerpt": "The US Department of Transportation launched a new voluntary program to collect and share data from autonomous vehicle operators. Companies testing AVs on public roads are invited to submit information to the government,",
+      "webUrl": "https://www.theverge.com/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary",
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/tPWCcMshwdjqMp7htX3K26tYh-s=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66938010/vpavic_191202_3827_0004.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "We’re never going to get meaningful data on self-driving car testing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary",
+      "publishedDateTime": "2020-06-15T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-ibm-watson-advertising-and-ad-council-will-use-ai-to-help-brands-do-social-good.md",
+      "title": "IBM Watson Advertising and Ad Council Will Use AI to Help Brands Do Social Good",
+      "excerpt": "During Adweek at Home, a weeklong virtual gathering of marketing and creativity’s most influential voices that kicked off today and runs until Thursday, IBM Watson Advertising announced a new initiative that offers brands the power of data,",
+      "webUrl": "https://www.adweek.com/agencies/ibm-watson-ad-council-ai-brands-social-good/",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/2020/06/ibm-call-for-creative-CONTENT-2020-640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": "IBM Watson Advertising and Ad Council Will Use AI to Help Brands Do Social Good",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.adweek.com/agencies/ibm-watson-ad-council-ai-brands-social-good/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/agencies/ibm-watson-ad-council-ai-brands-social-good/amp/",
+      "publishedDateTime": "2020-06-15T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-linkedin-ai-hiring-is-slowing-down-due-to-the-pandemic.md",
       "title": "LinkedIn: AI hiring is slowing down due to the pandemic",
       "excerpt": "A new report published by LinkedIn found that AI and machine learning jobs hiring slowed down in the weeks following the COVID-19 outbreak.",
@@ -1244,92 +1329,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-assembling-a-top-notch-ai-team.md",
-      "title": "Assembling A Top-Notch AI Team",
-      "excerpt": "Even though there are many great AI software tools on the market, you still need to assemble a strong team when it comes to putting together projects. The technology is complex and evolving. There are also the challenges of change management within an organization.",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F981091096%2F0x0.jpg%3FcropX1%3D469%26cropX2%3D7295%26cropY1%3D0%26cropY2%3D3840",
-          "width": 1200,
-          "height": 675,
-          "title": "Assembling A Top-Notch AI Team",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/amp/",
-      "publishedDateTime": "2020-06-14T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-improving-financial-sentiment-analysis-with-machine-learning-proxy-servers.md",
-      "title": "Improving Financial Sentiment Analysis with Machine Learning & Proxy Servers",
-      "excerpt": "Improving financial sentiment analysis with Afrtificial intelligence, machine learning and proxy servers is the new word in trading. Here's why",
-      "webUrl": "https://www.financemagnates.com/fintech/trading/improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/",
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2019/05/AI_risk-management.jpg",
-          "width": 880,
-          "height": 400,
-          "title": "Improving Financial Sentiment Analysis with Machine Learning & Proxy Servers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.financemagnates.com/fintech/trading/improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/trading/improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/amp/",
-      "publishedDateTime": "2020-06-14T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance",
-        "Natural Language Processing"
       ]
     }
   ],

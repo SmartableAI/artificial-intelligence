@@ -2,6 +2,100 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-06-03-ios-14-safari-to-get-built-in-translation-better-apple-pencil-support.md",
+      "title": "iOS 14 Safari to get built-in translation, better Apple Pencil support",
+      "excerpt": "The Internet has made the world a smaller place but, unless you’ve taken time to learn multiple languages, chances are you’ll come across pages that are incomprehensible to you.",
+      "webUrl": "https://www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/safari-ipados.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "iOS 14 Safari to get built-in translation, better Apple Pencil support",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/amp/",
+      "publishedDateTime": "2020-06-02T19:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-waymo-to-bring-self-driving-minivans-back-to-bay-area-for-delivering-packages.md",
+      "title": "Waymo to bring self-driving minivans back to Bay Area for delivering packages",
+      "excerpt": "Waymo's self-driving minivans will return to the streets of the Bay Area on June 8. The vehicles will focus on delivering packages for non-profit organizations.",
+      "webUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?itm_source=10&itm_content=2x2&itm_term=2376504",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/waymo-one-ride-sharing-3-1200x630-c-ar1.91.jpg",
+          "width": 720,
+          "height": 376,
+          "title": "Waymo to bring self-driving minivans back to Bay Area for delivering packages",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp",
+      "publishedDateTime": "2020-06-02T19:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated.md",
       "title": "Alphabet, Google CEO: Artificial intelligence needs to be regulated",
       "excerpt": "Alphabet and Google CEO Sundar Pichai called today for artificial intelligence to be regulated. \"There is no question in my mind that artificial intelligence needs to be regulated ... touch guidelines for regulating driverless cars and trucks —a move ...",
@@ -993,99 +1087,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-is-your-sales-team-ready-for-ai.md",
-      "title": "Is Your Sales Team Ready For AI?",
-      "excerpt": "While the human connection factor remains a significant part of closing any deal, the advances in technology, such as AI, can help negate the impact of other factors.",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F06%2F881.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Is Your Sales Team Ready For AI?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/amp/",
-      "publishedDateTime": "2020-06-02T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-this-voice-recorder-looks-like-a-cassette-tape-and-uses-ai-to-transcribe-10-languages.md",
-      "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
-      "excerpt": "The 399 yuan (US$56) gadget needs five minutes to transcribe each hour of content. It uses Bluetooth to connect to a smartphone app, which you can open to read the transcript. And don’t worry about your bilingual recordings: iFlytek says the Recording Pen can transcribe a person switching between Chinese and English words.",
-      "webUrl": "https://www.scmp.com/abacus/tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10-languages",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/06/02/image2.png?itok=6NP11nIO",
-          "width": 1200,
-          "height": 630,
-          "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/abacus/tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10-languages",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10-languages",
-      "publishedDateTime": "2020-06-02T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
