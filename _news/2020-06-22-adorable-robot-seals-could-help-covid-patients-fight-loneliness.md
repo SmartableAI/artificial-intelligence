@@ -8,7 +8,7 @@ ampWebUrl: "https://futurism.com/robot-seals-help-covid-patients-fight-lonelines
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/robot-seals-help-covid-patients-fight-loneliness/amp"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     height: 315
     isCached: true
     title: "Adorable Robot Seals Could Help COVID Patients Fight Loneliness"
-
-related:
-  - title: "There’s No Cure for Covid-19 Loneliness, but Robots Can Help"
-    excerpt: "It's hard to replace human contact. But during a pandemic, robots can help patients fight off feelings of isolation and despair."
-    publishedDateTime: 2020-06-22T12:00:00Z
-    webUrl: "https://www.wired.com/story/covid-19-robot-companions/"
-    ampWebUrl: "https://www.wired.com/story/covid-19-robot-companions/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-19-robot-companions/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/5eebec3f9c7b73c795c4a8f9/master/pass/Culture_paroseal_h_6.07051502.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
 
 secured: "RptQVFILJJVApkavxq20TvTJ4FM5cK5UmynrBdhj+phzyLfCglQSUF2KuppPdDsB6kwV8w8SFz/u5gSY4gB3/KQE+2rh9fF/r625GFz5/qvtpgVndN5QdA4gakLPy13orAzsOFDh4eDGOybxBGkQmCn1TO5InsTCzCXDt5RP1RD/TPISW6flvGokMZX9byQXVczm4bcoiIKkThKH7ZS7pwCzGCDL+F6kKLgFCuKMyft5NYuOKA3EpjrA43ZnW7pEO3BI5DOBY+MFB9uT889mTFriyNsMuM3biFr4iPHKLLEf2Q+k6Sy6cFg2Cz7Fp2u1OVjPt7Vt6xlW6NFnL31okUIvAZwSgOMPXIXIbMA/IzwdxscPV62DDnp59a7+geOItaYo1UcKHqRoGVu4QQHXvjmPBHcoTIh0gJf2l0uw6GuvRP9wfZJil/AOsgY6HDRibvSm5kwZnbjNglOxqc6W0VRzoN3GmRY2d3o0R+lfZH+7+yRUuaaO//UL81nvoEq7eXCwxwFtUvIe4AzV1a3ntQ==;/g4x4eR3wyufssnzPnU/Qw=="
 ---

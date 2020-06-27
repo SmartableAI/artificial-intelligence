@@ -110,17 +110,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "Uber putting self-driving cars back on the road"
-    excerpt: "The on-demand ride service grounded its test fleet of self-driving cars pending an investigation into a crash of an Uber autonomous vehicle in Arizona. No one was seriously injure"
-    publishedDateTime: 2020-06-22T11:46:00Z
-    webUrl: "https://www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186"
-    ampWebUrl: "https://www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186?view=htmlamp"
-    cdnAmpWebUrl: "https://www-nation-co-ke.cdn.ampproject.org/c/s/www.nation.co.ke/kenya/life-and-style/travel/uber-putting-self-driving-cars-back-on-the-road-379186?view=htmlamp"
-    type: article
-    provider:
-      name: Daily Nation
-      domain: nation.co.ke
-    quality: 24
   - title: "NVIDIA & Mercedes Benz Partner For Self-Driving Cars"
     excerpt: "Computing component manufacturer, NVIDIA, has partnered with luxury car maker, Mercedes Benz, for the production of an advanced computing system to run self-driving cars – potentially in fleets as early as 2024."
     publishedDateTime: 2020-06-24T01:51:00Z

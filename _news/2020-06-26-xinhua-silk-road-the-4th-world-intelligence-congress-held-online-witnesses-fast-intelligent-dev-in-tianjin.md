@@ -24,20 +24,6 @@ images:
     title: "Xinhua Silk Road: The 4th World Intelligence Congress held online witnesses fast intelligent dev. in Tianjin"
 
 related:
-  - title: "4th World Intelligence Congress to be held online"
-    excerpt: "A news report by China.org.cn on 4th World Intelligence Congress: The 4th World Intelligence Congress (WIC), a top-level event in the field"
-    publishedDateTime: 2020-06-22T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/4th-world-intelligence-congress-to-be-held-online-301080852.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://i1.ytimg.com/vi/ZN8JP5HUj1o/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "The Fourth World Intelligence Congress Kicked Off Online in Tianjin"
     excerpt: "On the afternoon of June 23, the Fourth World Intelligence Congress kicked off in Media Theater, Tianjin. Wan Gang, Vice Chairman of CPPCC"
     publishedDateTime: 2020-06-25T13:13:00Z

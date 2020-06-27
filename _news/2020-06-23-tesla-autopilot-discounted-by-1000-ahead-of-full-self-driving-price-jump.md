@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T00:29:00Z
 webUrl: "https://www.thedrive.com/tech/34273/tesla-autopilot-discounted-by-1000-ahead-of-full-self-driving-price-jump"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 1080
     isCached: true
     title: "Tesla Autopilot Discounted by $1000 Ahead of 'Full Self-Driving' Price Jump"
-
-related:
-  - title: "The key differences between Tesla’s driving aids: Autopilot and Full Self-Driving"
-    excerpt: "In this edition of Shift Basics, we take a look at what Tesla's Autopilot and Full Self-Driving are, how they're different, and what they cost."
-    publishedDateTime: 2020-06-22T13:00:00Z
-    webUrl: "https://thenextweb.com/shift/2020/06/22/differences-between-teslas-autopilot-and-full-self-driving-system-adas-tech/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 79
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/second-Autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving-796x448.png"
-        width: 796
-        height: 448
-        isCached: true
 
 secured: "DW+PaS9POLwLUZienXhBrDy2IfH2d6/7mpgjwBExZil3ow0uent5LiG/zWmvyRuz3aNE9FnL/B1mi9+6sa81I7dQ7glF2IGMbVM9q1C4ore7yFB2w/EGaKNoNZw/kbTXHHozXUoH0tlJtywZ8mzQDJXve+J6DP4PTEYnhqd0vpmgqobkSrr21+TsqaROm0SAdHPWmuBoc1Cz5KdPWYiYdRnb52hofrX+NqU4KT8naVll6hLDxZBf8s0NOU/ed8sLSNs7zFGfbtn/kFc4mLkunQu7YaI0oeNCQnoXnCoh1zUHpo8Q0tSJwMF5LWWmMYWrrJXw8HO7yleBOjSSW7Zg1p+RFAE4Sea8US2p4poFQZuExZptJJ0d8kresl212nOzf7aSJTXvAN+8z2lDtnwptx+poMGqlx849GIdo9HlkA4Q4ACt+yhzWRm98nq37EMJ0pUtVKQ6Xe4qkZfZji7BcKx6estYltLe4aIV3sLSewqky555sNCI04GtrNfHgN1YjXm68iwIexRVPHhbOC11Tw==;t+/DTxOa7sRp4DrZTRyocg=="
 ---

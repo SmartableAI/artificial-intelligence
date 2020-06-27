@@ -95,17 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026"
-    excerpt: "A leading research firm Zion Market research added a recent report on “Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026” to its research database."
-    publishedDateTime: 2020-06-22T11:34:00Z
-    webUrl: "https://surfacingmagazine.net/global-artificial-intelligence-ai-in-healthcare-market-sales-price-revenue-gross-margin-and-industry-share-2020-2026/"
-    ampWebUrl: "https://surfacingmagazine.net/global-artificial-intelligence-ai-in-healthcare-market-sales-price-revenue-gross-margin-and-industry-share-2020-2026/amp/"
-    cdnAmpWebUrl: "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/global-artificial-intelligence-ai-in-healthcare-market-sales-price-revenue-gross-margin-and-industry-share-2020-2026/amp/"
-    type: article
-    provider:
-      name: surfacingmagazine.net
-      domain: surfacingmagazine.net
-    quality: 44
   - title: "Deep Learning Market Growth 2020, Trends, Size, Share and Forecast By 2025"
     excerpt: "Deep learning is a subset of machine learning (ML) in the field of artificial intelligence (AI), which imitates the workings of the human brain for processing big data and creating patterns. Also known as a deep neural network, it plays a vital role in ..."
     publishedDateTime: 2020-06-24T05:47:00Z

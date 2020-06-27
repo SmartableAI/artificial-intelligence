@@ -90,17 +90,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026"
-    excerpt: "A leading research firm Zion Market research added a recent report on “Global Artificial Intelligence (AI) in Healthcare Market Sales, Price, Revenue, Gross Margin and Industry Share 2020-2026” to its research database."
-    publishedDateTime: 2020-06-22T11:34:00Z
-    webUrl: "https://surfacingmagazine.net/global-artificial-intelligence-ai-in-healthcare-market-sales-price-revenue-gross-margin-and-industry-share-2020-2026/"
-    ampWebUrl: "https://surfacingmagazine.net/global-artificial-intelligence-ai-in-healthcare-market-sales-price-revenue-gross-margin-and-industry-share-2020-2026/amp/"
-    cdnAmpWebUrl: "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/global-artificial-intelligence-ai-in-healthcare-market-sales-price-revenue-gross-margin-and-industry-share-2020-2026/amp/"
-    type: article
-    provider:
-      name: surfacingmagazine.net
-      domain: surfacingmagazine.net
-    quality: 44
   - title: "Artificial Intelligence in Manufacturing Market- Global Industry Analysis By Development, Size, Share and Demand Forecast From to 2023"
     excerpt: "Artificial Intelligence in Manufacturing Market: Global Drivers, Restraints, Opportunities, Trends, and Forecasts up"
     publishedDateTime: 2020-06-25T16:04:00Z

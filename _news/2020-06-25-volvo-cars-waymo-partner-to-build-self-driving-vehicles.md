@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN23W2V0"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN23W2V0"
 type: article
 quality: 89
-heat: 329
+heat: 339
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-IF322_Amazon_ZG_20200427143916.jpg"
         width: 1320
         height: 742
+        isCached: true
+  - title: "Baidu-backed maker of self-driving vehicle sensors said to be in talks to go public"
+    excerpt: "Velodyne Lidar, in which Baidu and Ford invested US$150 million in 2016, makes radar-like systems used in autonomous vehicles."
+    publishedDateTime: 2020-06-27T04:57:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 83
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/27/019fd42e-b830-11ea-94a5-08ba74052128_image_hires_125654.jpeg?itok=1xTXJ5JH&v=1593233821"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Volvo will use Waymo’s self-driving technology to power a fleet of electric robotaxis"
     excerpt: "Waymo is the “exclusive global L4 partner” for Volvo Car Group, the two companies announced Thursday. That means that Volvo will integrate Waymo’s autonomous driving technology, widely considered to be among the best in the world,"

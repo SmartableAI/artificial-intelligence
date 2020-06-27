@@ -1,30 +1,34 @@
 ---
 category: news
-title: "Volvo Car Group And Waymo Team Up To Develop Self-Driving Vehicles"
-excerpt: "Volvo Car Group and Waymo have established a strategic partnership that will see the Google-owned self-driving tech company become the car manufacturer’s exclusive L4 (Level 4) partner. The deal includes Volvo Car Group’s strategic affiliates Polestar and Lynk & Co International,"
-publishedDateTime: 2020-06-26T09:53:00Z
-webUrl: "https://www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/"
-ampWebUrl: "https://www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/amp/"
-cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/amp/"
+title: "Baidu-backed maker of self-driving vehicle sensors said to be in talks to go public"
+excerpt: "Velodyne Lidar, in which Baidu and Ford invested US$150 million in 2016, makes radar-like systems used in autonomous vehicles."
+publishedDateTime: 2020-06-27T04:57:00Z
+webUrl: "https://www.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
+ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
 type: article
-quality: 59
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: Carscoops
-  domain: carscoops.com
+  name: South China Morning Post
+  domain: scmp.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.carscoops.com/wp-content/uploads/2020/06/Volvo-XC40-Recharge-0-1024x554.jpg"
-    width: 1024
-    height: 554
+  - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/27/019fd42e-b830-11ea-94a5-08ba74052128_image_hires_125654.jpeg?itok=1xTXJ5JH&v=1593233821"
+    width: 1200
+    height: 630
     isCached: true
-    title: "Volvo Car Group And Waymo Team Up To Develop Self-Driving Vehicles"
+    title: "Baidu-backed maker of self-driving vehicle sensors said to be in talks to go public"
 
 related:
   - title: "Volvo Cars, Waymo partner to build self-driving vehicles"
@@ -122,22 +126,6 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-IF322_Amazon_ZG_20200427143916.jpg"
         width: 1320
         height: 742
-        isCached: true
-  - title: "Baidu-backed maker of self-driving vehicle sensors said to be in talks to go public"
-    excerpt: "Velodyne Lidar, in which Baidu and Ford invested US$150 million in 2016, makes radar-like systems used in autonomous vehicles."
-    publishedDateTime: 2020-06-27T04:57:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 83
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/27/019fd42e-b830-11ea-94a5-08ba74052128_image_hires_125654.jpeg?itok=1xTXJ5JH&v=1593233821"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Volvo will use Waymo’s self-driving technology to power a fleet of electric robotaxis"
     excerpt: "Waymo is the “exclusive global L4 partner” for Volvo Car Group, the two companies announced Thursday. That means that Volvo will integrate Waymo’s autonomous driving technology, widely considered to be among the best in the world,"
@@ -250,6 +238,22 @@ related:
       - url: "https://media.bizj.us/view/img/11151320/volvo-cars-ceo-hakan-samuelsson*600xx3024-2016-0-311.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Volvo Car Group And Waymo Team Up To Develop Self-Driving Vehicles"
+    excerpt: "Volvo Car Group and Waymo have established a strategic partnership that will see the Google-owned self-driving tech company become the car manufacturer’s exclusive L4 (Level 4) partner. The deal includes Volvo Car Group’s strategic affiliates Polestar and Lynk & Co International,"
+    publishedDateTime: 2020-06-26T09:53:00Z
+    webUrl: "https://www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/"
+    ampWebUrl: "https://www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/06/Volvo-XC40-Recharge-0-1024x554.jpg"
+        width: 1024
+        height: 554
         isCached: true
   - title: "Didi Chuxing and BAIC form self driving partnership"
     excerpt: "Chinese ride hailing company Didi Chuxing has entered into a strategic partnership with local carmaker BAIC Group, according to local reports."
@@ -405,6 +409,6 @@ related:
         height: 800
         isCached: true
 
-secured: "fzvXU7xrZ3PJjydAqXWBrBq/M4i2qordhsdqmhlxg+I05y6pNEFsT/PVedTpuUyHItOb5WfDSplTuSdoYP8cVsTH/hdUklkBetoBJLb/4JKQCX2WaMUaomDEu9g3C73rLU/u6Mr+eg27zmKVA0GP03L6R2r2WYYMMi97Bn/GWMt/TeW/rcWyv+8TRy+UJ1bN8IKW1j3AQpTxqceyKKMptku5vx14BEu2xCtiAOQIHN3TA+zsXXhqCsX+YcgXOrT28OLqtXaxVQGqNrVieGSBFFjKD8xOxuJAk9whGFaIknFqkCJn7oBIuf2AEfcJ1FNJ8Er/ANjAvVEuQHoah0o/lDWcOkBEYgjZEQwnItjEGUmTxLwNW21ia/eczxOPBpU7j9PMtzA3bEM9FPtuHnN2syI5Op0dC5rrqSibU3xGYuyyQOQbCh097Ngca+cdvPDyXDWUqY2c3xULdtYmn+6hMYllwO32XUM1POCAfCM4oSjztv1ao7HjQdh+nTxELdq49EVFrQjeAPd6IcX5mA62ow==;46j/mUmgGj7sUtxnu6xKBw=="
+secured: "ncAQh+IU4dGp4K+qwoFuhCEVUgFWzQiwINIY0JzwIDi7/gGm8U4EQvqWcRKOjBUd4dmBZ7SCEBjwX/65RaGRmlRDtHOo2/rtodPodec4bmyb7dAG+TkZI6ycBgw7lX5EjPMMmDRRpp1Z1Tnp00v+ZLgHdbQOdnARZwVL39pKab2poqOAHUwnqRQf034jJYbyXIXtdSa1MJ91JOqpiK0CW4kZPPxZKdX+d5mFFMZilSJGPFDtLfS5pNhmg5N9QRe2kfn63Kd2YtG8ZTEmQMOMjabWgEi6OmfbF1SH5jjHW+OElSCiE+N6O6rvWSRc1H908lT6pr1hHxXFwOEdbHZiuQ==;IxHIwS7bkFNnGbOduzX/qw=="
 ---
 
