@@ -25,20 +25,6 @@ images:
     title: "Microsoft Buys Israeli Company CyberX To Boost Azure IoT Security Capabilities"
 
 related:
-  - title: "Microsoft to acquire CyberX to bolster Azure IoT security"
-    excerpt: "Microsoft has announced it will purchase the industrially focused network security vendor CyberX for an undisclosed sum in an effort to bolster the security capabilities of its Azure IoT platform. The acquisition strikes at the heart of two key IIoT security pain points."
-    publishedDateTime: 2020-06-23T10:49:00Z
-    webUrl: "https://www.techcentral.ie/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 54
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2016/03/IOT_2016.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Microsoft acquires CyberX to bolster Azure IoT security"
     excerpt: "Microsoft has announced the acquisition of IoT security specialist CyberX to beef up Azure IoT’s capabilities and help customers assess their risk profile across industrial environments. CyberX, which will complement existing Azure IoT security offerings,"
     publishedDateTime: 2020-06-24T06:35:00Z

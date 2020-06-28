@@ -47,22 +47,6 @@ related:
         width: 2400
         height: 1602
         isCached: true
-  - title: "Amazon announces purchase of Zoox, a self-driving, ride-hailing vehicle maker"
-    excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that"
-    publishedDateTime: 2020-06-26T15:29:00Z
-    webUrl: "https://www.marketwatch.com/story/amazon-announces-purchase-of-zoox-a-self-driving-ride-hailing-vehicle-maker-2020-06-26"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/amazon-announces-purchase-of-zoox-a-self-driving-ride-hailing-vehicle-maker-2020-06-26"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amazon-announces-purchase-of-zoox-a-self-driving-ride-hailing-vehicle-maker-2020-06-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
-    images:
-      - url: "https://s.marketwatch.com/public/resources/images/MW-IF322_Amazon_ZG_20200427143916.jpg"
-        width: 1320
-        height: 742
-        isCached: true
   - title: "Amazon Buys Self-Driving Company Zoox For $1.2B And May Rule The World"
     excerpt: "Reports have emerged that Amazon.com will purchase self-driving startup Zoox for “more than $1.2B” with exact details of the deal not disclosed."
     publishedDateTime: 2020-06-26T18:40:00Z
@@ -126,6 +110,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200626&t=2&i=1523697904&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5P0G9"
         width: 817
         height: 545
+        isCached: true
+  - title: "BMW Takes Self-Driving to the Next Level"
+    excerpt: "It’s the point at which you get to call something a self-driving car. BMW’s system—no proper marketing name yet—will debut on the iNext, an all-new, all-electric production vehicle modeled on the 2018 iNext concept, an exuberantly futuristic take ..."
+    publishedDateTime: 2020-06-23T20:05:00Z
+    webUrl: "https://www.autoweek.com/news/technology/a32852529/bmw-takes-self-driving-to-the-next-level/"
+    ampWebUrl: "https://www.autoweek.com/news/technology/amp32852529/bmw-takes-self-driving-to-the-next-level/"
+    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp32852529/bmw-takes-self-driving-to-the-next-level/"
+    type: article
+    provider:
+      name: Autoweek
+      domain: autoweek.com
+    quality: 44
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/p90321870-highres-bmw-vision-inext-ext-1592930565.jpg?crop=1.00xw:0.754xh;0,0&resize=1200:*"
+        width: 1200
+        height: 603
         isCached: true
   - title: "Amazon Agrees To Buy Self-Driving Startup Zoox For Over $1bn: Report"
     excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, according to a report in The Information, citing sources, in a move that would"

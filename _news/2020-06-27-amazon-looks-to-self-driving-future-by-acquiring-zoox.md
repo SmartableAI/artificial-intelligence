@@ -168,6 +168,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon will have to invest many billions more than it's spending on Zoox to bring self-driving tech to market"
+    excerpt: "Amazon's announced purchase of Zoox on Friday is just the beginning of its investment in a nascent technology that will cost billions more to bring to market."
+    publishedDateTime: 2020-06-26T20:55:00Z
+    webUrl: "https://www.cnbc.com/2020/06/26/amazon-spending-1-billion-on-zoox-will-have-to-invest-billions-more.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/26/amazon-spending-1-billion-on-zoox-will-have-to-invest-billions-more.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-spending-1-billion-on-zoox-will-have-to-invest-billions-more.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 55
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106201621-1571933003929gettyimages-1177532680.jpeg?v=1591693465"
+        width: 4500
+        height: 2976
+        isCached: true
   - title: "5 key takeaways from Amazon's $1 billion acquisition of self-driving startup Zoox"
     excerpt: "Analysts say the Zoox acquisition gives a good look into Amazon's thinking over a number of different areas, including delivery and M&A strategies."
     publishedDateTime: 2020-06-26T18:59:00Z

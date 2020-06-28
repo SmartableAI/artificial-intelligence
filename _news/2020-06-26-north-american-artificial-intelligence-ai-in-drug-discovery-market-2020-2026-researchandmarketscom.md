@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Global Artificial General Intelligence Market 2020-2025 - General Purpose AI will Create a Positive Feedback Loop for the IoT Market - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial General Intelligence Market: General Purpose Artificial Intelligence, AI Agent Platforms, and Software 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. This research evaluates the artificial general intelligence market including leading companies,"
-    publishedDateTime: 2020-06-23T09:45:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200623005441/en/Global-Artificial-General-Intelligence-Market-2020-2025--"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200623005441/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Global Virtual Communication Market & Technology to 2028 - Impact of 4 Major Trends on Videoconferencing - ResearchAndMarkets.com"
     excerpt: "The \"Global Virtual Communication Market & Technology to 2028\" report has been added to ResearchAndMarkets.com's offering. The increase in the number of different technologies, such as machine learning,"
     publishedDateTime: 2020-06-23T11:10:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/24/21301759/facial-reco
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence"
 type: article
 quality: 103
-heat: 283
+heat: 273
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     title: "ACLU files first formal complaint over wrongful facial recognition arrest"
 
 related:
-  - title: "Why Are Technology Companies Quitting Facial Recognition?"
-    excerpt: "These companies are reacting wisely to the potential for bias and the potential abuse of this technology in law enforcement. Let's examine three main issues related to the use of facial recognition technology in law enforcement: bias,"
-    publishedDateTime: 2020-06-23T10:05:00Z
-    webUrl: "https://www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/"
-    ampWebUrl: "https://www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/06/23/why-are-technology-companies-quitting-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef0efa98548c80006be6f69%2F0x0.jpg%3FcropX1%3D262%26cropX2%3D633%26cropY1%3D0%26cropY2%3D371"
-        width: 372
-        height: 371
-        isCached: true
   - title: "Boston Bans Police Forces From Using Facial Recognition"
     excerpt: "It’s official, as of today, Boston’s become the second-largest US community to ban police use of facial recognition technology, thanks to a unanimous vote by more than a dozen city council people. The move follows similar bans by the neighboring cities Brookline,"
     publishedDateTime: 2020-06-24T19:02:00Z

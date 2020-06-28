@@ -2,6 +2,53 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-23-appen-75-of-employees-believe-ai-is-critical-to-their-business.md",
+      "title": "Appen: 75% of employees believe AI is critical to their business",
+      "excerpt": "In a survey conducted by AI data services company Appen, 75% of employees said they considered AI critical to their business.",
+      "webUrl": "https://venturebeat.com/2020/06/23/appen-75-of-employees-believe-ai-is-critical-to-their-business/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Appen: 75% of employees believe AI is critical to their business",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/23/appen-75-of-employees-believe-ai-is-critical-to-their-business/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/appen-75-of-employees-believe-ai-is-critical-to-their-business/amp/",
+      "publishedDateTime": "2020-06-23T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-police-forces-in-canada-are-quietly-adopting-facial-recognition-tech.md",
       "title": "Police Forces in Canada Are Quietly Adopting Facial Recognition Tech",
       "excerpt": "Police in York and Peel regions are in the process of buying the technology, which has been shown to be racially biased.",
@@ -1318,53 +1365,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-tecton-brings-devops-to-machine-learning.md",
-      "title": "Tecton brings DevOps to machine learning",
-      "excerpt": "A startup recently emerging from stealth is aiming to automate much of the process for feature development with the goal of making data scientists more self-reliant.",
-      "webUrl": "https://www.zdnet.com/article/tecton-brings-devops-to-machine-learning/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/18/bb324131-419c-4632-8d07-656ac812348e/thumbnail/1200x675/e60c1e4feed1efc2d474a1da9acedbf0/feature-engineering.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Tecton brings DevOps to machine learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tecton-brings-devops-to-machine-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tecton-brings-devops-to-machine-learning/",
-      "publishedDateTime": "2020-06-22T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,44 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-06-02-self-driving-startup-argo-closes-26-billion-tie-up-with-vw.md",
+      "title": "Self-Driving Startup Argo Closes $2.6 Billion Tie-Up With VW",
+      "excerpt": "Argo AI, the self-driving startup tightly aligned with Ford Motor Co., completed an expected tie-up with Volkswagen AG involving a $2.6 billion investment from the German automaker. VW’s ...",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-06-02/self-driving-startup-argo-completes-2-6-billion-tie-up-with-vw",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-06-02/self-driving-startup-argo-completes-2-6-billion-tie-up-with-vw",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-02/self-driving-startup-argo-completes-2-6-billion-tie-up-with-vw",
+      "publishedDateTime": "2020-06-01T21:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-using-artificial-intelligence-this-start-up-is-helping-enterprises-connect-better.md",
       "title": "Using Artificial Intelligence, This Start-Up Is Helping Enterprises Connect Better",
       "excerpt": "Bengaluru-based Yellow Messenger offers an always-on, intelligent conversational automation on text and voice across multiple channels such as WhatsApp, Google Assistant and Alexa.",
@@ -1250,52 +1288,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-jeff-bezos-is-buying-a-stake-in-uk-digital-supply-chain-startup-beacon.md",
-      "title": "Jeff Bezos is buying a stake in UK digital supply chain startup Beacon",
-      "excerpt": "Based in London and founded in 2018, Beacon's investors already include executives from Uber, Google and Amazon, the firm says.",
-      "webUrl": "https://www.cnbc.com/2020/05/31/report-amazons-jeff-bezos-buying-stake-in-uk-digital-startup-beacon.html",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106284164-1575739700440gettyimages-1079533948.jpeg?v=1587656573",
-          "width": 5000,
-          "height": 3334,
-          "title": "Jeff Bezos is buying a stake in UK digital supply chain startup Beacon",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/31/report-amazons-jeff-bezos-buying-stake-in-uk-digital-startup-beacon.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/31/report-amazons-jeff-bezos-buying-stake-in-uk-digital-startup-beacon.html",
-      "publishedDateTime": "2020-06-01T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

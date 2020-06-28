@@ -2,6 +2,52 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-06-15-we-need-to-gather-as-much-data-as-we-can-how-ai-could-change-everything-about-education.md",
+      "title": "'We need to gather as much data as we can': How AI could change everything about education",
+      "excerpt": "COVID-19 has been a trial by fire for technology in education, but the sector needs to gather what it has learnt quickly if it wishes to edge forward with digital transformation.",
+      "webUrl": "https://www.techrepublic.com/article/we-need-to-gather-as-much-data-as-we-can-how-ai-could-change-everything-about-education/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/03/3a19062e-b5ae-4474-8195-6fdd48148608/thumbnail/1200x675/6ffda78e1c1d9c2e1f05fd41f9fa265a/20200303-ai-tom.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "'We need to gather as much data as we can': How AI could change everything about education",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/we-need-to-gather-as-much-data-as-we-can-how-ai-could-change-everything-about-education/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/we-need-to-gather-as-much-data-as-we-can-how-ai-could-change-everything-about-education/",
+      "publishedDateTime": "2020-06-15T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-company-boards-arent-ready-for-the-ai-revolution.md",
       "title": "Company boards aren't ready for the AI revolution",
       "excerpt": "Other businesses are now following suit, eager not to miss out on the AI advantage. I’m certain that companies which delay drafting and delivering their own AI strategies are bound for obsolescence. However,",
@@ -1272,35 +1318,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-udacity-microsoft-partner-to-launch-machine-learning-scholarship-program.md",
-      "title": "Udacity & Microsoft partner to Launch Machine Learning Scholarship Program",
-      "excerpt": "One of the world’s leading lifelong learning platforms Udacity has collaborated with Microsoft to confer scholarships for its all new Machine Learning Nanodegree program in Microsoft",
-      "webUrl": "https://indiaeducationdiary.in/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/?amp",
-      "publishedDateTime": "2020-06-12T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

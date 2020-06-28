@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technol
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html"
 type: article
 quality: 74
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://i.insider.com/5dc17beb7eece50907358663?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Amazon will have to invest many billions more than it's spending on Zoox to bring self-driving tech to market"
+    excerpt: "Amazon's announced purchase of Zoox on Friday is just the beginning of its investment in a nascent technology that will cost billions more to bring to market."
+    publishedDateTime: 2020-06-26T20:55:00Z
+    webUrl: "https://www.cnbc.com/2020/06/26/amazon-spending-1-billion-on-zoox-will-have-to-invest-billions-more.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/26/amazon-spending-1-billion-on-zoox-will-have-to-invest-billions-more.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-spending-1-billion-on-zoox-will-have-to-invest-billions-more.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 55
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106201621-1571933003929gettyimages-1177532680.jpeg?v=1591693465"
+        width: 4500
+        height: 2976
         isCached: true
   - title: "Amazon Looks to Self-Driving Future by Acquiring Zoox"
     excerpt: "Amazon says it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will pull up without a driver."
