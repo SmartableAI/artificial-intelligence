@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Amazon agrees to buy self-driving startup Zoox for over $1 billion: Report"
-excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology."
-publishedDateTime: 2020-06-26T06:35:00Z
-webUrl: "https://www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report"
-ampWebUrl: "https://www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report.amp"
-cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report.amp"
+title: "China's Didi starts self-driving ride service in Shanghai"
+excerpt: "Shanghai, June 28 (IANS) Ride-hailing giant Didi Chuxing (DiDi) has launched the trial run of self-driving ride service on designated test roads in the eastern metropolis of Shanghai."
+publishedDateTime: 2020-06-28T11:54:00Z
+webUrl: "https://www.sify.com/finance/chinas-didi-starts-self-driving-ride-service-in-shanghai-news-topnews-ug2lOAfhjfbed.html"
 type: article
-quality: 42
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Fox Business
-  domain: foxbusiness.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2020/05/Zoox3.png"
-    width: 952
-    height: 536
+  - url: "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg"
+    width: 600
+    height: 400
     isCached: true
-    title: "Amazon agrees to buy self-driving startup Zoox for over $1 billion: Report"
+    title: "China's Didi starts self-driving ride service in Shanghai"
 
 related:
   - title: "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing"
@@ -331,6 +329,22 @@ related:
         width: 870
         height: 485
         isCached: true
+  - title: "Amazon agrees to buy self-driving startup Zoox for over $1 billion: Report"
+    excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology."
+    publishedDateTime: 2020-06-26T06:35:00Z
+    webUrl: "https://www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report"
+    ampWebUrl: "https://www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 42
+    images:
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2020/05/Zoox3.png"
+        width: 952
+        height: 536
+        isCached: true
   - title: "Amazon reportedly paying $1.2B for self-driving startup Zoox. Will it deliver for online e-tailing giant?"
     excerpt: "Amazon is paying over $1.2 billion for the six-year-old autonomous driving tech company, according to the Financial Times."
     publishedDateTime: 2020-06-27T12:04:00Z
@@ -376,20 +390,6 @@ related:
       - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200
         height: 878
-        isCached: true
-  - title: "China's Didi starts self-driving ride service in Shanghai"
-    excerpt: "Shanghai, June 28 (IANS) Ride-hailing giant Didi Chuxing (DiDi) has launched the trial run of self-driving ride service on designated test roads in the eastern metropolis of Shanghai."
-    publishedDateTime: 2020-06-28T11:54:00Z
-    webUrl: "https://www.sify.com/finance/chinas-didi-starts-self-driving-ride-service-in-shanghai-news-topnews-ug2lOAfhjfbed.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
-    images:
-      - url: "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg"
-        width: 600
-        height: 400
         isCached: true
   - title: "Amazon agrees to buy self-driving technology startup Zoox"
     excerpt: "Amazon.com Inc has agreed to buy California-based self-driving startup Zoox Inc in a deal reported to be worth more than $1 billion that gives it options to use autonomous technology in either ride-hailing or its delivery network."
@@ -475,6 +475,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "94ZaZk8p17Sl0znvTxg4/bj8Mr0p+rqR5wecXD9GTZ9gBMEzKEDiqZbeZqZruiKHTeFxtgW795hpPtzp6dMrUU3lC2BXzlosFg8nCTsVKsTcqb+WCh4Y9BQHpROTrKBhWuovyiABRuJpXmbdQQoEs3+Y3j/Re8QuNH73Jo8j1Secqqp8mLFFT7jKxSKshHcJvR7VBGZ/f1zRsu5qh4n8cfBqybMg9zgsFizEiodwdR0TqmKTlbsnOn3bIHbhJwy5yLu5GWYwqrzP0T6RBjFsl9f4YXAs9z91Cyx5gFo4+49gWgSes4CUmA2D2hdEZGRc4isN6OupltbKf7S6cqUiRqKhrglcesVzk9i8VerRjWekB9Px42dhSd9cVoJuD3Aqjeb4PlWoTRvRaaH1HsfvNDO6lXrqxiQX+Pz9evNOmuvSDvHNwM0prj8u83kIPu8TCWpJRF7HFY0SOaL3oarARc8txWM1fKZoarfmITx3ZEqtpsvND6ew/VEZLRRe0vPJ0OHhlsMyPLdqEdx7Knw6cA==;XB0Kmm3G4OhrMHPWgQBpIg=="
+secured: "Cwge4OxjjFnjn/DqrFXlDYv/7uNYIGRO+XZpiF5tXF35tAcHG00E7xRxL1/9PtFb+mRhPCgnPbJyHU63ToSVW1a+3cTwCtUzEQeB27kCc5fpE3cJYi3gBc35W+lTU9XXxW1OH9pD0msroBs5uVFIjGmSvek5zPzKW2pgav8VbpEfHhSvSsQoIBzV3FOzOhECedwcoOMa4MnEsqH8QuwyJgZLdCRuUFMeKegSYhx2ovjRHD5drGg3G6rSAn3Xpgu06j0qpAUAjeX+6a/dZWuuszOUcE50ACHsSt4SVHtGqpJ5KA3cPErpOo6eXtQsFBL5lvRTmDoDa8IntlHstycu8g==;pIPE/PKn1NaM8nKi1mG0vg=="
 ---
 

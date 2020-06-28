@@ -2,31 +2,40 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-06-23-machine-learning-has-a-huge-flaw-its-gullible.md",
-      "title": "Machine Learning Has a Huge Flaw: It’s Gullible",
-      "excerpt": "Research shows how humans can shield machine learning from manipulation. Artificial intelligence and machine learning technologies are poised to supercharge productivity in the knowledge economy, transforming the future of work.",
-      "webUrl": "https://scitechdaily.com/machine-learning-has-a-huge-flaw-its-gullible/",
-      "heat": 79,
+      "path": "_news/2020-06-23-what-a-machine-learning-tool-that-turns-obama-white-can-and-cant-tell-us-about-ai-bias.md",
+      "title": "What a machine learning tool that turns Obama white can (and can’t) tell us about AI bias",
+      "excerpt": "This image speaks volumes about the dangers of bias in AI.” But what’s causing these outputs and what do they really tell us about AI bias? First, we need to know a little a bit about the technology being used here.",
+      "webUrl": "https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias",
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://scitechdaily.com/images/Gullible-Machine-Learning-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": "Machine Learning Has a Huge Flaw: It’s Gullible",
+          "url": "https://cdn.vox-cdn.com/thumbor/GLeIAWEwxhvIP7CfZ4nkm6zKe0o=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/13762264/fake_ai_faces.png",
+          "width": 1400,
+          "height": 940,
+          "title": "What a machine learning tool that turns Obama white can (and can’t) tell us about AI bias",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/machine-learning-has-a-huge-flaw-its-gullible/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/machine-learning-has-a-huge-flaw-its-gullible/amp/",
-      "publishedDateTime": "2020-06-23T12:40:00-07:00",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias",
+      "publishedDateTime": "2020-06-23T12:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -35,8 +44,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {

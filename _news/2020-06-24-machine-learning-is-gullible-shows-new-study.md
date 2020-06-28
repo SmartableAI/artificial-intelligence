@@ -41,20 +41,6 @@ related:
         width: 777
         height: 518
         isCached: true
-  - title: "Machine learning has a flaw; it's gullible"
-    excerpt: "Artificial intelligence and machine learning technologies are poised to supercharge productivity in the knowledge economy, transforming the future of work. But they're far from perfect. Machine learning (ML) - technology in which algorithms \"learn\" from ..."
-    publishedDateTime: 2020-06-23T18:57:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/uom-mlh062320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
-        isCached: true
 
 secured: "trElfmRi+S2ASLg3UPWOvBTERzVt6YW2Tn25oN/HTpIckzFCFdubcHKtjVmpTSF5JuosNawr5IMpgMMmn0mrD1iyq4EuUdrHUQSEWXfvcn7o7avXBabhynNX/AV/nuLRaGAspsqe6NnzMfeLxi6DKbiYJPeu/qC4eW/1PPBGCETMcuHR4XYBquIG5fM3u7pdIhvPhWwNnLdrHcSomQUKRG+TRgDoirHI1EZRkOqZMVydhlMwqupn63zss43JMen8kzvW8+xPi8tBINtR2mJ6+HraCohyAMs2w21mVoQ36t/g/ggdmE6KvAgbQkZgONOfwJeH5e5J4KIF5n5XqOG6EgDQitIMeWyv6GNQNatD44g5kJaJps1/8gscxPMUVZvRm6qsGn483QG7TD4WgsUxfXJLvXrym6IHsFB+xI/HWGR6uvJ2LThGCHkMmIVEjPd4Yrk2EXTanjkGStkE9sfepmDn3tcW8psZieQjO5AmuYYe7JYPPPDa4Vgzf2jv3k/Y1FPJScuo6LxnpQl9Eyd2ig==;ebNAp4O6L7dDCkwJ+U0zDg=="
 ---

@@ -107,20 +107,6 @@ related:
         width: 850
         height: 478
         isCached: true
-  - title: "Legislation would block police from using facial recognition with body cam footage"
-    excerpt: "The newly introduced Stop Biometric Surveillance by Law Enforcement Act would ban federal law enforcement agencies from using facial recognition and other biometric surveillance technologies on"
-    publishedDateTime: 2020-06-23T18:38:00Z
-    webUrl: "https://www.biometricupdate.com/202006/legislation-would-block-police-from-using-facial-recognition-with-body-cam-footage"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/06/25113324/axon-body-camera-police.jpg"
-        width: 1600
-        height: 1065
-        isCached: true
 
 secured: "CXKg6KWeMMwSQIaX+5A+pTpKZWjuq3BF/tbkgPbSukYc3hNtLBN0YKHTc/IRR6pleqIzA9YBQtSwSABMaqfpJz08cPfWhP/MntlpktyYqh5QcXiy51EMws9xwLp2T+/WAzvxQHq/jyOtXILuI0KG59oncdPhnYx/ZqyfUrmKl86rPwDqdaPapqNOoX29h8HXT6x/VrwttOPTwTVHWF8lVhJeTIV01upI9I3+he0oPIQEtzyqKR6wq7SePYm3ES5UNiOYsXFKPoIRm8tKoKNFco8mg5da/GhHO5dMKYBcN834pW2vRHIq73uQPIviwLLe/ApzBiht6NX/VniRn5IAvg==;qHsW0FiX/QZzZaaX6E6S5A=="
 ---

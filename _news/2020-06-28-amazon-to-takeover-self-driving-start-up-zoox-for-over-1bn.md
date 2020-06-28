@@ -1,30 +1,30 @@
 ---
 category: news
-title: "Amazon agrees to buy self-driving startup Zoox for over $1 billion: Report"
-excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology."
-publishedDateTime: 2020-06-26T06:35:00Z
-webUrl: "https://www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report"
-ampWebUrl: "https://www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report.amp"
-cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report.amp"
+title: "Amazon to takeover self-driving start-up Zoox for over $1bn"
+excerpt: "Amazon.com has agreed to pay over US$1-billion to buy self-driving start-up Zoox, The Information reported on Thursday, citing sources"
+publishedDateTime: 2020-06-28T10:45:00Z
+webUrl: "https://www.vanguardngr.com/2020/06/amazon-to-takeover-self-driving-start-up-zoox-for-over-1bn/"
+ampWebUrl: "https://www.vanguardngr.com/2020/06/amazon-to-takeover-self-driving-start-up-zoox-for-over-1bn/amp/"
+cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/06/amazon-to-takeover-self-driving-start-up-zoox-for-over-1bn/amp/"
 type: article
-quality: 42
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Fox Business
-  domain: foxbusiness.com
+  name: Vanguard
+  domain: vanguardngr.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2020/05/Zoox3.png"
-    width: 952
-    height: 536
+  - url: "https://www.vanguardngr.com/wp-content/uploads/2019/12/cb730e8b-8d42-4c72-a1ba-1eb3677f8c14-amazon-logo-1024x430.png"
+    width: 1024
+    height: 430
     isCached: true
-    title: "Amazon agrees to buy self-driving startup Zoox for over $1 billion: Report"
+    title: "Amazon to takeover self-driving start-up Zoox for over $1bn"
 
 related:
   - title: "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing"
@@ -299,22 +299,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Amazon to takeover self-driving start-up Zoox for over $1bn"
-    excerpt: "Amazon.com has agreed to pay over US$1-billion to buy self-driving start-up Zoox, The Information reported on Thursday, citing sources"
-    publishedDateTime: 2020-06-28T10:45:00Z
-    webUrl: "https://www.vanguardngr.com/2020/06/amazon-to-takeover-self-driving-start-up-zoox-for-over-1bn/"
-    ampWebUrl: "https://www.vanguardngr.com/2020/06/amazon-to-takeover-self-driving-start-up-zoox-for-over-1bn/amp/"
-    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/06/amazon-to-takeover-self-driving-start-up-zoox-for-over-1bn/amp/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 44
-    images:
-      - url: "https://www.vanguardngr.com/wp-content/uploads/2019/12/cb730e8b-8d42-4c72-a1ba-1eb3677f8c14-amazon-logo-1024x430.png"
-        width: 1024
-        height: 430
-        isCached: true
   - title: "Amazon to buy Zoox for $1B, a self-driving car startup with Apple lineage"
     excerpt: "Online retail giant Amazon has reportedly agreed to pay over a billion dollars to buy Zoox, which was an early entrant into the autonomous car industry, and has previously hired away \"Apple Car\" engineers."
     publishedDateTime: 2020-06-26T12:06:00Z
@@ -330,6 +314,22 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/36437-67821-000-lead-Zoox-xl.jpg"
         width: 870
         height: 485
+        isCached: true
+  - title: "Amazon agrees to buy self-driving startup Zoox for over $1 billion: Report"
+    excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology."
+    publishedDateTime: 2020-06-26T06:35:00Z
+    webUrl: "https://www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report"
+    ampWebUrl: "https://www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-report.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 42
+    images:
+      - url: "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2020/05/Zoox3.png"
+        width: 952
+        height: 536
         isCached: true
   - title: "Amazon reportedly paying $1.2B for self-driving startup Zoox. Will it deliver for online e-tailing giant?"
     excerpt: "Amazon is paying over $1.2 billion for the six-year-old autonomous driving tech company, according to the Financial Times."
@@ -475,6 +475,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "94ZaZk8p17Sl0znvTxg4/bj8Mr0p+rqR5wecXD9GTZ9gBMEzKEDiqZbeZqZruiKHTeFxtgW795hpPtzp6dMrUU3lC2BXzlosFg8nCTsVKsTcqb+WCh4Y9BQHpROTrKBhWuovyiABRuJpXmbdQQoEs3+Y3j/Re8QuNH73Jo8j1Secqqp8mLFFT7jKxSKshHcJvR7VBGZ/f1zRsu5qh4n8cfBqybMg9zgsFizEiodwdR0TqmKTlbsnOn3bIHbhJwy5yLu5GWYwqrzP0T6RBjFsl9f4YXAs9z91Cyx5gFo4+49gWgSes4CUmA2D2hdEZGRc4isN6OupltbKf7S6cqUiRqKhrglcesVzk9i8VerRjWekB9Px42dhSd9cVoJuD3Aqjeb4PlWoTRvRaaH1HsfvNDO6lXrqxiQX+Pz9evNOmuvSDvHNwM0prj8u83kIPu8TCWpJRF7HFY0SOaL3oarARc8txWM1fKZoarfmITx3ZEqtpsvND6ew/VEZLRRe0vPJ0OHhlsMyPLdqEdx7Knw6cA==;XB0Kmm3G4OhrMHPWgQBpIg=="
+secured: "xGm3GVMXId6jcUS4yyhitZHj6aKv9t+Co2qUG1nfqNG2J46vxfBsQ5bSi0AOuJ0TkrQXCpsSOvAuk7BUHLi1yF8F0p50kUpapZ4cqP/XKKIWRRgBBnOs0iLPNpOtvhYs5XaTthVt3XP4094X9lhp/MFfgMrQFi7NM5j/ImEt3E14wBpctj7wzHY2HYB6s9Y3qTOMMG068Lj2K/7qVUwL/hjBFEMfhJ6oAXyvQr2n0K9lJY6BHNuE8peGNivTgDJnzs5bbmzzrOl6MiPp0b+4y+JS0RvexXa+KZWbJYB9lwFFwOGQn0VxGBwvR8p8mTpy8QkqtP7giLNDVxVNhXqV+g==;ktC0LgJwz6xM2BtaiL4QdA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-24T09:47:00Z
 webUrl: "https://www.csemag.com/articles/how-ai-and-robotics-will-evolve-architecture-and-design/"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 350
     isCached: true
     title: "How AI and robotics will evolve architecture and design"
-
-related:
-  - title: "Qualcomm Puts AI and 5G in the Hands of Robotics Designers"
-    excerpt: "According to Qualcomm’s press release, the platform features artificial intelligence (AI) and machine learning (ML) capabilities while still minimizing power consumption. This platform has been designed specifically for applications in robotics ..."
-    publishedDateTime: 2020-06-23T18:00:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/qualcomm-puts-ai-5g-in-hands-robotics-designers/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 69
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/RB5_Platform.jpg"
-        width: 700
-        height: 301
-        isCached: true
 
 secured: "X6gSuLCFv3k/VXNvX4Q/T5KecK1l+lP6lrp9SPq97HIPG5fTTre86XNrQU8lmJ7aCDignml0xudFaO9cLE7t7G9QXtz1VONGlq1nF6/ELUSk1/Ycx6v8Fq0HLCJA19ZqdoCIbLHXNvAiWXUzOLKWKAlbncIcekMXYa35cAuQDV7fwpSOxi9zrUSRws19V14fjCFZMLHsvEZBYGZqYmIgUePN/5lNrL53OV4TTjhw2xnuC7JSsWetdzf/1Ctw4GdSVhODBK8ZLo/mg+7XD5aEGIJkfHgKOXuhcXY092u7nq0npz+uBliOS5E1HdR8F83PvGpEMZc2bgNiyUpJb6j7yC17aR7pb3vvj3eQv4aROAJWTjYOKh/0SRZVU0K7yFRhpevujsH3I6E2kRmQwKrDbK7CNTXfzrAH1RW+Qh8ZfeAVK0+X2CyBWWlcvK7xkUxPSgX+l/MnBFR/RO7uPIMab5mBbrkpZIEzchgwdeYI88HWSobculr+ATsLpnQyCgy9OWA6Q7H+n08QyB9hNP2VNA==;eV9q5UElNuNFCZLCj8AFaA=="
 ---
