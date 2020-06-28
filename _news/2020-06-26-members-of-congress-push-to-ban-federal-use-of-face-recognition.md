@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/facial-recognition-ban-bill-democrats-1
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-ban-bill-democrats-182006734.html"
 type: article
 quality: 91
-heat: 222
+heat: 221
 published: true
 
 provider:

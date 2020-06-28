@@ -173,6 +173,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon Looks to Self-Driving Future by Acquiring Zoox"
+    excerpt: "Amazon says it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will pull up without a driver."
+    publishedDateTime: 2020-06-27T23:07:00Z
+    webUrl: "https://www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox"
+    ampWebUrl: "https://www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
   - title: "Winnipeg-based company to test self-driving buses in the U.S."
     excerpt: "Winnipeg-based New Flyer is going to be the first North America. David Warren, who is the director of sustainable transportation for New Flyer, said the project will take place in Connecticut and the Department of Transportation there will lead it."
     publishedDateTime: 2020-06-23T21:28:00Z

@@ -36,15 +36,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 76
-  - title: "Telefonica and GE Healthcare ink AI collaboration deal"
-    excerpt: "Telefonica has signed an agreement with GE Healthcare to work together on the development of joint projects in the field of Artificial Intelligence applied to health, medical imaging, diagnostic solutions and big data in Spain."
-    publishedDateTime: 2020-06-23T05:07:00Z
-    webUrl: "https://www.telecompaper.com/news/telefonica-and-ge-healthcare-ink-ai-collaboration-deal--1343495"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
 
 secured: "YjQj5MLM9jcczw9ScfTBOU51OMvb8zVC/IXaET+tDmnxcmjLCMVNbisojvs4KQFMmKB4YfCk99cAzTIyjat+PfJXnx8NnU4Tvt8p0/2hS9VHez3Xyr9ezk84BDQklSwfe4+QarK7GZMTICEyrcoxhmozWVCb30oZX5dlBHuZ48HgFOeKwtC46XfUbtJ4mhZhAnn23998cQCywoDD0FKXK1fiw9StCX+wbGPY2C5j6M7HvQatjk4M42cpT80zU/6CCz2QypJOcBX1PNaRP0IZ+D1dEJ0SDvzZsUSXz1xj+xW9rIoEVm37OrOESaVGnnGVTYMFf7+nHnOkzzQi2y3qh4bYPqJ1L+C8aD0kKhzIdJcj9jf7oFY/VE4TmC3QgUNa4jVZmQhK2ycbFNwfJX8ErB2j4UWidc/pzuVbPeNjJAOX4s4RGUT6etVFzXOXM9/AgFBm3zX+D6GFM4vtmOS15M0scwZvx35bOqrWjIpqwrJVVYqNE2EinD8xCSoiV/tLnFzdY/ke+qjliBFWlse9hA==;H+Z1+FD0vs1Px2jIuta7Cg=="
 ---

@@ -169,6 +169,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon Looks to Self-Driving Future by Acquiring Zoox"
+    excerpt: "Amazon says it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will pull up without a driver."
+    publishedDateTime: 2020-06-27T23:07:00Z
+    webUrl: "https://www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox"
+    ampWebUrl: "https://www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
   - title: "5 key takeaways from Amazon's $1 billion acquisition of self-driving startup Zoox"
     excerpt: "Analysts say the Zoox acquisition gives a good look into Amazon's thinking over a number of different areas, including delivery and M&A strategies."
     publishedDateTime: 2020-06-26T18:59:00Z
