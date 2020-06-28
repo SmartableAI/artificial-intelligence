@@ -2,6 +2,90 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-05-27-scientists-are-using-ai-to-predict-which-lung-cancer-patients-will-relapse.md",
+      "title": "Scientists are using AI to predict which lung cancer patients will relapse",
+      "excerpt": "A new AI tool could predict which lung cancer patients will suffer a relapse by analyzing genetic data and pathology images",
+      "webUrl": "https://thenextweb.com/neural/2020/05/27/scientists-are-using-ai-to-predict-which-lung-cancer-patients-will-relapse/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-55-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Scientists are using AI to predict which lung cancer patients will relapse",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/27/scientists-are-using-ai-to-predict-which-lung-cancer-patients-will-relapse/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/27/scientists-are-using-ai-to-predict-which-lung-cancer-patients-will-relapse/amp/",
+      "publishedDateTime": "2020-05-27T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back.md",
+      "title": "AI could predict risk of lung cancer coming back",
+      "excerpt": "Computer scientists working with pathologists have trained an AI tool to determine which lung cancer patients have a higher risk of their disease coming back",
+      "webUrl": "https://www.cancerresearchuk.org/about-us/cancer-news/press-release/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cancerresearchuk.org/sites/default/files/lung-cancer-cells-hero_1.jpg",
+          "width": 620,
+          "height": 348,
+          "title": "AI could predict risk of lung cancer coming back",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cancerresearchuk.org/about-us/cancer-news/press-release/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back?amp",
+      "cdnAmpWebUrl": "https://www-cancerresearchuk-org.cdn.ampproject.org/c/s/www.cancerresearchuk.org/about-us/cancer-news/press-release/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back?amp",
+      "publishedDateTime": "2020-05-27T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cancer Research UK",
+        "domain": "cancerresearchuk.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-us-funds-ai-project-to-enable-millisecond-level-5g-spectrum-sharing.md",
       "title": "U.S. funds AI project to enable millisecond-level 5G spectrum sharing",
       "excerpt": "The Department of Defense is backing an initiative that will enable some 5G spectrum to be efficiently shared by multiple users on a millisecond basis.",
@@ -1250,91 +1334,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox.md",
-      "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
-      "excerpt": "Amazo AMZN n may be preparing to make a big move into the self-driving vehicle world as the logistics giant is said to be in “advanced” talks to acquire Zoox, a stealthy developer of robotaxi technology,",
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/",
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecdb8a20ca0110007263878%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/amp/",
-      "publishedDateTime": "2020-05-26T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-machine-learning-in-finance-from-buzzword-to-mainstream.md",
-      "title": "Machine learning in finance: From buzzword to mainstream",
-      "excerpt": "The financial sector is a late adopter of machine learning. Top applications include fraud detection ... Training such chatbots requires hundreds of hours of customer service logs, but once the algorithm learns, it can successfully replace a lot of ...",
-      "webUrl": "https://jaxenter.com/machine-learning-finance-171641.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jaxenter.com/wp-content/uploads/2020/05/shutterstock_1006988995.jpg",
-          "width": 1313,
-          "height": 933,
-          "title": "Machine learning in finance: From buzzword to mainstream",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jaxenter.com",
-        "domain": "jaxenter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

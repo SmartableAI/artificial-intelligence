@@ -198,22 +198,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "New HomeKit features in iOS 14: Facial recognition and more explained"
-    excerpt: "A boost for home security cameras with facial recognition and activity zones turns HomeKit into a more powerful tool, but there's more, too."
-    publishedDateTime: 2020-06-23T12:48:00Z
-    webUrl: "https://www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236"
-    ampWebUrl: "https://www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236/amp"
-    cdnAmpWebUrl: "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/new-homekit-features-in-ios-14-facial-recognition-and-more-explained-4038236/amp"
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 74
-    images:
-      - url: "https://ksassets.timeincuk.net/wp/uploads/sites/54/2020/06/Screen-Shot-2020-06-22-at-19.02.10-1024x640.png"
-        width: 1024
-        height: 640
-        isCached: true
   - title: "Liberties Union Sues New York Schools over Facial Recognition"
     excerpt: "The New York Civil Liberties Union, which has consistently opposed the system since it was first proposed, sued the Education Department in State Supreme Court in an effort to overturn the approval for the system."
     publishedDateTime: 2020-06-23T16:03:00Z
@@ -273,22 +257,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/stardem.com/content/tncms/custom/image/20d20780-4187-11e8-ab1c-2fc06d5d5b26.jpg"
         width: 600
         height: 314
-        isCached: true
-  - title: "Shopper who brought the world's first court challenge over police use of facial recognition technology has taken his fight to the Court of Appeal"
-    excerpt: "A man whose picture was taken while he was out Christmas shopping in Cardiff and was the first person in the UK to bring a court challenge over the police's use of facial recognition has taken his fight."
-    publishedDateTime: 2020-06-23T11:03:00Z
-    webUrl: "https://www.walesonline.co.uk/news/wales-news/ed-bridges-facial-recognition-police-18470114"
-    ampWebUrl: "https://www.walesonline.co.uk/news/wales-news/ed-bridges-facial-recognition-police-18470114.amp"
-    cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/news/wales-news/ed-bridges-facial-recognition-police-18470114.amp"
-    type: article
-    provider:
-      name: Wales Online
-      domain: walesonline.co.uk
-    quality: 22
-    images:
-      - url: "https://i2-prod.walesonline.co.uk/incoming/article17202824.ece/ALTERNATES/s615/0_WNS_210519_Facial_Recognition_Court_Case_07JPG.jpg"
-        width: 615
-        height: 409
         isCached: true
 
 secured: "hGe78+0Q5024ZNXlViBKF3SVm0IR0DHevXf8+PuxJ1IEIjicburZgECcJl+0bN1pKhBNlaa5rUSZ6Ejge0+249ebRk3MUx+T3FoNHSYLTpzZxseVqIPxz/jmo8FFLRshK30QEmL4jMIxgleYZk2o1iLWGqHMTM1/UlIcSub+CwYo77YhYQn/ESxG8OvKkmkdDxXw8JGSIvgRuLMgxypJW3x5lncJnKxPAXhh76+2LPEwYvixQShTiNALEWkw1mUcvIJcIVtYduQRUTBrX71awnQOQCfPDcmqjiVod/lBF6X7TZffafsHvbNZCNosucnpO2gqmtEtkd0591XKFuUakfVHB1Yudjxv/cuLCOBq3ppMKMGYY7wBHc5zoPtWD/BgNsegUdAp6WQKIyxcW0pzRE/WI2QXtePik4qdy7LjilcxCSOKLKPuE4TIK150u0VTRYNJOt69C7TVLcfiKGdrv2RRS1AwbN+6oKhw7Qft7NJmYYseuvgdHr48Z5rYmwNWFi187kj307QosNkIWdtMDg==;nP4vfXXcszReBsJM+X2zow=="

@@ -2,6 +2,36 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-11-3-ai-stocks-poised-to-gain-from-self-driving-cars.md",
+      "title": "3 AI Stocks Poised to Gain From Self-Driving Cars",
+      "excerpt": "Needham’s 5-star analyst Rajvindra Gill, an expert in the tech sector, has the lowdown on autonomous cars and the companies that will support them. He was part of Needham’s recent 4th Annual Virtual Automotive Tech Conference,",
+      "webUrl": "https://www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11",
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11?amp",
+      "publishedDateTime": "2020-06-11T16:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-mobile-ai-market-2020-global-share-trend-and-opportunities-forecast-to-2023.md",
       "title": "Mobile AI Market 2020 Global Share, Trend And Opportunities Forecast To 2023",
       "excerpt": "This has led to an increase in demand for on-device AI processing. For instance, Apple's A11 Bionic chip, which is an AI-enabled chip with neural engine used in their latest iPhone X, adding the high accuracy face locking feature for mobile security. The investments for on-device AI enabled processors are increasing, which is supporting ...",
@@ -1304,53 +1334,6 @@
         "AI in Healthcare",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-gamemakers-inject-ai-to-develop-more-lifelike-characters.md",
-      "title": "Gamemakers Inject AI to Develop More Lifelike Characters",
-      "excerpt": "And in a neat twist, the researchers are harnessing an AI technique that proved itself by playing some of the earliest console videogames. A team from EA and the University of British Columbia in Vancouver is using a technique called reinforcement learning,",
-      "webUrl": "https://www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec806238971d7886fd3602d/master/pass/Biz-pacman-157739391.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Gamemakers Inject AI to Develop More Lifelike Characters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/amp",
-      "publishedDateTime": "2020-05-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

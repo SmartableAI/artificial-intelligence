@@ -463,7 +463,7 @@
       "title": "Machine learning platform MLflow joins the Linux Foundation",
       "excerpt": "Handing the platform run by Databricks to the vendor-neutral foundation will speed growth, the organizations say.",
       "webUrl": "https://www.techrepublic.com/article/machine-learning-platform-mlflow-joins-the-linux-foundation/",
-      "heat": 144,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1048,6 +1048,53 @@
       ]
     },
     {
+      "path": "_news/2020-06-25-gpu-market-to-reach-10360-bn-globally-by-2026-at-30-cagr.md",
+      "title": "GPU Market to Reach $103.60 Bn, Globally by 2026 at 30% CAGR",
+      "excerpt": "The global GPU Market size is expected to reach USD 103.60 billion by 2026, at a significant growth rate of 30 % during the forecasted period from 2020 to 2026. The market report provides an analysis of the global GPU Market for the period 2015-2026,",
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-market-to-reach-10360-bn-globally-by-2026-at-30-cagr-2020-06-25",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "GPU Market to Reach $103.60 Bn, Globally by 2026 at 30% CAGR",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-ai-is-now-a-c-suite-imperative.md",
       "title": "AI is now a C-suite imperative",
       "excerpt": "Machines can work at infinitely higher speed and the pressure on the C-suite has never been higher. Now the execs are turning to AI to help them make the best decisions in as short a time as possible.",
@@ -1316,53 +1363,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-sino-us-tech-race-turbocharges-china-chip-investment-triggering-bubble-fear.md",
-      "title": "Sino-US tech race turbocharges China chip investment, triggering bubble fear",
-      "excerpt": "An investment boom across China’s semiconductor industry is driving prices of both publicly traded and venture-backed firms into bubble territory.",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3090507/sino-us-tech-race-turbocharges-china-chip-investment-triggering",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/25/9ab56d58-b679-11ea-94a5-08ba74052128_image_hires_091527.jpeg?itok=dswalvtC&v=1593047733",
-          "width": 1200,
-          "height": 630,
-          "title": "Sino-US tech race turbocharges China chip investment, triggering bubble fear",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3090507/sino-us-tech-race-turbocharges-china-chip-investment-triggering",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3090507/sino-us-tech-race-turbocharges-china-chip-investment-triggering",
-      "publishedDateTime": "2020-06-24T17:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

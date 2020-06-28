@@ -43,36 +43,6 @@ related:
         width: 1200
         height: 960
         isCached: true
-  - title: "Salesforce adds Einstein AI to Trailhead online learning platform"
-    excerpt: "Einstein Recommendations for Trailhead will bring Salesforce's AI software to the company's online learning platform."
-    publishedDateTime: 2020-06-23T12:00:00Z
-    webUrl: "https://www.techrepublic.com/article/salesforce-adds-einstein-ai-to-trailhead-online-learning-platform/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/salesforce-adds-einstein-ai-to-trailhead-online-learning-platform/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/salesforce-adds-einstein-ai-to-trailhead-online-learning-platform/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/06/23/32d6a54f-228e-42c5-9f22-8a6b32193d86/resize/350x/4349083879114a263a0675e37307a77b/em3vj1fkjdyxil6xh0ht.png"
-        width: 350
-        height: 350
-        isCached: true
-  - title: "Einstein Recommendations for Trailhead brings AI to Salesforce's online learning platform"
-    excerpt: "Bill Detwiler speaks with Sandeep Bhanot, SVP of Trailhead Product at Salesforce, about Einstein Recommendations for Trailhead."
-    publishedDateTime: 2020-06-23T12:33:00Z
-    webUrl: "https://www.techrepublic.com/videos/einstein-recommendations-for-trailhead-brings-ai-to-salesforces-online-learning-platform/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 58
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/06/23/2aff1898-485d-4c9e-a7fe-7ce07aba71da/thumbnail/770x578/8f62aa1aee9d5c262af72953c5149e5a/20200622-tdx20-sandeep-bill.jpg"
-        width: 770
-        height: 578
-        isCached: true
   - title: "Databricks hands its MLflow machine learning platform to the Linux Foundation"
     excerpt: "Databricks Inc., the big data and machine learning company that leads the commercial development of Apache Spark, says it’s putting its MLflow project into the hands of the Linux Foundation. MLflow is an open source machine learning operations,"
     publishedDateTime: 2020-06-25T23:41:00Z

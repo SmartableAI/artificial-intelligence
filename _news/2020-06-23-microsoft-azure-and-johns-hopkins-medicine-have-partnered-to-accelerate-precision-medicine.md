@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-23T13:31:00Z
 webUrl: "https://www.businessinsider.com/microsoft-johns-hopkins-partner-to-advance-precision-medicine-2020-6"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     height: 600
     isCached: true
     title: "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine"
-
-related:
-  - title: "Adastra and Ataccama to Help Organizations Accelerate Their Fight Against COVID-19, offering Data Governance Acceleration Program on Microsoft Azure"
-    excerpt: "Adastra and Ataccama to Help Organizations Accelerate Their Fight Against COVID-19, offering Data Governance Acceleration Program on Microsoft Azure"
-    publishedDateTime: 2020-06-23T11:30:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/adastra-and-ataccama-to-help-organizations-accelerate-their-fight-against-covid-19-offering-data-governance-acceleration-program-on-microsoft-azure-9000012"
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 30
-    images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "6ZLF99Lhx4rZUL7PdLbVI3seu6csCeBewPKu3QKWBExPHdTezoKUv08iO8E2zFr+T/BwuGa6CppyymdNIzXxshq36oyh1H9DWhx/1ZXCjAzvrScbPoLaOYdoexOD8h6zZzGE0ZZMqVe7MxwfjvsKll03hrgVD4kKoJ6AftQhwQjyKseF3YcBQhV96fVMBGLNWIQsbqIcbMzyFcHSIwCRORkDvsapwmoYNnLcwkxu0ALRGIHqh2mGZqfnjof7Ee9VGJAss65k3DBwMqwkYiETM1QSNC6VZnAOyC9/H8mVuM6CvL+COr8L9sX9CEYzRyZqq707yJSvb3t1Yo1mwPL5ZYwFTcyIZIcgpBJ1w67IrN8ATrgnJrtE8h3zJgdiENMGvNdr1D0tAEs07WROGqC/GvSnhoX/yLdgvxolUriHlbVABQpxrIXggTVlpR2E/qGcFmRoFDgBXrrj6b5UjNi7aQn1Dn/3PWR0s/20NHSCxKSEmsmtL6DGKHmpVkNL2Gqs;oY+3PJvUlbgZgmjrlq6G6g=="
 ---

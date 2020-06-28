@@ -25,19 +25,6 @@ images:
     isCached: true
     title: "Collaboration between human and artificial intelligence has huge potential in medicine"
 
-related:
-  - title: "Study illustrates huge potential of human, artificial intelligence collaboration in medicine"
-    excerpt: "Artificial Intelligence (AI) is increasingly being used in medicine to support human expertise. However, the potential of these applications and the risks inherent in the interaction between human and artificial intelligence have not yet been thoroughly researched."
-    publishedDateTime: 2020-06-23T11:22:00Z
-    webUrl: "https://medicalxpress.com/news/2020-06-huge-potential-human-artificial-intelligence.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-06-huge-potential-human-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-06-huge-potential-human-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 26
-
 secured: "MofONRn/KxDY/VGezcvvMQreFM9Kt7LAQ5j/kK1cQh4uf0TcmWc7Tb1r7JWKWhX6WdfVFamn+DY6QBYeDLdWfQ/1JdwgR7MRHDSEW+XLhMUhhDeVks1+8dLtrNi6nFRL+QoHEH5c1/xKf0u3VQ2c1SMDQBcvMDkvs6rKa0n4qvRR5HYVSrQfhFR+DGTvvYZfjZXzRsGyX3Mvw7eKhjgmzIBTRTDalS/tlhdsTcG2rg40S20WFUWgiOWxA98sfmgLw5h64SFJLC0x6Kx44jGjYewb1b4zzEv7JtD5SijGw0rZa4plNWAU0BTz3U/vxlSYgz7reezycIf1j1KxCl5/TA==;Ojl1epcmr6gnWflFGGdG0g=="
 ---
 

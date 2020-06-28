@@ -185,6 +185,20 @@ related:
         width: 4500
         height: 2976
         isCached: true
+  - title: "Amazon gets into self-driving game with Zoox deal"
+    excerpt: "CNBC's Deirdre Bosa on Amazon's move into self-driving. With CNBC's Melissa Lee and the Fast Money traders, Guy Adami, Tim Seymour, Brian Kelly and Jeff Mills. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more ..."
+    publishedDateTime: 2020-06-26T22:03:00Z
+    webUrl: "https://www.cnbc.com/video/2020/06/26/amazon-gets-into-self-driving-game-with-zoox-deal.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 54
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106594301-15932078136ED3-FM-B-BLOCK-062620.jpg?v=1593207811"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Amazon Looks to Self-Driving Future by Acquiring Zoox"
     excerpt: "Amazon says it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will pull up without a driver."
     publishedDateTime: 2020-06-27T23:07:00Z
@@ -320,6 +334,15 @@ related:
         width: 1440
         height: 942
         isCached: true
+  - title: "Amazon Agrees to Buy Self-Driving Technology Startup Zoox"
+    excerpt: "The world's largest online retailer has stepped up its investment in the car sector, participating in self-driving car startup Aurora Innovation Inc's $530 million funding round early last year. While Amazon and Zoox did not disclose the financial terms of the deal,"
+    publishedDateTime: 2020-06-27T23:08:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2020-06-26/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-the-information"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
   - title: "Amazon reportedly just scooped up its third self-driving car company"
     excerpt: "Amazon may be looking to leverage Zoox’s tech for its delivery network, which could contribute to the company saving $20 billion a year."
     publishedDateTime: 2020-06-26T12:01:00Z

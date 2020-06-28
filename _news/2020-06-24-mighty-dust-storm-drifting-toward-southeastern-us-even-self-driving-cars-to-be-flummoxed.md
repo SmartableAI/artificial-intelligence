@@ -54,20 +54,6 @@ related:
         width: 3200
         height: 1800
         isCached: true
-  - title: "Burger King says self-driving cars know to slow down for its signs, too"
-    excerpt: "Burger King’s latest marketing effort suggests that smart cars are so smart that they know to tap the brakes when nearing one of its restaurants. And some smart cars, it turns out, appear to identify a Burger King sign,"
-    publishedDateTime: 2020-06-23T11:18:00Z
-    webUrl: "https://adage.com/article/cmo-strategy/burger-king-says-self-driving-cars-know-slow-down-its-signs-too/2263346"
-    type: article
-    provider:
-      name: Ad Age
-      domain: adage.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.adage.com/s3fs-public/styles/800x600/public/20200622_autopilot_TESLA_BK_3x2.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "BMW and Daimler agree to halt joint self-driving development"
     excerpt: "Benz, a division of Daimler, have put their joint autonomous driving development on hold following a review of the technology and agreed to concentrate on individual existing development paths. The companies said they could return to development at a later data,"
     publishedDateTime: 2020-06-23T13:39:00Z
@@ -77,20 +63,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 19
-  - title: "China Deploys Self-Driving Cars To Deliver Foods; Disinfect Places In The Streets [Video]"
-    excerpt: "As a way to reduce the spread of coronavirus, China, according to Mashable, is using self-driving vans called Hercules to deliver foods and disinfect streets. In a Tweet shared by Mashable on Saturday,"
-    publishedDateTime: 2020-06-23T11:08:00Z
-    webUrl: "https://www.peacefmonline.com/pages/local/news/202006/415329.php"
-    type: article
-    provider:
-      name: Peace FM Online
-      domain: peacefmonline.com
-    quality: 15
-    images:
-      - url: "https://w5p2r8x5.stackpathcdn.com/photos/news/202006/829420881_415791.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "bB+GwGSPv2ROU3qicbwvDeeof0WjDNUhPeUYyzsQUMrOWbufXQs6bTlx+2uqWAqhQY4cuKVZTChJAvRj6fuCrqSetUwRXwaJFn2fEcktt3daFD42TWCL27xGtnjCnWn25htPz0JEfMKmMQX8ZOsslxuFRneB/Ui0nGXcThdayGakWm4OM8O5s8vkQ5LHgmmA5etPU0mCoPT8+ENcojDZ8XPcycVtE/icEINB9Np1lBc+DWxgHG+tyFq0l/YduxLW0vxKF571Of6LhK1LXsA98QAeELhF2dRS48uzafFOJX8rbVeQwMfI28AgOzxzaMVctP9D+OedICfTpAU/lb2UUIuv9X5OiP2t4m5nrN02g85VYpFuwflhgCbVnxHuwy3Zztv2IJpfRoqVm3BsAXJ29xS+md0gCaXH/ATwztqpFCZtTcch9jA8VPmSkSVIp+oyAJ8mdJPulkqiFzekcTmO+UBWx6VxQnZKNfBcX6m7qbjddLqZh5LFHFmubA/kXonoV/qnycbaVpXZ+iC+j8tuKA==;z53EkAUs7ZFATVR3j3YpKg=="
 ---

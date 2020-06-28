@@ -288,6 +288,20 @@ related:
         width: 2156
         height: 1120
         isCached: true
+  - title: "Amazon has bought a self-driving car company, Zoox"
+    excerpt: "The company aims to build autonomous vehicles that people will be able to order like taxis, and will now do the same under Amazon’s direction, it indicated."
+    publishedDateTime: 2020-06-28T05:48:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/africa/Amazon-has-bought-a-self-driving-car-company-Zoox-992113"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 24
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/412/41263189.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Amazon to acquire self-driving firm Zoox for over $1bn: Report"
     excerpt: "Amazon is set to spend over $1 billion to acquire self-driving car startup Zoox, The Information reported. The deal could be officially announced as early as Friday. The news comes after The Wall ..."
     publishedDateTime: 2020-06-26T11:58:00Z

@@ -38,20 +38,17 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Global Virtual Communication Market & Technology to 2028 - Impact of 4 Major Trends on Videoconferencing - ResearchAndMarkets.com"
-    excerpt: "The \"Global Virtual Communication Market & Technology to 2028\" report has been added to ResearchAndMarkets.com's offering. The increase in the number of different technologies, such as machine learning,"
-    publishedDateTime: 2020-06-23T11:10:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200623005494/en/Global-Virtual-Communication-Market-Technology-2028--"
+  - title: "Smart Learning Systems Market Size, Share, Growth, Research and Forecast 2020-2026"
+    excerpt: "The adoption of AI tools enables to provide learning easily and interactively to all whether students with visual and hearing impairments or speak different languages. Presentation Translator is one of the best instances that create subtitles in real-time ..."
+    publishedDateTime: 2020-06-26T12:46:00Z
+    webUrl: "https://www.openpr.com/news/2080747/smart-learning-systems-market-size-share-growth-research"
+    ampWebUrl: "https://www.openpr.com/amp/2080747/smart-learning-systems-market-size-share-growth-research"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2080747/smart-learning-systems-market-size-share-growth-research"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200623005494/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
 
 secured: "K1cMwc5ulqluCxREF9y0yi6TlAnoZcYuksSd0zsxzOxHDSEOkdtN6j2KP1gO9ZL1YNvZBCgfLSoMrLG60/wAfC5ktJI8LhVQirAnCiUkH/vjY5PFLUg0A0yBdrh+SNZeMNS2lyfVOxKuQ8EGtd5VdaR5IgCyYmsohFkFW7WAjZaE/czuWsN5tyCqpmR+NE24aTjpTEvfDZjfBYierERAVtw3x74xOOADiApb1euD7vYCCu5vHmRtsR2RqVsuMqG5EP2JMZ93ElMa2lRk6AV1iHpmNIzZ0L2HNcNFOFe915vqhQLy8Hz3YPr3CQVM4huAy4fupeSLHVKNCoPS1mXMFg==;GMgYwAhVdU6f/WVs905wUQ=="
 ---

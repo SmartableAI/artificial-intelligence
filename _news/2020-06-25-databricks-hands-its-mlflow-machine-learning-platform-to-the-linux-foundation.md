@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 960
         isCached: true
-  - title: "Salesforce adds Einstein AI to Trailhead online learning platform"
-    excerpt: "Einstein Recommendations for Trailhead will bring Salesforce's AI software to the company's online learning platform."
-    publishedDateTime: 2020-06-23T12:00:00Z
-    webUrl: "https://www.techrepublic.com/article/salesforce-adds-einstein-ai-to-trailhead-online-learning-platform/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/salesforce-adds-einstein-ai-to-trailhead-online-learning-platform/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/salesforce-adds-einstein-ai-to-trailhead-online-learning-platform/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/06/23/32d6a54f-228e-42c5-9f22-8a6b32193d86/resize/350x/4349083879114a263a0675e37307a77b/em3vj1fkjdyxil6xh0ht.png"
-        width: 350
-        height: 350
-        isCached: true
   - title: "MLflow has Grown Up and Left Home: Machine Learning Framework Joins Linux Foundation"
     excerpt: "“We’ve moved MLflow into the Linux Foundation as a vendor-neutral non-profit organization to manage the project long-term” The open source tool from the US company (whose founders created analytics engine Apache Spark) sees an eye-ball popping 2.5 ..."
     publishedDateTime: 2020-06-26T15:39:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://www.cbronline.com/wp-content/uploads/2020/06/MLflow-1024x768.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Einstein Recommendations for Trailhead brings AI to Salesforce's online learning platform"
-    excerpt: "Bill Detwiler speaks with Sandeep Bhanot, SVP of Trailhead Product at Salesforce, about Einstein Recommendations for Trailhead."
-    publishedDateTime: 2020-06-23T12:33:00Z
-    webUrl: "https://www.techrepublic.com/videos/einstein-recommendations-for-trailhead-brings-ai-to-salesforces-online-learning-platform/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 58
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/06/23/2aff1898-485d-4c9e-a7fe-7ce07aba71da/thumbnail/770x578/8f62aa1aee9d5c262af72953c5149e5a/20200622-tdx20-sandeep-bill.jpg"
-        width: 770
-        height: 578
         isCached: true
 
 secured: "0vL2m+mH1QQ3GK7dmRON8OhwCdN9ICCjYoDJMh6tXYb3YputaVj4VsM971mxYPtviIb5UggPiZ4N/W1BnlZvdg/XFC5RYyAN5XHIYy/cyxKxo+aBIULQ15UP6Id84WQSLFiytnqQDZCO82UB17DN2q3qHayEjfBlT7yDq1pZU/iwjOrygbpTjmjD4OnO3EEWfz33gJu8+UaNxFYcTghEhv6wZAJBEu+DkfwA63KCLUWmluB3o9dYw+DmXKcyk57SihHHU+wxWCVWF3d6W7ZnP5E9Le+fOPkzksNcIZf7xRetUUFfkGzrWyCWo3ZfKTYOD0BAdC7fKgr+GcYBcucROkR1ainOI1RYMy5QHGSmAdhfQrstIO7Yoob5K6C87ONqBtBUWc1IrQVmxMWJLs0ZitHjtxFetZ5B2CV+jzZdRdBkK7Cg88g9hoozsgYOgwumtNjCEob2GqiyizFFy4q3MbZkPGK7EEYbDz9Q0yZzdz5gQiXduFXdNkrBKwt01LuutBCoVmxAZ5CSZ0r0bCnLlA==;Kbi4iLDePtlijMWHVqjJng=="

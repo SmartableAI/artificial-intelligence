@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp"
 type: article
 quality: 89
-heat: 270
+heat: 280
 published: true
 
 provider:
@@ -277,6 +277,20 @@ related:
       - url: "https://techcentral.co.za/wp-content/uploads/2020/06/re-amazon-2156-1120.jpg"
         width: 2156
         height: 1120
+        isCached: true
+  - title: "Amazon has bought a self-driving car company, Zoox"
+    excerpt: "The company aims to build autonomous vehicles that people will be able to order like taxis, and will now do the same under Amazon’s direction, it indicated."
+    publishedDateTime: 2020-06-28T05:48:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/africa/Amazon-has-bought-a-self-driving-car-company-Zoox-992113"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 24
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/412/41263189.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Bay Area self-driving startup Zoox bought by Amazon for reported $1.2 billion"
     excerpt: "Amazon announced Friday it is buying Bay Area self-driving car startup Zoox, as the internet giant makes its strongest foray yet into the autonomous vehicle market. The six-year-old Foster City company will continue to run as a standalone business ..."
