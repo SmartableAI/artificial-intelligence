@@ -258,6 +258,20 @@ related:
         width: 5200
         height: 3583
         isCached: true
+  - title: "Bahrain joins the race: Self-driving buses ‘the way forward’"
+    excerpt: "“There’s a great opportunity to move fast with the concept of self-driving buses. We could carry out tests at Bahrain University, Bahrain Polytechnic and the Bahrain Training Institute,” said Mr Al Kooheji. “The intent is to introduce cost-saving ..."
+    publishedDateTime: 2020-06-28T09:43:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Bahrain_joins_the_race_Selfdriving_buses_the_way_forward-SNG_178187534/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
+    images:
+      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
+        width: 1200
+        height: 878
+        isCached: true
   - title: "Amazon agrees to buy self-driving technology startup Zoox"
     excerpt: "Amazon.com Inc has agreed to buy California-based self-driving startup Zoox Inc in a deal reported to be worth more than $1 billion that gives it options to use autonomous technology in either ride-hailing or its delivery network."
     publishedDateTime: 2020-06-26T15:35:00Z

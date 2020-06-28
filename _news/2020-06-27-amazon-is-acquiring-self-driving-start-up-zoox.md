@@ -373,6 +373,17 @@ related:
         width: 1920
         height: 988
         isCached: true
+  - title: "Amazon To Buy Self-Driving Startup Zoox"
+    excerpt: "Amazon jumped into the arena of self-driving cars Friday when it announced an agreement to buy California-based Zoox, a startup designing autonomous ride-hailing vehicles that can be called with a smartphone app."
+    publishedDateTime: 2020-06-27T00:50:00Z
+    webUrl: "https://www.law360.com/articles/1287265/amazon-to-buy-self-driving-startup-zoox"
+    ampWebUrl: "https://www.law360.com/amp/articles/1287265"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1287265"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
   - title: "Mercedes-Benz joins Nvidia to build self-driving platform for 2024 fleet"
     excerpt: "Benz and graphics giant Nvidia have joined hands to build an in-vehicle computing system for next-gen automated cars. Starting in 2024, the software-defined computing architecture will be rolled out across the fleet of Mercedes-Benz vehicles,"
     publishedDateTime: 2020-06-24T15:24:00Z

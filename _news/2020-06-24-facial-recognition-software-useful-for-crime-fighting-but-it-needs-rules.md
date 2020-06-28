@@ -196,22 +196,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Liberties Union Sues New York Schools over Facial Recognition"
-    excerpt: "The New York Civil Liberties Union, which has consistently opposed the system since it was first proposed, sued the Education Department in State Supreme Court in an effort to overturn the approval for the system."
-    publishedDateTime: 2020-06-23T16:03:00Z
-    webUrl: "https://www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
-        width: 927
-        height: 626
-        isCached: true
   - title: "Amazon pauses police use of its facial recognition for year"
     excerpt: "Civil rights groups and Amazon's own employees have pushed the company to stop selling its technology to government agencies."
     publishedDateTime: 2020-06-24T07:23:00Z

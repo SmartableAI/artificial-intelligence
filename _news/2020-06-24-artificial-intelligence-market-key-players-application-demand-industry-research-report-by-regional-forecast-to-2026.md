@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Overview By Share, Size, Industry Players, Revenue And Product Demand Forecast Till 2025"
-    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
-    publishedDateTime: 2020-06-23T15:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-overview-by-share-size-industry-players-revenue-and-product-demand-forecast-till-2025-2020-06-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market- Global Industry Analysis By Development, Size, Share and Demand Forecast From to 2023"
     excerpt: "Artificial Intelligence in Manufacturing Market: Global Drivers, Restraints, Opportunities, Trends, and Forecasts up"
     publishedDateTime: 2020-06-25T16:04:00Z

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "UK’s facial recognition technology ‘breaches privacy rights’"
-    excerpt: "South Wales police accused of using system with ‘racial bias’ that breaks data protection law Notices displayed by the Metropolitan Police notify the public of the use of automated facial recognition cameras around Whitehall for the Remembrance Sunday ..."
-    publishedDateTime: 2020-06-23T16:28:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
-    ampWebUrl: "https://amp.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jun/23/uks-facial-recognition-technology-breaches-privacy-rights"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/8e6e98b9bdc1c7e71fbcc4fc0b52022b9c2b43d4/0_170_5138_3084/master/5138.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6e67cf17a849c14a6238c590ede46efc"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Rose Bowl officials defend use of facial recognition program during the big game"
     excerpt: "Recent media reports painted a dystopian picture of the Rose Bowl’s facial recognition programs used Jan. 1, but stadium officials say they got it wrong."
     publishedDateTime: 2020-06-23T20:24:00Z

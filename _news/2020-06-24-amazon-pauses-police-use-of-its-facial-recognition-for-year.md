@@ -198,22 +198,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Liberties Union Sues New York Schools over Facial Recognition"
-    excerpt: "The New York Civil Liberties Union, which has consistently opposed the system since it was first proposed, sued the Education Department in State Supreme Court in an effort to overturn the approval for the system."
-    publishedDateTime: 2020-06-23T16:03:00Z
-    webUrl: "https://www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Liberties-Union-Sues-New-York-Schools-Over-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
-        width: 927
-        height: 626
-        isCached: true
   - title: "I was wrongfully arrested because of facial recognition. Why are police allowed to use it?"
     excerpt: "While I was leaving work in January, my wife called and said a police officer had called and said I needed to turn myself in. I told her it was probably a prank. But as I pulled u"
     publishedDateTime: 2020-06-25T13:25:00Z

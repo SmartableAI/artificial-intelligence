@@ -1,30 +1,23 @@
 ---
 category: news
-title: "Amazon acquires self-driving start-up Zoox for over $1.2bn"
-excerpt: "Amazon has acquired self-driving start-up Zoox for more than $1.2bn, marking the ecommerce group’s biggest investment into the autonomous vehicle sector. The deal is set to be announced on Friday, according to two people familiar with the matter."
-publishedDateTime: 2020-06-26T06:21:00Z
-webUrl: "https://www.ft.com/content/37ae69d9-f160-48c3-b3c5-736730c110ce"
-ampWebUrl: "https://amp.ft.com/content/37ae69d9-f160-48c3-b3c5-736730c110ce"
-cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/37ae69d9-f160-48c3-b3c5-736730c110ce"
+title: "Amazon To Buy Self-Driving Startup Zoox"
+excerpt: "Amazon jumped into the arena of self-driving cars Friday when it announced an agreement to buy California-based Zoox, a startup designing autonomous ride-hailing vehicles that can be called with a smartphone app."
+publishedDateTime: 2020-06-27T00:50:00Z
+webUrl: "https://www.law360.com/articles/1287265/amazon-to-buy-self-driving-startup-zoox"
+ampWebUrl: "https://www.law360.com/amp/articles/1287265"
+cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1287265"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Financial Times
-  domain: ft.com
+  name: Law360
+  domain: law360.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0340552e-1aa6-4953-8795-a822ba949aee.jpg?source=google-amp&fit=scale-down&width=500"
-    width: 500
-    height: 281
-    isCached: true
-    title: "Amazon acquires self-driving start-up Zoox for over $1.2bn"
 
 related:
   - title: "Mercedes cars will be powered by NVIDIA AI for self-driving starting 2024"
@@ -219,6 +212,22 @@ related:
         width: 660
         height: 440
         isCached: true
+  - title: "Amazon acquires self-driving start-up Zoox for over $1.2bn"
+    excerpt: "Amazon has acquired self-driving start-up Zoox for more than $1.2bn, marking the ecommerce group’s biggest investment into the autonomous vehicle sector. The deal is set to be announced on Friday, according to two people familiar with the matter."
+    publishedDateTime: 2020-06-26T06:21:00Z
+    webUrl: "https://www.ft.com/content/37ae69d9-f160-48c3-b3c5-736730c110ce"
+    ampWebUrl: "https://amp.ft.com/content/37ae69d9-f160-48c3-b3c5-736730c110ce"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/37ae69d9-f160-48c3-b3c5-736730c110ce"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0340552e-1aa6-4953-8795-a822ba949aee.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Amazon to buy self-driving startup Zoox for $1 billion"
     excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-comm"
     publishedDateTime: 2020-06-26T07:47:00Z
@@ -369,17 +378,6 @@ related:
         width: 1920
         height: 988
         isCached: true
-  - title: "Amazon To Buy Self-Driving Startup Zoox"
-    excerpt: "Amazon jumped into the arena of self-driving cars Friday when it announced an agreement to buy California-based Zoox, a startup designing autonomous ride-hailing vehicles that can be called with a smartphone app."
-    publishedDateTime: 2020-06-27T00:50:00Z
-    webUrl: "https://www.law360.com/articles/1287265/amazon-to-buy-self-driving-startup-zoox"
-    ampWebUrl: "https://www.law360.com/amp/articles/1287265"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1287265"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
   - title: "Mercedes-Benz joins Nvidia to build self-driving platform for 2024 fleet"
     excerpt: "Benz and graphics giant Nvidia have joined hands to build an in-vehicle computing system for next-gen automated cars. Starting in 2024, the software-defined computing architecture will be rolled out across the fleet of Mercedes-Benz vehicles,"
     publishedDateTime: 2020-06-24T15:24:00Z
@@ -409,6 +407,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "2H3menKT3y2HhSSQFhvHu3w3gnIGoPaUt8Ji4RhL6Y28o76+YLEdi8dikRHY8xWC8K1GzUJLrnkjyq1NbNtuXVRAG0O4dYIu2PHx9BzuheQyJXPQZ+BUilIN+DQzeST3fFJ8amySA6RZEbvwdHhXhnmSDsUUxT6Ek4Fn4KNYzRyRZRNVvF0amiSEdVGgkidfc5x7YzP59d6DHeSHhtpE8g6LCTSzaWH5lif9bzoFirqMtWajRLc7cDO/quYYjJgERvYIzTw9zHJu8jEY+eBAiuzfUxroTDt/GUqp3DqtQDR7QcrYQvKokUQxAIxCsPcz7gJe4vEJ5Nhok/Bc7LBVjZ4dkGWXnmSjt4lx65Hhh/8dDhr4352rtgystt8d9L3UUyazSKX03RtW/OVSSpdUnqfT8hvPRp9b5Tz2TnEDFAMfEqanzuZCWWYV89b2a8fw3txmaDqo1PozPsk2xcuYDjfFgeKMZWB5AZq8HB0WbkrTJMTx3re1Q8TGh7G++B+FuIBiaTihfaty7HIkly9y5w==;5UcZ9W1fOzZNch7wFGnW4A=="
+secured: "aUvRdx7gJyCkokt646A5l9YVi6MRDqiXuwEsMJ1wDhDNDvaNFjVT5YwE7WLfgrHEGX3ywvaIza39MV8sEt1QQ6NvX7Pq1K2YEcwKw9WSP6vhA8rAJ+qXqPT3jMr9czth9p2tjE/Nrv5aMRIeKkClLBuyLtUpXuiFdY/+4suVGUqunnp5fgQTH6D9reGugTLb8zk0fU0iKVV/K5dcaf7GZ+/gfnc2b+24lxpDvuyzpgDsW56yR2cFSleJesx/Vf6vvVYhav3pKImnFOG48Pz0ZD6LVQQb3B1RGkZZqs+oR72pR4DDPfLQoGFwHdg+tC4cdjHbsRC87i2TipMbDREVLw==;h/nbuRYNoXiZd7pDxPU9RQ=="
 ---
 
