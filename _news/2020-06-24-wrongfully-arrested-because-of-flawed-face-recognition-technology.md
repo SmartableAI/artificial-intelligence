@@ -571,6 +571,17 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Detroit Clears Record of Man Targeted by Facial Recognition"
+    excerpt: "Detroit police are working to expunge the criminal record of a man who was wrongfully targeted by facial recognition technology. He was arrested without explanation and released because the software made a mistake."
+    publishedDateTime: 2020-06-26T21:17:00Z
+    webUrl: "https://www.govtech.com/public-safety/Detroit-Clears-Record-of-Man-Targeted-by-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Detroit-Clears-Record-of-Man-Targeted-by-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Detroit-Clears-Record-of-Man-Targeted-by-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
   - title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition Technology By The City"
     excerpt: "The city council also voted on Wednesday to prohibit any city official from obtaining such surveillance through third parties. Sponsors said the technology is inaccurate for people of color."
     publishedDateTime: 2020-06-24T23:05:00Z

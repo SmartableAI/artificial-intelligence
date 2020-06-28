@@ -2,6 +2,35 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-06-03-alphabets-googl-waymo-to-resume-operations-in-bay-area.md",
+      "title": "Alphabet's (GOOGL) Waymo to Resume Operations in Bay Area",
+      "excerpt": "Baidu recently received license for five of its self-driving vehicles in China. Further, the launch of its Apollo Robotaxi fleet of 45 self-driving cars in Changsha — Hunan province in China ...",
+      "webUrl": "https://www.nasdaq.com/articles/alphabets-googl-waymo-to-resume-operations-in-bay-area-2020-06-03",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-america-is-awash-in-cameras-has-its-pluses-and-minuses-for-police-and-protesters.md",
       "title": "America is awash in cameras, has its pluses and minuses for police and protesters",
       "excerpt": "Law enforcement agencies have existing networks of surveillance cameras and body cameras worn by officers, as well as face- and object-recognition software. Large retail and food chains have ...",
@@ -1024,53 +1053,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft.md",
-      "title": "BBC launches Beeb voice assistant in partnership with Microsoft",
-      "excerpt": "The BBC has launched an early beta version of its previously announced Beeb voice assistant in partnership with Microsoft.",
-      "webUrl": "https://venturebeat.com/2020/06/02/bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/feat.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "BBC launches Beeb voice assistant in partnership with Microsoft",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/02/bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/02/bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/amp/",
-      "publishedDateTime": "2020-06-02T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

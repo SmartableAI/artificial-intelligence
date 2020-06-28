@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Cyclica raises $23 million to accelerate drug discovery with AI"
-    excerpt: "Cyclica, a startup developing an AI-powered platform for drug discovery, has secured $23 million in venture capital financing."
-    publishedDateTime: 2020-06-24T04:03:00Z
-    webUrl: "https://venturebeat.com/2020/06/23/cyclica-raises-23-million-to-accelerate-drug-discovery-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/06/23/cyclica-raises-23-million-to-accelerate-drug-discovery-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/cyclica-raises-23-million-to-accelerate-drug-discovery-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/13e3a8e2-36a5-4342-b02d-e67f23790c6a-e1592852109542.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "K35qXlW3t75+2fFxHWKpviPKl/AdDb20+XZFRFHTUlA1OoY4dQ4Fnt9VYBqJCrJIBlisIOeJpjddA0C3p9fouIj/ucDuQuKjXcgNra/GO93y5TxbXMWUb9Ew5hqM+Siupp9IRvz2oDBQ9Kq0fMoyqjaLGA0PvlnhkK5UbMl+qXkQC+YjswEqUbfoubJ6LYB7nNA+HfEdi4gy8NeV6+UkSB9n4CW154mR18eovcb+dNyjLB5tRJF+wiqz+kmxTB41CPdOZuvvf9rIHWuhFYgeRQHs4vhHavsyZ/NSon9z3FscDbhdQWjv4EZnRNcBLYjcK4TKXnFi3MiMe6fua6htdzjQmYz2TGhFT7vTt4Gb6dJ1M7AXogRL0sGZrqnC5p4gBPklQCLXeiPGtibsy0h8iexHWpvVHCNlR9IlNMuzwDoEbzb7fV02ow8pCWcZOFvTT9nGzXBYEuG1iR++ZC/taYkdFGAuWrpLv4MTOCZPj0i5FRaj6cdZSj4a3i694GMXqjBAvgLWBR4iM7betijvGg==;/sP7buNV0WbmihuE7REfFw=="
 ---

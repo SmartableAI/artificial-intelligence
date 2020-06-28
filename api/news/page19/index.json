@@ -2,6 +2,45 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-06-11-how-to-become-a-tensorflow-developer.md",
+      "title": "How to become a TensorFlow developer",
+      "excerpt": "AI is no longer an emerging technology, it is already here with us and is being adopted widely across industries. AI technology has disrupted operations, giving businesses better means of understanding and interacting with their customers.",
+      "webUrl": "https://www.thesouthafrican.com/technology/how-to-become-a-tensorflow-developer/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gcs.thesouthafrican.com/2020/06/ee36da52-tensorflow-developer.jpg",
+          "width": 1200,
+          "height": 850,
+          "title": "How to become a TensorFlow developer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.thesouthafrican.com/technology/how-to-become-a-tensorflow-developer/",
+      "cdnAmpWebUrl": "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/technology/how-to-become-a-tensorflow-developer/",
+      "publishedDateTime": "2020-06-11T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "richest",
+        "domain": "thesouthafrican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-amazon-halts-police-use-of-its-facial-recognition-tech.md",
       "title": "Amazon halts police use of its facial recognition tech",
       "excerpt": "Amazon is to pause the police use of its AWS facial recognition software Rekognition following two weeks of intense protests against police brutality and the murder of George Floyd on 25 May. The tech giant announced that it would be implementing a one-year moratorium on the technology,",
@@ -1047,54 +1086,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-flatfile-raises-76-million-for-ai-that-extracts-and-transforms-spreadsheet-data.md",
-      "title": "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data",
-      "excerpt": "Flatfile, a startup developing a platform that ingests and transforms data from spreadsheets, raised $7.6 million in equity financing.",
-      "webUrl": "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/",
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/flatfile-eric-crane-david-boskovic-e1590701751753.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/amp/",
-      "publishedDateTime": "2020-06-10T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
       ]
     }
   ],

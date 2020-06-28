@@ -5,8 +5,8 @@ excerpt: "Global X Robotics & Artificial Intelligence Thematic ETF (BOTZ) is an 
 publishedDateTime: 2020-06-28T16:57:00Z
 webUrl: "https://seekingalpha.com/article/4356029-global-x-robotics-artificial-intelligence-thematic-etf-good-prospects-price-to-pay"
 type: article
-quality: 30
-heat: 30
+quality: 62
+heat: 62
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://static.seekingalpha.com/uploads/2020/6/25/39580-15931336147359896.png"

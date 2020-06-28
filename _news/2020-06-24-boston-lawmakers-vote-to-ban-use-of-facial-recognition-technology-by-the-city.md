@@ -586,6 +586,17 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Detroit Clears Record of Man Targeted by Facial Recognition"
+    excerpt: "Detroit police are working to expunge the criminal record of a man who was wrongfully targeted by facial recognition technology. He was arrested without explanation and released because the software made a mistake."
+    publishedDateTime: 2020-06-26T21:17:00Z
+    webUrl: "https://www.govtech.com/public-safety/Detroit-Clears-Record-of-Man-Targeted-by-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Detroit-Clears-Record-of-Man-Targeted-by-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Detroit-Clears-Record-of-Man-Targeted-by-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
   - title: "'The Computer Got It Wrong': How Facial Recognition Led To A False Arrest In Michigan"
     excerpt: "Robert Williams says his driver's license photo was incorrectly matched with a wanted suspect. He says he was arrested and detained. Though the case was dropped, Williams says its effect is lasting."
     publishedDateTime: 2020-06-24T12:00:00Z

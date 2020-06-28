@@ -2,6 +2,44 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-05-20-gms-ultra-cruise-aims-to-take-on-teslas-full-self-driving-option.md",
+      "title": "GM's \"Ultra Cruise\" Aims to Take on Tesla's Full Self-Driving Option",
+      "excerpt": "General Motors announced it's working on a better-than Super Cruise semi-autonomous driving system internally known as \"Ultra Cruise.\"",
+      "webUrl": "https://www.motortrend.com/news/ultra-cruise-gm-details-photos/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.motortrend.com/uploads/sites/5/2020/05/2021-Cadillac-Escalade.jpg?fit=around%7C480:270",
+          "width": 480,
+          "height": 270,
+          "title": "GM's \"Ultra Cruise\" Aims to Take on Tesla's Full Self-Driving Option",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.motortrend.com/news/ultra-cruise-gm-details-photos/amp/",
+      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/ultra-cruise-gm-details-photos/amp/",
+      "publishedDateTime": "2020-05-20T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Trend",
+        "domain": "motortrend.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-microsofts-powerful-supercomputer-will-supercharge-ai-for-azure-developers.md",
       "title": "Microsoft's Powerful Supercomputer Will Supercharge AI for Azure Developers",
       "excerpt": "At its online-only Build 2020, Microsoft unveils the fifth-most-powerful supercomputer on Earth, which is designed to run massive machine-learning AI projects, plus some new tools to ensure responsible use of AI.",
@@ -1044,53 +1082,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-the-morning-after-microsoft-unveils-its-powerful-open-ai-supercomputer.md",
-      "title": "The Morning After: Microsoft unveils its powerful Open AI supercomputer",
-      "excerpt": "Apple TV+, Microsoft's Build 2020 and OnePlus' 'x-ray' mode gets cut.",
-      "webUrl": "https://www.engadget.com/the-morning-after-microsoft-ai-supercomputer-113456625.html",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2020-05%2F945f3710-9a84-11ea-bbf6-6a688df9689a&thumbnail=640%2C&client=49kdj93ncb8s938hkdo&signature=70c9400fcb008c035b69db8d6add6f3bec0bf672",
-          "width": 640,
-          "height": 335,
-          "title": "The Morning After: Microsoft unveils its powerful Open AI supercomputer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/the-morning-after-microsoft-ai-supercomputer-113456625.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-microsoft-ai-supercomputer-113456625.html",
-      "publishedDateTime": "2020-05-20T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

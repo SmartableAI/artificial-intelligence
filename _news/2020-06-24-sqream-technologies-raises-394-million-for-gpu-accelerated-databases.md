@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/24/sqream-technologies-raises-39-4-m
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/sqream-technologies-raises-39-4-million-for-gpu-accelerated-databases/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     title: "SQream Technologies raises $39.4 million for GPU-accelerated databases"
 
 related:
-  - title: "Cyclica raises $23 million to accelerate drug discovery with AI"
-    excerpt: "Cyclica, a startup developing an AI-powered platform for drug discovery, has secured $23 million in venture capital financing."
-    publishedDateTime: 2020-06-24T04:03:00Z
-    webUrl: "https://venturebeat.com/2020/06/23/cyclica-raises-23-million-to-accelerate-drug-discovery-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/06/23/cyclica-raises-23-million-to-accelerate-drug-discovery-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/cyclica-raises-23-million-to-accelerate-drug-discovery-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/13e3a8e2-36a5-4342-b02d-e67f23790c6a-e1592852109542.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Real estate tech startup OJO Labs raises $62.5 million, acquires Movoto"
     excerpt: "With the latest financing, OJO Labs has now raised a known $134 million in venture funding since its 2015 inception, according to Crunchbase."
     publishedDateTime: 2020-06-24T18:08:00Z

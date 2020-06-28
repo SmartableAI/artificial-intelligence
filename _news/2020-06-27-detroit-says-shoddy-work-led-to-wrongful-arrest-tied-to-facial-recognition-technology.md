@@ -571,6 +571,17 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Detroit Clears Record of Man Targeted by Facial Recognition"
+    excerpt: "Detroit police are working to expunge the criminal record of a man who was wrongfully targeted by facial recognition technology. He was arrested without explanation and released because the software made a mistake."
+    publishedDateTime: 2020-06-26T21:17:00Z
+    webUrl: "https://www.govtech.com/public-safety/Detroit-Clears-Record-of-Man-Targeted-by-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Detroit-Clears-Record-of-Man-Targeted-by-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Detroit-Clears-Record-of-Man-Targeted-by-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
   - title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition Technology By The City"
     excerpt: "The city council also voted on Wednesday to prohibit any city official from obtaining such surveillance through third parties. Sponsors said the technology is inaccurate for people of color."
     publishedDateTime: 2020-06-24T23:05:00Z
@@ -616,6 +627,6 @@ related:
         height: 675
         isCached: true
 
-secured: "OFrb3KdYnOH5vzd0wtBK4T2V7YZrCfl1AgSFK4k0CdulhXhDx+acibxG3v1u2AEkenwM7ENBQPJIl+kf7IYcVyCc6ELezFnlcY29y17taMe3AHTnN8iE3MbKhG6tSTW3fNFoB9NFm8l+YVVlLoRiSoyTECKVxUEDIuMZwiJsKrmkjCuOoQwin0xv40K2HWajNDSToGsLc1M1jFhPN+g/nGujvUfXTztLtpcQBMmGgvf3AzLaLSXp+GIT8fxIX1o9AC+B0SdToIpv/yZrtgsyLK1zqbF507IR7dpPU2DZ+V0APC1bV2+YNKJ3wCQsxNBygKAg4tXSNT2Psyag2f+5LQ==;Fg0EYWvLsP6wtZqLgiby0g=="
+secured: "FzOQLr1BML6VpLptICTHzkz/MICayF4SZfe2rD7d8bWbrXUwGlqXRfCgPSlGqu6YSB/9Lm3V+9KKKaLDr1vtFlIqJObln5mGJ2/r7lbjyJwDCjk0Mq7JmAQ3JBqklnACBFxwEEpfRbnB4DgYurUd6kNFgs/fwanE2gmMNWvq6ahXnyYQnBIPVUyns5tSUXMvaVPB/9D4mpPWPPBhcNZPgdrivLTBfbcM3YgHIyjhJ7OINvXxeL5lIe9B20W8p3mAkL2CyZ+grccTt+GrFUvlVT+/OjNwARPXT34fCmA04tuuL4/g2f+LGkEeeyvw9B7ZGgTDUar1Bm/70KykubvdKDPRhinpA89rH92I5x30XDXlALoOyKIWtJppi0JJM+D0IV03n7Ehv4Hyu2Gnpec7rD9LeAwp6ewaDyKkjRxY9mHP0+9tt2ujz3i16nLmh0QfQ8IaSKvLArQA2rdmf4DLyFFHvDrrAQCA4p170fKkYlObSI4Rhd4ePnbKFbO3qyR50H+YKW87WTDL2h181z1gMg==;HSeIGsdUvO5mlF/X0Ry6vg=="
 ---
 

@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Deep Learning Chipset Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2026"
+    excerpt: "MarketsandResearch.biz presents a new market report namely Global Deep Learning Chipset Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 aims to improve the experience by offering an extensive and explicit analysis of Deep Learning Chipset market."
+    publishedDateTime: 2020-06-25T00:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2020-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2026-2020-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "jdoI9PG95fwImXhyIXoCwsFpm/MonEkrKJ2BNZpFu0DZfXqx71gYqGnR37jQmaLDUcRwWX1CA9Z9Eu4RgGRTFlaXRCVTgFeAXSKM/xRUGOq/D7m9TsDckxGPmrk+XJB05laxcWcs5P7x+3acTsUc4N0woT4o9P0aUeAt6KwAixl1alrOHr2+XxISSFrwFOWAyjjrA0o7DhcrDwlPe/Eyz3XmSzXP62q7a1vnRCFePKFa0UjGgB+wRFbAHPvaDO1eFWfFqNf9U5eMnc1hOeuVnIVdhzkEG+L2zhvByGGaiRLu4gS5SWkesevcm8lh9tC2x92Ge8kTIFXzPpJDWEEksQUUoNpWxfNbX5/ir61vf5TERIv1hPRS60t7nNHkWHLTvjCywz5JZrJT8QsdnpKse+6Y5stwEjkaU4pcJikIeEsDFPOTPoyvQgsjCIiBNkQZPDmvkWDsEjjBLPigv7faGZLp31Fbpc0vFub6iCZ6gQgz+OxjWkuzNjcgGA0d724avLCKU16Kd8FocjSOedVBRQ==;6nqppnDdF5Sh66EQWAc4Ow=="
 ---
