@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-26-democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us.md",
+      "title": "Democrats and civil liberties groups back law banning facial recognition across the US",
+      "excerpt": "New legislation that would ban police use of facial recognition software across the US has been backed by civil liberties groups -- but not Big Tech.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/",
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-85-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Democrats and civil liberties groups back law banning facial recognition across the US",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/",
+      "publishedDateTime": "2020-06-26T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-five-ways-quiet-workers-can-increase-their-visibility-and-recognition.md",
       "title": "Five Ways Quiet Workers Can Increase Their Visibility And Recognition",
       "excerpt": "\"My workplace doesn’t work for quiet people.\" Peter describes himself as quietly confident. He's used to being recognized for his achievements by his bosses. However, when the new director (less appreciative and more of an alpha type) appeared in his company,",
@@ -49,11 +97,58 @@
       ]
     },
     {
+      "path": "_news/2020-06-26-lets-kill-facial-recognition-for-good.md",
+      "title": "Let's Kill Facial Recognition For Good",
+      "excerpt": "Those emails mention all three classes of surveillance covered in today’s bill—pattern, facial, and voice recognition—as being available for the DEA to use at its discretion. “Facial recognition technology doesn’t just pose a grave threat to our ...",
+      "webUrl": "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nvw4abg7rvdyxyeklgsr.jpg",
+          "width": 800,
+          "height": 449,
+          "title": "Let's Kill Facial Recognition For Good",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp",
+      "cdnAmpWebUrl": "https://paleofuture-gizmodo-com.cdn.ampproject.org/c/s/paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp",
+      "publishedDateTime": "2020-06-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "paleofuture.gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-members-of-congress-push-to-ban-federal-use-of-face-recognition.md",
       "title": "Members of Congress push to ban federal use of face recognition",
       "excerpt": "A group of Democratic Senators and House representatives have introduced a bill that seeks to ban federal use of facial recognition technology. It follows an incident in which Detroit police wrongfully arrested a man after a facial recognition system incorrectly flagged him as a suspect.",
       "webUrl": "https://www.engadget.com/facial-recognition-ban-bill-democrats-182006734.html",
-      "heat": 221,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -142,53 +237,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-boston-bans-police-from-using-facial-recognition-technology.md",
-      "title": "Boston bans police from using facial recognition technology",
-      "excerpt": "Boston has banned police from using facial recognition technology, becoming the second-largest U.S. community to do so.",
-      "webUrl": "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology",
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/facial-recognition-iStock.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "Boston bans police from using facial recognition technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp",
-      "publishedDateTime": "2020-06-24T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -1262,53 +1310,6 @@
         "name": "The Hindu",
         "domain": "thehindu.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-automotive-voice-recognition-system-market-by-technology-vehicle-type-size-opportunities-and-forecast-2020-2027.md",
-      "title": "Automotive Voice Recognition System Market By Technology, Vehicle Type, Size, Opportunities and Forecast, 2020 - 2027",
-      "excerpt": "As per the research held by Acumen Research and Consulting, \"the global Automotive Voice Recognition System market anticipated to exceed US$ 39 Bn by 2027, along with the projected CAGR of 21% from 2020 to 2027\".",
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-by-technology-vehicle-type-size-opportunities-and-forecast-2020---2027-2020-06-09",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Automotive Voice Recognition System Market By Technology, Vehicle Type, Size, Opportunities and Forecast, 2020 - 2027",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

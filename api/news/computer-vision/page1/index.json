@@ -2,11 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-26-democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us.md",
+      "title": "Democrats and civil liberties groups back law banning facial recognition across the US",
+      "excerpt": "New legislation that would ban police use of facial recognition software across the US has been backed by civil liberties groups -- but not Big Tech.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/",
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-85-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Democrats and civil liberties groups back law banning facial recognition across the US",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/",
+      "publishedDateTime": "2020-06-26T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-members-of-congress-push-to-ban-federal-use-of-face-recognition.md",
       "title": "Members of Congress push to ban federal use of face recognition",
       "excerpt": "A group of Democratic Senators and House representatives have introduced a bill that seeks to ban federal use of facial recognition technology. It follows an incident in which Detroit police wrongfully arrested a man after a facial recognition system incorrectly flagged him as a suspect.",
       "webUrl": "https://www.engadget.com/facial-recognition-ban-bill-democrats-182006734.html",
-      "heat": 221,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -101,7 +149,7 @@
       "title": "A Flawed Facial Recognition System Sent This Man to Jail",
       "excerpt": "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used.",
       "webUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/",
-      "heat": 474,
+      "heat": 494,
       "tags": null,
       "images": [
         {
@@ -148,7 +196,7 @@
       "title": "Boston bans most city use of facial-recognition tech in privacy win",
       "excerpt": "Boston joins cities like San Francisco in banning the official use of facial-recognition tech after the unanimous vote.",
       "webUrl": "https://mashable.com/article/boston-bans-facial-recognition-technology/",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1298,35 +1346,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-cvpr-2020-convenes-thousands-from-the-global-ai-machine-learning-and-computer-vision-community-in-virtual-event-beginning-sunday.md",
-      "title": "CVPR 2020 Convenes Thousands from the Global AI, Machine Learning and Computer Vision Community in Virtual Event Beginning Sunday",
-      "excerpt": "LOS ALAMITOS, Calif., June 12, 2020 /PRNewswire/ -- The Computer Vision and Pattern Recognition (CVPR) Conference, one of the largest events exploring artificial intelligence, machine learning ...",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/n16241122/cvpr-2020-convenes-thousands-from-the-global-ai-machine-learning-and-computer-vision-community-in-",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16241122",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16241122",
-      "publishedDateTime": "2020-06-12T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

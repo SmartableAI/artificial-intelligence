@@ -497,6 +497,22 @@ related:
         width: 816
         height: 459
         isCached: true
+  - title: "Detroit says 'shoddy' work led to wrongful arrest tied to facial recognition technology"
+    excerpt: "A Black man wrongly arrested after the use of facial recognition technology will have his DNA, fingerprints and mugshot removed from files."
+    publishedDateTime: 2020-06-27T11:55:00Z
+    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/06/26/facial-recognition-wrongful-arrest-detroit-police/3265943001/"
+    ampWebUrl: "https://amp.freep.com/amp/3265943001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3265943001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 51
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/01/21/PDTF/7f37d006-521d-4d6e-b65c-51b641c9d880-IMG_detroit_police_car_1_1_.JPG?auto=webp&crop=533,300,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "I was wrongfully arrested because of facial recognition. Why are police allowed to use this technology?"
     excerpt: "They sent that footage to the Michigan State Police, who then ran it through their facial-recognition system. That system incorrectly spit out a photograph of me pulled from an old driver’s license picture. Federal studies have shown that facial ..."
     publishedDateTime: 2020-06-24T11:05:00Z
@@ -582,6 +598,22 @@ related:
       - url: "https://media.npr.org/assets/img/2020/06/24/screenshot-242-_wide-5faa93d3c27a65b83e3d27a76badf0a4ee696230.png?s=1400"
         width: 606
         height: 341
+        isCached: true
+  - title: "U.S. Sen. Ed Markey pushes to ban government use of facial recognition technology, says ‘the criminal justice system is already rigged'"
+    excerpt: "Legislation proposed by U.S. Sen. Ed Markey would ban federal use of biometric surveillance and tie federal funding to whether communities ban it."
+    publishedDateTime: 2020-06-28T18:23:00Z
+    webUrl: "https://www.masslive.com/politics/2020/06/us-sen-ed-markey-pushes-to-ban-government-use-of-facial-recognition-technology-says-the-criminal-justice-system-is-already-rigged.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/06/us-sen-ed-markey-pushes-to-ban-government-use-of-facial-recognition-technology-says-the-criminal-justice-system-is-already-rigged.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/06/us-sen-ed-markey-pushes-to-ban-government-use-of-facial-recognition-technology-says-the-criminal-justice-system-is-already-rigged.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 27
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZAYEYVJ5VVEANAVWPXX4RCROOM.png"
+        width: 1114
+        height: 675
         isCached: true
 
 secured: "3GPVsLmTkWv2kksHdcVmB0YgD8Hlj1Oy6rwB4WRSwZBR4JIFeWHvLzWp7VwqEZp3fgh/E2QQovzve/9KougVXmVMidNXs04PHg89W3srg58gdkQ4Mvif/Gml5pLma7YomsfKiERlRxoqeGHxOodEk0DNulDjpI+0BmYt5TSHZzX3oSc9qKn3UyvVagg4cm0pdPpZQw8YnoTjE710G24vGckOnvh7plzcilw3qDmAN1HgcRLb2YB4VYTLnSaxVLyczFhQClfE5jd1XKh3LxCGlxovledUTjDQgYElycSohfHgaeWz0YaSYhVGiwaaHNcj0x5s7ASqEY/GPqw7ih1gp2dl+WWa2NJVZ3yssbRVolRsH8PfHE3POu1mPyaGriz+yhFE1+zW0Ac1qeY7ka10De/BEzatTGEOSy0uVO0wEd8aTowkKEP+E/WxRVCgrXJ5OMNc73YP8z6el8EdMw6BiOgqBjbhmvjFyRe38tAi5dA+aQ8yGufVQlqOT8ZIei5yKboR7CEN+K9wMP3aR+vpnw==;ttS2XLJsDOVZ6E7arpwWRw=="

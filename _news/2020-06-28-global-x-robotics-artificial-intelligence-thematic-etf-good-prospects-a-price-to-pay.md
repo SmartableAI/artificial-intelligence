@@ -5,8 +5,8 @@ excerpt: "Global X Robotics & Artificial Intelligence Thematic ETF (BOTZ) is an 
 publishedDateTime: 2020-06-28T16:57:00Z
 webUrl: "https://seekingalpha.com/article/4356029-global-x-robotics-artificial-intelligence-thematic-etf-good-prospects-price-to-pay"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://static.seekingalpha.com/uploads/2020/6/25/39580-15931336147359896.png"
@@ -23,6 +24,6 @@ images:
     isCached: true
     title: "Global X Robotics & Artificial Intelligence Thematic ETF: Good Prospects, A Price To Pay"
 
-secured: "6XyjNoTilnzryXFHIVYufU5JmAJpy0iS2gzMH7TWON2zdNzhHIYXR8LXFPHwsqua5QjM3pveeMjSee2dfmq/7HuitAvVuTfTaKRMAVi3ZexsRtx5XMLi4mttcJHCnwn7kKnKU0K3ePnq+C377rl56IUKnepDYdicv3N/HbM405fF9O0rUmrkbU80pI0i9EJyqmzUvRVjj9myOaq6mqZydkh7Q3nkORAe30AcyndOLF4s6NdmwiQp0l1d2AE5YF+hm0NLnYRVeISYQeZeICZCiXrVcbqHauWsitZhXn2275h70sHpEn2e0mV2Nzv83AYBNBdUVglvbwynRX7NXxYxRA==;vl3Sp0NrI/ONV12g1idDhg=="
+secured: "hfgV+A/VvQgKg/cLzZyrot3BpAw+HBAGW1j1l24tNjNNH61bOrUsd56jAYIZ7sPedTK9Acr/J9WbqIiFOLWsEeEnqnfB+982nnzLJhLCdZCGdRt3w5+Hz03zj4xaNlB/o12P8dxZX0T/hzRZxvhOH95PpUAK2EHTRseWQ0n5zHcx/mN6jTU+K5cLdtKO+p3IZXEEp3kNXdI5H/8uBgbESqLXMONYjgEgcxHe256Tqmj/ws7ubXOrxPiJue5aDYghT219FANs2riT+aXFr7/4VcFPQ2emXJa1BMUStkp7ynGDzeNGSBmbcGq5qI6OqCgf0e0VBIqfnDp2PNYd4L7uMTOKxiCl7HVQv6S4DgFZQfHWBYEbLikycF/tSFLz+2yn/dpWCUEZ1kyWnK1fOXjEUvFdjLNj5FQPPTQqtWOKhncjEd2GF+1RibiRS5sZbngPzYlPu5wSQApW2ARgd0q5LCVWpo/dNkSmgOpzHYzrMAVsDD9zwLzQZCtrB60mYdoX6Fhx+8YEu7ku1EkGK7IDqA==;uB91y+JKDCXWAHNhN0p6og=="
 ---
 

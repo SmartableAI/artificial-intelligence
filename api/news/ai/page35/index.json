@@ -2,6 +2,213 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-05-22-using-tensorflow-to-recognize-your-own-objects.md",
+      "title": "Using TensorFlow To Recognize Your Own Objects",
+      "excerpt": "To help with that, [Edje Electronics] has put together a step-by-step guide to using TensorFlow to retrain Google’s Inception object recognizer. He does it for Windows 10 since there’s already ...",
+      "webUrl": "https://hackaday.com/2018/05/23/using-tensorflow-to-recognize-your-own-objects/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/05/train_object_recognizer_for_cards_fe21.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Using TensorFlow To Recognize Your Own Objects",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-details-emerge-about-use-of-facial-recognition-software-by-london-police.md",
+      "title": "Details emerge about use of facial recognition software by London police",
+      "excerpt": "Several London police officers ‘played around’ with controversial facial recognition software after being provided free access by the vendor. One used it in an investigation.",
+      "webUrl": "https://london.ctvnews.ca/details-emerge-about-use-of-facial-recognition-software-by-london-police-1.4949479?cache=yes%3FautoPlay%3Dtrue%3FclipId%3D89531%2F5-things-to-know-for-friday-september-13-2019-1.4591474",
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/london/2020/5/21/1_4949479/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 573,
+          "title": "Details emerge about use of facial recognition software by London police",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/london/2020/5/21/1_4949479.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/london/2020/5/21/1_4949479.html",
+      "publishedDateTime": "2020-05-21T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry.md",
+      "title": "Google says it won’t build new AI solutions for the fossil fuel industry",
+      "excerpt": "Google today confirmed it will “no longer develop artificial intelligence (AI) software and tools for oil and gas drilling operations ... [Read: Employees say Google cut diversity programs to make conservatives happy] If this is the start of Google and Alphabet extricating themselves entirely from working with big oil, it deserves a ...",
+      "webUrl": "https://thenextweb.com/neural/2020/05/21/google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Sundar-Pichai-Alphabet-Google-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Google says it won’t build new AI solutions for the fossil fuel industry",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/21/google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/21/google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry/amp/",
+      "publishedDateTime": "2020-05-21T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-gap-is-speeding-up-its-rollout-of-warehouse-robots-to-limit-person-to-person-contact-amid-the-coronavirus.md",
+      "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
+      "excerpt": "Gap Inc. is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic.",
+      "webUrl": "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ec6ecbf3ad861791b7c0226?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp",
+      "publishedDateTime": "2020-05-21T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-21-police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand.md",
+      "title": "Police trial controversial Clearview AI facial recognition tech in New Zealand",
+      "excerpt": "Clearview AI facial recognition technology once again made the news for crimefighting reasons, this time in New Zealand. But controversy persists.",
+      "webUrl": "https://techwireasia.com/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/05/063_1198303844-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": "Police trial controversial Clearview AI facial recognition tech in New Zealand",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/",
+      "publishedDateTime": "2020-05-21T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-nvidia-reports-308-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar.md",
       "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
       "excerpt": "Nvidia posted revenues of $3.08 billion for the first quarter ended April 26, up 39% from a year earlier as data center revenues soared.",
@@ -1078,205 +1285,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-samsung-takes-another-step-in-us116-billion-plan-to-take-on-chip-maker-tsmc.md",
-      "title": "Samsung takes another step in US$116 billion plan to take on chip maker TSMC",
-      "excerpt": "South Korea’s largest company has started construction on a new fabrication plant that is dedicated to its made-to-order chip foundry business, an arena that Taiwan Semiconductor Manufacturing Co dominates.",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3085471/samsung-takes-another-step-us116-billion-plan-take-chip-maker-tsmc",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/21/686ef5e6-9b42-11ea-96ff-7aff439fc3be_image_hires_172643.jpeg?itok=_vSkaSW2&v=1590053214",
-          "width": 1200,
-          "height": 630,
-          "title": "Samsung takes another step in US$116 billion plan to take on chip maker TSMC",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3085471/samsung-takes-another-step-us116-billion-plan-take-chip-maker-tsmc",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3085471/samsung-takes-another-step-us116-billion-plan-take-chip-maker-tsmc",
-      "publishedDateTime": "2020-05-21T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-meeting-the-challenges-of-today-and-tomorrow-with-azure-ai.md",
-      "title": "Meeting the challenges of today and tomorrow with Azure AI",
-      "excerpt": "It’s inspiring to see how customers continue to reimagine how they work with the help of AI, which is more important today than ever. Our customers are finding innovative ways to deliver crisis management solutions, drive cost-savings, redefine customer engagement, and accelerate decision-making.\r\n\r\nHere",
-      "webUrl": "https://azure.microsoft.com/blog/meeting-the-challenges-of-today-and-tomorrow-with-azure-ai/",
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T02:00:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-deep-learning-market-analysis-as-per-the-latest-covid-19-impact.md",
-      "title": "Deep Learning Market Analysis as per the Latest COVID-19 Impact",
-      "excerpt": "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The Deep Learning Market is expected to be around US$ 25.",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-as-per-the-latest-covid-19-impact-2020-05-21",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market Analysis as per the Latest COVID-19 Impact",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-patriot-one-selected-for-45m-cad-co-investment-from-digital-technology-supercluster-covid-19-program.md",
-      "title": "Patriot One Selected for $4.5M CAD Co-Investment from Digital Technology Supercluster COVID-19 Program",
-      "excerpt": "The Health & Safety Modules are additional video object recognition solutions that have been added to the PATSCAN Platform, which also includes weapon detection, disturbance and fight detection modules. “Our mission has always been to create safer ...",
-      "webUrl": "https://stockhouse.com/news/press-releases/2020/05/21/patriot-one-selected-for-4-5m-cad-co-investment-from-digital-technology",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-20T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-sogou-introduces-worlds-first-3d-ai-news-anchor.md",
-      "title": "Sogou Introduces World's First 3D AI News Anchor",
-      "excerpt": "PRNewswire/ -- Sogou Inc. (NYSE: SOGO) ('Sogou' or 'the Company'), an innovator in search and a leader in China's internet",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sogou-introduces-world-s-first-3d-ai-news-anchor-1029222053",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/sogou-introduces-world-s-first-3d-ai-news-anchor-1029222053",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sogou-introduces-world-s-first-3d-ai-news-anchor-1029222053",
-      "publishedDateTime": "2020-05-20T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

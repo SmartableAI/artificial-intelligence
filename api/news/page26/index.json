@@ -2,6 +2,221 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-06-04-ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists.md",
+      "title": "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists",
+      "excerpt": "In a paper, Uber researchers describe an autonomous vehicle perception system that reasons about the behavior of pedestrians, vehicles, and cyclists.",
+      "webUrl": "https://venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/amp/",
+      "publishedDateTime": "2020-06-04T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study.md",
+      "title": "Self-driving cars could only prevent a third of U.S. crashes: study",
+      "excerpt": "(Reuters) - Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday.",
+      "webUrl": "https://www.reuters.com/article/us-autos-self-driving-idUSKBN23B294",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23B294",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23B294",
+      "publishedDateTime": "2020-06-04T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-covid-19-contact-tracing.md",
+      "title": "Scientists led by AI scholar Yoshua Bengio urge privacy, opt-in approach for COVID-19 contact tracing",
+      "excerpt": "Testing appears to be still urgently needed for containing and ultimately eradicating COVID-19. Canadian AI scholar Yoshua Bengio and colleagues from multiple institutions urge privacy measures for contact tracing.",
+      "webUrl": "https://www.zdnet.com/article/scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-contact-tracing/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/04/1c1c209b-430d-4aeb-98a0-50f0bd2d80dd/bengio-et-al-digital-contact-tracing-impact-may-2020.png",
+          "width": 1248,
+          "height": 1214,
+          "title": "Scientists led by AI scholar Yoshua Bengio urge privacy, opt-in approach for COVID-19 contact tracing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-contact-tracing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-contact-tracing/",
+      "publishedDateTime": "2020-06-04T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-ark-invest-ai-training-costs-dropped-100-fold-between-2017-and-2019.md",
+      "title": "ARK Invest: AI training costs dropped 100-fold between 2017 and 2019",
+      "excerpt": "According to a new report from ARK Invest, the cost of training AI models has delined steeply over the past decade -- and will continue to decline.",
+      "webUrl": "https://venturebeat.com/2020/06/04/ark-invest-ai-training-costs-dropped-100-fold-between-2017-and-2019/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ARK Invest: AI training costs dropped 100-fold between 2017 and 2019",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/04/ark-invest-ai-training-costs-dropped-100-fold-between-2017-and-2019/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/04/ark-invest-ai-training-costs-dropped-100-fold-between-2017-and-2019/amp/",
+      "publishedDateTime": "2020-06-04T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-study-autonomous-vehicles-wont-make-roads-completely-safe.md",
+      "title": "Study: Autonomous vehicles won't make roads completely safe",
+      "excerpt": "A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error. Auto safety experts say humans cause about 94% of U.",
+      "webUrl": "https://www.stamfordadvocate.com/news/article/Stud-Autonomous-vehicles-won-t-make-roads-15316897.php",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": "Study: Autonomous vehicles won't make roads completely safe",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.stamfordadvocate.com/news/amp/Stud-Autonomous-vehicles-won-t-make-roads-15316897.php",
+      "cdnAmpWebUrl": "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Stud-Autonomous-vehicles-won-t-make-roads-15316897.php",
+      "publishedDateTime": "2020-06-04T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show.md",
       "title": "Prada-Backed AI Startup Will Live-Stream Pioneering 3D Virtual Fashion Show",
       "excerpt": "Artificial Intelligence fashion startup Bigthinx, in partnership with Fashinnovation, will live stream a 3D Virtual Fashion Show, one of the first since the coronavirus pandemic forced the fashion industry online.",
@@ -853,212 +1068,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-nanox-raises-20-million-to-scale-its-ai-medical-imaging-system.md",
-      "title": "Nanox raises $20 million to scale its AI medical imaging system",
-      "excerpt": "Nanox raised $20 million from SK Telecom in a deal that'll see the former's AI medical imaging hardware deployed in Vietnam and South Korea.",
-      "webUrl": "https://venturebeat.com/2020/06/04/nanox-raises-20-million-to-scale-its-ai-medical-imaging-system/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/565d38a9-02a3-4ac9-9e24-fee9c3b9094a-e1579032983901.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Nanox raises $20 million to scale its AI medical imaging system",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/04/nanox-raises-20-million-to-scale-its-ai-medical-imaging-system/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/04/nanox-raises-20-million-to-scale-its-ai-medical-imaging-system/amp/",
-      "publishedDateTime": "2020-06-04T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence.md",
-      "title": "Inky raises $20 million to prevent phishing attacks with AI ‘fence’",
-      "excerpt": "Inky, which taps AI and machine learning to spot and deflect phishing attacks, has raised $20 million in venture capital financing.",
-      "webUrl": "https://venturebeat.com/2020/06/04/inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/INKY-Releases-2018-Q4-Email-Security-Report-Welcome-to-2019-Phishing-Gets-Personal-e1591114148163.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Inky raises $20 million to prevent phishing attacks with AI ‘fence’",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/04/inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/04/inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence/amp/",
-      "publishedDateTime": "2020-06-04T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026.md",
-      "title": "Size & Share of Cloud Natural Language Processing (NLP) Market 2020 Research Report and Forecast to 2026",
-      "excerpt": "Facts & Factors (FnF), a leading market research company recently published a research report on “ Cloud Natural Language Processing (NLP) Market By Type (Rule-Based, Statistical, and Hybrid), By Deployment Model (Public,",
-      "webUrl": "https://surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/amp/",
-      "cdnAmpWebUrl": "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/amp/",
-      "publishedDateTime": "2020-06-04T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "surfacingmagazine.net",
-        "domain": "surfacingmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-ai-should-serve-us-not-destroy-our-humanity.md",
-      "title": "AI should serve us, not destroy our humanity",
-      "excerpt": "There has been a shift in the way we interact with machine technology and apply information of formal scientific jargon to the real world",
-      "webUrl": "https://www.zawya.com/saudi-arabia/en/business/story/AI_should_serve_us_not_destroy_our_humanity-SNG_176079931/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "AI should serve us, not destroy our humanity",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-04T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-taiwan-draws-up-plan-to-woo-us13-billion-of-annual-tech-research-in-semiconductors-5g-and-ai.md",
-      "title": "Taiwan draws up plan to woo US$1.3 billion of annual tech research in semiconductors, 5G and AI",
-      "excerpt": "Taiwan is dangling incentives to attract more than NT$40 billion (US$1.3 billion) of annual investments in research and technology, creating a seven-year blueprint to safeguard the island’s lead in semiconductors and other cutting-edge fields.",
-      "webUrl": "https://www.scmp.com/tech/policy/article/3087517/taiwan-draws-plan-woo-us13-billion-annual-tech-research-semiconductors",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/04/7753bab4-a629-11ea-8ea0-d7434be00753_image_hires_140753.jpg?itok=UGp-QqSc&v=1591250881",
-          "width": 1200,
-          "height": 630,
-          "title": "Taiwan draws up plan to woo US$1.3 billion of annual tech research in semiconductors, 5G and AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3087517/taiwan-draws-plan-woo-us13-billion-annual-tech-research-semiconductors",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3087517/taiwan-draws-plan-woo-us13-billion-annual-tech-research-semiconductors",
-      "publishedDateTime": "2020-06-03T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

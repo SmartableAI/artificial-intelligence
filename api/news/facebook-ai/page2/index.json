@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-03-facebook-paypal-back-indonesian-start-up-gojeks-asia-digital-payments-push.md",
+      "title": "Facebook, PayPal back Indonesian start-up Gojek’s Asia digital payments push",
+      "excerpt": "The deal announced Wednesday marks Facebook’s first investment in an Indonesian company and is a major boost for Gojek, the country’s largest start-up which made its name in the ride-hailing business.",
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/03/af227d42-a564-11ea-8ea0-d7434be00753_image_hires_144031.jpg?itok=sZyyj_K0&v=1591166440",
+          "width": 1200,
+          "height": 630,
+          "title": "Facebook, PayPal back Indonesian start-up Gojek’s Asia digital payments push",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments",
+      "publishedDateTime": "2020-06-02T23:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-owkin-raises-25m-to-enhance-medical-research-machine-learning-and-collaboration.md",
+      "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
+      "excerpt": "Owkin is fueling collaborative medical research using machine learning while being compliant with privacy laws. Thomas Clozel discusses the unique benefits of Owkin.",
+      "webUrl": "https://www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.alleywatch.com/wp-content/uploads/2020/05/Owkin_Thomas_Clozel.001.jpeg",
+          "width": 1000,
+          "height": 537,
+          "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/amp/",
+      "cdnAmpWebUrl": "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/amp/",
+      "publishedDateTime": "2020-05-29T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "alleywatch.com",
+        "domain": "alleywatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-facebook-ai-research-applies-transformer-architecture-to-streamline-object-detection-models.md",
       "title": "Facebook AI Research applies Transformer architecture to streamline object detection models",
       "excerpt": "Facebook AI researchers claim they created the first object detection model with the Transformer neural network architecture typically used for NLP.",

@@ -24,36 +24,45 @@ images:
     title: "Digital Transformation in Asia-Pacific: 5G, Artificial Intelligence, Internet of Things and Smart Cities 2020-2025 - ResearchAndMarkets.com"
 
 related:
-  - title: "Digital Transformation Report: AI, Cloud based SaaS, and the Latest Fintech will Transform Banking in Next 5 Years"
-    excerpt: "Max Chuard, CEO at Temenos , a Switzerland-based banking software company, notes that the COVID-19 outbreak has accelerated the demand for the latest banking technologies and othe"
-    publishedDateTime: 2020-06-24T01:45:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/06/163117-digital-transformation-report-ai-cloud-based-saas-and-the-latest-fintech-will-transform-banking-in-next-5-years/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/06/163117-digital-transformation-report-ai-cloud-based-saas-and-the-latest-fintech-will-transform-banking-in-next-5-years/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/06/163117-digital-transformation-report-ai-cloud-based-saas-and-the-latest-fintech-will-transform-banking-in-next-5-years/amp/"
+  - title: "North American Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 - ResearchAndMarkets.com"
+    excerpt: "The \"North America Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 by Offering, Technology, Drug Type, Therapeutic Area, Application, End User, and Country: Trend Forecast and Growth Opportunity\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-06-26T11:43:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200626005182/en/North-American-Artificial-Intelligence-AI-Drug-Discovery"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 52
+      name: Baytown Sun
+      domain: businesswire.com
+    quality: 36
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/01/Bank-Banking-Teller-Wait-Queue-Delay-600x800.jpg"
-        width: 600
-        height: 800
+      - url: "https://mms.businesswire.com/media/20200626005182/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
         isCached: true
-  - title: "Accelerating Digital Transformation Strategies with Artificial Intelligence"
-    excerpt: "Artificial intelligence (AI) in the many forms it takes are the latest technologies positioned to reconstruct how federal agencies and enterprises work and learn. In a time when the traditional workplace is transitioning to a hybrid, if not completely ..."
-    publishedDateTime: 2020-06-26T19:52:00Z
-    webUrl: "https://www.govexec.com/feature/digital-transformation-with-AI/"
+  - title: "Artificial Intelligence for Healthcare IT, Worldwide, 2020 - Benchmarking Future Growth Potential - ResearchAndMarkets.com"
+    excerpt: "The \"Artificial Intelligence for Healthcare IT, Global, 2020\" report has been added to ResearchAndMarkets.com's offering. This research has identified the core areas in which artificial intelligence (AI)-enabled healthcare IT solutions are most relevant for hospitals,"
+    publishedDateTime: 2020-06-24T12:28:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200624005446/en/"
     type: article
     provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 35
+      name: Business Wire
+      domain: businesswire.com
+    quality: 28
     images:
-      - url: "https://cdn.govexec.com/media/featured/bonfire_rfp_cal_white.png"
-        width: 491
-        height: 218
+      - url: "https://mms.businesswire.com/media/20200624005446/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
         isCached: true
+  - title: "Smart Learning Systems Market Size, Share, Growth, Research and Forecast 2020-2026"
+    excerpt: "The adoption of AI tools enables to provide learning easily and interactively to all whether students with visual and hearing impairments or speak different languages. Presentation Translator is one of the best instances that create subtitles in real-time ..."
+    publishedDateTime: 2020-06-26T12:46:00Z
+    webUrl: "https://www.openpr.com/news/2080747/smart-learning-systems-market-size-share-growth-research"
+    ampWebUrl: "https://www.openpr.com/amp/2080747/smart-learning-systems-market-size-share-growth-research"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2080747/smart-learning-systems-market-size-share-growth-research"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
 
 secured: "yjWxmL4DgMR0QyovtdiifEO+A/Po9AlUkxTtcy1kkxX25Y61b/+kPDxipPF+gQEvEgQX3Khqqjb/6zBM/PQ6Dba7FTdbbSJ2SRCnK+ujIjRX+LHplwYj9IYCDOqM1S4GfEHdNx3dRFKcwRc5zTs++Fl6ospqHI0iBim9Y7avfnWw00IzSxjCUwyRp+y4VdY75p6BP2+InkT9aRU91rFK7MpPy1Gd38InXVkYURaaIvPnHAKN21ehZRZIPDBKR3oitm0KgB7Xt0EXNgr9WHWOoJSEhmMxoDS0u7MWBUiD00qCYGrhy9IXrM6XxQCdGHNWLwuc1XeqEBFd8p1TO7NLiI3skgPQr2Oqc60bSc7VsEo2IOyH2meTaxUiB2aXfJLqJb2k9nTAp+ztoSq2AoGU1gHUo9YOq+JmWU83FJoHWGJrv8PuJLWtZuq/4LnkgFAVwZs1C6Xlc48EAyNfGvw6/EXaco3zQXI+REpcm3NIX/BF5g3pAjGpGWrI6XvF7bPgg6ZjRExXs8bh80wUX5eATA==;2RtM5vg5JuUNQrBQQbHB0g=="
 ---

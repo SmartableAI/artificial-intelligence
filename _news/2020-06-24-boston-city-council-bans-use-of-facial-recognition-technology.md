@@ -100,6 +100,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Florida Police Embrace Facial Recognition Despite Pushback"
+    excerpt: "While companies and governments are halting the use of facial recognition technology, the Pinellas County Sheriff’s Office is refusing to comply until official regulations are put in place."
+    publishedDateTime: 2020-06-26T21:42:00Z
+    webUrl: "https://www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/BIZ-NATIONAL-MOVES-AGAINST-FACIAL-RECOGNITION-PT.JPG"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Congress puts forward bill to ban use of facial recognition"
     excerpt: "Several members of Congress unveiled a bill that would completely ban the use of biometric information, including facial recognition, by the government."
     publishedDateTime: 2020-06-25T18:46:00Z

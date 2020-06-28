@@ -2,6 +2,99 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-25-intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research.md",
+      "title": "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research",
+      "excerpt": "Intel and the National Science Foundation (NSF) announced award recipients of joint funding for research into the development of",
+      "webUrl": "https://www.marketwatch.com/press-release/intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research-2020-06-25",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-artificial-intelligence-market-facts-figures-and-analytical-insights-2020-2025.md",
+      "title": "Artificial Intelligence Market : Facts, Figures and Analytical Insights 2020 - 2025",
+      "excerpt": "Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer Center. The MarketWatch News Department was not involved in the creation of this ...",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-facts-figures-and-analytical-insights-2020---2025-2020-06-25",
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Market : Facts, Figures and Analytical Insights 2020 - 2025",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-ai-fueled-startup-turns-disrupted-supply-chains-into-last-mile-opportunity.md",
       "title": "AI-Fueled Startup Turns Disrupted Supply Chains Into Last Mile Opportunity",
       "excerpt": "When Shamir Rahim, founder and CEO of VersaFleet, transformed his bio-medical startup into an AI-powered transportation management system, he never imagined being at the epicenter (in a good way) of a supply chain revolution during a worldwide pandemic.",
@@ -606,7 +699,7 @@
       "title": "A Flawed Facial Recognition System Sent This Man to Jail",
       "excerpt": "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used.",
       "webUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/",
-      "heat": 474,
+      "heat": 494,
       "tags": null,
       "images": [
         {
@@ -645,53 +738,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-boston-bans-police-from-using-facial-recognition-technology.md",
-      "title": "Boston bans police from using facial recognition technology",
-      "excerpt": "Boston has banned police from using facial recognition technology, becoming the second-largest U.S. community to do so.",
-      "webUrl": "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology",
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/facial-recognition-iStock.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "Boston bans police from using facial recognition technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp",
-      "publishedDateTime": "2020-06-24T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -841,7 +887,7 @@
       "title": "Boston bans most city use of facial-recognition tech in privacy win",
       "excerpt": "Boston joins cities like San Francisco in banning the official use of facial-recognition tech after the unanimous vote.",
       "webUrl": "https://mashable.com/article/boston-bans-facial-recognition-technology/",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1079,53 +1125,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-aclu-files-first-formal-complaint-over-wrongful-facial-recognition-arrest.md",
-      "title": "ACLU files first formal complaint over wrongful facial recognition arrest",
-      "excerpt": "The American Civil Liberties Union (ACLU) has filed a formal complaint against Detroit police over what it says is the first known example of a wrongful arrest caused by faulty facial recognition technology.",
-      "webUrl": "https://www.theverge.com/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence",
-      "heat": 243,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/pNPPy70RTA3CkRzF3BnMEwoBjEc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66976095/acastro_180730_1777_facial_recognition_0003.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "ACLU files first formal complaint over wrongful facial recognition arrest",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence",
-      "publishedDateTime": "2020-06-24T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

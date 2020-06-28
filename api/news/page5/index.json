@@ -2,6 +2,53 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-23-building-ai-powered-forecasting-automation-with-amazon-forecast-by-applying-mlops.md",
+      "title": "Building AI-powered forecasting automation with Amazon Forecast by applying MLOps",
+      "excerpt": "This post demonstrates how to create a serverless Machine Learning Operations (MLOps) pipeline to develop and visualize a forecasting model built with Amazon Forecast. Because Machine Learning (ML) workloads need to scale, it’s important to break down the silos among different stakeholders to capture",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-ai-powered-forecasting-automation-with-amazon-forecast-by-applying-mlops/",
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/22/Screen-Shot-2020-06-19-at-15.00.38-1260x566.png",
+          "width": 1260,
+          "height": 566,
+          "title": "Building AI-powered forecasting automation with Amazon Forecast by applying MLOps",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T15:52:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-ai-startup-pilots-digital-masks-that-counter-facial-recognition.md",
       "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
       "excerpt": "A Los Angeles startup has created “privacy-preserving face skins” – digital masks or avatars that counter facial recognition software.",
@@ -456,6 +503,53 @@
       ]
     },
     {
+      "path": "_news/2020-06-23-chinas-didi-aims-for-1-million-robotaxis-on-its-platform-by-2030.md",
+      "title": "China's Didi aims for 1 million robotaxis on its platform by 2030",
+      "excerpt": "China's ride-hailing giant Didi Chuxing aims to operate more than 1 million self-driving cars through its platform by 2030, an executive said on Tuesday.",
+      "webUrl": "https://www.reuters.com/article/us-china-autonomous-didi-idUSKBN23U1U4",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200623&t=2&i=1523192451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5M140",
+          "width": 817,
+          "height": 545,
+          "title": "China's Didi aims for 1 million robotaxis on its platform by 2030",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23U1U4",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23U1U4",
+      "publishedDateTime": "2020-06-23T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-facebooks-new-choreography-ai-is-a-dancing-queen.md",
       "title": "Facebook’s new choreography AI is a dancing queen",
       "excerpt": "It is capable of interpreting his company’s dance style and generating more movements based on the using thousands of hours of video it was trained on. What’s more they were limited to the style of the dances and music they had been trained on.",
@@ -830,6 +924,53 @@
       ]
     },
     {
+      "path": "_news/2020-06-23-didi-chuxing-targets-1-million-autonomous-taxis-by-2030.md",
+      "title": "Didi Chuxing targets 1 million autonomous taxis by 2030",
+      "excerpt": "China’s ride-hailing giant Didi Chuxing aims to operate more than 1 million self-driving cars through its platform by 2030.",
+      "webUrl": "https://venturebeat.com/2020/06/23/didi-chuxing-targets-1-million-autonomous-taxis-by-2030/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Didi.png?w=1200&#038;strip=all",
+          "width": 1199,
+          "height": 603,
+          "title": "Didi Chuxing targets 1 million autonomous taxis by 2030",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/23/didi-chuxing-targets-1-million-autonomous-taxis-by-2030/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/didi-chuxing-targets-1-million-autonomous-taxis-by-2030/amp/",
+      "publishedDateTime": "2020-06-23T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-microsoft-azure-and-johns-hopkins-medicine-have-partnered-to-accelerate-precision-medicine.md",
       "title": "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine",
       "excerpt": "Microsoft Azure and Johns Hopkins Medicine partnered to leverage Microsoft's AI and analytics tools to facilitate precision medicine breakthroughs.",
@@ -1011,137 +1152,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-conversational-ai-startup-rasa-shows-steady-growth-with-fresh-26-million.md",
-      "title": "Conversational AI startup Rasa shows steady growth with fresh $26 million",
-      "excerpt": "Rasa, a startup developing open source conversational AI tools, raised $26 million in venture capital from Andreessen Horowitz and others.",
-      "webUrl": "https://venturebeat.com/2020/06/23/conversational-ai-startup-rasa-shows-steady-growth-with-fresh-26-million/",
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Rasa_Team-e1592901300745.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Conversational AI startup Rasa shows steady growth with fresh $26 million",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/23/conversational-ai-startup-rasa-shows-steady-growth-with-fresh-26-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/conversational-ai-startup-rasa-shows-steady-growth-with-fresh-26-million/amp/",
-      "publishedDateTime": "2020-06-23T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-lyft-details-how-its-going-to-make-self-driving-cars-safer.md",
-      "title": "Lyft details how it's going to make self-driving cars safer",
-      "excerpt": "Lyft’s self-driving team called Level 5 has published its first ever Voluntary Safety Self-Assessment (VSSA) report (PDF), giving us a glimpse of how it plans to make sure that its autonomous vehicles are safe to use.",
-      "webUrl": "https://www.engadget.com/lyfts-publishes-first-safety-assessment-report-104539689.html",
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F71f7b8b0-b52c-11ea-bfde-95534e1b930b&client=amp-blogside-v2&signature=7aea62f88da4d147a2e9b5531fd0e4915575118a",
-          "width": 600,
-          "height": 350,
-          "title": "Lyft details how it's going to make self-driving cars safer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/lyfts-publishes-first-safety-assessment-report-104539689.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lyfts-publishes-first-safety-assessment-report-104539689.html",
-      "publishedDateTime": "2020-06-23T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-microsoft-to-acquire-cyberx-to-bolster-azure-iot-security.md",
-      "title": "Microsoft to acquire CyberX to bolster Azure IoT security",
-      "excerpt": "Microsoft has announced it will purchase the industrially focused network security vendor CyberX for an undisclosed sum in an effort to bolster the security capabilities of its Azure IoT platform. The acquisition strikes at the heart of two key IIoT security pain points.",
-      "webUrl": "https://www.techcentral.ie/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techcentral.ie/wp-content/uploads/2016/03/IOT_2016.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "Microsoft to acquire CyberX to bolster Azure IoT security",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mozilla",
-        "domain": "techcentral.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

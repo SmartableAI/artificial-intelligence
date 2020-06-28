@@ -2,6 +2,198 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-06-10-the-race-to-develop-ai-chips-heats-up-as-graphcore-says-its-shipped-tens-of-thousands.md",
+      "title": "The race to develop A.I. chips heats up as Graphcore says it's shipped 'tens of thousands'",
+      "excerpt": "Microsoft is using Graphcore’s chips in some of its data centers and Dell is selling them on a server. Graphcore has raised over $450 million from the likes of Sequoia, BMW, DeepMind’s co-founders and C4 Ventures.",
+      "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143",
+          "width": 4328,
+          "height": 2906,
+          "title": "The race to develop A.I. chips heats up as Graphcore says it's shipped 'tens of thousands'",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
+      "publishedDateTime": "2020-06-10T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-ethical-ai-and-the-importance-of-guidelines-for-algorithms-explained.md",
+      "title": "Ethical AI and the importance of guidelines for algorithms — explained",
+      "excerpt": "Amazon had to discontinue an artificial intelligence–powered recruiting tool after it discovered the system was biased against female applicants. In 2016, a ProPublica investigation revealed a recidivism assessment tool that used machine learning was biased against black defendants.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/10/ethical-ai-and-the-importance-of-guidelines-for-algorithms-explained-syndication/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F06%2FCopy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-4-1.png&signature=eedc4801a8387538007095fc887b1c4e",
+          "width": 1200,
+          "height": 600,
+          "title": "Ethical AI and the importance of guidelines for algorithms — explained",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-10T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-research-report-on-edge-ai-hardware-market-size-growth-2020-analysis-and-forecast-to-2026-market-increasing-steadily-in-covid-19.md",
+      "title": "Research Report on Edge AI Hardware Market Size & Growth 2020 Analysis and Forecast to 2026: Market Increasing Steadily in COVID-19",
+      "excerpt": "Facts & Factors (FnF), a leading market research company recently published a research report on “Edge AI Hardware Market by Device (Smartphones, Cameras, Robots, Automobile, Smart Speakers, Wearable,",
+      "webUrl": "https://surfacingmagazine.net/research-report-on-edge-ai-hardware-market-size-growth-2020-analysis-and-forecast-to-2026-market-increasing-steadily-in-covid-19/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://surfacingmagazine.net/research-report-on-edge-ai-hardware-market-size-growth-2020-analysis-and-forecast-to-2026-market-increasing-steadily-in-covid-19/amp/",
+      "cdnAmpWebUrl": "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/research-report-on-edge-ai-hardware-market-size-growth-2020-analysis-and-forecast-to-2026-market-increasing-steadily-in-covid-19/amp/",
+      "publishedDateTime": "2020-06-10T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "surfacingmagazine.net",
+        "domain": "surfacingmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-asia-pacific-emerging-as-global-ai-epicentre-says-analyst.md",
+      "title": "Asia Pacific emerging as global AI epicentre, says analyst",
+      "excerpt": "Supportive government framework and policies are expected to enable the Asia-Pacific (APAC) region to emerge as the global epicentre for the growth of artificial intelligence (AI), according to one global analytics firm.",
+      "webUrl": "https://itwire.com/business-it-news/business-intelligence/asia-pacific-emerging-as-global-ai-epicentre,-says-analyst.html",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T22:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances.md",
+      "title": "Amazon Web Services (AWS) Gets More EPYC with AMD Powered Instances",
+      "excerpt": "AMD announces the availability of a new ECC instance on Amazon Web Services (AWS) that delivers high performance compute capabilities powered by their 2nd Generation EPYC processors.",
+      "webUrl": "https://techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techent.tv/wp-content/uploads/2020/06/AMD-AWS.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Amazon Web Services (AWS) Gets More EPYC with AMD Powered Instances",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/?amp",
+      "cdnAmpWebUrl": "https://techent-tv.cdn.ampproject.org/c/s/techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/?amp",
+      "publishedDateTime": "2020-06-09T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techent.tv",
+        "domain": "techent.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-newport-llc-an-advisory-firm-serving-middle-market-companies-releases-guidance-on-building-fintech-banking-partnerships.md",
       "title": "Newport LLC, an Advisory Firm Serving Middle Market Companies, Releases Guidance on Building Fintech-Banking Partnerships",
       "excerpt": "Some online lenders are failing while other Fintechs and bank-Fintech partnerships are booming. Although the future is uncertain, digital services and data/AI will surely play increasingly critical roles in banking,",
@@ -1068,231 +1260,6 @@
         "name": "GitHub",
         "domain": "github.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-artificial-intelligence-in-healthcare-market-worth-452-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
-      "title": "Artificial Intelligence in Healthcare Market Worth $45.2 Billion by 2026 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "© 2020 Insider Inc. and finanzen.net GmbH All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ...",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293163",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293163",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293163",
-      "publishedDateTime": "2020-06-09T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-seeing-results-from-ai-even-during-covid19-recession.md",
-      "title": "Seeing Results From AI, Even During Covid19 Recession",
-      "excerpt": "By leveraging AI solutions, we can bring America back to its former glory, and instead transform the cause of sleepless nights from recession anxiety to the exhaustion of a memorable night out in the city that never sleeps.",
-      "webUrl": "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edf90b7fba0f200069291b4%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": "Seeing Results From AI, Even During Covid19 Recession",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/amp/",
-      "publishedDateTime": "2020-06-09T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-what-to-consider-before-introducing-ai-to-your-recruiting-process.md",
-      "title": "What To Consider Before Introducing AI To Your Recruiting Process",
-      "excerpt": "Before deciding to implement an AI recruiting platform, consider what business problem you’re trying to solve and how this technology would fit into your long-term business strategy.",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/06/09/what-to-consider-before-introducing-ai-to-your-recruiting-process/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede5c3f718e880006f257cc%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "What To Consider Before Introducing AI To Your Recruiting Process",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/06/09/what-to-consider-before-introducing-ai-to-your-recruiting-process/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/06/09/what-to-consider-before-introducing-ai-to-your-recruiting-process/amp/",
-      "publishedDateTime": "2020-06-09T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-artificial-neural-networks-can-day-dreamheres-what-they-see.md",
-      "title": "Artificial Neural Networks Can Day Dream–Here's What They See",
-      "excerpt": "In a post yesterday on its blog, Google’s artificial neural networks research team explains how they’re building the kind of very advanced computer vision systems that are able to identify ...",
-      "webUrl": "https://gizmodo.com/these-are-the-incredible-day-dreams-of-artificial-neura-1712226908",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/1302697548119371923.png",
-          "width": 800,
-          "height": 539,
-          "title": "Artificial Neural Networks Can Day Dream–Here's What They See",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/these-are-the-incredible-day-dreams-of-artificial-neura-1712226908/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/these-are-the-incredible-day-dreams-of-artificial-neura-1712226908/amp",
-      "publishedDateTime": "2020-06-09T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-google-has-made-it-simple-for-anyone-to-tap-into-its-image-recognition-ai.md",
-      "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
-      "excerpt": "A lot of image recognition is about identifying patterns ... data to the frequency of specific brands of cars. Hopefully AutoML Vision will energize more projects like these.",
-      "webUrl": "https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uuscxid9fobckrwjepfk.png",
-          "width": 800,
-          "height": 431,
-          "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131/amp",
-      "publishedDateTime": "2020-06-09T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

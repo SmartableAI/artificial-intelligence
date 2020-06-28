@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/boston-bans-facial-recognition-technolo
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/boston-bans-facial-recognition-technology.amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/25/as-protests-about-police-violence-and-racism-spread.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Boston Bans Use Of Facial Recognition Technology. It's The 2nd-Largest City To Do So"
-    excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."
-    publishedDateTime: 2020-06-25T10:31:00Z
-    webUrl: "https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    ampWebUrl: "https://amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 37
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2020/06/GettyImages-1199025045.jpg"
-        width: 3000
-        height: 2000
         isCached: true
 
 secured: "qdbc6dnGnTK2aIZ92CNb02a7rKbquxHPfeQr5GuR/MXfZCxshXcR0xjS8kbZViaxz3S8dnjjkDTdH/ew2pS37bMT7OFtSHA5a3TBJu9NUjhquy6woMckCMVrHxvreKr0SlGSS+gCUjyhAjNdY88k/Fk+nAgzgXy8mGKT3ScsH5vsQrxD76Qrsp2ANl4utiIzVn+l6uDa7APdr3AREDxrBMo8C6t4IIyico1KZHxcr6GQpNurrPaEj+c/Ab3VbAQ8rYvOUqhI7iolMcDRLIfi2BqPvsA6k+qegEETX8gCwmG3B7b8Ack8gbsXHiIWfnNeXOy2coheDS6Qh8uL3gGGsAhdox1VTZcXxatbjw2dTA5pXD5whJJpHjg12EDk482qimzjAxaWqYBS6WVRdC13zHLlxQ5lXkbokL2eow2pzAkEPPuMczH7QzVcDeKJL0TwDqQo9UHIRIsGyG1mlvKi8pZaAgxHCfE6h9OrM/klW1Q32cxgk65U9h+iRJJOP3sQ2V83UuLDWIChENcRejRuRQ==;FpDtNWJX01efmZc595Av6w=="

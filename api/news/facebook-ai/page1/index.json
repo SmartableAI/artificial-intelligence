@@ -584,6 +584,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-13-iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing.md",
+      "title": "IIT-Kharagpur Researchers Develop AI-Based System To Monitor Social Distancing",
+      "excerpt": "A group of researchers at IIT-Kharagpur has developed a cyber-physical system based on artificial intelligence for monitoring ... Welfare,\" a member of the research group said.",
+      "webUrl": "https://www.ndtv.com/science/iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing-2245633",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2020-03/1ilp6l0g_social-distancing-ndtv_625x300_26_March_20.jpg",
+          "width": 650,
+          "height": 400,
+          "title": "IIT-Kharagpur Researchers Develop AI-Based System To Monitor Social Distancing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/science/iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing-2245633?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing-2245633?amp=1&akamai-rum=off",
+      "publishedDateTime": "2020-06-12T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-facebooks-deepfake-detection-challenge-yields-promising-early-results.md",
       "title": "Facebook’s ‘Deepfake Detection Challenge’ yields promising early results",
       "excerpt": "The digitally face-swapped videos known as deepfakes aren’t going anywhere, but if platforms want to be able to keep an eye on them, they need to find them first. Doing so was the object of Facebook’s “Deepfake Detection Challenge,",
@@ -714,6 +752,53 @@
         "Computer Vision",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-openais-text-generator-is-going-commercial.md",
+      "title": "OpenAI’s Text Generator Is Going Commercial",
+      "excerpt": "Last spring, artificial intelligence research institute OpenAI said it had made software so good at generating text—including fake news articles—that it was too dangerous to release.",
+      "webUrl": "https://www.wired.com/story/openai-text-generator-going-commercial/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ee185bc9798446ce8080154/master/pass/OpenAI-Commercial-Venture_-86506626.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": "OpenAI’s Text Generator Is Going Commercial",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/openai-text-generator-going-commercial/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/openai-text-generator-going-commercial/amp",
+      "publishedDateTime": "2020-06-11T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -1221,92 +1306,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-facebook-paypal-back-indonesian-start-up-gojeks-asia-digital-payments-push.md",
-      "title": "Facebook, PayPal back Indonesian start-up Gojek’s Asia digital payments push",
-      "excerpt": "The deal announced Wednesday marks Facebook’s first investment in an Indonesian company and is a major boost for Gojek, the country’s largest start-up which made its name in the ride-hailing business.",
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/03/af227d42-a564-11ea-8ea0-d7434be00753_image_hires_144031.jpg?itok=sZyyj_K0&v=1591166440",
-          "width": 1200,
-          "height": 630,
-          "title": "Facebook, PayPal back Indonesian start-up Gojek’s Asia digital payments push",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments",
-      "publishedDateTime": "2020-06-02T23:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-owkin-raises-25m-to-enhance-medical-research-machine-learning-and-collaboration.md",
-      "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
-      "excerpt": "Owkin is fueling collaborative medical research using machine learning while being compliant with privacy laws. Thomas Clozel discusses the unique benefits of Owkin.",
-      "webUrl": "https://www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.alleywatch.com/wp-content/uploads/2020/05/Owkin_Thomas_Clozel.001.jpeg",
-          "width": 1000,
-          "height": 537,
-          "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/amp/",
-      "cdnAmpWebUrl": "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/amp/",
-      "publishedDateTime": "2020-05-29T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "alleywatch.com",
-        "domain": "alleywatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

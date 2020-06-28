@@ -348,20 +348,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "NVIDIA & Mercedes Benz Partner For Self-Driving Cars"
-    excerpt: "Computing component manufacturer, NVIDIA, has partnered with luxury car maker, Mercedes Benz, for the production of an advanced computing system to run self-driving cars – potentially in fleets as early as 2024."
-    publishedDateTime: 2020-06-24T01:51:00Z
-    webUrl: "https://www.channelnews.com.au/nvidia-mercedes-benz-partner-for-self-driving-cars/"
-    type: article
-    provider:
-      name: ChannelNews Australia
-      domain: channelnews.com.au
-    quality: 24
-    images:
-      - url: "https://www.channelnews.com.au/wp-content/uploads/2020/06/Mercedes-Benz-and-NVIDIA-to-Build-Software-Defined-Computing-Architecture-for-Automated-Driving-Across-Future-Fleet.jpg"
-        width: 700
-        height: 495
-        isCached: true
   - title: "Amazon buying Zoox to veer into self-driving tech"
     excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
     publishedDateTime: 2020-06-27T06:54:00Z
@@ -387,6 +373,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
+  - title: "Didi Chuxin offers public test rides in its self-driving vehicles"
+    excerpt: "China's ride-hailing giant Didi Chuxing began offering the public free, supervised test rides in its self-driving taxis in Shanghai on Saturday. People wanting to take a 20-minute ride can register online through the company's APP."
+    publishedDateTime: 2020-06-28T17:24:00Z
+    webUrl: "https://www.globaltimes.cn/content/1192895.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 24
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-06-28/9775d793-483a-4b06-9eef-11467efa9ffb.jpeg"
+        width: 1100
+        height: 700
+        isCached: true
 
 secured: "VSPUBI00ZuTLl+v2TN+GJOoQBh1FoImrOYtgAut0Yx37UFgYZs3jF4bM/Pb6e+Mvp/+eEchc37Br1wMLh1Ykhn34UguLWYf0+yCtDuzNbei8gJu5N64S90Pt2spV6xvJU52ubA98c732XI7B4QAaHdSXpQMf34has5UloCT4DIGz0VP/8w9ZMEkVO6hO5p9TcTZgKbzHBKqNSOvKf0BeUSJ5lm8H7Cu2/JrLQ4nxrvcwN7n6hntq31yW1I8PpJBoONuR8H2rp2h7pQweOzIBAGCDNXlcqmO/kS+San4Lwq3lRgvsVtG9k6up61tGQ0VdYXkPmmwDmev0xTiKDjSHDQ==;4xQNykHOpLF4VBVpiyqQiQ=="
 ---

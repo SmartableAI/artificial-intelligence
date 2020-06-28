@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Digital Transformation in Asia-Pacific: 5G, Artificial Intelligence, Internet of Things and Smart Cities 2020-2025 - ResearchAndMarkets.com"
+    excerpt: "The \"Digital Transformation Asia Pacific: 5G, Artificial Intelligence, Internet of Things, and Smart Cities in APAC 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. From predicting what will happen with 5G technology in the next few years to identifying how 5G will transform business,"
+    publishedDateTime: 2020-06-26T11:18:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200626005177/en/Digital-Transformation-Asia-Pacific-5G-Artificial-Intelligence-Internet"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
+    images:
+      - url: "https://mms.businesswire.com/media/20200626005177/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "hOLLtS/+wsd/8DhZorAoGah7nkivOxrLRmFMf9ZhvPhm4aAme2aUFgJW20PJOahmsTU2Uzsh1wuMqefp0RMxbgQ5HlqJWjsvQKDODrEiX35+fwN97v2sGCJ++oL/3wlfd68MRV3HpnsjphRgkwndjFo4LhZAQg/5hi0OVTOxQjwPdLVghotMiJPegi9cVsRs94kLASVOL+WWRGIWySwpnvbeQr2+Y/7jHHd6gMbnReeEpBMOXH6ekAbWKwdCXKfkin6CjC85om4SIktmAi6gcL5uvgnaKTaDizTMRh7MG20cKrGE8J/uHZT7Jf0y55M0e6s9Ggz0UPh+ZUtejt8RsA==;eOmOdpicTO99HyqEo9Wr0Q=="
 ---

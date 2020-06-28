@@ -343,20 +343,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "NVIDIA & Mercedes Benz Partner For Self-Driving Cars"
-    excerpt: "Computing component manufacturer, NVIDIA, has partnered with luxury car maker, Mercedes Benz, for the production of an advanced computing system to run self-driving cars – potentially in fleets as early as 2024."
-    publishedDateTime: 2020-06-24T01:51:00Z
-    webUrl: "https://www.channelnews.com.au/nvidia-mercedes-benz-partner-for-self-driving-cars/"
-    type: article
-    provider:
-      name: ChannelNews Australia
-      domain: channelnews.com.au
-    quality: 24
-    images:
-      - url: "https://www.channelnews.com.au/wp-content/uploads/2020/06/Mercedes-Benz-and-NVIDIA-to-Build-Software-Defined-Computing-Architecture-for-Automated-Driving-Across-Future-Fleet.jpg"
-        width: 700
-        height: 495
-        isCached: true
   - title: "Amazon buying Zoox to veer into self-driving tech"
     excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
     publishedDateTime: 2020-06-27T06:54:00Z
@@ -370,6 +356,20 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2020/06/27/resized_150246-1damazon0627rgb_54-29733_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 399
+        isCached: true
+  - title: "Didi Chuxin offers public test rides in its self-driving vehicles"
+    excerpt: "China's ride-hailing giant Didi Chuxing began offering the public free, supervised test rides in its self-driving taxis in Shanghai on Saturday. People wanting to take a 20-minute ride can register online through the company's APP."
+    publishedDateTime: 2020-06-28T17:24:00Z
+    webUrl: "https://www.globaltimes.cn/content/1192895.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 24
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-06-28/9775d793-483a-4b06-9eef-11467efa9ffb.jpeg"
+        width: 1100
+        height: 700
         isCached: true
   - title: "Mercedes-Benz joins Nvidia to build self-driving platform for 2024 fleet"
     excerpt: "Benz and graphics giant Nvidia have joined hands to build an in-vehicle computing system for next-gen automated cars. Starting in 2024, the software-defined computing architecture will be rolled out across the fleet of Mercedes-Benz vehicles,"

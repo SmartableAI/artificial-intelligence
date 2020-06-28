@@ -2,6 +2,99 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-25-circadia-gets-fda-nod-for-ai-powered-respiratory-monitor.md",
+      "title": "Circadia Gets FDA Nod for AI-Powered Respiratory Monitor",
+      "excerpt": "Startup Circadia Technologies has received FDA approval for a bedside device that remotely monitors breathing using artificial intelligence and that has been shown to help detect Covid-19 symptoms such as breathlessness.",
+      "webUrl": "https://www.wsj.com/articles/circadia-gets-fda-nod-for-ai-powered-respiratory-monitor-11593077402",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-202428/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Circadia Gets FDA Nod for AI-Powered Respiratory Monitor",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/circadia-gets-fda-nod-for-ai-powered-respiratory-monitor-11593077402",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/circadia-gets-fda-nod-for-ai-powered-respiratory-monitor-11593077402",
+      "publishedDateTime": "2020-06-25T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-a-black-man-in-detroit-was-arrested-and-detained-for-30-hours-after-being-falsely-identified-by-facial-recognition.md",
+      "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
+      "excerpt": "Activists have objected to the use of facial recognition by law enforcement for years, as the technology has been shown to display racial bias.",
+      "webUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6",
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5d9b1756138e4a2e893e4931?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
+      "publishedDateTime": "2020-06-25T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-real-ai-robot-cast-in-lead-role-of-sci-fi-movie.md",
       "title": "Real AI Robot Cast In Lead Role Of Sci-Fi Movie",
       "excerpt": "A new sci-fi movie is set to become the first-ever film to rely on an artificial intelligence robot named Erica.",
@@ -138,7 +231,7 @@
       "title": "A Flawed Facial Recognition System Sent This Man to Jail",
       "excerpt": "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used.",
       "webUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/",
-      "heat": 474,
+      "heat": 494,
       "tags": null,
       "images": [
         {
@@ -177,53 +270,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-boston-bans-police-from-using-facial-recognition-technology.md",
-      "title": "Boston bans police from using facial recognition technology",
-      "excerpt": "Boston has banned police from using facial recognition technology, becoming the second-largest U.S. community to do so.",
-      "webUrl": "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology",
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/facial-recognition-iStock.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "Boston bans police from using facial recognition technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp",
-      "publishedDateTime": "2020-06-24T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -373,7 +419,7 @@
       "title": "Boston bans most city use of facial-recognition tech in privacy win",
       "excerpt": "Boston joins cities like San Francisco in banning the official use of facial-recognition tech after the unanimous vote.",
       "webUrl": "https://mashable.com/article/boston-bans-facial-recognition-technology/",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1295,53 +1341,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-machine-learning-as-a-service-mlaas-market-2020-by-regions-manufactures-type-application-sales-revenue-and-forecast-to-2026.md",
-      "title": "Machine Learning as a Service (MLaaS) Market 2020 by Regions, Manufactures, Type, Application, Sales, Revenue and Forecast to 2026",
-      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Machine Learning as a Service (MLaaS) Market” report provides valuable information regarding new products in the market,",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2020-by-regions-manufactures-type-application-sales-revenue-and-forecast-to-2026-2020-06-24",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning as a Service (MLaaS) Market 2020 by Regions, Manufactures, Type, Application, Sales, Revenue and Forecast to 2026",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

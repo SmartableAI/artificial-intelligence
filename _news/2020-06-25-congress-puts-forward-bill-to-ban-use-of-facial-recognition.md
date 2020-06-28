@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Florida Police Embrace Facial Recognition Despite Pushback"
+    excerpt: "While companies and governments are halting the use of facial recognition technology, the Pinellas County Sheriff’s Office is refusing to comply until official regulations are put in place."
+    publishedDateTime: 2020-06-26T21:42:00Z
+    webUrl: "https://www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/BIZ-NATIONAL-MOVES-AGAINST-FACIAL-RECOGNITION-PT.JPG"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Markey Signals Bill to Ban Government Use of Facial Recognition"
     excerpt: "Ed Markey (D-Mass.) will join with some of his colleagues to introduce legislation to ban government use of facial recognition and other biometric technology. The Facial Recognition and Biometric Technology Moratorium Act is in response to reports that law enforcement has been teaming up with tech companies as well as some of those companies' pledges to call their own moratorium on supplying it to law enforcement."
     publishedDateTime: 2020-06-25T18:00:00Z

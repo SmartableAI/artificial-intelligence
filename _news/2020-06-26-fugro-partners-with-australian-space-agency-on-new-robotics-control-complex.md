@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Fugro partners with Australian Space Agency on new robotics control complex"
-excerpt: "The ASA selected Fugro in Australia on the basis of their track record in cutting-edge remote operations and robotics control in harsh marine environments, which demonstrates their robust robotics control capability via satellite communications."
-publishedDateTime: 2020-06-26T12:50:00Z
-webUrl: "https://www.directionsmag.com/pressrelease/9920"
+excerpt: "The Australian government’s newly formed Australian Space Agency (ASA) has partnered with Fugro to design, build and operate the Australian Space Automation, Artificial Intelligence and Robotics Control Complex (SpAARC) in Western Australia (WA)."
+publishedDateTime: 2020-06-26T15:11:00Z
+webUrl: "https://gisuser.com/2020/06/fugro-partners-with-australian-space-agency-on-new-robotics-control-complex/"
 type: article
 quality: 52
 heat: 62
 published: false
 
 provider:
-  name: Directions Magazine
-  domain: directionsmag.com
+  name: gisuser.com
+  domain: gisuser.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2020/June/26/7/ba3789d1-fbd8-4b14-a4b7-77a1baaeee41-sized"
-    width: 800
-    height: 577
+  - url: "https://gisuser.com/wp-content/uploads/2020/06/SpAARC-REL-June20-COMPR.jpg"
+    width: 1665
+    height: 1200
     isCached: true
     title: "Fugro partners with Australian Space Agency on new robotics control complex"
 
@@ -40,6 +40,6 @@ related:
         height: 250
         isCached: true
 
-secured: "zXAJjDUxhT1ZuPKsHgJGiiGioksAshblWMEBD0PSn9pEwHvTx/f6DJqJP2gM7u7utX48fl3hke7kWpf2L0/XP0ZPEX5MxCCG3w89vbBVryyeTWSm8i26xguJewg2bJF9zoAl/HS2Co1IrSpzDaZcmV9Hv3xkrENrP8GuXOUzmwRpZgP7FVph1ThyRgz+lCYUU8LEvpXS/cfZcMeeGw40k90vaIXDcTnptRu0sO6p4E8GbncdW8JHCWu7+vP8kRsXNYaMxzp2u24xbr6GOEnKUvxsoJamqTbAuxslKWahV6JPZNfGmVzImkjusWxjEzenoAad9R5Twgd5ubHe7ovmeg==;m1UzwnwBO2fpLLFVlVHeHQ=="
+secured: "n4l1zGWKNVoRFVaye4dOK+zE7UVQLQpak7nZbwGKpGUTbCWcirtJl3Nrj/vIns4w8bdL1uZAaLvPJqR7fr31s5nyxPjNuIa0qhLq3fnsOeJwWMvkfbYGZzFPdj92hqHquq3kVTPN7bPGsaeuAx8GeeZaJVAmRjwUBC2egm7vy6RPYNT+hdmPAvxcy2v03PV+SOSl0d20J5JriRbD7JZL02KgkyzwQr5pHWfLVxAzhygOtSOcGL/ePNJBg4ic5E0CryacnLTzedu7PGmIARWycrc2FZzoFZpudKYIkESXXknakCjCLwbJMxOX+CHwI5/EkG6H8tKKdTfBNVoAnVLYRw==;a6zji27m4hx9E8Ae4CVtXQ=="
 ---
 

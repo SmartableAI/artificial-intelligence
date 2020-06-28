@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Boston Bans Use Of Facial Recognition Technology. It's The 2nd-Largest City To Do So"
-    excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."
-    publishedDateTime: 2020-06-25T10:31:00Z
-    webUrl: "https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    ampWebUrl: "https://amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 37
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2020/06/GettyImages-1199025045.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
 
 secured: "zLn4o0V8rL0WYecPJUpiVfND1U3+/FRO180RowlwtERuXuG9dTDoY0UFao5EESCUtvtAFbipFUGXFn8lVbRatARqSKGNHbCjLq4CDQbmIvzu1lpLoxR3AwVk2AI3EpV9D1oJ4A/UZJ0TapfnVdnUXaLic+ag44j4zjLpomeXX9vIz/jNvTgWFBQ1jDyOuq2M4l0FjOG9uhsmMC5XFUxf8lbJ2CXS1gkCG26ZWCuvRXvlkrGONJAvlOnBxhSlX++wdBenONxe3+svIjev/Or2mqgFtwjDmFzPeujNy+GAZ0ymDjX999AabrmKW53+f7roMrFGRS/LECk2HrJwTfE4bA==;bW0JepDynJO9CBf4yu23yg=="
 ---
