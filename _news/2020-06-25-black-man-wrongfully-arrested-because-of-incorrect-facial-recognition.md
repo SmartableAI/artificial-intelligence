@@ -235,22 +235,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Democratic lawmakers propose nationwide facial recognition ban"
-    excerpt: "Democratic lawmakers proposed a sweeping nationwide ban on facial recognition software Thursday, with a bill that seeks tough new limits on the technology at all levels of government."
-    publishedDateTime: 2020-06-25T17:30:00Z
-    webUrl: "https://www.cnn.com/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200625112853-capitol-hill-0607-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "House bill seeks to ban federal use of facial recognition"
     excerpt: "Senators Ed Markey (Massachusetts) and Jeff Merkley (Oregon) authored the Facial Recognition and Biometric Technology Moratorium Act, which Reps. Pramila Jayapal and Ayanna Pressley co-sponsored, according to Vice."
     publishedDateTime: 2020-06-25T18:23:00Z
@@ -347,6 +331,17 @@ related:
         width: 1661
         height: 1107
         isCached: true
+  - title: "Democratic lawmakers propose nationwide facial recognition ban"
+    excerpt: "Democrats in Congress proposed a law on Thursday that would ban federal investment in facial recognition technology as well as other types of surveillance."
+    publishedDateTime: 2020-06-25T18:28:00Z
+    webUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?itm_source=26&itm_content=1x7&itm_term=2376504"
+    ampWebUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
   - title: "Black Man Wrongfully Arrested Due to 'Flawed' Face Recognition Tech: ACLU"
     excerpt: "The American Civil Liberties Union has filed a formal complaint against Detroit police for wrongfully arresting a Black man earlier this year after he was allegedly targeted due to \"flawed and biased\" facial recognition technology."
     publishedDateTime: 2020-06-24T14:54:00Z
@@ -378,22 +373,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 64
-  - title: "Boston City Council Set To Vote On Facial Recognition Technology Ban"
-    excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."
-    publishedDateTime: 2020-06-23T23:39:00Z
-    webUrl: "https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    ampWebUrl: "https://amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 61
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2020/06/GettyImages-1199025045.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Boston approves ban on facial recognition technology"
     excerpt: "The Boston City Council voted unanimously Wednesday to pass a ban on the use of facial recognition technology by city government. The move makes Boston the second-largest U.S. city after San Francisco to enact a ban."
     publishedDateTime: 2020-06-24T18:41:00Z
@@ -469,6 +448,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/24/amid-rising-concerns-over-facial-recognition-technology-used.jpg"
         width: 1024
         height: 651
+        isCached: true
+  - title: "OTR: Will Boston's ban on facial recognition technology become a national trend?"
+    excerpt: "JANE BOSTON BECAME THE SECOND NATIONAL CITY TO BAN FACIAL RECOGNITION TECHNOLOGY. WILL THIS BE A TREND? WE MAY BE THE FIRST BUT WE’RE NOT THE LAST. MARY ANNE: IT’S MORE 1984 THAN A 2020 DEMOCRACY. ED: THIS WEEK,"
+    publishedDateTime: 2020-06-28T15:43:00Z
+    webUrl: "https://www.wcvb.com/article/on-the-record-will-boston-s-ban-on-facial-recognition-technology-become-a-national-trend/32991208"
+    ampWebUrl: "https://www.wcvb.com/amp/article/on-the-record-will-boston-s-ban-on-facial-recognition-technology-become-a-national-trend/32991208"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/on-the-record-will-boston-s-ban-on-facial-recognition-technology-become-a-national-trend/32991208"
+    type: article
+    provider:
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 54
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/85dd70bf-0960-4676-b086-3cc43dee7e9e/85dd70bf-0960-4676-b086-3cc43dee7e9e_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
         isCached: true
   - title: "FlowCentric Technologies, Eldir roll-out facial recognition, thermal detection solution"
     excerpt: "The company has developed EGAN, a facial recognition and thermal detection solution, in conjunction with Eldir."

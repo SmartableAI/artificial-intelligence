@@ -23,6 +23,7 @@ topics:
   - AI in Robotics
   - AI
   - AWS AI
+  - Computer Vision
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-168265499.jpg?w=1000"

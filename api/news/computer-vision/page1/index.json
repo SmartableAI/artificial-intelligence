@@ -1082,6 +1082,55 @@
       ]
     },
     {
+      "path": "_news/2020-06-14-where-are-all-the-robots.md",
+      "title": "Where are all the robots?",
+      "excerpt": "D2, all we got is Facebook serving us ads we don’t want to click on, Netflix recommending us another movie that we probably shouldn’t stay up to watch, and iRobot’s Roomba.",
+      "webUrl": "https://techcrunch.com/2020/06/14/where-are-all-the-robots/",
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-168265499.jpg?w=1000",
+          "width": 1000,
+          "height": 667,
+          "title": "Where are all the robots?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/14/where-are-all-the-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/14/where-are-all-the-robots/amp/",
+      "publishedDateTime": "2020-06-14T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-13-facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence.md",
       "title": "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?",
       "excerpt": "Because of the advances of deep learning and faster systems for processing enormous amounts of data, facial recognition has certainly seen major strides over the past decade. Yet there is still much to be done.",
@@ -1278,44 +1327,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision.md",
-      "title": "3 (Not So Obvious) Industries That Could Be Transformed By Computer Vision",
-      "excerpt": "Computer vision, or machine vision, is an important business trend that will transform many industries and many business processes. Here we look at three not so obvious examples to showcase that it is important for any industry.",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/12/3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/12/3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/12/3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/amp/",
-      "publishedDateTime": "2020-06-11T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

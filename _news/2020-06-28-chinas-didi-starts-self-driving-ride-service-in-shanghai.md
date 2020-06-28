@@ -1,30 +1,21 @@
 ---
 category: news
-title: "China's Didi Starts Self-Driving Ride Service in Shanghai"
-excerpt: "Chief Technology Officer of Didi said the company will start by assigning orders to both human and robotic drivers"
-publishedDateTime: 2020-06-28T15:23:00Z
-webUrl: "https://www.ibtimes.sg/chinas-didi-starts-self-driving-ride-service-shanghai-47639"
-ampWebUrl: "https://amp.ibtimes.sg/chinas-didi-starts-self-driving-ride-service-shanghai-47639"
-cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/chinas-didi-starts-self-driving-ride-service-shanghai-47639"
+title: "China's Didi starts self-driving ride service in Shanghai"
+excerpt: "Ride-hailing giant Didi Chuxing (DiDi) has launched the trial run of self-driving ride service on designated test roads in the eastern metropolis of Shanghai. Users who have registered in advance ..."
+publishedDateTime: 2020-06-28T17:01:00Z
+webUrl: "https://news.webindia123.com/news/Articles/Science/20200628/3583705.html"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Ellen
-  domain: ibtimes.sg
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://data.ibtimes.sg/en/full/23010/logo-chinese-ride-hailing-firm-didi-chuxing-seen-t-shirt-employee-outside-their-new-drivers.jpg"
-    width: 1600
-    height: 1067
-    isCached: true
-    title: "China's Didi Starts Self-Driving Ride Service in Shanghai"
 
 related:
   - title: "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing"
@@ -138,6 +129,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Amazon Acquires Self-Driving Car Startup Zoox"
+    excerpt: "Although Zoox has been trying to develop a robot taxi service, Amazon could use the same technologies to one day power self-driving delivery vehicles."
+    publishedDateTime: 2020-06-28T16:25:00Z
+    webUrl: "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox"
+    ampWebUrl: "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 74
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03B67ZCaMv3OJA9m8qLEVfX-1.fit_lim.size_1200x630.v_1593188466.jpg"
+        width: 940
+        height: 529
         isCached: true
   - title: "Amazon agrees to buy self-driving startup Zoox for over $1 billion: The Information"
     excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology."
@@ -461,6 +468,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "BBbStjfB9M8TfY5nl6TGAuaKybtKhViv6eSjAYLYNmIgPlLQ0AiDvfi0mJMNl+kmiLa4BM3LPGN8xfdGl5ctyYxpQNEwINgxV90CNq7QzvbDjHkiF0pGhZW/RFnhfJCOpmPe+Xz4ssc3MGRtTgkf+Dmv0PV0T0cK0NwRFTJ2u8+yE6L5AEoGCCv5bI4QSn9vrvneudYhKhXb2XikaJ0cNRu8W5MODGyLGxGY6TGuoSrEEk66WG2d/loD8QIjoGlZN/Qq+3OuBVfTtnp7FxsLDeHGx4DeGlKGXzUdK9Pd4IwhyDVruQfEYbzEvKgVHDRDXtwGm6iM9Szs0lc+IUl4dA==;vQUYCxnlKGm0L/5E6sPqLg=="
+secured: "6xm9JrKfkqcUBNRvhyeGMfXOqRNBA9PUsLC5aH0nv0vQqUQueTdoZ7DUn0z0uF8+IOnlTlEt9hvYICpwnOggdGTf3kX60XUTMKGsl8wlmEy7wNuK6wYeYX9cVPibY+0LxocO0DfO4hFW4wvkHmcqXI10W3wB0WV98o9jXyiGkW7ypwCDO91G/VCCov8+OHkwJ+27keAmzWpvZHfnhMMzsv0ioOPd3aEHztWgUAOMo1Nc3Ik7BsrCxe6b1+vQi2THXutx1eazIv1HVExMWjrW30mIqy+vkLbbfK6i50MQFWhswpVeBfViSPhyFTbQDsyBstDySDMJQkookobCdAA4/w==;+A/UHGEIjfQw4WBLv3YFyw=="
 ---
 

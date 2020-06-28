@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Amazon Acquires Self-Driving Car Startup Zoox"
+    excerpt: "Although Zoox has been trying to develop a robot taxi service, Amazon could use the same technologies to one day power self-driving delivery vehicles."
+    publishedDateTime: 2020-06-28T16:25:00Z
+    webUrl: "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox"
+    ampWebUrl: "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 74
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03B67ZCaMv3OJA9m8qLEVfX-1.fit_lim.size_1200x630.v_1593188466.jpg"
+        width: 940
+        height: 529
+        isCached: true
   - title: "Amazon spends $1billion on self-driving startup making its own driverless cars for ride-hailing"
     excerpt: "As noted by TechCrunch, Zoox is building its autonomous vehicle from the ground-up, taking a 'full-stack- approach by developing artificial intelligence and hardware to make a dedicated driverless car. Amazon hasn't said what its plans are for Zoox ..."
     publishedDateTime: 2020-06-26T06:44:00Z
@@ -158,22 +174,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/06/26/16/30095324-0-image-a-6_1593187194587.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "China's Didi Starts Self-Driving Ride Service in Shanghai"
-    excerpt: "Chief Technology Officer of Didi said the company will start by assigning orders to both human and robotic drivers"
-    publishedDateTime: 2020-06-28T15:23:00Z
-    webUrl: "https://www.ibtimes.sg/chinas-didi-starts-self-driving-ride-service-shanghai-47639"
-    ampWebUrl: "https://amp.ibtimes.sg/chinas-didi-starts-self-driving-ride-service-shanghai-47639"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/chinas-didi-starts-self-driving-ride-service-shanghai-47639"
-    type: article
-    provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 59
-    images:
-      - url: "https://data.ibtimes.sg/en/full/23010/logo-chinese-ride-hailing-firm-didi-chuxing-seen-t-shirt-employee-outside-their-new-drivers.jpg"
-        width: 1600
-        height: 1067
         isCached: true
   - title: "Amazon acquires self-driving start-up Zoox for over $1.2bn"
     excerpt: "Amazon has acquired self-driving start-up Zoox for more than $1.2bn, marking the ecommerce group’s biggest investment into the autonomous vehicle sector. The deal is set to be announced on Friday, according to two people familiar with the matter."
@@ -455,6 +455,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "China's Didi starts self-driving ride service in Shanghai"
+    excerpt: "Ride-hailing giant Didi Chuxing (DiDi) has launched the trial run of self-driving ride service on designated test roads in the eastern metropolis of Shanghai. Users who have registered in advance ..."
+    publishedDateTime: 2020-06-28T17:01:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200628/3583705.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
   - title: "Amazon to acquire self-driving firm Zoox for over $1bn: Report"
     excerpt: "Amazon is set to spend over $1 billion to acquire self-driving car startup Zoox, The Information reported. The deal could be officially announced as early as Friday. The news comes after The Wall ..."
     publishedDateTime: 2020-06-26T11:58:00Z

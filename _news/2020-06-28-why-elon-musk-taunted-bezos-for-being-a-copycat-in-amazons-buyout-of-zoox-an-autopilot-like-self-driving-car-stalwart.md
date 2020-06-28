@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Amazon buys self-driving technology company Zoox"
-excerpt: "Amazon is jumping deeper into the market for autonomous driving with the purchase of Zoox, which was valued at over $3 billion in 2018."
-publishedDateTime: 2020-06-26T13:34:00Z
-webUrl: "https://www.cnbc.com/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html"
-ampWebUrl: "https://www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html"
+title: "Why Elon Musk Taunted Bezos For Being A Copycat In Amazon’s Buyout Of Zoox, An Autopilot-Like Self-Driving Car Stalwart"
+excerpt: "It is time to blare the trumpets and roll out the red carpet for some good old-fashioned maxims that explain the recent announcement of mighty Amazon buying comparatively petite Zoox, a notable self-driving car maker known primarily to Autonomous Vehicle (AV) insiders (for my coverage,"
+publishedDateTime: 2020-06-28T17:43:00Z
+webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/"
+ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/amp/"
 type: article
-quality: 74
-heat: 304
-published: true
+quality: 30
+heat: -1
+published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,14 +23,23 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://image.cnbcfm.com/api/v1/image/105525572-1540337875521main.00_02_15_18.still007.jpg?v=1540337919"
-    width: 1920
-    height: 1080
-    isCached: true
-    title: "Amazon buys self-driving technology company Zoox"
-
 related:
+  - title: "Amazon buys self-driving technology company Zoox"
+    excerpt: "Amazon is jumping deeper into the market for autonomous driving with the purchase of Zoox, which was valued at over $3 billion in 2018."
+    publishedDateTime: 2020-06-26T13:34:00Z
+    webUrl: "https://www.cnbc.com/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 74
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105525572-1540337875521main.00_02_15_18.still007.jpg?v=1540337919"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Amazon to pay over $1 billion to secure self-driving startup Zoox: report"
     excerpt: "Pushed by hectic demand, Amazon reinforces its logistics network with 12 Boeing planes Amazon is reportedly on the verge of announcing a deal to acquire self-driving startup Zoox for over $1 billion."
     publishedDateTime: 2020-06-26T08:15:00Z
@@ -333,17 +342,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
-  - title: "Why Elon Musk Taunted Bezos For Being A Copycat In Amazon’s Buyout Of Zoox, An Autopilot-Like Self-Driving Car Stalwart"
-    excerpt: "It is time to blare the trumpets and roll out the red carpet for some good old-fashioned maxims that explain the recent announcement of mighty Amazon buying comparatively petite Zoox, a notable self-driving car maker known primarily to Autonomous Vehicle (AV) insiders (for my coverage,"
-    publishedDateTime: 2020-06-28T17:43:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 30
   - title: "Amazon reportedly just scooped up its third self-driving car company"
     excerpt: "Amazon may be looking to leverage Zoox’s tech for its delivery network, which could contribute to the company saving $20 billion a year."
     publishedDateTime: 2020-06-26T12:01:00Z
@@ -373,6 +371,6 @@ related:
         height: 720
         isCached: true
 
-secured: "fjildi2VvRtiPj2e/nfxL6A+x0W5QMvShatU5BLUW3vL4W95WM6BL8INxMGLa729xYLrYuS2LMnD25q6aNYhvu13KHZiUZ0PHL1L4xwk0bh1Z0uaYl+07J/ovOjStDBpBJujkuYhY+yWWlTf1MuRJKB++vP+QiD3FDYFAjCILGYf5bUcqjg2p7jam6uZ4p0xvtYXHnLQJs7NXHX3NS2o7JyD68M9GwyRw+thDiLKv9sogg1Z2KjZ/qZW1J2Zud7v9IDigg75EcB2jI4PhNMQX90IxRzhtoQuQFN8CD9PVmlGMXdVS3/AtzdyqU/kZTcrlgiKeOY38FjxxCOpfOjjzDtsULIBNG5OxHbQUVQyqnWaCySFq1h4bGXRtK7tSnNz1aiFcAZUF4ugohb29MOD7Nzc7CyiJMPT6iOq0VB2915uNV/aR02n+e6Qpd3uXsrLEiaYChbsB6udDfGz2Ajs++JmKFSi7AcgUQsuVO74oxnZ369iXpQMa9VkX6hpAAMN;a3nkg9pnIjrlNiAPoz6yfA=="
+secured: "C5SxaZFcILpSe4VpS1/NC1XvFv8ufkZthf9q8Z7ZShkHA/RheyAxrJ5R5QIrXABPagjNiKEqkP/jPsMde/QrlK/YiOsg35RiG+EJR64nTQyKSFvNAIUeQcg3hvdly2H7t/MY0utERBbJQNC2rTMMQvJtO2c/VtDSF/Fw8gopU27TJ5ewasTs9HiHSZlmOMkrPKzgY9yrmUEkl1RoAHCHNr7oE06toPI9qupJaA2NGMWjQ3FR2rAXiAkN1+hYdFAKYtjMKMJlxx27k1aqhI7OsRsmelOtQw7rSvOX9whGNl/+OfwhnwrqzGFVBp2qAC63UmR7KzbegcwHpmqGEZY/HDDmc0sD/kdjDzDNnrQ8EuYYlaenOzUtWJ2QvfbQgwgj1qnn6ovkqiEsrtB05q7tQtrx2esD1D7WeMz6KxXhr9EJAHXmmLt+sSiN4vk2my7J7GN4b+Ir+RYJaZIlqsQL4p6JfAa5my/eeXSDFIAQPWO9+y6sT8s7ThTKHLr7iAS8Ary8+RFbJV+/S5I7lwEkFQ==;+WCE0LQ0bhJv0p0ukFNf1w=="
 ---
 

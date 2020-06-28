@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/embraci
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/06/26/embracing-ai-technologies-while-harnessing-the-power-of-the-heart/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -60,24 +60,6 @@ related:
         width: 453
         height: 512
         isCached: true
-  - title: "Corel: Painter 2021 Harnesses the Power of AI for Professional Artists"
-    excerpt: "AI-Based Art Styles Make the most of Painter's innovative AI ... Painter 2021 now also offers twice as many GPU-accelerated stamp brushes, up to four times faster drip and liquid brush technologies, and quicker brush and tool switching."
-    publishedDateTime: 2020-06-24T00:03:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-06/49992259-corel-painter-2021-harnesses-the-power-of-ai-for-professional-artists-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
-  - title: "Painter 2021 Harnesses the Power of AI for Professional Artists"
-    excerpt: "For the first time, digital artists can access an AI-based style transfer workflow that offers the ... a variety of Clone Tinting options, and impressive GPU-based performance optimizations, Painter® 2021 gives artists more ways to maximize their ..."
-    publishedDateTime: 2020-06-24T00:37:00Z
-    webUrl: "https://www.generation-nt.com/painter-2021-harnesses-the-power-of-ai-for-professional-artists-newswire-1977437.html"
-    type: article
-    provider:
-      name: GNT
-      domain: generation-nt.com
-    quality: 19
 
 secured: "iVt83QZwmbDuHJc2AgGXuyKMMXzQGcb4nFj99sPMWA4uMaCLhnDzKBu3xufYe91JQioWvtO2/u397q9B2xF3LY+VDw+uEvBZ2KCstPU0owlVYQrr/KEYDPt8Hs2U+z7mtdcN0dORRFJ9nsi9XC6JfB014BjN3G4CL2LD9ActUFdARiwMOKY3z3cOJPuViraq/2AQ5WxgtNhGgDBd5XmbsDUZE0t7/VEfXauORUTYTXIO2Xc2TxbSaBUJkw/uCTrcy3ppqAYkLVepguDwWKgH3RjLOWaKpVCOopjtfr5TiM6sWoEIxGow3YZd2Kt7zgC07keGk2vaGpZQxKCu3OkMIdedcNULVH3fV1etayLGH1G8tCYctKt8mLuxxr7hQ5qRJNagQfuGxElTEsRa/Qr6kGZIFz/b4w0GMvxrlOa1T58G/eGxFZ5TW5O28HUzItextEU9AHRgRPUStHfgmUXFwwo9jJ1xg4Huan3xDdO603vy91lKWODpOnVu9jx62sgUrGyyEfCBrDrDjCR8GVxf3Q==;axOBKqGx8X9xp+c679zB2g=="
 ---

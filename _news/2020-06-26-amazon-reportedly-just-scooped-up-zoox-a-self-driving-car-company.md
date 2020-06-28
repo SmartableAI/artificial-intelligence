@@ -343,6 +343,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "Why Elon Musk Taunted Bezos For Being A Copycat In Amazon’s Buyout Of Zoox, An Autopilot-Like Self-Driving Car Stalwart"
+    excerpt: "It is time to blare the trumpets and roll out the red carpet for some good old-fashioned maxims that explain the recent announcement of mighty Amazon buying comparatively petite Zoox, a notable self-driving car maker known primarily to Autonomous Vehicle (AV) insiders (for my coverage,"
+    publishedDateTime: 2020-06-28T17:43:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 30
   - title: "Amazon reportedly just scooped up its third self-driving car company"
     excerpt: "Amazon may be looking to leverage Zoox’s tech for its delivery network, which could contribute to the company saving $20 billion a year."
     publishedDateTime: 2020-06-26T12:01:00Z

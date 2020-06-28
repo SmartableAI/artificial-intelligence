@@ -1,34 +1,27 @@
 ---
 category: news
 title: "Democratic lawmakers propose nationwide facial recognition ban"
-excerpt: "Democratic lawmakers proposed a sweeping nationwide ban on facial recognition software Thursday, with a bill that seeks tough new limits on the technology at all levels of government."
-publishedDateTime: 2020-06-25T17:30:00Z
-webUrl: "https://www.cnn.com/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/25/tech/facial-recognition-legislation-markey/index.html"
+excerpt: "Democrats in Congress proposed a law on Thursday that would ban federal investment in facial recognition technology as well as other types of surveillance."
+publishedDateTime: 2020-06-25T18:28:00Z
+webUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?itm_source=26&itm_content=1x7&itm_term=2376504"
+ampWebUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Digital Trends
+  domain: digitaltrends.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200625112853-capitol-hill-0607-restricted-super-tease.jpg"
-    width: 1100
-    height: 619
-    isCached: true
-    title: "Democratic lawmakers propose nationwide facial recognition ban"
 
 related:
   - title: "A Flawed Facial Recognition System Sent This Man to Jail"
@@ -366,22 +359,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 64
-  - title: "Boston City Council Set To Vote On Facial Recognition Technology Ban"
-    excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."
-    publishedDateTime: 2020-06-23T23:39:00Z
-    webUrl: "https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    ampWebUrl: "https://amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 61
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2020/06/GettyImages-1199025045.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Boston approves ban on facial recognition technology"
     excerpt: "The Boston City Council voted unanimously Wednesday to pass a ban on the use of facial recognition technology by city government. The move makes Boston the second-largest U.S. city after San Francisco to enact a ban."
     publishedDateTime: 2020-06-24T18:41:00Z
@@ -473,6 +450,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/24/amid-rising-concerns-over-facial-recognition-technology-used.jpg"
         width: 1024
         height: 651
+        isCached: true
+  - title: "OTR: Will Boston's ban on facial recognition technology become a national trend?"
+    excerpt: "JANE BOSTON BECAME THE SECOND NATIONAL CITY TO BAN FACIAL RECOGNITION TECHNOLOGY. WILL THIS BE A TREND? WE MAY BE THE FIRST BUT WE’RE NOT THE LAST. MARY ANNE: IT’S MORE 1984 THAN A 2020 DEMOCRACY. ED: THIS WEEK,"
+    publishedDateTime: 2020-06-28T15:43:00Z
+    webUrl: "https://www.wcvb.com/article/on-the-record-will-boston-s-ban-on-facial-recognition-technology-become-a-national-trend/32991208"
+    ampWebUrl: "https://www.wcvb.com/amp/article/on-the-record-will-boston-s-ban-on-facial-recognition-technology-become-a-national-trend/32991208"
+    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/on-the-record-will-boston-s-ban-on-facial-recognition-technology-become-a-national-trend/32991208"
+    type: article
+    provider:
+      name: WCVB Channel 5 Boston
+      domain: wcvb.com
+    quality: 54
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/85dd70bf-0960-4676-b086-3cc43dee7e9e/85dd70bf-0960-4676-b086-3cc43dee7e9e_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
         isCached: true
   - title: "FlowCentric Technologies, Eldir roll-out facial recognition, thermal detection solution"
     excerpt: "The company has developed EGAN, a facial recognition and thermal detection solution, in conjunction with Eldir."
@@ -593,6 +586,6 @@ related:
         height: 341
         isCached: true
 
-secured: "Y6LmCxcZBMu8G/wOQTA1Mki//IHd8HK4laj0b6FKvo3LOD0NujBDxqVBu0hB2vPkl/13eTLQtfKuypYn8Zw+ma6WdMCQlYZTpxTh4Y7sF2sUI6F2y2OxDdjTUeJ1E7fEr+9qeTYMJIRt+y22EMo/wyShyDWBighDY70Dhn4IVWi+YbJmrdYLUfhKFE6o4tSkOlVwz/5aj7vA9vvn777FliCJTCtq0W7+m6kD4eDDQh45WGbe7auD2ipy9H8cjiz9/zohcfvPuEUgjy6JhdgjIQ3oJ6C3HvC2m0AB5ne7rbEcskgGj5mbskpqDRLe6y2g5j0E6/Zsr3yRNgarpFl5te8RrYqLuZcNsmWIpdCwMXZ8lZ68K0N0MNxloU/LgGO68KhYKBWFrMgTXMB5JtQ5OiATulRPMmYN09lYtXK3dQKtHcMFHB5fm+qQOlqEZo7YbachEiV1KK8eIAGK8FHg7zFRbPLyoMrFbHCabO/0xjHK5EhDff2NKW1qjNzEVdTSr1SDuTNkLQ7HR5SkWOM17w==;JwSn3L6wQs2aJNja/j/D+g=="
+secured: "PxCBE2Bgn+hz4+5Y2V2OCegK6oM83xR2Yz3Ok/PuqiWKx4HRzy3a5G0yZjyRd8C7Mn6v3eHPo/JvyVUFiypht0qu3GpP43F+UPRqxHegS88BVxIG+hgc/ndXoi910gWRJe4NYE84t6DK/Ay25R/PEdcuxVxJ0chNyoNZPQbg96MClqEANrmjSQ/mAwZ05Q4UwQ6wirfobGe6x9C9nhW3qicSC06kRnf4xaapT6TDfG/ZQmxpNr7pCZiJ72RRnxbdYHbIcxQrYpgHMWRqx7WekHwbpbJ8oeh//Dv0VrVjcoQe+AMA/ZRAEc0KXbVPsg3sxF2mRqVkHBBqPS6lc4kSeqPF/qVlvxWUmf77092IQN4M2qN4gCKUIpZNBU+IpMaMTJvCKJAnkMVE6ykGYIKyutC4m9FG78+BdeZRaLPeKrMzEakTi2g6psY6jwqr9EXfFtgEqNvrfNxaapyTay5Fd51LcMimMEwyXsjqPUoB+IlaO2QyheEMpgUwt/7rcItJqAytLcU8i5y6PwVK5uUvBQ==;YEt09Os3LScfLYaDX2zfag=="
 ---
 
