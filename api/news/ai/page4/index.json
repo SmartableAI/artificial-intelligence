@@ -2,6 +2,145 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-24-samsung-promotes-ai-expert-to-lead-research-arm.md",
+      "title": "Samsung promotes AI expert to lead research arm",
+      "excerpt": "Samsung Electronics has promoted one of its key artificial intelligence (AI) experts to head its research unit. Dr Sebastian Seung will be the new head of Samsung Research, the company said on Wednesday. He will oversee research conducted at Samsung's ...",
+      "webUrl": "https://www.zdnet.com/article/samsung-promotes-ai-expert-to-lead-research-arm/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/24/3f920c62-5cf9-486f-b0da-def272dec5a8/dr-sebastian-seung-main-1.jpg",
+          "width": 705,
+          "height": 430,
+          "title": "Samsung promotes AI expert to lead research arm",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsung-promotes-ai-expert-to-lead-research-arm/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-promotes-ai-expert-to-lead-research-arm/",
+      "publishedDateTime": "2020-06-23T20:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-how-cloud-and-ai-powered-data-insights-are-helping-f1-attract-new-fans.md",
+      "title": "How Cloud And AI-Powered Data Insights Are Helping F1 Attract New Fans",
+      "excerpt": "F1 chief engineer Rob Smedley explains how and why the sport is unlocking the power of historical and real-time data to engage new and existing fans.",
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef1c4146867d4000608b8f6%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "How Cloud And AI-Powered Data Insights Are Helping F1 Attract New Fans",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/amp/",
+      "publishedDateTime": "2020-06-23T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization.md",
+      "title": "AI Runs Into The Document And People Barrier: Digitization And Digitalization",
+      "excerpt": "Artificial intelligence has been put to amazing use. However, AI systems can’t do anything at all without access to data to train the machine learning models. And much of that data is locked in documents in paper or electronic form or in human-controlled processes.",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef270f1c708900006e39c79%2F0x0.jpg",
+          "width": 749,
+          "height": 407,
+          "title": "AI Runs Into The Document And People Barrier: Digitization And Digitalization",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/amp/",
+      "publishedDateTime": "2020-06-23T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19.md",
       "title": "This New App Analyzes Your Voice Quality To Diagnose Congestive Heart Failure: Can It Help With Covid-19?",
       "excerpt": "A new app developed by an Israeli biotech startup has shown promise in evaluating voice quality to detect buildup of fluid in the lungs, an important finding associated with congestive heart failure (CHF).",
@@ -1104,7 +1243,7 @@
       "title": "Lyft details how it's going to make self-driving cars safer",
       "excerpt": "Lyft’s self-driving team called Level 5 has published its first ever Voluntary Safety Self-Assessment (VSSA) report (PDF), giving us a glimpse of how it plans to make sure that its autonomous vehicles are safe to use.",
       "webUrl": "https://www.engadget.com/lyfts-publishes-first-safety-assessment-report-104539689.html",
-      "heat": 259,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -1229,137 +1368,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-police-forces-in-canada-are-quietly-adopting-facial-recognition-tech.md",
-      "title": "Police Forces in Canada Are Quietly Adopting Facial Recognition Tech",
-      "excerpt": "Police in York and Peel regions are in the process of buying the technology, which has been shown to be racially biased.",
-      "webUrl": "https://www.vice.com/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech",
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5ef0f57c83ca6d009d2c6d35/lede/1592850289955-cctv-1144371_1920.jpeg?crop=0.8911xw:0.7561xh;0xw,0.1597xh",
-          "width": 1710,
-          "height": 961,
-          "title": "Police Forces in Canada Are Quietly Adopting Facial Recognition Tech",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech",
-      "publishedDateTime": "2020-06-23T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-didi-chuxing-and-baic-form-self-driving-partnership.md",
-      "title": "Didi Chuxing and BAIC form self driving partnership",
-      "excerpt": "Chinese ride hailing company Didi Chuxing has entered into a strategic partnership with local carmaker BAIC Group, according to local reports.",
-      "webUrl": "https://www.just-auto.com/news/didi-chuxing-and-baic-form-self-driving-partnership_id196227.aspx",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/images/just-auto-share.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": "Didi Chuxing and BAIC form self driving partnership",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-huawei-aims-to-certify-1000-engineers-with-launch-of-singapore-virtual-ai-academy.md",
-      "title": "Huawei aims to certify 1,000 engineers with launch of Singapore 'virtual' AI academy",
-      "excerpt": "Chinese tech giant launches virtual academy in Singapore offering 140 free online courses in artificial intelligence, 5G, cloud computing, and big data, and aims to certify 1,000 engineers in the country by end-2021.",
-      "webUrl": "https://www.zdnet.com/article/huawei-aims-to-certify-1000-engineers-with-launch-of-singapore-virtual-ai-academy/",
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/14/7b6afd0a-aa57-4c89-b458-1aca5b5509b4/thumbnail/1200x675/854dcc2b357b2ed2d2cb2d74c957c826/governance.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Huawei aims to certify 1,000 engineers with launch of Singapore 'virtual' AI academy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/huawei-aims-to-certify-1000-engineers-with-launch-of-singapore-virtual-ai-academy/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/huawei-aims-to-certify-1000-engineers-with-launch-of-singapore-virtual-ai-academy/",
-      "publishedDateTime": "2020-06-23T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

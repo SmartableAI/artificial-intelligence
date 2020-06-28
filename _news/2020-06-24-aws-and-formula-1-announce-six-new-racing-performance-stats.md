@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/aws-and-formula-1-announce-six-new-racing
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-and-formula-1-announce-six-new-racing-performance-stats/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "AWS and Formula 1 Announce New Racing Performance Stats for 2020 Season"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), and Formula 1 (F1) (NASDAQ: FWONA, FWONK) are introducing six new, real-"
-    publishedDateTime: 2020-06-23T08:49:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200623005380/en/AWS-Formula-1-Announce-New-Racing-Performance"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
-    images:
-      - url: "https://mms.businesswire.com/media/20200623005380/en/800446/23/2020_F1_Insight_CarPerfTop5-02.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "Y1nwkiBcq8DWJRVUsktAXjKINthJAWiNAW5PR5WCnjEdArPfrO1dCBNq91bQiJ0TERWzoljt5c9F7gT63TAme1xdRO/7Be3fYd2uzgAwmUBPg3vhbId5nJiybZYri+JYvTmK29ti6g5oQpwc9PkYT0JYKKUrA8sxc9hGa94MYH5qelaycT5HUH9/mvRONoZYsz8GLq1g8EZ9uDoI7em4uiNIhi6zUrOLjrRsggeRA5AVyV/s+13dPTy+/eDUskqM/RprLMCuPcL29nS2gOuAQcy6aww0q09Twu/sKs/PYDJc+Gf0cv2FTk34kBWMFQhL2LRJgZsEt/cGoJIJUGTb+heV7nbttZbMutfI3lUYwoYw+GJaRm2Y7NcpuKag7ST08F3xT23ZEJu0dG4YmbEf728D8wp7OiE0yr27+6VDLLi2GomO/2bMKvCYUztdnSg1RemYrFuCI/NzJKmKM2QeuOqmyiylSjubF/zBCCmvfvtjPhaZsK/jm1R7QF8NVWRaZM1RuYT/KrnpRfNm93nD6Q==;IV6a5y5bnRCfIsoFvHlR3w=="
 ---

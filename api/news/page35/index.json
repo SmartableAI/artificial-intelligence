@@ -2,6 +2,232 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-05-28-artificial-intelligence-in-healthcare-market-by-technology-advancement-and-demand-2020-2026.md",
+      "title": "Artificial Intelligence In Healthcare Market by Technology Advancement and Demand 2020-2026",
+      "excerpt": "Global Artificial Intelligence In Healthcare Market Size, Status And Forecast 2020-2026: The report discusses many vital industry facets that influence the \"Global Artificial Intelligence In Healthcare Market\" industry acutely which includes extensive study of competitive edge,",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-by-technology-advancement-and-demand-2020-2026-2020-05-28",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence In Healthcare Market by Technology Advancement and Demand 2020-2026",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T03:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic.md",
+      "title": "AI algorithms are puzzled by our online behavior during the coronavirus pandemic",
+      "excerpt": "At some point, every one of us has had the feeling that online applications like YouTube, Amazon, and Spotify seem to know us better than ourselves, recommending content that we like even before we say it.",
+      "webUrl": "https://thenextweb.com/neural/2020/05/28/ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic-syndication/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-32-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "AI algorithms are puzzled by our online behavior during the coronavirus pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/28/ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/28/ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic-syndication/amp/",
+      "publishedDateTime": "2020-05-28T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-greyparrot-bags-22m-seed-to-scale-its-ai-for-waste-management.md",
+      "title": "Greyparrot bags $2.2M seed to scale its AI for waste management",
+      "excerpt": "London-based Greyparrot, which uses computer vision AI to scale efficient processing of recycling, has bagged £1.825 million (~$2.2M) in seed funding, topping up the $1.2M in pre-seed funding it had raised previously.",
+      "webUrl": "https://techcrunch.com/2020/05/28/greyparrot-bags-2-2m-seed-to-scale-its-ai-for-waste-management/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/2480600971_1c62bbb626_k.jpg?w=1024",
+          "width": 1024,
+          "height": 745,
+          "title": "Greyparrot bags $2.2M seed to scale its AI for waste management",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/05/28/greyparrot-bags-2-2m-seed-to-scale-its-ai-for-waste-management/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/28/greyparrot-bags-2-2m-seed-to-scale-its-ai-for-waste-management/amp/",
+      "publishedDateTime": "2020-05-28T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-this-start-up-is-adding-a-layer-of-ai-to-video-feeds.md",
+      "title": "This Start-Up Is Adding a Layer of AI To Video Feeds",
+      "excerpt": "Bengaluru-based Integration Wizards Solutions started with enterprise mobility, creating a platform that would allow for seamless communication across devices. While the computer vision solution is their latest offering,",
+      "webUrl": "https://www.entrepreneur.com/article/351200",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1590657051-20200110-1415551-min.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "This Start-Up Is Adding a Layer of AI To Video Feeds",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351200",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351200",
+      "publishedDateTime": "2020-05-28T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-baidu-releases-homegrown-quantum-machine-learning-toolkit.md",
+      "title": "Baidu releases homegrown quantum machine learning toolkit",
+      "excerpt": "Search giant Baidu has released a toolkit for machine learning that allowing researchers to build and train quantum neural networks. Why it matters: Tech giants around the globe have increased their focus on quantum computing.",
+      "webUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2019/10/BAIDU4.jpg?fit=1620%2C1080&ssl=1",
+          "width": 1620,
+          "height": 1080,
+          "title": "Baidu releases homegrown quantum machine learning toolkit",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
+      "publishedDateTime": "2020-05-28T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-ai-weiwei-has-turned-his-most-iconic-artworks-into-charity-face-masks.md",
       "title": "Ai Weiwei has turned his most iconic artworks into charity face masks",
       "excerpt": "The dissident artist is hoping to raise at least $1 million for vulnerable and displaced people impacted by the Covid-19 pandemic.",
@@ -792,230 +1018,6 @@
         "AI in Healthcare",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-jedi-delay-slows-dods-ai-push.md",
-      "title": "JEDI delay slows DOD’s AI push",
-      "excerpt": "JEDI delay slows DOD’s AI push. By Lauren C. Williams; May 27, 2020; The Defense Department’s artificial intelligence push has been hampered by the lack of an enterpris",
-      "webUrl": "https://defensesystems.com/articles/2020/05/27/jedi-delay-slows-ai.aspx",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://defensesystems.com/-/media/GIG/EDIT_SHARED/Cloud/cloudsdata.png",
-          "width": 760,
-          "height": 368,
-          "title": "JEDI delay slows DOD’s AI push",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense Systems",
-        "domain": "defensesystems.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-amazon-might-buy-self-driving-startup-zoox-report-says.md",
-      "title": "Amazon might buy self-driving startup Zoox, report says",
-      "excerpt": "The purchase would continue Amazon's work to create its own delivery network and cut out driver pay to save cash.",
-      "webUrl": "https://www.cnet.com/roadshow/news/amazon-buy-self-driving-startup-zoox/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/KWKx_VshCeTaf6InTIOGGAuLbV4=/2020/05/27/b33d5cd5-0063-4b3b-a074-45b1ebf23ccf/ogi-zoox.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Amazon might buy self-driving startup Zoox, report says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-buy-self-driving-startup-zoox/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-buy-self-driving-startup-zoox/",
-      "publishedDateTime": "2020-05-27T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-seattle-smart-home-startup-wyze-raises-10m-to-launch-new-product-categories-and-improve-ai-tech.md",
-      "title": "Seattle smart home startup Wyze raises $10M to launch new product categories and improve AI tech",
-      "excerpt": "Wyze Labs just raised $10 million as it expands its smart home product offerings and adapts to the COVID-19 crisis. Previous investor Norwest led the Series A-1",
-      "webUrl": "https://www.geekwire.com/2020/seattle-smart-home-startup-wyze-raises-10m-launch-new-product-categories-improve-ai-tech/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-27-at-9.07.59-AM-630x414.png",
-          "width": 630,
-          "height": 414,
-          "title": "Seattle smart home startup Wyze raises $10M to launch new product categories and improve AI tech",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-smart-home-startup-wyze-raises-10m-launch-new-product-categories-improve-ai-tech/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-smart-home-startup-wyze-raises-10m-launch-new-product-categories-improve-ai-tech/amp/",
-      "publishedDateTime": "2020-05-27T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-amazon-in-talks-to-acquire-self-driving-car-startup-zoox.md",
-      "title": "Amazon in Talks to Acquire Self-Driving Car Startup Zoox",
-      "excerpt": "The company has long been an innovator in artificial intelligence. Now it wants to add additional autonomous vehicle technology to its portfolio.",
-      "webUrl": "https://www.fool.com/investing/2020/05/27/amazon-in-talks-to-acquiring-self-driving-car-star.aspx",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576082%2Fself-driving-electronic-computer-car-on-road.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 760,
-          "title": "Amazon in Talks to Acquire Self-Driving Car Startup Zoox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/27/amazon-in-talks-to-acquiring-self-driving-car-star.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/27/amazon-in-talks-to-acquiring-self-driving-car-star.aspx",
-      "publishedDateTime": "2020-05-27T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan.md",
-      "title": "5G, AI, cybersecurity and renewable energy set for investment boost under EU coronavirus recovery plan",
-      "excerpt": "The European Commission is proposing to direct billions of euros of financial relief into high tech and green investments to help the bloc recover from the coronavirus crisis. Technologies such as 5G,",
-      "webUrl": "https://techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-914922266.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "5G, AI, cybersecurity and renewable energy set for investment boost under EU coronavirus recovery plan",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/amp/",
-      "publishedDateTime": "2020-05-27T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

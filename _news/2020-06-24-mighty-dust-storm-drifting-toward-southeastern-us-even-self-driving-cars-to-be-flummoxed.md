@@ -200,22 +200,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "China deploys self-driving cars to deliver foods; disinfect places in the streets"
-    excerpt: "As a way to reduce the spread of coronavirus, China, according to Mashable, is using self-driving vans called Hercules to deliver foods and disinfect streets."
-    publishedDateTime: 2020-06-23T08:18:00Z
-    webUrl: "https://yen.com.gh/160685-china-deploys-driving-cars-deliver-foods-disinfect-places-streets.html"
-    ampWebUrl: "https://yen.com.gh/amp/160685-china-deploys-driving-cars-deliver-foods-disinfect-places-streets.html"
-    cdnAmpWebUrl: "https://yen-com-gh.cdn.ampproject.org/c/s/yen.com.gh/amp/160685-china-deploys-driving-cars-deliver-foods-disinfect-places-streets.html"
-    type: article
-    provider:
-      name: Yen.com.gh
-      domain: yen.com.gh
-    quality: 39
-    images:
-      - url: "https://netstorage-yen.akamaized.net/images/542a3866856416d8.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Deepfake software used to aid self-driving car development"
     excerpt: "Cutting-edge deepfake tech sees computer software simulate infinite number of different road environments to aid autonomous car development"
     publishedDateTime: 2020-06-24T23:18:00Z

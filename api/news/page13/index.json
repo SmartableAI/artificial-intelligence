@@ -2,6 +2,147 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-06-16-microsoft-and-sas-join-forces-for-cloud-based-analytics-and-ai.md",
+      "title": "Microsoft and SAS join forces for cloud-based analytics and AI",
+      "excerpt": "The partnership builds on previous SAS integrations across Microsoft's Azure, Dynamics 365, Microsoft 365 and Power Platform and supports the companies shared vision to further \"d",
+      "webUrl": "https://www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas",
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1592297479/itpro/Microsoft_sign_shutterstock.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "Microsoft and SAS join forces for cloud-based analytics and AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas?amp",
+      "publishedDateTime": "2020-06-16T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027.md",
+      "title": "Consumer Robotics Market: Opportunities and Forecast Assessment, 2020-2027",
+      "excerpt": "The consumer robotics market forecast 2020-2027 report provides comprehensive coverage of the market through market segments, in-depth regional level analysis, and identifies the key drivers, restraints,",
+      "webUrl": "https://www.marketwatch.com/press-release/consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027-2020-06-16",
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Consumer Robotics Market: Opportunities and Forecast Assessment, 2020-2027",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T23:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-kt-to-invest-41-million-into-hyundai-robotics.md",
+      "title": "KT to invest $41 million into Hyundai Robotics",
+      "excerpt": "South Korean telco KT will invest 50 billion won ($41.4 million) into Hyundai Robotics for a 10% stake, the company said on Tuesday. The two companies will collaborate to co-develop intelligent service robots and perform research in the areas of automation and smart factories,",
+      "webUrl": "https://www.zdnet.com/article/kt-to-invest-us41-million-into-local-robotics-firm/",
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/25/f7e0bf06-4c68-4d88-8aa1-06f0e1dc872c/thumbnail/1200x675/6c7c37cb3b8e3da953320ca4b312fa17/kt-deploys-5g-autonomous-carts-at-wareho-5ecb0926e468b746804e73bb-1-may-25-2020-24-47-54-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "KT to invest $41 million into Hyundai Robotics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/kt-to-invest-us41-million-into-local-robotics-firm/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kt-to-invest-us41-million-into-local-robotics-firm/",
+      "publishedDateTime": "2020-06-15T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems.md",
       "title": "CSIRO and Microsoft to use AI to tackle man-made environmental problems",
       "excerpt": "Artificial intelligence is one technology the pair will be using to look at challenges such as illegal fishing and plastic waste, and to boost farming in Australia.",
@@ -983,130 +1124,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-mit-creates-artificial-brain-chips.md",
-      "title": "MIT Creates Artificial Brain Chips",
-      "excerpt": "For years researchers have been working on simulating brain synapses to create faster and more efficient computers. Recently, a group",
-      "webUrl": "https://propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.propakistani.pk/wp-content/uploads/2020/06/1_IoNnj-fgKGfY5q0ZuMkmPg.jpeg",
-          "width": 1000,
-          "height": 563,
-          "title": "MIT Creates Artificial Brain Chips",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/amp/",
-      "publishedDateTime": "2020-06-15T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire.md",
-      "title": "“AI Healthcare” Stocks Will Mint The World’s First Trillionaire",
-      "excerpt": "You won’t read about these stocks in the mainstream media. But don’t let that fool you: because a small “hidden” group of companies is figuring out how to merge artificial intelligence with medical technology.",
-      "webUrl": "https://www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/",
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee776ee38f9070006842d91%2F0x0.jpg",
-          "width": 1199,
-          "height": 820,
-          "title": "“AI Healthcare” Stocks Will Mint The World’s First Trillionaire",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/amp/",
-      "publishedDateTime": "2020-06-15T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-amazon-issues-12-month-ban-on-police-use-of-facial-recognition.md",
-      "title": "Amazon issues 12-month ban on police use of facial recognition",
-      "excerpt": "The one-year moratorium on police use of Amazon Rekognition does not include organizations that work closely with law enforcement to identify victims of child sexual exploitation and human ...",
-      "webUrl": "https://www.nbcnews.com/tech/security/amazon-issues-12-month-ban-police-use-facial-recognition-n1229601?cid=sm_npd_nn_tw_ma",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_24/3386551/200610-jeff-bezos-2017-ac-544p_ad2fd0aa2b3277bf6be8e39a10c6a956.jpg",
-          "width": 2500,
-          "height": 1690,
-          "title": "Amazon issues 12-month ban on police use of facial recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1229601",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1229601",
-      "publishedDateTime": "2020-06-15T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

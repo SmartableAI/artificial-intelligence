@@ -6,7 +6,7 @@
       "title": "A closer look at SageMaker Studio, AWS’ machine learning IDE",
       "excerpt": "When AWS launched SageMaker Studio back in December, we weren't super impressed. But we promised to take a closer look. Here it is.",
       "webUrl": "https://venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/",
-      "heat": 104,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -45,7 +45,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -194,7 +195,7 @@
       "title": "AWS and Formula 1 announce six new racing performance stats",
       "excerpt": "The newly introduced performance stats include Car Performance Scores, Ultimate Driver Speed Comparison, Driver Skills Rating, and others. They will roll out in the current, 2020 season.",
       "webUrl": "https://www.neowin.net/news/aws-and-formula-1-announce-six-new-racing-performance-stats",
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {

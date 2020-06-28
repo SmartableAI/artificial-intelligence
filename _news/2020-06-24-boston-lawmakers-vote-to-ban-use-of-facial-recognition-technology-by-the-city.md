@@ -607,20 +607,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Tech Companies Are Limiting Police Use of Facial Recognition. Here's Why"
-    excerpt: "IBM said it was getting out of the facial recognition business. Then Amazon and Microsoft announced prohibitions on law enforcement using their facial recognition tech. There's growing evidence these algorithmic systems are riddled with gender and racial bias."
-    publishedDateTime: 2020-06-23T08:00:00Z
-    webUrl: "https://www.npr.org/2020/06/22/881845711/tech-companies-are-limiting-police-use-of-facial-recognition-heres-why"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 38
-    images:
-      - url: "https://media.npr.org/assets/img/2020/06/22/gettyimages-1052877582_wide-aa51331470b894e1f8d08d5210c495c064166205.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "'The Computer Got It Wrong': How Facial Recognition Led To A False Arrest In Michigan"
     excerpt: "Robert Williams says his driver's license photo was incorrectly matched with a wanted suspect. He says he was arrested and detained. Though the case was dropped, Williams says its effect is lasting."
     publishedDateTime: 2020-06-24T12:00:00Z

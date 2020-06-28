@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/flawed-facial-recognition-system-sent-ma
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp"
 type: article
 quality: 104
-heat: 504
+heat: 494
 published: true
 
 provider:
@@ -595,20 +595,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wisconsingazette.com/content/tncms/assets/v3/editorial/f/bc/fbc3ca15-039c-5a4a-8b54-4b69b40fee39/5ef35944c800c.preview.jpg?resize=1120%2C630"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Tech Companies Are Limiting Police Use of Facial Recognition. Here's Why"
-    excerpt: "IBM said it was getting out of the facial recognition business. Then Amazon and Microsoft announced prohibitions on law enforcement using their facial recognition tech. There's growing evidence these algorithmic systems are riddled with gender and racial bias."
-    publishedDateTime: 2020-06-23T08:00:00Z
-    webUrl: "https://www.npr.org/2020/06/22/881845711/tech-companies-are-limiting-police-use-of-facial-recognition-heres-why"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 38
-    images:
-      - url: "https://media.npr.org/assets/img/2020/06/22/gettyimages-1052877582_wide-aa51331470b894e1f8d08d5210c495c064166205.jpg?s=1400"
-        width: 1400
-        height: 787
         isCached: true
   - title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition Technology By The City"
     excerpt: "The city council also voted on Wednesday to prohibit any city official from obtaining such surveillance through third parties. Sponsors said the technology is inaccurate for people of color."

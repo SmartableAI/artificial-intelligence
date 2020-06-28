@@ -56,20 +56,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "AWS and Formula 1 Announce New Racing Performance Stats for 2020 Season"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), and Formula 1 (F1) (NASDAQ: FWONA, FWONK) are introducing six new, real-"
-    publishedDateTime: 2020-06-23T08:49:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200623005380/en/AWS-Formula-1-Announce-New-Racing-Performance"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
-    images:
-      - url: "https://mms.businesswire.com/media/20200623005380/en/800446/23/2020_F1_Insight_CarPerfTop5-02.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "cBRcoUBzHgzPqchry9/m8jdGaqoXWMuDeDS949mChmdu73kI/gIastHTZSlMwTlCGOcvfmhDGuDjufaQh+K/NLQv2M3/7eilHaoE+ZqNWXhuh7Y22s5rIaO9hlQItywRKRzdZUHxgR3CfSbLBP2S0gu/yvbSICVBFrbRziqm9oQx2hAohSQxw9+QzTmfNQhIujpYnleAgeWer0Z4zgItfiKIp1ZNjPtWSDO3iYURHWd3tFG5cWHJ7QPSClypP57Jx3HMNWEW6BpjA8HHgCOhOi2Ljmg0jqDJJ5WGyS1IGvnhiS3rQI0ELRtBuu6SXxXAOSlbNP4H9y5lySXyFopUXoeWYwdcnmBQMkBNLSzTPHQjWGA+eOa11pfCnQM9cxoOv9bLGaDPM0b1jGTmx7Z/bDObDbU9vxvuXuKbnypLTAZY5ZpLRfzvInEtYyuo1k6nHiEuh6QTlIGXs+dViB3/1VwSW03/RrOk3DjHdr4wCfEXeWMZDgpotVR7Vn81ymU4Mixx3u50nDXshW8PAiu7wA==;o/5GqCnsF2jcJwPunFGOvQ=="
 ---

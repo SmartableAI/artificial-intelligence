@@ -35,20 +35,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "The scandal surrounding German MP Philipp Amthor: What is Augustus Intelligence?"
-    excerpt: "The question arises whether Augustus Intelligence is a genuine commercial enterprise or rather a covert intelligence service operation."
-    publishedDateTime: 2020-06-23T07:06:00Z
-    webUrl: "https://www.wsws.org/en/articles/2020/06/23/amth-j23.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 17
-    images:
-      - url: "https://www.wsws.org/asset/4847716a-9ac6-4be3-a9b5-e48ef62acb88/image.jpg"
-        width: 3828
-        height: 2298
-        isCached: true
 
 secured: "NgJgotnV9AB4DNWOaHI7yE/qa2b5DD0GdDga5Ihw0ObBAq0jLJv/wa/puZP/RJY5+hlIu08XLT6hP6Twe3jXV7E6+qBb43nOxxp9e8X9qS0BRZyNWnoNQ849i73fJsrNxDUlPcH4126+TBVrVnOixe5b+u4EU0lGhZPkKdj4txHAA+iUQZwjlhyKmVWZIRkIMVYs77+SnE6pLg9ujbQYluol78vDBu4HTJBOMdbSqgQhobNgx30HPuLpS2+CUvbdStMlKljZk4KrZV59IogpyDPsBr3Ouhuc2lhXJdkKTbvJIzJNo+5PKFi/icnReoCTuXYFZMilUj8skUku3HncwQ==;h6ftUyeYMkPxtZXTqHCU7Q=="
 ---

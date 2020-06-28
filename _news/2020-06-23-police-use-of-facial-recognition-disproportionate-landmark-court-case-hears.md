@@ -27,37 +27,21 @@ images:
     title: "Police use of facial recognition 'disproportionate', landmark court case hears"
 
 related:
-  - title: "Police Forces in Canada Are Quietly Adopting Facial Recognition Tech"
-    excerpt: "Police in York and Peel regions are in the process of buying the technology, which has been shown to be racially biased."
-    publishedDateTime: 2020-06-23T09:00:00Z
-    webUrl: "https://www.vice.com/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech"
-    ampWebUrl: "https://www.vice.com/amp/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech"
+  - title: "Boston bans most city use of facial-recognition tech in privacy win"
+    excerpt: "Boston joins cities like San Francisco in banning the official use of facial-recognition tech after the unanimous vote."
+    publishedDateTime: 2020-06-24T19:27:00Z
+    webUrl: "https://mashable.com/article/boston-bans-facial-recognition-technology/"
+    ampWebUrl: "https://mashable.com/article/boston-bans-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/boston-bans-facial-recognition-technology.amp"
     type: article
     provider:
-      name: VICE
-      domain: vice.com
-    quality: 89
+      name: Mashable
+      domain: mashable.com
+    quality: 74
     images:
-      - url: "https://video-images.vice.com/test-uploads/articles/5ef0f57c83ca6d009d2c6d35/lede/1592850289955-cctv-1144371_1920.jpeg?crop=0.8911xw:0.7561xh;0xw,0.1597xh"
-        width: 1710
-        height: 961
-        isCached: true
-  - title: "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition"
-    excerpt: "Activists have objected to the use of facial recognition by law enforcement for years, as the technology has been shown to display racial bias."
-    publishedDateTime: 2020-06-25T09:38:00Z
-    webUrl: "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
-    images:
-      - url: "https://i.insider.com/5d9b1756138e4a2e893e4931?width=1200&format=jpeg"
+      - url: "https://mondrian.mashable.com/2020%252F06%252F24%252Fe6%252F48e216407ae64ae58a33a0d81cb9c1c5.28a23.jpg%252F1200x630.jpg?signature=9ioxsUaZTvrqoZR7r_dKNqdQDRU="
         width: 1200
-        height: 600
+        height: 630
         isCached: true
   - title: "UK’s facial recognition technology ‘breaches privacy rights’"
     excerpt: "South Wales police accused of using system with ‘racial bias’ that breaks data protection law Notices displayed by the Metropolitan Police notify the public of the use of automated facial recognition cameras around Whitehall for the Remembrance Sunday ..."
@@ -75,6 +59,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Rose Bowl officials defend use of facial recognition program during the big game"
+    excerpt: "Recent media reports painted a dystopian picture of the Rose Bowl’s facial recognition programs used Jan. 1, but stadium officials say they got it wrong."
+    publishedDateTime: 2020-06-23T20:24:00Z
+    webUrl: "https://www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/"
+    ampWebUrl: "https://www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 54
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2020/06/Gallery43-1.jpg?w=1024&h=703"
+        width: 1024
+        height: 703
+        isCached: true
   - title: "UN Urges 'Moratorium' On Facial Recognition Tech Use In Protests"
     excerpt: "The UN human rights chief called Thursday for a \"moratorium\" on the use of facial recognition technology during peaceful protests, stressing that it could increase discrimination against people of African descent and other minorities."
     publishedDateTime: 2020-06-25T14:46:00Z
@@ -89,19 +89,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "CyberLink FaceMe® Updates with New “Social Distancing” Features, including Mask Detection & Enhanced Facial Recognition Capabilities"
-    excerpt: "CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, today announced new updates to its landmark facial recognition softwar"
-    publishedDateTime: 2020-06-23T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200623005015/en/CyberLink-FaceMe®-Updates-New-“Social-Distancing”-Features"
+  - title: "Boston Bans Use Of Facial Recognition Technology. It's The 2nd-Largest City To Do So"
+    excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."
+    publishedDateTime: 2020-06-25T10:31:00Z
+    webUrl: "https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
+    ampWebUrl: "https://amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 8
+      name: WBUR
+      domain: wbur.org
+    quality: 37
     images:
-      - url: "https://mms.businesswire.com/media/20200623005015/en/799351/23/FaceMe_Mask-1200x628.jpg"
-        width: 1200
-        height: 627
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2020/06/GettyImages-1199025045.jpg"
+        width: 3000
+        height: 2000
         isCached: true
 
 secured: "xTggVyEg79hZikbfIFbNHnYqkWfLSKGDLRS45yZygnZSZXG+90DfMJ3QwRnP4zzAf3bZmncvbY4RKbFQVIpfD0ziYjW1uoCxL42ekmLHDgOds7dUFnNZ9GoedL+Ly0kCbdjZY3ctAwT5MyAqJI/MaTT8LYDUumIaalS/ywoEF+kM1viJout7MYvNF+Jl28nwtyJ6LC0PQhS1c6ZjBsHrvK5wrYnHA+sarcBfQDjKvB3JNleX9R0ah3bChRy+7FrJUptFKmIh6fTVTDGp4awVsbvRPcc/W5U14h4mtWKjkTki5Qyj6a6qA4qtv6HYjzSULSRK95SWqM3Uzwk6gu/wHNyws65JaSDtrUnpHtdAKl6JdpJus5OQiwdpqCYUiWnBg1Uq52zZYF5cofbnlM4v8rJ96E9wc+4mvpBBINov4+lYHioZ3QBbTEtNbi5PpitMuS8/eK+iY2zmSvSSFkkHz6ih3xHyZcyk+/UdsYbrWIXSo3yjOOZUrgrqTWPDeUjkomFeK0hAjrtft1aJ5MUH2Q==;gbyJ9zxah+QMhAQFzJe7Bg=="

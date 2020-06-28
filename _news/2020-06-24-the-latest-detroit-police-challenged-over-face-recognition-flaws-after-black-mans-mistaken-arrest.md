@@ -25,21 +25,21 @@ images:
     title: "The Latest: Detroit police challenged over face recognition flaws after Black man’s mistaken arrest"
 
 related:
-  - title: "Detroit police challenged over face recognition flaws"
-    excerpt: "The complaint by Robert Williams is a rare challenge from someone who not only experienced an erroneous face recognition hit, but was able to discover that it was responsible for his subsequent troubles."
-    publishedDateTime: 2020-06-24T17:55:00Z
-    webUrl: "https://www.pbs.org/newshour/nation/detroit-police-challenged-over-face-recognition-flaws"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/detroit-police-challenged-over-face-recognition-flaws"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/detroit-police-challenged-over-face-recognition-flaws"
+  - title: "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition"
+    excerpt: "Activists have objected to the use of facial recognition by law enforcement for years, as the technology has been shown to display racial bias."
+    publishedDateTime: 2020-06-25T09:38:00Z
+    webUrl: "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/06/GettyImages-1149113711-1024x718.jpg"
-        width: 1024
-        height: 718
+      - url: "https://i.insider.com/5d9b1756138e4a2e893e4931?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "XGrFAQoNLWe5k638C76T5MY3l3EyoxmWwwpXghB9nofRRvlt3cRsDV/eMxDAcwo982U0eg4fwk+xjbYcAlGnCoxQHb9PYXvSrOxOkYHkXVfj7Hi1LG4+LNMYys7jCAHddqvhWEVG2eV8dacQNGot+HVpp7Z+qcVKxPmJrMDMKQWlpWpiTJWWki3ltou9YByMD2S1GFADIrTiQassUcVV7Np1eEK1hdoKc+Rs2TEAnownu1MM8HRadRQTPqdKpIN+rBIU1YLu275lvrfabQA0xWAna2u0zCuTKhBQtUo+lAZcj1U8/J+towOUBqQEuwZYReDBKoJdSF8h8VDCgEh6/g==;sYgFcbUPULD9m5viJT8y8Q=="

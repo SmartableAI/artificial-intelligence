@@ -2,6 +2,138 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-22-theres-no-cure-for-covid-19-loneliness-but-robots-can-help.md",
+      "title": "There’s No Cure for Covid-19 Loneliness, but Robots Can Help",
+      "excerpt": "It's hard to replace human contact. But during a pandemic, robots can help patients fight off feelings of isolation and despair.",
+      "webUrl": "https://www.wired.com/story/covid-19-robot-companions/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eebec3f9c7b73c795c4a8f9/master/pass/Culture_paroseal_h_6.07051502.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "There’s No Cure for Covid-19 Loneliness, but Robots Can Help",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/covid-19-robot-companions/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-19-robot-companions/amp",
+      "publishedDateTime": "2020-06-22T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-mubadala-to-double-down-on-tech-after-12-billion-jio-stake.md",
+      "title": "Mubadala to Double Down on Tech After $1.2 Billion Jio Stake",
+      "excerpt": "Mubadala Investment Co. is preparing to double down on its exposure to the technology sector, setting its sights on Asia, after the Abu Dhabi fund took a $1.2 billion stake in India’s Jio Platforms.",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake",
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake",
+      "publishedDateTime": "2020-06-22T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu.md",
+      "title": "Windows 10 PCs: Why the new key to faster desktop applications is your GPU",
+      "excerpt": "Adobe has been putting in GPU-accelerated machine learning in applications like Photoshop and Lightroom, while Corel has added AI-powered brushes to its natural material Painter. By opening DirectX's GPU compute to cross-platform APIs like Mesa3D ...",
+      "webUrl": "https://www.techrepublic.com/article/windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/22/a12d1b1f-4aa8-4503-9d90-2c4e4936e64b/resize/1200x/b33bed0bf6b44bc77a5dce7fbd51c7e7/mesa-3d-tr.jpg",
+          "width": 1200,
+          "height": 732,
+          "title": "Windows 10 PCs: Why the new key to faster desktop applications is your GPU",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu/",
+      "publishedDateTime": "2020-06-22T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-computer-makers-unveil-50-ai-servers-with-nvidias-a100-gpus.md",
       "title": "Computer makers unveil 50 AI servers with Nvidia’s A100 GPUs",
       "excerpt": "Computer makers are launching 50 servers with Nvidia's A100 GPUs to power AI, data science, and scientific computing applications.",
@@ -1197,146 +1329,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility.md",
-      "title": "R&D Roundup: Automated peach sniffers, orbital opportunity and AI accessibility",
-      "excerpt": "I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups.",
-      "webUrl": "https://techcrunch.com/2020/06/19/rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility/",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/02/stanford-bci.gif",
-          "width": 480,
-          "height": 270,
-          "title": "R&D Roundup: Automated peach sniffers, orbital opportunity and AI accessibility",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/19/rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/19/rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility/amp/",
-      "publishedDateTime": "2020-06-19T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments.md",
-      "title": "Five Reasons For Financial Institutions To Consider AI-Driven Automation Investments",
-      "excerpt": "Retail and commercial financial institutions (FIs) are feeling enormous pressure to embrace and adopt artificial intelligence as industry competition grows.",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148110303%2F0x0.jpg",
-          "width": 1200,
-          "height": 912,
-          "title": "Five Reasons For Financial Institutions To Consider AI-Driven Automation Investments",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/amp/",
-      "publishedDateTime": "2020-06-19T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-global-voice-recognition-market-to-reach-usd-1605-billion-by-2027.md",
-      "title": "Global Voice recognition Market to reach USD 160.5 billion by 2027",
-      "excerpt": "Bizwit Research & Consulting LLP's Recent Analysis on Global Voice recognition Market is poised to raise up to USD 160.5 billion by 2027. The Voice recognition market has been on the surging trend on the global scenario.",
-      "webUrl": "https://www.marketwatch.com/press-release/global-voice-recognition-market-to-reach-usd-1605-billion-by-2027-2020-06-19",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Voice recognition Market to reach USD 160.5 billion by 2027",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-19T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
