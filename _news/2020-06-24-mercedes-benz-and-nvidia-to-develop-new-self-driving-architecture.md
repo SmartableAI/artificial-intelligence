@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Lyft says self-driving car safety will be built on trust"
-    excerpt: "Lyft on Monday published what it calls a Voluntary Safety Self-Assessment to provide insight into how the ride-sharing company approaches potentially revolutionary technology like self-driving cars. At the end of the day,"
-    publishedDateTime: 2020-06-23T13:52:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/lyft-self-driving-car-safety-trust/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/lyft-self-driving-car-safety-trust/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lyft-self-driving-car-safety-trust/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/GXmk09msC0IU3WKmEQZZ8MFEUEM=/2020/06/23/e08c41fe-c6ae-4acb-be10-f3204caace01/ogi-lyft.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Amazon Is Buying Self-Driving Startup Zoox"
     excerpt: "Amazon (NASDAQ:AMZN) has signed an agreement to buy Zoox, a six-year old start-up seeking to create autonomous driving vehicles from the ground up. Amazon is reportedly paying over $1.2 billion, which is one of its largest acquisitions,"
     publishedDateTime: 2020-06-26T15:53:00Z
@@ -315,20 +299,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 34
-  - title: "BMW And Mercedes end self-driving car partnership"
-    excerpt: "The two carmakers had previously said that they intended to jointly develop a Level 4 self-driving car by 2024."
-    publishedDateTime: 2020-06-23T13:26:00Z
-    webUrl: "https://gulfbusiness.com/bmw-and-mercedes-end-self-driving-car-partnership/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 24
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2020/06/bmw-mercedes-auto.jpg"
-        width: 800
-        height: 530
-        isCached: true
   - title: "Nvidia teams with Mercedes-Benz to build self-driving cars"
     excerpt: "It will contain a graphics processing unit to run the artificial intelligence models that power a self-driving car’s autonomy features. Nvidia has shared several details about the Drive AGX Orin ..."
     publishedDateTime: 2020-06-23T17:38:00Z

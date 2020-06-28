@@ -59,22 +59,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Police use of facial recognition 'disproportionate', landmark court case hears"
-    excerpt: "The use of automated facial recognition will “radically change” the way Britain is policed, the Court of Appeal has heard. The technology, which scans large groups of people i"
-    publishedDateTime: 2020-06-23T14:21:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/06/23/police-use-facial-recognition-disproportionate-landmark-court/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/06/23/police-use-facial-recognition-disproportionate-landmark-court/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/06/23/police-use-facial-recognition-disproportionate-landmark-court/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 55
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/12/27/197890686_PA_Ed-Bridges-legal-action_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RQJ6Ra64K3tAxfZq0dvIBJw.jpg"
-        width: 2880
-        height: 1800
-        isCached: true
   - title: "UN Urges 'Moratorium' On Facial Recognition Tech Use In Protests"
     excerpt: "The UN human rights chief called Thursday for a \"moratorium\" on the use of facial recognition technology during peaceful protests, stressing that it could increase discrimination against people of African descent and other minorities."
     publishedDateTime: 2020-06-25T14:46:00Z

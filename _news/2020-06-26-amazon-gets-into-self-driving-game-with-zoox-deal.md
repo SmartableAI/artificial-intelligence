@@ -141,6 +141,22 @@ related:
         width: 630
         height: 366
         isCached: true
+  - title: "Amazon’s Jeff Bezos ‘copies’ Tesla’s Elon Musk again; this time for buying a self-driving startup"
+    excerpt: "Taking a dig at Amazon’s Jeff Bezos for acquiring self-driving startup Zoox, electric vehicle maker Tesla (also working on self-driving vehicles) CEO Elon Musk on Friday called him a ‘copycat’ on Twitter."
+    publishedDateTime: 2020-06-28T07:23:00Z
+    webUrl: "https://www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/"
+    ampWebUrl: "https://www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 61
+    images:
+      - url: "https://images.financialexpress.com/2020/05/elon-1.jpg"
+        width: 660
+        height: 440
+        isCached: true
   - title: "Elon Musk trolls Jeff Bezos calling him a copy cat after Amazon acquires self-driving-car startup Zoox"
     excerpt: "The Tesla CEO tweeted a cat emoji at Bezos on Friday after Amazon took another step into the autonomous-driving world."
     publishedDateTime: 2020-06-26T19:57:00Z
@@ -324,20 +340,6 @@ related:
         width: 1440
         height: 942
         isCached: true
-  - title: "AImotive secures $20 million to expand locations and self-driving technology"
-    excerpt: "AImotive has become what it claims is the most-funded automated driving software supplier in Europe with an additional $20 million raised in funding. IEEE GlobalSpec websites place cookies on your device to give you the best user experience."
-    publishedDateTime: 2020-06-23T13:39:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15328/aimotive-secures-20-million-to-expand-locations-and-self-driving-technology"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 36
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/328/15328/AImotive_01_fleet_1600px.jpg"
-        width: 752
-        height: 470
-        isCached: true
   - title: "Amazon Agrees to Buy Self-Driving Technology Startup Zoox"
     excerpt: "The world's largest online retailer has stepped up its investment in the car sector, participating in self-driving car startup Aurora Innovation Inc's $530 million funding round early last year. While Amazon and Zoox did not disclose the financial terms of the deal,"
     publishedDateTime: 2020-06-27T23:08:00Z
@@ -376,6 +378,6 @@ related:
         height: 720
         isCached: true
 
-secured: "TJft7q1S4pamzTFVjEb1LnaXm+WQ+0r5apXJ46oY32FiLpFHr/GlHgm4gxfnvAhKW1m9zwiJb5+IcEl5ID+L2zbOK6NjuGlGKccWnwKz8nc0RGsC9BQzcTA55AMlX4QQfAszbprPPbE2gXy9Y1jOZnWLMYMe3CY+bcEM0zQDfA8HWVT1bb5tXgFkm4klyxvSxBMsZ1imkRjN4UgLd8GxL+a27NX82Sng+25uaQXkXiIf2GU/TyBBeaIQ93hwRzarpq0dR/TEaUEVmLsJ1p6m11huhdgAWcLqneImRehbvsuLpvpxfotpAyIlMMvdazlBIv21COlLhTXBmb7Oo4BE1g==;OWUeuAGkm8sUPpl76EGxUw=="
+secured: "f2n77gMmbxcqbd3ZzWxWZ+nAcBxM2u/HP2LcbI9duW0BZzBG/9otqDZsXWFedaEX1EkhF56Xz0myQmW+3xEDLdGHM/R1bcHYvCjNZmdmeF0DHVcfg3k9tQKfqy1Pv23T9YzZ+J7cOnql2LEPqanV0A/6XwKZZN1qheoa3rybLUpH7wRRVXEuyLF9WFbzcCKnDtI13YZAVaTOT2zNUgtOP/Qf3R6HRLF1ExqyxTHrAecUsu/Np3T4Et9eECQviTxY4VdDSCZg5VHLqyUWHwHgIsOYZQ1zU6pltSWoaI81TvIkSmiXcvdaLM8UObqdLI/dwXJl5aAYMP6kYbShsp9/IkM2UIZrhIbtaOt7LELTWLRsAUFw00qZAeu/NzbJ64OVuc6AUEqpYNueNwlPYo21d/5hX3Hjgt6fKP9tQg7RxHHXGCOXX6f2ZXfcL+ejmXcmOATyvggN6XsRKQo6fu+F3kAxrHo5/eTFeW5hADuB0lSdlwlUHQhbExk4uOGN6nuSsongji87w3BpE88GIt2q4Q==;FTyVegtFzcQ3ZWP4L2vixw=="
 ---
 

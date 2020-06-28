@@ -54,15 +54,6 @@ related:
         width: 3200
         height: 1800
         isCached: true
-  - title: "BMW and Daimler agree to halt joint self-driving development"
-    excerpt: "Benz, a division of Daimler, have put their joint autonomous driving development on hold following a review of the technology and agreed to concentrate on individual existing development paths. The companies said they could return to development at a later data,"
-    publishedDateTime: 2020-06-23T13:39:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15327/bmw-and-daimler-agree-to-halt-joint-self-driving-development"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "bB+GwGSPv2ROU3qicbwvDeeof0WjDNUhPeUYyzsQUMrOWbufXQs6bTlx+2uqWAqhQY4cuKVZTChJAvRj6fuCrqSetUwRXwaJFn2fEcktt3daFD42TWCL27xGtnjCnWn25htPz0JEfMKmMQX8ZOsslxuFRneB/Ui0nGXcThdayGakWm4OM8O5s8vkQ5LHgmmA5etPU0mCoPT8+ENcojDZ8XPcycVtE/icEINB9Np1lBc+DWxgHG+tyFq0l/YduxLW0vxKF571Of6LhK1LXsA98QAeELhF2dRS48uzafFOJX8rbVeQwMfI28AgOzxzaMVctP9D+OedICfTpAU/lb2UUIuv9X5OiP2t4m5nrN02g85VYpFuwflhgCbVnxHuwy3Zztv2IJpfRoqVm3BsAXJ29xS+md0gCaXH/ATwztqpFCZtTcch9jA8VPmSkSVIp+oyAJ8mdJPulkqiFzekcTmO+UBWx6VxQnZKNfBcX6m7qbjddLqZh5LFHFmubA/kXonoV/qnycbaVpXZ+iC+j8tuKA==;z53EkAUs7ZFATVR3j3YpKg=="
 ---

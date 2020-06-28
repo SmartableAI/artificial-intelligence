@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-s
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 3200
         height: 1800
         isCached: true
-  - title: "BMW and Daimler agree to halt joint self-driving development"
-    excerpt: "Benz, a division of Daimler, have put their joint autonomous driving development on hold following a review of the technology and agreed to concentrate on individual existing development paths. The companies said they could return to development at a later data,"
-    publishedDateTime: 2020-06-23T13:39:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15327/bmw-and-daimler-agree-to-halt-joint-self-driving-development"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "8h0ACwcVm9duRg7Kx1/41zgXnAYpL58M7Uob2ELypvoxkb//4TKUeIuL3nJ3PUqeZpLNxRujEQgcxQKvD03xMxAAsl6HQTztnNdSbZe1MvlD1InzoJEw81o+p3zVIeuOtWh4JWe2bDe1qd9JwMKvJjmTHoPzcgfTbXILX4JC8bDQz7IXTyhLPtq30SC7UDMzyfJ2Z+KoV33iSNpskDX3RgpTmbZ5DTZ2+XdXWtxmn7V3nuRorfscv7TNdmCOfoQIQsD18RiSzJZXrYG0a8VXvW90lfuJZ6z83jHBsp59rRni5OuB6WebanleyZea6wxH5U2WPiU4CwhUz8IIkeX0iIUvkQOSPuviCCZ61bU/UvjozRWrpRluE0oDVSeA4TkRBWPdw2bYUtIDTu1HeR1uCCjpX/Scz0jwkQQZXv7AILz6vi7gsxVID1iDMfNM8GA2oEXwhCCOOlyBbBTwM0Ff+nUomeOFmtgOw8Iv9606PTKh9Vf9LDWAaXQivYoTY72d;yLgu8YpeuJJZMu/8WkDm4A=="
 ---

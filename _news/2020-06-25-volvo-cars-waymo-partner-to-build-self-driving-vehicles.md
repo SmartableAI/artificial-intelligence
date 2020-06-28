@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN23W2V0"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN23W2V0"
 type: article
 quality: 89
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -250,20 +250,6 @@ related:
       - url: "https://www.nyoooz.com/uploads/hindi/nyoooz-images/social_gaming2.png"
         width: 647
         height: 400
-        isCached: true
-  - title: "Walmart’s Self-Driving Partner Is Changing E-Commerce Economics"
-    excerpt: "Last summer, it raised $4.5 million from investors, a pint-sized sum among self-driving ventures. Though Gatik may not be sexy, its slow-lane approach has proved to be pragmatic and lucrative. Last summer,"
-    publishedDateTime: 2020-06-23T13:10:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/31511-walmarts-self-driving-partner-is-changing-e-commerce-economics"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 24
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0622_Walmart.jpg?height=635&t=1592797745&width=1200"
-        width: 847
-        height: 635
         isCached: true
   - title: "Amazon buying Zoox to veer into self-driving tech"
     excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."

@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/boston-bans-facial-recognition-technolo
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/boston-bans-facial-recognition-technology.amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/8e6e98b9bdc1c7e71fbcc4fc0b52022b9c2b43d4/0_170_5138_3084/master/5138.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6e67cf17a849c14a6238c590ede46efc"
         width: 600
         height: 360
-        isCached: true
-  - title: "Police use of facial recognition 'disproportionate', landmark court case hears"
-    excerpt: "The use of automated facial recognition will “radically change” the way Britain is policed, the Court of Appeal has heard. The technology, which scans large groups of people i"
-    publishedDateTime: 2020-06-23T14:21:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/06/23/police-use-facial-recognition-disproportionate-landmark-court/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/06/23/police-use-facial-recognition-disproportionate-landmark-court/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/06/23/police-use-facial-recognition-disproportionate-landmark-court/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 55
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2019/12/27/197890686_PA_Ed-Bridges-legal-action_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RQJ6Ra64K3tAxfZq0dvIBJw.jpg"
-        width: 2880
-        height: 1800
         isCached: true
   - title: "Rose Bowl officials defend use of facial recognition program during the big game"
     excerpt: "Recent media reports painted a dystopian picture of the Rose Bowl’s facial recognition programs used Jan. 1, but stadium officials say they got it wrong."

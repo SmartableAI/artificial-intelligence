@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Amazon Looks to Self-Driving Future by Acquiring Zoox"
-excerpt: "Amazon says it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will pull up without a driver."
-publishedDateTime: 2020-06-27T23:07:00Z
-webUrl: "https://www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox"
-ampWebUrl: "https://www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox?context=amp"
+title: "Amazon’s Jeff Bezos ‘copies’ Tesla’s Elon Musk again; this time for buying a self-driving startup"
+excerpt: "Taking a dig at Amazon’s Jeff Bezos for acquiring self-driving startup Zoox, electric vehicle maker Tesla (also working on self-driving vehicles) CEO Elon Musk on Friday called him a ‘copycat’ on Twitter."
+publishedDateTime: 2020-06-28T07:23:00Z
+webUrl: "https://www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/"
+ampWebUrl: "https://www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/lite/"
 type: article
-quality: 54
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Financial Express
+  domain: financialexpress.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://images.financialexpress.com/2020/05/elon-1.jpg"
+    width: 660
+    height: 440
+    isCached: true
+    title: "Amazon’s Jeff Bezos ‘copies’ Tesla’s Elon Musk again; this time for buying a self-driving startup"
 
 related:
   - title: "Amazon buys self-driving technology company Zoox"
@@ -136,22 +139,6 @@ related:
         width: 630
         height: 366
         isCached: true
-  - title: "Amazon’s Jeff Bezos ‘copies’ Tesla’s Elon Musk again; this time for buying a self-driving startup"
-    excerpt: "Taking a dig at Amazon’s Jeff Bezos for acquiring self-driving startup Zoox, electric vehicle maker Tesla (also working on self-driving vehicles) CEO Elon Musk on Friday called him a ‘copycat’ on Twitter."
-    publishedDateTime: 2020-06-28T07:23:00Z
-    webUrl: "https://www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/"
-    ampWebUrl: "https://www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 61
-    images:
-      - url: "https://images.financialexpress.com/2020/05/elon-1.jpg"
-        width: 660
-        height: 440
-        isCached: true
   - title: "Elon Musk trolls Jeff Bezos calling him a copy cat after Amazon acquires self-driving-car startup Zoox"
     excerpt: "The Tesla CEO tweeted a cat emoji at Bezos on Friday after Amazon took another step into the autonomous-driving world."
     publishedDateTime: 2020-06-26T19:57:00Z
@@ -214,6 +201,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Amazon Looks to Self-Driving Future by Acquiring Zoox"
+    excerpt: "Amazon says it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will pull up without a driver."
+    publishedDateTime: 2020-06-27T23:07:00Z
+    webUrl: "https://www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox"
+    ampWebUrl: "https://www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
   - title: "5 key takeaways from Amazon's $1 billion acquisition of self-driving startup Zoox"
     excerpt: "Analysts say the Zoox acquisition gives a good look into Amazon's thinking over a number of different areas, including delivery and M&A strategies."
     publishedDateTime: 2020-06-26T18:59:00Z
@@ -376,6 +374,6 @@ related:
         height: 720
         isCached: true
 
-secured: "pFejxhzwzH1YoWBqHfVKkALZv53Pwcdbt+//886JnQYEs2OBKYTvc+U765ZMRaUNFjVmfXrnVvkGxKu+DhaD6XHntXntkA49WXhV8+GQ+Sjf+DeolYpS4JSelJOw3fn9GtR85Dv0J5EbnC4q7DtfB6Lm0btTW7Cl4rb3BbgPcmTHsdSByNDuJe8314MzmP0FLo2auMPTx0Gx+rQdcP/9WISwZ2BD1ubLFEe6R6KaSPn7ADivwfb0ZcC1j7O6mh3M20qA9iI3STR5msFkSx8qRBttLA5dz0mx/siZy0QeN3txWsIEqzVcbI1ieaWqQ2dytLAOLFZyBGUuj5H2vB0dktVyT/Xb1KInwmcECHZghk7NpmhRzv3xM/45d2qIaq626QlbLDfIciC+T971cYR/+KGTHxeMhawVjIwG8n28CIVwrSKhsF2M58rroRhdckU69ir3ofYg1/hZ/KYfMHXx5502GvNJBPVL7Z6WsyRmWhfUa6hJDIsmBOALTixI7yjj5eE4bFLSdtGrz6K1s8IuHg==;1A6I0bWjIwA+By34oeK8eA=="
+secured: "PJYWisCEEmPNLWBtkr7HVDfFGUevxhl7ngSFxFK+LhWHrJXQgT2TOfmcw90hx9SA5ThTTv6eBu+xv2fDCLT/6S/z61D62Iw5c1Ze3W2V0UxqjYl2035VFTjI+DDjS60GeUhNxLBTyY+ptPbCwaVI6HkPlqaBLod5QpfypCv92sMz1AB6ePYcCdYG+1tm3VUa78ceMO68XtCvbOXodHr8coYL2FHM/gKrM4Fmm35TH9Qver3pW2FHH2PvQIpZaiNonPq4sksgvMsGei52y5FbvRHwzKCGued7yzVCw3ObpNTMEXe4RScHYVHs2Iy9mAbPRXkBW3f/QvNZudk211aQgw==;AQJngWi4lrTKxDkWMjGAYg=="
 ---
 

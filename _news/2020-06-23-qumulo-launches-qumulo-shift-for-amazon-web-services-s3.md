@@ -24,22 +24,6 @@ images:
     isCached: true
     title: "Qumulo Launches Qumulo Shift for Amazon Web Services S3"
 
-related:
-  - title: "Qumulo Leads Customers to the Cloud with Launch of Qumulo Shift for Amazon Web Services S3"
-    excerpt: "Qumulo, the leading provider of cloud file data services, announced today the l (AWS) S3, the first-ever native cloud service that enables organizations to move file data from any Qumulo on-prem or public cloud cluster into Amazon Simple Storage Service (Amazon S3) and transform that data to object in an open and non-proprietary format."
-    publishedDateTime: 2020-06-23T14:20:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200623005212/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 29
-    images:
-      - url: "https://mms.businesswire.com/media/20200623005212/en/750107/23/High_Res_Qumulo_Logo_%28new%29.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-
 secured: "EHfxL2qNdGVB7trj3i6pJQvx+KEKUdwH/bbQ9b0WuMvcOfY9enkuXgCxOaW90ndcjlNnadt1KJq8L90cI4/w62o2jfRxIW1sz6jIKjgxwMxzS/neAQGTuGX2GHvMnI+8jNkgX7yF9BC/K7JNPPfjfOrNQ+T20iXIo97Xcaa4HGqrKkoMtyKAoQ2HOIUAY99dWU1zjteablJRXaCX1ocfQrkUt7hOVFOTSSS7g1mUxhM+mkDZC2Tba2L30w/JWzzA6A3G8lboWc5UrNEv5B0cSGEhulsPqJj+4VURDAr3uH3R6KC8xsDPrd8B+Cd2Ix6MzVmaMrBfSWVNS0ZminUqoesQcf2XciIdMb4IyQvHaCxSBKYjkZWKNuc4V693xwVwYu4BGMz+Mp+Tnrjzxpq+6QbkNt2YusLpx4vvgjukOY1ZyHhaXxczfs2tIWPZ7ESmvPqUdAa0XNHutbIIqNgl8V9RjC3qQRCVTSpV8g/dI/USF5bUfE7e9taN/i5XqZ9jDEKdL07x/HhL2fyZGLIX/Q==;yflFJIB4pKrPlmJ79vbSXw=="
 ---
 

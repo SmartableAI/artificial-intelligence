@@ -261,20 +261,6 @@ related:
         width: 647
         height: 400
         isCached: true
-  - title: "Walmart’s Self-Driving Partner Is Changing E-Commerce Economics"
-    excerpt: "Last summer, it raised $4.5 million from investors, a pint-sized sum among self-driving ventures. Though Gatik may not be sexy, its slow-lane approach has proved to be pragmatic and lucrative. Last summer,"
-    publishedDateTime: 2020-06-23T13:10:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/31511-walmarts-self-driving-partner-is-changing-e-commerce-economics"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 24
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0622_Walmart.jpg?height=635&t=1592797745&width=1200"
-        width: 847
-        height: 635
-        isCached: true
 
 secured: "9nVWaDwbsfDDa/0GBbR1iR0Io81/Ap0VJQRUXmqObRcM1w86ZkC4SZzFZrNpPtKKY8qqRizrqtMaCuONv8Gn+Zk4BQ3SqqZnF6eqNS14YjsC/rkFfR9Zkfr4JnLn3l3DEwgXp70bcmm6nblNoc8vFQa/8BHx8rFPW+dphvWpvUbRuef4as61BYa8abVQXtd5W4xEVYJvSejeSeSV4OkBHcTwTybvi+//h2WVLSQsnmW4Tmi0fmed0HGefLIarzm3udm6ae/crUgF5TcJ0eWsTgiRsSvpIuYz80aUpF9lKhU5b2UJE0GMqSWCvOpJz10hSxv03u/G2oljStr2FODFwK9TrVWmnTF/oQSVgloASXQU3eIWvU1XPQDp4Yq+785OS3FqNe5mPDFVMoUoXZ9SWWKgIC5zhsr52CoUaGfrzw3C5iw4FBnN1zVWm2ykExBcVcBFh9ZuZ/Ob38gMCjPAhzTCgut6nOWf4kTzodnvwmiJgMJY4B9Pm8aX0I5avTOtAnKXzwljSLMG/O+z4xEMBA==;J0okZhGzUTaHIDkI23WlAg=="
 ---

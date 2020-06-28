@@ -52,15 +52,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
-  - title: "BMW and Daimler agree to halt joint self-driving development"
-    excerpt: "Benz, a division of Daimler, have put their joint autonomous driving development on hold following a review of the technology and agreed to concentrate on individual existing development paths. The companies said they could return to development at a later data,"
-    publishedDateTime: 2020-06-23T13:39:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15327/bmw-and-daimler-agree-to-halt-joint-self-driving-development"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "JF3vBPLwTGH5yBf4D4OnfJq+OQvFTWPabT29/KLgNOO46vk2Pivj6IEuIi0Xt+qx65dWz9wnR/KpiZa0oycj5UAxkmShduRL1SLX8L5xgSKYix3eq92th6KjpIkXyAOvsUZv9mFUKikY7vdBMs4YfOkYuI6HnjARnxiQlwlLxwC3J3VngMDHS3aa01BaNugl1aEeYRLrotU/U3rho3xk6vpyFYjXt2BMbzgrDNvuoW8zwS+ZjZCl9dRmKBSvyf8PaQG1rpG63w7km94AHYhXSqz3z/VHtqzRZ+8z3RgLi72dOxyKe4qwTxSI+vMwAHdm7C6UsFQFVZc/p0a+AWukMg==;lyGoLHPBokZbMKz3KkcJdg=="
 ---

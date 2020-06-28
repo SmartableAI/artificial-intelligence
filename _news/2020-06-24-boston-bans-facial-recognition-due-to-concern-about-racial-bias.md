@@ -127,22 +127,6 @@ related:
         width: 756
         height: 567
         isCached: true
-  - title: "South Wales Police's facial recognition tech 'not legal'"
-    excerpt: "He said it is the potential use of the facial recognition powers, not actual use to date, which was the issue. \"It's not enough that it has been done in a proportionate manner so far,\" Mr Squires said."
-    publishedDateTime: 2020-06-23T14:05:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-53147221"
-    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53147221"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53147221"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6C70/production/_107006772_facialedbridges.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Boston bans police and city use of facial recognition software"
     excerpt: "Following the wrongful arrest of Robert Williams, Boston has become the second-largest city in the US to ban the use of facial recognition software."
     publishedDateTime: 2020-06-24T20:42:00Z
