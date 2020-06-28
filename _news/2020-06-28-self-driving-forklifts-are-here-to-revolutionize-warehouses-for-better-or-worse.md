@@ -3,7 +3,7 @@ category: news
 title: "Self-driving forklifts are here to revolutionize warehouses, for better or worse"
 excerpt: "Third Wave Automation raised $15 million to make self-driving forklifts a reality. Here's how it's going to change warehouses as we know it."
 publishedDateTime: 2020-06-28T13:28:00Z
-webUrl: "https://www.digitaltrends.com/news/third-wave-automation-autonomous-forklifts/?itm_source=4&itm_content=2x4&itm_term=2376504"
+webUrl: "https://www.digitaltrends.com/news/third-wave-automation-autonomous-forklifts/"
 ampWebUrl: "https://www.digitaltrends.com/news/third-wave-automation-autonomous-forklifts/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/third-wave-automation-autonomous-forklifts/?amp"
 type: article
@@ -23,6 +23,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "nVAoHQUw3iUU1HTIsX7DkjN0wfTzExJo0foKCDqHRNgVObT3unsPkZaDFVmnoeiSZHJkP2mGoGXpli0noHpm/G3hhlSygpNU3mCg0YFhWB6v4Zv22hHFnU2PbFAvBI+GcHq4w1/C8TWR8xpoRKVNb2DeKJh2cnrueik/hD4ccUDXMJNSxA7ELQyDNmHZgJx6OtXibX5BkvMiB046FmOKydHNmSyo5bJiXyik1J3+A6LG2puGGiyPML9FeLIZ+lzVLE2QoBndS2jSrYuyiSpRPK4p514tQ7Jqi648MFuvy+OFiBh5Cxpk8AbVZZLnrJSt2Z3BRGEPVVw5F/u9SPIZZE6hq4Jzh7gUYeflfzKytz0e19TMtRwNn45p9dSLcUXDLuN9ncEWFUh0I+8zcWw0pUGMFONBsmIS86GMKDOUOeYn1u95PBunF4IRTZ1sbYCAiMJQerARk3cXWFtKiYleoigyRt/cl7+cnSDUHqbdile828Wa3/IfpEASXK3q0MhEh0XdDfyVXLLjs2JMEEDYWg==;hZwNxvLCUf7os2EMxlLGjw=="
+secured: "t8UiH+6pe6hMT1V0mZW16fAetL6VH7QwF0wKzOGAUAzYHGJoKt+X5EiFs6iSu1vZofP9ODaVdgArfmoa9Ng1c1GGjz6N5k0UPPBPfr0bkuso2aPS97nOUNpa7PYblBOYyhTzCujUcGE9KDvQAIyB9OrKroIGmu80KbjVQECQ6qjsVZ23qxYb+llG4efTOTzSz3Va38dfWOoz3nVTkTWyCDyZvvho6jbo1r6O953imk7/6Jb93PgvEv0Z2VQU+hGWBjOq4/MIHhF1rRapz/yEBwNvG9KWhJavDMCYrbbKgrgWu8LO0QgZ6bobGiUbUXxOqdel9eHg0oQ17EQhwJPQCr7SoRCZ2mpbvO4XozVl11EP80UjUl3FgL+3CRgSDEDJVmdhqkolfojHuZdPCVdFmCKGUKzFyMl+kFDCk2Z+0zpbq3F8uxSNeHp6i4bXysAnBzQoZLYdT9WxQw/yPnzTBmsmfNQP18O0SU74tAuGHDRLnAjz8hTiEf3Xeg6Nj5A/VZWvuOkazffQzN57e6QgNA==;qqIqPL0RoVVWgn5CjTUTxA=="
 ---
 

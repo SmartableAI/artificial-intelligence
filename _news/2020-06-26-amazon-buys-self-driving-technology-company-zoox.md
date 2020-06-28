@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technol
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html"
 type: article
 quality: 74
-heat: 304
+heat: 294
 published: true
 
 provider:
@@ -229,22 +229,6 @@ related:
       - url: "https://i.insider.com/5ef21a1619182402da2ee234?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Winnipeg-based company to test self-driving buses in the U.S."
-    excerpt: "Winnipeg-based New Flyer is going to be the first North America. David Warren, who is the director of sustainable transportation for New Flyer, said the project will take place in Connecticut and the Department of Transportation there will lead it."
-    publishedDateTime: 2020-06-23T21:28:00Z
-    webUrl: "https://winnipeg.ctvnews.ca/winnipeg-based-company-to-test-self-driving-buses-in-the-u-s-1.4996824"
-    ampWebUrl: "https://beta.ctvnews.ca/local/winnipeg/2020/6/23/1_4996824.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/winnipeg/2020/6/23/1_4996824.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 44
-    images:
-      - url: "https://beta.ctvnews.ca/local/winnipeg/2020/6/23/1_4996824/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Amazon To Acquire Self-Driving Startup In A $1 Billion+ Deal"
     excerpt: "Amazon.com Inc (NASDAQ: AMZN) is expected to announce a deal to buy self-driving technology startup Zoox for over $1 billion, according to a report by The Information. This does not come as a surprise, considering Amazon's closed doors discussion with Zoox ..."

@@ -50,6 +50,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Amplifying Advertising and Marketing with Artificial Intelligence"
+    excerpt: "Amplifying Advertising and Marketing with Artificial Intelligence  - Whether it is Google or Tesla’s self-driven cars, AI is ruling all over. Assimilating these AI technologies"
+    publishedDateTime: 2020-06-26T13:08:00Z
+    webUrl: "https://www.cioreview.com/news/amplifying-advertising-and-marketing-with-artificial-intelligence-nid-31486-cid-51.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://cioreview.com/Rank_subcat_images/pzhs8digimas.jpg"
+        width: 453
+        height: 512
+        isCached: true
   - title: "Painter 2021 Harnesses the Power of AI for Professional Artists"
     excerpt: "For the first time, digital artists can access an AI-based style transfer workflow that offers the ... a variety of Clone Tinting options, and impressive GPU-based performance optimizations, Painter® 2021 gives artists more ways to maximize their ..."
     publishedDateTime: 2020-06-24T00:37:00Z

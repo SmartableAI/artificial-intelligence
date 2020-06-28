@@ -2,6 +2,83 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-06-11-the-smart-future-will-robotics-call-the-shots-post-coronavirus.md",
+      "title": "The Smart Future: Will Robotics Call the Shots Post Coronavirus?",
+      "excerpt": "Robotics revolution is swiftly gaining momentum and in the months to come, it might become the new normal. AI is already an integral element of our daily lives from online shopping to digital assistance from Sire and Alexi to diagnosis of life-endangering diseases.",
+      "webUrl": "https://www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11",
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11?amp",
+      "publishedDateTime": "2020-06-11T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-facial-recognition-tech-developed-by-clearview-ai-could-be-illegal-in-europe-privacy-group-says.md",
+      "title": "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says",
+      "excerpt": "The European Data Protection Board warned on Wednesday that Clearview AI's technology is likely to be illegal in Europe.",
+      "webUrl": "https://www.cnbc.com/2020/06/11/clearview-ai-facial-recognition-europe.html",
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775",
+          "width": 3999,
+          "height": 2666,
+          "title": "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html",
+      "publishedDateTime": "2020-06-11T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-hawaii-travel-update-quarantine-extended-interisland-travel-facial-recognition-safe-routes.md",
       "title": "Hawaii Travel Update: Quarantine Extended, Interisland Travel, Facial Recognition, Safe Routes",
       "excerpt": "Here’s the latest news about COVID-19 travel coming out of Hawaii: Out of state visitors are out of luck until at least August, as Hawaii has extended its mandatory 14-day quarantine through the end of July.",
@@ -933,82 +1010,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-5-reasons-why-your-chatbot-needs-natural-language-processing.md",
-      "title": "5 Reasons Why Your Chatbot Needs Natural Language Processing",
-      "excerpt": "This is where Natural Language Processing (NLP) comes into the picture. Within the right context for the right applications, NLP can pave the way for an easier-to-use interface to features and ...",
-      "webUrl": "https://inc42.com/resources/5-reasons-why-your-chatbot-needs-natural-language-processing/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/inc42.com/wp-content/uploads/2019/06/nlp-social.jpg?fit=1200%2C628&#038;ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": "5 Reasons Why Your Chatbot Needs Natural Language Processing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/resources/5-reasons-why-your-chatbot-needs-natural-language-processing/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/5-reasons-why-your-chatbot-needs-natural-language-processing/amp/",
-      "publishedDateTime": "2020-06-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-speech-recognition-startup-uniphore-leverages-ai-to-ready-for-post-coronavirus-world.md",
-      "title": "Speech recognition startup Uniphore leverages AI to ready for post-coronavirus world",
-      "excerpt": "The need for automation is soaring amid the coronavirus crisis as BPO calls swell. Conversational AI startup Uniphore is tapping technology to change the way enterprises engage with consumers and build loyalty in the post-COVID-19 world.",
-      "webUrl": "https://yourstory.com/2020/06/speech-recognition-startup-uniphore-taps-ai-coronavirus",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/wordpress/2015/12/Yourstory-Uniphore.jpg?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": "Speech recognition startup Uniphore leverages AI to ready for post-coronavirus world",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/06/speech-recognition-startup-uniphore-taps-ai-coronavirus/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/06/speech-recognition-startup-uniphore-taps-ai-coronavirus/amp",
-      "publishedDateTime": "2020-06-10T16:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

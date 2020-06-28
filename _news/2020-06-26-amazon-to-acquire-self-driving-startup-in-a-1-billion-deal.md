@@ -242,22 +242,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Winnipeg-based company to test self-driving buses in the U.S."
-    excerpt: "Winnipeg-based New Flyer is going to be the first North America. David Warren, who is the director of sustainable transportation for New Flyer, said the project will take place in Connecticut and the Department of Transportation there will lead it."
-    publishedDateTime: 2020-06-23T21:28:00Z
-    webUrl: "https://winnipeg.ctvnews.ca/winnipeg-based-company-to-test-self-driving-buses-in-the-u-s-1.4996824"
-    ampWebUrl: "https://beta.ctvnews.ca/local/winnipeg/2020/6/23/1_4996824.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/winnipeg/2020/6/23/1_4996824.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 44
-    images:
-      - url: "https://beta.ctvnews.ca/local/winnipeg/2020/6/23/1_4996824/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Report: Amazon to pay $1 billion+ for self-driving tech firm Zoox"
     excerpt: "Amazon is expected to announce a deal as early as today to purchase self-driving vehicle technology provider Zoox for upwards of $1 billion, according to a report in The Information. Why it matters: While Apple,"
     publishedDateTime: 2020-06-26T04:41:00Z

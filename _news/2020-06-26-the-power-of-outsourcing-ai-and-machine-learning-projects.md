@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Amplifying Advertising and Marketing with Artificial Intelligence"
+    excerpt: "Amplifying Advertising and Marketing with Artificial Intelligence  - Whether it is Google or Tesla’s self-driven cars, AI is ruling all over. Assimilating these AI technologies"
+    publishedDateTime: 2020-06-26T13:08:00Z
+    webUrl: "https://www.cioreview.com/news/amplifying-advertising-and-marketing-with-artificial-intelligence-nid-31486-cid-51.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://cioreview.com/Rank_subcat_images/pzhs8digimas.jpg"
+        width: 453
+        height: 512
+        isCached: true
   - title: "Corel: Painter 2021 Harnesses the Power of AI for Professional Artists"
     excerpt: "AI-Based Art Styles Make the most of Painter's innovative AI ... Painter 2021 now also offers twice as many GPU-accelerated stamp brushes, up to four times faster drip and liquid brush technologies, and quicker brush and tool switching."
     publishedDateTime: 2020-06-24T00:03:00Z

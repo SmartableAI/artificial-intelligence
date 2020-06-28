@@ -1,28 +1,30 @@
 ---
 category: news
-title: "China's Didi starts self-driving ride service in Shanghai"
-excerpt: "Shanghai, June 28 (IANS) Ride-hailing giant Didi Chuxing (DiDi) has launched the trial run of self-driving ride service on designated test roads in the eastern metropolis of Shanghai."
-publishedDateTime: 2020-06-28T11:54:00Z
-webUrl: "https://www.sify.com/finance/chinas-didi-starts-self-driving-ride-service-in-shanghai-news-topnews-ug2lOAfhjfbed.html"
+title: "China's Didi Starts Self-Driving Ride Service in Shanghai"
+excerpt: "Chief Technology Officer of Didi said the company will start by assigning orders to both human and robotic drivers"
+publishedDateTime: 2020-06-28T15:23:00Z
+webUrl: "https://www.ibtimes.sg/chinas-didi-starts-self-driving-ride-service-shanghai-47639"
+ampWebUrl: "https://amp.ibtimes.sg/chinas-didi-starts-self-driving-ride-service-shanghai-47639"
+cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/chinas-didi-starts-self-driving-ride-service-shanghai-47639"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Ellen
+  domain: ibtimes.sg
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg"
-    width: 600
-    height: 400
+  - url: "https://data.ibtimes.sg/en/full/23010/logo-chinese-ride-hailing-firm-didi-chuxing-seen-t-shirt-employee-outside-their-new-drivers.jpg"
+    width: 1600
+    height: 1067
     isCached: true
-    title: "China's Didi starts self-driving ride service in Shanghai"
+    title: "China's Didi Starts Self-Driving Ride Service in Shanghai"
 
 related:
   - title: "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing"
@@ -459,6 +461,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "Cwge4OxjjFnjn/DqrFXlDYv/7uNYIGRO+XZpiF5tXF35tAcHG00E7xRxL1/9PtFb+mRhPCgnPbJyHU63ToSVW1a+3cTwCtUzEQeB27kCc5fpE3cJYi3gBc35W+lTU9XXxW1OH9pD0msroBs5uVFIjGmSvek5zPzKW2pgav8VbpEfHhSvSsQoIBzV3FOzOhECedwcoOMa4MnEsqH8QuwyJgZLdCRuUFMeKegSYhx2ovjRHD5drGg3G6rSAn3Xpgu06j0qpAUAjeX+6a/dZWuuszOUcE50ACHsSt4SVHtGqpJ5KA3cPErpOo6eXtQsFBL5lvRTmDoDa8IntlHstycu8g==;pIPE/PKn1NaM8nKi1mG0vg=="
+secured: "BBbStjfB9M8TfY5nl6TGAuaKybtKhViv6eSjAYLYNmIgPlLQ0AiDvfi0mJMNl+kmiLa4BM3LPGN8xfdGl5ctyYxpQNEwINgxV90CNq7QzvbDjHkiF0pGhZW/RFnhfJCOpmPe+Xz4ssc3MGRtTgkf+Dmv0PV0T0cK0NwRFTJ2u8+yE6L5AEoGCCv5bI4QSn9vrvneudYhKhXb2XikaJ0cNRu8W5MODGyLGxGY6TGuoSrEEk66WG2d/loD8QIjoGlZN/Qq+3OuBVfTtnp7FxsLDeHGx4DeGlKGXzUdK9Pd4IwhyDVruQfEYbzEvKgVHDRDXtwGm6iM9Szs0lc+IUl4dA==;vQUYCxnlKGm0L/5E6sPqLg=="
 ---
 

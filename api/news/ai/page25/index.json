@@ -2,6 +2,100 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-06-02-artificial-intelligence-chipset-market-analysis-as-per-the-latest-covid-19-impact.md",
+      "title": "Artificial Intelligence Chipset Market Analysis as per the Latest COVID-19 Impact",
+      "excerpt": "The global Artificial Intelligence Chipset Market is segregated on the basis of Component as Hardware and Software. Based on Technology the global Artificial Intelligence Chipset market is segmented in Machine Learning,",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-analysis-as-per-the-latest-covid-19-impact-2020-06-02",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Chipset Market Analysis as per the Latest COVID-19 Impact",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-covid-19-impact-on-artificial-intelligence-platform-market.md",
+      "title": "COVID-19 Impact on Artificial Intelligence Platform Market",
+      "excerpt": "The global Artificial Intelligence Platform market is segregated on the basis of Component as Tools and Services. Based on Deployment the global Artificial Intelligence Platform market is segmented in Cloud and On-Premises.",
+      "webUrl": "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-platform-market-2020-06-02",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "COVID-19 Impact on Artificial Intelligence Platform Market",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-sensetimes-ai-makes-sure-you-park-your-shared-bike-properly.md",
       "title": "SenseTime’s AI makes sure you park your shared bike properly",
       "excerpt": "SenseTime’s new AI surveillance system is part of the Chinese government’s push to promote smart city projects",
@@ -1176,101 +1270,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots.md",
-      "title": "Otto Motors raises $29 million to staff warehouses with autonomous mobile robots",
-      "excerpt": "Otto Motors, a subsidiary of Clearpath Robotics that supplies autonomous mobile robots to manufacturing and logistics customers, has raised $29 million.",
-      "webUrl": "https://venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/",
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ca755715-d887-4359-bd57-e892aae745b1-e1590608171366.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Otto Motors raises $29 million to staff warehouses with autonomous mobile robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/amp/",
-      "publishedDateTime": "2020-06-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-13-ways-microsoft-azure-beats-aws.md",
-      "title": "13 ways Microsoft Azure beats AWS",
-      "excerpt": "From Visual Studio integration to powerful machine learning APIs, you have more than a dozen reasons to choose Azure over AWS",
-      "webUrl": "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.html",
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "13 ways Microsoft Azure beats AWS",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html",
-      "publishedDateTime": "2020-06-01T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

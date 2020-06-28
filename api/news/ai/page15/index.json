@@ -2,6 +2,73 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-06-11-police-wont-be-using-ibm-amazon-facial-recognition-technology-for-now-as-companies-either-pause-or-suspend-its-use.md",
+      "title": "Police won’t be using IBM, Amazon facial recognition technology for now as companies either pause or suspend its use",
+      "excerpt": "Amazon Rekognition, the company’s face identification technology that launched in 2016 and has been sold to multiple U.S. government agencies, will not be used by law enforcement for at least a ...",
+      "webUrl": "https://www.masslive.com/police-fire/2020/06/police-wont-be-using-ibm-amazon-facial-recognition-technology-for-now-as-companies-either-pause-or-suspend-its-use.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SKEUAF4FRNG3JOQ3T7XVREA5NQ.jpg",
+          "width": 6320,
+          "height": 4213,
+          "title": "Police won’t be using IBM, Amazon facial recognition technology for now as companies either pause or suspend its use",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.masslive.com/police-fire/2020/06/police-wont-be-using-ibm-amazon-facial-recognition-technology-for-now-as-companies-either-pause-or-suspend-its-use.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/06/police-wont-be-using-ibm-amazon-facial-recognition-technology-for-now-as-companies-either-pause-or-suspend-its-use.html?outputType=amp",
+      "publishedDateTime": "2020-06-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassLive",
+        "domain": "masslive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-the-smart-future-will-robotics-call-the-shots-post-coronavirus.md",
+      "title": "The Smart Future: Will Robotics Call the Shots Post Coronavirus?",
+      "excerpt": "Robotics revolution is swiftly gaining momentum and in the months to come, it might become the new normal. AI is already an integral element of our daily lives from online shopping to digital assistance from Sire and Alexi to diagnosis of life-endangering diseases.",
+      "webUrl": "https://www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11",
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11?amp",
+      "publishedDateTime": "2020-06-11T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-facial-recognition-tech-developed-by-clearview-ai-could-be-illegal-in-europe-privacy-group-says.md",
       "title": "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says",
       "excerpt": "The European Data Protection Board warned on Wednesday that Clearview AI's technology is likely to be illegal in Europe.",
@@ -1135,92 +1202,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-how-a-kirkland-company-uses-ai-to-make-it-safer-for-you-to-return-to-your-office.md",
-      "title": "How a Kirkland company uses AI to make it safer for you to return to your office",
-      "excerpt": "Nomad Go's HealthySpaces system collects anonymous data using computer vision and can track how many people have entered and exited an office and whether people are social distancing. It can also ...",
-      "webUrl": "https://www.bizjournals.com/seattle/news/2020/06/10/nomad-go-ai-computer-vision-office-covid-kirkland.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11677837/nomad-go-mask-detection*600xx1676-1122-0-0.png",
-          "width": 600,
-          "height": 401,
-          "title": "How a Kirkland company uses AI to make it safer for you to return to your office",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/seattle/news/2020/06/10/nomad-go-ai-computer-vision-office-covid-kirkland.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2020/06/10/nomad-go-ai-computer-vision-office-covid-kirkland.amp.html",
-      "publishedDateTime": "2020-06-10T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-ibm-for-financial-services-banking-tradition-meets-hybrid-cloud.md",
-      "title": "IBM for Financial Services: Banking Tradition Meets Hybrid Cloud",
-      "excerpt": "WEEK FINANCIAL IT ANALYSIS: Banks are often leading-edge adopters of the latest technological solutions, such as hybrid cloud, digital transformation and artificial intelligence. But there's always something new to consider,",
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/ibm-for-financial-services-banking-tradition-meets-hybrid-cloud",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/06/Banking.apps.JPG?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": "IBM for Financial Services: Banking Tradition Meets Hybrid Cloud",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-10T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "IBM AI"
       ]
     }
   ],
