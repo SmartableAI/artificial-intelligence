@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Rose Bowl officials defend use of facial recognition program during the big game"
-    excerpt: "Recent media reports painted a dystopian picture of the Rose Bowl’s facial recognition programs used Jan. 1, but stadium officials say they got it wrong."
-    publishedDateTime: 2020-06-23T20:24:00Z
-    webUrl: "https://www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/"
-    ampWebUrl: "https://www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 54
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2020/06/Gallery43-1.jpg?w=1024&h=703"
-        width: 1024
-        height: 703
-        isCached: true
   - title: "Boston Bans Use Of Facial Recognition Technology. It's The 2nd-Largest City To Do So"
     excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."
     publishedDateTime: 2020-06-25T10:31:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-26T16:21:00Z
 webUrl: "https://www.biometricupdate.com/202006/biometrics-researchers-recognized-for-computer-science-innovation-and-bias-work"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 749
     isCached: true
     title: "Biometrics researchers recognized for computer science innovation and bias work"
-
-related:
-  - title: "MSU researcher earns top ranking for computer science, electronics work"
-    excerpt: "A Michigan State University researcher in the College of Engineering has the world’s top H-index ranking for computer science and electronics. The H-index is a measure of scientific research impact."
-    publishedDateTime: 2020-06-23T19:54:00Z
-    webUrl: "https://msutoday.msu.edu/news/2020/msu-researcher-earns-top-ranking-for-computer-science-electronics-work/"
-    type: article
-    provider:
-      name: Michigan State University
-      domain: msu.edu
-    quality: 24
-    images:
-      - url: "https://msutoday.msu.edu/_/img/assets/2016/2016-10-19-anil-jain-fingerprint-research-1.jpg"
-        width: 1024
-        height: 605
-        isCached: true
 
 secured: "lptttev/lS+8BWRarbpsh6f6LQ4dTMRSVBvX9pBe9S2lcMuO17cJ6frasIWylhgRyOLXZHE+9Zivb5tG0a5QKu8bt7gtsM86Q5x9JhRzl7t1ScJ1tvM0u5DLwiuM4AWt38P4o83wC5phaCcyFMbrZRR4Cvfx8Q1U8d6wzhDFlMqUqWafR+4zXg7jmLGL7z/ZjRYBc+ek30SlDHI2Yarvd8j0KHX0VoCDpjpAVn+n02kZzL4BhEcV+t12Dn1z24oBLSEWL6+fDbSSLITZ5m47vaWF5Drk/Wx8W13awB97FoCzgUa5FnAKDT0Z5FYzNc5y8cWeGzK7Pe7syUtFayAF/6swEkV756LyHS7qHDNl0v5YhPTHXLEW5uhCFUMbNIp7DP429IkPgd7+tk0+LnHG5iAVESALMfJ+e1k0Z+4A1a9/cMdIeFs8J8lL0u8pR1BbaOdr6ChheVjU61OZRoYvG0h2xlh3b1zqKRJ2p2ueOacZEs9gpnZHy46wm0+muyk8RmfHUQalXgfJSvvBgsY2SA==;CapdDoFTX0zotjnIeIev3w=="
 ---

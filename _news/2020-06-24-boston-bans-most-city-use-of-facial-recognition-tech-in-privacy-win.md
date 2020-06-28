@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/boston-bans-facial-recognition-technolo
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/boston-bans-facial-recognition-technology.amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     title: "Boston bans most city use of facial-recognition tech in privacy win"
 
 related:
-  - title: "Rose Bowl officials defend use of facial recognition program during the big game"
-    excerpt: "Recent media reports painted a dystopian picture of the Rose Bowl’s facial recognition programs used Jan. 1, but stadium officials say they got it wrong."
-    publishedDateTime: 2020-06-23T20:24:00Z
-    webUrl: "https://www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/"
-    ampWebUrl: "https://www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/06/23/rose-bowl-officials-defend-use-of-facial-recognition-program-during-the-big-game/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 54
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2020/06/Gallery43-1.jpg?w=1024&h=703"
-        width: 1024
-        height: 703
-        isCached: true
   - title: "UN Urges 'Moratorium' On Facial Recognition Tech Use In Protests"
     excerpt: "The UN human rights chief called Thursday for a \"moratorium\" on the use of facial recognition technology during peaceful protests, stressing that it could increase discrimination against people of African descent and other minorities."
     publishedDateTime: 2020-06-25T14:46:00Z

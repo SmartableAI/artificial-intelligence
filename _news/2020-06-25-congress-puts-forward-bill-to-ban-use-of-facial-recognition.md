@@ -107,17 +107,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Democratic lawmakers propose nationwide facial recognition ban"
-    excerpt: "Democrats in Congress proposed a law on Thursday that would ban federal investment in facial recognition technology as well as other types of surveillance."
-    publishedDateTime: 2020-06-25T18:28:00Z
-    webUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?itm_source=28&itm_content=2x4&itm_term=2356592"
-    ampWebUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 54
   - title: "Markey Signals Bill to Ban Government Use of Facial Recognition"
     excerpt: "Ed Markey (D-Mass.) will join with some of his colleagues to introduce legislation to ban government use of facial recognition and other biometric technology. The Facial Recognition and Biometric Technology Moratorium Act is in response to reports that law enforcement has been teaming up with tech companies as well as some of those companies' pledges to call their own moratorium on supplying it to law enforcement."
     publishedDateTime: 2020-06-25T18:00:00Z
