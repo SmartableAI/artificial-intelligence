@@ -2,7 +2,7 @@
 name: "FDNA"
 overview: "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient."
 type: "profile"
-heat: 6
+heat: 31
 
 website: https://www.fdna.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "FDNA"
   url: "https://twitter.com/FDNA"
-  followers: 6483
+  followers: 6484
 
 size: 11-50 employees
 yearFounded: 2011
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=qUDQnRMJOcw"
 
-secured: "KiSULSuiUBwnAohV+HfBJXoh4DVE6OVhpv9pCVIIiU2GfOTULC9LLUGUQ6053VGJY+FTLdqvpccUrrgy6Km+7vANANrELlHQQDzuwYt7+yxGDj/e7ITv19k4ThdlES293xFhMhnmqum/U5tEbNrZKPmlD6aFiDMMXR/Ngqsk7LblLG1iMb2OiCs7rm7cGMyKTgSEiPpidmByyOF88KSQJqCegsoiucAfBLLoUjWjMaqJs2jJNUDWzLzfZmdXEggY6VP151D8ZM2T6LdawQ598oGtvDGv7VtX4S6YZQpmoDbjPETmYE5R4TvdN1yubUwZ1EgC55BkDFYbWyKCCT/S3xAv1wX3M6vxc+be3X0zdtYmuC8WcZ5tCvidOSZ2v4a7;Cj0KRMU3mZx98z7rfvr3+Q=="
+secured: "5qo6l+az2aImUz+CHBoCEVuX8F6wlU5x+J+UqhfTWBByJqo0Nd2xLCxi4LCx9q7Ah/O3JOWx2vcvNr9v1xN1foQnXePUCtjmNEE78qMWoK7rFGuHJ2x2bsabFLPq6rd6E2SnWIyA0efiysTgU2dcsudei6ESHsl+M64lJfnxzK7OwHJHPdGOKIs4sWyU5Ubz/oFjUQ4PkKKwGXyLQeYlMZQOtBOuZOv0c+361inQMywiXNxt/Qq7RYaIkZkpXJL1NN6tZtFNSwL25ZQKV4H8px4a4rdDW/pqXXZoac89ypX+Biq+mpVDQr8b8ifCcNLN3po/s78kiRj2+Nwb1FSqZprsEZmJn3x4xkpMb+DBuJCjLvanz8F0LgJkTeDOHlGa;ulKc5L2XbST0ggSULWGUTw=="
 ---
 

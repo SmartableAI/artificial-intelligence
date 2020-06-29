@@ -2,7 +2,7 @@
 name: "Affectiva"
 overview: "Affectiva, an MIT Media Lab spin-off, is the pioneer in Emotion AI, the next frontier of artificial intelligence. Affectiva’s mission is to bring emotional intelligence to the digital world with our emotion recognition technology that senses and analyzes facial expressions and emotion. Our patented software is built on an emotion AI science platform that uses computer vision, deep learning and the world’s largest emotion data repository of more than 4.9 million faces analyzed from 75 countries, amounting to more than 50 billion emotion data points."
 type: "profile"
-heat: 82
+heat: 78
 
 website: https://www.affectiva.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "affectiva"
   url: "https://twitter.com/affectiva"
-  followers: 10819
+  followers: 10818
 
 size: 51-200 employees
 yearFounded: 2009
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "0JW0nQKUIS1PeKEsKSJoE5GW8yUKNwTjHWWB9b3tmSWs8ofbu/sP2NLjKV5ATB5b2VW3UuNc7uAiL3T9mYzh8zESt42FI+3YjSAaruMhNvN1BLsszO3BB6zMFIBEc5W4mWHnXrZHB7mXTgakE88IjU42itcNzOAO22RKhE8WbLMYn6PUI4NPecr/6iWI5fQ8eParfewr1Z0ANAY9SqeJPRfLEfYaAB/F9uQMlRJwv004goyRLjCf3xHSnylrAg5tfY2elyovZH2SNZzxtfpQT5koQxZrxNmNEanJnkAAEOFAn7+A8K/yhjPCrCW+6JgeeqApORuD8nLmV944Mn37rt9uM9BRLV4jESK4TyFRe9MZN+c8umlshs0AvwMtdEREZw8VY7nc19lAm3h6MFVPAA==;m82Ou0X/Kdes8WUoWv71nQ=="
+secured: "iDmnxUg3bVeSdDGOsXLcDOHQmQfoMFEeLeKo8uPfa/hyNmtdU7K49aJ3p9/RGWRnXg6rLtcLOLMgtCLjOUdtOVt8VnoQUe8Xvd4sGrN5pv6eCF+8jr5eNog/Ih82v0GZSuUDVck8MBl854L1vcj2FY8LuPFSrlhozzWEIyoAVR/nr8GxDdpxH4MKsXr6ELSW+QXTYAz1kVLOUKJd6qoOaeBzdyyrL/yL0I/h2nLnFTaeZ4ymE35HsGQruRBqsjQXzAlgCb2qxe6EpF0WdTlKf3Lak9bdIhCcO+96YkPkMCF8GlS1ZQ2eOpwDmG8yCsVPFnV4kvj+ABLTCP3J/8M8ELt3INC8HPgaHRN+6NmiNAR1ebRnraPNmx6UcUKPlLHEj6ZHJ6C7MCiq0MccNuFHVQ==;1Dq0urRVNw1NenMJtW/m6A=="
 ---
 
