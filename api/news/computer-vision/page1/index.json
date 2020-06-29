@@ -6,7 +6,7 @@
       "title": "Facial recognition leads to first wrongful U.S. arrest, activists say",
       "excerpt": "Robert Williams spent over a day in custody in January after face recognition software matched his driver’s license photo to surveillance video of someone shoplifting.",
       "webUrl": "https://www.nbcnews.com/tech/security/facial-recognition-leads-first-wrongful-u-s-arrests-activists-say-n1231971",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -44,7 +44,7 @@
       "title": "Members of Congress push to ban federal use of face recognition",
       "excerpt": "A group of Democratic Senators and House representatives have introduced a bill that seeks to ban federal use of facial recognition technology. It follows an incident in which Detroit police wrongfully arrested a man after a facial recognition system incorrectly flagged him as a suspect.",
       "webUrl": "https://www.engadget.com/facial-recognition-ban-bill-democrats-182006734.html",
-      "heat": 261,
+      "heat": 251,
       "tags": null,
       "images": [
         {
@@ -88,33 +88,33 @@
       ]
     },
     {
-      "path": "_news/2020-06-25-a-black-man-in-detroit-was-arrested-and-detained-for-30-hours-after-being-falsely-identified-by-facial-recognition.md",
-      "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
-      "excerpt": "Activists have objected to the use of facial recognition by law enforcement for years, as the technology has been shown to display racial bias.",
-      "webUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6",
-      "heat": 82,
+      "path": "_news/2020-06-25-detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation.md",
+      "title": "Detroit’s fight over policing and facial recognition is a microcosm of the nation",
+      "excerpt": "Everything you need to know about policing and facial recognition is happening right now in Detroit, where the scales are tipping.",
+      "webUrl": "https://venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/",
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5d9b1756138e4a2e893e4931?width=1200&format=jpeg",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/black-lives-matter-protest-detroit.jpg?w=1200&#038;strip=all",
           "width": 1200,
-          "height": 600,
-          "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
+          "height": 605,
+          "title": "Detroit’s fight over policing and facial recognition is a microcosm of the nation",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
-      "publishedDateTime": "2020-06-25T02:38:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/amp/",
+      "publishedDateTime": "2020-06-25T13:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -139,7 +139,7 @@
       "title": "A Flawed Facial Recognition System Sent This Man to Jail",
       "excerpt": "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used.",
       "webUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/",
-      "heat": 364,
+      "heat": 354,
       "tags": null,
       "images": [
         {

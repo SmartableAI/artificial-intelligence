@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-25T09:26:00Z
 webUrl: "https://www.nature.com/articles/s41598-020-67228-7"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     height: 685
     isCached: true
     title: "Analyzing trend and forecasting of rainfall changes in India using non-parametrical and machine learning approaches"
-
-related:
-  - title: "Video: Using deep learning to combat cheating in Counter-Strike"
-    excerpt: "In this GDC 2018 talk Valve's John McDonald discusses how the company has utilized deep learning machine learning techniques to combat cheating in Counter-Strike: Global Offensive ."
-    publishedDateTime: 2020-06-24T19:08:00Z
-    webUrl: "https://gamasutra.com/view/news/365410/Video_Using_deep_learning_to_combat_cheating_in_CounterStrike.php"
-    type: article
-    provider:
-      name: Gamasutra
-      domain: gamasutra.com
-    quality: 39
-    images:
-      - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/992467.jpg"
-        width: 467
-        height: 483
-        isCached: true
-  - title: "Uncovering the effects of interface-induced ordering of liquid on crystal growth using machine learning"
-    excerpt: "Considerably less is known about the role of the liquid structure on the kinetics of crystal growth. Here atomistic simulations and machine learning methods are employed together to demonstrate that the liquid adjacent to solid-liquid interfaces presents ..."
-    publishedDateTime: 2020-06-26T09:10:00Z
-    webUrl: "https://www.nature.com/articles/s41467-020-16892-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 23
-    images:
-      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-16892-4/MediaObjects/41467_2020_16892_Fig3_HTML.png"
-        width: 685
-        height: 240
-        isCached: true
 
 secured: "pB08g45i7Uwf5+U0ZtPMSnuj3zyAylx1jmdOKJF3aTNvDqQYdQfXRmbdj8DFsNyta07SoRUwEBkbgt3+Cjv5QTUj7ZRkHFBVETKMIfZEUMY/1SQcc0+J08b/FH1jW5dy7cXsrlJvr6CUn10mBgPV3M7MX9AlDNHEnEaez2K6fvVqrSAT0MpqTE568epHZKJktvoLHIVN7tupKNziIAIZog8gfrqMC87T8jU9Aa1nmcp2G4ExOMblqX/ejSprBccz5nNsgEQ/OmgGvPqtgjGKc/S59GDKXRYU1k206ZhNMWNHwonwztdwXPuUUWYnTZ6AX+RZ0YnmLqRUC+3SeUDaGkfNl2zSAVXvkdZoG9D4DD5raqIoJQe2IeC6HRrlilap5Vajbot/IhetioGNZCyboys3fCh7/IQUgN7SVTlrfiB2aCG9O1ko1AR50uNK8qvHGakqYK6hctMLnEvgc5xLvDZf4dnwu7rDBf58UtQT63EaFwTTwH5JaUaahn3mll8FmVEJcSylKXH8ZQWJbWCkOw==;X4cpWkFyQYDGEutj1N9LAQ=="
 ---

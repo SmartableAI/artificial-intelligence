@@ -216,20 +216,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Boston becomes the biggest East Coast city to ban face recognition"
-    excerpt: "The Boston Police Department already doesn’t use the technology, and it’s now forbidden from getting facial data from third parties."
-    publishedDateTime: 2020-06-24T20:24:00Z
-    webUrl: "https://www.fastcompany.com/90520805/boston-becomes-the-biggest-east-coast-city-to-ban-face-recognition"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-banned-in-boston-city-disallows-public-use-of-face-recognition.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Boston City Council bans use of facial recognition technology"
     excerpt: "Lawmakers in Boston have outlawed the use of facial recognition software by city officials. In a unanimous vote on Wednesday, Boston's City Council passed the ordinance, which will make it illegal for officials in the Massachusetts capital to \"obtain,"
     publishedDateTime: 2020-06-24T23:01:00Z

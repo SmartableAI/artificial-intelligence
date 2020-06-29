@@ -24,6 +24,22 @@ images:
     isCached: true
     title: "Dotmatics Acquires BioBright to Accelerate Laboratory Data Automation for the Lab of the Future"
 
+related:
+  - title: "cnvrg.io Collaborates With Red Hat to Deliver an Accelerated Production ML Workflow With MLOps on Red Hat OpenShift for the AI Enterprise"
+    excerpt: "PRNewswire/ -- cnvrg.io, the data science platform simplifying model management and introducing advanced MLOps to the industry, today announced"
+    publishedDateTime: 2020-06-29T13:12:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise-301084968.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
+    images:
+      - url: "https://mma.prnewswire.com/media/1160338/cnvrg_io_Logo.jpg?p=facebook"
+        width: 796
+        height: 419
+        isCached: true
+
 secured: "V51rxEEYJJSoz00oS211mZRdBzBXr3X/NBQwo/NhfEwfgJDKbnoQOBcct7te+ScYHMPPYsWdJgsfy0Eyqq3azG9BAboRMpwb450wgUXEZKysASFqxTdSSlcEyCB19xeIwqE9+Za2oYXyvynMMTZLt9r6sgsvr7zSFzbdoBy8Uiui4kOikB8Pjq/8F+y7TsotJRcvsMbkmWXgwMCyU7GimM9hdxbLS8adSjlD498GDNHKyugd7PP1LEaW5v4UKIF+eEGgAUPQ0ZFyZh5fA5JLiRV+xOpeGd3UZfdatFqr0meM/+UQ2Pbc5V/hiHwpPkyjgXe+OjfL+2cfD+SXAaKtWg==;D4PbiuyJ/ZYjAlYkpxzSLA=="
 ---
 

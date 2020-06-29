@@ -35,6 +35,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 18
+  - title: "AI in Drug Discovery Market: North America Projected to Grow by 29.5% Annually till 2026, Despite the Impact of COVID-19"
+    excerpt: "The \"North America Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 by Offering, Technology, Drug"
+    publishedDateTime: 2020-06-29T13:04:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/06/g16427735/ai-in-drug-discovery-market-north-america-projected-to-grow-by-29-5-annually-till-2026-despite-the"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16427735"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16427735"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
   - title: "Digital Transformation in Asia-Pacific: 5G, Artificial Intelligence, Internet of Things and Smart Cities 2020-2025 - ResearchAndMarkets.com"
     excerpt: "The \"Digital Transformation Asia Pacific: 5G, Artificial Intelligence, Internet of Things, and Smart Cities in APAC 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. From predicting what will happen with 5G technology in the next few years to identifying how 5G will transform business,"
     publishedDateTime: 2020-06-26T11:18:00Z

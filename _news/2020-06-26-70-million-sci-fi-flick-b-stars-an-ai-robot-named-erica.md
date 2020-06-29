@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-st
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-stars-ai.html"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/640/320/Erica-The-Robot.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "World's First AI Robot Movie Star Gets Cast In $70 Million Sci-Fi Film"
-    excerpt: "It was perhaps inevitable that we'd eventually get an AI movie star, and it seems that day is here. It's been reported that a new sci-fi movie is in development, and it's set to star an AI robot named Erica."
-    publishedDateTime: 2020-06-24T20:29:00Z
-    webUrl: "https://www.gamespot.com/articles/worlds-first-ai-robot-movie-star-gets-cast-in-70-m/1100-6478953/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/worlds-first-ai-robot-movie-star-gets-cast-in-70-m/1100-6478953/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/worlds-first-ai-robot-movie-star-gets-cast-in-70-m/1100-6478953/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 74
-    images:
-      - url: "https://gamespot1.cbsistatic.com/uploads/original/1557/15576725/3690829-erica.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "This AI Robot Just Nabbed the Lead Role in a Sci-Fi Movie"
     excerpt: "For the first time ever, an AI robot will star in a feature film, per The Hollywood Reporter. A humanoid actress named Erica will appear in b, a sci-fi flick that eerily mirrors the android's own origin story."

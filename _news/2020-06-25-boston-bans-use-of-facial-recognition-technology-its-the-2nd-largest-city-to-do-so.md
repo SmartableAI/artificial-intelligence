@@ -27,6 +27,22 @@ images:
     title: "Boston Bans Use Of Facial Recognition Technology. It's The 2nd-Largest City To Do So"
 
 related:
+  - title: "Boston bans police from using facial recognition technology"
+    excerpt: "Boston has banned police from using facial recognition technology, becoming the second-largest U.S. community to do so."
+    publishedDateTime: 2020-06-24T22:10:00Z
+    webUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology"
+    ampWebUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 74
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/facial-recognition-iStock.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Let's Kill Facial Recognition For Good"
     excerpt: "Those emails mention all three classes of surveillance covered in today’s bill—pattern, facial, and voice recognition—as being available for the DEA to use at its discretion. “Facial recognition technology doesn’t just pose a grave threat to our ..."
     publishedDateTime: 2020-06-26T11:00:00Z
@@ -43,22 +59,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Facial-Recognition Tools Banned for Boston Police"
-    excerpt: "The Boston City Council voted unanimously Wednesday to prohibit police from using facial-recognition technology, becoming the largest city in the country to do so after San Francisco."
-    publishedDateTime: 2020-06-24T20:56:00Z
-    webUrl: "https://www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
-    ampWebUrl: "https://www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
-    cdnAmpWebUrl: "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/facial-recognition-tools-banned-for-boston-police/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 44
-    images:
-      - url: "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2019/06/facial-recognition-graphic.png?fit=1240%2C1021&#038;ssl=1"
-        width: 1240
-        height: 1021
-        isCached: true
   - title: "Let’s Kill Facial Recognition For Good"
     excerpt: "There’s a buffet of things to be scared shitless about these days, but for those who have sampled even a taste of big tech’s eagerness to build and sell facial recognition surveillance software to law enforcement,"
     publishedDateTime: 2020-06-25T21:00:00Z
@@ -74,20 +74,6 @@ related:
       - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/06/26/nvw4abg7rvdyxyeklgsr.jpg"
         width: 1021
         height: 573
-        isCached: true
-  - title: "Why the racism in facial recognition software probably can’t be fixed"
-    excerpt: "It’s been proven that facial recognition software isn’t good at accurately identifying people of color. It’s also known that police departments around the country use facial recognition tools to identify suspects and make arrests."
-    publishedDateTime: 2020-06-29T10:05:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/facial-recognition-software-racism-people-of-color-wrongful-arrests-algorithmic-bias/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 41
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2020/06/fr-ft-img.jpg?w=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "The City Of Boston Will Be Banning The Use Of Facial Recognition Based Surveillance"
     excerpt: "While some parts of the world, facial recognition based surveillance is being adopted, there are some part of the world where the technology is"

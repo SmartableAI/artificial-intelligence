@@ -26,38 +26,6 @@ images:
     title: "Panasonic’s new vlogging camera uses facial recognition tracking to isolate the sound of your voice"
 
 related:
-  - title: "Boston Bans Police Forces From Using Facial Recognition"
-    excerpt: "It’s official, as of today, Boston’s become the second-largest US community to ban police use of facial recognition technology, thanks to a unanimous vote by more than a dozen city council people. The move follows similar bans by the neighboring cities Brookline,"
-    publishedDateTime: 2020-06-24T19:02:00Z
-    webUrl: "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524"
-    ampWebUrl: "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/vedoqaujncze30yfosyq.jpg"
-        width: 800
-        height: 451
-        isCached: true
-  - title: "Detroit police admit to first facial recognition mistake after false arrest"
-    excerpt: "Police in Detroit have admitted that they mistakenly arrested a Black man because of facial recognition software they were using."
-    publishedDateTime: 2020-06-25T12:44:00Z
-    webUrl: "https://www.techrepublic.com/article/detroit-police-admit-to-first-facial-recognition-mistake-after-false-arrest/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/detroit-police-admit-to-first-facial-recognition-mistake-after-false-arrest/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/detroit-police-admit-to-first-facial-recognition-mistake-after-false-arrest/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2020/06/25/42043e15-6892-4dd7-a76e-9b9907fa692f/resize/1200x/5870a86fa7da001a2c9e24b01f3605f8/istock-962263142.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Detroit’s fight over policing and facial recognition is a microcosm of the nation"
     excerpt: "Everything you need to know about policing and facial recognition is happening right now in Detroit, where the scales are tipping."
     publishedDateTime: 2020-06-25T20:10:00Z
@@ -90,37 +58,21 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Boston bans most city use of facial-recognition tech in privacy win"
-    excerpt: "Boston joins cities like San Francisco in banning the official use of facial-recognition tech after the unanimous vote."
-    publishedDateTime: 2020-06-24T19:27:00Z
-    webUrl: "https://mashable.com/article/boston-bans-facial-recognition-technology/"
-    ampWebUrl: "https://mashable.com/article/boston-bans-facial-recognition-technology.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/boston-bans-facial-recognition-technology.amp"
+  - title: "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition"
+    excerpt: "Activists have objected to the use of facial recognition by law enforcement for years, as the technology has been shown to display racial bias."
+    publishedDateTime: 2020-06-25T09:38:00Z
+    webUrl: "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
     images:
-      - url: "https://mondrian.mashable.com/2020%252F06%252F24%252Fe6%252F48e216407ae64ae58a33a0d81cb9c1c5.28a23.jpg%252F1200x630.jpg?signature=9ioxsUaZTvrqoZR7r_dKNqdQDRU="
+      - url: "https://i.insider.com/5d9b1756138e4a2e893e4931?width=1200&format=jpeg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Boston bans police from using facial recognition technology"
-    excerpt: "Boston has banned police from using facial recognition technology, becoming the second-largest U.S. community to do so."
-    publishedDateTime: 2020-06-24T22:10:00Z
-    webUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology"
-    ampWebUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 74
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/facial-recognition-iStock.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+        height: 600
         isCached: true
   - title: "IBM quits facial recognition, joins call for police reforms"
     excerpt: "IBM is getting out of the facial recognition business, saying it's concerned about how the technology can be used for mass surveillance and racial profiling. Ongoing protests responding to the death of George Floyd have sparked a broader reckoning"
@@ -135,20 +87,6 @@ related:
       - url: "https://static.seattletimes.com/wp-content/uploads/2019/12/12192019_facialRecStudy_tzr_tzr_131656-780x501.jpg"
         width: 780
         height: 501
-        isCached: true
-  - title: "UN Urges 'Moratorium' On Facial Recognition Tech Use In Protests"
-    excerpt: "The UN human rights chief called Thursday for a \"moratorium\" on the use of facial recognition technology during peaceful protests, stressing that it could increase discrimination against people of African descent and other minorities."
-    publishedDateTime: 2020-06-25T14:46:00Z
-    webUrl: "https://www.ibtimes.com/un-urges-moratorium-facial-recognition-tech-use-protests-3000619"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/25/as-protests-about-police-violence-and-racism-spread.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Facial-recognition backlash brews after fury over police conduct"
     excerpt: "Now, some of those lawmakers are drafting new legislation to curtail the use of facial-recognition by police departments and government agencies. They’re looking to harness the public outrage over police misconduct and racial inequities,"

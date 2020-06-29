@@ -59,17 +59,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Artificial intelligence classifies colorectal cancer using infrared imaging"
-    excerpt: "A research team from the Prodi Centre for Protein Diagnostics at Ruhr-Universität Bochum (RUB) has used infrared (IR) microscopes based on quantum cascade lasers to classify tissue samples of colorectal cancer from routine clinical operations in a marker-free and automated way."
-    publishedDateTime: 2020-06-24T20:00:00Z
-    webUrl: "https://medicalxpress.com/news/2020-06-artificial-intelligence-colorectal-cancer-infrared.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-06-artificial-intelligence-colorectal-cancer-infrared.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-06-artificial-intelligence-colorectal-cancer-infrared.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 37
 
 secured: "sr3rP8dsOLMsOsQ7r1GqxAGsP9zYQR5ErkFI7bOSjQYs8iXXN8DnJp6vOyrPml6CQRyakSVLqbkAVeuuNF3VFkC1mw7Zp9SeaEs/YgO0OYPbQOvA8PCsqQSF2zkA7P3ZTssk8ia4I3ttCbG8Pzc0WNL0o4MHegGncp1DJKd3h0uKB8JLEjfLSnW3EWAiT0wzGX2IJl8bbpqFpbiFuSM4Zv34ND8eBUQBdY45eacFWB77Vlv0bSY/D1/ixmCcZPuKtUPEFp1LC5Y2OwDgzO9wEMON0PpWYm4/PScdgVl4bo/i+N+PX/HgChx4qZOu/AzPUxFXJzacHGdGRbxvkVmy3OU6h/Gyou2Uv7BkCCl+Q3KFMKMJq7XFyv00W7k42DoMIZ+Db8EdXqwZ/DOgdTvQEgWe6alZ2nMsrrsFiO/hEkcfj83TXEkMTGhzQviW/+F//iQcOlbgNTqcbGpzGRjFLk6IrT/OEGAVAk1YgGb6UutQPUuZMSJPAwBkkYoUaExYzdS9j7a/D/9u93WoCSO/mw==;01kUFzKjNhRFFRhMv2BJVg=="
 ---

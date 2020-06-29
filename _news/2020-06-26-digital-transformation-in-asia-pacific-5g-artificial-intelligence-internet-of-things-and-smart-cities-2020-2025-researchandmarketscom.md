@@ -49,6 +49,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 18
+  - title: "AI in Drug Discovery Market: North America Projected to Grow by 29.5% Annually till 2026, Despite the Impact of COVID-19"
+    excerpt: "The \"North America Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 by Offering, Technology, Drug"
+    publishedDateTime: 2020-06-29T13:04:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/06/g16427735/ai-in-drug-discovery-market-north-america-projected-to-grow-by-29-5-annually-till-2026-despite-the"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16427735"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16427735"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
 
 secured: "yjWxmL4DgMR0QyovtdiifEO+A/Po9AlUkxTtcy1kkxX25Y61b/+kPDxipPF+gQEvEgQX3Khqqjb/6zBM/PQ6Dba7FTdbbSJ2SRCnK+ujIjRX+LHplwYj9IYCDOqM1S4GfEHdNx3dRFKcwRc5zTs++Fl6ospqHI0iBim9Y7avfnWw00IzSxjCUwyRp+y4VdY75p6BP2+InkT9aRU91rFK7MpPy1Gd38InXVkYURaaIvPnHAKN21ehZRZIPDBKR3oitm0KgB7Xt0EXNgr9WHWOoJSEhmMxoDS0u7MWBUiD00qCYGrhy9IXrM6XxQCdGHNWLwuc1XeqEBFd8p1TO7NLiI3skgPQr2Oqc60bSc7VsEo2IOyH2meTaxUiB2aXfJLqJb2k9nTAp+ztoSq2AoGU1gHUo9YOq+JmWU83FJoHWGJrv8PuJLWtZuq/4LnkgFAVwZs1C6Xlc48EAyNfGvw6/EXaco3zQXI+REpcm3NIX/BF5g3pAjGpGWrI6XvF7bPgg6ZjRExXs8bh80wUX5eATA==;2RtM5vg5JuUNQrBQQbHB0g=="
 ---

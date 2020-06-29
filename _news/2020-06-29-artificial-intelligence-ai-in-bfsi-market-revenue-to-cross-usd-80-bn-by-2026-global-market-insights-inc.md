@@ -5,8 +5,8 @@ excerpt: "Insider Inc. and finanzen.net GmbH All rights reserved. Registration o
 publishedDateTime: 2020-06-29T11:34:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-ai-in-bfsi-market-revenue-to-cross-usd-80-bn-by-2026-global-market-insights-inc-1029349376"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
 secured: "zxPm94ojZUoW+22qtEjTpmKGGXarnobmOY2qY8Hxg6Uox9dk7EwbKxvHVo2MXNU7mVdNBTSXnodwKUYmCg7e9oG6VrFAUBTKBTU+ZELtFB8s1Vrc8dQytJLzK/LQiJ4zXzs3XpWde3sgApIW0z5PbpK3SmCkqaTIteenYX8vf56+vaXaR/8E6IUK+01mhJn+WZI3AvNcSEN+S3NSXIXCIdle5YI9hBXHWxUo6Y0fKLpFdGPvNd/9KJ8f+fEWHtzyv9Noy6aVuAkpAItY7V/iujIpfg6oohmQSYAt9qKhbK8D36iLuFYnjlhnzofqgygQDJc1g6Mn3awi3IyJYpwZQg==;s5xRJscw7J2XDm/mKwH4Gg=="
 ---

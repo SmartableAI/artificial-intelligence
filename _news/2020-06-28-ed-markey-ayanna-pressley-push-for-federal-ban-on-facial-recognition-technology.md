@@ -108,54 +108,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Boston bans facial recognition due to concern about racial bias"
-    excerpt: "The Boston City Council voted unanimously to ban facial recognition use by city officials, making it one of the largest cities in the world to ban the tech."
-    publishedDateTime: 2020-06-24T20:25:00Z
-    webUrl: "https://venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/"
-    ampWebUrl: "https://venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/boston-bans-facial-recognition-due-to-concern-about-racial-bias/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/todd-kent-iRKv_XiN-M-unsplash.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Boston bans police and city use of facial recognition software"
-    excerpt: "Following the wrongful arrest of Robert Williams, Boston has become the second-largest city in the US to ban the use of facial recognition software."
-    publishedDateTime: 2020-06-24T20:42:00Z
-    webUrl: "https://www.engadget.com/boston-bans-facial-recognition-193303141.html"
-    ampWebUrl: "https://www.engadget.com/amp/boston-bans-facial-recognition-193303141.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/boston-bans-facial-recognition-193303141.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2Ff2e045f0-b64e-11ea-abf7-4e8e44ceb97c&client=amp-blogside-v2&signature=774879a54502119225b3a463abaf2b721e0dbf44"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Facial Recognition Leads Detroit Police to Arrest the Wrong Man"
-    excerpt: "The ACLU demands that Detroit police stop using facial recognition as an investigation tool, citing the January arrest of Robert Williams, a black man wrongly accused of robbery thanks to flawed facial-recognition data."
-    publishedDateTime: 2020-06-24T20:45:00Z
-    webUrl: "https://www.pcmag.com/news/facial-recognition-leads-detroit-police-to-arrest-the-wrong-man"
-    ampWebUrl: "https://www.pcmag.com/news/facial-recognition-leads-detroit-police-to-arrest-the-wrong-man?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-leads-detroit-police-to-arrest-the-wrong-man?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 89
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/043vmlbrYOJ74sZENXugFkd-1.fit_lim.size_1200x630.v_1593028995.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Congress needs to pass this facial recognition ban now"
     excerpt: "Earlier this year, for the first time (that we know of), a false match by a facial recognition algorithm led to the arrest of an innocent man. Now, members of Congress are finally"
     publishedDateTime: 2020-06-25T22:20:00Z
@@ -203,6 +155,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Fb72763a0-c01c-11e9-befb-17263ab358ba&client=amp-blogside-v2&signature=38dee4b3efbeac7f4000006b08effbd870812c8c"
         width: 600
         height: 350
+        isCached: true
+  - title: "São Paulo subway facial recognition system slammed over user data security and privacy"
+    excerpt: "A new surveillance system is deemed \"inefficient and dangerous\" as it fails to protect the personal information of 4 million daily users, associations say."
+    publishedDateTime: 2020-06-29T12:02:00Z
+    webUrl: "https://www.zdnet.com/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/24/e8481169-ff9b-466b-8e43-10b2b93dae57/thumbnail/1200x675/e7e0863bd1d561f06a8a84b6febb0d56/whats.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "2 Democratic senators to propose ban on use of facial recognition by federal law enforcement"
     excerpt: "The bill would also make federal funding for state and local law enforcement contingent on the enactment of similar bans."
@@ -360,11 +328,27 @@ related:
     provider:
       name: Democracy Now
       domain: democracynow.org
-    quality: 43
+    quality: 45
     images:
       - url: "https://www.democracynow.org/images/story/69/53269/full_hd/seg2-surveillance-camera.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Facial-Recognition Tech Might Be the Real Reason to Buy Remark Stock"
+    excerpt: "Remark's technology has many valuable applications and has been validated. As a result, investors should buy MARK stock."
+    publishedDateTime: 2020-06-29T12:10:00Z
+    webUrl: "https://investorplace.com/2020/06/facial-recognition-tech-reason-buy-mark-stock/"
+    ampWebUrl: "https://investorplace.com/2020/06/facial-recognition-tech-reason-buy-mark-stock/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/facial-recognition-tech-reason-buy-mark-stock/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 44
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2020/06/facial-recognition.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Detroit Clears Record of Man Targeted by Facial Recognition"
     excerpt: "Detroit police are working to expunge the criminal record of a man who was wrongfully targeted by facial recognition technology. He was arrested without explanation and released because the software made a mistake."

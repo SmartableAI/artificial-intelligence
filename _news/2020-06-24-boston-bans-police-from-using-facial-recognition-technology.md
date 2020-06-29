@@ -8,8 +8,8 @@ ampWebUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: Fox News
@@ -31,139 +31,102 @@ images:
     title: "Boston bans police from using facial recognition technology"
 
 related:
-  - title: "Boston Bans Police Forces From Using Facial Recognition"
-    excerpt: "It’s official, as of today, Boston’s become the second-largest US community to ban police use of facial recognition technology, thanks to a unanimous vote by more than a dozen city council people. The move follows similar bans by the neighboring cities Brookline,"
-    publishedDateTime: 2020-06-24T19:02:00Z
-    webUrl: "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524"
-    ampWebUrl: "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp"
+  - title: "Let's Kill Facial Recognition For Good"
+    excerpt: "Those emails mention all three classes of surveillance covered in today’s bill—pattern, facial, and voice recognition—as being available for the DEA to use at its discretion. “Facial recognition technology doesn’t just pose a grave threat to our ..."
+    publishedDateTime: 2020-06-26T11:00:00Z
+    webUrl: "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367"
+    ampWebUrl: "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp"
+    cdnAmpWebUrl: "https://paleofuture-gizmodo-com.cdn.ampproject.org/c/s/paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp"
     type: article
     provider:
-      name: Gizmodo
+      name: paleofuture.gizmodo
       domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/vedoqaujncze30yfosyq.jpg"
-        width: 800
-        height: 451
-        isCached: true
-  - title: "Detroit police admit to first facial recognition mistake after false arrest"
-    excerpt: "Police in Detroit have admitted that they mistakenly arrested a Black man because of facial recognition software they were using."
-    publishedDateTime: 2020-06-25T12:44:00Z
-    webUrl: "https://www.techrepublic.com/article/detroit-police-admit-to-first-facial-recognition-mistake-after-false-arrest/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/detroit-police-admit-to-first-facial-recognition-mistake-after-false-arrest/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/detroit-police-admit-to-first-facial-recognition-mistake-after-false-arrest/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2020/06/25/42043e15-6892-4dd7-a76e-9b9907fa692f/resize/1200x/5870a86fa7da001a2c9e24b01f3605f8/istock-962263142.jpg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Detroit’s fight over policing and facial recognition is a microcosm of the nation"
-    excerpt: "Everything you need to know about policing and facial recognition is happening right now in Detroit, where the scales are tipping."
-    publishedDateTime: 2020-06-25T20:10:00Z
-    webUrl: "https://venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/"
-    ampWebUrl: "https://venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/black-lives-matter-protest-detroit.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 605
-        isCached: true
-  - title: "Democrats and civil liberties groups back law banning facial recognition across the US"
-    excerpt: "New legislation that would ban police use of facial recognition software across the US has been backed by civil liberties groups -- but not Big Tech."
-    publishedDateTime: 2020-06-26T12:46:00Z
-    webUrl: "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 83
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-85-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "Boston bans most city use of facial-recognition tech in privacy win"
-    excerpt: "Boston joins cities like San Francisco in banning the official use of facial-recognition tech after the unanimous vote."
-    publishedDateTime: 2020-06-24T19:27:00Z
-    webUrl: "https://mashable.com/article/boston-bans-facial-recognition-technology/"
-    ampWebUrl: "https://mashable.com/article/boston-bans-facial-recognition-technology.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/boston-bans-facial-recognition-technology.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
     quality: 74
     images:
-      - url: "https://mondrian.mashable.com/2020%252F06%252F24%252Fe6%252F48e216407ae64ae58a33a0d81cb9c1c5.28a23.jpg%252F1200x630.jpg?signature=9ioxsUaZTvrqoZR7r_dKNqdQDRU="
-        width: 1200
-        height: 630
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nvw4abg7rvdyxyeklgsr.jpg"
+        width: 800
+        height: 449
         isCached: true
-  - title: "IBM quits facial recognition, joins call for police reforms"
-    excerpt: "IBM is getting out of the facial recognition business, saying it's concerned about how the technology can be used for mass surveillance and racial profiling. Ongoing protests responding to the death of George Floyd have sparked a broader reckoning"
-    publishedDateTime: 2020-06-25T01:22:00Z
-    webUrl: "https://www.seattletimes.com/business/ibm-quits-facial-recognition-joins-call-for-police-reforms/"
+  - title: "Let’s Kill Facial Recognition For Good"
+    excerpt: "There’s a buffet of things to be scared shitless about these days, but for those who have sampled even a taste of big tech’s eagerness to build and sell facial recognition surveillance software to law enforcement,"
+    publishedDateTime: 2020-06-25T21:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/06/lets-kill-facial-recognition-for-good/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/06/lets-kill-facial-recognition-for-good/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/06/lets-kill-facial-recognition-for-good/amp/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 44
     images:
-      - url: "https://static.seattletimes.com/wp-content/uploads/2019/12/12192019_facialRecStudy_tzr_tzr_131656-780x501.jpg"
-        width: 780
-        height: 501
+      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/06/26/nvw4abg7rvdyxyeklgsr.jpg"
+        width: 1021
+        height: 573
         isCached: true
-  - title: "UN Urges 'Moratorium' On Facial Recognition Tech Use In Protests"
-    excerpt: "The UN human rights chief called Thursday for a \"moratorium\" on the use of facial recognition technology during peaceful protests, stressing that it could increase discrimination against people of African descent and other minorities."
-    publishedDateTime: 2020-06-25T14:46:00Z
-    webUrl: "https://www.ibtimes.com/un-urges-moratorium-facial-recognition-tech-use-protests-3000619"
+  - title: "The City Of Boston Will Be Banning The Use Of Facial Recognition Based Surveillance"
+    excerpt: "While some parts of the world, facial recognition based surveillance is being adopted, there are some part of the world where the technology is"
+    publishedDateTime: 2020-06-24T23:48:00Z
+    webUrl: "https://www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/"
+    ampWebUrl: "https://www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 38
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/25/as-protests-about-police-violence-and-racism-spread.jpg"
-        width: 1024
-        height: 682
+      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2018/04/security-camera.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Panasonic’s new vlogging camera uses facial recognition tracking to isolate the sound of your voice"
-    excerpt: "When shooting in 4K, however, the camera can’t utilize the entire sensor. Instead, it shoots from a smaller cropped area in the center. This makes lenses appear more zoomed-in than they would if they were using the whole sensor."
-    publishedDateTime: 2020-06-25T19:55:00Z
-    webUrl: "https://www.popsci.com/story/technology/vlogging-cameras-panasonic-g100/"
+  - title: "Boston Bans Use Of Facial Recognition Technology. It's The 2nd-Largest City To Do So"
+    excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."
+    publishedDateTime: 2020-06-25T10:31:00Z
+    webUrl: "https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
+    ampWebUrl: "https://amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 27
+      name: WBUR
+      domain: wbur.org
+    quality: 37
     images:
-      - url: "https://www.popsci.com/resizer/x4pD98Ruq8aNyMPOG-HLszF6EiU=/1200x628/smart/cloudfront-us-east-1.images.arcpublishing.com/bonnier/RWEO3SZBSBHPBD57FA2LWWNUX4.jpg"
-        width: 1200
-        height: 628
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2020/06/GettyImages-1199025045.jpg"
+        width: 3000
+        height: 2000
         isCached: true
-  - title: "Facial-recognition backlash brews after fury over police conduct"
-    excerpt: "Now, some of those lawmakers are drafting new legislation to curtail the use of facial-recognition by police departments and government agencies. They’re looking to harness the public outrage over police misconduct and racial inequities,"
-    publishedDateTime: 2020-06-28T20:01:00Z
-    webUrl: "https://www.seattletimes.com/business/facial-recognition-backlash-brews-after-fury-over-police-conduct/"
-    ampWebUrl: "https://www.seattletimes.com/business/facial-recognition-backlash-brews-after-fury-over-police-conduct/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facial-recognition-backlash-brews-after-fury-over-police-conduct/?amp=1"
+  - title: "Ed Markey and Ayanna Pressley are proposing a federal ban on facial recognition technology"
+    excerpt: "A day after the Boston City Council passed an ordinance to ban the city from using facial recognition technology, Sen. Ed Markey and Rep. Ayanna Pressley are pushing to do the same at the national level."
+    publishedDateTime: 2020-06-25T21:16:00Z
+    webUrl: "https://www.boston.com/news/politics/2020/06/25/markey-pressley-federal-ban-facial-recognition-technology"
+    ampWebUrl: "https://www.boston.com/news/politics/2020/06/25/markey-pressley-federal-ban-facial-recognition-technology/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2020/06/25/markey-pressley-federal-ban-facial-recognition-technology/amp"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
+      name: Boston.com
+      domain: boston.com
+    quality: 34
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2020/06/Racial_Injustice-Facial_Recognition-Boston_52737-850x478.jpg"
+        width: 850
+        height: 478
+        isCached: true
+  - title: "Boston becomes the second largest city in the US to ban facial recognition software, citing concerns that the technology is 'racially discriminatory' and threatens basic rights"
+    excerpt: "Boston will become the second major city in the US to ban facial recognition software for government use after a unanimous city council vote, citing concerns of racial bias."
+    publishedDateTime: 2020-06-27T01:21:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8464719/Boston-second-largest-city-ban-facial-recognition-software.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-second-largest-city-ban-facial-recognition-software.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-second-largest-city-ban-facial-recognition-software.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/06/27/00/30104344-0-image-a-10_1593215913669.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "nki42bGBuLEFRvGrHxF77ediOVAGsu32Vc8iP7ngUn4ViEBxqOVcJVS9yVYIDtwao9A0H/kf3RGNjQCLm6flwukXH+gCXTzU+A+p4v+tfPacF9HMqXU6Tz4bZjwhGdGMTIJ5BO21JMEbsY9KcIj27HxdTP1al5n/CU5uz5E4y5xhQX0v319V0o7t7C8dhBGt1vi6dmyrIbgskcP2+RWrGGZcSvlK71mvdpTYDmDZagmaJdha/SkzoiZPOsI0jNZIHztWuDtpqZxt72hW3Tf1eox+0aGm+pmHpyj/c3Ms5ghRAcRpyYIjt3FL12uVad3VI9f8KMsaf1r9g87FGKmts1qe9iHoGBJJcEho3pwDI72JYOo2TA+piGRfd/1BztUFo1tT2pyVvLhkKEPQkWHg4hUpH0CvDyjeyKy7RgC/nJFCmF/MjzxKgwFFzFyaiUMAopUn/yg2jALOxWlDbW2/0Rn+XU+XDiotY1k+ZW0uPzVtjF6L0x7YEi/sB78haVQA;3n0qW6lUGiqv8dIA+KJ/hg=="
 ---

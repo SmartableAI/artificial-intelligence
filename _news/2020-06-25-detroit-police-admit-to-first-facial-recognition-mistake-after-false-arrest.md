@@ -31,139 +31,38 @@ images:
     title: "Detroit police admit to first facial recognition mistake after false arrest"
 
 related:
-  - title: "Boston Bans Police Forces From Using Facial Recognition"
-    excerpt: "It’s official, as of today, Boston’s become the second-largest US community to ban police use of facial recognition technology, thanks to a unanimous vote by more than a dozen city council people. The move follows similar bans by the neighboring cities Brookline,"
-    publishedDateTime: 2020-06-24T19:02:00Z
-    webUrl: "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524"
-    ampWebUrl: "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp"
+  - title: "Facial recognition leads to first wrongful U.S. arrest, activists say"
+    excerpt: "Robert Williams spent over a day in custody in January after face recognition software matched his driver’s license photo to surveillance video of someone shoplifting."
+    publishedDateTime: 2020-06-26T17:41:00Z
+    webUrl: "https://www.nbcnews.com/tech/security/facial-recognition-leads-first-wrongful-u-s-arrests-activists-say-n1231971"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1231971"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231971"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 89
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/vedoqaujncze30yfosyq.jpg"
-        width: 800
-        height: 451
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_26/3392279/rtx5zan6_8801ea9903a80ccb7d234bcb75bfe8f1.JPG"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Detroit’s fight over policing and facial recognition is a microcosm of the nation"
-    excerpt: "Everything you need to know about policing and facial recognition is happening right now in Detroit, where the scales are tipping."
-    publishedDateTime: 2020-06-25T20:10:00Z
-    webUrl: "https://venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/"
-    ampWebUrl: "https://venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/amp/"
+  - title: "Facial recognition software vendor vows to thwart misuse after wrongful Detroit arrest"
+    excerpt: "Facial recognition vendor Rank One Computing said on Wednesday it would “add legal means” and research other ways to thwart misuse."
+    publishedDateTime: 2020-06-25T07:31:00Z
+    webUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/"
+    ampWebUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 84
+    quality: 81
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/black-lives-matter-protest-detroit.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 605
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all"
+        width: 1146
+        height: 613
         isCached: true
-  - title: "Democrats and civil liberties groups back law banning facial recognition across the US"
-    excerpt: "New legislation that would ban police use of facial recognition software across the US has been backed by civil liberties groups -- but not Big Tech."
-    publishedDateTime: 2020-06-26T12:46:00Z
-    webUrl: "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 83
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-85-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "Boston bans most city use of facial-recognition tech in privacy win"
-    excerpt: "Boston joins cities like San Francisco in banning the official use of facial-recognition tech after the unanimous vote."
-    publishedDateTime: 2020-06-24T19:27:00Z
-    webUrl: "https://mashable.com/article/boston-bans-facial-recognition-technology/"
-    ampWebUrl: "https://mashable.com/article/boston-bans-facial-recognition-technology.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/boston-bans-facial-recognition-technology.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 74
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F06%252F24%252Fe6%252F48e216407ae64ae58a33a0d81cb9c1c5.28a23.jpg%252F1200x630.jpg?signature=9ioxsUaZTvrqoZR7r_dKNqdQDRU="
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Boston bans police from using facial recognition technology"
-    excerpt: "Boston has banned police from using facial recognition technology, becoming the second-largest U.S. community to do so."
-    publishedDateTime: 2020-06-24T22:10:00Z
-    webUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology"
-    ampWebUrl: "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/boston-bans-police-facial-recognition-technology.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 74
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/640/320/facial-recognition-iStock.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "IBM quits facial recognition, joins call for police reforms"
-    excerpt: "IBM is getting out of the facial recognition business, saying it's concerned about how the technology can be used for mass surveillance and racial profiling. Ongoing protests responding to the death of George Floyd have sparked a broader reckoning"
-    publishedDateTime: 2020-06-25T01:22:00Z
-    webUrl: "https://www.seattletimes.com/business/ibm-quits-facial-recognition-joins-call-for-police-reforms/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
-    images:
-      - url: "https://static.seattletimes.com/wp-content/uploads/2019/12/12192019_facialRecStudy_tzr_tzr_131656-780x501.jpg"
-        width: 780
-        height: 501
-        isCached: true
-  - title: "UN Urges 'Moratorium' On Facial Recognition Tech Use In Protests"
-    excerpt: "The UN human rights chief called Thursday for a \"moratorium\" on the use of facial recognition technology during peaceful protests, stressing that it could increase discrimination against people of African descent and other minorities."
-    publishedDateTime: 2020-06-25T14:46:00Z
-    webUrl: "https://www.ibtimes.com/un-urges-moratorium-facial-recognition-tech-use-protests-3000619"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/25/as-protests-about-police-violence-and-racism-spread.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Panasonic’s new vlogging camera uses facial recognition tracking to isolate the sound of your voice"
-    excerpt: "When shooting in 4K, however, the camera can’t utilize the entire sensor. Instead, it shoots from a smaller cropped area in the center. This makes lenses appear more zoomed-in than they would if they were using the whole sensor."
-    publishedDateTime: 2020-06-25T19:55:00Z
-    webUrl: "https://www.popsci.com/story/technology/vlogging-cameras-panasonic-g100/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 27
-    images:
-      - url: "https://www.popsci.com/resizer/x4pD98Ruq8aNyMPOG-HLszF6EiU=/1200x628/smart/cloudfront-us-east-1.images.arcpublishing.com/bonnier/RWEO3SZBSBHPBD57FA2LWWNUX4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Facial-recognition backlash brews after fury over police conduct"
-    excerpt: "Now, some of those lawmakers are drafting new legislation to curtail the use of facial-recognition by police departments and government agencies. They’re looking to harness the public outrage over police misconduct and racial inequities,"
-    publishedDateTime: 2020-06-28T20:01:00Z
-    webUrl: "https://www.seattletimes.com/business/facial-recognition-backlash-brews-after-fury-over-police-conduct/"
-    ampWebUrl: "https://www.seattletimes.com/business/facial-recognition-backlash-brews-after-fury-over-police-conduct/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facial-recognition-backlash-brews-after-fury-over-police-conduct/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
 
 secured: "9tZJlPoA366lRUD0VRM6mHtd448CCdQ6qzLG38FLj4Llf6b1WjESlVmGtDrig1j6w94zgYBZsf6uTh5oiTjNgxk3RCo2gb1zh13xDpq9FlclkAtVOYybjSHigrDdJI/hq0flsHrb4Az2H03rKSm7mb86VpypRKWK0GzS8lIa6OFP3O8Vc3hFlqRn8nsikq1lZ7BgVX0EpYnott3xqnEifo0zugtdA7xLWrK+dVonXOwn29zR3DEdrqmhPWYuhwlZ8tqDW06RWT3fuDhB/eE2fqD1m4R+BdFuCwbMIvCOyomEzkDibYQ64W9fypv3jALF5IS7MyLd4f/Zk09o4c9UZjNL12TjGy5rR4YUBLnXaCb424iISfFSZkr8ET6To9YZn9/xzl9BUvkfEbakkltnvET6KUptGho/UCkuKsijBbSUvC+V2xZc6FsQ8okEg+sszTo0ho/alRn9cdqFkqA7PVWI1xjnyIBCkDqyCUNBaALt6jcv7R1sGkrYBoHt6w0CGfxaP84RgDrBzXappmIULQ==;cwYYhHaW1Jqaoj/M98Bk1w=="
 ---
