@@ -123,22 +123,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Boston approves ban on facial recognition technology"
-    excerpt: "The Boston City Council voted unanimously Wednesday to pass a ban on the use of facial recognition technology by city government. The move makes Boston the second-largest U.S. city after San Francisco to enact a ban."
-    publishedDateTime: 2020-06-25T02:39:00Z
-    webUrl: "https://www.sfgate.com/news/article/Boston-approves-ban-on-facial-recognition-15363521.php"
-    ampWebUrl: "https://www.sfgate.com/news/amp/Boston-approves-ban-on-facial-recognition-15363521.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Boston-approves-ban-on-facial-recognition-15363521.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 59
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "Bill would ban police use of face recognition"
     excerpt: "Democrats in both houses of Congress said Thursday they are introducing a bill that would ban government use of facial recognition technology. Why it matters: A handful of cities have banned government use in their jurisdictions,"
     publishedDateTime: 2020-06-26T14:08:00Z
@@ -243,6 +227,17 @@ related:
     provider:
       name: Government Technology
       domain: govtech.com
+    quality: 39
+  - title: "U.S. Lawmakers Push to Ban Facial Recognition Technology"
+    excerpt: "A group of lawmakers has introduced a bill that would ban the government use of facial recognition technology. The bill comes after a Detroit man was falsely arrested after being misidentified by police using the tech."
+    publishedDateTime: 2020-06-29T21:11:00Z
+    webUrl: "https://www.governing.com/security/US-Lawmakers-Push-to-Ban-Facial-Recognition-Technology.html"
+    ampWebUrl: "https://www.governing.com/security/US-Lawmakers-Push-to-Ban-Facial-Recognition-Technology.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/US-Lawmakers-Push-to-Ban-Facial-Recognition-Technology.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
     quality: 39
 
 secured: "5FstfUBWy84LS6XOSjTVUszKZ3TkSFCDBQmp1KwExhH1U8ukKVnxDSGMFRMpVX0w5jJsvl7oo22g8h5N4Pk3eu63wK7+d7cCRGwaBC0CDyAt1Pyzm0CMO2fXO57HmyjT5TcKEM044nWG/sUZyb/xrjd8oP9dsys3Ty76oyNnjA53Lp8jbKMvcLcgFIyaI+UnAlk5c835kx0EKBAoGGAizo3TEKxBxl2ABDv08g/weVHJQTHrM4CtKBuBh+v5hk7ui9THOPGhHI5sEyQhjDDve7rSMSPFrWSjeG6TEzjtnno2OB3bfMpL4MQkCzifc+2X1Tp1yd5SrlfUkQL9Sy/b1QeHQIDRsngVpedGOIDzJry+baV8VFmMRIMPwV7/3Wl+Ky5QY9qyHahqzTlJhVxPf8fDQJzA1kM9h4xaOmOIG0xsnLEuKNV3NAfy/p/3qnV2yqR/i8IgkHhQKfbxBGbSs+GwLfGa4rx/c25KJVryj0q8fLWWtT+iz+5vYQ9vX0iflMR0MeaqXYA1OnsESBlSYA==;U+AAG5Rk36F6A01055dIDA=="

@@ -1,19 +1,28 @@
 ---
 category: news
 title: "Driver free but virus free? Robo cars hit new speed bump"
-excerpt: "The latest challenge for the autonomous vehicle industry: How to assure passengers that the car they are getting in is virus free, even if it doesn't have"
-publishedDateTime: 2020-06-17T22:41:00Z
-webUrl: "https://www.omaha.com/news/national/driver-free-but-virus-free-robo-cars-hit-new-speed-bump/article_c7d3527d-27ff-5971-9d1f-452be4bb26b9.html"
+excerpt: "The latest challenge for the autonomous vehicle industry: How to assure passengers that the car they are getting in is virus free, even if it doesn’t have a driver. Widespread"
+publishedDateTime: 2020-06-17T19:25:00Z
+webUrl: "https://wgnradio.com/news/technology-news/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/"
+ampWebUrl: "https://wgnradio.com/news/technology-news/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/amp/"
+cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/technology-news/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/amp/"
 type: article
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: WGN Radio
+  domain: wgnradio.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "quB+B8EjnemUcWx9q+SYBkVGlACcqlH9a+8ODVw+Cg3Ms27yRpwcLtLk6E/PuFMcYTAwV9cOW6N3sEncY4F90S1FLEcRGZlfptngqLtTYAgTgNF9wmztEoBXqWSyIlda8f01KpKqFfTR4S00lkjAII2yCtj2/T47O8CLNrE8UCw8GsgN+Fn17hUAwzsLy77W01XFY5Gr47BtznuUx3VjTzcdN+ybSQ3KSHNY+sefbjiQuvwADAjXVuAjaneD0CbIRvt6mV/WDtQhTqhA4urlnbRCpj1+TpyrGeaW889x9dhbPvmo4lvrj+zOqzXIAzgNku1Jjl9Ybu8J3yjg2n4mG/QbCNSw8vnP7OoyvbZovPLU/rVsyZBSFE6x6S0rr6COXcKgoog7q2fr5/h+fYIktABhTaFpQoNuhEUOcPajAdDNhQ/rz6etoPIGhHfnOfprHSP/Gag2pXgsXk8cquINgtgy5z74B0ceWGW/xIuqv3s1xeb3MQZbJi23J4FKVgPl1+2NLKXY7F6FG7usaOnNqA==;nu8Udgpx9OGmemd995RcpA=="
+images:
+  - url: "https://wgnradio.com/wp-content/uploads/sites/6/2020/06/ebf70f7525554dce959e6641b2a5814a.jpg?w=1280&h=720&crop=1"
+    width: 1280
+    height: 720
+    isCached: true
+    title: "Driver free but virus free? Robo cars hit new speed bump"
+
+secured: "UxHKyDiqaQV7gXCWH2x5N0MXeQRD1qZvukplbknMaZjptFCZT+RZQ18A58Rqfcr8hViP/QAU3EUIAzJMSN2U6Iqn3iTT4CTiTaI2HUcbMQGM/eD6BaQAHvA1iNxczgHD7hMIXyWhocFWPBTThC0biYp+/Iz8O/9LLoHeTZ2UboD2OlxEdIoC6MDFNxL42Zzs+uAaowvfjBTNvZgYrk00i7Y3R7ORwGg8f5U5tqixEh+6eMo/PT5M+fU8PZN8hAiPLAjyD1UHcyAs17z51Wgd+tAHa9RoU5ehmEyFTBYLdmShFEEY1jyhUuaHCWa0GGiKwQAv28AY24sD833w+B+6pQ==;BhY/xkErZIJnE9CdHvyv9w=="
 ---
 

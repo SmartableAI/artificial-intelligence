@@ -8,7 +8,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200629/Artificial-intelligen
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200629/Artificial-intelligence-helps-detect-and-accurately-identify-epileptic-seizures-in-real-time.aspx"
 type: article
 quality: 46
-heat: 46
+heat: -1
+published: false
 
 provider:
   name: News Medical
@@ -23,6 +24,17 @@ images:
     height: 480
     isCached: true
     title: "Artificial intelligence helps detect and accurately identify epileptic seizures in real-time"
+
+related:
+  - title: "Artificial intelligence identifies, locates seizures in real-time"
+    excerpt: "Research has shown that understanding brain activity as a network instead of readings from an EEG allow for more accurate and efficient detection of seizures in real-time."
+    publishedDateTime: 2020-06-29T21:40:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/06/200629124052.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
 
 secured: "3x9/szGlA7vho+5xG+uPc+Wpo94Bl8q+8oel7vIpu8VbzVUH0KfWSY/E88sjrO/yckZgQm2vh5Uxn8TmPBkzHRe//YX18iuxQH4f+YO4+kz+xWiDo5fDjjjywMLUrGFe9wysVj+yRw3WJ13fVO1dSn+cRFkbAT9u5hjplGcGpfPW+J+JzkxUFhcAPIA0YcJ1zhiZvJfgtNZl/41+TOokHf0DpbjMFpVEom5OZKl/M70YoiC5hKpHtIdg+pBBe1dlHms73m1XusAVjgsRy54SAKS52O1G3xaewtmYEihVDyjNkZUWKSuw0VupZnn9z7ByVhIHIo7o24b+u8aD3pLcgw==;9stBqyGDQSEIMBHYmyMO7Q=="
 ---

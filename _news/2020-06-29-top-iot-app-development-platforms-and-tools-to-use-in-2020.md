@@ -7,6 +7,7 @@ webUrl: "https://www.embedded-computing.com/guest-blogs/top-iot-app-development-
 type: article
 quality: 24
 heat: 24
+published: false
 
 provider:
   name: Embedded Computing Design
@@ -23,6 +24,6 @@ images:
     isCached: true
     title: "Top IoT App Development Platforms and Tools to Use in 2020"
 
-secured: "vAHsTmMLITlLhTIhJSJa58J9VPG4KxGny1nDfG4hYj2eQX3mUq3EjpE4x2D/VHbwFrtpdIMpRmUPXyIjJH7/sxX2Jv37NEZzCBfaJfPlUw6zOdncII7q0hLnrb++D9ncrHqbCgR89TLEzF0o2CQIiCYowLnvHbDBTE514mef7NCFhS6rt+R+lfj/6P5p/mYTCvOoYpn8Ju/z4RAgoRIQFwZdxmyA7tTAiCFmGVxBojN/q0pumcVZdTn5ZR+qyj1ekinb3BXCRuJ01ZDYsEyEKaWn7UXA3FWdxwwu2oQ8AIxMo+TBhHYSfz2xsNjbArNgVfHpJS7qdArQNulviqrk9A==;GPsN2c1lizORtPhQFyhPuw=="
+secured: "YKUO9CHpJDQ3W1ubtJDKG7Rtd7d2TOor5dVasLzWamVyjHSvOj7gVacg2Tv9t2wTEXx9m9TgE9z/eGbmHpnkTApud0cjd1/n0UIIDwOxrEsaTSlysuszZBW33YvMTxLA3ZZYhMb6tR8P26RPOCWFsLZGvD4dgJ2txGivXj4KVtAVxs3JCRRNLg/sKNcVBNi2VM5AcpFOb9uZpiko8KUplRGXb4VRU8r41NRo8CKbFWj+Pk76HU+8DlqZbqipYgYYjwYE9Tolc08aq6f/mjbRH07L6blXx+YDc8vI8UXjAixzqkqn4kcSk0VxyWS88pj3CUzlzEa5BcdxXTqjpWgxvNh4Ee4NMJc997PmyI+zac8LN15BXcak7mnbvIIQSinH21QwLf+9EmVKa3jQej4NHDt/RlYtguINNfuif2HZbK7wkQC8TBKX8KvNmTY6zqYgPUgIjYUYuvfGfgPdMHDRHEywgCPqzsnR4dO0e7INhgLtQZB4rhjJOtCSwMK/KKlnTYgXbMqM70BOZqoB/lXt7A==;K8JLj2/UPz0Gq+tBeQV+Fg=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://qz.com/1873731/the-unknown-firms-whose-facial-recognition-le
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1873731/the-unknown-firms-whose-facial-recognition-led-to-a-false-arrest/amp/"
 type: article
 quality: 101
-heat: 231
+heat: 241
 published: true
 
 provider:
@@ -231,6 +231,17 @@ related:
     provider:
       name: Government Technology
       domain: govtech.com
+    quality: 39
+  - title: "U.S. Lawmakers Push to Ban Facial Recognition Technology"
+    excerpt: "A group of lawmakers has introduced a bill that would ban the government use of facial recognition technology. The bill comes after a Detroit man was falsely arrested after being misidentified by police using the tech."
+    publishedDateTime: 2020-06-29T21:11:00Z
+    webUrl: "https://www.governing.com/security/US-Lawmakers-Push-to-Ban-Facial-Recognition-Technology.html"
+    ampWebUrl: "https://www.governing.com/security/US-Lawmakers-Push-to-Ban-Facial-Recognition-Technology.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/US-Lawmakers-Push-to-Ban-Facial-Recognition-Technology.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
     quality: 39
 
 secured: "G+pEQH+Qkzg5Z8V78EJ2rSPTFkQ3Mba+MP8hf+QqQ+no5879HXgsFV7TApk6s4LBvF02weKXqjIMERt1VYc5LNsPDDdvy98FynfigrwtDIRDf4uUA/i/6GiIbkYYhHCYy+KvT1o1fWTy21RW0Ah2i1m/WtKE9SumtGmKTm+fFnmntwy5kpZ6AZPsjAh2h9ON+aoOFLvgX0b21e64SWoBO9kiS/+aHrem4pRtvWXWM8Y5hiV0eFHY9BCfBvkkktGn3nfqMoy7poxCqqHNAbLfID6MXIibUhXAr8aQNx3uvTjQBL9wVWInPrDGSMhmIzfkKckiIcRQFzerToG5kCCtxzQ4fHEwUj4cX/B+IRhUbxRpnNoRuW3E8rSjH+FirpztAniAF4e7BiuKR75IerMuOLtnZks2pxOi0r/b5ElTNiAahjBWJmjYmIGysvDkIInwUWN5PM5ZFP0lGdkZiL2hs1KXxyZOyd2HQadgVfv+CtQGowBLBi8UFbTjqIWeTGlOCvoaD7QgsHKrk1b5Bxm8Mw==;2d+CN6c/l8CZXk0UM9h5qg=="

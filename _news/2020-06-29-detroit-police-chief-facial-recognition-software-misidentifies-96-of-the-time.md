@@ -8,7 +8,8 @@ ampWebUrl: "https://www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-f
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
 type: article
 quality: 85
-heat: 85
+heat: 145
+published: true
 
 provider:
   name: VICE
@@ -29,6 +30,95 @@ images:
     isCached: true
     title: "Detroit Police Chief: Facial Recognition Software Misidentifies 96% of the Time"
 
-secured: "kNB2Ui3IHeLWgRIMsYdfc38xqIKvbtLgTvoOCQtMfG1bhk6mst6nKAKGCAVw68gC+90g7ADBSz7CW4c8vvdEuUEN85gRM7KSG4heQIyxxE5bhg3QR5fozJ5WY7c8vvsSecqxiRmzPQq8o1h6gB3IfHyX+bcYutdNCc0Ry11Mfh7Owr7zFkI2VYvPWtK5ZX/eTEuv0NbQ6PZnulzyd0w36AKk74R3wdO6gQeirim+nntQYb455qIiDO4qQpddtfOcFo3yk5Hnv7QOZE+OwrYIUpHhd2APVjXQZHdQkHvXAajkLoljVRn0OwNUj2gYVQcWWauGfQKauHvGHuWaPw5vxQ==;pJ+BC0c11HeO3jb5Z1ObkQ=="
+related:
+  - title: "Detroit’s fight over policing and facial recognition is a microcosm of the nation"
+    excerpt: "Everything you need to know about policing and facial recognition is happening right now in Detroit, where the scales are tipping."
+    publishedDateTime: 2020-06-25T20:10:00Z
+    webUrl: "https://venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/"
+    ampWebUrl: "https://venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/black-lives-matter-protest-detroit.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 605
+        isCached: true
+  - title: "Facial recognition software vendor vows to thwart misuse after wrongful Detroit arrest"
+    excerpt: "Facial recognition vendor Rank One Computing said on Wednesday it would “add legal means” and research other ways to thwart misuse."
+    publishedDateTime: 2020-06-25T07:31:00Z
+    webUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/"
+    ampWebUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all"
+        width: 1146
+        height: 613
+        isCached: true
+  - title: "Florida Police Embrace Facial Recognition Despite Pushback"
+    excerpt: "While companies and governments are halting the use of facial recognition technology, the Pinellas County Sheriff’s Office is refusing to comply until official regulations are put in place."
+    publishedDateTime: 2020-06-26T21:42:00Z
+    webUrl: "https://www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/BIZ-NATIONAL-MOVES-AGAINST-FACIAL-RECOGNITION-PT.JPG"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Why the racism in facial recognition software probably can’t be fixed"
+    excerpt: "It’s been proven that facial recognition software isn’t good at accurately identifying people of color. It’s also known that police departments around the country use facial recognition tools to identify suspects and make arrests."
+    publishedDateTime: 2020-06-29T10:05:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/facial-recognition-software-racism-people-of-color-wrongful-arrests-algorithmic-bias/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 41
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2020/06/fr-ft-img.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Police and Crime Commissioner says public consent needed for any use of live facial recognition technology in Kent"
+    excerpt: "Police say mooted trials have not taken place and the commissioner insists support of the public is vital before any system is rolled out."
+    publishedDateTime: 2020-06-29T17:23:00Z
+    webUrl: "https://www.kentonline.co.uk/maidstone/news/facial-recognition-tech-needs-public-consent-229508/"
+    ampWebUrl: "https://www.kentonline.co.uk/maidstone/news/amp/facial-recognition-tech-needs-public-consent-229508/"
+    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/maidstone/news/amp/facial-recognition-tech-needs-public-consent-229508/"
+    type: article
+    provider:
+      name: Kent Online
+      domain: kentonline.co.uk
+    quality: 37
+    images:
+      - url: "https://www.kentonline.co.uk/_media/img/F5AAKEO0ZBINYPPKQSG8.jpg"
+        width: 618
+        height: 425
+        isCached: true
+  - title: "Detroit police work to expunge record of man wrongfully accused with facial recognition"
+    excerpt: "Detroit — A day after the American Civil Liberties Union filed a complaint against Detroit police officials about the wrongful arrest of an African American man the group said was mistakenly targeted through facial recognition software, investigators ..."
+    publishedDateTime: 2020-06-26T20:42:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21143871/detroit-police-work-to-expunge-record-of-man-wrongfully-accused-with-facial-recognition"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 11
+
+secured: "L9E2d+Q1sa5KyW2SHXe8Hp0eYa84fZvDGETTxmN0HzJ5Y1HzrRrVI3APksp6bDewVWNa/okue85KoR/nqL5qwCgVjSzYLVFcOSEOgKk2KNV86U8K0Q3NW9M3TqSqaa5tAuFCbh8W6R28hatykVrQNxZTeS0KXqoUDm7B8KVGn1wmRZvOhTNqllfJw2AFPR671IsQQfxpQgTd6N9DAvq6Wr00SWJMl+z0rA+vIPP/eeGzdOvMn5SMHwLAdC9Q8ZV5W7146L30MlUAL7ongdCHQDwhRYrCZ2fwNObXPS9iSjgP26lDeMLm7v50yanQwlmUF4DxikXaT0t4tkF/PW5kZ2+SMdiU3OdMWtGefLrUVbwV9jOXHGysREouYhuvYk4XKwV2ps0A/99pBzsbMqMTyJFPidAHfdc5ouyemp3wwR1LzXmjpuK0QMmNXXia/0RXPB1rBJgMswI2zZ1zgaoxVaITXGvi1DOBBmLUxiFCpUgZlZi42pr4riMjVZ8Pgs/qR+3Kq2lun327gaxSXhI4PQ==;uxxO9yTNASJdOZdNjWBBHA=="
 ---
 

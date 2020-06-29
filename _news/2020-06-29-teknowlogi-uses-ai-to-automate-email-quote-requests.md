@@ -1,30 +1,31 @@
 ---
 category: news
-title: "Teknowlogi uses AI to automate email quote requests"
-excerpt: "The quoting process is fractured as some customers are served faster than others; Teknowlogi looks to get all parties up to speed."
-publishedDateTime: 2020-06-29T16:41:00Z
-webUrl: "https://www.freightwaves.com/news/teknowlogi-uses-ai-to-automate-email-quote-requests"
-ampWebUrl: "https://www.freightwaves.com/news/teknowlogi-uses-ai-to-automate-email-quote-requests/amp"
-cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/teknowlogi-uses-ai-to-automate-email-quote-requests/amp"
+title: "Teknowlogi Uses AI To Automate Email Quote Requests"
+excerpt: "Freight brokerages and third-party logistics providers (3PLs) are tasked with processing hundreds if not thousands of freight quotes daily. In this industry, speed is the"
+publishedDateTime: 2020-06-29T20:29:00Z
+webUrl: "https://www.benzinga.com/news/20/06/16432455/teknowlogi-uses-ai-to-automate-email-quote-requests"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16432455"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16432455"
 type: article
 quality: 59
 heat: 59
+published: false
 
 provider:
-  name: freightwaves.com
-  domain: freightwaves.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s29755.pcdn.co/wp-content/uploads/2020/03/Brokers_spot_rates_1.jpg"
+  - url: "https://www.benzinga.com/files/images/story/2012/brokers_spot_rates_1.jpg"
     width: 1200
     height: 675
     isCached: true
-    title: "Teknowlogi uses AI to automate email quote requests"
+    title: "Teknowlogi Uses AI To Automate Email Quote Requests"
 
-secured: "snJcRSgacMmDOTiOQrSDDE3mJFV4Vz0iTtMfta9JyHOrxskV6b6Ka66F8wQlqBydAhJS9JlIvHIrfbzxbUbRNNzoHn3rscV69eGajgLXoOi+gnJbRlTeyk1zSYs1aX8vTBTBsWN/pVxjB79pPg5mS2MR8/5e13KItgCL9o02AcrvULis7cwB4nzu5N+B09ktTtuCS5ker8+qtLvSKb92TpwLNaxuRalHJaLSD0NEaPDqzxBB3akBVAxAJOsNthdV9U73nbn7NeWm/4uSVOvD+p3LcUy9VA4tJvSaX8HGKSVmcxpJSPtamSO6WKDQpSHQXYMxeDRqgimY0MG3RtJXRg==;gkPnZu1xIl7Hx6waImV17w=="
+secured: "1ngbNHJkBxgtDNPtmQI4byS7Fs+FBlnxKwTsuPiF3LrEGPyuQaOUHdIOnmdLtoC+JQFQE5BgQbWCkJB0cAmOoQxCcDBZsgItbdP4+fC6/J5sGcgbiTqNiaquzq/6XIXBnA5ONbkY85BOlbPZjcjxtr7nVybxJtkOGQ2uaQy1E0RjNmIqamxHAs34fDrbNVIs9/gbTEEcjb3luIZvlo6qjbMf/gIt1FXFO2ri9xCXAlR1a/VmK00i/FGncWKxspoRV8C1EFdIBGVQ+4mAwkboinjocdX87mo5cc6VFwYnOy8VGB1iKMxim8sX0X6K89FddIW+POI8sAxwMkqtY5TfmA==;DiNVinDKc4WFV8w2O2aXHw=="
 ---
 

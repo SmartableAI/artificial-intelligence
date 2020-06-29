@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournal
 type: article
 quality: 44
 heat: 44
+published: false
 
 provider:
   name: The Business Journals
@@ -25,6 +26,6 @@ images:
     isCached: true
     title: "San Jose self-driving tech unicorn may go public through reverse merger"
 
-secured: "tQ0/EM/axZ71h3WDXh2mTuF8EJZrvJen/FdLwuJEv6pzMZwxsJwyflJ3sC9QZkVKYnKjdHhdT83ooXo5npyE+B2E62pPsYNs+WBUtnL9vR3kF/garZ6M84AYAVWDOVBF1zu0kIvezDfDWBU2h/ZPPsfKx9AS3Mc9FIWjkWGyb6KwaDGRUjqtnksbIsOwZn2dLr/ko0cmI5rVrJslFjm1r4L5dFimmX4fu/ysqKl9bAnVmibYvhcrvgKOgZmL2m5e1effyBQrom05S8v7GfNgGhxptg7bU+z/K76+ejpsgnlips+0ja604btmXUviexsaEpm1IjmgLNcXKlo4Yzrrtw==;hHAhfTCj8DiEK7vamoEKmw=="
+secured: "AtgH1tyLNbjmND7ppLDF8njIsIS1VGwshzKwGAwJpe1DkDT5pcQ8qG3QbgNznhGoeLR7hj7a56QgfFRULtLdSQHuPaH3yeHC9NaCUUHd3VYd5VWiMwQrkPO/Cc/mQ1/6XRqi4hfvCgdXATSUGHqLmJ9X6PQOx7U8vsI0eCpu8MSQydNiFg1iVQdfCgYaIpCPQ7KRfSWOvNcDc7+iIJ0yARjhbjajn+RRR7kZxvthF06u/C+ha/TABYBUbg+W7+F72TJAtqpcJO5BnZhjbvLYtNMkAE+QzNvYBzw+7Z1whui2kf/BxQlTgACj2Jvf0w9mndRhE3239UutXTkGWkl/JZNqHeh3FPF4Ci+nybSWaOF66mD7y5rGgkGGfWWTeXlLFuvCxuLAhxkC7JPO0FYNG/kn7kpfbiFzo9JFH+jEdSZ3NQcJ3z22BIhC7Ba1zDtGKEQ7Hfx0O2wiauQbAJ5NwyRvZGNIyFX1iQJZzjqlPwatVwtMNJICFO/4vH8e+tXvK1behPx4nHzzW1ie35TJVA==;+29QyG7F4bWy4uEgYsWSqw=="
 ---
 

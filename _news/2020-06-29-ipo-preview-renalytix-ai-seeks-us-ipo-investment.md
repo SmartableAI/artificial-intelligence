@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thestreet.com/.amp-ipo/ipo/news/renalytix-ai-ipo"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/renalytix-ai-ipo"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 357
     isCached: true
     title: "IPO Preview: Renalytix AI Seeks U.S. IPO Investment"
+
+related:
+  - title: "Renalytix AI Looks For U.S. Public Capital In IPO Filing"
+    excerpt: "Renalytix AI has filed to raise $86 million in a U.S. IPO. The firm is developing a chronic kidney disease diagnostic system. RNLX is still in development stage"
+    publishedDateTime: 2020-06-29T21:01:00Z
+    webUrl: "https://seekingalpha.com/article/4356256-renalytix-ai-looks-for-u-s-public-capital-in-ipo-filing"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static3.seekingalpha.com/uploads/2020/6/29/saupload_vibZQnCe8R7xdobm1KaUFCXgyjqzrzBsbMqN6f891ioVFDeIxNUk-2ezIUhdAvHCvP3ZdPumwQxDNwj1FZzuCtLy5MgdsIYSKD5J27b05m4p_OsW9fvvgJQbes21vI9DYCcMVNpa_thumb1.png"
+        width: 640
+        height: 369
+        isCached: true
 
 secured: "Ks1O/zb/qp69bKpWviDZAjd+WQWTuEIZGhfoJq0LBYguPlo/GlD322HQCYJSAgRyrT6rFIfmHIrKGoDufnGDWN/ml3jX8ps1EpKDns7QO5USDgj9uLV6zhuD8aBZnWSz7erYw8l2ARNDBgunk3R8TIOJYpeSdur8l0jU3oTxHpWupo7W58CzFvASWOs5/z7gSxazuZMJxbiXg29kx2vCSb3yh7gtGzaqCEABmg3XtZFIwyjx7s+uGE8zDtA1XVHenpYb2RwX8PRr5B90PmGAO4zRdoKMjJsvNBBbgbRsfjujDtocfPlqw3jSMjGP8QUpVEe2OfuKB1eWZVDqUxwC1J3QRQU8gooiEsKthVXXeXJEOpcK0cFu1e9Z1K97dd6ANEs5H4YHqTt+tTa6eCEzKU56uboGmR1rP9so0DdcR6hDYPlM+UGBZYd98nw+Zmo6pnt+vsSDerPmYUJ7nXnUwlBb0KQ4WZ2ZV8WMNgSAF+eCIsFtfucxUDpwrDBbAM22NsrnE2RtmKxDeEQ5ZO+6MA==;02oqzfpCIJL1UGmWlCLSLw=="
 ---

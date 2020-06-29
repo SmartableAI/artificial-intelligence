@@ -228,6 +228,17 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 39
+  - title: "U.S. Lawmakers Push to Ban Facial Recognition Technology"
+    excerpt: "A group of lawmakers has introduced a bill that would ban the government use of facial recognition technology. The bill comes after a Detroit man was falsely arrested after being misidentified by police using the tech."
+    publishedDateTime: 2020-06-29T21:11:00Z
+    webUrl: "https://www.governing.com/security/US-Lawmakers-Push-to-Ban-Facial-Recognition-Technology.html"
+    ampWebUrl: "https://www.governing.com/security/US-Lawmakers-Push-to-Ban-Facial-Recognition-Technology.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/US-Lawmakers-Push-to-Ban-Facial-Recognition-Technology.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
 
 secured: "FzOQLr1BML6VpLptICTHzkz/MICayF4SZfe2rD7d8bWbrXUwGlqXRfCgPSlGqu6YSB/9Lm3V+9KKKaLDr1vtFlIqJObln5mGJ2/r7lbjyJwDCjk0Mq7JmAQ3JBqklnACBFxwEEpfRbnB4DgYurUd6kNFgs/fwanE2gmMNWvq6ahXnyYQnBIPVUyns5tSUXMvaVPB/9D4mpPWPPBhcNZPgdrivLTBfbcM3YgHIyjhJ7OINvXxeL5lIe9B20W8p3mAkL2CyZ+grccTt+GrFUvlVT+/OjNwARPXT34fCmA04tuuL4/g2f+LGkEeeyvw9B7ZGgTDUar1Bm/70KykubvdKDPRhinpA89rH92I5x30XDXlALoOyKIWtJppi0JJM+D0IV03n7Ehv4Hyu2Gnpec7rD9LeAwp6ewaDyKkjRxY9mHP0+9tt2ujz3i16nLmh0QfQ8IaSKvLArQA2rdmf4DLyFFHvDrrAQCA4p170fKkYlObSI4Rhd4ePnbKFbO3qyR50H+YKW87WTDL2h181z1gMg==;HSeIGsdUvO5mlF/X0Ry6vg=="
 ---

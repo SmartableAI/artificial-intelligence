@@ -8,7 +8,7 @@ ampWebUrl: "https://www.digitaltrends.com/news/third-wave-automation-autonomous-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/third-wave-automation-autonomous-forklifts/?amp"
 type: article
 quality: 49
-heat: 59
+heat: 49
 published: false
 
 provider:

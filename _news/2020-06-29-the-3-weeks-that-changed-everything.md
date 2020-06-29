@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlanti
 type: article
 quality: 74
 heat: 74
+published: true
 
 provider:
   name: The Atlantic
@@ -29,6 +30,6 @@ images:
     isCached: true
     title: "The 3 Weeks That Changed Everything"
 
-secured: "Wc2mCUkLefxis646D33CrUhII9bUW8NjpCzvR3qaBpf8mBY6rBrVHj6172Uuuq/IaVWBz6FSV1oD7bNew9aN2Jc3bA732CKKY7fg8F7apfEzriozIkokXNs5AYDO32eesXIFdZUaB6riMb3mgOYrFq1OyAFY4yYlu/jRUuSpr8Qlva4x/dpPLoLRMIVJseskIh2zcz3rH4SGYTR1jDva6FABRc0mS9RW376dEIluPV8bs+kDpmad/xtNdPX/HLQstJkuXgkXVx86Sk4puHqbJg2/VPFC25H+t3a7NRGa+Jvkpd7dz6zzQn4OtSF2kCawQBvSj7r/wkAz56INopj/YA==;dRcXt6R1gMhFDk/pssl0uA=="
+secured: "lcfQ0VQRIefm5CuyBPeDzitpVz6/3j7h/tXAT6BqoJinwu6fsA74yNoQvPBTL7ZgLozC5myLPg9g/vGk6SJlwpyBM5H4BnvBW23D+XpAZc1kuPr4fW2N8Khzo+dPF6tqOjYO9jEyV0283kv8j8mfE7/56MDrvlPLGyKIfGoLHXG+o+JmYDjHmaoVLIfG+DV2QBLk8XiW1do99yjCcxMVocmpEY1bf+4lKJ53C7x52sNjCJOWJeb/52OY8OgMHdYaBVgF+vVFwWG6Xby2gYDTskiXpoKkVr2BSw6mKIkFJ0uI4RWXim08bp9J+RiqfC3QWqYc6aKZ9Y1iyISWhF+oZA8xXObUG7VTHRGixURZwNNoPL8gHvu4/8lsan63Ch2NB+YwI7pKdJU4ho8G7Hq5wXoH3XG9IpSCP/GKggqvMCfzui/RHTAFpnmV1eyqU20AXyvHYDQ8Yd6jRW41tY6sie+/nxGvlyD8EbTnxpMVRn5am9SGWx1r5KQ5Y2ICFf5jf7FeAiMunO/RH+XWiRvZAA==;Vlq2WeN9RUnLBgORn6rHjA=="
 ---
 

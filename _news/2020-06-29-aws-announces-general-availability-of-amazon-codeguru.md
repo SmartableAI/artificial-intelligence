@@ -1,0 +1,47 @@
+---
+category: news
+title: "AWS Announces General Availability of Amazon CodeGuru"
+excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon CodeGuru, a developer tool powered by machine learning that provides intelligent recommendations for improving code quality and identifying an application’s most expensive lines of code."
+publishedDateTime: 2020-06-29T21:30:00Z
+webUrl: "https://www.oleantimesherald.com/business/aws-announces-general-availability-of-amazon-codeguru/article_822459f1-2e8c-59ce-9958-ef9ca74aecc4.html"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: Olean Times Herald
+  domain: oleantimesherald.com
+
+topics:
+  - AWS AI
+  - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/custom/image/6e0114c2-753e-11e6-8652-4b3e0020306e.png?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+    title: "AWS Announces General Availability of Amazon CodeGuru"
+
+related:
+  - title: "CodeGuru, AWS’s AI code reviewer and performance profiler, is now generally available"
+    excerpt: "AWS today announced that CodeGuru, a set of tools that use machine learning to automatically review code for bugs and suggest potential optimizations, is now generally available. The tool launched into preview at AWS re:Invent last December."
+    publishedDateTime: 2020-06-29T21:43:00Z
+    webUrl: "https://techcrunch.com/2020/06/29/codeguru-awss-ai-code-reviewer-and-performance-profiler-is-now-generally-available/"
+    ampWebUrl: "https://techcrunch.com/2020/06/29/codeguru-awss-ai-code-reviewer-and-performance-profiler-is-now-generally-available/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/29/codeguru-awss-ai-code-reviewer-and-performance-profiler-is-now-generally-available/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 80
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/Profiler2.png"
+        width: 722
+        height: 389
+        isCached: true
+
+secured: "c9f4y3VVVlGS/Tg33x8cKU/RjdKSXtPI1/Yp13yppbieDCFR9i/1Cp4FjShjNwOeofCOwMQZWCRPjVoeKj8oapiddPN1z1oZh+M4nYj+f7GO8fDku7MhwmLh+mpZzTbys1hLYg7vIYM8h/4mw81UoTTJup4D0V1xnOlWh0lxH6aRDTFFiqiTgQY4inTbQu5eKMAUiaZYZrdEOMQwyZ62Yczpw1I2Kv35ENxlUfSobB8cS9ACTZdNYK04bA+G2QLgItYR+xyLXYLLBVsnZn/LfuWE5dBFey/DrG7aAkYfJF25jhI4SuQb484n+CPLCCMIzQxeQPHd1Q8Sokquh/c9Nw==;qvaCc9jTYF8Be8xHRfiYbw=="
+---
+
