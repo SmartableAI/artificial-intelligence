@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Introducing the open-source Amazon SageMaker XGBoost algorithm container"
 
-secured: "/SQCCWr4Z+bpLj54Of1aRYKJM+fZagOaIFqrRfStIHnvbF9nA8EKuQisHlK7Xn7fPTjXPrwD6ddnYXkled/A9OJEFN7jSB5POb1TghRFELhXsh/f/1R8gPAjU9IhGt9066PInAXORxEuwujG/nil8XZWQmQX20y0fX6WufqUdbWuo4FKWaZWJ3KkLwKoKguvP3qJp4EqGMFSGANrB6bCLP4x49LqQOWs4lr8u2hral7cNC/amVbnaq3HSPgtP/HPZi0tVn7TZRFSl5wfdPyRNEK/W9VgaUN/mKKYfu29Zi+EcP27tHj2lMOyz7Bcglk03ZibGGFS+PhgsdurmyykXA==;3/ifE5125dLTdQ4aFaC7CA=="
+secured: "PeyXWqyMwa0kWmKqNNEY7Rqw4Wd/AL2DefIkigKHBQ6Qy37wrV1OJmst+c3DoupUgxZA6ttnz2ORDiyErYxrYx3QHUTqfqT0+COSR8Ysp7ve+wnTGlVLwBXpYay/BMKhIXR7wmUcDo22J+kZ6ogdJc6a7Ww0eyO/JyTXYTMLVY9KpiHE5jbCVkg+jdIE/gi7KS5ohG/eVGtKGCCOtaMgWIdkTLdj0b4nbFc29Er+P4KuIKGy1NqBQhKd9brUWIlmySIJqxliUBW01Fftj0rPpFHLjQn7QoTWawKI9gxn+L8ZJ0a9mkHQxuATiE1Vrtrk1Lv+EBJpWBlCDWpxm+O2bQ==;IH/ZLXvPLTjgpFv3g/+SkA=="
 ---
 
