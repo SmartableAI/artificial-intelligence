@@ -2,6 +2,53 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-22-apple-ios-14-the-top-new-features-coming-to-the-iphone.md",
+      "title": "Apple iOS 14: the top new features coming to the iPhone",
+      "excerpt": "Widgets used to be an afterthought in iOS, but starting with iOS 14 the company is changing course and making them a lot more data-rich and customizable. These can now have multiple sizes, and it looks like Apple has",
+      "webUrl": "https://www.techspot.com/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-22-image-24.jpg",
+          "width": 1248,
+          "height": 857,
+          "title": "Apple iOS 14: the top new features coming to the iPhone",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
+      "publishedDateTime": "2020-06-22T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.md",
       "title": "Microsoft is buying CyberX to bolster its Azure IoT security",
       "excerpt": "Azure IoT users can look for additional security and monitoring capabilities as Microsoft announces plans to buy CyberX",
@@ -1085,44 +1132,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-mubadala-to-double-down-on-tech-after-12-billion-jio-stake.md",
-      "title": "Mubadala to Double Down on Tech After $1.2 Billion Jio Stake",
-      "excerpt": "Mubadala Investment Co. is preparing to double down on its exposure to the technology sector, setting its sights on Asia, after the Abu Dhabi fund took a $1.2 billion stake in India’s Jio Platforms.",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake",
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake",
-      "publishedDateTime": "2020-06-22T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

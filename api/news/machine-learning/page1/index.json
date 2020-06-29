@@ -600,6 +600,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-23-is-deep-learning-necessary-for-simple-classification-tasks.md",
+      "title": "Is Deep Learning Necessary For Simple Classification Tasks",
+      "excerpt": "For the experiments, the authors consider TPOT (Tree-based Pipeline Automation Tool), a Python-based AutoML tool that uses genetic programming to identify optimal ML pipelines for either regression or classification on a given (labeled) dataset.",
+      "webUrl": "https://analyticsindiamag.com/deep-learning-automl-classification-classification/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/ella-olsson-1184057-unsplash.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": "Is Deep Learning Necessary For Simple Classification Tasks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T00:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-integrating-spatial-gene-expression-and-breast-tumour-morphology-via-deep-learning.md",
       "title": "Integrating spatial gene expression and breast tumour morphology via deep learning",
       "excerpt": "Deep learning can predict spatial variations in gene expression from haematoxylin-and-eosin-stained histopathology images of patients with cancer.",
@@ -1302,54 +1340,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding.md",
-      "title": "Streamlit wants to revolutionize building machine learning and data science applications, scores $21 million Series A funding",
-      "excerpt": "Streamlit wants to be for data science what business intelligence tools have been for databases: a quick way to get to results, without bothering much with the details",
-      "webUrl": "https://www.zdnet.com/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2018/12/06/7678c1af-8c33-4979-b8e0-aee879e3a982/istock-933321056.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": "Streamlit wants to revolutionize building machine learning and data science applications, scores $21 million Series A funding",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
-      "publishedDateTime": "2020-06-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -2,6 +2,44 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-06-17-chinas-tencent-to-use-facial-recognition-to-curb-young-video-gamers.md",
+      "title": "China's Tencent to use facial recognition to curb young video gamers",
+      "excerpt": "Chinese tech behemoth Tencent has begun to use facial recognition to prevent minors from spending large sums of money while playing endless hours of video games.",
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/9361592407529/2020/1/3a6ff9b53599ae38e5b383e93adcfc17/v1.5/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers.jpg",
+          "width": 800,
+          "height": 532,
+          "title": "China's Tencent to use facial recognition to curb young video gamers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
+      "publishedDateTime": "2020-06-17T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-facebook-open-sources-ai-for-clinical-trial-eligibility.md",
       "title": "Facebook open-sources AI for clinical trial eligibility",
       "excerpt": "Facebook researchers open-sourced a family of models that parse, extract, and transform clinical trial data to make it easier to understand.",
@@ -1059,44 +1097,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-aws-marketplace-and-aws-data-exchange-launch-in-uae.md",
-      "title": "AWS Marketplace and AWS Data Exchange launch in UAE",
-      "excerpt": "This expansion unlocks new business opportunities for UAE-based partners, enabling customers from around the world to discover and subscribe to software from UAE ISVs and Consulting Partners.\"",
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/AWS_Marketplace_and_AWS_Data_Exchange_launch_in_UAE-ZAWYA20200617075308/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "AWS Marketplace and AWS Data Exchange launch in UAE",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T01:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -59,6 +59,38 @@ related:
         width: 1021
         height: 573
         isCached: true
+  - title: "The City Of Boston Will Be Banning The Use Of Facial Recognition Based Surveillance"
+    excerpt: "While some parts of the world, facial recognition based surveillance is being adopted, there are some part of the world where the technology is"
+    publishedDateTime: 2020-06-24T23:48:00Z
+    webUrl: "https://www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/"
+    ampWebUrl: "https://www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2020/06/boston-ban-facial-recognition-surveillance/amp/"
+    type: article
+    provider:
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 38
+    images:
+      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2018/04/security-camera.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Boston Bans Use Of Facial Recognition Technology. It's The 2nd-Largest City To Do So"
+    excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."
+    publishedDateTime: 2020-06-25T10:31:00Z
+    webUrl: "https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
+    ampWebUrl: "https://amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 37
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2020/06/GettyImages-1199025045.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Ed Markey and Ayanna Pressley are proposing a federal ban on facial recognition technology"
     excerpt: "A day after the Boston City Council passed an ordinance to ban the city from using facial recognition technology, Sen. Ed Markey and Rep. Ayanna Pressley are pushing to do the same at the national level."
     publishedDateTime: 2020-06-25T21:16:00Z
@@ -74,6 +106,22 @@ related:
       - url: "https://www.boston.com/wp-content/uploads/2020/06/Racial_Injustice-Facial_Recognition-Boston_52737-850x478.jpg"
         width: 850
         height: 478
+        isCached: true
+  - title: "Boston becomes the second largest city in the US to ban facial recognition software, citing concerns that the technology is 'racially discriminatory' and threatens basic rights"
+    excerpt: "Boston will become the second major city in the US to ban facial recognition software for government use after a unanimous city council vote, citing concerns of racial bias."
+    publishedDateTime: 2020-06-27T01:21:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8464719/Boston-second-largest-city-ban-facial-recognition-software.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-second-largest-city-ban-facial-recognition-software.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-second-largest-city-ban-facial-recognition-software.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/06/27/00/30104344-0-image-a-10_1593215913669.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "qcduTVzAGfATAoLAUvFgSa5RFWNO9Dvdg+tel2kI1X6r9dhW59iu5QuXIh66Qv35lW8D/ESTQg3y+njdMvv58D50GqjzxlcjMv6GoGSU/bp2PsHpH+M205bivLJFOWEWQqJabFqMs6Y/XmDGBs8wVYWO4KpDYxYWMftWCq/D/o37Wa1K8Uhli2abETswwzW5LE7G6C+/aYtpnjNWkN45zlHyEHBxJRDIHs/+VXijfvYiRan8zJ3zG7NAKstHg2MK+nRYftP6mKhblWXnrRdvWh4801dVHnqOqbQjhF/D7AnCJk99rowBgLj0Fugi/bREjKvcHX5lUXoAbAS+lyj29lQbcCxDrm1j7rf2aR877RT16dLcn+Yrjx7v4Eu3ikzB1JWzYQ/gMlN1BGmf7sGQk2W49rFMnsZ3C9kz0bpxeC+XZ/4/5UpvaKZz6CjqYcaQCwVmUVmZFu/5ODQeo6r7MitD0vADimTtN7BnjXwJ6XGBTXXDlUfwb7ZMPikvS0D6q4Dp5zfusC26Xh+kglBMXg==;B2ItGWdSVOrQz2bC4ILOhA=="

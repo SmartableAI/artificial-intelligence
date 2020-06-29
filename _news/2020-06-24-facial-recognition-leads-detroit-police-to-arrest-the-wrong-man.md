@@ -143,22 +143,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Boston votes to ban government use of facial recognition"
-    excerpt: "Boston joined cities like San Francisco, Oakland, California, and Cambridge, Massachusetts, on Wednesday in passing a vote to ban facial recognition technology for municipal use. It's the second largest city in the US to ban facial recognition,"
-    publishedDateTime: 2020-06-24T16:58:00Z
-    webUrl: "https://www.cnet.com/news/boston-votes-to-ban-government-use-of-facial-recognition/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/boston-votes-to-ban-government-use-of-facial-recognition/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/boston-votes-to-ban-government-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/QySY5WOxLVEc5TuYCXYsPgXryIo=/756x567/2020/06/24/27df7a30-14d8-40cb-90f6-08d04c23e80c/gettyimages-1139860049.jpg"
-        width: 756
-        height: 567
-        isCached: true
   - title: "Congress needs to pass this facial recognition ban now"
     excerpt: "Earlier this year, for the first time (that we know of), a false match by a facial recognition algorithm led to the arrest of an innocent man. Now, members of Congress are finally"
     publishedDateTime: 2020-06-25T22:20:00Z
@@ -395,20 +379,6 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2020/03/markeynl06.jpg?w=1024&h=755"
         width: 1024
         height: 755
-        isCached: true
-  - title: "Wrongful Arrest Based On Face Recognition System, Complaint Says"
-    excerpt: "A flawed facial recognition algorithm led to the wrongful arrest of an African-American man in Detroit, according to a complaint filed Wednesday in a case highlighting concerns over the technology which critics say reinforces racial bias."
-    publishedDateTime: 2020-06-24T15:53:00Z
-    webUrl: "https://www.ibtimes.com/wrongful-arrest-based-face-recognition-system-complaint-says-2999768"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/24/amid-rising-concerns-over-facial-recognition-technology-used.jpg"
-        width: 1024
-        height: 651
         isCached: true
   - title: "OTR: Will Boston's ban on facial recognition technology become a national trend?"
     excerpt: "JANE BOSTON BECAME THE SECOND NATIONAL CITY TO BAN FACIAL RECOGNITION TECHNOLOGY. WILL THIS BE A TREND? WE MAY BE THE FIRST BUT WE’RE NOT THE LAST. MARY ANNE: IT’S MORE 1984 THAN A 2020 DEMOCRACY. ED: THIS WEEK,"

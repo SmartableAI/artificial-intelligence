@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-26T10:16:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2023-2020-06-26"
 type: article
 quality: 52
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market Movements by Trend Analysis, Growth Status and Revenue Expectation Forecast to 2026"
+    excerpt: "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest"
+    publishedDateTime: 2020-06-29T08:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-forecast-to-2026-2020-06-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

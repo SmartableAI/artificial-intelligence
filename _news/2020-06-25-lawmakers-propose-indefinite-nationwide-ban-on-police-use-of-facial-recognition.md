@@ -64,6 +64,49 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Congress introduces bill that bans facial recognition use by federal government"
+    excerpt: "The bill would prohibit facial recognition use by the federal government and withhold funds from state and local governments that use the tech."
+    publishedDateTime: 2020-06-25T19:34:00Z
+    webUrl: "https://venturebeat.com/2020/06/25/congress-introduces-bill-that-bans-facial-recognition-use-by-federal-government/"
+    ampWebUrl: "https://venturebeat.com/2020/06/25/congress-introduces-bill-that-bans-facial-recognition-use-by-federal-government/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/congress-introduces-bill-that-bans-facial-recognition-use-by-federal-government/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "ACLU files complaint against Detroit police for false facial recognition arrest"
+    excerpt: "The ACLU wants the Detroit Police to stop using facial recognition technology after a Black man was wrongfully arrested with the technology earlier this year."
+    publishedDateTime: 2020-06-24T18:23:00Z
+    webUrl: "https://www.digitaltrends.com/news/aclu-files-complaint-against-detroit-police-for-false-facial-recognition-test/"
+    ampWebUrl: "https://www.digitaltrends.com/news/aclu-files-complaint-against-detroit-police-for-false-facial-recognition-test/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/aclu-files-complaint-against-detroit-police-for-false-facial-recognition-test/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 80
+  - title: "Man wrongfully arrested due to facial recognition software talks about 'humiliating' experience"
+    excerpt: "A Black man in Detroit spent over a day in custody in January after an incorrect facial recognition match led to his wrongful arrest."
+    publishedDateTime: 2020-06-26T13:55:00Z
+    webUrl: "https://www.nbcnews.com/business/business-news/man-wrongfully-arrested-due-facial-recognition-software-talks-about-humiliating-n1232184"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1232184"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1232184"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 77
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202006/tdy_news_ward_security_200626_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Boston bans government use of facial recognition"
     excerpt: "Boston City Council has voted to ban the use of facial recognition by the municipality, joining a growing list of US cities to restrict use of the tech."
     publishedDateTime: 2020-06-25T18:08:00Z
@@ -139,6 +182,22 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
+  - title: "I was wrongfully arrested because of facial recognition. Why are police allowed to use it?"
+    excerpt: "While I was leaving work in January, my wife called and said a police officer had called and said I needed to turn myself in. I told her it was probably a prank. But as I pulled u"
+    publishedDateTime: 2020-06-25T13:25:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 49
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PY5FPLTWPMI6TJ57ZCSDXBHOGE.jpg&w=1440"
+        width: 1440
+        height: 1010
+        isCached: true
   - title: "Congress puts forward bill to ban use of facial recognition"
     excerpt: "Several members of Congress unveiled a bill that would completely ban the use of biometric information, including facial recognition, by the government."
     publishedDateTime: 2020-06-25T18:46:00Z

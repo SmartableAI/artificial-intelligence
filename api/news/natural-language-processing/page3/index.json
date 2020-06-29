@@ -2,53 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-05-29-sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai.md",
-      "title": "Sayyy whatttt?: Researchers analyze strange human tweets to build better AI",
-      "excerpt": "Twitter is a weird place with a language all its own. A new study focuses on using the tweets, chock-full of misspellings and slang, to improve artificial intelligence.",
-      "webUrl": "https://www.techrepublic.com/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/29/ff1451d1-1faf-4e5b-9b20-6e0ba6635d04/resize/1200x/d3505748b0576d141b3d72be59f5faaa/artificial-intelligence-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Sayyy whatttt?: Researchers analyze strange human tweets to build better AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
-      "publishedDateTime": "2020-05-29T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-29-openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters.md",
       "title": "OpenAI debuts gigantic GPT-3 language model with 175 billion parameters",
       "excerpt": "OpenAI's GPT-3 language model can generate convincing news articles and achieve state-of-the-art results on a range of NLP tasks with few-shot learning.",
@@ -1292,6 +1245,53 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-05-17-10-ways-ai-can-improve-voice-of-the-customer-programs.md",
+      "title": "10 Ways AI Can Improve Voice Of The Customer Programs",
+      "excerpt": "Gaining insight and intelligence to energize existing customer relationships calls for greater use of AI in VoC programs.",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/17/10-ways-ai-can-improve-voice-of-the-customer-programs/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec1682ea4ff430007767803%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "10 Ways AI Can Improve Voice Of The Customer Programs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/17/10-ways-ai-can-improve-voice-of-the-customer-programs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/17/10-ways-ai-can-improve-voice-of-the-customer-programs/amp/",
+      "publishedDateTime": "2020-05-17T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

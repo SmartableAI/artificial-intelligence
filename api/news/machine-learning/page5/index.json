@@ -2,6 +2,45 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-17-openai-finds-machine-learning-efficiency-is-outpacing-moores-law.md",
+      "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
+      "excerpt": "OpenAI researchers outline a new way to measure AI efficiency, and using their measure, they show AI has been getting more efficient at a wicked pace.",
+      "webUrl": "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/05/frankie-lopez-sMzlrCmZSwY-unsplash-2.jpg",
+          "width": 1408,
+          "height": 793,
+          "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/amp/",
+      "publishedDateTime": "2020-05-17T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-16-steve-platt-and-experian-decades-of-delivering-return-on-ai.md",
       "title": "Steve Platt And Experian: Decades Of Delivering Return On AI",
       "excerpt": "Steve Platt, an Experian executive, has a long history of delivering economic returns from artificial intelligence.",

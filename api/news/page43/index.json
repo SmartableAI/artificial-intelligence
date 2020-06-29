@@ -2,6 +2,53 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-05-21-gap-is-speeding-up-its-rollout-of-warehouse-robots-to-limit-person-to-person-contact-amid-the-coronavirus.md",
+      "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
+      "excerpt": "Gap Inc. is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic.",
+      "webUrl": "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ec6ecbf3ad861791b7c0226?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp",
+      "publishedDateTime": "2020-05-21T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand.md",
       "title": "Police trial controversial Clearview AI facial recognition tech in New Zealand",
       "excerpt": "Clearview AI facial recognition technology once again made the news for crimefighting reasons, this time in New Zealand. But controversy persists.",
@@ -1029,55 +1076,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus.md",
-      "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
-      "excerpt": "Nvidia graphics processors are now part of Microsoft's hybrid cloud platform, in your data centre and on the edge of your network.",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/20/80b822d9-b20b-4ba7-8a9a-461401bce55e/resize/400x/90d28741c1cdcb3f5513125869884ad8/nvidia-v100-t4-gpus.jpg",
-          "width": 400,
-          "height": 450,
-          "title": "Microsoft Azure: Boosting machine learning and virtual desktops with GPUs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-boosting-machine-learning-and-virtual-desktops-with-gpus/",
-      "publishedDateTime": "2020-05-21T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
       ]
     }
   ],

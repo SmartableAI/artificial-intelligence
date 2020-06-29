@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technol
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html"
 type: article
 quality: 74
-heat: 304
+heat: 314
 published: true
 
 provider:
@@ -261,6 +261,22 @@ related:
       - url: "https://images.axios.com/FT1f4C55jmQsmQbKyWsor8otFoM=/fit-in/1366x1366/2020/06/26/1593145599810.png"
         width: 1366
         height: 797
+        isCached: true
+  - title: "Didi Chuxing tries self-driving taxis"
+    excerpt: "Didi Chuxing, China’s largest taxi-booking platform, began testing autonomous cars connected to a vehicle-to-everything (V2X)"
+    publishedDateTime: 2020-06-29T08:50:00Z
+    webUrl: "https://www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/"
+    ampWebUrl: "https://www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/amp/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 44
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2020/06/Didi_Chuing_autonomous_taxi.jpg"
+        width: 650
+        height: 396
         isCached: true
   - title: "Amazon buys Silicon Valley self-driving tech unicorn Zoox at a big discount"
     excerpt: "Amazon may be paying upwards of $1 billion for the Foster City startup, a move that puts it more squarely in Silicon Valley self-driving vehicle race."

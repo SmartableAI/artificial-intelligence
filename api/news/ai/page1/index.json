@@ -313,12 +313,12 @@
       "path": "_news/2020-06-28-from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap.md",
       "title": "From PhD in AI to fruit chips company, youngster takes a big leap",
       "excerpt": "Twenty-eight-year-old Bharadwaj Karanth’s company, Suvidha Foods and Beverages, procures fruits and vegetables directly from farmers and processes them into chips and dry fruits.",
-      "webUrl": "https://www.newindianexpress.com/cities/bengaluru/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.html",
+      "webUrl": "https://www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.html",
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/6/28/w600X390/From_PhD_in_AI.jpg",
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/6/29/w600X390/karanth094206.jpg",
           "width": 600,
           "height": 390,
           "title": "From PhD in AI to fruit chips company, youngster takes a big leap",
@@ -327,8 +327,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/cities/bengaluru/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/bengaluru/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp",
+      "ampWebUrl": "https://www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp",
       "publishedDateTime": "2020-06-27T17:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -863,6 +863,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-26-facial-recognition-leads-to-first-wrongful-us-arrest-activists-say.md",
+      "title": "Facial recognition leads to first wrongful U.S. arrest, activists say",
+      "excerpt": "Robert Williams spent over a day in custody in January after face recognition software matched his driver’s license photo to surveillance video of someone shoplifting.",
+      "webUrl": "https://www.nbcnews.com/tech/security/facial-recognition-leads-first-wrongful-u-s-arrests-activists-say-n1231971",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_26/3392279/rtx5zan6_8801ea9903a80ccb7d234bcb75bfe8f1.JPG",
+          "width": 2500,
+          "height": 1667,
+          "title": "Facial recognition leads to first wrongful U.S. arrest, activists say",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1231971",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231971",
+      "publishedDateTime": "2020-06-26T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-seattle-rises-three-spots-cracks-the-top-10-in-annual-global-startup-ecosystem-rankings.md",
       "title": "Seattle rises three spots, cracks the top 10 in annual global startup ecosystem rankings",
       "excerpt": "Seattle jumped three spots and moved into the top 10 of Startup Genome’s annual global startup ecosystem rankings. The list ranks cities based on seven “success factors”: performance,",
@@ -960,7 +998,7 @@
       "title": "Amazon buys self-driving technology company Zoox",
       "excerpt": "Amazon is jumping deeper into the market for autonomous driving with the purchase of Zoox, which was valued at over $3 billion in 2018.",
       "webUrl": "https://www.cnbc.com/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
-      "heat": 304,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -1046,54 +1084,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us.md",
-      "title": "Democrats and civil liberties groups back law banning facial recognition across the US",
-      "excerpt": "New legislation that would ban police use of facial recognition software across the US has been backed by civil liberties groups -- but not Big Tech.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/",
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-85-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Democrats and civil liberties groups back law banning facial recognition across the US",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/",
-      "publishedDateTime": "2020-06-26T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -1334,7 +1324,7 @@
       "title": "Let's Kill Facial Recognition For Good",
       "excerpt": "Those emails mention all three classes of surveillance covered in today’s bill—pattern, facial, and voice recognition—as being available for the DEA to use at its discretion. “Facial recognition technology doesn’t just pose a grave threat to our ...",
       "webUrl": "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367",
-      "heat": 104,
+      "heat": 134,
       "tags": null,
       "images": [
         {

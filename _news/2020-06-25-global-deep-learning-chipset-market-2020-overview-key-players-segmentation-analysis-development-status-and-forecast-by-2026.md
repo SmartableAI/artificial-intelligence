@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing Market Movements by Trend Analysis, Growth Status and Revenue Expectation Forecast to 2026"
+    excerpt: "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest"
+    publishedDateTime: 2020-06-29T08:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-forecast-to-2026-2020-06-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market- Global Industry Analysis By Development, Size, Share and Demand Forecast From to 2023"
     excerpt: "Artificial Intelligence in Manufacturing Market: Global Drivers, Restraints, Opportunities, Trends, and Forecasts up"
     publishedDateTime: 2020-06-25T16:04:00Z

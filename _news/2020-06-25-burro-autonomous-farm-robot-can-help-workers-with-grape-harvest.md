@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-25T12:17:00Z
 webUrl: "https://www.freshplaza.com/article/9229253/burro-autonomous-farm-robot-can-help-workers-with-grape-harvest/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     height: 630
     isCached: true
     title: "Burro autonomous farm robot can help workers with grape harvest"
-
-related:
-  - title: "Autonomous farm robot Burro assists human workers with grape harvest"
-    excerpt: "Burro is an autonomous driving robot that assists farm workers harvesting grapes in California that can augment or replace humans."
-    publishedDateTime: 2020-06-24T16:43:00Z
-    webUrl: "https://venturebeat.com/2020/06/24/autonomous-farm-robot-burro-assists-human-workers-with-grape-harvest/"
-    ampWebUrl: "https://venturebeat.com/2020/06/24/autonomous-farm-robot-burro-assists-human-workers-with-grape-harvest/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/autonomous-farm-robot-burro-assists-human-workers-with-grape-harvest/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/burro-robot.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "ljAqe+7+bbk3lJf1SF/08Qfn1fBbdn6Rx82xkm6XCANnimHNllT1rdyLz96HnIUsJzvQDrqAv53iAXuNVwU5hTxMMHxPlTaLdbaIgI1DeT4S4d17BN6jCCpwkkcNTZdQ8hok5qbViciRTsFlK0y/dd1/2/KCRKuerGQ+d7cF2ft9ZNCD3jdHOxaBqI8ylfrU65dFliJ/sTPNaUE1ElMaUEWs4LCL7SQUuTdLVwos9dRLQHTok9dM9OrUFGqq5z0NpoVNLZa4akxX+BQebR5LVol2rfVNaUw8W4aA+wEnBDgMKZihxrXlJnKk/AaWVEtx3+ZNnSNVVXbLSLjheltXFQ==;OXFD8R/mWucIvAOWbrKJjg=="
 ---

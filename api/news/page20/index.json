@@ -2,6 +2,53 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-06-11-clearview-ai-still-backs-facial-recognition-despite-competitors-concerns.md",
+      "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
+      "excerpt": "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse.",
+      "webUrl": "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
+      "publishedDateTime": "2020-06-10T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-the-4-types-of-future-companies-as-a-result-of-automation-and-ai.md",
       "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
       "excerpt": "Why AI and automation will create new types of companies in the future. The success of these companies will depend upon their use of AI, automation and self management",
@@ -1055,53 +1102,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60.md",
-      "title": "AWS certification course bundle deal: Train to become a cloud pro for just $60",
-      "excerpt": "Since launching in 2006, Amazon Web Services (AWS) has become the premier on-demand cloud computing platform. Offering a wide range of APIs to companies, governments, and individuals on a pay-as-you-go basis,",
-      "webUrl": "https://www.zdnet.com/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/05/35c5ae5e-3009-4ea2-90ec-61584b9fe4ce/thumbnail/1200x675/4eaf54addf487f85eff01764ae49ab83/zdnet-aws.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AWS certification course bundle deal: Train to become a cloud pro for just $60",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
-      "publishedDateTime": "2020-06-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

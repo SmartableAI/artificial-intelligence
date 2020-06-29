@@ -2,6 +2,44 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-05-19-mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy.md",
+      "title": "Mentice Launches Seventh Generation Platform Aimed to Transform Endovascular Therapy",
+      "excerpt": "GOTHENBURG, Sweden, May 19, 2020 /PRNewswire/ -- Mentice AB (STO: MNTC), today announced the global introduction of its seventh-generation simulation platform - VIST® G7 to become the endovascular simulation platform for Mentice solutions including artificial intelligence guidance,",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mentice-launches-seventh-generation-platform-aimed-to-transform-endovascular-therapy-1029213663",
+      "publishedDateTime": "2020-05-19T01:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-how-machines-see-everything-you-need-to-know-about-computer-vision.md",
       "title": "How machines see: everything you need to know about computer vision",
       "excerpt": "The human vision is a very intricate piece of organic technology that involves our eyes and visual cortex, but also takes into account our mental models of objects, our abstract understanding of concepts and our personal experiences through billions and trillions of interactions we’ve made with the world in our lives.",
@@ -991,52 +1029,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-as-mental-health-needs-surge-this-seattle-startup-offers-ai-powered-analysis-of-therapy-sessions.md",
-      "title": "As mental health needs surge, this Seattle startup offers AI-powered analysis of therapy sessions",
-      "excerpt": "The novel coronavirus has brought with it fears of infection, massive job losses, the challenges of teaching kids at home, social isolation, and the list goes on. The toll on our collective",
-      "webUrl": "https://www.geekwire.com/2020/mental-health-needs-surge-seattle-startup-offers-ai-powered-analysis-therapy-sessions/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Lyssn_telehealth-630x383.png",
-          "width": 630,
-          "height": 383,
-          "title": "As mental health needs surge, this Seattle startup offers AI-powered analysis of therapy sessions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/mental-health-needs-surge-seattle-startup-offers-ai-powered-analysis-therapy-sessions/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/mental-health-needs-surge-seattle-startup-offers-ai-powered-analysis-therapy-sessions/amp/",
-      "publishedDateTime": "2020-05-18T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

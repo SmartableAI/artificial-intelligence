@@ -389,20 +389,6 @@ related:
         width: 1100
         height: 700
         isCached: true
-  - title: "Mercedes-Benz joins Nvidia to build self-driving platform for 2024 fleet"
-    excerpt: "Benz and graphics giant Nvidia have joined hands to build an in-vehicle computing system for next-gen automated cars. Starting in 2024, the software-defined computing architecture will be rolled out across the fleet of Mercedes-Benz vehicles,"
-    publishedDateTime: 2020-06-24T15:24:00Z
-    webUrl: "https://www.dailypioneer.com/2020/technology/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 23
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet-2020-06-24.jpg"
-        width: 1000
-        height: 800
-        isCached: true
 
 secured: "j3ikCwZwqV27fr5ox3EQdTyS8tEk1qRP/lYLhm312DgsZPHz9eZifIh538CWpYX+YVA3P4X7lOplxCfB9mvzexDEkYlh6Wi90TB1oHkNhQpLOziu50w3X82CrAe6dVYEP++5fOzy0kcvFudLCd0H03nR971q+KgjNimJFOftNWMSroH6O08R/b/lind6GWWYZ2n617XRB/34bb+KrEQlOOoGENFCbkGB0qMN1hl9VJ9fNC7S/KI0tMBkNfmCUOUWtggXczVNnFd8px9+9EQeY8EDLtFC7iHqfQFPN6DRrQoHiMAwupN8r9AJ5+KKECpf6yfsCs4ke1iTVFVRpyMdhQ==;vUPaR1fy92TGYr/oIW0iYA=="
 ---

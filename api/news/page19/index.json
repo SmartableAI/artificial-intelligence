@@ -2,6 +2,44 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-06-11-police-wont-be-using-ibm-amazon-facial-recognition-technology-for-now-as-companies-either-pause-or-suspend-its-use.md",
+      "title": "Police won’t be using IBM, Amazon facial recognition technology for now as companies either pause or suspend its use",
+      "excerpt": "Amazon Rekognition, the company’s face identification technology that launched in 2016 and has been sold to multiple U.S. government agencies, will not be used by law enforcement for at least a ...",
+      "webUrl": "https://www.masslive.com/police-fire/2020/06/police-wont-be-using-ibm-amazon-facial-recognition-technology-for-now-as-companies-either-pause-or-suspend-its-use.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SKEUAF4FRNG3JOQ3T7XVREA5NQ.jpg",
+          "width": 6320,
+          "height": 4213,
+          "title": "Police won’t be using IBM, Amazon facial recognition technology for now as companies either pause or suspend its use",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.masslive.com/police-fire/2020/06/police-wont-be-using-ibm-amazon-facial-recognition-technology-for-now-as-companies-either-pause-or-suspend-its-use.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/06/police-wont-be-using-ibm-amazon-facial-recognition-technology-for-now-as-companies-either-pause-or-suspend-its-use.html?outputType=amp",
+      "publishedDateTime": "2020-06-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassLive",
+        "domain": "masslive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-the-smart-future-will-robotics-call-the-shots-post-coronavirus.md",
       "title": "The Smart Future: Will Robotics Call the Shots Post Coronavirus?",
       "excerpt": "Robotics revolution is swiftly gaining momentum and in the months to come, it might become the new normal. AI is already an integral element of our daily lives from online shopping to digital assistance from Sire and Alexi to diagnosis of life-endangering diseases.",
@@ -963,53 +1001,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-clearview-ai-still-backs-facial-recognition-despite-competitors-concerns.md",
-      "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
-      "excerpt": "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse.",
-      "webUrl": "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
-      "publishedDateTime": "2020-06-10T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Computer Vision"
       ]

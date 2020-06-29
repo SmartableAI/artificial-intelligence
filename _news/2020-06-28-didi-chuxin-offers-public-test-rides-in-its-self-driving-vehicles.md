@@ -389,20 +389,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
-  - title: "Mercedes-Benz joins Nvidia to build self-driving platform for 2024 fleet"
-    excerpt: "Benz and graphics giant Nvidia have joined hands to build an in-vehicle computing system for next-gen automated cars. Starting in 2024, the software-defined computing architecture will be rolled out across the fleet of Mercedes-Benz vehicles,"
-    publishedDateTime: 2020-06-24T15:24:00Z
-    webUrl: "https://www.dailypioneer.com/2020/technology/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 23
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/mercedes-benz-joins-nvidia-to-build-self-driving-platform-for-2024-fleet-2020-06-24.jpg"
-        width: 1000
-        height: 800
-        isCached: true
 
 secured: "Qj0ODtX73/Kyjy1zaG6V5I8ZxCDO9ZNKdm5k21WRdn45sdU0nrCjQB78lXm13mFFq2IpO05fNTzkGH0+UxsJE2y+pbuLRqIKegp+WrC2JDn7eL6Bsgr+XqfmdhmFeUrzB4HNxc+qHT7Gb7LIL8RPJtWfUmF1319Yrnm3zQATe+t+J2gMVkDvmuVH/9Jpbvyus/6deYbgunio4I8FGxmKKyN1kT9gvPD0c/RkyYYERftclZqAlFL4Pox4KkgZRlVa72zEiZvhSP6YQ+S0f/0tY2i4CD2hGCieNPEzt57qdXfgGcB2GT6mF1LKTn5OY1b7PiAAXxwmsgYQ+L8aLDEvog==;a4WtyI7ObQ8iS0LotUccWA=="
 ---

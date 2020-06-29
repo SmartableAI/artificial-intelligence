@@ -2,6 +2,53 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-06-10-aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60.md",
+      "title": "AWS certification course bundle deal: Train to become a cloud pro for just $60",
+      "excerpt": "Since launching in 2006, Amazon Web Services (AWS) has become the premier on-demand cloud computing platform. Offering a wide range of APIs to companies, governments, and individuals on a pay-as-you-go basis,",
+      "webUrl": "https://www.zdnet.com/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/05/35c5ae5e-3009-4ea2-90ec-61584b9fe4ce/thumbnail/1200x675/4eaf54addf487f85eff01764ae49ab83/zdnet-aws.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AWS certification course bundle deal: Train to become a cloud pro for just $60",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
+      "publishedDateTime": "2020-06-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-loop-insights-launches-automated-contact-tracing-platform-to-support-covid-19-government-mandate.md",
       "title": "Loop Insights Launches Automated Contact Tracing Platform to Support Covid-19 Government Mandate",
       "excerpt": "Loop ' s solution ensures 100% accurate data collection via its proprietary IoT (Internet of Things) device, Fobi, and offers AI and predictive modeling. Reactionary time is vital for the management of Covid-19 outbreaks;",
@@ -999,54 +1046,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-daily-crunch-ibm-is-getting-out-of-facial-recognition.md",
-      "title": "Daily Crunch: IBM is getting out of facial recognition",
-      "excerpt": "IBM’s CEO takes a stand on mass surveillance, Apple may soon make a big chip announcement and Google Maps gets new features to help users navigate transit safely. Here’s your Daily Crunch for . 1. IBM ends all facial recognition business as CEO calls out bias and inequality",
-      "webUrl": "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/",
-      "heat": 256,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-540691818.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Daily Crunch: IBM is getting out of facial recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/",
-      "publishedDateTime": "2020-06-09T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

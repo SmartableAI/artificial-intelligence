@@ -274,6 +274,22 @@ related:
         width: 1366
         height: 797
         isCached: true
+  - title: "Didi Chuxing tries self-driving taxis"
+    excerpt: "Didi Chuxing, China’s largest taxi-booking platform, began testing autonomous cars connected to a vehicle-to-everything (V2X)"
+    publishedDateTime: 2020-06-29T08:50:00Z
+    webUrl: "https://www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/"
+    ampWebUrl: "https://www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/amp/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 44
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2020/06/Didi_Chuing_autonomous_taxi.jpg"
+        width: 650
+        height: 396
+        isCached: true
   - title: "Amazon looks to self-driving future by acquiring Zoox | Raleigh News & Observer"
     excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will drive up without a driver."
     publishedDateTime: 2020-06-26T19:12:00Z
