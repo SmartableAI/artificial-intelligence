@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon to acquire autonomous driving startup Zoox"
+    excerpt: "Amazon has announced that it will acquire Zoox, a self-driving startup founded in 2014, which has raised nearly $1 billion in funding and which aims to develop autonomous driving technology, including vehicles,"
+    publishedDateTime: 2020-06-26T13:40:00Z
+    webUrl: "https://techcrunch.com/2020/06/26/amazon-to-acquire-autonomous-driving-startup-zoox/"
+    ampWebUrl: "https://techcrunch.com/2020/06/26/amazon-to-acquire-autonomous-driving-startup-zoox/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/26/amazon-to-acquire-autonomous-driving-startup-zoox/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/90.png?w=1024"
+        width: 1024
+        height: 462
+        isCached: true
   - title: "Amazon reportedly seals $1.2 billion acquisition of self-driving startup Zoox"
     excerpt: "Amazon will reportedly pay over $1.2 billion to acquire Zoox, one of the many companies working on self-driving technology. The acquisition represents Amazon’s strongest commitment to self-driving so far."
     publishedDateTime: 2020-06-26T09:14:00Z
@@ -345,6 +361,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "Amazon’s Zoox Purchase Says a Lot About the Future of Self-Driving Cars"
+    excerpt: "Way back in 2018 my colleague Ashlee Vance profiled the founders of the startup, which had raised hundreds of millions of dollars to put self-driving robotaxis on public roads by 2020. It was a concept that seemed tantalizingly possible back then—its competitors included Alphabet Inc."
+    publishedDateTime: 2020-06-29T10:45:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2020-06-29/amazon-s-zoox-purchase-says-a-lot-about-the-future-of-self-driving-cars"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 34
   - title: "Why Elon Musk Taunted Bezos For Being A Copycat In Amazon’s Buyout Of Zoox, An Autopilot-Like Self-Driving Car Stalwart"
     excerpt: "It is time to blare the trumpets and roll out the red carpet for some good old-fashioned maxims that explain the recent announcement of mighty Amazon buying comparatively petite Zoox, a notable self-driving car maker known primarily to Autonomous Vehicle (AV) insiders (for my coverage,"
     publishedDateTime: 2020-06-28T17:43:00Z
@@ -385,6 +410,6 @@ related:
         height: 720
         isCached: true
 
-secured: "crEJR46n9uv8RVndHI4p6iZgJIO7fjyEmU7tnwxsDZ4HDn/VVYuG1+OuSEeOyrJDd8oU38jhtyEKE0yrN4gTBev0dsMGaBxCeZ3d5DhhJ8LOjSTXZBW63JleYw3XNT32NAhf1tO5OE3Abs0JTlfrWS6LLxTTIAHX3/Z8/tILRU4tsrqHyF7YcYG7muGz6wBWmDNwLehvXV4egwB/tRIte7F4uvz3kUnV03DtGYQlskp/vcQcBigK9JaMRZLwE6+W2CaFwQeCVeU0cCIAWJnJPqMe89Aabg3r19ddy3qJWFY6KBhgYmU0bZEuBXAmOjQ3b5OLWGTbLuqWVxmvHLt0DQ==;T4TjZAeIz/duSq2DJoPU2A=="
+secured: "+SsLpX75KK8oX9kfybM1QuJQxLVRwdpkFlcX+KLsgeWr8y4KEhr2KjgnZNPav1t+qishAZFKaZ7vpXC5ycLaShHiX0HobmY2ZV7xhqao2UpOYow6pwBrws5nGeRyQbbWSkqBwnn4imVhKlFWMMvAxmN46q8S8uLG0xrjjKDJfQ2TKtnxl+58MUaTiBjZEo/698t8oQgInq4oUipXucBbL0VhAXPGEzPKW5TimiYOnlVIvy9xo9G9LZ3xyOMNXOHbJjUF+cWxoQLyhGfvQdSgnfIIV/xzWWzrO2Rg5xN/O+vMN5Wzs9VVpIGblAX6IL1KkhgAD9vXrQoYGiCx0MZVXPgh32hGdBcNfsYxXyVPupBVGQhwNdOMrvvwChEwA7yISJOEv5y1+j6lKzN87v/pbN7QfJ/RYNJnY9UKdcgVerGWshYj8XicLaaswrPk0VLP0yrnb17qdfzT9jV1jIFUw+fmn6EzDZtYL1wHZBkYgiuNt97gqsgXBJUrBc9Ga1YDJ3opf8HSJBsGrsQYJo4PZg==;NyJsjivnahmIN8VNx2bqFw=="
 ---
 

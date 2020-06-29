@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/embraci
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/06/26/embracing-ai-technologies-while-harnessing-the-power-of-the-heart/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     title: "Embracing AI Technologies While Harnessing The Power Of The Heart"
 
 related:
+  - title: "Veo Technologies Is Helping Thousands Of Soccer Teams Film Their Matches With AI-Driven Cameras"
+    excerpt: "Veo Technologies has made a huge dent in the soccer industry and is now looking to take on the rest of the sports world."
+    publishedDateTime: 2020-06-29T10:10:00Z
+    webUrl: "https://www.forbes.com/sites/mortenjensen/2020/06/29/veo-technologies-is-helping-thousands-of-soccer-teams-film-their-matches-with-ai-driven-cameras/"
+    ampWebUrl: "https://www.forbes.com/sites/mortenjensen/2020/06/29/veo-technologies-is-helping-thousands-of-soccer-teams-film-their-matches-with-ai-driven-cameras/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mortenjensen/2020/06/29/veo-technologies-is-helping-thousands-of-soccer-teams-film-their-matches-with-ai-driven-cameras/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 75
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef469ff26f198000715ca1a%2F0x0.jpg"
+        width: 1200
+        height: 802
+        isCached: true
   - title: "The Power of Outsourcing AI and Machine Learning Projects"
     excerpt: "Machine learning and artificial intelligence are at the forefront of today’s technological world. These technologies are not only evolving at a"
     publishedDateTime: 2020-06-26T02:02:00Z
@@ -56,7 +72,7 @@ related:
     provider:
       name: Daily Times
       domain: dailytimes.com.pk
-    quality: 59
+    quality: 61
     images:
       - url: "https://dailytimes.com.pk/assets/uploads/2020/06/29/4.-The-Artificial-intelligence-examples-That-People-Havent-Realized.jpg"
         width: 960

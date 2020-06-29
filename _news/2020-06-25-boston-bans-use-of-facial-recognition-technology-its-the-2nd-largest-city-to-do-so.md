@@ -75,6 +75,20 @@ related:
         width: 1021
         height: 573
         isCached: true
+  - title: "Why the racism in facial recognition software probably can’t be fixed"
+    excerpt: "It’s been proven that facial recognition software isn’t good at accurately identifying people of color. It’s also known that police departments around the country use facial recognition tools to identify suspects and make arrests."
+    publishedDateTime: 2020-06-29T10:05:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/facial-recognition-software-racism-people-of-color-wrongful-arrests-algorithmic-bias/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 41
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2020/06/fr-ft-img.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The City Of Boston Will Be Banning The Use Of Facial Recognition Based Surveillance"
     excerpt: "While some parts of the world, facial recognition based surveillance is being adopted, there are some part of the world where the technology is"
     publishedDateTime: 2020-06-24T23:48:00Z

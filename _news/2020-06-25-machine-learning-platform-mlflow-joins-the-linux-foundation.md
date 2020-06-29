@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/machine-learning-pla
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-platform-mlflow-joins-the-linux-foundation/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/MLflow.jpg"
         width: 995
         height: 535
+        isCached: true
+  - title: "The future of education is digital, online learning platform CEO says"
+    excerpt: "Even before the coronavirus pandemic, online learning options were growing. But now, with around a billion and a half students worldwide displaced from schools, education institutions are scrambling to offer e-learning tools."
+    publishedDateTime: 2020-06-29T10:45:00Z
+    webUrl: "https://www.marketplace.org/2020/06/29/future-of-education-online-learning-coursera-jeff-maggioncalda/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 24
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2020/06/GettyImages-1213470247.jpg?w=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "jKh7MEiF8t/e3/ks1HRkfWcuJd5dp16ONWNiWaUoDjENm6W8LhAtf6CPeEx9Sbp5aiAoUvqlPaCRnfMUrqotWxSAquMKzZ0Bouhe8G/d1imOHw7ebiM6yWpeUTjT8QJ4nc3ZJLiV/siEITclJhPr6ZAOG1FBRuMn7F3Z/J4qKcXHNzoa3hKo7rh27RK9x21X15LFkwMuWBd22fgyfRzw/bVJCSalS2vPXhHl2+WnV7otwtb/Q2IU+2hLRPuDTucOSeDKpOJjPunopsEUtcbBlLS2BuYXmSn+lQXZA4anPZ3bMOJFodkBl2Dnx86snLjKcuEEBsM/MDYX7iCTT392EsehSOgfGAykwXobc3hHrHA7z0LqdI9e2B3BEM8xaOb4J0G69FsuRQZT8GdIo0L8bM/Kk7e2Ji7UG9Dg8WaU2v1wU9uPpVta6hrmZGkZwgkxc4SmXCFQtWs0BLOSpxeVZ702P51Avv9VJo+aS+WM82eps51R+hjUQmbe3zAX76Bw;ZmUdcHI34W+f9jtrm5xfXA=="

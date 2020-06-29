@@ -91,17 +91,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "ACLU files complaint against Detroit police for false facial recognition arrest"
-    excerpt: "The ACLU wants the Detroit Police to stop using facial recognition technology after a Black man was wrongfully arrested with the technology earlier this year."
-    publishedDateTime: 2020-06-24T18:23:00Z
-    webUrl: "https://www.digitaltrends.com/news/aclu-files-complaint-against-detroit-police-for-false-facial-recognition-test/"
-    ampWebUrl: "https://www.digitaltrends.com/news/aclu-files-complaint-against-detroit-police-for-false-facial-recognition-test/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/aclu-files-complaint-against-detroit-police-for-false-facial-recognition-test/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 80
   - title: "Boston bans government use of facial recognition"
     excerpt: "Boston City Council has voted to ban the use of facial recognition by the municipality, joining a growing list of US cities to restrict use of the tech."
     publishedDateTime: 2020-06-25T18:08:00Z

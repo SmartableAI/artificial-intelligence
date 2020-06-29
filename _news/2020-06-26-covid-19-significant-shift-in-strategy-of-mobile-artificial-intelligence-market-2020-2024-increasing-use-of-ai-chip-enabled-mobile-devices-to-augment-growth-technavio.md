@@ -5,8 +5,8 @@ excerpt: "Technavio has announced its latest market research report titled Globa
 publishedDateTime: 2020-06-26T17:30:00Z
 webUrl: "https://www.businesswire.com/news/home/20200626005284/en/COVID-19-Significant-Shift-Strategy-Mobile-Artificial-Intelligence"
 type: article
-quality: 2
-heat: 2
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mms.businesswire.com/media/20200626005284/en/801494/23/IRTNTR40360.jpg"
@@ -23,6 +24,6 @@ images:
     isCached: true
     title: "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio"
 
-secured: "7JZjYWCYoIHaMnexFu4C/QF3r2g77H48WXA8EtyIslHF2MdxAqe3BjDFKjMwYJzcMzoSqsnZiS6qD57mwuOi5gyayPzqWLrDMwhObC+8oN/9OTK90ir0e9DzTdDFJh6A2nwyt2mGYkDrfY2ku02RHyEPlkny9062VA7pgFWEWeFLYU4druOV9MXry7paDyrPbED8lRL/+0cbfvxjv39osXfoZ4elwAJz1fh+cDhZMtvJBhk1x2tI0zDRLsDALybGf0Q9yG7md6Rblb035Hi4nTrpmOH7m2Gc1o6j4PIKa/y3snwGMRokJJK2RQk+WpG0AuKPRXcaqGp4SAiXu6eu5w==;2iS26Vq6xON/c5vY5pf9tA=="
+secured: "Afu/YO50TOwxCoAuMd9VuH2f8Ld90oFQn1yI8H4lRR1D+P6Y72j64Ie//Nm2CMzCablGS9AmQENBLngCut/Qvcl3UWlYBvpRVyNly3DNTSc1MAJA3a7nRdvC98+ZLa8t/JloNtebyJFfdWhZbMbbtIgzw/Pfv5gzM7EDEt4nHgNo3CxBJpPFQ2KHwJmEAk8PJXvx4Gp+jUidu3bfIxmikMlAN/7oXQTiG3jeq4s22O56KPyu6LFQFCq0IilibMqHgrs7hJXheNZUzUJyNoQpjOE1jbNqTVmvXYxXv3m96THzguUzHOz50A58beaQV8iWThwnDyv7FenlQ57LQD6EZmwHSLDCBP6cgtJc22otagvykRizcfiarcXGsRGCs9vJJAqowPsWfJcUki9RYecdgExSQ9WTEJh2V2FDtvrLBSTfkjk9xFFtwtWzn/t3ZoYYn/GJg3GpPy1IT+Bm0CX8W8/IHeeCWMKOc/fxVkYzaYCMTi0QnmuzkWG0dnhOpeT8r08rFfTWjpbwPqcSHs+bpA==;bsV6lYwRU9FVGN5JiuARpw=="
 ---
 

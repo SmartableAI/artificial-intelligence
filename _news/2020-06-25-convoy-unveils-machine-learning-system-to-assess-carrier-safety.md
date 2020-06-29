@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-25T14:15:00Z
 webUrl: "https://www.ttnews.com/articles/convoy-unveils-machine-learning-system-assess-carrier-safety"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     height: 246
     isCached: true
     title: "Convoy Unveils Machine Learning System to Assess Carrier Safety"
-
-related:
-  - title: "Convoy Provides Safer Carriers Through Machine Learning, Automation"
-    excerpt: "Logistics provider Convoy, in an effort to provide only the safest carriers in its network, has applied both machine learning and automation to qualify safe drivers."
-    publishedDateTime: 2020-06-24T17:17:00Z
-    webUrl: "https://www.truckinginfo.com/10119617/convoy-provides-safer-carriers-through-machine-learning-automation"
-    type: article
-    provider:
-      name: Truckinginfo
-      domain: truckinginfo.com
-    quality: 39
-    images:
-      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-06/convoy-safety-__-1200x630-s.jpg"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "Convoy Identifying Safer Carriers Through Machine Learning, Automation"
-    excerpt: "Logistics provider Convoy, in an effort to use only the safest carriers in its network, has applied machine learning and automation to qualify safe drivers."
-    publishedDateTime: 2020-06-25T08:20:00Z
-    webUrl: "https://www.truckinginfo.com/10119617/convoy-provides-safer-carriers-through-machine-learning-automation"
-    type: article
-    provider:
-      name: Truckinginfo
-      domain: truckinginfo.com
-    quality: 39
-    images:
-      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-06/convoy-safety-__-1200x630-s.jpg"
-        width: 945
-        height: 630
-        isCached: true
 
 secured: "UkiP3FYOdUIIjgM0JxmYzYBXgzSV/6mmRu92HlhU6AqfwPc7gHXhNQWkNNzgL7JijO1HELsuyqGgJOPJ2o5eVIT+rZRkR3x3nvr0TGmlbfTI7eX2M2Jc181rncV0Tnkn6fZ9bl586ouXLOW5PaYSc+LXzVhhJ0rpY7pmMnMyNy6E4vql+qsSAPGcoEJevuDFlk3UMeB6m0snI058mLNhGCE/9aaeD4fC1XVpcz3/XRhQtQXnuycwRjUH57569gbBk7RmDBAdU0ULsyimkVOjCTDM2gkwGEuTZ9KvCUuPz7psjVVqo1uQh0JNt0oaMjagsr/HFfAzONIrNPpz0fmy+MNwEdLjHakj7lRh/GEK1PFFjNXDHazKU+c/3Q6TRn44qbk+SBH25NqyCvBawyCuPNnIQJLNrPc51keAQ7iMklGaNuT42X1uwtrEX4IxRoyqFXe0McS8qAMS9cCnnfo1QDJDRdD5LxTb2qvP8MlnLWbNQ6Mj4UgjZXs49hU/mVbnruF8oOPG3XPApCJRU3dhPQ==;BWgaCshvbppc2Txxz3HKmg=="
 ---

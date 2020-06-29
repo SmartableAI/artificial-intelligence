@@ -24,29 +24,15 @@ images:
     title: "Insights & Forecast with Potential Impact of COVID-19 - Artificial Intelligence in Energy Market 2019-2023 | Demand for Data Integration and Visual Analytics to Boost Growth ..."
 
 related:
-  - title: "Artificial Intelligence Market : Facts, Figures and Analytical Insights 2020 - 2025"
-    excerpt: "Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer Center. The MarketWatch News Department was not involved in the creation of this ..."
-    publishedDateTime: 2020-06-25T13:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-facts-figures-and-analytical-insights-2020---2025-2020-06-25"
+  - title: "Service Robotics Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026"
+    excerpt: "The global service robotics market is expected to rise with an impressive CAGR and generate the highest revenue by"
+    publishedDateTime: 2020-06-29T08:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market---by-supply-demand-scenario-application-by-region-pricing-analysis-opportunities-and-forecast-2026-2020-06-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Market 2019 Size, Share, Production Technology, Features, Cost, Revenue, Manufacturers, Region, Applications and Forecast to 2026"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 26, 2020 (CDN Newswire via Comtex) -- A concise assortment of data on ' Computer Vision market' is covered in a newly published research added to the repository of ..."
-    publishedDateTime: 2020-06-26T18:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2019-size-share-production-technology-features-cost-revenue-manufacturers-region-applications-and-forecast-to-2026-2020-06-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

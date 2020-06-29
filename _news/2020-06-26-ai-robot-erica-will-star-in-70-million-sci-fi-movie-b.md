@@ -95,22 +95,6 @@ related:
         width: 1200
         height: 601
         isCached: true
-  - title: "A robot named Erica will star in an upcoming $70M Sci-Fi feature"
-    excerpt: "who designed the real life automaton as a part of their exploration into the realm of robotics. In addition to her fabrication, Ishiguro and Ogawa taught Erica how to act, as well as how to apply the principles of method acting to artificial intelligence."
-    publishedDateTime: 2020-06-24T17:57:00Z
-    webUrl: "https://www.joblo.com/movie-news/a-robot-named-erica-will-star-in-an-upcoming-70m-sci-fi-feature"
-    ampWebUrl: "https://www.joblo.com/movie-news/a-robot-named-erica-will-star-in-an-upcoming-70m-sci-fi-feature/amp"
-    cdnAmpWebUrl: "https://www-joblo-com.cdn.ampproject.org/c/s/www.joblo.com/movie-news/a-robot-named-erica-will-star-in-an-upcoming-70m-sci-fi-feature/amp"
-    type: article
-    provider:
-      name: JoBlo.com
-      domain: joblo.com
-    quality: 59
-    images:
-      - url: "https://www.joblo.com/resizer/resizer.php?file=/assets/images/joblo/news/2020/06/aitothebone913.jpg&height=650&width=1416.3484486874&action=resize"
-        width: 1416
-        height: 650
-        isCached: true
   - title: "Artificially intelligent humanoid robot 'Erica' nabs lead role in $70 million Hollywood sci-fi movie"
     excerpt: "The electric leading lady is understood to have shot her first scenes for the movie in Japan last year - with the rest of the film scheduled to be shot next year."
     publishedDateTime: 2020-06-26T11:14:00Z

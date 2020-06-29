@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/06/26/amazon-acquires-autonomous-vehicl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/26/amazon-acquires-autonomous-vehicle-startup-zoox/amp/"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,21 +31,21 @@ images:
     title: "Amazon acquires autonomous vehicle startup Zoox"
 
 related:
-  - title: "Amazon to acquire autonomous driving startup Zoox"
-    excerpt: "Amazon has announced that it will acquire Zoox, a self-driving startup founded in 2014, which has raised nearly $1 billion in funding and which aims to develop autonomous driving technology, including vehicles,"
-    publishedDateTime: 2020-06-26T13:40:00Z
-    webUrl: "https://techcrunch.com/2020/06/26/amazon-to-acquire-autonomous-driving-startup-zoox/"
-    ampWebUrl: "https://techcrunch.com/2020/06/26/amazon-to-acquire-autonomous-driving-startup-zoox/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/26/amazon-to-acquire-autonomous-driving-startup-zoox/amp/"
+  - title: "Medical tech firm Brainlab acquires Level Ex surgery game startup"
+    excerpt: "Medical technology company Brainlab has acquired video game surgery training company Level Ex. Terms of the deal were not disclosed."
+    publishedDateTime: 2020-06-29T10:02:00Z
+    webUrl: "https://venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/"
+    ampWebUrl: "https://venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/06/90.png?w=1024"
-        width: 1024
-        height: 462
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/level-ex-3.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 645
         isCached: true
 
 secured: "k0EuhudYZzgvRlXNNudJ5aPYNBXBj8uDJa3eVm2v2gxLIe+A+lKZ2jB04RsHMOvymVnlRJ5f3VIEcxTwCN5TDJ0/oPLJW/D7rP0KkbR3Z01rpTcdX7jFrptEDVpCzhDFS4IT4ym7G+b+38r30XxqldRpIBOlOKLHJBS1IHkhuccG4mfOFvEE1SfLfLZJb0LRmN9lPKk3TjgOyi3ClIyjUwC3U3q5ZtOhkqyLv1Vi19R22EZ7xg/8EEbOPj6EntN2PV6xhlyO8DH1CNQ8AQQqkckwJegww3m9VIm70+4nU2ejyDSczUu67xH2YljgRMiH3JnHtpa3aOMUHsd9PMG/++kQ62aslZhUdrh4YhpZ8kstOB4Y1wXzwyJt/1E/5HbEUdDNDmSTQOXWOw9icbwpn28uQS6PlnOPrca3VSLHSyBEjtWNdcY/2AmCDla0qPTOA20MlnSk4Ld5o+wDTaQUTMzCRz0QF5hVpKA34XZEdhCQqdjBsosBOJW3BHhXK9m72f0jUyA/I/1Z0Xs+ZWm2aQ==;VnuGLKGJLEhy5JoiVUzGcg=="

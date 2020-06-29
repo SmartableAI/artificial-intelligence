@@ -121,22 +121,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Detroit police challenged over face recognition flaws"
-    excerpt: "The complaint by Robert Williams is a rare challenge from someone who not only experienced an erroneous face recognition hit, but was able to discover that it was responsible for his subsequent troubles."
-    publishedDateTime: 2020-06-24T17:55:00Z
-    webUrl: "https://www.pbs.org/newshour/nation/detroit-police-challenged-over-face-recognition-flaws"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/detroit-police-challenged-over-face-recognition-flaws"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/detroit-police-challenged-over-face-recognition-flaws"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 59
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/06/GettyImages-1149113711-1024x718.jpg"
-        width: 1024
-        height: 718
-        isCached: true
   - title: "IBM quits facial recognition, joins call for police reforms"
     excerpt: "IBM is getting out of the facial recognition business, saying it's concerned about how the technology can be used for mass surveillance and racial profiling. Ongoing protests responding to the death of George Floyd have sparked a broader reckoning"
     publishedDateTime: 2020-06-25T01:22:00Z

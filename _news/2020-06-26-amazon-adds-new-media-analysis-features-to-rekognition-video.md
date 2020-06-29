@@ -27,6 +27,20 @@ images:
     title: "Amazon adds new media analysis features to Rekognition Video"
 
 related:
+  - title: "Computer Vision Market 2019 Size, Share, Production Technology, Features, Cost, Revenue, Manufacturers, Region, Applications and Forecast to 2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jun 26, 2020 (CDN Newswire via Comtex) -- A concise assortment of data on ' Computer Vision market' is covered in a newly published research added to the repository of ..."
+    publishedDateTime: 2020-06-26T18:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2019-size-share-production-technology-features-cost-revenue-manufacturers-region-applications-and-forecast-to-2026-2020-06-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New media analysis features for Amazon Rekognition"
     excerpt: "Amazon Rekognition Video is a machine learning (ML) based service that can analyse videos to detect objects, people, faces, text, scenes, and activities, as wel"
     publishedDateTime: 2020-06-25T14:44:00Z

@@ -121,22 +121,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Detroit police challenged over face recognition flaws"
-    excerpt: "The complaint by Robert Williams is a rare challenge from someone who not only experienced an erroneous face recognition hit, but was able to discover that it was responsible for his subsequent troubles."
-    publishedDateTime: 2020-06-24T17:55:00Z
-    webUrl: "https://www.pbs.org/newshour/nation/detroit-police-challenged-over-face-recognition-flaws"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/nation/detroit-police-challenged-over-face-recognition-flaws"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/detroit-police-challenged-over-face-recognition-flaws"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 59
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/06/GettyImages-1149113711-1024x718.jpg"
-        width: 1024
-        height: 718
-        isCached: true
   - title: "UN Urges 'Moratorium' On Facial Recognition Tech Use In Protests"
     excerpt: "The UN human rights chief called Thursday for a \"moratorium\" on the use of facial recognition technology during peaceful protests, stressing that it could increase discrimination against people of African descent and other minorities."
     publishedDateTime: 2020-06-25T14:46:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-26T05:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-mai-market-may-see-a-big-move-ibm-microsoft-huawei-technologies-2020-06-26"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     height: 630
     isCached: true
     title: "Mobile Artificial Intelligence (MAI) Market May See a Big Move | IBM, Microsoft, Huawei Technologies"
-
-related:
-  - title: "Space Robotics Market may see a growth rate of 8.73% | Maxar Technologies, Ispace, Northrop Grumman"
-    excerpt: "Latest added Global Space Robotics Market research study by AMA Research offers detailed outlook and elaborates market review till 2025. The market Study is segmented by key regions that are accelerating the marketization."
-    publishedDateTime: 2020-06-24T18:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/space-robotics-market-may-see-a-growth-rate-of-873-maxar-technologies-ispace-northrop-grumman-2020-06-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "HJ6dM2aK4+8Ou2L/Rn2K7FqHBcFtENjFsCms1MlHlad1aFmmd9aEYJ9defArZHh6M+HXIL6g3EyAka2VcAIK6YH6ajjsDzGZP8WQgO67StO0cFzVVZ9vBZSUm0iBkkmypgTZxmT78gxTfqzzIUJX78JfCJB5Sx1maOIn+QxFla0mdUuyScpwn+ilG2I93KvpmdQN3Lzhl4tFjGI+40rD3+T4xkNaq7dpKQduz0RBBAkzkQOf39HgwioDAPmIa0jcPUTcHQoTqtxce7SvxXFdDGhjxSSDNKFygEGLZiVOAXhr4bjFWmeJ+HpGZIzrAPOHqpbV36bplq792lisxxTvGA==;01coPOWZlteTQMoLC0nXSA=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "The future of education is digital, online learning platform CEO says"
+    excerpt: "Even before the coronavirus pandemic, online learning options were growing. But now, with around a billion and a half students worldwide displaced from schools, education institutions are scrambling to offer e-learning tools."
+    publishedDateTime: 2020-06-29T10:45:00Z
+    webUrl: "https://www.marketplace.org/2020/06/29/future-of-education-online-learning-coursera-jeff-maggioncalda/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 24
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2020/06/GettyImages-1213470247.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "0vL2m+mH1QQ3GK7dmRON8OhwCdN9ICCjYoDJMh6tXYb3YputaVj4VsM971mxYPtviIb5UggPiZ4N/W1BnlZvdg/XFC5RYyAN5XHIYy/cyxKxo+aBIULQ15UP6Id84WQSLFiytnqQDZCO82UB17DN2q3qHayEjfBlT7yDq1pZU/iwjOrygbpTjmjD4OnO3EEWfz33gJu8+UaNxFYcTghEhv6wZAJBEu+DkfwA63KCLUWmluB3o9dYw+DmXKcyk57SihHHU+wxWCVWF3d6W7ZnP5E9Le+fOPkzksNcIZf7xRetUUFfkGzrWyCWo3ZfKTYOD0BAdC7fKgr+GcYBcucROkR1ainOI1RYMy5QHGSmAdhfQrstIO7Yoob5K6C87ONqBtBUWc1IrQVmxMWJLs0ZitHjtxFetZ5B2CV+jzZdRdBkK7Cg88g9hoozsgYOgwumtNjCEob2GqiyizFFy4q3MbZkPGK7EEYbDz9Q0yZzdz5gQiXduFXdNkrBKwt01LuutBCoVmxAZ5CSZ0r0bCnLlA==;Kbi4iLDePtlijMWHVqjJng=="
 ---

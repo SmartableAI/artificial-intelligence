@@ -29,34 +29,31 @@ images:
     title: "Computer Vision Market 2019 Size, Share, Production Technology, Features, Cost, Revenue, Manufacturers, Region, Applications and Forecast to 2026"
 
 related:
-  - title: "Artificial Intelligence Market : Facts, Figures and Analytical Insights 2020 - 2025"
-    excerpt: "Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer Center. The MarketWatch News Department was not involved in the creation of this ..."
-    publishedDateTime: 2020-06-25T13:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-facts-figures-and-analytical-insights-2020---2025-2020-06-25"
+  - title: "Amazon adds new media analysis features to Rekognition Video"
+    excerpt: "Allow users to execute workflows such as content preparation and ad insertion, and add ‘binge-markers’ to content at scale in the Cloud"
+    publishedDateTime: 2020-06-26T09:30:00Z
+    webUrl: "https://www.tvbeurope.com/media-delivery/amazon-adds-new-media-analysis-feature-to-rekognition-video"
+    ampWebUrl: "https://www.tvbeurope.com/media-delivery/amazon-adds-new-media-analysis-feature-to-rekognition-video?amp"
+    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-delivery/amazon-adds-new-media-analysis-feature-to-rekognition-video?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2020/06/next-episode.jpg"
+        width: 798
+        height: 411
         isCached: true
-  - title: "Insights & Forecast with Potential Impact of COVID-19 - Artificial Intelligence in Energy Market 2019-2023 | Demand for Data Integration and Visual Analytics to Boost Growth ..."
-    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence in Energy Market 2019-2023 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the artificial intelligence in energy market and it is poised to grow by USD 6."
-    publishedDateTime: 2020-06-26T17:45:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200626005277/en/Insights-Forecast-Potential-Impact-COVID-19---Artificial"
+  - title: "New media analysis features for Amazon Rekognition"
+    excerpt: "Amazon Rekognition Video is a machine learning (ML) based service that can analyse videos to detect objects, people, faces, text, scenes, and activities, as wel"
+    publishedDateTime: 2020-06-25T14:44:00Z
+    webUrl: "https://advanced-television.com/2020/06/25/new-media-analysis-features-for-amazon-rekognition/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200626005277/en/801461/23/IRTNTR30051.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 19
 
 secured: "PyaILR/W47GgKFSVOmE8zAhJWo/1FSPcsrOAhrBwxXOCbbnAlhaXr8C7uXTLnXEVtDja6DH1xWssN5UPx3YqZr8+4BkzLKyxnWedak87tFpuzRXJ5o2YDXAXnKTmvqGPjGgezlXlxc/nqp70HLQCXzMgmDWTQylsjB7cWruyfLf1czWSoJTi6l+FQ9CH4sJdOGpIH8FeLJBqMQIxSwoRaOOmWbJ5L6+Ar4J9XHrJE6++1cBvfE+5KCjakioQspqF4WYFbNjuHyE/SFLshq7IOmqzf5HbTWYWvOYIrvHVMD45aenli27ULMqqwoz0T/UWY5zDJS5AGV5XAyNJZ2uczQ==;sHP/cM2SeDiUSyuw2qYQIQ=="
 ---
