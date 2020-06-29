@@ -1,29 +1,26 @@
 ---
 category: news
 title: "CORRECTING and REPLACING VMware Introduces Delivery of Elastic Infrastructure for AI/ML Applications with VMware vSphere 7"
-excerpt: "Please replace the release dated June 2, 2020, with the following corrected version due to new licensing terms for VMware vSphere Bitfusion. The corre"
-publishedDateTime: 2020-06-19T12:36:00Z
-webUrl: "https://www.businesswire.com/news/home/20200602005347/en/CORRECTING-REPLACING-VMware-Introduces-Delivery-Elastic-Infrastructure"
+excerpt: "More importantly, organizations will be able to jumpstart new or stalled AI/ML initiatives to drive their business forward by sharing those GPU resources with their teams on-demand with VMware vSphere 7.” VMware vSphere 7 with Bitfusion Enables Efficient ..."
+publishedDateTime: 2020-06-19T12:29:00Z
+webUrl: "https://www.thedailytimes.com/business/correcting-and-replacing-vmware-introduces-delivery-of-elastic-infrastructure-for-ai-ml-applications-with-vmware/article_7efd1ec7-99bb-5f58-afec-4b52715d1eb7.html"
 type: article
-quality: 13
-heat: 13
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: thedailytimes.com
+  domain: thedailytimes.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200602005347/en/782362/23/4284573_300DPIxVMware-logo-grey_highres_.jpg"
-    width: 1200
-    height: 627
+  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
+    width: 600
+    height: 600
     isCached: true
     title: "CORRECTING and REPLACING VMware Introduces Delivery of Elastic Infrastructure for AI/ML Applications with VMware vSphere 7"
 
-secured: "EKSyYC9HLYo4mHV4fDaVhPaxxsoFTJFdxiqOhii45OazAtiaVdLyzJH9xJf5TWeD1eYqk/t+FI5xBHfeTgP5ajFobCY1wUT/CJAgZMPyW8wacZtWiKYMhkidh5mzNepHvNEcMSuc9a2K0XxrK51yyBNRats03dL0zvxzdkqEiir6S4OUZ4ySf2Zvn1d870HXc8NjnxF4hcXRnSI0ZOQZgsh5z2gaSs/o3Ariy4533svzU4eco+ZtLVmy0da6aJQl3VjlEU0vXc64hpqHA2DEvEzRshJHTwRD2riM4EF9s4OUT0ASygoW+YNZlP3YZESXAsuOH/att0YnsWRp2gGpN7xHuPW3+0woN7Rir8y4cOCzMfS0bRXmR/du4bKjT3JYl7Yb9gjk1fp5hcXqoFE53rT0YsZFtzS4Ml9V1zshcmRNmY/t/OKn+RNWFMmUcXtG+uZawTY3PN+uvvMY6SDR2ivhGm9WiMqLQv93a+pYAo9kHbTyTx4Lqp44zDdEeFY/yck7aZ0ZVHDVT0FiEHOe1A==;kPaS9klbt7kz3x6lw/sucQ=="
+secured: "TXsP43SwlQ89I0AVXlReTGmBbfNijHuyp+JEwFd+W0jaw4l45yKHaul7Pbwo+nH38jkmA4MpXOQ/ODLxXlkL058/hI83rEAoNXk7YY3kuFPr8/g5tSbO7+wK0FQwO1nvTFfud8bydhLMqA6zIGgf9z30OfoPRdCDgYif3AV+6NpGuc5nWcAfCVPX1/cxuIOv+dfHrNgEUdV+ufysdNtM7UX0HM/+HvCBwSTzLo4vEtTlxGJyeczylJOg4vlJbuwB/csNEeaHU4dFQjt66B3yuX/cuurzMUr1cK4laIyszoRMQj5wPg4hY5S/0B/Dl7Qco79juS3wQGmP/sFM1NtOaw==;cwQincZPHSzQqzSqjYlzBw=="
 ---
 

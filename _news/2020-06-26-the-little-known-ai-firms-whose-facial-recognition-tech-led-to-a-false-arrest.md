@@ -8,7 +8,7 @@ ampWebUrl: "https://qz.com/1873731/the-unknown-firms-whose-facial-recognition-le
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1873731/the-unknown-firms-whose-facial-recognition-led-to-a-false-arrest/amp/"
 type: article
 quality: 101
-heat: 241
+heat: 231
 published: true
 
 provider:
@@ -110,22 +110,6 @@ related:
       - url: "https://s.abcnews.com/images/US/williams-01-as-ht-200625_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Boston approves ban on facial recognition technology"
-    excerpt: "The Boston City Council voted unanimously Wednesday to pass a ban on the use of facial recognition technology by city government. The move makes Boston the second-largest U.S. city after San Francisco to enact a ban."
-    publishedDateTime: 2020-06-25T02:39:00Z
-    webUrl: "https://www.sfgate.com/news/article/Boston-approves-ban-on-facial-recognition-15363521.php"
-    ampWebUrl: "https://www.sfgate.com/news/amp/Boston-approves-ban-on-facial-recognition-15363521.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Boston-approves-ban-on-facial-recognition-15363521.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 59
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
         isCached: true
   - title: "Bill would ban police use of face recognition"
     excerpt: "Democrats in both houses of Congress said Thursday they are introducing a bill that would ban government use of facial recognition technology. Why it matters: A handful of cities have banned government use in their jurisdictions,"

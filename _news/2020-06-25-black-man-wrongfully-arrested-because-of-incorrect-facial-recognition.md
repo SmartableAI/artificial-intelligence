@@ -107,22 +107,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Boston approves ban on facial recognition technology"
-    excerpt: "The Boston City Council voted unanimously Wednesday to pass a ban on the use of facial recognition technology by city government. The move makes Boston the second-largest U.S. city after San Francisco to enact a ban."
-    publishedDateTime: 2020-06-25T02:39:00Z
-    webUrl: "https://www.sfgate.com/news/article/Boston-approves-ban-on-facial-recognition-15363521.php"
-    ampWebUrl: "https://www.sfgate.com/news/amp/Boston-approves-ban-on-facial-recognition-15363521.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/Boston-approves-ban-on-facial-recognition-15363521.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 59
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "Bill would ban police use of face recognition"
     excerpt: "Democrats in both houses of Congress said Thursday they are introducing a bill that would ban government use of facial recognition technology. Why it matters: A handful of cities have banned government use in their jurisdictions,"
     publishedDateTime: 2020-06-26T14:08:00Z

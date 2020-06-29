@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-28T23:11:00Z
 webUrl: "https://menafn.com/1100400053/DGCA-to-dispense-service-of-AI-officer-involved-in-salary-scam-IANS-Special"
 type: article
 quality: 34
-heat: 34
+heat: 44
 published: false
 
 provider:

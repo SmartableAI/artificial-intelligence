@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-29T08:34:00Z
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-forecast-to-2026-2020-06-29"
 type: article
 quality: 45
-heat: 45
+heat: 55
 published: false
 
 provider:

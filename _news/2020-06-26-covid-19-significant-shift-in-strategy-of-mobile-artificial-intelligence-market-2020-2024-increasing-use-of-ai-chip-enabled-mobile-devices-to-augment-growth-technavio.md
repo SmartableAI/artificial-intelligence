@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio"
 
-secured: "LYR/PHfzSYLQd4pPA+/6lc/Armx/r3TWWw/Xbb+JggQwpcfPi9+R634VmP8LFDsHiKN2RjM+8afJb+yDLy1RIyFreB8/7HXPKfqvWebf+hpxnxtWS8/PxrxC90x6/J84F4ycFSH1f6xjvYob86I9vV6tYqB5Zc2Emgalag5ufOC+DbtGF47kP4IClYWzhBiewc2uPnq6RNMv+JvNRvF9ZoN+fXMsO7NxxJp1eAQwEjaiJM21aYhTl6ctNQQvyKDKlvyEUVWA7u7Othv8Lv0DZY7XhvR9J124gupX5vtr+BmSLVPfIqxb6+w3vj2qhfoaRUaWYSNVrujkUoQj2nb2Cw==;rcDsD9wpLmC65wpSBp+d2g=="
+secured: "swajRvDGaei9r450DeCqorTSt2tnk0AKtJarku8imCGDgwqLF7N28RH1xTY7xR9/RsUm1CUnUhvcC2yLa3WyCP24go4z4kwl1wHiwbo74e56fxQqeFd1GuJ1Krv7iCWXlYR2G4SXJTlOGlFJx29pbJ0pa+M/t5IZVCDKFkmYeU9bpuGFkLFYlExUg81VmxO3p7QS6yd3hqrNKKTbsiNxm/CU0IJ9hmMtWYy6tFJZY/LtY0kupdqW6mys/5C081BZSR29Ffj+8wX13qvnGuoiGOmkQAjIZy/sTK/Cq69hjPfwq/YnloLJg/yAaonIX8HaWTHt+T/hpqxLs6eccNpP/Ny8FfHD5hrlfOMmiFhTM2RD8ZgGNaGFd6bj9ViIVFOWFuSIjpLjZ/m7LSABBZutFdRcq4UosazFEUu7zJ2ha8g/fDuEspmFJOn0W3o7VJCjbwLcapiIT7pcD9IrpKXJbgeak7+adhFzkUXSdQ3ZeY/XkUS7Fn8bojutxmtJFWhn+TBtsyGar6K5UhXcwfWrdg==;E2x6MfrJJEhNVUNXaz8y3Q=="
 ---
 

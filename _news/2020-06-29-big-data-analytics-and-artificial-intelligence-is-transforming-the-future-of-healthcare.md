@@ -8,7 +8,7 @@ ampWebUrl: "https://yourstory.com/mystory/big-data-analytics-artificial-intellig
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/big-data-analytics-artificial-intelligence-transforming-future-healthcare/amp"
 type: article
 quality: 45
-heat: 45
+heat: 55
 published: false
 
 provider:
