@@ -48,20 +48,6 @@ related:
         width: 752
         height: 531
         isCached: true
-  - title: "Mercedes partners with Nvidia on self-driving tech, plans upgradable system"
-    excerpt: "Mercedes and Nvidia plan to launch a jointly developed computing system for self-driving cars starting in 2024."
-    publishedDateTime: 2020-06-24T12:30:00Z
-    webUrl: "https://www.motorauthority.com/news/1128614_mercedes-partners-with-nvidia-on-self-driving-tech-plans-upgradable-system"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 22
-    images:
-      - url: "https://images.hgmsites.net/hug/mercedes-benz-and-nvidia-self-driving-technology-partnership_100749856_h.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "0Rsj9DdH1hpl/c+FJWEeXwRzuT4+RusXNVGYN+I5xHn6UsHBIhQJx0yzzHEgw3gNhamLAncVLsc4XsuQ2vfBr7J/rtTW5X07OhVnxgWG9EWmm47gv4fW2bFoXqFktdz8bnkwN8gYR3qhNpv67Om/QXbUnWbHEIY5LcwS9p3E49JHd6AzwmsYKeQQKEsLa+MibkmWft+C7WIAzjx2vhjqh5e/mSiqV06+IF2MlMk9q2cJOCzPsPKIAtvEun/OJ1f/VSwkQxd7vSD4YfsC/Q9H5WahiRyAqZ372YJRoI6xBRoytN2Mk0M8MWcgNOqylsAfoXydOJQpzH7jV+HgV2LwZoySGc8WIdLzzZqS8ErS4swXS+qIlV9S46ECOuF1rKAPwimLyPjpoQpo2aYiIed1N4aIza2GOsy6xdjvfzCrRYbDChvyTIkZz71RRXFpE6XEeKpFmBTr15cQ0LrNB+jJlUrTMLXGmUhJycQPnrtxqi6DUT33PE49vw0n1NtKcqantr7wCL6XfKGaTVsDyQW6EA==;uIGU14gHliKPZP6inoHudQ=="
 ---

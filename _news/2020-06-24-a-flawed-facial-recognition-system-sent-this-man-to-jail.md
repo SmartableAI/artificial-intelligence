@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/flawed-facial-recognition-system-sent-ma
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp"
 type: article
 quality: 104
-heat: 514
+heat: 474
 published: true
 
 provider:
@@ -174,38 +174,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F456ef2e0-b61c-11ea-97ef-f3dc0132a313&client=amp-blogside-v2&signature=62d6d7980dde9b996786e4b6e12008a10d0a1403"
         width: 600
         height: 350
-        isCached: true
-  - title: "South Wales Police in court over facial recognition system"
-    excerpt: "Racial and gender biases have not fully been explored in the facial recognition technology used by South Wales Police, the Court of Appeal has been told. It is the second day of a legal challenge brought by civil rights group Liberty and Ed Bridges,"
-    publishedDateTime: 2020-06-24T12:36:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-53166044"
-    ampWebUrl: "https://www.bbc.com/news/amp/uk-wales-53166044"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-wales-53166044"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/897B/production/_113059153_mediaitem113059150.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "U.S. activists fault face recognition in wrongful arrest for first time"
-    excerpt: "An incorrect facial recognition match led to the first known wrongful arrest in the United States based on the increasingly used technology, civil liberties activists alleged in a complaint to Detroit police on Wednesday."
-    publishedDateTime: 2020-06-24T11:13:00Z
-    webUrl: "https://www.reuters.com/article/us-michigan-facial-recognition-idUSKBN23V1KJ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23V1KJ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23V1KJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200624&t=2&i=1523322435&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5N19S"
-        width: 817
-        height: 545
         isCached: true
   - title: "Congress needs to pass this facial recognition ban now"
     excerpt: "Earlier this year, for the first time (that we know of), a false match by a facial recognition algorithm led to the arrest of an innocent man. Now, members of Congress are finally"
@@ -501,22 +469,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "I was wrongfully arrested because of facial recognition. Why are police allowed to use this technology?"
-    excerpt: "They sent that footage to the Michigan State Police, who then ran it through their facial-recognition system. That system incorrectly spit out a photograph of me pulled from an old driver’s license picture. Federal studies have shown that facial ..."
-    publishedDateTime: 2020-06-24T11:05:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 43
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PY5FPLTWPMI6TJ57ZCSDXBHOGE.jpg&w=1440"
-        width: 1440
-        height: 1010
-        isCached: true
   - title: "One Bad Algorithm? Advocates Say Facial Recognition Reveals Systemic Racism in AI Technology"
     excerpt: "The growing controversy over police use of facial recognition technology has accelerated after a Black man in Michigan revealed he was wrongfully arrested because of the technology. Detroit police handcuffed Robert Williams in front of his wife and daughters after facial recognition software falsely identified him as a suspect in a robbery."
     publishedDateTime: 2020-06-26T14:02:00Z
@@ -599,20 +551,6 @@ related:
       - url: "https://media.npr.org/assets/img/2020/06/24/rts35ary_wide-0a3b97cb8bc95daa0b59356f6ad16f6de0f5ea76.jpg?s=1400"
         width: 1400
         height: 787
-        isCached: true
-  - title: "'The Computer Got It Wrong': How Facial Recognition Led To A False Arrest In Michigan"
-    excerpt: "Robert Williams says his driver's license photo was incorrectly matched with a wanted suspect. He says he was arrested and detained. Though the case was dropped, Williams says its effect is lasting."
-    publishedDateTime: 2020-06-24T12:00:00Z
-    webUrl: "https://www.npr.org/2020/06/24/882683463/the-computer-got-it-wrong-how-facial-recognition-led-to-a-false-arrest-in-michig"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 32
-    images:
-      - url: "https://media.npr.org/assets/img/2020/06/24/screenshot-242-_wide-5faa93d3c27a65b83e3d27a76badf0a4ee696230.png?s=1400"
-        width: 606
-        height: 341
         isCached: true
   - title: "U.S. Sen. Ed Markey pushes to ban government use of facial recognition technology, says ‘the criminal justice system is already rigged'"
     excerpt: "Legislation proposed by U.S. Sen. Ed Markey would ban federal use of biometric surveillance and tie federal funding to whether communities ban it."

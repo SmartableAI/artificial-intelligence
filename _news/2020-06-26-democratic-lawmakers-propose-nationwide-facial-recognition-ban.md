@@ -182,31 +182,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Detroit police challenged over face recognition flaws, bias"
-    excerpt: "A Black man who was wrongfully arrested when facial recognition technology mistakenly identified him as a suspected shoplifter wants Detroit police to apologize — and to end their use of"
-    publishedDateTime: 2020-06-24T11:44:00Z
-    webUrl: "https://apnews.com/9406d44edad083ee04e28646ead58ec7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/5987aad84f314fe1acddaa3dc9f6af9a/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Detroit police challenged over face recognition flaws, bias | Charlotte Observer"
-    excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police."
-    publishedDateTime: 2020-06-24T12:27:00Z
-    webUrl: "https://www.charlotteobserver.com/news/business/national-business/article243758167.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/business/national-business/article243758167.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article243758167.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 34
   - title: "Boston City Council bans use of facial recognition technology"
     excerpt: "Lawmakers in Boston have outlawed the use of facial recognition software by city officials. In a unanimous vote on Wednesday, Boston's City Council passed the ordinance, which will make it illegal for officials in the Massachusetts capital to \"obtain,"
     publishedDateTime: 2020-06-24T23:01:00Z

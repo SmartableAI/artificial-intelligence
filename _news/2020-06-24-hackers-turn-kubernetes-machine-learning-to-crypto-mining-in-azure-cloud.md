@@ -5,7 +5,7 @@ excerpt: "Recently, Microsoft's Azure cloud experienced a similar situation, thi
 publishedDateTime: 2020-06-24T18:55:00Z
 webUrl: "https://virtualizationreview.com/articles/2020/06/24/azure-cloud-exploit.aspx"
 type: article
-quality: 55
+quality: 57
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - Google AI
 
 images:
   - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BrokenChainBlue.jpg"
@@ -34,7 +35,7 @@ related:
     provider:
       name: Visual Studio Magazine
       domain: visualstudiomagazine.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/0615vrm_veeam_Patch.jpg"
         width: 647

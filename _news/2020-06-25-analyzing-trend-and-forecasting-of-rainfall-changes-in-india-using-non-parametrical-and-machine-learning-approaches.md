@@ -39,20 +39,6 @@ related:
         width: 467
         height: 483
         isCached: true
-  - title: "Sword fighting in VR is getting more realistic thanks to machine learning"
-    excerpt: "Virtual duellists could soon get a more realistic Game of Thrones battle experience after scientists programmed machine learning to improve enemies' sword-fighting skills."
-    publishedDateTime: 2020-06-24T13:02:00Z
-    webUrl: "https://www.standard.co.uk/tech/scientists-create-realistic-sword-fighting-vr-a4478621.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 38
-    images:
-      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/03/28/14/GameOfThrones2803.jpg"
-        width: 1503
-        height: 1000
-        isCached: true
   - title: "Uncovering the effects of interface-induced ordering of liquid on crystal growth using machine learning"
     excerpt: "Considerably less is known about the role of the liquid structure on the kinetics of crystal growth. Here atomistic simulations and machine learning methods are employed together to demonstrate that the liquid adjacent to solid-liquid interfaces presents ..."
     publishedDateTime: 2020-06-26T09:10:00Z

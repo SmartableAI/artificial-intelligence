@@ -5,8 +5,8 @@ excerpt: "Hackers managed to exploit user misconfigurations -- apparently done f
 publishedDateTime: 2020-06-24T18:19:00Z
 webUrl: "https://visualstudiomagazine.com/articles/2020/06/24/azure-attack.aspx"
 type: article
-quality: 56
-heat: 66
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -17,6 +17,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - Google AI
 
 images:
   - url: "https://visualstudiomagazine.com/-/media/ECG/VirtualizationReview/Images/introimages2014/0615vrm_veeam_Patch.jpg"
@@ -34,7 +35,7 @@ related:
     provider:
       name: Virtualization Review
       domain: virtualizationreview.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BrokenChainBlue.jpg"
         width: 647

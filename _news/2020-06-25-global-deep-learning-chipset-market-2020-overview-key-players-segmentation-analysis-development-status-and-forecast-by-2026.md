@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Key Players, Application, Demand, Industry Research Report by Regional Forecast to 2026"
-    excerpt: "The global artificial intelligence market is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2020-06-24T12:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-players-application-demand-industry-research-report-by-regional-forecast-to-2026-2020-06-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market- Global Industry Analysis By Development, Size, Share and Demand Forecast From to 2023"
     excerpt: "Artificial Intelligence in Manufacturing Market: Global Drivers, Restraints, Opportunities, Trends, and Forecasts up"
     publishedDateTime: 2020-06-25T16:04:00Z

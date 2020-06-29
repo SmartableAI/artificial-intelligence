@@ -19,6 +19,7 @@ topics:
   - Facebook AI
   - AI
   - Machine Learning
+  - Google AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/06/PaddlePaddle-2.png?w=2880"
