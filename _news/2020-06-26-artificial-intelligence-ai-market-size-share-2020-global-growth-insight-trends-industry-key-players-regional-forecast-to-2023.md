@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis By Size, Growth Rate and Trends With Forecast To 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market2020 Global Industry Trends, Size, Share Analysis Report. According to"
-    publishedDateTime: 2020-06-29T13:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-by-size-growth-rate-and-trends-with-forecast-to-2026-2020-06-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "OTfiawj/ieN47RKNF5ARIdqLGX4zqw/dFl9D/zLlM0Gc1pImISfMIKqWvapHdXoM+0Wq5Prwi3J22uNRXNHcvDGp27eb0isJ4v62ixZBjPKduN7CjA0qvF2QewNcRhCUCNK/Sz48hzXuVxiQi+PKYO2CJ4ScjpDJetJGCjoRWwFKCZ3UJ1WbfvqOPHxNZzccOJDGHrgH0ASihU4EHVn+xvzPSrtXKUJRUENLVHPaQQUDQqDWlMhZyou8Pvu5AXbnJyLpUdr/uRoccLlH8QWwNsK6TrPeLgVOzaYSfUp1qrfdO2k4cTriJNK7vIfgj4IFu/v8z+ZVq8R/FQOPT750qQ==;aFR3fZ4ReuHW9eUGsz2ohA=="
 ---

@@ -5,9 +5,9 @@ excerpt: "Artificial Intelligence in Healthcare Market2020 Global Industry Trend
 publishedDateTime: 2020-06-29T13:59:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-by-size-growth-rate-and-trends-with-forecast-to-2026-2020-06-29"
 type: article
-quality: 38
-heat: -1
-published: false
+quality: 55
+heat: 75
+published: true
 
 provider:
   name: MarketWatch
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -28,57 +29,29 @@ images:
     title: "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis By Size, Growth Rate and Trends With Forecast To 2026"
 
 related:
-  - title: "U.S. Artificial Intelligence (AI) Market Forecast Report 2020 - 2027 - Top Key Players Analysis"
-    excerpt: "The U.S. Artificial Intelligence (AI) market report, published by GMI Research, provides extensive insight and analysis of the U.S. Artificial Intelligence (AI) market over the forecast period (2020-2027)."
-    publishedDateTime: 2020-06-29T10:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/us-artificial-intelligence-ai-market-forecast-report-2020---2027---top-key-players-analysis-2020-06-29"
+  - title: "Artificial Intelligence Market By Offering, By Technology, By Region - Trends, Analysis, and Forecast Till 2025"
+    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
+    publishedDateTime: 2020-06-26T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-by-offering-by-technology-by-region---trends-analysis-and-forecast-till-2025-2020-06-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market : Facts, Figures and Analytical Insights 2020 - 2025"
-    excerpt: "Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer Center. The MarketWatch News Department was not involved in the creation of this ..."
-    publishedDateTime: 2020-06-25T13:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-facts-figures-and-analytical-insights-2020---2025-2020-06-25"
+  - title: "Artificial Intelligence in Manufacturing Market- Global Industry Analysis By Development, Size, Share and Demand Forecast From to 2023"
+    excerpt: "Artificial Intelligence in Manufacturing Market: Global Drivers, Restraints, Opportunities, Trends, and Forecasts up"
+    publishedDateTime: 2020-06-25T16:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market--global-industry-analysis-by-development-size-share-and-demand-forecast-from-to-2023-2020-06-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2023"
-    excerpt: "Global \"Artificial Intelligence (AI) Market\" report 2020 has brief analysis and full-scale proposition of market"
-    publishedDateTime: 2020-06-26T10:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2023-2020-06-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI-based Fever Detection Camera Market 2020: Covid19 Impact Analysis, End Users And Regional Forecast Till 2027"
-    excerpt: "Jun 29, 2020 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by"
-    publishedDateTime: 2020-06-29T15:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2020-covid19-impact-analysis-end-users-and-regional-forecast-till-2027-2020-06-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

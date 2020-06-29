@@ -34,6 +34,20 @@ related:
         width: 1930
         height: 1436
         isCached: true
+  - title: "MIT Designs Robot That Eliminates Coronavirus With UV Light"
+    excerpt: "MIT has developed a robot that navigates around spaces to blast the virus with UV light. The team has even tested the system at a Boston-area food bank with encouraging results."
+    publishedDateTime: 2020-06-29T17:47:00Z
+    webUrl: "https://www.extremetech.com/extreme/312198-mit-designs-robot-that-eliminates-coronavirus-with-uv-light"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/06/2Disinfecting-robot.jpg"
+        width: 672
+        height: 371
+        isCached: true
   - title: "Autonomous robot equipped with UVC lights neutralises 90 per cent of coronavirus particles on surfaces and can disinfect an entire warehouse in 30 minutes"
     excerpt: "The machine uses a type of short-wavelength ultraviolet light called UVC to kill microorganisms and disrupt their DNA in a process known as 'ultraviolet germicidal irradiation'."
     publishedDateTime: 2020-06-29T09:48:00Z

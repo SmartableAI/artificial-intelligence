@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technol
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html"
 type: article
 quality: 74
-heat: 334
+heat: 344
 published: true
 
 provider:
@@ -364,6 +364,15 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 34
+  - title: "Amazon Peps Up Self-Driving Battle With Zoox Buyout Agreement"
+    excerpt: "Amazon’s latest move and aggressive strategies is likely to pose a challenge to Alphabet’s moat in the self-driving technology. We note that Google has been a frontrunner when it comes to autonomous driving courtesy of its well-performing Waymo unit."
+    publishedDateTime: 2020-06-29T16:17:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-peps-up-self-driving-battle-with-zoox-buyout-agreement-2020-06-29"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 34
   - title: "Amazon’s Zoox Purchase Says a Lot About the Future of Self-Driving Cars"
     excerpt: "Way back in 2018 my colleague Ashlee Vance profiled the founders of the startup, which had raised hundreds of millions of dollars to put self-driving robotaxis on public roads by 2020. It was a concept that seemed tantalizingly possible back then—its competitors included Alphabet Inc."

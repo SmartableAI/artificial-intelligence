@@ -50,6 +50,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Fugro designs robot complex for newly formed Australian Space Agency"
+    excerpt: "Dutch consulting engineer Fugro has been enlisted to design, build and operate a robotics control centre for the newly formed Australian Space Agency (ASA). Fugro will work on the Australian Space Automation,"
+    publishedDateTime: 2020-06-29T16:01:00Z
+    webUrl: "https://www.globalconstructionreview.com/news/fugro-designs-robot-complex-newly-formed-australia/"
+    type: article
+    provider:
+      name: globalconstructionreview.com
+      domain: globalconstructionreview.com
+    quality: 39
+    images:
+      - url: "http://www.globalconstructionreview.com/client_media/images/space.jpg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "6cKs/rl4Q0pNeXNQKBdLXKoHpsAuSDyV9OZ+h1sfHAy8mpREWnhah+zJD1STD95dLyDXk5TPAGyFb7yCUKwFW7wrVaJHj9Cdqe79e/8oWYDS7HMbCFUG+/nfQsw1Z2yOkdKD6SpiovMrrLvQJRz7aaJVvGEml4aZBWBJjSSkwnX3ISFwTzh0wU6aVWCDHCbYBYl8IR/ITFGBK9Yzh2ykOP0Z5b80FyxIXyKv7jvlFIoAIF8hK58RUVyjBUpA4THIHMev3njsxmWATj3/H4UBFJLS7T3MHTJWNz5ta83a0h8BAHGWsSiZRo3FCFj+Mb3jeOhG8hY4lFbuBrff/1eMJw==;uWX098TJ34PWps62h30Vfg=="
 ---

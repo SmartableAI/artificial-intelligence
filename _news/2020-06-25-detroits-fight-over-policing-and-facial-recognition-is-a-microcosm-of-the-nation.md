@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/06/25/detroits-fight-over-policing-and-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/amp/"
 type: article
 quality: 84
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,77 +31,77 @@ images:
     title: "Detroit’s fight over policing and facial recognition is a microcosm of the nation"
 
 related:
-  - title: "Democrats and civil liberties groups back law banning facial recognition across the US"
-    excerpt: "New legislation that would ban police use of facial recognition software across the US has been backed by civil liberties groups -- but not Big Tech."
-    publishedDateTime: 2020-06-26T12:46:00Z
-    webUrl: "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/"
+  - title: "Detroit Police Chief: Facial Recognition Software Misidentifies 96% of the Time"
+    excerpt: "In a public meeting Monday, Detroit Police Chief James Craig admitted that the technology, developed by a company called DataWorks Plus, almost never brings back a direct match and almost always misidentifies people."
+    publishedDateTime: 2020-06-29T17:11:00Z
+    webUrl: "https://www.vice.com/en_us/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 83
+      name: VICE
+      domain: vice.com
+    quality: 85
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-85-796x417.png"
-        width: 796
-        height: 417
+      - url: "https://video-images.vice.com/test-uploads/articles/5efa126c2093b800956fc9ee/lede/1593449761410-Screen-Shot-2020-06-29-at-125550-PM.png?crop=1xw:0.9864669421487603xh;center,center"
+        width: 2122
+        height: 1193
         isCached: true
-  - title: "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition"
-    excerpt: "Activists have objected to the use of facial recognition by law enforcement for years, as the technology has been shown to display racial bias."
-    publishedDateTime: 2020-06-25T09:38:00Z
-    webUrl: "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp"
+  - title: "Facial recognition software vendor vows to thwart misuse after wrongful Detroit arrest"
+    excerpt: "Facial recognition vendor Rank One Computing said on Wednesday it would “add legal means” and research other ways to thwart misuse."
+    publishedDateTime: 2020-06-25T07:31:00Z
+    webUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/"
+    ampWebUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
     images:
-      - url: "https://i.insider.com/5d9b1756138e4a2e893e4931?width=1200&format=jpeg"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all"
+        width: 1146
+        height: 613
+        isCached: true
+  - title: "Florida Police Embrace Facial Recognition Despite Pushback"
+    excerpt: "While companies and governments are halting the use of facial recognition technology, the Pinellas County Sheriff’s Office is refusing to comply until official regulations are put in place."
+    publishedDateTime: 2020-06-26T21:42:00Z
+    webUrl: "https://www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/BIZ-NATIONAL-MOVES-AGAINST-FACIAL-RECOGNITION-PT.JPG"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Why the racism in facial recognition software probably can’t be fixed"
+    excerpt: "It’s been proven that facial recognition software isn’t good at accurately identifying people of color. It’s also known that police departments around the country use facial recognition tools to identify suspects and make arrests."
+    publishedDateTime: 2020-06-29T10:05:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/facial-recognition-software-racism-people-of-color-wrongful-arrests-algorithmic-bias/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 41
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2020/06/fr-ft-img.jpg?w=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "IBM quits facial recognition, joins call for police reforms"
-    excerpt: "IBM is getting out of the facial recognition business, saying it's concerned about how the technology can be used for mass surveillance and racial profiling. Ongoing protests responding to the death of George Floyd have sparked a broader reckoning"
-    publishedDateTime: 2020-06-25T01:22:00Z
-    webUrl: "https://www.seattletimes.com/business/ibm-quits-facial-recognition-joins-call-for-police-reforms/"
+  - title: "Detroit police work to expunge record of man wrongfully accused with facial recognition"
+    excerpt: "Detroit — A day after the American Civil Liberties Union filed a complaint against Detroit police officials about the wrongful arrest of an African American man the group said was mistakenly targeted through facial recognition software, investigators ..."
+    publishedDateTime: 2020-06-26T20:42:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21143871/detroit-police-work-to-expunge-record-of-man-wrongfully-accused-with-facial-recognition"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
-    images:
-      - url: "https://static.seattletimes.com/wp-content/uploads/2019/12/12192019_facialRecStudy_tzr_tzr_131656-780x501.jpg"
-        width: 780
-        height: 501
-        isCached: true
-  - title: "Panasonic’s new vlogging camera uses facial recognition tracking to isolate the sound of your voice"
-    excerpt: "When shooting in 4K, however, the camera can’t utilize the entire sensor. Instead, it shoots from a smaller cropped area in the center. This makes lenses appear more zoomed-in than they would if they were using the whole sensor."
-    publishedDateTime: 2020-06-25T19:55:00Z
-    webUrl: "https://www.popsci.com/story/technology/vlogging-cameras-panasonic-g100/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 27
-    images:
-      - url: "https://www.popsci.com/resizer/x4pD98Ruq8aNyMPOG-HLszF6EiU=/1200x628/smart/cloudfront-us-east-1.images.arcpublishing.com/bonnier/RWEO3SZBSBHPBD57FA2LWWNUX4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Facial-recognition backlash brews after fury over police conduct"
-    excerpt: "Now, some of those lawmakers are drafting new legislation to curtail the use of facial-recognition by police departments and government agencies. They’re looking to harness the public outrage over police misconduct and racial inequities,"
-    publishedDateTime: 2020-06-28T20:01:00Z
-    webUrl: "https://www.seattletimes.com/business/facial-recognition-backlash-brews-after-fury-over-police-conduct/"
-    ampWebUrl: "https://www.seattletimes.com/business/facial-recognition-backlash-brews-after-fury-over-police-conduct/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facial-recognition-backlash-brews-after-fury-over-police-conduct/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
+      name: Security
+      domain: securityinfowatch.com
+    quality: 11
 
 secured: "pJO7ynuObWuRdyF8Q0AKuBx+Kl0doS56C54PhLHBOPpmrE2N/OB4VlND3Rs3AYZQuNz5JfeiNmBry6uhQYgJHYhar5XkVsSIAsAz58SS/8FM+EZjnwJBrDg0cc1IyFJ+IypgAYy8Ozm+MsJ9k+4oPoOB86RN46NORu3jeEFVYu1TgEtCQc2ywmlNJebRw9YcDOVzhSsRoISS3chlXA8WXeCpQMojp1V1W8o7Jbssf7yC67zJk/QeFPMKd2+v8tsyxLq7EzzmyXjgLwkbo/7XRpeoDpq1wztDBOCOhBev2nbf5RaRz9KyBgX2g9hzcmla1u5sLAj6PHIh3RUZyjzAJXaAhqOoV8YNe+zQHJXYZ0pNrsr8M3uF3+wPq/LJyYCRh496tnkByMABrRCznLrR227QpPQiQAVKXuGeZvj5KjOgtc1qd1+5IWhG55qZr4lz4MHI1R3rAdrxnbxURQBS32Ue2LWEvPkOCaykpp0o1MSm/cNh+9q7QvZMFeUt8I3bbZ89+HxlJdzA0Gb/4o38VQ==;vZTFjqkNASbaMHcVkHx0GQ=="
 ---

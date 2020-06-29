@@ -60,6 +60,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 12
+  - title: "Asia-Pacific Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 by Offering, Technology, Drug Type, Therapeutic Area, Application, End-user and Country ..."
+    excerpt: "Pacific Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 by Offering, Technology, Drug Type, Therapeutic Area, Application, End User, and Country: Trend Forecast and Growth Opportunity\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-06-29T15:46:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200629005628/en/Asia-Pacific-Artificial-Intelligence-AI-Drug-Discovery-Market"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
+    images:
+      - url: "https://mms.businesswire.com/media/20200629005628/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "yjWxmL4DgMR0QyovtdiifEO+A/Po9AlUkxTtcy1kkxX25Y61b/+kPDxipPF+gQEvEgQX3Khqqjb/6zBM/PQ6Dba7FTdbbSJ2SRCnK+ujIjRX+LHplwYj9IYCDOqM1S4GfEHdNx3dRFKcwRc5zTs++Fl6ospqHI0iBim9Y7avfnWw00IzSxjCUwyRp+y4VdY75p6BP2+InkT9aRU91rFK7MpPy1Gd38InXVkYURaaIvPnHAKN21ehZRZIPDBKR3oitm0KgB7Xt0EXNgr9WHWOoJSEhmMxoDS0u7MWBUiD00qCYGrhy9IXrM6XxQCdGHNWLwuc1XeqEBFd8p1TO7NLiI3skgPQr2Oqc60bSc7VsEo2IOyH2meTaxUiB2aXfJLqJb2k9nTAp+ztoSq2AoGU1gHUo9YOq+JmWU83FJoHWGJrv8PuJLWtZuq/4LnkgFAVwZs1C6Xlc48EAyNfGvw6/EXaco3zQXI+REpcm3NIX/BF5g3pAjGpGWrI6XvF7bPgg6ZjRExXs8bh80wUX5eATA==;2RtM5vg5JuUNQrBQQbHB0g=="
 ---

@@ -5,8 +5,8 @@ excerpt: "Google has made several significant partnerships and launched initiati
 publishedDateTime: 2020-06-26T15:21:00Z
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/google-moves-further-into-healthcare-a-timeline-of-the-last-year.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Google AI
 
 images:
   - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/4.jpg"

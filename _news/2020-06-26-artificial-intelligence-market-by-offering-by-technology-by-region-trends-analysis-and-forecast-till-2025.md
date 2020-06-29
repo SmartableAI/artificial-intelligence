@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-26T12:22:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-by-offering-by-technology-by-region---trends-analysis-and-forecast-till-2025-2020-06-26"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,20 @@ images:
     title: "Artificial Intelligence Market By Offering, By Technology, By Region - Trends, Analysis, and Forecast Till 2025"
 
 related:
+  - title: "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis By Size, Growth Rate and Trends With Forecast To 2026"
+    excerpt: "Artificial Intelligence in Healthcare Market2020 Global Industry Trends, Size, Share Analysis Report. According to"
+    publishedDateTime: 2020-06-29T13:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-by-size-growth-rate-and-trends-with-forecast-to-2026-2020-06-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market- Global Industry Analysis By Development, Size, Share and Demand Forecast From to 2023"
     excerpt: "Artificial Intelligence in Manufacturing Market: Global Drivers, Restraints, Opportunities, Trends, and Forecasts up"
     publishedDateTime: 2020-06-25T16:04:00Z
@@ -42,22 +56,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AI in Fintech Market to Reach $22.6 Billion by 2025, but Most Fintechs Still Prefer In-House Over Buying AI Software from Third Parties"
-    excerpt: "The global AI in Fintech market was valued at about $6.67 billion last year and is now projected to reach $22.6 billion by 2025. As noted in ResearchAndMarket’s recent report, the AI Fintech sector is on track to expand at a CAGR of 23."
-    publishedDateTime: 2020-06-26T12:18:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/06/163277-ai-in-fintech-market-to-reach-22-6-billion-by-2025-but-most-fintechs-still-prefer-in-house-over-buying-ai-software-from-third-parties/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/06/163277-ai-in-fintech-market-to-reach-22-6-billion-by-2025-but-most-fintechs-still-prefer-in-house-over-buying-ai-software-from-third-parties/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/06/163277-ai-in-fintech-market-to-reach-22-6-billion-by-2025-but-most-fintechs-still-prefer-in-house-over-buying-ai-software-from-third-parties/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 27
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/AI-Artificial-Intelligence-600x450.jpeg"
-        width: 600
-        height: 450
         isCached: true
 
 secured: "1j+ntp/gV/KkYb/6fFbJGfUZmatcwS6vVxWI3sLbWNrqdkOk8rgQrXTrX90vj18d+cvq4BQ5mUXB+W1LGqCSRzYeB6OZGx4DU6M250AWEzZ1J0AY306Y0lZ+NJxUfr+vkuqc9NYHecXJBibGksswXXSyuj/pdSbdtswR4F/JHGeZSzTiiw+Fw8T44Z0NAwfS0lmSfcSbb4O0JFrJLYv2lmqHNbrwys3D7S5dPRpm4OacIbOcPfEsCAH1YJ9o32P6N+ocXvSH2ffturI5mzbbWwhuuRCqNqKVJcMu+UDSLJhRNbE3qJKI86XH9Q4Km1USKiz2wywHBH+q+aXO4SMFlA==;BJeG/Gf9F0vNF67/TdMb5g=="

@@ -1,13 +1,10 @@
 ---
 category: news
 title: "Measuring the benefit of deep learning for the games industry"
-excerpt: "We should be both excited and critical of the opportunities presented to us by deep learning, because the cost and processing burden of such technologies can be greater than the value gained from their successful implementation."
-publishedDateTime: 2020-06-15T14:58:00Z
-webUrl: "https://gamasutra.com/blogs/ShaneMcAndrew/20200615/364612/Measuring_the_benefit_of_deep_learning_for_the_games_industry.php"
+excerpt: "The following blog post, unless otherwise noted, was written by a member of Gamasutra’s community. The thoughts and opinions expressed are those of the writer and not Gamasutra or its parent ..."
+publishedDateTime: 2020-06-15T14:56:00Z
+webUrl: "https://www.gamasutra.com/blogs/ShaneMcAndrew/20200615/364612/Measuring_the_benefit_of_deep_learning_for_the_games_industry.php"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Gamasutra
@@ -24,6 +21,6 @@ images:
     isCached: true
     title: "Measuring the benefit of deep learning for the games industry"
 
-secured: "2fMDhssEKt3n/OvvaMleXLIzqNLkbE2ObINUOuRNJAahKS13gNuSsTbsdamNRjFJij/7MJCtXs/Xs/rdkQn3dGq5EKKBf5PsT7O8ESfP0QVr3dFmj1eidlar673XyVBmIZFZs3oCC3Xdax4ZhXnY1oicH9hMORDHnK+u1/el3CtNk+N7vpc5MNKHLGbdDkE0MCbw6sge2wIkS6fMbX9tWI84CPmH5QkWs3z4e9/bpvw+bjqOXUHpTuYW8d8bHh63h84HdpNSZ4QmE3pj6Tv0qMb6cG38NCgcxogWR8zqlA52xgGkvTw4ROmWoPOz8GQbNzQXOE9zXyE7H7aAmxTO/r0zEGy8cspgvCDfFNskOo/D5KtA6A5K8D7HN9X11EW/QlH329FE00LwtOvp0egF30O/ZXWlqdidjYWPNNDr5t7inWVo24MU/YkiahRxVnUjkuBYF2//v4T/Q9hPJSHDh6M1H6ZZlqSFRmmBHiXILBCWnlFQScY0HdjvfaAzI70hJnHg4cHO7fk39eLndLDrPg==;xEVVlb+b3IrAgFyRd5bYog=="
+secured: "SkyPxENqLm8+p0UyDyz/J8Mu14hyXY+8ZyjvSnDl2gWWzuMgoh9ygg8EAs5LkfOXVK2WAS+opcolfcsHH7b0UWq81KydKkc9JZI+HecDH74b8EfjC41mVqx+P+mAJwydwVRJm691RDx2lcB0SQ/uj8adSUIjundD7O4XFvQSxlkVubMeoFGasT2krr9dzgf3vlM/M4CvpTYVNQ6DXMvUa/AGb+s2wMcXL4FuD20Q9HxBFCPFVVNfpk55ofPpS/rzXKlyDFJShu7b7ZGwes0A5LkRwI6KvR64WV4ay3UYPWHhVSFiRdtZ7g/Z4l2FWgdwRnfGljXo6aps3xrBvXGwqw==;WBCWGvmg8Iolp3zTm6O/NQ=="
 ---
 

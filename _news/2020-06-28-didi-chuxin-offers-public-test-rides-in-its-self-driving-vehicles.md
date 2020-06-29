@@ -350,6 +350,20 @@ related:
         width: 647
         height: 400
         isCached: true
+  - title: "Baidu-backed self-driving vehicle sensors maker going public - report"
+    excerpt: "Graf Industrial is in talks to merge with Baidu-backed Velodyne Lidar in a deal that would take public the maker of sensors used in self driving vehicles, according to Bloomberg sources \"familiar with the matter\"."
+    publishedDateTime: 2020-06-29T17:00:00Z
+    webUrl: "https://www.just-auto.com/news/baidu-backed-self-driving-vehicle-sensors-maker-going-public-report_id196352.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
     excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday"
     publishedDateTime: 2020-06-29T15:41:00Z
@@ -361,20 +375,6 @@ related:
       name: Times LIVE
       domain: timeslive.co.za
     quality: 39
-  - title: "Mercedes-Benz partners with Nvidia for next-gen self-driving vehicles"
-    excerpt: "Software-defined computing architecture based on Nvidia Drive platform Mercedes-Benz has partnered up with Nvidia to create a new in-vehicle computing system and AI computing infrastructure, all based on a new software-defined architecture that will be rolling out to the fleet of next-generation"
-    publishedDateTime: 2020-06-24T23:15:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/51064-mercedes-benz-partners-with-nvidia-for-next-gen-self-driving-vehicles"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 24
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/d50cd04edb05beaa9a3f744aae2bcaac_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Amazon buying Zoox to veer into self-driving tech"
     excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
     publishedDateTime: 2020-06-27T06:54:00Z
