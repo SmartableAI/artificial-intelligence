@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp"
 type: article
 quality: 89
-heat: 390
+heat: 389
 published: true
 
 provider:

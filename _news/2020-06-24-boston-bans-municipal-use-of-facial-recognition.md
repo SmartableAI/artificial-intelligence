@@ -440,6 +440,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Ed Markey, Ayanna Pressley push for federal ban on facial recognition technology"
+    excerpt: "Massachusetts Sen. Ed Markey and Rep. Ayanna Pressley are pushing to ban the federal government’s use of facial recognition technology, as Boston last week nixed the city use of the"
+    publishedDateTime: 2020-06-28T23:14:00Z
+    webUrl: "https://www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/"
+    ampWebUrl: "https://www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 56
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/03/markeynl06.jpg?w=1024&h=755"
+        width: 1024
+        height: 755
+        isCached: true
   - title: "Wrongful Arrest Based On Face Recognition System, Complaint Says"
     excerpt: "A flawed facial recognition algorithm led to the wrongful arrest of an African-American man in Detroit, according to a complaint filed Wednesday in a case highlighting concerns over the technology which critics say reinforces racial bias."
     publishedDateTime: 2020-06-24T15:53:00Z
@@ -631,6 +647,15 @@ related:
         width: 1114
         height: 675
         isCached: true
+  - title: "Detroit police work to expunge record of man wrongfully accused with facial recognition"
+    excerpt: "Detroit — A day after the American Civil Liberties Union filed a complaint against Detroit police officials about the wrongful arrest of an African American man the group said was mistakenly targeted through facial recognition software, investigators ..."
+    publishedDateTime: 2020-06-26T20:42:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21143871/detroit-police-work-to-expunge-record-of-man-wrongfully-accused-with-facial-recognition"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 11
 
 secured: "8hHxeH+Zd65YszvQFFGS6wzGmgutFU1M/nUdkwkASOQbohF/K4WL/KUR6tdD5JdON6Ki/jZXLJWPoo/hlgi9IMg/n+Ng4vQPWVGRppT8u+aZiL3+S7HpDyxe6xSOhThJiwbx1oZiIOZv6pbuuGQL4fssp6gMovPSwqh7rC5XOQDIUpLK3ij7tlF6cmhNjRJIv1plVsxS+/J/xY3zoYOQvH6GUPhJmrG9lfynDVq331TUwKjiQX+jnW6Qs/Vq9gh/0KgnwymnSrinor5UkybtCs0aTFLFg/U5IZ9+TH17I0fuvUj68eenStp7vzGY3XsWrda3pqqR5Rdo5dV+0GleHVcqPz/iMiE7n4QoqgVOKv5qVNcdWEx/fW018sYjXGwOcMeF2bJ6pNkQ/BQrW+5P+ZlkrAvT/Z/HGudZ8gohNJtXFQYDdyxPNmVCvCbKmW5M+PSe6pJ8pHmV4mn6IAxuraEfxyEEGM3rWPq/HbQNuH6YVX69yv9h0y8QETsSKIeB916XUXe5toFCLT+YCUMWGA==;ew9fhSg1Lj5m/zJu05hg+A=="
 ---

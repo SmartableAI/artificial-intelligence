@@ -30,21 +30,35 @@ images:
     title: "Amazon to acquire autonomous driving startup Zoox"
 
 related:
-  - title: "Mercedes-Benz, Nvidia deepen autonomous driving alliance"
-    excerpt: "Semiconductor maker Nvidia Corp has struck a deal with Germany's Daimler to develop and equip Mercedes-Benz cars with a next generation chip and software platform that could eventually be used for autonomous driving functions."
-    publishedDateTime: 2020-06-24T05:59:00Z
-    webUrl: "https://www.reuters.com/article/us-nvidia-daimler-autonomous-idUSKBN23U2W5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23U2W5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23U2W5"
+  - title: "Amazon acquires autonomous vehicle startup Zoox"
+    excerpt: "Amazon announced that it's acquired Zoox, a startup developing a range of autonomous vehicle technologies. The details of the deal weren't disclosed."
+    publishedDateTime: 2020-06-26T13:58:00Z
+    webUrl: "https://venturebeat.com/2020/06/26/amazon-acquires-autonomous-vehicle-startup-zoox/"
+    ampWebUrl: "https://venturebeat.com/2020/06/26/amazon-acquires-autonomous-vehicle-startup-zoox/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/26/amazon-acquires-autonomous-vehicle-startup-zoox/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 74
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200623&t=2&i=1523230547&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5M1PR"
-        width: 813
-        height: 545
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/zoox_highlander_04.jpg?w=1200&#038;strip=all"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Microsoft acquires industrial IoT security startup CyberX"
+    excerpt: "Microsoft announced on Tuesday that it is acquiring industrial cyber security start-up CyberX to enhance the security features ... The CyberX platform applies AI-based techniques and behavioural analytics to map out all connected devices in a network ..."
+    publishedDateTime: 2020-06-24T08:37:00Z
+    webUrl: "https://www.computing.co.uk/news/4016904/microsoft-acquires-industrial-iot-security-startup-cyberx"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 24
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/72f8084/8d9884c3-2848-4ecf-ad04-5ac934035d7e/3/cyberx-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
 
 secured: "zyCjr+YcFbbBKzNh+oCMiY45Hrla40y4FY3V5kM+KAVUrqfwedkk3SHmVlgGOnBZvqDmN+IAiJ19T6Ue9o0/ykL7BFKzGYcpr9N6trzUqTkSDrAGbszkXZzWHO9Ww638AsCn9bEEB04ULeFGDEWqvbohLMMGnlEenuuSutHlhBqh9NkzJrtOW5QQyMI0Q1UlEvNMQPUEYdf7utRzqzzpCnwas6D5G5y9Umgp7F6DstKKlA6pBHu2tUW/1LRu6rAOyrnBEFdS5KHiZRQ2Z1SYaAhtQrQhePa8/rH+lGEQRVQy0i+T+CdEqQff/qyVxMRdphGWAkaHzpATBUN5CR9yJ1AkZzxjMaS5TVUd5as15fYziB71tBblNBs1dYjpOveIqXR+QdbL+DZkeeY0NJFqJQBG9jUJeYtfb4BuMeF2yZ9FNXFyn1g1NS1BRnySvU5QfAdIJnb66SOLNHYe8OmTZ7mQQnpc3Hx49qXaRtlv7IxIQNX0epUe3w1LdPQkxjWC0HZD6kTfo3NuA/suPKLUvA==;87h5S0glyBjZZW1YCyFpXQ=="

@@ -449,6 +449,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Ed Markey, Ayanna Pressley push for federal ban on facial recognition technology"
+    excerpt: "Massachusetts Sen. Ed Markey and Rep. Ayanna Pressley are pushing to ban the federal government’s use of facial recognition technology, as Boston last week nixed the city use of the"
+    publishedDateTime: 2020-06-28T23:14:00Z
+    webUrl: "https://www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/"
+    ampWebUrl: "https://www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 56
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/03/markeynl06.jpg?w=1024&h=755"
+        width: 1024
+        height: 755
+        isCached: true
   - title: "OTR: Will Boston's ban on facial recognition technology become a national trend?"
     excerpt: "JANE BOSTON BECAME THE SECOND NATIONAL CITY TO BAN FACIAL RECOGNITION TECHNOLOGY. WILL THIS BE A TREND? WE MAY BE THE FIRST BUT WE’RE NOT THE LAST. MARY ANNE: IT’S MORE 1984 THAN A 2020 DEMOCRACY. ED: THIS WEEK,"
     publishedDateTime: 2020-06-28T15:43:00Z
@@ -626,6 +642,15 @@ related:
         width: 1114
         height: 675
         isCached: true
+  - title: "Detroit police work to expunge record of man wrongfully accused with facial recognition"
+    excerpt: "Detroit — A day after the American Civil Liberties Union filed a complaint against Detroit police officials about the wrongful arrest of an African American man the group said was mistakenly targeted through facial recognition software, investigators ..."
+    publishedDateTime: 2020-06-26T20:42:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21143871/detroit-police-work-to-expunge-record-of-man-wrongfully-accused-with-facial-recognition"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 11
 
 secured: "DeFupEVa57QGy/RXTouHbPfsobQeM2Ob+p3yNvkUtmCQ2eFNcIThVOB4GSFAoOGVaFPM/Hb2EkW5n0xYdpRr+WXsnnm66rFX2SiHOxcVWL1EXFBu3kW4h1PYsFkthpIEQLiTRDXlOXN2huo9aCOrZoGyYgMWI7aAEdAS0Jv96qddNfYeEi8Yoa+W92TPdOfa5DAiRCozP6NyZ4AMcg29IlBvJ7myCxhrSmYPW3Y7Pk76yp5+ocV0Kzdk3dtRnNnKdsDTwynKM8Zw0ZvJLh/JI3V+9iL1Owz80OQGxwrKXp6OKYqEG8B9gEydF0QWKXU7WktWE3GwwviwbJQKVIxuHPIF8/8IkkVZUnDl2aHldl+kMSFw87rU2OTT7sWvXtHRG4NXPQ2AzdsEECUNIH5qfTF9V3lknYo4ISRpYOrjyrb3aVMee41JkO2O5zaS1oW64+txXvcxqpgLXIQrCmsgwXPVRtVroW2Er8guegZn1TTCI0D2rcu4QGmPkdjnV9qoCooTfr7czAfqZ/E8nESusQ==;M8Dz8kePAFWV06evynRQiw=="
 ---

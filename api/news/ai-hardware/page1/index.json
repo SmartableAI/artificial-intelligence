@@ -322,6 +322,54 @@
       ]
     },
     {
+      "path": "_news/2020-06-24-teaching-ai-to-fourth-graders-is-a-thing-now.md",
+      "title": "Teaching AI to fourth-graders is a thing now",
+      "excerpt": "Real-world projects taught by industry leaders help fourth-graders understand AI in an innovative way, an alternative to cranking out a learn-to-code factory.",
+      "webUrl": "https://www.techrepublic.com/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/23/ae3777d3-b430-4d47-867d-c4acd0aa296f/resize/1200x/a43663c878d6831ebf3e25149e0be50c/create-learn-kid.jpg",
+          "width": 1200,
+          "height": 840,
+          "title": "Teaching AI to fourth-graders is a thing now",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
+      "publishedDateTime": "2020-06-24T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-mercedes-benz-nvidia-deepen-autonomous-driving-alliance.md",
       "title": "Mercedes-Benz, Nvidia deepen autonomous driving alliance",
       "excerpt": "Semiconductor maker Nvidia Corp has struck a deal with Germany's Daimler to develop and equip Mercedes-Benz cars with a next generation chip and software platform that could eventually be used for autonomous driving functions.",
@@ -511,6 +559,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-22-inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20.md",
+      "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
+      "excerpt": "NF5468M6 and NF5468A5 accommodate 8 pcs of double-width NVIDIA A100 PCIe GPUs in 4U chassis. Both support the latest PCIe Gen 4 of 64GB/s bi-directional",
+      "webUrl": "https://www.hpcwire.com/2020/06/22/inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/shutterstock_1400242643.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu.md",
       "title": "Windows 10 PCs: Why the new key to faster desktop applications is your GPU",
       "excerpt": "Adobe has been putting in GPU-accelerated machine learning in applications like Photoshop and Lightroom, while Corel has added AI-powered brushes to its natural material Painter. By opening DirectX's GPU compute to cross-platform APIs like Mesa3D ...",
@@ -617,6 +703,53 @@
           "width": 1200,
           "height": 630,
           "title": "NVIDIA Unveils AI Platform to Minimize Downtime in Supercomputing Data Centers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-worlds-top-system-makers-unveil-nvidia-a100-powered-servers-to-accelerate-ai-data-science-and-scientific-computing.md",
+      "title": "World's Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing",
+      "excerpt": "ISC Digital--June 22, 2020--NVIDIA and the world's leading server manufacturers today announced NVIDIA A100-powered systems in a variety of designs and configurations to tackle the most complex challenges in AI,",
+      "webUrl": "https://www.marketwatch.com/press-release/worlds-top-system-makers-unveil-nvidia-a100-powered-servers-to-accelerate-ai-data-science-and-scientific-computing-2020-06-22",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "World's Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing",
           "attribution": null,
           "isCached": true
         }
@@ -1225,138 +1358,6 @@
       "provider": {
         "name": "GizChina",
         "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables.md",
-      "title": "Huami unveils the Huangshan 2 chip, a self developed processor for its wearables",
-      "excerpt": "Huami Technology, the known wearables maker, held its AI Innovation Conference in China. In the event, the company showcased a number of AI innovation technologies, and with it, the second generation of its self developed Huangshan processor.",
-      "webUrl": "https://www.gizmochina.com/2020/06/15/huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables/",
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/06/728da9773912b31be99e3e749eb5e47cdbb4e135-e1592213931302.jpg",
-          "width": 286,
-          "height": 215,
-          "title": "Huami unveils the Huangshan 2 chip, a self developed processor for its wearables",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-ai-war-games-and-the-challenge-of-china.md",
-      "title": "AI War Games And The Challenge Of China",
-      "excerpt": "Can you talk a little bit about what an AI war game would entail? JASON: There are many different formats for war games, but the fundamental goal for all of them is to explore different approaches to addressing some competitive challenge.",
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2020/06/12/ai-war-games-and-the-challenge-of-china/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee38ea557886e0006e40d37%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D371%26cropY1%3D41%26cropY2%3D288",
-          "width": 371,
-          "height": 248,
-          "title": "AI War Games And The Challenge Of China",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2020/06/12/ai-war-games-and-the-challenge-of-china/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2020/06/12/ai-war-games-and-the-challenge-of-china/amp/",
-      "publishedDateTime": "2020-06-12T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-reference-design-supports-memory-intensive-ai-workloads.md",
-      "title": "Reference design supports memory-intensive AI workloads",
-      "excerpt": "One of the challenges is that smart vision and other AI applications generate a lot of data that is ... smaller than a 9 × 13-mm BGA packaging used by a standard DDR3 DRAM chip. Another advantage of the solution is that it doesn’t require expertise ...",
-      "webUrl": "https://www.embedded.com/reference-design-supports-memory-intensive-ai-workloads/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2020/06/img20200616091403Memory-controller-reference-desi_0.jpg",
-          "width": 383,
-          "height": 305,
-          "title": "Reference design supports memory-intensive AI workloads",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
         "images": null,
         "publishers": null,
         "authors": null

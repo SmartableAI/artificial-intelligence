@@ -2,507 +2,33 @@
   "page": 51,
   "value": [
     {
-      "path": "_news/2020-05-07-how-mind-controlled-robot-suits-could-enhance-our-limbs.md",
-      "title": "How Mind-Controlled Robot Suits Could Enhance Our Limbs",
-      "excerpt": "In Episode 2 of Future You with Elise Hu, we explore mind-controlled robot suits and how they could end some disabilities as we know them or let able-bodied people gain super strength. It sounds ...",
-      "webUrl": "https://www.npr.org/2019/05/07/716412296/how-mind-controlled-robot-suits-could-enhance-our-limbs",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2019/05/07/fy_exos_promoimage3_wide-137069bee73fbb70f902b7e2cbf9731d0c48771a.jpg?s=1400",
-          "width": 1337,
-          "height": 752,
-          "title": "How Mind-Controlled Robot Suits Could Enhance Our Limbs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-aws-unveils-open-source-model-server-for-pytorch.md",
-      "title": "AWS unveils open source model server for PyTorch",
-      "excerpt": "including Kubernetes, Amazon SageMaker, Amazon EKS, and Amazon EC2. TorchServe requires Java 11 on Ubuntu Linux or MacOS.",
-      "webUrl": "https://www.reseller.co.nz/article/679084/aws-unveils-open-source-model-server-pytorch/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/aws_dreamstime.jpg",
-          "width": 800,
-          "height": 500,
-          "title": "AWS unveils open source model server for PyTorch",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-la-trobe-university-using-artificial-intelligence-to-reduce-course-dropout-rates.md",
-      "title": "La Trobe University using artificial intelligence to reduce course dropout rates",
-      "excerpt": "The Bachelor of Arts Explorer allows students to shortlist majors and see what careers they can enter if they study a specific course.",
-      "webUrl": "https://www.zdnet.com/article/la-trobe-using-artificial-intelligence-to-reduce-course-dropout-rates/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/05/06/beae507b-2d7e-48b2-ac68-6996eb050e6e/bachelor-of-arts-explorer.png",
-          "width": 1248,
-          "height": 764,
-          "title": "La Trobe University using artificial intelligence to reduce course dropout rates",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/la-trobe-using-artificial-intelligence-to-reduce-course-dropout-rates/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/la-trobe-using-artificial-intelligence-to-reduce-course-dropout-rates/",
-      "publishedDateTime": "2020-05-06T17:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-feds-quarles-says-paying-a-lot-of-attention-to-spread-of-machine-learning-in-finance.md",
-      "title": "Fed's Quarles says paying 'a lot' of attention to spread of machine learning in finance",
-      "excerpt": "Federal Reserve vice chair for supervision Randal Quarles said the central bank is in the early stages of studying the use of machine learning in the financial sector. Federal Reserve vice chair ...",
-      "webUrl": "https://www.cnbc.com/2018/05/06/the-fed-is-paying-attention-to-spread-of-machine-learning-in-finance.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105188162-GettyImages-924650070.jpg?v=1569588423",
-          "width": 1024,
-          "height": 683,
-          "title": "Fed's Quarles says paying 'a lot' of attention to spread of machine learning in finance",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2018/05/06/the-fed-is-paying-attention-to-spread-of-machine-learning-in-finance.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/05/06/the-fed-is-paying-attention-to-spread-of-machine-learning-in-finance.html",
-      "publishedDateTime": "2020-05-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-microsoft-adds-openshift-and-rhel-support-to-azure-arc-its-hybrid-and-multi-cloud-platform.md",
-      "title": "Microsoft Adds OpenShift and RHEL Support to Azure Arc, Its Hybrid and Multi-Cloud Platform",
-      "excerpt": "At the recent virtual Red Hat Summit, Microsoft's cloud and AI group's executive VP, Scott Guthrie, joined Red Hat CEO Paul Cormier to explain that Red Hat and Azure engineers have been working side-by-side to integrate Red Hat Enterprise Linux and the OpenShift container platform into Arc. At the same time, Arc has been expanded to manage ...",
-      "webUrl": "https://www.datacenterknowledge.com/microsoft/microsoft-adds-openshift-and-rhel-support-azure-arc-its-hybrid-and-multi-cloud-platform",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/Red-Hat-hq.jpg",
-          "width": 470,
-          "height": 353,
-          "title": "Microsoft Adds OpenShift and RHEL Support to Azure Arc, Its Hybrid and Multi-Cloud Platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Data Center Knowledge",
-        "domain": "datacenterknowledge.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-tensorflow-220-arrives-with-breaking-changes-and-drops-python-2-support.md",
-      "title": "TensorFlow 2.2.0 arrives with breaking changes and drops Python 2 support",
-      "excerpt": "TensorFlow 2.2.0 has been released, nearly four months after v2.1.0. The TensorFlow team has been keeping busy: In the latest version of the machine learning platform, they have added lots of new features and breaking changes, and have also fixed several bugs.",
-      "webUrl": "https://jaxenter.com/tensorflow-2-2-0-171759.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jaxenter.com/wp-content/uploads/2020/05/tensorflow-2-2-0.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "TensorFlow 2.2.0 arrives with breaking changes and drops Python 2 support",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jaxenter.com",
-        "domain": "jaxenter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.md",
-      "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
-      "excerpt": "I am predicting today that every company will become an AI company, not because they can, but because they must,” he said. With that idea in mind the company rolled out IBM Watson AIOps ...",
-      "webUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/03/cio_global_network_artificial_intelligence_virtual_connections_augmented_reality_virtual_reality_iot_by_metamorworks_gettyimages-875499980-100809082-orig-1-100834440-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
-      "publishedDateTime": "2020-05-06T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-ibm-think-digital-2020-build-and-scale-ai-with-trust-and-transparency.md",
-      "title": "IBM Think Digital 2020: Build and scale AI with trust and transparency",
-      "excerpt": "There was a session titled ‘Build and Scale AI with Trust and Transparency with an Automated AI Lifecycle’ at the IBM Think Digital 2020. Shadi Copty, VP, Offering Management, for Cloud Pak for Data, DataOps & Watson Tools/Runtime, IBM, said that an ...",
-      "webUrl": "https://www.dqindia.com/ibm-think-digital-2020-build-scale-ai-trust-transparency/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/ibm-think-digital-2020-build-scale-ai-trust-transparency/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ibm-think-digital-2020-build-scale-ai-trust-transparency/amp/",
-      "publishedDateTime": "2020-05-06T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-is-the-use-of-open-source-software-putting-your-business-at-risk.md",
-      "title": "Is The Use of Open Source Software Putting Your Business at Risk?",
-      "excerpt": "TensorFlow: Google open sourced its artificial intelligence engine to enable programmers to develop and enhance AI applications. Vulnerabilities in open source software. Vulnerabilities in open ...",
-      "webUrl": "https://www.natlawreview.com/article/use-open-source-software-putting-your-business-risk",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.iptechblog.com/wp-content/uploads/sites/17/2020/05/Programming-code--300x222.jpg",
-          "width": 300,
-          "height": 222,
-          "title": "Is The Use of Open Source Software Putting Your Business at Risk?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/use-open-source-software-putting-your-business-risk?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/use-open-source-software-putting-your-business-risk?amp",
-      "publishedDateTime": "2020-05-06T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone.md",
-      "title": "Facebook’s AI ‘learns how to learn’ to transport payloads using a drone",
-      "excerpt": "In a recent paper, Facebook and University of California, Berkely researchers propose an approach to payload-carrying drone flight planning that “learns how to learn” models of environmental dynamics.",
-      "webUrl": "https://venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/08/Drones.jpg?fit=1200%2C800&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "Facebook’s AI ‘learns how to learn’ to transport payloads using a drone",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/amp/",
-      "publishedDateTime": "2020-05-06T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-microsoft-quickly-updates-portfolio-in-response-to-covid-19.md",
-      "title": "Microsoft Quickly Updates Portfolio In Response To COVID-19",
-      "excerpt": "Patrick Moorhead takes a look at Microsoft unveiling last week a slew of updates to its portfolio designed to improve collaboration and virtual meetings, the provisioning and management of remote devices,",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/05/06/microsoft-quickly-updates-portfolio-in-response-to-covid-19/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/05/06/microsoft-quickly-updates-portfolio-in-response-to-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/05/06/microsoft-quickly-updates-portfolio-in-response-to-covid-19/amp/",
-      "publishedDateTime": "2020-05-06T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool.md",
-      "title": "Unexpected Scientific Insights into COVID-19 From AI Machine Learning Tool",
-      "excerpt": "A team of materials scientists at Lawrence Berkeley National Laboratory (Berkeley Lab) – scientists who normally spend their time researching things like high-performance materials for thermoelectrics",
-      "webUrl": "https://scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/",
+      "path": "_news/2020-05-16-this-n95-like-mask-would-allow-you-to-unlock-your-phone-with-face-id.md",
+      "title": "This N95-like mask would allow you to unlock your phone with Face ID",
+      "excerpt": "If you're struggling to unlock your phone with facial recognition while wearing a face mask due to the coronavirus outbreak, a better alternative may be on the way. The Chinese tech company Huami, best known for its Amazfit wearable devices,",
+      "webUrl": "https://www.cnet.com/news/n95-like-mask-concept-would-allow-you-unlock-phone-with-face-id/",
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": "Unexpected Scientific Insights into COVID-19 From AI Machine Learning Tool",
+          "url": "https://cnet2.cbsistatic.com/img/F2kIQhUcGfgh3zP_EUna2KVKcrk=/756x567/2020/05/01/4390e8d4-7ab5-43eb-af57-126a3d9e863d/aeri-concept-x-05.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "This N95-like mask would allow you to unlock your phone with Face ID",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/amp/",
-      "publishedDateTime": "2020-05-06T13:09:00-07:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/n95-like-mask-concept-would-allow-you-unlock-phone-with-face-id/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/n95-like-mask-concept-would-allow-you-unlock-phone-with-face-id/",
+      "publishedDateTime": "2020-05-16T05:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus.md",
-      "title": "Facebook cancels its 2020-2021 AI Residency program due to coronavirus",
-      "excerpt": "Facebook today announced that it plans to cancel its 2020-2021 in-person AI Residency program as a result of the novel coronavirus pandemic. In a statement sent to VentureBeat via email, Facebook vice president of AI Jerome Pesenti said that the decision was motivated by health and safety concerns.",
-      "webUrl": "https://venturebeat.com/2020/05/06/facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook cancels its 2020-2021 AI Residency program due to coronavirus",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus/amp/",
-      "publishedDateTime": "2020-05-06T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "CNET",
+        "domain": "cnet.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -518,109 +44,23 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization.md",
-      "title": "Early adopter or cautious company: How to determine when to begin using AI at your organization",
-      "excerpt": "There is so much hype about AI and its ubiquity, fueled by stories about auto-piloted vehicles, creepy facial recognition, and human-free company operations that it's important to sometimes be reminded of AI's core capabilities.",
-      "webUrl": "https://www.techrepublic.com/article/early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/05/9ba1b354-e835-450f-b505-7ce9a9ac3914/resize/1200x/48a87a86718ea97bb615d302505f9881/istock-1178132567.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Early adopter or cautious company: How to determine when to begin using AI at your organization",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/early-adopter-or-cautious-company-how-to-determine-when-to-begin-using-ai-at-your-organization/",
-      "publishedDateTime": "2020-05-06T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-runai-creates-first-fractional-gpu-sharing-for-kubernetes-deep-learning-workloads.md",
-      "title": "Run:AI Creates First Fractional GPU Sharing for Kubernetes Deep Learning Workloads",
-      "excerpt": "AI, a company virtualizing AI infrastructure, today released the first fractional GPU sharing system for deep learning workloads",
-      "webUrl": "https://www.prnewswire.com/il/news-releases/runai-creates-first-fractional-gpu-sharing-for-kubernetes-deep-learning-workloads-301053864.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Run:AI Creates First Fractional GPU Sharing for Kubernetes Deep Learning Workloads",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-05-06-artificial-intelligence-ai-in-healthcare-market-worth-22790-million-by-2023-480-cagr.md",
-      "title": "Artificial Intelligence (AI) in Healthcare market Worth $22,790 million by 2023 | 48.0% CAGR",
-      "excerpt": "The Global Artificial Intelligence (AI) in Healthcare market is estimated to grow at a CAGR of 48.0% during the forecast period 2017-2023. As per the detailed market study, the global market was valued $1,",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-worth-22790-million-by-2023-480-cagr-2020-05-06",
-      "heat": 98,
+      "path": "_news/2020-05-16-artificial-intelligence-ai-in-healthcare-market-study-navigating-the-future-growth-outlook.md",
+      "title": "Artificial Intelligence Ai In Healthcare Market: Study Navigating the Future Growth Outlook",
+      "excerpt": "The definitive source for facts, data and analysis of the Global Artificial Intelligence Ai",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-study-navigating-the-future-growth-outlook-2020-05-16",
+      "heat": 89,
       "tags": null,
       "images": [
         {
           "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
-          "title": "Artificial Intelligence (AI) in Healthcare market Worth $22,790 million by 2023 | 48.0% CAGR",
+          "title": "Artificial Intelligence Ai In Healthcare Market: Study Navigating the Future Growth Outlook",
           "attribution": null,
           "isCached": true
         }
@@ -628,7 +68,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T12:50:00-07:00",
+      "publishedDateTime": "2020-05-16T03:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -656,31 +96,87 @@
       ]
     },
     {
-      "path": "_news/2020-05-06-navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them.md",
-      "title": "Navy Wants Robot Boats But Will Still Need Sailors To Fix Them",
-      "excerpt": "\"We need to find a balance of vehicle designs that enables the cost to be cheap enough that we can afford them, but it's not so highly optimized towards the purely unmanned spectrum that it's cost prohibitive to maintain them.",
-      "webUrl": "https://breakingdefense.com/2020/05/navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them/",
+      "path": "_news/2020-05-16-irobots-roomba-i7-robot-vacuum-has-been-perfect-pandemic-company.md",
+      "title": "iRobot’s Roomba i7+ robot vacuum has been perfect pandemic company",
+      "excerpt": "You’d think that, after all this time at home waiting out the COVID-19 pandemic, I’d have got around to vacuuming more. Instead I’ve been offloading most of the responsibility to",
+      "webUrl": "https://www.slashgear.com/irobot-roomba-i7-plus-review-robot-vacuum-smart-mapping-auto-emptying-bin-16620806/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/irobot-roomba-i7-plus-robot-vacuum-08.jpg",
+          "width": 1680,
+          "height": 1050,
+          "title": "iRobot’s Roomba i7+ robot vacuum has been perfect pandemic company",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/irobot-roomba-i7-plus-review-robot-vacuum-smart-mapping-auto-emptying-bin-16620806/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/irobot-roomba-i7-plus-review-robot-vacuum-smart-mapping-auto-emptying-bin-16620806/amp/",
+      "publishedDateTime": "2020-05-16T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-16-facebooks-giphy-purchase-will-help-keep-track-of-competitors.md",
+      "title": "Facebook’s Giphy purchase will help keep track of competitors",
+      "excerpt": "Giphy provides the same search service to many of Facebook’s competitors – including Apple’s iMessage, Twitter, Signal and TikTok – which shows how often people use these platforms, the kind of insight Facebook values most.",
+      "webUrl": "https://www.scmp.com/tech/apps-social/article/3084685/facebooks-giphy-purchase-will-help-keep-track-competitors",
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2020/05/Sea-Hunter-1024x768.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": "Navy Wants Robot Boats But Will Still Need Sailors To Fix Them",
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/16/9ec5b494-972e-11ea-ae0d-0e69ba128e68_image_hires_125830.jpg?itok=gcwE52xs&v=1589605117",
+          "width": 1200,
+          "height": 630,
+          "title": "Facebook’s Giphy purchase will help keep track of competitors",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2020/05/navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/05/navy-wants-robot-boats-but-will-still-need-sailors-to-fix-them/amp/",
-      "publishedDateTime": "2020-05-06T12:48:00-07:00",
+      "ampWebUrl": "https://amp.scmp.com/tech/apps-social/article/3084685/facebooks-giphy-purchase-will-help-keep-track-competitors",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3084685/facebooks-giphy-purchase-will-help-keep-track-competitors",
+      "publishedDateTime": "2020-05-15T21:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -689,23 +185,23 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Facebook AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-05-06-how-ibm-is-automating-it-to-help-companies-maintain-business-continuity-during-crises.md",
-      "title": "How IBM is automating IT to help companies maintain business continuity during crises",
-      "excerpt": "IBM is rolling out a new suite of AI for IT tools and services that can help CIOs in all industries reduce costs and handle more complex networks.",
-      "webUrl": "https://www.businessinsider.com/sc/ai-can-help-it-departments-navigate-crises-2020-5",
-      "heat": 72,
+      "path": "_news/2020-05-16-smarter-phones-in-your-hacks-with-tensorflow-lite.md",
+      "title": "Smarter Phones In Your Hacks With TensorFlow Lite",
+      "excerpt": "If your neural network was written using Google’s TensorFlow framework then you’ve had the option of using TensorFlow Mobile, but it doesn’t use any of the phone’s accelerated hardware ...",
+      "webUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5ea86ad338bf232f585b0297?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "How IBM is automating IT to help companies maintain business continuity during crises",
+          "url": "https://hackaday.com/wp-content/uploads/2017/11/tensor_flow_lite_demo_fe.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Smarter Phones In Your Hacks With TensorFlow Lite",
           "attribution": null,
           "isCached": true
         }
@@ -713,49 +209,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T12:44:00-07:00",
+      "publishedDateTime": "2020-05-15T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-10-tech-stocks-to-buy-for-the-next-10-years.md",
-      "title": "10 Tech Stocks to Buy for the Next 10 Years",
-      "excerpt": "Any one of these could become the driver of tech stock growth over the next 10 years, the way smartphones dominated the past decade. This list of tech stocks to buy for the next 10 years includes many familiar names: While many companies have been a big part of the past decade in tech,",
-      "webUrl": "https://www.nasdaq.com/articles/10-tech-stocks-to-buy-for-the-next-10-years-2020-05-06",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "Hackaday",
+        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -765,265 +223,11 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice.md",
-      "title": "How Microsoft, OpenAI, and OECD are putting AI ethics principles into practice",
-      "excerpt": "A case study on how to convert AI ethics principles into actions looks at Microsoft's AETHER, OpenAI's GPT-2 release, and OECD and G20 ethics principles.",
-      "webUrl": "https://venturebeat.com/2020/05/06/how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice/",
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": "How Microsoft, OpenAI, and OECD are putting AI ethics principles into practice",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/how-microsoft-openai-and-oecd-are-putting-ai-ethics-principles-into-practice/amp/",
-      "publishedDateTime": "2020-05-06T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-volvo-cars-will-use-luminars-lidar-to-enable-highway-self-driving-in-2022.md",
-      "title": "Volvo Cars Will Use Luminar's Lidar to Enable Highway Self-Driving in 2022",
-      "excerpt": "Swedish automaker Volvo Cars said that it will add lidar sensors and new perception technology from Silicon Valley start-up Luminar to some of its models starting in 2022. Luminar's lidar technology will allow Volvo to offer highway self-driving as an option,",
-      "webUrl": "https://www.fool.com/investing/2020/05/06/volvo-cars-will-use-luminars-lidar-to-enable-highw.aspx",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F572202%2Fvolvo_luminar_roofline_lidar_integration.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 632,
-          "title": "Volvo Cars Will Use Luminar's Lidar to Enable Highway Self-Driving in 2022",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/volvo-cars-will-use-luminars-lidar-to-enable-highw.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/volvo-cars-will-use-luminars-lidar-to-enable-highw.aspx",
-      "publishedDateTime": "2020-05-06T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-unfounded-criticism-of-chinese-tech-firms-its-just-business.md",
-      "title": "Unfounded Criticism Of Chinese Tech Firms: It's Just Business",
-      "excerpt": "Dismal factory activity data in China and the U.S., coupled with downbeat earnings from tech giants dragged down equity indices in both countries. Feeling unlov",
-      "webUrl": "https://seekingalpha.com/article/4343620-unfounded-criticism-of-chinese-tech-firms-just-business",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-todays-cache-security-issue-in-aarogya-setu-app-and-more.md",
-      "title": "Today’s cache | Security issue in Aarogya Setu app, and more",
-      "excerpt": "The Helio G85 will boost performance of AI camera tasks such as object recognition, smart photo album, scene detection and segmentation with background removal. This will enable smartphone makers ...",
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/todays-cache-security-issue-in-aarogya-setu-app-and-more/article31518511.ece",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/wd0zsl/article31518509.ece/ALTERNATES/LANDSCAPE_615/06THCACHEDATASECURITY",
-          "width": 615,
-          "height": 384,
-          "title": "Today’s cache | Security issue in Aarogya Setu app, and more",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/todays-cache-security-issue-in-aarogya-setu-app-and-more/article31518511.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/todays-cache-security-issue-in-aarogya-setu-app-and-more/article31518511.ece/amp/",
-      "publishedDateTime": "2020-05-06T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers.md",
-      "title": "Invisible AI uses computer vision to help (but hopefully not nag) assembly line workers",
-      "excerpt": "Assembly” may sound like one of the simpler tests in the manufacturing process, but as anyone who’s ever put together a piece of flat-pack furniture knows, it can be surprisingly (and frustratingly) complex.",
-      "webUrl": "https://techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/",
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/invisible-ai.jpeg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": "Invisible AI uses computer vision to help (but hopefully not nag) assembly line workers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/06/invisible-ai-uses-computer-vision-to-help-but-hopefully-not-nag-assembly-line-workers/amp/",
-      "publishedDateTime": "2020-05-06T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
+        "Google AI",
         "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-runa-capital-raises-157-million-to-back-ai-and-deep-tech-startups.md",
-      "title": "Runa Capital raises $157 million to back AI and deep tech startups",
-      "excerpt": "Runa Capital has closed its third investment fund with $157 million to invest in such deep tech as artificial intelligence and quantum computing.",
-      "webUrl": "https://venturebeat.com/2020/05/06/runa-capital-raises-157-million-to-back-ai-and-deep-tech-startups/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Runa-Capital-Partners-e1588753074977.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Runa Capital raises $157 million to back AI and deep tech startups",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/runa-capital-raises-157-million-to-back-ai-and-deep-tech-startups/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/runa-capital-raises-157-million-to-back-ai-and-deep-tech-startups/amp/",
-      "publishedDateTime": "2020-05-06T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
+        "TensorFlow"
       ]
     }
   ],
-  "nextPage": 52
+  "nextPage": null
 }

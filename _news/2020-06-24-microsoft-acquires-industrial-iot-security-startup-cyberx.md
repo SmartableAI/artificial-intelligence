@@ -41,6 +41,22 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Amazon to acquire autonomous driving startup Zoox"
+    excerpt: "Amazon has announced that it will acquire Zoox, a self-driving startup founded in 2014, which has raised nearly $1 billion in funding and which aims to develop autonomous driving technology, including vehicles,"
+    publishedDateTime: 2020-06-26T13:40:00Z
+    webUrl: "https://techcrunch.com/2020/06/26/amazon-to-acquire-autonomous-driving-startup-zoox/"
+    ampWebUrl: "https://techcrunch.com/2020/06/26/amazon-to-acquire-autonomous-driving-startup-zoox/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/26/amazon-to-acquire-autonomous-driving-startup-zoox/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/90.png?w=1024"
+        width: 1024
+        height: 462
+        isCached: true
 
 secured: "xPUKkfKSGWSzQYPH+sMbM3nZkyrtUsR+0e1IquofWgVrFsIEKEax+i9RSCuiQwqB/TIiHuT0XmXL8M509RgIqOgb1nFd48V2q/cfq7ToiTVXlIU0toxLAWiPrTIVgu0LjkcqHzbnIfeopqFlrl0B10MNEHPEx3TQ6MUqUkjwaDmRjTlitVMlpXx7xhQYv7U8j6Z3a8gGu6I0I/w7/dSqj0bI5h8/jm4pDyv1IIOHAQUrkCTDVnFuq1qAhYfgvs6anl07Tg46KHZbJoS247tCEddLj1bXFUhQxIcMfAII9LrQJgD8/0CF5aRU4kupjgdLD3ikrRVI4Sycz1yXBLIn5AwE/du2dok9g/LGU9VqwJ5WXt/i/oGuhC4genBuBmJPjB7E/vAlfUOizEOs2ocPzoeABun942fVNKmei9fEcXaqO1XdQcrPwcv6RzZJT8EIdovaW929xWImzMCqYqjotLjQTxJwsEUa5+LIMAPBwDII6tx2cOcYMfo9wS0Pk4GnbsoFQbBissPrjD+jar7Ggw==;ZWpASjD4UGOsASfs4gLr1g=="
 ---

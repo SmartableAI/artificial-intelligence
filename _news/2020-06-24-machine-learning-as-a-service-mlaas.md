@@ -62,17 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Growth 2020, Trends, Size, Share and Forecast By 2025"
-    excerpt: "Deep learning is a subset of machine learning (ML) in the field of artificial intelligence (AI), which imitates the workings of the human brain for processing big data and creating patterns. Also known as a deep neural network, it plays a vital role in ..."
-    publishedDateTime: 2020-06-24T05:47:00Z
-    webUrl: "https://www.openpr.com/news/2079471/deep-learning-market-growth-2020-trends-size-share"
-    ampWebUrl: "https://www.openpr.com/amp/2079471/deep-learning-market-growth-2020-trends-size-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2079471/deep-learning-market-growth-2020-trends-size-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
 
 secured: "pOBmazz+AFD7aztZ9ovTTQKiQZSYl8MRQdwoS6mOaXn0I1c1h4TjSDDOGPp+lorJGIr//1bUz06XkuVTfw87ai3oQh+gjfVk46u1JLFzVpwnDIdCEDw+xjUB2dI459tqg8FdMwroLLJp9O2fmq/j68supu6EPXrNJZyFBGb4HWdPf15eBiJQ+Fw3GaSvl39xogc3xCH8xKYTLECUGVFdZxZn6xWi6s9j/pQsG+5XuOdHQKrkg70JoAbqwyGOl5jAwftqNsUSGPrMl/BAXDbZ759khRn9FnE0C0auTpFwmq7pB+bDwbAbO0wGFokTtHSeNCe3PpQxAHrw/JRXWfS8Lg==;80BZlaJlRyW98BShQiWbSw=="
 ---

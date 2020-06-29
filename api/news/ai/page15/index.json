@@ -2,6 +2,269 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-06-11-microsoft-bans-police-from-using-its-facial-recognition-software.md",
+      "title": "Microsoft bans police from using its facial recognition software",
+      "excerpt": "The move follows similar measures by Amazon and IBM, and bars police from using Microsoft's systems until federal regulations are in place.",
+      "webUrl": "https://www.cnet.com/news/microsoft-bans-police-from-using-its-facial-recognition-software/",
+      "heat": 409,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/HR54znBsd8jxCVa5CV_hoVJt6rg=/756x567/2020/04/17/9e4fd5eb-524c-4884-88df-b39286c78c21/microsoft-1085.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Microsoft bans police from using its facial recognition software",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-bans-police-from-using-its-facial-recognition-software/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-bans-police-from-using-its-facial-recognition-software/",
+      "publishedDateTime": "2020-06-11T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution.md",
+      "title": "Covid-19 acts as a Catalyst to AI Healthcare Revolution",
+      "excerpt": "The fourth revolution of healthcare is Artificial Intelligence. Here is the connection between AI & Medical field -Healthcare Revolution. AI is medical",
+      "webUrl": "https://techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcresendo.com/wp-content/uploads/2020/06/AI-Health-Care.png",
+          "width": 800,
+          "height": 600,
+          "title": "Covid-19 acts as a Catalyst to AI Healthcare Revolution",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/?amp",
+      "cdnAmpWebUrl": "https://techcresendo-com.cdn.ampproject.org/c/s/techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/?amp",
+      "publishedDateTime": "2020-06-11T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techcresendo.com",
+        "domain": "techcresendo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-openai-releases-commercial-api-for-multi-purpose-ai.md",
+      "title": "OpenAI releases commercial API for multi-purpose AI",
+      "excerpt": "The five year-old organization is releasing its first commercial product, giving businesses access to its general-purpose AI models.",
+      "webUrl": "https://www.zdnet.com/article/openai-releases-commercial-api-for-multi-purpose-ai/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/12/05/4e6420ab-acc9-42c4-86d0-0ed58f504e5a/thumbnail/1200x675/01b6d549f030f0f5ab9687b9c5fd85d0/oppomakes5ggroupvideocall-5c072b3160b2dc10be302bbb1dec05201830233poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "OpenAI releases commercial API for multi-purpose AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openai-releases-commercial-api-for-multi-purpose-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-releases-commercial-api-for-multi-purpose-ai/",
+      "publishedDateTime": "2020-06-11T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms.md",
+      "title": "Researchers detail technique that enables attackers to ‘steal’ reinforcement learning algorithms",
+      "excerpt": "In a paper, researchers at Nanyang Technological University in Singapore demonstrate a technique that can be used to 'steal' reinforcement learning models.",
+      "webUrl": "https://venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers detail technique that enables attackers to ‘steal’ reinforcement learning algorithms",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/amp/",
+      "publishedDateTime": "2020-06-11T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-facebook-google-and-microsoft-team-up-to-build-ai-paedo-hunter-that-tracks-down-child-abuse-online.md",
+      "title": "Facebook, Google and Microsoft team up to build AI paedo-hunter that tracks down child abuse online",
+      "excerpt": "Project Protect will establish a multi-million pound research and innovation fund ... Facebook's hugely popular Messenger chat app. Facebook is using an AI machine learning system to spot ...",
+      "webUrl": "https://www.thesun.co.uk/tech/11840091/facebook-google-twitter-microsoft-ai-project-protect-child-abuse-online/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2020/06/NINTCHDBPICT000542482426.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+          "width": 1200,
+          "height": 800,
+          "title": "Facebook, Google and Microsoft team up to build AI paedo-hunter that tracks down child abuse online",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/11840091/facebook-google-twitter-microsoft-ai-project-protect-child-abuse-online/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/11840091/facebook-google-twitter-microsoft-ai-project-protect-child-abuse-online/amp/",
+      "publishedDateTime": "2020-06-11T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19.md",
+      "title": "How a smartphone coupled with machine learning may become a simple, efficient test for COVID-19",
+      "excerpt": "A scientist at the University of Cincinnati has been refining an ingenious design for an ultra-portable genetic test that uses AI and smartphones. It could eventually offer a cheaper, simpler alternative for detecting coronavirus infections.",
+      "webUrl": "https://www.zdnet.com/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/11/24859aeb-4a40-45a9-a322-30b18146042c/priye-et-al-2017-lamp-box-materials.png",
+          "width": 2126,
+          "height": 1144,
+          "title": "How a smartphone coupled with machine learning may become a simple, efficient test for COVID-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
+      "publishedDateTime": "2020-06-11T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-mobile-ai-market-2020-global-share-trend-and-opportunities-forecast-to-2023.md",
       "title": "Mobile AI Market 2020 Global Share, Trend And Opportunities Forecast To 2023",
       "excerpt": "This has led to an increase in demand for on-device AI processing. For instance, Apple's A11 Bionic chip, which is an AI-enabled chip with neural engine used in their latest iPhone X, adding the high accuracy face locking feature for mobile security. The investments for on-device AI enabled processors are increasing, which is supporting ...",
@@ -981,245 +1244,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-amazon-rekognition-announce-moratorium-on-facial-recognition-use-by-police.md",
-      "title": "Amazon Rekognition announce moratorium on facial recognition use by police",
-      "excerpt": "“We will continue to allow organisations … to use Amazon Rekognition to help rescue human trafficking victims and reunite missing children with their families. “We’ve advocated that ...",
-      "webUrl": "https://www.news.com.au/technology/innovation/inventions/amazon-rekognition-announce-moratorium-on-facial-recognition-use-by-police/news-story/a3b6a329af715f494f6946ac6baef74a",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.news.com.au/technology/innovation/inventions/amazon-rekognition-announce-moratorium-on-facial-recognition-use-by-police/news-story/a3b6a329af715f494f6946ac6baef74a",
-      "cdnAmpWebUrl": "https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/technology/innovation/inventions/amazon-rekognition-announce-moratorium-on-facial-recognition-use-by-police/news-story/a3b6a329af715f494f6946ac6baef74a",
-      "publishedDateTime": "2020-06-11T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News.com.au",
-        "domain": "news.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-power-bi-june-update-brings-new-ui-and-ai-assisted-graphics.md",
-      "title": "Power BI June update brings new UI and AI assisted graphics",
-      "excerpt": "Microsoft announced the new Power BI June update for the desktop application. It comes with new UI features and AI assisted graphics. Read more!",
-      "webUrl": "https://windowsreport.com/power-bi-june-update/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/06/Power-BI-June-update-brings-new-UI-and-AI-assisted-graphics.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": "Power BI June update brings new UI and AI assisted graphics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://windowsreport.com/power-bi-june-update/?amp",
-      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/power-bi-june-update/?amp",
-      "publishedDateTime": "2020-06-11T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "windowsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-how-to-become-a-tensorflow-developer.md",
-      "title": "How to become a TensorFlow developer",
-      "excerpt": "AI is no longer an emerging technology, it is already here with us and is being adopted widely across industries. AI technology has disrupted operations, giving businesses better means of understanding and interacting with their customers.",
-      "webUrl": "https://www.thesouthafrican.com/technology/how-to-become-a-tensorflow-developer/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gcs.thesouthafrican.com/2020/06/ee36da52-tensorflow-developer.jpg",
-          "width": 1200,
-          "height": 850,
-          "title": "How to become a TensorFlow developer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.thesouthafrican.com/technology/how-to-become-a-tensorflow-developer/",
-      "cdnAmpWebUrl": "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/technology/how-to-become-a-tensorflow-developer/",
-      "publishedDateTime": "2020-06-11T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "richest",
-        "domain": "thesouthafrican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-amazon-halts-police-use-of-its-facial-recognition-tech.md",
-      "title": "Amazon halts police use of its facial recognition tech",
-      "excerpt": "Amazon is to pause the police use of its AWS facial recognition software Rekognition following two weeks of intense protests against police brutality and the murder of George Floyd on 25 May. The tech giant announced that it would be implementing a one-year moratorium on the technology,",
-      "webUrl": "https://www.itpro.co.uk/security/biometrics/356023/amazon-halts-police-use-of-its-facial-recognition-tech",
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570817110/itpro/2018/12/microsoft_facial_recognition.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Amazon halts police use of its facial recognition tech",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/security/biometrics/356023/amazon-halts-police-use-of-its-facial-recognition-tech?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/356023/amazon-halts-police-use-of-its-facial-recognition-tech?amp",
-      "publishedDateTime": "2020-06-11T02:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-fluent-in-flavor-using-machine-learning-to-build-a-flavor-language-for-whiskey.md",
-      "title": "Fluent in flavor: Using machine learning to build a flavor language for whiskey",
-      "excerpt": "So many descriptors and personal perceptions swirl around a glass of whiskey. Published whiskey reviews include sensory and nonsensory descriptions.",
-      "webUrl": "https://augustafreepress.com/fluent-in-flavor-using-machine-learning-to-build-a-flavor-language-for-whiskey/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://augustafreepress.com/wp-content/uploads/2020/06/whiskey-glass.jpg",
-          "width": 400,
-          "height": 267,
-          "title": "Fluent in flavor: Using machine learning to build a flavor language for whiskey",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Augusta Free Press",
-        "domain": "augustafreepress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-amazons-facial-recognition-moratorium-has-major-loopholes.md",
-      "title": "Amazon’s facial recognition moratorium has major loopholes",
-      "excerpt": "The moratorium comes two days after IBM said in a letter it was leaving the facial recognition market altogether. Arvind Krishna, IBM’s chief executive, cited a “pursuit of justice and racial equity” in light of the recent protests sparked by the killing of George Floyd by a white police officer in Minneapolis last month.",
-      "webUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/",
-      "heat": 321,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/getty-facial-face-recognition.jpg?w=1024",
-          "width": 1024,
-          "height": 685,
-          "title": "Amazon’s facial recognition moratorium has major loopholes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/",
-      "publishedDateTime": "2020-06-10T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

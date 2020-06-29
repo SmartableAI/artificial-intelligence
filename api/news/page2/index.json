@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-26-lets-kill-facial-recognition-for-good.md",
+      "title": "Let's Kill Facial Recognition For Good",
+      "excerpt": "Those emails mention all three classes of surveillance covered in today’s bill—pattern, facial, and voice recognition—as being available for the DEA to use at its discretion. “Facial recognition technology doesn’t just pose a grave threat to our ...",
+      "webUrl": "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nvw4abg7rvdyxyeklgsr.jpg",
+          "width": 800,
+          "height": 449,
+          "title": "Let's Kill Facial Recognition For Good",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp",
+      "cdnAmpWebUrl": "https://paleofuture-gizmodo-com.cdn.ampproject.org/c/s/paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp",
+      "publishedDateTime": "2020-06-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "paleofuture.gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-ibm-cloud-suffers-second-global-outage-this-month.md",
+      "title": "IBM Cloud suffers second global outage this month",
+      "excerpt": "It's worth noting that IBM did not immediately address the earlier outage but did release a statement on its Twitter account that services were being \"restored to full services as",
+      "webUrl": "https://www.itpro.co.uk/cloud/356238/ibm-cloud-suffers-second-global-outage-in-a-month",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1593164937/itpro/IBM_Cloud_Shutterstock.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": "IBM Cloud suffers second global outage this month",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/356238/ibm-cloud-suffers-second-global-outage-in-a-month?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/356238/ibm-cloud-suffers-second-global-outage-in-a-month?amp",
+      "publishedDateTime": "2020-06-26T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-this-edtech-startup-uses-ai-to-provide-affordable-education.md",
       "title": "This Edtech Startup Uses AI To Provide Affordable Education",
       "excerpt": "ConveGenius provides learning solutions from kindergarten to class 10, and has aligned with 20 curriculums and 16 state boards",
@@ -727,7 +821,7 @@
       "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
       "excerpt": "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday.",
       "webUrl": "https://www.reuters.com/article/us-waymo-volvo-autonomous-idUKKBN23W2V0",
-      "heat": 329,
+      "heat": 339,
       "tags": null,
       "images": [
         {
@@ -1045,91 +1139,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-new-ai-based-technique-to-classify-colorectal-cancer-with-ir-imaging.md",
-      "title": "New AI-Based Technique to Classify Colorectal Cancer with IR Imaging",
-      "excerpt": "Automatic detection of intestinal tumor type can be performed by using infrared microscopy in just 30 minutes. Then, the results are utilized to make targeted therapy decisions.",
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=11401",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.azorobotics.com/images/news/ImageForNews_11401_15930904212407405.png",
-          "width": 804,
-          "height": 535,
-          "title": "New AI-Based Technique to Classify Colorectal Cancer with IR Imaging",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=11401",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11401",
-      "publishedDateTime": "2020-06-25T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge.md",
-      "title": "Lyft releases new self-driving vehicle data set and launches $30,000 challenge",
-      "excerpt": "Lyft released a data set containing logs recorded by its self-driving vehicles' sensors to kick off a new AI research challenge.",
-      "webUrl": "https://venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/",
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/234b6a00-a635-4d40-b917-77416e1da96f-e1593067960296.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 571,
-          "title": "Lyft releases new self-driving vehicle data set and launches $30,000 challenge",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/amp/",
-      "publishedDateTime": "2020-06-25T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

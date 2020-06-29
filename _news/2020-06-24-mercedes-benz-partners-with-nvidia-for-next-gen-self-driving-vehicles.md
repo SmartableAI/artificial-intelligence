@@ -217,6 +217,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Volvo and Waymo partner to build self-driving vehicles"
+    excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday. Waymo, a unit of Silicon Valley's Alphabet Inc,"
+    publishedDateTime: 2020-06-25T20:15:00Z
+    webUrl: "https://www.autoblog.com/2020/06/25/volvo-waymo-self-driving-autonomous-car/"
+    ampWebUrl: "https://www.autoblog.com/amp/2020/06/25/volvo-waymo-self-driving-autonomous-car/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/06/25/volvo-waymo-self-driving-autonomous-car/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 59
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-06/7aff48f0-b70d-11ea-8acf-7cc09801df84"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Waymo and Volvo Team to Make Self-Driving Vehicles"
     excerpt: "Get Report Waymo is partnering with Volvo VLVLY to develop a self-driving electric vehicle designed for ride hailing, the companies said Thursday. Shares of Alphabe"
     publishedDateTime: 2020-06-25T19:54:00Z

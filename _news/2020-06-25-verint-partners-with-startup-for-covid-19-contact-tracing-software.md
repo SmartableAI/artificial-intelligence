@@ -17,20 +17,31 @@ topics:
   - AI
 
 related:
-  - title: "Verint to Partner With Startup Viziblezone for COVID-19 Contact Tracing Software"
-    excerpt: "PRNewswire/ -- Jerusalem based Artificial Intelligence (AI) startup, Viziblezone, has today announced a strategic alliance with renowned global"
-    publishedDateTime: 2020-06-25T20:51:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/verint-to-partner-with-startup-viziblezone-for-covid-19-contact-tracing-software-301083763.html"
+  - title: "Amazon partners with Formula 1 for new 2020 racing performance stats"
+    excerpt: "The Formula 1 season begins on July 3 in Spielberg, Austria and Amazon Web Services will help the league roll out six new, real-time racing statistics that will be shown as the ra"
+    publishedDateTime: 2020-06-25T14:24:00Z
+    webUrl: "https://www.techrepublic.com/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/06/25/3657df80-765d-48af-bf16-4110fd6d0261/resize/1200x/94c3ec5113c8d020d33728a0a7338236/optimized-carperfsingledetail-02.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Amazon's AWS Client Formula 1 Offers New Racing Statistics"
+    excerpt: "In first-quarter 2020, AWS generated $10.2 billion sales, accounting for 14% of Amazon’s net sales. Further, the figure was up 32.8% year over year. Recently, AWS was selected as the preferred cloud provider by Genesys for Genesys Cloud."
+    publishedDateTime: 2020-06-24T14:57:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazons-aws-client-formula-1-offers-new-racing-statistics-2020-06-24"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "j8tTbdqleTTAQxdQAo92r5YjMFByCuFeFSwSAJNWtTCBsRNfu0jAT1l0MSWQ6ozDEV/uUFRAE+tFwuHOE/cjb7Fh7EhFO0BO/jsI69uYRNv9f5qeKdH7JDCFFBW3NSqxZI0jJz86o2uoyVBuQVQvC8w7OH92UcmNa1ONPqisbQ7GL4/axFJkqPwftonvKtfEY8P4cx9+uR9g5R5LZnCkD9yxO34/cFd/rGSuy90sO0Aq4Ce7f4ELYJkmYa0BM0QHa8zE1cER9OpDmF58p7CXtGlIfY5NpcFc3fK4R3N/uoLNw1nQPKd8Z1rR8X6XDViuJVVOzode/zhV7Mejt0V5nA==;OZkF3sxC2d/va6n+4WVkUw=="
 ---

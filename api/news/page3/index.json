@@ -2,6 +2,138 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-25-new-ai-based-technique-to-classify-colorectal-cancer-with-ir-imaging.md",
+      "title": "New AI-Based Technique to Classify Colorectal Cancer with IR Imaging",
+      "excerpt": "Automatic detection of intestinal tumor type can be performed by using infrared microscopy in just 30 minutes. Then, the results are utilized to make targeted therapy decisions.",
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=11401",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.azorobotics.com/images/news/ImageForNews_11401_15930904212407405.png",
+          "width": 804,
+          "height": 535,
+          "title": "New AI-Based Technique to Classify Colorectal Cancer with IR Imaging",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=11401",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11401",
+      "publishedDateTime": "2020-06-25T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-amazon-partners-with-formula-1-for-new-2020-racing-performance-stats.md",
+      "title": "Amazon partners with Formula 1 for new 2020 racing performance stats",
+      "excerpt": "The Formula 1 season begins on July 3 in Spielberg, Austria and Amazon Web Services will help the league roll out six new, real-time racing statistics that will be shown as the ra",
+      "webUrl": "https://www.techrepublic.com/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/25/3657df80-765d-48af-bf16-4110fd6d0261/resize/1200x/94c3ec5113c8d020d33728a0a7338236/optimized-carperfsingledetail-02.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Amazon partners with Formula 1 for new 2020 racing performance stats",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/",
+      "publishedDateTime": "2020-06-25T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge.md",
+      "title": "Lyft releases new self-driving vehicle data set and launches $30,000 challenge",
+      "excerpt": "Lyft released a data set containing logs recorded by its self-driving vehicles' sensors to kick off a new AI research challenge.",
+      "webUrl": "https://venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/234b6a00-a635-4d40-b917-77416e1da96f-e1593067960296.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 571,
+          "title": "Lyft releases new self-driving vehicle data set and launches $30,000 challenge",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/amp/",
+      "publishedDateTime": "2020-06-25T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research.md",
       "title": "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research",
       "excerpt": "Intel and the National Science Foundation (NSF) announced award recipients of joint funding for research into the development of",
@@ -699,7 +831,7 @@
       "title": "A Flawed Facial Recognition System Sent This Man to Jail",
       "excerpt": "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used.",
       "webUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/",
-      "heat": 504,
+      "heat": 524,
       "tags": null,
       "images": [
         {
@@ -993,138 +1125,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-space-robotics-market-may-see-a-growth-rate-of-873-maxar-technologies-ispace-northrop-grumman.md",
-      "title": "Space Robotics Market may see a growth rate of 8.73% | Maxar Technologies, Ispace, Northrop Grumman",
-      "excerpt": "Latest added Global Space Robotics Market research study by AMA Research offers detailed outlook and elaborates market review till 2025. The market Study is segmented by key regions that are accelerating the marketization.",
-      "webUrl": "https://www.marketwatch.com/press-release/space-robotics-market-may-see-a-growth-rate-of-873-maxar-technologies-ispace-northrop-grumman-2020-06-24",
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Space Robotics Market may see a growth rate of 8.73% | Maxar Technologies, Ispace, Northrop Grumman",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics.md",
-      "title": "DHL Supply Chain partners with Blue Yonder to accelerate warehouse robotics",
-      "excerpt": "AI-driven fulfillment provider Blue Yonder and DHL have deployed a new platform for the integration of warehouse robots, built on Microsoft Azure.",
-      "webUrl": "https://www.freightwaves.com/news/dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics",
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/06/DHL_Blue_Yonder_1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "DHL Supply Chain partners with Blue Yonder to accelerate warehouse robotics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics/amp",
-      "publishedDateTime": "2020-06-24T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-autonomous-farm-robot-burro-assists-human-workers-with-grape-harvest.md",
-      "title": "Autonomous farm robot Burro assists human workers with grape harvest",
-      "excerpt": "Burro is an autonomous driving robot that assists farm workers harvesting grapes in California that can augment or replace humans.",
-      "webUrl": "https://venturebeat.com/2020/06/24/autonomous-farm-robot-burro-assists-human-workers-with-grape-harvest/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/burro-robot.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Autonomous farm robot Burro assists human workers with grape harvest",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/24/autonomous-farm-robot-burro-assists-human-workers-with-grape-harvest/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/autonomous-farm-robot-burro-assists-human-workers-with-grape-harvest/amp/",
-      "publishedDateTime": "2020-06-24T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/amazon-partners-with
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: TechRepublic
@@ -31,22 +31,6 @@ images:
     title: "Amazon partners with Formula 1 for new 2020 racing performance stats"
 
 related:
-  - title: "AWS and Formula 1 announce six new racing performance stats"
-    excerpt: "The newly introduced performance stats include Car Performance Scores, Ultimate Driver Speed Comparison, Driver Skills Rating, and others. They will roll out in the current, 2020 season."
-    publishedDateTime: 2020-06-24T05:52:00Z
-    webUrl: "https://www.neowin.net/news/aws-and-formula-1-announce-six-new-racing-performance-stats"
-    ampWebUrl: "https://www.neowin.net/amp/aws-and-formula-1-announce-six-new-racing-performance-stats/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-and-formula-1-announce-six-new-racing-performance-stats/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 89
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/06/1592973675_2020_f1_insight_carperfcomp-02_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Amazon's AWS Client Formula 1 Offers New Racing Statistics"
     excerpt: "In first-quarter 2020, AWS generated $10.2 billion sales, accounting for 14% of Amazon’s net sales. Further, the figure was up 32.8% year over year. Recently, AWS was selected as the preferred cloud provider by Genesys for Genesys Cloud."
     publishedDateTime: 2020-06-24T14:57:00Z
@@ -56,6 +40,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "Verint partners with startup for COVID-19 contact tracing software"
+    excerpt: "Verint (VRNT -0.3%) and Jerusalem based Artificial Intelligence (AI) startup, Viziblezone have entered in a strategic alliance wherein the former will offer high accuracy contact tracing techn"
+    publishedDateTime: 2020-06-25T17:09:00Z
+    webUrl: "https://seekingalpha.com/news/3586249-verint-partners-startup-for-covidminus-19-contact-tracing-software"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
 
 secured: "cBRcoUBzHgzPqchry9/m8jdGaqoXWMuDeDS949mChmdu73kI/gIastHTZSlMwTlCGOcvfmhDGuDjufaQh+K/NLQv2M3/7eilHaoE+ZqNWXhuh7Y22s5rIaO9hlQItywRKRzdZUHxgR3CfSbLBP2S0gu/yvbSICVBFrbRziqm9oQx2hAohSQxw9+QzTmfNQhIujpYnleAgeWer0Z4zgItfiKIp1ZNjPtWSDO3iYURHWd3tFG5cWHJ7QPSClypP57Jx3HMNWEW6BpjA8HHgCOhOi2Ljmg0jqDJJ5WGyS1IGvnhiS3rQI0ELRtBuu6SXxXAOSlbNP4H9y5lySXyFopUXoeWYwdcnmBQMkBNLSzTPHQjWGA+eOa11pfCnQM9cxoOv9bLGaDPM0b1jGTmx7Z/bDObDbU9vxvuXuKbnypLTAZY5ZpLRfzvInEtYyuo1k6nHiEuh6QTlIGXs+dViB3/1VwSW03/RrOk3DjHdr4wCfEXeWMZDgpotVR7Vn81ymU4Mixx3u50nDXshW8PAiu7wA==;o/5GqCnsF2jcJwPunFGOvQ=="
 ---

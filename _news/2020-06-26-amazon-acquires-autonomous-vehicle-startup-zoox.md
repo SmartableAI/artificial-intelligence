@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/26/amazon-acquires-autonomous-vehicl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/26/amazon-acquires-autonomous-vehicle-startup-zoox/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     title: "Amazon acquires autonomous vehicle startup Zoox"
 
 related:
+  - title: "Amazon to acquire autonomous driving startup Zoox"
+    excerpt: "Amazon has announced that it will acquire Zoox, a self-driving startup founded in 2014, which has raised nearly $1 billion in funding and which aims to develop autonomous driving technology, including vehicles,"
+    publishedDateTime: 2020-06-26T13:40:00Z
+    webUrl: "https://techcrunch.com/2020/06/26/amazon-to-acquire-autonomous-driving-startup-zoox/"
+    ampWebUrl: "https://techcrunch.com/2020/06/26/amazon-to-acquire-autonomous-driving-startup-zoox/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/26/amazon-to-acquire-autonomous-driving-startup-zoox/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/90.png?w=1024"
+        width: 1024
+        height: 462
+        isCached: true
   - title: "Microsoft acquires industrial IoT security startup CyberX"
     excerpt: "Microsoft announced on Tuesday that it is acquiring industrial cyber security start-up CyberX to enhance the security features ... The CyberX platform applies AI-based techniques and behavioural analytics to map out all connected devices in a network ..."
     publishedDateTime: 2020-06-24T08:37:00Z

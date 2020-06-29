@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-24T09:07:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2020-by-regions-manufactures-type-application-sales-revenue-and-forecast-to-2026-2020-06-24"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -68,17 +68,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Growth 2020, Trends, Size, Share and Forecast By 2025"
-    excerpt: "Deep learning is a subset of machine learning (ML) in the field of artificial intelligence (AI), which imitates the workings of the human brain for processing big data and creating patterns. Also known as a deep neural network, it plays a vital role in ..."
-    publishedDateTime: 2020-06-24T05:47:00Z
-    webUrl: "https://www.openpr.com/news/2079471/deep-learning-market-growth-2020-trends-size-share"
-    ampWebUrl: "https://www.openpr.com/amp/2079471/deep-learning-market-growth-2020-trends-size-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2079471/deep-learning-market-growth-2020-trends-size-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
 
 secured: "SF8/EIKjUD6GOvWZjVcIGFkCivYByWP9RfNgyHMIuVtDz/7dj+Jzcg/K6BY6OLPPY0nAeBk8OuUbUb5k7ptdi3jgMn38MZflleyuY8Yf4+eRG23SginI2FODb4E2G5pwc4F1nTdM6vX32Wjr7UiCP93YpvfO9a5zI0VElSpSGxmhomxDaGwlzJ43w3zuxOCsNa0kPNZxHhXveKb4wMAvk3OU8LUkk4PLGYs4Dpbc9LBoWSso3M4XRYJv9Gl2PaserNWAw2738pYRrUAivGbPz7g3SND2pNiwqvwaV8RJG20zpQfeU7i/C+WTR6/xm+PhGP7h+NqsKWUXreOJoxKMtw==;UDL/wfpeM55kBco968AMMA=="
 ---
