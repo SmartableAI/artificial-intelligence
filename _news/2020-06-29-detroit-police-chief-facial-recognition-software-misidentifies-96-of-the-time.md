@@ -103,6 +103,6 @@ related:
       domain: securityinfowatch.com
     quality: 11
 
-secured: "NV4OPFRUW1wYpnuDPxb85ph+XMOtMwD9DAlZtq0i79iIrxRtMU4mceMBEfdv6tmpEWYUt0kn0G+EbxvAPm1o/lO5M+3Hfjpep5hcksjOKpdctikgtx9uzJ62uh58W4RuCPzhIJZ4Xv2hfkb3kyX7jo9ijpsqtJ9ixwLX0I1YOZPneVa47eRtMJo+c3hg1AhV+b4StLl0PKkO9Y7np8Sb9vcqgRUM0CyMnSdE7KR+A9hcX4iN+I304pVskqVzwhjsCr2WA/8dlIW0XKUJbRaBR7nhXaw8nkyiiOLdwuf1H+G1JxSCrsZ0ao9i+IRExBpkiF1qO3gYHpg7CXkp16+F4g==;0K6/3o1CKd+hZZxa6ykL/Q=="
+secured: "FEGsehJ4VAoFbOKREVs2grpkZF6JgjrOVJp4lfcgEn3D9EpaDdz01G7VtpZDk5lcJWtR8gfJRxuvYCZzvu1g11+KxPJw3Aezts/f3q2Ik/nhVQAC4sRL/wT0baIQHC9i061VdBZcWV5XroNnbxqpvnXJ7xz13H5jL0gXgb7wVOpHNI5ioZ2rVAtEmh/w9znRexl/Hxt05+b5eoVUisb78jU6kBHTSe3p5XhiewLYPTVkhXi/zoHMdAV74WH599Za4ignTn836ktUeYaENlltA4DSDMacTpolwdRA1YVU7ofwru/3os6WWHybScn8jFTURS9tDLSzq8FseuS7xbABaA==;4oonZ/KOMM4o6OD5Udxo3w=="
 ---
 
