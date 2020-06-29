@@ -30,21 +30,21 @@ images:
     title: "Area 1 Security raises $25 million for AI tools to protect against phishing"
 
 related:
-  - title: "Enko Chem raises $45 million to develop crop protection solutions with AI"
-    excerpt: "Enko Chem, a startup employing AI and machine learning to develop crop protection products, raised $45 million in a venture round."
-    publishedDateTime: 2020-06-26T11:33:00Z
-    webUrl: "https://venturebeat.com/2020/06/26/enko-chem-raises-45-million-to-develop-crop-protection-solutions-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/06/26/enko-chem-raises-45-million-to-develop-crop-protection-solutions-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/26/enko-chem-raises-45-million-to-develop-crop-protection-solutions-with-ai/amp/"
+  - title: "Cynet raises $18 million for AI safeguards against cyberthreats"
+    excerpt: "Cynet, a cybersecurity startup that leverages AI and machine learning to detect threats, has raised $18 million in venture capital."
+    publishedDateTime: 2020-06-29T15:03:00Z
+    webUrl: "https://venturebeat.com/2020/06/29/cynet-raises-18-million-for-ai-safeguards-against-cyberthreats/"
+    ampWebUrl: "https://venturebeat.com/2020/06/29/cynet-raises-18-million-for-ai-safeguards-against-cyberthreats/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/cynet-raises-18-million-for-ai-safeguards-against-cyberthreats/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 86
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/01/Crops-Farming.jpg?w=1200&#038;strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/Cynet-Team.png?w=1200&#038;strip=all"
         width: 1200
-        height: 610
+        height: 542
         isCached: true
 
 secured: "IoHUAgjvO+auJ/dNjDWQ2kC7M9hlKE5ym+4Prj8QnUSiMPCWuTAb4bfPWVwd+Fy/UymrHvOBv3KDdOhp8AtiniIw/owRds4rRw44d+g59WJjrekBgrahEi69tUWQ7UHOSMdsXWn24eFpx0Mtnbxc3s5BvJ0ug8WM65ijnQg+YpBlTzuqBk3AzG2cpkZRJhCElvRU/4eIhcTHgC18zZeAabPclReKDeXz4v5/XFTQsoWQofzHD8tvhgZE4tVZBgZgcFBBvNT6lZ+XMuRhFQBTyaUXgSjshNuIhqX0rxxnNlvRMk88/4mEGWFCtGzm/8ecPvAVivLJOvp08cPYRvXr3g==;3hKW7o+/D7KimxxNu6oFdw=="

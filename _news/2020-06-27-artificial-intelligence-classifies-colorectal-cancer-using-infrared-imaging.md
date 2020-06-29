@@ -43,22 +43,6 @@ related:
         width: 804
         height: 535
         isCached: true
-  - title: "Automated classification of colorectal cancer using IR imaging"
-    excerpt: "A research team from the Prodi Centre for Protein Diagnostics at Ruhr-Universität Bochum has used infrared microscopes based on quantum cascade lasers to classify tissue samples of colorectal cancer from routine clinical operations in a marker-free and automated way."
-    publishedDateTime: 2020-06-24T21:33:00Z
-    webUrl: "https://www.news-medical.net/news/20200624/Automated-classification-of-colorectal-cancer-using-IR-imaging.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200624/Automated-classification-of-colorectal-cancer-using-IR-imaging.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200624/Automated-classification-of-colorectal-cancer-using-IR-imaging.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 44
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "sr3rP8dsOLMsOsQ7r1GqxAGsP9zYQR5ErkFI7bOSjQYs8iXXN8DnJp6vOyrPml6CQRyakSVLqbkAVeuuNF3VFkC1mw7Zp9SeaEs/YgO0OYPbQOvA8PCsqQSF2zkA7P3ZTssk8ia4I3ttCbG8Pzc0WNL0o4MHegGncp1DJKd3h0uKB8JLEjfLSnW3EWAiT0wzGX2IJl8bbpqFpbiFuSM4Zv34ND8eBUQBdY45eacFWB77Vlv0bSY/D1/ixmCcZPuKtUPEFp1LC5Y2OwDgzO9wEMON0PpWYm4/PScdgVl4bo/i+N+PX/HgChx4qZOu/AzPUxFXJzacHGdGRbxvkVmy3OU6h/Gyou2Uv7BkCCl+Q3KFMKMJq7XFyv00W7k42DoMIZ+Db8EdXqwZ/DOgdTvQEgWe6alZ2nMsrrsFiO/hEkcfj83TXEkMTGhzQviW/+F//iQcOlbgNTqcbGpzGRjFLk6IrT/OEGAVAk1YgGb6UutQPUuZMSJPAwBkkYoUaExYzdS9j7a/D/9u93WoCSO/mw==;01kUFzKjNhRFFRhMv2BJVg=="
 ---

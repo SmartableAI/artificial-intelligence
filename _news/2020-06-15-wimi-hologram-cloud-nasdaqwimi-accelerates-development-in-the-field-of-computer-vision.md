@@ -1,45 +1,28 @@
 ---
 category: news
 title: "WIMI Hologram Cloud (NASDAQ:WIMI) Accelerates Development in the Field Of Computer Vision"
-excerpt: "NEW YORK, NY / ACCESSWIRE / June 15, 2020 / WIMI Hologram Cloud (NASDAQ:WIMI), as a solution provider under 5G, has a leading AR holographic application platform in China, which is currently mainly used in entertainment,"
-publishedDateTime: 2020-06-15T07:00:00Z
-webUrl: "https://apnews.com/2b43bcc982739746bff6b2133242e6b4"
+excerpt: "WIMI Hologram Cloud (NASDAQ:WIMI), as a solution provider under 5G, has a leading AR holographic application platform in China, which is currently mainly used in"
+publishedDateTime: 2020-06-15T23:35:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/06/ab16258647/wimi-hologram-cloud-nasdaq-wimi-accelerates-development-in-the-field-of-computer-vision"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16258647"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16258647"
 type: article
-quality: 30
-heat: 40
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://i.ibb.co/qMQqYD0/1.png"
+    width: 522
+    height: 340
     isCached: true
     title: "WIMI Hologram Cloud (NASDAQ:WIMI) Accelerates Development in the Field Of Computer Vision"
 
-related:
-  - title: "WIMI Hologram Cloud (NASDAQ:WIMI) Accelerates the Development of AI Vision Full-Scenario Applications"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / June 16, 2020 / WIMI Hologram Cloud (NASDAQ:WIMI) focuses on computer vision holographic cloud services. According to introducing, WIMI cover from the holographic AI computer vision synthesis,"
-    publishedDateTime: 2020-06-16T07:50:00Z
-    webUrl: "https://apnews.com/1c955408be4fbb6f260e65ea12a6f283"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
-secured: "NM6h5LPgtQZtm3gkVWhwWT7DEAmm6HPWHCgogg4cMgr643hKiiCyOUPOyKX6wDi+g0e9QdAuoIgIUasONR5/t6TcChiDKQBcyICE0baZCNQMAFn9TtoMyxQthxiwKlK90ZO0YxzHbSTcqlJIhAXHiVVWu+O+e2KgBO7+h82pE3B0Q9PpWgiyC6ZGMJeHa74WYupXbum64703XCF6eTMcXAwY2fGjBMy8FLETGgmJ1udE9Y7BwMOExxMSDRYQMisuHctKw8vR+y3LPVqIoG+HgBOnm52fYR712+tzeI9Q+5F1r9tHFgEkrHx50LMS0f4CCZJWtMmpF4ZmL+e2FB/bHg==;3eBmEYeH3yXKsyHRW7X1hA=="
+secured: "VG0fxbYzel7Ilo9AjIBetKxQoB8LQtIRZj0O4MbVdeFZ9V1jfzL/BW6yziq4pMo/ZfxyIqoy2QaagqKoX6KPzNzzkEAmSrpfDpcahIAsP1bB52Tf1MOloNsSK+hvKYTnQVQ6kUdtcaiJXmN93Mp5zy8WhnLjGX3C1HnMuAzUksYMZGoijmoYC0NX3L7TSNFvBN5H96tshzpWplcOHs5ikvwJ9E0bzaRbB/v7gvWjv5hmyWyYkIjnwEq6LTuO7XkaC2nK8M1ZcWz4kp7+7leRtgZItGcinVPHcye2M7mlXuSWZARXcTvFuwHjgABNL4lRjnnRPS23lB30S0zxMmChCw==;kxpJLyzis0ZgcWbmcJ/boA=="
 ---
 

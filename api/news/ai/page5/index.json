@@ -2,6 +2,185 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-24-ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization.md",
+      "title": "AI Runs Into The Document And People Barrier: Digitization And Digitalization",
+      "excerpt": "Artificial intelligence has been put to amazing use. However, AI systems can’t do anything at all without access to data to train the machine learning models. And much of that data is locked in documents in paper or electronic form or in human-controlled processes.",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef270f1c708900006e39c79%2F0x0.jpg",
+          "width": 749,
+          "height": 407,
+          "title": "AI Runs Into The Document And People Barrier: Digitization And Digitalization",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/amp/",
+      "publishedDateTime": "2020-06-23T17:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19.md",
+      "title": "This New App Analyzes Your Voice Quality To Diagnose Congestive Heart Failure: Can It Help With Covid-19?",
+      "excerpt": "A new app developed by an Israeli biotech startup has shown promise in evaluating voice quality to detect buildup of fluid in the lungs, an important finding associated with congestive heart failure (CHF).",
+      "webUrl": "https://www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F801249656%2F0x0.jpg",
+          "width": 1200,
+          "height": 795,
+          "title": "This New App Analyzes Your Voice Quality To Diagnose Congestive Heart Failure: Can It Help With Covid-19?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/amp/",
+      "publishedDateTime": "2020-06-23T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-building-ai-powered-forecasting-automation-with-amazon-forecast-by-applying-mlops.md",
+      "title": "Building AI-powered forecasting automation with Amazon Forecast by applying MLOps",
+      "excerpt": "This post demonstrates how to create a serverless Machine Learning Operations (MLOps) pipeline to develop and visualize a forecasting model built with Amazon Forecast. Because Machine Learning (ML) workloads need to scale, it’s important to break down the silos among different stakeholders to capture",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-ai-powered-forecasting-automation-with-amazon-forecast-by-applying-mlops/",
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/22/Screen-Shot-2020-06-19-at-15.00.38-1260x566.png",
+          "width": 1260,
+          "height": 566,
+          "title": "Building AI-powered forecasting automation with Amazon Forecast by applying MLOps",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T15:52:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-ai-startup-pilots-digital-masks-that-counter-facial-recognition.md",
+      "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
+      "excerpt": "A Los Angeles startup has created “privacy-preserving face skins” – digital masks or avatars that counter facial recognition software.",
+      "webUrl": "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition",
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.coindesk.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-23-at-3.18.31-PM.png",
+          "width": 1889,
+          "height": 930,
+          "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition?amp=1",
+      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition?amp=1",
+      "publishedDateTime": "2020-06-23T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinDesk",
+        "domain": "coindesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-mercedes-nvidia-to-team-up-on-powerful-computing-platform-for-avs.md",
       "title": "Mercedes, Nvidia to team up on powerful computing platform for AVs",
       "excerpt": "Benz and U.S. tech company Nvidia said they will jointly develop a powerful new computing platform for vehicles capable of supporting everything from over-the-air software updates to driverless car technology.",
@@ -1189,176 +1368,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-microsoft-to-acquire-cyberx-to-bolster-azure-iot-security.md",
-      "title": "Microsoft to acquire CyberX to bolster Azure IoT security",
-      "excerpt": "Microsoft has announced it will purchase the industrially focused network security vendor CyberX for an undisclosed sum in an effort to bolster the security capabilities of its Azure IoT platform. The acquisition strikes at the heart of two key IIoT security pain points.",
-      "webUrl": "https://www.techcentral.ie/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techcentral.ie/wp-content/uploads/2016/03/IOT_2016.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "Microsoft to acquire CyberX to bolster Azure IoT security",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mozilla",
-        "domain": "techcentral.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-appen-75-of-employees-believe-ai-is-critical-to-their-business.md",
-      "title": "Appen: 75% of employees believe AI is critical to their business",
-      "excerpt": "In a survey conducted by AI data services company Appen, 75% of employees said they considered AI critical to their business.",
-      "webUrl": "https://venturebeat.com/2020/06/23/appen-75-of-employees-believe-ai-is-critical-to-their-business/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Appen: 75% of employees believe AI is critical to their business",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/23/appen-75-of-employees-believe-ai-is-critical-to-their-business/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/appen-75-of-employees-believe-ai-is-critical-to-their-business/amp/",
-      "publishedDateTime": "2020-06-23T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-speech-and-voice-recognition-market-global-industry-size-share-emerging-trends-demand-revenue-and-forecasts-research-report.md",
-      "title": "Speech and Voice Recognition Market Global Industry Size, Share, Emerging Trends, Demand, Revenue and Forecasts Research Report",
-      "excerpt": "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion",
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-global-industry-size-share-emerging-trends-demand-revenue-and-forecasts-research-report-2020-06-23",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Speech and Voice Recognition Market Global Industry Size, Share, Emerging Trends, Demand, Revenue and Forecasts Research Report",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-without-the-hidden-layers-of-an-artificial-neural-network-deep-learning-will-not-even-exist.md",
-      "title": "Without the hidden layers of an Artificial Neural Network, Deep Learning will not even exist!",
-      "excerpt": "How does the hidden layer decode the black box of decision making? Learn how Artificial Neural Networks (ANNs) and Deep neural network (DNNs) contribute to the incredibly tough task of complex predictions.",
-      "webUrl": "https://www.analyticsinsight.net/decoding-link-artificial-neural-networks-deep-learning-algorithms/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/06/Neural-Network.png",
-          "width": 1452,
-          "height": 886,
-          "title": "Without the hidden layers of an Artificial Neural Network, Deep Learning will not even exist!",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

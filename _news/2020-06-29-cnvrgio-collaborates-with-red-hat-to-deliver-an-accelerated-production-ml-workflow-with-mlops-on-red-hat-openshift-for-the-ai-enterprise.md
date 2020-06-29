@@ -5,8 +5,8 @@ excerpt: "PRNewswire/ -- cnvrg.io, the data science platform simplifying model m
 publishedDateTime: 2020-06-29T13:12:00Z
 webUrl: "https://www.prnewswire.com/il/news-releases/cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise-301084968.html"
 type: article
-quality: 4
-heat: -1
+quality: 6
+heat: 6
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mma.prnewswire.com/media/1160338/cnvrg_io_Logo.jpg?p=facebook"
@@ -23,22 +24,6 @@ images:
     isCached: true
     title: "cnvrg.io Collaborates With Red Hat to Deliver an Accelerated Production ML Workflow With MLOps on Red Hat OpenShift for the AI Enterprise"
 
-related:
-  - title: "Dotmatics Acquires BioBright to Accelerate Laboratory Data Automation for the Lab of the Future"
-    excerpt: "Dotmatics Ltd., a scientific informatics software and services company that is driving the automation of laboratory data workflows for scientific discovery and innovation research, has today announced that it has entered into an agreement to acquire BioBright LLC,"
-    publishedDateTime: 2020-06-25T09:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200625005037/en/Dotmatics-Acquires-BioBright-Accelerate-Laboratory-Data-Automation"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 12
-    images:
-      - url: "https://mms.businesswire.com/media/20200625005037/en/800844/23/dotmatics-logo-red-2000.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-
-secured: "8lsjN8cdoXp/QpukvDdtKmSEoKEl9HHPSpTpk9CaJABEXciIkCVFdLa+rbp+fVa7LTfvVh1zxY++2k4cZDgGcUFE3imL+pbsW8L4BEw0wk3tRHfReAtkdHWaFRTWPQmxUOkLvjlu2LskPsS1cxblgaK/93UhmFm9zd7Xj8qrLLIbBCo5pGSeiX///WN6uxBY3wheOhqMiBo5K4NytQAmsw7mbPLW8Ugai4E6whuUpY98fNUNANyyKHG5euo+JZvB4DBHODg9ANczNV0Gq+opl0AfLDWv+O1gpmW/er64jazG2FBdtiQ157diS4GLHIR7FPkQ2ncPLUFiOKJWlyzB+Q==;9UAMGtHHesKBEKyG9zj93g=="
+secured: "etVDS4JLG7un1Iz7caUPlHVY5lVUsH1GBMgF/pOHZft2kf1SA68w6NmuoLLaoUYc1SSV8VZHT/vis7Na4+8oUyyTKlg8F56PcxKILmovUoxV9WmKk07JV7o9hYYbPGXuNXmB21c1Y/3QY71BftOknPWM34Xffcq7hSYGZIGmUZIHiURINzvx0b2SXVnUt5iCdXfLqlh7r+RIG5j+X3qAqFKCRss7GpT7keiIJKgfqFEr0htifOthNo4U3bTBwlNKZ00qSppgEF0zmboOBmH8nbmuMuvC6lQ8HNibCroiHFHX39Pcsg4XufDaiebq6coF+zgYwXX7cFbShEvyMYQY1PSaycdKwrd2nqT0yB5caOPnjkQ3uTSLXKLkAV9mEr6Lu7PYpAQVa+cawLr31gvNaWE6ello2/kgp/QbgYpa5ws3K3b6KIA6BXkRQ+Lkx/ODhA8dd9z7a9CmV5P70EetxrscIkdVvpQDJz1m7k9WHpySMAajMEy1v8yUD+biiC3Dye/cPKu21dsGYB3YSrTdYQ==;jx5lAxuOaE5E3ML6gHGHUA=="
 ---
 

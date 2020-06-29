@@ -2,6 +2,291 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-05-19-cvpr-2020-to-reveal-latest-technical-and-commercial-advancements-in-computer-vision-ai-and-machine-learning-in-all-virtual-event.md",
+      "title": "CVPR 2020 to Reveal Latest Technical and Commercial Advancements in Computer Vision, AI and Machine Learning in All-Virtual Event",
+      "excerpt": "With a record-breaking number of submissions and a finite number of program slots, the content for CVPR 2020 will be some of",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/n16062768/cvpr-2020-to-reveal-latest-technical-and-commercial-advancements-in-computer-vision-ai-and-machine",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16062768",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16062768",
+      "publishedDateTime": "2020-05-19T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-sony-microsoft-unveil-latest-joint-ai-play.md",
+      "title": "Sony, Microsoft unveil latest joint AI play",
+      "excerpt": "Sony’s semiconductor division and Microsoft announced a collaboration to develop AI video analytics systems for",
+      "webUrl": "https://www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Sony, Microsoft unveil latest joint AI play",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/amp/",
+      "publishedDateTime": "2020-05-19T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-is-integrating-azure-ai-into-sonys-smart-camera-sensors.md",
+      "title": "Microsoft is integrating Azure AI into Sony’s smart camera sensors",
+      "excerpt": "The two companies plan to embed Microsoft Azure AI capabilities onto Sony's new intelligent vision sensors, which were recently unveiled.",
+      "webUrl": "https://www.siliconrepublic.com/machines/microsoft-azure-sony-smart-camera-sensors-ai",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconrepublic.com/wp-content/uploads/2020/05/microsoft-1.png",
+          "width": 1200,
+          "height": 900,
+          "title": "Microsoft is integrating Azure AI into Sony’s smart camera sensors",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-azure-hosted-ai-for-finding-code-defects-emitted-but-does-it-work.md",
+      "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
+      "excerpt": "Altran – in association with Microsoft – has pushed out an open source project to find code defects via AI whenever you commit code. It is easy to see why Microsoft is keen. T",
+      "webUrl": "https://www.theregister.co.uk/2020/05/19/azure_hosted_ai_for_finding_code/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/05/18/codedefect.jpg",
+          "width": 800,
+          "height": 408,
+          "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/19/azure_hosted_ai_for_finding_code/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/19/azure_hosted_ai_for_finding_code/",
+      "publishedDateTime": "2020-05-19T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-are-ai-powered-killer-robots-inevitable.md",
+      "title": "Are AI-Powered Killer Robots Inevitable?",
+      "excerpt": "Military scholars warn of a “battlefield singularity,” a point at which humans can no longer keep up with the pace of conflict.",
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-military-robots/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ebefa5288ead7be95a5c6c2/master/pass/Biz-robotskull-476996566.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Are AI-Powered Killer Robots Inevitable?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-military-robots/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-military-robots/amp",
+      "publishedDateTime": "2020-05-19T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-as-machines-get-smarter-how-will-we-relate-to-them.md",
+      "title": "As Machines Get Smarter, How Will We Relate to Them?",
+      "excerpt": "My theory of robot mind was vaporized, replaced by a feeling of unease: As AI grows more capable and assertive, how will we relate to it? Generally speaking, people adapt well to new technologies. We steer hunks of speeding metal and communicate via tiny icons with élan.",
+      "webUrl": "https://www.wired.com/story/as-machines-get-smarter-how-will-we-relate-to-them/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec31a45d58e99fafced809d/master/pass/How-We-Relate-to-AI.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": "As Machines Get Smarter, How Will We Relate to Them?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/as-machines-get-smarter-how-will-we-relate-to-them/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/as-machines-get-smarter-how-will-we-relate-to-them/amp",
+      "publishedDateTime": "2020-05-19T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-is-the-brain-a-useful-model-for-artificial-intelligence.md",
+      "title": "Is the Brain a Useful Model for Artificial Intelligence?",
+      "excerpt": "In the summer of 2009, the Israeli neuroscientist Henry Markram strode onto the TED stage in Oxford, England, and made an immodest proposal: Within a decade, he said, he and his colleagues would build a complete simulation of the human brain inside a supercomputer.",
+      "webUrl": "https://www.wired.com/story/brain-model-artificial-intelligence/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Is the Brain a Useful Model for Artificial Intelligence?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/brain-model-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/brain-model-artificial-intelligence/amp",
+      "publishedDateTime": "2020-05-19T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-its-called-artificial-intelligencebut-what-is-intelligence.md",
       "title": "It's Called Artificial Intelligence—but What Is Intelligence?",
       "excerpt": "Gurgling infants might seem like no match for artificial intelligence. They are terrible at labeling images, hopeless at mining text, and awful at videogames. Then again, babies can do things beyond the reach of any AI.",
@@ -962,300 +1247,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-and-sony-to-create-smart-camera-solutions-for-ai-enabled-image-sensor.md",
-      "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
-      "excerpt": "Sony and Microsoft have joined together to create artificial intelligence-powered (AI) smart camera solutions to make it easier for enterprise customers to perform video analytics, the companies announced.",
-      "webUrl": "https://www.zdnet.com/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/d4d0aec9-a68d-4c05-93a1-1983d4569593/sony-sensor.jpg",
-          "width": 360,
-          "height": 300,
-          "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
-          "attribution": null,
-          "isCached": true
-        },
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/18/963feced-c0bc-40b6-a216-ac13ed576bd1/thumbnail/1200x675/a8bb0d273d07b0025ae1f3bb0acc19f8/sony-develops-first-image-sensor-combine-5ec1bfd7e468b746804e6632-1-may-18-2020-24-23-40-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft and Sony to create smart camera solutions for AI-enabled image sensor",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/",
-      "publishedDateTime": "2020-05-18T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-go-x-is-unleashing-100-self-driving-scooters-on-a-large-georgia-business-park.md",
-      "title": "Go X is unleashing 100 self-driving scooters on a large Georgia business park",
-      "excerpt": "These scooters will be summonable by riders and return to a centralized charging and sanitization area when done.",
-      "webUrl": "https://www.cnet.com/roadshow/news/go-x-peachtree-corners-self-driving-scooter-test-fleet/",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/iOux_pi7WaUB5XY3xN_orqTrf7s=/2020/05/19/51879df2-7acd-4fb0-8f2f-03e439a564cf/screenshot-www-youtube-com-2020-05.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Go X is unleashing 100 self-driving scooters on a large Georgia business park",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/go-x-peachtree-corners-self-driving-scooter-test-fleet/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/go-x-peachtree-corners-self-driving-scooter-test-fleet/",
-      "publishedDateTime": "2020-05-18T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-visualizing-amazon-sagemaker-machine-learning-predictions-with-amazon-quicksight.md",
-      "title": "Visualizing Amazon SageMaker machine learning predictions with Amazon QuickSight",
-      "excerpt": "AWS is excited to announce the general availability of Amazon SageMaker integration in QuickSight. You can now integrate your own Amazon SageMaker ML models with QuickSight to analyze the augmented data and use it directly in your business intelligence dashboards. As a business analyst, data engineer,",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-machine-learning-predictions-in-amazon-quicksight-and-amazon-sagemaker/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/06/quicksight-sagemaker-38.jpg",
-          "width": 800,
-          "height": 443,
-          "title": "Visualizing Amazon SageMaker machine learning predictions with Amazon QuickSight",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T17:18:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-deep-learning-for-oct-image-analysis.md",
-      "title": "Deep learning for OCT image analysis",
-      "excerpt": "Deep learning is a form of artificial intelligence (AI) in which large amounts of data are processed to combine key factors and predict an output. Deep learning needs an ample database to reach conclusions. OCT generates abundant data, but needs more ...",
-      "webUrl": "https://www.laserfocusworld.com/detectors-imaging/article/14174629/deep-learning-for-oct-image-analysis",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "laserfocusworld.com",
-        "domain": "laserfocusworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-latest-news-update-on-google.md",
-      "title": "Latest News Update on Google",
-      "excerpt": "San Francisco, May 21 : While Google has been working on life-like version of its spoken Artificial Intelligence (AI ... has quit the company to join rival Waymo owned by Google's parent company ...",
-      "webUrl": "https://www.newkerala.com/news/tags/Google.html",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Kerala",
-        "domain": "newkerala.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-facebook-ceo-warns-against-spread-of-chinese-style-internet-regulations.md",
-      "title": "Facebook CEO warns against spread of Chinese-style internet regulations",
-      "excerpt": "Facebook chief executive Mark Zuckerberg warned against ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies ...",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3084962/facebook-ceo-warns-against-spread-chinese-style-internet-regulations",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/methode/2020/05/19/71370a12-995b-11ea-96ff-7aff439fc3be_image_hires_075509.jpg?itok=5oh-v35g&v=1589846119",
-          "width": 1200,
-          "height": 630,
-          "title": "Facebook CEO warns against spread of Chinese-style internet regulations",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3084962/facebook-ceo-warns-against-spread-chinese-style-internet-regulations",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3084962/facebook-ceo-warns-against-spread-chinese-style-internet-regulations",
-      "publishedDateTime": "2020-05-18T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-cloud-storage-market-to-reach-usd-29754-billion-by-2027-higher-adoption-of-machine-learning-to-boost-growth-says-fortune-business-insights.md",
-      "title": "Cloud Storage Market to Reach USD 297.54 Billion by 2027; Higher Adoption of Machine Learning to Boost Growth, Says Fortune Business Insights™",
-      "excerpt": "The global cloud storage market is set to gain traction from the rising adoption of autonomous systems and machine learning. Besides,",
-      "webUrl": "https://www.prnewswire.com/in/news-releases/cloud-storage-market-to-reach-usd-297-54-billion-by-2027-higher-adoption-of-machine-learning-to-boost-growth-says-fortune-business-insights-tm--809223852.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1169294/Cloud_Storage_Market.jpg?p=facebook",
-          "width": 1333,
-          "height": 698,
-          "title": "Cloud Storage Market to Reach USD 297.54 Billion by 2027; Higher Adoption of Machine Learning to Boost Growth, Says Fortune Business Insights™",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

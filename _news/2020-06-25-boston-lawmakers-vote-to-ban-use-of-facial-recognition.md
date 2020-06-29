@@ -228,17 +228,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Boston City Council bans use of facial recognition technology"
-    excerpt: "Lawmakers in Boston have outlawed the use of facial recognition software by city officials. In a unanimous vote on Wednesday, Boston's City Council passed the ordinance, which will make it illegal for officials in the Massachusetts capital to \"obtain,"
-    publishedDateTime: 2020-06-24T23:01:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 24
   - title: "Lawmakers Introduce Bill to Ban Federal Use of Facial Recognition Tech"
     excerpt: "If passed, federal agencies would not be able to run, fund, purchase or otherwise use data from facial biometric systems without congressional authorization."
     publishedDateTime: 2020-06-26T19:59:00Z

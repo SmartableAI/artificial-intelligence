@@ -350,6 +350,17 @@ related:
         width: 647
         height: 400
         isCached: true
+  - title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
+    excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday"
+    publishedDateTime: 2020-06-29T15:41:00Z
+    webUrl: "https://timeslive.co.za/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 39
   - title: "Mercedes-Benz partners with Nvidia for next-gen self-driving vehicles"
     excerpt: "Software-defined computing architecture based on Nvidia Drive platform Mercedes-Benz has partnered up with Nvidia to create a new in-vehicle computing system and AI computing infrastructure, all based on a new software-defined architecture that will be rolling out to the fleet of next-generation"
     publishedDateTime: 2020-06-24T23:15:00Z
@@ -389,6 +400,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
+  - title: "Amazon Looks to Self-Driving Future"
+    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
+    publishedDateTime: 2020-06-29T15:36:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/21138692/amazon-looks-to-selfdriving-future"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/iStock_1214977181.5efa0bbe636e8.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Qj0ODtX73/Kyjy1zaG6V5I8ZxCDO9ZNKdm5k21WRdn45sdU0nrCjQB78lXm13mFFq2IpO05fNTzkGH0+UxsJE2y+pbuLRqIKegp+WrC2JDn7eL6Bsgr+XqfmdhmFeUrzB4HNxc+qHT7Gb7LIL8RPJtWfUmF1319Yrnm3zQATe+t+J2gMVkDvmuVH/9Jpbvyus/6deYbgunio4I8FGxmKKyN1kT9gvPD0c/RkyYYERftclZqAlFL4Pox4KkgZRlVa72zEiZvhSP6YQ+S0f/0tY2i4CD2hGCieNPEzt57qdXfgGcB2GT6mF1LKTn5OY1b7PiAAXxwmsgYQ+L8aLDEvog==;a4WtyI7ObQ8iS0LotUccWA=="
 ---

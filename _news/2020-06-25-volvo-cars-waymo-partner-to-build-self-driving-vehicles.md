@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN23W2V0"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN23W2V0"
 type: article
 quality: 89
-heat: 329
+heat: 349
 published: true
 
 provider:
@@ -340,6 +340,17 @@ related:
         width: 647
         height: 400
         isCached: true
+  - title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
+    excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday"
+    publishedDateTime: 2020-06-29T15:41:00Z
+    webUrl: "https://timeslive.co.za/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 39
   - title: "Mercedes-Benz partners with Nvidia for next-gen self-driving vehicles"
     excerpt: "Software-defined computing architecture based on Nvidia Drive platform Mercedes-Benz has partnered up with Nvidia to create a new in-vehicle computing system and AI computing infrastructure, all based on a new software-defined architecture that will be rolling out to the fleet of next-generation"
     publishedDateTime: 2020-06-24T23:15:00Z
@@ -392,6 +403,20 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-06-28/9775d793-483a-4b06-9eef-11467efa9ffb.jpeg"
         width: 1100
         height: 700
+        isCached: true
+  - title: "Amazon Looks to Self-Driving Future"
+    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
+    publishedDateTime: 2020-06-29T15:36:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/21138692/amazon-looks-to-selfdriving-future"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/iStock_1214977181.5efa0bbe636e8.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ifK5j+TkziuuEXpiveN4jf0+Wjc4h0NsX1peiamK8cmDURX8UK7FFRuSCao7x+TYIXu4dqdSDDbOooiBgzFCgmlSLsB649xsXLpNcpstJAhQYX+BmnyjV8gVuo+TtuXiuTYCkZMR/IcGbeNWMJNWs2eLD4s5dsrBBvu5DfbSGJhMa79Chcnfzk+gmEcAV0oqYQ162MefEYPVYtF+0ejiCiXjyXmnqPtfanrvkdPBmL8zTuzG3sXAXyK36JE+N7ArShnMphcy8ajeLLD8Gx+0KaGy4qN3I60IpP5krhIy/ukaUgZH/zxgzP5HqA20wCFmODWZ/trafuIau/V25IkIi4iwDcVp5kUgmXsYHpdAf51lQcXUcPIu+xT3clbK8uHMr0XPTy9ri5Lcii/hdySNueZuIyk/uva8tyaZ2BP9gSbsSF3JZES7UbADP1eGD1Ul5EKQd3VD4nL6DtMvzlO4azB1k9RyV1T4/eKALiF6X63c3gSf6W63qVXCsQEwKEoXbU/nfBIE+TDxr1AwKlsLTw==;aiu6ML6+K8/FHPZL9mqDAw=="

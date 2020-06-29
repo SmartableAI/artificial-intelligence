@@ -64,22 +64,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Boston Bans Municipal Use Of Facial Recognition"
-    excerpt: "Boston joins cities like San Francisco, Oakland, California, and Cambridge, Massachusetts to ban the controversial surveillance technology."
-    publishedDateTime: 2020-06-24T21:52:00Z
-    webUrl: "https://www.forbes.com/sites/siladityaray/2020/06/24/boston-bans-municipal-use-of-facial-recognition/"
-    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/06/24/boston-bans-municipal-use-of-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/06/24/boston-bans-municipal-use-of-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef3c911edefda00066e53cc%2F0x0.jpg"
-        width: 1200
-        height: 754
-        isCached: true
   - title: "Facial recognition bill would ban use by federal law enforcement"
     excerpt: "The bill would also make federal funding for state and local law enforcement contingent on the enactment of similar bans."
     publishedDateTime: 2020-06-26T03:38:00Z
@@ -276,6 +260,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "U.S. Senator Pushes for Government Ban on Facial Recognition"
+    excerpt: "U.S. Sen. Ed Markey introduced a facial recognition bill this week with Rep. Ayanna Pressley, another Massachusetts Democrat; Sen. Jeff Merkley, an Oregon Democrat; and Pramila Jayapal, a Washington Democrat."
+    publishedDateTime: 2020-06-29T15:34:00Z
+    webUrl: "https://www.govtech.com/policy/US-Senator-Pushes-for-Government-Ban-on-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/policy/US-Senator-Pushes-for-Government-Ban-on-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/US-Senator-Pushes-for-Government-Ban-on-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
+        width: 927
+        height: 626
+        isCached: true
   - title: "Ed Markey, Ayanna Pressley push for federal ban on facial recognition technology"
     excerpt: "Massachusetts Sen. Ed Markey and Rep. Ayanna Pressley are pushing to ban the federal government’s use of facial recognition technology, as Boston last week nixed the city use of the"
     publishedDateTime: 2020-06-28T23:14:00Z
@@ -307,6 +307,22 @@ related:
       - url: "https://kubrick.htvapps.com/vidthumb/85dd70bf-0960-4676-b086-3cc43dee7e9e/85dd70bf-0960-4676-b086-3cc43dee7e9e_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Sen. Markey Files Legislation To Ban Government Use Of Facial Recognition Software"
+    excerpt: "Markey cited a report that said Black, Brown and Asian individuals were up to 100 times more likely to be misidentified."
+    publishedDateTime: 2020-06-29T04:10:00Z
+    webUrl: "https://boston.cbslocal.com/video/4606832-sen-markey-files-legislation-to-ban-government-use-of-facial-recognition-software/"
+    ampWebUrl: "https://boston.cbslocal.com/video/4606832-sen-markey-files-legislation-to-ban-government-use-of-facial-recognition-software/amp/"
+    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/video/4606832-sen-markey-files-legislation-to-ban-government-use-of-facial-recognition-software/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 53
+    images:
+      - url: "https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2019/07/cropped-boston-favicon-5121.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "Detroit says 'shoddy' work led to wrongful arrest tied to facial recognition technology"
     excerpt: "A Black man wrongly arrested after the use of facial recognition technology will have his DNA, fingerprints and mugshot removed from files."

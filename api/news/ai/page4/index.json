@@ -2,6 +2,176 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-24-apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly.md",
+      "title": "Apple’s Core ML now lets app developers update AI models on the fly",
+      "excerpt": "Apple's Core ML can now update AI models without the need to ship an App Store update, while Create ML now has an action classification template.",
+      "webUrl": "https://venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/apple-core-ml.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 574,
+          "title": "Apple’s Core ML now lets app developers update AI models on the fly",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/amp/",
+      "publishedDateTime": "2020-06-24T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-sas-and-microsoft-partner-on-future-of-analytics-and-ai.md",
+      "title": "SAS and Microsoft Partner on Future of Analytics And AI",
+      "excerpt": "“Through this partnership, Microsoft and SAS will help our customers accelerate growth and find new ways to drive innovation with a broad set of SAS Analytics offerings on Microsoft Azure,” said Scott Guthrie, EVP, Cloud and AI, Microsoft ...",
+      "webUrl": "https://www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm",
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "http://www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm/amp",
+      "cdnAmpWebUrl": "https://www-iotevolutionworld-com.cdn.ampproject.org/c/www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm/amp",
+      "publishedDateTime": "2020-06-24T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iotevolutionworld.com",
+        "domain": "iotevolutionworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-boston-bans-police-forces-from-using-facial-recognition.md",
+      "title": "Boston Bans Police Forces From Using Facial Recognition",
+      "excerpt": "It’s official, as of today, Boston’s become the second-largest US community to ban police use of facial recognition technology, thanks to a unanimous vote by more than a dozen city council people. The move follows similar bans by the neighboring cities Brookline,",
+      "webUrl": "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524",
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/vedoqaujncze30yfosyq.jpg",
+          "width": 800,
+          "height": 451,
+          "title": "Boston Bans Police Forces From Using Facial Recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp",
+      "publishedDateTime": "2020-06-24T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-how-product-placement-works-in-2020-with-ai-deep-learning-and-more.md",
+      "title": "How Product Placement Works In 2020 - With AI, Deep Learning And More",
+      "excerpt": "Lela London chats to BEN, the Bill Gates-owned product placement agency behind most of your streaming screen's magic.",
+      "webUrl": "https://www.forbes.com/sites/lelalondon/2020/06/24/how-product-placement-works-in-2020with-ai-deep-learning-and-more/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1159735354%2F0x0.jpg%3FcropX1%3D600%26cropX2%3D1805%26cropY1%3D200%26cropY2%3D891",
+          "width": 1200,
+          "height": 689,
+          "title": "How Product Placement Works In 2020 - With AI, Deep Learning And More",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lelalondon/2020/06/24/how-product-placement-works-in-2020with-ai-deep-learning-and-more/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lelalondon/2020/06/24/how-product-placement-works-in-2020with-ai-deep-learning-and-more/amp/",
+      "publishedDateTime": "2020-06-24T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-space-robotics-market-may-see-a-growth-rate-of-873-maxar-technologies-ispace-northrop-grumman.md",
       "title": "Space Robotics Market may see a growth rate of 8.73% | Maxar Technologies, Ispace, Northrop Grumman",
       "excerpt": "Latest added Global Space Robotics Market research study by AMA Research offers detailed outlook and elaborates market review till 2025. The market Study is segmented by key regions that are accelerating the marketization.",
@@ -1181,185 +1351,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization.md",
-      "title": "AI Runs Into The Document And People Barrier: Digitization And Digitalization",
-      "excerpt": "Artificial intelligence has been put to amazing use. However, AI systems can’t do anything at all without access to data to train the machine learning models. And much of that data is locked in documents in paper or electronic form or in human-controlled processes.",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/",
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef270f1c708900006e39c79%2F0x0.jpg",
-          "width": 749,
-          "height": 407,
-          "title": "AI Runs Into The Document And People Barrier: Digitization And Digitalization",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/amp/",
-      "publishedDateTime": "2020-06-23T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19.md",
-      "title": "This New App Analyzes Your Voice Quality To Diagnose Congestive Heart Failure: Can It Help With Covid-19?",
-      "excerpt": "A new app developed by an Israeli biotech startup has shown promise in evaluating voice quality to detect buildup of fluid in the lungs, an important finding associated with congestive heart failure (CHF).",
-      "webUrl": "https://www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F801249656%2F0x0.jpg",
-          "width": 1200,
-          "height": 795,
-          "title": "This New App Analyzes Your Voice Quality To Diagnose Congestive Heart Failure: Can It Help With Covid-19?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/amp/",
-      "publishedDateTime": "2020-06-23T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-building-ai-powered-forecasting-automation-with-amazon-forecast-by-applying-mlops.md",
-      "title": "Building AI-powered forecasting automation with Amazon Forecast by applying MLOps",
-      "excerpt": "This post demonstrates how to create a serverless Machine Learning Operations (MLOps) pipeline to develop and visualize a forecasting model built with Amazon Forecast. Because Machine Learning (ML) workloads need to scale, it’s important to break down the silos among different stakeholders to capture",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-ai-powered-forecasting-automation-with-amazon-forecast-by-applying-mlops/",
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/22/Screen-Shot-2020-06-19-at-15.00.38-1260x566.png",
-          "width": 1260,
-          "height": 566,
-          "title": "Building AI-powered forecasting automation with Amazon Forecast by applying MLOps",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T15:52:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-ai-startup-pilots-digital-masks-that-counter-facial-recognition.md",
-      "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
-      "excerpt": "A Los Angeles startup has created “privacy-preserving face skins” – digital masks or avatars that counter facial recognition software.",
-      "webUrl": "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition",
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.coindesk.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-23-at-3.18.31-PM.png",
-          "width": 1889,
-          "height": 930,
-          "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition?amp=1",
-      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition?amp=1",
-      "publishedDateTime": "2020-06-23T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinDesk",
-        "domain": "coindesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

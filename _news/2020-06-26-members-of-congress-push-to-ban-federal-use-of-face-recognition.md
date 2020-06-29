@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/facial-recognition-ban-bill-democrats-1
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-ban-bill-democrats-182006734.html"
 type: article
 quality: 91
-heat: 251
+heat: 241
 published: true
 
 provider:
@@ -219,17 +219,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Boston City Council bans use of facial recognition technology"
-    excerpt: "Lawmakers in Boston have outlawed the use of facial recognition software by city officials. In a unanimous vote on Wednesday, Boston's City Council passed the ordinance, which will make it illegal for officials in the Massachusetts capital to \"obtain,"
-    publishedDateTime: 2020-06-24T23:01:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/boston-city-council-bans-use-of-facial-recognition-technology?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 24
   - title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition..."
     excerpt: "The city council unanimously voted on Wednesday to ban the use of the technology and prohibit any city official from obtaining facial surveillance by asking for it through third parties. The measure will now go to Mayor Marty Walsh with a veto-proof majority."
     publishedDateTime: 2020-06-25T00:08:00Z

@@ -340,6 +340,17 @@ related:
         width: 647
         height: 400
         isCached: true
+  - title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
+    excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday"
+    publishedDateTime: 2020-06-29T15:41:00Z
+    webUrl: "https://timeslive.co.za/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 39
   - title: "Mercedes-Benz partners with Nvidia for next-gen self-driving vehicles"
     excerpt: "Software-defined computing architecture based on Nvidia Drive platform Mercedes-Benz has partnered up with Nvidia to create a new in-vehicle computing system and AI computing infrastructure, all based on a new software-defined architecture that will be rolling out to the fleet of next-generation"
     publishedDateTime: 2020-06-24T23:15:00Z
@@ -392,6 +403,20 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-06-28/9775d793-483a-4b06-9eef-11467efa9ffb.jpeg"
         width: 1100
         height: 700
+        isCached: true
+  - title: "Amazon Looks to Self-Driving Future"
+    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
+    publishedDateTime: 2020-06-29T15:36:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/21138692/amazon-looks-to-selfdriving-future"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/iStock_1214977181.5efa0bbe636e8.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "b+WTAIs1f9Knogp58Qk5E2mQ4xxEVtE/KofmkbmukF52fLsJ1+IXbj+0P/avusgvPPdbdzqV+QoBU7oQYAdAO0DyyPIpE92eGglMAFIALHV8TAS3nEHWCjrb16MiQDWRVidINSsG4VnBokusO+Uyyd0Z+Ggcl0f8zHfQcuAz94PhkL3uiT3bGCUc3GnbPZ5ostjZDzCJievAuRGWfvlALZ1t71HHy/htWxQBvb7n6KIIgOMjCA2VemLs7xWcmf/E+Q0POrd5sX/Z2StiF78eXWLlZTUuEz6T4p+Hc2emRR00bqcOknEQ3YS6hvkJUdUY1fthQKl9TG6eepWI06Z9paTh9WsB4Cttkp03RKbCxImfduXxcMLwiBkkYOuCSxRQMGJtdd0+F+5nL5RZde0FdtwuaGobyCP/3vEcfhdMaUY7sqk4XY37KX4WGh6odPuCqoQrGHH/yIInIg+XNrlGszMgVCDlVNrCNBidUe51eJ7+ljMD8NrmIrm2eb7giPAUCr0B1ySuCZ9F8FOw5YLLDA==;2ledCukJw6/gW/JzHzE8lQ=="

@@ -27,21 +27,21 @@ images:
     title: "Autonomous robot equipped with UVC lights neutralises 90 per cent of coronavirus particles on surfaces and can disinfect an entire warehouse in 30 minutes"
 
 related:
-  - title: "This Robot Automatically Disinfects COVID-19 in Public Areas"
-    excerpt: "A new autonomous robot equipped with UVC light is able to disinfect and clean 90% of the coronavirus particles. The scientists at MIT’s Computer Science and Artificial Intelligence Laboratory teamed up with Ava robotics to create this robot that is able to disinfect and neutralize virus particles."
-    publishedDateTime: 2020-06-29T13:48:00Z
-    webUrl: "https://propakistani.pk/2020/06/29/this-robot-automatically-disinfects-covid-19-in-public-areas/"
-    ampWebUrl: "https://propakistani.pk/2020/06/29/this-robot-automatically-disinfects-covid-19-in-public-areas/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/06/29/this-robot-automatically-disinfects-covid-19-in-public-areas/amp/"
+  - title: "MIT's autonomous robot uses UVC light to kill coronavirus particles on surfaces"
+    excerpt: "The robot is a joint project between MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and Ava Robotics. As UVC light is harmful to humans, the machine is used to disinfect locations after workers have finished their shifts."
+    publishedDateTime: 2020-06-29T14:10:00Z
+    webUrl: "https://www.techspot.com/news/85800-autonomous-robot-mit-uses-uvc-kill-coronavirus-particles.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/85800-autonomous-robot-mit-uses-uvc-kill-coronavirus-particles.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85800-autonomous-robot-mit-uses-uvc-kill-coronavirus-particles.html"
     type: article
     provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 59
+      name: TechSpot
+      domain: techspot.com
+    quality: 85
     images:
-      - url: "https://cdn.propakistani.pk/wp-content/uploads/2020/06/CSAIL-robot-e1593435664579.jpg"
-        width: 1000
-        height: 562
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-29-image-3.jpg"
+        width: 1930
+        height: 1436
         isCached: true
   - title: "MIT adapts Ava Robotics platform to built robot to disinfect Greater Boston Food Bank"
     excerpt: "A robot built by MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) has disinfected the Greater Boston Food Bank. (See video below.) The robot uses ultraviolet-C light to"

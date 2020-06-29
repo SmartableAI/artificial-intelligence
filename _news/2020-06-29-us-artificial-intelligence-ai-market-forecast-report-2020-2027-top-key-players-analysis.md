@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-29T10:09:00Z
 webUrl: "https://www.marketwatch.com/press-release/us-artificial-intelligence-ai-market-forecast-report-2020---2027---top-key-players-analysis-2020-06-29"
 type: article
 quality: 72
-heat: 92
+heat: 112
 published: true
 
 provider:
@@ -52,6 +52,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI-based Fever Detection Camera Market 2020: Covid19 Impact Analysis, End Users And Regional Forecast Till 2027"
+    excerpt: "Jun 29, 2020 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by"
+    publishedDateTime: 2020-06-29T15:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2020-covid19-impact-analysis-end-users-and-regional-forecast-till-2027-2020-06-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis By Size, Growth Rate and Trends With Forecast To 2026"
+    excerpt: "Artificial Intelligence in Healthcare Market2020 Global Industry Trends, Size, Share Analysis Report. According to"
+    publishedDateTime: 2020-06-29T13:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-by-size-growth-rate-and-trends-with-forecast-to-2026-2020-06-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

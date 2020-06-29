@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "Seoul’s startup and tech ecosystem is world class — here’s what you need to know"
 
-secured: "xJnUPiM32IhvWEjhZoLlvck0ZyqEq63q8aZNo1xaCjjnslAXfsvjw+t8eERdu7JHThQ5wG6fzwAP/VMuSHVIp8cBC3WYE/dRyLG6sP/7IfjfD5648CsS2OzDVrwVAibiMArpQyF7XD2Pzj+uAjuvPQSohdvasw0RYynG5fFOncj5+I2nQ/h3U81kVzdDtcmWRqEHSuW5HVfDulATzUk3ZaJH2B7uw9Hm920chL5ljjDSubpczq8qpmXfCRp8kL4odCBvNs2YCwKXW+MwtR6i1DZugmCFikpgHFbuVSVPmD8fc8VbzKb6pbgaE/VnA10Arb4vpgu+ZqGXEIrx27RgCQ==;iwMiWLuiblKhtVJkTZuUXg=="
+secured: "CABcfiawf4p52nLObgF2EWAH0w7EJWwELaNnqUTRMz9zst7uiq4S3T1JDfSuqLyc4IvbDsNDqmAy8MNMmsq2FLjcHO3MXHkgpnvVaIkJ7V7qJ+hlM6uLRVz+GrFfDE/lEvmSnTHexulzhshWn+hdisW/oa+QT+Xcmdz8js1Qdb7lQkAtQRi1y0jJViqs53b/UoPGhenR8oP4QHL8veuw7eUwdL5wU6KCFuDOxsXBPSf7O2Ossw5sgwgj77p1xIFQF/+pEU1JpAP/oN/EItIfyNc98LbeRFSUSgdU+fCu2xQzt5knNJDNzMXgvuMTEUSnCIaYhGbtGQLMMTnyVvlxF6PFDmYv2t/2G5IQVo27OwIR7YaMfmKvgNx5Gy9HfTrP+G6vqaPWbp/8WKet7M3aWjgwnvyXCkUl3lZbDvS03TIrlUnaJvHOJzGirsP3CJbL5Xs+hbnXX+N/6Sh3aa4Cok0IHXiaF4fiTqgJKWH9mfyzCtgDFpsNR9n8nrSvs3Uv7k4sBYH5ajeQQg79U8R8Kg==;U+cbOI3e77xm83RpQInu+A=="
 ---
 

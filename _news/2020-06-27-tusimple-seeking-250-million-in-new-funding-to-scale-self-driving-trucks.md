@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-ne
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-new-funding-to-scale-self-driving-trucks/amp/"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 576
     isCached: true
     title: "TuSimple seeking $250 million in new funding to scale self-driving trucks"
+
+related:
+  - title: "Self-Driving Truck Maker TuSimple Hires Morgan Stanley To Help Raise $250M In Fresh Funding: Report"
+    excerpt: "TuSimple is looking to raise up to $250 million in a fresh funding round, TechCrunch reported late Friday. The self-driving-truck maker has hired Morgan Stanley (NYSE: MS) to"
+    publishedDateTime: 2020-06-29T14:35:00Z
+    webUrl: "https://www.benzinga.com/news/20/06/16422489/self-driving-truck-maker-tusimple-hires-morgan-stanley-to-help-raise-250m-in-fresh-funding-report"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16422489"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16422489"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/tusimple-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "PvYBsM/4DtZYRvdV86qPFx0Bgbm4BCoMIKk3In+lUKR0orwVsX0cl1kWkNIXK12bUKptoiju7NiDlON4SQ0ulciriYdKRJCrKlt6L8gZyoSX6/IyfjetrmtEIiLl1HnVnEZ4lVOO8JN90ZTeIwGnwSkxkTXsX4kLdsC2Pf8O3TkHn0Q5jA57oT4Xd5zoLSUwZMM8jDtvAmjHCfNywhCYHckFmQWovp6QLvlV5G0a/b8YRfyxjMwYh4v+fzy5rBpiZZFNeJvD5rJA3KA1i7NE+FsuiNVgT83XSxhntyjCLrMhUnlXGmZYd3l+wnHe63Ln4OjIF3Y/HwuggCylvFj56Q==;hcoFUPYiRkUMCuHh8p0MeQ=="
 ---

@@ -2,6 +2,269 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-06-17-equitable-tech-companies-pause-facial-recognition-but-major-questions-remain.md",
+      "title": "Equitable tech: Companies pause facial recognition, but major questions remain",
+      "excerpt": "In response to protest calling for police reform around the country, some of the biggest names in tech are taking a closer look at their facial recognition technologies.",
+      "webUrl": "https://www.techrepublic.com/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/17/c1454581-0581-4f64-9a34-6b1c4e7dbf59/resize/1200x/c4ecd1309d8c01046284dfd75d817e98/facial-recognition.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Equitable tech: Companies pause facial recognition, but major questions remain",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
+      "publishedDateTime": "2020-06-17T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-enhancing-robotic-process-automation-with-ai.md",
+      "title": "Enhancing robotic process automation with AI",
+      "excerpt": "Seth Siegel, North American head of AI consulting at Infosys, tells Tonya Hall about a new industry for enhancing the robotic process automation with AI and why this new industry is already worth billions in market value.",
+      "webUrl": "https://www.zdnet.com/video/enhancing-robotic-process-automation-with-ai/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/17/66e14f28-20e0-4a48-b6c5-7800e322fa5d/thumbnail/770x578/35cea6fb9d605989e165c7c38170623a/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "Enhancing robotic process automation with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-17T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-speech-recognition-market-size-growth-share-industry-analysis.md",
+      "title": "Speech Recognition Market Size | Growth, Share, Industry Analysis",
+      "excerpt": "The global Speech Recognition market size is projected to reach USD 10390 million by 2026 from USD 9461 8 million in 2020 at a CAGR of 9 1 during 2021 2026 Speech recognition technology is a high technology that enables",
+      "webUrl": "https://www.openpr.com/news/2076276/speech-recognition-market-size-growth-share-industry",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2076276/speech-recognition-market-size-growth-share-industry",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2076276/speech-recognition-market-size-growth-share-industry",
+      "publishedDateTime": "2020-06-17T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-deepfacedrawing-ai-can-turn-simple-sketches-into-detailed-photo-portraits.md",
+      "title": "'DeepFaceDrawing' AI can turn simple sketches into detailed photo portraits",
+      "excerpt": "Researchers have found a way to turn simple line drawings into photo-realistic facial images. Developed by a team at the Chinese Academy of Sciences in Beijing, DeepFaceDrawing uses artificial intelligence to help “users with little training in drawing to produce high-quality images from rough or even incomplete freehand sketches.",
+      "webUrl": "https://www.engadget.com/ai-can-produce-detailed-photos-of-faces-from-simple-sketches-122924655.html",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F812a6680-b085-11ea-b7fd-7591620edf6b&client=amp-blogside-v2&signature=b43b6c6e5e36400bfce630d07cafac5b7c0c445d",
+          "width": 600,
+          "height": 350,
+          "title": "'DeepFaceDrawing' AI can turn simple sketches into detailed photo portraits",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/ai-can-produce-detailed-photos-of-faces-from-simple-sketches-122924655.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-can-produce-detailed-photos-of-faces-from-simple-sketches-122924655.html",
+      "publishedDateTime": "2020-06-17T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-the-next-x-ray-seattle-startup-proprio-raises-23m-to-build-high-tech-surgical-navigation-system.md",
+      "title": "The next X-ray? Seattle startup Proprio raises $23M to build high-tech surgical navigation system",
+      "excerpt": "Seattle startup Proprio has raised more cash to help build out its surgical technology that some investors believe will be just as transformative as the X-ray. The 4-year-old company announced a",
+      "webUrl": "https://www.geekwire.com/2020/next-x-ray-seattle-startup-proprio-raises-23m-build-high-tech-surgical-navigation-system/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/Proprio-spinal-image-630x354.jpg",
+          "width": 630,
+          "height": 354,
+          "title": "The next X-ray? Seattle startup Proprio raises $23M to build high-tech surgical navigation system",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/next-x-ray-seattle-startup-proprio-raises-23m-build-high-tech-surgical-navigation-system/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/next-x-ray-seattle-startup-proprio-raises-23m-build-high-tech-surgical-navigation-system/amp/",
+      "publishedDateTime": "2020-06-17T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones.md",
+      "title": "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones",
+      "excerpt": "Qualcomm today announced its RB5 reference design platform for the robotics and intelligent drone ecosystem. As the field of robotics continues to evolve towards more advanced capabilities, Qualcomm’s latest platform should help drive the next step in robotics evolution with intelligence and connectivity.",
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/",
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee9accd1b50250006e837a8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1430%26cropY1%3D0%26cropY2%3D804",
+          "width": 1200,
+          "height": 676,
+          "title": "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/",
+      "publishedDateTime": "2020-06-17T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g.md",
       "title": "Qualcomm’s Robotics RB5 Platform combines AI acceleration with 5G",
       "excerpt": "Qualcomm's new robotics development platform -- RB5 -- accelerates AI workloads while providing support for 5G connectivity.",
@@ -1047,279 +1310,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-a-competition-to-identify-bird-calls-using-machine-learning.md",
-      "title": "A competition to identify bird calls using machine learning",
-      "excerpt": "Do you hear the birds chirping outside your window? There are more than 10,000 bird species in the world, and they can be found in nearly every environment, from untouched rainforests to suburbs and cities. Birds play an essential role in nature. They are high up in the food chain and integrate changes",
-      "webUrl": "https://www.blog.google/technology/ai/competition-identify-bird-calls-using-machine-learning/",
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/rwbb_keyword_hero.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": "A competition to identify bird calls using machine learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/competition-identify-bird-calls-using-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/competition-identify-bird-calls-using-machine-learning/amp/",
-      "publishedDateTime": "2020-06-16T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed.md",
-      "title": "AI is tracking down the UK’s biggest foe: Japanese knotweed",
-      "excerpt": "Scientists are using AI to find invasive species of plants, including the scourge of British homes and gardens: Japanese knotweed.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/16/ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-75-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "AI is tracking down the UK’s biggest foe: Japanese knotweed",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/16/ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/16/ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed/amp/",
-      "publishedDateTime": "2020-06-16T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery.md",
-      "title": "Zycada raises $19 million for AI that speeds up web content delivery",
-      "excerpt": "Zycada, a startup developing AI technologies that speed up web content delivery, has raised $19 million in venture capital.",
-      "webUrl": "https://venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/",
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/0ae55f70-49ef-4207-8d57-61ed74ec5475-e1591732013768.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Zycada raises $19 million for AI that speeds up web content delivery",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/amp/",
-      "publishedDateTime": "2020-06-16T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding.md",
-      "title": "Streamlit wants to revolutionize building machine learning and data science applications, scores $21 million Series A funding",
-      "excerpt": "Streamlit wants to be for data science what business intelligence tools have been for databases: a quick way to get to results, without bothering much with the details",
-      "webUrl": "https://www.zdnet.com/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2018/12/06/7678c1af-8c33-4979-b8e0-aee879e3a982/istock-933321056.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": "Streamlit wants to revolutionize building machine learning and data science applications, scores $21 million Series A funding",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
-      "publishedDateTime": "2020-06-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses.md",
-      "title": "Kickstart a lucrative career: Become an expert in big data and machine learning with these 10 courses",
-      "excerpt": "Getting in on an innovative and lucrative career path before the job market is saturated is incredibly difficult. That's been true in podcasting, tech, and many other fields. Do yourself a solid and develop an expertise in big data and machine learning starting today,",
-      "webUrl": "https://www.zdnet.com/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/06/05/bf5a3452-5b7d-4ca4-9694-3c4b6dc6e0f3/thumbnail/1200x675/244b6f31cf693537b84714e0a47a396e/zdnet-big-data.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Kickstart a lucrative career: Become an expert in big data and machine learning with these 10 courses",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
-      "publishedDateTime": "2020-06-16T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-neoml-open-source-library-for-building-training-and-deploying-machine-learning-models.md",
-      "title": "NeoML: Open source library for building, training, and deploying machine learning models",
-      "excerpt": "NeoML is an open source library for building, training, and deploying machine learning models. It supports deep learning and traditional ML algorithms.",
-      "webUrl": "https://www.helpnetsecurity.com/2020/06/16/neoml-open-source-library/",
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.helpnetsecurity.com/posts2020/NeoML.png",
-          "width": 750,
-          "height": 257,
-          "title": "NeoML: Open source library for building, training, and deploying machine learning models",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-16T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Help Net Security",
-        "domain": "helpnetsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

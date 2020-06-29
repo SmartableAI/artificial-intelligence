@@ -2,6 +2,145 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-29-cynet-raises-18-million-for-ai-safeguards-against-cyberthreats.md",
+      "title": "Cynet raises $18 million for AI safeguards against cyberthreats",
+      "excerpt": "Cynet, a cybersecurity startup that leverages AI and machine learning to detect threats, has raised $18 million in venture capital.",
+      "webUrl": "https://venturebeat.com/2020/06/29/cynet-raises-18-million-for-ai-safeguards-against-cyberthreats/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Cynet-Team.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 542,
+          "title": "Cynet raises $18 million for AI safeguards against cyberthreats",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/29/cynet-raises-18-million-for-ai-safeguards-against-cyberthreats/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/cynet-raises-18-million-for-ai-safeguards-against-cyberthreats/amp/",
+      "publishedDateTime": "2020-06-29T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-security-first-your-ai-is-so-easy-to-hack.md",
+      "title": "Security first: Your AI is so easy to hack",
+      "excerpt": "The reality for AI-enabled systems is that they have an increased attack surface for bad actors to exploit -- but too often security is an afterthought.",
+      "webUrl": "https://venturebeat.com/2020/06/29/security-first-your-ai-is-so-easy-to-hack/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1158867526.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 708,
+          "title": "Security first: Your AI is so easy to hack",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/29/security-first-your-ai-is-so-easy-to-hack/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/security-first-your-ai-is-so-easy-to-hack/amp/",
+      "publishedDateTime": "2020-06-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-mits-autonomous-robot-uses-uvc-light-to-kill-coronavirus-particles-on-surfaces.md",
+      "title": "MIT's autonomous robot uses UVC light to kill coronavirus particles on surfaces",
+      "excerpt": "The robot is a joint project between MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and Ava Robotics. As UVC light is harmful to humans, the machine is used to disinfect locations after workers have finished their shifts.",
+      "webUrl": "https://www.techspot.com/news/85800-autonomous-robot-mit-uses-uvc-kill-coronavirus-particles.html",
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-29-image-3.jpg",
+          "width": 1930,
+          "height": 1436,
+          "title": "MIT's autonomous robot uses UVC light to kill coronavirus particles on surfaces",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85800-autonomous-robot-mit-uses-uvc-kill-coronavirus-particles.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85800-autonomous-robot-mit-uses-uvc-kill-coronavirus-particles.html",
+      "publishedDateTime": "2020-06-29T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-introducing-the-open-source-amazon-sagemaker-xgboost-algorithm-container.md",
       "title": "Introducing the open-source Amazon SageMaker XGBoost algorithm container",
       "excerpt": "XGBoost is a popular and efficient machine learning (ML) algorithm for regression and classification tasks on tabular datasets. It implements a technique known as gradient boosting on trees and performs remarkably well in ML competitions. Since its launch, Amazon SageMaker has supported XGBoost as a",
@@ -46,44 +185,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-this-robot-automatically-disinfects-covid-19-in-public-areas.md",
-      "title": "This Robot Automatically Disinfects COVID-19 in Public Areas",
-      "excerpt": "A new autonomous robot equipped with UVC light is able to disinfect and clean 90% of the coronavirus particles. The scientists at MIT’s Computer Science and Artificial Intelligence Laboratory teamed up with Ava robotics to create this robot that is able to disinfect and neutralize virus particles.",
-      "webUrl": "https://propakistani.pk/2020/06/29/this-robot-automatically-disinfects-covid-19-in-public-areas/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.propakistani.pk/wp-content/uploads/2020/06/CSAIL-robot-e1593435664579.jpg",
-          "width": 1000,
-          "height": 562,
-          "title": "This Robot Automatically Disinfects COVID-19 in Public Areas",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2020/06/29/this-robot-automatically-disinfects-covid-19-in-public-areas/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/06/29/this-robot-automatically-disinfects-covid-19-in-public-areas/amp/",
-      "publishedDateTime": "2020-06-29T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -407,7 +508,7 @@
       "title": "U.S. Artificial Intelligence (AI) Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
       "excerpt": "The U.S. Artificial Intelligence (AI) market report, published by GMI Research, provides extensive insight and analysis of the U.S. Artificial Intelligence (AI) market over the forecast period (2020-2027).",
       "webUrl": "https://www.marketwatch.com/press-release/us-artificial-intelligence-ai-market-forecast-report-2020---2027---top-key-players-analysis-2020-06-29",
-      "heat": 92,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -492,6 +593,53 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-service-robotics-market-by-supply-demand-scenario-application-by-region-pricing-analysis-opportunities-and-forecast-2026.md",
+      "title": "Service Robotics Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026",
+      "excerpt": "The global service robotics market is expected to rise with an impressive CAGR and generate the highest revenue by",
+      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market---by-supply-demand-scenario-application-by-region-pricing-analysis-opportunities-and-forecast-2026-2020-06-29",
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Service Robotics Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -847,7 +995,7 @@
       "title": "TuSimple seeking $250 million in new funding to scale self-driving trucks",
       "excerpt": "TuSimple, the self-driving truck startup backed by Sina, Nvidia, UPS and Tier 1 supplier Mando Corporation, is headed back into the marketplace in search of new capital from investors. The company has hired investment bank Morgan Stanley to help it raise $250 million,",
       "webUrl": "https://techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-new-funding-to-scale-self-driving-trucks/",
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1081,7 +1229,7 @@
       "title": "Developing NER models with Amazon SageMaker Ground Truth and Amazon Comprehend",
       "excerpt": "Named entity recognition (NER) involves sifting through text data to locate noun phrases called named entities and categorizing each with a label, such as person, organization, or brand. For example, in the statement “I recently subscribed to Amazon Prime,” Amazon Prime is the named entity and can be",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/developing-ner-models-with-amazon-sagemaker-ground-truth-and-amazon-comprehend/",
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1213,145 +1361,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-70-million-sci-fi-flick-b-stars-an-ai-robot-named-erica.md",
-      "title": "$70 million sci-fi flick 'b' stars an AI robot named 'Erica'",
-      "excerpt": "A movie, simply titled \"b,\" is currently in early production. What makes it unique is that it will be the first big-budget feature film to star an AI actor named Erica. Produced by the makers of Oscar-nominated film Loving Vincent,",
-      "webUrl": "https://www.techspot.com/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-26-image-9.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": "$70 million sci-fi flick 'b' stars an AI robot named 'Erica'",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
-      "publishedDateTime": "2020-06-26T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers.md",
-      "title": "Sightbit deploys AI on beaches to help lifeguards spot distressed swimmers",
-      "excerpt": "Sightbit is deploying \"AI lifeguards\" at beaches to spot rip currents and swimmers in distress, starting with a pilot at a beach in its native Israel.",
-      "webUrl": "https://venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/1.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "Sightbit deploys AI on beaches to help lifeguards spot distressed swimmers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/amp/",
-      "publishedDateTime": "2020-06-26T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-nasa-enlists-ai-in-the-hunt-for-et.md",
-      "title": "NASA enlists AI in the hunt for ET",
-      "excerpt": "The ExoMars mission to find life on Mars moved closer to take-off this week after NASA unveiled the first results of an AI that will support the search.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/26/nasa-enlists-ai-in-the-hunt-for-et/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-86-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "NASA enlists AI in the hunt for ET",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/nasa-enlists-ai-in-the-hunt-for-et/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/nasa-enlists-ai-in-the-hunt-for-et/amp/",
-      "publishedDateTime": "2020-06-26T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
