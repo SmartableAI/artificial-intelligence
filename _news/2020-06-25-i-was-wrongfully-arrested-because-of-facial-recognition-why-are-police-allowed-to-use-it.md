@@ -198,22 +198,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Amazon pauses police use of its facial recognition for year"
-    excerpt: "Civil rights groups and Amazon's own employees have pushed the company to stop selling its technology to government agencies."
-    publishedDateTime: 2020-06-24T07:23:00Z
-    webUrl: "https://www.kare11.com/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
-    ampWebUrl: "https://www.kare11.com/amp/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
-    cdnAmpWebUrl: "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
-    type: article
-    provider:
-      name: KARE 11
-      domain: kare11.com
-    quality: 59
-    images:
-      - url: "https://media.kare11.com/assets/CCT/images/626789424/626789424_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "IBM quits facial recognition, joins call for police reforms"
     excerpt: "IBM is getting out of the facial recognition business, saying it's concerned about how the technology can be used for mass surveillance and racial profiling. Ongoing protests responding to the death of George Floyd have sparked a broader reckoning"
     publishedDateTime: 2020-06-25T01:22:00Z
@@ -227,20 +211,6 @@ related:
       - url: "https://static.seattletimes.com/wp-content/uploads/2019/12/12192019_facialRecStudy_tzr_tzr_131656-780x501.jpg"
         width: 780
         height: 501
-        isCached: true
-  - title: "Facial recognition software: Useful for crime fighting, but it needs rules."
-    excerpt: "IBM’s decision last week to stop selling facial recognition technology to police agencies, and Amazon’s subsequent announcement of a one-year moratorium on such sales, have put a needed spotlight on this issue. Facial recognition technology holds ..."
-    publishedDateTime: 2020-06-24T07:34:00Z
-    webUrl: "https://www.stardem.com/opinion/editorials/facial-recognition-software-useful-for-crime-fighting-but-it-needs-rules/article_4666143f-9b9b-537f-81b5-9ea035bf5b47.html"
-    type: article
-    provider:
-      name: Star Democrat
-      domain: stardem.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/stardem.com/content/tncms/custom/image/20d20780-4187-11e8-ab1c-2fc06d5d5b26.jpg"
-        width: 600
-        height: 314
         isCached: true
 
 secured: "hGe78+0Q5024ZNXlViBKF3SVm0IR0DHevXf8+PuxJ1IEIjicburZgECcJl+0bN1pKhBNlaa5rUSZ6Ejge0+249ebRk3MUx+T3FoNHSYLTpzZxseVqIPxz/jmo8FFLRshK30QEmL4jMIxgleYZk2o1iLWGqHMTM1/UlIcSub+CwYo77YhYQn/ESxG8OvKkmkdDxXw8JGSIvgRuLMgxypJW3x5lncJnKxPAXhh76+2LPEwYvixQShTiNALEWkw1mUcvIJcIVtYduQRUTBrX71awnQOQCfPDcmqjiVod/lBF6X7TZffafsHvbNZCNosucnpO2gqmtEtkd0591XKFuUakfVHB1Yudjxv/cuLCOBq3ppMKMGYY7wBHc5zoPtWD/BgNsegUdAp6WQKIyxcW0pzRE/WI2QXtePik4qdy7LjilcxCSOKLKPuE4TIK150u0VTRYNJOt69C7TVLcfiKGdrv2RRS1AwbN+6oKhw7Qft7NJmYYseuvgdHr48Z5rYmwNWFi187kj307QosNkIWdtMDg==;nP4vfXXcszReBsJM+X2zow=="

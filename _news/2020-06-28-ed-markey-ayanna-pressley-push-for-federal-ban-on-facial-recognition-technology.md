@@ -482,22 +482,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "FlowCentric Technologies, Eldir roll-out facial recognition, thermal detection solution"
-    excerpt: "The company has developed EGAN, a facial recognition and thermal detection solution, in conjunction with Eldir."
-    publishedDateTime: 2020-06-24T07:11:00Z
-    webUrl: "https://www.itweb.co.za/content/nWJadMbek9W7bjO1"
-    ampWebUrl: "https://amp.itweb.co.za/content/nWJadMbek9W7bjO1"
-    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/nWJadMbek9W7bjO1"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 51
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2020/06/FlowCentric.jpg"
-        width: 816
-        height: 459
-        isCached: true
   - title: "Detroit says 'shoddy' work led to wrongful arrest tied to facial recognition technology"
     excerpt: "A Black man wrongly arrested after the use of facial recognition technology will have his DNA, fingerprints and mugshot removed from files."
     publishedDateTime: 2020-06-27T11:55:00Z
@@ -529,6 +513,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PY5FPLTWPMI6TJ57ZCSDXBHOGE.jpg&w=1440"
         width: 1440
         height: 1010
+        isCached: true
+  - title: "One Bad Algorithm? Advocates Say Facial Recognition Reveals Systemic Racism in AI Technology"
+    excerpt: "The growing controversy over police use of facial recognition technology has accelerated after a Black man in Michigan revealed he was wrongfully arrested because of the technology. Detroit police handcuffed Robert Williams in front of his wife and daughters after facial recognition software falsely identified him as a suspect in a robbery."
+    publishedDateTime: 2020-06-26T14:02:00Z
+    webUrl: "https://www.democracynow.org/2020/6/26/racist_facial_recognition_technology_joy_buolamwini"
+    type: article
+    provider:
+      name: Democracy Now
+      domain: democracynow.org
+    quality: 43
+    images:
+      - url: "https://www.democracynow.org/images/story/69/53269/full_hd/seg2-surveillance-camera.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Black man is first wrongful arrest in US caused by facial recognition tech, ACLU says | Charlotte Observer"
     excerpt: "The American Civil Liberties Union filed a complaint to Detroit police on Wednesday, alleging the wrongful arrest of a Black man resulted from an incorrect facial recognition match. Robert Williams was arrested in January by the Detroit Police Department based on a facial recognition identification that incorrectly matched him with a person who stole five watches from a Shinola store,"
@@ -653,6 +651,6 @@ related:
       domain: securityinfowatch.com
     quality: 11
 
-secured: "fUQqfUr/6Yoq50p9I7Uuu5kETOxTHvFXyWJtPGDGhfF0ssKZuo6Y13rlE3TYxBRqJWcexEjQO9CpXLJ7EZXUA0p6Yr8EJ4IkJzl9FMiBTBJ/f3fgCCH8WGvuUWQgYRUQntuaVulI/H97sZ7WCDHG8ZN02mQep4bf9Qg81byJWWZhNbOzGCMqk1Het/8txOtDsKmaWNNpCznRU7aZB0lS2sOaHH0rNU3kgCfpi2asV8KhpsSFll7zn+jsd6hLYRGB3t9UVlb/VA9BYYltZd2zRN68i5d94BdS+6YvwkFEZU4bo1uecbelDnyAKmG4hKYO1SG5SCO+srvFILvxG6ywhA==;kAZqOtEdZBcrHxOVeQd3gA=="
+secured: "oyWelZlFkQs6h//Z4hK5hMJbvDHB3rd2RnbNsg1RaS6eNzA/bhR/RApBUhjqYoW9/wU+GLXEnd8Q2CZFopvNY83LK21k3nqpHfOy3TUMP82BubjhWzWAg7zJSvJGR+gyqHxZDt6nGO5ErsPNlmbNh09x17KJ7EAsEZP8Q18uIJgMNEB/oumeX1kgcqXBsTAZvZxwoTMlFiKtf7wbIbLgCfjmyxo8CYdbqB+W4tvYvqQDNvD759fRAm7Emj97T7PVHEFgX0EBynGesqbhUz4OjEkFXX9/n9gon0OXJmCHIfn3VNLNy2TQBXZiDaQprFaCLhMZb9DXlJZsKM6XH7Tf+uJRoDaD54fT61M5pi9hjYP8an9dakm3o14+2t5/NWtEXPAlQa5krv3KS5Cgmjcp2IpvxkXbHEQ+6n2degP76i8/NQRUU6JFrk/vjPVxegEEyuz4HjVeIQ+6D1bEkcrqQRdgPZ/XbfkqUbH6hRY1N4pIoXqyy8SPRl1ToSokYXlYH0A254yEqG7HMe2FlXhvzQ==;yf6IRrE1fM2BvWhWEhYCKA=="
 ---
 

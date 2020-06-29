@@ -46,20 +46,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Microsoft acquires industrial IoT security startup CyberX"
-    excerpt: "Microsoft announced on Tuesday that it is acquiring industrial cyber security start-up CyberX to enhance the security features ... The CyberX platform applies AI-based techniques and behavioural analytics to map out all connected devices in a network ..."
-    publishedDateTime: 2020-06-24T08:37:00Z
-    webUrl: "https://www.computing.co.uk/news/4016904/microsoft-acquires-industrial-iot-security-startup-cyberx"
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 24
-    images:
-      - url: "https://www.computing.co.uk/api/v1/wps/72f8084/8d9884c3-2848-4ecf-ad04-5ac934035d7e/3/cyberx-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
 
 secured: "zyCjr+YcFbbBKzNh+oCMiY45Hrla40y4FY3V5kM+KAVUrqfwedkk3SHmVlgGOnBZvqDmN+IAiJ19T6Ue9o0/ykL7BFKzGYcpr9N6trzUqTkSDrAGbszkXZzWHO9Ww638AsCn9bEEB04ULeFGDEWqvbohLMMGnlEenuuSutHlhBqh9NkzJrtOW5QQyMI0Q1UlEvNMQPUEYdf7utRzqzzpCnwas6D5G5y9Umgp7F6DstKKlA6pBHu2tUW/1LRu6rAOyrnBEFdS5KHiZRQ2Z1SYaAhtQrQhePa8/rH+lGEQRVQy0i+T+CdEqQff/qyVxMRdphGWAkaHzpATBUN5CR9yJ1AkZzxjMaS5TVUd5as15fYziB71tBblNBs1dYjpOveIqXR+QdbL+DZkeeY0NJFqJQBG9jUJeYtfb4BuMeF2yZ9FNXFyn1g1NS1BRnySvU5QfAdIJnb66SOLNHYe8OmTZ7mQQnpc3Hx49qXaRtlv7IxIQNX0epUe3w1LdPQkxjWC0HZD6kTfo3NuA/suPKLUvA==;87h5S0glyBjZZW1YCyFpXQ=="
 ---

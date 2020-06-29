@@ -2,11 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-29-australian-government-sinks-au19-million-into-ai-health-research-projects.md",
+      "title": "Australian government sinks AU$19 million into AI health research projects",
+      "excerpt": "The Australian government has announced it will invest AU$19 million over three years into artificial intelligence-based health research projects designed to prevent, diagnose, and treat a range of health conditions.",
+      "webUrl": "https://www.zdnet.com/article/australian-government-sinks-au19-million-into-ai-health-research-projects/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/12/11/ab9d2ce5-1e6c-4bc7-900f-486392d74270/thumbnail/1200x675/6e917f26544cdf82f38dfd6728fb6793/istockphoto-abadonian-835879592.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Australian government sinks AU$19 million into AI health research projects",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-government-sinks-au19-million-into-ai-health-research-projects/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-government-sinks-au19-million-into-ai-health-research-projects/",
+      "publishedDateTime": "2020-06-28T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-28-3-new-ways-artificial-intelligence-is-powering-the-future-of-marketing.md",
       "title": "3 New Ways Artificial Intelligence Is Powering The Future Of Marketing",
       "excerpt": "From an AI Chef to a Snoop Dog video ad, to digital people, here are 3 futuristic ways AI is taking brand voice to the next level.",
       "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/28/3-new-ways-artificial-intelligence-is-powering-the-future-of-marketing/",
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -45,6 +91,53 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-28-here-is-how-the-united-states-should-regulate-artificial-intelligence.md",
+      "title": "Here Is How The United States Should Regulate Artificial Intelligence",
+      "excerpt": "In 1934, in the wake of the worst stock market crash in U.S. history, Congress created the Securities and Exchange Commission (SEC) to regulate capital markets. In 1970, as the nation became increasingly alarmed about the deterioration of the natural environment,",
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/06/28/here-is-how-the-united-states-should-regulate-artificial-intelligence/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef900ed2c12b2000624449f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2998%26cropY1%3D0%26cropY2%3D1686",
+          "width": 1200,
+          "height": 675,
+          "title": "Here Is How The United States Should Regulate Artificial Intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/06/28/here-is-how-the-united-states-should-regulate-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/06/28/here-is-how-the-united-states-should-regulate-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-06-28T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -278,7 +371,7 @@
       "title": "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing",
       "excerpt": "Uber CEO Dara Khosrowshahi says his company wants to be the “Amazon for transportation.” Friday, Amazon made clear that it intends to be the Amazon for transportation. The ecommerce giant said it had agreed to acquire Bay Area-based autonomous vehicle company Zoox,",
       "webUrl": "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/",
-      "heat": 389,
+      "heat": 409,
       "tags": null,
       "images": [
         {
@@ -791,7 +884,7 @@
       "title": "Amazon acquires autonomous vehicle startup Zoox",
       "excerpt": "Amazon announced that it's acquired Zoox, a startup developing a range of autonomous vehicle technologies. The details of the deal weren't disclosed.",
       "webUrl": "https://venturebeat.com/2020/06/26/amazon-acquires-autonomous-vehicle-startup-zoox/",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1283,100 +1376,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-how-machine-learning-finds-anomalies-to-catch-financial-cybercriminals.md",
-      "title": "How machine learning finds anomalies to catch financial cybercriminals",
-      "excerpt": "In the last few months, millions of dollars have been stolen from unemployment systems during this time of immense pressure due to coronavirus-related claims. A skilled ring of international fraudsters has been submitting false unemployment claims for individuals that still have steady work.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/26/how-machine-learning-combats-financial-cybercrime-syndication/",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/2-6-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "How machine learning finds anomalies to catch financial cybercriminals",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/how-machine-learning-combats-financial-cybercrime-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/how-machine-learning-combats-financial-cybercrime-syndication/amp/",
-      "publishedDateTime": "2020-06-26T01:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-why-ai-is-the-next-way-patients-will-choose-their-doctors.md",
-      "title": "Why AI is the next way patients will choose their doctors",
-      "excerpt": "Web reviews and personal recommendations are imperfect solutions to finding the best doctor to handle your heath. Can AI help?",
-      "webUrl": "https://qz.com/1869760/how-ai-can-help-solve-the-coming-post-covid-patient-backlog/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/06/RTR4AF6R-e1592382796908.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 790,
-          "title": "Why AI is the next way patients will choose their doctors",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1869760/how-ai-can-help-solve-the-coming-post-covid-patient-backlog/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1869760/how-ai-can-help-solve-the-coming-post-covid-patient-backlog/amp/",
-      "publishedDateTime": "2020-06-26T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

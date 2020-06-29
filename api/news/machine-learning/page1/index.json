@@ -562,6 +562,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-23-without-the-hidden-layers-of-an-artificial-neural-network-deep-learning-will-not-even-exist.md",
+      "title": "Without the hidden layers of an Artificial Neural Network, Deep Learning will not even exist!",
+      "excerpt": "How does the hidden layer decode the black box of decision making? Learn how Artificial Neural Networks (ANNs) and Deep neural network (DNNs) contribute to the incredibly tough task of complex predictions.",
+      "webUrl": "https://www.analyticsinsight.net/decoding-link-artificial-neural-networks-deep-learning-algorithms/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/06/Neural-Network.png",
+          "width": 1452,
+          "height": 886,
+          "title": "Without the hidden layers of an Artificial Neural Network, Deep Learning will not even exist!",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-integrating-spatial-gene-expression-and-breast-tumour-morphology-via-deep-learning.md",
       "title": "Integrating spatial gene expression and breast tumour morphology via deep learning",
       "excerpt": "Deep learning can predict spatial variations in gene expression from haematoxylin-and-eosin-stained histopathology images of patients with cancer.",
@@ -672,6 +710,44 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-deep-learning-and-artificial-neural-networks.md",
+      "title": "Deep learning and artificial neural networks",
+      "excerpt": "Martin Spano is the author of Artificial Intelligence in a Nutshell, a book that explores the mystified subject of artificial intelligence (AI) with simple, non-technical language. Spano’s passion for AI began after he watched 2001: A Space Odyssey,",
+      "webUrl": "https://spectator.sme.sk/c/22427836/deep-learning-and-artificial-neural-networks.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.smedata.sk/api-media/media/image/spectator/3/63/6350623/6350623_1200x.jpeg?rev=3",
+          "width": 1200,
+          "height": 800,
+          "title": "Deep learning and artificial neural networks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SME",
+        "domain": "spectator.sme.sk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1274,92 +1350,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses.md",
-      "title": "Kickstart a lucrative career: Become an expert in big data and machine learning with these 10 courses",
-      "excerpt": "Getting in on an innovative and lucrative career path before the job market is saturated is incredibly difficult. That's been true in podcasting, tech, and many other fields. Do yourself a solid and develop an expertise in big data and machine learning starting today,",
-      "webUrl": "https://www.zdnet.com/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/06/05/bf5a3452-5b7d-4ca4-9694-3c4b6dc6e0f3/thumbnail/1200x675/244b6f31cf693537b84714e0a47a396e/zdnet-big-data.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Kickstart a lucrative career: Become an expert in big data and machine learning with these 10 courses",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
-      "publishedDateTime": "2020-06-16T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-neoml-open-source-library-for-building-training-and-deploying-machine-learning-models.md",
-      "title": "NeoML: Open source library for building, training, and deploying machine learning models",
-      "excerpt": "NeoML is an open source library for building, training, and deploying machine learning models. It supports deep learning and traditional ML algorithms.",
-      "webUrl": "https://www.helpnetsecurity.com/2020/06/16/neoml-open-source-library/",
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.helpnetsecurity.com/posts2020/NeoML.png",
-          "width": 750,
-          "height": 257,
-          "title": "NeoML: Open source library for building, training, and deploying machine learning models",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-16T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Help Net Security",
-        "domain": "helpnetsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

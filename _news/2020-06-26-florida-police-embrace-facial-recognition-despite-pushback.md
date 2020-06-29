@@ -107,6 +107,33 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Bill would ban police use of face recognition"
+    excerpt: "Democrats in both houses of Congress said Thursday they are introducing a bill that would ban government use of facial recognition technology. Why it matters: A handful of cities have banned government use in their jurisdictions,"
+    publishedDateTime: 2020-06-26T14:08:00Z
+    webUrl: "https://www.axios.com/bill-would-ban-police-use-face-recognition-technology-b28ca7f8-f466-42d2-8112-5c12eb6bddc5.html"
+    ampWebUrl: "https://www.axios.com/bill-would-ban-police-use-face-recognition-technology-b28ca7f8-f466-42d2-8112-5c12eb6bddc5.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/bill-would-ban-police-use-face-recognition-technology-b28ca7f8-f466-42d2-8112-5c12eb6bddc5.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 59
+    images:
+      - url: "https://images.axios.com/p7B5-PLA0-35TMo6SFJtpkWwOtM=/fit-in/1366x1366/2020/06/26/1593178893338.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Democratic lawmakers propose nationwide facial recognition ban"
+    excerpt: "The Facial Recognition and Biometric Technology Moratorium Act of 2020 would prohibit federal agencies from investing in facial, voice, or gait recognition technology unless Congress authorizes it. The bill would also curtail the use of biometric ..."
+    publishedDateTime: 2020-06-26T00:36:00Z
+    webUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?itm_source=1&itm_content=4x6&itm_term=2376504"
+    ampWebUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 54
   - title: "Congress puts forward bill to ban use of facial recognition"
     excerpt: "Several members of Congress unveiled a bill that would completely ban the use of biometric information, including facial recognition, by the government."
     publishedDateTime: 2020-06-25T18:46:00Z

@@ -2,6 +2,241 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-22-scheduling-jupyter-notebooks-on-sagemaker-ephemeral-instances.md",
+      "title": "Scheduling Jupyter notebooks on SageMaker ephemeral instances",
+      "excerpt": "It’s 5 PM on a Friday. You’ve spent all afternoon coding out a complex, sophisticated feature engineering strategy. It just started working on your Amazon SageMaker Studio t3.medium notebook, and all you want to do is plug this onto a massive instance, scale it out over the rest of your dataset, and",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scheduling-jupyter-notebooks-on-sagemaker-ephemeral-instances/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/19/sagemaker-ephemeral-instances-4-1219x630.jpg",
+          "width": 1219,
+          "height": 630,
+          "title": "Scheduling Jupyter notebooks on SageMaker ephemeral instances",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T11:23:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-seafarers-need-recognition-and-support-from-governments-imo-chief.md",
+      "title": "Seafarers Need Recognition and Support from Governments: IMO Chief",
+      "excerpt": "Restrictions on individual travel have left many seafarers effectively stuck on ships, at sea or at anchor, with their vessels unable to dock, disembark or resupply, and unable to access medical care,",
+      "webUrl": "https://www.wsj.com/articles/seafarers-need-recognition-and-support-from-governments-imo-chief-11592847895",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-201157/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Seafarers Need Recognition and Support from Governments: IMO Chief",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/seafarers-need-recognition-and-support-from-governments-imo-chief-11592847895",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/seafarers-need-recognition-and-support-from-governments-imo-chief-11592847895",
+      "publishedDateTime": "2020-06-22T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-ios-14-serves-up-major-updates-for-siri-messages-translate.md",
+      "title": "iOS 14 serves up major updates for Siri, Messages, Translate",
+      "excerpt": "Apple, unsurprisingly, led its WWDC 2020 press conference with the announcement of iOS 14. In the next version of Apple’s latest operating system, we’ll see some improvements to Siri,",
+      "webUrl": "https://www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/Apple_Events_-_Special_Event_Stream_-_Apple-25.jpg",
+          "width": 2372,
+          "height": 1332,
+          "title": "iOS 14 serves up major updates for Siri, Messages, Translate",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/amp/",
+      "publishedDateTime": "2020-06-22T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-ai-in-food-beverage-market-2020-development-status-and-future-statistics-by-2026.md",
+      "title": "AI in Food & Beverage Market 2020 Development Status and Future Statistics by 2026",
+      "excerpt": "According to BlueWeave Consulting, The global AI in food & beverages Market expected to reach US$ 12.5 billion in 2026 with a lucrative CAGR of 42.5%. Key factors driving growth are the growing need to reduce the cost of food & beverage,",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-food-beverage-market-2020-development-status-and-future-statistics-by-2026-2020-06-22",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Food & Beverage Market 2020 Development Status and Future Statistics by 2026",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-ai-ethics-tuning-knobs-a-questionable-mesh-including-for-self-driving-cars.md",
+      "title": "AI Ethics ‘Tuning Knobs’ A Questionable Mesh, Including For Self-Driving Cars",
+      "excerpt": "AI systems are being churned out at quite a rapid pace, meanwhile, there are considerable qualms about whether such AI will exhibit ethical behavior. There is a rising tide of concern about AI ethics.",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/22/ai-ethics-tuning-knobs-a-questionable-mesh-including-for-self-driving-cars/",
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F535630661%2F0x0.jpg%3FcropX1%3D309%26cropX2%3D3684%26cropY1%3D0%26cropY2%3D2250",
+          "width": 1200,
+          "height": 800,
+          "title": "AI Ethics ‘Tuning Knobs’ A Questionable Mesh, Including For Self-Driving Cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/22/ai-ethics-tuning-knobs-a-questionable-mesh-including-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/22/ai-ethics-tuning-knobs-a-questionable-mesh-including-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-06-22T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-integrating-spatial-gene-expression-and-breast-tumour-morphology-via-deep-learning.md",
       "title": "Integrating spatial gene expression and breast tumour morphology via deep learning",
       "excerpt": "Deep learning can predict spatial variations in gene expression from haematoxylin-and-eosin-stained histopathology images of patients with cancer.",
@@ -808,6 +1043,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-22-deep-learning-and-artificial-neural-networks.md",
+      "title": "Deep learning and artificial neural networks",
+      "excerpt": "Martin Spano is the author of Artificial Intelligence in a Nutshell, a book that explores the mystified subject of artificial intelligence (AI) with simple, non-technical language. Spano’s passion for AI began after he watched 2001: A Space Odyssey,",
+      "webUrl": "https://spectator.sme.sk/c/22427836/deep-learning-and-artificial-neural-networks.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.smedata.sk/api-media/media/image/spectator/3/63/6350623/6350623_1200x.jpeg?rev=3",
+          "width": 1200,
+          "height": 800,
+          "title": "Deep learning and artificial neural networks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SME",
+        "domain": "spectator.sme.sk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-computer-makers-unveil-50-ai-servers-with-nvidias-a100-gpus.md",
       "title": "Computer makers unveil 50 AI servers with Nvidia’s A100 GPUs",
       "excerpt": "Computer makers are launching 50 servers with Nvidia's A100 GPUs to power AI, data science, and scientific computing applications.",
@@ -852,280 +1125,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-nvidia-unveils-ai-platform-to-minimize-downtime-in-supercomputing-data-centers.md",
-      "title": "NVIDIA Unveils AI Platform to Minimize Downtime in Supercomputing Data Centers",
-      "excerpt": "ISC Digital--NVIDIA today unveiled the NVIDIA(R) Mellanox(R) UFM(R) Cyber-AI platform, which minimizes downtime in InfiniBand data centers by harnessing AI-powered analytics to detect security threats and operational issues,",
-      "webUrl": "https://www.marketwatch.com/press-release/nvidia-unveils-ai-platform-to-minimize-downtime-in-supercomputing-data-centers-2020-06-22",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "NVIDIA Unveils AI Platform to Minimize Downtime in Supercomputing Data Centers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-worlds-top-system-makers-unveil-nvidia-a100-powered-servers-to-accelerate-ai-data-science-and-scientific-computing.md",
-      "title": "World's Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing",
-      "excerpt": "ISC Digital--June 22, 2020--NVIDIA and the world's leading server manufacturers today announced NVIDIA A100-powered systems in a variety of designs and configurations to tackle the most complex challenges in AI,",
-      "webUrl": "https://www.marketwatch.com/press-release/worlds-top-system-makers-unveil-nvidia-a100-powered-servers-to-accelerate-ai-data-science-and-scientific-computing-2020-06-22",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "World's Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-10-wonderful-examples-of-using-artificial-intelligence-ai-for-good.md",
-      "title": "10 Wonderful Examples Of Using Artificial Intelligence (AI) For Good",
-      "excerpt": "There are many ways artificial intelligence can be used for good and to help solve some of the world’s biggest problems. Many researchers and organizations are prioritizing projects where artificial intelligence can be used for good.",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef030968548c80006be69fb%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": "10 Wonderful Examples Of Using Artificial Intelligence (AI) For Good",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/amp/",
-      "publishedDateTime": "2020-06-21T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-robot-divers-could-use-artificial-intelligence-to-save-coral-reefs-noaa.md",
-      "title": "Robot Divers Could Use Artificial Intelligence To Save Coral Reefs: NOAA",
-      "excerpt": "While scientists have succeeded at restoring some coral reefs, the job is too vast for humans alone, acording to a NOAA reef restoration manager.",
-      "webUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/",
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148857837%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": "Robot Divers Could Use Artificial Intelligence To Save Coral Reefs: NOAA",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/amp/",
-      "publishedDateTime": "2020-06-21T21:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards.md",
-      "title": "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards",
-      "excerpt": "Facebook announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and groundbreaking academic research in the field of artificial intelligence (AI) ethics.",
-      "webUrl": "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/",
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2020/06/07/Facebook-removes-nearly-200-accounts-tied-to-hate-groups.jpg",
-          "width": 715,
-          "height": 450,
-          "title": "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/",
-      "publishedDateTime": "2020-06-21T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-type-x-armored-combat-robot-equipped-for-unmanned-convoy-protection.md",
-      "title": "Type-X armored combat robot equipped for unmanned convoy protection",
-      "excerpt": "Estonia-based Milrem Robotics and Belgium's John Cockerill Defense have unveiled Milrem's Type-X Robotic Combat Vehicle. Based on a modular design and equipped with the Cockerill Protected Weapons Station Generation II (CPWS II) turret,",
-      "webUrl": "https://newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/a91bde8/2147483647/strip/true/crop/2560x1707+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Feb%2F43%2F55a42262488984eecb91ad84851a%2Fimg-0688-scaled.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Type-X armored combat robot equipped for unmanned convoy protection",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/?amp=true",
-      "publishedDateTime": "2020-06-21T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

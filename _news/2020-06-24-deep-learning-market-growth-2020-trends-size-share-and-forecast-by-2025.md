@@ -18,6 +18,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 related:
   - title: "Machine Learning as a Service (MLaaS) Market 2020 by Regions, Manufactures, Type, Application, Sales, Revenue and Forecast to 2026"

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/24/21301759/facial-reco
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence"
 type: article
 quality: 103
-heat: 243
+heat: 223
 published: true
 
 provider:
@@ -186,22 +186,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Amazon pauses police use of its facial recognition for year"
-    excerpt: "Civil rights groups and Amazon's own employees have pushed the company to stop selling its technology to government agencies."
-    publishedDateTime: 2020-06-24T07:23:00Z
-    webUrl: "https://www.kare11.com/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
-    ampWebUrl: "https://www.kare11.com/amp/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
-    cdnAmpWebUrl: "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/news/nation-world/amazon-facial-recognition-police-pause/507-9aef9e3e-9ba8-4732-95c7-ca84b999eab8"
-    type: article
-    provider:
-      name: KARE 11
-      domain: kare11.com
-    quality: 59
-    images:
-      - url: "https://media.kare11.com/assets/CCT/images/626789424/626789424_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "I was wrongfully arrested because of facial recognition. Why are police allowed to use it?"
     excerpt: "While I was leaving work in January, my wife called and said a police officer had called and said I needed to turn myself in. I told her it was probably a prank. But as I pulled u"
     publishedDateTime: 2020-06-25T13:25:00Z
@@ -231,20 +215,6 @@ related:
       - url: "https://static.seattletimes.com/wp-content/uploads/2019/12/12192019_facialRecStudy_tzr_tzr_131656-780x501.jpg"
         width: 780
         height: 501
-        isCached: true
-  - title: "Facial recognition software: Useful for crime fighting, but it needs rules."
-    excerpt: "IBM’s decision last week to stop selling facial recognition technology to police agencies, and Amazon’s subsequent announcement of a one-year moratorium on such sales, have put a needed spotlight on this issue. Facial recognition technology holds ..."
-    publishedDateTime: 2020-06-24T07:34:00Z
-    webUrl: "https://www.stardem.com/opinion/editorials/facial-recognition-software-useful-for-crime-fighting-but-it-needs-rules/article_4666143f-9b9b-537f-81b5-9ea035bf5b47.html"
-    type: article
-    provider:
-      name: Star Democrat
-      domain: stardem.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/stardem.com/content/tncms/custom/image/20d20780-4187-11e8-ab1c-2fc06d5d5b26.jpg"
-        width: 600
-        height: 314
         isCached: true
 
 secured: "G+LvnssatDDfGqwoaerGa+llFKZNQ7OfXIBE9J/IxQfPfs+60m/CS36Qu6Cv8y+RtRnh6y4yo76irLqqtO4y/7SCio+jrfUARqOnehvwLzEuPFxCeUMr4RzM3lysvjLUAyHJzX7eNw76YZMBOQaLkvwXm1KRBdMabRauny9X6P9xu8nNEsPGn89vzFbczclSOqCxYeIRX1zzwRcBg90rk8HAG7v70HapvodBLiQRCpQ6VIAMNB+5WpQhv3s+ASOd+5bB/K+J2ufucRAjhR0SLMshiu1YTPRNathZ0xJqyVuf3UCidfUMQJ62ON45Dpuozrhl9r+HocYifXUPaBNe4d81N4nSx5Q/Zoe8DwEDJW3jB+bAlzT6HZMFIVOzctiV9pT+WGXjOIZxtxfrY8YWTbSXYj0jVbOvtIuXjIaWmsUxDa/ncRXYhMP0IQ6cGVorDc+HF350BP7hjTkkjEf8VDoV6tir41+x9a4JQ9BBnQfBbPI3cpYMnZubEgWdnXVFVENcdkxi1LafOzs2tDvDYQ==;qBSfVFa+h0kmImhVkcfsPg=="

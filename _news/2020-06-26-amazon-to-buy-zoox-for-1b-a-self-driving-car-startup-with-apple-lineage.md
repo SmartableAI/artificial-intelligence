@@ -187,6 +187,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "China’s popular ride-hailing app DiDi starts testing self-driving taxis"
+    excerpt: "Currently, the app is only serving a small geographic area of the city.Initially, the company has deployed their own safety personnel to deal with emergency situations"
+    publishedDateTime: 2020-06-29T00:53:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/china-s-popular-ride-hailing-app-didi-starts-testing-self-driving-taxis-11593391327432.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/china-s-popular-ride-hailing-app-didi-starts-testing-self-driving-taxis/amp-11593391327432.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/china-s-popular-ride-hailing-app-didi-starts-testing-self-driving-taxis/amp-11593391327432.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2020/06/29/600x338/2020-06-27T105926Z_1_LYNXMPEG5Q0BA_RTROPTP_3_CHINA-DIDI-CHUXING_1593391571639_1593391587355.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Amazon acquires self-driving start-up Zoox for over $1.2bn"
     excerpt: "Amazon has acquired self-driving start-up Zoox for more than $1.2bn, marking the ecommerce group’s biggest investment into the autonomous vehicle sector. The deal is set to be announced on Friday, according to two people familiar with the matter."
     publishedDateTime: 2020-06-26T06:21:00Z
@@ -314,6 +330,22 @@ related:
       - url: "https://www.vanguardngr.com/wp-content/uploads/2019/12/cb730e8b-8d42-4c72-a1ba-1eb3677f8c14-amazon-logo-1024x430.png"
         width: 1024
         height: 430
+        isCached: true
+  - title: "Amazon to acquire Foster City based self-driving startup Zoox"
+    excerpt: "The giant online retailer could use the autonomous vehicles to deliver packages but it could also pave the way for a rideshare service."
+    publishedDateTime: 2020-06-29T01:57:00Z
+    webUrl: "https://abc7news.com/zoox-amazon-buys-zoom-valuation/6278567/"
+    ampWebUrl: "https://abc7news.com/amp/zoox-amazon-buys-zoom-valuation/6278567/"
+    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/zoox-amazon-buys-zoom-valuation/6278567/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 44
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/6279242_062820-kgo-zoox-car-img_Image_00-00-08,29.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Amazon agrees to buy self-driving startup Zoox for over $1 billion: Report"
     excerpt: "Amazon.com Inc has agreed to pay over $1 billion to buy self-driving startup Zoox Inc, the Information reported on Thursday, citing sources, in a move that would expand the e-commerce giant's reach in autonomous-vehicle technology."

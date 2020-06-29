@@ -2,6 +2,99 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-25-artificial-intelligence-set-to-dominate-operating-rooms-by-2024.md",
+      "title": "Artificial Intelligence Set To Dominate Operating Rooms By 2024",
+      "excerpt": "In less than five years, this new study from Frost & Sullivan says that artificial intelligence will dominate operating rooms.",
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/06/25/artificial-intelligence-set-to-dominate-operating-rooms-by-2024/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef4bfd4b002b30007f79a6c%2F0x0.jpg",
+          "width": 1200,
+          "height": 567,
+          "title": "Artificial Intelligence Set To Dominate Operating Rooms By 2024",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/06/25/artificial-intelligence-set-to-dominate-operating-rooms-by-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/06/25/artificial-intelligence-set-to-dominate-operating-rooms-by-2024/amp/",
+      "publishedDateTime": "2020-06-25T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-googles-mixit-ai-isolates-speakers-in-audio-recordings.md",
+      "title": "Google’s MixIT AI isolates speakers in audio recordings",
+      "excerpt": "In a new paper, researchers at Google describe an AI system that isolates speakers' voices in audio recordings using an unsupervised approach.",
+      "webUrl": "https://venturebeat.com/2020/06/25/googles-mixit-ai-separates-speakers-voices-from-audio-recordings/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s MixIT AI isolates speakers in audio recordings",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/25/googles-mixit-ai-separates-speakers-voices-from-audio-recordings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/googles-mixit-ai-separates-speakers-voices-from-audio-recordings/amp/",
+      "publishedDateTime": "2020-06-25T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-new-ai-based-technique-to-classify-colorectal-cancer-with-ir-imaging.md",
       "title": "New AI-Based Technique to Classify Colorectal Cancer with IR Imaging",
       "excerpt": "Automatic detection of intestinal tumor type can be performed by using infrared microscopy in just 30 minutes. Then, the results are utilized to make targeted therapy decisions.",
@@ -737,7 +830,7 @@
       "title": "How Technology Will Create These 7 Jobs In The Future",
       "excerpt": "These seven futuristic LinkedIn job ads can offer a small glimpse into a future where our children grow up to be hologram stylists, chief empathy officers, or even augmented reality life designers.",
       "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/24/how-technology-will-create-these-7-jobs-in-the-future/",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1049,82 +1142,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-sas-and-microsoft-partner-on-future-of-analytics-and-ai.md",
-      "title": "SAS and Microsoft Partner on Future of Analytics And AI",
-      "excerpt": "“Through this partnership, Microsoft and SAS will help our customers accelerate growth and find new ways to drive innovation with a broad set of SAS Analytics offerings on Microsoft Azure,” said Scott Guthrie, EVP, Cloud and AI, Microsoft ...",
-      "webUrl": "https://www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm",
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "http://www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm/amp",
-      "cdnAmpWebUrl": "https://www-iotevolutionworld-com.cdn.ampproject.org/c/www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm/amp",
-      "publishedDateTime": "2020-06-24T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iotevolutionworld.com",
-        "domain": "iotevolutionworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-how-product-placement-works-in-2020-with-ai-deep-learning-and-more.md",
-      "title": "How Product Placement Works In 2020 - With AI, Deep Learning And More",
-      "excerpt": "Lela London chats to BEN, the Bill Gates-owned product placement agency behind most of your streaming screen's magic.",
-      "webUrl": "https://www.forbes.com/sites/lelalondon/2020/06/24/how-product-placement-works-in-2020with-ai-deep-learning-and-more/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1159735354%2F0x0.jpg%3FcropX1%3D600%26cropX2%3D1805%26cropY1%3D200%26cropY2%3D891",
-          "width": 1200,
-          "height": 689,
-          "title": "How Product Placement Works In 2020 - With AI, Deep Learning And More",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lelalondon/2020/06/24/how-product-placement-works-in-2020with-ai-deep-learning-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lelalondon/2020/06/24/how-product-placement-works-in-2020with-ai-deep-learning-and-more/amp/",
-      "publishedDateTime": "2020-06-24T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
