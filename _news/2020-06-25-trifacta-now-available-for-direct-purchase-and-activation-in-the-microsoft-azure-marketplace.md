@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-25T13:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace-2020-06-25"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     height: 630
     isCached: true
     title: "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace"
-
-related:
-  - title: "MinerEye DataTracker™, Now Available in the Microsoft Azure Marketplace"
-    excerpt: "MinerEye, a leading data protector company, today announced the availability of its innovative DataTracker™ via the Microsoft Azure"
-    publishedDateTime: 2020-06-24T13:05:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/minereye-datatracker-now-available-in-the-microsoft-azure-marketplace-301082797.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 69
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "yrEqSA8NF94S/mcVtyJupCnIkjJGmavXr0vbdESMs7MAxkiBUZKDkjFM8cIqhE58J8rNAx7m3SZTUkgq04F8bxYEWmRQ9ZMIPtjzjhjt3pr2CBaBLlGFpAOB+lQ59M1ecs7f887tn3tmZfdwT/LzlQb+LU1pwh1LZUqo/PKkXX0HhbC3Zj774Kj61/mxmZmDKEqCUppsfWOwjNJ4+E6XWk9YL5Nw3AdcDKvhF8n2ZUrJzZMS5pjVqSU0QnfaONhZ23gn03L1r4UaHzi286hB6QMFdM7p11DcXYwqykMDxd5E8E0zcLyAngY/uOkCNwAVpaUwvWw/oLgwWob2K10SRw==;gosLoa8y9rV+oKNcxxfweQ=="
 ---

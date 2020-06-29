@@ -1,0 +1,79 @@
+---
+category: news
+title: "Top 15 Hot Artificial Intelligence Technologies"
+excerpt: "Technology can be generally defined as the things, which are formed by the application of conceptual and corporeal efforts in demand, to gain"
+publishedDateTime: 2020-06-29T07:30:00Z
+webUrl: "https://dailytimes.com.pk/633556/top-15-hot-artificial-intelligence-technologies/"
+ampWebUrl: "https://dailytimes.com.pk/633556/top-15-hot-artificial-intelligence-technologies/amp/"
+cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/633556/top-15-hot-artificial-intelligence-technologies/amp/"
+type: article
+quality: 59
+heat: -1
+published: false
+
+provider:
+  name: Daily Times
+  domain: dailytimes.com.pk
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://dailytimes.com.pk/assets/uploads/2020/06/29/4.-The-Artificial-intelligence-examples-That-People-Havent-Realized.jpg"
+    width: 960
+    height: 534
+    isCached: true
+    title: "Top 15 Hot Artificial Intelligence Technologies"
+
+related:
+  - title: "Embracing AI Technologies While Harnessing The Power Of The Heart"
+    excerpt: "When the world is moving so fast and the speed of change is dizzying, we must remember who we are to remain fully human."
+    publishedDateTime: 2020-06-26T12:05:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/embracing-ai-technologies-while-harnessing-the-power-of-the-heart/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/embracing-ai-technologies-while-harnessing-the-power-of-the-heart/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/06/26/embracing-ai-technologies-while-harnessing-the-power-of-the-heart/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F943181920%2F0x0.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "The Power of Outsourcing AI and Machine Learning Projects"
+    excerpt: "Machine learning and artificial intelligence are at the forefront of today’s technological world. These technologies are not only evolving at a"
+    publishedDateTime: 2020-06-26T02:02:00Z
+    webUrl: "https://www.techshout.com/business/2020/25/the-power-of-outsourcing-ai-and-machine-learning-projects/"
+    ampWebUrl: "https://www.techshout.com/business/2020/25/the-power-of-outsourcing-ai-and-machine-learning-projects/amp/"
+    cdnAmpWebUrl: "https://www-techshout-com.cdn.ampproject.org/c/s/www.techshout.com/business/2020/25/the-power-of-outsourcing-ai-and-machine-learning-projects/amp/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 74
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2020/06/artificial-intelligence-ai.jpg"
+        width: 720
+        height: 405
+        isCached: true
+  - title: "Amplifying Advertising and Marketing with Artificial Intelligence"
+    excerpt: "Amplifying Advertising and Marketing with Artificial Intelligence  - Whether it is Google or Tesla’s self-driven cars, AI is ruling all over. Assimilating these AI technologies"
+    publishedDateTime: 2020-06-26T13:08:00Z
+    webUrl: "https://www.cioreview.com/news/amplifying-advertising-and-marketing-with-artificial-intelligence-nid-31486-cid-51.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://cioreview.com/Rank_subcat_images/pzhs8digimas.jpg"
+        width: 453
+        height: 512
+        isCached: true
+
+secured: "c7f/0jeY6ZTzGI4hbOko24dYiMayj6BX3kIFWCY2RsOU+N+CnZAToUMAziF16Zacus8KDF35gvE8wxzuMNUovZ8MTJqcmUHxZq1fflj5YZzb6g+AJ5nMPDIFok1rpEGulrX4eYn1LyhhLWHXM6clVrFP7wENjWbxPbFW1WoCdY2rcdvZ7KfTMSDYsgJ4RHsn3DMEzRoNQbYsUipPD/umm75IGMgfgOv2a1Gfz0EK6oIqBNE4yY17rHuOKB/rXqp/VdA/4YELWYPCiMTW+Kzb7i7V6HycEXdRRgLuuegziIOFc1ikFj73Ge1qvcprjRSDyzQIUhKO4U+ZV71fl27csQ==;pCSGN+cyvdYd2JiOSxI0tA=="
+---
+

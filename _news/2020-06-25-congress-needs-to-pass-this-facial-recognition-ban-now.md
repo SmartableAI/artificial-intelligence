@@ -171,22 +171,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "False facial recognition match leads to a wrongful arrest in Detroit"
-    excerpt: "A Michigan man was arrested due to a false match in a facial recognition system, and the ACLU is filing a complaint in response."
-    publishedDateTime: 2020-06-24T14:40:00Z
-    webUrl: "https://www.engadget.com/facial-recognition-wrongful-arrest-michigan-141531393.html"
-    ampWebUrl: "https://www.engadget.com/amp/facial-recognition-wrongful-arrest-michigan-141531393.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-wrongful-arrest-michigan-141531393.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F456ef2e0-b61c-11ea-97ef-f3dc0132a313&client=amp-blogside-v2&signature=62d6d7980dde9b996786e4b6e12008a10d0a1403"
-        width: 600
-        height: 350
-        isCached: true
   - title: "House bill seeks to ban federal use of facial recognition"
     excerpt: "Senators Ed Markey (Massachusetts) and Jeff Merkley (Oregon) authored the Facial Recognition and Biometric Technology Moratorium Act, which Reps. Pramila Jayapal and Ayanna Pressley co-sponsored, according to Vice."
     publishedDateTime: 2020-06-25T18:23:00Z
@@ -294,17 +278,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
-  - title: "Black Man Wrongfully Arrested Due to 'Flawed' Face Recognition Tech: ACLU"
-    excerpt: "The American Civil Liberties Union has filed a formal complaint against Detroit police for wrongfully arresting a Black man earlier this year after he was allegedly targeted due to \"flawed and biased\" facial recognition technology."
-    publishedDateTime: 2020-06-24T14:54:00Z
-    webUrl: "https://www.newsweek.com/black-man-wrongfully-arrested-due-flawed-face-recognition-tech-aclu-1513086"
-    ampWebUrl: "https://www.newsweek.com/black-man-wrongfully-arrested-due-flawed-face-recognition-tech-aclu-1513086?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-man-wrongfully-arrested-due-flawed-face-recognition-tech-aclu-1513086?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 68
   - title: "U.S. Activists Decry First Known Wrongful Arrest Blamed on Face Recognition"
     excerpt: "An incorrect facial recognition match led to the first known wrongful arrest in the United States based on the increasingly used technology, civil liberties activists alleged in a complaint to Detroit police on Wednesday."
     publishedDateTime: 2020-06-25T00:04:00Z
@@ -494,34 +467,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557041001/ce5d9fea-4e51-4168-b818-24fa45901fae/d71cce00-769d-4922-9959-f62b4967f9a8/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Facial Recognition Led Detroit PD To Arrest Innocent Black Man"
-    excerpt: "Robert Williams was arrested Jan. 9 because facial recognition technology fails to distinguish between people are color, the ACLU said."
-    publishedDateTime: 2020-06-24T13:13:00Z
-    webUrl: "https://patch.com/michigan/detroit/facial-recognition-led-detroit-pd-arrest-innocent-black-man"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 39
-    images:
-      - url: "https://patch.com/img/cdn20/shutterstock/24007010/20200624/084259/styles/patch_image/public/shutterstock-795306157-1___24084241384.jpg"
-        width: 565
-        height: 424
-        isCached: true
-  - title: "Wrongfully Arrested Because of Flawed Face Recognition Technology"
-    excerpt: "Robert Williams was arrested and hauled away by the police in broad daylight in front of his home, his wife, and two little daughters. He was locked up for nearly"
-    publishedDateTime: 2020-06-24T13:46:00Z
-    webUrl: "https://www.wisconsingazette.com/multimedia/wrongfully-arrested-because-of-flawed-face-recognition-technology/video_fbc3ca15-039c-5a4a-8b54-4b69b40fee39.html"
-    type: article
-    provider:
-      name: Wisconsin Gazette
-      domain: wisconsingazette.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wisconsingazette.com/content/tncms/assets/v3/editorial/f/bc/fbc3ca15-039c-5a4a-8b54-4b69b40fee39/5ef35944c800c.preview.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Detroit Clears Record of Man Targeted by Facial Recognition"
     excerpt: "Detroit police are working to expunge the criminal record of a man who was wrongfully targeted by facial recognition technology. He was arrested without explanation and released because the software made a mistake."

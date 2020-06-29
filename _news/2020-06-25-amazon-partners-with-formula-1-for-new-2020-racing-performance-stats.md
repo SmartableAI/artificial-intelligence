@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/amazon-partners-with
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     title: "Amazon partners with Formula 1 for new 2020 racing performance stats"
 
 related:
-  - title: "Amazon's AWS Client Formula 1 Offers New Racing Statistics"
-    excerpt: "In first-quarter 2020, AWS generated $10.2 billion sales, accounting for 14% of Amazon’s net sales. Further, the figure was up 32.8% year over year. Recently, AWS was selected as the preferred cloud provider by Genesys for Genesys Cloud."
-    publishedDateTime: 2020-06-24T14:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazons-aws-client-formula-1-offers-new-racing-statistics-2020-06-24"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Verint partners with startup for COVID-19 contact tracing software"
     excerpt: "Verint (VRNT -0.3%) and Jerusalem based Artificial Intelligence (AI) startup, Viziblezone have entered in a strategic alliance wherein the former will offer high accuracy contact tracing techn"
     publishedDateTime: 2020-06-25T17:09:00Z

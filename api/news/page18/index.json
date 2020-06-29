@@ -2,6 +2,83 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-06-11-3-ai-stocks-poised-to-gain-from-self-driving-cars.md",
+      "title": "3 AI Stocks Poised to Gain From Self-Driving Cars",
+      "excerpt": "Needham’s 5-star analyst Rajvindra Gill, an expert in the tech sector, has the lowdown on autonomous cars and the companies that will support them. He was part of Needham’s recent 4th Annual Virtual Automotive Tech Conference,",
+      "webUrl": "https://www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11",
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11?amp",
+      "publishedDateTime": "2020-06-11T16:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-controversial-startup-to-continue-supplying-police-with-facial-recognition-tech.md",
+      "title": "Controversial Startup to Continue Supplying Police With Facial-Recognition Tech",
+      "excerpt": "“Unlike Amazon Rekognition, which misidentified people of color, an independent study, using the same methodology, indicated that Clearview AI has no racial bias.” (The ACLU ...",
+      "webUrl": "https://in.pcmag.com/encryption/136706/controversial-startup-to-continue-supplying-police-with-facial-recognition-tech",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_in/news/c/controvers/controversial-startup-to-continue-supplying-police-with-faci_hwkb.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "Controversial Startup to Continue Supplying Police With Facial-Recognition Tech",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.pcmag.com/encryption/136706/controversial-startup-to-continue-supplying-police-with-facial-recognition-tech?amp=1",
+      "cdnAmpWebUrl": "https://in-pcmag-com.cdn.ampproject.org/c/s/in.pcmag.com/encryption/136706/controversial-startup-to-continue-supplying-police-with-facial-recognition-tech?amp=1",
+      "publishedDateTime": "2020-06-11T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai.md",
       "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
       "excerpt": "Industries like healthcare, media, and social media platforms use image analysis workflows to identify objects and entities within pictures to understand the whole image. For example, an ecommerce website might use objects present in an image to surface relevant search results. Sometimes image analysis",
@@ -977,83 +1054,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-the-smart-future-will-robotics-call-the-shots-post-coronavirus.md",
-      "title": "The Smart Future: Will Robotics Call the Shots Post Coronavirus?",
-      "excerpt": "Robotics revolution is swiftly gaining momentum and in the months to come, it might become the new normal. AI is already an integral element of our daily lives from online shopping to digital assistance from Sire and Alexi to diagnosis of life-endangering diseases.",
-      "webUrl": "https://www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11",
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-smart-future%3A-will-robotics-call-the-shots-post-coronavirus-2020-06-11?amp",
-      "publishedDateTime": "2020-06-11T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-facial-recognition-tech-developed-by-clearview-ai-could-be-illegal-in-europe-privacy-group-says.md",
-      "title": "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says",
-      "excerpt": "The European Data Protection Board warned on Wednesday that Clearview AI's technology is likely to be illegal in Europe.",
-      "webUrl": "https://www.cnbc.com/2020/06/11/clearview-ai-facial-recognition-europe.html",
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775",
-          "width": 3999,
-          "height": 2666,
-          "title": "Facial recognition tech developed by Clearview AI could be illegal in Europe, privacy group says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/11/clearview-ai-facial-recognition-europe.html",
-      "publishedDateTime": "2020-06-11T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

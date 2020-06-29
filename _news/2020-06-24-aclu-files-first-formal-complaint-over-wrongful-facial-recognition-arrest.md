@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/24/21301759/facial-reco
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence"
 type: article
 quality: 103
-heat: 213
+heat: 203
 published: true
 
 provider:
@@ -110,22 +110,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/black-lives-matter-protest-detroit.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 605
-        isCached: true
-  - title: "The Wrongful Arrest Of A Black Man Provides More Proof Facial Recognition Is Racist"
-    excerpt: "ACLU says it is filing a complaint after the failure of a Michigan State Police face recognition tool leads to a Black man being arrested in front of his family."
-    publishedDateTime: 2020-06-24T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/24/a-wrongful-arrest-of-a-black-man-provides-more-proof-facial-recognition-is-racist/"
-    ampWebUrl: "https://www.forbes.com/sites/thomasbrewster/2020/06/24/a-wrongful-arrest-of-a-black-man-provides-more-proof-facial-recognition-is-racist/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/06/24/a-wrongful-arrest-of-a-black-man-provides-more-proof-facial-recognition-is-racist/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef351d144713a0007ed4973%2F0x0.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Facial recognition software vendor vows to thwart misuse after wrongful Detroit arrest"
     excerpt: "Facial recognition vendor Rank One Computing said on Wednesday it would “add legal means” and research other ways to thwart misuse."

@@ -26,22 +26,6 @@ images:
     title: "AI That Predicts Criminality Based On A Person's Face Sparks Concern Over Bias"
 
 related:
-  - title: "Facial recognition to 'predict criminals' sparks row over AI bias"
-    excerpt: "A US university's claim it can use facial recognition to \"predict criminality\" has renewed debate over racial bias in technology. Harrisburg University researchers said their software \"can predict if someone is a criminal,"
-    publishedDateTime: 2020-06-24T14:09:00Z
-    webUrl: "https://www.bbc.com/news/technology-53165286"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-53165286"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53165286"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9F70/production/_113061804_gettyimages-1141687200.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI experts call to block publication of study on neural network that claims to 'predict' criminality"
     excerpt: "The study itself claims that an automated facial recognition software can be used as a 'predictive policing' tool for law enforcement that can identify criminals before they commit crimes."
     publishedDateTime: 2020-06-24T23:03:00Z

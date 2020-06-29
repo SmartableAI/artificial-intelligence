@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-25-voice-ai-is-coming-to-the-workplace-loud-and-clear.md",
+      "title": "Voice + AI Is Coming To The Workplace Loud And Clear",
+      "excerpt": "While many of us have grown to rely on voice-based devices in our personal lives, our professional lives have yet to leverage the power of voice and AI, until now.",
+      "webUrl": "https://www.forbes.com/sites/ninaachadjian/2020/06/25/voice--ai-is-coming-to-the-workplace-loud-and-clear/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1128057578%2F0x0.jpg",
+          "width": 1200,
+          "height": 556,
+          "title": "Voice + AI Is Coming To The Workplace Loud And Clear",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ninaachadjian/2020/06/25/voice--ai-is-coming-to-the-workplace-loud-and-clear/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ninaachadjian/2020/06/25/voice--ai-is-coming-to-the-workplace-loud-and-clear/amp/",
+      "publishedDateTime": "2020-06-25T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-machine-learning-platform-mlflow-joins-the-linux-foundation.md",
       "title": "Machine learning platform MLflow joins the Linux Foundation",
       "excerpt": "Handing the platform run by Databricks to the vendor-neutral foundation will speed growth, the organizations say.",
@@ -231,7 +277,7 @@
       "title": "Amazon partners with Formula 1 for new 2020 racing performance stats",
       "excerpt": "The Formula 1 season begins on July 3 in Spielberg, Austria and Amazon Web Services will help the league roll out six new, real-time racing statistics that will be shown as the ra",
       "webUrl": "https://www.techrepublic.com/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -464,7 +510,7 @@
       "title": "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace",
       "excerpt": "SAN FRANCISCO, June 25, 2020 (GLOBE NEWSWIRE) -- Trifacta, a global leader in data preparation, today announced the availability of Trifacta in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
       "webUrl": "https://www.marketwatch.com/press-release/trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace-2020-06-25",
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -511,7 +557,7 @@
       "title": "Mercedes Drops Partnership With BMW, Hooks Up With NVIDIA On Self-Driving: Robocar Roundup",
       "excerpt": "With the field slowing down, why would Mercedes and BMW end their partnership? Just adding NVIDIA chips isn't enough explanation. Plus, a roundup of other robocar news for the week.",
       "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/",
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1018,7 +1064,7 @@
       "title": "A Flawed Facial Recognition System Sent This Man to Jail",
       "excerpt": "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used.",
       "webUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/",
-      "heat": 474,
+      "heat": 434,
       "tags": null,
       "images": [
         {
@@ -1088,53 +1134,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-biased-ai-perpetuates-racial-injustice.md",
-      "title": "Biased AI perpetuates racial injustice",
-      "excerpt": "As we increasingly rely on AI, we must be vigilant to ensure these programs are helping to solve problems of racial injustice, rather than perpetuate and magnify them.",
-      "webUrl": "https://techcrunch.com/2020/06/24/biased-ai-perpetuates-racial-injustice/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-508482219.jpg?w=1024",
-          "width": 1024,
-          "height": 751,
-          "title": "Biased AI perpetuates racial injustice",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/24/biased-ai-perpetuates-racial-injustice/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/24/biased-ai-perpetuates-racial-injustice/amp/",
-      "publishedDateTime": "2020-06-24T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

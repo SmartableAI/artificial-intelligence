@@ -2,6 +2,82 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-05-27-baidu-accelerates-its-self-driving-car-initiative-with-new-test-center-and-partnership.md",
+      "title": "Baidu Accelerates Its Self-Driving Car Initiative with New Test Center and Partnership",
+      "excerpt": "Big investments in autonomous-vehicle and AI technology could be the key to getting Baidu's growth back on track.",
+      "webUrl": "https://www.fool.com/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F576084%2Fgettyimages-1136820871.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Baidu Accelerates Its Self-Driving Car Initiative with New Test Center and Partnership",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
+      "publishedDateTime": "2020-05-27T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-rajant-introduces-jon-lederman-as-vice-president-of-artificial-intelligence.md",
+      "title": "RAJANT INTRODUCES JON LEDERMAN AS VICE PRESIDENT OF ARTIFICIAL INTELLIGENCE",
+      "excerpt": "Rajant Corporation, the provider of Kinetic Mesh® wireless networks, announced today Jon Lederman joined the team as Vice President of Artificial Intelligence (AI). In this newly created position, Mr.",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/g16120766/rajant-introduces-jon-lederman-as-vice-president-of-artificial-intelligence",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16120766",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16120766",
+      "publishedDateTime": "2020-05-27T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-scientists-are-using-ai-to-predict-which-lung-cancer-patients-will-relapse.md",
       "title": "Scientists are using AI to predict which lung cancer patients will relapse",
       "excerpt": "A new AI tool could predict which lung cancer patients will suffer a relapse by analyzing genetic data and pathology images",
@@ -1004,100 +1080,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-the-robot-artists-arent-coming.md",
-      "title": "The Robot Artists Aren’t Coming",
-      "excerpt": "Many artists are turned off by artificial intelligence. They may be discouraged by fears that A.I., with its efficiency, will take away people’s jobs. They may question the ability of machines to be creative.",
-      "webUrl": "https://www.nytimes.com/2020/05/27/opinion/artificial-intelligence-art.html",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/27/multimedia/27bigideas-elgammal-03/27bigideas-elgammal-03-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "The Robot Artists Aren’t Coming",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/27/opinion/artificial-intelligence-art.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/27/opinion/artificial-intelligence-art.amp.html",
-      "publishedDateTime": "2020-05-27T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-unlocking-the-value-of-values-with-ai.md",
-      "title": "Unlocking the value of values with AI",
-      "excerpt": "Now, as we grapple with the pandemic businesses are turning to AI and robotics to help compensate for the loss of revenue and layoffs. However, it is likely not the technology itself that will make the difference in the aftermath,",
-      "webUrl": "https://www.techradar.com/news/unlocking-the-value-of-values-with-ai",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/FVsNoGEW8hur5KqLGncuBe-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "Unlocking the value of values with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/unlocking-the-value-of-values-with-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/unlocking-the-value-of-values-with-ai",
-      "publishedDateTime": "2020-05-27T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

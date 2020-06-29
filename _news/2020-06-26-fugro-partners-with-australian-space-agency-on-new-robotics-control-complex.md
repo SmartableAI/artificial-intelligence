@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-26T12:50:00Z
 webUrl: "https://www.directionsmag.com/pressrelease/9920"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     title: "Fugro partners with Australian Space Agency on new robotics control complex"
 
 related:
+  - title: "Australian Space Agency picks Fugro for robotics control centre"
+    excerpt: "The newly formed Australian Space Agency (ASA) has partnered with Fugro for the design, construction and operate a robotics control centre."
+    publishedDateTime: 2020-06-29T07:52:00Z
+    webUrl: "https://www.theconstructionindex.co.uk/news/view/australian-space-agency-picks-fugro-for-robotics-control-centre"
+    ampWebUrl: "https://www.theconstructionindex.co.uk/news/view/australian-space-agency-picks-fugro-for-robotics-control-centre?amp=1"
+    cdnAmpWebUrl: "https://www-theconstructionindex-co-uk.cdn.ampproject.org/c/s/www.theconstructionindex.co.uk/news/view/australian-space-agency-picks-fugro-for-robotics-control-centre?amp=1"
+    type: article
+    provider:
+      name: Construction Index
+      domain: theconstructionindex.co.uk
+    quality: 54
   - title: "Fugro working with Australian Space Agency on new robotics control complex"
     excerpt: "The Australian government’s newly formed Australian Space Agency (ASA) has partnered with Fugro to design, build and operate the Australian Space Automation, Artificial intelligence and Robotics"
     publishedDateTime: 2020-06-26T11:30:00Z

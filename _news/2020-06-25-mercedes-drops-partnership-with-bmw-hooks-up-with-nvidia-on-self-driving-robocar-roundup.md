@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/amp/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     title: "Mercedes Drops Partnership With BMW, Hooks Up With NVIDIA On Self-Driving: Robocar Roundup"
 
 related:
-  - title: "NVIDIA Ups the Game, Joins Mercedes on Self-Drive Project"
-    excerpt: "The NVIDIA DRIVE Infrastructure solutions will be leveraged to develop the models, enabling data-driven and deep neural network development to adjust to the requirements of the regions where the cars will operate in."
-    publishedDateTime: 2020-06-24T13:26:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-ups-the-game-joins-mercedes-on-self-drive-project-2020-06-24"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Nvidia and Mercedes-Benz team for self-driving cars"
     excerpt: "Beginning in 2024, the infrastructure will be rolled out across the fleet of next-generation Mercedes-Benz vehicles, the companies said. The software-defined architecture will be built on Nvidia’s DRIVE platform and will be standard in Mercedes-Benz vehicles enabling automated driving functions."
     publishedDateTime: 2020-06-25T12:12:00Z

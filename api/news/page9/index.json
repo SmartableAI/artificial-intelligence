@@ -2,6 +2,52 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-06-19-cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai.md",
+      "title": "CVPR challenge pushes researchers to improve car accident detection AI",
+      "excerpt": "The AI City Challenge attracted AI researchers from 30+ countries in a competition for tasks like spotting car accidents or stalled cars on highways.",
+      "webUrl": "https://venturebeat.com/2020/06/19/cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/ai-city-challenge.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "CVPR challenge pushes researchers to improve car accident detection AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/19/cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/19/cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai/amp/",
+      "publishedDateTime": "2020-06-19T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough.md",
       "title": "AI Weekly: Restricting surveillance technologies is a strong first step, but it’s not enough",
       "excerpt": "New laws and regulations are curbing law enforcement's use of surveillance technologies, but that might not be enough.",
@@ -1037,52 +1083,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec.md",
-      "title": "AI Mining ESG Data Companies Not Disclosing Says Blackrock Exec",
-      "excerpt": "Machine learning is helping the $7 trillion investment firm to uncover ESG impacts from satellite images of pollution to cars in a parking lot, he said. He added AI is aiding in the analysis of voice inflections from executives and whether the inflections have change from the last time they spoke.",
-      "webUrl": "https://www.forbes.com/sites/tedknutson/2020/06/18/ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F4b464d37cc9c46399f1bc34acbd0f90a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3344%26cropY1%3D139%26cropY2%3D2020",
-          "width": 1199,
-          "height": 675,
-          "title": "AI Mining ESG Data Companies Not Disclosing Says Blackrock Exec",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedknutson/2020/06/18/ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/06/18/ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec/amp/",
-      "publishedDateTime": "2020-06-18T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

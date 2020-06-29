@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8457423/amp/AI-exper
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8457423/amp/AI-experts-call-block-publication-study-neural-network-claims-predict-criminality.html"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     title: "AI experts call to block publication of study on neural network that claims to 'predict' criminality"
 
 related:
-  - title: "Facial recognition to 'predict criminals' sparks row over AI bias"
-    excerpt: "A US university's claim it can use facial recognition to \"predict criminality\" has renewed debate over racial bias in technology. Harrisburg University researchers said their software \"can predict if someone is a criminal,"
-    publishedDateTime: 2020-06-24T14:09:00Z
-    webUrl: "https://www.bbc.com/news/technology-53165286"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-53165286"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53165286"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9F70/production/_113061804_gettyimages-1141687200.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI That Predicts Criminality Based On A Person's Face Sparks Concern Over Bias"
     excerpt: "Experts are concerned that a new algorithm designed to “predict criminality” using nothing but a person's face could result to discriminatory accusations based on racial bias."
     publishedDateTime: 2020-06-25T11:27:00Z

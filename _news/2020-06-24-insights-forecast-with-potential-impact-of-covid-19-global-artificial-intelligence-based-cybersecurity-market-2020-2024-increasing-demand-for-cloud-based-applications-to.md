@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-24T16:00:00Z
 webUrl: "https://www.businesswire.com/news/home/20200624005488/en/Insights-Forecast-Potential-Impact-COVID-19---Global"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     height: 627
     isCached: true
     title: "Insights & Forecast with Potential Impact of COVID-19 - Global Artificial Intelligence-based Cybersecurity Market 2020-2024 | Increasing Demand for Cloud-based Applications to ..."
-
-related:
-  - title: "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Mobile Artificial Intelligence Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the mobile artificial intelligence market and it is poised to grow by USD 13."
-    publishedDateTime: 2020-06-26T17:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200626005284/en/COVID-19-Significant-Shift-Strategy-Mobile-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-    images:
-      - url: "https://mms.businesswire.com/media/20200626005284/en/801494/23/IRTNTR40360.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "yYvfoCFfj9csFvjsl8KsBVl8pii4f1IDiaqYOnFHNZi0CFPTNp9yxS8s9UQGodfFrHFH486Z+iJpmG5Jaog4fHIkBrnRRZHQA9T8VznLcFtlYUKFJk1vnpMhPtWDH2mZ0N2b3f6dZD6RUoIg8gorS0Z5Kv8i4He8aZhq7ODjQFLwUHW/MN0xJg58bN1a6obfO0HQhr3IcW4OgWiClcbXoWZBhZlc9T0cpmUvDXbTJyLmlMrO0RulcJCT3wtiPfExVx2tD/VfWdnd7bDu2/SEI3onP+ZoS5e8m3ukVqscY29V1rmJNbThwndBmFtKsDe+8wioW0BigTksLatDo7HpO3gA3J7udOmnK7YtHhT8Mg76e+a2QxbvayFWXmVi9veu+zQxs2EasbbyX+xlrQnvEIpCHG7BZOJfohEWmSZH6uMmiKxOkP4D1tPb5XjBNMb0QjafvO0YoWlcYRPMeUzPxZoXTvpdR4Kq8wr86RVqoRgmXaN0Q2XOAutXmWFcyDwfTEf9Y0Q439WUx+d5hRdaeg==;dm9USxej69eSgvgEl87Hkg=="
 ---

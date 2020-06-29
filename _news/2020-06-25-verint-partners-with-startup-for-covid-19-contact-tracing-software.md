@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon's AWS Client Formula 1 Offers New Racing Statistics"
-    excerpt: "In first-quarter 2020, AWS generated $10.2 billion sales, accounting for 14% of Amazon’s net sales. Further, the figure was up 32.8% year over year. Recently, AWS was selected as the preferred cloud provider by Genesys for Genesys Cloud."
-    publishedDateTime: 2020-06-24T14:57:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazons-aws-client-formula-1-offers-new-racing-statistics-2020-06-24"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
 
 secured: "j8tTbdqleTTAQxdQAo92r5YjMFByCuFeFSwSAJNWtTCBsRNfu0jAT1l0MSWQ6ozDEV/uUFRAE+tFwuHOE/cjb7Fh7EhFO0BO/jsI69uYRNv9f5qeKdH7JDCFFBW3NSqxZI0jJz86o2uoyVBuQVQvC8w7OH92UcmNa1ONPqisbQ7GL4/axFJkqPwftonvKtfEY8P4cx9+uR9g5R5LZnCkD9yxO34/cFd/rGSuy90sO0Aq4Ce7f4ELYJkmYa0BM0QHa8zE1cER9OpDmF58p7CXtGlIfY5NpcFc3fK4R3N/uoLNw1nQPKd8Z1rR8X6XDViuJVVOzode/zhV7Mejt0V5nA==;OZkF3sxC2d/va6n+4WVkUw=="
 ---

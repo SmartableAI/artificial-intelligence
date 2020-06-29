@@ -56,6 +56,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Top 15 Hot Artificial Intelligence Technologies"
+    excerpt: "Technology can be generally defined as the things, which are formed by the application of conceptual and corporeal efforts in demand, to gain"
+    publishedDateTime: 2020-06-29T07:30:00Z
+    webUrl: "https://dailytimes.com.pk/633556/top-15-hot-artificial-intelligence-technologies/"
+    ampWebUrl: "https://dailytimes.com.pk/633556/top-15-hot-artificial-intelligence-technologies/amp/"
+    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/633556/top-15-hot-artificial-intelligence-technologies/amp/"
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 59
+    images:
+      - url: "https://dailytimes.com.pk/assets/uploads/2020/06/29/4.-The-Artificial-intelligence-examples-That-People-Havent-Realized.jpg"
+        width: 960
+        height: 534
+        isCached: true
 
 secured: "4+SuimPC6SHEpKjvj3lZISuanKQTe4g9gvDc+kE+LVAtKob4zB79cwzxPdk65GQXT5nqPBVJSjbHnBu8qZpVApJ3pttvoKxrck7z4IEflTqoU4qHDMNTXQTUCmMIXcWRupIxtLawiUu7iSOUyPHdHJTNhTzTZ3czzywVHNy80+66AUY+eQZ9HoQtwqKqDa/fZewiUbgWK08Kvn2JKxYX16T1sMgc4dL6P53xDmxXgQkQ5XMZSaVKLW+Xb3mY70DF/x/HOT77BzF5f1JN18ixwE8dkBPa4KgjnMuP10ANBHQjOTVsqsQS13uGdeqMIaeKYZcuu9vMveFLtukV307Mgg==;dB1UHmIaZz0KYuS263VgAw=="
 ---

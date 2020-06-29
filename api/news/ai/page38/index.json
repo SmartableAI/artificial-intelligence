@@ -2,6 +2,100 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-05-20-now-hiring-ai-futurists-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite.md",
+      "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
+      "excerpt": "In a time of COVID-19 disruption, futurists can accelerate organizational recovery and capacity. When partnered with purpose-built AI, augmented intelligence can also spur radical innovation.",
+      "webUrl": "https://www.zdnet.com/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/18/17e256c4-9dfe-411d-b600-d26fc0ad8edf/24-brian-solis-on-twitter-new-poll-who-s-leading-the-digitaltransformation-of-your-company-twitter.jpg",
+          "width": 596,
+          "height": 344,
+          "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
+      "publishedDateTime": "2020-05-20T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-this-ai-maestro-wants-to-serenade-you.md",
+      "title": "This AI Maestro Wants to Serenade You",
+      "excerpt": "A composer and the co-creator of Siri are trying to create background music that responds to the listener's feelings.",
+      "webUrl": "https://www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ec32db73b4719b49ff88aff/master/pass/Biz-Lifescore-Inline.jpg",
+          "width": 2400,
+          "height": 1248,
+          "title": "This AI Maestro Wants to Serenade You",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/amp",
+      "publishedDateTime": "2020-05-20T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-warehouse-robots-provide-crucial-link-in-supply-chain.md",
       "title": "Warehouse Robots Provide Crucial Link In Supply Chain",
       "excerpt": "Throughout the coronavirus crisis, the e-commerce supply chain – retailers, shippers, third-party logistics operations, fulfillment centers and sortation facilities – delivered. UPS and FedEx drivers came to symbolize a sense of national resiliency.",
@@ -1215,91 +1309,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions.md",
-      "title": "Sony joins Microsoft to create AI-driven smart camera solutions",
-      "excerpt": "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers.",
-      "webUrl": "https://www.sify.com/finance/sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions-news-topnews-ufuk09gagjdei.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/microsoft_logo_ap_ufuk09gahbaeh.jpg",
-          "width": 950,
-          "height": 633,
-          "title": "Sony joins Microsoft to create AI-driven smart camera solutions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-facebooks-new-ai-tool-will-automatically-identify-items-you-put-up-for-sale.md",
-      "title": "Facebook’s new AI tool will automatically identify items you put up for sale",
-      "excerpt": "Facebook is launching what it’s calling a “universal product recognition model” that uses artificial intelligence to identify consumer goods, from furniture to fast fashion to fast cars. It’s the first step toward a future where the products in every image on its site can be identified and potentially shopped for.",
-      "webUrl": "https://www.theverge.com/2020/5/19/21263523/facebook-marketplace-ai-object-recognition-shopping-groknet",
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/5av4IoZlR7WwWz6z_6O7O5QryTo=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66817004/acastro_180522_facebook_0002.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Facebook’s new AI tool will automatically identify items you put up for sale",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/19/21263523/facebook-marketplace-ai-object-recognition-shopping-groknet",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/19/21263523/facebook-marketplace-ai-object-recognition-shopping-groknet",
-      "publishedDateTime": "2020-05-19T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

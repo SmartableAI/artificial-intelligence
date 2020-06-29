@@ -2,6 +2,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-18-5-of-the-coolest-prosthetic-arm-breakthroughs.md",
+      "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
+      "excerpt": "Easton LaChappelle, a young engineer from Cortez, Colorado has set out to develop the world's first mind-controlled robotic limb, and aims to make it affordable as well. The device works in tandem with a headset that reads brainwaves, reading about 12 ...",
+      "webUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/carlos-arturo_torres.png",
+          "width": 660,
+          "height": 371,
+          "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19.md",
       "title": "Robin The Robot Comforts Kids In Hospitals, Can Help With COVID-19",
       "excerpt": "“Robin utilized our AI-based patent-pending technology to build peer-to-peer ... and angel investors for conducting the pilots and technology development. Expper plans to start raising seed funding soon “to advance the emotional intelligence technology ...",
@@ -1234,37 +1272,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-accessing-artificial-intelligence-robotics-nasdaq-cta-artificial-intelligence-robotics-index-nqrobo.md",
-      "title": "Accessing Artificial Intelligence & Robotics: Nasdaq CTA Artificial Intelligence & Robotics Index (NQROBO)",
-      "excerpt": "As we highlighted in the 2018 research note, “Artificial Intelligence & Robotics: Industry Report & Investment Case,” what is most interesting today is the intersection of AI and robotics, where advancements in both fields feed on each other,",
-      "webUrl": "https://www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics",
-      "heat": 113,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics?amp",
-      "publishedDateTime": "2020-06-05T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "Facebook AI"
       ]
     }
   ],

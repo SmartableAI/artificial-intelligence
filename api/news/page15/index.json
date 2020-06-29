@@ -2,6 +2,53 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-06-15-microsoft-azure-becomes-sass-preferred-cloud-platform.md",
+      "title": "Microsoft Azure becomes SAS’s preferred cloud platform",
+      "excerpt": "SAS goes all in on Azure as both conclude a strategic partnership covering go to market and product development. SAS analytics capabilities could be integrated across the Azure portfolio to provide an additional option for model lifecycle management.",
+      "webUrl": "https://www.zdnet.com/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/12/cf920af9-289e-4b20-a13f-7556c4eb24c5/enterra-solutions-ml-cloud.png",
+          "width": 1125,
+          "height": 1125,
+          "title": "Microsoft Azure becomes SAS’s preferred cloud platform",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
+      "publishedDateTime": "2020-06-15T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-india-joins-global-partnership-on-artificial-intelligence-as-founding-member.md",
       "title": "India joins global partnership on Artificial Intelligence as founding member",
       "excerpt": "India on Monday joined the league of leading economies including USA, UK, EU, Australia, Canada, France, Germany, Italy, Japan, Mexico, New Zealand, Republic of Korea, Singapore to launch the Global Partnership on Artificial Intelligence (GPAI or Gee-Pay).",
@@ -1003,53 +1050,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb.md",
-      "title": "The Brazil Tech And Innovation Round-Up: Covid-19 Data Reporting Controversy, Fake News Bill, Artificial Intelligence, Gympass, Airbnb",
-      "excerpt": "A selection of noteworthy developments around tech and innovation in South America's largest economy during the week ending June 12, 2020.",
-      "webUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee57bcb0813a30007224b80%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": "The Brazil Tech And Innovation Round-Up: Covid-19 Data Reporting Controversy, Fake News Bill, Artificial Intelligence, Gympass, Airbnb",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/amp/",
-      "publishedDateTime": "2020-06-13T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

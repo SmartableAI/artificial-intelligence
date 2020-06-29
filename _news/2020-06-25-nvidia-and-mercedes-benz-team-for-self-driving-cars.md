@@ -41,15 +41,6 @@ related:
         width: 711
         height: 474
         isCached: true
-  - title: "NVIDIA Ups the Game, Joins Mercedes on Self-Drive Project"
-    excerpt: "The NVIDIA DRIVE Infrastructure solutions will be leveraged to develop the models, enabling data-driven and deep neural network development to adjust to the requirements of the regions where the cars will operate in."
-    publishedDateTime: 2020-06-24T13:26:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-ups-the-game-joins-mercedes-on-self-drive-project-2020-06-24"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
 
 secured: "jHeQbdU1TEZSjqVwBUvYs2aSF458avYtlNplcb5nHiCdw5Ic85uDA3QECZivgnFoAzHR4w3KImWLba3UBYoBdCEDpfshuLNqYkd4Rx6s80OqmE1kqQ2QXt/CcDLfdvLnnKJItLJvZyJSuGUor7+F1SZILUF0LJc1MdI1cp1joIgmWlRlg70RzVF8/sdMO1VBWk4tQmTiImnicbA8/E0h/CR/fswkh1Q2VUI8szTDV/2sV1XUHteuad8oeQudSPJC2lyhtLMJwiwR0wWyTvhISsEEiO69/xcJhTx2Eo3tioW3ggLPAujmTGui4TQXp93l5yBzWM5Msm5ssQE/xc0uxKoW3T9irAESufcEwa4CvKpaFkUwdc8FbWzZMoadRiGfrzhtWzEHRToV12RQxzhkSvgPaAkWklB+Pytf2tb2/RSru+6/eo8tMuQaP2UKbxvwK+2Zgajg+ZpLnKvCtVrPpt0E2f+a/3lk7XeCEm2YOc7O1qu1S+8GQmsmyMcZExwcJro9Olwel9Br8XAnUC7TmA==;Uzc12OWqQog5UmUBbYFdXw=="
 ---

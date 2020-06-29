@@ -26,21 +26,21 @@ images:
     title: "Real estate tech startup OJO Labs raises $62.5 million, acquires Movoto"
 
 related:
-  - title: "SQream Technologies raises $39.4 million for GPU-accelerated databases"
-    excerpt: "Tel Aviv-based startup SQream Technologies raised $39.4 million in venture capital to further develop its GPU-accelerated database product offerings."
-    publishedDateTime: 2020-06-24T13:32:00Z
-    webUrl: "https://venturebeat.com/2020/06/24/sqream-technologies-raises-39-4-million-for-gpu-accelerated-databases/"
-    ampWebUrl: "https://venturebeat.com/2020/06/24/sqream-technologies-raises-39-4-million-for-gpu-accelerated-databases/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/sqream-technologies-raises-39-4-million-for-gpu-accelerated-databases/amp/"
+  - title: "OJO Labs, AI startup, raises $62.5M to buy listing portal"
+    excerpt: "OJO said the Series D was led by Wafra with participation from Breyer Capital, LiveOak Venture Partners, Royal Bank of Canada and Northwestern Mutual Future Ventures. It brings the company’s total funding to $134 million since 2015."
+    publishedDateTime: 2020-06-24T20:35:00Z
+    webUrl: "https://therealdeal.com/2020/06/24/ojo-labs-ai-startup-raises-62-5m-to-buy-listing-portal/"
+    ampWebUrl: "https://therealdeal.com/2020/06/24/ojo-labs-ai-startup-raises-62-5m-to-buy-listing-portal/amp/"
+    cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/2020/06/24/ojo-labs-ai-startup-raises-62-5m-to-buy-listing-portal/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: The Real Deal
+      domain: therealdeal.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/sqreamtechnologies-e1592865628671.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+      - url: "https://s13.therealdeal.com/trd/up/2020/06/493_Easyknock-raises-20M-in-Series-B-2.jpg"
+        width: 690
+        height: 493
         isCached: true
 
 secured: "K35qXlW3t75+2fFxHWKpviPKl/AdDb20+XZFRFHTUlA1OoY4dQ4Fnt9VYBqJCrJIBlisIOeJpjddA0C3p9fouIj/ucDuQuKjXcgNra/GO93y5TxbXMWUb9Ew5hqM+Siupp9IRvz2oDBQ9Kq0fMoyqjaLGA0PvlnhkK5UbMl+qXkQC+YjswEqUbfoubJ6LYB7nNA+HfEdi4gy8NeV6+UkSB9n4CW154mR18eovcb+dNyjLB5tRJF+wiqz+kmxTB41CPdOZuvvf9rIHWuhFYgeRQHs4vhHavsyZ/NSon9z3FscDbhdQWjv4EZnRNcBLYjcK4TKXnFi3MiMe6fua6htdzjQmYz2TGhFT7vTt4Gb6dJ1M7AXogRL0sGZrqnC5p4gBPklQCLXeiPGtibsy0h8iexHWpvVHCNlR9IlNMuzwDoEbzb7fV02ow8pCWcZOFvTT9nGzXBYEuG1iR++ZC/taYkdFGAuWrpLv4MTOCZPj0i5FRaj6cdZSj4a3i694GMXqjBAvgLWBR4iM7betijvGg==;/sP7buNV0WbmihuE7REfFw=="

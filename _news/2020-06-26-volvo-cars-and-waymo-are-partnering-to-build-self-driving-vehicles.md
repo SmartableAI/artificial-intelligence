@@ -100,6 +100,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Waymo And Volvo Form Exclusive Self-Driving Partnership"
+    excerpt: "Waymo and Volvo announced an “exclusive” partnership to integrate Waymo’s self-driving technology onto Volvo’s vehicular platform."
+    publishedDateTime: 2020-06-29T06:36:00Z
+    webUrl: "https://www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-form-exclusive-self-driving-partnership/"
+    ampWebUrl: "https://www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-form-exclusive-self-driving-partnership/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-form-exclusive-self-driving-partnership/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef97c751581aa000682bee9%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Amazon announces purchase of Zoox, a self-driving, ride-hailing vehicle maker"
     excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that"
     publishedDateTime: 2020-06-26T15:29:00Z
@@ -179,22 +195,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/06/26/business/26amazon/26amazon-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Lyft is using data from its rideshare drivers to develop self-driving cars"
-    excerpt: "Lyft is using data collected from drivers on its ride-hailing app to accelerate the development of self-driving cars. Lyft’s Level 5 self-driving car program is using the data to build 3D maps, understand human driving patterns and improve simulation tests — all tools needed to push their"
-    publishedDateTime: 2020-06-24T14:04:00Z
-    webUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/"
-    ampWebUrl: "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/06/lyft-maps.gif"
-        width: 600
-        height: 338
         isCached: true
   - title: "Volvo and Waymo explore their own route for self-driving taxis"
     excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday. Waymo, a unit of Google's parent company Alphabet,"
