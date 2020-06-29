@@ -1120,28 +1120,19 @@
     {
       "path": "_news/2020-06-17-driver-free-but-virus-free-robo-cars-hit-new-speed-bump.md",
       "title": "Driver free but virus free? Robo cars hit new speed bump",
-      "excerpt": "The latest challenge for the autonomous vehicle industry: How to assure passengers that the car they are getting in is virus free, even if it doesn’t have a driver. Widespread",
-      "webUrl": "https://wgnradio.com/news/technology-news/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/",
+      "excerpt": "The latest challenge for the autonomous vehicle industry: How to assure passengers that the car they are getting in is virus free, even if it doesn't have",
+      "webUrl": "https://www.omaha.com/news/national/driver-free-but-virus-free-robo-cars-hit-new-speed-bump/article_c7d3527d-27ff-5971-9d1f-452be4bb26b9.html",
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://wgnradio.com/wp-content/uploads/sites/6/2020/06/ebf70f7525554dce959e6641b2a5814a.jpg?w=1280&h=720&crop=1",
-          "width": 1280,
-          "height": 720,
-          "title": "Driver free but virus free? Robo cars hit new speed bump",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": "https://wgnradio.com/news/technology-news/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/amp/",
-      "cdnAmpWebUrl": "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/technology-news/driver-free-but-virus-fee-robo-car-firms-hit-new-speed-bump/amp/",
-      "publishedDateTime": "2020-06-17T12:25:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-17T15:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WGN Radio",
-        "domain": "wgnradio.com",
+        "name": "Omaha.com",
+        "domain": "omaha.com",
         "images": null,
         "publishers": null,
         "authors": null

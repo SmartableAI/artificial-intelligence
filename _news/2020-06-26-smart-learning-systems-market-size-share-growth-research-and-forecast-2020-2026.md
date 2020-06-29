@@ -20,47 +20,89 @@ topics:
   - AI
 
 related:
-  - title: "North American Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 - ResearchAndMarkets.com"
-    excerpt: "The \"North America Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 by Offering, Technology, Drug Type, Therapeutic Area, Application, End User, and Country: Trend Forecast and Growth Opportunity\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-06-26T11:43:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200626005182/en/North-American-Artificial-Intelligence-AI-Drug-Discovery"
+  - title: "Artificial Intelligence (AI) Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2023"
+    excerpt: "Global \"Artificial Intelligence (AI) Market\" report 2020 has brief analysis and full-scale proposition of market"
+    publishedDateTime: 2020-06-26T10:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2023-2020-06-26"
     type: article
     provider:
-      name: Baytown Sun
-      domain: businesswire.com
-    quality: 36
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
-      - url: "https://mms.businesswire.com/media/20200626005182/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence for Healthcare IT, Worldwide, 2020 - Benchmarking Future Growth Potential - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence for Healthcare IT, Global, 2020\" report has been added to ResearchAndMarkets.com's offering. This research has identified the core areas in which artificial intelligence (AI)-enabled healthcare IT solutions are most relevant for hospitals,"
-    publishedDateTime: 2020-06-24T12:28:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200624005446/en/"
+  - title: "Artificial Intelligence In Fashion Market Size Future Scope, Demands and Projected Industry Growths to 2025"
+    excerpt: "Selbyville, Delaware According to Market Study Report LLC adds new research on Artificial Intelligence In Fashion market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape,"
+    publishedDateTime: 2020-06-26T17:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2020-06-26"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 28
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
-      - url: "https://mms.businesswire.com/media/20200624005446/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
         isCached: true
-  - title: "Digital Transformation in Asia-Pacific: 5G, Artificial Intelligence, Internet of Things and Smart Cities 2020-2025 - ResearchAndMarkets.com"
-    excerpt: "The \"Digital Transformation Asia Pacific: 5G, Artificial Intelligence, Internet of Things, and Smart Cities in APAC 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. From predicting what will happen with 5G technology in the next few years to identifying how 5G will transform business,"
-    publishedDateTime: 2020-06-26T11:18:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200626005177/en/Digital-Transformation-Asia-Pacific-5G-Artificial-Intelligence-Internet"
+  - title: "Artificial Intelligence Market By Offering, By Technology, By Region - Trends, Analysis, and Forecast Till 2025"
+    excerpt: "In this report, the Global Artificial Intelligence (AI) market was valued at USD 11.71 Billion in 2016, and is projected"
+    publishedDateTime: 2020-06-26T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-by-offering-by-technology-by-region---trends-analysis-and-forecast-till-2025-2020-06-26"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 3
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
-      - url: "https://mms.businesswire.com/media/20200626005177/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Key Players, Application, Demand, Industry Research Report by Regional Forecast to 2026"
+    excerpt: "The global artificial intelligence market is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-06-24T12:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-players-application-demand-industry-research-report-by-regional-forecast-to-2026-2020-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Deep Learning Chipset Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2026"
+    excerpt: "MarketsandResearch.biz presents a new market report namely Global Deep Learning Chipset Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 aims to improve the experience by offering an extensive and explicit analysis of Deep Learning Chipset market."
+    publishedDateTime: 2020-06-25T00:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2020-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2026-2020-06-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market- Global Industry Analysis By Development, Size, Share and Demand Forecast From to 2023"
+    excerpt: "Artificial Intelligence in Manufacturing Market: Global Drivers, Restraints, Opportunities, Trends, and Forecasts up"
+    publishedDateTime: 2020-06-25T16:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market--global-industry-analysis-by-development-size-share-and-demand-forecast-from-to-2023-2020-06-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "hOLLtS/+wsd/8DhZorAoGah7nkivOxrLRmFMf9ZhvPhm4aAme2aUFgJW20PJOahmsTU2Uzsh1wuMqefp0RMxbgQ5HlqJWjsvQKDODrEiX35+fwN97v2sGCJ++oL/3wlfd68MRV3HpnsjphRgkwndjFo4LhZAQg/5hi0OVTOxQjwPdLVghotMiJPegi9cVsRs94kLASVOL+WWRGIWySwpnvbeQr2+Y/7jHHd6gMbnReeEpBMOXH6ekAbWKwdCXKfkin6CjC85om4SIktmAi6gcL5uvgnaKTaDizTMRh7MG20cKrGE8J/uHZT7Jf0y55M0e6s9Ggz0UPh+ZUtejt8RsA==;eOmOdpicTO99HyqEo9Wr0Q=="

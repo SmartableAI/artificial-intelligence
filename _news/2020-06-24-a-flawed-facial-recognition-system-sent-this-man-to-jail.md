@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/flawed-facial-recognition-system-sent-ma
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp"
 type: article
 quality: 104
-heat: 524
+heat: 514
 published: true
 
 provider:
@@ -560,20 +560,6 @@ related:
       - url: "https://patch.com/img/cdn20/shutterstock/24007010/20200624/084259/styles/patch_image/public/shutterstock-795306157-1___24084241384.jpg"
         width: 565
         height: 424
-        isCached: true
-  - title: "Man Says He Was Falsely Arrested After Facial Recognition Mistake"
-    excerpt: "The ACLU has filed a complaint against the Detroit Police Department for what the group says is the first documented instance in the U.S. of someone being falsely arrested based on AI."
-    publishedDateTime: 2020-06-24T09:06:00Z
-    webUrl: "https://www.npr.org/2020/06/24/882678392/man-says-he-was-falsely-arrested-after-facial-recognition-mistake"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 39
-    images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
-        width: 1400
-        height: 787
         isCached: true
   - title: "Wrongfully Arrested Because of Flawed Face Recognition Technology"
     excerpt: "Robert Williams was arrested and hauled away by the police in broad daylight in front of his home, his wife, and two little daughters. He was locked up for nearly"

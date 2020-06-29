@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-53165286"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53165286"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     title: "Facial recognition to 'predict criminals' sparks row over AI bias"
 
 related:
-  - title: "AI experts say research into algorithms that claim to predict criminality must end"
-    excerpt: "A coalition of AI researchers, data scientists, and sociologists has called on the academic world to stop publishing studies that claim to predict an individual’s criminality using algorithms trained on data like facial scans and criminal statistics."
-    publishedDateTime: 2020-06-24T10:50:00Z
-    webUrl: "https://www.theverge.com/2020/6/24/21301465/ai-machine-learning-racist-crime-prediction-coalition-critical-technology-springer-study"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/6/24/21301465/ai-machine-learning-racist-crime-prediction-coalition-critical-technology-springer-study"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/24/21301465/ai-machine-learning-racist-crime-prediction-coalition-critical-technology-springer-study"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 83
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/H-a44apCLMyl8yEYkEovNGfurms=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66974326/acastro_180730_1777_facial_recognition_0003.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "AI experts call to block publication of study on neural network that claims to 'predict' criminality"
     excerpt: "The study itself claims that an automated facial recognition software can be used as a 'predictive policing' tool for law enforcement that can identify criminals before they commit crimes."
     publishedDateTime: 2020-06-24T23:03:00Z

@@ -557,20 +557,6 @@ related:
         width: 565
         height: 424
         isCached: true
-  - title: "Man Says He Was Falsely Arrested After Facial Recognition Mistake"
-    excerpt: "The ACLU has filed a complaint against the Detroit Police Department for what the group says is the first documented instance in the U.S. of someone being falsely arrested based on AI."
-    publishedDateTime: 2020-06-24T09:06:00Z
-    webUrl: "https://www.npr.org/2020/06/24/882678392/man-says-he-was-falsely-arrested-after-facial-recognition-mistake"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 39
-    images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "Wrongfully Arrested Because of Flawed Face Recognition Technology"
     excerpt: "Robert Williams was arrested and hauled away by the police in broad daylight in front of his home, his wife, and two little daughters. He was locked up for nearly"
     publishedDateTime: 2020-06-24T13:46:00Z
@@ -650,6 +636,6 @@ related:
       domain: securityinfowatch.com
     quality: 11
 
-secured: "RfYcsJiyNvjtGZ49uvHQrUxGFr7KnsA95JGVGzPp5pgSns+yqD4Oz7SaakN9GpOVAtZGCH4pRGT7FjL/dhqrp5lk55At8kJWsthGKWq4Vh+58tc+rfWA/w8zeJVUqM6toZi8/VJqtDMovhMmw8Jizlw3bCDtrt8F6StV4mQw5Da8lRB3EW3e9nhuQzB8TeVzHPh1BnH5lMRBrM2xkDHkFheYEOa9XYwpTKbzlb8nO6NfWImmDqBEsq1gJs6PYj/2Awg2N7Rn4+7E4mblTJ6q+4AJyHpAmOZm2GwxJV3+h96FW2sRplNKO5nfPd9mTpUUaG1L/VkiVeah75v57rLBuQ==;0B1FM1Mjw30btMXOjv9nlw=="
+secured: "3Txnua97YtWv0ElK/6no9vwwQQeheyCE2tniSzB7+Vx/dc7G+ecizB8EoaiGeUkuGKwB3z8G0RqoLrUU6e84Hzo3uuD8eFGSDAOjWbhYAaPjaVkXmbDIGXUJm0S6otSxPG9Fr6w57gPJ3ZBGoOSPy4PeeDfbNIl/4xP4ugFb0azKJrisoDLLLOzfU3SxvzkfqJIQoTwMhdlsORBMgBrYbw0FLe1++V/gzZ5n/pCy+vhKLV6jivPMZ3WDYE9eUqcKEmZbl5cdwZVLZ5wqkwTfjY4fl/IyNzx+q/5Qfuxmpcj7NS6goVM67cIm0/aokNADm0I5IFtcusNzPTr2EwXl3tlIi26Vl3mqy+/hNSzomfZrBOaHy5PCLHQt3V17SPO9Vt6awjVkVN519Dn2gyBL1FbFmRbUVpJaj0+J2AALr3ei77WYcnK/JcZoh0VBP5zLu6G6OEJxF6BhwmWAtKGPwsCFQlbATjJMn4jEBr+zTb7WAP/H2m32AY83DceJ8Bj5FMt2TII1pQ+iDAML+jg6lw==;f3YMywfnKKTbUINk2z4o8w=="
 ---
 

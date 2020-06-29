@@ -52,17 +52,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Smart Learning Systems Market Size, Share, Growth, Research and Forecast 2020-2026"
-    excerpt: "The adoption of AI tools enables to provide learning easily and interactively to all whether students with visual and hearing impairments or speak different languages. Presentation Translator is one of the best instances that create subtitles in real-time ..."
-    publishedDateTime: 2020-06-26T12:46:00Z
-    webUrl: "https://www.openpr.com/news/2080747/smart-learning-systems-market-size-share-growth-research"
-    ampWebUrl: "https://www.openpr.com/amp/2080747/smart-learning-systems-market-size-share-growth-research"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2080747/smart-learning-systems-market-size-share-growth-research"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
 
 secured: "yjWxmL4DgMR0QyovtdiifEO+A/Po9AlUkxTtcy1kkxX25Y61b/+kPDxipPF+gQEvEgQX3Khqqjb/6zBM/PQ6Dba7FTdbbSJ2SRCnK+ujIjRX+LHplwYj9IYCDOqM1S4GfEHdNx3dRFKcwRc5zTs++Fl6ospqHI0iBim9Y7avfnWw00IzSxjCUwyRp+y4VdY75p6BP2+InkT9aRU91rFK7MpPy1Gd38InXVkYURaaIvPnHAKN21ehZRZIPDBKR3oitm0KgB7Xt0EXNgr9WHWOoJSEhmMxoDS0u7MWBUiD00qCYGrhy9IXrM6XxQCdGHNWLwuc1XeqEBFd8p1TO7NLiI3skgPQr2Oqc60bSc7VsEo2IOyH2meTaxUiB2aXfJLqJb2k9nTAp+ztoSq2AoGU1gHUo9YOq+JmWU83FJoHWGJrv8PuJLWtZuq/4LnkgFAVwZs1C6Xlc48EAyNfGvw6/EXaco3zQXI+REpcm3NIX/BF5g3pAjGpGWrI6XvF7bPgg6ZjRExXs8bh80wUX5eATA==;2RtM5vg5JuUNQrBQQbHB0g=="
 ---
