@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Healthcare Market Size is Estimated to Reach USD 99,491.58 Million by 2027 - Valuates Reports"
+    excerpt: "PRNewswire/ -- The Artificial Intelligence (AI) in the healthcare market was valued at USD 4,836.87 Million in 2019 and is projected to reach USD"
+    publishedDateTime: 2020-06-30T14:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ai-in-healthcare-market-size-is-estimated-to-reach-usd-99-491-58-million-by-2027----valuates-reports-301086006.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
   - title: "Artificial Intelligence in Diabetes Management Market 2028 Report Reviews Future Development, Manufacturers, Trends, Share, Size and Forecast"
     excerpt: "Overview . The Global artificial intelligence in diabetes management market is likely to register significant growth"
     publishedDateTime: 2020-06-30T07:58:00Z

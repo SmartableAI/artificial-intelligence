@@ -26,22 +26,6 @@ images:
     isCached: true
     title: "Robot Named Erica Cast as Lead Actress in Movie: 'She Was Created from Scratch to Play the Role'"
 
-related:
-  - title: "Erica the robot cast as leading actress in $70m film"
-    excerpt: "Her acting may be a little stilted, but she doesn’t have the ego of a Hollywood A-lister.A humanoid robot powered by artificial intelligence has been awarded the lead role in a science fiction film in"
-    publishedDateTime: 2020-06-25T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/erica-the-robot-cast-as-leading-actress-in-70m-film-92gds7tgg"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F837dd53a-b705-11ea-8c72-5b725bcf2bc7.jpg?crop=4054%2C2281%2C780%2C495&resize=685"
-        width: 685
-        height: 385
-        isCached: true
-
 secured: "7fUuVrkBjAaQ6CLa9PfkkUz0PEo64XOp+CBu8QWYTAadHwfkvf0ckcNFmE50Ni37AB4CGs/dz5K5HiPie4uj272C/RbEDnJ7ICDqz0DnYWNX4G5DOxogiv8oShaBtaWydQgdOF52H8M/JzYtvxasoO8YusLaWC2YdAATazv4ZQMSuxoKo5Gd7Lhbwa9SZWJDN9OVfnBGa+uAuqJSjLUJwfyhz19rFmhSUjumXraYwz4PxTG7DpEtyDBk0p7ll2AFMLAf2EjOK4wnbbuqWnYByfM8xXqsE6dYehBItxZKYc46Kk/fro5KRyNdXF0JpX268uXU7XMVz6y5Ab3NMTGR7X18dUpZFvoyFUJKTUIIo/TdccxsNi9hE1GZv2lKyUR9Dpm6jYNPYJzCVAUu2yFFNJc21AdE6cJ9q7jG/qcTtUHcxdM2Do7VF/+D0X/LVPlUCtTeyepTNZrLS6JxhConLBGxbNtMD0hbRYhtx5iWluADclBlUq1/W7iIgt+QWSvJQxJSSG//vR/qBTy+hyHkzg==;OUYXiRRN4GbIUwlgiWMNiw=="
 ---
 

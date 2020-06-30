@@ -57,22 +57,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Congress needs to pass this facial recognition ban now"
-    excerpt: "Earlier this year, for the first time (that we know of), a false match by a facial recognition algorithm led to the arrest of an innocent man. Now, members of Congress are finally"
-    publishedDateTime: 2020-06-25T22:20:00Z
-    webUrl: "https://mashable.com/article/congress-federal-facial-recognition-ban-bill/"
-    ampWebUrl: "https://mashable.com/article/congress-federal-facial-recognition-ban-bill.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/congress-federal-facial-recognition-ban-bill.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F06%252F25%252F2e%252F415e4b59be1c4226b4741302a64266da.f317a.jpg%252F1200x630.jpg?signature=9Ma1jAJL-JsglwgBXLdTrEngcYg="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Recommended Reading: When facial recognition identifies the wrong person"
     excerpt: "Law enforcement at all levels are employing facial recognition for a variety of things. When the US and countries around the world began to shut down, tech companies of all sizes announced plans to help."
     publishedDateTime: 2020-06-27T14:07:00Z
@@ -194,22 +178,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 54
-  - title: "Ed Markey and Ayanna Pressley are proposing a federal ban on facial recognition technology"
-    excerpt: "A day after the Boston City Council passed an ordinance to ban the city from using facial recognition technology, Sen. Ed Markey and Rep. Ayanna Pressley are pushing to do the same at the national level."
-    publishedDateTime: 2020-06-25T21:16:00Z
-    webUrl: "https://www.boston.com/news/politics/2020/06/25/markey-pressley-federal-ban-facial-recognition-technology"
-    ampWebUrl: "https://www.boston.com/news/politics/2020/06/25/markey-pressley-federal-ban-facial-recognition-technology/amp"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2020/06/25/markey-pressley-federal-ban-facial-recognition-technology/amp"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 34
-    images:
-      - url: "https://www.boston.com/wp-content/uploads/2020/06/Racial_Injustice-Facial_Recognition-Boston_52737-850x478.jpg"
-        width: 850
-        height: 478
-        isCached: true
   - title: "U.S. Sen. Ed Markey pushes to ban government use of facial recognition technology, says ‘the criminal justice system is already rigged'"
     excerpt: "Legislation proposed by U.S. Sen. Ed Markey would ban federal use of biometric surveillance and tie federal funding to whether communities ban it."
     publishedDateTime: 2020-06-28T18:23:00Z

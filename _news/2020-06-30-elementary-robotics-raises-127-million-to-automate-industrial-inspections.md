@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-m
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/amp/"
 type: article
 quality: 117
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     title: "Elementary Robotics raises $12.7 million to automate industrial inspections"
 
 related:
+  - title: "Hunters.ai raises $15 million to automate cyberthreat detection"
+    excerpt: "Hunters.ai, a cybersecurity startup that leverages AI and machine learning to detect threats, has raised $15 million in venture capital."
+    publishedDateTime: 2020-06-30T13:22:00Z
+    webUrl: "https://venturebeat.com/2020/06/30/hunters-ai-raises-15-million-to-automate-cyberthreat-detection/"
+    ampWebUrl: "https://venturebeat.com/2020/06/30/hunters-ai-raises-15-million-to-automate-cyberthreat-detection/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/hunters-ai-raises-15-million-to-automate-cyberthreat-detection/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/hunters-logo_rgb-e1593112019971.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Enko Chem raises $45 million to develop crop protection solutions with AI"
     excerpt: "Enko Chem, a startup employing AI and machine learning to develop crop protection products, raised $45 million in a venture round."
     publishedDateTime: 2020-06-26T11:33:00Z
@@ -64,6 +80,6 @@ related:
         height: 688
         isCached: true
 
-secured: "uPiSqQ0LxcgQjcNeJdrCDmH28Z2O1N+QT6JfBmUKuyB7KBDO5iVtPjqLyWy1tX7XpaZtppu/SZLID+DtXd5bmhcpUu+wBgL+4Ub1zEj3yQJa2otPFPJ8UR5epXijl/KW2BmqQnKd7rx2jzuaJtvq7nVyIRk0zsKfDPq7JNwza660kB5dnmk6FRcNLfmf83mejppSmixo2YjhV2I1S0nvY6gb7cc4FGEFlfXMXEBeqtFupa3frHlGtJU/1ZEwDgE+xW4TQpXaX0IPwLL0qZEEpFlB2ym+NLgmptWSQvpB2vQSA7DNWuQzDzYqQEHXY7MZtZ/57nCRrRyMiMskMf+uWQ==;0bYnWS2MWA1qsOiBmS7UbQ=="
+secured: "GN/nB4CVKVwyCc4AUeT8okAQpaVJi/jSQKdLptFHMXFm3vvoYX4fxO1uyVuCkjSSxQYtx9C6uWdFLVRziBbvqVCGziKkGrt+wBJ5uY8IZNmSdrNGh8glIdrcI23lKwnyCqAzFv7DWfaPpLtp/SWpkwg8pW5emBamsEW1ovYGcSoybtOA+z6Ag2zFbo5mCkgvyvQrnidBVYmf4UzyRBbnS3Z9nhBkuCtIVl8ZMzwbcXi7Xs7SoKyR20tKYASkWj49OmtLtonH9ZO5Jm2Yvk7RYyZ8lgNG15r9Fwpny95oJaSKSExloRo+fHrNXY4XyViJyHFik54XrfD6WMNG5hU1H5XNZzRmQ+EhYyXJ0Tqyj/biWoSIPZEiz/WtbMknlA88/mH0l1qt0j3e0IP4ImMvBXjGI2P4AM7AbQ1BmMck0QlpFeHb+vcPRsoVUdmIHQZMHWFwjEof95FhSy2S3FLal/BhDpfHCi+PN/AzZxzwmcyYDa2aMbGGKShesJG9adhTsbpm2sIqmRsB09ykMFCUpg==;/rABSLoUYp2/6Lpn/gjkDQ=="
 ---
 

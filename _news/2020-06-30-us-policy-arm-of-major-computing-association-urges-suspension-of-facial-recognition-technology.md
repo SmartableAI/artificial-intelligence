@@ -42,6 +42,22 @@ related:
         width: 2122
         height: 1193
         isCached: true
+  - title: "Facial recognition software fails to correctly identify people '96 percent of the time,' according to Detroit's chief of police"
+    excerpt: "Facial recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief."
+    publishedDateTime: 2020-06-30T15:48:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Florida Police Embrace Facial Recognition Despite Pushback"
     excerpt: "While companies and governments are halting the use of facial recognition technology, the Pinellas County Sheriff’s Office is refusing to comply until official regulations are put in place."
     publishedDateTime: 2020-06-26T21:42:00Z
@@ -98,6 +114,6 @@ related:
       domain: securityinfowatch.com
     quality: 11
 
-secured: "GZCwSen1X3moN8FK5mJjJo3g2vtj3MJQza6DipJvtL3Z9LiGTKhMXeB5In5snf3GWa2oJtpJIceMUXqsK2ikBM7ZF69Q9oMAVeAZfnm3sdCRYLq1fc94Twqf/uc4bsNmX1g0dRfwm7j+OmNGR4bB2o8ESCHBXuDtMvJ5nnEoTqn1C2sGx57Jtc5dTz1SwJwC1hYCi6hS9RL4VPKRD0Im7ndqEc+zzRYEYB980j4+G5EPG6oO2d5MP24sHzUuk674nBf25TgDmArD8jTRnDE1lTtiX9xYJPq5hUDZmkjzPv1bjcX7nGYdUqeTMbQVo+t+TsYeO4jORLS+aufUnrl4UA==;6uRiuC2e2C1fglK25qUuMA=="
+secured: "AA/pxtICI7KCE4YACXquDWHnRdmyX98dw/MBFlMsnODSXoYUq2MxnUmdTfehaCHmbOFkFY+h3ZE1VLiO8+GpTlNncc5gMTRvi7DfuJq438xbsbBRQmc4yEKMWGiai2k0E+92B1ChG4tCAelpXa8QMi72CwCdFdbXErVW1NLJuR3NUMzxR+3p+x8OO15myHZs3lruSJkV9DK0EmoYXzZGwEki5PqQwfhD/0B5rL2OP7BvGWEvypDtxra25UL5yGMAaY5OouvsmRJCQxDXdOhawqaq700yf3Shh3vZwLsorkKlShO7htfNMea70N7rdIoCBpex/j22Zt4JmEddHjF5peJUS+PXu2cx42jyIxODCmwCAyOOqi0tAH1488i+fUpKKBKkFC3pYWaZ58Y3d65k5q7nizwuwxy8nq+m2jrbU89FUIENSTtxVRR0CDFMBDZb4YGqRXpQNm7L/3eVkOKfkOoAo7xxemkT88gd4Ql4wVBn6AEJ8DLkEVyr7hQAHxvkeibOBfkLT3bif+aa+DHWaQ==;bHfWbx+DFPgS5S3fO5UXoQ=="
 ---
 

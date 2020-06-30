@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Hunters.ai raises $15 million to automate cyberthreat detection"
+    excerpt: "Hunters.ai, a cybersecurity startup that leverages AI and machine learning to detect threats, has raised $15 million in venture capital."
+    publishedDateTime: 2020-06-30T13:22:00Z
+    webUrl: "https://venturebeat.com/2020/06/30/hunters-ai-raises-15-million-to-automate-cyberthreat-detection/"
+    ampWebUrl: "https://venturebeat.com/2020/06/30/hunters-ai-raises-15-million-to-automate-cyberthreat-detection/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/hunters-ai-raises-15-million-to-automate-cyberthreat-detection/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/hunters-logo_rgb-e1593112019971.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Enko Chem raises $45 million to develop crop protection solutions with AI"
     excerpt: "Enko Chem, a startup employing AI and machine learning to develop crop protection products, raised $45 million in a venture round."
     publishedDateTime: 2020-06-26T11:33:00Z

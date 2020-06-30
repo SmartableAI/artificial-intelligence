@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-29T09:00:20Z
 webUrl: "https://azure.microsoft.com/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/"
 type: article
 quality: 119
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/04/Leadspace-1.jpg"
         width: 990
         height: 498
+        isCached: true
+  - title: "Advancing Azure service quality with artificial intelligence: AIOps Facebook"
+    excerpt: "As Mark mentioned when he launched this Advancing Reliability blog series, building and operating a global cloud infrastructure at the scale of Azure is a complex task with hundreds of […]"
+    publishedDateTime: 2020-06-30T15:55:00Z
+    webUrl: "https://ctovision.com/advancing-azure-service-quality-with-artificial-intelligence-aiops-facebook/"
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 66
+    images:
+      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+        width: 632
+        height: 422
         isCached: true
   - title: "AI Conversations: Transforming Financial Services"
     excerpt: "Faced with rising customer expectations, evolving threats of fraud, and new government regulations, financial services companies are embracing artificial intelligence."

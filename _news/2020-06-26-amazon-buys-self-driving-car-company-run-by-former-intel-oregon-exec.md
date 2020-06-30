@@ -379,6 +379,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The case for all-electric self-driving cars"
+    excerpt: "Electric cars don't suffer a huge loss in range when equipped with autonomous driving technology, and there's potential to minimize the effects even further, a new peer-reviewed analysis in Nature Energy shows."
+    publishedDateTime: 2020-06-30T14:40:00Z
+    webUrl: "https://www.axios.com/electric-self-driving-cars-b39c1215-fb53-467b-ab21-1fd1cd11e683.html"
+    ampWebUrl: "https://www.axios.com/electric-self-driving-cars-b39c1215-fb53-467b-ab21-1fd1cd11e683.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/electric-self-driving-cars-b39c1215-fb53-467b-ab21-1fd1cd11e683.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 44
+    images:
+      - url: "https://images.axios.com/KER4AXDl2L6o_L1bxvSziG60tYE=/fit-in/1366x1366/2020/06/30/1593526866534.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Amazon to buy Zoox for $1B, a self-driving car startup with Apple lineage"
     excerpt: "Online retail giant Amazon has reportedly agreed to pay over a billion dollars to buy Zoox, which was an early entrant into the autonomous car industry, and has previously hired away \"Apple Car\" engineers."
     publishedDateTime: 2020-06-26T12:06:00Z

@@ -53,6 +53,20 @@ related:
         width: 990
         height: 498
         isCached: true
+  - title: "Advancing Azure service quality with artificial intelligence: AIOps Facebook"
+    excerpt: "As Mark mentioned when he launched this Advancing Reliability blog series, building and operating a global cloud infrastructure at the scale of Azure is a complex task with hundreds of […]"
+    publishedDateTime: 2020-06-30T15:55:00Z
+    webUrl: "https://ctovision.com/advancing-azure-service-quality-with-artificial-intelligence-aiops-facebook/"
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 66
+    images:
+      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+        width: 632
+        height: 422
+        isCached: true
 
 secured: "OY72ayvPNo+huMC6SCWlt2ZHCnSWAT0v+9t86K7aGRZH4xiiL5kM+rPChmi4Qn150BTCcgWMKL6OJYBc5O9PwHjMIuo0aj7H7nWAVWz5r8cggrrrruSzWAbvHSPY9/qso3BvnW6Ot0LpYlY4tUK9NPUtDN0neokOzxUQ9i0m2F/mYmwKnZXPfJX+0omgqAE6Mr5+RCn2O1FoKZMOxsNkrW6jH9KePUQmBN3jmEUx0VtXXMliPzG8uz3jl8oZiM1O0ruAqAWRL51RAjNfUoc9Qkis07P0KyXAn98KyDah5IgCZAKOTW5R8GK5mYkpyvfVDhtoVNrBKptQMDsIwgaVFZg3cBvt/PoBNvOx08/jc0oY0p6JFFtnOc6uLx8bIXtqrZEdn+01CauIWcM4KJ5c5gA3m/tHoKTCEXHOw5vZZVnqyqHCB9gUwzXDZBgiINUVyM/LDXTEeB9NWW5YpEy0MHwOw7zxWfsAGn9kqRvbvvUfZjeg6YXVrwBLVxgCkDDBFJbzk65exEpe4Lm4ne39LA==;mKgpTxYVbqVqKN99RwqByQ=="
 ---

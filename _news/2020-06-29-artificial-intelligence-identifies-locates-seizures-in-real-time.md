@@ -37,6 +37,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Artificial Intelligence Detects Epileptic Seizures in Real Time"
+    excerpt: "An artificial intelligence system was able to accurately and efficiently identify epileptic seizures in real time."
+    publishedDateTime: 2020-06-30T13:38:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-detects-epileptic-seizures-in-real-time"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 17
 
 secured: "dlbBFWWmWp0jDrJlrZW/r22QL3Q/Wi8M2Q2wjz3Nny2KVr+HsK+URDtWygo86aAJp7CqjShDUNw/iq5xJYnttXdox/pKmhSOc4CmD2SlJcRRl4b3Xbew9FGOWiM7eWF1khqHASvO/ZJjux2/1SFoBK1AfrlLYy5V0tYWsCIhmBxSGykbKxoeJXpOdjMy8LeU/4sjDRaD9HApwlHpnSr6MZx1zkShKUnO5xwL1CFCkv/G9scZR9tTpEuUHGNnpYEKpF6NI2sICkf/AUa2OfAytDmgn/HoW7VqGS/JrNBQ7RmuXj/P9yZKz3uwUKLIRhJF0wzqbuWRyRSO67ni6nK9uA==;pLzh3k/1+vdht7UBjugGsw=="
 ---

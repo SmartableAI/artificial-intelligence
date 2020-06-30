@@ -35,6 +35,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "Artificial Intelligence Detects Epileptic Seizures in Real Time"
+    excerpt: "An artificial intelligence system was able to accurately and efficiently identify epileptic seizures in real time."
+    publishedDateTime: 2020-06-30T13:38:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-detects-epileptic-seizures-in-real-time"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 17
 
 secured: "3x9/szGlA7vho+5xG+uPc+Wpo94Bl8q+8oel7vIpu8VbzVUH0KfWSY/E88sjrO/yckZgQm2vh5Uxn8TmPBkzHRe//YX18iuxQH4f+YO4+kz+xWiDo5fDjjjywMLUrGFe9wysVj+yRw3WJ13fVO1dSn+cRFkbAT9u5hjplGcGpfPW+J+JzkxUFhcAPIA0YcJ1zhiZvJfgtNZl/41+TOokHf0DpbjMFpVEom5OZKl/M70YoiC5hKpHtIdg+pBBe1dlHms73m1XusAVjgsRy54SAKS52O1G3xaewtmYEihVDyjNkZUWKSuw0VupZnn9z7ByVhIHIo7o24b+u8aD3pLcgw==;9stBqyGDQSEIMBHYmyMO7Q=="
 ---
