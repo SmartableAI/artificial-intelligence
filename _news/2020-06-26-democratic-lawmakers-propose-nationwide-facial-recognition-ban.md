@@ -88,22 +88,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Congress introduces bill that bans facial recognition use by federal government"
-    excerpt: "The bill would prohibit facial recognition use by the federal government and withhold funds from state and local governments that use the tech."
-    publishedDateTime: 2020-06-25T19:34:00Z
-    webUrl: "https://venturebeat.com/2020/06/25/congress-introduces-bill-that-bans-facial-recognition-use-by-federal-government/"
-    ampWebUrl: "https://venturebeat.com/2020/06/25/congress-introduces-bill-that-bans-facial-recognition-use-by-federal-government/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/congress-introduces-bill-that-bans-facial-recognition-use-by-federal-government/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Democrats and civil liberties groups back law banning facial recognition across the US"
     excerpt: "New legislation that would ban police use of facial recognition software across the US has been backed by civil liberties groups -- but not Big Tech."
     publishedDateTime: 2020-06-26T12:46:00Z
@@ -135,22 +119,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nvw4abg7rvdyxyeklgsr.jpg"
         width: 800
         height: 449
-        isCached: true
-  - title: "Democratic lawmakers just introduced a bill that would ban the use of facial recognition technology by federal law enforcement"
-    excerpt: "The proposed bill comes after civil rights advocates have campaigned against the technology for years amid growing evidence of racial bias."
-    publishedDateTime: 2020-06-25T20:01:00Z
-    webUrl: "https://www.businessinsider.com/lawmakers-introduce-ban-on-federal-facial-recognition-technology-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/lawmakers-introduce-ban-on-federal-facial-recognition-technology-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lawmakers-introduce-ban-on-federal-facial-recognition-technology-2020-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://i.insider.com/5ef4ef202618b90ba25e4161?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "A new US bill would ban the police use of facial recognition"
     excerpt: "US lawmakers have introduced a bill which would ban the use of facial recognition technology by federal law enforcement agencies. Specifically, it would make it illegal for any federal agency or official to “acquire,"
@@ -213,22 +181,6 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2020/03/markeynl06.jpg?w=1024&h=755"
         width: 1024
         height: 755
-        isCached: true
-  - title: "Let’s Kill Facial Recognition For Good"
-    excerpt: "There’s a buffet of things to be scared shitless about these days, but for those who have sampled even a taste of big tech’s eagerness to build and sell facial recognition surveillance software to law enforcement,"
-    publishedDateTime: 2020-06-25T21:00:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/06/lets-kill-facial-recognition-for-good/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/06/lets-kill-facial-recognition-for-good/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/06/lets-kill-facial-recognition-for-good/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 44
-    images:
-      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/06/26/nvw4abg7rvdyxyeklgsr.jpg"
-        width: 1021
-        height: 573
         isCached: true
   - title: "Ed Markey and Ayanna Pressley are proposing a federal ban on facial recognition technology"
     excerpt: "A day after the Boston City Council passed an ordinance to ban the city from using facial recognition technology, Sen. Ed Markey and Rep. Ayanna Pressley are pushing to do the same at the national level."

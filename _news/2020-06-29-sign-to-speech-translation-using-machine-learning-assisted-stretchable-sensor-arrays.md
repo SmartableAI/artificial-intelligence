@@ -5,8 +5,8 @@ excerpt: "Wearable yarn-based stretchable sensor arrays, combined with machine l
 publishedDateTime: 2020-06-29T15:32:00Z
 webUrl: "https://www.nature.com/articles/s41928-020-0428-6"
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41928-020-0428-6/MediaObjects/41928_2020_428_Fig1_HTML.png"

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2082125/artificial-intelligence-in-manufa
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2082125/artificial-intelligence-in-manufacturing-market-size"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Artificial intelligence (AI) Market Size is Expected to Reach USD 169,411.8 Million in 2025 - Valuates Reports"
+    excerpt: "PRNewswire/ -- The global Artificial Intelligence (AI) market size is expected to reach USD 169,411.8 Million in 2025, from USD 4,065.0 Million in"
+    publishedDateTime: 2020-06-30T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025---valuates-reports-301085882.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
 
 secured: "opjlp1p0qxHdzj1uju+4hG6QAZHq83p81ETjgti7YB3vnCqejU5/11MF7bU2NacqW5RRa/M7bqn/IvBC8hV7QoK5+RfPm97ygI+IgbsjmusydIPTgYksymr4dsDioo8GZGO3KMuni6e9CBnHltEvFBgUS52Ibegb9Ru8KPcgRhWyIfTdESX1t1RaaFgVpDf/nDGk9f/YEPqUp70uaMVAheCh2xVS/jNXv0h098KTQi81z/n6mkYsX/wJhiKVQcHW6kUhr3rGDR4L2tNrKMEoFa0DABXMVOxasUJXrWrHc3JsioF8fN/Fr4tz7TUX4vGwRdH7pvNKYJsInqlEwQAldQ==;YS4WIFHDSci5m62mmYv+fg=="
 ---

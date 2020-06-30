@@ -25,19 +25,19 @@ images:
     title: "Delighting Customers with Intelligent Merchandising and a Self-Driving Site | Sponsored Content | Tech-Talk Webinar, On-Demand"
 
 related:
-  - title: "AI Conversations: Paving a Path to Intelligent Manufacturing"
-    excerpt: "Manufacturers need to capitalize more fully on artificial intelligence, edge computing, and related emerging technologies to increase productivity and gain greater control over operations."
-    publishedDateTime: 2020-06-25T19:28:00Z
-    webUrl: "https://www.cio.com/article/3563345/ai-conversations-paving-a-path-to-intelligent-manufacturing.html"
+  - title: "Consumer interest for drones, self-driving cars grows amid pandemic"
+    excerpt: "With the increased need for contactless delivery, consumers are getting first-hand experience and becoming more familiar and comfortable with autonomous systems such as self-driving vehicles and drones,"
+    publishedDateTime: 2020-06-30T11:15:00Z
+    webUrl: "https://www.ept.ca/2020/06/consumer-interest-for-drones-self-driving-cars-grows-amid-pandemic/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
+      name: EPT
+      domain: www.ept.ca
+    quality: 24
     images:
-      - url: "https://images.idgesg.net/images/article/2020/06/manufacturing-2.0-verticals-100850145-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.ept.ca/wp-content/uploads/2020/06/Draganflyer-Commander-with-Sequoia-Camera-600x378.jpg"
+        width: 600
+        height: 378
         isCached: true
 
 secured: "HJt/yB6kV6zTlFbvYnM+4+l5sGzOAALEfnXvcCL6Z+VW54tC+/zEaLPp9rqH3KtBjTuqNgRbjqjJL9nHFON7YgkdyVeHq8731RqiUDcpZKL5YP9jA5AVBSC2e6ci5wN05yMT3w1/nNTVXx9kyXit1OntxidkkCve/BrPcc2DcOP3F7P/pSonhi14WlOPxTd97ZuRiAyZu2eXkLoGtl4mWCV1SeWjnQx8N45rTENb9R7mFUPL4ZshQw3hxNh4uwRSPVTYs0AOUCBcqvEDLQDN/Y9R41qv2NrIXMjckPl/QMtyIKy8IWtAGsgrkFovFmItwWRpwr55h60ttjTdn30wmA==;uACxUtzbjTXRN/5A+b2hfg=="

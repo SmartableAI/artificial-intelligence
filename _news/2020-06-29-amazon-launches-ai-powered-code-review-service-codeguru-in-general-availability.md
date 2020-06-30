@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/29/amazon-launches-ai-powered-code-r
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/amazon-launches-ai-powered-code-review-service-codeguru-in-general-availability/amp/"
 type: article
 quality: 83
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/06/Profiler2.png"
         width: 722
         height: 389
+        isCached: true
+  - title: "Bitvore Announces General Availability of its AI-Powered Cellenus Platform on Microsoft Azure"
+    excerpt: "PRNewswire/ -- Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed a"
+    publishedDateTime: 2020-06-30T12:49:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/bitvore-announces-general-availability-of-its-ai-powered-cellenus-platform-on-microsoft-azure-301085624.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 58
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "AWS Announces General Availability of Amazon CodeGuru"
     excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon CodeGuru, a developer tool p"

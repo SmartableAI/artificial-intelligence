@@ -43,22 +43,6 @@ related:
         width: 2122
         height: 1193
         isCached: true
-  - title: "Detroit’s fight over policing and facial recognition is a microcosm of the nation"
-    excerpt: "Everything you need to know about policing and facial recognition is happening right now in Detroit, where the scales are tipping."
-    publishedDateTime: 2020-06-25T20:10:00Z
-    webUrl: "https://venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/"
-    ampWebUrl: "https://venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/detroits-fight-over-policing-and-facial-recognition-is-a-microcosm-of-the-nation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/black-lives-matter-protest-detroit.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 605
-        isCached: true
   - title: "Why the racism in facial recognition software probably can’t be fixed"
     excerpt: "It’s been proven that facial recognition software isn’t good at accurately identifying people of color. It’s also known that police departments around the country use facial recognition tools to identify suspects and make arrests."
     publishedDateTime: 2020-06-29T10:05:00Z

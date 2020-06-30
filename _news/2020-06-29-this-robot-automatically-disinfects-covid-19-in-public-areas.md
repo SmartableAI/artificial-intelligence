@@ -43,6 +43,31 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "MIT’s coronavirus-killer robot uses UV-C light to disinfect warehouses"
+    excerpt: "A new MIT robot that uses UV light to kill the coronavirus could be used to disinfect warehouses, schools, and offices."
+    publishedDateTime: 2020-06-30T12:45:00Z
+    webUrl: "https://thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-88-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "Video: UV-C robot disinfects warehouses of COVID-19"
+    excerpt: "The robot uses an ultraviolet-C (UV-C) light fixture that is integrated into an Ava Robotics’ mobile robot base and does not require any human supervision. UV-C light has proven"
+    publishedDateTime: 2020-06-30T12:33:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15359/video-uv-c-robot-disinfects-warehouses-of-covid-19"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "4ogSIVaPcyJ0ECirbDDu+ebZGd4EgzKUSjxV6p6OTsbhLbkxx1/Iiwnm2qw99KUW8aYNkCpqtMF7RBopZGd+rX0qwQyS5I5LqzWHQylqwyljZNr8eBuMjxB6EMtvSQZnCMKCwe85yAPYgXvEin4yYx2HiCkv9InuxVlxsIjgEDk8yyjIBrS2OWqsO8zRcx6EgVplZ4EgU3WDzSuN70dVdnYhqQlCa6ZIaqHd1i0Uj2iuLX7tttu3kEAgkWLlKb0qgXFVaf+Oe78pviKiTxj+4WVrbowTtr7Pxx9YzyFM19wS++XhY+PezxNlLk/EQP6CRGbJPvWyYMM7Vqfgosq05g==;OM0onxAFgI3rqrz8nHlmPQ=="
 ---

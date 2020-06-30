@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Army researchers augment combat vehicles with Artificial Intelligence"
 
-secured: "NLgOwRnHLjUvDvN9t0H19R1Q4I8MYRAl/a2ES1s/viZqECrREaPblOS/V+0ZXGt1Xi7ZARHftM0RzK+kTtGAtV3p+uEXZRDba2htUqwcoO/D8hZnDxvR6GhPxXwHxULLuDEJqw4wFYdH5LNBzm4foGvzubDpoG7hhJE3MQlu69YWh8b482CMYf6d9UNU0P1UeItFERuWBnUqRBJpvTVe6UHrmeUD7DAnBFqVj+uFduWpmAhIaySOjbBQUPm1/KDHZvl7LbW/fK9V/cK+5lkyI0n3yjxGhTKW/+a/gAh7w/ie56LZq6YzZzmTQhzqRZZorx+0K20ANOvef41IhUy87Q==;QMkKHbr5yW5wTBU3qy+r+g=="
+secured: "Aim6Zvimcy3B8/+EQHrNhp/QD+MOhGumcsTUvBCAoAe7qUfqAqXmO31DS0kyVqAq8Zz4e3QmGcGcmAUXhj1NB0VSo0NHmZ+pp2ArICjXFEhTL6xRA8jjBYAcAS+XQj5ueMPYGgFpzL58AEL55zXVpUm4sjZ01Y2ewphiXd7KVT1HHghtkA8vU5efaazdqR85QfzQ0XwQ3M6zQ2TND02vFB6FfORH1prIx5VdGZTYo//nFlZGWpnRHAe/Y+mAX2up+f2qn0iPmExY5ZPqzaOJG+VDNyd0/YuBQsIKymQxV+ts/W9E+oczn7AbXcSZywwCqGHmonvUFgwjZzS5aCpnRqFAclrXftwvas43tdbqBOSbKC1u30pcxYElINZRsvYxbneq2EbLbG/Z84b2p3biGINp/Oozcu9rMatkDOp5AODOx61cR+X/V11v70F9nFcBeCv6VLidf82H8X4+0R1tMoX+WPiO4hXc8Zx7XRC7ydwViFDkoZARX4I7dK8iSBcF4qrEpQUZduI2gHgH/Nq4Sg==;BHPxpSPy0QGvRnBoScDHEw=="
 ---
 

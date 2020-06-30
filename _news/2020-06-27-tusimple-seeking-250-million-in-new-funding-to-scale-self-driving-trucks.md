@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-ne
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-new-funding-to-scale-self-driving-trucks/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 83
 published: true
 
 provider:
@@ -46,36 +46,6 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/tusimple-1024x683.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Didi Chuxing tries self-driving taxis"
-    excerpt: "Didi Chuxing, China’s largest taxi-booking platform, began testing autonomous cars connected to a vehicle-to-everything (V2X)"
-    publishedDateTime: 2020-06-29T08:50:00Z
-    webUrl: "https://www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/"
-    ampWebUrl: "https://www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 44
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2020/06/Didi_Chuing_autonomous_taxi.jpg"
-        width: 650
-        height: 396
-        isCached: true
-  - title: "Didi deploys self-driving taxi fleet in Shanghai, seeking edge on Baidu"
-    excerpt: "Didi hopes the alliance with accelerate the development of self-driving vehicles. Leading Chinese search engine company Baidu has set up the \"Apollo\" platform to develop autonomous driving technology."
-    publishedDateTime: 2020-06-27T18:05:00Z
-    webUrl: "https://asia.nikkei.com/Business/China-tech/Didi-deploys-self-driving-taxi-fleet-in-Shanghai-seeking-edge-on-Baidu"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F6%2F0%2F0%2F27940064-3-eng-GB%2FCropped-1593271902photo.JPG?source=nar-cms&width=1600&height=900&fit=cover&gravity=faces"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "PvYBsM/4DtZYRvdV86qPFx0Bgbm4BCoMIKk3In+lUKR0orwVsX0cl1kWkNIXK12bUKptoiju7NiDlON4SQ0ulciriYdKRJCrKlt6L8gZyoSX6/IyfjetrmtEIiLl1HnVnEZ4lVOO8JN90ZTeIwGnwSkxkTXsX4kLdsC2Pf8O3TkHn0Q5jA57oT4Xd5zoLSUwZMM8jDtvAmjHCfNywhCYHckFmQWovp6QLvlV5G0a/b8YRfyxjMwYh4v+fzy5rBpiZZFNeJvD5rJA3KA1i7NE+FsuiNVgT83XSxhntyjCLrMhUnlXGmZYd3l+wnHe63Ln4OjIF3Y/HwuggCylvFj56Q==;hcoFUPYiRkUMCuHh8p0MeQ=="

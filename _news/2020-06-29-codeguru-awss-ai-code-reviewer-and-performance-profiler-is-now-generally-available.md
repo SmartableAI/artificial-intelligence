@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Bitvore Announces General Availability of its AI-Powered Cellenus Platform on Microsoft Azure"
+    excerpt: "PRNewswire/ -- Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed a"
+    publishedDateTime: 2020-06-30T12:49:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/bitvore-announces-general-availability-of-its-ai-powered-cellenus-platform-on-microsoft-azure-301085624.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 58
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "AWS Announces General Availability of Amazon CodeGuru"
     excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon CodeGuru, a developer tool p"
     publishedDateTime: 2020-06-29T22:07:00Z

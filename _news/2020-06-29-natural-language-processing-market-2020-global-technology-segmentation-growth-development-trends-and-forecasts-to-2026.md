@@ -37,12 +37,23 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Global RegTech Market By Technology, By Application, By Organization Size, By Service, By Region, Forecast & Opportunities, 2025"
+    excerpt: "Reportlinker.com announces the release of the report \"Global RegTech Market By Technology, By Application, By Organization"
+    publishedDateTime: 2020-06-30T02:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/06/g16440928/global-regtech-market-by-technology-by-application-by-organization-size-by-service-by-region-forec"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16440928"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16440928"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "i/eAFxjMPFZ+I3F6bLtHrnIUVu+gOxyg/SeYu6ieYLiOr9ZwqPZZEF4D06gpxtHwKU72HQdldt+sq3pGhx35qGA/xZ+r6NroDDGVw5JOtH4QVfk1OOh0YTuNOLuvsGJehXIxG48zpzkAOW7YBr9ZLFcK1bIrseaHkKHvMPxJeyk2ipBySLQP1dvp3rMffoIIkkuN97kUD5gggWpNbSAOM11qfVIDbGtGl8TpWmluoYSgl01CNBGHk1B2ZgWxZGmwj9atx+qU87OOwapJj8n4T9NKdceWbQn4z+xFHLEyFe1HIP9xgn7fBO+ZfBaogR9wRVJmNhpJRdTqazY42jTvyQ==;xFplbCzfthqzDvtSGWjEAA=="
 ---

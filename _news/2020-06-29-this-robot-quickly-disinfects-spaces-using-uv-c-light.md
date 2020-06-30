@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/this-robot-quickly-disinfects-s
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-robot-quickly-disinfects-spaces-using-uv-c-light/"
 type: article
 quality: 89
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     title: "This robot quickly disinfects spaces using UV-C light"
 
 related:
+  - title: "MIT’s coronavirus-killer robot uses UV-C light to disinfect warehouses"
+    excerpt: "A new MIT robot that uses UV light to kill the coronavirus could be used to disinfect warehouses, schools, and offices."
+    publishedDateTime: 2020-06-30T12:45:00Z
+    webUrl: "https://thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-88-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "This Robot Automatically Disinfects COVID-19 in Public Areas"
     excerpt: "A new autonomous robot equipped with UVC light is able to disinfect and clean 90% of the coronavirus particles. The scientists at MIT’s Computer Science and Artificial Intelligence Laboratory teamed up with Ava robotics to create this robot that is able to disinfect and neutralize virus particles."
     publishedDateTime: 2020-06-29T13:48:00Z
@@ -47,6 +63,15 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Video: UV-C robot disinfects warehouses of COVID-19"
+    excerpt: "The robot uses an ultraviolet-C (UV-C) light fixture that is integrated into an Ava Robotics’ mobile robot base and does not require any human supervision. UV-C light has proven"
+    publishedDateTime: 2020-06-30T12:33:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15359/video-uv-c-robot-disinfects-warehouses-of-covid-19"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "PeketGSw/uB+sQinWuA/FN7uRXGkdrg+wmJSK9pp2Cn3SIck4CAdeYH4yEw446hTdHh2CvOb+96i70nZ5Xx8wLmK1UcWbxPf/gWqfFtmVweMn7jT9RjueZi8RQl9Y6ezSJpXo/lW3damTF4Nefb4g/Q/+xHAUIXFn7EsUlprD5Ox2F+UtwE4WFkx6t2oNrlBuyG6/x2WzToj6LeCmR556Eqjcr+QKHpNbqz5uKRQVFRcqBN3bU8EHU0sHjx42h84Xnij5QxrZ6enFSJkZlrcpmxxZ23NfVYnRaYRV+82HNcgKuD6RAEhWR4hMDJQMkOR3GzjnFGXT26WmECIKHvWLIBlD+HpA7/IAtWJKkOVmCVqYo9H+AO/k46tGSpQ2298EXJRJvAzqUAg5uK04ut6eCEDYbmSdvSJtVGlZwBCrPs/wUCBvd36LZ5ADEysLhHta+NVlRmEmGPpLJVV5dWIyjNBw3QkYJ6xIhcBNFLoyDHbCcjeGxLe3cejbnc/8NOizQPiTxx/ccEEJ2bpkJOSlQ==;3r/nqSun/0NlR3J2gCddDA=="
 ---

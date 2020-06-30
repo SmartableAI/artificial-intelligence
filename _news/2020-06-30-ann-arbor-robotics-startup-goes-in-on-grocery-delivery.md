@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T11:00:00Z
 webUrl: "https://www.crainsdetroit.com/retail/ann-arbor-robotics-startup-goes-grocery-delivery"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     isCached: true
     title: "Ann Arbor robotics startup goes in on grocery delivery"
 
-secured: "NqXeCx6w9uOKD/QIV31TUz1ObhTS13YWv4zeBBQ0cqq2TMNt+t4QEFWDZfQkcA3rRhBnAX+vztDh5ibqGP4h0wjRkaUl/ok4GtIX7M/2CwXLHv+q/b3L0BTtq416JlzpdccO5VSX3gwXmdOZw/2M8Hm+JOex0zjUSGHX9b6WMjCyIq+pPlS7PgDNCOgVAA/D7hLqc5eo5VOU9yqDBeHhWsqijOzvDMytlDRpK6zKlcF76nXIN2WJ9F5N5QHrzRHZcj86NlAR7uJ1iBezoKkvPQ3D5oYtf0beNdeDc0wAApkEM5mzvgSnFJJj3UgwGEoW2QolHMTrIjyUcBoE9RoGEA==;vq6Vb4IK9zgMiz+C4dPagw=="
+related:
+  - title: "Refraction AI’s robots start delivering groceries in Ann Arbor"
+    excerpt: "Refraction AI, a startup based in Ann Arbor, has launched an autonomous delivery pilot for customers of the local Produce Station."
+    publishedDateTime: 2020-06-30T13:03:00Z
+    webUrl: "https://venturebeat.com/2020/06/30/refraction-ais-autonomous-robots-begin-delivering-groceries-in-ann-arbor/"
+    ampWebUrl: "https://venturebeat.com/2020/06/30/refraction-ais-autonomous-robots-begin-delivering-groceries-in-ann-arbor/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/refraction-ais-autonomous-robots-begin-delivering-groceries-in-ann-arbor/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/20200424_120944-scaled-e1593206157534.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "rgNLC9riYAamnWF/xiX8xpuQXziqeXDI+ArbFO0qeTPq89JCaWHzRPDOEmY6FQlL7jISGC5rY5iY0gdU6qI6KoFRR7/evcaXhZi+JZSWcA34jAG5KKI8TA0u0vUqEakmiGrgRHeF3kdiF4Ap3iWL1SGuFW6ymL9bMGjdMNoS7Klu6G6e6DA6uB1JRPHOqQgUglanJQ1HRfZY829pv2j+sHUoxxs0yehibm4rOmGnYDP5XiiU+J95bNBg4MhGyqW2JAmff22rKaVoVD2oDRwm2tpAiR+qkja0IltlV3K5alWAJUeNhtE7eSOZaRe0U+rwchyal3XiwG6wgATfHCcrI38scgNV9GmR/NFJwiM/3bwRXHrLcrqF3JqcEbpsA3ouTUEyYvOxjZ4swgqZzp27loxq9JZKWqgv8U7gtus86pTbVl9K6PpRoPnFM2I/rOQHI2uABnvuGheYq8umgGSZeO0xV0/jaPIzh0o0TSYFd1+S/i2kGI55kcZQq+h+6BOdC8RLEvCqXWT5nnkTC/2hrg==;Tc4tBpoLm2RdV8fox7LXBg=="
 ---
 

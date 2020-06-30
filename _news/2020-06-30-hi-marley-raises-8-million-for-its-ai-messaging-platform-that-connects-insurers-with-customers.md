@@ -30,39 +30,39 @@ images:
     title: "Hi Marley raises $8 million for its AI messaging platform that connects insurers with customers"
 
 related:
-  - title: "Cynet raises $18 million for AI safeguards against cyberthreats"
-    excerpt: "Cynet, a cybersecurity startup that leverages AI and machine learning to detect threats, has raised $18 million in venture capital."
-    publishedDateTime: 2020-06-29T15:03:00Z
-    webUrl: "https://venturebeat.com/2020/06/29/cynet-raises-18-million-for-ai-safeguards-against-cyberthreats/"
-    ampWebUrl: "https://venturebeat.com/2020/06/29/cynet-raises-18-million-for-ai-safeguards-against-cyberthreats/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/cynet-raises-18-million-for-ai-safeguards-against-cyberthreats/amp/"
+  - title: "Elementary Robotics raises $12.7 million to automate industrial inspections"
+    excerpt: "Elementary Robotics, a startup developing autonomous industrial inspection technologies, has raised $12.7 million in venture capital."
+    publishedDateTime: 2020-06-30T13:03:00Z
+    webUrl: "https://venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/"
+    ampWebUrl: "https://venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 117
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/Cynet-Team.png?w=1200&#038;strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/4d006010-e497-496d-8ac8-5d5df66bc4e9-e1593109151202.png?w=1200&#038;strip=all"
         width: 1200
-        height: 542
+        height: 600
         isCached: true
-  - title: "Area 1 Security raises $25 million for AI tools to protect against phishing"
-    excerpt: "Area 1 Security, a cybersecurity vendor whose products leverage AI and machine learning to protect against phishing, has raised $25 million."
-    publishedDateTime: 2020-06-29T13:00:00Z
-    webUrl: "https://venturebeat.com/2020/06/29/area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing/"
-    ampWebUrl: "https://venturebeat.com/2020/06/29/area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing/amp/"
+  - title: "Enko Chem raises $45 million to develop crop protection solutions with AI"
+    excerpt: "Enko Chem, a startup employing AI and machine learning to develop crop protection products, raised $45 million in a venture round."
+    publishedDateTime: 2020-06-26T11:33:00Z
+    webUrl: "https://venturebeat.com/2020/06/26/enko-chem-raises-45-million-to-develop-crop-protection-solutions-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/06/26/enko-chem-raises-45-million-to-develop-crop-protection-solutions-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/26/enko-chem-raises-45-million-to-develop-crop-protection-solutions-with-ai/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 85
+    quality: 86
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/f7b215a0-8f77-476b-a974-80fd40ec611c-e1593050018345.png?w=1200&#038;strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2017/01/Crops-Farming.jpg?w=1200&#038;strip=all"
         width: 1200
-        height: 667
+        height: 610
         isCached: true
 
-secured: "POcyqrxeujdw0YeXZLUkvUon8jiNn3g+qMgfQ+inoJesy8ChmKU8hqnL5hASGzNgx0om7RS2u6mMsFRvf8gAR9lblptZJ0e3H4dqCRFTvXfEZg9BZpOWawzQcg3z1uYrMVNnRTDNvNN0pPnY55rksCVNwJ5Eb8+FlRpGUEtQhjYSGwtKbyOMRiPKnXhsXFY0YL8Qhi1tnTbG44r5HsRTDg9E7Rs0bI80CXb5BQ8w/gkaeSExAESi2ebISHlhDyfBwmPf8upkE/2fmpNihKHDeLqP3wfN455v1WYtpesU3HLdpbmcTlC9Ar/MlZkdPllcxkz83zioQXZXY6GaVh7IuQ==;rSyYu2l2g3eiIcREaj2wUQ=="
+secured: "vL5eJLlMul6gHyzxw0WVUk7sPdV1G+WX8Rk3heVDBvYh6nFrYWFgdJELJJ5TplGrtxUDjkJ/zzZej+fi882N9q/UN9igc6QsErUdQDLmk6155NJ+iewtAh0JeA7SMTboTC3lD9nNIchay6SvcHuysk96YCKvthvXT45Hc2KMaAiWoGaCm+zbJPzZaqb8tvGC+hu5ig6h/GMpEgkVYLobjast/ppIG5AF+rC7EabhfPudZTwMSGNFPcOK+U/yW67E+CL0+CdVyuXIEWCy0Enp6Wvj4B5L3+qnbkAPGITyPWOyGjTqL6JCSGPJUPDia729x5vh4WTDkxgvkpJRpsKxXtUw190dPaQq328sTjdTz9w7HMfKgWEC+gOqdtMDBWdJu9/hQXmN9ji/s+SVbtWlf1+qsha3eRAAxYWz723ybbkFYy9oFJxNoI8I3S+dX+rRJjglyoqENDAEPl42qHcLNM9jfXz2WHkERNStI/96dFxp3SQhXnuQy1KIwrHic9RmfkVEvp0ytDsEKjlNuHwSjg==;zBUXnGfGYon/zjQQXrnWww=="
 ---
 
