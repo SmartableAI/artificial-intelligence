@@ -2,11 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-06-30-tech-companies-want-facial-recognition-laws-but-maybe-not-this-one.md",
+      "title": "Tech companies want facial recognition laws, but maybe not this one",
+      "excerpt": "Lawmakers introduced legislation that would put an indefinite ban on facial recognition for police use. Not everyone's a fan.",
+      "webUrl": "https://www.cnet.com/news/tech-companies-want-facial-recognition-laws-but-maybe-not-this-one/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/Jm9xOx4BDDOtSspQSGeOkyH-Dkc=/756x567/2019/03/15/24f83d38-b716-4dbb-909b-edbb73d85b1b/facial-recogntion-1010.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Tech companies want facial recognition laws, but maybe not this one",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tech-companies-want-facial-recognition-laws-but-maybe-not-this-one/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tech-companies-want-facial-recognition-laws-but-maybe-not-this-one/",
+      "publishedDateTime": "2020-06-30T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time.md",
       "title": "Detroit Police Chief: Facial Recognition Software Misidentifies 96% of the Time",
       "excerpt": "In a public meeting Monday, Detroit Police Chief James Craig admitted that the technology, developed by a company called DataWorks Plus, almost never brings back a direct match and almost always misidentifies people.",
       "webUrl": "https://www.vice.com/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time",
-      "heat": 155,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1277,53 +1324,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge.md",
-      "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
-      "excerpt": "Alternatively, there’s color night vision for a more surreptitious view of the garden, porch, or whatever else you might point the camera at. Much the same way, the built-in siren can be automatically triggered or done manually through the app. There’s also two-way audio support. Motion detection uses computer vision to filter out the ...",
-      "webUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/Essential-_Spotlight_Lifestyle_Mounted_B.jpg",
-          "width": 1680,
-          "height": 1050,
-          "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
-      "publishedDateTime": "2020-06-15T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

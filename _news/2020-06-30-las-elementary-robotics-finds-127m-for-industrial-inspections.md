@@ -1,9 +1,9 @@
 ---
 category: news
 title: "LA's Elementary Robotics Finds $12.7M For Industrial Inspections"
-excerpt: "... led by startup veteran Arye Barnehama, said on Tuesday that it has raised $12.7M in funding for its industrial robotics company. The funding was led by Threshold Ventures, and also included Fika Ventures, Fathom Capital, and Toyota AI Ventures ..."
-publishedDateTime: 2020-06-30T17:59:00Z
-webUrl: "https://socaltech.com/la_s_elementary_robotics_finds____7m_for_industrial_inspections/s-0080032.html"
+excerpt: "Los Angeles-based Elementary Robotics, a new startup led by startup veteran Arye Barnehama, said on Tuesday that it has raised $12.7M in funding for its industrial robotics company. The funding was led by Threshold Ventures,"
+publishedDateTime: 2020-06-30T18:00:00Z
+webUrl: "https://www.socaltech.com/la_s_elementary_robotics_finds____7m_for_industrial_inspections/s-0080032.html"
 type: article
 quality: 34
 heat: -1
@@ -33,6 +33,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/4d006010-e497-496d-8ac8-5d5df66bc4e9-e1593109151202.png?w=1200&#038;strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Elementary Robotics raises $12.7M to expand AI manufacturing platform"
+    excerpt: "The Los Angeles-based startup has built a hardware and software platform for applying machine learning and computer vision for intelligent automation of quality and traceability workflows in manufacturing and logistics."
+    publishedDateTime: 2020-06-30T16:31:00Z
+    webUrl: "https://www.bizjournals.com/losangeles/news/2020/06/30/elementary-robotics-raises-127m-ai-platform.html"
+    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/06/30/elementary-robotics-raises-127m-ai-platform.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/06/30/elementary-robotics-raises-127m-ai-platform.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 89
+    images:
+      - url: "https://media.bizj.us/view/img/10715656/tmmtx-toyota-assembly-line-05*600xx6000-4000-0-0.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "Hunters.ai raises $15 million to automate cyberthreat detection"
     excerpt: "Hunters.ai, a cybersecurity startup that leverages AI and machine learning to detect threats, has raised $15 million in venture capital."
@@ -83,6 +99,6 @@ related:
         height: 688
         isCached: true
 
-secured: "Unxy7ryVj+NqyiiXeTJ8gADgg8FAlSk0yh2OR0JtUczkocZXvk6YV4YyjONDSfUojSht1edpVinFO5urUEKI6icL0MSXn1DfaSkpahXNVpuzV2sWqnHQ2iLtjo5hyGKdMxlUL8N8lnym0ScyE1Ezf2RjTo1oJR30BaTf5BGtWTeu3GuM0s3bRlVjzCrmUZqNv0StdUtjWCXiajl39u/h2oBMlfR+u0IU3wP4pV1X9SS9F6VTe1nvni8ig+6JLbw162r96dtYeFEqufo8IPlmirpC1jSDcsILUye6Swnj96mjNZwMK/OstI/HymbyfNMAjkq/Ob0dp8++p+OYrFf97w==;ZrFcxue45zB89URJvfKlpw=="
+secured: "AjMtOTiOF4HXnlZr0oW+MarusumAncokMm8B0oQ1tmIL0XvQkVilbYOMc5a54VmJ6cyHqQdr9S1Pm/tqmgMTr8jtJ9RDC6FUm5KHSdxaSuW5PqVHwT4IpIllZtXYb8mrHlWUx366Y28/KHU5QmQxGOK/HXWdkDtfgzJm6/UVgzvwZ/bZ1OCxNMwcE8SLOYSF79ER0Ywcna0O6YLsrJpht7hQXMtUsita6Vgki3V5sOOzB/qLHQZdjmT9h5ZO06hLS1p34wR9Xu7ZGbjthCZ9vrsyL3Dpo3Beey2LVkJVnI/0fBiLS6C30fFwIXFYLGvOxGjiLfiCdhKoH49JUGahkg==;BhIoQS1VOYXHrl5qWJ68MQ=="
 ---
 

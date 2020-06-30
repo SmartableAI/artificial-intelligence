@@ -2,54 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-06-30-unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency.md",
-      "title": "Unifying The Supply Chain With Machine Learning Organized Information, Increases Speed, And Improves Efficiency",
-      "excerpt": "The supply chain is complex, and machine learning will be a critical tool in the continuing improvement of supply chain management.",
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed90450d3f5a6000627e3ca%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": "Unifying The Supply Chain With Machine Learning Organized Information, Increases Speed, And Improves Efficiency",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/amp/",
-      "publishedDateTime": "2020-06-30T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
       "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google’s TensorFlow Lite for Microcontrollers",
       "excerpt": "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced the launch of WiseEye WE-I Plus HX6537-A solution that supports.",
@@ -1339,6 +1291,45 @@
         "Machine Learning",
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-microsoft-announces-azure-machine-learning-courses-on-udacity.md",
+      "title": "Microsoft Announces Azure Machine Learning Courses on Udacity",
+      "excerpt": "Microsoft and Udacity are offering an introductory Azure Machine Learning course and a scholarship to a more complex course.",
+      "webUrl": "https://winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2020/06/Microsoft-Azure-Udacity-Microsoft.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Microsoft Announces Azure Machine Learning Courses on Udacity",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/?amp",
+      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/?amp",
+      "publishedDateTime": "2020-06-18T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

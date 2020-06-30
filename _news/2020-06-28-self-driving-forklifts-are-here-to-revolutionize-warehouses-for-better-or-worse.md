@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Self-driving forklifts are here to revolutionize warehouses, for better or worse"
-excerpt: "Third Wave Automation raised $15 million to make self-driving forklifts a reality. Here's how it's going to change warehouses as we know it."
+excerpt: "And it’s helping to create the self-driving forklifts to prove it. Using expertise in fields ranging from robotics to computer vision, Third Wave has developed technology that promises to help revolutionize the warehouses of tomorrow. Emerging from ..."
 publishedDateTime: 2020-06-28T13:28:00Z
-webUrl: "https://www.digitaltrends.com/news/third-wave-automation-autonomous-forklifts/"
+webUrl: "https://www.digitaltrends.com/news/third-wave-automation-autonomous-forklifts/?itm_source=10&itm_content=2x2&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/news/third-wave-automation-autonomous-forklifts/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/third-wave-automation-autonomous-forklifts/?amp"
 type: article
@@ -41,6 +41,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "t8UiH+6pe6hMT1V0mZW16fAetL6VH7QwF0wKzOGAUAzYHGJoKt+X5EiFs6iSu1vZofP9ODaVdgArfmoa9Ng1c1GGjz6N5k0UPPBPfr0bkuso2aPS97nOUNpa7PYblBOYyhTzCujUcGE9KDvQAIyB9OrKroIGmu80KbjVQECQ6qjsVZ23qxYb+llG4efTOTzSz3Va38dfWOoz3nVTkTWyCDyZvvho6jbo1r6O953imk7/6Jb93PgvEv0Z2VQU+hGWBjOq4/MIHhF1rRapz/yEBwNvG9KWhJavDMCYrbbKgrgWu8LO0QgZ6bobGiUbUXxOqdel9eHg0oQ17EQhwJPQCr7SoRCZ2mpbvO4XozVl11EP80UjUl3FgL+3CRgSDEDJVmdhqkolfojHuZdPCVdFmCKGUKzFyMl+kFDCk2Z+0zpbq3F8uxSNeHp6i4bXysAnBzQoZLYdT9WxQw/yPnzTBmsmfNQP18O0SU74tAuGHDRLnAjz8hTiEf3Xeg6Nj5A/VZWvuOkazffQzN57e6QgNA==;qqIqPL0RoVVWgn5CjTUTxA=="
+secured: "3pwGXpR9CUu23kXxdynf+trAMQTjqZIYo5TFgcGDsc5OZkXglqg4tznp23EqZli+O3NECFhC/Oua/rY+y0VjH7TfDbCcuhTgyj2fKBw6f6rp8sVfuitWRF5BCfGndadILA+vkwtIuVdEFRe8sM7TMhwqWAZ6gyxBkLVHTbqMJZPdXn2ECmKpFYVIUQHe96CpZEmja6GH1cRkKIrXZk7nF/f2qdIKPoyv6RfU7Qpu7cxHdo5uOB50bTk82y/h1fM3EjjNReZk+3aKDN6jxQh3l5oM9FU4F5soPUJP665H4ayXoie5NAO0PwNZzwE7grau3D7gRICRbOTxb/Sd2OTKr2N9KBSJ4MPI8Ddlb072vZBaJIzmVeAiPHU18KkekaZn/RmlskQrleJhoiDMulWG7Q7P4w4/DsJ2r+sPUpPIR+lcyrwqHHXwwRcplGzPbBWJQzuKPfstKymfaxEjgn4m9EJ5UvGJqD5GQhPnc+qDN4twSWXLPksYTrUNQ/XuyE/IlBa2CKouR+NPWV/P0wG2mg==;9cFNNCky7HflE8nW1HUuAg=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-m
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/amp/"
 type: article
 quality: 117
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     title: "Elementary Robotics raises $12.7 million to automate industrial inspections"
 
 related:
+  - title: "Elementary Robotics raises $12.7M to expand AI manufacturing platform"
+    excerpt: "The Los Angeles-based startup has built a hardware and software platform for applying machine learning and computer vision for intelligent automation of quality and traceability workflows in manufacturing and logistics."
+    publishedDateTime: 2020-06-30T16:31:00Z
+    webUrl: "https://www.bizjournals.com/losangeles/news/2020/06/30/elementary-robotics-raises-127m-ai-platform.html"
+    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/06/30/elementary-robotics-raises-127m-ai-platform.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/06/30/elementary-robotics-raises-127m-ai-platform.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 89
+    images:
+      - url: "https://media.bizj.us/view/img/10715656/tmmtx-toyota-assembly-line-05*600xx6000-4000-0-0.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Hunters.ai raises $15 million to automate cyberthreat detection"
     excerpt: "Hunters.ai, a cybersecurity startup that leverages AI and machine learning to detect threats, has raised $15 million in venture capital."
     publishedDateTime: 2020-06-30T13:22:00Z
@@ -80,9 +96,9 @@ related:
         height: 688
         isCached: true
   - title: "LA's Elementary Robotics Finds $12.7M For Industrial Inspections"
-    excerpt: "... led by startup veteran Arye Barnehama, said on Tuesday that it has raised $12.7M in funding for its industrial robotics company. The funding was led by Threshold Ventures, and also included Fika Ventures, Fathom Capital, and Toyota AI Ventures ..."
-    publishedDateTime: 2020-06-30T17:59:00Z
-    webUrl: "https://socaltech.com/la_s_elementary_robotics_finds____7m_for_industrial_inspections/s-0080032.html"
+    excerpt: "Los Angeles-based Elementary Robotics, a new startup led by startup veteran Arye Barnehama, said on Tuesday that it has raised $12.7M in funding for its industrial robotics company. The funding was led by Threshold Ventures,"
+    publishedDateTime: 2020-06-30T18:00:00Z
+    webUrl: "https://www.socaltech.com/la_s_elementary_robotics_finds____7m_for_industrial_inspections/s-0080032.html"
     type: article
     provider:
       name: SocalTech

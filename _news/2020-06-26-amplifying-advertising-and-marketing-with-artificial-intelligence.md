@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "The Power of Outsourcing AI and Machine Learning Projects"
-    excerpt: "Machine learning and artificial intelligence are at the forefront of today’s technological world. These technologies are not only evolving at a"
-    publishedDateTime: 2020-06-26T02:02:00Z
-    webUrl: "https://www.techshout.com/business/2020/25/the-power-of-outsourcing-ai-and-machine-learning-projects/"
-    ampWebUrl: "https://www.techshout.com/business/2020/25/the-power-of-outsourcing-ai-and-machine-learning-projects/amp/"
-    cdnAmpWebUrl: "https://www-techshout-com.cdn.ampproject.org/c/s/www.techshout.com/business/2020/25/the-power-of-outsourcing-ai-and-machine-learning-projects/amp/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 74
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2020/06/artificial-intelligence-ai.jpg"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Top 15 Hot Artificial Intelligence Technologies"
     excerpt: "Technology can be generally defined as the things, which are formed by the application of conceptual and corporeal efforts in demand, to gain"
     publishedDateTime: 2020-06-29T07:30:00Z

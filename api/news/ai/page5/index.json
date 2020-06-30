@@ -2,6 +2,91 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-25-a-black-man-in-detroit-was-arrested-and-detained-for-30-hours-after-being-falsely-identified-by-facial-recognition.md",
+      "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
+      "excerpt": "Activists have objected to the use of facial recognition by law enforcement for years, as the technology has been shown to display racial bias.",
+      "webUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6",
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5d9b1756138e4a2e893e4931?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
+      "publishedDateTime": "2020-06-25T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-real-ai-robot-cast-in-lead-role-of-sci-fi-movie.md",
+      "title": "Real AI Robot Cast In Lead Role Of Sci-Fi Movie",
+      "excerpt": "A new sci-fi movie is set to become the first-ever film to rely on an artificial intelligence robot named Erica.",
+      "webUrl": "https://www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-3000166",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/12/07/robotaicapital-markets.jpg",
+          "width": 1200,
+          "height": 848,
+          "title": "Real AI Robot Cast In Lead Role Of Sci-Fi Movie",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-3000166?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-3000166?amp=1",
+      "publishedDateTime": "2020-06-24T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-how-technology-will-create-these-7-jobs-in-the-future.md",
       "title": "How Technology Will Create These 7 Jobs In The Future",
       "excerpt": "These seven futuristic LinkedIn job ads can offer a small glimpse into a future where our children grow up to be hologram stylists, chief empathy officers, or even augmented reality life designers.",
@@ -1237,102 +1322,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device.md",
-      "title": "Google’s new ML Kit SDK keeps all machine learning on the device",
-      "excerpt": "Smartphones today have become so powerful that sometimes even mid-range handsets can support some fancy machine learning and AI applications. Most of those, however, still rely on cloud-hosted",
-      "webUrl": "https://www.slashgear.com/googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device-24626181/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/ml-kit.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "Google’s new ML Kit SDK keeps all machine learning on the device",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device-24626181/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device-24626181/amp/",
-      "publishedDateTime": "2020-06-24T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-artificial-vs-augmented-intelligence-whats-the-difference.md",
-      "title": "Artificial vs augmented intelligence: what’s the difference?",
-      "excerpt": "Artificial intelligence has accrued some very bad reputation over the years. For some, the term AI has become synonymous with the mass unemployment, mass slavery, and mass extermination of humans by robots.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/24/1300892-syndication/",
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/2-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Artificial vs augmented intelligence: what’s the difference?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/24/1300892-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/24/1300892-syndication/amp/",
-      "publishedDateTime": "2020-06-24T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
       ]
     }
   ],

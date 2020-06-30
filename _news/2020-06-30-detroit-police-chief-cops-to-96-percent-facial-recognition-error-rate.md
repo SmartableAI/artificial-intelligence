@@ -100,20 +100,6 @@ related:
         width: 618
         height: 425
         isCached: true
-  - title: "US policy arm of major computing association urges suspension of facial recognition technology"
-    excerpt: "The Association for Computing Machinery's US Technology Policy Committee (USTPC) today called for 'an immediate suspension of the current and future private and governmental use of facial recognition (FR) technologies in all circumstances known or reasonably foreseeable to be prejudicial to established human and legal rights' in its 'Statement on Principles and Prerequisites for the Development,"
-    publishedDateTime: 2020-06-30T09:19:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/afcm-upa062920.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/236157_web.jpg"
-        width: 618
-        height: 218
-        isCached: true
   - title: "Detroit police work to expunge record of man wrongfully accused with facial recognition"
     excerpt: "Detroit — A day after the American Civil Liberties Union filed a complaint against Detroit police officials about the wrongful arrest of an African American man the group said was mistakenly targeted through facial recognition software, investigators ..."
     publishedDateTime: 2020-06-26T20:42:00Z

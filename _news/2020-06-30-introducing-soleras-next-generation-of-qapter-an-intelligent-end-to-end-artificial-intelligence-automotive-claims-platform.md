@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Introducing Solera's Next Generation Of Qapter, An Intelligent End-To-End Artificial Intelligence Automotive Claims Platform"
-excerpt: "PRNewswire/ -- Solera Holdings, Inc. (\"Solera\" or the \"company\"), a global leader in risk and asset management data and software solutions for the"
+title: "Introducing Solera’s Next Generation Of Qapter, An Intelligent End-To-End Artificial Intelligence Automotive Claims Platform"
+excerpt: "(“Solera” or the “company”), a global leader in risk and asset management data and software solutions for the insurance and automotive industries, today introduced the next generation of Qapter, the company’s innovative automotive claims workflow solution driven by artificial intelligence (AI)."
 publishedDateTime: 2020-06-30T12:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/introducing-soleras-next-generation-of-qapter-an-intelligent-end-to-end-artificial-intelligence-automotive-claims-platform-301085869.html"
+webUrl: "https://apnews.com/PR Newswire/d7e7031299cc066b0e13a99484151c7b"
 type: article
 quality: 25
 heat: 25
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/215922/solera_holdings_inc_logo.jpg?p=facebook"
-    width: 2699
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
-    title: "Introducing Solera's Next Generation Of Qapter, An Intelligent End-To-End Artificial Intelligence Automotive Claims Platform"
+    title: "Introducing Solera’s Next Generation Of Qapter, An Intelligent End-To-End Artificial Intelligence Automotive Claims Platform"
 
-secured: "7tYPgWHddiCsVfJUJ0STzePOIqjkdG15e8IZt0fLLdadVpqYhe9t9krl3wLVv4DANRqu7siLBAHsLtHK234vYfmImLX2ZpoJ3V1e2bjNyorQuqDOOWOWvaW3KbZH10zAltvZY7Y/6cPQ49Deiaplsf4lt5xwMkCVQC9h/62sjNW6RIPdfo7PeP7rBYyMB7kDjj7mA+ZeXtr2DVRKGbUXWMcHmJrpCpLdw+AP2Eo3dYPpzIedrjBrJG+lPV9f071wNw1HTmp88oh+UHdAfJju/wVU4W0/dzw3Upt5GxiAlUo5HM2WOlErCOo7UBrbL+jUsWqj+tyaOZGRzMXYTeNEdQ==;w5iCP9OwlXIxHbhZwoE1Kw=="
+secured: "K3jkAoQiYlIDTETTNb0S5UV8PuDs4VNG3Go6Jev6029eMjn5UbMRDsvyZUkx1zlLHwztknpTuXrdC7UiRZx44aTPFaJuZf0Ji50DhdSTRofbL2QNvENpkGK8r1FNM4kwSjjG3x3HlBG/enTpaHxiNRNHotCBcU9F8pkeFFoZA5+vpLBSGSVHFJ9FmA+ewuHlA5AHrhUphyRynOoLX9NSru9KSBLo0phUx8KnJrHyAG3B1XKcFh6w1Uj9FAmZoQZhkZ93eN9fXjAi4hQtWLNKW8Rz3hbxK1cewDJh2uQa4Jsx9ugCqIkkPkQ5xNDQ2J0RWBMm/wkKBMnWGMLac9XPlw==;3ugqGb/RarssTe/EIcBsnQ=="
 ---
 

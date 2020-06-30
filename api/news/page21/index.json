@@ -2,6 +2,111 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-06-11-former-envestnet-exec-raises-18m-for-jiffyai-unveils-the-first-unified-automation-and-no-code-app-development-platform-for-finance-and-operations.md",
+      "title": "Former Envestnet Exec Raises $18M for JIFFY.ai, Unveils the First Unified Automation and No-Code App Development Platform for Finance and Operations",
+      "excerpt": "JIFFY.ai, the first-ever unified enterprise automation innovation company structured to have a lasting social impact over the next several decades, today launches",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/former-envestnet-exec-raises-18m-for-jiffy-ai-unveils-the-first-unified-automation-and-no/article_34cfb91b-e7ca-5387-a274-a389e279b557.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/ca/eca30dfa-e3af-5cda-ad95-e323c7824f33/5ee291775818e.image.jpg?resize=400%2C314",
+          "width": 400,
+          "height": 314,
+          "title": "Former Envestnet Exec Raises $18M for JIFFY.ai, Unveils the First Unified Automation and No-Code App Development Platform for Finance and Operations",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-repairing-and-rewiring-the-brain.md",
+      "title": "Repairing and Rewiring the Brain",
+      "excerpt": "Perhaps the most rewarding part of my work is helping post- traumatic brain injury clients to regain mastery of skills they thought were lost forever. Many of you may be familiar with this aspect of my work from Clark Elliott’s book,",
+      "webUrl": "https://www.psychologytoday.com/us/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain?amp",
+      "publishedDateTime": "2020-06-11T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-microsoft-says-it-wont-sell-facial-recognition-tech-to-police-either.md",
+      "title": "Microsoft says it won't sell facial recognition tech to police, either",
+      "excerpt": "Microsoft President Brad Smith announced in a livestreamed conversation with the Washington Post Thursday that the company does not, and would not, sell facial recognition technology to police departments.",
+      "webUrl": "https://mashable.com/article/microsoft-facial-recognition-police/",
+      "heat": 399,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F11%252Ff2%252F5a67d000110b48f281e7f9f006fe6ce3.cf069.jpg%252F1200x630.jpg?signature=pC2qMYmF16VEBHyS8udP4OATk1w=",
+          "width": 1200,
+          "height": 630,
+          "title": "Microsoft says it won't sell facial recognition tech to police, either",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/microsoft-facial-recognition-police.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-facial-recognition-police.amp",
+      "publishedDateTime": "2020-06-11T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters.md",
       "title": "Cryptomining syndicate hijacks Kubernetes clusters",
       "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
@@ -948,138 +1053,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-superannotate-uses-ai-techniques-to-speed-up-data-labeling.md",
-      "title": "SuperAnnotate uses AI techniques to speed up data labeling",
-      "excerpt": "SuperAnnotate, a startup developing AI-powered data labeling and annotation tools, raised $3 million in a seed funding round.",
-      "webUrl": "https://venturebeat.com/2020/06/11/superannotate-uses-ai-techniques-to-speed-up-data-labeling/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/ea7130cc-4a60-44b6-b483-faa3bfc97716-e1591656959570.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "SuperAnnotate uses AI techniques to speed up data labeling",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/11/superannotate-uses-ai-techniques-to-speed-up-data-labeling/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/superannotate-uses-ai-techniques-to-speed-up-data-labeling/amp/",
-      "publishedDateTime": "2020-06-11T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-openais-text-generator-is-going-commercial.md",
-      "title": "OpenAI’s Text Generator Is Going Commercial",
-      "excerpt": "Last spring, artificial intelligence research institute OpenAI said it had made software so good at generating text—including fake news articles—that it was too dangerous to release.",
-      "webUrl": "https://www.wired.com/story/openai-text-generator-going-commercial/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ee185bc9798446ce8080154/master/pass/OpenAI-Commercial-Venture_-86506626.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "OpenAI’s Text Generator Is Going Commercial",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/openai-text-generator-going-commercial/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/openai-text-generator-going-commercial/amp",
-      "publishedDateTime": "2020-06-11T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study.md",
-      "title": "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study",
-      "excerpt": "We study spiking neural networks, which are systems that learn much as living brains do,” said Los Alamos National Laboratory computer scientist Yijing Watkins. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development.",
-      "webUrl": "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/",
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://starctmag.com/wp-content/uploads/2020/06/Artificial-Brains-Need-Sleep-Just-as-Much-as-Regular-Brains-Do-New-Study.jpg",
-          "width": 744,
-          "height": 389,
-          "title": "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/amp/",
-      "cdnAmpWebUrl": "https://starctmag-com.cdn.ampproject.org/c/s/starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/amp/",
-      "publishedDateTime": "2020-06-11T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StarMag",
-        "domain": "starctmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

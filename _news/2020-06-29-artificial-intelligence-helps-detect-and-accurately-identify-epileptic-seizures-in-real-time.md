@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200629/Artificial-intelligen
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200629/Artificial-intelligence-helps-detect-and-accurately-identify-epileptic-seizures-in-real-time.aspx"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -27,16 +27,14 @@ images:
 
 related:
   - title: "Artificial intelligence identifies, locates seizures in real-time"
-    excerpt: "Researchers from Washington University in St. Louis' McKelvey School of Engineering have combined artificial intelligence with systems theory to develop a more efficient way to detect and accurately identify an epileptic seizure in real-time."
-    publishedDateTime: 2020-06-29T16:46:00Z
-    webUrl: "https://medicalxpress.com/news/2020-06-artificial-intelligence-seizures-real-time.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-06-artificial-intelligence-seizures-real-time.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-06-artificial-intelligence-seizures-real-time.amp"
+    excerpt: "Research has shown that understanding brain activity as a network instead of readings from an EEG allow for more accurate and efficient detection of seizures in real-time."
+    publishedDateTime: 2020-06-29T21:40:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/06/200629124052.htm"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 37
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Artificial Intelligence Detects Epileptic Seizures in Real Time"
     excerpt: "An artificial intelligence system was able to accurately and efficiently identify epileptic seizures in real time."
     publishedDateTime: 2020-06-30T13:38:00Z

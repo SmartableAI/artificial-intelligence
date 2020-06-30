@@ -29,20 +29,6 @@ images:
     title: "Building a visual search application with Amazon SageMaker and Amazon ES"
 
 related:
-  - title: "Developing NER models with Amazon SageMaker Ground Truth and Amazon Comprehend"
-    excerpt: "Named entity recognition (NER) involves sifting through text data to locate noun phrases called named entities and categorizing each with a label, such as person, organization, or brand. For example, in the statement “I recently subscribed to Amazon Prime,” Amazon Prime is the named entity and can be"
-    publishedDateTime: 2020-06-26T19:19:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/developing-ner-models-with-amazon-sagemaker-ground-truth-and-amazon-comprehend/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/26/named-entit-recognition-001-2.jpg"
-        width: 1000
-        height: 550
-        isCached: true
   - title: "How Euler Hermes detects typo squatting with Amazon SageMaker"
     excerpt: "This is a guest post from Euler Hermes. In their own words, “For over 100 years, Euler Hermes, the world leader in credit insurance, has accompanied its clients to provide simpler and safer digital products, thus becoming a key catalyzer in the world’s commerce.” Euler Hermes manages more than 600,000"
     publishedDateTime: 2020-06-29T17:22:15Z

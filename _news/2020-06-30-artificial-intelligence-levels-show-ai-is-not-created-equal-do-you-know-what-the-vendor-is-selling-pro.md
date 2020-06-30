@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Artificial intelligence levels show AI is not created equal. Do you know what the vendor is selling? [PRO]"
 
-secured: "Gevri9PvDl/AarDyLUwQQ/GeeKQq85cNn0kC70Zv8Z31EyKaPbsv3uzgfRSjGKtdQBb0VT3pvYP7iUGYyG+NEVIgeMa0J7pw1Zd/mbY6VoQSm+ZAOdK1/RwYzsYOe3TR4iJpkd/pHurnrN0g0WqzQIbz+GUK8BPvMeV9T/RIcmtp0/t4UGH/+/oJEyAiSQaCsTY59JdnAh0HtmIeWiJ2wpp3Aeaq06HSM1eZNITXHpbivs3qS1w90LCOGUdflzo9oLRHYeqJLbErMADcjpFVwOtONB7lrGSrw16HYaVTV1M86MvpASEF+oZ4KieVtXYIP//mS8ezAiH7IBxLxMQvmA==;rT850b194zb1Mf5Gbf8KFA=="
+secured: "QPmBjjqNbDBQ9RuTuA6pbJRcKmLqe9BaO6lnfRFoATPxlV+ps/oLIC27md/ZK/WT16VZO0+HCXVOcQ6Mr64PA6FuFQ70RMsXSMgjexCdUvY+op4eGQkOlEyY0+V0WLewfrbuuUWCRGRFYqj5opT6TojXe1nsxOzF0h9hzoCREuL9jqZlVN85OzV0rkLiGzh0HwKm5X6Dx0GvUaRSbCapYDLQzvr9+0fqtKIWgCm1c2/MjM+aM+qRVKmmLc0FawK1V4plf2129sj072G9nLnlr2SGXA4+mHJdT5y3W/BNgUCsNEGEdD0W+TKNwHr9qRsgMU3hfukTqwpn1oqRKJL3tXM94yhNa/mTTC0wFB1sFHqiBCvrhwj5QeX+0A8PNdlMM2U3UTIIXtknAuWMc6hKGHdwnw84EkTQoOFop0YkfCkK61C/TpN8Bt1RkbL2BI/51G5B4dDafSpP4UorBlP1KpygITMn2VBbv5fua2d/r9sJwSebEeBhgXVT6QcpQ9xd8geTL18uRubG8c7Jtw4usg==;qX+wfVW1+jWtv7iRx05rHg=="
 ---
 

@@ -2,6 +2,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-11-amazon-temporarily-bans-police-use-of-its-facial-recognition-technology.md",
+      "title": "Amazon temporarily bans police use of its facial recognition technology",
+      "excerpt": "known as Amazon Rekognition. The move comes as protesters clash with police across the U.S. following the killing of George Floyd in Minneapolis. Floyd's death has spurred widespread calls for ...",
+      "webUrl": "https://www.bizjournals.com/seattle/news/2020/06/10/amazon-bans-use-of-facial-recognition-technology.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11318094/san-francisco-facial-recognition-0*600xx3991-2667-0-0.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Amazon temporarily bans police use of its facial recognition technology",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bizjournals.com/seattle/news/2020/06/10/amazon-bans-use-of-facial-recognition-technology.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2020/06/10/amazon-bans-use-of-facial-recognition-technology.amp.html",
+      "publishedDateTime": "2020-06-11T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-police-wont-be-using-ibm-amazon-facial-recognition-technology-for-now-as-companies-either-pause-or-suspend-its-use.md",
       "title": "Police won’t be using IBM, Amazon facial recognition technology for now as companies either pause or suspend its use",
       "excerpt": "Amazon Rekognition, the company’s face identification technology that launched in 2016 and has been sold to multiple U.S. government agencies, will not be used by law enforcement for at least a ...",
@@ -1259,35 +1297,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-tag-aws-reinvent-2018.md",
-      "title": "Tag: AWS re:Invent 2018",
-      "excerpt": "Hypertext is one of South Africa’s leading technology news and reviews sites, catering for consumers, small and medium businesses and the technology channel. We publish original content daily ...",
-      "webUrl": "https://www.htxt.co.za/topics/aws-reinvent-2018/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Htxt.Africa",
-        "domain": "htxt.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

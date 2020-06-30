@@ -2,6 +2,193 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-29-us-artificial-intelligence-ai-market-forecast-report-2020-2027-top-key-players-analysis.md",
+      "title": "U.S. Artificial Intelligence (AI) Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
+      "excerpt": "The U.S. Artificial Intelligence (AI) market report, published by GMI Research, provides extensive insight and analysis of the U.S. Artificial Intelligence (AI) market over the forecast period (2020-2027).",
+      "webUrl": "https://www.marketwatch.com/press-release/us-artificial-intelligence-ai-market-forecast-report-2020---2027---top-key-players-analysis-2020-06-29",
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "U.S. Artificial Intelligence (AI) Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup.md",
+      "title": "Medical tech firm Brainlab acquires Level Ex surgery game startup",
+      "excerpt": "Medical technology company Brainlab has acquired video game surgery training company Level Ex. Terms of the deal were not disclosed.",
+      "webUrl": "https://venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/level-ex-3.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 645,
+          "title": "Medical tech firm Brainlab acquires Level Ex surgery game startup",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/amp/",
+      "publishedDateTime": "2020-06-29T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-advancing-azure-service-quality-with-artificial-intelligence-aiops.md",
+      "title": "Advancing Azure service quality with artificial intelligence: AIOps",
+      "excerpt": "As Mark mentioned when he authored the Advancing Reliability blog series, building and operating a global cloud infrastructure at the scale of Azure is a complex task with hundreds of ever-evolving service components, spanning more than 160 datacenters and across more than 60 regions.",
+      "webUrl": "https://azure.microsoft.com/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/",
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/23aa03d8-6047-40dd-9a74-f9785e4ca016.png",
+          "width": 1024,
+          "height": 449,
+          "title": "Advancing Azure service quality with artificial intelligence: AIOps",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T02:00:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-service-robotics-market-by-supply-demand-scenario-application-by-region-pricing-analysis-opportunities-and-forecast-2026.md",
+      "title": "Service Robotics Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026",
+      "excerpt": "The global service robotics market is expected to rise with an impressive CAGR and generate the highest revenue by",
+      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market---by-supply-demand-scenario-application-by-region-pricing-analysis-opportunities-and-forecast-2026-2020-06-29",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Service Robotics Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-australian-space-agency-picks-fugro-for-robotics-control-centre.md",
       "title": "Australian Space Agency picks Fugro for robotics control centre",
       "excerpt": "The newly formed Australian Space Agency (ASA) has partnered with Fugro for the design, construction and operate a robotics control centre.",
@@ -583,53 +770,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-26-developing-ner-models-with-amazon-sagemaker-ground-truth-and-amazon-comprehend.md",
-      "title": "Developing NER models with Amazon SageMaker Ground Truth and Amazon Comprehend",
-      "excerpt": "Named entity recognition (NER) involves sifting through text data to locate noun phrases called named entities and categorizing each with a label, such as person, organization, or brand. For example, in the statement “I recently subscribed to Amazon Prime,” Amazon Prime is the named entity and can be",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/developing-ner-models-with-amazon-sagemaker-ground-truth-and-amazon-comprehend/",
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/26/named-entit-recognition-001-2.jpg",
-          "width": 1000,
-          "height": 550,
-          "title": "Developing NER models with Amazon SageMaker Ground Truth and Amazon Comprehend",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-26T12:19:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-26-only-12-hours-left-to-apply-for-startup-battlefield-at-disrupt-2020.md",
       "title": "Only 12 hours left to apply for Startup Battlefield at Disrupt 2020",
       "excerpt": "It’s now o’clock, founders. A mere 12 hours stands between you and a chance to compete in Startup Battlefield and launch your pre-Series A startup during Disrupt 2020 — in front of the world’s influential technorati.",
@@ -992,146 +1132,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-volvo-cars-waymo-partner-to-build-self-driving-vehicles.md",
-      "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
-      "excerpt": "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles. The companies said Waymo will work with Volvo’s global brands ...",
-      "webUrl": "https://www.reuters.com/article/us-waymo-volvo-autonomous-idUSKBN23W2V0",
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200625&t=2&i=1523643342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5O27V",
-          "width": 817,
-          "height": 545,
-          "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23W2V0",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23W2V0",
-      "publishedDateTime": "2020-06-26T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-15-tech-experts-share-potential-impacts-of-ai-on-society.md",
-      "title": "15 Tech Experts Share Potential Impacts Of AI On Society",
-      "excerpt": "AI could prove a powerful tool in addressing certain societal problems; however, as with any new technology, it may cause problems, too.",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/26/15-tech-experts-share-potential-impacts-of-ai-on-society/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef4b263b002b30006d82ab0%2F0x0.jpg",
-          "width": 1200,
-          "height": 683,
-          "title": "15 Tech Experts Share Potential Impacts Of AI On Society",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/26/15-tech-experts-share-potential-impacts-of-ai-on-society/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/26/15-tech-experts-share-potential-impacts-of-ai-on-society/amp/",
-      "publishedDateTime": "2020-06-26T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-robotics-in-business-everything-humans-need-to-know.md",
-      "title": "Robotics in business: Everything humans need to know",
-      "excerpt": "3D gaming sensors are helping robots navigate the clutter of the unstructured human world. And companies like Google, Amazon, and Apple have been hard at work bringing limited Artificial Intelligence platforms online and into homes. This has all been ...",
-      "webUrl": "https://www.zdnet.com/article/robotics-in-business-everything-humans-need-to-know/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2017/02/07/0d0d7aa7-1578-4781-b083-4913601d89dc/resize/1200x900/831cf0856b72eff833dd5e676a5302e9/20170207104736-intro.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Robotics in business: Everything humans need to know",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robotics-in-business-everything-humans-need-to-know/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robotics-in-business-everything-humans-need-to-know/",
-      "publishedDateTime": "2020-06-26T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
