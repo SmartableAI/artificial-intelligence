@@ -2,6 +2,90 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-24-incontextai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare.md",
+      "title": "inContext.ai Awarded $225K by the National Science Foundation to Develop Artificial Intelligence Tools for Healthcare",
+      "excerpt": "Press Release inContext.ai, a developer of healthcare-centric information extraction software and AI-powered clinical applications, announced an award of $225K in National Science Foundation (NSF) funding.",
+      "webUrl": "https://venturebeat.com/2020/06/24/incontext-ai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare/",
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/24/incontext-ai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/incontext-ai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare/amp/",
+      "publishedDateTime": "2020-06-24T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-researchers-use-ai-and-simulation-to-optimize-ride-sharing-earnings.md",
+      "title": "Researchers use AI and simulation to optimize ride-sharing earnings",
+      "excerpt": "Researchers at Boston University propose a framework that optimizes ride-hailing earnings for drivers without negatively impacting the rider experience.",
+      "webUrl": "https://venturebeat.com/2020/06/24/researchers-use-ai-and-simulation-to-optimize-ride-sharing-earnings/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-509147578-e1584462768628.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers use AI and simulation to optimize ride-sharing earnings",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/24/researchers-use-ai-and-simulation-to-optimize-ride-sharing-earnings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/researchers-use-ai-and-simulation-to-optimize-ride-sharing-earnings/amp/",
+      "publishedDateTime": "2020-06-24T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-artificial-intelligence-real-estate-firm-ojo-labs-raises-625-million-buys-home-listing-site.md",
       "title": "Artificial Intelligence Real Estate Firm OJO Labs Raises $62.5 Million, Buys Home Listing Site",
       "excerpt": "Having closed a fourth round of funding, OJO Labs, a real estate company that deploys artificial intelligence to the home buying experience, announced today the acquisition of home listing website Movoto.",
@@ -1270,91 +1354,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-qualcomm-puts-ai-and-5g-in-the-hands-of-robotics-designers.md",
-      "title": "Qualcomm Puts AI and 5G in the Hands of Robotics Designers",
-      "excerpt": "According to Qualcomm’s press release, the platform features artificial intelligence (AI) and machine learning (ML) capabilities while still minimizing power consumption. This platform has been designed specifically for applications in robotics ...",
-      "webUrl": "https://www.allaboutcircuits.com/news/qualcomm-puts-ai-5g-in-hands-robotics-designers/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/RB5_Platform.jpg",
-          "width": 700,
-          "height": 301,
-          "title": "Qualcomm Puts AI and 5G in the Hands of Robotics Designers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "All About Circuits",
-        "domain": "allaboutcircuits.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-chinas-didi-aims-for-1-million-robotaxis-on-its-platform-by-2030.md",
-      "title": "China's Didi aims for 1 million robotaxis on its platform by 2030",
-      "excerpt": "China's ride-hailing giant Didi Chuxing aims to operate more than 1 million self-driving cars through its platform by 2030, an executive said on Tuesday.",
-      "webUrl": "https://www.reuters.com/article/us-china-autonomous-didi-idUSKBN23U1U4",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200623&t=2&i=1523192451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5M140",
-          "width": 817,
-          "height": 545,
-          "title": "China's Didi aims for 1 million robotaxis on its platform by 2030",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23U1U4",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23U1U4",
-      "publishedDateTime": "2020-06-23T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

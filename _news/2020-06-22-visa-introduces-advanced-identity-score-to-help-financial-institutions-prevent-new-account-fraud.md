@@ -1,19 +1,30 @@
 ---
 category: news
 title: "Visa Introduces Advanced Identity Score to Help Financial Institutions Prevent New Account Fraud"
-excerpt: "Visa introduces Advanced Identity Score to help financial institutions prevent new account fraud by using AI to identify risk."
-publishedDateTime: 2020-06-22T11:06:00Z
-webUrl: "https://www.businesswire.com/news/home/20200622005251/en/Visa-Introduces-Advanced-Identity-Score-Financial-Institutions"
+excerpt: "Visa Inc. (NYSE: V) today announced a digital tool to help U.S. financial institutions with their efforts to combat new account fraud – estimated at"
+publishedDateTime: 2020-06-22T11:00:00Z
+webUrl: "https://www.marketwatch.com/press-release/visa-introduces-advanced-identity-score-to-help-financial-institutions-prevent-new-account-fraud-2020-06-22"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-secured: "wlDwqzLm07pvHSOJlAK8jSDG33hrwOLmn8ztAmMoEZNrP0gGXRII1SKIUOgaABemumXmezTHyRu6PlUse3t4RR6Guc9+WJbJ//10MvDukHIqxUMtLLfFwVLd8e5oL58b5Qp695Haz7INWcpPiFbRHYS857TtMYiF34bjYmXCmlJWObwWxTVFG7j0QVmLP3AmSY33cyMBmoL2MhSTTslKHCbaantZyj2mu9rKYoAT1FJ6soQxSIIHQ5PwS+DHfO8nZWX+VzQhUEWw97MO7qP9TME71YkEMCXm6VpqIAukY6iZTxXPeUFl/4YT5puJTeR4oHdCUKYvEbMJQ3h7xG0k2w==;LhGjXF8R7sZx16xAYR9hYQ=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+    title: "Visa Introduces Advanced Identity Score to Help Financial Institutions Prevent New Account Fraud"
+
+secured: "Pid77SE+5UGnr0wACB0S9t3qQT/jjkufgkYpF3/1/S6GfFOiW241GScTr6MnOmM+v2rFBNOqXlLgJpgMCknvv163F5+rvg6Hif8dtmfnYGpLk7OuKJL/RFCNExyJxL1XMDGnMX0kwZXUAncEMgbeAJR+wJq30BfR4lpr4lt8DeaCKa6U0aXB8rITA9VaIEHcM5CuKe8ANFVzvOn9N1JVXRsU8Qq4KREYBiH7NDuHUfgiAg0izOo9CavNINWAJ5zKMqvyQ/gMXbx5EiaMBvJKPRTf7iW1Qm6N4ORYR9UIj+4+VMOZmgys+hfgWZaeoJ7fC+XBNnzAMdiWo4uyL+Uv6Q==;ml2N7MeOsbHn2eEE9UoEbg=="
 ---
 

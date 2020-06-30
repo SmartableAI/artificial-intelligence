@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Exclusive: Sony confirms a7S II successor this summer - \"Everything is new\""
 
-secured: "Epch9JlO0Y/vNuiPbzdGEp9yhmvUKyfRMHdMibuWHsonq7Ubr2dZxygpLGdRZjxyl0c7iCjZR0IgJdxVfN/AISQ1+Es54ytD8eZ+t+YyhpgTTq9g7c8mynoF/4Uq4zubwMq0MXZOeLhVP6xJks2nW6oso+k8/lJ/DBMGJH2xFNE/u/W9K3Uth+ODngE1EGQUam5zGTgqqZEp3WSYmRkhMR7sJ7aEmfzdGpmh74l9YXjH61eJprKk7Xg1wvnQa1dgkLUNsPHjP+8SZQlhEkVeGl1zvTAW729s0vfkzyECImS/jMNmtO7oTkn62W6zXfNzUm1tX2L0QyK+5qElFb0MdA==;us6HxJ/TuYpYG52VKiR35A=="
+secured: "yee6R9Zhp64kBaefwdkKebwns8o2+ulcVntM3uYR95p04UpEoOc0ob+P2ZFHPJlwNHsk1HK+JcbR5PN3WmtWgkLG9sQ+R0ei5aFhOo5x7EsOf64dviox65E/N01yNkqlAZEqFcjy5w8Ux2V7kvxzC2ijI0ELRZIO7VgYORpOzvr2X3Icy85WAbMNG8B7SuHdiVYkDEfWBtiHivkt54Tiwj0+GTtN4enCXZkHP5py6ABW9Gi/RWcuwzboDWx10fWmlm17V3pSBZ6qQVsaVlGAC5AfWcPZFTnbkK3WI07Z93amX2Aw89HXT1HRhydoAGVem5hfv3JXkQrUTyWJTwDDK0OKNgW9DAn+LYUmC7d/vTqM49XwSeIAvQixS8iyXk/kkcSIgCik3v+54y0IBd/XoI/1pJHmYJ7ZBZS5+nVzV+CqciFIMFsDAl8MniZUydsyfdOFhz/Ix84dkiK5ssVlb3SL2WzN8p7msp0zIveFXpKkDXyMgWXZaKXSeEoaTHP2Xm0f/us5Tls0ieLX4RmofQ==;cdFbopDg1XqeYkZ+PqE36A=="
 ---
 

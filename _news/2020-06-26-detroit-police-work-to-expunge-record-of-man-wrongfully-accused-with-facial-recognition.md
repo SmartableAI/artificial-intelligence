@@ -96,6 +96,20 @@ related:
         width: 618
         height: 425
         isCached: true
+  - title: "US policy arm of major computing association urges suspension of facial recognition technology"
+    excerpt: "The Association for Computing Machinery's US Technology Policy Committee (USTPC) today called for 'an immediate suspension of the current and future private and governmental use of facial recognition (FR) technologies in all circumstances known or reasonably foreseeable to be prejudicial to established human and legal rights' in its 'Statement on Principles and Prerequisites for the Development,"
+    publishedDateTime: 2020-06-30T09:19:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/afcm-upa062920.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 29
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/236157_web.jpg"
+        width: 618
+        height: 218
+        isCached: true
 
 secured: "Hx9Vs9rI5F0VV5kNM6daGI3+JVdbpTxFnaak1sCapbUKlBw15qzlp6p3TISVPbqo2eQVTSpEutuzBsmOVc18AJE/JQf/4mikPMYFD8EYIxEDzkb3U3TZMk+wLKuZvElCxNrUxVstsrn2AfRE+O4FmEXIiOsD0PwQmr4c68ZEonXTgjd6cKsbqOtaKrBKN5XKpK0xKBU+2xvPHv03U/jcC6f6lJ288k9tAqCL6xIIiYcnANFeP8KA/AcqVR2leJO2IVicvwNVWZQkNRPEIoxxJMbjCXQeymdCiGUUrH+hLCP23VvxeZ8UTNfMZb+e/gMnHN1SEWrWZc+UYElv78yJnIb7yYzdaezwaXdW0sJj3IL3c7mSEiL7KQpqwy4mc0ATu81Ku3IDiQrmoE4ZJsv/bVNonqVW2BgKBR+sGxlKDtRx4fNDgk6vzeAtc2nkcCt6e7yzL4rse5Edg0eOwBku2rFbJTqsKcPOB4qiqFPLvdV+GD2k3L+X8H4fn9dfx3XLZGdMaFq8Sal00UYhLwdNbQ==;2O/hfaXBDIqoKHTmP14Low=="
 ---

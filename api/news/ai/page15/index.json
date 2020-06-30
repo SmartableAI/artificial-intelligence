@@ -2,6 +2,128 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-06-13-openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities.md",
+      "title": "OpenAI makes an all-purpose API for its text-based AI capabilities",
+      "excerpt": "If you’ve ever wanted to try out OpenAI’s vaunted machine learning toolset, it just got a lot easier. The company has released an API that lets developers call its AI tools in on “virtually any English language task.",
+      "webUrl": "https://techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?w=1024",
+          "width": 1024,
+          "height": 693,
+          "title": "OpenAI makes an all-purpose API for its text-based AI capabilities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/amp/",
+      "publishedDateTime": "2020-06-13T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-13-iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing.md",
+      "title": "IIT-Kharagpur Researchers Develop AI-Based System To Monitor Social Distancing",
+      "excerpt": "A group of researchers at IIT-Kharagpur has developed a cyber-physical system based on artificial intelligence for monitoring ... Welfare,\" a member of the research group said.",
+      "webUrl": "https://www.ndtv.com/science/iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing-2245633",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2020-03/1ilp6l0g_social-distancing-ndtv_625x300_26_March_20.jpg",
+          "width": 650,
+          "height": 400,
+          "title": "IIT-Kharagpur Researchers Develop AI-Based System To Monitor Social Distancing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/science/iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing-2245633?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing-2245633?amp=1&akamai-rum=off",
+      "publishedDateTime": "2020-06-12T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial.md",
+      "title": "Global and Chinese Automotive Vision Markets, 2020 Assessment - Visual Perception Algorithms Become Crucial",
+      "excerpt": "Stock quotes by finanzen.net DUBLIN, June 12, 2020 /PRNewswire/ -- The \"Automotive Vision Industry Chain Report (II) Binocular and Others\" report has been added to ResearchAndMarkets.com's offering. Breakthroughs in Binocular Camera Chinese startups have made dramatic breakthroughs in binocular cameras,",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial-1029305297",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial-1029305297",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial-1029305297",
+      "publishedDateTime": "2020-06-12T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work.md",
       "title": "AI Weekly: AI phrenology is racist nonsense, so of course it doesn’t work",
       "excerpt": "Researchers torched studies that claim to be able to determine a person's criminality using facial recognition technology.",
@@ -1189,129 +1311,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-deep-learning-chipset-market-is-thriving-worldwide-nvidia-intel-ibm-qualcomm.md",
-      "title": "Deep Learning Chipset Market is Thriving Worldwide | NVIDIA, Intel, IBM, Qualcomm",
-      "excerpt": "Deep Learning Chipset Market Research: Global Status & Forecast by Geography, Type &",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-is-thriving-worldwide-nvidia-intel-ibm-qualcomm-2020-06-12",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Chipset Market is Thriving Worldwide | NVIDIA, Intel, IBM, Qualcomm",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-12T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-machine-learning-market-by-component-end-use-size-opportunities-and-forecast-2019-2026.md",
-      "title": "Machine Learning Market By Component, End-use, Size, Opportunities And Forecast, 2019 – 2026",
-      "excerpt": "As per the research held by Acumen Research and Consulting, \"the global Machine Learning market anticipated to exceed US$ 76.8 Bn by 2027, along with the projected CAGR of 40.1% from 2020 to 2027\". The global Machine Learning market research report encompasses qualitative and quantitative data derived from the analysis by experts and research analysts in the respective industry verticals from valid sources with the help of primary and secondary research tools.",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-by-component-end-use-size-opportunities-and-forecast-2019-2026-2020-06-12",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning Market By Component, End-use, Size, Opportunities And Forecast, 2019 – 2026",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-12T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-cloud-storage-on-site-hardware-aws-azure-google-cloud.md",
-      "title": "Cloud storage on-site hardware: AWS, Azure, Google Cloud",
-      "excerpt": "AWS’s Outposts, Gateway and Snow hardware, Azure’s Stack and Arc appliances, and Google Cloud’s software-defined Anthos.",
-      "webUrl": "https://www.computerweekly.com/feature/Cloud-storage-on-site-hardware-AWS-Azure-Google-Cloud",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/feature/Cloud-storage-on-site-hardware-AWS-Azure-Google-Cloud?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Cloud-storage-on-site-hardware-AWS-Azure-Google-Cloud?amp=1",
-      "publishedDateTime": "2020-06-12T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Let's Kill Facial Recognition For Good"
-excerpt: "There’s a buffet of things to be scared shitless about these days, but for those who have sampled even a taste of big tech’s eagerness to build and sell facial recognition surveillance software to law enforcement,"
-publishedDateTime: 2020-06-26T02:00:00Z
-webUrl: "https://gizmodo.com/lets-kill-facial-recognition-for-good-1844168367"
-ampWebUrl: "https://gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp"
-cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp"
+excerpt: "Those emails mention all three classes of surveillance covered in today’s bill—pattern, facial, and voice recognition—as being available for the DEA to use at its discretion. “Facial recognition technology doesn’t just pose a grave threat to our ..."
+publishedDateTime: 2020-06-26T11:00:00Z
+webUrl: "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367"
+ampWebUrl: "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp"
+cdnAmpWebUrl: "https://paleofuture-gizmodo-com.cdn.ampproject.org/c/s/paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Gizmodo
+  name: paleofuture.gizmodo
   domain: gizmodo.com
   images:
     - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
@@ -402,6 +402,6 @@ related:
         height: 400
         isCached: true
 
-secured: "woK/XnAGyVgQfvs0XQRa5YYOjI3qkQISmTQsFvEH+gurkuHfrIvdy/hp6TIPaAQhJge8FvPa8CNfqlVO6L2YhIwztcQc7txZpsO1jWVYUJWDv2cQcJ1hvT+tyt3ClhIf+2VyF+m3nEsAGKUN+sbP6MDphzxy7XTTJLIuXAiuVePdzF7YsS5Evmoxtwto9w4MLmdLrd+Jljnr7OaBvOmPDusfxnLYAKYylyXngpCvOk2KtWeqsRuILE28cM97yRA7+LQ8e6M+yIZpHgJbp1egu+kFzdAkwQHkCBBrCGOBUVvYR9LlfHtIp/HuMEsnEHG9lpjxxrl1876GTuzIqL5mqg==;pYkGvj74Ga3y8RQTCK1lsw=="
+secured: "SQwOSi325qQiXqf5QDczdcpnCiLJEFzjcEUsZLYAbid/5u/6oZRqH+QqPA1SgacrUlFsVxIhBFbLQuh32RVB8OCz8JF0Qt5iH2g63Rmkp/2phDYr+NTMaIwdBDnqxZvwL6WfKyDuYDjlP6wypZnFc6r8gaBu1QeesKOJ3qNhKKMOK+ab4O6wb1LRBD9Ln8GTwE2UyY9l6sQ0KpNJsnZqeTz4PgCsu2KN7Yb0ZejSZhCp+FOhVLDSckupqZOEAxjdqS84Yu61Nr0u8cPhFXe+qJ3JzM22b8Xmeg3PU6vZP3I6YoPjWorFaWPGLDF4zXjR6vR+f8qGAyeeG/5Jwn/agQ==;7a9EoRt94vgQYi+hHtdk9w=="
 ---
 

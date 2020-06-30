@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp"
 type: article
 quality: 89
-heat: 429
+heat: 439
 published: true
 
 provider:
@@ -534,6 +534,15 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
+    quality: 4
+  - title: "Amazon acquires self-driving start-up Zoox for $1.2bn"
+    excerpt: "In a transaction that it believes “will help bring the vision of autonomous ride-hailing to reality”, online retailer Amazon is to acquire self-driving start-up Zoox for a reported $1.2bn. The acquisition represents further investment by Amazon in the ..."
+    publishedDateTime: 2020-06-30T08:48:00Z
+    webUrl: "https://www.financierworldwide.com/fw-news/2020/6/30/amazon-acquires-self-driving-start-up-zoox-for-12bn"
+    type: article
+    provider:
+      name: Financierworldwide.com
+      domain: financierworldwide.com
     quality: 4
 
 secured: "t+phz1Z6/X9661VlSzfs/4ITU2dWbBL53SOlfBNHCXQAFxKpfkoTrcAqwTra0EQ76tqvTs/VCAXZawzcEo+Nwrucm4aIzFuaoS/zmSo4UDCFZkPVHM5twuvBIijpuPjMAZ/Lf15r+/MLiLnlNj4bocX6zh2lY7ZXp8X1ykv/C9mhKZvg1Jg/1Cv2Y2vvYIEHIlkNH9Qj3ThrrP7dBEVlvJKNK0hBvziglGNyGwtvlcjU4rG5wQhVfEAJR+HnN27uk5FC3Afc7ZMVpdZqH1k2sCC7lRRP5ZvYhTr1RryseaeYa0+gQbo8HhMikww/OmZ3v5wRduzJqgyg0u1RY+pDr96bmY+7peBtoBXHsJbJZLymcwJiDx7pwuOg11UVBMBjfy+fLbV91vehqto45Th70dEhBIc1C3lT+AaNJtZcuQuy1orC5ofo3/cDclyB6vJ/JmjZ/e3LobRqdSS71gHilCq0ZmMmNIeWkgcxxJu4B2oYwD4agmnqeTxqICA/bY3g;dBJDTaoul0hB7GXiRe3GxQ=="

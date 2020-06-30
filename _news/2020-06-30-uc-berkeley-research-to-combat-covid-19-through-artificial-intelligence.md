@@ -7,6 +7,7 @@ webUrl: "https://www.dailycal.org/2020/06/29/uc-berkeley-research-to-combat-covi
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: The Daily Californian
@@ -23,6 +24,6 @@ images:
     isCached: true
     title: "UC Berkeley research to combat COVID-19 through artificial intelligence"
 
-secured: "qglgUAr/PMj8jjEsi3mif58lkBlXGQmepVQMU0yEXO3NF5F4YUwTI0FIYE4W+8kvOheNidYnOxVak34QsfumqshjC9w3JDgmFdbVl0fXXLmzO1E1C650C5BL2fDb4sB8eLcjVzO6QhJ7CHzpw723HTFeeka7F35ZB+iNv8Gt+xK0zbOdJyCtb64sSTVEpAUpEsOkqQOL+iMyLHFFYuw1TLFduZPmHSHyLxaDUTRa2smE3jl8LKgkUIgcgrmi3+wH2j6besrrcF/hJVuiODz1qv/9mHFo8b1jGiWEXMh5B3urdRL0EcyXRPaT8ycGPyJjy4Aza2s1/0msN8Sl2y8w5w==;ncb2ZatykndljG01dEzYPw=="
+secured: "IXIdfbAd2S62IwsA955V2mj2wtAwqfIP+x7a/j+1kGQEg502xu/YRVMI9BA9WSzR4xhkx+Fg1YrbpniGfPcPt0qHq3h1LSHMS337oIoILMxghQPtuLoxjmwJooZgeL8g3xwcMsM3/0Dij8frlTkFiIcRiUeSRixjKHlEELJTQIfQ6aHdq7/uQXC3qZ97EYUVKBK3l15AEv7du0cOqsW1fhYolCG+OMD+c8yqXQhsSZPEVPOXTk5DeOVsmv9+CogF4H+bCRkISJC25niufyW1meXMKgkLZxNAYRVOoPk2zgG4rvDXVmvPZt34M83gmr/AFaWS/3pu1BHixZZv1F+oFLlMv1udkv3cNzEipYEZjaBeMU/T6WcFv+YtnnwLrmVNpDFE3JsQT/wMErF/dFavvxbj9+ekkd8WnFRgHJgPJaxFK2MpTPdnhSlk+Dl6ELFJusnRZVPYsvYHl3FlfxHiH/Zfa9nsqcJ9US8cyJGgGGJylA18b8hL6aXUaTx0sVfrZ066YUUN3t3SimIpGhWCqQ==;XrNFurHkauI+ROJR4gTwwQ=="
 ---
 

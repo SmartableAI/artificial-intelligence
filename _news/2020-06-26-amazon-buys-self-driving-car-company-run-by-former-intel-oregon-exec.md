@@ -531,6 +531,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 4
+  - title: "Amazon acquires self-driving start-up Zoox for $1.2bn"
+    excerpt: "In a transaction that it believes “will help bring the vision of autonomous ride-hailing to reality”, online retailer Amazon is to acquire self-driving start-up Zoox for a reported $1.2bn. The acquisition represents further investment by Amazon in the ..."
+    publishedDateTime: 2020-06-30T08:48:00Z
+    webUrl: "https://www.financierworldwide.com/fw-news/2020/6/30/amazon-acquires-self-driving-start-up-zoox-for-12bn"
+    type: article
+    provider:
+      name: Financierworldwide.com
+      domain: financierworldwide.com
+    quality: 4
 
 secured: "nw+j+4v7eLWjTKeSlKGvNxVD1pvEX4SPXRGccGc6yGj7P1pthD34x9t0ijtt7ccMI/2MgcZjiMYVoIUwGtbedqRbUZgrQrN0+b4MnVAL8hXWXEbJNa/m8L/lyqanjJVRs1JzNoae8aiVhlryQ7kr+DERMnGzdT/FsCc4CnxgHIrnGXUquh9QtUX2yo5ATD6tpFcy8N6SoFc6MjzrUwo4qzs6HI4akl/OG/baId0aBAc1LuHBCrPwkOopi3bxXGut7UryFC07r7fxV4kJ7MLN5FL4/QnqTOXEZC5+Gt+l4lcXi1Vq7kRVxEsKtSrzP+7AAkLPDhS99Plwm9xY4PwRhg==;49XBjE1nIwxQKEYZw2wtgA=="
 ---

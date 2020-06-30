@@ -25,22 +25,6 @@ images:
     title: "Databricks hands its MLflow machine learning platform to the Linux Foundation"
 
 related:
-  - title: "Machine learning platform MLflow joins the Linux Foundation"
-    excerpt: "Handing the platform run by Databricks to the vendor-neutral foundation will speed growth, the organizations say."
-    publishedDateTime: 2020-06-25T16:00:00Z
-    webUrl: "https://www.techrepublic.com/article/machine-learning-platform-mlflow-joins-the-linux-foundation/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/machine-learning-platform-mlflow-joins-the-linux-foundation/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-platform-mlflow-joins-the-linux-foundation/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 104
-    images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2019/01/24/815af793-11d7-4337-8ab0-cc3048fe78cf/resize/1200x/fe1818e94dbdea2e87869e3264c8e2b5/opensourceistock-479493570boygovideo.jpg"
-        width: 1200
-        height: 960
-        isCached: true
   - title: "MLflow has Grown Up and Left Home: Machine Learning Framework Joins Linux Foundation"
     excerpt: "“We’ve moved MLflow into the Linux Foundation as a vendor-neutral non-profit organization to manage the project long-term” The open source tool from the US company (whose founders created analytics engine Apache Spark) sees an eye-ball popping 2.5 ..."
     publishedDateTime: 2020-06-26T15:39:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://www.cbronline.com/wp-content/uploads/2020/06/MLflow-1024x768.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "The future of education is digital, online learning platform CEO says"
-    excerpt: "Even before the coronavirus pandemic, online learning options were growing. But now, with around a billion and a half students worldwide displaced from schools, education institutions are scrambling to offer e-learning tools."
-    publishedDateTime: 2020-06-29T10:45:00Z
-    webUrl: "https://www.marketplace.org/2020/06/29/future-of-education-online-learning-coursera-jeff-maggioncalda/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 24
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2020/06/GettyImages-1213470247.jpg?w=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "0vL2m+mH1QQ3GK7dmRON8OhwCdN9ICCjYoDJMh6tXYb3YputaVj4VsM971mxYPtviIb5UggPiZ4N/W1BnlZvdg/XFC5RYyAN5XHIYy/cyxKxo+aBIULQ15UP6Id84WQSLFiytnqQDZCO82UB17DN2q3qHayEjfBlT7yDq1pZU/iwjOrygbpTjmjD4OnO3EEWfz33gJu8+UaNxFYcTghEhv6wZAJBEu+DkfwA63KCLUWmluB3o9dYw+DmXKcyk57SihHHU+wxWCVWF3d6W7ZnP5E9Le+fOPkzksNcIZf7xRetUUFfkGzrWyCWo3ZfKTYOD0BAdC7fKgr+GcYBcucROkR1ainOI1RYMy5QHGSmAdhfQrstIO7Yoob5K6C87ONqBtBUWc1IrQVmxMWJLs0ZitHjtxFetZ5B2CV+jzZdRdBkK7Cg88g9hoozsgYOgwumtNjCEob2GqiyizFFy4q3MbZkPGK7EEYbDz9Q0yZzdz5gQiXduFXdNkrBKwt01LuutBCoVmxAZ5CSZ0r0bCnLlA==;Kbi4iLDePtlijMWHVqjJng=="

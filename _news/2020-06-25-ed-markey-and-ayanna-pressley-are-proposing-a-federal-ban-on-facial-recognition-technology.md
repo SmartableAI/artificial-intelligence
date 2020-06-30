@@ -204,14 +204,14 @@ related:
         height: 417
         isCached: true
   - title: "Let's Kill Facial Recognition For Good"
-    excerpt: "There’s a buffet of things to be scared shitless about these days, but for those who have sampled even a taste of big tech’s eagerness to build and sell facial recognition surveillance software to law enforcement,"
-    publishedDateTime: 2020-06-26T02:00:00Z
-    webUrl: "https://gizmodo.com/lets-kill-facial-recognition-for-good-1844168367"
-    ampWebUrl: "https://gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp"
+    excerpt: "Those emails mention all three classes of surveillance covered in today’s bill—pattern, facial, and voice recognition—as being available for the DEA to use at its discretion. “Facial recognition technology doesn’t just pose a grave threat to our ..."
+    publishedDateTime: 2020-06-26T11:00:00Z
+    webUrl: "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367"
+    ampWebUrl: "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp"
+    cdnAmpWebUrl: "https://paleofuture-gizmodo-com.cdn.ampproject.org/c/s/paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp"
     type: article
     provider:
-      name: Gizmodo
+      name: paleofuture.gizmodo
       domain: gizmodo.com
     quality: 74
     images:

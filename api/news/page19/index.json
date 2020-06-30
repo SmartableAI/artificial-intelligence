@@ -2,6 +2,129 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-06-12-udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud.md",
+      "title": "Udacity, Microsoft to skill people in machine learning for Azure Cloud",
+      "excerpt": "Phase one of the programme will provide 10,000 applicants access to the two-month-long foundation course titled Introduction to Machine Learning on Azure' with a low-code experience. The second phase will offer a scholarship for the new programme in Microsoft Azure to top 300 performers of the foundation course,",
+      "webUrl": "https://news.webindia123.com/news/articles/Science/20200612/3574912.html",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-12T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-deep-learning-neural-networks-market-is-booming-worldwide-ibm-neural-technologies-aws.md",
+      "title": "Deep Learning Neural Networks Market is Booming Worldwide | IBM, Neural Technologies, AWS",
+      "excerpt": "A special chapter in the study presents Impact Analysis of COVID-19 on Global Deep Learning Neural Networks Market along with tables and graphs related to various country and segments showcasing impact on growth trends.",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-neural-networks-market-is-booming-worldwide-ibm-neural-technologies-aws-2020-06-12",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Neural Networks Market is Booming Worldwide | IBM, Neural Technologies, AWS",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-12T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-citizen-isnt-here-to-be-your-free-speech-platform.md",
+      "title": "Citizen Isn't Here to Be Your Free-Speech Platform",
+      "excerpt": "I have become a Citizen addict. Citizen is an app, currently active in 18 cities, that’s sort of a supercharged police scanner—its home screen is a map of the area around your location that pinpoints disturbances.",
+      "webUrl": "https://www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ee2b6f1e8f495017d8cebd3/master/pass/business_citizen_639285526.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Citizen Isn't Here to Be Your Free-Speech Platform",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/amp",
+      "publishedDateTime": "2020-06-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-tech-giants-back-away-from-facial-recognition-amid-bias-concerns.md",
       "title": "Tech Giants Back Away From Facial Recognition Amid Bias Concerns",
       "excerpt": "On June 10, Amazon announced a one-year moratorium on police use of Amazon’s facial recognition technology, Amazon Rekognition. In a blog post, Amazon said it will still allow organizations such as Thorn, the International Center for Missing and ...",
@@ -880,129 +1003,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-microsoft-says-it-wont-sell-facial-recognition-tech-to-police-either.md",
-      "title": "Microsoft says it won't sell facial recognition tech to police, either",
-      "excerpt": "Microsoft President Brad Smith announced in a livestreamed conversation with the Washington Post Thursday that the company does not, and would not, sell facial recognition technology to police departments.",
-      "webUrl": "https://mashable.com/article/microsoft-facial-recognition-police/",
-      "heat": 399,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F06%252F11%252Ff2%252F5a67d000110b48f281e7f9f006fe6ce3.cf069.jpg%252F1200x630.jpg?signature=pC2qMYmF16VEBHyS8udP4OATk1w=",
-          "width": 1200,
-          "height": 630,
-          "title": "Microsoft says it won't sell facial recognition tech to police, either",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/microsoft-facial-recognition-police.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-facial-recognition-police.amp",
-      "publishedDateTime": "2020-06-11T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters.md",
-      "title": "Cryptomining syndicate hijacks Kubernetes clusters",
-      "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
-      "webUrl": "https://www.techradar.com/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YsReok3f8M9yESRDbeGJVH-1200-80.jpg",
-          "width": 970,
-          "height": 546,
-          "title": "Cryptomining syndicate hijacks Kubernetes clusters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
-      "publishedDateTime": "2020-06-11T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-amazon-too-reviews-its-policy-on-police-use-of-its-face-recognition-tech-amid-blm.md",
-      "title": "Amazon too reviews its policy on police use of its face-recognition tech amid #BLM",
-      "excerpt": "The petition takes aim at Amazon Web Services cloud computing unit’s “Rekognition” facial recognition technology and Ring surveillance cameras used for home security. “Amazon needs to ...",
-      "webUrl": "https://www.deccanchronicle.com/technology/in-other-news/110620/amazon-too-reviews-its-policy-on-police-use-of-its-face-recognition-te.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-g4bflmnbi4coegebsi9036ohp2-20200611182340.Medi.jpeg",
-          "width": 800,
-          "height": 448,
-          "title": "Amazon too reviews its policy on police use of its face-recognition tech amid #BLM",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.deccanchronicle.com/amp/technology/in-other-news/110620/amazon-too-reviews-its-policy-on-police-use-of-its-face-recognition-te.html",
-      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/110620/amazon-too-reviews-its-policy-on-police-use-of-its-face-recognition-te.html",
-      "publishedDateTime": "2020-06-11T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Chronicle",
-        "domain": "deccanchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

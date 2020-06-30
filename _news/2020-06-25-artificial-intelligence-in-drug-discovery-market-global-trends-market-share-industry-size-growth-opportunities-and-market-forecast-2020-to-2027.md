@@ -57,20 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market- Global Industry Analysis By Development, Size, Share and Demand Forecast From to 2023"
-    excerpt: "Artificial Intelligence in Manufacturing Market: Global Drivers, Restraints, Opportunities, Trends, and Forecasts up"
-    publishedDateTime: 2020-06-25T16:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market--global-industry-analysis-by-development-size-share-and-demand-forecast-from-to-2023-2020-06-25"
+  - title: "Artificial Intelligence in Diabetes Management Market 2028 Report Reviews Future Development, Manufacturers, Trends, Share, Size and Forecast"
+    excerpt: "Overview . The Global artificial intelligence in diabetes management market is likely to register significant growth"
+    publishedDateTime: 2020-06-30T07:58:00Z
+    webUrl: "https://www.medgadget.com/2020/06/artificial-intelligence-in-diabetes-management-market-2028-report-reviews-future-development-manufacturers-trends-share-size-and-forecast.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "FBP8VFHrLzZz48vh/VvRbMbvdX7fY0ZWUfW0e3xbrZcacmZ+8o8z9Ff2u4lGnszZJ6y1AFK5qA8lP99JNKFIj+uwcrWlLxKJWnHMWiRrgGYoi1pfW5jX4Iz1zpXiRm+UPycXG6JnGLZTC1IlFWgQ7sqc2RakdtWdXiAQidCHaae8z4KIrHQA0W1YluzbsY16bFeX/7snhFURkSYF3z2WyXe5qUAo28n2m6F20ivTrOpoWTsuvrD1M4NDQIdVoplcOPkSgh46BrMXo7M4ixJsumuDo5eUwE2O9A67pWA2xH0pRgtssTJ8A6L82KKwNqMLilQ7yd4yNNAf28v12vSAyw==;IDIjdWqeyX0ao2oTcKpTIA=="
 ---
