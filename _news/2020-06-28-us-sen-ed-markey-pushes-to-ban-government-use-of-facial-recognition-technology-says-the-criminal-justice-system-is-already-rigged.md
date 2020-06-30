@@ -397,20 +397,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition Technology By The City"
-    excerpt: "Boston is poised to ban its use of facial surveillance technology, becoming the second-largest community in the world to do so. The city council"
-    publishedDateTime: 2020-06-25T10:25:00Z
-    webUrl: "https://news.wbfo.org/post/boston-lawmakers-vote-ban-use-facial-recognition-technology-city"
-    type: article
-    provider:
-      name: WBFO
-      domain: wbfo.org
-    quality: 21
-    images:
-      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202006/883132109.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "ZrXVAebkOyiQ4gGeROqFe3FcST2g+u1Cm8GeDHEUSqVfkGKfLYSlGTjJBkcxH8+0knDx6O4U3fKuhI9/lpM+92ut/9KLk7Kn3pbbJMrlSPshECppZWVi2U06LrkLVTLIY9odKaU9zMqNDIpDJGcaA0PfGwoAC0WlPFmMr0PYTG+fUbq0z61qULC/gKCdAXDNN5zuWhOVYUOJji/BlLDWfQ9lkV2AmK+Du/OlChfUmvMgFS/1zFfMmfoi1Be3F5Qko39NQe9/W7JLo9rYyMlJ6hHdYo4IUnBuxv78P+FjMmBZRqUUpYan+MM4dga6UNhpQkA13Bm9GzANeJWd6sQfoOkHdLgXhu/oNuIYSSMPfj88pSx/Vu5k2OzRWIpeoSLP74/ucxzsQebjU+pyezK7P4uz5F9+4Ct25bD+eI2u9VAS8pa5F6XWS2gyLjFdrO0x9olotmEdTAyzuZvwvU715aJyIywWi0QW4n8r1aRArVRx/gdpX0K8On56a5OFj0O1wX+gmycCAtXmBSuDmIrk6A==;WLOWf/+GBHPs7BQbNJbvfQ=="
 ---

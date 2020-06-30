@@ -43,6 +43,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "One Bad Algorithm? Advocates Say Facial Recognition Reveals Systemic Racism in AI Technology"
+    excerpt: "The growing controversy over police use of facial recognition technology has accelerated after a Black man in Michigan revealed he was wrongfully arrested because of the technology. Detroit police handcuffed Robert Williams in front of his wife and daughters after facial recognition software falsely identified him as a suspect in a robbery."
+    publishedDateTime: 2020-06-26T14:02:00Z
+    webUrl: "https://www.democracynow.org/2020/6/26/racist_facial_recognition_technology_joy_buolamwini"
+    type: article
+    provider:
+      name: Democracy Now
+      domain: democracynow.org
+    quality: 45
+    images:
+      - url: "https://www.democracynow.org/images/story/69/53269/full_hd/seg2-surveillance-camera.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "ib9Ccf8y3LHdukMCLEfUtPYyXNv7eAv9XnRIkz2GGClelD9zViXgbCoZkzlwVL7nIOU+0KOmq8BZscvfr2kx/cL1aBeCBkb7bd4t1gji991TlLjkm+Hro8VxT4/E3kVOjc31hOB7AduFLf5kqI9uuKrCGrhtEjMFG7eao4Fpcu/d5UB55QQ2KgX4inXOMC4znAKGLpgGbWp+MMuO1Jxa3MfreYPXk0ccUbmaQ648RPnBjJvqBhNg4oUGnqSQZPIPdKmBGQQ30Log7RQotn/O3gBZ1tFsSCuEN0ox/AQzRbyod+sCYSDDHTzRExLWidHoUgmBP9/QtAfDXexjGQOw8w==;dhjiuTPPItUgyzIHyBfCJw=="
 ---

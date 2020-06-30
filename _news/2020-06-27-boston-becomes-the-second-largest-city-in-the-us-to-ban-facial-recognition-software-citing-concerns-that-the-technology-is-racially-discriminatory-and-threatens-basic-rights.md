@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-s
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-second-largest-city-ban-facial-recognition-software.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     height: 382
     isCached: true
     title: "Boston becomes the second largest city in the US to ban facial recognition software, citing concerns that the technology is 'racially discriminatory' and threatens basic rights"
-
-related:
-  - title: "Boston Bans Use Of Facial Recognition Technology. It's The 2nd-Largest City To Do So"
-    excerpt: "The move comes even as city officials say the technology isn't yet used by the Boston Police Department -- though the department could get access to it with a software upgrade."
-    publishedDateTime: 2020-06-25T10:31:00Z
-    webUrl: "https://www.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    ampWebUrl: "https://amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2020/06/23/boston-facial-recognition-ban"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 37
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2020/06/GettyImages-1199025045.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
 
 secured: "CXKg6KWeMMwSQIaX+5A+pTpKZWjuq3BF/tbkgPbSukYc3hNtLBN0YKHTc/IRR6pleqIzA9YBQtSwSABMaqfpJz08cPfWhP/MntlpktyYqh5QcXiy51EMws9xwLp2T+/WAzvxQHq/jyOtXILuI0KG59oncdPhnYx/ZqyfUrmKl86rPwDqdaPapqNOoX29h8HXT6x/VrwttOPTwTVHWF8lVhJeTIV01upI9I3+he0oPIQEtzyqKR6wq7SePYm3ES5UNiOYsXFKPoIRm8tKoKNFco8mg5da/GhHO5dMKYBcN834pW2vRHIq73uQPIviwLLe/ApzBiht6NX/VniRn5IAvg==;qHsW0FiX/QZzZaaX6E6S5A=="
 ---

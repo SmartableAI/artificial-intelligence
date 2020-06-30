@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Amazon releases CodeGuru, which uses machine learning to optimize code"
+    excerpt: "Amazon Web Services Inc. said today its new Amazon CodeGuru service, which relies on machine learning to automatically check code for bugs and suggest fixes, is now generally available. Amazon announced the tool in preview at its AWS re:Invent event in December."
+    publishedDateTime: 2020-06-30T03:17:00Z
+    webUrl: "https://siliconangle.com/2020/06/29/amazon-codeguru-uses-machine-learning-optimize-code-now-available/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/source-4280758_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "c9f4y3VVVlGS/Tg33x8cKU/RjdKSXtPI1/Yp13yppbieDCFR9i/1Cp4FjShjNwOeofCOwMQZWCRPjVoeKj8oapiddPN1z1oZh+M4nYj+f7GO8fDku7MhwmLh+mpZzTbys1hLYg7vIYM8h/4mw81UoTTJup4D0V1xnOlWh0lxH6aRDTFFiqiTgQY4inTbQu5eKMAUiaZYZrdEOMQwyZ62Yczpw1I2Kv35ENxlUfSobB8cS9ACTZdNYK04bA+G2QLgItYR+xyLXYLLBVsnZn/LfuWE5dBFey/DrG7aAkYfJF25jhI4SuQb484n+CPLCCMIzQxeQPHd1Q8Sokquh/c9Nw==;qvaCc9jTYF8Be8xHRfiYbw=="
 ---

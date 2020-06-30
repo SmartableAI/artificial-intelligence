@@ -36,6 +36,20 @@ related:
       name: Your Story
       domain: yourstory.com
     quality: 45
+  - title: "AI, VR and robotics shake up healthcare in the UAE, and the Gulf"
+    excerpt: "Government regulations and initiatives are a driving force behind the growth of the UAE’s healthcare sector in general, and in the use of emerging technology in clinical settings."
+    publishedDateTime: 2020-06-30T02:15:00Z
+    webUrl: "https://www.cio.com/article/3562361/ai-vr-and-robotics-shake-up-healthcare-in-the-uae-and-the-gulf.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/06/intuitive-100849954-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "6+ui1N1A1mzq/gbY2kIIfuOrHkEcwRJsi7aobBYPfksvZWKiBStXXQknZiwNPdQeKzxit7LcPtnukDe+iD2R6P7wEn+my5n1OMxHgzFcXw1AJlb2u6l8tf4r4Cf4RhOwWxx53iIYpWJSxLXgBqCEbftqenKI6JHQbhM197Vw7Qlxi+RdfKES4cMdmHhWIzHRivbQ2hT5wmIm+n/kqsDkRAAsuqECdthmQz+ImsW1l7gueeUJ1w9JCTE/D6ej7IyfcUdqdBt+PQgEywKyzWtQhq+HyRS1CE8EiOkqWsjQojn0nEjmd1U1siwf9rgNfqH535ESb2k2nKHa9vpJRr2UzA9rMG1caEDawvn0zKo7qqy0JtfrEcctbDk8LQsRWOI7VxugNRF97Pi4wbMHG467SgJvWFNm0dGTxDFDLktct6OLll7vZJgDKvNlhnSTVd799d00WkLrcMVHwYQUeemup0/XGrieVn9Qyp9TjYgkT1vhLi6eW6rKjKNQOSGbwEe6d5HMQ+QCp0RSJGdL0woW9Q==;RNiVWscJUyPpzedYQsf3XA=="
 ---

@@ -350,6 +350,20 @@ related:
         width: 647
         height: 400
         isCached: true
+  - title: "Maker of self-driving vehicle sensors said to be in talks to go public"
+    excerpt: "Velodyne creates radar-like systems that use lasers to generate three-dimensional images of a surrounding environment, used by carmakers including Mercedes-Benz AG and Ford Motor Co."
+    publishedDateTime: 2020-06-28T19:27:00Z
+    webUrl: "https://www.dig-in.com/articles/maker-of-self-driving-vehicle-sensors-said-to-be-in-talks-to-go-public"
+    type: article
+    provider:
+      name: Digital Insurance
+      domain: dig-in.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/b8f597a/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Ffc%2F3b%2F303d46e446b2ac5faa2d031e557d%2F362964619.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
     excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday"
     publishedDateTime: 2020-06-29T15:41:00Z

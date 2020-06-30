@@ -1,19 +1,21 @@
 ---
 category: news
 title: "Artificial intelligence identifies, locates seizures in real-time"
-excerpt: "Researchers from Washington University in St. Louis' McKelvey School of Engineering have combined artificial intelligence with systems theory to develop a more efficient way to detect and accurately identify an epileptic seizure in real-time."
-publishedDateTime: 2020-06-29T16:46:00Z
-webUrl: "https://medicalxpress.com/news/2020-06-artificial-intelligence-seizures-real-time.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-06-artificial-intelligence-seizures-real-time.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-06-artificial-intelligence-seizures-real-time.amp"
+excerpt: "Research has shown that understanding brain activity as a network instead of readings from an EEG allow for more accurate and efficient detection of seizures in real-time."
+publishedDateTime: 2020-06-29T21:40:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/06/200629124052.htm"
 type: article
-quality: 37
-heat: -1
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -36,6 +38,6 @@ related:
         height: 480
         isCached: true
 
-secured: "dKTxqs7NapUx9P9jKyNmw1/qv3MuiS/aWeRVbCuBoAKYHmVz3NmcBgtxk0h9PxNtEO9fXk/VCM+v7DYrzA9dXQ7AAyaGm6FaKHiLKsp1x9EsQ3nw7cq82iWZC2MDR6vqYwaF8qxb4oSudJyTJqePKbxtiJrbh13hYokeTHEZOXqKrCAoNg5BjQwVElj0UaATYczXnXo4axPL0jZVDZr+Bf8iEyqy2ZPjHHXl352pZuHxt/+hcwlNITnnEr1kX3Ubrb2dmJWZbVbOeYnKrECo8gHHJoIYfH/RU3OTzMIDsQxqPy9WmjzaBB4iiwDMshW2krn1/rvvGInADvo5tl1GanC+6lFBbpp8JXIZAuqIs5+Jm1d7Mu1qRUJJGAzFXlqf6bc4awQidRbCauPJt0uWpEEhJ5yQlVNGLkACCIeqfN757XmwzUjYTIAPABtnpHVhODK2PR3lw49EOJbL8eDgQ0DEGzQpHOxmrl0VyjCvQoopXOLdTRVXkEenr5IkIdtglwFOVJKzd9gp7Gqq5Zzkyw==;Ty6DvGT+rNJsfPsI6LBvGw=="
+secured: "3D9dbDsAMo70enhmpWfiAzJU1Tns4pjobRZGJFjn5PwZRyqaNY3AnTRe0XSePPZNK7DoIM7Dvgv6a6BT5Y0Qkp0mTEjF9ua8AYs7RYUdY0t0oJorUfNfaH9Dw6K22CFXWNP7sX+UtDB01GqEwAXTv3gcjKl3KzfEYyLhizas15+G+6XdpUpQSTMJ/JBcFdC5rXpMRKovqwciWTR7m55FD9O0D650I3VZ7yqIs1kpzgdlA5besA8rFDJ/93ZoOnithjyw6HbgZqIy0pyGB3zGf4ecXSsz3pkRt9iIYzimiPkPQGNpeJlKuPnLLN6WTTpFz2WlXxb6/+FJVlRULdfmPA==;gIGYMQfbvYsXM5dMTlSi5g=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/29/amazon-launches-ai-powered-code-r
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/amazon-launches-ai-powered-code-review-service-codeguru-in-general-availability/amp/"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://mms.businesswire.com/media/20200629005826/en/801942/23/AWS_logo_RGB.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Amazon releases CodeGuru, which uses machine learning to optimize code"
+    excerpt: "Amazon Web Services Inc. said today its new Amazon CodeGuru service, which relies on machine learning to automatically check code for bugs and suggest fixes, is now generally available. Amazon announced the tool in preview at its AWS re:Invent event in December."
+    publishedDateTime: 2020-06-30T03:17:00Z
+    webUrl: "https://siliconangle.com/2020/06/29/amazon-codeguru-uses-machine-learning-optimize-code-now-available/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/source-4280758_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "clr133/BSXi1crqjS7W9jLp15iKfVZ+yWSqtcbmRYlAhdasIWEuHk0RAqd7S11a8yS6RGptfU/+w6orS1sqpqB3QobeGLuCa8glZ3E4bmiAQ0bKRMiWUw80OfOjpfxjxqlExw44nHylB3SKMEkNhllKjXsiXzrNkrg1sc3pHc0mnONnm8/fnC389XlTeFXh7/W81C2nR1uC42Z7dD1aemsByRiGrdtv68dskVrx1qQWH0NmF8WOGajZDUfBclnXbi7bNZFRu7edEGrq1XblMNBoIB9uiwogFARoQTU8lTa9JAkizQ2gDD1g7D6MQHvLRyqGUQ12/KVFzCLpyltnPnUhbSmMF/iVkifd3J//+pQp5qkSp1sazeNKRmCDi7OMwbsuyw8livMH0NUwHD0prB1qMvexm08HbBGCuyb1F8lrvrvJQcTF4dabMaCA7W8/+GxoCkmuINst652idKnGw8Ga0VUo9Vj5NnejXEvvm3i2TglqBZkKTji/5TdBNztOd;5Z2oqwngjy5MgdV7PZJ8PA=="

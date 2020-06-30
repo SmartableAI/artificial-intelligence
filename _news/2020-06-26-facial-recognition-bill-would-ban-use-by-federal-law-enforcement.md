@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1232128"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1232128"
 type: article
 quality: 91
-heat: 341
+heat: 331
 published: true
 
 provider:
@@ -397,20 +397,6 @@ related:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/06/26/NGface20200626_OPoDmHB/open-graph.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Boston Lawmakers Vote To Ban Use Of Facial Recognition Technology By The City"
-    excerpt: "Boston is poised to ban its use of facial surveillance technology, becoming the second-largest community in the world to do so. The city council"
-    publishedDateTime: 2020-06-25T10:25:00Z
-    webUrl: "https://news.wbfo.org/post/boston-lawmakers-vote-ban-use-facial-recognition-technology-city"
-    type: article
-    provider:
-      name: WBFO
-      domain: wbfo.org
-    quality: 21
-    images:
-      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202006/883132109.jpg"
-        width: 800
-        height: 450
         isCached: true
 
 secured: "nuQInzPvrQspIZn2KTt/rO14lFSw0KipM4tEPO2v4gI4XRabsog7jZG6EkVpxACPMjh2Ze1OWcek4OQkeJTTMP4LcqfCSWpbKfQhqp8LicanXDi9Zt27CKPJY8KVLuH0XLEH7J+32kgTwT9GbyROcwtyDD0e8gTJ3N21jgEAwFUUiP/OkaTsQ1I47hOoCHD09u9yG1XnbWosRjTvNhpbLqn1eN4tT2efWUpz9/UblOjXZrpFVFAW+cu1YoXuQL1yhpSTJkd64Hf18rtMmRlPDTMntC0DxvlF2HKVvcjfgA2CJVX9eTqWVELjloZ/o0pXim21WlbIccnXLJ4kbEoSBHnxzdmsxWAugPqvJawExCj3EUqGzRnRF9NpRJWgTLA13rVOt5emGh8siJlweICd04TgyjiaaBpOZ0R2/y/3s2CmG4daRzoBudxzLe3INjxYwbxGrNuz2hGcpUARcdAPc6BFslq7sP8MCuQNvojAV0x/sbMOtfppe4RNiijAVJXS85tYOLqU31AB57YXQ9L37w==;AqvoIA3pSCysB3ciJEiIlQ=="

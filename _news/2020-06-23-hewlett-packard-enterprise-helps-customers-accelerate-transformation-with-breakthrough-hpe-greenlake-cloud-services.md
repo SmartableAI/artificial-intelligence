@@ -2,18 +2,25 @@
 category: news
 title: "Hewlett Packard Enterprise Helps Customers Accelerate Transformation with Breakthrough HPE GreenLake Cloud Services"
 excerpt: "Cloud services for Machine Learning Operations – Through HPE GreenLake ... HPE Ezmeral software portfolio, and backing from HPE Financial Services and HPE Pointnext Technology Services provide a differentiated solution that competitors cannot match."
-publishedDateTime: 2020-06-23T16:22:00Z
-webUrl: "https://www.oaoa.com/news/business/article_ffe063a1-4397-5961-aed8-cf4b9aedafe7.html"
+publishedDateTime: 2020-06-23T16:11:00Z
+webUrl: "https://www.bakersfield.com/ap/news/hewlett-packard-enterprise-helps-customers-accelerate-transformation-with-breakthrough-hpe-greenlake-cloud-services/article_f85c8832-5b36-531f-ad20-340101d3a082.html"
 type: article
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "CHOaRdeHHrXWg5tSJNj/dENWR4sA30mC9P9Rd32jxYrdpTBoQCWJIM5O454rlL4jed50/SVMzfSE7l28R+FiwDbduWx86CzZ4dwNp4P2kSLswBjbCS6rOr6FlyAC8i1G0UC8nWrTdpNI8KqaBW5Q5hPPKT77BNoUWe2/yHBhmddsgr0TLL4bAI7Ai2YP7Rn4p8S/BSd8Zz45TlD7BUc7GcFUkoYCY/lhhhXSDFtj6mnAckEoGMwoGPu7BAHN5FLRYf0uOJWoLBoOh2M4UxFBNxOGbL0Ij73l33t/oxcVSzYoD0SE9SWiYSpaKpNxMUVBW2tmQBpGoWtnqMjoU4zJZg==;bT6u8zmb5CvT/WLwq8xlsg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+    width: 1200
+    height: 630
+    isCached: true
+    title: "Hewlett Packard Enterprise Helps Customers Accelerate Transformation with Breakthrough HPE GreenLake Cloud Services"
+
+secured: "fmIKiSiqfcySNuKMaUS7ZOLPv5bSu09IEgbrlz2zJhQ6ylFGS97IplflqOFARaT/THEG7B6u7NjQbPYUQWFLPmKuy4iJTJjO01QiAeyFh3oRkl2wq4IVFldTE+LBqhZaFF6MawhXeZfJGQ5+63LHq+EOo9K0oZFbosyi4/2MudECt7SncP/BQxmUiKvzGTQcJHLjJ25LpwbMlAJGqqjw9hidG7IvJmn8zI+exZL3MdMeeq/CTdu9fS8LXPMOIMTlAQ1lRc8XC1gIxA0HWPUyFFUGbvdQDCcr0Tk/JrlckaJWjIvlcjwct1VuvJuAMy7d6wkRhhron466oxe4ndEQcg==;Xj4r/P2FoZI3ij1M84SKeA=="
 ---
 
