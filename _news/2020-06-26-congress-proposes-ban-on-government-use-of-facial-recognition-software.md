@@ -160,22 +160,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "I was wrongfully arrested because of facial recognition. Why are police allowed to use it?"
-    excerpt: "While I was leaving work in January, my wife called and said a police officer had called and said I needed to turn myself in. I told her it was probably a prank. But as I pulled u"
-    publishedDateTime: 2020-06-25T13:25:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/06/24/i-was-wrongfully-arrested-because-facial-recognition-why-are-police-allowed-use-this-technology/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 49
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PY5FPLTWPMI6TJ57ZCSDXBHOGE.jpg&w=1440"
-        width: 1440
-        height: 1010
-        isCached: true
   - title: "Facial-Recognition Tech Might Be the Real Reason to Buy Remark Stock"
     excerpt: "Remark's technology has many valuable applications and has been validated. As a result, investors should buy MARK stock."
     publishedDateTime: 2020-06-29T12:10:00Z
@@ -191,20 +175,6 @@ related:
       - url: "https://investorplace.com/wp-content/uploads/2020/06/facial-recognition.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "UN Urges 'Moratorium' On Facial Recognition Tech Use In Protests"
-    excerpt: "The UN human rights chief called Thursday for a \"moratorium\" on the use of facial recognition technology during peaceful protests, stressing that it could increase discrimination against people of African descent and other minorities."
-    publishedDateTime: 2020-06-25T14:46:00Z
-    webUrl: "https://www.ibtimes.com/un-urges-moratorium-facial-recognition-tech-use-protests-3000619"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/06/25/as-protests-about-police-violence-and-racism-spread.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Detroit Clears Record of Man Targeted by Facial Recognition"
     excerpt: "Detroit police are working to expunge the criminal record of a man who was wrongfully targeted by facial recognition technology. He was arrested without explanation and released because the software made a mistake."

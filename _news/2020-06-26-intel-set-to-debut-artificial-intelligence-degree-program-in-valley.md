@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-26T18:03:00Z
 webUrl: "https://www.abc15.com/news/business/intel-set-to-debut-artificial-intelligence-degree-program-in-valley"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     title: "Intel set to debut artificial intelligence degree program in Valley"
 
 related:
-  - title: "Intel Launches First Artificial Intelligence Associate Degree Program"
-    excerpt: "Intel is partnering with Maricopa County Community College District to launch an Intel-designed artificial intelligence associate degree."
-    publishedDateTime: 2020-06-25T14:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200625005201/en/Intel-Launches-Artificial-Intelligence-Associate-Degree-Program"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
-    images:
-      - url: "https://mms.businesswire.com/media/20200625005201/en/801097/23/MCC-students-1.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Intel start first AI associate degree programme"
     excerpt: "Intel has started its first artificial intelligence (AI) associate degree programme, with the Maricopa County Community College District (MCCCD). The Arizona Commerce Authority will also provide a workforce grant of USD 100,"
     publishedDateTime: 2020-06-26T08:05:00Z

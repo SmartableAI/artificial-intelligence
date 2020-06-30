@@ -45,15 +45,6 @@ related:
         width: 798
         height: 411
         isCached: true
-  - title: "New media analysis features for Amazon Rekognition"
-    excerpt: "Amazon Rekognition Video is a machine learning (ML) based service that can analyse videos to detect objects, people, faces, text, scenes, and activities, as wel"
-    publishedDateTime: 2020-06-25T14:44:00Z
-    webUrl: "https://advanced-television.com/2020/06/25/new-media-analysis-features-for-amazon-rekognition/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 19
 
 secured: "PyaILR/W47GgKFSVOmE8zAhJWo/1FSPcsrOAhrBwxXOCbbnAlhaXr8C7uXTLnXEVtDja6DH1xWssN5UPx3YqZr8+4BkzLKyxnWedak87tFpuzRXJ5o2YDXAXnKTmvqGPjGgezlXlxc/nqp70HLQCXzMgmDWTQylsjB7cWruyfLf1czWSoJTi6l+FQ9CH4sJdOGpIH8FeLJBqMQIxSwoRaOOmWbJ5L6+Ar4J9XHrJE6++1cBvfE+5KCjakioQspqF4WYFbNjuHyE/SFLshq7IOmqzf5HbTWYWvOYIrvHVMD45aenli27ULMqqwoz0T/UWY5zDJS5AGV5XAyNJZ2uczQ==;sHP/cM2SeDiUSyuw2qYQIQ=="
 ---

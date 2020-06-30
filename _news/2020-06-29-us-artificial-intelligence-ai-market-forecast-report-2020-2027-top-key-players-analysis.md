@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-29T10:09:00Z
 webUrl: "https://www.marketwatch.com/press-release/us-artificial-intelligence-ai-market-forecast-report-2020---2027---top-key-players-analysis-2020-06-29"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     title: "U.S. Artificial Intelligence (AI) Market Forecast Report 2020 - 2027 - Top Key Players Analysis"
 
 related:
-  - title: "Artificial Intelligence Market : Facts, Figures and Analytical Insights 2020 - 2025"
-    excerpt: "Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer Center. The MarketWatch News Department was not involved in the creation of this ..."
-    publishedDateTime: 2020-06-25T13:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-facts-figures-and-analytical-insights-2020---2025-2020-06-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2023"
     excerpt: "Global \"Artificial Intelligence (AI) Market\" report 2020 has brief analysis and full-scale proposition of market"
     publishedDateTime: 2020-06-26T10:16:00Z

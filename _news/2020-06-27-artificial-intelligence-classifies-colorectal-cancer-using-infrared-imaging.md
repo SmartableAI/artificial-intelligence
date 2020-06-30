@@ -8,7 +8,7 @@ ampWebUrl: "https://infosurhoy.com/news-summary/artificial-intelligence-classifi
 cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news-summary/artificial-intelligence-classifies-colorectal-cancer-using-infrared-imaging/amp/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     height: 480
     isCached: true
     title: "Artificial intelligence classifies colorectal cancer using infrared imaging."
-
-related:
-  - title: "New AI-Based Technique to Classify Colorectal Cancer with IR Imaging"
-    excerpt: "Automatic detection of intestinal tumor type can be performed by using infrared microscopy in just 30 minutes. Then, the results are utilized to make targeted therapy decisions."
-    publishedDateTime: 2020-06-25T14:43:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11401"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11401"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11401"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 59
-    images:
-      - url: "https://www.azorobotics.com/images/news/ImageForNews_11401_15930904212407405.png"
-        width: 804
-        height: 535
-        isCached: true
 
 secured: "sr3rP8dsOLMsOsQ7r1GqxAGsP9zYQR5ErkFI7bOSjQYs8iXXN8DnJp6vOyrPml6CQRyakSVLqbkAVeuuNF3VFkC1mw7Zp9SeaEs/YgO0OYPbQOvA8PCsqQSF2zkA7P3ZTssk8ia4I3ttCbG8Pzc0WNL0o4MHegGncp1DJKd3h0uKB8JLEjfLSnW3EWAiT0wzGX2IJl8bbpqFpbiFuSM4Zv34ND8eBUQBdY45eacFWB77Vlv0bSY/D1/ixmCcZPuKtUPEFp1LC5Y2OwDgzO9wEMON0PpWYm4/PScdgVl4bo/i+N+PX/HgChx4qZOu/AzPUxFXJzacHGdGRbxvkVmy3OU6h/Gyou2Uv7BkCCl+Q3KFMKMJq7XFyv00W7k42DoMIZ+Db8EdXqwZ/DOgdTvQEgWe6alZ2nMsrrsFiO/hEkcfj83TXEkMTGhzQviW/+F//iQcOlbgNTqcbGpzGRjFLk6IrT/OEGAVAk1YgGb6UutQPUuZMSJPAwBkkYoUaExYzdS9j7a/D/9u93WoCSO/mw==;01kUFzKjNhRFFRhMv2BJVg=="
 ---

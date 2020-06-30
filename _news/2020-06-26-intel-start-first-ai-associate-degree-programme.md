@@ -17,20 +17,6 @@ topics:
   - AI
 
 related:
-  - title: "Intel Launches First Artificial Intelligence Associate Degree Program"
-    excerpt: "Intel is partnering with Maricopa County Community College District to launch an Intel-designed artificial intelligence associate degree."
-    publishedDateTime: 2020-06-25T14:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200625005201/en/Intel-Launches-Artificial-Intelligence-Associate-Degree-Program"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
-    images:
-      - url: "https://mms.businesswire.com/media/20200625005201/en/801097/23/MCC-students-1.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Intel set to debut artificial intelligence degree program in Valley"
     excerpt: "Long known for its innovations in the development of artificial intelligence applications, Santa Barbara, California-based Intel Corp. is taking its AI game to a new level — and metro Phoenix is ground zero. With plans to create a pipeline of AI talent ..."
     publishedDateTime: 2020-06-26T18:03:00Z

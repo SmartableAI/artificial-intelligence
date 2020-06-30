@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-26T11:13:00Z
 webUrl: "https://www.prnewswire.com/news-releases/xinhua-silk-road-the-4th-world-intelligence-congress-held-online-witnesses-fast-intelligent-dev-in-tianjin-301084292.html"
 type: article
 quality: 3
-heat: -1
+heat: 3
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     height: 315
     isCached: true
     title: "Xinhua Silk Road: The 4th World Intelligence Congress held online witnesses fast intelligent dev. in Tianjin"
-
-related:
-  - title: "The Fourth World Intelligence Congress Kicked Off Online in Tianjin"
-    excerpt: "On the afternoon of June 23, the Fourth World Intelligence Congress kicked off in Media Theater, Tianjin. Wan Gang, Vice Chairman of CPPCC"
-    publishedDateTime: 2020-06-25T13:13:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/the-fourth-world-intelligence-congress-kicked-off-online-in-tianjin-800349814.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/1196494/Congress_Venue.jpg"
-        width: 400
-        height: 349
-        isCached: true
 
 secured: "xOVaRSV1nt9YvOpFNdxBQMvYJmNUzEgdcvOv7iqzl/T6h9ZbiXeRKRBszmJQlZYVPmfOseD52S6F24Hkjyv5XJUiFGCag491OJoZievGw5lEMUF+g+UDjiI1D+ZIyBj5Ic44zJ+awrCe3RTA3eNqVEetkSKUyzPuVaXpCVEpClRS+cHoHjMbMfHFucLOSK1tisZRwDUg3ytkWuV27jj74mrcLKmqpQ6f5YLzisJsqc17B1mcz0E6iwUagOuq3ZUrAjqixHQoTnji2bOxNwGb0hO3wgXJsN4tl1SieWOigL8vZkOdDpemsFAJMkuiS0JWg+mEnEmfrl2QwcoiGCH0FA==;xaSuJEP1tj7+2HhVN5/2gg=="
 ---

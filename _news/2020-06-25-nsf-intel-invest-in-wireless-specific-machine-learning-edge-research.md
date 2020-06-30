@@ -25,20 +25,6 @@ images:
     title: "NSF, Intel Invest in Wireless-Specific Machine Learning Edge Research"
 
 related:
-  - title: "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research"
-    excerpt: "Intel and the National Science Foundation (NSF) announced award recipients of joint funding for research into the development of"
-    publishedDateTime: 2020-06-25T14:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research-2020-06-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Intel, NSF Name Winners of Wireless Machine Learning Research Funding"
     excerpt: "Intel and the National Science Foundation (NSF), joint funders of the Machine Learning for Wireless Networking Systems (MLWiNS) program, today announced recipients of awards to research into ultra-dense wireless systems that deliver the throughput,"
     publishedDateTime: 2020-06-25T19:07:00Z

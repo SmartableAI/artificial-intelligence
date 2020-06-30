@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-25T19:07:00Z
 webUrl: "https://insidehpc.com/2020/06/intel-nsf-name-winners-of-wireless-machine-learning-research-funding/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     title: "Intel, NSF Name Winners of Wireless Machine Learning Research Funding"
 
 related:
-  - title: "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research"
-    excerpt: "Intel and the National Science Foundation (NSF) announced award recipients of joint funding for research into the development of"
-    publishedDateTime: 2020-06-25T14:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research-2020-06-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "NSF, Intel Invest in Wireless-Specific Machine Learning Edge Research"
     excerpt: "Intel and the National Science Foundation (NSF) announced award recipients of joint funding for research into the"
     publishedDateTime: 2020-06-25T16:25:00Z

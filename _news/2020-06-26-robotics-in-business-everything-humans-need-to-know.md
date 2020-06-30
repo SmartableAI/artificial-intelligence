@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/robotics-in-business-everyt
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robotics-in-business-everything-humans-need-to-know/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     height: 900
     isCached: true
     title: "Robotics in business: Everything humans need to know"
-
-related:
-  - title: "To Give Humans The Help They Need, AI Needs Human Help"
-    excerpt: "He is a technology visionary in how software and AI can improve the customer experience. The growth of AI has brought the emerging technology to a wide range of professions, including those that have traditionally required \"the human touch."
-    publishedDateTime: 2020-06-25T13:25:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/25/to-give-humans-the-help-they-need-ai-needs-human-help/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/25/to-give-humans-the-help-they-need-ai-needs-human-help/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/25/to-give-humans-the-help-they-need-ai-needs-human-help/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef1f6e7da2468000729d9ae%2F0x0.jpg"
-        width: 1199
-        height: 800
-        isCached: true
 
 secured: "yGXGuSea9IHVNSyo2qvLJxMRoCenVdJcwHtYLp1sAtOIGlGJgPHEw8Byyp0NbwUAKRSQs4BU+HMjdSy9Hywz6sISgz9xg86p5uTqfh7lGD/abzMPJdeevEp67tI+kKXVwT86gawcu1sJtv0amA50gCSYMS0dEO0+ozX/+aVqiHqL01ozYzLWv5xNk7JYJHkectk3opOcLVHTi+JNSOtF2w1X8F7FzI4wvBxui6VfC1nDtsZBW7RRsjxbgY2E2l81AHfvL83UWErl51iIR+UWwsOHDfmW3PT54GwiaKPMLPEmvCK1E4KmEk3qcXgLHndv7GIdxduQ4/kOTgxiMUGgS44zpaljNw8mPedwLh7ERbRO6xKdk0R3I/aojzeNWAt+KrlVRflASLKmtwL5jr0nxihFy4TwWcwo3xUcrLrlIjYHEldcVEXd7DkLn4sveUiMxFg80/H6aBykjZzw3eBmBwszDEz+lDlsVfOv+GwHx4iQac3zdlyUVE5ulm1C4p3X6hxdFaICSJMI2wR+H3ttJQ==;mumUC16HuGE0Sem4F5hRMQ=="
 ---
