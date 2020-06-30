@@ -63,22 +63,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "This AI Robot Just Nabbed the Lead Role in a Sci-Fi Movie"
-    excerpt: "For the first time ever, an AI robot will star in a feature film, per The Hollywood Reporter. A humanoid actress named Erica will appear in b, a sci-fi flick that eerily mirrors the android's own origin story."
-    publishedDateTime: 2020-06-25T18:52:00Z
-    webUrl: "https://www.popularmechanics.com/technology/robots/a32968811/artificial-intelligence-robot-movie-star-erica/"
-    ampWebUrl: "https://www.popularmechanics.com/technology/robots/amp32968811/artificial-intelligence-robot-movie-star-erica/"
-    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/robots/amp32968811/artificial-intelligence-robot-movie-star-erica/"
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 74
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/robot-created-by-japans-hiroshi-ishiguro-laboratories-news-photo-1593095893.jpg?crop=0.984xw:0.740xh;0.00160xw,0.106xh&resize=1200:*"
-        width: 1200
-        height: 601
-        isCached: true
   - title: "Artificially intelligent humanoid robot 'Erica' nabs lead role in $70 million Hollywood sci-fi movie"
     excerpt: "The electric leading lady is understood to have shot her first scenes for the movie in Japan last year - with the rest of the film scheduled to be shot next year."
     publishedDateTime: 2020-06-26T11:14:00Z
@@ -94,20 +78,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/06/26/12/30085970-0-image-a-5_1593169593937.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "AI robot trained in method acting to star in a $70 million sci-fi movie"
-    excerpt: "It seems on-brand with all that has been going on in the world that a sci-fi movie would cast a robot as its lead actress. The movie explores how a scientist who came up with a program to perfect human DNA must help the artificially intelligent woman he created,"
-    publishedDateTime: 2020-06-25T17:49:00Z
-    webUrl: "https://www.fastcompany.com/90521262/ai-robot-trained-in-method-acting-to-star-in-a-70-million-sci-fi-movie?partner=feedburner"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/06/p-1-ai-robot-trained-in-method-acting-to-star-in-a-dollar70-million-sci-fi-movie.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "AI robot, Erica, to take lead in USD 70 million sci-fi movie"
     excerpt: "who created Erica in real life as part of their study of robotics, also taught her to act, applying the principles of method acting to artificial intelligence, according to Khoze. \"In other ..."

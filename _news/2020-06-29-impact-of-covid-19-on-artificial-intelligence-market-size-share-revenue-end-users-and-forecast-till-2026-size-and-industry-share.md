@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market 2020: Global Technology, Segmentation, Growth, Development, Trends and Forecasts to 2026"
-    excerpt: "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest"
-    publishedDateTime: 2020-06-29T15:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-global-technology-segmentation-growth-development-trends-and-forecasts-to-2026-2020-06-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Market Key Developments, Research Methodology and Top Player Forecast Overview Till 2026"
     excerpt: "The global speech and voice recognition market is expected to rise with an impressive CAGR and generate the highest"
     publishedDateTime: 2020-06-29T15:03:00Z

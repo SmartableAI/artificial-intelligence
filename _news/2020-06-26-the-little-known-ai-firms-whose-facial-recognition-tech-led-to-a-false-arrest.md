@@ -8,7 +8,7 @@ ampWebUrl: "https://qz.com/1873731/the-unknown-firms-whose-facial-recognition-le
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1873731/the-unknown-firms-whose-facial-recognition-led-to-a-false-arrest/amp/"
 type: article
 quality: 101
-heat: 221
+heat: 201
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 831
         isCached: true
-  - title: "House bill seeks to ban federal use of facial recognition"
-    excerpt: "Senators Ed Markey (Massachusetts) and Jeff Merkley (Oregon) authored the Facial Recognition and Biometric Technology Moratorium Act, which Reps. Pramila Jayapal and Ayanna Pressley co-sponsored, according to Vice."
-    publishedDateTime: 2020-06-25T18:23:00Z
-    webUrl: "https://www.engadget.com/facial-recognition-ban-bill-democrats-182006734.html"
-    ampWebUrl: "https://www.engadget.com/amp/facial-recognition-ban-bill-democrats-182006734.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-ban-bill-democrats-182006734.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2Fce6af050-1fe8-11ea-b9bb-6e91861f58e5&client=amp-blogside-v2&signature=79939f8d1f2406b6a8f123e213fa81fc9f175876"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Facial recognition leads to first wrongful U.S. arrest, activists say"
     excerpt: "Robert Williams spent over a day in custody in January after face recognition software matched his driver’s license photo to surveillance video of someone shoplifting."
     publishedDateTime: 2020-06-26T17:41:00Z
@@ -78,22 +62,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_26/3392279/rtx5zan6_8801ea9903a80ccb7d234bcb75bfe8f1.JPG"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Black man wrongfully arrested because of incorrect facial recognition"
-    excerpt: "A Black man was wrongfully arrested and held in a detention center for nearly 30 hours in Michigan after facial recognition technology incorrectly identified him as a suspect in a shoplifting case, according to the man,"
-    publishedDateTime: 2020-06-25T18:17:00Z
-    webUrl: "https://abcnews.go.com/US/black-man-wrongfully-arrested-incorrect-facial-recognition/story?id=71425751"
-    ampWebUrl: "https://abcnews.go.com/amp/US/black-man-wrongfully-arrested-incorrect-facial-recognition/story?id=71425751"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/black-man-wrongfully-arrested-incorrect-facial-recognition/story?id=71425751"
-    type: article
-    provider:
-      name: ABC
-      domain: go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/US/williams-01-as-ht-200625_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Bill would ban police use of face recognition"
     excerpt: "Democrats in both houses of Congress said Thursday they are introducing a bill that would ban government use of facial recognition technology. Why it matters: A handful of cities have banned government use in their jurisdictions,"

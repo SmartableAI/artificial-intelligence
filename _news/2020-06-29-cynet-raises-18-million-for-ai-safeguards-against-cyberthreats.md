@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/29/cynet-raises-18-million-for-ai-sa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/cynet-raises-18-million-for-ai-safeguards-against-cyberthreats/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/f7b215a0-8f77-476b-a974-80fd40ec611c-e1593050018345.png?w=1200&#038;strip=all"
         width: 1200
         height: 667
+        isCached: true
+  - title: "Hi Marley raises $8 million for its AI messaging platform that connects insurers with customers"
+    excerpt: "Hi Marley, a startup developing an AI-imbued messaging platform for insurance carriers, raised $8 million in venture capital."
+    publishedDateTime: 2020-06-30T11:04:00Z
+    webUrl: "https://venturebeat.com/2020/06/30/hi-marley-raises-8-million-for-its-ai-messaging-platform-that-connects-insurers-with-customers/"
+    ampWebUrl: "https://venturebeat.com/2020/06/30/hi-marley-raises-8-million-for-its-ai-messaging-platform-that-connects-insurers-with-customers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/hi-marley-raises-8-million-for-its-ai-messaging-platform-that-connects-insurers-with-customers/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 75
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/1c7c0b76-fdef-435c-8d86-6002877bce09-e1593117540834.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 688
         isCached: true
 
 secured: "yfYS8z+mNxdPbNgY4B62Wg5D29ujfwRIcomnOUGcdOICRiQQ22igoYGBjhedmcJM0uqPbtUjNUKF/jR3KZkn++G2tY5lKIZ0IvSS/kNdhdlgE+IoAgTeykeBM+ZFYgUIREpW6FrHQB+WKDneoARl/JyYEdVB230NgC/fVm+SqV2b5T8xFW4lWIAA/+3Hta3QnJODupIEC7blJJeu+ASWDEiL2Cjw30S8i3gpIZi/7nVY2SJ5KeZuQb3fDzdEJQbXdAfrDVNXrC/kB17Uj1Qkzr2YiK4yejEjP3fQp87YB7CyyVPLYbfA38xODdykN4x0P3rIxyaYVVutnFp/tOg6+xI9XZ5jQueBvEwZ9Mhji6Y72VK1OsX62xaykiP5HefPQfaVDIOhb4wW+Cn8k1f+kwem2rueKchbSHGozIeurHxqwMVNmXlzVZ50IHQ9C4iHKkbHlFTw+gKQiHTQ9FVeJKQhhO/bfcRverNAz7I6JIv2TWJTZtptlwkxOGyXIQKJDdFqk3c4jkW86IiYpIdc/A==;GX037sjSrdshSJor364kVw=="

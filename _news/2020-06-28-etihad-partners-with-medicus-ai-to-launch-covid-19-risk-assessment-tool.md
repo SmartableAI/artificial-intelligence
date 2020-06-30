@@ -31,15 +31,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Verint partners with startup for COVID-19 contact tracing software"
-    excerpt: "Verint (VRNT -0.3%) and Jerusalem based Artificial Intelligence (AI) startup, Viziblezone have entered in a strategic alliance wherein the former will offer high accuracy contact tracing techn"
-    publishedDateTime: 2020-06-25T17:09:00Z
-    webUrl: "https://seekingalpha.com/news/3586249-verint-partners-startup-for-covidminus-19-contact-tracing-software"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 2
 
 secured: "z0/fG2lPlDIhEsMorwa7m6IYybgCqAEBCqq4XFvgBrPb+vNwE0Lt6xeuxxZxVAUz6l5v74cJBe62zjYgQiLJmngK4Z6L81bCobR++emQ7nRxXJ0j8DvghYQf5K9HyDEeN8p7bOhMyIMzm0fnPSHWIlreHQwRee3O6+UQ5SFjiCqC+6Jg8lpksThDO+BfeNKKntWaGndP0BqlY1lSqvPM21njvgga0E+bHZHc6UzSWRhl5DyjCaDLFlXqs2iDTWd0oDg+Jt5M6bSG1KkBugoHhbPEhED0yGEqnnCSSQR5PyH9JQPlZtgPbXTBzkdUMs5v/Bsk8gVYQF7Zw3XmeYFjBTmQFLPo7JcTrJn3gYiLsXeVz+ksZVlA4WjA5hmnWyPzNyvbnKx+p2i7bVlQpO6TwVM005HP4Ll9eS7JTSfMI1603twG3+eB8SCEH9yiqDLz7cEU6Qf3xGFQaycrC2POC1GM1pP6NWZtqszlloZkJGKJubgsVA9Qi7tBERVgwLeDPexhUxTt8ws1J9Ircj41cg==;C+cJTcWUKxZWU8m1G+FZWA=="
 ---

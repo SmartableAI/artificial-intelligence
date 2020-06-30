@@ -7,8 +7,8 @@ webUrl: "https://www.techradar.com/news/adoption-of-software-robots-by-enterpris
 ampWebUrl: "https://www.techradar.com/amp/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity"
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity"
 type: article
-quality: 97
-heat: 97
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/bb20c7c0ed449b8d619e48b358411162-1200-80.jpg"
@@ -30,6 +31,6 @@ images:
     isCached: true
     title: "Adoption of software robots by enterprises gains traction to keep business continuity"
 
-secured: "+fc2v7TckbkS8dMA9tx+2A3E1vyaOr1YepIbbv1/wmbupjsc6bRLAC8DvKDRVovnl08uqlLhfHGT1/5ZXnYeE8RbhconvtaCZBn2FAX5t3ktbpcWEpZMR0rDCIg4gtgiclL4rXpc8ygC/tAJfSZtXNWY5hPuFUDoVk8ue5p6Sad6M0f0r18XvjIrYF11go997+gkLRBEBhrZllnq+TBFiCBM2NunJhp2WH/2iHv2aheJiq7ArIPwg3XXGVgWXgNfv3GK2/+r+sHQw1d1HFkQ2QdATZf5tzAMulvKZX0z7hA4RcfOR8fUvEtH3rTlO7GxFIBi6PCVRJTTqGClTlx0rg==;hxDKZ4oXD1jYWmpG8oT/bg=="
+secured: "x4PODxazxoks+5IqdLgCFwsWW35J92Wog1PmvCCjccapf1f9Q8QXjelAIBSg1jSK5lYLhyGeya2+LvOI/wcZv49fLWIuFy7yXD+cfEnYQNYnKj/bgBEsZorBGCiOgJ3/xSz++5dRaZwm+SiSAaeWgMYbhdq+6groekTa5YjeP+/IIn6h0VV+TeayKGWbJXa/k2M+3SgmaZgEmKQBAESOgMiapssQQOmgD4w/kzARh9xAT6BcdiHtrqQlVxSfE1dovVMdRcqWzRtFX6X2vmGLOoRlmLxQVegB4a04H/WuXWh1NmTzSK6n7TwSgnSf0vinnjrukMnIWhJIvCKJLpSqqo999t17i09SO21jtA+gOekbhYhpv+EXjsTBCGhdU+8zDP43qFWcsDNF8sgc5neFzuDJ57XrSIijkeKuBAZfEM3KPr09UOIlQjcTBn3TRA3KGY4csEiNyt3fVNuiezOUJ4eiQ2HrsKzikjRg0z1AfK1IXR8cC65j5ssQWS8Hk3n4XaOteBf+sVWzDKZwPITBWA==;+o0LXKT7VGpjIlH1jrIbmQ=="
 ---
 

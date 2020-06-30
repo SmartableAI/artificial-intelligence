@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market 2020: Global Technology, Segmentation, Growth, Development, Trends and Forecasts to 2026"
-    excerpt: "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest"
-    publishedDateTime: 2020-06-29T15:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-global-technology-segmentation-growth-development-trends-and-forecasts-to-2026-2020-06-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Impact of COVID-19 on Artificial Intelligence Market Size, Share, Revenue, End Users And Forecast Till 2026 Size and Industry Share"
     excerpt: "The global artificial intelligence market is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2020-06-29T13:59:00Z
