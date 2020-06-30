@@ -8,7 +8,7 @@ ampWebUrl: "https://qz.com/1873731/the-unknown-firms-whose-facial-recognition-le
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1873731/the-unknown-firms-whose-facial-recognition-led-to-a-false-arrest/amp/"
 type: article
 quality: 101
-heat: 241
+heat: 251
 published: true
 
 provider:
@@ -231,6 +231,17 @@ related:
     provider:
       name: Government Technology
       domain: govtech.com
+    quality: 39
+  - title: "Addressing Facial Recognition Tech's Discriminatory Potential"
+    excerpt: "Recent civil rights groups' objections, industry statements and proposed bills on the use of facial recognition technology highlight several problematic concerns, including that it lacks accuracy in identifying nonwhite individuals and may play a role in racially discriminatory policing,"
+    publishedDateTime: 2020-06-29T22:02:00Z
+    webUrl: "https://www.law360.com/articles/1287406/addressing-facial-recognition-tech-s-discriminatory-potential"
+    ampWebUrl: "https://www.law360.com/amp/articles/1287406"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1287406"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
     quality: 39
   - title: "U.S. Lawmakers Push to Ban Facial Recognition Technology"
     excerpt: "A group of lawmakers has introduced a bill that would ban the government use of facial recognition technology. The bill comes after a Detroit man was falsely arrested after being misidentified by police using the tech."

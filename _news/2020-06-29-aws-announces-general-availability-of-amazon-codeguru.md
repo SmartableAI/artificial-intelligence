@@ -25,6 +25,22 @@ images:
     title: "AWS Announces General Availability of Amazon CodeGuru"
 
 related:
+  - title: "Amazon launches AI-powered code review service CodeGuru in general availability"
+    excerpt: "Amazon announced the general availability of CodeGuru, an AI-powered code review service that was first revealed at AWS re:Invent 2019 last year."
+    publishedDateTime: 2020-06-29T22:05:00Z
+    webUrl: "https://venturebeat.com/2020/06/29/amazon-launches-ai-powered-code-review-service-codeguru-in-general-availability/"
+    ampWebUrl: "https://venturebeat.com/2020/06/29/amazon-launches-ai-powered-code-review-service-codeguru-in-general-availability/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/amazon-launches-ai-powered-code-review-service-codeguru-in-general-availability/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "CodeGuru, AWS’s AI code reviewer and performance profiler, is now generally available"
     excerpt: "AWS today announced that CodeGuru, a set of tools that use machine learning to automatically review code for bugs and suggest potential optimizations, is now generally available. The tool launched into preview at AWS re:Invent last December."
     publishedDateTime: 2020-06-29T21:43:00Z

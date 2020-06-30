@@ -237,6 +237,17 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 39
+  - title: "Addressing Facial Recognition Tech's Discriminatory Potential"
+    excerpt: "Recent civil rights groups' objections, industry statements and proposed bills on the use of facial recognition technology highlight several problematic concerns, including that it lacks accuracy in identifying nonwhite individuals and may play a role in racially discriminatory policing,"
+    publishedDateTime: 2020-06-29T22:02:00Z
+    webUrl: "https://www.law360.com/articles/1287406/addressing-facial-recognition-tech-s-discriminatory-potential"
+    ampWebUrl: "https://www.law360.com/amp/articles/1287406"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1287406"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
 
 secured: "mWrsvmNCG3Y/wk91IxkEv/sXsVf2r+ldAYHYOh9PjI/PEbT6EUzhURSJjGHZsUwCpEkiWUFNHT6AVXtHwYjg1cQMdDvu+K909en3Gs8VSmQeDCW0V7+1NpoCEiFl80vSl3eTzlrCsZ/kVJVyuOTnv6b3gvQiYsu1hKlCBidRpb7Fvx0SwAuJqmkUGpepj0i4CPeAFkZvxAtIdElG+rzbw3M+aNxyoMfW9mTfeEpOVBAccrsxcc50JayKcLW5N2owuvsxJv3uMPU9ZZCdT0bTwdbng2E5hrNEmjAFXYJ/lPmWJMJ6L1Qppw7FwotRC0Mr3X35AqfziRjpWdzfK1uP3g==;QJL4JWHzsgv6CeqcOJijVA=="
 ---
