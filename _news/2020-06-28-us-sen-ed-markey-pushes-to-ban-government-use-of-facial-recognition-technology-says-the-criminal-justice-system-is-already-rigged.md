@@ -43,22 +43,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Members of Congress push to ban federal use of face recognition"
-    excerpt: "A group of Democratic Senators and House representatives have introduced a bill that seeks to ban federal use of facial recognition technology. It follows an incident in which Detroit police wrongfully arrested a man after a facial recognition system incorrectly flagged him as a suspect."
-    publishedDateTime: 2020-06-26T00:50:00Z
-    webUrl: "https://www.engadget.com/facial-recognition-ban-bill-democrats-182006734.html"
-    ampWebUrl: "https://www.engadget.com/amp/facial-recognition-ban-bill-democrats-182006734.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-ban-bill-democrats-182006734.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 91
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2Fce6af050-1fe8-11ea-b9bb-6e91861f58e5&client=amp-blogside-v2&signature=79939f8d1f2406b6a8f123e213fa81fc9f175876"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Recommended Reading: When facial recognition identifies the wrong person"
     excerpt: "Law enforcement at all levels are employing facial recognition for a variety of things. When the US and countries around the world began to shut down, tech companies of all sizes announced plans to help."
     publishedDateTime: 2020-06-27T14:07:00Z
@@ -169,17 +153,6 @@ related:
         width: 1024
         height: 755
         isCached: true
-  - title: "Democratic lawmakers propose nationwide facial recognition ban"
-    excerpt: "The Facial Recognition and Biometric Technology Moratorium Act of 2020 would prohibit federal agencies from investing in facial, voice, or gait recognition technology unless Congress authorizes it. The bill would also curtail the use of biometric ..."
-    publishedDateTime: 2020-06-26T00:36:00Z
-    webUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?itm_source=1&itm_content=4x6&itm_term=2376504"
-    ampWebUrl: "https://www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/democrats-propose-facial-recognition-ban/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 54
   - title: "Lawmakers Introduce Bill to Ban Federal Use of Facial Recognition Tech"
     excerpt: "If passed, federal agencies would not be able to run, fund, purchase or otherwise use data from facial biometric systems without congressional authorization."
     publishedDateTime: 2020-06-26T19:59:00Z

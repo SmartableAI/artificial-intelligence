@@ -51,7 +51,7 @@ related:
     provider:
       name: ctovision.com
       domain: ctovision.com
-    quality: 66
+    quality: 68
     images:
       - url: "https://ctovision.com/wp-content/uploads/space.jpg"
         width: 632

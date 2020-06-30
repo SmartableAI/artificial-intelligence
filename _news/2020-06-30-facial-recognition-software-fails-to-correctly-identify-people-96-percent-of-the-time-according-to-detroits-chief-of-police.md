@@ -63,6 +63,15 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Detroit police chief cops to 96-percent facial recognition error rate"
+    excerpt: "Detroit's police chief admitted on Monday that facial recognition technology used by the department misidentifies suspects about 96 percent of the time. It's an eye-opening admission given that the Detroit Police Department is facing criticism for arresting a man based on a bogus match from facial recognition software."
+    publishedDateTime: 2020-06-30T16:12:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/06/detroit-police-chief-admits-facial-recognition-is-wrong-96-of-the-time/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 49
   - title: "Why the racism in facial recognition software probably can’t be fixed"
     excerpt: "It’s been proven that facial recognition software isn’t good at accurately identifying people of color. It’s also known that police departments around the country use facial recognition tools to identify suspects and make arrests."
     publishedDateTime: 2020-06-29T10:05:00Z
@@ -117,6 +126,6 @@ related:
       domain: securityinfowatch.com
     quality: 11
 
-secured: "OXPZIIn9P0if+GVm2tVpvvf6LzI+m8/ijSUHX4mHcdiQyBg0CyspspY9jB48yqewGBlNCO7QtnB4Hk4Xl02pRbbVPUnQzJjvFR8uZsblzq9CY6JJ7otg5A21BM7C7zmgVfHHOZDCXGRWbcsYUUe+7HVLyp5c3gtBKw4oG40IZ38hQJD2gtHLAb4beQJOjxbWy3c/9eZ6KAxavYt5qixerdClmeAxxspNZSulpnarmOmwSFholsdmrglD1dB4/eBzypXv3/oREfKxBQ7PO8DSz7PMcPd62rILqjZmhTFweC+O688QsPoswViwClYTzEwsoWDIKKyihmeZukgmIpQM3g==;FSlK4qbwj+n/stkR09QCxw=="
+secured: "lkUCerEZXffnCHF2mjzdhB6AVpoIuuPovpQiC8RZqUbTS7WXG/IcFmRQXOxWQg6YMivn+dZXJI8aCpW/8GdmTU/l2B5sT3ItSzhVs3xaan/evHeNCjgoTXVRDPYNB5laFkPGS34UgD9vjTt9EpHbPUHOyAHBI2iJOstyB9xw6RO7WTsK6htrZGxK0AXRNi1i4iwiXPT1RRTSKmkGtv/hhHZ0aQNdQJM2KdfG2mCu0v4iWV1Ywfz+58T/NZhPYTZWfqKpf5t0TS8U4KRWDmGfPXU2ZfFuS+9JtxMCBrp6Uyl616X9uXHPgbwg3oDravBZGenJcZxZmYp1xkNvz6xq4q7mFjWNC4i9culrGfjNcGtOFBNrOZY88mXbXfJMG5C/JVodp0NFyeVgY+lcxMGxm8GkH9wN7JE+l864BSTS7KlU3S2ziJW9g9g4x5KUbyUSAxo8dKwBhVaRCVNrm8IhpMblChEpNh3XVWpPQvj3zjGkPROr7YwJK1kH2EP6KI1QAJFhakQdHYXSgDNh82uruQ==;/B1Iy6Meiil584P+dwNvMQ=="
 ---
 

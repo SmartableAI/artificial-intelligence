@@ -5,7 +5,7 @@ excerpt: "As Mark mentioned when he launched this Advancing Reliability blog ser
 publishedDateTime: 2020-06-30T15:55:00Z
 webUrl: "https://ctovision.com/advancing-azure-service-quality-with-artificial-intelligence-aiops-facebook/"
 type: article
-quality: 66
+quality: 68
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://ctovision.com/wp-content/uploads/space.jpg"

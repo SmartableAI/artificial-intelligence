@@ -75,6 +75,15 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Detroit police chief cops to 96-percent facial recognition error rate"
+    excerpt: "Detroit's police chief admitted on Monday that facial recognition technology used by the department misidentifies suspects about 96 percent of the time. It's an eye-opening admission given that the Detroit Police Department is facing criticism for arresting a man based on a bogus match from facial recognition software."
+    publishedDateTime: 2020-06-30T16:12:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2020/06/detroit-police-chief-admits-facial-recognition-is-wrong-96-of-the-time/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 49
   - title: "Why the racism in facial recognition software probably can’t be fixed"
     excerpt: "It’s been proven that facial recognition software isn’t good at accurately identifying people of color. It’s also known that police departments around the country use facial recognition tools to identify suspects and make arrests."
     publishedDateTime: 2020-06-29T10:05:00Z

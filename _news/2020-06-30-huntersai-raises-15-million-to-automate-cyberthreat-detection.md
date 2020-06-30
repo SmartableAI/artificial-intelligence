@@ -78,6 +78,15 @@ related:
         width: 1200
         height: 688
         isCached: true
+  - title: "LA's Elementary Robotics Finds $12.7M For Industrial Inspections"
+    excerpt: "... led by startup veteran Arye Barnehama, said on Tuesday that it has raised $12.7M in funding for its industrial robotics company. The funding was led by Threshold Ventures, and also included Fika Ventures, Fathom Capital, and Toyota AI Ventures ..."
+    publishedDateTime: 2020-06-30T17:59:00Z
+    webUrl: "https://socaltech.com/la_s_elementary_robotics_finds____7m_for_industrial_inspections/s-0080032.html"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 34
 
 secured: "vqyx9meyR7oyy6j1yFupwKDkSRQZZfziAAqnZhq1ZOA5aset3U+B7ycGvY1gqPSoJyZWpmL9ARwVOTNbzznBQxHND9EJqn6RYmR4j64MCER8zFzY3mRU6G2Zuf28GF6zAE6wM30McqVWX+I4TdKU+heJgrdSaD0HNn0uo3Ojir5fCJxVPX/MDmk2hEp+nHwHXwB81hyDetuljimBDmyVB4RALpJAk2DtjnSRco5uBn4oCZqHVFIDKAkpTx0xb0ZgoyTgH+qaslUT9JtEz5yH0d4Foq/mJ7SDNN+CDODPx5ku+TWE8DJpuAfjb9+2ogBQj3VNdHigN2ky3mKX6jDiug==;Y4Pvege7c6lkNobEiedIzw=="
 ---

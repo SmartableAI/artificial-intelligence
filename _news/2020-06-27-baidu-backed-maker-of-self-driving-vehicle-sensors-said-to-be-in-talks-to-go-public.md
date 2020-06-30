@@ -95,6 +95,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "How a former soldier went from self-taught truck driver to helping Alphabet's Waymo usher in the era of self-driving semis"
+    excerpt: "Jon Rainwater instructs safety drivers for Waymo Via, the self-driving company's freight and deliveries unit."
+    publishedDateTime: 2020-06-30T16:23:00Z
+    webUrl: "https://www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/5efa5b5bf34d0565f1297c75?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Volvo Car Group And Waymo Team Up To Develop Self-Driving Vehicles"
     excerpt: "Volvo Car Group and Waymo have established a strategic partnership that will see the Google-owned self-driving tech company become the car manufacturer’s exclusive L4 (Level 4) partner. The deal includes Volvo Car Group’s strategic affiliates Polestar and Lynk & Co International,"
     publishedDateTime: 2020-06-26T09:53:00Z

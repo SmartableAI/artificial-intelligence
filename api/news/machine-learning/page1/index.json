@@ -6,7 +6,7 @@
       "title": "Unifying The Supply Chain With Machine Learning Organized Information, Increases Speed, And Improves Efficiency",
       "excerpt": "The supply chain is complex, and machine learning will be a critical tool in the continuing improvement of supply chain management.",
       "webUrl": "https://www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/",
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -45,7 +45,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -363,44 +364,6 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-mlflow-has-grown-up-and-left-home-machine-learning-framework-joins-linux-foundation.md",
-      "title": "MLflow has Grown Up and Left Home: Machine Learning Framework Joins Linux Foundation",
-      "excerpt": "“We’ve moved MLflow into the Linux Foundation as a vendor-neutral non-profit organization to manage the project long-term” The open source tool from the US company (whose founders created analytics engine Apache Spark) sees an eye-ball popping 2.5 ...",
-      "webUrl": "https://www.cbronline.com/news/mlflow-linux-foundation",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cbronline.com/wp-content/uploads/2020/06/MLflow-1024x768.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": "MLflow has Grown Up and Left Home: Machine Learning Framework Joins Linux Foundation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cbronline.com/news/mlflow-linux-foundation/amp/",
-      "cdnAmpWebUrl": "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/mlflow-linux-foundation/amp/",
-      "publishedDateTime": "2020-06-26T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Business Review",
-        "domain": "cbronline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1328,6 +1291,54 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off.md",
+      "title": "Get this Complete 2020 Big Data and Machine Learning Bundle at 96% off",
+      "excerpt": "With today's highlighted deal, be a modern day tech hero with 68 hours of content on the most in-demand IT expertise including Tensorflow, Keras, Deep Learning, Apache and more at Neowin Deals!",
+      "webUrl": "https://www.neowin.net/news/get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574762211_1481879523_efa151423bca1f29bdb0870f620e57a112ee9c7b_main_hero_image_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Get this Complete 2020 Big Data and Machine Learning Bundle at 96% off",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off/",
+      "publishedDateTime": "2020-06-18T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
       ]
     }
   ],
