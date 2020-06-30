@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "RecursionPharma"
   url: "https://twitter.com/RecursionPharma"
-  followers: 3096
+  followers: 3095
 
 size: 51-200 employees
 yearFounded: 2013
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=y3Hsh4fPxuQ"
 
-secured: "ct+D1iYaB08ZWI9dhY8B8Lr3ypMmb+CKQRqbPRPPUQyyE7lRxkzf2n5u6BxDmDJSYHL8ikH6NIPk90Gq2WkG915O6OjR0IiN0k+BEhyIP3J0twXFoTh7ZSh8bg5tjEdMFrZBaBacEn1npfQiQSTgI6hE1HV0W/R10ioXoyMbEPPXy7ISuJHB/y7wZ5HL+5TEpsiOxS/7LDUOrM++L/2NfSidNR6ZyzEkxwMcSWwDIi4GqxGZsN9uWlnFtiwVjnDb8/2ChhVyj/rgEsSv7fw/q9xQkR7wBCEBVWwXri0ZaX7ePN/7tScgSM1xajfGgDnR4M5Vr5tYzbsGUxY4Iv9KjhI9vFSFRm+rA6+pqH/V+9TMsV7cID45XpgLnIKRrINW;G90FDGNFgPQbv8yrONkwhQ=="
+secured: "xLHR0srIjUCHAASHXh4SeJABSE0f/+/o3wVJ9NF0XDxx2webAkf01LMJxVFhohTtHqF4ep5OI02z0oOC5v5WJl9/vXy2LZq64oydsUns5BLJKrNyFVsaNGvzoit71Fwg2SlgwLuNO4NjIBOx0aHktRkeg8kqIwd3hr3JVCzzO5B1EkatO3oAsQwahBRWI68ObE5MxoZs4iVLNcK9VUlYoRSFz5aotQIjVOCOfEzf70mbHWUmaKpf1ZiUkwYzLuihXE7mqvymawcQuQvEfsnYFMWU90gGI16HXeIG1tgAHGCBnQJ/rl+bhupLmyDoZTGLPPHXRslJ4AQAHmFFvNR7qzDCm4oWmg13evIvMtGr03TRi3eoFGvpBGcl+FkoiBcs;W+NKv5mD2mTBi7RAYhPTpg=="
 ---
 

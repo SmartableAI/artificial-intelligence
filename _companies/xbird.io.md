@@ -2,7 +2,7 @@
 name: "Xbird"
 overview: "xbird is a medical AI company dedicated to saving lives by disrupting the way we think about prevention and early detection of diseases. We are developing sophisticated machine learning algorithms that analyze sensor data from smartphones and wearables to predict and prevent critical health risks. We are a team of medical doctors, data scientists, machine learning engineers and serial entrepreneurs from Berlin and Silicon Valley. xbirds provides a service to medical device and pharma companies to achieve higher patient engagement, reduce patient burden and work towards improving patient outcomes."
 type: "profile"
-heat: 72
+heat: 58
 
 website: http://www.xbird.io/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "xbirdhealth"
   url: "https://twitter.com/xbirdhealth"
-  followers: 562
+  followers: 563
 
 size: 2-10 employees
 yearFounded: 2015
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=VQhmAIFKOyU"
 
-secured: "5qrqPQPg88u4dn5V1NKBU/VlYPm6Gk+/8kKTJ/X8dxp1jZxSeOiv+6UxB5IKztgHx8jIbHod2A3YOE/y8Cp2qxsrhM8QT3xKXy5Cx3hfAuxbTfMOJt65Nt2pvV+GXZZrb71cfB+KHD5STsFjdqbJYok1ftjpp0zDQRF9U8ZL4rql6z799YE+yLEtpiuRai+3o5yO5aQDG+jVYyeWmxulLQJPXlaFwnvrb7C2djXl0hStotb2OYluS06AK+ueaeq7pgwu8H0mypJC5pH++kAweUd3j9r8M59WrplweiP3jEm9e28wnGLO3v9EXrLr/SpClbt5JfFwAdYWD2mdSvgX8F2ZF9/NU3hZIgP/OvJI6GfQ9YD5Dh76M5Hx/NIEXoeG;w3OfgrmADIKl5n8xVxSTPw=="
+secured: "69nwyTC18Xj7zB6/KYkAbXX1lQ80Z+QWK6SymXW35syRD8nHGIBeOSTV5Zw3NkUXnH+hOqeeLksK35JoLOwUkcu9APUnRRCe5M013pmgidoiEFf7em3x7jfI8u9UgZ6gz6RLNHABzWmWugmNy3wVXGSYLzN7PHCVuRk7710LlEKfaemELVFrMXpxYlsWX+8eFQwcvHv5N5HbuIRDgdNLtaFLc0XRF0XgUMRmqHpOFX8PCHoMsG8gt0yHyGn4MuCJQZNkhqD2ejqfyFitmK6xEUwACn5H3QylhfJQZEAyHaqoT7/jRWrwHLtR+MPQMRXcl38/MOAVrEN2dJFWe3mzxNpUhYzM/mjhw4zM4b08sU1XzDlfa6d0PVRorKClJxaz;A+7YCDS2Ban8pQhErRS26Q=="
 ---
 

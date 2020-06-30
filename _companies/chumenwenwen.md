@@ -8,7 +8,7 @@ otherNames:
   - "chumenwenwen.com"
 overview: "Healthcare Enterprise Analytics Platform powering healthy lives and better care by unlocking actionable insights from all the world’s healthcare data"
 type: "profile"
-heat: 41
+heat: 0
 
 website: http://www.chumenwenwen.com
 
@@ -49,6 +49,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=z-H_xsUFD68"
 
-secured: "LootjvFdVnhE39iGN8ZUX5Lq+4AnI4PQikN03HWzwdXzH1mriarHKVWIQEAJRZfVVuMLoL2TKFIZ90ELZTEZjTIAQc77hgTUubTF24QHnCvaslIJZxHi3G7AhJb9qIZ/ai3Kh56T4gL5+K1R47ExBUyWQXq9VBf0+qBgRew/f6Js5xcggPZBk9BZG57Ud+JcoLH2//P7tUtgsvriwe4XLUGgPjQ7HcC10hL3UhrdZ3kPMAHWfBcOHBkKI+0xP/ONQ78iFSPtwqPmQWI0pHk0CCposbQ1zFUCGZH0uCG7bx45EqGjx5YuM17HA9YX/GHv5Z5TjpLc6eL7t1B4IG919YVgLyo8o3nyMyJFJtBFHW2z9pESsxCUCLuBK9PZQrfr2GKuJV//iVl4bYdlzNGbBw==;ZFJEZiHR6rSn/s0V+Fg6HA=="
+secured: "o+fbXph1LnRGOvtDBwieoYLI8WHVGI/FcFWl0d8o7HvMpcYjWZ1LCw8w7V2aNtorFaHQz5uOj7Z/smFbDxnd6/oAe9D5gCvD1DU7VZNzV4C9ddi1Uvi0DalunCcTQC5gpBw9A6r0LOjT01UMaalA6BVJQx+jw4VbvRLY++el+EfyOKnx3NGO3GHKbkKniENlbmdZOyHxBzfLZCWwvrV2e3UzPIUlI80YXx84CKlYWaY+Syp5JZl0wjGSnsoAsPEPSpLIB4GKQTTMmCJmIoifGcCj3djPTWp/cPimDvsWTtFTqZRqH+kx1hVNiWJDVDzN8tWuNqe5LBlfYnYuZtmQnqNn9PhYd74fWlE5qRkLZg2hCtLHb83K7kxlvQnp5FM/gR/VsTeFTm05tCKum0Uf4w==;7EfXQTSDlfTbeP3j1usF8Q=="
 ---
 
