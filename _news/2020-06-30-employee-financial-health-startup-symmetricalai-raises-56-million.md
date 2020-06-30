@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T09:24:00Z
 webUrl: "https://www.finextra.com/newsarticle/36122/employee-financial-health-startup-symmetricalai-raises-56-million"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

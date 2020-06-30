@@ -274,22 +274,6 @@ related:
         width: 592
         height: 375
         isCached: true
-  - title: "Report: Amazon to pay $1 billion+ for self-driving tech firm Zoox"
-    excerpt: "Amazon is expected to announce a deal as early as today to purchase self-driving vehicle technology provider Zoox for upwards of $1 billion, according to a report in The Information. Why it matters: While Apple,"
-    publishedDateTime: 2020-06-26T04:41:00Z
-    webUrl: "https://www.axios.com/report-amazon-to-pay-1-billion-for-self-driving-tech-firm-zoox-719d293b-3799-4315-a573-a226a58bb004.html"
-    ampWebUrl: "https://www.axios.com/report-amazon-to-pay-1-billion-for-self-driving-tech-firm-zoox-719d293b-3799-4315-a573-a226a58bb004.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/report-amazon-to-pay-1-billion-for-self-driving-tech-firm-zoox-719d293b-3799-4315-a573-a226a58bb004.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 44
-    images:
-      - url: "https://images.axios.com/FT1f4C55jmQsmQbKyWsor8otFoM=/fit-in/1366x1366/2020/06/26/1593145599810.png"
-        width: 1366
-        height: 797
-        isCached: true
   - title: "Amazon buys Silicon Valley self-driving tech unicorn Zoox at a big discount"
     excerpt: "Amazon may be paying upwards of $1 billion for the Foster City startup, a move that puts it more squarely in Silicon Valley self-driving vehicle race."
     publishedDateTime: 2020-06-26T12:08:00Z

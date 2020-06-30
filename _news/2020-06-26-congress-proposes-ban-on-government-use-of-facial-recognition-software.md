@@ -64,6 +64,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "This Bill Will Ban Government Use of Facial Recognition Tech"
+    excerpt: "The Facial Recognition and Biometric Technology Moratorium Act just introduced into Congress aims to ban federal government from using biometric tech."
+    publishedDateTime: 2020-06-30T20:45:00Z
+    webUrl: "https://nerdist.com/article/banning-facial-recognition-technology/"
+    ampWebUrl: "https://nerdist.com/article/banning-facial-recognition-technology/?amp"
+    cdnAmpWebUrl: "https://nerdist-com.cdn.ampproject.org/c/s/nerdist.com/article/banning-facial-recognition-technology/?amp"
+    type: article
+    provider:
+      name: Nerdist
+      domain: nerdist.com
+    quality: 61
+    images:
+      - url: "https://nerdist.com/wp-content/uploads/2020/06/Facial-recognition-ban-bill-feature-image-06302020.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Bill would ban police use of face recognition"
     excerpt: "Democrats in both houses of Congress said Thursday they are introducing a bill that would ban government use of facial recognition technology. Why it matters: A handful of cities have banned government use in their jurisdictions,"
     publishedDateTime: 2020-06-26T14:08:00Z
@@ -79,6 +95,22 @@ related:
       - url: "https://images.axios.com/p7B5-PLA0-35TMo6SFJtpkWwOtM=/fit-in/1366x1366/2020/06/26/1593178893338.jpg"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Boston mayor okays ban on facial recognition tech"
+    excerpt: "Mayor Marty Walsh has approved ban on government use of facial surveillance technology, making Boston the first major East Coast city to do so."
+    publishedDateTime: 2020-06-30T21:06:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2020/06/30/mayor-walsh-signs-ban-on-facial-recognition-tech.html"
+    ampWebUrl: "https://www.bizjournals.com/boston/news/2020/06/30/mayor-walsh-signs-ban-on-facial-recognition-tech.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/06/30/mayor-walsh-signs-ban-on-facial-recognition-tech.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 59
+    images:
+      - url: "https://media.bizj.us/view/img/11663456/mayor-walsh-may-4*600xx3593-2395-4-0.jpg"
+        width: 600
+        height: 399
         isCached: true
   - title: "OTR: Will Boston's ban on facial recognition technology become a national trend?"
     excerpt: "JANE BOSTON BECAME THE SECOND NATIONAL CITY TO BAN FACIAL RECOGNITION TECHNOLOGY. WILL THIS BE A TREND? WE MAY BE THE FIRST BUT WE’RE NOT THE LAST. MARY ANNE: IT’S MORE 1984 THAN A 2020 DEMOCRACY. ED: THIS WEEK,"

@@ -3,13 +3,12 @@ category: news
 title: "Save 95% off this Ultimate Artificial Intelligence Scientist Certification Bundle"
 excerpt: "Be an in-demand, certified tech professional with 87+ hours of content on Python, Tensorflow, Machine and Deep Learning while saving over $750 off the normal cost of this certification."
 publishedDateTime: 2020-06-30T16:46:00Z
-webUrl: "https://www.neowin.net/news/save-95-off-this-ultimate-artificial-intelligence-scientist-certification-bundle"
+webUrl: "https://www.neowin.net/news/save-95-off-this-ultimate-artificial-intelligence-scientist-certification-bundle/"
 ampWebUrl: "https://www.neowin.net/amp/save-95-off-this-ultimate-artificial-intelligence-scientist-certification-bundle/"
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-95-off-this-ultimate-artificial-intelligence-scientist-certification-bundle/"
 type: article
 quality: 82
 heat: 82
-published: true
 
 provider:
   name: Neowin
@@ -29,6 +28,6 @@ images:
     isCached: true
     title: "Save 95% off this Ultimate Artificial Intelligence Scientist Certification Bundle"
 
-secured: "ZNTxXggnUHNrvTSjj+4l+kQUhaVIzMcLsah0VuRWcfALKxAhvPyhx+0pWcrTu7WC4ApJNWKMkUxXsWa3DY3wlKOA+25pw2K8kC55z6HXvMeiD6aGZvRNBHV+jnNDjtjfYoRSj4Xyk0uWEy+qS4QpHWE1cVHXg4rVJQtxAmWfRsLZvKZ0p/O/gHJCBR/oFo9P+eOj+wzXucK7vyNVCYBwDLYmA2AAUdl8y1zGTEbuXo4CAiW5t6t1AoE+nlLU3aT6IgM2ElLs5Fmj7o3quVxc102dQzhdAKs7nABzkO5IxZH9f59XiSWZYQFiOY78nbULcmmFAS2lNjNRsO07oIE5pA==;8K9DmoDAtaae5LDjiTQKDw=="
+secured: "kJp7kymvfMtEfNYM9HXrnXPxPyG1EvjT1L9s5xcgtw4QgkWKNoBy10kZnOWA6Zd8SqFz3pkeNSm7QSYCNzrh3/+XZrI2Sb2BJh2fPQLZVN1jiUKE4TBUkyGxRNsPN4fXK0Lx6bjt/fEWQLek6BYcdj3ngDD/Y96tkIbWeBwJjD6frLsG/TokbtHgYYW0AYYwLypSZ/AWRkt5OJ002f1J5pTjVM5iMu9xjwilvUJub3xYRQ1okeMvTZKRTkyH6KGAcphFfI9kA+wkt9wiHvyMEbUUQ2oqNYepvwCt0lgMZT4hKmo2kFe9UjHAjGJpdanDpbYvDwd99SlV2h5aRTbUuA==;YIJIpNN09MTSoyTw5MyZLg=="
 ---
 

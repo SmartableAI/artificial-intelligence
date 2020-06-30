@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technol
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html"
 type: article
 quality: 74
-heat: 354
+heat: 344
 published: true
 
 provider:
@@ -261,22 +261,6 @@ related:
       - url: "https://s29755.pcdn.co/wp-content/uploads/2020/06/Screen-Shot-2020-06-26-at-14.20.54.png"
         width: 592
         height: 375
-        isCached: true
-  - title: "Report: Amazon to pay $1 billion+ for self-driving tech firm Zoox"
-    excerpt: "Amazon is expected to announce a deal as early as today to purchase self-driving vehicle technology provider Zoox for upwards of $1 billion, according to a report in The Information. Why it matters: While Apple,"
-    publishedDateTime: 2020-06-26T04:41:00Z
-    webUrl: "https://www.axios.com/report-amazon-to-pay-1-billion-for-self-driving-tech-firm-zoox-719d293b-3799-4315-a573-a226a58bb004.html"
-    ampWebUrl: "https://www.axios.com/report-amazon-to-pay-1-billion-for-self-driving-tech-firm-zoox-719d293b-3799-4315-a573-a226a58bb004.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/report-amazon-to-pay-1-billion-for-self-driving-tech-firm-zoox-719d293b-3799-4315-a573-a226a58bb004.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 44
-    images:
-      - url: "https://images.axios.com/FT1f4C55jmQsmQbKyWsor8otFoM=/fit-in/1366x1366/2020/06/26/1593145599810.png"
-        width: 1366
-        height: 797
         isCached: true
   - title: "Didi Chuxing tries self-driving taxis"
     excerpt: "Didi Chuxing, China’s largest taxi-booking platform, began testing autonomous cars connected to a vehicle-to-everything (V2X)"

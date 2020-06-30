@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "China's Didi aims for 1 million robotaxis on its platform by 2030"
 
-secured: "Un0Kv8S6LTFrlZgEprVWtQWeVLbdwXCyD8ZRhaAeATb/Qqlup3V7rcd/bwXcrDhoM3iuhEU6S0ZIClsTk6ktI2oQFIh6Ew/V91CC5oNK+EHBXdIjF/zOhzNfdu+Ds2KGpWfc4Mfj9nJUZe2s7LAc9s8FmsL/y/rh3Jdk8wJLM3kONyb0VTl+DSN2Luy+5QA+TyyGg0p5pKeUUyMbztxrGTVCpSOHTyZaujaSgTPdAmmCdRMh45yJw4g7+ZLgV7COywJcG9IOn6C7EkrT4hFmXut3vbmwK/Rb6oftstf+hNJ4LPrqDLkOaV0Cn8yVdV7z3OWX4SfVL+40uD35ckJf5w==;iIDjzaAGIfGVoybYP+IIkg=="
+secured: "+WHTBkM1RrjNpgl5THQX0XHU8ijJWXPszXJ+XcJL3fcL+YUqnooYmOE+Z3Ngl+tGUMPbFmOKE78rXePRQH6k6Y2WvzU7KtsuAPEfwe0rME7ITmXI1CVr+SXvBas4yghLuGyBFveaBoxn2QfZqv9A7MznY8FLy+g+YhXEjcNmnbJG0AsNEZT92BI95OiLDtKeChyLDnJx5OXA/YZEMP5dXuD0Qn6pJ2rrzSBw/NwLx57wmhG4LxR+TIGHnzmbu1NTxCXEIv6yvPn8p3BVGZtLfLY+2MMxEbk/y86mqjw6jxZ7igDCpvHUmf2iu8fJfXPQp+yeEboKezHqT1N4w1QT1vacAb2BPnlsh/yOTK4awglLUnnmGAiUisWa/8aBXrthe8/EsHwBxMay5neQ/RpbDDhHqWfpNT662g/ST1LOCa0wGQH8pzIyNaDZXaR5yAqcwDH5U37RKhaPkdMTnDQmfK7ZnvwI4R4MZhogrwsQmOO82A2/ODTa29nHmHzP6ktJx+I1M27esnAzsGlGOuwqyA==;waxyWD4mdqVyRB1cVFiSgQ=="
 ---
 

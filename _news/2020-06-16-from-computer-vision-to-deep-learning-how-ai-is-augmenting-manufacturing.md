@@ -1,63 +1,26 @@
 ---
 category: news
 title: "From Computer Vision To Deep Learning: How AI Is Augmenting Manufacturing"
-excerpt: "While machine vision has served its purpose, deep learning-enabled cameras will bring innovation to a sector that has never been more in need of breakthroughs."
-publishedDateTime: 2020-06-16T11:16:00Z
-webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/"
-ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/amp/"
+excerpt: "While machine vision has been around for more than 60 years, the recent surge in the popularity of deep learning has elevated this sometimes misunderstood technology to the attention of major manufacturers globally."
+publishedDateTime: 2020-06-16T16:25:00Z
+webUrl: "https://ctovision.com/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/"
 type: article
-quality: 120
-heat: 140
-published: true
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ctovision.com
+  domain: ctovision.com
 
 topics:
-  - Machine Learning
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1219387288%2F0x0.jpg"
-    width: 1200
-    height: 675
+  - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+    width: 632
+    height: 422
     isCached: true
     title: "From Computer Vision To Deep Learning: How AI Is Augmenting Manufacturing"
 
-related:
-  - title: "Visibility is key to securing an ethical future for AI and machine learning"
-    excerpt: "Visibility for AI and machine learning is an essential feature for avoiding bias, and building and maintaining trust in the technology"
-    publishedDateTime: 2020-06-16T12:54:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=141305"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 69
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/130082-1200-by-630-black-and-blue-connected-dots-abstract-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "New connections between quantum computing and machine learning in computational chemistry"
-    excerpt: "Machine learning is changing the way we use computers in our present everyday life and in science. It is natural to seek connections between these two emerging approaches to computing, in the hope ..."
-    publishedDateTime: 2020-06-18T16:41:00Z
-    webUrl: "https://phys.org/news/2020-06-quantum-machine-chemistry.html"
-    ampWebUrl: "https://phys.org/news/2020-06-quantum-machine-chemistry.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-06-quantum-machine-chemistry.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 30
-
-secured: "kIxO3rNucQs+KM1vo2b3bm0RRmb+0T5e9ZS56kf2xUjt+NgFHp4CJ28Ya30/pCpMVczsz6L+ijLP9hwrsztMtETQSoXxT9QaSHnSM5BM1I1MexJIor9rIINwppwp7KtX/DIsQTPUrcWQ3r4V4Z/nU4e+o2Ri64LrXwY7eaINsfXv14fyuVIQuwds63ECwFXq6uBn35Wpf2zEdzJrK7ojmuS2FTSaEr4fSSbyauf/2SUcTgwfyaGAYPAX4/QzY+hfmT7JaRZDfrRKj8dbvmwVu8twP8wu/6jdbVyKfeLz2IKyNJBnDKm+ePYscnCK26c3WpptbDpHgUA05Vl3uNJVvTG284W0OunSsbNp1xEeX/cE9Z2nuUAlO2ebQ0GVxl4LZrQ/6tMpIJJHdP00usQBopBFqo7USyboC04VDGX5hvkzMhvQeBvqvedRM7VEcOwJF9qYjxHPdD1LP7UB6+VabKWmUDhbbi++RiymsSW42KOGQ04w7tWV6zXSCDg6RDt0;en+e1rIDnKL1kdLSN05uVw=="
+secured: "Axup7PoxptfEMcW3FimEVxtkNjixvCrdv2daNvm1V7gB2EtvBULj0aIZ7hBb03tt2HzceqqAh1kKPmAfCRMBznZJyh3o7x+TOU3H00A2ukXa/Xm3HyoZoS6QfwYvVuMp4i/8IaZPV9Z36pPk0w/CEulhumH1hjLNFzU/ZbclOEjpIVSUoyvK6of3mvmWfJqiAUkE4fsyTZj27AqPGZEUMqCTIEH/mgcbvLODLlXFkZHkZDHqsFi1EiNgGvcGNwiGV24/aJ0eTF1TgA4s34K0M3neb1tl/AMJtSaWlZa/bl3s6UeSUC2sX88B4YSNBF0RpWnnW+qNW28VQGpUsgwBzA==;6MFGNRLAokDtGHGDUqV5Dw=="
 ---
 

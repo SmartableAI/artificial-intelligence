@@ -8,7 +8,7 @@ ampWebUrl: "https://www.india.com/sports/sports-ministry-moves-delhi-high-court-
 cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/sports/sports-ministry-moves-delhi-high-court-seeking-restoration-of-provisional-recognition-to-57-nsfs-4071808/amp/"
 type: article
 quality: 31
-heat: 31
+heat: 41
 published: false
 
 provider:
