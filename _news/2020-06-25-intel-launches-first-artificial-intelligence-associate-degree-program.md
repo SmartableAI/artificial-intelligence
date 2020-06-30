@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-25T14:00:00Z
 webUrl: "https://www.businesswire.com/news/home/20200625005201/en/Intel-Launches-Artificial-Intelligence-Associate-Degree-Program"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     title: "Intel Launches First Artificial Intelligence Associate Degree Program"
 
 related:
-  - title: "Intel takes new twist on artificial intelligence innovation with Valley degree program"
-    excerpt: "Intel Corp. has long been known for its artificial intelligence innovations, but now the company — which has a huge presence in Chandler — is taking a new step into AI development. #phoenix"
-    publishedDateTime: 2020-06-25T12:00:00Z
-    webUrl: "https://www.bizjournals.com/phoenix/news/2020/06/25/intel-degree-program-maricopa-community-colleges.html"
-    ampWebUrl: "https://www.bizjournals.com/phoenix/news/2020/06/25/intel-degree-program-maricopa-community-colleges.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/phoenix/news/2020/06/25/intel-degree-program-maricopa-community-colleges.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 49
-    images:
-      - url: "https://media.bizj.us/view/img/11685196/intel-10th-gen-chip-motherboard*600xx2534-1689-233-0.jpg"
-        width: 600
-        height: 399
-        isCached: true
   - title: "Intel set to debut artificial intelligence degree program in Valley"
     excerpt: "Long known for its innovations in the development of artificial intelligence applications, Santa Barbara, California-based Intel Corp. is taking its AI game to a new level — and metro Phoenix is ground zero. With plans to create a pipeline of AI talent ..."
     publishedDateTime: 2020-06-26T18:03:00Z

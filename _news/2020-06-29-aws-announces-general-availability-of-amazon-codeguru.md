@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon CodeGuru"
-excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon CodeGuru, a developer tool powered by machine learning that provides intelligent recommendations for improving code quality and identifying an application’s most expensive lines of code."
-publishedDateTime: 2020-06-29T21:30:00Z
-webUrl: "https://www.oleantimesherald.com/business/aws-announces-general-availability-of-amazon-codeguru/article_822459f1-2e8c-59ce-9958-ef9ca74aecc4.html"
+excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon CodeGuru, a developer tool p"
+publishedDateTime: 2020-06-29T22:07:00Z
+webUrl: "https://www.businesswire.com/news/home/20200629005826/en/AWS-Announces-General-Availability-Amazon-CodeGuru"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Olean Times Herald
-  domain: oleantimesherald.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/custom/image/6e0114c2-753e-11e6-8652-4b3e0020306e.png?resize=600%2C315"
-    width: 600
-    height: 315
+  - url: "https://mms.businesswire.com/media/20200629005826/en/801942/23/AWS_logo_RGB.jpg"
+    width: 1200
+    height: 627
     isCached: true
     title: "AWS Announces General Availability of Amazon CodeGuru"
 
@@ -86,6 +86,6 @@ related:
         height: 853
         isCached: true
 
-secured: "c9f4y3VVVlGS/Tg33x8cKU/RjdKSXtPI1/Yp13yppbieDCFR9i/1Cp4FjShjNwOeofCOwMQZWCRPjVoeKj8oapiddPN1z1oZh+M4nYj+f7GO8fDku7MhwmLh+mpZzTbys1hLYg7vIYM8h/4mw81UoTTJup4D0V1xnOlWh0lxH6aRDTFFiqiTgQY4inTbQu5eKMAUiaZYZrdEOMQwyZ62Yczpw1I2Kv35ENxlUfSobB8cS9ACTZdNYK04bA+G2QLgItYR+xyLXYLLBVsnZn/LfuWE5dBFey/DrG7aAkYfJF25jhI4SuQb484n+CPLCCMIzQxeQPHd1Q8Sokquh/c9Nw==;qvaCc9jTYF8Be8xHRfiYbw=="
+secured: "KoJAYiANwk89u4c7dT3ICVwnHIIzhEwC5KvNV6Fy/47Z5yWXEaoJZZqTh2KE0xteeQcytiX7BDSmvlZU+2aZGYoWTrgNi+HvHtKeX7DMv/DCj0zy9yhFNkyC6nVZOVL1sVi4UCzRxXJAxj9BL+beTaCfhGgK4lQ8BU92mVIU+3GbfTuMUvgaCHDG1Lw0yKf3TWdW8haRHjQc4UGVdrhR1r/v4VESbKE9Qc9BY0igGIbczCVUsHNO1/NtnEE3rHmbH8rx1QXU+I4e7qQvUPQWbTFvv6IZrywsXKizvw0laaibNapeSwBoMiGKDH5ijMUr+dSNvHQpOyk1MWf/17yHwg==;Cv4qu0fVmVfPSNKC24YhfA=="
 ---
 

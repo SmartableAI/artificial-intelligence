@@ -24,22 +24,6 @@ images:
     title: "Intel set to debut artificial intelligence degree program in Valley"
 
 related:
-  - title: "Intel takes new twist on artificial intelligence innovation with Valley degree program"
-    excerpt: "Intel Corp. has long been known for its artificial intelligence innovations, but now the company — which has a huge presence in Chandler — is taking a new step into AI development. #phoenix"
-    publishedDateTime: 2020-06-25T12:00:00Z
-    webUrl: "https://www.bizjournals.com/phoenix/news/2020/06/25/intel-degree-program-maricopa-community-colleges.html"
-    ampWebUrl: "https://www.bizjournals.com/phoenix/news/2020/06/25/intel-degree-program-maricopa-community-colleges.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/phoenix/news/2020/06/25/intel-degree-program-maricopa-community-colleges.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 49
-    images:
-      - url: "https://media.bizj.us/view/img/11685196/intel-10th-gen-chip-motherboard*600xx2534-1689-233-0.jpg"
-        width: 600
-        height: 399
-        isCached: true
   - title: "Intel Launches First Artificial Intelligence Associate Degree Program"
     excerpt: "Intel is partnering with Maricopa County Community College District to launch an Intel-designed artificial intelligence associate degree."
     publishedDateTime: 2020-06-25T14:00:00Z

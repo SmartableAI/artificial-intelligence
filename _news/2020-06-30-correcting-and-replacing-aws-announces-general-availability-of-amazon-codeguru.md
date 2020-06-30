@@ -58,18 +58,18 @@ related:
         height: 389
         isCached: true
   - title: "AWS Announces General Availability of Amazon CodeGuru"
-    excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon CodeGuru, a developer tool powered by machine learning that provides intelligent recommendations for improving code quality and identifying an application’s most expensive lines of code."
-    publishedDateTime: 2020-06-29T21:30:00Z
-    webUrl: "https://www.oleantimesherald.com/business/aws-announces-general-availability-of-amazon-codeguru/article_822459f1-2e8c-59ce-9958-ef9ca74aecc4.html"
+    excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon CodeGuru, a developer tool p"
+    publishedDateTime: 2020-06-29T22:07:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200629005826/en/AWS-Announces-General-Availability-Amazon-CodeGuru"
     type: article
     provider:
-      name: Olean Times Herald
-      domain: oleantimesherald.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/custom/image/6e0114c2-753e-11e6-8652-4b3e0020306e.png?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://mms.businesswire.com/media/20200629005826/en/801942/23/AWS_logo_RGB.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Amazon releases CodeGuru, which uses machine learning to optimize code"
     excerpt: "Amazon Web Services Inc. said today its new Amazon CodeGuru service, which relies on machine learning to automatically check code for bugs and suggest fixes, is now generally available. Amazon announced the tool in preview at its AWS re:Invent event in December."

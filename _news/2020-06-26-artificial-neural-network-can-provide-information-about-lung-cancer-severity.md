@@ -8,8 +8,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200625/Artificial-neural-net
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200625/Artificial-neural-network-can-provide-information-about-lung-cancer-severity.aspx"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: News Medical
@@ -27,17 +27,6 @@ images:
     title: "Artificial neural network can provide information about lung cancer severity"
 
 related:
-  - title: "Neural network can determine lung cancer severity"
-    excerpt: "Computed tomography (CT) is a major diagnostic tool for assessment of lung cancer in patients. Now NIBIB-funded researchers at Stanford University have created an artificial neural network that analyzes lung CT scans to provide information about lung cancer severity that can guide treatment options."
-    publishedDateTime: 2020-06-25T12:45:00Z
-    webUrl: "https://medicalxpress.com/news/2020-06-neural-network-lung-cancer-severity.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-06-neural-network-lung-cancer-severity.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-06-neural-network-lung-cancer-severity.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 39
   - title: "Machine Learning Network Determines Severity of Lung Cancer"
     excerpt: "A machine learning tool analyzed CT scans to offer information about lung cancer severity and guide treatment options."
     publishedDateTime: 2020-06-29T14:55:00Z

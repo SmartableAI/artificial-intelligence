@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "HKU FinTech Indices reveal a positive outlook for 2020-21 despite negative impact from COVID-19 and protests"
 
-secured: "8dgoUm5Rc/OofIwK/a858NS99RYolXv2aNwQBcNJge4wmPpXrBz7WuCrzBoTiEcIbPtXkpl49qdKJtRKmxH5JdKB+c/byniPpLC+KGWAlgaf08hG9HVd4qlhyAe5Ew/pC+Smg6/kxiLeT1Q0Mkw+tAwQeJG3waRbIA/qMfnkKAwpNoM0O1FLOnR/447neRVm6GORGA0Ep+SsifelvNTwo4ss1dXfBj39R+PhJGxEZCESzXk2QzaB1jC/3qvPgv8B6THcqvBY/Pb0dH0K7JsihRCMfKRXXphbVGWWOvaPlyDYpWkoKFNBvKxHaE4kbs++YB/M9J/NoOzbGnPcvubIgQ==;0UOh0Wn4V1vzVFirrz1XzQ=="
+secured: "qgcLnIoKnoqqsZw+8qu23YD0po+/Dh12BjoWd/0Rfq53Zq6KpSBhtZC7EOCT2I5aQHZ3lEn3KDmQ540mrHCewlzltxLWekMZk7/+vnW8VUR/Ag4n/Xc2Bd4WhGy7gfKBbD20Xh5I6tP+DW122fuL6jkVqP2MHtW9dGLp8TWb7O/w7xOJhkdbulHZ3lTDbeFqYNsIBLnnp3KalXfxm999k1tUTY+w7HIr+TsWoWebwIAQlweJIeNs/hABPMBRrrdy8lvSzSetDsRISaszx10PagLgw+2oviE0I3bfxwOkBUt30f0E+Gr+TAU4WLQZmQoUiX9wzn03nK6ztp28ejpaeqIfAD3hwpSzA0q0TINggWcKV2rbFKbR3pxdW9Wfr/BymhF4pRRdpiBvxEwiFSJiExC1v5OQJb0OYTtaxBY5IlLYDcdmwPBSAVxOMc1LkmSq/HJ5dK+TkRYRHiRlot3lqryX6x0UeZIkDvCQsmf/9EwRxa+Hkc2ZR09cwA2NPbsN6snu2LrkDbKQzfp87A+YsA==;cg4Z5+6L8lxoLgius8HpEw=="
 ---
 

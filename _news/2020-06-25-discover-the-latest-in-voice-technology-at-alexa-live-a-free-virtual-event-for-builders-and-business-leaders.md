@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-25T22:26:06Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/discover-the-latest-in-voice-technology-at-alexa-live-a-free-virtual-event-for-builders-and-business-leaders/"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     height: 500
     isCached: true
     title: "Discover the latest in voice technology at Alexa Live, a free virtual event for builders and business leaders"
-
-related:
-  - title: "10 Emerging Tech Companies Showcase Inventive Products and Services Today at the 2020 FinTech Innovation Lab New York Virtual Demo Day"
-    excerpt: "Ten emerging enterprise tech companies will present their technologies virtually to dozens of top executives within the financial services, venture capital and technology industries today at the 10th annual FinTech Innovation Lab New York Demo Day."
-    publishedDateTime: 2020-06-25T11:59:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200625005116/en/10-Emerging-Tech-Companies-Showcase-Inventive-Products"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "Wfm/WHnsaET4oGytz8HdQnUHbEj+qjrLoVX5GqI/LyN5DoGceHvDulE3+CyGpwAprWy/6NwRwCY6XhUBcfuLyuxU1WCQkPwFwg8b/rpJpoJjFu9Nep5NRKRP8Ah5W1nM1GvDjsgS8zpPSBY8hX1gV3vx+usQa8mmTTBDHnd0vM9ZIRuuCp64ES7L2GhdKeHQVCs4q/FpwnM4jrQ3nxaIqw7OQlPE1k/FnFttKQX9DW6ZR7T0IHQuV0iFmipF2Bz9Je4txmiPJh7sHvivZGlYblv8Ek6T3/9ieMZlP41OC0yVBj882Ia4jfvdDE+KQ/IaB9G13zuixTL+P51kD4M4dg==;QLB+tQ3ARx5aWoo3dT0wfA=="
 ---

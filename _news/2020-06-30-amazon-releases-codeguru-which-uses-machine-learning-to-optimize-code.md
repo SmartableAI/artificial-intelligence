@@ -58,18 +58,18 @@ related:
         height: 389
         isCached: true
   - title: "AWS Announces General Availability of Amazon CodeGuru"
-    excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon CodeGuru, a developer tool powered by machine learning that provides intelligent recommendations for improving code quality and identifying an application’s most expensive lines of code."
-    publishedDateTime: 2020-06-29T21:30:00Z
-    webUrl: "https://www.oleantimesherald.com/business/aws-announces-general-availability-of-amazon-codeguru/article_822459f1-2e8c-59ce-9958-ef9ca74aecc4.html"
+    excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon CodeGuru, a developer tool p"
+    publishedDateTime: 2020-06-29T22:07:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200629005826/en/AWS-Announces-General-Availability-Amazon-CodeGuru"
     type: article
     provider:
-      name: Olean Times Herald
-      domain: oleantimesherald.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/custom/image/6e0114c2-753e-11e6-8652-4b3e0020306e.png?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://mms.businesswire.com/media/20200629005826/en/801942/23/AWS_logo_RGB.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "CORRECTING and REPLACING AWS Announces General Availability of Amazon CodeGuru"
     excerpt: "Second paragraph of release after the bulleted list should read: Amazon CodeGuru is available today in US East (N. Virginia), US East (Ohio), US West"
@@ -86,6 +86,6 @@ related:
         height: 627
         isCached: true
 
-secured: "1YNzQ5TUKGkpu42DSfVv96r9FibeQ3iG0M7ijbuoJakLvkGujzA1+tQOB6oUfRLBK2pt7XqN5u5e041eA536uRZg0B8dryr5hCu4G/75HTAwk5IEDW91pZ8RvxKB3Ipx1Dpe8yny08e3z++jFKK7oHh6RBCFIkNUngIlKTnVBz/kWpLjk20EvcieB4Z98f4aZi69iVIHZct45Ms7Iqk6BR8oeGyZc23keiNgFHxOzE8Qk/ZN256UI+jovu7LWu9Wkl6/ghrAm2mj2S9Q7yvMFZh0uSs/QgCNKsL0csH2LjkSSko9sqMyQVZZRl0GkvgYLPINacencoNPHJ/0lMbT6w==;z746bO+9v8zmxUmhSqTfyg=="
+secured: "QmG4pgjAwFIBznQuv1iD2wBqLRiwbcDX4L5nDf3M7N/JT/5nN0qg0bZhUaDBdLfa7QRxngjhAWpBiU5XdNs+vqHaamYrJIlFEJfvAke53eQEfRKdHF5c4ViwBzxRgm4gondu1GR5FxX+RyYD4VH8hiiocornDRPrHGd2WGYcTBvQKAGHaoSms0/oKkqd9+s0G6NBthfNNDF0P4cPbMU/S/VoPvieP7l4wf9DhR/CCCcfAvh+DipTMSTthsyl8UTsD5PKo7dNEf09ifRqozCGaJF57o+t8BaxSCodY1FeyfwUYDckhYqFVqgplPF70FBxDDuBBU64qSvJT/qPlIApwH3UaYpmVXN0V0EZVGGxcnBGMPyDhW9jTFAw9gbzdqn3RyYIe4Pbyvq/a9PVo9oYZW8dD+mbm/vZ4Ls47KmYyot4XF+61Rfxa08Eh/SdBhVqO8UVQ5yJE2KOLrwCKSQxbAhSOaI0jmsQiPdnldqz6fFIFA6DYMa8T0rkuC7r1naV6waKH402L2raC9STBbofCg==;ZAI8Ymn1th2OyQveKjwGrg=="
 ---
 

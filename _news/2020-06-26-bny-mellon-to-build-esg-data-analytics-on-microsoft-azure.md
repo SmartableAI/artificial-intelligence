@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-26T08:57:00Z
 webUrl: "https://www.finextra.com/pressarticle/83073/bny-mellon-to-build-esg-data-analytics-on-microsoft-azure"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Finextra
@@ -36,20 +36,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 44
-  - title: "BNY Mellon Launches New Data and Analytics Solutions Offerings, Collaborates with Microsoft to Build Solutions on Microsoft Azure"
-    excerpt: "PRNewswire/ -- The Bank of New York Mellon Corporation (\"BNY Mellon\") today announced the launch of three new Data and Analytics Solutions offerings"
-    publishedDateTime: 2020-06-25T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/bny-mellon-launches-new-data-and-analytics-solutions-offerings-collaborates-with-microsoft-to-build-solutions-on-microsoft-azure-301083452.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/323907/bny_mellon_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
 
 secured: "EdTfyJDI9Mi7k1UR02P4m9ijHhcc8frRjRPI2bLmxUgz+PHSEoOIJIO8AqqZitm27SIs0GsOByalZpM3z0B56uOAML4pD7BmkH9HBD52+V9qe1dTNI/prjxEz8cEsU7EwB/jPFGi4Sub6HO7YmJzXkDPhTM2/gYkDFgID3yKHMITVqF+y+W45rXxQJi/1bK8QBgYukStrMmDKqNlZ3BgM2ZLtjKCOLaP6w255wjTxQm+huVc1OPDNqqOPsaBMYjbTY0bT3feyyt87+In9tu1WwY+1VJiXCSGBKfay+pthlsCLkAsbv2wrMLHKyPaEg3IDtY+D6/5P1YdCVOedqDY6g==;ptDqhg2egQt5VQWVj/E14w=="
 ---
