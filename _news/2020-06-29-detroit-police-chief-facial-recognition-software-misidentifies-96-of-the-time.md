@@ -8,7 +8,7 @@ ampWebUrl: "https://www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-f
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
 type: article
 quality: 85
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/black-lives-matter-protest-detroit.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 605
-        isCached: true
-  - title: "Facial recognition software vendor vows to thwart misuse after wrongful Detroit arrest"
-    excerpt: "Facial recognition vendor Rank One Computing said on Wednesday it would “add legal means” and research other ways to thwart misuse."
-    publishedDateTime: 2020-06-25T07:31:00Z
-    webUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/"
-    ampWebUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all"
-        width: 1146
-        height: 613
         isCached: true
   - title: "Florida Police Embrace Facial Recognition Despite Pushback"
     excerpt: "While companies and governments are halting the use of facial recognition technology, the Pinellas County Sheriff’s Office is refusing to comply until official regulations are put in place."

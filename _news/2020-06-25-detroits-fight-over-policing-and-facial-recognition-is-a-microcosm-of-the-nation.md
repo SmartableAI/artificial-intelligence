@@ -47,22 +47,6 @@ related:
         width: 2122
         height: 1193
         isCached: true
-  - title: "Facial recognition software vendor vows to thwart misuse after wrongful Detroit arrest"
-    excerpt: "Facial recognition vendor Rank One Computing said on Wednesday it would “add legal means” and research other ways to thwart misuse."
-    publishedDateTime: 2020-06-25T07:31:00Z
-    webUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/"
-    ampWebUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all"
-        width: 1146
-        height: 613
-        isCached: true
   - title: "Florida Police Embrace Facial Recognition Despite Pushback"
     excerpt: "While companies and governments are halting the use of facial recognition technology, the Pinellas County Sheriff’s Office is refusing to comply until official regulations are put in place."
     publishedDateTime: 2020-06-26T21:42:00Z

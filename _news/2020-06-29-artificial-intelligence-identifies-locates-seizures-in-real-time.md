@@ -1,21 +1,19 @@
 ---
 category: news
 title: "Artificial intelligence identifies, locates seizures in real-time"
-excerpt: "Research has shown that understanding brain activity as a network instead of readings from an EEG allow for more accurate and efficient detection of seizures in real-time."
-publishedDateTime: 2020-06-29T21:40:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/06/200629124052.htm"
+excerpt: "Researchers from Washington University in St. Louis' McKelvey School of Engineering have combined artificial intelligence with systems theory to develop a more efficient way to detect and accurately identify an epileptic seizure in real-time."
+publishedDateTime: 2020-06-29T16:46:00Z
+webUrl: "https://medicalxpress.com/news/2020-06-artificial-intelligence-seizures-real-time.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-06-artificial-intelligence-seizures-real-time.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-06-artificial-intelligence-seizures-real-time.amp"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
@@ -38,6 +36,6 @@ related:
         height: 480
         isCached: true
 
-secured: "qpKFOU9ldO3DGhwP9DrlWjamf7uIH1HXzqBtN6MLpkpnxSbY8qYaQnAtxHWuXC98xhyX3HO2LNEn+3FU8O+ex5spTwr3EFYQVWVzujSjHgcSVXgHjleLkoahg0zKbA8S5YS1eV/EhtG0/XwY/8a0Cnc51soNujwwQJYYCEjV5Zo+7KgvdnaEOVPojNWift53QHBsNX37hhgZY+HKN6eG2M/iwtE7v+7YjuOziGQJrZOFXkB3bYfrspWDn4SC75y6hOJc612cw4+UY1YHF/homynKuLgKEpa3mc74fO4rur3i83l7eVWl0ywca8xR7KI/kwIkmpTR2GT/2M6eq6p9Ww==;Grzbyr2TRNOgooTXeWbBIg=="
+secured: "dKTxqs7NapUx9P9jKyNmw1/qv3MuiS/aWeRVbCuBoAKYHmVz3NmcBgtxk0h9PxNtEO9fXk/VCM+v7DYrzA9dXQ7AAyaGm6FaKHiLKsp1x9EsQ3nw7cq82iWZC2MDR6vqYwaF8qxb4oSudJyTJqePKbxtiJrbh13hYokeTHEZOXqKrCAoNg5BjQwVElj0UaATYczXnXo4axPL0jZVDZr+Bf8iEyqy2ZPjHHXl352pZuHxt/+hcwlNITnnEr1kX3Ubrb2dmJWZbVbOeYnKrECo8gHHJoIYfH/RU3OTzMIDsQxqPy9WmjzaBB4iiwDMshW2krn1/rvvGInADvo5tl1GanC+6lFBbpp8JXIZAuqIs5+Jm1d7Mu1qRUJJGAzFXlqf6bc4awQidRbCauPJt0uWpEEhJ5yQlVNGLkACCIeqfN757XmwzUjYTIAPABtnpHVhODK2PR3lw49EOJbL8eDgQ0DEGzQpHOxmrl0VyjCvQoopXOLdTRVXkEenr5IkIdtglwFOVJKzd9gp7Gqq5Zzkyw==;Ty6DvGT+rNJsfPsI6LBvGw=="
 ---
 

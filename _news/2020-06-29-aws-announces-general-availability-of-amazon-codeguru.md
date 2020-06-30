@@ -57,6 +57,20 @@ related:
         width: 722
         height: 389
         isCached: true
+  - title: "CORRECTING and REPLACING AWS Announces General Availability of Amazon CodeGuru"
+    excerpt: "Second paragraph of release after the bulleted list should read: Amazon CodeGuru is available today in US East (N. Virginia), US East (Ohio), US West"
+    publishedDateTime: 2020-06-30T00:38:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200629005826/en/CORRECTING-REPLACING-AWS-Announces-General-Availability-Amazon"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 50
+    images:
+      - url: "https://mms.businesswire.com/media/20200629005826/en/801942/23/AWS_logo_RGB.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "c9f4y3VVVlGS/Tg33x8cKU/RjdKSXtPI1/Yp13yppbieDCFR9i/1Cp4FjShjNwOeofCOwMQZWCRPjVoeKj8oapiddPN1z1oZh+M4nYj+f7GO8fDku7MhwmLh+mpZzTbys1hLYg7vIYM8h/4mw81UoTTJup4D0V1xnOlWh0lxH6aRDTFFiqiTgQY4inTbQu5eKMAUiaZYZrdEOMQwyZ62Yczpw1I2Kv35ENxlUfSobB8cS9ACTZdNYK04bA+G2QLgItYR+xyLXYLLBVsnZn/LfuWE5dBFey/DrG7aAkYfJF25jhI4SuQb484n+CPLCCMIzQxeQPHd1Q8Sokquh/c9Nw==;qvaCc9jTYF8Be8xHRfiYbw=="
 ---

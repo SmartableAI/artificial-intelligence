@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 449
         isCached: true
+  - title: "Addressing complex Kubernetes issues with Watson AIOps and Sysdig"
+    excerpt: "\nExplosive growth in cloud applications built on containers has exponentially increased the volume of alerts, signals, and data vying for the attention of IT admins. Applications consisting of dozens of microservices, running across intercommunicating nodes, complicate incident detection and response."
+    publishedDateTime: 2020-06-29T14:26:29Z
+    webUrl: "https://www.ibm.com/blogs/watson/2020/06/addressing-complex-kubernetes-issues-with-watson-aiops-and-sysdig/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 117
+    images:
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/04/Leadspace-1.jpg"
+        width: 990
+        height: 498
+        isCached: true
 
 secured: "OY72ayvPNo+huMC6SCWlt2ZHCnSWAT0v+9t86K7aGRZH4xiiL5kM+rPChmi4Qn150BTCcgWMKL6OJYBc5O9PwHjMIuo0aj7H7nWAVWz5r8cggrrrruSzWAbvHSPY9/qso3BvnW6Ot0LpYlY4tUK9NPUtDN0neokOzxUQ9i0m2F/mYmwKnZXPfJX+0omgqAE6Mr5+RCn2O1FoKZMOxsNkrW6jH9KePUQmBN3jmEUx0VtXXMliPzG8uz3jl8oZiM1O0ruAqAWRL51RAjNfUoc9Qkis07P0KyXAn98KyDah5IgCZAKOTW5R8GK5mYkpyvfVDhtoVNrBKptQMDsIwgaVFZg3cBvt/PoBNvOx08/jc0oY0p6JFFtnOc6uLx8bIXtqrZEdn+01CauIWcM4KJ5c5gA3m/tHoKTCEXHOw5vZZVnqyqHCB9gUwzXDZBgiINUVyM/LDXTEeB9NWW5YpEy0MHwOw7zxWfsAGn9kqRvbvvUfZjeg6YXVrwBLVxgCkDDBFJbzk65exEpe4Lm4ne39LA==;mKgpTxYVbqVqKN99RwqByQ=="
 ---

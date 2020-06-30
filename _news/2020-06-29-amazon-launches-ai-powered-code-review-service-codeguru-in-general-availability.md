@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/29/amazon-launches-ai-powered-code-r
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/amazon-launches-ai-powered-code-review-service-codeguru-in-general-availability/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -60,7 +60,21 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "CORRECTING and REPLACING AWS Announces General Availability of Amazon CodeGuru"
+    excerpt: "Second paragraph of release after the bulleted list should read: Amazon CodeGuru is available today in US East (N. Virginia), US East (Ohio), US West"
+    publishedDateTime: 2020-06-30T00:38:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200629005826/en/CORRECTING-REPLACING-AWS-Announces-General-Availability-Amazon"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 50
+    images:
+      - url: "https://mms.businesswire.com/media/20200629005826/en/801942/23/AWS_logo_RGB.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
-secured: "OfTirwQQrNRrpKQfGiystuqE9AMgbzXs6eMsHt1aJN6MhrK7IR7nSYNC6dUNtfh+RNC04lPAm54PNctTKFMxwtwsmJIlUt0rwWYL3tHO+6TOrz3KexLuVfLAt3hVgSiNO1iLWQmtqvVWF1o4kOkweQHVemltRHcee/7EAUUE2EmmFmdM8pHwyP5M7dtsr7ExXAxWfz+5DL1ht3LytvZaXC0T/n6aHQ1dnf4PcTwQhRYQU7/8iYaj2fLyTiOedUQupfqbdEvtHy9grV0lHBequOcdg8DU/1pO+XolaJDk9l2tvb6GGF1OsCxgx3h22Aav70eOiQZld5H/8n8LwA8QuA==;/UiJQRrlW5ydLvrOjCHjRw=="
+secured: "5rj1ikey4T6T1529oM0n3MjFOD3Ft6kh24v8ebMB9ttJXW9jy1Q2RvkGm6MJ/UhMkx5qsM1naYYy3M1H+Gita12d7SyEAtxQ3BTH3t3afXyvhrK7MpyWlLWaxGLbENl7lexsq/w8lBtL++7JCy/FwXX4mPlYcXNayvps8SbBJznRjQY1lS/bX/3kapJitRgjgVMBfI9DMs1L4Ag8C4QQMfKKsoM/hcTfE9JZdc1Nx+I0ygk3ShGyBocGguSGWd9l+FrkgYBZEHuNEIFrgh78phl3IaK3r0+ichrBtyaWfC2lfDWopveJYthHnmJH4665PP35hyIWkbap0lYojQUyZnUyqTCLLZhhHJFGHEc/84srYbkpf526L+EA+v5gssxf1agpQA6V4qwd6JNuObwgmLBquiF8CHoRFZjE0X3CNcJauxRLQymIIgFK28lLY+wzXzYdQRIlIhSndidOF1h1c3yHXE7oho/ZoZ/HLjL0ihM3YhVWLWawbp3A7mcJWJG5B0n3w9WkNYYZKr1uu7X2tg==;y49+Q3vKipjs4ZKXqJEy9g=="
 ---
 

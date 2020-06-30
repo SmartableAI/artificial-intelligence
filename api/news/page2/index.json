@@ -2,6 +2,81 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-29-australian-space-agency-picks-fugro-for-robotics-control-centre.md",
+      "title": "Australian Space Agency picks Fugro for robotics control centre",
+      "excerpt": "The newly formed Australian Space Agency (ASA) has partnered with Fugro for the design, construction and operate a robotics control centre.",
+      "webUrl": "https://www.theconstructionindex.co.uk/news/view/australian-space-agency-picks-fugro-for-robotics-control-centre",
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.theconstructionindex.co.uk/news/view/australian-space-agency-picks-fugro-for-robotics-control-centre?amp=1",
+      "cdnAmpWebUrl": "https://www-theconstructionindex-co-uk.cdn.ampproject.org/c/s/www.theconstructionindex.co.uk/news/view/australian-space-agency-picks-fugro-for-robotics-control-centre?amp=1",
+      "publishedDateTime": "2020-06-29T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Construction Index",
+        "domain": "theconstructionindex.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-australian-government-sinks-au19-million-into-ai-health-research-projects.md",
+      "title": "Australian government sinks AU$19 million into AI health research projects",
+      "excerpt": "The Australian government has announced it will invest AU$19 million over three years into artificial intelligence-based health research projects designed to prevent, diagnose, and treat a range of health conditions.",
+      "webUrl": "https://www.zdnet.com/article/australian-government-sinks-au19-million-into-ai-health-research-projects/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/12/11/ab9d2ce5-1e6c-4bc7-900f-486392d74270/thumbnail/1200x675/6e917f26544cdf82f38dfd6728fb6793/istockphoto-abadonian-835879592.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Australian government sinks AU$19 million into AI health research projects",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-government-sinks-au19-million-into-ai-health-research-projects/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-government-sinks-au19-million-into-ai-health-research-projects/",
+      "publishedDateTime": "2020-06-28T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-28-3-new-ways-artificial-intelligence-is-powering-the-future-of-marketing.md",
       "title": "3 New Ways Artificial Intelligence Is Powering The Future Of Marketing",
       "excerpt": "From an AI Chef to a Snoop Dog video ad, to digital people, here are 3 futuristic ways AI is taking brand voice to the next level.",
@@ -1056,99 +1131,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-embracing-ai-technologies-while-harnessing-the-power-of-the-heart.md",
-      "title": "Embracing AI Technologies While Harnessing The Power Of The Heart",
-      "excerpt": "When the world is moving so fast and the speed of change is dizzying, we must remember who we are to remain fully human.",
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/embracing-ai-technologies-while-harnessing-the-power-of-the-heart/",
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F943181920%2F0x0.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": "Embracing AI Technologies While Harnessing The Power Of The Heart",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/embracing-ai-technologies-while-harnessing-the-power-of-the-heart/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/06/26/embracing-ai-technologies-while-harnessing-the-power-of-the-heart/amp/",
-      "publishedDateTime": "2020-06-26T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-five-ways-quiet-workers-can-increase-their-visibility-and-recognition.md",
-      "title": "Five Ways Quiet Workers Can Increase Their Visibility And Recognition",
-      "excerpt": "\"My workplace doesn’t work for quiet people.\" Peter describes himself as quietly confident. He's used to being recognized for his achievements by his bosses. However, when the new director (less appreciative and more of an alpha type) appeared in his company,",
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/five-ways-quiet-workers-can-increase-their-visibility-and-recognition/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F117460704%2F0x0.jpg",
-          "width": 1199,
-          "height": 798,
-          "title": "Five Ways Quiet Workers Can Increase Their Visibility And Recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/five-ways-quiet-workers-can-increase-their-visibility-and-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/06/26/five-ways-quiet-workers-can-increase-their-visibility-and-recognition/amp/",
-      "publishedDateTime": "2020-06-26T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

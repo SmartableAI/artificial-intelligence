@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-29T09:00:20Z
 webUrl: "https://azure.microsoft.com/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     title: "Advancing Azure service quality with artificial intelligence: AIOps"
 
 related:
+  - title: "Addressing complex Kubernetes issues with Watson AIOps and Sysdig"
+    excerpt: "\nExplosive growth in cloud applications built on containers has exponentially increased the volume of alerts, signals, and data vying for the attention of IT admins. Applications consisting of dozens of microservices, running across intercommunicating nodes, complicate incident detection and response."
+    publishedDateTime: 2020-06-29T14:26:29Z
+    webUrl: "https://www.ibm.com/blogs/watson/2020/06/addressing-complex-kubernetes-issues-with-watson-aiops-and-sysdig/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 117
+    images:
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/04/Leadspace-1.jpg"
+        width: 990
+        height: 498
+        isCached: true
   - title: "AI Conversations: Transforming Financial Services"
     excerpt: "Faced with rising customer expectations, evolving threats of fraud, and new government regulations, financial services companies are embracing artificial intelligence."
     publishedDateTime: 2020-06-29T18:37:00Z

@@ -2,6 +2,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-05-22-reversinglabs-honored-as-silver-stevie-award-winner-in-2020-american-business-awards.md",
+      "title": "ReversingLabs Honored As Silver Stevie® Award Winner In 2020 American Business Awards®",
+      "excerpt": "Hackers use innovative ways to attack the systems, and the machine learning models should be ... Business Awards include John Hancock Financial Services, Melissa Sones Consulting, and SoftPro.",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/05/22/2037749/0/en/ReversingLabs-Honored-As-Silver-Stevie-Award-Winner-In-2020-American-Business-Awards.html",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-coronavirus-bahrain-sees-fintech-take-up-surge-amid-covid-19-crisis.md",
       "title": "Coronavirus: Bahrain sees fintech take-up surge amid Covid-19 crisis",
       "excerpt": "which provides a testbed for fintech startups. The central bank is offering international fintechs a gateway into the Gulf Cooperation Council (GCC) block of countries. We look at how AI and data ...",

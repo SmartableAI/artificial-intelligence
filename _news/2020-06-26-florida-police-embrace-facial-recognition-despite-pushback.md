@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 605
         isCached: true
-  - title: "Facial recognition software vendor vows to thwart misuse after wrongful Detroit arrest"
-    excerpt: "Facial recognition vendor Rank One Computing said on Wednesday it would “add legal means” and research other ways to thwart misuse."
-    publishedDateTime: 2020-06-25T07:31:00Z
-    webUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/"
-    ampWebUrl: "https://venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/facial-recognition-software-vendor-vows-to-thwart-misuse-after-wrongful-detroit-arrest/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all"
-        width: 1146
-        height: 613
-        isCached: true
   - title: "Why the racism in facial recognition software probably can’t be fixed"
     excerpt: "It’s been proven that facial recognition software isn’t good at accurately identifying people of color. It’s also known that police departments around the country use facial recognition tools to identify suspects and make arrests."
     publishedDateTime: 2020-06-29T10:05:00Z
