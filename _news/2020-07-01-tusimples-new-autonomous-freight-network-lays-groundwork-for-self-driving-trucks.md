@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane"
-    excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021."
-    publishedDateTime: 2020-07-01T12:08:00Z
-    webUrl: "https://www.reuters.com/article/us-tusimple-selfdriving-network/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-idUSKBN2425QS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2425QS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2425QS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
   - title: "Self-driving truck developer TuSimple launches autonomous freight network"
     excerpt: "TuSimple, which has a Tucson facility, is working to bring self-driving technology to market and offer low-cost, long-haul autonomous freight operations."
     publishedDateTime: 2020-07-01T12:00:00Z
@@ -84,6 +73,29 @@ related:
         width: 1024
         height: 617
         isCached: true
+  - title: "Self-driving trucks to be commercially available by 2024, TuSimple says"
+    excerpt: "Autonomous driving tech vendor TuSimple today said it plans to bring self-driving trucks to market by 2024 by launching a self-operating freight network through a partnership with the four logistics providers UPS Inc."
+    publishedDateTime: 2020-07-01T18:08:00Z
+    webUrl: "https://www.dcvelocity.com/articles/46439-self-driving-trucks-tobe-commercially-available-by-2024-tusimple-says"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 39
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202007/tusimple-truck-P1133021-scaled.jpg?height=635&t=1593625917&width=1200"
+        width: 847
+        height: 635
+        isCached: true
+  - title: "TuSimple Starts Self-Driving Truck Network With UPS, Berkshire Hathaway's McLane"
+    excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021."
+    publishedDateTime: 2020-07-01T12:18:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-01/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 29
   - title: "BHP jobs on offer to build self-driving trucks"
     excerpt: "THE rollout of 34 autonomous mining trucks at BHP Mitsubishi Alliance’s Central Queensland mine will create 56 new jobs and a $35 million windfall for regional businesses."
     publishedDateTime: 2020-07-01T01:00:00Z
@@ -103,6 +115,6 @@ related:
       domain: ccjdigital.com
     quality: 0
 
-secured: "pyY/1O2pJ2Siz3Mz62m4ZUiPtNsRuPNcUMaPlj0ymtk49xHBfjydHmk+nDU1V3edX7YQOR1jn+/EFQrzdM0IVBBJ3Dti5Z35DeE4A78eGvwJKgR5N3ao0omyzb7DHJydblzBbuCtMX81j9TNi2bobuJPXb/HvzbencFaGQHfhri0fXnS/LnVxULMCncf+JHLnx7R/rAF8cTfaJJkJ/m3kGQwdOrBV4kInDFnd5NPnh8wdSe4zeGlIV4ixSjuP/0Jqjbqb8Q5psbIOoSP6lkrnlNivoI495pfsWYWeOP4T7dDN7H+3EPDkZIbMQnQnTIPpLJvgt9QWPCyR5kSAWTAmQ==;VyHcvBdi3jxqLyB/+7a89w=="
+secured: "HXyhXrM2lc8QXiakdPycnyKXpl5BBE2AsMUbxHvM+U5ai2qKEJLz5ea9Srj2WRyGk0mvgCQPzrhK7514n7oVFBBj0MtrrJe9e2cqhZQnZJa5/EQx8gYkw6PV0d229LMfnaxoYvKNPYxGVQaNJZg0FQlJ9uiMRLVrOwqXencuJ32yrdyqCmuKw4It+VE72DMUwGuyIuQzcihGD/hInE6bwwaJF4YfkmqgIUjgaRwn2h4mq4VzAqG0ffvZlmE5UG9toLhBIm8SbxrtzIIQF+A8T3gHpxmHUPcHyuHhIQ0ojszpX5LOD81GnMRxP6yFeJS67w0tJyb+eexUdUtkq7FZEYwLYXDuFEkixkiXgSS81BDG7alxQFG8a8AkIy4MO7ejBGf0rXdFjzwl0gpbqdNVwYn3j16xR5LCA9ws6pnkOse3RoOPEokDOUfJpQSO7kb/Z20Um9TcCuRjb4uTf5Fu1gHoOvb/FouPlZSg9gOXAGh6r6ni5teWItQkhn1Nnw9F0N5cxXD1ch8hTjpKV3+spg==;q26pQFcXrP8fiyKhtTSXyg=="
 ---
 

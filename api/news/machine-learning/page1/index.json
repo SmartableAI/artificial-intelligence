@@ -185,7 +185,7 @@
       "title": "A closer look at SageMaker Studio, AWS’ machine learning IDE",
       "excerpt": "When AWS launched SageMaker Studio back in December, we weren't super impressed. But we promised to take a closer look. Here it is.",
       "webUrl": "https://venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/",
-      "heat": 121,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -225,7 +225,8 @@
       "topics": [
         "AWS AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {

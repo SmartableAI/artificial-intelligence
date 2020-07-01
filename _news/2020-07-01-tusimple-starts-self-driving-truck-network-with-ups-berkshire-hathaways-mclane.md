@@ -1,21 +1,19 @@
 ---
 category: news
-title: "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane"
+title: "TuSimple Starts Self-Driving Truck Network With UPS, Berkshire Hathaway's McLane"
 excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021."
-publishedDateTime: 2020-07-01T12:08:00Z
-webUrl: "https://www.reuters.com/article/us-tusimple-selfdriving-network/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-idUSKBN2425QS"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2425QS"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2425QS"
+publishedDateTime: 2020-07-01T12:18:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-07-01/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -72,6 +70,20 @@ related:
         width: 1024
         height: 617
         isCached: true
+  - title: "Self-driving trucks to be commercially available by 2024, TuSimple says"
+    excerpt: "Autonomous driving tech vendor TuSimple today said it plans to bring self-driving trucks to market by 2024 by launching a self-operating freight network through a partnership with the four logistics providers UPS Inc."
+    publishedDateTime: 2020-07-01T18:08:00Z
+    webUrl: "https://www.dcvelocity.com/articles/46439-self-driving-trucks-tobe-commercially-available-by-2024-tusimple-says"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 39
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202007/tusimple-truck-P1133021-scaled.jpg?height=635&t=1593625917&width=1200"
+        width: 847
+        height: 635
+        isCached: true
   - title: "TuSimple's New Autonomous Freight Network Lays Groundwork for Self-Driving Trucks"
     excerpt: "Autonomous trucking technology company TuSimple has teamed up with UPS, Penske Truck Leasing, U.S. Xpress, and McLane to launch the Autonomous Freight Network, which it says will lay the groundwork for self-driving autonomous trucks to become commercially ..."
     publishedDateTime: 2020-07-01T16:11:00Z
@@ -105,6 +117,6 @@ related:
       domain: ccjdigital.com
     quality: 0
 
-secured: "x+reGwO217UMfPp7Ov3zKTwH0n2R+wxEZxk2Qxns65jLPptPqUZmW6U0rCCoRSRXcv0vJ5swSqhM3zACb9vgnYJpWwfBE3DV7U7dnla8sry7PttAFGr1qIvwf4fwZpzdxeUIi2JxaS2zJFep6N4vS7zV/MW0dL1LfQP8ov+fJ1d2ehBEDrVN065ow+x5pGt7MZlwXW4RtTQ4vVmWpbFNcv/2JiGkPWlBZgvSs3YYo2xWl9AnMatqa2somyCGJCDMwQRJGh4n2sZ8kHtDvEdVBJqGaQdWGgZmUqAGTvwuWS+Rj0e0AUcbL4pPwXRq+vUZYTc9sJ7xP0CMYl4BGGleDQ==;PIisRufE48Ybfg8mYnelMA=="
+secured: "StLM2+g0WrKJcSd+5kSsugbRBRsnePxulPZFy1N4p3UcmwonV+jQ1IDLhRIrt/5IS+aYMEBS56oPnwVzzMZ7QXC1D89emoNfAYHTCjZ2CEBVe+TTYua2v+6+vGEeHixQO66j86WvddElHHHhcOCnDs5Vv958GncososZ4nca5Lf/MHk0qIIsD33Hm0hm9R+71fJqNPir+7nNK/hB7dYx7vscrImJaoifzefN7m6lr73cpJEihV+egqItOG327840rrKFOWtQJh+U9tlbQ6bZbRjvKTvQ4XIRAXyFi8Jhx2D/AVYtmvMdC3Qorr8uF2EXi0bt9e3XX1ydkH25QWPPrw==;4J46L5CzOv+wvrmviimAcg=="
 ---
 

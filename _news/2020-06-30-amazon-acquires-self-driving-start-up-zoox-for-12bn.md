@@ -251,6 +251,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Amazon Acquires Self-Driving Startup Zoox From Senegalese-Born CEO For Over $1.2bn"
+    excerpt: "E-commerce giant Amazon has reportedly forked out more than $1.2 billion to buy the self-driving startup Zoox. On Friday, both companies announced they had signed a"
+    publishedDateTime: 2020-07-01T18:04:00Z
+    webUrl: "https://urbangeekz.com/2020/06/amazon-acquires-self-driving-startup-zoox-from-senegalese-born-ceo-for-over-1-2bn/"
+    type: article
+    provider:
+      name: urbangeekz.com
+      domain: urbangeekz.com
+    quality: 18
+    images:
+      - url: "https://urbangeekz.com/wp-content/uploads/2020/06/Aicha-Evans_CEO_Zoox.jpg"
+        width: 837
+        height: 558
+        isCached: true
   - title: "Amazon acquires self-driving car startup as demand stays hot for autonomous delivery"
     excerpt: "Zoox technology supports autonomous ride-hailing service for passengers, although sector faces infrastructure and regulation challenges, AMR says."
     publishedDateTime: 2020-06-29T17:19:00Z

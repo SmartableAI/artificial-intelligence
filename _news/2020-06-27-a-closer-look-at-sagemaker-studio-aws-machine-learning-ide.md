@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aw
 ampWebUrl: "https://venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/amp/"
 type: article
-quality: 121
-heat: 121
+quality: 123
+heat: 123
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?w=1200&#038;strip=all"
