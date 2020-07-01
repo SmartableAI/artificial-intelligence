@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "definedcrowd"
   url: "https://www.twitter.com/definedcrowd"
-  followers: 1069
+  followers: 1070
 
 size: 51-200 employees
 yearFounded: 2015
@@ -33,7 +33,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1268143997777838083/VBZ8SdBb_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1278257692293959680/eyPXv0zW_400x400.jpg"
     width: 400
     height: 400
     isCached: true
