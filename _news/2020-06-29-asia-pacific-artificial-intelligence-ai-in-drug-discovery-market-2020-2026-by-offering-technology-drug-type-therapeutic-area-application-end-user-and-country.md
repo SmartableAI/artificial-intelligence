@@ -24,56 +24,15 @@ images:
     title: "Asia-Pacific Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 by Offering, Technology, Drug Type, Therapeutic Area, Application, End-user and Country ..."
 
 related:
-  - title: "North American Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 - ResearchAndMarkets.com"
-    excerpt: "The \"North America Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 by Offering, Technology, Drug Type, Therapeutic Area, Application, End User, and Country: Trend Forecast and Growth Opportunity\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-06-26T11:43:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200626005182/en/North-American-Artificial-Intelligence-AI-Drug-Discovery"
+  - title: "United States' Use of AI in Military Training & Simulation, 2020 - Latest Technological Innovations Ensure Enhanced Personnel Readiness"
+    excerpt: "The \"Artificial Intelligence in the US Military Training and Simulation Industry, 2020\" report has been added to ResearchAndMarkets.com's offering. This report explores the use of AI to deliver military training in the United States,"
+    publishedDateTime: 2020-06-29T09:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/united-states-use-of-ai-in-military-training-simulation-2020-latest-technological-innovations-ensure-enhanced-personnel-readiness-1029349072"
     type: article
     provider:
-      name: Baytown Sun
-      domain: businesswire.com
-    quality: 36
-    images:
-      - url: "https://mms.businesswire.com/media/20200626005182/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Smart Learning Systems Market Size, Share, Growth, Research and Forecast 2020-2026"
-    excerpt: "The adoption of AI tools enables to provide learning easily and interactively to all whether students with visual and hearing impairments or speak different languages. Presentation Translator is one of the best instances that create subtitles in real-time ..."
-    publishedDateTime: 2020-06-26T12:46:00Z
-    webUrl: "https://www.openpr.com/news/2080747/smart-learning-systems-market-size-share-growth-research"
-    ampWebUrl: "https://www.openpr.com/amp/2080747/smart-learning-systems-market-size-share-growth-research"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2080747/smart-learning-systems-market-size-share-growth-research"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 18
-  - title: "AI in Drug Discovery Market: North America Projected to Grow by 29.5% Annually till 2026, Despite the Impact of COVID-19"
-    excerpt: "The \"North America Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 by Offering, Technology, Drug"
-    publishedDateTime: 2020-06-29T13:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/06/g16427735/ai-in-drug-discovery-market-north-america-projected-to-grow-by-29-5-annually-till-2026-despite-the"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16427735"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16427735"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
-  - title: "Digital Transformation in Asia-Pacific: 5G, Artificial Intelligence, Internet of Things and Smart Cities 2020-2025 - ResearchAndMarkets.com"
-    excerpt: "The \"Digital Transformation Asia Pacific: 5G, Artificial Intelligence, Internet of Things, and Smart Cities in APAC 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. From predicting what will happen with 5G technology in the next few years to identifying how 5G will transform business,"
-    publishedDateTime: 2020-06-26T11:18:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200626005177/en/Digital-Transformation-Asia-Pacific-5G-Artificial-Intelligence-Internet"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 3
-    images:
-      - url: "https://mms.businesswire.com/media/20200626005177/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 15
 
 secured: "qcqFviWCt8dGqnVn4tz5DGmHqa3eVualJQAoo1GqZW9kUNPd29xZT/MwUEczgtBN4V7FsqOg3fEgpv+bQyT5kc3AA+0TcHEVgoukUfuqJa43SUS7/3U5xqQOVb7gCnmQxmI2yjv8wFSFU73vnSIm1EjCHmmBJ7pu3N66zTBz4ceJtGc9GZ/LW9vdiyiXZ4KYWLEknkxG6YCi422NSBl7L88jbnUxOOgR8rS1B9P7e3oGC/RxDpREFUudRAW6+3d+ZpOTvktdRaYVjs3iHjTvKqydq3UOPImKEP4+4HKpLHFA/DStU1mvQCrP818Pk2MqU+HzVr9gcTpqA1xKOhIJyA==;HqddWIsaPjtRlYB9j1Ue/g=="
 ---

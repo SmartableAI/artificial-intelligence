@@ -111,34 +111,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Future Polestar vehicles will feature Waymo self-driving technology"
-    excerpt: "Swedish car firm teams up with American technology company for future car collaborations. Polestar has formed a strategic partnership with Waymo, which will see the Swedish car maker’s cars fitted with its American partner’s self-driving technology in ..."
-    publishedDateTime: 2020-06-26T11:54:00Z
-    webUrl: "https://www.expressandstar.com/news/motors/2020/06/26/future-polestar-vehicles-will-feature-waymo-self-driving-technology/"
-    type: article
-    provider:
-      name: Express & Star
-      domain: expressandstar.com
-    quality: 39
-    images:
-      - url: "https://www.expressandstar.com/resizer/dCsdvWhT--hBK_XltQX6dV_XP7M=/1200x0/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/expressandstar.mna/UH6F4Y3C3FG7THDOV3TQKD2G2I.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Volvo partners Waymo to build self-driving cars"
-    excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership."
-    publishedDateTime: 2020-06-26T12:10:00Z
-    webUrl: "https://www.nyoooz.com/features/automobile/volvo-partners-waymo-to-build-selfdriving-cars.html/3767/"
-    type: article
-    provider:
-      name: nyoooz.com
-      domain: nyoooz.com
-    quality: 39
-    images:
-      - url: "https://www.nyoooz.com/uploads/hindi/nyoooz-images/social_gaming2.png"
-        width: 647
-        height: 400
-        isCached: true
   - title: "Maker of self-driving vehicle sensors said to be in talks to go public"
     excerpt: "Velodyne creates radar-like systems that use lasers to generate three-dimensional images of a surrounding environment, used by carmakers including Mercedes-Benz AG and Ford Motor Co."
     publishedDateTime: 2020-06-28T19:27:00Z

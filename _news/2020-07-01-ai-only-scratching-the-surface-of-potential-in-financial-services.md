@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.ft.com/content/11aab1cc-907b-11ea-bc44-dbf6756c871a"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/11aab1cc-907b-11ea-bc44-dbf6756c871a"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     isCached: true
     title: "AI ‘only scratching the surface’ of potential in financial services"
 
-related:
-  - title: "How the cloud transforms customer experience in financial services"
-    excerpt: "“AWS offers a range of artificial intelligence and machine learning services that make it easy for financial institutions to build very sophisticated recommendation systems, surface customer sentiments and trends and so on,” Zeldenryk describes."
-    publishedDateTime: 2020-06-26T12:20:00Z
-    webUrl: "https://www.finextra.com/newsarticle/36093/how-the-cloud-transforms-customer-experience-in-financial-services"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 6
-
-secured: "uyVsg7b2vkY4/MLB3PRLkgFP6eE/EDuzOjH0j46c04DMAR/BB6HU2vmzy/59y0Hyj8UEsbxgUYFp1eVM/97GwTuEZeh2nTt4dcthg+pOiCUVr3nzb7xWZNrMZ9ABp43SgvcOTgjAdU2KTAkxvzCglC7ToWuju89RmY81pYR3i37fUDauC3Hjx3MQVF8wg6Y9Zc51cjDgAKxv4zwy3RryfmU1d9CECZab7kpjllZ49t3pEToscAThA6Pn5TYk69zGVLHcbLwPCa+LDJmy9sMo6n/r5aRpWMrBIWLCS02I73S4xJr+4oxXkPyD9GBbOww0TJrKRZVxMSyO3tbL8utRWg==;jWM2+qgg0SfqS+tngjwe/g=="
+secured: "bTOVAEi/RzDIgnKYDaEhB+lOQefKMk+MG9P5w4Xj++EZO4PRJSVj9f9hSD51XEXwTsWI27DjbqmZ4x4BM8ROj1+7UnoCXh6peHVJEtj2vdYvusBK874QjZhRaKoIe7LIA1RlPZxKCY2me96udcK36KIfHB7JYQt2yoQzSXZQQycYxya7hANCyP910JLGt/PTkZnDMyE4K0BD/ww8I4eDY3WSyZy0D3oQVqC80Z5yCiPPx49TnB6lnlFnqwhUOIe4i8yL1ZaTSjpdqSCaVWvYHq9bTOORTEZRC28jLknOZrjOR2fUadlueF+rT8x0ddrDUH2waZak9VvVNxUrCTWuszNpcD8PLr8YuDw7C1hG2tePIl/kTLWv8NiamQg8RiWlmplGXxqsfeJRml2SaIwgp3SoNoFeVIAYjaEr3XdIxWgHTwdwG51luMZ5AGKqId9JnhM41pRkdZtT086Euk8yFnXgCHg6oRBNiHMT+TtzRwYKTQYoivNOq2gmT2YEI54G3gKvz2K3hHdaZvBHuSn6Jw==;3y7wINghdabFrer2DqckfQ=="
 ---
 

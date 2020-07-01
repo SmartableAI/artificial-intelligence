@@ -26,6 +26,22 @@ images:
     isCached: true
     title: "Financial Advisors: Looking at Active Investing in a New Way"
 
+related:
+  - title: "Amplifying Advertising and Marketing with Artificial Intelligence"
+    excerpt: "Amplifying Advertising and Marketing with Artificial Intelligence  - Whether it is Google or Tesla’s self-driven cars, AI is ruling all over. Assimilating these AI technologies"
+    publishedDateTime: 2020-06-26T13:08:00Z
+    webUrl: "https://www.cioreview.com/news/amplifying-advertising-and-marketing-with-artificial-intelligence-nid-31486-cid-51.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://cioreview.com/Rank_subcat_images/pzhs8digimas.jpg"
+        width: 453
+        height: 512
+        isCached: true
+
 secured: "QhXEqvZuxwjkDphgjm6Qbkp930tRD4sBw1QoYuad9jDIAvTFaCJ47zCmqA1plKcMCxY46idSLmhf/tOAQbZO5rqXiwoqgZI4sBs/+l2QSn+AQllweaIkbw8ej94y8Uhwr9vsuO9a7P2rAmykWDC74YOE9snB5KF+EAqc0FAMHBg1ngbzPjW2QrUmKna3np+qafdCNOdY1GFRVwCOe9xPpgdhgzOoL2rKNtwBwp7MGIblPXPPi2jfKf2IYFwikZzYr1BC2hMZ+XZsI56IYfoww7orLteIbRSKQpadTKu2lLOj8DMPdMtCxiLd8nUHJo1jHJE7FymNaA8zH2h7/eYFEA==;AT1neLc2aqqCxh9m4tsDUQ=="
 ---
 

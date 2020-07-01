@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Enko Chem raises $45 million to develop crop protection solutions with AI"
-    excerpt: "Enko Chem, a startup employing AI and machine learning to develop crop protection products, raised $45 million in a venture round."
-    publishedDateTime: 2020-06-26T11:33:00Z
-    webUrl: "https://venturebeat.com/2020/06/26/enko-chem-raises-45-million-to-develop-crop-protection-solutions-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/06/26/enko-chem-raises-45-million-to-develop-crop-protection-solutions-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/26/enko-chem-raises-45-million-to-develop-crop-protection-solutions-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/01/Crops-Farming.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 610
-        isCached: true
   - title: "Hi Marley raises $8 million for its AI messaging platform that connects insurers with customers"
     excerpt: "Hi Marley, a startup developing an AI-imbued messaging platform for insurance carriers, raised $8 million in venture capital."
     publishedDateTime: 2020-06-30T11:04:00Z

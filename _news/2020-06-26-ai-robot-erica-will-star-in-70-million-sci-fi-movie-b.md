@@ -79,22 +79,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Artificially intelligent humanoid robot 'Erica' nabs lead role in $70 million Hollywood sci-fi movie"
-    excerpt: "The electric leading lady is understood to have shot her first scenes for the movie in Japan last year - with the rest of the film scheduled to be shot next year."
-    publishedDateTime: 2020-06-26T11:14:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8462879/Artificially-intelligent-humanoid-robot-Erica-nabs-lead-role-70-million-Hollywood-sci-fi-movie.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8462879/amp/Artificially-intelligent-humanoid-robot-Erica-nabs-lead-role-70-million-Hollywood-sci-fi-movie.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8462879/amp/Artificially-intelligent-humanoid-robot-Erica-nabs-lead-role-70-million-Hollywood-sci-fi-movie.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 44
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/06/26/12/30085970-0-image-a-5_1593169593937.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "cWpGI1MzdJNAMST8kSXOSn6a0pWyVTa6Jr7ld9jSD0jyHNQBkxjVJD12+V+GOFIjUCk6VmX143866jKdIu24TgN2KRic+yvuXaXKFq0AK2EQjPIOWbdn9EOH+iN8gGW5qntU93r1xeZ1bJzpCEhO6Mg2E63uQ8p5dI8ITCR6PZW9m7v189iuakU4dbaQFMne3inNPCpy1A6MRUlQCHip7GP0B3o9Cet5SjbmyvvGRSzTWr48Cv13Md/mNK2YqMIS4F2+ACeJkVxo+lMKqyqw1iDkC6dH5Rnjhe9OwAGo3jjmmnxjQ6NSbl2zl9an7mmLQbhTGx2yoPeU/8+Ypy5bXhei560ppTCCaEnnFVcuXFxF9dUMTfPPx2yrwQRbEicFc50vV5mAu5ZcPPvUmtqTxF27WTClU0Oulpuhlx2w5b4tCeXOlEMz+B5UUzo6gxXBcAk9pRcULd5coAYc22KU62ttyAIjvAVuFSqmkyx0wVYsUnz5xzkNuFAd0vRBgH2orm1epM4y47kiGBvymLPZog==;bjaifm0YAoPskVIekup9DA=="
 ---

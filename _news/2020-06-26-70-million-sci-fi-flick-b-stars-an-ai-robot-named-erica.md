@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-st
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-stars-ai.html"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://www.screengeek.net/wp-content/uploads/2020/06/ai-robot-erica-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Artificially intelligent humanoid robot 'Erica' nabs lead role in $70 million Hollywood sci-fi movie"
-    excerpt: "The electric leading lady is understood to have shot her first scenes for the movie in Japan last year - with the rest of the film scheduled to be shot next year."
-    publishedDateTime: 2020-06-26T11:14:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8462879/Artificially-intelligent-humanoid-robot-Erica-nabs-lead-role-70-million-Hollywood-sci-fi-movie.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8462879/amp/Artificially-intelligent-humanoid-robot-Erica-nabs-lead-role-70-million-Hollywood-sci-fi-movie.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8462879/amp/Artificially-intelligent-humanoid-robot-Erica-nabs-lead-role-70-million-Hollywood-sci-fi-movie.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 44
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/06/26/12/30085970-0-image-a-5_1593169593937.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "qywk4oaoTam6EeWinSDAhNeQV0OZTHdQBt95i/5Q2gILB89VPyqCuDWHX2hT3jOK7HQtZbZhf9lMtigQjo/dcWMygId8KE5imKYY1keSExiTc+/57R64DzeByTPIbryABhS1pujEi98qdCr+RRmbZ4yfs0Lsv+H+QvMIIQcmU0ewDIcZcqV2VvaZytidrw4Ll/unZESsGSEPUh9Fh8Fn/0TNg85FoRsZdWvisz4BpGJWCgugiUnwu+cmOs8qOROmulNQYA632GBeY8L5J4jQRaY3vQXQ3uSNK8QcSHFAxpM7fa6dQ5RiyzkbAd8fKPUp5AejI4w98V/pMRp5EmuvVKhwoNPZiIY/f5XjTKhlqI/Rd/Sh+AjZl/m6o4TBXPSUlXfZWtKILvxK+rO0Lp6ADrVS2SJA6NX3Y6eo6cCHWBXp3/hNYC7Q0FguFHWHoV3zWGajBO+XSQfXQfR7Vj4NsEdV9v/ikaW5ItPVay3zYWddPufiCP+u163flnr5YV+W;oqbzHQto2AU2mW6IW6czxQ=="

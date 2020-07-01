@@ -5,7 +5,7 @@ excerpt: "PRNewswire/ -- The global Artificial Intelligence (AI) market size is 
 publishedDateTime: 2020-06-30T22:00:00Z
 webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025-valuates-reports-877658862.html"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
@@ -50,6 +51,6 @@ related:
       domain: openpr.com
     quality: 14
 
-secured: "0JvcmCCwONjHy0jpWVuj/8mYzlf6Oe3f0DsQY1LgN69GxfcnXx9DW4LQCi8S/h8YMzPCU+VcPQ2jLpGa+PvswW5Wy+2d162CFNoOJD/fDIx9Mx6ICz6S4KNvZ77fa0NurRLIvHgkAnBg3lz7uTe6HZWnwHNvKNhzhgo7tYaXX1srfmB9kh//1CjIHvknFC8ge4h+S9QJbIwb8O0uarcpNQg65JGtUHotNRjE/IIJu5jaXhwcGgno51Vt8Fub2sTLcr5SysPdm1Ge0p+uSrdx+gpJCU9MSSzhRTYT02SFVw6niBKOtF/rEUxQNclrgG7fsR4n6sAcqGJgvblL3itIdA==;XBf1O1q/cAtR+Tg9MLbkZw=="
+secured: "Q8cgGQilqus415xawoqc0LFSXFfJLEhulJNFFxzv+stGr5N20lvQRnq7x4wVUhr1Ff/muVZ+9QFBrOQS3dERdhXSrBC5tldU8Ja/iZkwldJ7i1GDC8tAMPthWFmNZd5l7IYSlcxkfldQMDBS0MSPbiQ2dax4LGd87cJAaRs376D/6ZfvtUwmtd0n7E8mA0C15JOQUSjDsBHqNchcCdt2VDhGVuKq5lfyJj9d+Rk9MXkLYyEgd+SfYxBJqg02Qjo0K+qUilDo/pl+sQjdHuhFiSR49vPoexdt9mVDsclpqsurJVEZzyCR5EJIcsOVQfFLp8AbfPBO+lQm4W3laOHL5fERhPYw8ogyyABm4jU7YAJEmUEIJnA4lcydXM+MMjt5pSuyc/4QbHnot+mzRnfAcZkQmaBHsGIzRZQWQRpbOMzDnjI+1qplVqBDBmIPx0CxLEwgmTzRYeljLt/i/EYbqtc2dkxbvJkrKzfEJQbnHDd2f1Dlk8tT+3r85785GG4thhyrQBptU8a79af+aenSqw==;w/iO51X6LqMbrdNgjeqYyg=="
 ---
 

@@ -290,22 +290,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Amazon to buy Zoox for $1B, a self-driving car startup with Apple lineage"
-    excerpt: "Online retail giant Amazon has reportedly agreed to pay over a billion dollars to buy Zoox, which was an early entrant into the autonomous car industry, and has previously hired away \"Apple Car\" engineers."
-    publishedDateTime: 2020-06-26T12:06:00Z
-    webUrl: "https://appleinsider.com/articles/20/06/26/amazon-to-buy-zoox-for-1b-a-self-driving-car-startup-with-apple-lineage"
-    ampWebUrl: "https://appleinsider.com/articles/20/06/26/amazon-to-buy-zoox-for-1b-a-self-driving-car-startup-with-apple-lineage/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/06/26/amazon-to-buy-zoox-for-1b-a-self-driving-car-startup-with-apple-lineage/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 43
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/36437-67821-000-lead-Zoox-xl.jpg"
-        width: 870
-        height: 485
-        isCached: true
   - title: "Amazon reportedly paying $1.2B for self-driving startup Zoox. Will it deliver for online e-tailing giant?"
     excerpt: "Amazon is paying over $1.2 billion for the six-year-old autonomous driving tech company, according to the Financial Times."
     publishedDateTime: 2020-06-27T12:04:00Z
@@ -474,15 +458,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "Amazon to acquire self-driving firm Zoox for over $1bn: Report"
-    excerpt: "Amazon is set to spend over $1 billion to acquire self-driving car startup Zoox, The Information reported. The deal could be officially announced as early as Friday. The news comes after The Wall ..."
-    publishedDateTime: 2020-06-26T11:58:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200626/3582521.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
 
 secured: "ek7w5ZpoELxXYxa3lghFB95KI77pIdZVCHmKuPAvGyuJnKkstPq+nfrcy7Vq1hUFtAgT3h5e4sA+ELKgLtBVZyqiBKwWAzuznHxmp5l6lasIbz063xbuXR1QiFIrOFEQV1D7F6LPoWTi4ksfd0L4uAc8vQpv2oI0yiFtJw7WC2mLcaqzs3CzjhnboBq2k0r+YtWaSlIjVCkziZjwW4MVfW0dI9Gow+0UmrvUNgFNd74ZRxw+rprgSBxFH7R8qGMc6BNIWkB2veNIyOsK8ld4RFRndaZN1YL4c8xvhsjJA8BXeCl/UO4znDpiqTGFYJjUPHiBenVzQDKD7rYr0FArFg==;uVvXF+Af4ayxvPVo5/Pw2A=="
 ---

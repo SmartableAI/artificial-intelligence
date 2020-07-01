@@ -91,22 +91,6 @@ related:
         width: 2122
         height: 1193
         isCached: true
-  - title: "Democrats and civil liberties groups back law banning facial recognition across the US"
-    excerpt: "New legislation that would ban police use of facial recognition software across the US has been backed by civil liberties groups -- but not Big Tech."
-    publishedDateTime: 2020-06-26T12:46:00Z
-    webUrl: "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 83
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-85-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "Facial recognition software fails to correctly identify people '96 percent of the time,' according to Detroit's chief of police"
     excerpt: "Facial recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief."
     publishedDateTime: 2020-06-30T15:48:00Z
@@ -138,22 +122,6 @@ related:
       - url: "https://nerdist.com/wp-content/uploads/2020/06/Facial-recognition-ban-bill-feature-image-06302020.jpg"
         width: 1200
         height: 676
-        isCached: true
-  - title: "A new US bill would ban the police use of facial recognition"
-    excerpt: "US lawmakers have introduced a bill which would ban the use of facial recognition technology by federal law enforcement agencies. Specifically, it would make it illegal for any federal agency or official to “acquire,"
-    publishedDateTime: 2020-06-26T12:43:00Z
-    webUrl: "https://www.technologyreview.com/2020/06/26/1004500/a-new-us-bill-would-ban-the-police-use-of-facial-recognition/"
-    ampWebUrl: "https://www.technologyreview.com/2020/06/26/1004500/a-new-us-bill-would-ban-the-police-use-of-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/06/26/1004500/a-new-us-bill-would-ban-the-police-use-of-facial-recognition/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/06/GettyImages-1139860049.jpg?w=3000"
-        width: 3000
-        height: 1912
         isCached: true
   - title: "Bill would ban police use of face recognition"
     excerpt: "Democrats in both houses of Congress said Thursday they are introducing a bill that would ban government use of facial recognition technology. Why it matters: A handful of cities have banned government use in their jurisdictions,"

@@ -20,6 +20,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Asia-Pacific Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 by Offering, Technology, Drug Type, Therapeutic Area, Application, End-user and Country ..."
+    excerpt: "Pacific Artificial Intelligence (AI) in Drug Discovery Market 2020-2026 by Offering, Technology, Drug Type, Therapeutic Area, Application, End User, and Country: Trend Forecast and Growth Opportunity\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-06-29T15:46:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200629005628/en/Asia-Pacific-Artificial-Intelligence-AI-Drug-Discovery-Market"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
+    images:
+      - url: "https://mms.businesswire.com/media/20200629005628/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+
 secured: "hZnVRqcVypsqCc/ZLqecajUM2nYAJCkK8/Azl40+3RxE30B5SPSrpqGfFApdjtrC5cf3pLLrlkvNeG19A7USMn0wAh0PrvxS0Kul63dkcY09A09ceXiOrCiQNa6bpqdgn1/7I59ihW4+TCYfbKmYJ2tY+FSem8Oco5sWpptvcspUzE2mcNWqlHh3QkBNDgztnHXk6u6yw/zyyToqzN++lsC4Z3hYiEO2b4s07GwCDkGakylorU8x6hkF8+2QrNRijtaurjTwaghIE3yjPl1SDBFr0ZSW9nEzYAmh+dWr76s435qPIlaIO2jYSA7h7B/NbmnGhcXk8KLOXv+nNJpCDA==;YCDpW3X4cP48HzgGVVOqhw=="
 ---
 

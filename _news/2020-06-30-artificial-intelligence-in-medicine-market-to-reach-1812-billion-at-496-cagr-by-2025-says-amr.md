@@ -37,7 +37,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
         width: 920

@@ -292,22 +292,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Amazon to buy Zoox for $1B, a self-driving car startup with Apple lineage"
-    excerpt: "Online retail giant Amazon has reportedly agreed to pay over a billion dollars to buy Zoox, which was an early entrant into the autonomous car industry, and has previously hired away \"Apple Car\" engineers."
-    publishedDateTime: 2020-06-26T12:06:00Z
-    webUrl: "https://appleinsider.com/articles/20/06/26/amazon-to-buy-zoox-for-1b-a-self-driving-car-startup-with-apple-lineage"
-    ampWebUrl: "https://appleinsider.com/articles/20/06/26/amazon-to-buy-zoox-for-1b-a-self-driving-car-startup-with-apple-lineage/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/06/26/amazon-to-buy-zoox-for-1b-a-self-driving-car-startup-with-apple-lineage/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 43
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/36437-67821-000-lead-Zoox-xl.jpg"
-        width: 870
-        height: 485
-        isCached: true
   - title: "Amazon reportedly paying $1.2B for self-driving startup Zoox. Will it deliver for online e-tailing giant?"
     excerpt: "Amazon is paying over $1.2 billion for the six-year-old autonomous driving tech company, according to the Financial Times."
     publishedDateTime: 2020-06-27T12:04:00Z
@@ -465,15 +449,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "Amazon to acquire self-driving firm Zoox for over $1bn: Report"
-    excerpt: "Amazon is set to spend over $1 billion to acquire self-driving car startup Zoox, The Information reported. The deal could be officially announced as early as Friday. The news comes after The Wall ..."
-    publishedDateTime: 2020-06-26T11:58:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200626/3582521.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
   - title: "Amazon acquires self-driving start-up Zoox for $1.2bn"
     excerpt: "In a transaction that it believes “will help bring the vision of autonomous ride-hailing to reality”, online retailer Amazon is to acquire self-driving start-up Zoox for a reported $1.2bn. The acquisition represents further investment by Amazon in the ..."
     publishedDateTime: 2020-06-30T08:48:00Z

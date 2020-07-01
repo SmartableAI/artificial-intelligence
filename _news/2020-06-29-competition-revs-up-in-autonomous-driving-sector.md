@@ -24,6 +24,22 @@ images:
     isCached: true
     title: "Competition revs up in autonomous driving sector"
 
+related:
+  - title: "Amazon acquires self-driving car startup as demand stays hot for autonomous delivery"
+    excerpt: "Zoox technology supports autonomous ride-hailing service for passengers, although sector faces infrastructure and regulation challenges, AMR says."
+    publishedDateTime: 2020-06-29T17:19:00Z
+    webUrl: "https://www.dcvelocity.com/articles/46418-amazon-acquires-self-driving-car-startup-as-demand-stays-hot-for-autonomous-delivery"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 17
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202006/zoox-Screen-Shot-2020-06-29-at-111405-AM.png?height=1200&t=1593449930&width=635"
+        width: 635
+        height: 637
+        isCached: true
+
 secured: "WAot8aD24sy925WTuc7xOAXM2aLuGorvdhYvoSDohBn+Gfoj0++3c8feq3bVElL+Ol6+TrCyPxIRbAVZyWo6W4XTcScxJtE/OOITZ5DyXeE3kOzIfcrTlmm/AqETOfDmMUI9sB9yep6oJeBcaVYVhFtXSe/UIODlzgI06dxvdNPn4QFAD28K4F6DiM0BO+7v8J3yEX/ryOm4tU2+CJDeHUQoTsoZ9j9gKjXEY/yez3S69++gzC6E8AoNQ8q4rzzYt5Mq7Ot1NV7rFHhFeRvt9fz78VnRjj05jAzuPC5jhTpwZ6GdOcbzsAHDjE9HUD4tEVe3XQWLtEy7ZhIcP4MQqA==;bBCtBV1s6FYnUNnYM02PLw=="
 ---
 
