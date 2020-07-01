@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T11:15:00Z
 webUrl: "https://www.ept.ca/2020/06/consumer-interest-for-drones-self-driving-cars-grows-amid-pandemic/"
 type: article
 quality: 24
-heat: 34
+heat: 24
 published: false
 
 provider:

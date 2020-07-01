@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T16:25:00Z
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/dotData-and-Teradata-Collaborate-to-Enable-Organizations-to-Derive-More-Value-from-AI-141608.aspx"
 type: article
 quality: 32
-heat: 42
+heat: 32
 published: false
 
 provider:

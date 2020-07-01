@@ -75,6 +75,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "AI Robot Named Erica Starring In $70 Million Sci-Fi Movie ‘B’"
+    excerpt: "With the Coronavirus pandemic forcing Hollywood into a new era of critical thinking, one which has forced the industry to find new ways to complete productions, as well as figure out new forms of distribution – it seems they’ve also figured out a way to replace actors and actresses."
+    publishedDateTime: 2020-06-30T22:05:00Z
+    webUrl: "https://www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/"
+    ampWebUrl: "https://www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/amp/"
+    cdnAmpWebUrl: "https://www-screengeek-net.cdn.ampproject.org/c/s/www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/amp/"
+    type: article
+    provider:
+      name: ScreenGeek
+      domain: screengeek.net
+    quality: 74
+    images:
+      - url: "https://www.screengeek.net/wp-content/uploads/2020/06/ai-robot-erica-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "AI robot, Erica, to take lead in USD 70 million sci-fi movie"
     excerpt: "who created Erica in real life as part of their study of robotics, also taught her to act, applying the principles of method acting to artificial intelligence, according to Khoze. \"In other ..."
     publishedDateTime: 2020-06-26T09:01:00Z

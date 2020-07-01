@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/
 type: article
 quality: 82
 heat: 82
+published: true
 
 provider:
   name: Neowin
@@ -28,6 +29,6 @@ images:
     isCached: true
     title: "Save 95% off this Ultimate Artificial Intelligence Scientist Certification Bundle"
 
-secured: "kJp7kymvfMtEfNYM9HXrnXPxPyG1EvjT1L9s5xcgtw4QgkWKNoBy10kZnOWA6Zd8SqFz3pkeNSm7QSYCNzrh3/+XZrI2Sb2BJh2fPQLZVN1jiUKE4TBUkyGxRNsPN4fXK0Lx6bjt/fEWQLek6BYcdj3ngDD/Y96tkIbWeBwJjD6frLsG/TokbtHgYYW0AYYwLypSZ/AWRkt5OJ002f1J5pTjVM5iMu9xjwilvUJub3xYRQ1okeMvTZKRTkyH6KGAcphFfI9kA+wkt9wiHvyMEbUUQ2oqNYepvwCt0lgMZT4hKmo2kFe9UjHAjGJpdanDpbYvDwd99SlV2h5aRTbUuA==;YIJIpNN09MTSoyTw5MyZLg=="
+secured: "u81jeemIuMRYYmd8Fd1naagTe+pz7Yq/gNU5RzPTRfRNJCbocecvieCeHkD5AcJX+oF2ZIgnDhycTqC5yA8WWckzqOOLC26ZqrFRYuD2IWGh0NBJH72l4nVwYa+3tb7qUjcgg4Hxrc5RSFME1zN+MzwFuMx6GXtGTWKfk8Dm1rmSdr1uraAQmZMJjH2kOCWelK1bYXhO80AguLdSfnhXdrP9oJR8lEBmkm6MYyj40DPW/p8d44D5uT93rZK/rT0+qaTBfZBwu2XCmamUCLUDg9P0ivOX+0ZxpOVLL6vqpjDqnkrjxMB2z5Qq1pw1C4VBcdoZrhWSos2vGutFot8pUgn3leBl2cDHyLhqxkiSDFjnYdNsTh78nLSZ9c/oLbjU6IV/ibcGcGuDNvnZK8y+jLHNmWw+VxywJ+w2P158WcPBriCfDq4m3aMMPL/AYP9XOPKZOjE7F5bqJCOOqZiZkvZP6VVxyZ/ostc5+NEIrffNIoj6/7Q+XJHwoE/cBZbiEY6IU+MpSsg1kSdQdHRhYg==;HCGvW25/WpeIvga3/zMNbA=="
 ---
 

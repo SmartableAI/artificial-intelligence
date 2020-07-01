@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnews
 type: article
 quality: 59
 heat: 59
+published: false
 
 provider:
   name: federalnewsnetwork.com
@@ -25,6 +26,6 @@ images:
     isCached: true
     title: "DARPA honors artificial intelligence expert"
 
-secured: "BeLp6DKfubNqdimX8EhnQOHd4y85h9NC+GCGEPW6ttkbFeJalol9Duq3vee0Oj/Q28vU+VarHZKUSOKKUW6egvQ9JxJZ37//RhUos+PKIhfE/h5n00MRsleG9bF83VrVhTROtTH3I+st1G+Vuh3QDfuG61cyH52R34JiBGgWwpotCW3JGbseNKAKcdBeTem0B8L798xm8J/8xyMXDpXfcNLVz0n/Vv7O/F8Gl7yQaH2+2/NM9aoMirSUYEKru1dQ4uhYb0PbHqy9p1O0cq5zOdvJeGTjQ1kGwjnUkPjqqZmDkp9QdpZ1LUtihV/Pe87W8ot5NraQ8gk52yvFv2AHBg==;1Pyq8dfwdNTMt1XuyNu5XQ=="
+secured: "npF663NzKuWGF1IbMX+qJTUm+COmtZrJFnkSIySqKOPf2K2//ehnULCYCS6sMf6XDmynIHpaRFZwCvVx+fd5QkMpFPplteJiMG5n4g7aewJsVDt3asq0cvcDIbT4q6olL37iH+GXtjruKAMvqo3xxo+ifhT3MEe5LKVoXtTC2rcJptw29LgcLM8Wx5vGXohOd+09iSPlOyJ4XGS2bRZ6ingq4Qpa0eTZGkY3rmW70AqeLsgBcuvaQU1wXmOtOM5zK79yshASPDRd1iawaCzkwJeivQJO9xjMHaB7B/RQsj+864oFC6q4p9E79I7kOv8DyNkiohcVolqKpiNywRVJ8Dp2jgv0Lb2plgzIki0R9GjYYik2B2Amfvofddevr+B+zTdll+fMheW8smkHhJ1ybmwXe/JgM46ml4OTf27JEEb5v6aylGkS5TbnlvirNblYqcLPestEHuHurF803MeqH+9TF6PYebTtSu2yUoEityumsXLQBhBdsb5p7kklVQ7k8r/K/AHxKZW5q4Z9t/zc9Q==;8tDv8wLpyvYT822CWkxzDw=="
 ---
 

@@ -7,8 +7,9 @@ webUrl: "https://venturebeat.com/2020/06/30/montreal-ai-ethics-institute-suggest
 ampWebUrl: "https://venturebeat.com/2020/06/30/montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 106
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +22,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all"
@@ -29,6 +31,6 @@ images:
     isCached: true
     title: "Montreal AI Ethics Institute suggests ways to counter bias in AI models"
 
-secured: "oo4jWc8N3R1tge3uRz8sJ4jFTrRhQ9IhGcNd93d7x/NWvI1ebw7KUyDS0j+hZ4U0nzGnTdp3hGI0Wgh8Hhgp2kC2rzPyvL19F9r7D02KYfuys4vkYUl6wT3orMYTxFvTeDIwGyxYQ+dPlo4s1XtuHtSt/94C308JqKmIU/cOu1l5tm025gxMRaYOKDrO43V4+ivN/qId+HioRc2b+7oBDTIt/ctQjLatumdXECKCMZCtoSHiPeAtDiCZk36gR8dr+CkBomhBuHzprgT/G8f+p6/Dy46T417DOdo/Y/qzKS0WMYgb4g9mjm7M8oHLxCV/hLkgg5BMNVsMSFyE/NpelQ==;fZ9FjFnqd3ciG83qFkwKAg=="
+secured: "HKX1bDeyjpF3JqQHQBmC55VvR5UiPw5IqkEQDiDLOzO1Kh7ODLf8TY9Jnjs27LMdUXwGqpBB6nDdh3xVcrJyj+vWGMg3xhDKZeamSJgwRynLH0bjXB3mKLPDjOUsNSyGUAKRRC64Bghlg0Nq/cXv0fRyYQ6YHjymA5H6UuP3/OiXuu1g1Z2QQQ3mLZOAc2V3d8zrUO6Je2RVTuv1bGSMnCdky45C2y0i7SXJOuxjD8jvsdiuBLvUidVNQv3BdlmygR5/SAAlrW6lQgsFLG9cjAbRTYOpX5SvydfIRgieWd2pKxBcHQVq0qkE/HmKA3/LaQ8xTczLot/qdj+Q5iBinRM1skjMq3WEhvzEvBL8QnhwyK6cCdjPk1IQbWsyRK89HnE6ssdagnkwRvnlHqLrv+o9/4ugEkay8ArNIi1XpzljaBVLsbID9bq239FYizx0XQS5nIbfF4vaF3Ejv3q1+DZeCmxaV3KntfoatPqM8C0Q88Kp902QdKyJuTQB0XWPEWTQJh/BQzQogtEDnb8OYA==;jq9fxQ0vdCUWVRjtl2q6fw=="
 ---
 

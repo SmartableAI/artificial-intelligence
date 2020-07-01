@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T15:43:00Z
 webUrl: "https://www.bloomberg.com/news/videos/2020-06-30/tracking-the-coronavirus-with-ai-video"
 type: article
 quality: 47
-heat: 57
+heat: 47
 published: false
 
 provider:

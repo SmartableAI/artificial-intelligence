@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/australian
 type: article
 quality: 87
 heat: 87
+published: true
 
 provider:
   name: Gizmodo
@@ -28,6 +29,6 @@ images:
     isCached: true
     title: "Australian Authorities Want an AI To Settle Your Divorce"
 
-secured: "LiXH7hDnoYuvi9PcJqmDhH9KGmr1E5qwqECIP3IKzE4PmlpBdTl+SNlEaGKXJSW/CL1WYQfk1FKvz146bxCBWk/ust78bFpYIqiCwiK6bqeIAzrGIimjKE2aY18LvFgSO8s8BJrN7DUCrfS0rbBvyoBHil8Tz3zGl9YiwEGUmRukpgutciRovRkrQc7x+J+34gCENpOA0qqcHgAIao51Oi7OkiFF/IkiuFh4clHbHo/kauvaiiJCkXk8BUfdzSCF/ny9KNVjwC/1+OcRY5dIvn4Wq7ILwctFy5m+Rfs0b5JIk4G4SnJn3BVgsZwivrcqKYnZ0sS/fQ5DtrhNUBFP/w==;tb/0XCk9Qi7BZxTN0HjA0A=="
+secured: "JRJ/ZYHel8egw1VVz4rnlKRECGGtZ4o6RBbmiyJib3XNm95fwl97BsSOvGtkP6bFy+UkhVbEdb57Ij7h7pkCwU907r2FhusWlxP44aHCvaHQG5PUL0q+fAieZnRcAz7qIu94xm/Obi76IbDZ8eHSwWza2Hd8PuYfVYEjYkzO4fsxXUr3mwUTBkDeoemliR0l3ZSSry4bQAmRRzU28MpJB3D69k+kBg2JvIvMY/zziw5ZV3BYND1tagKs+JMmyvlAAg2G9AA5S2F8gDSxekC/gmi7CGymv1Dhpz2YjaqKFaePlu02r7tBVAjE2+/xCHsFGoH8gagx5fT2f8I5Dmnv+t42tu8z3NArWPc+QdCKO30xawA1pJV7pyLkXnXUlKh1Squa3L+kCPCoeIQis8bJlBRmd9DRme6OW7TJaDDiWfsLrVtgxhL6Ct0iJWZz99caMbZVU7qERyB9ogUPnItmak7Ur3vnUoeoGR3/AoYG3BPAW80fT8YD/RauDB7aSzlwP0Xl3YQYTdYI94Cgiu/xAg==;8KJQ9oyz2wPJ548o4YSkFg=="
 ---
 

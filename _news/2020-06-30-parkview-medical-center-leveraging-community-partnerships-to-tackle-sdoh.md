@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T17:00:00Z
 webUrl: "https://www.healthcarefinancenews.com/news/parkview-medical-center-leveraging-community-partnerships-tackle-social-determinants"
 type: article
 quality: 23
-heat: 33
+heat: 23
 published: false
 
 provider:

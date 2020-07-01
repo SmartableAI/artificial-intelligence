@@ -8,7 +8,8 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2020/06/30/artificial-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/06/30/artificial-intelligence-is-experiencing-growing-pains/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 94
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +22,22 @@ provider:
 topics:
   - AI
   - AI Ethics
+
+related:
+  - title: "Recreating Paintings By Teaching An AI To Paint"
+    excerpt: "The Timecraft project by [Amy Zhao] and team members uses machine learning to figure out a way how an existing painting may have been originally been painted, stroke by stroke. In their paper"
+    publishedDateTime: 2020-06-27T11:04:00Z
+    webUrl: "https://hackaday.com/2020/06/27/recreating-paintings-by-teaching-an-ai-to-paint/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 37
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2020/06/timecraft_outputs_vs_real.jpg"
+        width: 1819
+        height: 779
+        isCached: true
 
 secured: "HIqXqv0opH10aQgH6JpxhwtX3dPhiBE+93TG25LnWVIEo/KLYzJAV0aqg9SDo0sQbtsQtSdfbe87Dev7UhVgeFOu0hWE2ktTGYbgOTHmC5wsJFbLa6KFW4GzfsBc+gP9kE+pwt8YchC/jwH3FfjapPqiZqo2P2wbsOmC+Efyvs/o26o5MLKdB27Y2G2FhoncLwedjuR5AJ0rQFJ5w5gVZOKlE3+o3On4H9JwlYsifW2nHDKzr2EkAd5XQ/plSnEEy18Zg+KK87M1zPNRl9rKh/mKDtbyQEDyP/1JSqLHc3RmJZIBiGs2PEk8ba6E2kadl9bKapc9zTulCd7LMIz09V2uTYydGnNNnsFHVqB1vb592rEorCITMzli85XrtA0c4IlXE/pr7BGdMVzTgcYtVziwzzJCdv1S/RRpe8crIBW53Jw+zi0RBB8etumbQojSk4qiZHRryNASMQtOhD21wns5R3hMQTSC6THICKJgyDcn8ih9nXHOXuKbikZLEzlNvIFQFQc/8yS7kZESU2/T5g==;r8scQ6+2tNox68sFxR5TwA=="
 ---
