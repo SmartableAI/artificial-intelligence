@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Florida Police Embrace Facial Recognition Despite Pushback"
-    excerpt: "While companies and governments are halting the use of facial recognition technology, the Pinellas County Sheriff’s Office is refusing to comply until official regulations are put in place."
-    publishedDateTime: 2020-06-26T21:42:00Z
-    webUrl: "https://www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/BIZ-NATIONAL-MOVES-AGAINST-FACIAL-RECOGNITION-PT.JPG"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Detroit police chief cops to 96-percent facial recognition error rate"
     excerpt: "Detroit's police chief admitted on Monday that facial recognition technology used by the department misidentifies suspects about 96 percent of the time. It's an eye-opening admission given that the Detroit Police Department is facing criticism for arresting a man based on a bogus match from facial recognition software."
     publishedDateTime: 2020-06-30T16:12:00Z
@@ -98,17 +82,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Detroit Clears Record of Man Targeted by Facial Recognition"
-    excerpt: "Detroit police are working to expunge the criminal record of a man who was wrongfully targeted by facial recognition technology. He was arrested without explanation and released because the software made a mistake."
-    publishedDateTime: 2020-06-26T21:17:00Z
-    webUrl: "https://www.govtech.com/public-safety/Detroit-Clears-Record-of-Man-Targeted-by-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Detroit-Clears-Record-of-Man-Targeted-by-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Detroit-Clears-Record-of-Man-Targeted-by-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
 
 secured: "oF0/fD957+C8tKAmjLOJ8q1r/kD3BbELZZfUOZrSchTDZrRtrEkX7mZsVsybodkF44I091KdAuLNDf6+QbwaCq1OX8aBW9oZzvUiRMpCOAeGUef0JHaYs1EvP7SO9EeXV1/XPVXUDLpPCinmcfi2k7bKe4xf84B45H3lm94sDKc3OHX4UbVyrQbZjtUwfJaXrOEO7IHF0u+ell7EGXFBqdHCrxs4qxuXMxjA30T6j8Vgz3u1Z8cJlHVfforx7J2ejPgJtvxtkZvnenNih8ndKMP96x74D91YaLOQfeRKGPLWo1oRy/mu/+EboB22ryyo4Y52fHhl89qyxQdgTLbnCA==;Ku2kmI9HH2Ygv6S9Tshmhg=="
 ---

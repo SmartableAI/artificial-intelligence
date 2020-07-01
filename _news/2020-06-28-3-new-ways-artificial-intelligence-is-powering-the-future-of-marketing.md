@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cathyhackl/2020/06/28/3-new-ways-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/06/28/3-new-ways-artificial-intelligence-is-powering-the-future-of-marketing/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 857
     isCached: true
     title: "3 New Ways Artificial Intelligence Is Powering The Future Of Marketing"
+
+related:
+  - title: "The robots are coming, and this is how they will change the future of work"
+    excerpt: "Robotic systems have historically been kept separate from humans, and tucked away deep in factory lines. But as robots start mingling with humans in their workplaces, what is work going to look like?"
+    publishedDateTime: 2020-07-01T14:13:00Z
+    webUrl: "https://www.zdnet.com/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/06/30/44b82d2a-c7eb-4458-89bb-a1aeff3fc18b/makrshakr-milanoduomo-bp-5972.jpg"
+        width: 1152
+        height: 768
+        isCached: true
 
 secured: "gYeU4UtGlD0K8EwtJiBZnCrVppcw8POgybrI3chgY+6EWmpaBhp0tpdtPZPBtbv0+8Q2fcEuDWvzydbi/ytQ5ashYFS2Q00nTMzlc6l9AF/ehUpEm/lQoLHjsjLgMzv3hPRO/9LrrEWjzhpQfyE0BQwh1ACrh1VdweaDDnqee8dk1tSyMKCVgsPSWIqTm0LUU84K9DmS4beFC3O3bem/o6j7cxOjcrvrhRi1hp4AUOxjSe/ED6bqv026l/4Io48PFMt8ZiConSi570juPeG8Q81MrlHnM9VE4NtPJwRQ5EWK+U4Vfq+VEhuC9jr7KEfGOC3C/2bSqbofOoJh+WTuy+BAHy6OROq4iJfs1Rdx+Tjal5gXD8pkHrdd8uL95Wfb2IqBuryC0T5Xt56JaT1lfWFLyS/PeWQQUdUfeARlHqF9uZZ0K7g6igt18YUDmKAfVMpKEV3jTXBoJnFQlfQeVLZkjy9GBn8RsXQvYePoP1z+9hXJL66x4mQBxyXawaGr;p8M5RW8NZ2Iu2f5QrNEWGA=="
 ---

@@ -2,12 +2,11 @@
 category: news
 title: "Artificial intelligence (AI) Market Size is Expected to Reach USD 169,411.8 Million in 2025 - Valuates Reports"
 excerpt: "PRNewswire/ -- The global Artificial Intelligence (AI) market size is expected to reach USD 169,411.8 Million in 2025, from USD 4,065.0 Million in"
-publishedDateTime: 2020-06-30T22:00:00Z
-webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025-valuates-reports-877658862.html"
+publishedDateTime: 2020-06-30T12:30:00Z
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025---valuates-reports-301085882.html"
 type: article
 quality: 32
-heat: -1
-published: false
+heat: 32
 
 provider:
   name: PR Newswire
@@ -23,33 +22,6 @@ images:
     isCached: true
     title: "Artificial intelligence (AI) Market Size is Expected to Reach USD 169,411.8 Million in 2025 - Valuates Reports"
 
-related:
-  - title: "Artificial Intelligence in Medicine Market to Reach $18.12 Billion at 49.6% CAGR by 2025, Says AMR"
-    excerpt: "Portland, OR , June 30, 2020 (GLOBE NEWSWIRE) -- According to a new report published by Allied Market Research, titled artificial intelligence in medicine marketwas valued at $719 million in 2017 and is expected to reach $18,"
-    publishedDateTime: 2020-06-30T15:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-to-reach-1812-billion-at-496-cagr-by-2025-says-amr-2020-06-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Size is Projected to Reach USD 15,273.7 Million in 2025 -Valuates Reports"
-    excerpt: "The global artificial intelligence in manufacturing market contributed 513 6 million in 2017 and is projected to reach 15 273 7 million in 2025 growing at a CAGR of 55 2 Artificial intelligence is a technology that deals with the"
-    publishedDateTime: 2020-06-30T10:13:00Z
-    webUrl: "https://www.openpr.com/news/2082125/artificial-intelligence-in-manufacturing-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2082125/artificial-intelligence-in-manufacturing-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2082125/artificial-intelligence-in-manufacturing-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
-
-secured: "B180J3pN1ANoHou16ix7uUST1jUBKb3ceg1QIbpeAF7ttiWhSCEAFP9KYuijscXUtPcHmMagd+r7sTODQaJdJBgzO4ifdBWnQg0IUYgstHZWSS7+SzRUQBaJm5dCKY0R51roLTCe9Jkcy5+uNqbH3k3ehLv0jvQESord8XCXPEvl6/xQkPH3O02Osx1gg3HUVx0+tHgjn+dHNX1j48Y5i2AIJ9/sxrmaYSj5CHhq5orv8/tCxO8wn/W38XQHlfdFKlnbNS8mNAm4+f7wDA+X0N/1FG0k8nyyXqpyL0P5mnpWQlUqOYheI3wL/wajkTPoBzuojqXv/z6ehK2QxUSSwg==;6ldk5TOyRAxDnoIaL2OZBA=="
+secured: "hqav6B4+IK3IBHxmesKXASnJqYMtbAgLdZMMIdpnpAJ78gPVwT8C1SP11/fWIzNGtCkqMiiDQTlZwaQBl/nKYm1v2icvK96Z8hn7nwR2Drx/M+mTrwOSjBS9WJZ0sEow5E+7IPfOCCr+0kqiphUB20P+fcnZ095AA6Uvf2OLCWUSZ2sf6lGzqN1uZdgGql4dLbXafzqu6ChiNGtMmb+3kqcUXmjbv0l/DOf+VcCR/bDLo7SvmaUWVbARmQhSOCkGqscxq+pBLDw0fHpFm3sV7X3xcOWxm04CLiRN4Ee2TlCf/XG6TFT9fo6cGK1rKkxDou8jDDwADm3nGqioSZD6Rw==;n+ZNtJkRnknvdQKh+RY3Gw=="
 ---
 

@@ -7,8 +7,8 @@ webUrl: "https://www.cnet.com/news/in-the-blackest-city-in-america-a-fight-to-en
 ampWebUrl: "https://www.cnet.com/google-amp/news/in-the-blackest-city-in-america-a-fight-to-end-facial-recognition/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/in-the-blackest-city-in-america-a-fight-to-end-facial-recognition/"
 type: article
-quality: 89
-heat: 109
+quality: 91
+heat: 111
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cnet3.cbsistatic.com/img/U4mP_-rt6ZiOcOSW9GGJyC_iFa8=/756x567/2020/06/29/30d88944-0d4e-4dae-a68e-c3477dd7d227/gettyimages-1217491940.jpg"
@@ -57,6 +58,6 @@ related:
       domain: rt.com
     quality: 19
 
-secured: "O1cb9mFln1t84bZw7/EDAL9jK2ybQcJlt/kbXOpaZFbX4MkZD07KVugafCSVDH7gy6m5Jsgpwhm/1CW9EFW/l96jZp1v1M1leuE1mu6o9bhWCf6FsSlWAuWh2KK2Jpe6pFo9EMxRwra/V/+6urKP/4bG9bVZ6ofI9k42XgqQRNRaKgx12MmHdlH911eArlxHnFDh73uSmS/rrNsw22lZBjgJoyxaX7x1moX1Qu4xNaMddphWz7j9hmRlgItJpRh3meUwGAZOlqrAVMprF5oYw5PvCEo313HbO+0CBe7V9hxCEjOJ/i/c85Pzu7FyofC229at47qf70HSdZBUkwR3ww==;CQhCozh8b7gIdyofuW9Vfg=="
+secured: "HpO07a/YRBpEQpFdjnfivGCY6cB2ZyNfczRgKkaYr0to00LBQoKNCt6axBCswKId+QVp28naVrF1ifURyBDK7pafPrWx9Mv8RJqX2Ye9HUmNOcvR4SWWVt6QGzMqdDzgSbSGQOcxk9eT8p7DzXYvtPGQ5YCj2DgrGMbktX38TxEQKr67T8GYKKSD/nVfilSr2UD3LNY1epH73m2PCwj8mK94TwaIGtgm3ZlswN0yWV/kLeXOyXiQHLqzs/TGbsX0VxAaNXMI0h8IsW5JShJFcUe7WePnKmvBZLtT3kI7lpJxOhiBeUI2mTwf/y8eBSq3ko1O3N9i3s3Q8zPu+VPm9AJUJOQhtJOjCAtNKDb+mUruQ+Y0cSO5X0qn9lIBKyBf2Hj6QboFOUjbzI3VaNkwGtnLOCIcJreKXF3Geff98oalh0lESab6tfxzCtbMJN3AAWEGj8xCWAP+KoGURRFp1TO8z8D+J2rOaE0TTpM9EDgrJsQh85rHN7a+Nm0tgdYB;/sn8Le/4ON/c5lgOYwtsIg=="
 ---
 

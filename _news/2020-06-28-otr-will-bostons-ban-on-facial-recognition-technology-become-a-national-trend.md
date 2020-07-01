@@ -139,17 +139,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "Facial-Recognition Tech Might Be the Real Reason to Buy Remark Stock"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips. When discussing Remark Holdings (NASDAQ:MARK), most investors and pundits have focused on the ability of the compan"
-    publishedDateTime: 2020-06-29T13:10:00Z
-    webUrl: "https://www.nasdaq.com/articles/facial-recognition-tech-might-be-the-real-reason-to-buy-remark-stock-2020-06-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/facial-recognition-tech-might-be-the-real-reason-to-buy-remark-stock-2020-06-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facial-recognition-tech-might-be-the-real-reason-to-buy-remark-stock-2020-06-29?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "U.S. Lawmakers Push to Ban Facial Recognition Technology"
     excerpt: "A group of lawmakers has introduced a bill that would ban the government use of facial recognition technology. The bill comes after a Detroit man was falsely arrested after being misidentified by police using the tech."
     publishedDateTime: 2020-06-29T21:11:00Z

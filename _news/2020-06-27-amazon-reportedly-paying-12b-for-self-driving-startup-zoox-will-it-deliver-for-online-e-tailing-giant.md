@@ -27,22 +27,6 @@ images:
     title: "Amazon reportedly paying $1.2B for self-driving startup Zoox. Will it deliver for online e-tailing giant?"
 
 related:
-  - title: "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing"
-    excerpt: "Uber CEO Dara Khosrowshahi says his company wants to be the “Amazon for transportation.” Friday, Amazon made clear that it intends to be the Amazon for transportation. The ecommerce giant said it had agreed to acquire Bay Area-based autonomous vehicle company Zoox,"
-    publishedDateTime: 2020-06-26T21:07:00Z
-    webUrl: "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/"
-    ampWebUrl: "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/5ef60bd7be64fa7887c43297/master/pass/Biz_Zoox_1215628120.jpg"
-        width: 2400
-        height: 1602
-        isCached: true
   - title: "Chinese ride-hailing giant Didi Chuxing launches pilot self-driving robotaxi service in Shanghai"
     excerpt: "Commuters can book free rides in Didi autonomous vehicles within designated areas in Shanghai’s Jiading District but human drivers still required on board for safety"
     publishedDateTime: 2020-06-29T03:54:00Z
@@ -58,38 +42,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/29/079706d6-b9bb-11ea-b64b-070a892763db_image_hires_115443.jpg?itok=BOII168X&v=1593402889"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Amazon Is Acquiring Self-Driving Start-Up Zoox"
-    excerpt: "Amazon has announced that it is acquiring self-driving car startup Zoox in a deal estimated to be worth over $1 billion. Foster City, California-based Zoox has founded in 2014 and raised $955 million funding from investors,"
-    publishedDateTime: 2020-06-27T09:06:00Z
-    webUrl: "https://www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/"
-    ampWebUrl: "https://www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Amazon Acquires Self-Driving Car Startup Zoox"
-    excerpt: "Although Zoox has been trying to develop a robot taxi service, Amazon could use the same technologies to one day power self-driving delivery vehicles."
-    publishedDateTime: 2020-06-28T16:25:00Z
-    webUrl: "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox"
-    ampWebUrl: "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 74
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03B67ZCaMv3OJA9m8qLEVfX-1.fit_lim.size_1200x630.v_1593188466.jpg"
-        width: 940
-        height: 529
         isCached: true
   - title: "China’s popular ride-hailing app DiDi starts testing self-driving taxis"
     excerpt: "Currently, the app is only serving a small geographic area of the city.Initially, the company has deployed their own safety personnel to deal with emergency situations"
@@ -107,67 +59,35 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Amazon to takeover self-driving start-up Zoox for over $1bn"
-    excerpt: "Amazon.com has agreed to pay over US$1-billion to buy self-driving start-up Zoox, The Information reported on Thursday, citing sources"
-    publishedDateTime: 2020-06-28T10:45:00Z
-    webUrl: "https://www.vanguardngr.com/2020/06/amazon-to-takeover-self-driving-start-up-zoox-for-over-1bn/"
-    ampWebUrl: "https://www.vanguardngr.com/2020/06/amazon-to-takeover-self-driving-start-up-zoox-for-over-1bn/amp/"
-    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/06/amazon-to-takeover-self-driving-start-up-zoox-for-over-1bn/amp/"
+  - title: "Didi Chuxing tries self-driving taxis"
+    excerpt: "Didi Chuxing, China’s largest taxi-booking platform, began testing autonomous cars connected to a vehicle-to-everything (V2X)"
+    publishedDateTime: 2020-06-29T08:50:00Z
+    webUrl: "https://www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/"
+    ampWebUrl: "https://www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/amp/"
     type: article
     provider:
-      name: Vanguard
-      domain: vanguardngr.com
+      name: Mobile World Live
+      domain: mobileworldlive.com
     quality: 44
     images:
-      - url: "https://www.vanguardngr.com/wp-content/uploads/2019/12/cb730e8b-8d42-4c72-a1ba-1eb3677f8c14-amazon-logo-1024x430.png"
-        width: 1024
-        height: 430
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2020/06/Didi_Chuing_autonomous_taxi.jpg"
+        width: 650
+        height: 396
         isCached: true
-  - title: "Amazon to acquire Foster City based self-driving startup Zoox"
-    excerpt: "The giant online retailer could use the autonomous vehicles to deliver packages but it could also pave the way for a rideshare service."
-    publishedDateTime: 2020-06-29T01:57:00Z
-    webUrl: "https://abc7news.com/zoox-amazon-buys-zoom-valuation/6278567/"
-    ampWebUrl: "https://abc7news.com/amp/zoox-amazon-buys-zoom-valuation/6278567/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/zoox-amazon-buys-zoom-valuation/6278567/"
+  - title: "Didi deploys self-driving taxi fleet in Shanghai, seeking edge on Baidu"
+    excerpt: "Didi hopes the alliance with accelerate the development of self-driving vehicles. Leading Chinese search engine company Baidu has set up the \"Apollo\" platform to develop autonomous driving technology."
+    publishedDateTime: 2020-06-27T18:05:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/Didi-deploys-self-driving-taxi-fleet-in-Shanghai-seeking-edge-on-Baidu"
     type: article
     provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 44
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/6279242_062820-kgo-zoox-car-img_Image_00-00-08,29.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The case for all-electric self-driving cars"
-    excerpt: "Electric cars don't suffer a huge loss in range when equipped with autonomous driving technology, and there's potential to minimize the effects even further, a new peer-reviewed analysis in Nature Energy shows."
-    publishedDateTime: 2020-06-30T14:40:00Z
-    webUrl: "https://www.axios.com/electric-self-driving-cars-b39c1215-fb53-467b-ab21-1fd1cd11e683.html"
-    ampWebUrl: "https://www.axios.com/electric-self-driving-cars-b39c1215-fb53-467b-ab21-1fd1cd11e683.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/electric-self-driving-cars-b39c1215-fb53-467b-ab21-1fd1cd11e683.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 44
-    images:
-      - url: "https://images.axios.com/KER4AXDl2L6o_L1bxvSziG60tYE=/fit-in/1366x1366/2020/06/30/1593526866534.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Bahrain joins the race: Self-driving buses ‘the way forward’"
-    excerpt: "“There’s a great opportunity to move fast with the concept of self-driving buses. We could carry out tests at Bahrain University, Bahrain Polytechnic and the Bahrain Training Institute,” said Mr Al Kooheji. “The intent is to introduce cost-saving ..."
-    publishedDateTime: 2020-06-28T09:43:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Bahrain_joins_the_race_Selfdriving_buses_the_way_forward-SNG_178187534/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
+      name: NIKKEI
+      domain: nikkei.com
     quality: 39
     images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F6%2F0%2F0%2F27940064-3-eng-GB%2FCropped-1593271902photo.JPG?source=nar-cms&width=1600&height=900&fit=cover&gravity=faces"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Amazon buying Zoox to veer into self-driving tech"
     excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
@@ -183,58 +103,19 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "Amazon To Buy Self-Driving Startup Zoox"
-    excerpt: "Amazon jumped into the arena of self-driving cars Friday when it announced an agreement to buy California-based Zoox, a startup designing autonomous ride-hailing vehicles that can be called with a smartphone app."
-    publishedDateTime: 2020-06-27T00:50:00Z
-    webUrl: "https://www.law360.com/articles/1287265/amazon-to-buy-self-driving-startup-zoox"
-    ampWebUrl: "https://www.law360.com/amp/articles/1287265"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1287265"
+  - title: "Beijing opens more roads for testing self-driving cars"
+    excerpt: "Beijing opened 52 additional roads on Tuesday in Haidian district, the capital's tech hub, for the testing of autonomous vehicles to push the speedy development of self-driving technology, local authorities said Wednesday."
+    publishedDateTime: 2020-07-01T08:42:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202007/01/WS5efc4c5ea3108348172568a1.html"
     type: article
     provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
-  - title: "Amazon has bought a self-driving car company, Zoox"
-    excerpt: "The company aims to build autonomous vehicles that people will be able to order like taxis, and will now do the same under Amazon’s direction, it indicated."
-    publishedDateTime: 2020-06-28T05:48:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/africa/Amazon-has-bought-a-self-driving-car-company-Zoox-992113"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
+      name: China Daily
+      domain: chinadaily.com.cn
     quality: 24
     images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/412/41263189.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Amazon Looks to Self-Driving Future"
-    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
-    publishedDateTime: 2020-06-29T15:36:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21138692/amazon-looks-to-selfdriving-future"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/iStock_1214977181.5efa0bbe636e8.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Amazon Acquires Self-Driving Tech Firm"
-    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
-    publishedDateTime: 2020-06-30T02:38:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21138692/amazon-looks-to-selfdriving-future"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/iStock_1214977181.5efa0bbe636e8.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
+      - url: "http://img2.chinadaily.com.cn/images/202007/01/5efc4c5ea3108348fcd9a49e.jpeg"
+        width: 596
+        height: 397
         isCached: true
   - title: "China's Didi starts self-driving ride service in Shanghai"
     excerpt: "Ride-hailing giant Didi Chuxing (DiDi) has launched the trial run of self-driving ride service on designated test roads in the eastern metropolis of Shanghai. Users who have registered in advance ..."
@@ -245,15 +126,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "Amazon acquires self-driving start-up Zoox for $1.2bn"
-    excerpt: "In a transaction that it believes “will help bring the vision of autonomous ride-hailing to reality”, online retailer Amazon is to acquire self-driving start-up Zoox for a reported $1.2bn. The acquisition represents further investment by Amazon in the ..."
-    publishedDateTime: 2020-06-30T08:48:00Z
-    webUrl: "https://www.financierworldwide.com/fw-news/2020/6/30/amazon-acquires-self-driving-start-up-zoox-for-12bn"
-    type: article
-    provider:
-      name: Financierworldwide.com
-      domain: financierworldwide.com
-    quality: 4
 
 secured: "otNf1yKNQX9u1qcvp01E8nbiGJ3HlwKBNEcNfKUOeW+Q6Iv7hSrd6jw14pkNz2yLq6EvcwVlRIgp+ejVXCHDa6yUf6ZQ7EOltMJXCwlElFwVrD1qF7M1K+V2aX/zGLYpTqv0IqkMRMAeBUtEUSzWfarM+ktBi10HDnQRdIspktkYwhMqGLamj1+Um5c+9QvKZJ6zeoiKfWMN5uBmq/Sd5d+H0f4xx9s+LBkrlpbx5afziONhUDPnOx+DamlCGOk5dqHrTE2zGnCE30+mPyEfIfKqWcDIZ7XUJkoA7IPuB9UcJCpis22HSBhsImRLGTldxJCReTLEm21p8G4BEw0GXA5lKUTwOWIoF18uPk0J3DZ8OfOmtOVT4vcYa9kGOS2PSsI6M9yzPKu5esdTjaHRcKXQh7gMDL47MbdKgRIa4mlNOEpLo9pJu+NHx1XgsxQIyThFe55xfjc6C4ZKlD77V3ntQ3viD2QRcTty4bBBqdRFzAUMhujBB5YOWTrvSQAuUGP48xfRAAPJYIF3yV06Xg==;/UCDweykpk6l4C05Bo+Dqw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/"
 type: article
 quality: 37
-heat: 37
+heat: 47
 published: false
 
 provider:

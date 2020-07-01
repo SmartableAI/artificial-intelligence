@@ -5,7 +5,7 @@ excerpt: "Elementary Robotics, a Los Angeles-based robotics startup, has raised 
 publishedDateTime: 2020-07-01T07:40:00Z
 webUrl: "https://roboticsandautomationnews.com/2020/07/01/elementary-robotics-raises-13-million-for-its-machine-learning-and-computer-vision-offerings-to-industry/33667/"
 type: article
-quality: 49
+quality: 66
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ topics:
   - AI in Robotics
   - AI
   - Computer Vision
+  - Machine Learning
 
 related:
   - title: "Elementary Robotics raises $12.7 million to automate industrial inspections"
