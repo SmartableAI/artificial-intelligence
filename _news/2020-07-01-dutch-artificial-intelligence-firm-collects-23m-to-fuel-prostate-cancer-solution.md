@@ -7,6 +7,7 @@ webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/dutch-
 type: article
 quality: 31
 heat: 31
+published: false
 
 provider:
   name: Radiology Business

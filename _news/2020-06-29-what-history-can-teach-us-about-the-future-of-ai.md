@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-29T16:58:00Z
 webUrl: "https://www.zdnet.com/video/what-history-can-teach-us-about-the-future-of-ai/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: ZDNet
@@ -26,6 +26,17 @@ images:
     height: 578
     isCached: true
     title: "What history can teach us about the future of AI"
+
+related:
+  - title: "Amazon’s Zoox Purchase Says a Lot About the Future of Self-Driving Cars"
+    excerpt: "Way back in 2018 my colleague Ashlee Vance profiled the founders of the startup, which had raised hundreds of millions of dollars to put self-driving robotaxis on public roads by 2020. It was a concept that seemed tantalizingly possible back then—its competitors included Alphabet Inc."
+    publishedDateTime: 2020-06-29T10:45:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2020-06-29/amazon-s-zoox-purchase-says-a-lot-about-the-future-of-self-driving-cars"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 34
 
 secured: "oorKYtOlmNk+GEmhPLrjW6emPRS5uOjFcEbrMZzez1ZpqyYID4ipVYAU3Mljmu5/lhANYBxye+aOK/tLI0AksZsYkrogxjTgJOpbbUzNaDjB8mdY94jZ3flwwrqLKxeYbm4wIkyDu/a13ZHj+3qk+8Bc7IrgD1GJdM5WIVhQFbo/+eRD8nJQN2MeN5M1TwnaLVI0en7F0pM96m0dybjO18KPF4uJMEKIsqDfkmO+LU0IrI3oQwkq9s49kOpYCx2O6YRxnsBoAm58fsG52TVvj24QV5u3XRD5EUShTuiXk+X4+w2nh6Ug4VfgFWLYYsgrn0LxIVDsVlJzIzXiAZCULqFvAfw3Fg1AaIth9B8+1b7uU9BEWWcf6bf+xyVwpeYbJyEgguJ+eSMpML7DIYetRa5vtKtblv9/ckt0pEm6mzxB6CkYSy3vVLnqHqmuhG1ZPgIQuT3xj4g/kHa2bRB/xvZ4OenLOPbbzZ8E4VhuEVj6JNR+MJARuSM5igicz5bGSA4pv6dkjFfz1DLp+Xm09A==;Mr8dVdEwfiLNuRC2cvfNZw=="
 ---

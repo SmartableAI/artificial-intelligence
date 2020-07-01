@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-01-in-these-factories-inspector-robot-will-check-your-work.md",
+      "title": "In These Factories, Inspector Robot Will Check Your Work",
+      "excerpt": "Artificially intelligent camera systems look for defects and misplaced parts in many industries. The coronavirus pandemic makes them extra useful.",
+      "webUrl": "https://www.wired.com/story/factories-inspector-robot-check-work/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5efbb71e9798446ce8080210/master/pass/business_inspection_461971920.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "In These Factories, Inspector Robot Will Check Your Work",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/factories-inspector-robot-check-work/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/factories-inspector-robot-check-work/amp",
+      "publishedDateTime": "2020-07-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-new-robot-technology-to-fight-covid-care-isolation.md",
       "title": "New robot technology to fight Covid care isolation",
       "excerpt": "That is why the new multi-disciplinary laboratory is aiming to create affordable technology that can support the care of vulnerable people cut off from human contact. It's not just the care that will be delivered at a distance - the lab itself will be open and remotely accessible.",
@@ -83,6 +130,44 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-ai-robot-named-erica-starring-in-70-million-sci-fi-movie-b.md",
+      "title": "AI Robot Named Erica Starring In $70 Million Sci-Fi Movie ‘B’",
+      "excerpt": "With the Coronavirus pandemic forcing Hollywood into a new era of critical thinking, one which has forced the industry to find new ways to complete productions, as well as figure out new forms of distribution – it seems they’ve also figured out a way to replace actors and actresses.",
+      "webUrl": "https://www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.screengeek.net/wp-content/uploads/2020/06/ai-robot-erica-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": "AI Robot Named Erica Starring In $70 Million Sci-Fi Movie ‘B’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/amp/",
+      "cdnAmpWebUrl": "https://www-screengeek-net.cdn.ampproject.org/c/s/www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/amp/",
+      "publishedDateTime": "2020-06-30T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScreenGeek",
+        "domain": "screengeek.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -553,7 +638,7 @@
       "title": "Service Robotics Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026",
       "excerpt": "The global service robotics market is expected to rise with an impressive CAGR and generate the highest revenue by",
       "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market---by-supply-demand-scenario-application-by-region-pricing-analysis-opportunities-and-forecast-2026-2020-06-29",
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -600,7 +685,7 @@
       "title": "3 New Ways Artificial Intelligence Is Powering The Future Of Marketing",
       "excerpt": "From an AI Chef to a Snoop Dog video ad, to digital people, here are 3 futuristic ways AI is taking brand voice to the next level.",
       "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/28/3-new-ways-artificial-intelligence-is-powering-the-future-of-marketing/",
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1258,100 +1343,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-robot-divers-could-use-artificial-intelligence-to-save-coral-reefs-noaa.md",
-      "title": "Robot Divers Could Use Artificial Intelligence To Save Coral Reefs: NOAA",
-      "excerpt": "While scientists have succeeded at restoring some coral reefs, the job is too vast for humans alone, acording to a NOAA reef restoration manager.",
-      "webUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/",
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148857837%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": "Robot Divers Could Use Artificial Intelligence To Save Coral Reefs: NOAA",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/amp/",
-      "publishedDateTime": "2020-06-21T21:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-type-x-armored-combat-robot-equipped-for-unmanned-convoy-protection.md",
-      "title": "Type-X armored combat robot equipped for unmanned convoy protection",
-      "excerpt": "Estonia-based Milrem Robotics and Belgium's John Cockerill Defense have unveiled Milrem's Type-X Robotic Combat Vehicle. Based on a modular design and equipped with the Cockerill Protected Weapons Station Generation II (CPWS II) turret,",
-      "webUrl": "https://newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/a91bde8/2147483647/strip/true/crop/2560x1707+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Feb%2F43%2F55a42262488984eecb91ad84851a%2Fimg-0688-scaled.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Type-X armored combat robot equipped for unmanned convoy protection",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/?amp=true",
-      "publishedDateTime": "2020-06-21T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

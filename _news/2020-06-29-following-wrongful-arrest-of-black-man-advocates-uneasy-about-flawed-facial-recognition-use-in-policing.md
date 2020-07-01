@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cbc.ca/amp/1.5631660"
 cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5631660"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -25,49 +25,6 @@ images:
     height: 349
     isCached: true
     title: "Following wrongful arrest of Black man, advocates uneasy about 'flawed' facial recognition use in policing"
-
-related:
-  - title: "Facial recognition leads to first wrongful U.S. arrest, activists say"
-    excerpt: "Robert Williams spent over a day in custody in January after face recognition software matched his driver’s license photo to surveillance video of someone shoplifting."
-    publishedDateTime: 2020-06-26T17:41:00Z
-    webUrl: "https://www.nbcnews.com/tech/security/facial-recognition-leads-first-wrongful-u-s-arrests-activists-say-n1231971"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1231971"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231971"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_26/3392279/rtx5zan6_8801ea9903a80ccb7d234bcb75bfe8f1.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Detroit says 'shoddy' work led to wrongful arrest tied to facial recognition technology"
-    excerpt: "A Black man wrongly arrested after the use of facial recognition technology will have his DNA, fingerprints and mugshot removed from files."
-    publishedDateTime: 2020-06-27T11:55:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/06/26/facial-recognition-wrongful-arrest-detroit-police/3265943001/"
-    ampWebUrl: "https://amp.freep.com/amp/3265943001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3265943001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 51
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/01/21/PDTF/7f37d006-521d-4d6e-b65c-51b641c9d880-IMG_detroit_police_car_1_1_.JPG?auto=webp&crop=533,300,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Detroit police work to expunge record of man wrongfully accused with facial recognition"
-    excerpt: "Detroit — A day after the American Civil Liberties Union filed a complaint against Detroit police officials about the wrongful arrest of an African American man the group said was mistakenly targeted through facial recognition software, investigators ..."
-    publishedDateTime: 2020-06-26T20:42:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21143871/detroit-police-work-to-expunge-record-of-man-wrongfully-accused-with-facial-recognition"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 11
 
 secured: "ib9Ccf8y3LHdukMCLEfUtPYyXNv7eAv9XnRIkz2GGClelD9zViXgbCoZkzlwVL7nIOU+0KOmq8BZscvfr2kx/cL1aBeCBkb7bd4t1gji991TlLjkm+Hro8VxT4/E3kVOjc31hOB7AduFLf5kqI9uuKrCGrhtEjMFG7eao4Fpcu/d5UB55QQ2KgX4inXOMC4znAKGLpgGbWp+MMuO1Jxa3MfreYPXk0ccUbmaQ648RPnBjJvqBhNg4oUGnqSQZPIPdKmBGQQ30Log7RQotn/O3gBZ1tFsSCuEN0ox/AQzRbyod+sCYSDDHTzRExLWidHoUgmBP9/QtAfDXexjGQOw8w==;dhjiuTPPItUgyzIHyBfCJw=="
 ---

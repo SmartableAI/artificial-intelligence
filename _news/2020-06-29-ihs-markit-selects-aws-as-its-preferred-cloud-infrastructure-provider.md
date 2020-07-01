@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-29T07:30:00Z
 webUrl: "https://www.businesswire.com/news/home/20200629005060/en/IHS-Markit-Selects-AWS-Preferred-Cloud-Infrastructure"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

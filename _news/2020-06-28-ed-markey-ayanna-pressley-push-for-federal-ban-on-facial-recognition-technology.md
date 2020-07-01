@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-pu
 cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/amp/"
 type: article
 quality: 56
-heat: 106
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     title: "Ed Markey, Ayanna Pressley push for federal ban on facial recognition technology"
 
 related:
-  - title: "Detroit says 'shoddy' work led to wrongful arrest tied to facial recognition technology"
-    excerpt: "A Black man wrongly arrested after the use of facial recognition technology will have his DNA, fingerprints and mugshot removed from files."
-    publishedDateTime: 2020-06-27T11:55:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/06/26/facial-recognition-wrongful-arrest-detroit-police/3265943001/"
-    ampWebUrl: "https://amp.freep.com/amp/3265943001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3265943001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 51
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/01/21/PDTF/7f37d006-521d-4d6e-b65c-51b641c9d880-IMG_detroit_police_car_1_1_.JPG?auto=webp&crop=533,300,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "U.S. Sen. Ed Markey pushes to ban government use of facial recognition technology, says ‘the criminal justice system is already rigged'"
     excerpt: "Legislation proposed by U.S. Sen. Ed Markey would ban federal use of biometric surveillance and tie federal funding to whether communities ban it."
     publishedDateTime: 2020-06-28T18:23:00Z
@@ -59,20 +43,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZAYEYVJ5VVEANAVWPXX4RCROOM.png"
         width: 1114
         height: 675
-        isCached: true
-  - title: "Lawmakers Introduce Bill to Ban Federal Use of Facial Recognition Tech"
-    excerpt: "If passed, federal agencies would not be able to run, fund, purchase or otherwise use data from facial biometric systems without congressional authorization."
-    publishedDateTime: 2020-06-26T19:59:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/06/lawmakers-introduce-bill-ban-federal-use-facial-recognition-tech/166489/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 24
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/06/26/NGface20200626_OPoDmHB/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "EU data watchdog argues for moratorium on recognition technology"
     excerpt: "Automated recognition technologies in public spaces should be temporarily banned, the EU's institutional data protection watchdog has said, arguing in favour of a moratorium."

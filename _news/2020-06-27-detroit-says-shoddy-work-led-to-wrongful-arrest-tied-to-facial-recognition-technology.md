@@ -27,82 +27,31 @@ images:
     title: "Detroit says 'shoddy' work led to wrongful arrest tied to facial recognition technology"
 
 related:
-  - title: "Ed Markey, Ayanna Pressley push for federal ban on facial recognition technology"
-    excerpt: "Massachusetts Sen. Ed Markey and Rep. Ayanna Pressley are pushing to ban the federal government’s use of facial recognition technology, as Boston last week nixed the city use of the"
-    publishedDateTime: 2020-06-28T23:14:00Z
-    webUrl: "https://www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/"
-    ampWebUrl: "https://www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/amp/"
+  - title: "In 'the Blackest city in America,' a fight to end facial recognition"
+    excerpt: "Activists say facial recognition and its racial bias have no place in Detroit, a city that boasts the highest percentage of Black residents in the US."
+    publishedDateTime: 2020-07-01T12:09:00Z
+    webUrl: "https://www.cnet.com/news/in-the-blackest-city-in-america-a-fight-to-end-facial-recognition/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/in-the-blackest-city-in-america-a-fight-to-end-facial-recognition/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/in-the-blackest-city-in-america-a-fight-to-end-facial-recognition/"
     type: article
     provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 56
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/03/markeynl06.jpg?w=1024&h=755"
-        width: 1024
-        height: 755
+      - url: "https://cnet3.cbsistatic.com/img/U4mP_-rt6ZiOcOSW9GGJyC_iFa8=/756x567/2020/06/29/30d88944-0d4e-4dae-a68e-c3477dd7d227/gettyimages-1217491940.jpg"
+        width: 756
+        height: 567
         isCached: true
-  - title: "U.S. Sen. Ed Markey pushes to ban government use of facial recognition technology, says ‘the criminal justice system is already rigged'"
-    excerpt: "Legislation proposed by U.S. Sen. Ed Markey would ban federal use of biometric surveillance and tie federal funding to whether communities ban it."
-    publishedDateTime: 2020-06-28T18:23:00Z
-    webUrl: "https://www.masslive.com/politics/2020/06/us-sen-ed-markey-pushes-to-ban-government-use-of-facial-recognition-technology-says-the-criminal-justice-system-is-already-rigged.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/06/us-sen-ed-markey-pushes-to-ban-government-use-of-facial-recognition-technology-says-the-criminal-justice-system-is-already-rigged.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/06/us-sen-ed-markey-pushes-to-ban-government-use-of-facial-recognition-technology-says-the-criminal-justice-system-is-already-rigged.html?outputType=amp"
+  - title: "Racial bias in facial recognition software could lead to false arrests"
+    excerpt: "A black man in Detroit was wrongfully arrested after facial recognition software incorrectly identified him, forcing developers to acknowledge the ways that racial bias is present in artificial intell"
+    publishedDateTime: 2020-07-01T07:38:00Z
+    webUrl: "https://www.rt.com/shows/watching-the-hawks/493378-facial-recognition-racial-bias-false-arrest/"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 27
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZAYEYVJ5VVEANAVWPXX4RCROOM.png"
-        width: 1114
-        height: 675
-        isCached: true
-  - title: "Lawmakers Introduce Bill to Ban Federal Use of Facial Recognition Tech"
-    excerpt: "If passed, federal agencies would not be able to run, fund, purchase or otherwise use data from facial biometric systems without congressional authorization."
-    publishedDateTime: 2020-06-26T19:59:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/06/lawmakers-introduce-bill-ban-federal-use-facial-recognition-tech/166489/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 24
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/06/26/NGface20200626_OPoDmHB/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "EU data watchdog argues for moratorium on recognition technology"
-    excerpt: "Automated recognition technologies in public spaces should be temporarily banned, the EU's institutional data protection watchdog has said, arguing in favour of a moratorium."
-    publishedDateTime: 2020-07-01T06:22:00Z
-    webUrl: "https://www.euractiv.com/section/digital/news/eu-data-watchdog-argues-for-moratorium-on-recognition-technology/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 24
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2020/06/shutterstock_794528203-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Boston becomes the second largest city in the US to ban facial recognition software, citing concerns that the technology is 'racially discriminatory' and threatens basic rights"
-    excerpt: "Boston will become the second major city in the US to ban facial recognition software for government use after a unanimous city council vote, citing concerns of racial bias."
-    publishedDateTime: 2020-06-27T01:21:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8464719/Boston-second-largest-city-ban-facial-recognition-software.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-second-largest-city-ban-facial-recognition-software.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-second-largest-city-ban-facial-recognition-software.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/06/27/00/30104344-0-image-a-10_1593215913669.jpg"
-        width: 636
-        height: 382
-        isCached: true
+      name: RT
+      domain: rt.com
+    quality: 19
 
 secured: "FzOQLr1BML6VpLptICTHzkz/MICayF4SZfe2rD7d8bWbrXUwGlqXRfCgPSlGqu6YSB/9Lm3V+9KKKaLDr1vtFlIqJObln5mGJ2/r7lbjyJwDCjk0Mq7JmAQ3JBqklnACBFxwEEpfRbnB4DgYurUd6kNFgs/fwanE2gmMNWvq6ahXnyYQnBIPVUyns5tSUXMvaVPB/9D4mpPWPPBhcNZPgdrivLTBfbcM3YgHIyjhJ7OINvXxeL5lIe9B20W8p3mAkL2CyZ+grccTt+GrFUvlVT+/OjNwARPXT34fCmA04tuuL4/g2f+LGkEeeyvw9B7ZGgTDUar1Bm/70KykubvdKDPRhinpA89rH92I5x30XDXlALoOyKIWtJppi0JJM+D0IV03n7Ehv4Hyu2Gnpec7rD9LeAwp6ewaDyKkjRxY9mHP0+9tt2ujz3i16nLmh0QfQ8IaSKvLArQA2rdmf4DLyFFHvDrrAQCA4p170fKkYlObSI4Rhd4ePnbKFbO3qyR50H+YKW87WTDL2h181z1gMg==;HSeIGsdUvO5mlF/X0Ry6vg=="
 ---

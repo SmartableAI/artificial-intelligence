@@ -178,7 +178,7 @@
       "title": "Building Ethical And Responsible AI Systems Does Not Start With Technology Teams",
       "excerpt": "Unless we invest time and effort in designing human-centric AI solutions, we run the risk of dividing society and augmenting feelings of mistrust and intimidation.",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/",
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": null,
       "type": "article",
@@ -216,7 +216,7 @@
       "title": "3 New Ways Artificial Intelligence Is Powering The Future Of Marketing",
       "excerpt": "From an AI Chef to a Snoop Dog video ad, to digital people, here are 3 futuristic ways AI is taking brand voice to the next level.",
       "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/28/3-new-ways-artificial-intelligence-is-powering-the-future-of-marketing/",
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -911,14 +911,14 @@
     {
       "path": "_news/2020-06-19-pakistani-scholars-among-winners-of-facebooks-ethics-in-ai-research-awards.md",
       "title": "Pakistani scholars among winners of Facebook’s Ethics in AI Research awards",
-      "excerpt": "Pakistan’s Junaid Qadir, Professor at the Information Technology University (ITU) of the Punjab, along with co-investigator Amana Raquib, Assistant Professor at the Institute of Business Administration (IBA),",
-      "webUrl": "https://tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/?amp=1",
+      "excerpt": "The duo was among winners from nine different countries. The AI initiative aims to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Dr Junaid Kadir along with Amana Raquib were awarded for their research into culturally informed pro-social AI regulation and persuasion framework.",
+      "webUrl": "https://tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/",
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/?amp=1",
+      "ampWebUrl": "https://tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/",
       "publishedDateTime": "2020-06-19T05:07:00-07:00",
       "updatedDateTime": null,
       "provider": {

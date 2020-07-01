@@ -7,6 +7,7 @@ webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-rev
 type: article
 quality: 63
 heat: 63
+published: false
 
 provider:
   name: MarketWatch

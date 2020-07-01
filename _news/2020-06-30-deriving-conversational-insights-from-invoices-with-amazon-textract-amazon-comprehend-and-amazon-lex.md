@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T19:49:13Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/deriving-conversational-insights-from-invoices-with-amazon-textract-amazon-comprehend-and-amazon-lex/"
 type: article
 quality: 103
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     title: "Deriving conversational insights from invoices with Amazon Textract, Amazon Comprehend, and Amazon Lex"
 
 related:
-  - title: "Developing NER models with Amazon SageMaker Ground Truth and Amazon Comprehend"
-    excerpt: "Named entity recognition (NER) involves sifting through text data to locate noun phrases called named entities and categorizing each with a label, such as person, organization, or brand. For example, in the statement “I recently subscribed to Amazon Prime,” Amazon Prime is the named entity and can be"
-    publishedDateTime: 2020-06-26T19:19:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/developing-ner-models-with-amazon-sagemaker-ground-truth-and-amazon-comprehend/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/26/named-entit-recognition-001-2.jpg"
-        width: 1000
-        height: 550
-        isCached: true
   - title: "Unifying The Supply Chain With Machine Learning Organized Information, Increases Speed, And Improves Efficiency"
     excerpt: "The supply chain is complex, and machine learning will be a critical tool in the continuing improvement of supply chain management."
     publishedDateTime: 2020-06-30T14:19:00Z

@@ -8,7 +8,8 @@ ampWebUrl: "https://www.wired.com/story/factories-inspector-robot-check-work/amp
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/factories-inspector-robot-check-work/amp"
 type: article
 quality: 89
-heat: 89
+heat: 99
+published: true
 
 provider:
   name: Wired
@@ -29,6 +30,24 @@ images:
     isCached: true
     title: "In These Factories, Inspector Robot Will Check Your Work"
 
-secured: "P4wTsG6eg+1axtZB2MGBwjy4lFepIKGbIqqjf4iIAvdqaio3iB7CCmn9oNv+B4dtanG7wM6W39pz+bDXBe9hZELujncyYVVqXZ6+zIzvtBoDFuRoi8w3A6rr4NK36Yk04a9WwDlXun3BPxitXPsAYbVOWUOlEXF/B9HFXpAfWqiI38wVAf2WcJlbf2R7XhcPTDkATwBq4E6piUbJgQ9ug8QTelu/8L1sXLPpWYZnLU9MhqKyLfp8IKV6z9pC1Cf4FeSXAXrpa/UC9ZpNYZbx7ULd2D8eq/UcMimMQzokmLM4tevDXrrcDlvvh0X4UXrG/0/1Xc14AIeo7n9uUC4Y4w==;Udl5vbeyA91Lhn9LUMZaLQ=="
+related:
+  - title: "These robots will do your housework"
+    excerpt: "Dyson, Roomba and Shark home ’bots can vacuum floors and then wash them. They can do windows, mow your lawn, and before long they’ll deliver your"
+    publishedDateTime: 2020-07-01T11:20:00Z
+    webUrl: "https://www.thestar.com/life/homes/2020/07/01/these-robots-will-do-your-housework.html"
+    ampWebUrl: "https://www.thestar.com/amp/life/homes/2020/07/01/these-robots-will-do-your-housework.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/life/homes/2020/07/01/these-robots-will-do-your-housework.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 59
+    images:
+      - url: "https://images.thestar.com/epUoB7Egtklm77yKmaDn_cf4fAU=/1200x900/smart/filters:cb(1593024661317)/https://www.thestar.com/content/dam/thestar/life/homes/2020/07/01/these-robots-will-do-your-housework/_1_cover_main.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+
+secured: "rcA3EkIUb6WPlBhMllOjvDdqj/mi1lWhgWfty+nC1FMRBEyjMLxZOICQhYafV+ixXJKapmValZQnqRwhz7t4GE4sX4SlkdgSRyQbGq3Dpz65zTKlg46HjlEMW313NLxYUSVXPATpocgYcr6iDIHRMqcq7MiDToA52LVhXVs29gQmPOhRl6CA63cc/jcO7fjwgOgUVXqJAOAF6lJCiNthmCwyilL3DYKZl/G9e/H8pQPu9B5axsxDV+NKb8UlH3bee87Jjd+Df4s7U1XqBrNoijXMEeWM0/N3peJT95WXKct9P8FPBi1YrFU4lJJxU33gFegTtk9cVRkvwFnsGtOX+IRBWemvT7+GWPfviXtDGDK4lUY3Z2E71vCZ8UybiY2bh9AbnZ6rRPVA2vIltpVNqwk0W41bjwoKuKDVIO8K/NnI2WqOf8+WFHXmirDsn2FJA593sAAMrTFigigNpcF0YYwl97nPJc+3948GaoT1a4IhBh9gSM78T2AzcgmR2C8GXfgBNG8AiCznI0p46FDwdQ==;xutcuQy4b4UapGOvV29DUw=="
 ---
 

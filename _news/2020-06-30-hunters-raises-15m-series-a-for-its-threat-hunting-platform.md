@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-it
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-its-threat-hunting-platform/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/06/cohort-mock.png?w=680"
         width: 680
         height: 399
-        isCached: true
-  - title: "Galway’s CitySwift raises €2m for its public transport AI platform"
-    excerpt: "CitySwift has raised €2m in funding and launched a new platform that enables commuters to see how busy a bus will be in advance."
-    publishedDateTime: 2020-06-26T17:53:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/cityswift-funding-when2travel-ai-go-ahead-bus"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/06/cityswift.png"
-        width: 1200
-        height: 900
         isCached: true
 
 secured: "DE5QmndN8mPsydugXZiv90if9V+3VKnDywq4SlOqia/XR2EFAyBLnX+y3lggxUwpzySq+k2labWGIb/RgKWSCMW2PqiTEYA0vHIcu428WHn9+4A8VbnXfRi5tQ0i1/X07IuOJLRskwvefZhX5lf2dwg5LMWtJyFtbeKtaSq2l0620Alg4pCn72fLTyK/laLpWl42B/9WSX+uRKO/EEBUFkt/TteaTW2AzZv0/E5rmmWE0q2KonjbACZfgAmrDfel/ijK2l/8vVEysJ87uUCSMFzzChC8NqD9Si5mqQgEYIrw9VinChVpIpzJGngKXKRpYN5t0zif3qIVpoG8cpMmTBYHTwgRYrkHRAkWtKuyVXPmGhh/zSdcvQDrcx7Sl7+bvdNUtLrQ8m7TImArjMELlPPC1cYMaIh0RXa7Jos8NTfVsUNMbQwZmNVvczdMk0XmqcNiT6S0nXHA5hUHUDYU/asBemmM/7C3+8zr8hNqh4FFylWpYSJ+swy55MKEfQj2;OZgMlvhOMgQYtyZIiXmTgA=="

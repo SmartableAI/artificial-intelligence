@@ -169,15 +169,6 @@ related:
         width: 1200
         height: 878
         isCached: true
-  - title: "Amazon pays $1.2 billion for self-driving startup Zoox"
-    excerpt: "Venture capitalists, hungry for a stake in the much-hyped self-driving industry, poured hundreds of millions of dollars into Zoox between 2016 and 2019. But as self-driving companies have failed to hit self-imposed milestones over the last couple of years,"
-    publishedDateTime: 2020-06-26T19:35:00Z
-    webUrl: "https://arstechnica.com/cars/2020/06/amazon-pays-1-2-billion-for-self-driving-startup-zoox/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 34
   - title: "Amazon buying Zoox to veer into self-driving tech"
     excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
     publishedDateTime: 2020-06-27T06:54:00Z

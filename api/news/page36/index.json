@@ -2,6 +2,817 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-06-01-7-ai-stocks-that-are-looking-to-the-future.md",
+      "title": "7 AI Stocks That Are Looking to the Future",
+      "excerpt": "The interesting thing is that until about 10 years ago or so, AI was mostly a backwater. Let’s face it, investors were more interested in areas like cloud computing. But there would emerge some major catalysts that would make AI a must-have.",
+      "webUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "7 AI Stocks That Are Looking to the Future",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
+      "publishedDateTime": "2020-06-01T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure.md",
+      "title": "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure",
+      "excerpt": "WANdisco, the LiveData company, today announced the limited public preview availability of WANdisco LiveData Platform for Azure, a new service offering available on Microsoft Azure exclusively. The WANdisco LiveData Platform features the company’s patented consensus engine which ensures data consistency,",
+      "webUrl": "https://www.newswiretoday.com/news/172992/WANdisco-Releases-LiveData-Platform-for-Petabyte-Scale-Cloud-Migration-to-Microsoft-Azure/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-third-pixel-feature-drop-improves-ai-powered-adaptive-battery-integrates-recorder-and-google-assistant.md",
+      "title": "Third Pixel feature drop improves AI-powered Adaptive Battery, integrates Recorder and Google Assistant",
+      "excerpt": "Google's third Pixel feature drop brings a smarter Adaptive Battery, Recorder integration with Google Assistant, and bedtime and personal safety features.",
+      "webUrl": "https://venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/android-bedtime-graphic.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Third Pixel feature drop improves AI-powered Adaptive Battery, integrates Recorder and Google Assistant",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/amp/",
+      "publishedDateTime": "2020-06-01T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-growing-at-a-cagr-205-key-player-3m-cerner-nuance-microsoft-ibm.md",
+      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Growing at a CAGR 20.5% | Key Player 3M, Cerner, Nuance, Microsoft, IBM",
+      "excerpt": "and Region – Global Forecast to 2025 MarketsandMarkets forecasts the global Natural Language Processing (NLP) in Healthcare and Life Sciences Market size to grow from USD 1.5 billion in 2020 to ...",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/ab16155634/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-growing-at-a-cagr-20-5-key",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16155634",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16155634",
+      "publishedDateTime": "2020-06-01T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-alexa-uses-amazon-translate-to-reach-more-international-customers.md",
+      "title": "Alexa uses Amazon Translate to reach more international customers",
+      "excerpt": "Amazon Alexa is available in 15 locales and eight languages. To understand and respond in different languages, Alexa needs to learn new grammar rules, and the content that powers Alexa needs to be translated to new languages. Additionally, Alexa needs to learn about country-specific topics, such as new",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/alexa-uses-amazon-translate-to-reach-more-international-customers/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png",
+          "width": 1024,
+          "height": 512,
+          "title": "Alexa uses Amazon Translate to reach more international customers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T09:50:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-artificial-intelligence-and-computer-vision-facilitates-frustrated-famished-workers.md",
+      "title": "Artificial Intelligence and Computer Vision Facilitates Frustrated Famished Workers",
+      "excerpt": "A wide variety of food options may be available at a self-serve salad bar (Image source: Benjamin Ashton on Unsplash) In fact, this activity at a regular checkout can easily take 16 seconds or more (see Proppos: Computer Vision Self-Checkout).",
+      "webUrl": "https://www.embedded-computing.com/guest-blogs/artificial-intelligence-and-computer-vision-facilitates-frustrated-famished-workers",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://share.opsy.st/5ed522170cb2e-Picture1.png",
+          "width": 804,
+          "height": 479,
+          "title": "Artificial Intelligence and Computer Vision Facilitates Frustrated Famished Workers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-amazon-textract-is-now-soc-and-iso-compliant.md",
+      "title": "Amazon Textract is now SOC and ISO compliant",
+      "excerpt": "You can now use Amazon Textract, a machine learning (ML) service that quickly and easily extracts text and data from forms and tables in scanned documents, for workloads that are subject to Service Organization Control (SOC) compliance and International Organization for Standardization (ISO) compliance.",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-textract-is-now-soc-and-iso-compliant/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/10/site-merch_Textract_SocialMedia_2.png",
+          "width": 800,
+          "height": 400,
+          "title": "Amazon Textract is now SOC and ISO compliant",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T09:00:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-aruba-releases-ai-powered-tools-for-the-new-way-of-work.md",
+      "title": "Aruba releases AI-powered tools for the new way of work",
+      "excerpt": "The solutions include contact and location tracing, secure remote access points, contactless visitor management, and more.",
+      "webUrl": "https://www.techrepublic.com/article/aruba-releases-ai-powered-tools-for-the-new-way-of-work/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/05/07/87c59611-55ac-42c2-b657-f6338ca74c1f/resize/1200x/3d1d914514d6bb6c7be55bcacd52ee8a/coronavirus-office.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Aruba releases AI-powered tools for the new way of work",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/aruba-releases-ai-powered-tools-for-the-new-way-of-work/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aruba-releases-ai-powered-tools-for-the-new-way-of-work/",
+      "publishedDateTime": "2020-06-01T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars.md",
+      "title": "Heroic Kansas Soldier Runs Over Active Shooter, Saves Lives, Vital Implications For AI And Self-Driving Cars",
+      "excerpt": "A Kansas soldier that happened to be driving his car on the bridge, waiting in traffic, realized that an active shooter was ahead of him, and so the soldier opted to navigate his car out of traffic and steered directly toward the shooter,",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/01/heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars/",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed17cfd1234f60007ce207c%2F0x0.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": "Heroic Kansas Soldier Runs Over Active Shooter, Saves Lives, Vital Implications For AI And Self-Driving Cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/01/heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/01/heroic-kansas-soldier-runs-over-active-shooter-saves-lives-vital-implications-for-ai-and-self-driving-cars/amp/",
+      "publishedDateTime": "2020-06-01T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-creating-a-music-genre-model-with-your-own-data-in-aws-deepcomposer.md",
+      "title": "Creating a music genre model with your own data in AWS DeepComposer",
+      "excerpt": "AWS DeepComposer is an educational AWS service that teaches generative AI and uses Generative Adversarial Networks (GANs) to transform a melody that you provide into a completely original song. With AWS DeepComposer, you can use one of the pre-trained music genre models (such as Jazz, Rock, Pop, Symphony,",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-music-genre-model-with-your-own-data-in-aws-deepcomposer/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/28/music-genre-2.gif",
+          "width": 500,
+          "height": 415,
+          "title": "Creating a music genre model with your own data in AWS DeepComposer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T07:48:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-ai-news-index-replacing-workers-or-creating-jobs.md",
+      "title": "AI News Index: Replacing Workers Or Creating Jobs?",
+      "excerpt": "Recent surveys, studies, forecasts and other quantitative assessments of AI highlight the impact of robots on jobs and the widespread adoption of AI in enterprises worldwide",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/06/01/ai-news-index-replacing-workers-or-creating-jobs/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed25e873c7e9c000678ef1d%2F0x0.jpg",
+          "width": 1200,
+          "height": 590,
+          "title": "AI News Index: Replacing Workers Or Creating Jobs?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/06/01/ai-news-index-replacing-workers-or-creating-jobs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/06/01/ai-news-index-replacing-workers-or-creating-jobs/amp/",
+      "publishedDateTime": "2020-06-01T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-balancing-privacy-concerns-around-facial-recognition.md",
+      "title": "Balancing Privacy Concerns Around Facial Recognition",
+      "excerpt": "There has been recent global uproar around facial recognition technology and whether it’s ethically sound. Its use without citizen consent could have potential safety benefits but is undoubtedly a violation of privacy and does in fact need stronger policy reinforcement.",
+      "webUrl": "https://www.forbes.com/sites/jumio/2020/06/01/balancing-privacy-concerns-around-facial-recognition/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ece9f9599211e00077b6791%2F0x0.jpg",
+          "width": 600,
+          "height": 300,
+          "title": "Balancing Privacy Concerns Around Facial Recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jumio/2020/06/01/balancing-privacy-concerns-around-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jumio/2020/06/01/balancing-privacy-concerns-around-facial-recognition/amp/",
+      "publishedDateTime": "2020-06-01T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-amazon-backed-voice-ai-startup-definedcrowd-raises-505-million.md",
+      "title": "Amazon-backed voice AI startup DefinedCrowd raises $50.5 million",
+      "excerpt": "DefinedCrowd, an Amazon.com-backed startup that provides data sets to train artificially intelligent speech programs, is setting its sights on a public listing in the next five years as voice interact",
+      "webUrl": "https://www.union-bulletin.com/seattle_times/amazon-backed-voice-ai-startup-definedcrowd-raises-50-5-million/article_3051f031-b0c3-5514-8263-088b3173f5b8.html",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Walla Walla Union Bulletin",
+        "domain": "union-bulletin.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-aws-facial-recognition-tool-incorrectly-matches-over-100-politicians-with-criminals.md",
+      "title": "AWS Facial Recognition Tool Incorrectly Matches Over 100 Politicians With Criminals",
+      "excerpt": "Amazon facial recognition tool Rekognition incorrectly matched over 100 UK and US politicians with police mugshots, tests found. re",
+      "webUrl": "https://www.cbronline.com/news/aws-facial-recognition-tool",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cbronline.com/wp-content/uploads/2020/05/rekognition-1024x680.jpg",
+          "width": 1024,
+          "height": 680,
+          "title": "AWS Facial Recognition Tool Incorrectly Matches Over 100 Politicians With Criminals",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbronline.com/news/aws-facial-recognition-tool/amp/",
+      "cdnAmpWebUrl": "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/aws-facial-recognition-tool/amp/",
+      "publishedDateTime": "2020-06-01T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Business Review",
+        "domain": "cbronline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
+      "webUrl": "https://www.marketwatch.com/press-release/scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-2020-06-01",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots.md",
+      "title": "Otto Motors raises $29 million to staff warehouses with autonomous mobile robots",
+      "excerpt": "Otto Motors, a subsidiary of Clearpath Robotics that supplies autonomous mobile robots to manufacturing and logistics customers, has raised $29 million.",
+      "webUrl": "https://venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/",
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ca755715-d887-4359-bd57-e892aae745b1-e1590608171366.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Otto Motors raises $29 million to staff warehouses with autonomous mobile robots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/otto-motors-raises-29-million-to-staff-warehouses-with-autonomous-mobile-robots/amp/",
+      "publishedDateTime": "2020-06-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-13-ways-microsoft-azure-beats-aws.md",
+      "title": "13 ways Microsoft Azure beats AWS",
+      "excerpt": "From Visual Studio integration to powerful machine learning APIs, you have more than a dozen reasons to choose Azure over AWS",
+      "webUrl": "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.html",
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/02/cloud_comput_connect_blue-100787048-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "13 ways Microsoft Azure beats AWS",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3319777/13-ways-microsoft-azure-beats-aws.amp.html",
+      "publishedDateTime": "2020-06-01T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-robot-helps-sk-telecom-disinfect-detect-gatherings-and-check-employee-temperatures.md",
+      "title": "Robot helps SK Telecom disinfect, detect gatherings, and check employee temperatures",
+      "excerpt": "A robot equipped with cameras and LED screen greets visitors at the lobby, checking their temperature, dispensing hand sanitiser and disinfecting the floor.",
+      "webUrl": "https://venturebeat.com/2020/06/01/robot-helps-sk-telecom-disinfect-detect-gatherings-and-check-employee-temperatures/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Untitled.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 695,
+          "title": "Robot helps SK Telecom disinfect, detect gatherings, and check employee temperatures",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/01/robot-helps-sk-telecom-disinfect-detect-gatherings-and-check-employee-temperatures/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/robot-helps-sk-telecom-disinfect-detect-gatherings-and-check-employee-temperatures/amp/",
+      "publishedDateTime": "2020-06-01T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-remember-s-voice-samsung-is-finally-shutting-it-down.md",
+      "title": "Remember S Voice? Samsung is finally shutting it down",
+      "excerpt": "Samsung introduced its Bixby voice assistant back in 2017, and it’s served as the first-party assistant on Samsung gadgets ever since. But this wasn’t Samsung’s first voice assistant, as that would be S Voice.",
+      "webUrl": "https://www.androidauthority.com/samsung-s-voice-dead-1124561/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/02/samsung-galaxy-s20-logo-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Remember S Voice? Samsung is finally shutting it down",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/samsung-s-voice-dead-1124561/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/samsung-s-voice-dead-1124561/amp/",
+      "publishedDateTime": "2020-06-01T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-jeff-bezos-is-buying-a-stake-in-uk-digital-supply-chain-startup-beacon.md",
       "title": "Jeff Bezos is buying a stake in UK digital supply chain startup Beacon",
       "excerpt": "Based in London and founded in 2018, Beacon's investors already include executives from Uber, Google and Amazon, the firm says.",
@@ -268,823 +1079,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-chinese-tech-giant-baidu-chooses-europe-for-driverless-car-push.md",
-      "title": "Chinese tech giant Baidu chooses Europe for driverless car push",
-      "excerpt": "\"AI (artificial intelligence) technology has huge potential to promote social development, and one of AI's biggest opportunities lies in intelligent vehicles,\" said Qi Lu, chief operating officer ...",
-      "webUrl": "https://www.cnbc.com/2017/06/01/chinese-tech-giant-baidu-chooses-europe-for-driverless-car-push.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104324500-GettyImages-458949014.jpg?v=1529474405",
-          "width": 1024,
-          "height": 767,
-          "title": "Chinese tech giant Baidu chooses Europe for driverless car push",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer.md",
-      "title": "'It's fundamental': Graphcore CEO believes new kinds of AI will prove the worth of a new kind of computer",
-      "excerpt": "Graphcore, the four-year-old startup based in Bristol, England, has a chip that takes the kinds of math that a neural network processes and splits them across 1,216 tiny computers, each of which does its work in parallel with its brethren.",
-      "webUrl": "https://www.zdnet.com/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/31/d262fc29-e229-4d74-ab42-89e55b45ba5a/thumbnail/1200x675/e45b9da0b744d2b665aa2cd44166a115/nigel-toon-ceo-graphcore-may-2020.png",
-          "width": 1200,
-          "height": 675,
-          "title": "'It's fundamental': Graphcore CEO believes new kinds of AI will prove the worth of a new kind of computer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
-      "publishedDateTime": "2020-05-31T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-microsoft-replaces-msn-journalists-with-ai-robots.md",
-      "title": "Microsoft Replaces MSN Journalists With AI Robots",
-      "excerpt": "In a nightmare come true, Microsoft is letting go dozens of news editors at Microsoft News in favour of artificial intelligence (AI), according to The Guardian. For those unaware,",
-      "webUrl": "https://www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techworm.net/wp-content/uploads/2020/05/ai.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft Replaces MSN Journalists With AI Robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html/amp",
-      "cdnAmpWebUrl": "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/05/microsoft-msn-journalists-ai-robots.html/amp",
-      "publishedDateTime": "2020-05-31T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techworm.net",
-        "domain": "techworm.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-tempus-launches-new-precision-medicine-driven-tests-tempushrd-and-tempusto.md",
-      "title": "Tempus Launches New Precision Medicine-Driven Tests: Tempus|HRD and Tempus|TO",
-      "excerpt": "CHICAGO, May 31, 2020 (GLOBE NEWSWIRE) -- Tempus, a technology company advancing precision medicine through the practical application of artificial intelligence in healthcare, announced the launch ...",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/05/31/2041232/0/en/Tempus-Launches-New-Precision-Medicine-Driven-Tests-Tempus-HRD-and-Tempus-TO.html",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-31T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-microsoft-choosing-ai-to-run-msn-not-journalists.md",
-      "title": "Microsoft Choosing AI to Run MSN, Not Journalists",
-      "excerpt": "MSN is shifting to a model that relies on artificial intelligence to curate news stories, and thus Microsoft plans to release nearly 80 contractors in the United States and the United Kingdom.",
-      "webUrl": "https://www.pcmag.com/news/microsoft-choosing-ai-to-run-msn-not-journalists",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01gTtUbnAcODQpqKvl1hAxp-1.fit_lim.size_1200x630.v_1590929689.png",
-          "width": 1120,
-          "height": 630,
-          "title": "Microsoft Choosing AI to Run MSN, Not Journalists",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/microsoft-choosing-ai-to-run-msn-not-journalists?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-choosing-ai-to-run-msn-not-journalists?amp=true",
-      "publishedDateTime": "2020-05-31T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-how-investment-in-ai-robotics-will-impact-middle-east-economies.md",
-      "title": "How investment in AI, robotics will impact Middle East economies",
-      "excerpt": "Even though there are others in the realm of emerging technologies, AI and RPA seem to grab most of the headlines largely due to nature of impact they tend to have on organisational efficiencies and customer experience.",
-      "webUrl": "https://www.zawya.com/saudi-arabia/en/wealth/story/How_investment_in_AI_robotics_will_impact_Middle_East_economies-SNG_175769350/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "How investment in AI, robotics will impact Middle East economies",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/SNG_175769350/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/SNG_175769350/",
-      "publishedDateTime": "2020-05-30T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-thanks-to-renewables-and-machine-learning-google-now-forecasts-the-wind.md",
-      "title": "Thanks To Renewables And Machine Learning, Google Now Forecasts The Wind",
-      "excerpt": "Using machine learning, they have been able to better predict wind production, better predict electricity supply and demand, and as a result, reduce operating costs. “What we've been doing is working in partnership with the DeepMind team to use machine learning to take the weather data that's available publicly, actually forecast what we ...",
-      "webUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/05/31/thanks-to-renewables-and-machine-learning-google-now-forecasts-the-wind/",
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1215156082%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Thanks To Renewables And Machine Learning, Google Now Forecasts The Wind",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/05/31/thanks-to-renewables-and-machine-learning-google-now-forecasts-the-wind/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffmcmahon/2020/05/31/thanks-to-renewables-and-machine-learning-google-now-forecasts-the-wind/amp/",
-      "publishedDateTime": "2020-05-30T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere.md",
-      "title": "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere",
-      "excerpt": "With support for edge devices and Azure Sphere, IoT Central can now address new scenarios making it the most versatile SaaS-based IoT solution.",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/",
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed31bf63c7e9c000678f8ad%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": "Microsoft Expands Azure IoT Central To Edge Devices Including Azure Sphere",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/05/30/microsoft-expands-azure-iot-central-to-edge-devices-including-azure-sphere/amp/",
-      "publishedDateTime": "2020-05-30T19:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-gender-bias-in-predictive-algorithms-how-applied-ai-research-can-help-us-build-a-more-equitable-future.md",
-      "title": "Gender Bias In Predictive Algorithms: How Applied AI Research Can Help Us Build A More Equitable Future",
-      "excerpt": "AI research conducted through a gendered lens helps us to imagine how these advanced technologies can be used to achieve a seemingly impossible feat - eliminating bias.",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/30/gender-bias-in-predictive-algorithms/",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed30063b8ac0f0006007345%2F0x0.jpg",
-          "width": 1000,
-          "height": 671,
-          "title": "Gender Bias In Predictive Algorithms: How Applied AI Research Can Help Us Build A More Equitable Future",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/30/gender-bias-in-predictive-algorithms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/30/gender-bias-in-predictive-algorithms/amp/",
-      "publishedDateTime": "2020-05-30T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-31-a-closer-look-at-deepmind-the-google-ai-thats-mastering-starcraft-2.md",
-      "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
-      "excerpt": "May 31, 2020 This feature was originally published in January 2019. You’d be forgiven for assuming that DeepMind’s artificial intelligence technology has already proven its chops. Back in ...",
-      "webUrl": "https://www.pcgamesn.com/starcraft-2/deepmind-google?amp",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2019/01/starcraft-2-deepmind-commentators-900x506.jpg",
-          "width": 900,
-          "height": 506,
-          "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamesn.com/starcraft-2/deepmind-google?amp",
-      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/starcraft-2/deepmind-google?amp",
-      "publishedDateTime": "2020-05-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-30-microsoft-cuts-dozens-of-staff-as-it-shifts-to-ai-for-msn-news-stories.md",
-      "title": "Microsoft cuts dozens of staff as it shifts to AI for MSN news stories",
-      "excerpt": "Workforce automation is about to cost dozens of news contractors their jobs. The Seattle Times and The Guardian report that Microsoft is letting go of dozens of news contractors (about 50 in the US, 27 in the UK) after June 30th due to a shift to AI news production on MSN.",
-      "webUrl": "https://www.engadget.com/microsoft-msn-news-jobs-cuts-due-to-ai-230620807.html",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F77552a90-a2b2-11ea-8fb3-a06b72cb410c&client=amp-blogside-v2&signature=216f5ed49c68fd2fdbd1101a5797fe95635f0dd0",
-          "width": 600,
-          "height": 350,
-          "title": "Microsoft cuts dozens of staff as it shifts to AI for MSN news stories",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/microsoft-msn-news-jobs-cuts-due-to-ai-230620807.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-msn-news-jobs-cuts-due-to-ai-230620807.html",
-      "publishedDateTime": "2020-05-30T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-30-ai-startup-combines-mouse-neurons-with-silicon-chips-to-make-computers-smarter-faster.md",
-      "title": "AI Startup Combines Mouse Neurons With Silicon Chips To Make Computers Smarter, Faster",
-      "excerpt": "There aren’t many computer chips that you have to build a life support system for. But when you’re combining actual living brain cells with inorganic silicon chips, you can’t feed them just electricity.",
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/05/30/ai-startup-combines-mouse-neurons-with-silicon-chips-to-make-computers-smarter-faster/",
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/05/30/ai-startup-combines-mouse-neurons-with-silicon-chips-to-make-computers-smarter-faster/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/05/30/ai-startup-combines-mouse-neurons-with-silicon-chips-to-make-computers-smarter-faster/amp/",
-      "publishedDateTime": "2020-05-30T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-30-waymos-self-driving-minivans-will-return-to-california-streets-in-june.md",
-      "title": "Waymo's self-driving minivans will return to California streets in June",
-      "excerpt": "The Alphabet-owned company shut down a public testing program for its self-driving minivans in early March, as the global pandemic started to reshape society in the United States. Now that fleet will reportedly return to the streets of San Francisco on June 8.",
-      "webUrl": "https://mashable.com/article/waymo-self-driving-san-francisco-package-delivery/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F05%252F30%252Feb%252F5e5b46aaedeb47c0b739f26f3fd553e9.74557.jpg%252F1200x630.jpg?signature=xUO9hqK5LNlxZPLg539Vi6Hjo-s=",
-          "width": 1200,
-          "height": 630,
-          "title": "Waymo's self-driving minivans will return to California streets in June",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/waymo-self-driving-san-francisco-package-delivery.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-self-driving-san-francisco-package-delivery.amp",
-      "publishedDateTime": "2020-05-30T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-30-microsoft-lays-off-journalists-to-replace-them-with-ai.md",
-      "title": "Microsoft lays off journalists to replace them with AI",
-      "excerpt": "Microsoft is laying off dozens of journalists and editorial workers at its Microsoft News and MSN organizations. The layoffs are part of a bigger push by Microsoft to rely on artificial intelligence to pick news and content that’s presented on MSN.",
-      "webUrl": "https://www.theverge.com/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements",
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/OQ1cQ3E_SYrS9YZz-esPG3MaYgM=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66875825/acastro_180507_1777_microsoft_0002.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Microsoft lays off journalists to replace them with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements",
-      "publishedDateTime": "2020-05-30T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-30-this-indian-start-up-is-using-ai-to-monitor-covid-19-progression-inside-patients.md",
-      "title": "This Indian Start-Up Is Using AI To Monitor COVID-19 Progression Inside Patients",
-      "excerpt": "Ray in about a minute and provides details about whether a patient was getting better as a result of the treatments administered.",
-      "webUrl": "https://www.entrepreneur.com/article/351294",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1590832747-PrashantWarierQureai.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This Indian Start-Up Is Using AI To Monitor COVID-19 Progression Inside Patients",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351294",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351294",
-      "publishedDateTime": "2020-05-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-chicago-police-drop-clearview-facial-recognition-technology.md",
-      "title": "Chicago Police Drop Clearview Facial Recognition Technology",
-      "excerpt": "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns.",
-      "webUrl": "https://www.usnews.com/news/best-states/illinois/articles/2020-05-29/chicago-police-drop-clearview-facial-recognition-technology",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-29T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-tencent-invests-us70-billion-in-the-future-baidu-opens-worlds-largest-self-driving-car-test-ground.md",
-      "title": "Tencent invests US$70 billion in the future, Baidu opens world’s largest self-driving car test ground",
-      "excerpt": "A wrap up of our leading stories this past week including Tencent’s plan to invest US$70 billion in digital infrastructure and Baidu’s new testing ground for self-driving cars",
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3086719/tencent-invests-us70-billion-future-baidu-opens-worlds-largest-self",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/30/11b11052-a189-11ea-8055-0ae12e466049_image_hires_063234.jpg?itok=_xOpHMiz&v=1590791565",
-          "width": 1200,
-          "height": 630,
-          "title": "Tencent invests US$70 billion in the future, Baidu opens world’s largest self-driving car test ground",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3086719/tencent-invests-us70-billion-future-baidu-opens-worlds-largest-self",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3086719/tencent-invests-us70-billion-future-baidu-opens-worlds-largest-self",
-      "publishedDateTime": "2020-05-29T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-new-ai-technique-speeds-up-language-models-on-edge-devices.md",
-      "title": "New AI technique speeds up language models on edge devices",
-      "excerpt": "Researchers at the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and MIT-IBM Watson AI Lab recently proposed Hardware-Aware Transformers (HAT), an AI model training technique that incorporates Google’s Transformer architecture.",
-      "webUrl": "https://venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "New AI technique speeds up language models on edge devices",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/amp/",
-      "publishedDateTime": "2020-05-29T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-as-wildfire-season-approaches-ai-could-pinpoint-risky-regions-using-satellite-imagery.md",
-      "title": "As wildfire season approaches, AI could pinpoint risky regions using satellite imagery",
-      "excerpt": "The U.S. has suffered from devastating wildfires over the last few years as global temperatures rise and weather patterns change, making the otherwise natural phenomenon especially unpredictable and severe.",
-      "webUrl": "https://techcrunch.com/2020/05/29/as-wildfire-season-approaches-ai-could-pinpoint-risky-regions-using-satellite-imagery/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/cal-fire-view.jpg?w=1024",
-          "width": 1024,
-          "height": 689,
-          "title": "As wildfire season approaches, AI could pinpoint risky regions using satellite imagery",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/29/as-wildfire-season-approaches-ai-could-pinpoint-risky-regions-using-satellite-imagery/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/29/as-wildfire-season-approaches-ai-could-pinpoint-risky-regions-using-satellite-imagery/amp/",
-      "publishedDateTime": "2020-05-29T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

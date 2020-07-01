@@ -27,21 +27,21 @@ images:
     title: "Amazon Acquires Self-Driving Startup Zoox Led By Black Female CEO for $1.2 Billion"
 
 related:
-  - title: "Elon Musk trolls Jeff Bezos calling him a copy cat after Amazon acquires self-driving-car startup Zoox"
-    excerpt: "The Tesla CEO tweeted a cat emoji at Bezos on Friday after Amazon took another step into the autonomous-driving world."
-    publishedDateTime: 2020-06-26T19:57:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp"
+  - title: "Amazon’s Jeff Bezos ‘copies’ Tesla’s Elon Musk again; this time for buying a self-driving startup"
+    excerpt: "Taking a dig at Amazon’s Jeff Bezos for acquiring self-driving startup Zoox, electric vehicle maker Tesla (also working on self-driving vehicles) CEO Elon Musk on Friday called him a ‘copycat’ on Twitter."
+    publishedDateTime: 2020-06-28T07:23:00Z
+    webUrl: "https://www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/"
+    ampWebUrl: "https://www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/lite/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 61
     images:
-      - url: "https://i.insider.com/5dc17beb7eece50907358663?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://images.financialexpress.com/2020/05/elon-1.jpg"
+        width: 660
+        height: 440
         isCached: true
   - title: "Elon Musk trolls Jeff Bezos, calling him a copycat after Amazon acquires self-driving-car startup Zoox"
     excerpt: "The Tesla CEO tweeted a cat emoji at Bezos on Friday after Amazon took another step into the autonomous-driving world."
@@ -59,34 +59,46 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "5 key takeaways from Amazon's $1 billion acquisition of self-driving startup Zoox"
-    excerpt: "Analysts say the Zoox acquisition gives a good look into Amazon's thinking over a number of different areas, including delivery and M&A strategies."
-    publishedDateTime: 2020-06-26T18:59:00Z
-    webUrl: "https://www.businessinsider.com/amazons-1-billion-zoox-acquisition-5-takeaways-on-what-it-means-2020-6"
+  - title: "Amazon Looks to Self-Driving Future by Acquiring Zoox"
+    excerpt: "Amazon says it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will pull up without a driver."
+    publishedDateTime: 2020-06-27T23:07:00Z
+    webUrl: "https://www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox"
+    ampWebUrl: "https://www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox?context=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/5ef21a1619182402da2ee234?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Amazon acquires self-driving car startup as demand stays hot for autonomous delivery"
-    excerpt: "Zoox technology supports autonomous ride-hailing service for passengers, although sector faces infrastructure and regulation challenges, AMR says."
-    publishedDateTime: 2020-06-29T17:19:00Z
-    webUrl: "https://www.dcvelocity.com/articles/46418-amazon-acquires-self-driving-car-startup-as-demand-stays-hot-for-autonomous-delivery"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
+  - title: "Amazon Agrees to Buy Self-Driving Technology Startup Zoox"
+    excerpt: "The world's largest online retailer has stepped up its investment in the car sector, participating in self-driving car startup Aurora Innovation Inc's $530 million funding round early last year. While Amazon and Zoox did not disclose the financial terms of the deal,"
+    publishedDateTime: 2020-06-27T23:08:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2020-06-26/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-the-information"
     type: article
     provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 17
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202006/zoox-Screen-Shot-2020-06-29-at-111405-AM.png?height=1200&t=1593449930&width=635"
-        width: 635
-        height: 637
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
+  - title: "Why Elon Musk Taunted Bezos For Being A Copycat In Amazon’s Buyout Of Zoox, An Autopilot-Like Self-Driving Car Stalwart"
+    excerpt: "It is time to blare the trumpets and roll out the red carpet for some good old-fashioned maxims that explain the recent announcement of mighty Amazon buying comparatively petite Zoox, a notable self-driving car maker known primarily to Autonomous Vehicle (AV) insiders (for my coverage,"
+    publishedDateTime: 2020-06-28T17:43:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 30
+  - title: "Amazon looks to self-driving future by acquiring Zoox"
+    excerpt: "Industry analysts think the online retailing giant's ultimate goal is to repurpose the Zoox vehicle for its core business, delivering packages to shoppers."
+    publishedDateTime: 2020-06-29T07:06:00Z
+    webUrl: "https://www.djc.com/news/bu/12133184.html"
+    type: article
+    provider:
+      name: Seattle Daily Journal of Commerce
+      domain: djc.com
+    quality: 4
 
 secured: "hQFatHFv9xZ78iINHtYqbl3ixHzy4NfHQ8DHH3tFqjCXLERKXacuLQhAWMU2SR2ks2y+kUQ2FZwziv/up5cHpQuWr4+PUCB3MmQaG6P0VBnxHjbjZwhsXfh+Xhc2AEybiLbKLU2tO8KcBnLKh99TuhHttLThdfbAcfeckhas6QKSzmZ6fj3Q9WfoqrLqlB2OSqHc6OBvPXzZ0Pha44fi4Zc2N/x+/vWkz7GieU1kJWBx2zCRGWQCsNbUrNZSt24sEJqUHHozkie7SxSaR7OitAzpp2WW0uV6z8KBY4ojR13WfsRKb6SBmLdmKQ2Pj8+SH61k8ebKmvcLl+FQZOrldk70WjTBeXl9d3z6H2DaT08x0TibXqg5wP8QAkAwXf+0+KiO4O/Huk42nPoxpHeEUeCQDRrnNfYOfiPWR8JyINM+4qs2+FwKTTcxDwtJ3iNuoDfx+TmHVR5FqGuiAg0+S2cuHrMLKT6ZbcxTpvi+jxKNLF4ZSBE301pfG3VE+XNnCOKEYklzPOFM739Qfi/YOw==;vfzqAfAse5wgx6BYIb6sOQ=="
 ---

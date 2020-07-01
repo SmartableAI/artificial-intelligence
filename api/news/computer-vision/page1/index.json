@@ -2,11 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-01-in-the-blackest-city-in-america-a-fight-to-end-facial-recognition.md",
+      "title": "In 'the Blackest city in America,' a fight to end facial recognition",
+      "excerpt": "Activists say facial recognition and its racial bias have no place in Detroit, a city that boasts the highest percentage of Black residents in the US.",
+      "webUrl": "https://www.cnet.com/news/in-the-blackest-city-in-america-a-fight-to-end-facial-recognition/",
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/U4mP_-rt6ZiOcOSW9GGJyC_iFa8=/756x567/2020/06/29/30d88944-0d4e-4dae-a68e-c3477dd7d227/gettyimages-1217491940.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "In 'the Blackest city in America,' a fight to end facial recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/in-the-blackest-city-in-america-a-fight-to-end-facial-recognition/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/in-the-blackest-city-in-america-a-fight-to-end-facial-recognition/",
+      "publishedDateTime": "2020-07-01T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-acm-calls-for-governments-and-businesses-to-stop-using-facial-recognition.md",
+      "title": "ACM calls for governments and businesses to stop using facial recognition",
+      "excerpt": "ACM, one of the largest computer science orgs in the world, today called for the halt of facial recognition use by governments and businesses in the U.S.",
+      "webUrl": "https://venturebeat.com/2020/06/30/acm-calls-for-governments-and-businesses-to-stop-using-facial-recognition/",
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ACM calls for governments and businesses to stop using facial recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/30/acm-calls-for-governments-and-businesses-to-stop-using-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/acm-calls-for-governments-and-businesses-to-stop-using-facial-recognition/amp/",
+      "publishedDateTime": "2020-06-30T16:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-tech-companies-want-facial-recognition-laws-but-maybe-not-this-one.md",
       "title": "Tech companies want facial recognition laws, but maybe not this one",
       "excerpt": "Lawmakers introduced legislation that would put an indefinite ban on facial recognition for police use. Not everyone's a fan.",
       "webUrl": "https://www.cnet.com/news/tech-companies-want-facial-recognition-laws-but-maybe-not-this-one/",
-      "heat": 119,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -29,6 +123,53 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time.md",
+      "title": "Detroit Police Chief: Facial Recognition Software Misidentifies 96% of the Time",
+      "excerpt": "In a public meeting Monday, Detroit Police Chief James Craig admitted that the technology, developed by a company called DataWorks Plus, almost never brings back a direct match and almost always misidentifies people.",
+      "webUrl": "https://www.vice.com/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time",
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5efa126c2093b800956fc9ee/lede/1593449761410-Screen-Shot-2020-06-29-at-125550-PM.png?crop=1xw:0.9864669421487603xh;center,center",
+          "width": 2122,
+          "height": 1193,
+          "title": "Detroit Police Chief: Facial Recognition Software Misidentifies 96% of the Time",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time",
+      "publishedDateTime": "2020-06-29T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -93,6 +234,45 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-28-ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology.md",
+      "title": "Ed Markey, Ayanna Pressley push for federal ban on facial recognition technology",
+      "excerpt": "Massachusetts Sen. Ed Markey and Rep. Ayanna Pressley are pushing to ban the federal government’s use of facial recognition technology, as Boston last week nixed the city use of the",
+      "webUrl": "https://www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2020/03/markeynl06.jpg?w=1024&h=755",
+          "width": 1024,
+          "height": 755,
+          "title": "Ed Markey, Ayanna Pressley push for federal ban on facial recognition technology",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/amp/",
+      "publishedDateTime": "2020-06-28T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1144,176 +1324,6 @@
       "provider": {
         "name": "UPI.com",
         "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids.md",
-      "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
-      "excerpt": "According to Russian business daily Vedomosti, a new facial recognition system coming to every school in the country has been ominously named \"Orwell.\"",
-      "webUrl": "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/people-of-color-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/amp/",
-      "publishedDateTime": "2020-06-17T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-equitable-tech-companies-pause-facial-recognition-but-major-questions-remain.md",
-      "title": "Equitable tech: Companies pause facial recognition, but major questions remain",
-      "excerpt": "In response to protest calling for police reform around the country, some of the biggest names in tech are taking a closer look at their facial recognition technologies.",
-      "webUrl": "https://www.techrepublic.com/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/17/c1454581-0581-4f64-9a34-6b1c4e7dbf59/resize/1200x/c4ecd1309d8c01046284dfd75d817e98/facial-recognition.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Equitable tech: Companies pause facial recognition, but major questions remain",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
-      "publishedDateTime": "2020-06-17T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing.md",
-      "title": "From Computer Vision To Deep Learning: How AI Is Augmenting Manufacturing",
-      "excerpt": "While machine vision has been around for more than 60 years, the recent surge in the popularity of deep learning has elevated this sometimes misunderstood technology to the attention of major manufacturers globally.",
-      "webUrl": "https://ctovision.com/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ctovision.com/wp-content/uploads/space.jpg",
-          "width": 632,
-          "height": 422,
-          "title": "From Computer Vision To Deep Learning: How AI Is Augmenting Manufacturing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-16T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ctovision.com",
-        "domain": "ctovision.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-wimi-hologram-cloud-nasdaqwimi-accelerates-development-in-the-field-of-computer-vision.md",
-      "title": "WIMI Hologram Cloud (NASDAQ:WIMI) Accelerates Development in the Field Of Computer Vision",
-      "excerpt": "WIMI Hologram Cloud (NASDAQ:WIMI), as a solution provider under 5G, has a leading AR holographic application platform in China, which is currently mainly used in",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/ab16258647/wimi-hologram-cloud-nasdaq-wimi-accelerates-development-in-the-field-of-computer-vision",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ibb.co/qMQqYD0/1.png",
-          "width": 522,
-          "height": 340,
-          "title": "WIMI Hologram Cloud (NASDAQ:WIMI) Accelerates Development in the Field Of Computer Vision",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16258647",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16258647",
-      "publishedDateTime": "2020-06-15T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

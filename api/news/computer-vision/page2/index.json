@@ -2,6 +2,176 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-17-meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids.md",
+      "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
+      "excerpt": "According to Russian business daily Vedomosti, a new facial recognition system coming to every school in the country has been ominously named \"Orwell.\"",
+      "webUrl": "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/people-of-color-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/amp/",
+      "publishedDateTime": "2020-06-17T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-equitable-tech-companies-pause-facial-recognition-but-major-questions-remain.md",
+      "title": "Equitable tech: Companies pause facial recognition, but major questions remain",
+      "excerpt": "In response to protest calling for police reform around the country, some of the biggest names in tech are taking a closer look at their facial recognition technologies.",
+      "webUrl": "https://www.techrepublic.com/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/17/c1454581-0581-4f64-9a34-6b1c4e7dbf59/resize/1200x/c4ecd1309d8c01046284dfd75d817e98/facial-recognition.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Equitable tech: Companies pause facial recognition, but major questions remain",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
+      "publishedDateTime": "2020-06-17T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing.md",
+      "title": "From Computer Vision To Deep Learning: How AI Is Augmenting Manufacturing",
+      "excerpt": "While machine vision has been around for more than 60 years, the recent surge in the popularity of deep learning has elevated this sometimes misunderstood technology to the attention of major manufacturers globally.",
+      "webUrl": "https://ctovision.com/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ctovision.com/wp-content/uploads/space.jpg",
+          "width": 632,
+          "height": 422,
+          "title": "From Computer Vision To Deep Learning: How AI Is Augmenting Manufacturing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-16T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ctovision.com",
+        "domain": "ctovision.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-wimi-hologram-cloud-nasdaqwimi-accelerates-development-in-the-field-of-computer-vision.md",
+      "title": "WIMI Hologram Cloud (NASDAQ:WIMI) Accelerates Development in the Field Of Computer Vision",
+      "excerpt": "WIMI Hologram Cloud (NASDAQ:WIMI), as a solution provider under 5G, has a leading AR holographic application platform in China, which is currently mainly used in",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/ab16258647/wimi-hologram-cloud-nasdaq-wimi-accelerates-development-in-the-field-of-computer-vision",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ibb.co/qMQqYD0/1.png",
+          "width": 522,
+          "height": 340,
+          "title": "WIMI Hologram Cloud (NASDAQ:WIMI) Accelerates Development in the Field Of Computer Vision",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16258647",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16258647",
+      "publishedDateTime": "2020-06-15T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge.md",
       "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
       "excerpt": "Alternatively, there’s color night vision for a more surreptitious view of the garden, porch, or whatever else you might point the camera at. Much the same way, the built-in siren can be automatically triggered or done manually through the app. There’s also two-way audio support. Motion detection uses computer vision to filter out the ...",
@@ -1111,185 +1281,6 @@
         "name": "Geeky Gadgets",
         "domain": "geeky-gadgets.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-roborock-s6-maxv-review-it-can-find-and-avoid-your-socks.md",
-      "title": "Roborock S6 MaxV Review: It can find and avoid your socks",
-      "excerpt": "It’s worth a look if you don’t need (or want) high-end room-mapping and object-recognition features. There’s a lot of tech crammed into this one, so it would be no surprise for people to be ...",
-      "webUrl": "https://www.digitaltrends.com/smart-home-reviews/roborock-s6-maxv-review/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn9.digitaltrends.com/image/digitaltrends/roborock-s6-maxv-review-4-of-6-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Roborock S6 MaxV Review: It can find and avoid your socks",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/smart-home-reviews/roborock-s6-maxv-review/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/smart-home-reviews/roborock-s6-maxv-review/?amp",
-      "publishedDateTime": "2020-06-08T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-caltech-researchers-discover-the-brain-uses-a-mathematical-system-to-organize-what-you-see.md",
-      "title": "Caltech Researchers Discover the Brain Uses a Mathematical System to Organize What You See",
-      "excerpt": "Now, Caltech researchers have combined tools from machine learning and neuroscience to discover that the brain uses a mathematical system to organize visual objects according to their principal components.",
-      "webUrl": "https://www.pasadenanow.com/main/wp-admin/admin-ajax.php?action=times_process_times_vote&nonce=30f162dd2e&post_id=480727&disabled=true&is_comment=false",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pasadenanow.com/main/wp-content/uploads/2020/06/41586_2020_2350_Fig4_crop.max828.jpg",
-          "width": 400,
-          "height": 303,
-          "title": "Caltech Researchers Discover the Brain Uses a Mathematical System to Organize What You See",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-07T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pasadena Now",
-        "domain": "pasadenanow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state.md",
-      "title": "California blocks bill that could’ve led to a facial recognition police-state",
-      "excerpt": "Californian lawmakers have blocked a bill that would have expanded facial recognition surveillance across the state -- including by police",
-      "webUrl": "https://thenextweb.com/neural/2020/06/04/california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-63-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "California blocks bill that could’ve led to a facial recognition police-state",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/04/california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/04/california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state/amp/",
-      "publishedDateTime": "2020-06-04T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-police-facial-recognition-tech-could-misidentify-people-at-protests-experts-say.md",
-      "title": "Police facial recognition tech could misidentify people at protests, experts say",
-      "excerpt": "How? If the police force in your area is using any kind of facial recognition software to identify protesters, it’s possible you could be misidentified as one. Most facial recognition was ...",
-      "webUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/protest-2020-getty-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Police facial recognition tech could misidentify people at protests, experts say",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp",
-      "publishedDateTime": "2020-06-03T17:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

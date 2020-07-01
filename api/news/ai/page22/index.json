@@ -2,6 +2,852 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-06-09-aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge.md",
+      "title": "Aruba rolls out AI-powered, cloud native platform for the network edge",
+      "excerpt": "The Aruba ESP (Edge Services Platform) uses AIOps, Zero Trust network security and a unified infrastructure approach to improve services at the network edge.",
+      "webUrl": "https://www.zdnet.com/article/aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/08/f9a79f50-c3f5-4edc-b9dc-260699e37d1e/thumbnail/1200x675/b872db662e3e175ae4e51774fbf33515/istock-9183650881.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Aruba rolls out AI-powered, cloud native platform for the network edge",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aruba-rolls-out-ai-powered-cloud-native-platform-for-the-network-edge/",
+      "publishedDateTime": "2020-06-09T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-cloud-storage-101-nas-file-storage-on-aws-azure-and-gcp.md",
+      "title": "Cloud storage 101: NAS file storage on AWS, Azure and GCP",
+      "excerpt": "We look at NAS file storage options in AWS, Azure and Google Cloud. All three offer native- and NetApp-based file storage with Azure adding single namespace cache services",
+      "webUrl": "https://www.computerweekly.com/feature/Cloud-storage-101-NAS-file-storage-on-AWS-Azure-and-GCP",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/feature/Cloud-storage-101-NAS-file-storage-on-AWS-Azure-and-GCP?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Cloud-storage-101-NAS-file-storage-on-AWS-Azure-and-GCP?amp=1",
+      "publishedDateTime": "2020-06-09T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-dow-jones-slumps-as-ibm-exits-facial-recognition-apple-set-to-unveil-custom-mac-chip.md",
+      "title": "Dow Jones Slumps as IBM Exits Facial Recognition, Apple Set to Unveil Custom Mac Chip",
+      "excerpt": "After a long rally driven partly by optimism surrounding the reopening of the U.S. economy, the Dow Jones Industrial Average (DJINDICES:\\^DJI) gave back some ground on Tuesday. The",
+      "webUrl": "https://www.fool.com/investing/2020/06/09/dow-jones-slumps-as-ibm-exits-facial-recognition-a.aspx",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F577974%2Fcamear.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Dow Jones Slumps as IBM Exits Facial Recognition, Apple Set to Unveil Custom Mac Chip",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/06/09/dow-jones-slumps-as-ibm-exits-facial-recognition-a.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/09/dow-jones-slumps-as-ibm-exits-facial-recognition-a.aspx",
+      "publishedDateTime": "2020-06-09T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-adlink-teams-with-intel-to-launch-roscube-i-ros-2-controller-to-realize-ai-robotics-at-the-edge.md",
+      "title": "ADLINK Teams with Intel to Launch ROScube-I ROS 2 Controller to Realize AI Robotics at the Edge",
+      "excerpt": "ADLINK Technology, a global leader in edge computing, has launched the ROScube-I with Intel, providing a real-time ROS 2 robot",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/adlink-teams-with-intel-to-launch-roscube-i-ros-2-controller-to-realize-ai-robotics-at-the-edge-1029293621",
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/adlink-teams-with-intel-to-launch-roscube-i-ros-2-controller-to-realize-ai-robotics-at-the-edge-1029293621",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/adlink-teams-with-intel-to-launch-roscube-i-ros-2-controller-to-realize-ai-robotics-at-the-edge-1029293621",
+      "publishedDateTime": "2020-06-09T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-seattle-startup-persona-pivots-and-seizes-on-video-chat-popularity-by-using-ai-to-curate-highlight-reels.md",
+      "title": "Seattle startup Persona pivots and seizes on video chat popularity by using AI to curate highlight reels",
+      "excerpt": "Persona, the platform initially built as way to make social media a more intimate way to share family memories, has pivoted during the pandemic to focus on video chat and capturing",
+      "webUrl": "https://www.geekwire.com/2020/seattle-startup-persona-pivots-seizes-video-chat-popularity-using-ai-curate-highlight-reels/",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/personavideo-630x400.png",
+          "width": 630,
+          "height": 400,
+          "title": "Seattle startup Persona pivots and seizes on video chat popularity by using AI to curate highlight reels",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-persona-pivots-seizes-video-chat-popularity-using-ai-curate-highlight-reels/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-persona-pivots-seizes-video-chat-popularity-using-ai-curate-highlight-reels/amp/",
+      "publishedDateTime": "2020-06-09T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-learn-now-pay-later-this-startup-teaches-coding-without-upfront-fee.md",
+      "title": "Learn Now, Pay Later: This Startup Teaches Coding, Without Upfront Fee",
+      "excerpt": "And so decide not to opt for upfront loans. Here is where Coding Ninjas, an ed-tech startup that solely focuses on teaching programming, has come in to ensure that its students first secure a job and then pay for the course.",
+      "webUrl": "https://www.entrepreneur.com/article/351648",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591712458-AnkushSinglaCo-founderCodingNinjas.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Learn Now, Pay Later: This Startup Teaches Coding, Without Upfront Fee",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351648",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351648",
+      "publishedDateTime": "2020-06-09T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-artificial-intelligence-chips-market-new-business-opportunities-and-investment-research-report.md",
+      "title": "Artificial Intelligence Chips Market | New Business Opportunities and Investment Research Report",
+      "excerpt": "Latest added Global Artificial Intelligence Chips Market research study by AMA Research offers detailed outlook and elaborates market review till 2025. The market Study is segmented by key regions that are accelerating the mercerization.",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-new-business-opportunities-and-investment-research-report-2020-06-09",
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Chips Market | New Business Opportunities and Investment Research Report",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-utilities-to-streamline-the-creation-and-evaluation-of-automl-algorithms.md",
+      "title": "Utilities to streamline the creation and evaluation of AutoML algorithms.",
+      "excerpt": "AutoML Utils. While machine learning is facing a reproducibility crisis, the problem is exacerbated in the subdiscipline of automated machine learning [1, 2] where the number of p",
+      "webUrl": "https://github.com/microsoft/automl_utils",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://avatars2.githubusercontent.com/u/6154722?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": "Utilities to streamline the creation and evaluation of AutoML algorithms.",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-artificial-intelligence-in-healthcare-market-worth-452-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence in Healthcare Market Worth $45.2 Billion by 2026 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "© 2020 Insider Inc. and finanzen.net GmbH All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ...",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293163",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293163",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293163",
+      "publishedDateTime": "2020-06-09T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-seeing-results-from-ai-even-during-covid19-recession.md",
+      "title": "Seeing Results From AI, Even During Covid19 Recession",
+      "excerpt": "By leveraging AI solutions, we can bring America back to its former glory, and instead transform the cause of sleepless nights from recession anxiety to the exhaustion of a memorable night out in the city that never sleeps.",
+      "webUrl": "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edf90b7fba0f200069291b4%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": "Seeing Results From AI, Even During Covid19 Recession",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/amp/",
+      "publishedDateTime": "2020-06-09T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-what-to-consider-before-introducing-ai-to-your-recruiting-process.md",
+      "title": "What To Consider Before Introducing AI To Your Recruiting Process",
+      "excerpt": "Before deciding to implement an AI recruiting platform, consider what business problem you’re trying to solve and how this technology would fit into your long-term business strategy.",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/06/09/what-to-consider-before-introducing-ai-to-your-recruiting-process/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ede5c3f718e880006f257cc%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "What To Consider Before Introducing AI To Your Recruiting Process",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/06/09/what-to-consider-before-introducing-ai-to-your-recruiting-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/06/09/what-to-consider-before-introducing-ai-to-your-recruiting-process/amp/",
+      "publishedDateTime": "2020-06-09T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-artificial-neural-networks-can-day-dreamheres-what-they-see.md",
+      "title": "Artificial Neural Networks Can Day Dream–Here's What They See",
+      "excerpt": "In a post yesterday on its blog, Google’s artificial neural networks research team explains how they’re building the kind of very advanced computer vision systems that are able to identify ...",
+      "webUrl": "https://gizmodo.com/these-are-the-incredible-day-dreams-of-artificial-neura-1712226908",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/1302697548119371923.png",
+          "width": 800,
+          "height": 539,
+          "title": "Artificial Neural Networks Can Day Dream–Here's What They See",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/these-are-the-incredible-day-dreams-of-artificial-neura-1712226908/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/these-are-the-incredible-day-dreams-of-artificial-neura-1712226908/amp",
+      "publishedDateTime": "2020-06-09T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-google-has-made-it-simple-for-anyone-to-tap-into-its-image-recognition-ai.md",
+      "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
+      "excerpt": "A lot of image recognition is about identifying patterns ... data to the frequency of specific brands of cars. Hopefully AutoML Vision will energize more projects like these.",
+      "webUrl": "https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uuscxid9fobckrwjepfk.png",
+          "width": 800,
+          "height": 431,
+          "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131/amp",
+      "publishedDateTime": "2020-06-09T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-lyfts-ipo-banks-big-on-self-driving-cars-shits-on-its-e-scooters.md",
+      "title": "Lyft's IPO Banks Big on Self-Driving Cars, Shits on Its E-Scooters",
+      "excerpt": "While the company is bullish about self-driving cars, Lyft doesn’t try to sugar-coat the risks of its electric-scooter and bike-sharing operations.",
+      "webUrl": "https://gizmodo.com/lyfts-ipo-banks-big-on-self-driving-cars-shits-on-its-1832990301",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/g5e3ylh7zbeolkeyburt.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Lyft's IPO Banks Big on Self-Driving Cars, Shits on Its E-Scooters",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/lyfts-ipo-banks-big-on-self-driving-cars-shits-on-its-1832990301/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lyfts-ipo-banks-big-on-self-driving-cars-shits-on-its-1832990301/amp",
+      "publishedDateTime": "2020-06-09T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-worlds-first-fully-bionic-mind-controlled-leg-goes-for-a-walk.md",
+      "title": "World's First Fully Bionic, Mind-Controlled Leg Goes for a Walk",
+      "excerpt": "The only difference is that one of his legs is a mind-controlled robot. Vawter is a \"test pilot\" for an Army-funded study on the latest in bionic limb technology. The leg that's been fitted to him ...",
+      "webUrl": "https://gizmodo.com/worlds-first-fully-bionic-mind-controlled-leg-goes-fo-1401152071",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/191culqr0ovixjpg.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "World's First Fully Bionic, Mind-Controlled Leg Goes for a Walk",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/worlds-first-fully-bionic-mind-controlled-leg-goes-fo-1401152071/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/worlds-first-fully-bionic-mind-controlled-leg-goes-fo-1401152071/amp",
+      "publishedDateTime": "2020-06-09T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-aspiring-intel-rival-graphcore-has-shipped-tens-of-thousands-of-ai-chips.md",
+      "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
+      "excerpt": "U.K. chip start-up Graphcore has leveraged relationships with Microsoft and Dell to ship chips to over 100 customers.",
+      "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143",
+          "width": 4328,
+          "height": 2906,
+          "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
+      "publishedDateTime": "2020-06-09T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-jsonar-raises-50-million-for-ai-powered-database-monitoring-products.md",
+      "title": "JSonar raises $50 million for AI-powered database monitoring products",
+      "excerpt": "JSonar, a database monitoring startup that leans heavily on AI and machine learning, has raised $50 million in venture capital.",
+      "webUrl": "https://venturebeat.com/2020/06/09/jsonar-raises-50-million-for-ai-powered-database-monitoring-products/",
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/3f9b168a-00dd-4b77-b5e5-e44edee178fe-e1591210411635.png?w=1200&#038;strip=all",
+          "width": 1028,
+          "height": 512,
+          "title": "JSonar raises $50 million for AI-powered database monitoring products",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/09/jsonar-raises-50-million-for-ai-powered-database-monitoring-products/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/jsonar-raises-50-million-for-ai-powered-database-monitoring-products/amp/",
+      "publishedDateTime": "2020-06-09T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-automotive-voice-recognition-system-market-by-technology-vehicle-type-size-opportunities-and-forecast-2020-2027.md",
+      "title": "Automotive Voice Recognition System Market By Technology, Vehicle Type, Size, Opportunities and Forecast, 2020 - 2027",
+      "excerpt": "As per the research held by Acumen Research and Consulting, \"the global Automotive Voice Recognition System market anticipated to exceed US$ 39 Bn by 2027, along with the projected CAGR of 21% from 2020 to 2027\".",
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-by-technology-vehicle-type-size-opportunities-and-forecast-2020---2027-2020-06-09",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automotive Voice Recognition System Market By Technology, Vehicle Type, Size, Opportunities and Forecast, 2020 - 2027",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices.md",
+      "title": "MIT's Artificial Brain-On-A-Chip Could Bring Supercomputing to Mobile Devices",
+      "excerpt": "What's smaller than a piece of confetti, covered in artificial synapses, and may change the future of artificial intelligence? MIT's new \"brain-on-a-chip,\" an engineering feat that could bring supercomputer smarts to mobile devices.",
+      "webUrl": "https://www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices",
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/04FkgpcwV9okJSJCoVxgupd-1.fit_lim.size_1200x630.v_1591701784.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": "MIT's Artificial Brain-On-A-Chip Could Bring Supercomputing to Mobile Devices",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/mits-artificial-brain-on-a-chip-could-bring-supercomputing-to-mobile-devices?amp=true",
+      "publishedDateTime": "2020-06-09T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-ibm-is-canceling-its-facial-recognition-programs.md",
       "title": "IBM is canceling its facial recognition programs",
       "excerpt": "IBM is a market leader in artificial intelligence. IBM Watson, its AI platform for businesses, is used by companies such as General Motors, KPMG and ESPN Fantasy Football. And its fast talking AI ...",
@@ -468,797 +1314,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-tcls-latest-tvs-in-india-can-be-controlled-just-by-voice.md",
-      "title": "TCL’s latest TVs in India can be controlled just by voice",
-      "excerpt": "The TCL P715 consists of several 4K smart TVs that start at Rs 39,990 and go all the way up to Rs 99,990. The company has not revealed the complete details of the series yet nor has it mentioned the number of TVs in the series.",
-      "webUrl": "https://www.techradar.com/news/tcls-latest-tvs-in-india-can-be-controlled-just-by-voice",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/b55BB7nWoWrwup7F7WftU-1200-80.jpg",
-          "width": 1070,
-          "height": 602,
-          "title": "TCL’s latest TVs in India can be controlled just by voice",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/tcls-latest-tvs-in-india-can-be-controlled-just-by-voice",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/tcls-latest-tvs-in-india-can-be-controlled-just-by-voice",
-      "publishedDateTime": "2020-06-09T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-chip-maker-tsmc-scores-subsidies-picks-site-for-us12-billion-us-plant.md",
-      "title": "Chip maker TSMC scores subsidies, picks site for US$12 billion US plant",
-      "excerpt": "TSMC, the main chip maker to Apple and Huawei Technologies, has moved closer to finalising a fabrication facility in Arizona to allay US security concerns and shift hi-tech manufacturing to America.",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/09/3118219e-aa29-11ea-bf1b-7541df8028ff_image_hires_165019.jpeg?itok=5FwrDhl-&v=1591692627",
-          "width": 1200,
-          "height": 630,
-          "title": "Chip maker TSMC scores subsidies, picks site for US$12 billion US plant",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
-      "publishedDateTime": "2020-06-09T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-new-machine-learning-approach-classifies-common-type-of-brain-tumor.md",
-      "title": "New machine learning approach classifies common type of brain tumor",
-      "excerpt": "A new machine learning approach classifies a common type of brain tumour into low or high grades with almost 98% accuracy, researchers report in the journal IEEE Access.",
-      "webUrl": "https://www.news-medical.net/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "New machine learning approach classifies common type of brain tumor",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
-      "publishedDateTime": "2020-06-09T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-renesas-sampling-vision-optimised-mcus.md",
-      "title": "Renesas sampling vision-optimised MCUs",
-      "excerpt": "The demand to have real-time, AI-based person and object recognition functionality in applications such as surveillance cameras for industrial and infrastructure as well as product scanners and POS terminal cameras has been growing rapidly. However ...",
-      "webUrl": "https://www.electronicsweekly.com/news/business/renesas-sampling-vision-optimised-mcus-2020-06/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.electronicsweekly.com/wp-content/uploads/2020/06/09081308/6CD14D93-5352-43A8-9791-BE74AE26C43E.jpeg",
-          "width": 1920,
-          "height": 1080,
-          "title": "Renesas sampling vision-optimised MCUs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-human-fighter-pilots-set-to-take-on-ai-drones-in-aerial-dogfights-in-2021.md",
-      "title": "Human fighter pilots set to take on AI drones in aerial dogfights in 2021",
-      "excerpt": "The first aerial showdown between a human fighter pilot and an autonomous aircraft is slated for July 2021, according to a fascinating interview with the outgoing Director of the US Department of Defense's Joint Artificial Intelligence Center (JAIC).",
-      "webUrl": "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/",
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/fd13dfd/2147483647/strip/true/crop/1585x1057+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcc%2F0c%2F447eb9b84769aa1af6ec7c852dee%2Ff35.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Human fighter pilots set to take on AI drones in aerial dogfights in 2021",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/?amp=true",
-      "publishedDateTime": "2020-06-08T22:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-tutorial-create-an-ubuntu-data-science-virtual-machine-using-a-resource-manager-template.md",
-      "title": "Tutorial: Create an Ubuntu Data Science Virtual Machine using a Resource Manager template",
-      "excerpt": "This tutorial will show you how to create an Ubuntu 18.04 Data Science Virtual Machine using an Azure Resource Manager template. Data Science Virtual Machines are cloud-based virtual machines preloaded with a suite of data science and machine learning frameworks and tools.",
-      "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-tutorial-resource-manager",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Tutorial: Create an Ubuntu Data Science Virtual Machine using a Resource Manager template",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-reducing-the-number-of-unnecessary-biopsies-of-us-bi-rads-4a-lesions-through-a-deep-learning-method-for-residents-in-training-a-cross-sectional-study.md",
-      "title": "Reducing the number of unnecessary biopsies of US-BI-RADS 4a lesions through a deep learning method for residents-in-training: a cross-sectional study",
-      "excerpt": "Objective The aim of the study is to explore the potential value of S-Detect for residents-in-training, a computer-assisted diagnosis system based on deep learning (DL) algorithm. Methods The study was designed as a cross-sectional study.",
-      "webUrl": "https://bmjopen.bmj.com/content/10/6/e035757",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BMJ",
-        "domain": "bmj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-self-driving-cars-wont-eradicate-the-car-crash-study-says.md",
-      "title": "Self-driving cars won't eradicate the car crash, study says",
-      "excerpt": "While self-driving cars won't get distracted or drive drunk, that only accounts for a third of wrecks that occur, according to the insurance industry. In a blow to hopes for a future free of car ...",
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-cars-crash-study/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving cars won't eradicate the car crash, study says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
-      "publishedDateTime": "2020-06-08T21:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-artificial-intelligence-chips-benefit-from-a-good-nights-sleep.md",
-      "title": "Artificial intelligence chips benefit from a good night's sleep",
-      "excerpt": "Artificial neurons are already far more human-like than traditional computers, and now it turns out they might also need sleep to function at their peak. And it’s not just a matter of turning them off every now and then – a new study shows that the neurons benefit from exposure to slow-wave",
-      "webUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/eddb853/2147483647/strip/true/crop/1999x1332+1+21/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0f%2F63%2F2daf086d4c9fbcbe654e04617cd1%2Fdepositphotos-82816702-l-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Artificial intelligence chips benefit from a good night's sleep",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
-      "publishedDateTime": "2020-06-08T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-here-are-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops.md",
-      "title": "Here are 5 ways to use AI as a ‘bad apple detector’ for cops",
-      "excerpt": "When an apple begins to rot it creates a chemical called ethylene. If that apple happens to be in a barrel with a bunch of other apples, and the rotting causes its skin to break, the ethylene will immediately cause the other apples to start rotting.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/police-lights-sirens-796x398.png",
-          "width": 796,
-          "height": 398,
-          "title": "Here are 5 ways to use AI as a ‘bad apple detector’ for cops",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
-      "publishedDateTime": "2020-06-08T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-google-open-sources-computer-vision-model-big-transfer.md",
-      "title": "Google Open-Sources Computer Vision Model Big Transfer",
-      "excerpt": "Google Brain has released the pre-trained models and fine-tuning code for Big Transfer (BiT), a deep-learning computer vision model. The models are pre-trained on publicly-available generic image ...",
-      "webUrl": "https://www.infoq.com/news/2020/06/google-big-transfer/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/06/google-big-transfer/en/headerimage/google-big-transfer-1591540258316.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Google Open-Sources Computer Vision Model Big Transfer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-how-to-run-ml-applications-on-particle-hardware.md",
-      "title": "How To Run ML Applications On Particle Hardware",
-      "excerpt": "With the release of TensorFlow Lite at Google I/O 2019, the accessible machine learning library is no longer limited to applications with access to GPUs. You can now run machine learning ...",
-      "webUrl": "https://hackaday.com/2019/11/26/how-to-run-ml-applications-on-particle-hardware/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/11/TFLite-running-on-particle-featured.jpg",
-          "width": 1137,
-          "height": 576,
-          "title": "How To Run ML Applications On Particle Hardware",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-machine-learning-predicts-nanoparticles-structure-and-dynamics.md",
-      "title": "Machine learning predicts nanoparticles' structure and dynamics",
-      "excerpt": "Machine learning methods, once trained to model the systems reliably, can speed up the simulations by several orders of magnitude. The new method allowed simulations to be run on a laptop or desktop",
-      "webUrl": "https://www.sciencedaily.com/releases/2020/06/200609104305.htm",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-report-facebook-makes-300000-content-moderation-mistakes-every-day.md",
-      "title": "Report: Facebook Makes 300,000 Content Moderation Mistakes Every Day",
-      "excerpt": "Facebook should also expand oversight in underserved countries, the report suggests, and sponsor research into the mental ... social media properties. Better AI might help too.",
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/amp/",
-      "publishedDateTime": "2020-06-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-the-scientist-who-controlled-people-with-brain-implants.md",
-      "title": "The Scientist Who Controlled People with Brain Implants",
-      "excerpt": "(Or you can wind up mind-controlled by a psychopath. It's a mixed bag.) But in real life, one scientist made huge strides towards creating workable brain implants. In the 1950s and 1960s.",
-      "webUrl": "https://io9.gizmodo.com/the-scientist-who-controlled-people-with-brain-implants-5871598",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/18lp4exxculr1jpg.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "The Scientist Who Controlled People with Brain Implants",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://io9.gizmodo.com/the-scientist-who-controlled-people-with-brain-implants-5871598/amp",
-      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/the-scientist-who-controlled-people-with-brain-implants-5871598/amp",
-      "publishedDateTime": "2020-06-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "io9.gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-deep-learning-for-natural-language-processing-choosing-the-right-gpu-for-the-job.md",
-      "title": "Deep Learning for Natural Language Processing – Choosing the Right GPU for the Job",
-      "excerpt": "Unlike fifty years ago, the techniques of artificial intelligence and deep learning, along with advances in hardware platforms and massively parallel systems, have put the capabilities of quality language translation at everyone’s fingertips. Making this ...",
-      "webUrl": "https://insidehpc.com/white-paper/deep-learning-for-natural-language-processing-choosing-the-right-gpu-for-the-job/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-artificial-intelligence-may-bring-more-management-free-organizations.md",
-      "title": "Artificial Intelligence May Bring More Management-Free Organizations",
-      "excerpt": "AI is freeing people from the hierarchical, command-and-control systems that have characterized organizations for centuries.",
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190049247%2F0x0.jpg",
-          "width": 1200,
-          "height": 477,
-          "title": "Artificial Intelligence May Bring More Management-Free Organizations",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/amp/",
-      "publishedDateTime": "2020-06-08T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops.md",
-      "title": "Here’s 5 ways to use AI as a ‘bad apple detector’ for cops",
-      "excerpt": "When an apple begins to rot it creates a chemical called ethylene. If that apple happens to be in a barrel with a bunch of other apples, and the rotting causes its skin to break, the ethylene will immediately cause the other apples to start rotting.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/police-lights-sirens-796x398.png",
-          "width": 796,
-          "height": 398,
-          "title": "Here’s 5 ways to use AI as a ‘bad apple detector’ for cops",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
-      "publishedDateTime": "2020-06-08T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-the-21-smartest-ai-scientists-working-at-google-deepmind.md",
-      "title": "The 21 smartest AI scientists working at Google DeepMind",
-      "excerpt": "Background: Prior to joining DeepMind just nine months ago, Martin Riedmiller worked on robotics and autonomous learning systems at the University of Freiberg in Germany. Background: Shane Legg ...",
-      "webUrl": "https://www.businessinsider.in/tech/the-21-smartest-ai-scientists-working-at-google-deepmind/slidelist/51381299.cms",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/msid-51381300,width-640,resizemode-4,imgsize-46648/21-charles-blundell.jpg",
-          "width": 640,
-          "height": 480,
-          "title": "The 21 smartest AI scientists working at Google DeepMind",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

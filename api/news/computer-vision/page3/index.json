@@ -2,6 +2,185 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-08-roborock-s6-maxv-review-it-can-find-and-avoid-your-socks.md",
+      "title": "Roborock S6 MaxV Review: It can find and avoid your socks",
+      "excerpt": "It’s worth a look if you don’t need (or want) high-end room-mapping and object-recognition features. There’s a lot of tech crammed into this one, so it would be no surprise for people to be ...",
+      "webUrl": "https://www.digitaltrends.com/smart-home-reviews/roborock-s6-maxv-review/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn9.digitaltrends.com/image/digitaltrends/roborock-s6-maxv-review-4-of-6-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Roborock S6 MaxV Review: It can find and avoid your socks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/smart-home-reviews/roborock-s6-maxv-review/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/smart-home-reviews/roborock-s6-maxv-review/?amp",
+      "publishedDateTime": "2020-06-08T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-07-caltech-researchers-discover-the-brain-uses-a-mathematical-system-to-organize-what-you-see.md",
+      "title": "Caltech Researchers Discover the Brain Uses a Mathematical System to Organize What You See",
+      "excerpt": "Now, Caltech researchers have combined tools from machine learning and neuroscience to discover that the brain uses a mathematical system to organize visual objects according to their principal components.",
+      "webUrl": "https://www.pasadenanow.com/main/wp-admin/admin-ajax.php?action=times_process_times_vote&nonce=30f162dd2e&post_id=480727&disabled=true&is_comment=false",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pasadenanow.com/main/wp-content/uploads/2020/06/41586_2020_2350_Fig4_crop.max828.jpg",
+          "width": 400,
+          "height": 303,
+          "title": "Caltech Researchers Discover the Brain Uses a Mathematical System to Organize What You See",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-07T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pasadena Now",
+        "domain": "pasadenanow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state.md",
+      "title": "California blocks bill that could’ve led to a facial recognition police-state",
+      "excerpt": "Californian lawmakers have blocked a bill that would have expanded facial recognition surveillance across the state -- including by police",
+      "webUrl": "https://thenextweb.com/neural/2020/06/04/california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-63-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "California blocks bill that could’ve led to a facial recognition police-state",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/04/california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/04/california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state/amp/",
+      "publishedDateTime": "2020-06-04T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-police-facial-recognition-tech-could-misidentify-people-at-protests-experts-say.md",
+      "title": "Police facial recognition tech could misidentify people at protests, experts say",
+      "excerpt": "How? If the police force in your area is using any kind of facial recognition software to identify protesters, it’s possible you could be misidentified as one. Most facial recognition was ...",
+      "webUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/protest-2020-getty-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Police facial recognition tech could misidentify people at protests, experts say",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp",
+      "publishedDateTime": "2020-06-03T17:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-californias-statehouse-is-considering-a-controversial-facial-recognition-bill.md",
       "title": "California’s statehouse is considering a controversial facial recognition bill",
       "excerpt": "As protestors square off against police across the country, California is readying a bill that could expand the state’s use of facial recognition, including for law enforcement purposes. Introduced as Assembly Bill 2261,",
@@ -1126,177 +1305,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-roborock-s6-maxv-review-the-robot-vacuum-for-pet-owners.md",
-      "title": "Roborock S6 MaxV review: The robot vacuum for pet owners",
-      "excerpt": "This is the Roborock S6 MaxV review. The Roborock S6 MaxV is Roborock ... Its on-board AI has been trained in object recognition so the robovac can better avoid things like power cords, shoes ...",
-      "webUrl": "https://www.androidauthority.com/roborock-s6-maxv-review-1112547/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/04/Roborock-S6-MaxV-robot-vacuum-cleaner-front-view-top-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Roborock S6 MaxV review: The robot vacuum for pet owners",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/roborock-s6-maxv-review-1112547/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/roborock-s6-maxv-review-1112547/amp/",
-      "publishedDateTime": "2020-05-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
-      "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
-      "excerpt": "Traffic Sign Recognition (TSR) is used to display the speed limit signs ... be applied on sharpened edges for smoothing There are two approaches to detecting the object, • Colour-based Detection: Colour is one of the most powerful attributes for object ...",
-      "webUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-24-china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face.md",
-      "title": "China Roundup: A blow to US-listed Chinese firms and TikTok’s new global face",
-      "excerpt": "Hello and welcome back to TechCrunch’s China Roundup, a digest of recent events shaping the Chinese tech landscape and what they mean to people in the rest of the world. It’s been a tumultuous week for Chinese tech firms abroad: Huawei’s mounting pressure from the U.",
-      "webUrl": "https://techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/kevin-mayer-e1590307306151.jpg?w=1021",
-          "width": 1021,
-          "height": 545,
-          "title": "China Roundup: A blow to US-listed Chinese firms and TikTok’s new global face",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/amp/",
-      "publishedDateTime": "2020-05-24T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-us-blacklists-dozens-of-chinese-companies-working-on-ai-face-recognition-tech.md",
-      "title": "U.S. Blacklists Dozens of Chinese Companies Working on AI, Face Recognition Tech",
-      "excerpt": "The U.S. Commerce Department has put another 33 Chinese businesses—many of which develop artificial intelligence and face recognition tech—on its economic blacklist as a punitive measure for purportedly conspiring with Beijing and the government’s brutal crackdown on Muslim minorities.",
-      "webUrl": "https://gizmodo.com/u-s-blacklists-dozens-of-chinese-companies-working-on-1843621762",
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/evgliw8dn4kegcxqbxok.jpg",
-          "width": 800,
-          "height": 448,
-          "title": "U.S. Blacklists Dozens of Chinese Companies Working on AI, Face Recognition Tech",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/u-s-blacklists-dozens-of-chinese-companies-working-on-1843621762/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/u-s-blacklists-dozens-of-chinese-companies-working-on-1843621762/amp",
-      "publishedDateTime": "2020-05-22T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

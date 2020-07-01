@@ -109,24 +109,6 @@ related:
         width: 618
         height: 425
         isCached: true
-  - title: "Racial bias in facial recognition software could lead to false arrests"
-    excerpt: "A black man in Detroit was wrongfully arrested after facial recognition software incorrectly identified him, forcing developers to acknowledge the ways that racial bias is present in artificial intell"
-    publishedDateTime: 2020-07-01T07:38:00Z
-    webUrl: "https://www.rt.com/shows/watching-the-hawks/493378-facial-recognition-racial-bias-false-arrest/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 19
-  - title: "Detroit police work to expunge record of man wrongfully accused with facial recognition"
-    excerpt: "Detroit — A day after the American Civil Liberties Union filed a complaint against Detroit police officials about the wrongful arrest of an African American man the group said was mistakenly targeted through facial recognition software, investigators ..."
-    publishedDateTime: 2020-06-26T20:42:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21143871/detroit-police-work-to-expunge-record-of-man-wrongfully-accused-with-facial-recognition"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 11
 
 secured: "Ff1kT2TL2g0h+S3/9E8NSG7LlNC1rNpZsxmijRqCPC0OjBQhDqcrgsTm4NzkcfS71tnRp/Eei8FddWJ2YUtu96tNPYr4CEjbtoY3X56Ax89wgWosanWvel53D3FxSQWwENtyGzx9AHILycCUVsJ4zL3HY/5Ff3BiK4bE84WA8g8hSVYMs8C8xnoDSwoLudHu7fl9JwaY0iP7/LNWUp+JuzU4xY9PrCGrQ2soGK+QWSvUNwww5QW9lnXqW11VDXHWqzDLeIu3Kil9V4QLeUrFK/W4Q6G42IsOyU2Jngfayk+ZJpqjiJz2ajxAR8+iQmadE3w6pyxMcHyZecCCTlUMZbBJPis5+Vdlbmp/RRGhxu6sW8c80UY3PvSQOZg7DfKEi3DWkH8ygn9FyFyFbBMAIlpm3yW4+pQQbmFiB3z8c0uCSPhBeyn4UJ0EjBy/CDZ5ix59EAE00byZajt8bDB4UpI9CCYXk9bO9X6jOFcxxsBAx7vtPnaKWi8j7BIIajg4Yo4m99ORyoJTo5v13+YXfg==;Py15BA5ayWzgtEaaD0+OwA=="
 ---

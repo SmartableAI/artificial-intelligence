@@ -49,47 +49,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google’s TensorFlow Lite for Microcontrollers",
-      "excerpt": "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced the launch of WiseEye WE-I Plus HX6537-A solution that supports.",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096",
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
       "path": "_news/2020-06-28-from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap.md",
       "title": "From PhD in AI to fruit chips company, youngster takes a big leap",
       "excerpt": "Twenty-eight-year-old Bharadwaj Karanth’s company, Suvidha Foods and Beverages, procures fruits and vegetables directly from farmers and processes them into chips and dry fruits.",
@@ -114,6 +73,44 @@
       "provider": {
         "name": "The New Indian Express",
         "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-covid-19-significant-shift-in-strategy-of-mobile-artificial-intelligence-market-2020-2024-increasing-use-of-ai-chip-enabled-mobile-devices-to-augment-growth-technavio.md",
+      "title": "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio",
+      "excerpt": "Buy 2 Technavio reports and get the third for free. View market snapshot before purchasing Increasing use of AI chip-enabled mobile devices has been instrumental in driving the growth of the market. Technavio's custom research reports offer detailed ...",
+      "webUrl": "https://www.businesswire.com/news/home/20200626005284/en/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200626005284/en/801494/23/IRTNTR40360.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-26T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1214,6 +1211,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-17-huamis-next-wearable-ai-chip-huangshan-2-scheduled-for-mass-production-in-q4-2020-50-energy-saved-with-faster-atrial-fibrillation-detection.md",
+      "title": "Huami's Next Wearable AI Chip Huangshan-2 Scheduled for Mass Production in Q4, 2020, 50% Energy Saved with Faster Atrial Fibrillation Detection",
+      "excerpt": "The Global Top 5 wearable brand[1], Amazfit's mother company, Huami (NYSE: HMI) , made its second wearable AI chip Huangshan-2 public on",
+      "webUrl": "https://www.prnewswire.com/ae/news-releases/huami-s-next-wearable-ai-chip-huangshan-2-scheduled-for-mass-production-in-q4-2020-50-energy-saved-with-faster-atrial-fibrillation-detection-880075794.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1192309/Wearable_Device_Chip.jpg?p=facebook",
+          "width": 3457,
+          "height": 1808,
+          "title": "Huami's Next Wearable AI Chip Huangshan-2 Scheduled for Mass Production in Q4, 2020, 50% Energy Saved with Faster Atrial Fibrillation Detection",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-17T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now.md",
       "title": "Qualcomm Robotics RB5 5G AI robots on pre-order now",
       "excerpt": "Qualcomm revealed the “world’s first 5G and AI-enabled robotics platform” in the Qualcomm Robotics RB5 platform. Qualcomm is basically the biggest brand in the tech",
@@ -1306,53 +1341,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g.md",
-      "title": "Qualcomm’s Robotics RB5 Platform combines AI acceleration with 5G",
-      "excerpt": "Qualcomm's new robotics development platform -- RB5 -- accelerates AI workloads while providing support for 5G connectivity.",
-      "webUrl": "https://venturebeat.com/2020/06/17/qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/qualcomm-5G-e1591989281622.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Qualcomm’s Robotics RB5 Platform combines AI acceleration with 5G",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/17/qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g/amp/",
-      "publishedDateTime": "2020-06-17T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

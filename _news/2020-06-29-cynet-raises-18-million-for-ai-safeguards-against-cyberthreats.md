@@ -62,20 +62,6 @@ related:
         width: 680
         height: 399
         isCached: true
-  - title: "Galway’s CitySwift raises €2m for its public transport AI platform"
-    excerpt: "CitySwift has raised €2m in funding and launched a new platform that enables commuters to see how busy a bus will be in advance."
-    publishedDateTime: 2020-06-26T17:53:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/cityswift-funding-when2travel-ai-go-ahead-bus"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/06/cityswift.png"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "yfYS8z+mNxdPbNgY4B62Wg5D29ujfwRIcomnOUGcdOICRiQQ22igoYGBjhedmcJM0uqPbtUjNUKF/jR3KZkn++G2tY5lKIZ0IvSS/kNdhdlgE+IoAgTeykeBM+ZFYgUIREpW6FrHQB+WKDneoARl/JyYEdVB230NgC/fVm+SqV2b5T8xFW4lWIAA/+3Hta3QnJODupIEC7blJJeu+ASWDEiL2Cjw30S8i3gpIZi/7nVY2SJ5KeZuQb3fDzdEJQbXdAfrDVNXrC/kB17Uj1Qkzr2YiK4yejEjP3fQp87YB7CyyVPLYbfA38xODdykN4x0P3rIxyaYVVutnFp/tOg6+xI9XZ5jQueBvEwZ9Mhji6Y72VK1OsX62xaykiP5HefPQfaVDIOhb4wW+Cn8k1f+kwem2rueKchbSHGozIeurHxqwMVNmXlzVZ50IHQ9C4iHKkbHlFTw+gKQiHTQ9FVeJKQhhO/bfcRverNAz7I6JIv2TWJTZtptlwkxOGyXIQKJDdFqk3c4jkW86IiYpIdc/A==;GX037sjSrdshSJor364kVw=="
 ---

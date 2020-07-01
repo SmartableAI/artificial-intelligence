@@ -2,6 +2,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-11-aws-announces-general-availability-of-the-sixth-generation-of-amazon-ec2-instances-powered-by-aws-graviton2-processors.md",
+      "title": "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors",
+      "excerpt": "New Amazon EC2 instances powered by AWS-designed Graviton2 processors deliver up to 40% better price/performance over comparable x86 based instances.",
+      "webUrl": "https://www.businesswire.com/news/home/20200611005895/en/AWS-Announces-General-Availability-Sixth-Generation-Amazon",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200611005895/en/797347/23/AWS_logo_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-amazon-too-reviews-its-policy-on-police-use-of-its-face-recognition-tech-amid-blm.md",
       "title": "Amazon too reviews its policy on police use of its face-recognition tech amid #BLM",
       "excerpt": "The petition takes aim at Amazon Web Services cloud computing unit’s “Rekognition” facial recognition technology and Ring surveillance cameras used for home security. “Amazon needs to ...",
@@ -1247,54 +1285,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians.md",
-      "title": "Study finds Amazon's face recognition incorrectly matches 105 US and UK politicians",
-      "excerpt": "Amazon's Rekognition software is still struggling with basic facial recognition, according to Comparitech, in a follow-up to an ACLU experiment.",
-      "webUrl": "https://www.techrepublic.com/article/study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/",
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/28/b27f8b73-da86-416d-96d9-0afaac4c2e15/resize/1200x/90102f6995c214b9720d28c40b5482a8/istock-1180918334.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": "Study finds Amazon's face recognition incorrectly matches 105 US and UK politicians",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/",
-      "publishedDateTime": "2020-05-29T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI",
         "AWS AI"
       ]

@@ -2,6 +2,147 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-01-tesla-increases-full-self-driving-price-to-8000-as-promised.md",
+      "title": "Tesla increases Full Self-Driving price to $8,000 as promised",
+      "excerpt": "Driving package to $8,000 as promised, and it may have saved its quarter. The decision to pre-sell a “Full Self-Driving” package in its vehicles years before it planned on making the technology available through the software has been controversial,",
+      "webUrl": "https://electrek.co/2020/07/01/tesla-increases-full-self-driving-price-8000-promised/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?quality=82&strip=all",
+          "width": 2370,
+          "height": 1179,
+          "title": "Tesla increases Full Self-Driving price to $8,000 as promised",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/07/01/tesla-increases-full-self-driving-price-8000-promised/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/01/tesla-increases-full-self-driving-price-8000-promised/amp/",
+      "publishedDateTime": "2020-07-01T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-tusimple-adds-logistics-operators-to-self-driving-trucks-effort.md",
+      "title": "TuSimple Adds Logistics Operators to Self-Driving Trucks Effort",
+      "excerpt": "Self-driving trucking startup TuSimple is teaming up with big logistics operators to bulk up its delivery business as it lays the groundwork for a planned coast-to-coast autonomous freight network.",
+      "webUrl": "https://www.wsj.com/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800",
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-204436/social",
+          "width": 1280,
+          "height": 640,
+          "title": "TuSimple Adds Logistics Operators to Self-Driving Trucks Effort",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800",
+      "publishedDateTime": "2020-07-01T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-how-a-former-soldier-went-from-self-taught-truck-driver-to-helping-alphabets-waymo-usher-in-the-era-of-self-driving-semis.md",
+      "title": "How a former soldier went from self-taught truck driver to helping Alphabet's Waymo usher in the era of self-driving semis",
+      "excerpt": "Jon Rainwater instructs safety drivers for Waymo Via, the self-driving company's freight and deliveries unit.",
+      "webUrl": "https://www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6",
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5efa5b5bf34d0565f1297c75?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "How a former soldier went from self-taught truck driver to helping Alphabet's Waymo usher in the era of self-driving semis",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6?amp",
+      "publishedDateTime": "2020-06-30T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-daimler-backed-momenta-says-its-robotaxis-will-be-fully-driverless-and-profitable-in-2024.md",
       "title": "Daimler-backed Momenta says its robotaxis will be fully driverless and profitable in 2024",
       "excerpt": "In China and the U.S., there’s much debate about when and how humans will achieve fully autonomous robotaxis at scale — cars that chauffeur passengers under complex road conditions without safety drivers behind the wheel.",
@@ -96,40 +237,31 @@
       ]
     },
     {
-      "path": "_news/2020-06-27-tusimple-seeking-250-million-in-new-funding-to-scale-self-driving-trucks.md",
-      "title": "TuSimple seeking $250 million in new funding to scale self-driving trucks",
-      "excerpt": "TuSimple, the self-driving truck startup backed by Sina, Nvidia, UPS and Tier 1 supplier Mando Corporation, is headed back into the marketplace in search of new capital from investors. The company has hired investment bank Morgan Stanley to help it raise $250 million,",
-      "webUrl": "https://techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-new-funding-to-scale-self-driving-trucks/",
-      "heat": 103,
+      "path": "_news/2020-06-28-amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup.md",
+      "title": "Amazon’s Jeff Bezos ‘copies’ Tesla’s Elon Musk again; this time for buying a self-driving startup",
+      "excerpt": "Taking a dig at Amazon’s Jeff Bezos for acquiring self-driving startup Zoox, electric vehicle maker Tesla (also working on self-driving vehicles) CEO Elon Musk on Friday called him a ‘copycat’ on Twitter.",
+      "webUrl": "https://www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/",
+      "heat": 121,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "TuSimple seeking $250 million in new funding to scale self-driving trucks",
+          "url": "https://images.financialexpress.com/2020/05/elon-1.jpg",
+          "width": 660,
+          "height": 440,
+          "title": "Amazon’s Jeff Bezos ‘copies’ Tesla’s Elon Musk again; this time for buying a self-driving startup",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-new-funding-to-scale-self-driving-trucks/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-new-funding-to-scale-self-driving-trucks/amp/",
-      "publishedDateTime": "2020-06-27T14:54:00-07:00",
+      "ampWebUrl": "https://www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/lite/",
+      "publishedDateTime": "2020-06-28T00:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -190,11 +322,58 @@
       ]
     },
     {
+      "path": "_news/2020-06-26-amazon-gets-into-self-driving-game-with-zoox-deal.md",
+      "title": "Amazon gets into self-driving game with Zoox deal",
+      "excerpt": "CNBC's Deirdre Bosa on Amazon's move into self-driving. With CNBC's Melissa Lee and the Fast Money traders, Guy Adami, Tim Seymour, Brian Kelly and Jeff Mills. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more ...",
+      "webUrl": "https://www.cnbc.com/video/2020/06/26/amazon-gets-into-self-driving-game-with-zoox-deal.html",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106594301-15932078136ED3-FM-B-BLOCK-062620.jpg?v=1593207811",
+          "width": 1920,
+          "height": 1080,
+          "title": "Amazon gets into self-driving game with Zoox deal",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-26T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-amazon-shakes-up-the-race-for-self-drivingand-ride-hailing.md",
       "title": "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing",
       "excerpt": "Uber CEO Dara Khosrowshahi says his company wants to be the “Amazon for transportation.” Friday, Amazon made clear that it intends to be the Amazon for transportation. The ecommerce giant said it had agreed to acquire Bay Area-based autonomous vehicle company Zoox,",
       "webUrl": "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/",
-      "heat": 299,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -237,33 +416,33 @@
       ]
     },
     {
-      "path": "_news/2020-06-26-elon-musk-trolls-jeff-bezos-calling-him-a-copy-cat-after-amazon-acquires-self-driving-car-startup-zoox.md",
-      "title": "Elon Musk trolls Jeff Bezos calling him a copy cat after Amazon acquires self-driving-car startup Zoox",
-      "excerpt": "The Tesla CEO tweeted a cat emoji at Bezos on Friday after Amazon took another step into the autonomous-driving world.",
-      "webUrl": "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6",
-      "heat": 98,
+      "path": "_news/2020-06-26-elon-musk-starts-another-catfight-with-jeff-bezos-after-amazon-buys-zoox-self-driving-car-venture.md",
+      "title": "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture",
+      "excerpt": "This time, Musk took aim at Amazon’s $1.2 billion acquisition of Zoox, a venture focusing on self-driving cars that could compete with Tesla, the car company that Musk heads: .@JeffBezos is a copy 🐈 haha https://t.co/plR7uupqBG — Elon Musk (@ ...",
+      "webUrl": "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/",
+      "heat": 121,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5dc17beb7eece50907358663?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Elon Musk trolls Jeff Bezos calling him a copy cat after Amazon acquires self-driving-car startup Zoox",
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/04/190410-musk-bezos-630x366.jpg",
+          "width": 630,
+          "height": 366,
+          "title": "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp",
-      "publishedDateTime": "2020-06-26T12:57:00-07:00",
+      "ampWebUrl": "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/",
+      "publishedDateTime": "2020-06-26T12:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "GeekWire",
+        "domain": "geekwire.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1189,185 +1368,6 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-the-key-differences-between-teslas-driving-aids-autopilot-and-full-self-driving.md",
-      "title": "The key differences between Tesla’s driving aids: Autopilot and Full Self-Driving",
-      "excerpt": "In this edition of Shift Basics, we take a look at what Tesla's Autopilot and Full Self-Driving are, how they're different, and what they cost.",
-      "webUrl": "https://thenextweb.com/shift/2020/06/22/differences-between-teslas-autopilot-and-full-self-driving-system-adas-tech/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/second-Autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving-796x448.png",
-          "width": 796,
-          "height": 448,
-          "title": "The key differences between Tesla’s driving aids: Autopilot and Full Self-Driving",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-mubadala-to-double-down-on-tech-after-12-billion-jio-stake.md",
-      "title": "Mubadala to Double Down on Tech After $1.2 Billion Jio Stake",
-      "excerpt": "Mubadala Investment Co. is preparing to double down on its exposure to the technology sector, setting its sights on Asia, after the Abu Dhabi fund took a $1.2 billion stake in India’s Jio Platforms.",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake",
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake",
-      "publishedDateTime": "2020-06-22T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems.md",
-      "title": "Waymo and Uber propose AI techniques to improve self-driving systems",
-      "excerpt": "Waymo and Uber researchers presented new techniques to improve the reliability -- and safety -- of their self-driving systems.",
-      "webUrl": "https://venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/",
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/waymo-ipace-e1572290208222.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Waymo and Uber propose AI techniques to improve self-driving systems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/amp/",
-      "publishedDateTime": "2020-06-21T16:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-the-advantages-of-self-explainable-ai-over-interpretable-ai.md",
-      "title": "The advantages of self-explainable AI over interpretable AI",
-      "excerpt": "Would you trust an artificial intelligence algorithm that works eerily well, making accurate decisions 99.9% of the time, but is a mysterious black box? Every system fails every now and then, and when it does,",
-      "webUrl": "https://thenextweb.com/neural/2020/06/19/the-advantages-of-self-explainable-ai-over-interpretable-ai/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/1-copy-7-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "The advantages of self-explainable AI over interpretable AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/19/the-advantages-of-self-explainable-ai-over-interpretable-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/19/the-advantages-of-self-explainable-ai-over-interpretable-ai/amp/",
-      "publishedDateTime": "2020-06-19T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

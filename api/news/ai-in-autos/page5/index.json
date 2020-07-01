@@ -2,6 +2,185 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-20-heres-why-elon-musk-keeps-raising-the-price-of-teslas-full-self-driving-option.md",
+      "title": "Here’s why Elon Musk keeps raising the price of Tesla’s ‘Full Self-Driving’ option",
+      "excerpt": "Driving” version of its Autopilot driver assistance package by around $1,000 on July 1st, CEO Elon Musk announced on Twitter this week. The company has done this before — a few times. It will probably do it again.",
+      "webUrl": "https://www.theverge.com/2020/5/20/21264345/elon-musk-tesla-full-self-driving-autopilot-price-increase",
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/ByIdT_pruGTrwcLv8OvROYBw-GQ=/0x0:2040x1361/1400x933/filters:focal(857x518:1183x844):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66823171/dbush_170530_1759_0040.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Here’s why Elon Musk keeps raising the price of Tesla’s ‘Full Self-Driving’ option",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/5/20/21264345/elon-musk-tesla-full-self-driving-autopilot-price-increase",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/5/20/21264345/elon-musk-tesla-full-self-driving-autopilot-price-increase",
+      "publishedDateTime": "2020-05-20T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-gms-ultra-cruise-aims-to-take-on-teslas-full-self-driving-option.md",
+      "title": "GM's \"Ultra Cruise\" Aims to Take on Tesla's Full Self-Driving Option",
+      "excerpt": "General Motors announced it's working on a better-than Super Cruise semi-autonomous driving system internally known as \"Ultra Cruise.\"",
+      "webUrl": "https://www.motortrend.com/news/ultra-cruise-gm-details-photos/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.motortrend.com/uploads/sites/5/2020/05/2021-Cadillac-Escalade.jpg?fit=around%7C480:270",
+          "width": 480,
+          "height": 270,
+          "title": "GM's \"Ultra Cruise\" Aims to Take on Tesla's Full Self-Driving Option",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.motortrend.com/news/ultra-cruise-gm-details-photos/amp/",
+      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/ultra-cruise-gm-details-photos/amp/",
+      "publishedDateTime": "2020-05-20T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Trend",
+        "domain": "motortrend.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars.md",
+      "title": "Watch Out For Those Looming AI Oligopolies, Including For Self-Driving Cars",
+      "excerpt": "Via the advent of Machine Learning (ML) and Deep Learning (DL), many of these AI applications are intended to adjust on-the-fly and tailor themselves in real-time to the efforts they were designed to meet.",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/20/watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1128869156%2F0x0.jpg",
+          "width": 1200,
+          "height": 781,
+          "title": "Watch Out For Those Looming AI Oligopolies, Including For Self-Driving Cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/20/watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/20/watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-05-20T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-self-driving-shared-electric-scooters-are-here-are-they-awesome-or-terrifying.md",
+      "title": "‘Self-driving’ shared electric scooters are here – Are they awesome or terrifying?",
+      "excerpt": "Shared electric scooter provider Go X is combining its scooters with self-driving tech from the company Tortoise to solve the first and last step problem of shared e-scooters: finding and returning the scooters.",
+      "webUrl": "https://electrek.co/2020/05/20/g0-x-self-driving-shared-electric-scooters-are-here/",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/05/go-x-scooters-header.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "‘Self-driving’ shared electric scooters are here – Are they awesome or terrifying?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/05/20/g0-x-self-driving-shared-electric-scooters-are-here/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/20/g0-x-self-driving-shared-electric-scooters-are-here/amp/",
+      "publishedDateTime": "2020-05-20T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-teen-programmer-uses-real-self-driving-car-tech-in-gta-v.md",
       "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
       "excerpt": "Driving in 'Grand Theft Auto V' can be... messy. A teen programmer figured out how to use real-life self-driving car technology to make it a little easier.",

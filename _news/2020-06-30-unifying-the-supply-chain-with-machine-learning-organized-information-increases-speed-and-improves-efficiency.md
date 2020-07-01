@@ -46,20 +46,6 @@ related:
         width: 1000
         height: 564
         isCached: true
-  - title: "Developing NER models with Amazon SageMaker Ground Truth and Amazon Comprehend"
-    excerpt: "Named entity recognition (NER) involves sifting through text data to locate noun phrases called named entities and categorizing each with a label, such as person, organization, or brand. For example, in the statement “I recently subscribed to Amazon Prime,” Amazon Prime is the named entity and can be"
-    publishedDateTime: 2020-06-26T19:19:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/developing-ner-models-with-amazon-sagemaker-ground-truth-and-amazon-comprehend/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/26/named-entit-recognition-001-2.jpg"
-        width: 1000
-        height: 550
-        isCached: true
   - title: "AI Conversations: Reinventing the Retail Industry with an ‘Edge’"
     excerpt: "The retail industry is in the midst of a sweeping transformation driven by new technologies and new business models. Artificial intelligence is an essential enabler of this transformation."
     publishedDateTime: 2020-06-30T16:51:00Z

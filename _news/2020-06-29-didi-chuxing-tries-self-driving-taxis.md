@@ -8,7 +8,7 @@ ampWebUrl: "https://www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-se
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     title: "Didi Chuxing tries self-driving taxis"
 
 related:
-  - title: "TuSimple seeking $250 million in new funding to scale self-driving trucks"
-    excerpt: "TuSimple, the self-driving truck startup backed by Sina, Nvidia, UPS and Tier 1 supplier Mando Corporation, is headed back into the marketplace in search of new capital from investors. The company has hired investment bank Morgan Stanley to help it raise $250 million,"
-    publishedDateTime: 2020-06-27T21:54:00Z
-    webUrl: "https://techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-new-funding-to-scale-self-driving-trucks/"
-    ampWebUrl: "https://techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-new-funding-to-scale-self-driving-trucks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-new-funding-to-scale-self-driving-trucks/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 73
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Self-Driving Truck Maker TuSimple Hires Morgan Stanley To Help Raise $250M In Fresh Funding: Report"
-    excerpt: "TuSimple is looking to raise up to $250 million in a fresh funding round, TechCrunch reported late Friday. The self-driving-truck maker has hired Morgan Stanley (NYSE: MS) to"
-    publishedDateTime: 2020-06-29T14:35:00Z
-    webUrl: "https://www.benzinga.com/news/20/06/16422489/self-driving-truck-maker-tusimple-hires-morgan-stanley-to-help-raise-250m-in-fresh-funding-report"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16422489"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16422489"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/tusimple-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Didi deploys self-driving taxi fleet in Shanghai, seeking edge on Baidu"
     excerpt: "Didi hopes the alliance with accelerate the development of self-driving vehicles. Leading Chinese search engine company Baidu has set up the \"Apollo\" platform to develop autonomous driving technology."
     publishedDateTime: 2020-06-27T18:05:00Z
@@ -72,6 +40,34 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F6%2F0%2F0%2F27940064-3-eng-GB%2FCropped-1593271902photo.JPG?source=nar-cms&width=1600&height=900&fit=cover&gravity=faces"
         width: 1600
         height: 900
+        isCached: true
+  - title: "China's HiRain Technologies raises $30m for self-driving tech"
+    excerpt: "BEIJING -- Beijing-based automotive electronics supplier HiRain Technologies has raised 210 million yuan ($30 million) from investment bank and private equity investor China Renaissance."
+    publishedDateTime: 2020-07-01T06:22:00Z
+    webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/China-s-HiRain-Technologies-raises-30m-for-self-driving-tech"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F6%2F7%2F6%2F1%2F27991676-3-eng-GB%2FCropped-1593528447RTX6PEQM.JPG?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Beijing opens more roads for testing self-driving cars"
+    excerpt: "Beijing opened 52 additional roads on Tuesday in Haidian district, the capital's tech hub, for the testing of autonomous vehicles to push the speedy development of self-driving technology, local authorities said Wednesday."
+    publishedDateTime: 2020-07-01T08:42:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202007/01/WS5efc4c5ea3108348172568a1.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202007/01/5efc4c5ea3108348fcd9a49e.jpeg"
+        width: 596
+        height: 397
         isCached: true
 
 secured: "+SsLpX75KK8oX9kfybM1QuJQxLVRwdpkFlcX+KLsgeWr8y4KEhr2KjgnZNPav1t+qishAZFKaZ7vpXC5ycLaShHiX0HobmY2ZV7xhqao2UpOYow6pwBrws5nGeRyQbbWSkqBwnn4imVhKlFWMMvAxmN46q8S8uLG0xrjjKDJfQ2TKtnxl+58MUaTiBjZEo/698t8oQgInq4oUipXucBbL0VhAXPGEzPKW5TimiYOnlVIvy9xo9G9LZ3xyOMNXOHbJjUF+cWxoQLyhGfvQdSgnfIIV/xzWWzrO2Rg5xN/O+vMN5Wzs9VVpIGblAX6IL1KkhgAD9vXrQoYGiCx0MZVXPgh32hGdBcNfsYxXyVPupBVGQhwNdOMrvvwChEwA7yISJOEv5y1+j6lKzN87v/pbN7QfJ/RYNJnY9UKdcgVerGWshYj8XicLaaswrPk0VLP0yrnb17qdfzT9jV1jIFUw+fmn6EzDZtYL1wHZBkYgiuNt97gqsgXBJUrBc9Ga1YDJ3opf8HSJBsGrsQYJo4PZg==;NyJsjivnahmIN8VNx2bqFw=="
