@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "grokstream"
   url: "https://twitter.com/grokstream"
-  followers: 578
+  followers: 577
 
 size: 11-50 employees
 yearFounded: 2015
