@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Elementary Robotics is making its quality assurance robots commercially available"
 
-secured: "zoIpAYXKsJuNoqdSnVw++dpr8GfXPsKM7P2tGjQWjBVG3d/ww1bSDQvnBgk8Vj8MvR3Z1Pu92WYApkRE70uSU7p8Yp+aOeTYeooTM/zjGKum+3gfgoRVijd571MWf71KhG9mvZeOO1pgxBteb7FTMXMvaxG9+EJeTDaYlKk6KwxwH3lQFK37bvUYQ+xZBK6Z0QePqljgaQ9fEDQX+lUwpu7XqdQlNIBZDu4qIRDK/V6wr6sGjDej/fCbQrl04bQD7XsGhqW1iNwtdEapTgYDfvETC51Ncowc5Q39+vi31/HW+zl7CK+e1cWyM4E6UsL3+GQHyOExwaoRIWwOR7U8/w==;fnQIKgNN3WRN6+KwyNStWA=="
+secured: "IEogotoPs8gU1NONLlUskymzDvDp3KHr8aXxSDrYWJA0RHDt+3XzRpSjw+0tfJ5vxzXQSfGlyA6mwAQoqHKVJDLBJSJpDLs0vRQWmdOodTycrsOQNBqiL0YlgIrzR+qRuKAP1QJdi5ZFBiYjjphz/PcKljeE7Y4BIczg+scDNHZUrd1C8unN/Xhhi2Mvh461XuB2H4mXkivMCpjLItIhb+o3Wg99/LwKAIQKCSh3mL8y/s0Za6N+sH0SHiClu8EXyH0xF+he0XnSLWZy4/fg7ydKVMYVuF9OCQGxbTPswyzNBSuwCo3TywoUblsN/X5nJYdy3XXS0gWU00pjR8nAnA==;1InDQGMxnofuq4LpD0WkTg=="
 ---
 
