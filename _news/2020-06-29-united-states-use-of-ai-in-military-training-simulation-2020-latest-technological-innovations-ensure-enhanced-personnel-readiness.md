@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-29T09:48:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/united-states-use-of-ai-in-military-training-simulation-2020-latest-technological-innovations-ensure-enhanced-personnel-readiness-1029349072"
 type: article
 quality: 15
-heat: 25
+heat: 15
 published: false
 
 provider:

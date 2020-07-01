@@ -2,33 +2,33 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-07-01-in-the-blackest-city-in-america-a-fight-to-end-facial-recognition.md",
-      "title": "In 'the Blackest city in America,' a fight to end facial recognition",
-      "excerpt": "Activists say facial recognition and its racial bias have no place in Detroit, a city that boasts the highest percentage of Black residents in the US.",
-      "webUrl": "https://www.cnet.com/news/in-the-blackest-city-in-america-a-fight-to-end-facial-recognition/",
-      "heat": 109,
+      "path": "_news/2020-07-01-the-organizations-positioned-to-lobby-against-a-us-ban-on-facial-recognition.md",
+      "title": "The organizations positioned to lobby against a US ban on facial recognition",
+      "excerpt": "Pressure on US lawmakers to create federal regulations on facial recognition has been mounting. Against that backdrop, industry groups have quietly lobbied to soften regulations and avoid an outright ban.",
+      "webUrl": "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/",
+      "heat": 281,
       "tags": null,
       "images": [
         {
-          "url": "https://cnet3.cbsistatic.com/img/U4mP_-rt6ZiOcOSW9GGJyC_iFa8=/756x567/2020/06/29/30d88944-0d4e-4dae-a68e-c3477dd7d227/gettyimages-1217491940.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "In 'the Blackest city in America,' a fight to end facial recognition",
+          "url": "https://cms.qz.com/wp-content/uploads/2020/07/2020-04-06T151844Z_1_LYNXMPEG351EX_RTROPTP_4_G7-SUMMIT-CANADA-e1593619804343.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "The organizations positioned to lobby against a US ban on facial recognition",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/in-the-blackest-city-in-america-a-fight-to-end-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/in-the-blackest-city-in-america-a-fight-to-end-facial-recognition/",
-      "publishedDateTime": "2020-07-01T05:09:00-07:00",
+      "ampWebUrl": "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/amp/",
+      "publishedDateTime": "2020-07-01T09:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
+        "name": "Quartz",
+        "domain": "qz.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -53,7 +53,7 @@
       "title": "ACM calls for governments and businesses to stop using facial recognition",
       "excerpt": "ACM, one of the largest computer science orgs in the world, today called for the halt of facial recognition use by governments and businesses in the U.S.",
       "webUrl": "https://venturebeat.com/2020/06/30/acm-calls-for-governments-and-businesses-to-stop-using-facial-recognition/",
-      "heat": 108,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -96,58 +96,11 @@
       ]
     },
     {
-      "path": "_news/2020-06-30-tech-companies-want-facial-recognition-laws-but-maybe-not-this-one.md",
-      "title": "Tech companies want facial recognition laws, but maybe not this one",
-      "excerpt": "Lawmakers introduced legislation that would put an indefinite ban on facial recognition for police use. Not everyone's a fan.",
-      "webUrl": "https://www.cnet.com/news/tech-companies-want-facial-recognition-laws-but-maybe-not-this-one/",
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/Jm9xOx4BDDOtSspQSGeOkyH-Dkc=/756x567/2019/03/15/24f83d38-b716-4dbb-909b-edbb73d85b1b/facial-recogntion-1010.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Tech companies want facial recognition laws, but maybe not this one",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tech-companies-want-facial-recognition-laws-but-maybe-not-this-one/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tech-companies-want-facial-recognition-laws-but-maybe-not-this-one/",
-      "publishedDateTime": "2020-06-30T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-29-detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time.md",
       "title": "Detroit Police Chief: Facial Recognition Software Misidentifies 96% of the Time",
       "excerpt": "In a public meeting Monday, Detroit Police Chief James Craig admitted that the technology, developed by a company called DataWorks Plus, almost never brings back a direct match and almost always misidentifies people.",
       "webUrl": "https://www.vice.com/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time",
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -237,30 +190,30 @@
       ]
     },
     {
-      "path": "_news/2020-06-28-ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology.md",
-      "title": "Ed Markey, Ayanna Pressley push for federal ban on facial recognition technology",
-      "excerpt": "Massachusetts Sen. Ed Markey and Rep. Ayanna Pressley are pushing to ban the federal government’s use of facial recognition technology, as Boston last week nixed the city use of the",
-      "webUrl": "https://www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/",
-      "heat": 86,
+      "path": "_news/2020-06-27-detroit-says-shoddy-work-led-to-wrongful-arrest-tied-to-facial-recognition-technology.md",
+      "title": "Detroit says 'shoddy' work led to wrongful arrest tied to facial recognition technology",
+      "excerpt": "A Black man wrongly arrested after the use of facial recognition technology will have his DNA, fingerprints and mugshot removed from files.",
+      "webUrl": "https://www.freep.com/story/news/local/michigan/detroit/2020/06/26/facial-recognition-wrongful-arrest-detroit-police/3265943001/",
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2020/03/markeynl06.jpg?w=1024&h=755",
-          "width": 1024,
-          "height": 755,
-          "title": "Ed Markey, Ayanna Pressley push for federal ban on facial recognition technology",
+          "url": "https://www.gannett-cdn.com/presto/2020/01/21/PDTF/7f37d006-521d-4d6e-b65c-51b641c9d880-IMG_detroit_police_car_1_1_.JPG?auto=webp&crop=533,300,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Detroit says 'shoddy' work led to wrongful arrest tied to facial recognition technology",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/amp/",
-      "publishedDateTime": "2020-06-28T16:14:00-07:00",
+      "ampWebUrl": "https://amp.freep.com/amp/3265943001",
+      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3265943001",
+      "publishedDateTime": "2020-06-27T04:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -270,9 +223,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1325,6 +1277,53 @@
         "name": "UPI.com",
         "domain": "upi.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids.md",
+      "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
+      "excerpt": "According to Russian business daily Vedomosti, a new facial recognition system coming to every school in the country has been ominously named \"Orwell.\"",
+      "webUrl": "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/people-of-color-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/amp/",
+      "publishedDateTime": "2020-06-17T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

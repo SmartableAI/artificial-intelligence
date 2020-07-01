@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/
 type: article
 quality: 59
 heat: 59
+published: false
 
 provider:
   name: Benzinga.com
@@ -25,6 +26,6 @@ images:
     isCached: true
     title: "How Machine Learning Improves The Efficiency Of Freight Operations"
 
-secured: "7KgU8pG9a9tRePfQQb0LsSVrV+a7ie4CbJ2tP8bPsAKkU471a2bRhbRhsRdlRgbSmXvB0grE15OOHpd4pav5wYB5WkSpqdOU4/Rj2L6iUXvOuYI13d2c8TfpGuR5qIpoo/QmkiiuR3pZTzGKzC6lIFwmqYwE2TS6Qk/w+183NXiE1vKggCmrBuiQFgwd0SW8zdf4zGzwCPr2JjyC/Jv4HJjAYOt7ySnzZY3nHx105IGXOcixC7Ns5+VTcx0XEIsNg5nO5CZ8ed5s2qGoCq7RCk56oP52K1sucOXMfWRjuZPOuCJXGwTq/c6fORbPYo7FtRPig6/yfMYGVfkqzJibWw==;sp2MDMPP2q9GsM2upJbWWg=="
+secured: "UjxKNrO+KaO6eXK696Nq6pduNxxrDTSXvBHUfajp5Y/RzXHaq+WDVUvjINHzkrPmd3EOp+JR3crmxQHK/1Jm4qwpJqZuHhNFrAMpyMYc4frClZSgWw6j5yRX0QNrobdp1PpKf3fU9JHDu1p6ocXSV5hVItrY8WyBBWs06K6Yl2qu02Gx6JHacSY7cuRygCmRBso5ciJfVecwOcSmjTuL734RwDl42EBH8j12lnpU20UAvoQqaSuQUb5DQxMynUkjIV88fWWQ3YtxbFF9r7cRvYlV6nLtBpV1uI7g6JfFKjIKHUKYCTg14xEDJRFWFoIMaTJiLAympO/TTH/liG+PChx6B9NOKev7K+vXumpj6zFanfQ162ZyQOSfS1IiBBdmEiSbU/X6ANFBM0YByd3T+pNgoF10JICMFRbPILgXuMr44Vhlbb3Ci8z6JQxFXXG380YbFZhOkU6ThzdAWgGIJcyydaHrljTpni4BfJWF+h4oSAwbPCqjLZAT6pnF0eRLa8tJc6E1qT2jcENccsjUTQ==;CeoIDzlmq3iYse173SO/rg=="
 ---
 

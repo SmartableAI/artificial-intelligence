@@ -8,7 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/07/01/pudu-technology-raises-15-million
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots/amp/"
 type: article
 quality: 99
-heat: 99
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,6 +30,90 @@ images:
     isCached: true
     title: "Pudu Technology raises $15 million for ‘contact-free’ autonomous delivery robots"
 
-secured: "Y0VEN3gRKOj05Q6escj4yc4YMpmYSPAwCXFnx5SCjzNwn9BSNVU5Rpqx7PH80cYKAwgRPPgGrVDiYglxfqY7q+OI5Mj45bWGYuogG6X5DKSEsP01uXlZ1G1Bfml2EpFGPivViIY3MiFDJ+H36v1szTB1Ln+Fe8QRreyyIeHxPjgAvNw5gqoIPTiSc3kWWy+sFnso0NNrf46I6Fl2ZmjntifuwGy23onRMa7lIOA+o9ApR55/F7xcHGLI8PB/QIcYuOWD5Kz2alxmZPvBYAT67oukNy3tRw17hCCm5GLUHqgXyqLLPjD3UCNilX0s1Sye8lNLLWUzL9QgbUXi21dy9A==;AgHAbUcwC2/X1E01bDfMEg=="
+related:
+  - title: "Elementary Robotics raises $12.7 million to automate industrial inspections"
+    excerpt: "Elementary Robotics, a startup developing autonomous industrial inspection technologies, has raised $12.7 million in venture capital."
+    publishedDateTime: 2020-06-30T13:03:00Z
+    webUrl: "https://venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/"
+    ampWebUrl: "https://venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 117
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/4d006010-e497-496d-8ac8-5d5df66bc4e9-e1593109151202.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Elementary Robotics raises $12.7M to expand AI manufacturing platform"
+    excerpt: "The Los Angeles-based startup has built a hardware and software platform for applying machine learning and computer vision for intelligent automation of quality and traceability workflows in manufacturing and logistics."
+    publishedDateTime: 2020-06-30T16:31:00Z
+    webUrl: "https://www.bizjournals.com/losangeles/news/2020/06/30/elementary-robotics-raises-127m-ai-platform.html"
+    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/06/30/elementary-robotics-raises-127m-ai-platform.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/06/30/elementary-robotics-raises-127m-ai-platform.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 89
+    images:
+      - url: "https://media.bizj.us/view/img/10715656/tmmtx-toyota-assembly-line-05*600xx6000-4000-0-0.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Hunters.ai raises $15 million to automate cyberthreat detection"
+    excerpt: "Hunters.ai, a cybersecurity startup that leverages AI and machine learning to detect threats, has raised $15 million in venture capital."
+    publishedDateTime: 2020-06-30T13:22:00Z
+    webUrl: "https://venturebeat.com/2020/06/30/hunters-ai-raises-15-million-to-automate-cyberthreat-detection/"
+    ampWebUrl: "https://venturebeat.com/2020/06/30/hunters-ai-raises-15-million-to-automate-cyberthreat-detection/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/hunters-ai-raises-15-million-to-automate-cyberthreat-detection/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/hunters-logo_rgb-e1593112019971.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Hi Marley raises $8 million for its AI messaging platform that connects insurers with customers"
+    excerpt: "Hi Marley, a startup developing an AI-imbued messaging platform for insurance carriers, raised $8 million in venture capital."
+    publishedDateTime: 2020-06-30T11:04:00Z
+    webUrl: "https://venturebeat.com/2020/06/30/hi-marley-raises-8-million-for-its-ai-messaging-platform-that-connects-insurers-with-customers/"
+    ampWebUrl: "https://venturebeat.com/2020/06/30/hi-marley-raises-8-million-for-its-ai-messaging-platform-that-connects-insurers-with-customers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/hi-marley-raises-8-million-for-its-ai-messaging-platform-that-connects-insurers-with-customers/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 75
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/1c7c0b76-fdef-435c-8d86-6002877bce09-e1593117540834.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 688
+        isCached: true
+  - title: "Elementary Robotics raises $13 million for its machine learning and computer vision offerings to industry"
+    excerpt: "Elementary Robotics, a Los Angeles-based robotics startup, has raised $12.7 million in its Series A funding round led by Threshold Ventures, an early-stage investor in technology companies."
+    publishedDateTime: 2020-07-01T07:40:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/07/01/elementary-robotics-raises-13-million-for-its-machine-learning-and-computer-vision-offerings-to-industry/33667/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 66
+  - title: "LA's Elementary Robotics Finds $12.7M For Industrial Inspections"
+    excerpt: "Los Angeles-based Elementary Robotics, a new startup led by startup veteran Arye Barnehama, said on Tuesday that it has raised $12.7M in funding for its industrial robotics company. The funding was led by Threshold Ventures,"
+    publishedDateTime: 2020-06-30T18:00:00Z
+    webUrl: "https://www.socaltech.com/la_s_elementary_robotics_finds____7m_for_industrial_inspections/s-0080032.html"
+    type: article
+    provider:
+      name: SocalTech
+      domain: socaltech.com
+    quality: 34
+
+secured: "FCOIcpH3J6SbjQxq+4MUvEt8NLupt2SxWVbsMOmN8zdOyGSn2TOP5jn8PyhpqlSqVsDo4IARNpdMiMvdkOai+Hy9hvjQVCXfdA/abIwZPYna4CLKqNKv04IXU9zfs/kOgaNv2LwRgfRDZBTeEMuleSfVgZVa+J4txjpC+niiXOLHXnxS1VauG52Vuzkv2a8Ag3lHFJZ2cgT9V/Sk7jvWBSajfAeQXWgUrPpmQ0dBWjxUOfm21R9wMryo4wZWoZ5m/RidQsLSu9olof0bWyIr/yEectzU4gck+IPlzlTYH7tCAl72JQLVUQfV2w5ckyNXxZ+gvh8z3UkyAzTRmW/lO4PvXQfFn2YaffIk4JnhMZucbVc+0S4fiQKtwnfoeAuJuTB53sfiY4S4g+YQQByHrtdkMqhTcwcXvmF3FMySCaRGWbpSrWMERGWGx+3wrADbsoxBCNvqENMwMmFAv1T2sP7YeQ4gyM2jjXqIDBm8MZLJsibqu1NkzABlLWDk0jvlpX+EafGI6IEas3pNmaGL9w==;byhMgrnPnKG1AYuncP2cbg=="
 ---
 

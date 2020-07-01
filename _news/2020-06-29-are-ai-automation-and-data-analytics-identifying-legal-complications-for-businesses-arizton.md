@@ -30,7 +30,7 @@ related:
     provider:
       name: Government Technology
       domain: govtech.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://media2.govtech.com/images/taskforce1.jpg"
         width: 940

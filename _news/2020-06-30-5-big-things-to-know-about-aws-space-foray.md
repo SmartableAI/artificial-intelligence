@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T23:38:00Z
 webUrl: "https://www.crn.com/news/cloud/5-big-things-to-know-about-aws-space-foray"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

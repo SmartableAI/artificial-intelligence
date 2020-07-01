@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.
 type: article
 quality: 52
 heat: 52
+published: false
 
 provider:
   name: Daily Mail
@@ -26,6 +27,6 @@ images:
     isCached: true
     title: "China opens a restaurant manned entirely by robots, including droid waitresses, automated baristas and AI-powered chefs"
 
-secured: "tcOB0xP/SBqWLIphkTMpzfTp+NxlkezWOEVRJPg4GC/6+U/k2MZubDxZigXXhATV2VgMnT7Ehh7/nBN93BOtHJZfaqDk4DtImfBQdagtt3bCToeOQtutK033nMFGDPiStX6dOuzf2AdyMqZcCJeCDcAqHYFc4b7X7rVHUI3mjVeSYUyreirrhrK/9mFEtS7DrZzXrf47bdoCN/qEVrVb+9Z3B9xVGiATuIWc72Z5ra/EKgUpu9rtJIhj8j/TL6APzqSfEZqnNrIIGt2NodQky8F8AeZ0vEnkjYvQLS9bKSbdMwX+br3RYUiqIhxXTO0tOiiSdNA7dCIgMagHHrCoKQ==;mGtxa/29K1iyZIjLto8K8w=="
+secured: "QXDBSiNmYMt6B5lLIVPW317ETbcJYg6Tbq28TcM8C910vWMHcottGprcZeFr3ulHRHjIPlRVAV3ykGa95v7pS67nR1iBuNkKEJ3K+cNOLCQgfhdmvR9UI+pGgAvJoJa2ms2vAY7aaKmLZ4BCQ/PWPaJdQt10Rq07aghv1C7ypX/NzrOm+1j8IIlRn/PLBw1k8568AdrUjW+ZLtjI3zG8p5v7a11oP6gz3cSV5TSZM0Hc5iQWlUffQ7kWSPaUUV0lki70GjsP070Y9PKHSLITHTrgHYeTMXHfosfh7myk4Nj5B21p9tY0h1/JF4fayDOXjPk5CI1ZOOFtt7RNIoEEljOwDT+Of/UZ2NazLwWSRvzkd5M08W7UpU83VqRInlDuZeujvLtWlvU3loKoxV1K1HavHEwCzeNsQRoKeq0zl20dfGPhU8KRl9kGPiWl/vniM/hIDi3Y6+OWR49MnYBjckEp9u5C7e0yEc4GeDEm5p/AyZMiNShW4ksClGQKD4A7XU6vV1OzRPTAY/csdlxbaQ==;BG6532CjJJ5ip2ZZiBetEg=="
 ---
 

@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Pudu Technology raises $15 million for ‘contact-free’ autonomous delivery robots"
+    excerpt: "Pudu Technology, a Shenzhen-based startup designing robots for hospitals, restaurants, and offices, today announced it raised $15 million."
+    publishedDateTime: 2020-07-01T14:47:00Z
+    webUrl: "https://venturebeat.com/2020/07/01/pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots/"
+    ampWebUrl: "https://venturebeat.com/2020/07/01/pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 99
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/07c9efa2-6612-42b1-8626-1abe610b97ed-e1593613750763.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 574
+        isCached: true
   - title: "Elementary Robotics raises $12.7M to expand AI manufacturing platform"
     excerpt: "The Los Angeles-based startup has built a hardware and software platform for applying machine learning and computer vision for intelligent automation of quality and traceability workflows in manufacturing and logistics."
     publishedDateTime: 2020-06-30T16:31:00Z

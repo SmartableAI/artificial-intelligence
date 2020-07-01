@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T00:38:00Z
 webUrl: "https://www.thestar.com.my/news/nation/2020/07/01/face-recognition-at-public-events"
 type: article
 quality: 19
-heat: 29
+heat: 19
 published: false
 
 provider:

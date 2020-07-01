@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google
 type: article
 quality: 82
 heat: 82
+published: true
 
 provider:
   name: ZDNet
@@ -29,6 +30,6 @@ images:
     isCached: true
     title: "CIO Jury: 58% of tech leaders say robotics will play a significant role in their industry within the next two years"
 
-secured: "lgvgYs3DcotUhZllTzfph+p/H416CQsmR7jeQRIYqJSNVXJ1qh1tGRQfN2Ib+3gUvq01t+KzR9xDKIAbVA5yS5I45GBiuQn3FH80uFrV9rBO/45Bl6F+4WVYV0X89u9oyr5RzA2XdGFFnkt2sQnaEnU91WCEoK60wO9sCcPG1INXmVrjvrZ40nEEa1BhhQUSnBkFvI9WD/HAnhvldMGtebNeoy1JXoqKkpQKVawekn3g15lhtUnD6uFFCk0xflO3a1DomTBGcsVd1K7rb4Ggyoysr/pjVnQrscunopvXCwsDTvpYSWuG9CmLQse7r8xCQ+R2yesp0GYjiIvudI6gEg==;1H9i8pgibpPP3RCZS/lxkg=="
+secured: "Rhb4i/xmUbF6JdAdLuGorYViniFB0sfG0zCd1WLtTn2emilXBjakx7UPx0giks31lhS+nKDwGhmhFs9TONOsGxEQgwv5nMrrIekudHtbDE1oeEAkCzXmknPAiB+G97PU/6iwyVkpa7bMLL3NGw+HB9CruFppgLc6Zac34H45lkfLiJT2hsgsoqk/HtPp9X47pVNxAJriDjn3Y8mnoDnjcyLie/6IiWWPQUGgI2Frnk1Wr82IqGGPv+GRwe1PkhraaWy58yB3qn4Y/DH2wQNvauoWLyH1iZ95I5oRBOKXbkUW4iyz+ABAfJenEVq6J8CKsU155HgkkKh1HuwQCcMD3iVC/GKcJzKOkxuTqN/yyNq/6qpGh+ROGO+tx8FNQC7idskFgLb4mT+L8nNjk95SCNykyYjIEIzAZQc+2pjdLDKhoQFn0bAxa1mvVV+Xtt+PWwGmvOt0phuncHucH5bauP130Qu2mZO/BeTMgoHx04r1FVa32BHasGfJ7lH2t1NJ6YzZlc4AV+1+5xHb1hUF0Q==;CO4iQuZ0d0gTBD1iDu5Ezw=="
 ---
 

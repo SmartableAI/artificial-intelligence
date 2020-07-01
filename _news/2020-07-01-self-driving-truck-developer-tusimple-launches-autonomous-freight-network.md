@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "TuSimple seeking $250 million in new funding to scale self-driving trucks"
-    excerpt: "TuSimple, the self-driving truck startup backed by Sina, Nvidia, UPS and Tier 1 supplier Mando Corporation, is headed back into the marketplace in search of new capital from investors. The company has hired investment bank Morgan Stanley to help it raise $250 million,"
-    publishedDateTime: 2020-06-27T21:54:00Z
-    webUrl: "https://techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-new-funding-to-scale-self-driving-trucks/"
-    ampWebUrl: "https://techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-new-funding-to-scale-self-driving-trucks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-new-funding-to-scale-self-driving-trucks/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 73
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Self-driving trucks hit the road at scale with TuSimple's new freight network"
     excerpt: "The Autonomous Freight Network will receive support from UPS, Penske and US Xpress as TuSimple works to bring self-driving semis to market."
     publishedDateTime: 2020-07-01T12:05:00Z
@@ -78,7 +62,7 @@ related:
   - title: "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane"
     excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021."
     publishedDateTime: 2020-07-01T12:08:00Z
-    webUrl: "https://www.reuters.com/article/tusimple-selfdriving-network-idUSL1N2E723U"
+    webUrl: "https://www.reuters.com/article/us-tusimple-selfdriving-network/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-idUSKBN2425QS"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2425QS"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2425QS"
     type: article
@@ -86,6 +70,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "TuSimple's New Autonomous Freight Network Lays Groundwork for Self-Driving Trucks"
+    excerpt: "Autonomous trucking technology company TuSimple has teamed up with UPS, Penske Truck Leasing, U.S. Xpress, and McLane to launch the Autonomous Freight Network, which it says will lay the groundwork for self-driving autonomous trucks to become commercially ..."
+    publishedDateTime: 2020-07-01T16:11:00Z
+    webUrl: "https://www.truckinginfo.com/10120147/tusimples-new-autonomous-freight-network-lays-groundwork-for-self-driving-trucks"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 19
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-07/l4_autonomoustruck_tusimple-web-__-1200x630-s.jpg"
+        width: 1151
+        height: 622
+        isCached: true
   - title: "BHP jobs on offer to build self-driving trucks"
     excerpt: "THE rollout of 34 autonomous mining trucks at BHP Mitsubishi Alliance’s Central Queensland mine will create 56 new jobs and a $35 million windfall for regional businesses."
     publishedDateTime: 2020-07-01T01:00:00Z

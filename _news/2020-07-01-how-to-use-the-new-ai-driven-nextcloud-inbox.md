@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepub
 type: article
 quality: 87
 heat: 87
+published: true
 
 provider:
   name: TechRepublic
@@ -28,6 +29,6 @@ images:
     isCached: true
     title: "How to use the new AI-driven Nextcloud Inbox"
 
-secured: "gIHN8ErSGPpIplx87xElMdOomLb3q11ckZG7IMGJlVS/+PE5V6wHAHC4Pg+d4rEZDGwEvJ6fMj7cPSVMVRTVdnthh3mw5uIlSvjsdLaben/h86APX7QEr1P+XFZ/f3Jb5QV0aapSp5ENdV321+F90tBhF+9hFrIyFDEmiZjp5a1Cpf8EkzIm/JjDkHF0TlV7O2KQzp9z7UCYqtGKolkhzSBFiC1BFdJYmr09bptWsIxnkNy1/W9OJyLe9t0HT21SO9mS3n94pgZBWZ6qmXfNzvocKz7Gd3VCisyMvy4oy3jZYcfckxa/6SlCtjg8AwnhjfWDgS2TcVOOUl139I0LIg==;iqMrntoroNqZj0XXThQs/w=="
+secured: "WSoBaBNNXKY5Efsvw7X9diPao+ErGMSZ3QeOZ0hV/O6yNHkWEA/E97sdOsGcOz2VF9WDXTVwSBzfurMt98a0i6fSM8KO1Dx4Q4fpuB0RcKq4CE/uQyUDSOMK/GPLWYHI/gcCRR/H1VOiwLBmn3mjq79cIpOjrlkjatOAMbYGqR5PIVn6QQ1UODz6tkhTOuOTJJ/GYEsN7ujl+HvOMF6dqbeUCkEmgtEvdolklRwZVmSOS5u9YwK9ob6gWzzct3njBQvYUaU0Aj4HueAnoDyGK2T12kuNeHIkrLH50fE0EWIoTvvXPsUyfrnBomqbJJKs0kZWLKf+CKyzN0WvmDJiiisj+WB+PYQCjfMk41hpHcg87QkjojIee6Mk6aqfsTysSTWKkjdViIH9XITzxSbGgCn7pvl3Hv2gPufgGKegHX8/quPD4PrdEtEa01yLrpFF/eczSJ9gsQWS5UwnI4IechX8SteWLmIHeAlckZUobG7ZALDFutONZ9yl/0rPyZz8vcz7Uunse5xyhX/F6goStA==;REpGXOLS4m8dJ7E+5seB8A=="
 ---
 

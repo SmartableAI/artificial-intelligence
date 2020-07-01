@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepub
 type: article
 quality: 74
 heat: 74
+published: true
 
 provider:
   name: TechRepublic
@@ -29,6 +30,6 @@ images:
     isCached: true
     title: "Self-driving cars: Will buyers come if you just build them? Maybe"
 
-secured: "FWzGuA54cIzj5aPed41bxr0s5+8G63CohaB2TBkCJQe9iyW51nfoNJe5eDKC9qvqJ2saPENmG5HF4vSWkTDx8IjyPkVR2oayN2s59nDgoyG/TaDxWNuZZiDWdbwR7rRMKuXROi9RLCIZFfEbXph4Ustrl2KsaeRmkV21WypRSiDsJuRi0AoZNr0s1YeWn2sFlpEGwH76Ygqgow3rNZ0QBE9cgBB7iekx8AraoKybuuCul/r4aO0EB9JSl4RWy2AZg01xNuewr1HtqctbRYiPM5Ire7fHI1QWnmATLxz9pictz6jqk9+8gMjZIUta3NpFBSbBYwBkAgm8eW/wFl7Jhg==;FlK4BpDsnzGytWxE88LPxQ=="
+secured: "2zLU1lRIFevGVA2+VoaqzcN0LMeiURbeqAj3r3ea+moJCqJP+vTLqFxhfp+W/m2rhcSvH6Sz3Auav1nPntLeGHGFOd4VDyRXSkuHv1zdkUu1iyLeUnxUfY5SUDWRFugFhilgUr58iHj1WZvjVLUHTzr85K6tAAR2MwyC/xFSYE1qnxF+jQD/DLmM24HSvExAfdWwJwF182p8lQz2g/aCgnuNNo7bie59q1Vp7MVhoqU6DvzkTqPL7Bge9X6s1qjNt9nLvHeOIio1c7jRj2/mAOjdNBahI08+0jFu8xXC7iBuA4bETVYWsQTitzYHm6Dm2rjnZ92wlA43Nbt1T1QkEP0RRUoMrlAV5GaXDUcs9+3BltB52crNmHalNLlIssj+iF7omMC2oz7+aH2ZnbK4/Hf+TsyfCC35qxuexwBpT3KdTg0QdOMBStlzzVg8xmjg2SuiAMdXJqpdZ8jQFl9PedaRIjEAJt8yFdwHiSTKo67anZAUfpzPiXGYfif5upVHk2a2h1wKcOU4hfb2F+P+6A==;vtZPIOvS9ovW1cz7bYSkMA=="
 ---
 

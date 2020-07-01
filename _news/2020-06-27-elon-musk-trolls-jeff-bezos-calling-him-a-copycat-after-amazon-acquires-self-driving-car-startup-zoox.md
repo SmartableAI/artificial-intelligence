@@ -192,17 +192,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 30
-  - title: "Amazon To Buy Self-Driving Startup Zoox"
-    excerpt: "Amazon jumped into the arena of self-driving cars Friday when it announced an agreement to buy California-based Zoox, a startup designing autonomous ride-hailing vehicles that can be called with a smartphone app."
-    publishedDateTime: 2020-06-27T00:50:00Z
-    webUrl: "https://www.law360.com/articles/1287265/amazon-to-buy-self-driving-startup-zoox"
-    ampWebUrl: "https://www.law360.com/amp/articles/1287265"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1287265"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
   - title: "Amazon has bought a self-driving car company, Zoox"
     excerpt: "The company aims to build autonomous vehicles that people will be able to order like taxis, and will now do the same under Amazon’s direction, it indicated."
     publishedDateTime: 2020-06-28T05:48:00Z

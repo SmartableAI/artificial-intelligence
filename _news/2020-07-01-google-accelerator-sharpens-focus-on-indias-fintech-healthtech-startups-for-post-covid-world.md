@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/google-ac
 type: article
 quality: 32
 heat: 32
+published: false
 
 provider:
   name: inc42.com
@@ -25,6 +26,6 @@ images:
     isCached: true
     title: "Google Accelerator Sharpens Focus On India’s Fintech, Healthtech Startups For Post-Covid World"
 
-secured: "l42V3cjYqT6AvHW+FzdpnosLXqUUuXrh4UjZ+rS/L63Kbmq1W8+WpgS+1GNFgQ7frAJk/03DnH3zBKNzJBHYElWyJVhroHqQtnnXfMmfQx7/p6Rt1hNJOwaECtm9+I7pxDsLVsE/HR3yZ/TcRTnSEGw65xoQue5AQwJ7ga8Q74e0F5KsRoHUlgpgMQ+sEKnQ1ZBbi6Z3Vff6XlWxcUF21XgwO9xs1tllS7zZbGC5cCCVXXSbKIJE06wluSzncEApad0M8P+tREMulINzKRPtW0onCkX5Mf4d88RVHBppSdoplso0SfjxkhxRd325Leettk9lF9PCQ7+fHbDobgLLEw==;uo73Yr/iunagarryfZq48A=="
+secured: "/2rP7yARvpNXCISQ86PfGkcKPsoTwE9TbAar+VH1N6jxAMpxesJJlEutZHecIHuPtD6C5RIqR2q2LaJ/k54AnHKGmc9uqk/+AFZD86vm9haqNIoF3plOZyp7B8p3DrOtej66z8SrXgG2egSmkEMgEIALLovzTHjRLmUfyBTV+m/XBFXoHkCrW5NzDvfA7QE1aTVJWibMXF7Ag6RfKo00DEAIJcawgTqGfjddgaPUzSTha+E8Bj0313UYulVQKuF8NAOtrOaD6/MZs4euKonGGLjwyXHhhgO6InUJTamCRPWlCRxXrnWe3Tka+Xl940+FV/RL7HC8qcFQxH/PMRty2E6Q1pnorCfz1Jhk6uj4kO9xg9PWSS63w96CCQRW5MQhM+SRu3UHU846fB3BHdlbUjTIrip0HGKkH7m9zZYuUex9nYZCA9kxqZOBUEzUACbTdZr7atJ9PJdvqq5/JJcY9nNF91tDX0/hlNBBLp/EJhuJEOQlDBfbHVmSWMMjF6d7E5Hi7ZbuIPJM8FzA5Y3kCg==;Q6hfr6v11s7XTxx9VK9IoA=="
 ---
 

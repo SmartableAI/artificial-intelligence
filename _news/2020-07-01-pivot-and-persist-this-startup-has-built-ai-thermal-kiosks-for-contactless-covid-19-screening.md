@@ -8,7 +8,7 @@ ampWebUrl: "https://yourstory.com/2020/06/pivot-and-persist-startup-arvi-ai-ther
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/06/pivot-and-persist-startup-arvi-ai-thermal-scanner-covid-19/amp"
 type: article
 quality: 45
-heat: 55
+heat: 45
 published: false
 
 provider:

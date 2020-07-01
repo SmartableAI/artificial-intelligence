@@ -7,6 +7,7 @@ webUrl: "https://www.prnewswire.com/news-releases/artist-pindar-van-arman-develo
 type: article
 quality: 48
 heat: 48
+published: false
 
 provider:
   name: PR Newswire
@@ -23,6 +24,6 @@ images:
     isCached: true
     title: "Artist Pindar Van Arman Develops ST Robotics' Collaborative Robot into the World's Most Evocative Painting Robot"
 
-secured: "rplNB0Hm/U8yWBBp1d9UVI3CPQb0K/Zir7MINdAcv4rdAWPS0/TEMv3TBb2G0YTDvW7OdTpUERuh3Wqg1hnoWwdATpHWZXYkynUCaJPk4F/oT8n4Jjz5baxr+sgPo90L8LN4SUHntWZoTCgn3wz/H0hlC4QcHZ8lxLlF6yGsMNeucqQh/GNyjByfjHR+puATzs1D1FTQKUtnO9NmFOX5iHrCcSvRARQRx286IMuiJm5Z+DHBppG8U2flLy84r//7ZAftlpZyO9x1PhrQ3ZeIoxBO1DtPQaz2uI2RMgsZo4RbDF+yPIBp7M/vI6H+VGQ8HKb3BM5GEMPWHMyeNiIvHg==;beuiRjL/tt4gi6AQ/jzulQ=="
+secured: "y7hYU0zMiVIBg206VZ0vvUu7CgudKVRMRw8makrrTEDQgpBQ+u56wc6QIuw++OncNs+Fq5GoE6U4fiKO8RGgvj1R0gmcbBew7+kZ3vkjS4o3eXC2Xb5baRV4uoiOO36YF6AHqADamQKN3ftbj67K7UU3FFiT2F4KI3k174aqF9Fu30R5GKIRC7dbVVITYtcQsIJmsNs40BAqzFBY9B2qMUUZpcr7rh+Ae+b3hCuZw7xEKMuBF+f/2CXdb/cdThfIKLsJfKGPmGqobdozgjUHaXopKiB2Yb0TDQxyHPRGSMKKXFnEl/7Di+IUGpbfpXmHj6zJR807ug1k0eni6nrJWl3Q2WpaYNjvw/mC6/CEJtDHp+c9+lNOn7GuhagXOKMozPSmSJ6GoLHd8fre8LV12i3d4Zxh9mdb9RcBLqueB7T3Cphry4LuOlzWkl4VajGP69HuvR0yWmLsE8ilb4SqDw044D/SfHlxWJTiLdlFzNEc/EOjdAU6KxEL40whBvJKjaFwwTi9yirNsRSx050Gfg==;RsYnVGDE3x5duAf+IvluNg=="
 ---
 

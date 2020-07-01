@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/
 type: article
 quality: 44
 heat: 44
+published: false
 
 provider:
   name: Benzinga.com
@@ -25,6 +26,6 @@ images:
     isCached: true
     title: "Lyft Resumes Self-Driving Test Rides"
 
-secured: "KVDDLagH6bBkPYZ+u4KDr+hxPNmB0poMz4iDngVm8DHSS3HoiiapYLYWQCg+SB+UYAGGGa8swv8I1/wvNsju7+ND9RtE2IzG1SbMsgNlUtRDyRqajpZLbzXj9PSoH0ywFxQh618Gs0pxZy4Q4NzmiOtOMJFVK7uzTmialbzs5kLC44TVuJnKul7pLzk2j+7acrf2krDdRPKae7GtiBLdKNW4AsgdoZrZ+s3IeC3N1qeZC0Z++A4f4oz+/Wb7Z8pNMvtnb3lU2RG87mj4qjCir0Dd4s6AogPhtuQS2SVBDMdueHKtsSEslONb4xhB+Y9Kiwd0nUjVt+F4oFwRzaPcsg==;B8IK2RH2NwTcrXXgXFhhjA=="
+secured: "LQGFA1fMMiu99KgT4Qxfw56LfjzXV5Mjd6MTlAY2Emj/WJ276rMC5Kutk9XHcCKZOb/GnZ15ybkFhJPKSIhzvnrQXCrZ25wAyauYKjQTqJ4fBRGHvlf7VwzhEVU+l8n1HMOjvotzT10cZWyV4ZrCYhUO2GlViE1XalJadKuu7gn9UE4e3S6B/Yih8WJFQlbVx58mgtvKjB+YohAHUlrhRhZdJ1YyTVoRRBK+iqiroDkqEcWf1ZjVG9oJ4GClv8kSPfxRGVrOZ/cN+o/bKX+HEu+H8wc/NWNougngSVfa6+jR3rAWOWF5YG/NftY9hFdQ9tD1vUU9KV9SIQVBZcHiILbs0XcDIvQTRLb2wltEWWeqQS2IIhgr3eb6BpEB8KXOhXsTA2cGTRXCup83FWd9SeQ6YvnaEkRqSYnX9QOAqrCufp/PG+qqHjFZd6zxIjAKGGwq5DUaFAdoIEI45bhgHeETkR2FkgrvH7HrvnS8dKnK6bxZTqtmb4ERdFLn6o3FiDow0yNWKG5tnMs68ENwPQ==;RmoeeD3PHK45ZQpxAEu8TA=="
 ---
 

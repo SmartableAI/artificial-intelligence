@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google
 type: article
 quality: 89
 heat: 89
+published: true
 
 provider:
   name: ZDNet
@@ -29,6 +30,6 @@ images:
     isCached: true
     title: "Robots are learning workplace etiquette at MIT"
 
-secured: "PejEHF+Mqno9QW+lKiIn2ldx0iQvuGoF0XfGPbU8n9dEviikZ3y0fPAa/MLvsYCs7La08qJzUtOEmgkRlUI7FFMuV9FeEwcgJDgW6FT7wtbbM0jXZdWJRPrBUf2ysmrOH3BCTPW2JyMnu6j9nhvgKZu27EV6pxcMbZFleqK6ipQEiFeNa23AJx7PZvLFS1BDMRPX7pwzMb0X5fI5kaK0rFlgw+ORktm7zwxcw/JRYb2sehzPbnPKu0Gpm2nSCkBLs/zN6yp+e6nbY5LgX44xvgEgD24orBINX/6qAVoCXseU3n1PPDrdKhVwWDm0ZmHAo2rZTHwB8C0jjHA/Qgn2tw==;oYWzVZ9jdkIPtkl0CpUx5Q=="
+secured: "1vvr5lSnB1+tdLoWDIVevHGHDDERCssrKYiI62Iv9rFVRTiln6DMlZE6gyjS+DorW6/iX9KfvtPyUqjwjdwdPRAVl+UytNzxa+/7c8l+JPMB9QloCaA5jCkU4OEQj+i+VNn3JOVfvgoWAHvFTKebsL8GQpMRyVjksunqTkI3Zai7OqurxydekK5d9InE+CJCkPaeZMYlAfXA69hIAqbnDDRWaYyOlchEw7yxZGZzd5XXdlZ+XAG7we+8Yg4nponL4x0DCARba7o2aHHQSyIjLODIWXFByOCsm0djTWHytsOLrXD0OqeDBkZ+7ZVUpXSPzKumNzJCizibJFcrro5M/1VWN50CX5G0l6aU660EnzgNNWXBqjfqP4yCWgsWHBFUd0RlGO6ptGoNOJBDLrjiy//XC3Ed4sZv2RgImTLDP0XVH8j4wSn4P2bFkKvWuCpkE2KlNiuPhQCRT/1b6P1hZ6EDbHYzufo3M0ZG7Bnj5fYr/h4QoY1t6u7Df6VEQ4njGqcaUn+l33I6wUDZQVCvNw==;uvJdjevQK0DigN3l36p5ag=="
 ---
 

@@ -7,6 +7,7 @@ webUrl: "https://www.bisnow.com/webinar/washington-dc/artificial-intelligence-au
 type: article
 quality: 13
 heat: 13
+published: false
 
 provider:
   name: Bisnow

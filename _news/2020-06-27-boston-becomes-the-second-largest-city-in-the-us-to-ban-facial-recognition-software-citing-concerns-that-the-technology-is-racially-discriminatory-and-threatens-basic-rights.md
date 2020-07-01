@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-s
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-second-largest-city-ban-facial-recognition-software.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -25,60 +25,6 @@ images:
     height: 382
     isCached: true
     title: "Boston becomes the second largest city in the US to ban facial recognition software, citing concerns that the technology is 'racially discriminatory' and threatens basic rights"
-
-related:
-  - title: "In 'the Blackest city in America,' a fight to end facial recognition"
-    excerpt: "Activists say facial recognition and its racial bias have no place in Detroit, a city that boasts the highest percentage of Black residents in the US."
-    publishedDateTime: 2020-07-01T12:09:00Z
-    webUrl: "https://www.cnet.com/news/in-the-blackest-city-in-america-a-fight-to-end-facial-recognition/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/in-the-blackest-city-in-america-a-fight-to-end-facial-recognition/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/in-the-blackest-city-in-america-a-fight-to-end-facial-recognition/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 91
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/U4mP_-rt6ZiOcOSW9GGJyC_iFa8=/756x567/2020/06/29/30d88944-0d4e-4dae-a68e-c3477dd7d227/gettyimages-1217491940.jpg"
-        width: 756
-        height: 567
-        isCached: true
-  - title: "Facial-Recognition Tech Might Be the Real Reason to Buy Remark Stock"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips. When discussing Remark Holdings (NASDAQ:MARK), most investors and pundits have focused on the ability of the compan"
-    publishedDateTime: 2020-06-29T13:10:00Z
-    webUrl: "https://www.nasdaq.com/articles/facial-recognition-tech-might-be-the-real-reason-to-buy-remark-stock-2020-06-29"
-    ampWebUrl: "https://www.nasdaq.com/articles/facial-recognition-tech-might-be-the-real-reason-to-buy-remark-stock-2020-06-29?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facial-recognition-tech-might-be-the-real-reason-to-buy-remark-stock-2020-06-29?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Detroit says 'shoddy' work led to wrongful arrest tied to facial recognition technology"
-    excerpt: "A Black man wrongly arrested after the use of facial recognition technology will have his DNA, fingerprints and mugshot removed from files."
-    publishedDateTime: 2020-06-27T11:55:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/06/26/facial-recognition-wrongful-arrest-detroit-police/3265943001/"
-    ampWebUrl: "https://amp.freep.com/amp/3265943001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3265943001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 51
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/01/21/PDTF/7f37d006-521d-4d6e-b65c-51b641c9d880-IMG_detroit_police_car_1_1_.JPG?auto=webp&crop=533,300,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Racial bias in facial recognition software could lead to false arrests"
-    excerpt: "A black man in Detroit was wrongfully arrested after facial recognition software incorrectly identified him, forcing developers to acknowledge the ways that racial bias is present in artificial intell"
-    publishedDateTime: 2020-07-01T07:38:00Z
-    webUrl: "https://www.rt.com/shows/watching-the-hawks/493378-facial-recognition-racial-bias-false-arrest/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 19
 
 secured: "CXKg6KWeMMwSQIaX+5A+pTpKZWjuq3BF/tbkgPbSukYc3hNtLBN0YKHTc/IRR6pleqIzA9YBQtSwSABMaqfpJz08cPfWhP/MntlpktyYqh5QcXiy51EMws9xwLp2T+/WAzvxQHq/jyOtXILuI0KG59oncdPhnYx/ZqyfUrmKl86rPwDqdaPapqNOoX29h8HXT6x/VrwttOPTwTVHWF8lVhJeTIV01upI9I3+he0oPIQEtzyqKR6wq7SePYm3ES5UNiOYsXFKPoIRm8tKoKNFco8mg5da/GhHO5dMKYBcN834pW2vRHIq73uQPIviwLLe/ApzBiht6NX/VniRn5IAvg==;qHsW0FiX/QZzZaaX6E6S5A=="
 ---

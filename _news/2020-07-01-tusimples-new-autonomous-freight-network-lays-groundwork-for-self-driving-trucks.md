@@ -1,0 +1,108 @@
+---
+category: news
+title: "TuSimple's New Autonomous Freight Network Lays Groundwork for Self-Driving Trucks"
+excerpt: "Autonomous trucking technology company TuSimple has teamed up with UPS, Penske Truck Leasing, U.S. Xpress, and McLane to launch the Autonomous Freight Network, which it says will lay the groundwork for self-driving autonomous trucks to become commercially ..."
+publishedDateTime: 2020-07-01T16:11:00Z
+webUrl: "https://www.truckinginfo.com/10120147/tusimples-new-autonomous-freight-network-lays-groundwork-for-self-driving-trucks"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: Truckinginfo
+  domain: truckinginfo.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-07/l4_autonomoustruck_tusimple-web-__-1200x630-s.jpg"
+    width: 1151
+    height: 622
+    isCached: true
+    title: "TuSimple's New Autonomous Freight Network Lays Groundwork for Self-Driving Trucks"
+
+related:
+  - title: "TuSimple Adds Logistics Operators to Self-Driving Trucks Effort"
+    excerpt: "Self-driving trucking startup TuSimple is teaming up with big logistics operators to bulk up its delivery business as it lays the groundwork for a planned coast-to-coast autonomous freight network."
+    publishedDateTime: 2020-07-01T12:08:00Z
+    webUrl: "https://www.wsj.com/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-204436/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Self-driving trucks hit the road at scale with TuSimple's new freight network"
+    excerpt: "The Autonomous Freight Network will receive support from UPS, Penske and US Xpress as TuSimple works to bring self-driving semis to market."
+    publishedDateTime: 2020-07-01T12:05:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/self-driving-trucks-tusimple-freight-network/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-trucks-tusimple-freight-network/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-trucks-tusimple-freight-network/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 71
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/lnh92SF4UX0-VL8HUF2njl5K_qg=/2020/06/30/df6c8293-bfec-4e47-86b1-9a432bcb48a1/ogi-tu.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane"
+    excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021."
+    publishedDateTime: 2020-07-01T12:08:00Z
+    webUrl: "https://www.reuters.com/article/us-tusimple-selfdriving-network/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-idUSKBN2425QS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2425QS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2425QS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
+  - title: "Self-driving truck developer TuSimple launches autonomous freight network"
+    excerpt: "TuSimple, which has a Tucson facility, is working to bring self-driving technology to market and offer low-cost, long-haul autonomous freight operations."
+    publishedDateTime: 2020-07-01T12:00:00Z
+    webUrl: "https://tucson.com/business/self-driving-truck-developer-tusimple-launches-autonomous-freight-network/article_8ba2ca95-c600-593a-b33a-faeca9821b8e.html"
+    ampWebUrl: "https://tucson.com/business/self-driving-truck-developer-tusimple-launches-autonomous-freight-network/article_8ba2ca95-c600-593a-b33a-faeca9821b8e.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/self-driving-truck-developer-tusimple-launches-autonomous-freight-network/article_8ba2ca95-c600-593a-b33a-faeca9821b8e.amp.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 43
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/f/9f/f9f3389a-226a-551a-bde5-96402fd90d5c/5ef2709c628ce.image.jpg?resize=1024%2C617"
+        width: 1024
+        height: 617
+        isCached: true
+  - title: "BHP jobs on offer to build self-driving trucks"
+    excerpt: "THE rollout of 34 autonomous mining trucks at BHP Mitsubishi Alliance’s Central Queensland mine will create 56 new jobs and a $35 million windfall for regional businesses."
+    publishedDateTime: 2020-07-01T01:00:00Z
+    webUrl: "https://www.couriermail.com.au/business/bhp-jobs-on-offer-to-build-selfdriving-trucks/news-story/a7399310218385c62f043fa68c9d4710"
+    type: article
+    provider:
+      name: The Courier-Mail
+      domain: couriermail.com.au
+    quality: 4
+  - title: "Major fleets partner with self-driving truck developer TuSimple on autonomous freight network"
+    excerpt: "Three major for-hire carriers and a large private fleet have partnered with autonomous truck developer TuSimple to test the company’s self-driving technologies in real-world operations over the next four years. As part of a plan to build out a ..."
+    publishedDateTime: 2020-07-01T13:41:00Z
+    webUrl: "https://www.ccjdigital.com/major-fleets-partner-with-self-driving-truck-developer-tusimple-on-autonomous-freight-network/"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 0
+
+secured: "pyY/1O2pJ2Siz3Mz62m4ZUiPtNsRuPNcUMaPlj0ymtk49xHBfjydHmk+nDU1V3edX7YQOR1jn+/EFQrzdM0IVBBJ3Dti5Z35DeE4A78eGvwJKgR5N3ao0omyzb7DHJydblzBbuCtMX81j9TNi2bobuJPXb/HvzbencFaGQHfhri0fXnS/LnVxULMCncf+JHLnx7R/rAF8cTfaJJkJ/m3kGQwdOrBV4kInDFnd5NPnh8wdSe4zeGlIV4ixSjuP/0Jqjbqb8Q5psbIOoSP6lkrnlNivoI495pfsWYWeOP4T7dDN7H+3EPDkZIbMQnQnTIPpLJvgt9QWPCyR5kSAWTAmQ==;VyHcvBdi3jxqLyB/+7a89w=="
+---
+

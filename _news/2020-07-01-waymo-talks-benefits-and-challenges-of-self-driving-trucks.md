@@ -7,6 +7,7 @@ webUrl: "https://www.fleetowner.com/technology/article/21135605/waymo-talks-chal
 type: article
 quality: 19
 heat: 19
+published: false
 
 provider:
   name: Fleet Owner
