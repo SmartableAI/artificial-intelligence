@@ -2,6 +2,44 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-06-11-power-bi-june-update-brings-new-ui-and-ai-assisted-graphics.md",
+      "title": "Power BI June update brings new UI and AI assisted graphics",
+      "excerpt": "Microsoft announced the new Power BI June update for the desktop application. It comes with new UI features and AI assisted graphics. Read more!",
+      "webUrl": "https://windowsreport.com/power-bi-june-update/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/06/Power-BI-June-update-brings-new-UI-and-AI-assisted-graphics.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": "Power BI June update brings new UI and AI assisted graphics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://windowsreport.com/power-bi-june-update/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/power-bi-june-update/?amp",
+      "publishedDateTime": "2020-06-11T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-how-to-become-a-tensorflow-developer.md",
       "title": "How to become a TensorFlow developer",
       "excerpt": "AI is no longer an emerging technology, it is already here with us and is being adopted widely across industries. AI technology has disrupted operations, giving businesses better means of understanding and interacting with their customers.",
@@ -1039,52 +1077,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-fleksy-rolls-out-an-sdk-for-its-ai-keyboard.md",
-      "title": "Fleksy rolls out an SDK for its AI keyboard",
-      "excerpt": "The developers behind Fleksy have launched an SDK for Android and iOS to scale demand for white labelling of their AI keyboard software which bakes in privacy-safe next-word prediction. Swipe-style input (which it calls Fleksywave) is also in beta and slated to roll out soon.",
-      "webUrl": "https://techcrunch.com/2020/06/10/fleksy-rolls-out-an-sdk-for-its-ai-keyboard/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/SDK-1200-630.png?w=1024",
-          "width": 1024,
-          "height": 538,
-          "title": "Fleksy rolls out an SDK for its AI keyboard",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/10/fleksy-rolls-out-an-sdk-for-its-ai-keyboard/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/fleksy-rolls-out-an-sdk-for-its-ai-keyboard/amp/",
-      "publishedDateTime": "2020-06-10T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

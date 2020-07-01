@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Amazon to pay over $1 billion to secure self-driving startup Zoox: report"
-    excerpt: "Pushed by hectic demand, Amazon reinforces its logistics network with 12 Boeing planes Amazon is reportedly on the verge of announcing a deal to acquire self-driving startup Zoox for over $1 billion."
-    publishedDateTime: 2020-06-26T08:15:00Z
-    webUrl: "https://www.zdnet.com/article/amazon-to-pay-over-1-billion-to-secure-self-driving-startup-zoox-report/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-to-pay-over-1-billion-to-secure-self-driving-startup-zoox-report/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-to-pay-over-1-billion-to-secure-self-driving-startup-zoox-report/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 73
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/26/f41d236a-ed8d-4e50-b884-52ab2a129d8c/thumbnail/1200x675/a8cb72155f95ebebeb3c7fc5a227073e/screenshot-2020-06-26-at-08-07-16.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Amazon to acquire autonomous driving startup Zoox"
     excerpt: "Amazon has announced that it will acquire Zoox, a self-driving startup founded in 2014, which has raised nearly $1 billion in funding and which aims to develop autonomous driving technology, including vehicles,"
     publishedDateTime: 2020-06-26T13:40:00Z

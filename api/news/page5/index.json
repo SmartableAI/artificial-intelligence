@@ -2,6 +2,45 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-26-facial-recognition-bill-would-ban-use-by-federal-law-enforcement.md",
+      "title": "Facial recognition bill would ban use by federal law enforcement",
+      "excerpt": "The bill would also make federal funding for state and local law enforcement contingent on the enactment of similar bans.",
+      "webUrl": "https://www.nbcnews.com/tech/security/2-democratic-senators-propose-ban-use-facial-recognition-federal-law-n1232128",
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2019_46/3101861/191114-facial-recognition-se-724p_89349dce96428fbb668c940dd897e041.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "Facial recognition bill would ban use by federal law enforcement",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1232128",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1232128",
+      "publishedDateTime": "2020-06-25T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-new-german-canadian-lab-decodes-the-brain-with-artificial-intelligence.md",
       "title": "New German-Canadian lab decodes the brain with artificial intelligence",
       "excerpt": "Canadian lab HIBALL aims to create a microscopic 3D map of functional neuroanatomy at the cellular level with the help of high-performance computing and artificial intelligence.",
@@ -1091,53 +1130,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup.md",
-      "title": "Mercedes Drops Partnership With BMW, Hooks Up With NVIDIA On Self-Driving: Robocar Roundup",
-      "excerpt": "With the field slowing down, why would Mercedes and BMW end their partnership? Just adding NVIDIA chips isn't enough explanation. Plus, a roundup of other robocar news for the week.",
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/imageserve/5ef431b4816bb40006d1c766/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Mercedes Drops Partnership With BMW, Hooks Up With NVIDIA On Self-Driving: Robocar Roundup",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/amp/",
-      "publishedDateTime": "2020-06-25T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

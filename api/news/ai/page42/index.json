@@ -2,6 +2,53 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-05-19-americans-dont-know-why-they-dont-trust-self-driving-cars.md",
+      "title": "Americans don't know why they don't trust self-driving cars",
+      "excerpt": "A new survey from PAVE suggests self-driving car companies have a long way to go before they people trust their vehicles.",
+      "webUrl": "https://www.engadget.com/pave-self-driving-car-survey-154045444.html",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1800%252C1200%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252Fb0b78f20-80e4-11ea-ad7b-99d4bc7d0814%26client%3Da1acac3e1b3290917d92%26signature%3D7710ab157ce1c73492be616e6e982875fd9c4ced&client=amp-blogside-v2&signature=22628d1961500d0e3c76b6997a86c05744eeaae8",
+          "width": 600,
+          "height": 400,
+          "title": "Americans don't know why they don't trust self-driving cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/pave-self-driving-car-survey-154045444.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/pave-self-driving-car-survey-154045444.html",
+      "publishedDateTime": "2020-05-19T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-builds-a-new-online-developer-conference-experience.md",
       "title": "Microsoft builds a new online developer conference experience",
       "excerpt": "A look at what Microsoft announced at Microsoft Build 2020, as well as the considerations that went into making the event virtual",
@@ -1282,53 +1329,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence.md",
-      "title": "Neural Networks And Machine Learning Are Powering A New Era Of Perceptive Intelligence",
-      "excerpt": "Enhancements in how machines can collect audio and visual data and use it to understand and predictively respond to our actions is a game-changer for the future of IoT.",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence/",
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-22-1.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Neural Networks And Machine Learning Are Powering A New Era Of Perceptive Intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/19/neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/19/neural-networks-and-machine-learning-are-powering-a-new-era-of-perceptive-intelligence/amp/",
-      "publishedDateTime": "2020-05-19T04:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,61 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-05-18-nvidia-releases-new-artificial-intelligence-hardware.md",
+      "title": "NVIDIA Releases New Artificial Intelligence Hardware",
+      "excerpt": "When it comes to hardware technology, NVIDIA (NASDAQ:NVDA) is at the leading edge of developments that are poised to reshape the world for at least the next decade. Using its graphics processing unit (GPU) roots for high-end video games -- an early data-dense computing task that has paved the way for breakthroughs in other areas -- NVIDIA is a busy chip designer and software developer these days.",
+      "webUrl": "https://www.fool.com/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "NVIDIA Releases New Artificial Intelligence Hardware",
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F574562%2Fnvidia-ai.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 960,
+          "title": "NVIDIA Releases New Artificial Intelligence Hardware",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
+      "publishedDateTime": "2020-05-18T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code.md",
       "title": "Machine learning tool trains on old code to spot bugs in new code",
       "excerpt": "Microsoft and Altran release Code Defect AI to identify potential problems in software development and suggest fixes.",
@@ -1101,53 +1156,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-16-facebooks-giphy-purchase-will-help-keep-track-of-competitors.md",
-      "title": "Facebook’s Giphy purchase will help keep track of competitors",
-      "excerpt": "Giphy provides the same search service to many of Facebook’s competitors – including Apple’s iMessage, Twitter, Signal and TikTok – which shows how often people use these platforms, the kind of insight Facebook values most.",
-      "webUrl": "https://www.scmp.com/tech/apps-social/article/3084685/facebooks-giphy-purchase-will-help-keep-track-competitors",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/16/9ec5b494-972e-11ea-ae0d-0e69ba128e68_image_hires_125830.jpg?itok=gcwE52xs&v=1589605117",
-          "width": 1200,
-          "height": 630,
-          "title": "Facebook’s Giphy purchase will help keep track of competitors",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/apps-social/article/3084685/facebooks-giphy-purchase-will-help-keep-track-competitors",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3084685/facebooks-giphy-purchase-will-help-keep-track-competitors",
-      "publishedDateTime": "2020-05-15T21:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "From Computer Vision To Deep Learning: How AI Is Augmenting Manufacturing"
 
-secured: "Y9FWv7MJYoGAWHMYw8h/dsXknJzktThfAefrGcz3mVaQzhikYv5eIeFEGCrS+icnPe00hhDigK1laO7ldeiIVkk5kmudyaLB+aFpYG2ePavySwBSflxpSAhahjPysmdGN6RDxMQcYwGhruPO+kZrJ+glaY3fA+bcMR/byDK7pyXp2I4vKRnUasVU5cgGy5meiqJPv7yt8DLijNbl47JYrQlOfL1hW5gFcALkkjMHqd4tL81I7LDD69yV99PV9giUOkXcYkKX51yyxnVmoTDOW0HXcs9txn0H0kSmy+ehfrp+zOMDVu1obXOh7eCAiPUDY3wWQsqCNO8g0yVIRi5UcA==;HwLQkpfF9WQsL+M706Zp8Q=="
+secured: "8oXpgxuZ0fInB/o8/bRVL8Nbf9l6XMVgwgIdUuRmc3AZ8FgJGlM81VzG5UdvBTutdu+JIh8FnF9dIFxWdZcFHOFS41TAvMoiIG3FYLCxz87youiyGxvrR81iPJwRYeMeUbe1MSVa8UXDqQqwrEbUR1rW3XNAHySuP4el1H8aQLlv0ZrNai8CsCwgi2lfEWOuP6pp0/IGJ5NnDrwyJin8pxMrsNieWMMJe9hIPp+uaS90JMaDnL6caLqsPvcmdfxPO7jnNyOeMfmS49GMpR7pJGWkJreQHQRk2bpUCGO2u26mjy08TtI2vM//ZJ1hXuiVuwED2rABH2gvyq5w8zm3pA==;6E/DTMB2dxKWI4iEiMhWfg=="
 ---
 

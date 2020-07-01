@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-st
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-stars-ai.html"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -95,15 +95,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "AI robot, Erica, to take lead in USD 70 million sci-fi movie"
-    excerpt: "who created Erica in real life as part of their study of robotics, also taught her to act, applying the principles of method acting to artificial intelligence, according to Khoze. \"In other ..."
-    publishedDateTime: 2020-06-26T09:01:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Entertainment/20200626/3582413.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
 
 secured: "qywk4oaoTam6EeWinSDAhNeQV0OZTHdQBt95i/5Q2gILB89VPyqCuDWHX2hT3jOK7HQtZbZhf9lMtigQjo/dcWMygId8KE5imKYY1keSExiTc+/57R64DzeByTPIbryABhS1pujEi98qdCr+RRmbZ4yfs0Lsv+H+QvMIIQcmU0ewDIcZcqV2VvaZytidrw4Ll/unZESsGSEPUh9Fh8Fn/0TNg85FoRsZdWvisz4BpGJWCgugiUnwu+cmOs8qOROmulNQYA632GBeY8L5J4jQRaY3vQXQ3uSNK8QcSHFAxpM7fa6dQ5RiyzkbAd8fKPUp5AejI4w98V/pMRp5EmuvVKhwoNPZiIY/f5XjTKhlqI/Rd/Sh+AjZl/m6o4TBXPSUlXfZWtKILvxK+rO0Lp6ADrVS2SJA6NX3Y6eo6cCHWBXp3/hNYC7Q0FguFHWHoV3zWGajBO+XSQfXQfR7Vj4NsEdV9v/ikaW5ItPVay3zYWddPufiCP+u163flnr5YV+W;oqbzHQto2AU2mW6IW6czxQ=="
 ---

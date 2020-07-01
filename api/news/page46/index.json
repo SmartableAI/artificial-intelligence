@@ -2,6 +2,35 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-05-22-microsoft-moves-toward-ai-that-creates-offspring.md",
+      "title": "Microsoft Moves Toward AI That Creates Offspring",
+      "excerpt": "Among the notable advances at Microsoft’s Build this year was the new Azure Cognitive Services capability to significantly reduce the aggravation and time it takes to create an app. Microsoft Build is often a fascinating conference because if you look at ...",
+      "webUrl": "https://www.datamation.com/artificial-intelligence/microsoft-moves-toward-ai-that-creates-offspring.html",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.datamation.com/amp/artificial-intelligence/microsoft-moves-toward-ai-that-creates-offspring.html",
+      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/microsoft-moves-toward-ai-that-creates-offspring.html",
+      "publishedDateTime": "2020-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-object-detection-with-tensorflow.md",
       "title": "Object Detection, With TensorFlow",
       "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
@@ -1016,43 +1045,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-super-hi-fi-is-reshaping-the-sound-of-streaming-with-ai.md",
-      "title": "Super Hi-Fi Is Reshaping The Sound Of Streaming With AI",
-      "excerpt": "The Los Angeles-based company is working with digital music services to improve listening experiences and build their sonic brands.",
-      "webUrl": "https://www.forbes.com/sites/joshmandell/2020/05/21/super-hi-fi-is-reshaping-the-sound-of-streaming/",
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joshmandell/2020/05/21/super-hi-fi-is-reshaping-the-sound-of-streaming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joshmandell/2020/05/21/super-hi-fi-is-reshaping-the-sound-of-streaming/amp/",
-      "publishedDateTime": "2020-05-21T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

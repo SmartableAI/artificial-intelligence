@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-29T14:43:00Z
 webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=141574"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 610
     isCached: true
     title: "Smarsh Launches Enterprise Archive Powered by Microsoft Azure"
-
-related:
-  - title: "Smarsh Enterprise Archive ports to Microsoft Azure"
-    excerpt: "Smarsh, helping customers get ahead – and stay ahead – of the risk within their electronic communications, announced today that the Enterprise Archive is now available on Microsoft Azure."
-    publishedDateTime: 2020-06-26T08:54:00Z
-    webUrl: "https://www.finextra.com/pressarticle/83070/smarsh-enterprise-archive-ports-to-microsoft-azure"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "BcyC1hX8eUOwrW5npxXoln27lBZfgC7frnemko22GIN1SnQFE64pBjQeN0Dg0iYqmvcivLU//LyOyLixOIcYu7WzmbHXqEe7D3Fw89nqH4JjPld31WYM2VIF36yqOGsv8X6hsltJYtQx2RormijeI0B1/Z4xl9Ow0zfEiSf1JKBzwzPTOqC8yOkaeqm5uEh2Wb8Q+yXpp4lvZTYu0WhOR+RuSy6XdX/OS2gLrbWhOfta40zaFxAm16ZjS+cXLuDiHPyyzZr9oJrVjTTu7RhlR0QQiwMaWONJKbNLTIq2K072ffJX8vtYRjEVvph5oTTBtgLooFEQ2unHXZo8GWGRSQ==;ol/xrnnDHc7rxYA+uYAHsQ=="
 ---

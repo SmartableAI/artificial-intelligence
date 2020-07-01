@@ -2,6 +2,53 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-23-this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19.md",
+      "title": "This New App Analyzes Your Voice Quality To Diagnose Congestive Heart Failure: Can It Help With Covid-19?",
+      "excerpt": "A new app developed by an Israeli biotech startup has shown promise in evaluating voice quality to detect buildup of fluid in the lungs, an important finding associated with congestive heart failure (CHF).",
+      "webUrl": "https://www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F801249656%2F0x0.jpg",
+          "width": 1200,
+          "height": 795,
+          "title": "This New App Analyzes Your Voice Quality To Diagnose Congestive Heart Failure: Can It Help With Covid-19?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/amp/",
+      "publishedDateTime": "2020-06-23T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-building-ai-powered-forecasting-automation-with-amazon-forecast-by-applying-mlops.md",
       "title": "Building AI-powered forecasting automation with Amazon Forecast by applying MLOps",
       "excerpt": "This post demonstrates how to create a serverless Machine Learning Operations (MLOps) pipeline to develop and visualize a forecasting model built with Amazon Forecast. Because Machine Learning (ML) workloads need to scale, it’s important to break down the silos among different stakeholders to capture",
@@ -721,18 +768,27 @@
       "path": "_news/2020-06-23-hewlett-packard-enterprise-helps-customers-accelerate-transformation-with-breakthrough-hpe-greenlake-cloud-services.md",
       "title": "Hewlett Packard Enterprise Helps Customers Accelerate Transformation with Breakthrough HPE GreenLake Cloud Services",
       "excerpt": "Cloud services for Machine Learning Operations – Through HPE GreenLake ... HPE Ezmeral software portfolio, and backing from HPE Financial Services and HPE Pointnext Technology Services provide a differentiated solution that competitors cannot match.",
-      "webUrl": "https://www.oaoa.com/news/business/article_ffe063a1-4397-5961-aed8-cf4b9aedafe7.html",
+      "webUrl": "https://www.bakersfield.com/ap/news/hewlett-packard-enterprise-helps-customers-accelerate-transformation-with-breakthrough-hpe-greenlake-cloud-services/article_f85c8832-5b36-531f-ad20-340101d3a082.html",
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Hewlett Packard Enterprise Helps Customers Accelerate Transformation with Breakthrough HPE GreenLake Cloud Services",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T09:22:00-07:00",
+      "publishedDateTime": "2020-06-23T09:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1072,53 +1128,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-microsoft-azure-and-johns-hopkins-medicine-have-partnered-to-accelerate-precision-medicine.md",
-      "title": "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine",
-      "excerpt": "Microsoft Azure and Johns Hopkins Medicine partnered to leverage Microsoft's AI and analytics tools to facilitate precision medicine breakthroughs.",
-      "webUrl": "https://www.businessinsider.com/microsoft-johns-hopkins-partner-to-advance-precision-medicine-2020-6",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ef1fdc8f0f419685c235043?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

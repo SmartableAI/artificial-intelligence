@@ -2,6 +2,53 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-06-22-windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu.md",
+      "title": "Windows 10 PCs: Why the new key to faster desktop applications is your GPU",
+      "excerpt": "Adobe has been putting in GPU-accelerated machine learning in applications like Photoshop and Lightroom, while Corel has added AI-powered brushes to its natural material Painter. By opening DirectX's GPU compute to cross-platform APIs like Mesa3D ...",
+      "webUrl": "https://www.techrepublic.com/article/windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/22/a12d1b1f-4aa8-4503-9d90-2c4e4936e64b/resize/1200x/b33bed0bf6b44bc77a5dce7fbd51c7e7/mesa-3d-tr.jpg",
+          "width": 1200,
+          "height": 732,
+          "title": "Windows 10 PCs: Why the new key to faster desktop applications is your GPU",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu/",
+      "publishedDateTime": "2020-06-22T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-deep-learning-and-artificial-neural-networks.md",
       "title": "Deep learning and artificial neural networks",
       "excerpt": "Martin Spano is the author of Artificial Intelligence in a Nutshell, a book that explores the mystified subject of artificial intelligence (AI) with simple, non-technical language. Spano’s passion for AI began after he watched 2001: A Space Odyssey,",
@@ -1061,52 +1108,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-artificial-intelligence-wrote-the-lyrics-to-this-fake-nirvana-song.md",
-      "title": "Artificial intelligence wrote the lyrics to this fake Nirvana song",
-      "excerpt": "YouTuber Funk Turkey has been experimenting with this very proposition, feeding band lyrics to an AI and asking it to write an entirely new song based on the output. The results are, well… interesting,",
-      "webUrl": "https://www.techspot.com/news/85706-artificial-intelligence-wrote-lyrics-fake-nirvana-song.html",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-19-image-9.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": "Artificial intelligence wrote the lyrics to this fake Nirvana song",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85706-artificial-intelligence-wrote-lyrics-fake-nirvana-song.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85706-artificial-intelligence-wrote-lyrics-fake-nirvana-song.html",
-      "publishedDateTime": "2020-06-19T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

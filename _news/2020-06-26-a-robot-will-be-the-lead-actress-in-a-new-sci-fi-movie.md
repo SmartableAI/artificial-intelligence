@@ -95,15 +95,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "AI robot, Erica, to take lead in USD 70 million sci-fi movie"
-    excerpt: "who created Erica in real life as part of their study of robotics, also taught her to act, applying the principles of method acting to artificial intelligence, according to Khoze. \"In other ..."
-    publishedDateTime: 2020-06-26T09:01:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Entertainment/20200626/3582413.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
 
 secured: "8sHk3MzR7dV5ayP6YtKvJfTxJHoULEhvJyRY0xbnc4DevcIMKnQ64evJPfYLdEHTMO5qRF4hQ0ET/QoA60KOiIgom4I9FoYYCJKtk5YU0H/ajRt5xunLvvlrzS6MvgCNiju0Xuh+zfSdsTV/Uae4kRRhLTDHzrFGl8pndOsnj0I/0AyVKTxEC2WtY2eqyAiaR00LooghpvCI0lVEfhH9+e3QqJ7IpCRosuyxIsC4tUZ+RZpX5wYnmIdcBNVKAiRchPZqawG8VZut0KAmJrKCy14BSo2wL6bGn/tRbVHF/2wqi1Ujnsf9Atajt3ZICAKUY5ljSbhEyzwglMRQSHErFSUwkcZ5rkVA9/+umiU7gPMZMaUL0qDCZD2gwDoEU926O6kMPIg4zFaqFIJWY4IJmqyOZeEC5CtUednVEu9PVIYWRFH0/9vgZQfAOSFihuKbBSZq+1UeiMiE1+dCZP2oDvlLcCNQmtB9SnTk6bf/E1IQzcFM1ABh5UQ0b0f1L6/fv8t3mB97Irl+Frnhaea4wg==;K76FTUwIzu7VO03vXvXzmA=="
 ---

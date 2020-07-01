@@ -2,6 +2,53 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-25-lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge.md",
+      "title": "Lyft releases new self-driving vehicle data set and launches $30,000 challenge",
+      "excerpt": "Lyft released a data set containing logs recorded by its self-driving vehicles' sensors to kick off a new AI research challenge.",
+      "webUrl": "https://venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/234b6a00-a635-4d40-b917-77416e1da96f-e1593067960296.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 571,
+          "title": "Lyft releases new self-driving vehicle data set and launches $30,000 challenge",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/amp/",
+      "publishedDateTime": "2020-06-25T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research.md",
       "title": "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research",
       "excerpt": "Intel and the National Science Foundation (NSF) announced award recipients of joint funding for research into the development of",
@@ -1297,52 +1344,6 @@
       "topics": [
         "TensorFlow",
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-two-in-three-ceos-are-in-the-drivers-seat-for-ai-adoption-according-to-report.md",
-      "title": "Two in three CEOs are in the driver’s seat for AI adoption, according to report",
-      "excerpt": "As technology advances, many TV organizations have begun to wonder if AI can spur innovations that streamline tasks to help the TV industry use AI to its advantage",
-      "webUrl": "https://www.zdnet.com/article/two-in-three-ceos-are-in-the-drivers-seat-for-ai-adoption-according-to-report/",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/24/011bd9ff-ccaf-447b-b78a-b6faf18cd326/veritone-ai-uses-eileen-brown-zdnet.png",
-          "width": 453,
-          "height": 690,
-          "title": "Two in three CEOs are in the driver’s seat for AI adoption, according to report",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/two-in-three-ceos-are-in-the-drivers-seat-for-ai-adoption-according-to-report/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/two-in-three-ceos-are-in-the-drivers-seat-for-ai-adoption-according-to-report/",
-      "publishedDateTime": "2020-06-24T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

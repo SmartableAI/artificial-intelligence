@@ -141,17 +141,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
-    excerpt: "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver”. Volvo will design and manufacture the vehicles. The companies said Waymo would work with Volvo's global brands ..."
-    publishedDateTime: 2020-06-26T07:16:00Z
-    webUrl: "https://www.timeslive.co.za/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 39
   - title: "Volvo partners Waymo to build self-driving cars"
     excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership."
     publishedDateTime: 2020-06-26T12:10:00Z
@@ -219,6 +208,15 @@ related:
         width: 1100
         height: 700
         isCached: true
+  - title: "BHP jobs on offer to build self-driving trucks"
+    excerpt: "THE rollout of 34 autonomous mining trucks at BHP Mitsubishi Alliance’s Central Queensland mine will create 56 new jobs and a $35 million windfall for regional businesses."
+    publishedDateTime: 2020-07-01T01:00:00Z
+    webUrl: "https://www.couriermail.com.au/business/bhp-jobs-on-offer-to-build-selfdriving-trucks/news-story/a7399310218385c62f043fa68c9d4710"
+    type: article
+    provider:
+      name: The Courier-Mail
+      domain: couriermail.com.au
+    quality: 4
 
 secured: "4uh999HjSCBEpUC9aPwOChlmOskhLoC5shiz5yXHcZTCe1DlvHm29tD5mp5CMEDWoD9c+33ppytuIP89pvHo+72e9Y33BzZenWd5WPa5UWOdacSjyOQ8nUQsfg7pv53Ey93HoMvk14qSEMyfrZ21EpBK38gvJLidAdYqfY5pcLXoUG1Ka8mtBSGUTV3cUCl6Ki4qZXgcWYJSbj+Y2k7xbYO6vTWCMQf2G+0aPcv/j6hC+JykXntUhEIdp2vDUCTqisKdhxqfaXksbZtqLSOrt9RVdNEwwIaBBxAIQz3sqMuzOUb3C0LVRj8DeWW5TxSUShSUg3Du2JpVTJLLyBr9dzELbIP6QS4HioQJfC8bqCEYOKaW5OtCIiSN5E298hWsfC1ZgTfq48vWOoGGtvxpwI1InI3YFNMugfdehsEFfqymD4Qqs8k1JIpUQWMhwl1TiGbv/7ZbV5ai3XE5B3IDGEwVqg+yDewdrXxLT0XQZQf7OV6z/aVJmKKhDtbKsgHOwgfJin/ju1hhaF8vYTv5fw==;h6+usLR+LIMg7cXfdsvxTQ=="
 ---

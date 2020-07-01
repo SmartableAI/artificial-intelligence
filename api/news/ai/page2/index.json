@@ -2,6 +2,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-30-ibm-uses-ai-to-enhance-old-wimbledon-tennis-footage-for-the-digital-era.md",
+      "title": "IBM uses AI to enhance old Wimbledon tennis footage for the digital era",
+      "excerpt": "IBM and Wimbledon are using AI techniques to revitalize classic footage going back to the 1970s to appeal to modern tennis fans.",
+      "webUrl": "https://venturebeat.com/2020/06/30/ibm-uses-ai-to-enhance-old-wimbledon-tennis-footage-for-the-digital-era/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-88811603.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": "IBM uses AI to enhance old Wimbledon tennis footage for the digital era",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/30/ibm-uses-ai-to-enhance-old-wimbledon-tennis-footage-for-the-digital-era/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/ibm-uses-ai-to-enhance-old-wimbledon-tennis-footage-for-the-digital-era/amp/",
+      "publishedDateTime": "2020-06-30T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-daimler-backed-momenta-says-its-robotaxis-will-be-fully-driverless-and-profitable-in-2024.md",
       "title": "Daimler-backed Momenta says its robotaxis will be fully driverless and profitable in 2024",
       "excerpt": "In China and the U.S., there’s much debate about when and how humans will achieve fully autonomous robotaxis at scale — cars that chauffeur passengers under complex road conditions without safety drivers behind the wheel.",
@@ -1324,52 +1371,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup.md",
-      "title": "Medical tech firm Brainlab acquires Level Ex surgery game startup",
-      "excerpt": "Medical technology company Brainlab has acquired video game surgery training company Level Ex. Terms of the deal were not disclosed.",
-      "webUrl": "https://venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/level-ex-3.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 645,
-          "title": "Medical tech firm Brainlab acquires Level Ex surgery game startup",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/amp/",
-      "publishedDateTime": "2020-06-29T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

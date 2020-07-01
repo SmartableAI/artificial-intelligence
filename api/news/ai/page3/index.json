@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-29-medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup.md",
+      "title": "Medical tech firm Brainlab acquires Level Ex surgery game startup",
+      "excerpt": "Medical technology company Brainlab has acquired video game surgery training company Level Ex. Terms of the deal were not disclosed.",
+      "webUrl": "https://venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/level-ex-3.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 645,
+          "title": "Medical tech firm Brainlab acquires Level Ex surgery game startup",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/amp/",
+      "publishedDateTime": "2020-06-29T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-advancing-azure-service-quality-with-artificial-intelligence-aiops.md",
       "title": "Advancing Azure service quality with artificial intelligence: AIOps",
       "excerpt": "As Mark mentioned when he authored the Advancing Reliability blog series, building and operating a global cloud infrastructure at the scale of Azure is a complex task with hundreds of ever-evolving service components, spanning more than 160 datacenters and across more than 60 regions.",
@@ -542,7 +588,7 @@
       "title": "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing",
       "excerpt": "Uber CEO Dara Khosrowshahi says his company wants to be the “Amazon for transportation.” Friday, Amazon made clear that it intends to be the Amazon for transportation. The ecommerce giant said it had agreed to acquire Bay Area-based autonomous vehicle company Zoox,",
       "webUrl": "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/",
-      "heat": 449,
+      "heat": 419,
       "tags": null,
       "images": [
         {
@@ -774,7 +820,7 @@
       "title": "$70 million sci-fi flick 'b' stars an AI robot named 'Erica'",
       "excerpt": "A movie, simply titled \"b,\" is currently in early production. What makes it unique is that it will be the first big-budget feature film to star an AI actor named Erica. Produced by the makers of Oscar-nominated film Loving Vincent,",
       "webUrl": "https://www.techspot.com/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1000,7 +1046,7 @@
       "title": "Amazon buys self-driving technology company Zoox",
       "excerpt": "Amazon is jumping deeper into the market for autonomous driving with the purchase of Zoox, which was valued at over $3 billion in 2018.",
       "webUrl": "https://www.cnbc.com/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
-      "heat": 344,
+      "heat": 334,
       "tags": null,
       "images": [
         {
@@ -1320,53 +1366,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-amazon-has-reportedly-bought-self-driving-car-startup-zoox-for-more-than-1-billion.md",
-      "title": "Amazon has reportedly bought self-driving-car startup Zoox for more than $1 billion",
-      "excerpt": "Sources told the Financial Times that Zoox's management team will report to Jeff Wilke, head of Amazon's worldwide consumer division",
-      "webUrl": "https://www.businessinsider.com/amazon-reportedly-buys-self-driving-car-startup-zoox-for-one-billion2020-6",
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ece37e6aee6a8643064e963?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon has reportedly bought self-driving-car startup Zoox for more than $1 billion",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/amazon-reportedly-buys-self-driving-car-startup-zoox-for-one-billion2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-reportedly-buys-self-driving-car-startup-zoox-for-one-billion2020-6?amp",
-      "publishedDateTime": "2020-06-26T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

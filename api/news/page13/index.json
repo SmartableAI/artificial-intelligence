@@ -2,6 +2,53 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-06-18-detecting-fraud-in-heterogeneous-networks-using-amazon-sagemaker-and-deep-graph-library.md",
+      "title": "Detecting fraud in heterogeneous networks using Amazon SageMaker and Deep Graph Library",
+      "excerpt": "Fraudulent users and malicious accounts can result in billions of dollars in lost revenue annually for businesses. Although many businesses use rule-based filters to prevent malicious activity in their systems, these filters are often brittle and may not capture the full range of malicious behavior.",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-fraud-in-heterogeneous-networks-using-amazon-sagemaker-and-deep-graph-library/",
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/16/heterogeneous-networks-sagemaker-2-978x630.gif",
+          "width": 978,
+          "height": 630,
+          "title": "Detecting fraud in heterogeneous networks using Amazon SageMaker and Deep Graph Library",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T16:26:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-qualcomm-launches-5g-ai-enabled-robotics-platform.md",
       "title": "Qualcomm launches 5G, AI-enabled robotics platform",
       "excerpt": "Qualcomm Technologies released the Qualcomm Robotics RB5 platform ... fifth-generation Qualcomm AI Engine that delivers 15 tera operations per second of artificial intelligence (AI) performance for running complex AI and deep learning workloads.",
@@ -1048,53 +1095,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19.md",
-      "title": "IBM launches Watson Works aimed at managing work's new normal amid COVID-19",
-      "excerpt": "IBM launched Watson Works, a set of models and applications designed to manage workspaces, people and facilities as employees return to the office during the COVID-19 pandemic. Wa",
-      "webUrl": "https://www.zdnet.com/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/24/b6e37c98-9f98-43bb-973e-ad26833fda56/thumbnail/1200x675/48665c9939ec4476228e8e8c28322098/qualcomm.png",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM launches Watson Works aimed at managing work's new normal amid COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
-      "publishedDateTime": "2020-06-18T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }
