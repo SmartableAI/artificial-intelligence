@@ -8,8 +8,8 @@ ampWebUrl: "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 103
+published: true
 
 provider:
   name: TechCrunch
@@ -31,21 +31,21 @@ images:
     title: "Lyft’s self-driving test vehicles are back on public roads in California"
 
 related:
-  - title: "Baidu-backed maker of self-driving vehicle sensors said to be in talks to go public"
-    excerpt: "Velodyne Lidar, in which Baidu and Ford invested US$150 million in 2016, makes radar-like systems used in autonomous vehicles."
-    publishedDateTime: 2020-06-27T04:57:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
+  - title: "Lyft Resumes Self-Driving Test Rides"
+    excerpt: "Lyft Inc. (NYSE: LYFT) has resumed testing of its self-driving technology on public roads in California, TechCrunch reported Tuesday. An employee-exclusive pilot program in Palo Alto remains paused, according to TechCrunch. The test rides conducted by its ..."
+    publishedDateTime: 2020-07-01T14:14:00Z
+    webUrl: "https://www.benzinga.com/news/20/07/16464248/lyft-resumes-self-driving-test-rides"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16464248"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16464248"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 83
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/27/019fd42e-b830-11ea-94a5-08ba74052128_image_hires_125654.jpeg?itok=1xTXJ5JH&v=1593233821"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/files/images/story/2012/lyft_self_driving.jpeg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "Maker of self-driving vehicle sensors said to be in talks to go public"
     excerpt: "Velodyne creates radar-like systems that use lasers to generate three-dimensional images of a surrounding environment, used by carmakers including Mercedes-Benz AG and Ford Motor Co."
@@ -74,20 +74,6 @@ related:
       - url: "https://www.just-auto.com/images/just-auto-share.jpg"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Didi Chuxin offers public test rides in its self-driving vehicles"
-    excerpt: "China's ride-hailing giant Didi Chuxing began offering the public free, supervised test rides in its self-driving taxis in Shanghai on Saturday. People wanting to take a 20-minute ride can register online through the company's APP."
-    publishedDateTime: 2020-06-28T17:24:00Z
-    webUrl: "https://www.globaltimes.cn/content/1192895.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 24
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-06-28/9775d793-483a-4b06-9eef-11467efa9ffb.jpeg"
-        width: 1100
-        height: 700
         isCached: true
 
 secured: "V/AXdPyEBF/6GORp40rqN0Zeiz30ivIHkm9IFta/7Tp9jmxNc99SAVFkYGRrRkVUzS8Tdtnhv+Qup5fWMEHqjoqLs5fcIbBx8I/lOwXCZmLArF3K7tWR6frXAgx0aP/6O89aWVglDo6GD4E6mPcVx71OgLBrLJDYYWuBl3Mq1NS5JvRLJY3lYiBRLdGiD4uzYr+5YmfweivOFKs++6gYjAE1/q1XLXB2hC1GT36utgvlH4oRgHHwg33pk8UBHm/fOSH9Livnycul6h98YMnfViaInAlyYZfirMdg2wvrb/HBOoWPPk6VMGZPRYXItAlxGEK53+rEsZdr5ThruSKKyCu90DlAvBSXbxfbt9t/+Zb3QDzBlYHdAi+k0owe8a8dd0+2/OMacjWyftNZedcvXkW6Fdp+mhUEYOrHsZezyGa1BsQZRoJUUxnqka3PALOxEyeSeBWJz+6fPRdaboaKg4s+t4q4Xc8OB6/BBpEroi+RjhbVBTgon8n6x+tqeXlsleO6ha4GdzoOxgk9C4Bwmw==;aLalF6+DOe/PN8HySBevow=="

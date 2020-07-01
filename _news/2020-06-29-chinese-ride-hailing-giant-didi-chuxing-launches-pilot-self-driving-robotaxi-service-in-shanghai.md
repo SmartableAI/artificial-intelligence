@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-h
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self"
 type: article
 quality: 76
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2020/06/27/resized_150246-1damazon0627rgb_54-29733_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 399
+        isCached: true
+  - title: "Didi Chuxin offers public test rides in its self-driving vehicles"
+    excerpt: "China's ride-hailing giant Didi Chuxing began offering the public free, supervised test rides in its self-driving taxis in Shanghai on Saturday. People wanting to take a 20-minute ride can register online through the company's APP."
+    publishedDateTime: 2020-06-28T17:24:00Z
+    webUrl: "https://www.globaltimes.cn/content/1192895.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 24
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-06-28/9775d793-483a-4b06-9eef-11467efa9ffb.jpeg"
+        width: 1100
+        height: 700
         isCached: true
   - title: "Beijing opens more roads for testing self-driving cars"
     excerpt: "Beijing opened 52 additional roads on Tuesday in Haidian district, the capital's tech hub, for the testing of autonomous vehicles to push the speedy development of self-driving technology, local authorities said Wednesday."

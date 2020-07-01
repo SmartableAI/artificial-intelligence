@@ -47,6 +47,17 @@ related:
         width: 1200
         height: 857
         isCached: true
+  - title: "Empowering Email Marketing Strategy With Artificial Intelligence (AI)"
+    excerpt: "AI is expected to yield $14 trillion additional revenue and 38% increase in profitability by the year 2035. It"
+    publishedDateTime: 2020-07-01T18:22:00Z
+    webUrl: "https://www.business2community.com/email-marketing/empowering-email-marketing-strategy-with-artificial-intelligence-ai-02323755"
+    ampWebUrl: "https://www.business2community.com/email-marketing/empowering-email-marketing-strategy-with-artificial-intelligence-ai-02323755/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/email-marketing/empowering-email-marketing-strategy-with-artificial-intelligence-ai-02323755/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 52
 
 secured: "U9937zK+hHn6UKO/653Ge2xg7N2YWe0Is3LJNx2dXp56CVcxl4HxosPhAr/f44+2Y+oWnefEAdZ7u5QJ3/66r746D1qP9uKyw2IKFOrPjgB6bnrj7fxCj8tx3tprE6n5GUcGmpP2kPw7GCeTyhrU8aeQBCiuUQ/ogC4wiQ0lH56hyqPKh2/Rsw0PCelnAiSZkGalsDECJR4FO/OeJYfw8WnMZ6lBCy2JE+dwXMlz0jE1Wa8bkUFZsWGxzchN3elYpZAYcX58IkWIXV8ZAIIeXYsh296kFM9mpeKw9sjvHwDigSOrvWheSpAcwQY6zeL3VZ5ozsZXKLKzwBdYHSF7xcDCrY3I3rliY8ibFH0pXQATe4f9/w9qnF8iQry7tZt/rDjdvZXFg9r3QauQewdR5Ib6dYGTQ9QXfCj5bHJlR2w8d1WW228Ne0JTnHmqmemK3tjqaxCTOHxjOpgZcq681ELLiFNnydynE4g9Ee2urnFZcDkZP3KgtiQ4HXZykA+9sgbdvCUO1TFCgYvU9vZTyw==;lpLIFrpfHJkoFGpDci5B2Q=="
 ---

@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "San Diego startup looks for new uses for old drugs"
 
-secured: "aQmGGZF6cB83ijlpnydVFNMjrdxtKTYJi3UkHlr+pegybYDHzSpUoJfHKz1Ty8aHFx97tLIbZs44J/A9tHLng/zicHBa36X6+Gbli1igLCQoRAYoofok6/QI9/XJBYNqwB3fE0GlpznU7HRisSGDPKMFwDDzdIG5fuFiqjB4siJVjQ40luSiv/bQkJiIPUp/Vmc1Azl+BDHvF+6YXg84Wfkih/hW5JHLsKxuRogTLq6lsMH5kr2izaORYHZQPXr9g9oc8vac0oz93mCgF6d/eMqZxNFqxqe0pNhVukR143T6zLKA7gIrQb0a6/e1O+4uyN0KBwqrfFsHDdlXERzocg==;8pC2mNpqyGOhCSCyxKOEPQ=="
+secured: "ltTcGn3rinNA8Rx4JwK/iz38qHOYIcW/VGk3HzyE+lsmaMwXRKs+q+aytHscVrLKe6r4M486G45iSheTJG/nXXX8kTGhdkH5BiyhmLZeb5Vntw+PeXFXOjThLFXi57ejLM1wZyV6y6sL8YagSysfrJLIslzAzldpn6lHN/7Bmv5LYl+TcqXLlEt6eHeRkOdy9Sh/BPZ1oDGpH4LRT13zx9YF0htTudH8gmLBs7GGJwzEa46mIU89js/vcboFSv7CAcbZFLwX0qY4RJSa9T2b+YciFLi7DSsk7moZeRfqTaV5d3JlL12Xq6jTBZ648vxX+F/HoyYbqMcIRPaWN+N6OU5H0vpg/GkVLHR2aGy0KTzssgUf64MpJNp1q+/dWP5/2EErf04MgSnTLbNbDspW1PakvQhji/N12cgwzkzdIKf+VQ60D7TBr2ApO8upfy+gsQ+Tb7rgfdsgUYdluoSKiiAlAl/wb430Ur5tjMQU32oYxpaXXTyPAxRZTWWqN70IHhdxmCclAy5Ix4hpqGCEOA==;9J0JdIoOms9rBbwkvfkG6Q=="
 ---
 

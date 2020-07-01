@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cathyhackl/2020/06/28/3-new-ways-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/06/28/3-new-ways-artificial-intelligence-is-powering-the-future-of-marketing/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -48,6 +48,17 @@ related:
         width: 1152
         height: 768
         isCached: true
+  - title: "Empowering Email Marketing Strategy With Artificial Intelligence (AI)"
+    excerpt: "AI is expected to yield $14 trillion additional revenue and 38% increase in profitability by the year 2035. It"
+    publishedDateTime: 2020-07-01T18:22:00Z
+    webUrl: "https://www.business2community.com/email-marketing/empowering-email-marketing-strategy-with-artificial-intelligence-ai-02323755"
+    ampWebUrl: "https://www.business2community.com/email-marketing/empowering-email-marketing-strategy-with-artificial-intelligence-ai-02323755/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/email-marketing/empowering-email-marketing-strategy-with-artificial-intelligence-ai-02323755/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 52
 
 secured: "gYeU4UtGlD0K8EwtJiBZnCrVppcw8POgybrI3chgY+6EWmpaBhp0tpdtPZPBtbv0+8Q2fcEuDWvzydbi/ytQ5ashYFS2Q00nTMzlc6l9AF/ehUpEm/lQoLHjsjLgMzv3hPRO/9LrrEWjzhpQfyE0BQwh1ACrh1VdweaDDnqee8dk1tSyMKCVgsPSWIqTm0LUU84K9DmS4beFC3O3bem/o6j7cxOjcrvrhRi1hp4AUOxjSe/ED6bqv026l/4Io48PFMt8ZiConSi570juPeG8Q81MrlHnM9VE4NtPJwRQ5EWK+U4Vfq+VEhuC9jr7KEfGOC3C/2bSqbofOoJh+WTuy+BAHy6OROq4iJfs1Rdx+Tjal5gXD8pkHrdd8uL95Wfb2IqBuryC0T5Xt56JaT1lfWFLyS/PeWQQUdUfeARlHqF9uZZ0K7g6igt18YUDmKAfVMpKEV3jTXBoJnFQlfQeVLZkjy9GBn8RsXQvYePoP1z+9hXJL66x4mQBxyXawaGr;p8M5RW8NZ2Iu2f5QrNEWGA=="
 ---

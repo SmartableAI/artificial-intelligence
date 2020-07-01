@@ -89,22 +89,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "Elon Musk trolls Jeff Bezos, calling him a copycat after Amazon acquires self-driving-car startup Zoox"
-    excerpt: "The Tesla CEO tweeted a cat emoji at Bezos on Friday after Amazon took another step into the autonomous-driving world."
-    publishedDateTime: 2020-06-27T03:08:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/5dc17beb7eece50907358663?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Amazon Looks to Self-Driving Future by Acquiring Zoox"
     excerpt: "Amazon says it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will pull up without a driver."
     publishedDateTime: 2020-06-27T23:07:00Z
@@ -291,6 +275,6 @@ related:
       domain: financierworldwide.com
     quality: 4
 
-secured: "i28u0xvtxV7mGfInTPDGWalNXPM7oW9H1rPbmd1+whZJ68boGdDkCsuNk4r4hOB8/u9mXxIiyK87lCbrGGDQU9umI86hCXoH1i7gKwSw0GRxHyBsRcmpiDhI8jlIFXd5AHC//NFE7oeP9+VmmOLocrTFMGaHUED2ZogefZdZD9oXIAqI6Zn83QXSgvwBXkRTHQ1GFSGdq2tU4v5E2D/5QNCVDS9TV5GbGRvW5Pxa9QjW9ntyxStEroQR0RKWGAW4vKGWAEltrCMcbuVN5yFsxdsGDVG2YNv3RK584E3/usWfMJVjKePqQ3bqb3Xi8BrWiOYUJR/r9a90iyQxUsTxNA==;Pj86nWww7krn8KFEDe7zaQ=="
+secured: "WNEwmPSf6xNua6s2PlPSJMltTdv5AhMpXf1f1lZCElmNmIxVw3GvSzZAzBUD85KY/4ANZ72IXo86KFCEtm+rk4DqzWKBQMaTQUYh5detuoyoh5Ht1hieAQHaAHxZgwkgkxG1ny7WWGZLSDh3QtyyyIiGnrtdYzF7Zw6Zmi0Eo+oiu7JcLVkb4HU+0HQ+opDeo7XieIU7Pzd8zdDRGXfgFkw6tK3xEK9WKFI0RbeEwg6Bf0QgiM1qFo8MsiG13gCBJ6DoDqUF0YAwlZc6rmf5C471X/Yt7+IyyPA8/JXPBcMSMUXhBb0ot3e5cJhI5+xdnBuT7g+h7v0XgXyY+eQoLjP74JIOwSknELNwYqiz4wRePGstGGQ9eSZTbQA3nkR3j8rhmyLDTv498SNhWOrNZzkaSu+uG77AgzKHO9TtGUonHiriFbJinQQr7ZOcAdGZOigchkWAwKD7QCQP7+ut0JvwCps2ogsmNyV1Qe/AgBqUWczVvEVL1vkFBNd308Ss91tzB3dd7494KQNe/hL0dg==;cOMEH3RXTKZAFgjQQkRIpg=="
 ---
 

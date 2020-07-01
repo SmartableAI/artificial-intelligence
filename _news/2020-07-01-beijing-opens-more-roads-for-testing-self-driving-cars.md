@@ -117,6 +117,20 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "Didi Chuxin offers public test rides in its self-driving vehicles"
+    excerpt: "China's ride-hailing giant Didi Chuxing began offering the public free, supervised test rides in its self-driving taxis in Shanghai on Saturday. People wanting to take a 20-minute ride can register online through the company's APP."
+    publishedDateTime: 2020-06-28T17:24:00Z
+    webUrl: "https://www.globaltimes.cn/content/1192895.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 24
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-06-28/9775d793-483a-4b06-9eef-11467efa9ffb.jpeg"
+        width: 1100
+        height: 700
+        isCached: true
   - title: "China's Didi starts self-driving ride service in Shanghai"
     excerpt: "Ride-hailing giant Didi Chuxing (DiDi) has launched the trial run of self-driving ride service on designated test roads in the eastern metropolis of Shanghai. Users who have registered in advance ..."
     publishedDateTime: 2020-06-28T17:01:00Z

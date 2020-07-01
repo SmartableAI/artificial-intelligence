@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-29T10:09:00Z
 webUrl: "https://www.marketwatch.com/press-release/us-artificial-intelligence-ai-market-forecast-report-2020---2027---top-key-players-analysis-2020-06-29"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     title: "U.S. Artificial Intelligence (AI) Market Forecast Report 2020 - 2027 - Top Key Players Analysis"
 
 related:
+  - title: "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027"
+    excerpt: "This detailed market study covers AI in fashion market growth opportunities and competitive scenarios, which can assist the stakeholders in understanding market trends and prospects in the AI in the fashion market."
+    publishedDateTime: 2020-07-01T11:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027-2020-07-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI-based Fever Detection Camera Market 2020: Covid19 Impact Analysis, End Users And Regional Forecast Till 2027"
     excerpt: "Jun 29, 2020 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by"
     publishedDateTime: 2020-06-29T15:03:00Z

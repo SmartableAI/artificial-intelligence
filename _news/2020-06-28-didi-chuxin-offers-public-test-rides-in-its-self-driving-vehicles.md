@@ -25,66 +25,121 @@ images:
     title: "Didi Chuxin offers public test rides in its self-driving vehicles"
 
 related:
-  - title: "Baidu-backed maker of self-driving vehicle sensors said to be in talks to go public"
-    excerpt: "Velodyne Lidar, in which Baidu and Ford invested US$150 million in 2016, makes radar-like systems used in autonomous vehicles."
-    publishedDateTime: 2020-06-27T04:57:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
+  - title: "Chinese ride-hailing giant Didi Chuxing launches pilot self-driving robotaxi service in Shanghai"
+    excerpt: "Commuters can book free rides in Didi autonomous vehicles within designated areas in Shanghai’s Jiading District but human drivers still required on board for safety"
+    publishedDateTime: 2020-06-29T03:54:00Z
+    webUrl: "https://www.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self"
+    ampWebUrl: "https://amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self"
     type: article
     provider:
       name: South China Morning Post
       domain: scmp.com
-    quality: 83
+    quality: 76
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/27/019fd42e-b830-11ea-94a5-08ba74052128_image_hires_125654.jpeg?itok=1xTXJ5JH&v=1593233821"
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/29/079706d6-b9bb-11ea-b64b-070a892763db_image_hires_115443.jpg?itok=BOII168X&v=1593402889"
         width: 1200
         height: 630
         isCached: true
-  - title: "Lyft’s self-driving test vehicles are back on public roads in California"
-    excerpt: "Lyft’s self-driving vehicle division has restarted testing on public roads in California, several months after pausing operations amid the COVID-19 pandemic. Lyft’s Level 5 program said Tuesday some of its autonomous vehicles are back on the road in Palo Alto and at its closed test track."
-    publishedDateTime: 2020-07-01T00:46:00Z
-    webUrl: "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/"
-    ampWebUrl: "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/"
+  - title: "China’s popular ride-hailing app DiDi starts testing self-driving taxis"
+    excerpt: "Currently, the app is only serving a small geographic area of the city.Initially, the company has deployed their own safety personnel to deal with emergency situations"
+    publishedDateTime: 2020-06-29T00:53:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/china-s-popular-ride-hailing-app-didi-starts-testing-self-driving-taxis-11593391327432.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/china-s-popular-ride-hailing-app-didi-starts-testing-self-driving-taxis/amp-11593391327432.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/china-s-popular-ride-hailing-app-didi-starts-testing-self-driving-taxis/amp-11593391327432.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 73
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/07/lyft-level-5-self-driving.jpg?w=1024"
-        width: 1024
-        height: 671
+      - url: "https://images.livemint.com/img/2020/06/29/600x338/2020-06-27T105926Z_1_LYNXMPEG5Q0BA_RTROPTP_3_CHINA-DIDI-CHUXING_1593391571639_1593391587355.JPG"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Maker of self-driving vehicle sensors said to be in talks to go public"
-    excerpt: "Velodyne creates radar-like systems that use lasers to generate three-dimensional images of a surrounding environment, used by carmakers including Mercedes-Benz AG and Ford Motor Co."
-    publishedDateTime: 2020-06-28T19:27:00Z
-    webUrl: "https://www.dig-in.com/articles/maker-of-self-driving-vehicle-sensors-said-to-be-in-talks-to-go-public"
+  - title: "Didi Chuxing tries self-driving taxis"
+    excerpt: "Didi Chuxing, China’s largest taxi-booking platform, began testing autonomous cars connected to a vehicle-to-everything (V2X)"
+    publishedDateTime: 2020-06-29T08:50:00Z
+    webUrl: "https://www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/"
+    ampWebUrl: "https://www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/amp/"
     type: article
     provider:
-      name: Digital Insurance
-      domain: dig-in.com
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 44
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2020/06/Didi_Chuing_autonomous_taxi.jpg"
+        width: 650
+        height: 396
+        isCached: true
+  - title: "Amazon reportedly paying $1.2B for self-driving startup Zoox. Will it deliver for online e-tailing giant?"
+    excerpt: "Amazon is paying over $1.2 billion for the six-year-old autonomous driving tech company, according to the Financial Times."
+    publishedDateTime: 2020-06-27T12:04:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/06/27/amazon-is-buying-self-driving-startup-zoox/112021444/"
+    ampWebUrl: "https://amp.usatoday.com/amp/112021444"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/112021444"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 42
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/3e1d8fb5ab6a22d87e18f1e51138466c6e2ab31b/c=0-8-2295-1299/local/-/media/2020/06/26/USATODAY/usatsports/MotleyFool-TMOT-8e34a620-autonomousdriving.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Didi deploys self-driving taxi fleet in Shanghai, seeking edge on Baidu"
+    excerpt: "Didi hopes the alliance with accelerate the development of self-driving vehicles. Leading Chinese search engine company Baidu has set up the \"Apollo\" platform to develop autonomous driving technology."
+    publishedDateTime: 2020-06-27T18:05:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/Didi-deploys-self-driving-taxi-fleet-in-Shanghai-seeking-edge-on-Baidu"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
     quality: 39
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/b8f597a/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Ffc%2F3b%2F303d46e446b2ac5faa2d031e557d%2F362964619.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F6%2F0%2F0%2F27940064-3-eng-GB%2FCropped-1593271902photo.JPG?source=nar-cms&width=1600&height=900&fit=cover&gravity=faces"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Baidu-backed self-driving vehicle sensors maker going public - report"
-    excerpt: "Graf Industrial is in talks to merge with Baidu-backed Velodyne Lidar in a deal that would take public the maker of sensors used in self driving vehicles, according to Bloomberg sources \"familiar with the matter\"."
-    publishedDateTime: 2020-06-29T17:00:00Z
-    webUrl: "https://www.just-auto.com/news/baidu-backed-self-driving-vehicle-sensors-maker-going-public-report_id196352.aspx"
+  - title: "Amazon buying Zoox to veer into self-driving tech"
+    excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
+    publishedDateTime: 2020-06-27T06:54:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/jun/27/amazon-buying-zoox-to-veer-into-self-driving-tech/"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
     images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2020/06/27/resized_150246-1damazon0627rgb_54-29733_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
         isCached: true
+  - title: "Beijing opens more roads for testing self-driving cars"
+    excerpt: "Beijing opened 52 additional roads on Tuesday in Haidian district, the capital's tech hub, for the testing of autonomous vehicles to push the speedy development of self-driving technology, local authorities said Wednesday."
+    publishedDateTime: 2020-07-01T08:42:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202007/01/WS5efc4c5ea3108348172568a1.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202007/01/5efc4c5ea3108348fcd9a49e.jpeg"
+        width: 596
+        height: 397
+        isCached: true
+  - title: "China's Didi starts self-driving ride service in Shanghai"
+    excerpt: "Ride-hailing giant Didi Chuxing (DiDi) has launched the trial run of self-driving ride service on designated test roads in the eastern metropolis of Shanghai. Users who have registered in advance ..."
+    publishedDateTime: 2020-06-28T17:01:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200628/3583705.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "Qj0ODtX73/Kyjy1zaG6V5I8ZxCDO9ZNKdm5k21WRdn45sdU0nrCjQB78lXm13mFFq2IpO05fNTzkGH0+UxsJE2y+pbuLRqIKegp+WrC2JDn7eL6Bsgr+XqfmdhmFeUrzB4HNxc+qHT7Gb7LIL8RPJtWfUmF1319Yrnm3zQATe+t+J2gMVkDvmuVH/9Jpbvyus/6deYbgunio4I8FGxmKKyN1kT9gvPD0c/RkyYYERftclZqAlFL4Pox4KkgZRlVa72zEiZvhSP6YQ+S0f/0tY2i4CD2hGCieNPEzt57qdXfgGcB2GT6mF1LKTn5OY1b7PiAAXxwmsgYQ+L8aLDEvog==;a4WtyI7ObQ8iS0LotUccWA=="
 ---
