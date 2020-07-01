@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Lyft’s self-driving test vehicles are back on public roads in California"
 
-secured: "QLIBRDWd69bTRoZLVBxpMC2SxysYKrspYZB4rUfqjZbBf3y1DnhsbU92gU+vZm6YRAOpgSoKXzwMZzh5HUrOcrVWAup36T72DyrbT+32/oEOxRcQNqzqigpSqS/iN5f2bqJewdDvh2/EH94CdjVpfKTir1tE+LdIfqhy+An2VRTPJQBKL7RR7SiS6jrFq+xGZSQmEkXtKSiPQiOltGg/fNnN0AsMcJCEeN4njvOckta13FS4v0qHxKt3JfMfOxfWDJWA7wVBhs9lun8On83gN3ScXRroV+xsth/L49KX8wxNxaT+lBMhpVCK35im9Odl4mu4331Li7CGowOpxFSm7w==;MslKsYEM+mC9c7bIemeIGg=="
+secured: "V/AXdPyEBF/6GORp40rqN0Zeiz30ivIHkm9IFta/7Tp9jmxNc99SAVFkYGRrRkVUzS8Tdtnhv+Qup5fWMEHqjoqLs5fcIbBx8I/lOwXCZmLArF3K7tWR6frXAgx0aP/6O89aWVglDo6GD4E6mPcVx71OgLBrLJDYYWuBl3Mq1NS5JvRLJY3lYiBRLdGiD4uzYr+5YmfweivOFKs++6gYjAE1/q1XLXB2hC1GT36utgvlH4oRgHHwg33pk8UBHm/fOSH9Livnycul6h98YMnfViaInAlyYZfirMdg2wvrb/HBOoWPPk6VMGZPRYXItAlxGEK53+rEsZdr5ThruSKKyCu90DlAvBSXbxfbt9t/+Zb3QDzBlYHdAi+k0owe8a8dd0+2/OMacjWyftNZedcvXkW6Fdp+mhUEYOrHsZezyGa1BsQZRoJUUxnqka3PALOxEyeSeBWJz+6fPRdaboaKg4s+t4q4Xc8OB6/BBpEroi+RjhbVBTgon8n6x+tqeXlsleO6ha4GdzoOxgk9C4Bwmw==;aLalF6+DOe/PN8HySBevow=="
 ---
 

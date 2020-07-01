@@ -2,52 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-06-29-medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup.md",
-      "title": "Medical tech firm Brainlab acquires Level Ex surgery game startup",
-      "excerpt": "Medical technology company Brainlab has acquired video game surgery training company Level Ex. Terms of the deal were not disclosed.",
-      "webUrl": "https://venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/level-ex-3.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 645,
-          "title": "Medical tech firm Brainlab acquires Level Ex surgery game startup",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/amp/",
-      "publishedDateTime": "2020-06-29T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-29-advancing-azure-service-quality-with-artificial-intelligence-aiops.md",
       "title": "Advancing Azure service quality with artificial intelligence: AIOps",
       "excerpt": "As Mark mentioned when he authored the Advancing Reliability blog series, building and operating a global cloud infrastructure at the scale of Azure is a complex task with hundreds of ever-evolving service components, spanning more than 160 datacenters and across more than 60 regions.",
@@ -588,7 +542,7 @@
       "title": "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing",
       "excerpt": "Uber CEO Dara Khosrowshahi says his company wants to be the “Amazon for transportation.” Friday, Amazon made clear that it intends to be the Amazon for transportation. The ecommerce giant said it had agreed to acquire Bay Area-based autonomous vehicle company Zoox,",
       "webUrl": "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/",
-      "heat": 419,
+      "heat": 409,
       "tags": null,
       "images": [
         {
@@ -863,6 +817,54 @@
       ]
     },
     {
+      "path": "_news/2020-06-26-congress-proposes-ban-on-government-use-of-facial-recognition-software.md",
+      "title": "Congress proposes ban on government use of facial recognition software",
+      "excerpt": "The Facial Recognition and Biometric Technology Moratorium Act would explicitly ban police from using the technology.",
+      "webUrl": "https://www.techrepublic.com/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
+      "heat": 321,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/26/7c55ee40-db2b-451e-81be-dcf139a52efd/resize/1200x/deba963ae5747533086f986458e1d090/facial-recognition-software-image.jpg",
+          "width": 1200,
+          "height": 831,
+          "title": "Congress proposes ban on government use of facial recognition software",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
+      "publishedDateTime": "2020-06-26T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers.md",
       "title": "Sightbit deploys AI on beaches to help lifeguards spot distressed swimmers",
       "excerpt": "Sightbit is deploying \"AI lifeguards\" at beaches to spot rip currents and swimmers in distress, starting with a pilot at a beach in its native Israel.",
@@ -1004,26 +1006,26 @@
       ]
     },
     {
-      "path": "_news/2020-06-26-man-wrongfully-arrested-due-to-facial-recognition-software-talks-about-humiliating-experience.md",
-      "title": "Man wrongfully arrested due to facial recognition software talks about 'humiliating' experience",
-      "excerpt": "A Black man in Detroit spent over a day in custody in January after an incorrect facial recognition match led to his wrongful arrest.",
-      "webUrl": "https://www.nbcnews.com/business/business-news/man-wrongfully-arrested-due-facial-recognition-software-talks-about-humiliating-n1232184",
-      "heat": 97,
+      "path": "_news/2020-06-26-facial-recognition-leads-to-first-wrongful-us-arrest-activists-say.md",
+      "title": "Facial recognition leads to first wrongful U.S. arrest, activists say",
+      "excerpt": "Robert Williams spent over a day in custody in January after face recognition software matched his driver’s license photo to surveillance video of someone shoplifting.",
+      "webUrl": "https://www.nbcnews.com/tech/security/facial-recognition-leads-first-wrongful-u-s-arrests-activists-say-n1231971",
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202006/tdy_news_ward_security_200626_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "Man wrongfully arrested due to facial recognition software talks about 'humiliating' experience",
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_26/3392279/rtx5zan6_8801ea9903a80ccb7d234bcb75bfe8f1.JPG",
+          "width": 2500,
+          "height": 1667,
+          "title": "Facial recognition leads to first wrongful U.S. arrest, activists say",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1232184",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1232184",
-      "publishedDateTime": "2020-06-26T06:55:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1231971",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231971",
+      "publishedDateTime": "2020-06-26T10:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -1046,7 +1048,7 @@
       "title": "Amazon buys self-driving technology company Zoox",
       "excerpt": "Amazon is jumping deeper into the market for autonomous driving with the purchase of Zoox, which was valued at over $3 billion in 2018.",
       "webUrl": "https://www.cnbc.com/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
-      "heat": 334,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -1093,7 +1095,7 @@
       "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
       "excerpt": "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles. The companies said Waymo will work with Volvo’s global brands ...",
       "webUrl": "https://www.reuters.com/article/us-waymo-volvo-autonomous-idUSKBN23W2V0",
-      "heat": 219,
+      "heat": 209,
       "tags": null,
       "images": [
         {

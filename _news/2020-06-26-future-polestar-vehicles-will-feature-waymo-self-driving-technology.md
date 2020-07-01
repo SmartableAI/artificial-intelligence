@@ -121,22 +121,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Volvo Car Group And Waymo Team Up To Develop Self-Driving Vehicles"
-    excerpt: "Volvo Car Group and Waymo have established a strategic partnership that will see the Google-owned self-driving tech company become the car manufacturer’s exclusive L4 (Level 4) partner. The deal includes Volvo Car Group’s strategic affiliates Polestar and Lynk & Co International,"
-    publishedDateTime: 2020-06-26T09:53:00Z
-    webUrl: "https://www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/"
-    ampWebUrl: "https://www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 59
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2020/06/Volvo-XC40-Recharge-0-1024x554.jpg"
-        width: 1024
-        height: 554
-        isCached: true
   - title: "Volvo partners Waymo to build self-driving cars"
     excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership."
     publishedDateTime: 2020-06-26T12:10:00Z

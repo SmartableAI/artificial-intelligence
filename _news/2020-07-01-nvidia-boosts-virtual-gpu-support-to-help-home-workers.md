@@ -3,9 +3,9 @@ category: news
 title: "Nvidia boosts virtual GPU support to help home workers"
 excerpt: "The pandemic has changed the way organizations operate and many workers will continue to work from home once their coworkers began returning to the office which is why Nvidia has released a new version of its virtual GPU software,"
 publishedDateTime: 2020-07-01T00:13:00Z
-webUrl: "https://www.techradar.com/sg/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
-ampWebUrl: "https://www.techradar.com/sg/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
+webUrl: "https://www.techradar.com/au/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
+ampWebUrl: "https://www.techradar.com/au/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
 type: article
 quality: 89
 heat: -1
@@ -47,7 +47,21 @@ related:
         width: 1250
         height: 619
         isCached: true
+  - title: "Nvidia updates vGPU virtual GPU software"
+    excerpt: "The July 2020 release of Nvidia's vGPU virtual GPU software adds support for more workloads, helping organisations cope with employees working from home. Nvidia's vGPU July 2020 software provides new or expanded support for Suse Linux,"
+    publishedDateTime: 2020-07-01T02:52:00Z
+    webUrl: "https://www.itwire.com/business-software/nvidia-updates-vgpu-virtual-gpu-software.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/34b163be983fea862e5cd7a99b4f1dad_M.jpg"
+        width: 375
+        height: 211
+        isCached: true
 
-secured: "sTQpfIcqRZZtlTZgO+tWrJUxUxLaWO3gvvJTxoikDsxJSe403P48I1UsxP++1AUCVIouYI6Iiw3d9NGhLKsC1hRVsDdBJV4e4O0+5JGxICknoqSdNcs4cxoNSIeesd1XGPb5sNx/63kO6EMnHN3xUK7sIHGoLyv4Hg6tfPxrk7QD/rX/U72GkljqN/ajQNNl/niPdRinCsTbpu2sf8RaMMh9kpl8ePhq9v6XDwKXGh40vycYLDZLs4N7k7Ku8O2Fa8AZLZNkTDgD3EEo9I3xjUrP66wRBLhLCNVpBGYDLH69ND2aoyXofowwPV61obpfvFaPf8GnqxaMSbD36bkHuA==;3KilGN3CYmYD/speqMcjLQ=="
+secured: "UmXWj0hYeoJEusN5WwbuGYYiS4qSst+KMjkWp4dM8E5Ql0P2xvQGwWfqpNlHZ7xFN3BqpOY/Kzeu696UhORG83j1V0onFoIHsvvmfz6EaxhxdTok2mA4FRnjAD7L/CrfHH613AeijsThO9bgDfPjq/M+x+NbQ1cAAdWmAr3mnGEKEmcOlsHkobiPKNemrfI/q8pvB/YsRMIp8+8aIaDtQBLfqDXTGlCjabCBUdQOEg33VhhT20buX7zxfJWlbfkAXL1P4+382cvNftvw/KeIQKudmd16uRkc5A6g3Ll/t3qr+pJNrs9vDYMO5U/hXNkfASkg8607yBXPFDswXmtSeQ==;xRYDM1QlHSJmiJfqCzDjRg=="
 ---
 

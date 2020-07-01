@@ -28,9 +28,9 @@ images:
 
 related:
   - title: "Self-driving forklifts are here to revolutionize warehouses, for better or worse"
-    excerpt: "And it’s helping to create the self-driving forklifts to prove it. Using expertise in fields ranging from robotics to computer vision, Third Wave has developed technology that promises to help revolutionize the warehouses of tomorrow. Emerging from ..."
+    excerpt: "Third Wave Automation raised $15 million to make self-driving forklifts a reality. Here's how it's going to change warehouses as we know it."
     publishedDateTime: 2020-06-28T13:28:00Z
-    webUrl: "https://www.digitaltrends.com/news/third-wave-automation-autonomous-forklifts/?itm_source=10&itm_content=2x2&itm_term=2376504"
+    webUrl: "https://www.digitaltrends.com/news/third-wave-automation-autonomous-forklifts/?itm_source=23&itm_content=2x4&itm_term=2356592"
     ampWebUrl: "https://www.digitaltrends.com/news/third-wave-automation-autonomous-forklifts/?amp"
     cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/third-wave-automation-autonomous-forklifts/?amp"
     type: article

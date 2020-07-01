@@ -544,53 +544,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-29-detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time.md",
-      "title": "Detroit Police Chief: Facial Recognition Software Misidentifies 96% of the Time",
-      "excerpt": "In a public meeting Monday, Detroit Police Chief James Craig admitted that the technology, developed by a company called DataWorks Plus, almost never brings back a direct match and almost always misidentifies people.",
-      "webUrl": "https://www.vice.com/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time",
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5efa126c2093b800956fc9ee/lede/1593449761410-Screen-Shot-2020-06-29-at-125550-PM.png?crop=1xw:0.9864669421487603xh;center,center",
-          "width": 2122,
-          "height": 1193,
-          "title": "Detroit Police Chief: Facial Recognition Software Misidentifies 96% of the Time",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time",
-      "publishedDateTime": "2020-06-29T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-29-emotional-support-robot-robin-headed-to-ucla-mattel-childrens-hospital.md",
       "title": "Emotional support robot Robin headed to UCLA Mattel Children's hospital",
       "excerpt": "In a nine-week study of interactions with hospitalized children, ages 4 to 12, joy increased 26% and stress was reduced by 34%, according to Expper Technologies.",
@@ -1332,7 +1285,7 @@
       "title": "U.S. Artificial Intelligence (AI) Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
       "excerpt": "The U.S. Artificial Intelligence (AI) market report, published by GMI Research, provides extensive insight and analysis of the U.S. Artificial Intelligence (AI) market over the forecast period (2020-2027).",
       "webUrl": "https://www.marketwatch.com/press-release/us-artificial-intelligence-ai-market-forecast-report-2020---2027---top-key-players-analysis-2020-06-29",
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1371,6 +1324,52 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup.md",
+      "title": "Medical tech firm Brainlab acquires Level Ex surgery game startup",
+      "excerpt": "Medical technology company Brainlab has acquired video game surgery training company Level Ex. Terms of the deal were not disclosed.",
+      "webUrl": "https://venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/level-ex-3.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 645,
+          "title": "Medical tech firm Brainlab acquires Level Ex surgery game startup",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/amp/",
+      "publishedDateTime": "2020-06-29T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

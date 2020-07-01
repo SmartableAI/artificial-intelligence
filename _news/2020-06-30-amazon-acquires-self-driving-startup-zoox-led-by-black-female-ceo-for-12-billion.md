@@ -59,38 +59,6 @@ related:
         width: 1024
         height: 462
         isCached: true
-  - title: "Amazon reportedly seals $1.2 billion acquisition of self-driving startup Zoox"
-    excerpt: "Amazon will reportedly pay over $1.2 billion to acquire Zoox, one of the many companies working on self-driving technology. The acquisition represents Amazon’s strongest commitment to self-driving so far."
-    publishedDateTime: 2020-06-26T09:14:00Z
-    webUrl: "https://www.engadget.com/amazon-self-driving-acquires-zoox-090509371.html"
-    ampWebUrl: "https://www.engadget.com/amp/amazon-self-driving-acquires-zoox-090509371.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/amazon-self-driving-acquires-zoox-090509371.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 71
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F50918640-b781-11ea-8e6f-31cf8ce3363a&client=amp-blogside-v2&signature=65c2889bedae9f838318604b8d787b0fd94eff5b"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Amazon to reportedly acquire self-driving car startup Zoox for over $1 billion"
-    excerpt: "The firm has reportedly agreed to pay over $1 billion to acquire Zoox. This will give Amazon control of the 1000-person startup; however, Zoox is expected to operate as an independent subsidiary."
-    publishedDateTime: 2020-06-26T10:12:00Z
-    webUrl: "https://www.neowin.net/news/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion"
-    ampWebUrl: "https://www.neowin.net/amp/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/amazon-to-reportedly-acquire-self-driving-car-startup-zoox-for-over-1-billion/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 70
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2019/02/1551367567_amazonlogo_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Amazon buys self-driving startup, EVs and hybrid Ford F-150s, plus more tech news"
     excerpt: "There's a lot going on with EVs, self-driving vehicles, and hybrid trucks too. Plus, OnePlus Nord camera news!"
     publishedDateTime: 2020-06-26T12:37:00Z

@@ -18,92 +18,53 @@ topics:
   - AI
 
 related:
-  - title: "Detroit Police Chief: Facial Recognition Software Misidentifies 96% of the Time"
-    excerpt: "In a public meeting Monday, Detroit Police Chief James Craig admitted that the technology, developed by a company called DataWorks Plus, almost never brings back a direct match and almost always misidentifies people."
-    publishedDateTime: 2020-06-29T17:11:00Z
-    webUrl: "https://www.vice.com/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
-    ampWebUrl: "https://www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
+  - title: "Facial recognition leads to first wrongful U.S. arrest, activists say"
+    excerpt: "Robert Williams spent over a day in custody in January after face recognition software matched his driver’s license photo to surveillance video of someone shoplifting."
+    publishedDateTime: 2020-06-26T17:41:00Z
+    webUrl: "https://www.nbcnews.com/tech/security/facial-recognition-leads-first-wrongful-u-s-arrests-activists-say-n1231971"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1231971"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231971"
     type: article
     provider:
-      name: VICE
-      domain: vice.com
-    quality: 85
+      name: NBC News
+      domain: nbcnews.com
+    quality: 89
     images:
-      - url: "https://video-images.vice.com/test-uploads/articles/5efa126c2093b800956fc9ee/lede/1593449761410-Screen-Shot-2020-06-29-at-125550-PM.png?crop=1xw:0.9864669421487603xh;center,center"
-        width: 2122
-        height: 1193
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_26/3392279/rtx5zan6_8801ea9903a80ccb7d234bcb75bfe8f1.JPG"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Facial recognition software fails to correctly identify people '96 percent of the time,' according to Detroit's chief of police"
-    excerpt: "Facial recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief."
-    publishedDateTime: 2020-06-30T15:48:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
+  - title: "Detroit says 'shoddy' work led to wrongful arrest tied to facial recognition technology"
+    excerpt: "A Black man wrongly arrested after the use of facial recognition technology will have his DNA, fingerprints and mugshot removed from files."
+    publishedDateTime: 2020-06-27T11:55:00Z
+    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/06/26/facial-recognition-wrongful-arrest-detroit-police/3265943001/"
+    ampWebUrl: "https://amp.freep.com/amp/3265943001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3265943001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 51
     images:
-      - url: "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Florida Police Embrace Facial Recognition Despite Pushback"
-    excerpt: "While companies and governments are halting the use of facial recognition technology, the Pinellas County Sheriff’s Office is refusing to comply until official regulations are put in place."
-    publishedDateTime: 2020-06-26T21:42:00Z
-    webUrl: "https://www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/BIZ-NATIONAL-MOVES-AGAINST-FACIAL-RECOGNITION-PT.JPG"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "Detroit police chief cops to 96-percent facial recognition error rate"
-    excerpt: "Detroit's police chief admitted on Monday that facial recognition technology used by the department misidentifies suspects about 96 percent of the time. It's an eye-opening admission given that the Detroit Police Department is facing criticism for arresting a man based on a bogus match from facial recognition software."
-    publishedDateTime: 2020-06-30T16:12:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/06/detroit-police-chief-admits-facial-recognition-is-wrong-96-of-the-time/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 49
-  - title: "Why the racism in facial recognition software probably can’t be fixed"
-    excerpt: "It’s been proven that facial recognition software isn’t good at accurately identifying people of color. It’s also known that police departments around the country use facial recognition tools to identify suspects and make arrests."
-    publishedDateTime: 2020-06-29T10:05:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/facial-recognition-software-racism-people-of-color-wrongful-arrests-algorithmic-bias/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 41
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2020/06/fr-ft-img.jpg?w=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/01/21/PDTF/7f37d006-521d-4d6e-b65c-51b641c9d880-IMG_detroit_police_car_1_1_.JPG?auto=webp&crop=533,300,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Police and Crime Commissioner says public consent needed for any use of live facial recognition technology in Kent"
-    excerpt: "Police say mooted trials have not taken place and the commissioner insists support of the public is vital before any system is rolled out."
-    publishedDateTime: 2020-06-29T17:23:00Z
-    webUrl: "https://www.kentonline.co.uk/maidstone/news/facial-recognition-tech-needs-public-consent-229508/"
-    ampWebUrl: "https://www.kentonline.co.uk/maidstone/news/amp/facial-recognition-tech-needs-public-consent-229508/"
-    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/maidstone/news/amp/facial-recognition-tech-needs-public-consent-229508/"
+  - title: "Following wrongful arrest of Black man, advocates uneasy about 'flawed' facial recognition use in policing"
+    excerpt: "The prevalence of facial recognition systems, which use artificial intelligence to match images of people with images of suspects, is growing in the U.S. and Canada. Recent studies have found that while the systems are fairly accurate when it comes to identifying Caucasian men,"
+    publishedDateTime: 2020-06-29T20:06:00Z
+    webUrl: "https://www.cbc.ca/radio/thecurrent/the-current-for-june-29-2020-1.5631268/following-wrongful-arrest-of-black-man-advocates-uneasy-about-flawed-facial-recognition-use-in-policing-1.5631660"
+    ampWebUrl: "https://www.cbc.ca/amp/1.5631660"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5631660"
     type: article
     provider:
-      name: Kent Online
-      domain: kentonline.co.uk
-    quality: 37
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 41
     images:
-      - url: "https://www.kentonline.co.uk/_media/img/F5AAKEO0ZBINYPPKQSG8.jpg"
-        width: 618
-        height: 425
+      - url: "https://i.cbc.ca/1.5533672.1586985782!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1208074512.jpg"
+        width: 620
+        height: 349
         isCached: true
 
 secured: "Hx9Vs9rI5F0VV5kNM6daGI3+JVdbpTxFnaak1sCapbUKlBw15qzlp6p3TISVPbqo2eQVTSpEutuzBsmOVc18AJE/JQf/4mikPMYFD8EYIxEDzkb3U3TZMk+wLKuZvElCxNrUxVstsrn2AfRE+O4FmEXIiOsD0PwQmr4c68ZEonXTgjd6cKsbqOtaKrBKN5XKpK0xKBU+2xvPHv03U/jcC6f6lJ288k9tAqCL6xIIiYcnANFeP8KA/AcqVR2leJO2IVicvwNVWZQkNRPEIoxxJMbjCXQeymdCiGUUrH+hLCP23VvxeZ8UTNfMZb+e/gMnHN1SEWrWZc+UYElv78yJnIb7yYzdaezwaXdW0sJj3IL3c7mSEiL7KQpqwy4mc0ATu81Ku3IDiQrmoE4ZJsv/bVNonqVW2BgKBR+sGxlKDtRx4fNDgk6vzeAtc2nkcCt6e7yzL4rse5Edg0eOwBku2rFbJTqsKcPOB4qiqFPLvdV+GD2k3L+X8H4fn9dfx3XLZGdMaFq8Sal00UYhLwdNbQ==;2O/hfaXBDIqoKHTmP14Low=="

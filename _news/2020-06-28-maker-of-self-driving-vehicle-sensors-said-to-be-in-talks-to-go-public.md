@@ -121,22 +121,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Volvo Car Group And Waymo Team Up To Develop Self-Driving Vehicles"
-    excerpt: "Volvo Car Group and Waymo have established a strategic partnership that will see the Google-owned self-driving tech company become the car manufacturer’s exclusive L4 (Level 4) partner. The deal includes Volvo Car Group’s strategic affiliates Polestar and Lynk & Co International,"
-    publishedDateTime: 2020-06-26T09:53:00Z
-    webUrl: "https://www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/"
-    ampWebUrl: "https://www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/06/volvo-car-group-and-waymo-team-up-to-develop-self-driving-vehicles/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 59
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2020/06/Volvo-XC40-Recharge-0-1024x554.jpg"
-        width: 1024
-        height: 554
-        isCached: true
   - title: "Future Polestar vehicles will feature Waymo self-driving technology"
     excerpt: "Swedish car firm teams up with American technology company for future car collaborations. Polestar has formed a strategic partnership with Waymo, which will see the Swedish car maker’s cars fitted with its American partner’s self-driving technology in ..."
     publishedDateTime: 2020-06-26T11:54:00Z
@@ -214,6 +198,6 @@ related:
       domain: couriermail.com.au
     quality: 4
 
-secured: "i3XSyU4/XrECLHffj4UdSa1J10xjdpeRKq72ndoBFbdoYhJDtKdZWRIg6npiwaXrUflhRmib/vmeY8VwzU5UDrBLpCfDClYDlsGs7rsvv0QChRRFqwOC00As6Sx0BbLgO0NY1Wr0HHLm784U+cfqkmxK8ARTHI3/D297ZHcLD6T0P/R+HbtOvvBo+wSo6u0ADnYCf5CRFV29FGxpR+QQ1KhjjpaYO2xU6vpVCVPzJj8DvH5PApWXGEl2LaRGJjOlIv/ZpoItEWMgqeRoUIFeYe7auVwTdhkXPxqEHTQ9w2htNvVoWyM+6c3qVInflyS1Sqo37CYHCnXO56O+cbMxrA==;9bhRP1SYz1wxsyobrJtFQQ=="
+secured: "u3bC8aiRlYmzgNMtv1vzHy9FIO9VUXgz2A97Bhlg1QAxaCrV8Dp+jyqhMKt8RyXpLpgopqQa/EhlZe2t8qobgGQlkmCjS5DS5TPv9koyZCkLqpi//frm8vm758oSsGQmfK8Y5Ms5W43adFkrVdQ7EAnxNnun/c3Jqet/jgCwk7FQ85xMWZx9c7TjbPZKb77KxsUNyQs+BKOCbSMFVlM0NmmWf4r5R5ndE8LZ2+FboF5GK6iKbCKd2cwQ5Mi1S9GrCA/pKT6DJBPx6sybH5caDX/ay1Kbvnz6kZmDVcMFiCGx9JA+ljdvbepZrz9GI61tExZs0JmXAAQZctZuPFXEd9c2/VfdO5Wx9JDYYM7EJx8iy7ZD9Ajpp61vWhVDnbGXnFaqo8krJP2jWOhqnUGPGxSJPog+LUJvuK7axVzLuu9L5W7tJP+6U5UmSUocMP5rYPUw9mpcW7e2CqGh+xa+2IL+R6E4lFc72NtC20cVtMlHNoVBUwd5HVfHi98queuGHOSBL2Nc0s/KBh4iW75MBw==;KI22diqFT2OKpCrHLDSFHQ=="
 ---
 

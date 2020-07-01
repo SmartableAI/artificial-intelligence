@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp"
 type: article
 quality: 89
-heat: 419
+heat: 409
 published: true
 
 provider:
@@ -222,22 +222,6 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_0fabd4301fa44126a26d44edb3a4e60b_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Amazon Reportedly Buys Self-Driving Startup Zoox For Over $1.2 Billion"
-    excerpt: "E-commerce giant Amazon has reportedly agreed to pay more than $1.2 billion to buy self-driving startup Zoox, in a move that sheds light on the company’s huge ambitions regarding autonomous vehicle technology."
-    publishedDateTime: 2020-06-26T10:39:00Z
-    webUrl: "https://www.carscoops.com/2020/06/amazon-reportedly-buys-self-driving-startup-zoox-for-over-1-2-billion/"
-    ampWebUrl: "https://www.carscoops.com/2020/06/amazon-reportedly-buys-self-driving-startup-zoox-for-over-1-2-billion/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/06/amazon-reportedly-buys-self-driving-startup-zoox-for-over-1-2-billion/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 44
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2020/06/Amazon-logo-0-1024x554.jpg"
-        width: 1024
-        height: 554
         isCached: true
   - title: "Amazon to buy self-driving technology startup Zoox"
     excerpt: "Amazon has agreed to buy California-based self-driving startup Zoox in a deal reported to be worth more than $1 billion that gives it options to use autonomous technology in either ride-hailing or ..."

@@ -2,52 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-06-26-what-you-should-know-about-investing-in-ai-during-economic-downturn.md",
-      "title": "What you should know about investing in AI during economic downturn",
-      "excerpt": "Over the past few months, the COVID-19 virus has had a huge impact on the globe. As of April 28, according to the World Health Organization, there have been more than 2.8 million confirmed cases worldwide and nearly 198,",
-      "webUrl": "https://thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/08/shutterstock_144055459_stocks_stock-market-1200x600.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": "What you should know about investing in AI during economic downturn",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/amp/",
-      "publishedDateTime": "2020-06-26T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-26-our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai.md",
       "title": "Our fragile 40-years-old Banking infrastructure can only be saved with AI",
       "excerpt": "IT failures are more common than we think. Admitting that you have a problem means there is a risk in doing business with you, and that leads to customer churn. Most companies try to conceal their failures and pretend there is nothing wrong.",
@@ -234,6 +188,54 @@
       ]
     },
     {
+      "path": "_news/2020-06-26-congress-proposes-ban-on-government-use-of-facial-recognition-software.md",
+      "title": "Congress proposes ban on government use of facial recognition software",
+      "excerpt": "The Facial Recognition and Biometric Technology Moratorium Act would explicitly ban police from using the technology.",
+      "webUrl": "https://www.techrepublic.com/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
+      "heat": 321,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/26/7c55ee40-db2b-451e-81be-dcf139a52efd/resize/1200x/deba963ae5747533086f986458e1d090/facial-recognition-software-image.jpg",
+          "width": 1200,
+          "height": 831,
+          "title": "Congress proposes ban on government use of facial recognition software",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
+      "publishedDateTime": "2020-06-26T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers.md",
       "title": "Sightbit deploys AI on beaches to help lifeguards spot distressed swimmers",
       "excerpt": "Sightbit is deploying \"AI lifeguards\" at beaches to spot rip currents and swimmers in distress, starting with a pilot at a beach in its native Israel.",
@@ -375,26 +377,26 @@
       ]
     },
     {
-      "path": "_news/2020-06-26-man-wrongfully-arrested-due-to-facial-recognition-software-talks-about-humiliating-experience.md",
-      "title": "Man wrongfully arrested due to facial recognition software talks about 'humiliating' experience",
-      "excerpt": "A Black man in Detroit spent over a day in custody in January after an incorrect facial recognition match led to his wrongful arrest.",
-      "webUrl": "https://www.nbcnews.com/business/business-news/man-wrongfully-arrested-due-facial-recognition-software-talks-about-humiliating-n1232184",
-      "heat": 97,
+      "path": "_news/2020-06-26-facial-recognition-leads-to-first-wrongful-us-arrest-activists-say.md",
+      "title": "Facial recognition leads to first wrongful U.S. arrest, activists say",
+      "excerpt": "Robert Williams spent over a day in custody in January after face recognition software matched his driver’s license photo to surveillance video of someone shoplifting.",
+      "webUrl": "https://www.nbcnews.com/tech/security/facial-recognition-leads-first-wrongful-u-s-arrests-activists-say-n1231971",
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202006/tdy_news_ward_security_200626_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "Man wrongfully arrested due to facial recognition software talks about 'humiliating' experience",
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_26/3392279/rtx5zan6_8801ea9903a80ccb7d234bcb75bfe8f1.JPG",
+          "width": 2500,
+          "height": 1667,
+          "title": "Facial recognition leads to first wrongful U.S. arrest, activists say",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1232184",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1232184",
-      "publishedDateTime": "2020-06-26T06:55:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1231971",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231971",
+      "publishedDateTime": "2020-06-26T10:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",
@@ -417,7 +419,7 @@
       "title": "Amazon buys self-driving technology company Zoox",
       "excerpt": "Amazon is jumping deeper into the market for autonomous driving with the purchase of Zoox, which was valued at over $3 billion in 2018.",
       "webUrl": "https://www.cnbc.com/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
-      "heat": 334,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -464,7 +466,7 @@
       "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
       "excerpt": "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles. The companies said Waymo will work with Volvo’s global brands ...",
       "webUrl": "https://www.reuters.com/article/us-waymo-volvo-autonomous-idUSKBN23W2V0",
-      "heat": 219,
+      "heat": 209,
       "tags": null,
       "images": [
         {

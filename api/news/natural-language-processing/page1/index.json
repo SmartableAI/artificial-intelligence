@@ -380,6 +380,54 @@
       ]
     },
     {
+      "path": "_news/2020-06-26-congress-proposes-ban-on-government-use-of-facial-recognition-software.md",
+      "title": "Congress proposes ban on government use of facial recognition software",
+      "excerpt": "The Facial Recognition and Biometric Technology Moratorium Act would explicitly ban police from using the technology.",
+      "webUrl": "https://www.techrepublic.com/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
+      "heat": 321,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/26/7c55ee40-db2b-451e-81be-dcf139a52efd/resize/1200x/deba963ae5747533086f986458e1d090/facial-recognition-software-image.jpg",
+          "width": 1200,
+          "height": 831,
+          "title": "Congress proposes ban on government use of facial recognition software",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
+      "publishedDateTime": "2020-06-26T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-five-ways-quiet-workers-can-increase-their-visibility-and-recognition.md",
       "title": "Five Ways Quiet Workers Can Increase Their Visibility And Recognition",
       "excerpt": "\"My workplace doesn’t work for quiet people.\" Peter describes himself as quietly confident. He's used to being recognized for his achievements by his bosses. However, when the new director (less appreciative and more of an alpha type) appeared in his company,",
@@ -1308,53 +1356,6 @@
         "AI",
         "AI in Finance",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-citizen-isnt-here-to-be-your-free-speech-platform.md",
-      "title": "Citizen Isn't Here to Be Your Free-Speech Platform",
-      "excerpt": "I have become a Citizen addict. Citizen is an app, currently active in 18 cities, that’s sort of a supercharged police scanner—its home screen is a map of the area around your location that pinpoints disturbances.",
-      "webUrl": "https://www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ee2b6f1e8f495017d8cebd3/master/pass/business_citizen_639285526.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Citizen Isn't Here to Be Your Free-Speech Platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/amp",
-      "publishedDateTime": "2020-06-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

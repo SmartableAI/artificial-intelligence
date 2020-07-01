@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "The little-known AI firms whose facial recognition tech led to a false arrest"
-    excerpt: "The opaque industry that sells facial recognition technology, and the patchwork of police policies that govern its use, have made effective oversight extremely difficult."
-    publishedDateTime: 2020-06-26T10:00:00Z
-    webUrl: "https://qz.com/1873731/the-unknown-firms-whose-facial-recognition-led-to-a-false-arrest/"
-    ampWebUrl: "https://qz.com/1873731/the-unknown-firms-whose-facial-recognition-led-to-a-false-arrest/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1873731/the-unknown-firms-whose-facial-recognition-led-to-a-false-arrest/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 101
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/06/2020-06-17T180157Z_1_LYNXMPEG5G1Z6_RTROPTP_4_USA-POLICE-SURVEILLANCE-e1593123970767.jpg?quality=75&strip=all&w=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "Congress proposes ban on government use of facial recognition software"
     excerpt: "The Facial Recognition and Biometric Technology Moratorium Act would explicitly ban police from using the technology."
     publishedDateTime: 2020-06-26T18:31:00Z
@@ -52,21 +36,101 @@ related:
         width: 1200
         height: 831
         isCached: true
-  - title: "Facial recognition leads to first wrongful U.S. arrest, activists say"
-    excerpt: "Robert Williams spent over a day in custody in January after face recognition software matched his driver’s license photo to surveillance video of someone shoplifting."
-    publishedDateTime: 2020-06-26T17:41:00Z
-    webUrl: "https://www.nbcnews.com/tech/security/facial-recognition-leads-first-wrongful-u-s-arrests-activists-say-n1231971"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1231971"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231971"
+  - title: "Recommended Reading: When facial recognition identifies the wrong person"
+    excerpt: "Law enforcement at all levels are employing facial recognition for a variety of things. When the US and countries around the world began to shut down, tech companies of all sizes announced plans to help."
+    publishedDateTime: 2020-06-27T14:07:00Z
+    webUrl: "https://www.engadget.com/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
+    ampWebUrl: "https://www.engadget.com/amp/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 88
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Fb72763a0-c01c-11e9-befb-17263ab358ba&client=amp-blogside-v2&signature=38dee4b3efbeac7f4000006b08effbd870812c8c"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "ACM calls for governments and businesses to stop using facial recognition"
+    excerpt: "ACM, one of the largest computer science orgs in the world, today called for the halt of facial recognition use by governments and businesses in the U.S."
+    publishedDateTime: 2020-06-30T23:49:00Z
+    webUrl: "https://venturebeat.com/2020/06/30/acm-calls-for-governments-and-businesses-to-stop-using-facial-recognition/"
+    ampWebUrl: "https://venturebeat.com/2020/06/30/acm-calls-for-governments-and-businesses-to-stop-using-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/acm-calls-for-governments-and-businesses-to-stop-using-facial-recognition/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Detroit Police Chief: Facial Recognition Software Misidentifies 96% of the Time"
+    excerpt: "In a public meeting Monday, Detroit Police Chief James Craig admitted that the technology, developed by a company called DataWorks Plus, almost never brings back a direct match and almost always misidentifies people."
+    publishedDateTime: 2020-06-29T17:11:00Z
+    webUrl: "https://www.vice.com/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
+    ampWebUrl: "https://www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 85
+    images:
+      - url: "https://video-images.vice.com/test-uploads/articles/5efa126c2093b800956fc9ee/lede/1593449761410-Screen-Shot-2020-06-29-at-125550-PM.png?crop=1xw:0.9864669421487603xh;center,center"
+        width: 2122
+        height: 1193
+        isCached: true
+  - title: "Democrats and civil liberties groups back law banning facial recognition across the US"
+    excerpt: "New legislation that would ban police use of facial recognition software across the US has been backed by civil liberties groups -- but not Big Tech."
+    publishedDateTime: 2020-06-26T12:46:00Z
+    webUrl: "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/democrats-and-civil-liberties-groups-back-law-banning-facial-recognition-across-the-us/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 83
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-85-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "Man wrongfully arrested due to facial recognition software talks about 'humiliating' experience"
+    excerpt: "A Black man in Detroit spent over a day in custody in January after an incorrect facial recognition match led to his wrongful arrest."
+    publishedDateTime: 2020-06-26T13:55:00Z
+    webUrl: "https://www.nbcnews.com/business/business-news/man-wrongfully-arrested-due-facial-recognition-software-talks-about-humiliating-n1232184"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1232184"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1232184"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 89
+    quality: 77
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_26/3392279/rtx5zan6_8801ea9903a80ccb7d234bcb75bfe8f1.JPG"
-        width: 2500
-        height: 1667
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202006/tdy_news_ward_security_200626_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Facial recognition software fails to correctly identify people '96 percent of the time,' according to Detroit's chief of police"
+    excerpt: "Facial recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief."
+    publishedDateTime: 2020-06-30T15:48:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "This Bill Will Ban Government Use of Facial Recognition Tech"
     excerpt: "The Facial Recognition and Biometric Technology Moratorium Act just introduced into Congress aims to ban federal government from using biometric tech."
@@ -84,6 +148,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "A new US bill would ban the police use of facial recognition"
+    excerpt: "US lawmakers have introduced a bill which would ban the use of facial recognition technology by federal law enforcement agencies. Specifically, it would make it illegal for any federal agency or official to “acquire,"
+    publishedDateTime: 2020-06-26T12:43:00Z
+    webUrl: "https://www.technologyreview.com/2020/06/26/1004500/a-new-us-bill-would-ban-the-police-use-of-facial-recognition/"
+    ampWebUrl: "https://www.technologyreview.com/2020/06/26/1004500/a-new-us-bill-would-ban-the-police-use-of-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/06/26/1004500/a-new-us-bill-would-ban-the-police-use-of-facial-recognition/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/06/GettyImages-1139860049.jpg?w=3000"
+        width: 3000
+        height: 1912
+        isCached: true
   - title: "Bill would ban police use of face recognition"
     excerpt: "Democrats in both houses of Congress said Thursday they are introducing a bill that would ban government use of facial recognition technology. Why it matters: A handful of cities have banned government use in their jurisdictions,"
     publishedDateTime: 2020-06-26T14:08:00Z
@@ -100,6 +180,38 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Florida Police Embrace Facial Recognition Despite Pushback"
+    excerpt: "While companies and governments are halting the use of facial recognition technology, the Pinellas County Sheriff’s Office is refusing to comply until official regulations are put in place."
+    publishedDateTime: 2020-06-26T21:42:00Z
+    webUrl: "https://www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Florida-Police-Embrace-Facial-Recognition-Despite-Pushback.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/BIZ-NATIONAL-MOVES-AGAINST-FACIAL-RECOGNITION-PT.JPG"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "U.S. Senator Pushes for Government Ban on Facial Recognition"
+    excerpt: "U.S. Sen. Ed Markey introduced a facial recognition bill this week with Rep. Ayanna Pressley, another Massachusetts Democrat; Sen. Jeff Merkley, an Oregon Democrat; and Pramila Jayapal, a Washington Democrat."
+    publishedDateTime: 2020-06-29T15:34:00Z
+    webUrl: "https://www.govtech.com/policy/US-Senator-Pushes-for-Government-Ban-on-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/policy/US-Senator-Pushes-for-Government-Ban-on-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/US-Senator-Pushes-for-Government-Ban-on-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
+        width: 927
+        height: 626
+        isCached: true
   - title: "Boston mayor okays ban on facial recognition tech"
     excerpt: "Mayor Marty Walsh has approved ban on government use of facial surveillance technology, making Boston the first major East Coast city to do so."
     publishedDateTime: 2020-06-30T21:06:00Z
@@ -115,6 +227,22 @@ related:
       - url: "https://media.bizj.us/view/img/11663456/mayor-walsh-may-4*600xx3593-2395-4-0.jpg"
         width: 600
         height: 399
+        isCached: true
+  - title: "Ed Markey, Ayanna Pressley push for federal ban on facial recognition technology"
+    excerpt: "Massachusetts Sen. Ed Markey and Rep. Ayanna Pressley are pushing to ban the federal government’s use of facial recognition technology, as Boston last week nixed the city use of the"
+    publishedDateTime: 2020-06-28T23:14:00Z
+    webUrl: "https://www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/"
+    ampWebUrl: "https://www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 56
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/03/markeynl06.jpg?w=1024&h=755"
+        width: 1024
+        height: 755
         isCached: true
   - title: "OTR: Will Boston's ban on facial recognition technology become a national trend?"
     excerpt: "JANE BOSTON BECAME THE SECOND NATIONAL CITY TO BAN FACIAL RECOGNITION TECHNOLOGY. WILL THIS BE A TREND? WE MAY BE THE FIRST BUT WE’RE NOT THE LAST. MARY ANNE: IT’S MORE 1984 THAN A 2020 DEMOCRACY. ED: THIS WEEK,"
@@ -148,37 +276,19 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Detroit says 'shoddy' work led to wrongful arrest tied to facial recognition technology"
-    excerpt: "A Black man wrongly arrested after the use of facial recognition technology will have his DNA, fingerprints and mugshot removed from files."
-    publishedDateTime: 2020-06-27T11:55:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/06/26/facial-recognition-wrongful-arrest-detroit-police/3265943001/"
-    ampWebUrl: "https://amp.freep.com/amp/3265943001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3265943001"
+  - title: "Why the racism in facial recognition software probably can’t be fixed"
+    excerpt: "It’s been proven that facial recognition software isn’t good at accurately identifying people of color. It’s also known that police departments around the country use facial recognition tools to identify suspects and make arrests."
+    publishedDateTime: 2020-06-29T10:05:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/facial-recognition-software-racism-people-of-color-wrongful-arrests-algorithmic-bias/"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 51
+      name: Marketplace
+      domain: marketplace.org
+    quality: 41
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/01/21/PDTF/7f37d006-521d-4d6e-b65c-51b641c9d880-IMG_detroit_police_car_1_1_.JPG?auto=webp&crop=533,300,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.marketplace.org/wp-content/uploads/2020/06/fr-ft-img.jpg?w=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Facial-Recognition Tech Might Be the Real Reason to Buy Remark Stock"
-    excerpt: "Remark's technology has many valuable applications and has been validated. As a result, investors should buy MARK stock."
-    publishedDateTime: 2020-06-29T12:10:00Z
-    webUrl: "https://investorplace.com/2020/06/facial-recognition-tech-reason-buy-mark-stock/"
-    ampWebUrl: "https://investorplace.com/2020/06/facial-recognition-tech-reason-buy-mark-stock/amp/"
-    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/facial-recognition-tech-reason-buy-mark-stock/amp/"
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 44
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2020/06/facial-recognition.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Detroit Clears Record of Man Targeted by Facial Recognition"
     excerpt: "Detroit police are working to expunge the criminal record of a man who was wrongfully targeted by facial recognition technology. He was arrested without explanation and released because the software made a mistake."
@@ -202,6 +312,66 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "US policy arm of major computing association urges suspension of facial recognition technology"
+    excerpt: "The Association for Computing Machinery's US Technology Policy Committee (USTPC) today called for 'an immediate suspension of the current and future private and governmental use of facial recognition (FR) technologies in all circumstances known or reasonably foreseeable to be prejudicial to established human and legal rights' in its 'Statement on Principles and Prerequisites for the Development,"
+    publishedDateTime: 2020-06-30T09:19:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/afcm-upa062920.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 29
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/236157_web.jpg"
+        width: 618
+        height: 218
+        isCached: true
+  - title: "U.S. Sen. Ed Markey pushes to ban government use of facial recognition technology, says ‘the criminal justice system is already rigged'"
+    excerpt: "Legislation proposed by U.S. Sen. Ed Markey would ban federal use of biometric surveillance and tie federal funding to whether communities ban it."
+    publishedDateTime: 2020-06-28T18:23:00Z
+    webUrl: "https://www.masslive.com/politics/2020/06/us-sen-ed-markey-pushes-to-ban-government-use-of-facial-recognition-technology-says-the-criminal-justice-system-is-already-rigged.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/06/us-sen-ed-markey-pushes-to-ban-government-use-of-facial-recognition-technology-says-the-criminal-justice-system-is-already-rigged.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/06/us-sen-ed-markey-pushes-to-ban-government-use-of-facial-recognition-technology-says-the-criminal-justice-system-is-already-rigged.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 27
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZAYEYVJ5VVEANAVWPXX4RCROOM.png"
+        width: 1114
+        height: 675
+        isCached: true
+  - title: "Lawmakers Introduce Bill to Ban Federal Use of Facial Recognition Tech"
+    excerpt: "If passed, federal agencies would not be able to run, fund, purchase or otherwise use data from facial biometric systems without congressional authorization."
+    publishedDateTime: 2020-06-26T19:59:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/06/lawmakers-introduce-bill-ban-federal-use-facial-recognition-tech/166489/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 24
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/06/26/NGface20200626_OPoDmHB/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Boston becomes the second largest city in the US to ban facial recognition software, citing concerns that the technology is 'racially discriminatory' and threatens basic rights"
+    excerpt: "Boston will become the second major city in the US to ban facial recognition software for government use after a unanimous city council vote, citing concerns of racial bias."
+    publishedDateTime: 2020-06-27T01:21:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8464719/Boston-second-largest-city-ban-facial-recognition-software.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-second-largest-city-ban-facial-recognition-software.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-second-largest-city-ban-facial-recognition-software.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/06/27/00/30104344-0-image-a-10_1593215913669.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "mWrsvmNCG3Y/wk91IxkEv/sXsVf2r+ldAYHYOh9PjI/PEbT6EUzhURSJjGHZsUwCpEkiWUFNHT6AVXtHwYjg1cQMdDvu+K909en3Gs8VSmQeDCW0V7+1NpoCEiFl80vSl3eTzlrCsZ/kVJVyuOTnv6b3gvQiYsu1hKlCBidRpb7Fvx0SwAuJqmkUGpepj0i4CPeAFkZvxAtIdElG+rzbw3M+aNxyoMfW9mTfeEpOVBAccrsxcc50JayKcLW5N2owuvsxJv3uMPU9ZZCdT0bTwdbng2E5hrNEmjAFXYJ/lPmWJMJ6L1Qppw7FwotRC0Mr3X35AqfziRjpWdzfK1uP3g==;QJL4JWHzsgv6CeqcOJijVA=="
 ---
