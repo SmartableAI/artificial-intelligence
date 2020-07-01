@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "zoox"
   url: "https://twitter.com/zoox"
-  followers: 11194
+  followers: 11196
 
 size: 1,001-5,000 employees
 yearFounded: 2014
@@ -36,7 +36,7 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1267574800148336641/9OGsod1E_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1278198998164070400/cPxyXqbm_400x400.jpg"
     width: 400
     height: 400
     isCached: true
