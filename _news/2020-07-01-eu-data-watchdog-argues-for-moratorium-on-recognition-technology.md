@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "EU data watchdog argues for moratorium on recognition technology"
 
-secured: "T/a573H5OfdBpPu78pzFUzJ5/7DUpBqW/uZ0beiKGyRsnBtMSqjPkiIRFzDjt18DiaBp9f8wciIYyRgklWIHxrqFPBDITOZLuvqo+wIGY1M7yWlZBJ3/FN/CRK2f/BGDModDNvuZxKbnT1GuiFePVCZTbzIF2fdkEAHdkfTvlpMrrNBtE3wFaOtAG095m/6Lw/z/2ZU0bMhr/RZwkMDA+ylebd5mK384ui1gdOpqwJxY3ZaudguVOKTVNMjQ8w/4LX/+JSsJ63GnvnI/pGyKr4xWHEu5pj9/M/bWthZtGRIMIFiFxW8TsXwCKc4NaBt9yDVZgWJq/GoUYFv1GPiWsA==;7MpupsRrrnjGGjitzp3+4A=="
+secured: "eRxtImvghwpSdC/CJdw7wrN8Jm2JbDNMzCwEO0JKgzQY5g5P4Wb2igTs5w7EZ2WhE70aV/F+HHaWlga9G3g1FWLPMyzjP5IF9oWN4TDTqE37kqnIRTS9RjMC75gh3XWsqBi8FuNNic0TMUl9yyLGPO9pv57Xza3h09AhnXTm2BdpuaFiEv0SP9K6RdbRORRbhxTv7lA/rGl0dE+e31x7V4BPsdmHpqLdYhnShiCoBIfT81HlsIB436sbZ4/RPbIlMVfv19mH92KgYJXhyWYGu2K5i++kIFT+nEJLGE9UFQ3APFNg6zMm6jt4DBkbZw8G4868y87DJzvuggvdJN27TBJbvm5afLyzJqV110MTiw5/2Qlf2/NPcMbFuA4jRNh6g51I/JKi2sPcJYgyvItE+44Ku8wdQ4eaE5WqT65ZurWCK/UbwN+P6GbT5Lf38pKLfYo70gcn3uK3OGUEDSFG0+Qjr0fwet4R4BPYusDPqhn+4tnpD72TFWUZ/ZtA1pALklT+WIpeXSXAL4L3fVNefg==;yU7g5Nl9gOJo0MBZyuUsdg=="
 ---
 

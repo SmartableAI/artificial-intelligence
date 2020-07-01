@@ -75,6 +75,15 @@ related:
         width: 1200
         height: 688
         isCached: true
+  - title: "Elementary Robotics raises $13 million for its machine learning and computer vision offerings to industry"
+    excerpt: "Elementary Robotics, a Los Angeles-based robotics startup, has raised $12.7 million in its Series A funding round led by Threshold Ventures, an early-stage investor in technology companies."
+    publishedDateTime: 2020-07-01T07:40:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/07/01/elementary-robotics-raises-13-million-for-its-machine-learning-and-computer-vision-offerings-to-industry/33667/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 49
   - title: "LA's Elementary Robotics Finds $12.7M For Industrial Inspections"
     excerpt: "Los Angeles-based Elementary Robotics, a new startup led by startup veteran Arye Barnehama, said on Tuesday that it has raised $12.7M in funding for its industrial robotics company. The funding was led by Threshold Ventures,"
     publishedDateTime: 2020-06-30T18:00:00Z
@@ -84,15 +93,6 @@ related:
       name: SocalTech
       domain: socaltech.com
     quality: 34
-  - title: "Elementary Robotics raises $13 million for its machine learning and computer vision offerings to industry"
-    excerpt: "Elementary Robotics, a Los Angeles-based robotics startup, has raised $12.7 million in its Series A funding round led by Threshold Ventures, an early-stage investor in technology companies."
-    publishedDateTime: 2020-07-01T07:40:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/07/01/elementary-robotics-raises-13-million-for-its-machine-learning-and-computer-vision-offerings-to-industry/33667/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 32
 
 secured: "yUOGUwNlqnDS7JV3VDRjNYMk1GLVGdotm9PMt+Czb5DQ1xDCXTS5kg2CJGhU5oTh6ztqfrVx0qRrk6F/tVTQtnza9JUfQYkaBK4AwDkvJ/fYu7S4b8ff/BD7dlTHw76twiHo3yvV3NLOsZG/WAHnvSgkXzXrOqrkpkZl7Bzkz4Cw/80w2Qb+QCIGeuMNfBcYHw/u1BZicvPAK13+CNWim+vXOUzv9eAvW7AoEtuMcg0o+I7hMUHewMp4B+CZh3GPLrI/Tek9ZruNHGaW8DiNmnG1jKDhRr7bOkzk6LZVND47bpPT9vun8VEihAVuMyDgD7Hym/kYrbnuvMkhDe26QMG5NgfYv/Ze0DjrXNIZL2vDtzi1OVN/J7C3Gkc+2VE7a9ORJgS2WdR8bFW434JSa24Tf1LX+HmlbsT43ciJMkRKoJzp/xGgyAdnmHdRnKPylkxA4ImC60SWmizW6Sn1kelBeEbfwEONZH167JzMjHcL51YGaWakCNRHdZkHCRW+yQ3dTuLavxHz+2NWHe7KPA==;Bh+JnYVGdSRIVnDt/YUbPQ=="
 ---

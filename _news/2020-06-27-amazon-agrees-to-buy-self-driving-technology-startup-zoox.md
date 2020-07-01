@@ -111,22 +111,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 54
-  - title: "Amazon To Acquire Self-Driving Startup In A $1 Billion+ Deal"
-    excerpt: "Amazon.com Inc (NASDAQ: AMZN) is expected to announce a deal to buy self-driving technology startup Zoox for over $1 billion, according to a report by The Information. This does not come as a surprise, considering Amazon's closed doors discussion with Zoox ..."
-    publishedDateTime: 2020-06-26T16:18:00Z
-    webUrl: "https://www.benzinga.com/m-a/20/06/16407224/amazon-to-acquire-self-driving-startup-in-a-1-billion-deal"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16407224"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16407224"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2020/06/Screen-Shot-2020-06-26-at-14.20.54.png"
-        width: 592
-        height: 375
-        isCached: true
   - title: "Amazon looks to self-driving future by acquiring Zoox | Raleigh News & Observer"
     excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will drive up without a driver."
     publishedDateTime: 2020-06-26T19:12:00Z
@@ -142,22 +126,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/f18ce1ed-cf4c-4d20-999e-9061dff2befe/2905bfb2-5838-40e0-bf8f-1e2a74a0602e/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Amazon buys self-driving car firm Zoox, suggesting a future of automated deliveries"
-    excerpt: "The deal provides Amazon with a new piece of technology as it reduces its dependence on shipping companies to get packages to customers."
-    publishedDateTime: 2020-06-26T15:57:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/06/26/amazon-zoom/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/06/26/amazon-zoom/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/06/26/amazon-zoom/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 38
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XYF7FUFXWUI6VGQ52PNRZPQHZY.jpg&w=1440"
-        width: 1440
-        height: 942
         isCached: true
   - title: "Amazon Peps Up Self-Driving Battle With Zoox Buyout Agreement"
     excerpt: "Amazon’s latest move and aggressive strategies is likely to pose a challenge to Alphabet’s moat in the self-driving technology. We note that Google has been a frontrunner when it comes to autonomous driving courtesy of its well-performing Waymo unit."
@@ -202,6 +170,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Beijing opens more roads for testing self-driving cars"
+    excerpt: "Beijing opened 52 additional roads on Tuesday in Haidian district, the capital's tech hub, for the testing of autonomous vehicles to push the speedy development of self-driving technology, local authorities said Wednesday."
+    publishedDateTime: 2020-07-01T08:42:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202007/01/WS5efc4c5ea3108348172568a1.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202007/01/5efc4c5ea3108348fcd9a49e.jpeg"
+        width: 596
+        height: 397
+        isCached: true
   - title: "Amazon may have just taken a big step toward self-driving delivery vehicles"
     excerpt: "The online retailer spent more than $1 billion to buy a self-driving car company called Zoox Latest Cookie Settings Many products featured on this site were editorially chosen. Popular Science may receive financial compensation for products purchased through this site."
     publishedDateTime: 2020-06-27T09:40:00Z
@@ -213,6 +195,20 @@ related:
     quality: 22
     images:
       - url: "https://www.popsci.com/resizer/levk2LKyf1s-D0m3yBUiYkhl58I=/1200x628/smart/cloudfront-us-east-1.images.arcpublishing.com/bonnier/JE5O7LAV5FHZNG7UIQYHQAPBMA.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Self-Driving Cars Are a Way Better Solution to Drunk Driving Than Sobriety Checkpoints"
+    excerpt: "Lars Trautman, a senior fellow of criminal justice and civil liberties policy at the R Street Institute [2], told me via email: [Michigan v Sitz] created a perverse result in which a suspicionless stop that would be constitutionally offensive if conducted against an individual suddenly becomes sound so long as"
+    publishedDateTime: 2020-06-29T13:12:00Z
+    webUrl: "https://www.rstreet.org/2020/06/29/self-driving-cars-are-a-way-better-solution-to-drunk-driving-than-sobriety-checkpoints/"
+    type: article
+    provider:
+      name: R Street Institute
+      domain: rstreet.org
+    quality: 16
+    images:
+      - url: "https://www.rstreet.org/wp-content/uploads/2018/04/yoest-facebook-share-default.png"
         width: 1200
         height: 628
         isCached: true

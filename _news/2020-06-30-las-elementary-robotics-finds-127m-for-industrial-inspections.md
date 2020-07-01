@@ -90,7 +90,7 @@ related:
     provider:
       name: Robotics & Automation News
       domain: roboticsandautomationnews.com
-    quality: 32
+    quality: 49
 
 secured: "AjMtOTiOF4HXnlZr0oW+MarusumAncokMm8B0oQ1tmIL0XvQkVilbYOMc5a54VmJ6cyHqQdr9S1Pm/tqmgMTr8jtJ9RDC6FUm5KHSdxaSuW5PqVHwT4IpIllZtXYb8mrHlWUx366Y28/KHU5QmQxGOK/HXWdkDtfgzJm6/UVgzvwZ/bZ1OCxNMwcE8SLOYSF79ER0Ywcna0O6YLsrJpht7hQXMtUsita6Vgki3V5sOOzB/qLHQZdjmT9h5ZO06hLS1p34wR9Xu7ZGbjthCZ9vrsyL3Dpo3Beey2LVkJVnI/0fBiLS6C30fFwIXFYLGvOxGjiLfiCdhKoH49JUGahkg==;BhIoQS1VOYXHrl5qWJ68MQ=="
 ---
