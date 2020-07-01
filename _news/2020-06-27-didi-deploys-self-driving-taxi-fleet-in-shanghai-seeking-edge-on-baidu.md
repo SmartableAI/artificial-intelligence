@@ -41,6 +41,33 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Amazon will have to invest many billions more than it's spending on Zoox to bring self-driving tech to market"
+    excerpt: "Amazon's announced purchase of Zoox on Friday is just the beginning of its investment in a nascent technology that will cost billions more to bring to market."
+    publishedDateTime: 2020-06-26T20:55:00Z
+    webUrl: "https://www.cnbc.com/2020/06/26/amazon-spending-1-billion-on-zoox-will-have-to-invest-billions-more.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/06/26/amazon-spending-1-billion-on-zoox-will-have-to-invest-billions-more.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-spending-1-billion-on-zoox-will-have-to-invest-billions-more.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 55
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106201621-1571933003929gettyimages-1177532680.jpeg?v=1591693465"
+        width: 4500
+        height: 2976
+        isCached: true
+  - title: "Amazon Looks to Self-Driving Future by Acquiring Zoox"
+    excerpt: "Amazon says it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will pull up without a driver."
+    publishedDateTime: 2020-06-27T23:07:00Z
+    webUrl: "https://www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox"
+    ampWebUrl: "https://www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
   - title: "Self-Driving Truck Maker TuSimple Hires Morgan Stanley To Help Raise $250M In Fresh Funding: Report"
     excerpt: "TuSimple is looking to raise up to $250 million in a fresh funding round, TechCrunch reported late Friday. The self-driving-truck maker has hired Morgan Stanley (NYSE: MS) to"
     publishedDateTime: 2020-06-29T14:35:00Z
@@ -73,6 +100,63 @@ related:
         width: 650
         height: 396
         isCached: true
+  - title: "Amazon looks to self-driving future by acquiring Zoox | Raleigh News & Observer"
+    excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will drive up without a driver."
+    publishedDateTime: 2020-06-26T19:12:00Z
+    webUrl: "https://www.newsobserver.com/news/business/article243816587.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/business/article243816587.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article243816587.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 40
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/f18ce1ed-cf4c-4d20-999e-9061dff2befe/2905bfb2-5838-40e0-bf8f-1e2a74a0602e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Amazon Agrees to Buy Self-Driving Technology Startup Zoox"
+    excerpt: "The world's largest online retailer has stepped up its investment in the car sector, participating in self-driving car startup Aurora Innovation Inc's $530 million funding round early last year. While Amazon and Zoox did not disclose the financial terms of the deal,"
+    publishedDateTime: 2020-06-27T23:08:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2020-06-26/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-the-information"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
+  - title: "Beijing opens more roads for testing self-driving cars"
+    excerpt: "Beijing opened 52 additional roads on Tuesday in Haidian district, the capital's tech hub, for the testing of autonomous vehicles to push the speedy development of self-driving technology, local authorities said Wednesday."
+    publishedDateTime: 2020-07-01T08:42:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202007/01/WS5efc4c5ea3108348172568a1.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202007/01/5efc4c5ea3108348fcd9a49e.jpeg"
+        width: 596
+        height: 397
+        isCached: true
+  - title: "Amazon looks to self-driving future by acquiring Zoox"
+    excerpt: "Industry analysts think the online retailing giant's ultimate goal is to repurpose the Zoox vehicle for its core business, delivering packages to shoppers."
+    publishedDateTime: 2020-06-29T07:06:00Z
+    webUrl: "https://www.djc.com/news/bu/12133184.html"
+    type: article
+    provider:
+      name: Seattle Daily Journal of Commerce
+      domain: djc.com
+    quality: 4
+  - title: "BHP jobs on offer to build self-driving trucks"
+    excerpt: "THE rollout of 34 autonomous mining trucks at BHP Mitsubishi Alliance’s Central Queensland mine will create 56 new jobs and a $35 million windfall for regional businesses."
+    publishedDateTime: 2020-07-01T01:00:00Z
+    webUrl: "https://www.couriermail.com.au/business/bhp-jobs-on-offer-to-build-selfdriving-trucks/news-story/a7399310218385c62f043fa68c9d4710"
+    type: article
+    provider:
+      name: The Courier-Mail
+      domain: couriermail.com.au
+    quality: 4
 
 secured: "p12dlC3/v+1DQPkozy8/JNsSKbfDEDGBUf+eb0+uIGVEaui7qGOeIioJYBXmC2tZ6OQyETsqIEAyyd1vfwRpdDA24Q/wV2dR/PUf2xFg/hG8QEoD5SWG6vfrjJ1G0urNCthdyKv7s9Ss3f4SCc8i5YYjBIm6xEs26dZ4PDJqMlZNjFnJt94KvvNg4aonjAPuYOUEKe94AZFZmFjT21PVzc+otzcw3azzBo1DBbonpZ3UkGtdWvaQXJSInpV/img12FdNkTlblINXfoPNhGYPFrjSjh695q5R6Kxmt16hUWANeC5c9ury89bHsfb2lmK68nz1KGs10JLVcq53y4AOErsWtL/GSUIuhj7WSxCsLyMnnuR/c2iIFcX+sg2cT9APOn5h0bm2hERKXH1+knuycj/s3DFC8IFInV900cOzguHSop+Wf4uQHNQrDF+P4GK7breSXy7UFxIdS3Dya5cqNnaa5M8Y9gf/TqyniMI075UGlkmMbBBMPb34MhL/xbBflvnvVpBqOmVHWua1tD5Iug==;OpTp0UcjSp/p4jvpfSOpXw=="
 ---

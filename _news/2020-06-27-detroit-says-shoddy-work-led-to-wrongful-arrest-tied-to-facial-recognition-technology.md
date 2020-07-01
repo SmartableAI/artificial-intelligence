@@ -27,47 +27,82 @@ images:
     title: "Detroit says 'shoddy' work led to wrongful arrest tied to facial recognition technology"
 
 related:
-  - title: "Facial recognition leads to first wrongful U.S. arrest, activists say"
-    excerpt: "Robert Williams spent over a day in custody in January after face recognition software matched his driver’s license photo to surveillance video of someone shoplifting."
-    publishedDateTime: 2020-06-26T17:41:00Z
-    webUrl: "https://www.nbcnews.com/tech/security/facial-recognition-leads-first-wrongful-u-s-arrests-activists-say-n1231971"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1231971"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231971"
+  - title: "Ed Markey, Ayanna Pressley push for federal ban on facial recognition technology"
+    excerpt: "Massachusetts Sen. Ed Markey and Rep. Ayanna Pressley are pushing to ban the federal government’s use of facial recognition technology, as Boston last week nixed the city use of the"
+    publishedDateTime: 2020-06-28T23:14:00Z
+    webUrl: "https://www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/"
+    ampWebUrl: "https://www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 56
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_26/3392279/rtx5zan6_8801ea9903a80ccb7d234bcb75bfe8f1.JPG"
-        width: 2500
-        height: 1667
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/03/markeynl06.jpg?w=1024&h=755"
+        width: 1024
+        height: 755
         isCached: true
-  - title: "Following wrongful arrest of Black man, advocates uneasy about 'flawed' facial recognition use in policing"
-    excerpt: "The prevalence of facial recognition systems, which use artificial intelligence to match images of people with images of suspects, is growing in the U.S. and Canada. Recent studies have found that while the systems are fairly accurate when it comes to identifying Caucasian men,"
-    publishedDateTime: 2020-06-29T20:06:00Z
-    webUrl: "https://www.cbc.ca/radio/thecurrent/the-current-for-june-29-2020-1.5631268/following-wrongful-arrest-of-black-man-advocates-uneasy-about-flawed-facial-recognition-use-in-policing-1.5631660"
-    ampWebUrl: "https://www.cbc.ca/amp/1.5631660"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5631660"
+  - title: "U.S. Sen. Ed Markey pushes to ban government use of facial recognition technology, says ‘the criminal justice system is already rigged'"
+    excerpt: "Legislation proposed by U.S. Sen. Ed Markey would ban federal use of biometric surveillance and tie federal funding to whether communities ban it."
+    publishedDateTime: 2020-06-28T18:23:00Z
+    webUrl: "https://www.masslive.com/politics/2020/06/us-sen-ed-markey-pushes-to-ban-government-use-of-facial-recognition-technology-says-the-criminal-justice-system-is-already-rigged.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/06/us-sen-ed-markey-pushes-to-ban-government-use-of-facial-recognition-technology-says-the-criminal-justice-system-is-already-rigged.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/06/us-sen-ed-markey-pushes-to-ban-government-use-of-facial-recognition-technology-says-the-criminal-justice-system-is-already-rigged.html?outputType=amp"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 41
+      name: MassLive
+      domain: masslive.com
+    quality: 27
     images:
-      - url: "https://i.cbc.ca/1.5533672.1586985782!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1208074512.jpg"
-        width: 620
-        height: 349
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZAYEYVJ5VVEANAVWPXX4RCROOM.png"
+        width: 1114
+        height: 675
         isCached: true
-  - title: "Detroit police work to expunge record of man wrongfully accused with facial recognition"
-    excerpt: "Detroit — A day after the American Civil Liberties Union filed a complaint against Detroit police officials about the wrongful arrest of an African American man the group said was mistakenly targeted through facial recognition software, investigators ..."
-    publishedDateTime: 2020-06-26T20:42:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21143871/detroit-police-work-to-expunge-record-of-man-wrongfully-accused-with-facial-recognition"
+  - title: "Lawmakers Introduce Bill to Ban Federal Use of Facial Recognition Tech"
+    excerpt: "If passed, federal agencies would not be able to run, fund, purchase or otherwise use data from facial biometric systems without congressional authorization."
+    publishedDateTime: 2020-06-26T19:59:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/06/lawmakers-introduce-bill-ban-federal-use-facial-recognition-tech/166489/"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 11
+      name: Nextgov
+      domain: nextgov.com
+    quality: 24
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/06/26/NGface20200626_OPoDmHB/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "EU data watchdog argues for moratorium on recognition technology"
+    excerpt: "Automated recognition technologies in public spaces should be temporarily banned, the EU's institutional data protection watchdog has said, arguing in favour of a moratorium."
+    publishedDateTime: 2020-07-01T06:22:00Z
+    webUrl: "https://www.euractiv.com/section/digital/news/eu-data-watchdog-argues-for-moratorium-on-recognition-technology/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 24
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2020/06/shutterstock_794528203-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Boston becomes the second largest city in the US to ban facial recognition software, citing concerns that the technology is 'racially discriminatory' and threatens basic rights"
+    excerpt: "Boston will become the second major city in the US to ban facial recognition software for government use after a unanimous city council vote, citing concerns of racial bias."
+    publishedDateTime: 2020-06-27T01:21:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8464719/Boston-second-largest-city-ban-facial-recognition-software.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-second-largest-city-ban-facial-recognition-software.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8464719/amp/Boston-second-largest-city-ban-facial-recognition-software.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/06/27/00/30104344-0-image-a-10_1593215913669.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "FzOQLr1BML6VpLptICTHzkz/MICayF4SZfe2rD7d8bWbrXUwGlqXRfCgPSlGqu6YSB/9Lm3V+9KKKaLDr1vtFlIqJObln5mGJ2/r7lbjyJwDCjk0Mq7JmAQ3JBqklnACBFxwEEpfRbnB4DgYurUd6kNFgs/fwanE2gmMNWvq6ahXnyYQnBIPVUyns5tSUXMvaVPB/9D4mpPWPPBhcNZPgdrivLTBfbcM3YgHIyjhJ7OINvXxeL5lIe9B20W8p3mAkL2CyZ+grccTt+GrFUvlVT+/OjNwARPXT34fCmA04tuuL4/g2f+LGkEeeyvw9B7ZGgTDUar1Bm/70KykubvdKDPRhinpA89rH92I5x30XDXlALoOyKIWtJppi0JJM+D0IV03n7Ehv4Hyu2Gnpec7rD9LeAwp6ewaDyKkjRxY9mHP0+9tt2ujz3i16nLmh0QfQ8IaSKvLArQA2rdmf4DLyFFHvDrrAQCA4p170fKkYlObSI4Rhd4ePnbKFbO3qyR50H+YKW87WTDL2h181z1gMg==;HSeIGsdUvO5mlF/X0Ry6vg=="
 ---

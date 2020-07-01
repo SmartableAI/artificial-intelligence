@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "POLITICO AI: Decoded: Researchers speak up — The book Silicon Valley won’t like — US facial recognition debate"
 
-secured: "Nvwrj2WPEEmaL8+Qi8m+evpA3c5Wtvl6t5Gf6nHUiJ6Vw7m/pm+h4E63wMET5bG3wcj6YJ6yvVH9AJshombuFyhS0kg+DujHKy358WxmoZYQgmWRtdyzJgKH9nJutBjuuwcGzDqcPMtpKoW+ZM8iFnZJKaLku7+fgGaJ9w4nhyE1XoxXu2il/zothclSz3QPytyRp4jKik7mZEG02EBJOPfJ0144ZMAtEeDTvFnkP6JZoI0Y2cMa+p6gIuFBovyYvM5v8ddM6Zq1J2v6jpyXFTULWLzzpXrqHHi4pNOdXO8UN1m28kDx83uUfk+JCYVAAu4DzpKJUK6Zf2Oc5svzqg==;dKAKt4Wf5UgJVmnhPBVRaw=="
+secured: "auKHz5/5K6X6B/sIMRmqjCB8wSvwJHPYNefE8BrdQzOq2LFuH4DgYQWwxZ7EuAW+ESXHJWS8KD6n1ijENVFL5ssSqaCZVI2ky5yiG827/HGdxDs05MJAJ1b5bnMooijn978cWwy8TpUb5FsIJVkDqHjiah10HQOVaAyXOPyO9zKFVin/TUIekF1P/FQbtimEoXfx05lFuG04LqxP7DE90dAhTm7DerBdG1BkvUl90wVrEXAgsHRNkZqqLdWqkC5i68pBrOPcZyd72Bee/ju4O9bKyYwmwa1NMdt2dGyoFlWbNvQqZUsFSUMqdXHHp1Qj9Mx26lWwfOJHZ20bqJ+HfFWT1rdO9gIPY9v09XrWMid5gveXFFlcal/3AET9guWy+A1AsOVg+mlq4mUMwTXam/Ja2VrpbL7Ueub6tFh7CfQ7DGO7k20A6hG2835ByG/ui+1XJL5TVfG4/QCJ/39oRwL1kOc6SDM1KGHc6uUo6n/whBiKS1SaHMLpJoTbYvk/n0a1LGt+OxON2xET4/PB1w==;eXUKViSkTnzyFI/CjYgX+w=="
 ---
 

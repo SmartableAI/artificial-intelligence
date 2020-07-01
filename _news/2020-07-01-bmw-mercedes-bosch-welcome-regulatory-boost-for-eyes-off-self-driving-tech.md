@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "BMW, Mercedes, Bosch welcome regulatory boost for 'eyes-off' self-driving tech"
 
-secured: "A/gtHJVyEHmpIyxuW+f8dSeGSOodnGLcTA3nlsjoXv6bR6+2KMzK1o8S/16GjcIsIrAWTjlw6oMdx41yYZGxU1wAxlGwMnyBnT8NExeNvoprXz+yxi43wzf9rzh1h9REYNDVYKbCt1p/1bDDH0ZJZ4fBqASjpB0IfCt2IeJyzUafRri2ffQoJw0C332jAopadCyGiH4fqD1SDL000UMTc5+Me3Af0UKDmOVZYT4b1yGFmVqCWmsflPBxyP1iAU3k8KAcTvkkkAplJVsfeH2gaWlZu0xbgLjaIoOOp6jJL+MhIBS6lTc4neYMYzvGr7+Xcq4dbhbY1EkQ1x/CAsPDXw==;zca5w4cRIaACnoKlgGOFZA=="
+secured: "5tJ5QbfZiFbtUEk/pOJy+NgW3eGC9iJfR5EUGya7NpiRFArhjjqyrY3jGK9n8KxvUm62aG+sh/S0mRTz69jJ0Kv/hqwWzBTO1Gf2modk9Ge/fRdExZwGBqwtdn+WbmfGzEjGV903GSAc3V6MrJv3zrPdS21075owlY9hla0yj8C3FI2P7A/9YaC6oQpT0aS1Ux2dw6Jl9uZldLfkrNc+ET8RdDQDX61puxP1wGfF1UgWqtMCEPJ/uTae3Axv05f+aqfsI+mQbJT+RpC543iGYfx6YIR3JTyPaupmcP1iuH53o/p831hrkCljZhs+g4czrhhfe2kIHbjdmY3pKJG1pa5f3uAMLj//+yIO11pfwwLEhre/L3u/dO5QTBKLY1uipTiWpiB6azCxKSgzIkLPAVRL7wzMu49MPEvm1aNd3MZvwkOjjy4pLY3uxw/ucHZANzaLaWwWKSe6rY/cjBLyrZEYCLPyDVvEpyNDSOKCbFmHrjACr002t16OnrDB5HMxjOuur++D6m3p/nm6R/hY7g==;/bcY5z7cPkBGobU9aFeG2Q=="
 ---
 

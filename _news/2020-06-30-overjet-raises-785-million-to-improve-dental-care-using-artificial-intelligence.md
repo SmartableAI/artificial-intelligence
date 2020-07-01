@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T19:45:00Z
 webUrl: "https://www.businesswire.com/news/home/20200630005971/en/Overjet-Raises-7.85-Million-Improve-Dental-Care"
 type: article
 quality: 47
-heat: 47
+heat: 57
 published: false
 
 provider:

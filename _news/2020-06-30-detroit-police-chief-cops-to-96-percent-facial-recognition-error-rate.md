@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T16:12:00Z
 webUrl: "https://arstechnica.com/tech-policy/2020/06/detroit-police-chief-admits-facial-recognition-is-wrong-96-of-the-time/"
 type: article
 quality: 49
-heat: 49
+heat: 69
 published: false
 
 provider:

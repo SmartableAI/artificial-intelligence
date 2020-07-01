@@ -38,6 +38,20 @@ related:
         width: 685
         height: 486
         isCached: true
+  - title: "Informatica Announces Collaboration with The ADAPT Research Centre in Dublin to Accelerate AI Research and Development"
+    excerpt: "Informatica ®, the enterprise cloud data management leader, today announced that it has launched a collaborative technology initiative with The ADAPT Centre, a world-leading Science Foundation Ireland (SFI) Research Centre for Digital Media Technology."
+    publishedDateTime: 2020-07-01T11:00:00Z
+    webUrl: "https://apnews.com/PR Newswire/052b6998b30478f8b7133e5e80961c6a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "0SOnKPc/lxgxry0usqG/R5iDfIWmJGTiuaUjIORgDg1tsbMyZ90kTORBNaiVWafEisf3J3Q8pX0sPNtMamtVo58mJNhBztpVeINUgNF96l0Eo9TYOVp6LVCrP6ObmU8iOKvopoO2AwzZ3Si/W6b6xQtk0DyI2SP+BwXOgSALaADh6GOiFP+mr9ML7AQjRADO0fDf2OA+s8yV8Klvj8GCP+9jhPZr3peoCBvfWHVoUod17Zeiv2vyCwGc1MPnS/67XXII3r0FdEB02hEy5yMdiG86Swe9ir4igY50J8rruNzIk8dt57E8bL4/LuDJ+cTJlP9npp1tJIecVITF5xit7A==;4UK24ocmiPU99lLH1vLhfA=="
 ---

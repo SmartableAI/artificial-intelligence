@@ -7,8 +7,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/06/ab16440035/ai-expert-mayur
 ampWebUrl: "https://amp.benzinga.com/amp/content/16440035"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16440035"
 type: article
-quality: 31
-heat: 31
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 secured: "GmiW3/0nxUJ0AhdxzS5Rfx24vNYtoDtkijbeglDYPFvMEu5UCmjT2vW3vCbAN6wxGdavrdoQiZDeNuLiZldgzXPa3kDGVbuWOag8I4LKepeU2RXXI1wyBCSuq7bZAS1NKVm1filv4M14GGFBEiYype+ALBNv7EnckOVuN3RpIgDzHO7anrUo8sFMS0O9uGhN7KP2+omgArQB3IEDyULX1RMT26+VXzQ0gGR8/vpJ9+AexfQK32B4QHkDyCVfUOpCBBB0mt21bJvvKSL5TgdlhqPsEvVXt6sTHxwWcTk+UL4MI2kbhj5sEuL0f02YXeZxEe0A9xyVBlJHjgeoz4jSQA==;NlmVaJvUzg5n14z6le2Yug=="
 ---

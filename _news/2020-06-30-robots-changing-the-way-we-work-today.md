@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T19:08:00Z
 webUrl: "https://www.analyticsinsight.net/robots-changing-the-way-we-work/"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

@@ -25,52 +25,6 @@ images:
     title: "Amazon acquires self-driving car startup as demand stays hot for autonomous delivery"
 
 related:
-  - title: "Elon Musk trolls Jeff Bezos calling him a copy cat after Amazon acquires self-driving-car startup Zoox"
-    excerpt: "The Tesla CEO tweeted a cat emoji at Bezos on Friday after Amazon took another step into the autonomous-driving world."
-    publishedDateTime: 2020-06-26T19:57:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/5dc17beb7eece50907358663?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Elon Musk trolls Jeff Bezos, calling him a copycat after Amazon acquires self-driving-car startup Zoox"
-    excerpt: "The Tesla CEO tweeted a cat emoji at Bezos on Friday after Amazon took another step into the autonomous-driving world."
-    publishedDateTime: 2020-06-27T03:08:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-jeff-bezos-copy-cat-amazon-acquired-zoox-2020-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://i.insider.com/5dc17beb7eece50907358663?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "5 key takeaways from Amazon's $1 billion acquisition of self-driving startup Zoox"
-    excerpt: "Analysts say the Zoox acquisition gives a good look into Amazon's thinking over a number of different areas, including delivery and M&A strategies."
-    publishedDateTime: 2020-06-26T18:59:00Z
-    webUrl: "https://www.businessinsider.com/amazons-1-billion-zoox-acquisition-5-takeaways-on-what-it-means-2020-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/5ef21a1619182402da2ee234?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Amazon Acquires Self-Driving Startup Zoox Led By Black Female CEO for $1.2 Billion"
     excerpt: "Amazon purchased Zoox, a developer of autonomous vehicles, for $1.2 billion. Zoox CEO Aicha Evans will remain in her current position."
     publishedDateTime: 2020-06-30T16:00:00Z

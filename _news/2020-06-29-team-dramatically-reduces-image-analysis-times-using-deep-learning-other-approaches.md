@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-29T21:37:00Z
 webUrl: "https://www.sciencedaily.com/releases/2020/06/200629150539.htm"
 type: article
 quality: 42
-heat: 42
+heat: 52
 published: false
 
 provider:

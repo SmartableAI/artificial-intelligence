@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Pakistani scholars among winners of Facebook’s Ethics in AI Research awards"
-excerpt: "Pakistan’s Junaid Qadir, Professor at the Information Technology University (ITU) of the Punjab, along with co-investigator Amana Raquib, Assistant Professor at the Institute of Business Administration (IBA),"
+excerpt: "The duo was among winners from nine different countries. The AI initiative aims to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Dr Junaid Kadir along with Amana Raquib were awarded for their research into culturally informed pro-social AI regulation and persuasion framework."
 publishedDateTime: 2020-06-19T12:07:00Z
-webUrl: "https://tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/?amp=1"
-ampWebUrl: "https://tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/?amp=1"
-cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/?amp=1"
+webUrl: "https://tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/"
+ampWebUrl: "https://tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/"
+cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/"
 type: article
 
 provider:
@@ -16,6 +16,6 @@ topics:
   - AI Ethics
   - AI
 
-secured: "nAXQx/Pfb3iwH7c4JP7l4aHyc9AdCFFwND18F0WSxd6REK8qxKwx84T+xp8uxQkh7+IPgvyE7AvDF376GtAA5CNhm/TSTYqcre9rgMsgabXoSgv3UfY8Zm4+BnHi1i5Re2b/UZsm95HvscQgm1hqhHkgWW2qISIXu7jgXSFtlEldt/F4m0xtkTPFNGAo9i4iv1iW74Xhl/tmvoVx3cnZ3iKN2I+h77IY78bmoc4H0SxyHut4HZyMnCsC5/HcAI23sIPCpQmRFiqPLP309WYNhrmbAzMgC9DkLoUBr3bTa//9Whxf4yH1jArAS31ihN+pSncTYpC4cqTrJQ27xjN/pgzcAR2SYbo8zkL/eam7rA4wAL8Aho8pNLm2/Dc/NmbjFydV1XFPo+XrJPoIknru4uGVQm9Z3Qb52DpOXSKNiJodFfZDy+e4Sq90epImcalJCr2EQj7neXz4P2OkM6A4bKH+qpZrRbdouBpCPWjB6F+dHEXpi4wcEIfl/cX+BzTSeqKbYOfqWBq/t9yVVrP9OA==;ItJaEfEatOYZ4IGOQAqAeQ=="
+secured: "puWzB1Pi5YZCVC5rTYXDbl8DvM2r4QK4wVA8LsAtSB6EIk1y4/ycnOCmX/u6mdpd2kCmq90lPOuQVlhUPakwIcR5A25n1mqph94TKaKYJlr6EBvqE34Qj1gbSvr9AnCnJZIsiypYWsXGTbJhW906k1aRTnOv4xNMtE1N3qrQ5U8JclZPEuG+TrSyRlzVFM/Ehsdtr6L+NrKLZHBegaXCDwL+ZeUxR6mq9LTBhDCgthPHpT0S8/uMCBmvteDZGbsIyJmnRkZAR7w6vZi2LQBTPsrLlWOSQRYXHj5YGcYa0q2rkKONjW/Znbrcz8AhvasjhcGUXKBLyg/0VB0ojPhUd+5xOEODrI2WUqJVmj80q3zxogc2rXAHjhSi3rW5/9/n4q1t7h+z/2SMT4zf/VAhH6DwrdHYw7A5HjpeO500OuVQD4sGC3FIwOiP9xwX8PRxznbToZVF8JvE5vrhqSTDUS6HqPVs22KHxgJi/3292gS8Wgs+7Fh6RihnT7ZjtFXNSsm9cTMAa7KINJbvHIK9TA==;V+u3TubH4sbOP2A6yCPNVw=="
 ---
 
