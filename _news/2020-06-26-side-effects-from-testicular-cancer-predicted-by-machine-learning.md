@@ -8,7 +8,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-06-side-effects-testicular-cance
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-06-side-effects-testicular-cancer-machine.amp"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -18,19 +18,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Machine learning model predicts chemotherapy-associated nephrotoxicity"
-    excerpt: "In collaboration with Rigshospitalet, researchers from DTU Health Technology have developed a machine learning model that can predict chemotherapy-associated nephrotoxicity, a particularly significant side effect in patients treated with cisplatin."
-    publishedDateTime: 2020-06-26T13:45:00Z
-    webUrl: "https://www.news-medical.net/news/20200626/Machine-learning-model-predicts-chemotherapy-associated-nephrotoxicity.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200626/Machine-learning-model-predicts-chemotherapy-associated-nephrotoxicity.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200626/Machine-learning-model-predicts-chemotherapy-associated-nephrotoxicity.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
 
 secured: "D4/wjztgZ6tbf6WFCPqOi0lmhJCHKtNgrj2cCP+bEbn7x19uAAKuhcnmy8jt5kf4rCDRIZXOTPhe0qB/2fujqRe4NWJSzYKIes7ic9smJEvCtQ9hh/sdIQwjDb5dv/1TrMkSVEZkpD0+KJf7IO30NWX2hldxWegbeKy5CiquSIYQ9+orq0jYWDHh27SGmYJPufPBcfe1QKODIwqG184YH03clnlS/fShm8BHl7SrbqdOFOK0czwMECR3wxItc2346+RO1gffDVHbi+jKUS5TmSNd3RbrGsOoTZb1qHMcO+PlNv3o4ph+o+ML7MRF5bGFbTohMsQF2JnpMtf1WFn+FA==;TfbbxQdp9w7EkCyJlH0I7Q=="
 ---

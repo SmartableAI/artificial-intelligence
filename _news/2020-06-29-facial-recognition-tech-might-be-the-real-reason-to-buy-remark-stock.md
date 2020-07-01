@@ -68,20 +68,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Boston's move to ban facial recognition could pressure big tech players to exit the market"
-    excerpt: "Boston's facial recognition ban could precipitate similar initiatives in other US cities, adding pressure for big tech players to exit the market."
-    publishedDateTime: 2020-06-26T14:44:00Z
-    webUrl: "https://www.businessinsider.com/boston-facial-recognition-ban-pushes-tech-players-to-exit-market-2020-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://i.insider.com/5ef5fc1df0f4197e4f318f94?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "itsy6v8BSjldiv8srzN2v2Edqpqx/Xvmu5jhDodOquBurqizOfGFqkeqLnQa5fWfyxZETPPt8fTsrUYOjp1IgL+VOUYTqYMkIEPwTA0rQt3nzDYXiGtGq+Pa0im23Q3abV7yirNHQ/WSQ1kmslqfpbZ90RCL2Y8FSrc4p1sBL7vadzHrydjmUQyo9xt7dy02CPmDAuvwfmbmqkh5K6QrVyeGeX0zShQiFXakev45qGE6Tgny9iplLuIR1wT1JDgN8OIpx39aye+9UBJRaS5UOaA9gqYE3Rn+uynYGDHkLaFxRZbl6wAA8gj7SAWODutpaYpcRbFxJLm9Iese7Rv+++V2HW15P+dMRGgOWOq66zsV1+LEVYLv0TaxlJtjX+HFJ6SkMAZWLy4CiCI1Ugxqmh9TCoIMDyS/oNANxb0EoeoRdybvfuh+TJEFEBH8bt+xJ6vJ5iN+QXRpR1ASw8VOZu0V4s7imGN2Np1YPXUsb3Hrn381sBRlpHy0wIi/VTcDS2dZeijSckPA5rO0UkjSHw==;flzjj9j3rP+SPIUUOMzmmQ=="
 ---

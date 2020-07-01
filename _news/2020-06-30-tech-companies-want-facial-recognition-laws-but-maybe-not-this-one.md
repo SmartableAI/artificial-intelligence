@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tech-companies-want-facial-reco
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tech-companies-want-facial-recognition-laws-but-maybe-not-this-one/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202006/ott_now_mich_200626_1920x1080.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Boston's move to ban facial recognition could pressure big tech players to exit the market"
-    excerpt: "Boston's facial recognition ban could precipitate similar initiatives in other US cities, adding pressure for big tech players to exit the market."
-    publishedDateTime: 2020-06-26T14:44:00Z
-    webUrl: "https://www.businessinsider.com/boston-facial-recognition-ban-pushes-tech-players-to-exit-market-2020-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://i.insider.com/5ef5fc1df0f4197e4f318f94?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Facial-Recognition Tech Might Be the Real Reason to Buy Remark Stock"
     excerpt: "Stock Market News, Stock Advice & Trading Tips. When discussing Remark Holdings (NASDAQ:MARK), most investors and pundits have focused on the ability of the compan"

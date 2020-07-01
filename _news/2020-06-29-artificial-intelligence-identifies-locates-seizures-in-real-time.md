@@ -1,26 +1,40 @@
 ---
 category: news
 title: "Artificial intelligence identifies, locates seizures in real-time"
-excerpt: "Research has shown that understanding brain activity as a network instead of readings from an EEG allow for more accurate and efficient detection of seizures in real-time."
-publishedDateTime: 2020-06-29T21:40:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/06/200629124052.htm"
+excerpt: "Researchers from Washington University in St. Louis' McKelvey School of Engineering have combined artificial intelligence with systems theory to develop a more efficient way to detect and accurately identify an epileptic seizure in real-time."
+publishedDateTime: 2020-06-29T16:46:00Z
+webUrl: "https://medicalxpress.com/news/2020-06-artificial-intelligence-seizures-real-time.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-06-artificial-intelligence-seizures-real-time.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-06-artificial-intelligence-seizures-real-time.amp"
 type: article
-quality: 47
-heat: 47
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
 
 related:
+  - title: "Seizures Indentified By Artificial Intelligence"
+    excerpt: "Artificial intelligence combined with systems theory lead to betterfficient way to detect epileptic seizures accurately."
+    publishedDateTime: 2020-07-01T06:04:00Z
+    webUrl: "https://www.medindia.net/news/seizures-indentified-by-artificial-intelligence-195807-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/seizures-indentified-by-artificial-intelligence-195807-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/seizures-indentified-by-artificial-intelligence-195807-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-pros-and-cons.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Artificial intelligence helps detect and accurately identify epileptic seizures in real-time"
     excerpt: "Researchers from Washington University in St. Louis' McKelvey School of Engineering have combined artificial intelligence with systems theory to develop a more efficient way to detect and accurately identify an epileptic seizure in real-time."
     publishedDateTime: 2020-06-29T19:34:00Z
@@ -47,6 +61,6 @@ related:
       domain: healthitanalytics.com
     quality: 17
 
-secured: "VHCvHd7akX1Qiaap5QFKD/RIlYY1STx6BuD1aREFsZk/baND3rtWGbMZCZLdRSRwilHzPb0UHeJXohaOXbXmvAOVtoqnzRBMqWnJy4rd8ELadb2AQd7TCTCc+vt4SHRLxJ5LHCM1dDzd6seJnC6cUQaRff4zleQmvBK0Y2tKDJQAk8zbjWZT/9nCWwsGOeBxWqO+2p+ixIvxeaVC7kNaAjME/8AqVShInXdY9asasIaxRYbflscxmiP1g24LJUrrP8g6t4YNXaYKDwFHZULGV1enxcRTb3KjeKah6mCFlD8asTitKUhlKsHeabv56Wg74Ns2cJPcmRK1hc4vuJfwbQ==;QVG9Z8RjgOWPHEAB4gedzQ=="
+secured: "34pfg8ezbSdIAEgXqbddMei1gInpZyAJ2XzjLdQwGRHOrs6sRF8d0lpe9Ct4XGGi9PXZ3Z1rJggl/v8suy5GM59+xPxJeBwIqoFUlCLJdN5i16eVbwPF7ZnI0SfWqyXNgsA4+bw3dklejHl0YAdPYu7g45PJ/1xMnCEID0o5LAtMwpyy6KutXhTiPv9HIUs+/5RAgx+NqZuHy1FrilVRG1pQlvLiA85qWFNXsW0tXhSRd6CVpksJmxpW6QKngCNBUdBKD0/QHTua88sGnWOq49qjpxDe/rnkglt2XDrZlgYd6R0MNfPJ7OFt62Obcnnwn11ve0aPujuA6oEo+qBNBnhqdyEFSn1mYwqoCy8Ps7XERS84cDj82YwnJpKkHhailDebYVchS7b1AGlY8ewG7wkh7zcdfkKHCwW68GvSmMCsV73FQl8wUULOL6b5RK8ttmspJtBNyzTafoSci1ucwScdWFvbqhu1e0JEU8EX6GdktH6fiBnGsbYa1oYHdYVOIjMzPIEf2qBk46K6WSFsXw==;YPSijL0sXdtKceDTP7U4EA=="
 ---
 

@@ -87,6 +87,15 @@ related:
       name: SocalTech
       domain: socaltech.com
     quality: 34
+  - title: "Elementary Robotics raises $13 million for its machine learning and computer vision offerings to industry"
+    excerpt: "Elementary Robotics, a Los Angeles-based robotics startup, has raised $12.7 million in its Series A funding round led by Threshold Ventures, an early-stage investor in technology companies."
+    publishedDateTime: 2020-07-01T07:40:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/07/01/elementary-robotics-raises-13-million-for-its-machine-learning-and-computer-vision-offerings-to-industry/33667/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 32
 
 secured: "vL5eJLlMul6gHyzxw0WVUk7sPdV1G+WX8Rk3heVDBvYh6nFrYWFgdJELJJ5TplGrtxUDjkJ/zzZej+fi882N9q/UN9igc6QsErUdQDLmk6155NJ+iewtAh0JeA7SMTboTC3lD9nNIchay6SvcHuysk96YCKvthvXT45Hc2KMaAiWoGaCm+zbJPzZaqb8tvGC+hu5ig6h/GMpEgkVYLobjast/ppIG5AF+rC7EabhfPudZTwMSGNFPcOK+U/yW67E+CL0+CdVyuXIEWCy0Enp6Wvj4B5L3+qnbkAPGITyPWOyGjTqL6JCSGPJUPDia729x5vh4WTDkxgvkpJRpsKxXtUw190dPaQq328sTjdTz9w7HMfKgWEC+gOqdtMDBWdJu9/hQXmN9ji/s+SVbtWlf1+qsha3eRAAxYWz723ybbkFYy9oFJxNoI8I3S+dX+rRJjglyoqENDAEPl42qHcLNM9jfXz2WHkERNStI/96dFxp3SQhXnuQy1KIwrHic9RmfkVEvp0ytDsEKjlNuHwSjg==;zBUXnGfGYon/zjQQXrnWww=="
 ---

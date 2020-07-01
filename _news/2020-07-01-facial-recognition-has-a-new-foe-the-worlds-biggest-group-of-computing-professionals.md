@@ -59,20 +59,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Boston's move to ban facial recognition could pressure big tech players to exit the market"
-    excerpt: "Boston's facial recognition ban could precipitate similar initiatives in other US cities, adding pressure for big tech players to exit the market."
-    publishedDateTime: 2020-06-26T14:44:00Z
-    webUrl: "https://www.businessinsider.com/boston-facial-recognition-ban-pushes-tech-players-to-exit-market-2020-6"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://i.insider.com/5ef5fc1df0f4197e4f318f94?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Facial-Recognition Tech Might Be the Real Reason to Buy Remark Stock"
     excerpt: "Stock Market News, Stock Advice & Trading Tips. When discussing Remark Holdings (NASDAQ:MARK), most investors and pundits have focused on the ability of the compan"
     publishedDateTime: 2020-06-29T13:10:00Z

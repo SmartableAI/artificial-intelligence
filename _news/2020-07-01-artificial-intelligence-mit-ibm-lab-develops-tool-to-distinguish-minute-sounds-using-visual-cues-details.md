@@ -7,8 +7,8 @@ webUrl: "https://www.financialexpress.com/industry/technology/artificial-intelli
 ampWebUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-mit-ibm-lab-develops-tool-to-distinguish-minute-sounds-using-visual-cues-details/2009593/lite/"
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-mit-ibm-lab-develops-tool-to-distinguish-minute-sounds-using-visual-cues-details/2009593/lite/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://images.financialexpress.com/2020/07/MIT-Music-660.jpg"
@@ -25,6 +26,6 @@ images:
     isCached: true
     title: "Artificial Intelligence: MIT-IBM lab develops tool to distinguish minute sounds using visual cues! Details"
 
-secured: "JvmDk9aa9vjApoNz6OVQ/EqJc+QlxNzbKzlZe1Ij+BhZwEzeXLnqDVDk2aaAz8+mohiuOM9PVdSVT1OxuFuKG7LNvP1OC7f6YJDI0RFjMgH3JTLDHQ+HO7SS1zj9gzXJ9lp9ZVCP6Y1tb5l33/YLvkCo+8Jc2Ssrao2eCMeRVXxODuFi7ExgpgdyaiUZdcKoxxx7F5g426d5XONogp/unUnURd7AcycHdBBLTreBVaE/vkDyfpAaDjQ4rEB4aFFpJiYO7vytgxVUd7M8B+iMtp2C9uJi+Dh9Yz3DCI7v76WmxjH4D5JTx4BJkFjE1NGeWykwd9olTbFzUq4BEQJaPA==;OwszNLYU1q+D1ZLGqtaAHw=="
+secured: "3GMLMWzU4FatmvHQTSq6gnNfor/F1YxJdJgo47OwwgScQ/I8ZEDFxa6Ps5X7uKyTWsQZ5VNJgwsAPMyZWw2OWakfKmRBUmXfOQsyK5GM4FW/GheksImB5jhvGfh53lADO6ZNp/MBg6XPXqzYdVMXdHwKGaZnerBBLVZTYNXaZ9YWafem4hIRCwlCMh9dYZF/5L0rZ/T0uMjglG9vRAilZm1vmYTKJtMb3f/3xrDPM5aHak8x/DnWLkEd9do0lhTQa3dDUFGnNNm3rwavUpFwapbkDu/fyPOnvcp/ZzyAMBsdEXSDGcrrQbC+qQ3NSTBqoqIRxu7nwep+fjdirv+S8eqMdyiugd/y6A1mGRO8RMQeOflBtb24JCiw8gd6MqGsA8vWUSEIxfoYnwgIz/6+h60LrP2JqYLmanhG3370VpR/m1K1MQ3LmQwgOAT7TFLNQNQc8BOEzcV2CXzyHRRlRBpfkQp/aHztNJzGCEzOMoVN1krre9rwYBVrxtQNOA88cS3XN90vK0AfYlYiD0crvg==;3/H4to9M16waLpbIBg8zKA=="
 ---
 

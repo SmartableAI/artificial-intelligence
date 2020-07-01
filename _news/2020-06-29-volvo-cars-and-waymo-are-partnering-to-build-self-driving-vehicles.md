@@ -20,38 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Volvo Cars, Waymo partner to build self-driving vehicles"
-    excerpt: "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles. The companies said Waymo will work with Volvo’s global brands ..."
-    publishedDateTime: 2020-06-26T13:07:00Z
-    webUrl: "https://www.reuters.com/article/us-waymo-volvo-autonomous-idUSKBN23W2V0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN23W2V0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23W2V0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200625&t=2&i=1523643342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5O27V"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Waymo and Volvo team to work on self-driving cars"
-    excerpt: "Waymo and Volvo Car Group announced an expanded partnership that is intended to create a collaboration enabling easy integration of vehicles with the Waymo Driver. The integration will make the vehicles well-suited to ride-hailing, local delivery, tracking ..."
-    publishedDateTime: 2020-06-26T13:21:00Z
-    webUrl: "https://www.slashgear.com/waymo-and-volvo-team-to-work-on-self-driving-cars-26626550/"
-    ampWebUrl: "https://www.slashgear.com/waymo-and-volvo-team-to-work-on-self-driving-cars-26626550/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-and-volvo-team-to-work-on-self-driving-cars-26626550/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/06/polestar-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Waymo And Volvo Form Exclusive Self-Driving Partnership"
     excerpt: "Waymo and Volvo announced an “exclusive” partnership to integrate Waymo’s self-driving technology onto Volvo’s vehicular platform."
     publishedDateTime: 2020-06-29T06:36:00Z
@@ -68,105 +36,15 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Baidu-backed maker of self-driving vehicle sensors said to be in talks to go public"
-    excerpt: "Velodyne Lidar, in which Baidu and Ford invested US$150 million in 2016, makes radar-like systems used in autonomous vehicles."
-    publishedDateTime: 2020-06-27T04:57:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go"
+  - title: "Volvo Cars, Waymo partner to build self-driving vehicles"
+    excerpt: "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles."
+    publishedDateTime: 2020-06-28T10:10:00Z
+    webUrl: "https://www.iol.co.za/business-report/international/volvo-cars-waymo-partner-to-build-self-driving-vehicles-49982780"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 83
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/27/019fd42e-b830-11ea-94a5-08ba74052128_image_hires_125654.jpeg?itok=1xTXJ5JH&v=1593233821"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Amazon to Buy Zoox, in a Move Toward Self-Driving Cars"
-    excerpt: "Amazon for several years has worked on self-driving technology to deliver goods, a natural fit with its shopping business. The company did not disclose the terms of the deal nor say when it expected the transaction to close. Advertisement"
-    publishedDateTime: 2020-06-26T17:56:00Z
-    webUrl: "https://www.nytimes.com/2020/06/26/business/amazon-zoox.html"
-    ampWebUrl: "https://www.nytimes.com/2020/06/26/business/amazon-zoox.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/06/26/business/amazon-zoox.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://static01.nyt.com/images/2020/06/26/business/26amazon/26amazon-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "How a former soldier went from self-taught truck driver to helping Alphabet's Waymo usher in the era of self-driving semis"
-    excerpt: "Jon Rainwater instructs safety drivers for Waymo Via, the self-driving company's freight and deliveries unit."
-    publishedDateTime: 2020-06-30T16:23:00Z
-    webUrl: "https://www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://i.insider.com/5efa5b5bf34d0565f1297c75?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Maker of self-driving vehicle sensors said to be in talks to go public"
-    excerpt: "Velodyne creates radar-like systems that use lasers to generate three-dimensional images of a surrounding environment, used by carmakers including Mercedes-Benz AG and Ford Motor Co."
-    publishedDateTime: 2020-06-28T19:27:00Z
-    webUrl: "https://www.dig-in.com/articles/maker-of-self-driving-vehicle-sensors-said-to-be-in-talks-to-go-public"
-    type: article
-    provider:
-      name: Digital Insurance
-      domain: dig-in.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/b8f597a/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Ffc%2F3b%2F303d46e446b2ac5faa2d031e557d%2F362964619.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Baidu-backed self-driving vehicle sensors maker going public - report"
-    excerpt: "Graf Industrial is in talks to merge with Baidu-backed Velodyne Lidar in a deal that would take public the maker of sensors used in self driving vehicles, according to Bloomberg sources \"familiar with the matter\"."
-    publishedDateTime: 2020-06-29T17:00:00Z
-    webUrl: "https://www.just-auto.com/news/baidu-backed-self-driving-vehicle-sensors-maker-going-public-report_id196352.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Didi Chuxin offers public test rides in its self-driving vehicles"
-    excerpt: "China's ride-hailing giant Didi Chuxing began offering the public free, supervised test rides in its self-driving taxis in Shanghai on Saturday. People wanting to take a 20-minute ride can register online through the company's APP."
-    publishedDateTime: 2020-06-28T17:24:00Z
-    webUrl: "https://www.globaltimes.cn/content/1192895.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 24
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0//attachment/2020/2020-06-28/9775d793-483a-4b06-9eef-11467efa9ffb.jpeg"
-        width: 1100
-        height: 700
-        isCached: true
-  - title: "BHP jobs on offer to build self-driving trucks"
-    excerpt: "THE rollout of 34 autonomous mining trucks at BHP Mitsubishi Alliance’s Central Queensland mine will create 56 new jobs and a $35 million windfall for regional businesses."
-    publishedDateTime: 2020-07-01T01:00:00Z
-    webUrl: "https://www.couriermail.com.au/business/bhp-jobs-on-offer-to-build-selfdriving-trucks/news-story/a7399310218385c62f043fa68c9d4710"
-    type: article
-    provider:
-      name: The Courier-Mail
-      domain: couriermail.com.au
-    quality: 4
+      name: IOL News
+      domain: iol.co.za
+    quality: 19
 
 secured: "aNwC0ru7O8NTXPOlsp/6GPVvGeUulIW+Wg/JO5xrlQY97ytsu1UVD7+UrG2Y/XxL6XhX2/3suXz6lPQCgfkTTeCdNYRHZvwDsemZQaIcFm0LLqf3oI4pl0piTwgEeyXJBgJpTBfIpIeauIuNMESSJ2FE8Ktb7dWbThEhWTDe4aRa6cT1JA48bkvBSQCp1rjSCFRDs8LInOV0Lxg63SmKnmqvvEiCrf3TmQY8AwVjA1afvcSRtd82/5Hiu3y9Jj/qe3yvcuQTSOwGtntlyqbBbMOHLZBPq3NGa/5di3sCdvQCxSscgSnL3rkVxzTMqyKisteAZNXQd3MuRW6mtb2bP17qaroDi68tEvnQkp025rdnrPltAG/yKWoWCWznMHPNr51uPHRJk67KT5n8m8EGEMQyoDxkF5PXtaCb1EgF3+EtiqwP87wAq39MLZJReml/fqjiS7z9Q1mHLn9YQ4O91MP7S6vl6z5K8R3PLesoAarK0zAPLQw+LzK62+oZk08L5/3DfTZgC9NrVUpSqpBVdg==;hl+Px/1o9MpPm218UgBmDg=="
 ---

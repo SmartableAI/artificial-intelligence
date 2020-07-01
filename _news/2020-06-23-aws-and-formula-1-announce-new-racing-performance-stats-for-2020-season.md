@@ -1,9 +1,9 @@
 ---
 category: news
 title: "AWS and Formula 1 Announce New Racing Performance Stats for 2020 Season"
-excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ..."
-publishedDateTime: 2020-06-23T08:50:00Z
-webUrl: "https://www.businesswire.com/news/home/20200623005380/en/AWS-Formula-1-Announce-New-Racing-Performance/"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), and Formula 1 (F1) (NASDAQ: FWONA, FWONK) are introducing six new, real-"
+publishedDateTime: 2020-06-23T08:49:00Z
+webUrl: "https://www.businesswire.com/news/home/20200623005380/en/AWS-Formula-1-Announce-New-Racing-Performance"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "AWS and Formula 1 Announce New Racing Performance Stats for 2020 Season"
 
-secured: "oaDpBDzsuwgwzPtkkD+c3Zty6t4JcZrs0Em68P8yFaF8Icah/gJS0mKiZ/R4pp36ZasxaRG7Ml+xsTwZu0bKJfkm6yvgbnJ87zb6Ri961vT2wej5didup9OK9hZUDA0iLMJwHZ4mMGOVPhXoeq6Q+iv5aiHthD+gJciAHFvlEqhz9L277xdoabxkC/yxPdOdT5iBDOfC50cL7YV3yRbGg8Ki7IJcmkSXUTQAeMl1rlDclb4xbTcDEvwZFp5spzS/c0+sakk0+YLjzAOXF0jgf2UWQ5S8ZBpg+ts7F5qkWfxTk2hJRSCq+3X96XVIOr3Wyr3nXQTCBtIWpjQrpUgu1w==;lUBOys2oFz2n/qiofKPz9Q=="
+secured: "BvS5hGTAvUM9q+fUW0KC6DuczjByjNQZN/pM/xN5nrta+I8x+hSo5LCSkA7Vc5xvRX8SlL47aS4nfZ6zCzphLBty73Ow4KyMpVWOQw5uSeRDhHMyXcvrMYdP1KMPUHBQMJH0oxGX0z4H0VpUu3LbB86w2DCPJqp0mL8rBT8Tw3pOYCwFZohfAHlEKGWSdX3JnTcSW0FZ1oRUf4kcRPqOm6dMe/f3fycrVkKBKGSWeGwk1VXvOw09asYBxp4HJwawiigaJlC9gfyfg4fTBv+6Tx8k84MVOxfOPq7Iff7ddBOMjirG1xOW2lOf049v5LcADDSOl34x+7v0q2IRL5rYHA==;UEirvoT9tJnp2JgqrPiPKg=="
 ---
 

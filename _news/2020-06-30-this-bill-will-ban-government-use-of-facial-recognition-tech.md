@@ -92,22 +92,6 @@ related:
         width: 2122
         height: 1193
         isCached: true
-  - title: "Man wrongfully arrested due to facial recognition software talks about 'humiliating' experience"
-    excerpt: "A Black man in Detroit spent over a day in custody in January after an incorrect facial recognition match led to his wrongful arrest."
-    publishedDateTime: 2020-06-26T13:55:00Z
-    webUrl: "https://www.nbcnews.com/business/business-news/man-wrongfully-arrested-due-facial-recognition-software-talks-about-humiliating-n1232184"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1232184"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1232184"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 77
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202006/tdy_news_ward_security_200626_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Facial recognition software fails to correctly identify people '96 percent of the time,' according to Detroit's chief of police"
     excerpt: "Facial recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief."
     publishedDateTime: 2020-06-30T15:48:00Z
@@ -123,22 +107,6 @@ related:
       - url: "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Bill would ban police use of face recognition"
-    excerpt: "Democrats in both houses of Congress said Thursday they are introducing a bill that would ban government use of facial recognition technology. Why it matters: A handful of cities have banned government use in their jurisdictions,"
-    publishedDateTime: 2020-06-26T14:08:00Z
-    webUrl: "https://www.axios.com/bill-would-ban-police-use-face-recognition-technology-b28ca7f8-f466-42d2-8112-5c12eb6bddc5.html"
-    ampWebUrl: "https://www.axios.com/bill-would-ban-police-use-face-recognition-technology-b28ca7f8-f466-42d2-8112-5c12eb6bddc5.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/bill-would-ban-police-use-face-recognition-technology-b28ca7f8-f466-42d2-8112-5c12eb6bddc5.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 59
-    images:
-      - url: "https://images.axios.com/p7B5-PLA0-35TMo6SFJtpkWwOtM=/fit-in/1366x1366/2020/06/26/1593178893338.jpg"
-        width: 1366
-        height: 768
         isCached: true
   - title: "Florida Police Embrace Facial Recognition Despite Pushback"
     excerpt: "While companies and governments are halting the use of facial recognition technology, the Pinellas County Sheriff’s Office is refusing to comply until official regulations are put in place."
@@ -327,6 +295,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Racial bias in facial recognition software could lead to false arrests"
+    excerpt: "A black man in Detroit was wrongfully arrested after facial recognition software incorrectly identified him, forcing developers to acknowledge the ways that racial bias is present in artificial intell"
+    publishedDateTime: 2020-07-01T07:38:00Z
+    webUrl: "https://www.rt.com/shows/watching-the-hawks/493378-facial-recognition-racial-bias-false-arrest/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 19
   - title: "Boston becomes the second largest city in the US to ban facial recognition software, citing concerns that the technology is 'racially discriminatory' and threatens basic rights"
     excerpt: "Boston will become the second major city in the US to ban facial recognition software for government use after a unanimous city council vote, citing concerns of racial bias."
     publishedDateTime: 2020-06-27T01:21:00Z

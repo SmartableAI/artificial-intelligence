@@ -82,6 +82,15 @@ related:
         width: 1200
         height: 688
         isCached: true
+  - title: "Elementary Robotics raises $13 million for its machine learning and computer vision offerings to industry"
+    excerpt: "Elementary Robotics, a Los Angeles-based robotics startup, has raised $12.7 million in its Series A funding round led by Threshold Ventures, an early-stage investor in technology companies."
+    publishedDateTime: 2020-07-01T07:40:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/07/01/elementary-robotics-raises-13-million-for-its-machine-learning-and-computer-vision-offerings-to-industry/33667/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 32
 
 secured: "AjMtOTiOF4HXnlZr0oW+MarusumAncokMm8B0oQ1tmIL0XvQkVilbYOMc5a54VmJ6cyHqQdr9S1Pm/tqmgMTr8jtJ9RDC6FUm5KHSdxaSuW5PqVHwT4IpIllZtXYb8mrHlWUx366Y28/KHU5QmQxGOK/HXWdkDtfgzJm6/UVgzvwZ/bZ1OCxNMwcE8SLOYSF79ER0Ywcna0O6YLsrJpht7hQXMtUsita6Vgki3V5sOOzB/qLHQZdjmT9h5ZO06hLS1p34wR9Xu7ZGbjthCZ9vrsyL3Dpo3Beey2LVkJVnI/0fBiLS6C30fFwIXFYLGvOxGjiLfiCdhKoH49JUGahkg==;BhIoQS1VOYXHrl5qWJ68MQ=="
 ---

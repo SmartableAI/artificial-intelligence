@@ -47,22 +47,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "AI robot 'Erica' will star in $70 million sci-fi movie 'b'"
-    excerpt: "The humanoid robot was 'taught' method acting by her creators. Robots are likely to replace a lot of jobs in the future, but these roles are generally well-suited to automation. For some jobs — particularly creative professions — it’ll be much harder to simply swap in a digital employee."
-    publishedDateTime: 2020-06-26T13:09:00Z
-    webUrl: "https://www.engadget.com/ai-robot-erica-will-star-in-70-million-scifi-movie-b-130539023.html"
-    ampWebUrl: "https://www.engadget.com/amp/ai-robot-erica-will-star-in-70-million-scifi-movie-b-130539023.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-robot-erica-will-star-in-70-million-scifi-movie-b-130539023.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 104
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F7745e800-b79d-11ea-b771-32a7a9fe7396&client=amp-blogside-v2&signature=7afb01dc5b87fd3dc7880f68d9b69e0879100a30"
-        width: 600
-        height: 350
-        isCached: true
   - title: "AI Robot Named Erica Starring In $70 Million Sci-Fi Movie ‘B’"
     excerpt: "With the Coronavirus pandemic forcing Hollywood into a new era of critical thinking, one which has forced the industry to find new ways to complete productions, as well as figure out new forms of distribution – it seems they’ve also figured out a way to replace actors and actresses."
     publishedDateTime: 2020-06-30T22:05:00Z
