@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "enlitic"
   url: "https://twitter.com/enlitic"
-  followers: 4843
+  followers: 4841
 
 size: 11-50 employees
 yearFounded: 2014
