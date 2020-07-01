@@ -21,11 +21,11 @@ website: https://profiles.stanford.edu/fei-fei-li
 twitter:
   username: drfeifei
   url: https://twitter.com/drfeifei
-  followers: 361411
+  followers: 361277
 
 googleScholar:
   url: https://scholar.google.com/citations?user=rDfyQnIAAAAJ
-  citations: 96597
+  citations: 96650
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Fei-Fei_Li
