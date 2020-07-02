@@ -732,8 +732,8 @@
     {
       "path": "_news/2020-06-23-aws-and-formula-1-announce-new-racing-performance-stats-for-2020-season.md",
       "title": "AWS and Formula 1 Announce New Racing Performance Stats for 2020 Season",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), and Formula 1 (F1) (NASDAQ: FWONA, FWONK) are introducing six new, real-",
-      "webUrl": "https://www.businesswire.com/news/home/20200623005380/en/AWS-Formula-1-Announce-New-Racing-Performance",
+      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ...",
+      "webUrl": "https://www.businesswire.com/news/home/20200623005380/en/AWS-Formula-1-Announce-New-Racing-Performance/",
       "heat": null,
       "tags": null,
       "images": [
@@ -749,7 +749,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T01:49:00-07:00",
+      "publishedDateTime": "2020-06-23T01:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",

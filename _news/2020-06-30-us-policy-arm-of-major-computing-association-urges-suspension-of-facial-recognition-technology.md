@@ -74,22 +74,6 @@ related:
         width: 756
         height: 567
         isCached: true
-  - title: "Recommended Reading: When facial recognition identifies the wrong person"
-    excerpt: "Law enforcement at all levels are employing facial recognition for a variety of things. When the US and countries around the world began to shut down, tech companies of all sizes announced plans to help."
-    publishedDateTime: 2020-06-27T14:07:00Z
-    webUrl: "https://www.engadget.com/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
-    ampWebUrl: "https://www.engadget.com/amp/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 88
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Fb72763a0-c01c-11e9-befb-17263ab358ba&client=amp-blogside-v2&signature=38dee4b3efbeac7f4000006b08effbd870812c8c"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Facial recognition has a new foe: The world's biggest group of computing professionals"
     excerpt: "The Association for Computing Machinery said the technology could not reliably be used in a way that wouldn't harm vulnerable populations."
     publishedDateTime: 2020-07-01T03:38:00Z

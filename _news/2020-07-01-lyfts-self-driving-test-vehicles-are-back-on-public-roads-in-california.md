@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://www.just-auto.com/images/just-auto-share.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "Lyft’s self-driving test vehicles are back on public roads in California – ClearTipsNews"
+    excerpt: "Lyft's The Autonomous Vehicles Division has resumed testing on public roads in California several months after an operational halt in the midst of the"
+    publishedDateTime: 2020-07-02T06:01:00Z
+    webUrl: "https://www.tipsclear.com/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california-cleartipsnews/"
+    ampWebUrl: "https://www.tipsclear.com/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california-cleartipsnews/"
+    cdnAmpWebUrl: "https://www-tipsclear-com.cdn.ampproject.org/c/s/www.tipsclear.com/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california-cleartipsnews/"
+    type: article
+    provider:
+      name: tipsclear.com
+      domain: tipsclear.com
+    quality: 35
+    images:
+      - url: "https://www.tipsclear.com/wp-content/uploads/2020/07/Lyfts-self-driving-test-vehicles-are-back-on-public-roads-in.jpg"
+        width: 610
+        height: 400
         isCached: true
 
 secured: "V/AXdPyEBF/6GORp40rqN0Zeiz30ivIHkm9IFta/7Tp9jmxNc99SAVFkYGRrRkVUzS8Tdtnhv+Qup5fWMEHqjoqLs5fcIbBx8I/lOwXCZmLArF3K7tWR6frXAgx0aP/6O89aWVglDo6GD4E6mPcVx71OgLBrLJDYYWuBl3Mq1NS5JvRLJY3lYiBRLdGiD4uzYr+5YmfweivOFKs++6gYjAE1/q1XLXB2hC1GT36utgvlH4oRgHHwg33pk8UBHm/fOSH9Livnycul6h98YMnfViaInAlyYZfirMdg2wvrb/HBOoWPPk6VMGZPRYXItAlxGEK53+rEsZdr5ThruSKKyCu90DlAvBSXbxfbt9t/+Zb3QDzBlYHdAi+k0owe8a8dd0+2/OMacjWyftNZedcvXkW6Fdp+mhUEYOrHsZezyGa1BsQZRoJUUxnqka3PALOxEyeSeBWJz+6fPRdaboaKg4s+t4q4Xc8OB6/BBpEroi+RjhbVBTgon8n6x+tqeXlsleO6ha4GdzoOxgk9C4Bwmw==;aLalF6+DOe/PN8HySBevow=="

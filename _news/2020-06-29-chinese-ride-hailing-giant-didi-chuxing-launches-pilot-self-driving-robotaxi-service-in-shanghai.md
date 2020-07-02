@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-h
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self"
 type: article
 quality: 76
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -105,6 +105,17 @@ related:
         width: 596
         height: 397
         isCached: true
+  - title: "Beijing opens more roads for testing self-driving cars"
+    excerpt: "Beijing opened 52 additional roads on Tuesday in Haidian District, the capital's tech hub, for the testing of autonomous vehicles"
+    publishedDateTime: 2020-07-02T07:44:00Z
+    webUrl: "https://infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/"
+    ampWebUrl: "https://infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 24
   - title: "China's Didi starts self-driving ride service in Shanghai"
     excerpt: "Ride-hailing giant Didi Chuxing (DiDi) has launched the trial run of self-driving ride service on designated test roads in the eastern metropolis of Shanghai. Users who have registered in advance ..."
     publishedDateTime: 2020-06-28T17:01:00Z

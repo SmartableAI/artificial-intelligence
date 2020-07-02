@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market Analysis With Impact of COVID-19, Top Companies, Trends, Demand, Future Opportunity Outlook 2025"
+    excerpt: "Europe (Germany, UK, France, Rest of Europe) 5.3 Asia Pacific (China, India, Japan, Rest of Asia Pacific) 5.4 Latin America (Brazil, Argentina, Rest of Latin America) 5.5 Middle East & Africa Competitive Landscape: The major players in the market are as follows: 1."
+    publishedDateTime: 2020-07-02T06:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analysis-with-impact-of-covid-19-top-companies-trends-demand-future-opportunity-outlook-2025-2020-07-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8on/TtJxkGymxuzU2MBBZ4HEeAyPsotgI9nHofCIMSch+TbNw+k/LXGLmaEqGAw6YfJ99Uv1jWaP1AE+SbHYL4VXsEgRQsmnCdbw4yZbJwBSR30Gg/bOLvrLCYcanqZNlF304b62dQr2elbBzG5LTepBf30hiOTGus5oGdrJjEz+klIWcVCQEqQvHZ3w46jX8XAlyz+kn3ckc/4WkjhM/6EYcozLeO+gUNc+9+VGtDiMZXP1ZFa+HZZx8Dh/b1C/ImjMEYMA2QG2rDfgjNQWEVrUBKjG3p+RZX7wVJJ1x11HW6Aw+WOACgvpHLWitYVnlZBEqSwpzZQ1r112fT5XIg==;38peKdV6tii1VEB9q/jtAA=="
 ---

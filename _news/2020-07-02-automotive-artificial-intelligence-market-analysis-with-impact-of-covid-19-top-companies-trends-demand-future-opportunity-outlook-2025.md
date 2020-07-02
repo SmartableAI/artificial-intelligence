@@ -1,0 +1,62 @@
+---
+category: news
+title: "Automotive Artificial Intelligence Market Analysis With Impact of COVID-19, Top Companies, Trends, Demand, Future Opportunity Outlook 2025"
+excerpt: "Europe (Germany, UK, France, Rest of Europe) 5.3 Asia Pacific (China, India, Japan, Rest of Asia Pacific) 5.4 Latin America (Brazil, Argentina, Rest of Latin America) 5.5 Middle East & Africa Competitive Landscape: The major players in the market are as follows: 1."
+publishedDateTime: 2020-07-02T06:05:00Z
+webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analysis-with-impact-of-covid-19-top-companies-trends-demand-future-opportunity-outlook-2025-2020-07-02"
+type: article
+quality: 33
+heat: -1
+published: false
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+    title: "Automotive Artificial Intelligence Market Analysis With Impact of COVID-19, Top Companies, Trends, Demand, Future Opportunity Outlook 2025"
+
+related:
+  - title: "AI Image Recognition Market (Covid-19 Pandemic Update) : Competitive Analysis Till 2029 || Google and IBM"
+    excerpt: "Market.us newly added the Global AI Image Recognition Market report that gives meticulous scrutiny of aggressive market conditions based on producing volume, sales, and earnings. The ai image recognition report handles the distribution chain analysis of high Key players."
+    publishedDateTime: 2020-06-28T08:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-covid-19-pandemic-update-competitive-analysis-till-2029-google-and-ibm-2020-06-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Computing Market Size, Segmentation, Growth and Share |Google LLC, IBM corporation, Microsoft corporation"
+    excerpt: "The research report titled, Cognitive Computing Market is latest published by MarketResearch.Biz. The Cognitive Computing market has been garnering high-quality momentum in latest years. Demand maintains to upward thrust because of growing purchasing strength is projected to bode properly for the global market."
+    publishedDateTime: 2020-06-29T10:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-size-segmentation-growth-and-share-google-llc-ibm-corporation-microsoft-corporation-2020-06-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "sxtj8tGnqOxGyeQliCx53uItnFsJ2fNhLjpKc6FaXo+3Rn6/RgfqktD82jjRDLH3P+2anrfIBjnnf9VI943A5nRD8YrMnx7wJTKp5R8g+SdkCVEbLKZP8Kyy81JWQ6FfsDXVmpdyjKBVPPsm2YiMSHtnKoxUdtg5XYNfX0somrcHY0roZTb2XpcCpOK2tKNMoupQLZceUcei2SsI4VWqylEuEMF/1wcUsgTjNpXw+lP2PGA1Pdih85i5HZQUMiv5pRB4gpXg+FM53cRnOr5li0KZY6VY7pmaV87zu5Zn9aU+41qDtR39DU0PbLtv4Pp3mj587gSi7z48e9cLM6LVZw==;Kc4n+1HLi7d1ejp8lssK/w=="
+---
+

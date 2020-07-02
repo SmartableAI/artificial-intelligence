@@ -2,6 +2,92 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-06-15-ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire.md",
+      "title": "“AI Healthcare” Stocks Will Mint The World’s First Trillionaire",
+      "excerpt": "You won’t read about these stocks in the mainstream media. But don’t let that fool you: because a small “hidden” group of companies is figuring out how to merge artificial intelligence with medical technology.",
+      "webUrl": "https://www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/",
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee776ee38f9070006842d91%2F0x0.jpg",
+          "width": 1199,
+          "height": 820,
+          "title": "“AI Healthcare” Stocks Will Mint The World’s First Trillionaire",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/amp/",
+      "publishedDateTime": "2020-06-15T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-amazon-issues-12-month-ban-on-police-use-of-facial-recognition.md",
+      "title": "Amazon issues 12-month ban on police use of facial recognition",
+      "excerpt": "The one-year moratorium on police use of Amazon Rekognition does not include organizations that work closely with law enforcement to identify victims of child sexual exploitation and human ...",
+      "webUrl": "https://www.nbcnews.com/tech/security/amazon-issues-12-month-ban-police-use-facial-recognition-n1229601?cid=sm_npd_nn_tw_ma",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_24/3386551/200610-jeff-bezos-2017-ac-544p_ad2fd0aa2b3277bf6be8e39a10c6a956.jpg",
+          "width": 2500,
+          "height": 1690,
+          "title": "Amazon issues 12-month ban on police use of facial recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1229601",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1229601",
+      "publishedDateTime": "2020-06-15T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-huami-launched-second-gen-smart-wearable-chip-namely-huangshan-no-2.md",
       "title": "Huami Launched Second-gen Smart Wearable Chip, Namely Huangshan No. 2",
       "excerpt": "Huami Technology held the first Huami Technology AI Innovation Conference in Hefei, China. At the event, it released the second generation of self-developed RISC-V",
@@ -1191,90 +1277,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial.md",
-      "title": "Global and Chinese Automotive Vision Markets, 2020 Assessment - Visual Perception Algorithms Become Crucial",
-      "excerpt": "Stock quotes by finanzen.net DUBLIN, June 12, 2020 /PRNewswire/ -- The \"Automotive Vision Industry Chain Report (II) Binocular and Others\" report has been added to ResearchAndMarkets.com's offering. Breakthroughs in Binocular Camera Chinese startups have made dramatic breakthroughs in binocular cameras,",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial-1029305297",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial-1029305297",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial-1029305297",
-      "publishedDateTime": "2020-06-12T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work.md",
-      "title": "AI Weekly: AI phrenology is racist nonsense, so of course it doesn’t work",
-      "excerpt": "Researchers torched studies that claim to be able to determine a person's criminality using facial recognition technology.",
-      "webUrl": "https://venturebeat.com/2020/06/12/ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": "AI Weekly: AI phrenology is racist nonsense, so of course it doesn’t work",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/12/ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work/amp/",
-      "publishedDateTime": "2020-06-12T15:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

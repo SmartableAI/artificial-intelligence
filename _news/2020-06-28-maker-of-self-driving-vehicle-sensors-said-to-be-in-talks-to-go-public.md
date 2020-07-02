@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Lyft’s self-driving test vehicles are back on public roads in California – ClearTipsNews"
+    excerpt: "Lyft's The Autonomous Vehicles Division has resumed testing on public roads in California several months after an operational halt in the midst of the"
+    publishedDateTime: 2020-07-02T06:01:00Z
+    webUrl: "https://www.tipsclear.com/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california-cleartipsnews/"
+    ampWebUrl: "https://www.tipsclear.com/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california-cleartipsnews/"
+    cdnAmpWebUrl: "https://www-tipsclear-com.cdn.ampproject.org/c/s/www.tipsclear.com/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california-cleartipsnews/"
+    type: article
+    provider:
+      name: tipsclear.com
+      domain: tipsclear.com
+    quality: 35
+    images:
+      - url: "https://www.tipsclear.com/wp-content/uploads/2020/07/Lyfts-self-driving-test-vehicles-are-back-on-public-roads-in.jpg"
+        width: 610
+        height: 400
+        isCached: true
 
 secured: "u3bC8aiRlYmzgNMtv1vzHy9FIO9VUXgz2A97Bhlg1QAxaCrV8Dp+jyqhMKt8RyXpLpgopqQa/EhlZe2t8qobgGQlkmCjS5DS5TPv9koyZCkLqpi//frm8vm758oSsGQmfK8Y5Ms5W43adFkrVdQ7EAnxNnun/c3Jqet/jgCwk7FQ85xMWZx9c7TjbPZKb77KxsUNyQs+BKOCbSMFVlM0NmmWf4r5R5ndE8LZ2+FboF5GK6iKbCKd2cwQ5Mi1S9GrCA/pKT6DJBPx6sybH5caDX/ay1Kbvnz6kZmDVcMFiCGx9JA+ljdvbepZrz9GI61tExZs0JmXAAQZctZuPFXEd9c2/VfdO5Wx9JDYYM7EJx8iy7ZD9Ajpp61vWhVDnbGXnFaqo8krJP2jWOhqnUGPGxSJPog+LUJvuK7axVzLuu9L5W7tJP+6U5UmSUocMP5rYPUw9mpcW7e2CqGh+xa+2IL+R6E4lFc72NtC20cVtMlHNoVBUwd5HVfHi98queuGHOSBL2Nc0s/KBh4iW75MBw==;KI22diqFT2OKpCrHLDSFHQ=="
 ---

@@ -108,6 +108,17 @@ related:
         width: 596
         height: 397
         isCached: true
+  - title: "Beijing opens more roads for testing self-driving cars"
+    excerpt: "Beijing opened 52 additional roads on Tuesday in Haidian District, the capital's tech hub, for the testing of autonomous vehicles"
+    publishedDateTime: 2020-07-02T07:44:00Z
+    webUrl: "https://infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/"
+    ampWebUrl: "https://infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 24
 
 secured: "6xm9JrKfkqcUBNRvhyeGMfXOqRNBA9PUsLC5aH0nv0vQqUQueTdoZ7DUn0z0uF8+IOnlTlEt9hvYICpwnOggdGTf3kX60XUTMKGsl8wlmEy7wNuK6wYeYX9cVPibY+0LxocO0DfO4hFW4wvkHmcqXI10W3wB0WV98o9jXyiGkW7ypwCDO91G/VCCov8+OHkwJ+27keAmzWpvZHfnhMMzsv0ioOPd3aEHztWgUAOMo1Nc3Ik7BsrCxe6b1+vQi2THXutx1eazIv1HVExMWjrW30mIqy+vkLbbfK6i50MQFWhswpVeBfViSPhyFTbQDsyBstDySDMJQkookobCdAA4/w==;+A/UHGEIjfQw4WBLv3YFyw=="
 ---
