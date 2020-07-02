@@ -2,6 +2,147 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-01-the-robot-thats-keeping-facilities-clean-during-covid-19.md",
+      "title": "The Robot That's Keeping Facilities Clean During Covid-19",
+      "excerpt": "As workplaces re-open after the Covid-19 lockdown, attention is turning to how they can be as clean as possible. Researchers from MIT are working on a robot that uses UV light to sanitize any working environment.",
+      "webUrl": "https://www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef2f96644713a0007ed4670%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "The Robot That's Keeping Facilities Clean During Covid-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/amp/",
+      "publishedDateTime": "2020-07-01T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-five-ways-you-can-protect-your-machine-learning-systems.md",
+      "title": "Five Ways You Can Protect Your Machine Learning Systems",
+      "excerpt": "There is no doubt that machine learning has opened up a lot of new avenues. However, for all its advantages, it is important to recognize its inherent vulnerabilities, too.",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/five-ways-you-can-protect-your-machine-learning-systems/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1191329481%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Five Ways You Can Protect Your Machine Learning Systems",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/five-ways-you-can-protect-your-machine-learning-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/five-ways-you-can-protect-your-machine-learning-systems/amp/",
+      "publishedDateTime": "2020-07-01T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-tusimple-adds-logistics-operators-to-self-driving-trucks-effort.md",
+      "title": "TuSimple Adds Logistics Operators to Self-Driving Trucks Effort",
+      "excerpt": "Self-driving trucking startup TuSimple is teaming up with big logistics operators to bulk up its delivery business as it lays the groundwork for a planned coast-to-coast autonomous freight network.",
+      "webUrl": "https://www.wsj.com/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800",
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-204436/social",
+          "width": 1280,
+          "height": 640,
+          "title": "TuSimple Adds Logistics Operators to Self-Driving Trucks Effort",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800",
+      "publishedDateTime": "2020-07-01T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-in-these-factories-inspector-robot-will-check-your-work.md",
       "title": "In These Factories, Inspector Robot Will Check Your Work",
       "excerpt": "Artificially intelligent camera systems look for defects and misplaced parts in many industries. The coronavirus pandemic makes them extra useful.",
@@ -121,6 +262,43 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-recyclers-turn-to-ai-robots-after-waste-import-bans.md",
+      "title": "Recyclers turn to AI robots after waste import bans",
+      "excerpt": "Currently, waste products commonly move along a conveyor belt where they are sorted and sifted by a combination of machines and human workers. The work is dirty and dangerous for staff, who might handle everything from hypodermic needles to animal carcasses,",
+      "webUrl": "https://www.ft.com/content/04e34436-907b-11ea-bc44-dbf6756c871a",
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F8853a638-b6ed-11ea-8ecb-0994e384dffe?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "Recyclers turn to AI robots after waste import bans",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/04e34436-907b-11ea-bc44-dbf6756c871a",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/04e34436-907b-11ea-bc44-dbf6756c871a",
+      "publishedDateTime": "2020-06-30T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -945,192 +1123,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools.md",
-      "title": "Google’s G Suite finalizes Connected Sheets and introduces AI-driven data cleanup tools",
-      "excerpt": "Google launched Connected Sheets for G Suite users in general availability, and it previewed new AI-powered features: Smart Fill and Smart Cleanup.",
-      "webUrl": "https://venturebeat.com/2020/06/30/googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s G Suite finalizes Connected Sheets and introduces AI-driven data cleanup tools",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools/amp/",
-      "publishedDateTime": "2020-06-30T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-rios-comes-out-of-stealth-to-announce-5m-in-funding-for-industry-agnostic-robotics.md",
-      "title": "RIOS comes out of stealth to announce $5M in funding for ‘industry-agnostic’ robotics",
-      "excerpt": "Bay Area-based robotics startup RIOS is coming out of stealth today to announce $5 million in funding. The round is being led by Valley Capital Partners and Morpheus Ventures, with participation from a long list of investors,",
-      "webUrl": "https://techcrunch.com/2020/06/30/rios-comes-out-out-stealth-to-announce-5m-in-funding-for-industry-agnostic-robotics/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/ezgif-1-72d452008e01.gif",
-          "width": 600,
-          "height": 338,
-          "title": "RIOS comes out of stealth to announce $5M in funding for ‘industry-agnostic’ robotics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/30/rios-comes-out-out-stealth-to-announce-5m-in-funding-for-industry-agnostic-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/rios-comes-out-out-stealth-to-announce-5m-in-funding-for-industry-agnostic-robotics/amp/",
-      "publishedDateTime": "2020-06-30T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-thucydides-and-the-dragon-artificial-intelligence-and-sino-us-rivalry.md",
-      "title": "Thucydides And The Dragon: Artificial Intelligence And Sino-US Rivalry",
-      "excerpt": "The party wants China to become the dominant player in the world’s most advanced technologies, especially artificial intelligence. The defeat of the world’s best player of the board game Go in 2016 by AlphaGo,",
-      "webUrl": "https://www.forbes.com/sites/calumchace/2020/06/30/thucydides-and-the-dragon-artificial-intelligence-and-sino-us-rivalry/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1163155775%2F0x0.jpg",
-          "width": 1200,
-          "height": 463,
-          "title": "Thucydides And The Dragon: Artificial Intelligence And Sino-US Rivalry",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2020/06/30/thucydides-and-the-dragon-artificial-intelligence-and-sino-us-rivalry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/06/30/thucydides-and-the-dragon-artificial-intelligence-and-sino-us-rivalry/amp/",
-      "publishedDateTime": "2020-06-30T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-experts-facial-recognition-will-be-everywhere-whether-you-like-it-or-not.md",
-      "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
-      "excerpt": "Facial recognition could soon become as commonplace as public Wi-Fi and security cameras. But with the advance of technology comes major ethical questions.",
-      "webUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?itm_source=34&itm_content=2x2&itm_term=2356592",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/us-technology-artificial-intelligence-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
-      "publishedDateTime": "2020-06-30T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,183 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-01-nasa-funds-small-business-ideas-ranging-from-ai-medicine-to-plumbing-for-the-moon.md",
+      "title": "NASA funds small-business ideas ranging from AI medicine to plumbing for the moon",
+      "excerpt": "NASA says it’ll fund more than 400 ideas from small businesses, ranging from plumbing fixtures suitable for the moon to AI-based medical assistants.",
+      "webUrl": "https://www.geekwire.com/2020/nasa-funds-small-business-ideas-ranging-plumbing-moon-ai-medicine-mars/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/200630-spacemedicine-630x419.jpg",
+          "width": 630,
+          "height": 419,
+          "title": "NASA funds small-business ideas ranging from AI medicine to plumbing for the moon",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/nasa-funds-small-business-ideas-ranging-plumbing-moon-ai-medicine-mars/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/nasa-funds-small-business-ideas-ranging-plumbing-moon-ai-medicine-mars/amp/",
+      "publishedDateTime": "2020-06-30T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-recyclers-turn-to-ai-robots-after-waste-import-bans.md",
+      "title": "Recyclers turn to AI robots after waste import bans",
+      "excerpt": "Currently, waste products commonly move along a conveyor belt where they are sorted and sifted by a combination of machines and human workers. The work is dirty and dangerous for staff, who might handle everything from hypodermic needles to animal carcasses,",
+      "webUrl": "https://www.ft.com/content/04e34436-907b-11ea-bc44-dbf6756c871a",
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F8853a638-b6ed-11ea-8ecb-0994e384dffe?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "Recyclers turn to AI robots after waste import bans",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/04e34436-907b-11ea-bc44-dbf6756c871a",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/04e34436-907b-11ea-bc44-dbf6756c871a",
+      "publishedDateTime": "2020-06-30T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california.md",
+      "title": "Lyft’s self-driving test vehicles are back on public roads in California",
+      "excerpt": "Lyft’s self-driving vehicle division has restarted testing on public roads in California, several months after pausing operations amid the COVID-19 pandemic. Lyft’s Level 5 program said Tuesday some of its autonomous vehicles are back on the road in Palo Alto and at its closed test track.",
+      "webUrl": "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/",
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/lyft-level-5-self-driving.jpg?w=1024",
+          "width": 1024,
+          "height": 671,
+          "title": "Lyft’s self-driving test vehicles are back on public roads in California",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/",
+      "publishedDateTime": "2020-06-30T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-acm-calls-for-governments-and-businesses-to-stop-using-facial-recognition.md",
+      "title": "ACM calls for governments and businesses to stop using facial recognition",
+      "excerpt": "ACM, one of the largest computer science orgs in the world, today called for the halt of facial recognition use by governments and businesses in the U.S.",
+      "webUrl": "https://venturebeat.com/2020/06/30/acm-calls-for-governments-and-businesses-to-stop-using-facial-recognition/",
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ACM calls for governments and businesses to stop using facial recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/30/acm-calls-for-governments-and-businesses-to-stop-using-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/acm-calls-for-governments-and-businesses-to-stop-using-facial-recognition/amp/",
+      "publishedDateTime": "2020-06-30T16:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-new-robot-technology-to-fight-covid-care-isolation.md",
       "title": "New robot technology to fight Covid care isolation",
       "excerpt": "That is why the new multi-disciplinary laboratory is aiming to create affordable technology that can support the care of vulnerable people cut off from human contact. It's not just the care that will be delivered at a distance - the lab itself will be open and remotely accessible.",
@@ -817,53 +994,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-30-experts-facial-recognition-will-be-everywhere-whether-you-like-it-or-not.md",
-      "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
-      "excerpt": "Facial recognition could soon become as commonplace as public Wi-Fi and security cameras. But with the advance of technology comes major ethical questions.",
-      "webUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?itm_source=34&itm_content=2x2&itm_term=2356592",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/us-technology-artificial-intelligence-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
-      "publishedDateTime": "2020-06-30T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-30-artificial-intelligence-in-medicine-market-to-reach-1812-billion-at-496-cagr-by-2025-says-amr.md",
       "title": "Artificial Intelligence in Medicine Market to Reach $18.12 Billion at 49.6% CAGR by 2025, Says AMR",
       "excerpt": "Portland, OR , June 30, 2020 (GLOBE NEWSWIRE) -- According to a new report published by Allied Market Research, titled artificial intelligence in medicine marketwas valued at $719 million in 2017 and is expected to reach $18,",
@@ -1210,145 +1340,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-nvidia-expands-virtual-gpu-support-enabling-more-remote-work.md",
-      "title": "Nvidia expands virtual GPU support, enabling more remote work",
-      "excerpt": "The updates to Nvidia's vGPU software could help organizations remotely leverage virtual reality or better collaborate on computer-aided design.",
-      "webUrl": "https://www.zdnet.com/article/nvidia-expands-virtual-gpu-support-enabling-more-remote-work/",
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/30/8fdc5834-5d12-4977-b0e1-151c1646263e/vgpu-remote-work-image.png",
-          "width": 1250,
-          "height": 619,
-          "title": "Nvidia expands virtual GPU support, enabling more remote work",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-expands-virtual-gpu-support-enabling-more-remote-work/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-expands-virtual-gpu-support-enabling-more-remote-work/",
-      "publishedDateTime": "2020-06-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-zia-khan-predicts-the-ai-of-the-future-will-only-be-used-for-good.md",
-      "title": "Zia Khan predicts the AI of the future will only be used for good",
-      "excerpt": "It took a global pandemic and stay-at-home orders for 1.5 billion people worldwide, but something is finally occurring to us: The future we thought we expected may not be the one we get. We know that things will change;",
-      "webUrl": "https://qz.com/1869472/zia-khan-on-the-future-impacted-by-coronavirus/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/06/Zia-Khan.jpg?quality=75&strip=all&w=1400",
-          "width": 820,
-          "height": 984,
-          "title": "Zia Khan predicts the AI of the future will only be used for good",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1869472/zia-khan-on-the-future-impacted-by-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1869472/zia-khan-on-the-future-impacted-by-coronavirus/amp/",
-      "publishedDateTime": "2020-06-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-mentenais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery.md",
-      "title": "Menten.AI’s combination of buzzword bingo brings AI and quantum computing to drug discovery",
-      "excerpt": "Menten AI has an impressive founding team and a pitch that combines some of the hottest trends in tech to pursue one of the biggest problems in healthcare — new drug discovery. The company is also $4 million richer with a seed investment from firms including Uncork Capital and Khosla",
-      "webUrl": "https://techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/",
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/01/quantum.jpg?w=1024",
-          "width": 1024,
-          "height": 737,
-          "title": "Menten.AI’s combination of buzzword bingo brings AI and quantum computing to drug discovery",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/amp/",
-      "publishedDateTime": "2020-06-30T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

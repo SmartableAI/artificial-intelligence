@@ -1,13 +1,10 @@
 ---
 category: news
 title: "IBM unveils Watson Works to address the challenge of returning to the workplace"
-excerpt: "IBM (NYSE: IBM) today announced Watson Works, a curated set of products that embeds Watson artificial intelligence (AI) models and applications to help companies navigate many aspects of the return-to-workplace challenge following lockdowns put in place to slow the spread of COVID-19."
-publishedDateTime: 2020-06-18T16:14:00Z
-webUrl: "https://www.finextra.com/pressarticle/82966/ibm-unveils-watson-works-to-address-the-challenge-of-returning-to-the-workplace"
+excerpt: "IBM (NYSE: IBM) today announced Watson Works, a curated set of products that embeds Watson artificial intelligence (AI) models and applications to help companies navigate many aspects of the ..."
+publishedDateTime: 2020-06-18T21:48:00Z
+webUrl: "https://www.finextra.com/pressarticle/82966/ibm-unveils-watson-works-to-address-the-challenge-of-returning-to-the-workplace/wholesale"
 type: article
-quality: 35
-heat: -1
-published: false
 
 provider:
   name: Finextra
@@ -24,70 +21,6 @@ images:
     isCached: true
     title: "IBM unveils Watson Works to address the challenge of returning to the workplace"
 
-related:
-  - title: "IBM’S Newly Launched ‘Watson Works’ Uses AI To Help Firms Manage New Work Challenges"
-    excerpt: "IBM recently launched Watson Works, a curated set of products that uses Watson AI models and applications to manage return to workplace challenges."
-    publishedDateTime: 2020-06-19T09:01:00Z
-    webUrl: "https://in.mashable.com/tech/14925/ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges"
-    ampWebUrl: "https://in.mashable.com/tech/14925/ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/14925/ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 97
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/news/i/ibm-gets-w/ibm-gets-woke-pulls-facial-recognition-software-from-law-enf_xmru.620.jpg"
-        width: 620
-        height: 414
-        isCached: true
-  - title: "Watson Works helps employers make informed decisions about workplace re-entry"
-    excerpt: "The curated set of Watson artificial intelligence (AI) models and applications is based on capabilities in IBM Return-to-Workplace Advisor, IBM TRIRIGA, IBM Watson Care Manager, IBM Maximo Worker Insights and IBM Watson Assistant. \"We've designed Watson ..."
-    publishedDateTime: 2020-06-18T19:36:00Z
-    webUrl: "https://www.itpro.co.uk/marketing-comms/communications/356132/watson-works-helps-employers-make-informed-decisions-about"
-    ampWebUrl: "https://www.itpro.co.uk/marketing-comms/communications/356132/watson-works-helps-employers-make-informed-decisions-about?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/marketing-comms/communications/356132/watson-works-helps-employers-make-informed-decisions-about?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 86
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/v1570815441/itpro/2/72/ibm.jpg"
-        width: 1000
-        height: 665
-        isCached: true
-  - title: "IBM launches Watson Works to help businesses return to the office safely"
-    excerpt: "IBM today launched Watson Works, a curated set of products and services to help businesses return to the office. The solution embeds Watson’s artificial intelligence (AI) models and applications to help organizations prioritize human health, productivity ..."
-    publishedDateTime: 2020-06-19T21:08:00Z
-    webUrl: "https://www.itbusiness.ca/news/ibm-launches-watson-works-to-help-businesses-navigate-the-return-to-workplace-challenge/115413"
-    ampWebUrl: "https://www.itbusiness.ca/news/ibm-launches-watson-works-to-help-businesses-navigate-the-return-to-workplace-challenge/115413?amp=1"
-    cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/ibm-launches-watson-works-to-help-businesses-navigate-the-return-to-workplace-challenge/115413?amp=1"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 58
-    images:
-      - url: "https://i.itbusiness.ca/wp-content/uploads/2020/06/GettyImages-1225366188-620x250.jpg"
-        width: 620
-        height: 250
-        isCached: true
-  - title: "IBM Unveils Watson Works for Data-Driven Insights to Address COVID-19 Return to Workplace Challenges"
-    excerpt: "IBM launched Watson Works, a curated set of products that embeds Watson AI models and apps, to help companies address return-to-workplace challenges."
-    publishedDateTime: 2020-06-18T18:50:00Z
-    webUrl: "https://hitconsultant.net/2020/06/18/ibm-unveils-watson-works-for-data-driven-insights-to-address-covid-19/"
-    type: article
-    provider:
-      name: HIT Consultant
-      domain: hitconsultant.net
-    quality: 24
-    images:
-      - url: "https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2020/06/IBM-Watson-Works-1500x591.png"
-        width: 1500
-        height: 591
-        isCached: true
-
-secured: "QG5SfXmOy0C4lDmoYC3r6Yysqrgur15ykQoan8UYw6VBQMS2gKQGFwalJu+6f1pWZ7xLh35ib9tumTRML6zpcIKt+0fds0rPgXz94USUTBGmFFqIOWSnu7fd0u+xGJi9zkj67U3gjzUM9Yi5TY6vRA4pmgTk4bw45/P3mg1CWeEzx4a1i6ibOIl31TTsHTRGYq8y7V8w3vCCtGwcyR77fR4Val06gV1IPmGvRBf+MUfVsOSr7rduNXd1hnSITThiHWhWf8iJLCksFR3SkoMeyluyktVZuS1DgfUL6mwTm6Tv8f9xAtkvSImXmgMyATSOidGbI0Ws0ml/6DitjZG6bQ==;ywnJ+GxzodTOUjVJ+NnvMg=="
+secured: "AeCjScLzyEkMsNhEKLjXZwJ1+JyGDXJL4tUXogeSTk6X8guGLo/8xzxgnNbQtU86UXqKIK/1KvJSKu6qxemK1CvRQCjqXIjhCyFxeZoUZjtYlHaRSBjo1j+6SAyaUJRyhZSjgt7TcO24nLfMwvhzUTWgaLmUAtJtpoTEubg12A6STkLPpQfDgRN+OnZZJovrVbKc+VeedI0a2/67mBPDDTqgUrQooP40uq7ZsF91ZelZJin5HdclQnAWijErClBUwiSnEV9aphIE6soOeCLS/LXdsiWCL4+jKKJqKa9JngCFsvWVoXICsdDjDg97XCGpDMY7UohF7GZYGmLeY7GVuA==;gK7tNRh5wsGvxF0IbZVc3A=="
 ---
 

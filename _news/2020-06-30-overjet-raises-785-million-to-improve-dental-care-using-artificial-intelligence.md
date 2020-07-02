@@ -38,6 +38,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "FraudScope Raises $7 Million in Series A Funding to Expand its AI Solutions to Address Healthcare Fraud, Waste & Abuse"
+    excerpt: "PRNewswire-PRWeb/ -- FraudScope, the fast-growing AI-based platform that helps health plans address the increasing problem"
+    publishedDateTime: 2020-07-02T12:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fraudscope-raises-7-million-in-series-a-funding-to-expand-its-ai-solutions-to-address-healthcare-fraud-waste-abuse-1029362463"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/fraudscope-raises-7-million-in-series-a-funding-to-expand-its-ai-solutions-to-address-healthcare-fraud-waste-abuse-1029362463"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/fraudscope-raises-7-million-in-series-a-funding-to-expand-its-ai-solutions-to-address-healthcare-fraud-waste-abuse-1029362463"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
 
 secured: "hHIImwQOgYvp91RRtCDIoaGKJ7tt+aJP/ENPNPLKx4QhARzvqzmizbBUJZvn1hngq0I9JljSYQP0kL39PTsD4X9068oQ31m5Jzq/yA+bfJ8Qui9prRaTzCbwRQonyHfdjqMcvA8a4C3mWz2z9Hf3yfLJWl61e1u6DR8SfJUuuKt7KLhrnzmuDkfI8Ak6to/VpYhrJLrVxUF9FeNBobtYZu/uw9IQeKez5GgdKDwhtKvSRn1oAoRdifzSoyhgovtQaNHW4dgLHPBMKldkkGbuqZ0DZeVuUQk2efFPaliR/4eNBvmfLcuu3wyl1wSUS3MVfZ1fxrLMmDcN8NtGtSovy+iLfu5AwdTE8RapXYuW5nlOom+n1ac1UcEt9vbfLRyJRRNJc5fj89KXxhbhtMrDeHxRercGbEEb0ehy72G1yUIPS0Zu4qND0/b4RBcE7ogA1ahE/mvA0aE905yAHMgxm1g64iQVg4X9CprFuVK8H/OrADrA77zrrRW1fXjx2vVtNdWme8kbXz2MviPc83Iz+Q==;IBa+Vka3EfnYuUPQQb/w9w=="
 ---

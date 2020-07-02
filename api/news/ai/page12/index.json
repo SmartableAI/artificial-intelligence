@@ -2,6 +2,99 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-06-19-ai-artificial-intelligence-shows-us-a-future-where-we-neglect-to-dream.md",
+      "title": "A.I. Artificial Intelligence shows us a future where we neglect to dream",
+      "excerpt": "A.I. begins with a brief summary of the sorry state of the world: climate change has melted the polar ice caps, wiping out coastal cities and severely reducing the human population. With regulations in place for reproduction on a resource-starved planet,",
+      "webUrl": "https://www.theverge.com/2020/6/19/21296276/ai-artificial-intelligence-neglect-to-dream-yesterdays-future-scifi",
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/XMD3BYf0qPe6OlAiWd6H97CA4YE=/0x0:1280x723/1400x933/filters:focal(639x191:843x395):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66957596/ai041.0.jpg",
+          "width": 1280,
+          "height": 723,
+          "title": "A.I. Artificial Intelligence shows us a future where we neglect to dream",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/19/21296276/ai-artificial-intelligence-neglect-to-dream-yesterdays-future-scifi",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/19/21296276/ai-artificial-intelligence-neglect-to-dream-yesterdays-future-scifi",
+      "publishedDateTime": "2020-06-19T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility.md",
+      "title": "R&D Roundup: Automated peach sniffers, orbital opportunity and AI accessibility",
+      "excerpt": "I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups.",
+      "webUrl": "https://techcrunch.com/2020/06/19/rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility/",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/02/stanford-bci.gif",
+          "width": 480,
+          "height": 270,
+          "title": "R&D Roundup: Automated peach sniffers, orbital opportunity and AI accessibility",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/19/rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/19/rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility/amp/",
+      "publishedDateTime": "2020-06-19T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-correcting-and-replacing-vmware-introduces-delivery-of-elastic-infrastructure-for-aiml-applications-with-vmware-vsphere-7.md",
       "title": "CORRECTING and REPLACING VMware Introduces Delivery of Elastic Infrastructure for AI/ML Applications with VMware vSphere 7",
       "excerpt": "Please replace the release dated June 2, 2020, with the following corrected version due to new licensing terms for VMware vSphere Bitfusion. The corre",
@@ -818,6 +911,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-18-ibm-unveils-watson-works-to-address-the-challenge-of-returning-to-the-workplace.md",
+      "title": "IBM unveils Watson Works to address the challenge of returning to the workplace",
+      "excerpt": "IBM (NYSE: IBM) today announced Watson Works, a curated set of products that embeds Watson artificial intelligence (AI) models and applications to help companies navigate many aspects of the ...",
+      "webUrl": "https://www.finextra.com/pressarticle/82966/ibm-unveils-watson-works-to-address-the-challenge-of-returning-to-the-workplace/wholesale",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
+          "width": 480,
+          "height": 270,
+          "title": "IBM unveils Watson Works to address the challenge of returning to the workplace",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec.md",
       "title": "AI Mining ESG Data Companies Not Disclosing Says Blackrock Exec",
       "excerpt": "Machine learning is helping the $7 trillion investment firm to uncover ESG impacts from satellite images of pollution to cars in a parking lot, he said. He added AI is aiding in the analysis of voice inflections from executives and whether the inflections have change from the last time they spoke.",
@@ -1176,138 +1307,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-ai-and-machine-learning-in-healthcare-garbage-in-garbage-out.md",
-      "title": "AI And Machine Learning In Healthcare: Garbage In, Garbage Out",
-      "excerpt": "Much proselytizing has occurred regarding the value and future of artificial intelligence (AI) and machine learning in healthcare. The industry is burgeoning. As with blockchain technology, which continues to evolve in the healthcare marketplace ...",
-      "webUrl": "https://www.forbes.com/sites/jeffgorke/2020/06/18/ai-and-machine-learning-in-healthcare-garbage-in-garbage-out/",
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1197598173%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D556%26cropY2%3D3931",
-          "width": 1200,
-          "height": 675,
-          "title": "AI And Machine Learning In Healthcare: Garbage In, Garbage Out",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-gpu-accelerated-ml-training-now-available-for-35-million-windows-subsystem-for-linux-users.md",
-      "title": "GPU accelerated ML training now available for 3.5 million Windows Subsystem for Linux users",
-      "excerpt": "Microsoft has announced the availability of GPU Compute on the WSL2, allowing users to run native Linux command-line tools directly on Windows 10",
-      "webUrl": "https://news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/06/GPU-Compute-WSL-2.jpg",
-          "width": 700,
-          "height": 365,
-          "title": "GPU accelerated ML training now available for 3.5 million Windows Subsystem for Linux users",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/amp/",
-      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/gpu-accelerated-ml-training-now-available-for-3-5-million-windows-subsystem-for-linux-users-100939/amp/",
-      "publishedDateTime": "2020-06-18T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-ai-model-uses-smartphone-location-data-to-predict-power-grid-usage.md",
-      "title": "AI model uses smartphone location data to predict power grid usage",
-      "excerpt": "Researchers propose an AI model that incorporates smartphone location data to predict power grid usage during the COVID-19 pandemic.",
-      "webUrl": "https://venturebeat.com/2020/06/18/ai-model-uses-smartphone-location-data-to-predict-power-grid-usage/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/07/australia-powerpack-blog-e1592499666353.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI model uses smartphone location data to predict power grid usage",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/18/ai-model-uses-smartphone-location-data-to-predict-power-grid-usage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/ai-model-uses-smartphone-location-data-to-predict-power-grid-usage/amp/",
-      "publishedDateTime": "2020-06-18T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

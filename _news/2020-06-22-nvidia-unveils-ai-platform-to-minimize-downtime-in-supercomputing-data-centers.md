@@ -1,13 +1,10 @@
 ---
 category: news
 title: "NVIDIA Unveils AI Platform to Minimize Downtime in Supercomputing Data Centers"
-excerpt: "ISC Digital--NVIDIA today unveiled the NVIDIA(R) Mellanox(R) UFM(R) Cyber-AI platform, which minimizes downtime in InfiniBand data centers by harnessing AI-powered analytics to detect security threats and operational issues,"
+excerpt: "SANTA CLARA, Calif., June 22, 2020 (GLOBE NEWSWIRE) -- ISC Digital--NVIDIA today unveiled the NVIDIA(R) Mellanox(R) UFM(R) Cyber-AI platform, which minimizes downtime in InfiniBand data centers by harnessing AI-powered analytics to detect security threats and operational issues,"
 publishedDateTime: 2020-06-22T07:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/nvidia-unveils-ai-platform-to-minimize-downtime-in-supercomputing-data-centers-2020-06-22"
+webUrl: "https://www.marketwatch.com/press-release/nvidia-unveils-ai-platform-to-minimize-downtime-in-supercomputing-data-centers-2020-06-22-3184024"
 type: article
-quality: 65
-heat: 85
-published: true
 
 provider:
   name: MarketWatch
@@ -28,36 +25,6 @@ images:
     isCached: true
     title: "NVIDIA Unveils AI Platform to Minimize Downtime in Supercomputing Data Centers"
 
-related:
-  - title: "Nvidia unveils new GPU accelerator and Selene, a homegrown supercomputer"
-    excerpt: "Nvidia Corp. today announced a new accelerator card for servers and unveiled Selene, a supercomputer it recently added to its internal research cluster that ranks as the seventh most powerful system in the world."
-    publishedDateTime: 2020-06-22T17:26:00Z
-    webUrl: "https://siliconangle.com/2020/06/22/nvidia-unveils-new-gpu-accelerator-selene-homegrown-supercomputer/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/nvidia3.png"
-        width: 718
-        height: 400
-        isCached: true
-  - title: "Nvidia launches Mellanox AI platform for data center resiliency"
-    excerpt: "AI and UFM Telemetry platforms follow the acquisition by Nvidia of the Israeli networking vendor Mellanox. The latest additions apply AI to learn a data center’s operational and network workloads, drawing on both real-time and historic telemetry and workload data."
-    publishedDateTime: 2020-06-23T09:20:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-launches-mellanox-ai-platform-data-center-resiliency/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 37
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/nvidia-mellanox-ufm-cyber-ai-plat.2e16d0ba.fill-1200x630.png"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "oH5NaOrD7iNt0diy6DyAeJzFaQfuSZs1P/FIu3UEOovbr6LeDQIG7o1zE5CdE6Ow4jUD144vviEeZskHmtYR64WFPKX5XqJGZGwPJPHDmG45j8YGFX+IeFnpNMLm31oGMOyZZ+Qbax7vn0mILYN4RqpFobh5sGJAsAY+kW1itXTo1I40qChhSo5OQntS+azS6E6eWFS94Sy4hKGW5cLdll7z8zLQmwB1uEvY36FVu7DhWh6wuwyb5lXmC4tmT8W06et/foYWFitoF/9JtqkwUCdmvexASfb2JM/+aqUI3w/pqDItDHvzb6c/InUwL4t+6EN3ki7tAfZ2zeHr2GB12Q==;hPLYeHoal60m5fPK2/4USQ=="
+secured: "TMeVPaGyxqWwsYYx1gV40/Exw7ssme58NALxeU415WOOWb8q/0sEvbfYhIa4veSyi+g5sjry6x4A9QbXaLNTrg1cyb9X+/HcvuXGuSw+CQu/kJTb4PGRfvO1tRiD8mGmy3ocx565SwoC8f0K2Ice1vVStsYurqsZTbB4VYzHcxDgciDoiaftkAjeIiR+/4kOSkbkp0fXC/GY0RuYjkeZL3VMEHTYRNsPIUQFgPViBo1h1aXsKLThohJvjU7/i9yU0gM9BMxZc/AsHrherNVJGhW+PIaXS/tmqfq+hv062vQi/b28kLVaTgdpofNkHB8uWQ2Jz2LowyUoBGKIeRw76Q==;lmnE4WZwlUbvTm+9C2B5Og=="
 ---
 

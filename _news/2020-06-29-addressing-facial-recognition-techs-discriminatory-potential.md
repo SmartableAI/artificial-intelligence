@@ -223,6 +223,22 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Easthampton is the latest Massachusetts community to pass a municipal ban on facial recognition technology"
+    excerpt: "According to the American Civil Liberties Union of Massachusetts, a recent poll showed nearly 8 in 10 Massachusetts voters support a moratorium on government use of face surveillance technology, which is currently unregulated in the state."
+    publishedDateTime: 2020-07-02T13:38:00Z
+    webUrl: "https://www.masslive.com/news/2020/07/easthampton-is-the-latest-massachusetts-community-to-pass-a-municipal-ban-on-facial-recognition-technology.html"
+    ampWebUrl: "https://www.masslive.com/news/2020/07/easthampton-is-the-latest-massachusetts-community-to-pass-a-municipal-ban-on-facial-recognition-technology.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/07/easthampton-is-the-latest-massachusetts-community-to-pass-a-municipal-ban-on-facial-recognition-technology.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 41
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6XHOCAFJEZAH3J4XCWVGBTIN3E.jpg"
+        width: 2247
+        height: 1498
+        isCached: true
   - title: "U.S. Lawmakers Push to Ban Facial Recognition Technology"
     excerpt: "A group of lawmakers has introduced a bill that would ban the government use of facial recognition technology. The bill comes after a Detroit man was falsely arrested after being misidentified by police using the tech."
     publishedDateTime: 2020-06-29T21:11:00Z

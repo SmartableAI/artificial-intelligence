@@ -1,47 +1,31 @@
 ---
 category: news
-title: "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud"
-excerpt: "We congratulate our wise leadership on our unprecedented regional achievement & take pride in HBMSU’s leading position that supports UAE's competitiveness on global educational landscape” Mansoor Al Awar: “With our adoption of AWS,"
-publishedDateTime: 2020-07-01T11:31:00Z
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/HBMSU_becomes_MENA_regions_first_educational_institution_to_migrate_its_full_systems_and_applications_to_AWS_Cloud-ZAWYA20200701110907/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/"
+title: "HBMSU Becomes MENA Region’s First Educational Institution to Migrate Its Full Systems and Applications to AWS Cloud"
+excerpt: "Hamdan Bin Mohammed Smart University (HBMSU) announced today (Wednesday, July 1, 2020) the successful and complete migration of its systems and applicat"
+publishedDateTime: 2020-07-01T11:38:00Z
+webUrl: "https://www.albawaba.com/business/pr/hbmsu-becomes-mena-region’s-first-educational-institution-migrate-its-full-systems-and"
+ampWebUrl: "https://www.albawaba.com/amp/business/pr/hbmsu-becomes-mena-region%E2%80%99s-first-educational-institution-migrate-its-full-systems-and"
+cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/hbmsu-becomes-mena-region%E2%80%99s-first-educational-institution-migrate-its-full-systems-and"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Al Bawaba News
+  domain: albawaba.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-    width: 1200
-    height: 878
+  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2020-07/Image%203.jpg?itok=mceCpAIX"
+    width: 960
+    height: 643
     isCached: true
-    title: "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud"
+    title: "HBMSU Becomes MENA Region’s First Educational Institution to Migrate Its Full Systems and Applications to AWS Cloud"
 
-related:
-  - title: "Genome-wide investigation of gene-cancer associations for the prediction of novel therapeutic targets in oncology"
-    excerpt: "In the genomics era, the availability of large biomedical datasets with genome-wide readouts has the potential to transform target selection and validation. In this study we investigate how computational intelligence methods can be applied to predict novel therapeutic targets in oncology."
-    publishedDateTime: 2020-07-01T09:11:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-67846-1"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 3
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-67846-1/MediaObjects/41598_2020_67846_Fig1_HTML.png"
-        width: 685
-        height: 456
-        isCached: true
-
-secured: "gLb/s2TZ+FEnXEZnHzMZJC5ZyPvbIxdjTDTDj9tpvXeKTrLNwAcegvpR01PXqPsbC7rgpkbTLk+NNkZPU21YIkNnpLB0fb8s19xnX/kwO49NUaQkJ/y0u3HG+/Nt4F6AOqgnE78eTwo3v5bmzUX/H6SwvXnzkFEvC7DozqY+B7d2M3Rw5h79xTrrQVnqvjLRyER81p8CQVkUr9DWQR13NBhePCXdPEuVhLOe+EVP5MUZqei59iBBaf3I+hX7plHGeaBcgig1e3s+Lr7plPjL1+96B5hL0TazvJdFXCQVTtAnnypblBAwXMZOefPW0eJSrWe+pnQDxR/k4QKTAvmRo9SEPD4ThUHxYrNKjVoTwWzPFhBNltY5EovVJzhwISQnDgBWW3ZjBftN0FFUS/c210jChxe32+Dgf7wWTTjIQvE5Pfl60gbDdfLgPKiVyXsNcblmV23Izv2xaQc0BNPybQqF2cGZ1phTG9/nEkuiP16fq9Z5DoySHNcVYVmQHIQeD75wvU11WrS1971xsSDgSw==;cWUayHePwScfGPuTUbek5g=="
+secured: "9ZjlMKQmQKErELC+5mDNFKLLTfXF+QbvBs2n/x028n5BtV0eJx054kpggYgAT5a7dBmRIqIYu/APMEDksrNlOnMPRqBzdDhnJFOvLbrOh9UHCrYiIs/xpynDjZZrE6HEXLs0J80HyzDF6qZIOndYcXre08OwicPahkQwZQ7gMLJkLVRCIu69I+v92OpXOx3pdoTZGfwKJIoOhsYsoHBW+wgoNUQQsSu1s6BoQ3nDfkK2PQ497zpAQrCvpJBTUTytWg153reutB6Hg7Z1Tj5BdTp8atD1/D8uXU/yPP+BYa5aFddZnwd8a97+7X8MyJAgjmxaF/kVmwRIJVElotshIQ==;ppd2Ga2b05GbB3GhipL9oA=="
 ---
 

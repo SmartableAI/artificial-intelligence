@@ -260,6 +260,15 @@ related:
       name: Financierworldwide.com
       domain: financierworldwide.com
     quality: 4
+  - title: "Video: Amazon acquires self-driving car startup Zoox"
+    excerpt: "Amazon said it will lead Zoox as a standalone business to drive the mission toward developing self-driving vehicles. In the video, Zoox demonstrates a one-hour fully autonomous dr"
+    publishedDateTime: 2020-07-02T12:52:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15380/video-amazon-acquires-self-driving-car-startup-zoox"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "WcVWDDvr3hkWrCLZ87VZRnwAf1neIeg2khwBWh0JsxM4gwZSFI7zQFPEfdVdtRtjUymF67G0J3WKl9COEBbiRAYft/705Ehz16EG1MEE2l/N4zCSsXMgvIhyn4wFYNJaDowQ30xQx2/bR66j+mN8dNy5J66KYFu/VCMBGLOdnp4UJIlib1ruxHjOaBJ6o0uVRjXxERod0Tp2le1Q+4uuIkVgktvWEUBHifnfWhqOJGTBwmwGPgIBiX5AC4FheogmoduUTI9WbuTBGnkyVzXcaDdgjq+t++ksJDthpgW21O/laYwDuCPOyr7RqMvvy7L2afbQjSrMWi0kkLjccLsjn9eNy7rh7VIx34tgPMjRp56gNpVXboABA4Vbm8gp5Q1cpwNnS7gqInhQrqOWVdTiNDQNn0wIIn1aIHpkhW2m61pY6r8YTFu6+fbqT3PjCLHE/e3O/5WmC/DnqGo4IMCiZMZ0WdaNUKluw2d+H2hLUE8d6xgBqRgjSbrtAU0vPIvoxWIL0gw5fql53ohFC9O3Sg==;NV9ZX4+noCIDszSZv8CH7g=="
 ---

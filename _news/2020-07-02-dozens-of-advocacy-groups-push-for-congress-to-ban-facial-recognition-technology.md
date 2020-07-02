@@ -214,6 +214,22 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Easthampton is the latest Massachusetts community to pass a municipal ban on facial recognition technology"
+    excerpt: "According to the American Civil Liberties Union of Massachusetts, a recent poll showed nearly 8 in 10 Massachusetts voters support a moratorium on government use of face surveillance technology, which is currently unregulated in the state."
+    publishedDateTime: 2020-07-02T13:38:00Z
+    webUrl: "https://www.masslive.com/news/2020/07/easthampton-is-the-latest-massachusetts-community-to-pass-a-municipal-ban-on-facial-recognition-technology.html"
+    ampWebUrl: "https://www.masslive.com/news/2020/07/easthampton-is-the-latest-massachusetts-community-to-pass-a-municipal-ban-on-facial-recognition-technology.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/07/easthampton-is-the-latest-massachusetts-community-to-pass-a-municipal-ban-on-facial-recognition-technology.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 41
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6XHOCAFJEZAH3J4XCWVGBTIN3E.jpg"
+        width: 2247
+        height: 1498
+        isCached: true
   - title: "Addressing Facial Recognition Tech's Discriminatory Potential"
     excerpt: "Recent civil rights groups' objections, industry statements and proposed bills on the use of facial recognition technology highlight several problematic concerns, including that it lacks accuracy in identifying nonwhite individuals and may play a role in racially discriminatory policing,"
     publishedDateTime: 2020-06-29T22:02:00Z
@@ -301,6 +317,6 @@ related:
       domain: rt.com
     quality: 19
 
-secured: "Zf2OQh8nbotCLWIOuoUdIXJOkDYJzxQ6/5trB0znASStD7wzbgM2niF/y4tajcLElyIVKSB6Ndq0s2+ZGGONOmumKmE9tM0eDdW9N4mG4yzTbkXB0QzjvrtNYFJrvYlCnByfeKahNcyVXMcovtxexbVTPpipeLcrD5w1jXHefJExngITbeyTj85+2wxsKxHpheW3iY6mIEBeBrax75AP8iUUHYBRhBn6hoISNnhsKoGKhnFe1pfZa+igKv81qeCd4bCSyG7T3YUooVpaHEJ/fYOsaod3l+gAiPlSr4lx1jqHehCboYzUFNq5jOpvhaI+VN0u4uhD3GkV3zIr8URYtw==;pb3QxxnseKWExjTuw0y3jA=="
+secured: "o0cuK40yMrjPhBTtRLxehLx+m1/dDC4wnI9IFBc4XVagxM/hqDXfaK4Q+WooFGQ2K5KMkZBiz+dyCEsQHSoj+FAaWwLA4WRw+AEsOjTCZ9HjvI1RomGYvv0Sk/8TXV5emfCzgMPCyNTNESv6VsOm5in5KK6Efhd8ugTTXxtx6zVWtYR+KLzV+ftmt4XVxCRvTKVisVt6AaXQQ3rgP1+atrvj7ZO5TUb+JWD7qu9AfBqBatC9tKlB6FWUC4vciAbU/0MWjg5Ge6nR9rOI7OkrM56zUWsuxfHhPhwejveoDJaVfbomOG5mtE2mV4x8XuiGxlw6kUnVh/zvauRaSpJCUvh5zFKb8efJqLgPOMHYRkBR0e2H2ylB4o0P/SFoH/xiV5ReGweRmalYM2X/eAV41o6hFL0X83fjXmrhjz9qdHmVsdyKYYIOf5/NVDGkknqWuKHyp4fWZui5oZ00EfZcNR0a3IdYsHXeCZfZYCfnuZL2v18kROln7c2Sn0R+IGWgtJzdfbKFxWrBRGqJ6TG7fg==;U3w40fGtwnn+tLCRSpE2Hw=="
 ---
 

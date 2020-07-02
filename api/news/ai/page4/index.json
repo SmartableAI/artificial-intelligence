@@ -2,6 +2,91 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-29-research-artificial-neural-networks-are-more-similar-to-the-brain-than-we-thought.md",
+      "title": "Research: Artificial neural networks are more similar to the brain than we thought",
+      "excerpt": "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Consider the animal in the following image. If you recognize it,",
+      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/06/29/artificial-neural-networks-are-more-similar-to-the-brain-than-they-get-credit-for-syndication/",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/2-11-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Research: Artificial neural networks are more similar to the brain than we thought",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams.md",
+      "title": "Building Ethical And Responsible AI Systems Does Not Start With Technology Teams",
+      "excerpt": "Unless we invest time and effort in designing human-centric AI solutions, we run the risk of dividing society and augmenting feelings of mistrust and intimidation.",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/",
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/amp/",
+      "publishedDateTime": "2020-06-29T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-eric-and-wendy-schmidt-back-cambridge-university-effort-to-equip-researchers-with-ai-skills.md",
       "title": "Eric and Wendy Schmidt back Cambridge University effort to equip researchers with AI skills",
       "excerpt": "Eric and Wendy Schmidt have donated to a Cambridge University program that is designed to equip young researchers with machine learning and artificial intelligence skills that have the potential to accelerate their research.",
@@ -379,7 +464,7 @@
       "title": "Chinese ride-hailing giant Didi Chuxing launches pilot self-driving robotaxi service in Shanghai",
       "excerpt": "Commuters can book free rides in Didi autonomous vehicles within designated areas in Shanghai’s Jiading District but human drivers still required on board for safety",
       "webUrl": "https://www.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self",
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -613,7 +698,7 @@
       "title": "Amazon Acquires Self-Driving Car Startup Zoox",
       "excerpt": "Although Zoox has been trying to develop a robot taxi service, Amazon could use the same technologies to one day power self-driving delivery vehicles.",
       "webUrl": "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox",
-      "heat": 254,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -1289,100 +1374,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-ai-gatekeepers-are-taking-baby-steps-toward-raising-ethical-standards.md",
-      "title": "AI gatekeepers are taking baby steps toward raising ethical standards",
-      "excerpt": "AI is upending companies, industries, and humanity. For years, Brent Hecht, an associate professor at Northwestern University who studies AI ethics, felt like a voice crying in the wilderness.",
-      "webUrl": "https://qz.com/1874134/computer-scientists-will-enforce-rules-for-ai-ethics/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/06/2018-10-24T101409Z_955373654_RC1A9170A420_RTRMADP_3_CHINA-SECURITY-e1593196340811.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 787,
-          "title": "AI gatekeepers are taking baby steps toward raising ethical standards",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1874134/computer-scientists-will-enforce-rules-for-ai-ethics/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1874134/computer-scientists-will-enforce-rules-for-ai-ethics/amp/",
-      "publishedDateTime": "2020-06-26T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-70-million-sci-fi-flick-b-stars-an-ai-robot-named-erica.md",
-      "title": "$70 million sci-fi flick 'b' stars an AI robot named 'Erica'",
-      "excerpt": "A movie, simply titled \"b,\" is currently in early production. What makes it unique is that it will be the first big-budget feature film to star an AI actor named Erica. Produced by the makers of Oscar-nominated film Loving Vincent,",
-      "webUrl": "https://www.techspot.com/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-26-image-9.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": "$70 million sci-fi flick 'b' stars an AI robot named 'Erica'",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
-      "publishedDateTime": "2020-06-26T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

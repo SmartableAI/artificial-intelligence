@@ -49,47 +49,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google’s TensorFlow Lite for Microcontrollers",
-      "excerpt": "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced the launch of WiseEye WE-I Plus HX6537-A solution that supports.",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096",
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "TensorFlow",
-        "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-06-28-from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap.md",
       "title": "From PhD in AI to fruit chips company, youngster takes a big leap",
       "excerpt": "Twenty-eight-year-old Bharadwaj Karanth’s company, Suvidha Foods and Beverages, procures fruits and vegetables directly from farmers and processes them into chips and dry fruits.",
@@ -130,8 +89,8 @@
     {
       "path": "_news/2020-06-26-covid-19-significant-shift-in-strategy-of-mobile-artificial-intelligence-market-2020-2024-increasing-use-of-ai-chip-enabled-mobile-devices-to-augment-growth-technavio.md",
       "title": "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio",
-      "excerpt": "Technavio has announced its latest market research report titled Global Mobile Artificial Intelligence Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the mobile artificial intelligence market and it is poised to grow by USD 13.",
-      "webUrl": "https://www.businesswire.com/news/home/20200626005284/en/COVID-19-Significant-Shift-Strategy-Mobile-Artificial-Intelligence",
+      "excerpt": "Buy 2 Technavio reports and get the third for free. View market snapshot before purchasing Increasing use of AI chip-enabled mobile devices has been instrumental in driving the growth of the market. Technavio's custom research reports offer detailed ...",
+      "webUrl": "https://www.businesswire.com/news/home/20200626005284/en/",
       "heat": null,
       "tags": null,
       "images": [
@@ -147,7 +106,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-26T10:30:00-07:00",
+      "publishedDateTime": "2020-06-26T10:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -819,9 +778,9 @@
     {
       "path": "_news/2020-06-22-nvidia-unveils-ai-platform-to-minimize-downtime-in-supercomputing-data-centers.md",
       "title": "NVIDIA Unveils AI Platform to Minimize Downtime in Supercomputing Data Centers",
-      "excerpt": "ISC Digital--NVIDIA today unveiled the NVIDIA(R) Mellanox(R) UFM(R) Cyber-AI platform, which minimizes downtime in InfiniBand data centers by harnessing AI-powered analytics to detect security threats and operational issues,",
-      "webUrl": "https://www.marketwatch.com/press-release/nvidia-unveils-ai-platform-to-minimize-downtime-in-supercomputing-data-centers-2020-06-22",
-      "heat": 85,
+      "excerpt": "SANTA CLARA, Calif., June 22, 2020 (GLOBE NEWSWIRE) -- ISC Digital--NVIDIA today unveiled the NVIDIA(R) Mellanox(R) UFM(R) Cyber-AI platform, which minimizes downtime in InfiniBand data centers by harnessing AI-powered analytics to detect security threats and operational issues,",
+      "webUrl": "https://www.marketwatch.com/press-release/nvidia-unveils-ai-platform-to-minimize-downtime-in-supercomputing-data-centers-2020-06-22-3184024",
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -865,17 +824,17 @@
     },
     {
       "path": "_news/2020-06-22-worlds-top-system-makers-unveil-nvidia-a100-powered-servers-to-accelerate-ai-data-science-and-scientific-computing.md",
-      "title": "World’s Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing",
-      "excerpt": "ISC Digital—June 22, 2020—NVIDIA and the world’s leading server manufacturers today announced NVIDIA A100-powered systems in a variety of designs and configurations to tackle the most complex challenges in AI,",
-      "webUrl": "https://apnews.com/7208593b875025f54adbc52c6713c4c0",
+      "title": "World's Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing",
+      "excerpt": "ISC Digital--June 22, 2020--NVIDIA and the world's leading server manufacturers today announced NVIDIA A100-powered systems in a variety of designs and configurations to tackle the most complex challenges in AI,",
+      "webUrl": "https://www.marketwatch.com/press-release/worlds-top-system-makers-unveil-nvidia-a100-powered-servers-to-accelerate-ai-data-science-and-scientific-computing-2020-06-22",
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": "World’s Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "World's Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing",
           "attribution": null,
           "isCached": true
         }
@@ -886,9 +845,18 @@
       "publishedDateTime": "2020-06-22T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1334,6 +1302,54 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones.md",
+      "title": "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones",
+      "excerpt": "Qualcomm today announced its RB5 reference design platform for the robotics and intelligent drone ecosystem. As the field of robotics continues to evolve towards more advanced capabilities, Qualcomm’s latest platform should help drive the next step in robotics evolution with intelligence and connectivity.",
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/",
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee9accd1b50250006e837a8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1430%26cropY1%3D0%26cropY2%3D804",
+          "width": 1200,
+          "height": 676,
+          "title": "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/",
+      "publishedDateTime": "2020-06-17T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
       ]
     }
   ],

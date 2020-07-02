@@ -7,9 +7,9 @@ webUrl: "https://www.ft.com/content/04e34436-907b-11ea-bc44-dbf6756c871a"
 ampWebUrl: "https://amp.ft.com/content/04e34436-907b-11ea-bc44-dbf6756c871a"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/04e34436-907b-11ea-bc44-dbf6756c871a"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 157
+heat: 157
+published: true
 
 provider:
   name: The Financial Times
@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "Recyclers turn to AI robots after waste import bans"
 
-secured: "zEe4BDHBczgz9ODlo5GcHDrFq+WKn5lr4lkvkkz25XjjQlzftNWUhRD/ta5dHttXBPRKGH6zt/hhjo5rx6d47sKjfjIpUP5mkJ/u7J5wWx7V/uHWEh5GkPqcGdR2twr0EqsgbXqVukppP6FJWbwWdwRGDfqCIuEWKA4L3/xu2WQwh+nrC3qru4Mls9/WHBwvYyEGm/N8i0rpSKVpvomYlqDsQIAOJjZ0NmjjD11t78b6G9pptclR692LAmwWaPkg5R11oiJQ6xPnrRU7A8xyu7EPhsHU3uVMtvil56Um+rehVWFbJUhVDtKZkvvuXRlWlkaLuq8QWE9Mdidr2fEbTI3AtCBdR/qrc9W+zU6OJENPdD9RovP71bQ1sRSgw6kMGjEhLGlAb4YL8NV4nDhNK2oKdEILe5kcIKNNtVpgzuEIx4XIJPp6nzjNHcLuo7fNLu0h7Mog+J8CKG2gQG8qEYKilr86xxWYrzeSDeMdgS73fuDup3EMwe8Gypz/BuAceh3ipZKmQBd0ibdCzOovrA==;yaQHAwqBl+iYYPAvL1D2LQ=="
+secured: "+PjTRaQGAlUk/d7oI5pFHRv4XIge+MD9cD7eNjdn9lq0B65121P6yPHmYZQUrS7cP0bON62+tRm9bSCLCZH0P47opyYwzEEm/c6FZspkMmuTlMdNVxZwWAafISOGDC8BebPgyjOzYU4AKxe7Nl1KxmF1VuExJBgJ5MITGKoMOV222Jnc2b/Pha4fLzr8L7OZsuoMvLA0Vkm3SEbcpT+sVFri88kDA/bMHiC35+ZUWNS4zOQoH92LixNCsvCcARsLtF68k2JOc4HVVVh/UUB/KWAN3h4uwwHCY4DbyUJ6KN3eSUukKSrFpiXQeLhb8owjowoKfhS1xjpjSSqKqPsv/nTheiKrQG21aFszfu8Vd26K0emI4tnIb9fc41yy8Pzp3NgyXZfwTGuFkfYVOioQCIALFIJyCgVJTsBj5GlGqhKPOm/9Uw6UVCbUemwyVZyfJ92NowEYsnH9i/okwKTThWyDTYSVLhKyZ51S9WHS519T9ZdHQLLVf1lvkpUc1o5uic+k7wcD0Km+C1z+j6e1ab+cvDGlF+xkwpEqoz08NnU=;KhTPf7P/TogCwpax1UKTpg=="
 ---
 

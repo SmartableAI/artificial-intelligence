@@ -2,6 +2,91 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-17-amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says.md",
+      "title": "Amazon owes answers on facial recognition moratorium, lawmaker says",
+      "excerpt": "A House representative mistaken by Rekognition as a criminal is questioning CEO Jeff Bezos about Amazon's one-year pause on facial recognition.",
+      "webUrl": "https://www.cnet.com/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/LRqa-J9lGENDIqzrmO3X_JuHePE=/756x567/2020/01/17/24f77466-4cd0-4018-b436-90846e478c80/amazon-ces-2020-booth-2.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Amazon owes answers on facial recognition moratorium, lawmaker says",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
+      "publishedDateTime": "2020-06-17T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-chinas-tencent-to-use-facial-recognition-to-curb-young-video-gamers.md",
+      "title": "China's Tencent to use facial recognition to curb young video gamers",
+      "excerpt": "Chinese tech behemoth Tencent has begun to use facial recognition to prevent minors from spending large sums of money while playing endless hours of video games.",
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/9361592407529/2020/1/3a6ff9b53599ae38e5b383e93adcfc17/v1.5/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers.jpg",
+          "width": 800,
+          "height": 532,
+          "title": "China's Tencent to use facial recognition to curb young video gamers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
+      "publishedDateTime": "2020-06-17T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids.md",
       "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
       "excerpt": "According to Russian business daily Vedomosti, a new facial recognition system coming to every school in the country has been ominously named \"Orwell.\"",
@@ -1195,92 +1280,6 @@
       "provider": {
         "name": "InfoQ",
         "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
-      "title": "Senator fears Clearview AI facial recognition could be used on protesters",
-      "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
-      "webUrl": "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
-      "heat": 505,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/9iSXtLFKNXgiNKMOB6uefX3betU=/756x567/2020/06/04/6e5b36d7-6f9d-4afc-912e-38a007947e55/sf.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Senator fears Clearview AI facial recognition could be used on protesters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
-      "publishedDateTime": "2020-06-08T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-roborock-s6-maxv-robot-vacuum-and-mop-with-advanced-obstacle-recognition-launches-with-a-50-off-early-bird-promotion.md",
-      "title": "Roborock S6 MaxV robot vacuum and mop with advanced obstacle recognition launches with a $50 off early bird promotion",
-      "excerpt": "Personally I have never been a great fan of hoovering and made the decision to invest in a robot vacuum cleaner almost soon as they started to",
-      "webUrl": "https://www.geeky-gadgets.com/roborock-s6-maxvrobot-vacuum-08-06-2020/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2020/06/robot-vacuum-5.jpg",
-          "width": 700,
-          "height": 500,
-          "title": "Roborock S6 MaxV robot vacuum and mop with advanced obstacle recognition launches with a $50 off early bird promotion",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
         "images": null,
         "publishers": null,
         "authors": null

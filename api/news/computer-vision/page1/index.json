@@ -2,11 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-02-bias-claims-spur-debate-on-need-for-curbs-oversight-of-facial-recognition-tech.md",
+      "title": "Bias claims spur debate on need for curbs, oversight of facial recognition tech",
+      "excerpt": "Official at Israeli startup AnyVision says he hopes for regulation of the industry because his firm's software could never be abused, unlike open-source platforms",
+      "webUrl": "https://www.timesofisrael.com/bias-claims-spur-debate-on-need-for-curbs-oversight-of-facial-recognition-tech/",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2018/11/AnyVision-e1543488603287-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": "Bias claims spur debate on need for curbs, oversight of facial recognition tech",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/bias-claims-spur-debate-on-need-for-curbs-oversight-of-facial-recognition-tech/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/bias-claims-spur-debate-on-need-for-curbs-oversight-of-facial-recognition-tech/amp/",
+      "publishedDateTime": "2020-07-02T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api.md",
+      "title": "Raspberry Pi: Now computer-vision apps get boost with Khronos OpenVX API",
+      "excerpt": "The Raspberry Pi Foundation has announced it's bringing the OpenVX 1.3 API to Raspberry Pi devices to improve computer vision on the popular single-board computers. The new open and royalty-free API comes from the Khronos Group,",
+      "webUrl": "https://www.zdnet.com/article/raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api/",
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/02/6401a79a-c8f7-459b-a88d-9de3e85cfb53/openvx1.gif",
+          "width": 600,
+          "height": 371,
+          "title": "Raspberry Pi: Now computer-vision apps get boost with Khronos OpenVX API",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api/",
+      "publishedDateTime": "2020-07-02T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-the-organizations-positioned-to-lobby-against-a-us-ban-on-facial-recognition.md",
       "title": "The organizations positioned to lobby against a US ban on facial recognition",
       "excerpt": "Pressure on US lawmakers to create federal regulations on facial recognition has been mounting. Against that backdrop, industry groups have quietly lobbied to soften regulations and avoid an outright ban.",
       "webUrl": "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/",
-      "heat": 291,
+      "heat": 301,
       "tags": null,
       "images": [
         {
@@ -76,53 +161,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-experts-facial-recognition-will-be-everywhere-whether-you-like-it-or-not.md",
-      "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
-      "excerpt": "Facial recognition could soon become as commonplace as public Wi-Fi and security cameras. But with the advance of technology comes major ethical questions.",
-      "webUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?itm_source=34&itm_content=2x2&itm_term=2356592",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/us-technology-artificial-intelligence-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
-      "publishedDateTime": "2020-06-30T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1070,6 +1108,35 @@
       ]
     },
     {
+      "path": "_news/2020-06-18-ai-in-computer-vision-market-covid-19-impact-2020-future-development-manufacturers-trends-share-size-and-forecast.md",
+      "title": "AI In Computer Vision Market (COVID-19 Impact) 2020- Future Development, Manufacturers, Trends, Share, Size and Forecast",
+      "excerpt": "Global AI In Computer Vision Market Size, Status and Forecast 2020-2026 Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Global AI In ...",
+      "webUrl": "https://www.openpr.com/news/2076909/ai-in-computer-vision-market-covid-19-impact-2020-future",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2076909/ai-in-computer-vision-market-covid-19-impact-2020-future",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2076909/ai-in-computer-vision-market-covid-19-impact-2020-future",
+      "publishedDateTime": "2020-06-18T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-chinese-ai-researchers-based-overseas-sweep-top-awards-at-leading-computer-vision-conference-cvpr.md",
       "title": "Chinese AI researchers based overseas sweep top awards at leading computer vision conference CVPR",
       "excerpt": "At leading computer vision gathering Conference on Computer Vision and Pattern Recognition, Chinese researchers were behind both papers recognised as the best appearing at the event.",
@@ -1249,91 +1316,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says.md",
-      "title": "Amazon owes answers on facial recognition moratorium, lawmaker says",
-      "excerpt": "A House representative mistaken by Rekognition as a criminal is questioning CEO Jeff Bezos about Amazon's one-year pause on facial recognition.",
-      "webUrl": "https://www.cnet.com/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/LRqa-J9lGENDIqzrmO3X_JuHePE=/756x567/2020/01/17/24f77466-4cd0-4018-b436-90846e478c80/amazon-ces-2020-booth-2.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Amazon owes answers on facial recognition moratorium, lawmaker says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
-      "publishedDateTime": "2020-06-17T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-chinas-tencent-to-use-facial-recognition-to-curb-young-video-gamers.md",
-      "title": "China's Tencent to use facial recognition to curb young video gamers",
-      "excerpt": "Chinese tech behemoth Tencent has begun to use facial recognition to prevent minors from spending large sums of money while playing endless hours of video games.",
-      "webUrl": "https://www.upi.com/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/9361592407529/2020/1/3a6ff9b53599ae38e5b383e93adcfc17/v1.5/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers.jpg",
-          "width": 800,
-          "height": 532,
-          "title": "China's Tencent to use facial recognition to curb young video gamers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
-      "publishedDateTime": "2020-06-17T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -24,22 +24,6 @@ images:
     isCached: true
     title: "4 Ways that the Entertainment Industry is Harnessing AI for Growth"
 
-related:
-  - title: "How the Utility Industry is Employing AI"
-    excerpt: "Today, the utility industry is undergoing a major transformation owing to the use of AI. Fusing AI and Machine learning (ML), these industries have largely reduced the on-field workload. There are two major aspects of utilities where modern technologies are playing their major role."
-    publishedDateTime: 2020-06-29T18:39:00Z
-    webUrl: "https://www.cioreview.com/news/how-the-utility-industry-is-employing-ai-nid-31490-cid-244.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_H30EXwbP.jpg"
-        width: 705
-        height: 485
-        isCached: true
-
 secured: "E6iSqSgmHLbutTZ62tW/SNngvqOeC4HmFTbLHbv6FdVHhg3xti7fK6nAVT7ArsNTa2WDs/3sp0QCf5D6O90reJpCIGzFerUyxnup9Ji51QhB1poyQx452QtsAesDp/aU55JW0SgouLJBYkJS0nulG6x5u3o+nfoqjH2ZPwsyna4tJBcV6kpFPFGh5+n3KV7z0LD030dqVBo+C6sEWxcIUa/rZlMCKuWkWRQn3FS0ez1tZ/wlhByuXP7P1PYGkI9MkZ+sTQH9o/NKxtMiXIc8dSi7W7W1r6/TcAM0lpEYSjEf4fJ5x9VH4c5QW/2s5+zGUx/tpp44jJoecHdY02ICPQ==;TK3wa7DiU7gqrDYgbV702g=="
 ---
 

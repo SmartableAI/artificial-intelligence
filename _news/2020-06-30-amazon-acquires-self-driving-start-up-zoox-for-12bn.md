@@ -258,6 +258,15 @@ related:
       name: Seattle Daily Journal of Commerce
       domain: djc.com
     quality: 4
+  - title: "Video: Amazon acquires self-driving car startup Zoox"
+    excerpt: "Amazon said it will lead Zoox as a standalone business to drive the mission toward developing self-driving vehicles. In the video, Zoox demonstrates a one-hour fully autonomous dr"
+    publishedDateTime: 2020-07-02T12:52:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15380/video-amazon-acquires-self-driving-car-startup-zoox"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "ek7w5ZpoELxXYxa3lghFB95KI77pIdZVCHmKuPAvGyuJnKkstPq+nfrcy7Vq1hUFtAgT3h5e4sA+ELKgLtBVZyqiBKwWAzuznHxmp5l6lasIbz063xbuXR1QiFIrOFEQV1D7F6LPoWTi4ksfd0L4uAc8vQpv2oI0yiFtJw7WC2mLcaqzs3CzjhnboBq2k0r+YtWaSlIjVCkziZjwW4MVfW0dI9Gow+0UmrvUNgFNd74ZRxw+rprgSBxFH7R8qGMc6BNIWkB2veNIyOsK8ld4RFRndaZN1YL4c8xvhsjJA8BXeCl/UO4znDpiqTGFYJjUPHiBenVzQDKD7rYr0FArFg==;uVvXF+Af4ayxvPVo5/Pw2A=="
 ---

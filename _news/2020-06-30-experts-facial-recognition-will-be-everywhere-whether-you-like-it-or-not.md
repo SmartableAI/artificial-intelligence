@@ -3,13 +3,13 @@ category: news
 title: "Experts: Facial recognition will be everywhere, whether you like it or not"
 excerpt: "Facial recognition could soon become as commonplace as public Wi-Fi and security cameras. But with the advance of technology comes major ethical questions."
 publishedDateTime: 2020-06-30T15:15:00Z
-webUrl: "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?itm_source=34&itm_content=2x2&itm_term=2356592"
+webUrl: "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?itm_source=27&itm_content=1x7&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Digital Trends
@@ -23,13 +23,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/us-technology-artificial-intelligence-1200x630-c-ar1.91.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-    title: "Experts: Facial recognition will be everywhere, whether you like it or not"
-
-secured: "rp1a0/Szoudo3FGzfItZVXmqtjYEPPcQDifAJdWtSn5RCc7LT/rsHmZJgLWye8FYvKjmzMOB4thGNKt2TRog8Y7wkTvjAhkL9zIRtJXsOraEDLhCjVF6+HXZ4B5JCqSvczG+xKpo5N8A330qRZJPbEPeMAHfi0DZ2VABp2Kzn6oZiOQmTrX0fnrJ0igBGYsXyZdq95oy/SOSdrgwuvkAJx2px0XpStPcIllY74MujSOLQTxBEY9lSjGBBYbKfFDMXMUzVjiwmtQuLJ2F2tW0cXyPbtRmt1hX+Q9uklPZIkvCBYRNWzJqdmQp4YI8fB05WbLazQfxX7+y8dvlfe3Lnd5B42mlioJM8YsA1TZ354kakoTlq+q7TRkFnRTd/sW7ENZUQ4sgRVUQUfWwniGywnt71KWckVT61p/w35N0dWxP55tHnAB0J4Ao9KXQ876TEY6Oc5/ZsFoWgK1Es4u4Hkf7kAnXb2NGLOClTZqgWoYz3YDsB6TrmIPZPsZv5GOoUxaA2YfUCsQMSoe5qy5ryA==;vzymyis2RRA74gDNPjiXPA=="
+secured: "V+vujOm40HgRwbSgUFZCxOcO2DN0Lh4USogAtWKup2AFnxKBGAXfK32p3q4+LX27cy0Iln2HJ3tlQ/ji51BeP8AOtOzmAX40f+qiP2VpLH+kJywraMKL6efcyzXt9D4StvhvicldTXTNFAryDdcwKJpR2bp9KYlssDhUbC6ptMf/O5AJWFifqrkd2M+vhnjBKgA0jFaSR56+do2snkzVZoF4JbY3E2046iNAAlXjBo40ovmzsF3IcYfZCfQp3e9vdHwEs+FHDUqKxDOLMG9+w3dzCTcA8K0pPeXyIo1VUlumdZi48PqbiyMhbZpBSyITBdeaKps6YWw2odHH1IZhT1yjQdP6rQKhhocs4HEFdJfLIfSqUNqDZMg5JU4FwTNNRdKWBWLTWVvAUSSbdlPkEJhWIk6tD7e2KhuE8KGdzooeC83ZevIEIpIBKrZf6qvO+7KMyLJv2hGPzaMveYtpO48WKFT/Du4dOhdHFI6GfpEmdhuoexChN4anFjP7xg0We1Rn0WMqa0SomJJ95iujkA==;mHIG8/p+j0lismRJpNyg7Q=="
 ---
 

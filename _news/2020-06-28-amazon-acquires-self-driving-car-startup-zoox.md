@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startu
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true"
 type: article
 quality: 74
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -263,6 +263,15 @@ related:
     provider:
       name: Financierworldwide.com
       domain: financierworldwide.com
+    quality: 4
+  - title: "Video: Amazon acquires self-driving car startup Zoox"
+    excerpt: "Amazon said it will lead Zoox as a standalone business to drive the mission toward developing self-driving vehicles. In the video, Zoox demonstrates a one-hour fully autonomous dr"
+    publishedDateTime: 2020-07-02T12:52:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15380/video-amazon-acquires-self-driving-car-startup-zoox"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
     quality: 4
 
 secured: "m/rbn/Pzgz6QPHmKyikQ3i3xVkLTLZHCRYZT1sJoGwIXUcIyK4BU/DpnCtdgd3H6II/30KZ6PUkvPJyN4y0Xfa8TNUUWddLlt5LVb10Wy4LFMVyk8o1qTMrjrKgdQd2qUzGIm6FJwERGOs1/vAS2gxoOd3ET8yfrQ22ZHXx4UcH6i98db3s04t861MnqNtl2tW7mPbZGj3VZiatXbQz6jh0YODlNgWxIxPlEAI/f+fqgO7BCimH/mKa9k5bEzZKsTLhiszxw/wBKlV3IigKECQ6UqFicUGb5QZU9ekx456gKwwR7Pp3q1+x7715eMYaaM6N97ZSCT99wn1gYBKB9Iw3z/EO9N7v3P/D0uNUqJlDvH9tsXFwQm1AC/8Cb93XDj3t71dMccr4G2fORfO4q+LX5Ke+1DsWLnT64wYHZU6a/eTGy4+3o+XVVyoGchsUKBsERF+qeWSAqOaTXiVgEIntpMTFWRySAl0HFne+UgkqdiMtwZ0y6sD/ANstIUmzBpja3m/HBDtEAb3YpWPFsSQ==;/+TDZHCp9pcgxgV08NDqiQ=="

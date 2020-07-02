@@ -2,6 +2,168 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-06-15-how-the-trevor-project-is-using-ai-to-help-prevent-suicide.md",
+      "title": "How The Trevor Project is using AI to help prevent suicide",
+      "excerpt": "Suicide disproportionately affects LGBTQ+ youth. In the U.S. alone, more than 1.8 million LGBTQ+ youth between the ages of 13 and 24 seriously consider suicide or experience a significant crisis each year. Additionally, LGBTQ+ youth are over four times more likely to attempt suicide than their peers,",
+      "webUrl": "https://www.blog.google/outreach-initiatives/google-org/trevor-project/",
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Instagram-3O5A2895_rUpf6kg.max-1200x1200.png",
+          "width": 1200,
+          "height": 800,
+          "title": "How The Trevor Project is using AI to help prevent suicide",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/trevor-project/amp/",
+      "publishedDateTime": "2020-06-15T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-deep-learning-networks-track-up-to-100-animals-simultaneously.md",
+      "title": "Deep learning networks track up to 100 animals simultaneously",
+      "excerpt": "The trajectories described by this data were used to train a deep interaction network (bit.ly/VSD-DIN), a deep learning model that reasons how objects in complex systems interact, to support dynamic predictions and inferences about the abstract properties ...",
+      "webUrl": "https://www.vision-systems.com/boards-software/article/14176167/deep-learning-networks-track-up-to-100-animals-simultaneously",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vision Systems Design",
+        "domain": "vision-systems.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-perfectly-imperfect-coping-with-the-flaws-of-artificial-intelligence-ai.md",
+      "title": "Perfectly Imperfect: Coping With The ‘Flaws’ Of Artificial Intelligence (AI)",
+      "excerpt": "Is artificial intelligence (AI) perfect? What would be consider for them to be \"good enough?\" To be acceptable for people, AI has three big challenges to overcome: implicit bias, poor data, and human expectation.",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/15/perfectly-imperfect-coping-with-the-flaws-of-artificial-intelligence-ai/",
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee5934b3ff0e90006e3ccf6%2F0x0.jpg",
+          "width": 1199,
+          "height": 684,
+          "title": "Perfectly Imperfect: Coping With The ‘Flaws’ Of Artificial Intelligence (AI)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/15/perfectly-imperfect-coping-with-the-flaws-of-artificial-intelligence-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/15/perfectly-imperfect-coping-with-the-flaws-of-artificial-intelligence-ai/amp/",
+      "publishedDateTime": "2020-06-15T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-deep-learning-incorporating-biologically-inspired-neural-dynamics-and-in-memory-computing.md",
+      "title": "Deep learning incorporating biologically inspired neural dynamics and in-memory computing",
+      "excerpt": "Spiking neural networks and in-memory computing are both promising routes towards energy-efficient hardware for deep learning. Woźniak et al. incorporate the biologically inspired dynamics of spiking neurons into conventional recurrent neural network units and in-memory computing,",
+      "webUrl": "https://www.nature.com/articles/s42256-020-0187-0",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs42256-020-0187-0/MediaObjects/42256_2020_187_Fig3_HTML.png",
+          "width": 312,
+          "height": 243,
+          "title": "Deep learning incorporating biologically inspired neural dynamics and in-memory computing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-microsoft-azure-becomes-sass-preferred-cloud-platform.md",
       "title": "Microsoft Azure becomes SAS’s preferred cloud platform",
       "excerpt": "SAS goes all in on Azure as both conclude a strategic partnership covering go to market and product development. SAS analytics capabilities could be integrated across the Azure portfolio to provide an additional option for model lifecycle management.",
@@ -1088,177 +1250,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb.md",
-      "title": "The Brazil Tech And Innovation Round-Up: Covid-19 Data Reporting Controversy, Fake News Bill, Artificial Intelligence, Gympass, Airbnb",
-      "excerpt": "A selection of noteworthy developments around tech and innovation in South America's largest economy during the week ending June 12, 2020.",
-      "webUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee57bcb0813a30007224b80%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": "The Brazil Tech And Innovation Round-Up: Covid-19 Data Reporting Controversy, Fake News Bill, Artificial Intelligence, Gympass, Airbnb",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/amp/",
-      "publishedDateTime": "2020-06-13T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-facebooks-universal-music-translator.md",
-      "title": "Facebook’s Universal Music Translator",
-      "excerpt": "Star Trek has its universal language translator and now researchers from Facebook Artificial Intelligence Research (FAIR) has developed a universal music translator. Much of it is based on Google ...",
-      "webUrl": "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/05/universal_music_translation_fe1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Facebook’s Universal Music Translator",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-sd-times-news-digest-tensorflow-20-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings.md",
-      "title": "SD Times news digest: TensorFlow 2.0 beta, WSL2 for Windows insiders, and TIBCO’s new cloud-native offerings",
-      "excerpt": "TensorFlow, the open-source machine learning ... Polish-born and Long Island-bred, he is an Online and Social Media Editor for SD Times. He is also a Carnegie Hall pianist and music producer.",
-      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-tensorflow-2-0-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/06/FtFnqC38_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "SD Times news digest: TensorFlow 2.0 beta, WSL2 for Windows insiders, and TIBCO’s new cloud-native offerings",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-13-meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station.md",
-      "title": "Meet Arjun, the Robot Who Will Record Temperature of Passengers in Pune Railway Station",
-      "excerpt": "The Railway Protection Force unit of Central Railway has deployed a robot to thermally screen and record temperature of passengers at Pune station in view of the novel coronavirus outbreak, officials said on Saturday.",
-      "webUrl": "https://www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.india.com/wp-content/uploads/2020/06/arjun.jpg",
-          "width": 715,
-          "height": 402,
-          "title": "Meet Arjun, the Robot Who Will Record Temperature of Passengers in Pune Railway Station",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/amp/",
-      "publishedDateTime": "2020-06-13T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

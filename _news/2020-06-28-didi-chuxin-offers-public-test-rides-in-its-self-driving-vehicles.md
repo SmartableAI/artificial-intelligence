@@ -73,6 +73,22 @@ related:
         width: 650
         height: 396
         isCached: true
+  - title: "Self-driving trucking service launched from Phoenix, other Southwest cities"
+    excerpt: "The autonomous freight network's first phase, through 2021, will feature service between Phoenix, Tucson, El Paso, Dallas, Houston and San Antonio"
+    publishedDateTime: 2020-07-02T13:14:00Z
+    webUrl: "https://www.azcentral.com/story/money/business/tech/2020/07/02/tusimple-launches-self-driving-trucking-routes-phoenix-southwest-cities/3281064001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3281064001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3281064001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 42
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/06/29/PPHX/987d83bd-f754-41a4-960f-72a5d8e42e02-L4_AutonomousTruck_2.jpg?auto=webp&crop=1400,788,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Beijing opens more roads for testing self-driving cars"
     excerpt: "Beijing opened 52 additional roads on Tuesday in Haidian district, the capital's tech hub, for the testing of autonomous vehicles to push the speedy development of self-driving technology, local authorities said Wednesday."
     publishedDateTime: 2020-07-01T08:42:00Z

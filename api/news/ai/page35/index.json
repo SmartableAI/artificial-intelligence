@@ -2,6 +2,185 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-05-28-greyparrot-bags-22m-seed-to-scale-its-ai-for-waste-management.md",
+      "title": "Greyparrot bags $2.2M seed to scale its AI for waste management",
+      "excerpt": "London-based Greyparrot, which uses computer vision AI to scale efficient processing of recycling, has bagged £1.825 million (~$2.2M) in seed funding, topping up the $1.2M in pre-seed funding it had raised previously.",
+      "webUrl": "https://techcrunch.com/2020/05/28/greyparrot-bags-2-2m-seed-to-scale-its-ai-for-waste-management/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/2480600971_1c62bbb626_k.jpg?w=1024",
+          "width": 1024,
+          "height": 745,
+          "title": "Greyparrot bags $2.2M seed to scale its AI for waste management",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/05/28/greyparrot-bags-2-2m-seed-to-scale-its-ai-for-waste-management/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/28/greyparrot-bags-2-2m-seed-to-scale-its-ai-for-waste-management/amp/",
+      "publishedDateTime": "2020-05-28T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-this-start-up-is-adding-a-layer-of-ai-to-video-feeds.md",
+      "title": "This Start-Up Is Adding a Layer of AI To Video Feeds",
+      "excerpt": "Bengaluru-based Integration Wizards Solutions started with enterprise mobility, creating a platform that would allow for seamless communication across devices. While the computer vision solution is their latest offering,",
+      "webUrl": "https://www.entrepreneur.com/article/351200",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1590657051-20200110-1415551-min.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "This Start-Up Is Adding a Layer of AI To Video Feeds",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351200",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351200",
+      "publishedDateTime": "2020-05-28T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-baidu-releases-homegrown-quantum-machine-learning-toolkit.md",
+      "title": "Baidu releases homegrown quantum machine learning toolkit",
+      "excerpt": "Search giant Baidu has released a toolkit for machine learning that allowing researchers to build and train quantum neural networks. Why it matters: Tech giants around the globe have increased their focus on quantum computing.",
+      "webUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2019/10/BAIDU4.jpg?fit=1620%2C1080&ssl=1",
+          "width": 1620,
+          "height": 1080,
+          "title": "Baidu releases homegrown quantum machine learning toolkit",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
+      "publishedDateTime": "2020-05-28T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-ai-weiwei-has-turned-his-most-iconic-artworks-into-charity-face-masks.md",
+      "title": "Ai Weiwei has turned his most iconic artworks into charity face masks",
+      "excerpt": "The dissident artist is hoping to raise at least $1 million for vulnerable and displaced people impacted by the Covid-19 pandemic.",
+      "webUrl": "https://www.cnn.com/style/article/ai-weiwei-charity-masks/index.html",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200528145627-02-ai-weiwei-mask-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Ai Weiwei has turned his most iconic artworks into charity face masks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-charity-masks/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-charity-masks/index.html",
+      "publishedDateTime": "2020-05-28T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-element-ai-announces-collaboration-with-veritas-consortium-led-by-monetary-authority-of-singapore-mas.md",
       "title": "Element AI Announces Collaboration with Veritas Consortium led by Monetary Authority of Singapore (MAS)",
       "excerpt": "Element AI, a global developer of artificial intelligence-powered (AI) solutions and software, today announced a new",
@@ -1054,184 +1233,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-former-microsoft-ai-and-bing-chief-harry-shum-joins-fast-growing-startup-news-break-as-chairman.md",
-      "title": "Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
-      "excerpt": "Microsoft’s former top artificial intelligence executive, Harry Shum, has signed on as chairman of the board of News Break, the technology startup founded and led by former Yahoo engineering",
-      "webUrl": "https://www.geekwire.com/2020/former-microsoft-ai-bing-chief-harry-shum-joins-fast-growing-startup-news-break-chairman/",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Harry-Shum_Headshot-630x499.png",
-          "width": 630,
-          "height": 499,
-          "title": "Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/former-microsoft-ai-bing-chief-harry-shum-joins-fast-growing-startup-news-break-chairman/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/former-microsoft-ai-bing-chief-harry-shum-joins-fast-growing-startup-news-break-chairman/amp/",
-      "publishedDateTime": "2020-05-27T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker.md",
-      "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
-      "excerpt": "At re:Invent 2019, AWS shared the fastest training times on the cloud for two popular machine learning (ML) models: BERT (natural language processing) and Mask-RCNN (object detection). To train BERT in 1 hour, we efficiently scaled out to 2,048 NVIDIA V100 GPUs by improving the underlying infrastructure,",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/26/albert-nlp-6.gif",
-          "width": 1000,
-          "height": 580,
-          "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-27T09:00:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-lucidworks-announces-advanced-linguistics-package-to-improve-search-precision-for-global-companies-serving-asian-european-and-middle-eastern-markets.md",
-      "title": "Lucidworks Announces Advanced Linguistics Package to Improve Search Precision for Global Companies Serving Asian, European, and Middle Eastern Markets",
-      "excerpt": "Lucidworks now embeds text analytics from Basis Technology, the leading provider of AI for natural language processing. With the Advanced Linguistics Package, global organizations that support ...",
-      "webUrl": "https://www.asiaone.com/business/lucidworks-announces-advanced-linguistics-package-improve-search-precision-global",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/May2020/Intrado-GlobeNewswire-color-large-1200-800_4_298.jpg?itok=NgGuK6MB",
-          "width": 763,
-          "height": 509,
-          "title": "Lucidworks Announces Advanced Linguistics Package to Improve Search Precision for Global Companies Serving Asian, European, and Middle Eastern Markets",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/lucidworks-announces-advanced-linguistics-package-improve-search-precision-global?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/lucidworks-announces-advanced-linguistics-package-improve-search-precision-global?amp",
-      "publishedDateTime": "2020-05-27T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines.md",
-      "title": "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines",
-      "excerpt": "Scientists have developed a method of automatically detecting hidden landmines by using AI to scan images captured by drones",
-      "webUrl": "https://thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-53-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/amp/",
-      "publishedDateTime": "2020-05-27T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
