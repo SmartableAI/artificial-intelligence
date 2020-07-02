@@ -2,6 +2,195 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-05-22-microsoft-updates-windows-azure-tools-with-an-eye-on-the-future.md",
+      "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
+      "excerpt": "Build conference, Microsoft addressed some past missteps on development, while expanding its GitHub, Visual Studio, Azure, and Office platforms.",
+      "webUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/m/microsoft-/microsoft-updates-windows-azure-tools-with-an-eye-on-the-fut_m6h8.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
+      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future?amp=1",
+      "publishedDateTime": "2020-05-22T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40.md",
+      "title": "AI reconstructs Pac-Man just by watching it as game turns 40",
+      "excerpt": "The Nvidia GameGAN artificial intelligence recreated the game from scratch after ingesting 50,000 gameplay episodes of the classic game.",
+      "webUrl": "https://www.cnet.com/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/yQEmqA_2RjWodVpXtfPF4mainp8=/756x567/2020/05/22/8fcfffb0-d775-4f67-86be-9cf2467ea18d/nvidia-ai-pac-man.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "AI reconstructs Pac-Man just by watching it as game turns 40",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
+      "publishedDateTime": "2020-05-22T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay.md",
+      "title": "Nvidia teaches AI to create new version of Pac-Man just by watching gameplay",
+      "excerpt": "Nvidia researchers have used generative adversarial networks (GANs) to create a new version of Pac-Man that recreated without studying the game's code",
+      "webUrl": "https://thenextweb.com/neural/2020/05/22/nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay/",
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-50-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Nvidia teaches AI to create new version of Pac-Man just by watching gameplay",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/22/nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/22/nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay/amp/",
+      "publishedDateTime": "2020-05-22T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-google-will-stop-building-custom-ai-for-big-oil-and-gas.md",
+      "title": "Google will stop building custom AI for Big Oil and Gas",
+      "excerpt": "This report exposes how the three largest cloud companies — Amazon (33% market share), Microsoft (18%), and Google (8%) — are partnering with oil companies to use artificial intelligence ...",
+      "webUrl": "https://electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/05/Google-1.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "Google will stop building custom AI for Big Oil and Gas",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/amp/",
+      "publishedDateTime": "2020-05-22T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages.md",
       "title": "EGEB: Companies worth $2 trillion call for global green recovery packages",
       "excerpt": "This report exposes how the three largest cloud companies—Amazon (33% market share), Microsoft (18%), and Google (8%) — are partnering with oil companies to use artificial intelligence ...",
@@ -1033,185 +1222,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry.md",
-      "title": "Google says it won’t build new AI solutions for the fossil fuel industry",
-      "excerpt": "Google today confirmed it will “no longer develop artificial intelligence (AI) software and tools for oil and gas drilling operations ... [Read: Employees say Google cut diversity programs to make conservatives happy] If this is the start of Google and Alphabet extricating themselves entirely from working with big oil, it deserves a ...",
-      "webUrl": "https://thenextweb.com/neural/2020/05/21/google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Sundar-Pichai-Alphabet-Google-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Google says it won’t build new AI solutions for the fossil fuel industry",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/21/google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/21/google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry/amp/",
-      "publishedDateTime": "2020-05-21T15:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-gap-is-speeding-up-its-rollout-of-warehouse-robots-to-limit-person-to-person-contact-amid-the-coronavirus.md",
-      "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
-      "excerpt": "Gap Inc. is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic.",
-      "webUrl": "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ec6ecbf3ad861791b7c0226?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5?amp",
-      "publishedDateTime": "2020-05-21T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand.md",
-      "title": "Police trial controversial Clearview AI facial recognition tech in New Zealand",
-      "excerpt": "Clearview AI facial recognition technology once again made the news for crimefighting reasons, this time in New Zealand. But controversy persists.",
-      "webUrl": "https://techwireasia.com/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/",
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/05/063_1198303844-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": "Police trial controversial Clearview AI facial recognition tech in New Zealand",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/",
-      "publishedDateTime": "2020-05-21T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-nvidia-reports-308-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar.md",
-      "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
-      "excerpt": "Nvidia posted revenues of $3.08 billion for the first quarter ended April 26, up 39% from a year earlier as data center revenues soared.",
-      "webUrl": "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/",
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/Jensen-cooking.jpg?w=1200&#038;strip=all",
-          "width": 1116,
-          "height": 669,
-          "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/amp/",
-      "publishedDateTime": "2020-05-21T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

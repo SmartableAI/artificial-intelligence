@@ -3,9 +3,9 @@ category: news
 title: "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud"
 excerpt: "We congratulate our wise leadership on our unprecedented regional achievement & take pride in HBMSU’s leading position that supports UAE's competitiveness on global educational landscape” Mansoor Al Awar: “With our adoption of AWS,"
 publishedDateTime: 2020-07-01T11:31:00Z
-webUrl: "https://www.zawya.com/uae/en/press-releases/story/HBMSU_becomes_MENA_regions_first_educational_institution_to_migrate_its_full_systems_and_applications_to_AWS_Cloud-ZAWYA20200701110907/"
-ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20200701110907/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200701110907/"
+webUrl: "https://www.zawya.com/mena/en/press-releases/story/HBMSU_becomes_MENA_regions_first_educational_institution_to_migrate_its_full_systems_and_applications_to_AWS_Cloud-ZAWYA20200701110907/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/"
 type: article
 quality: 37
 heat: 37
@@ -42,6 +42,6 @@ related:
         height: 456
         isCached: true
 
-secured: "BoFwsfY/TacBGFL4YfgJYBPBj7Z7T6vUT7Mpvfs1ahlPlnAW6E58rJev5wACRLSCmC03x2ruX5Q2HuleNJgYK/YT5h9Ph8cIqbM/SMeE38LfmTafCJJ82Ch5o1DBle9hMBVD8paLQnn3y1D/yc1uhqL/nJHPQ5odBfcqYa3+EIzx5LDT5CIfdXnyyd0/zXF0dATgD53Hu9vZUlKf52ClYXX124bt3ZXoGIbEbaKCCi3GKYhii0WkyVbDy1p2CsUgEVjBtc+li17B+eQARCMjmZvGr4oq6rS1I3S/vvISjTVNZKxAunYtq46967cZzDMjxwhD8Qx7zgpk2fU+fvfEIQ==;G/GsNUMs8ZI42y2Da2erdA=="
+secured: "DcHzlRbqfoES8jShoX/lpucrZOVHxqXWJeTLuT4lvuIFmaPxuKog1aZh/TWSpVHDOOWwOcOto+l8hfZk0uaEFFeTQssPM1y9+NTQo0bmHcUc2/L3tbUbUBp9O4ajBMkkv9Os/Lj+RtipTZWafAY74DVkLGl6ydp4XMed55wgu98auF1lJUFKvcwyuqtXzFnmTEgjUwzBHFLt9EIVAH5AzW0+AXf5Cx+1cAes9NX8bwVulmuu42EHFkw71VNe/tYrnwD2kowIsAZc/P0bSDPFrCGEK52cZhC/gXnUxTIc0BLlkYAQC86EdfNb3AExN0SGXY1k7tlIE/W+jIBuiJr+NQ==;vM26GwS8DSyKsneg4T1VhA=="
 ---
 

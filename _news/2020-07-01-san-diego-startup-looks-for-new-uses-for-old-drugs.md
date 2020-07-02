@@ -25,6 +25,22 @@ images:
     isCached: true
     title: "San Diego startup looks for new uses for old drugs"
 
+related:
+  - title: "AI drug discovery startup strikes partnership with LEO Pharma"
+    excerpt: "Repurpose.AI, a San Diego-based drug discovery startup, struck a partnership with LEO Pharma to identify potential dermatology drug candidates. The startup searches through a library of drugs that have passed Phase I trials,"
+    publishedDateTime: 2020-07-01T23:53:00Z
+    webUrl: "https://medcitynews.com/2020/07/ai-drug-discovery-startup-strikes-partnership-with-leo-pharma/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2020/03/GettyImages-1139805930.jpg"
+        width: 789
+        height: 443
+        isCached: true
+
 secured: "ltTcGn3rinNA8Rx4JwK/iz38qHOYIcW/VGk3HzyE+lsmaMwXRKs+q+aytHscVrLKe6r4M486G45iSheTJG/nXXX8kTGhdkH5BiyhmLZeb5Vntw+PeXFXOjThLFXi57ejLM1wZyV6y6sL8YagSysfrJLIslzAzldpn6lHN/7Bmv5LYl+TcqXLlEt6eHeRkOdy9Sh/BPZ1oDGpH4LRT13zx9YF0htTudH8gmLBs7GGJwzEa46mIU89js/vcboFSv7CAcbZFLwX0qY4RJSa9T2b+YciFLi7DSsk7moZeRfqTaV5d3JlL12Xq6jTBZ648vxX+F/HoyYbqMcIRPaWN+N6OU5H0vpg/GkVLHR2aGy0KTzssgUf64MpJNp1q+/dWP5/2EErf04MgSnTLbNbDspW1PakvQhji/N12cgwzkzdIKf+VQ60D7TBr2ApO8upfy+gsQ+Tb7rgfdsgUYdluoSKiiAlAl/wb430Ur5tjMQU32oYxpaXXTyPAxRZTWWqN70IHhdxmCclAy5Ix4hpqGCEOA==;9J0JdIoOms9rBbwkvfkG6Q=="
 ---
 

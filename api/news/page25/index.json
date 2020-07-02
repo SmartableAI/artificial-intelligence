@@ -2,6 +2,175 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-06-11-clearview-ai-still-backs-facial-recognition-despite-competitors-concerns.md",
+      "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
+      "excerpt": "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse.",
+      "webUrl": "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
+      "publishedDateTime": "2020-06-10T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-the-4-types-of-future-companies-as-a-result-of-automation-and-ai.md",
+      "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
+      "excerpt": "Why AI and automation will create new types of companies in the future. The success of these companies will depend upon their use of AI, automation and self management",
+      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edf6e4ecb11580006fabd8c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5500%26cropY1%3D280%26cropY2%3D3375",
+          "width": 1199,
+          "height": 675,
+          "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/amp/",
+      "publishedDateTime": "2020-06-10T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-5-reasons-why-your-chatbot-needs-natural-language-processing.md",
+      "title": "5 Reasons Why Your Chatbot Needs Natural Language Processing",
+      "excerpt": "This is where Natural Language Processing (NLP) comes into the picture. Within the right context for the right applications, NLP can pave the way for an easier-to-use interface to features and ...",
+      "webUrl": "https://inc42.com/resources/5-reasons-why-your-chatbot-needs-natural-language-processing/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/inc42.com/wp-content/uploads/2019/06/nlp-social.jpg?fit=1200%2C628&#038;ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": "5 Reasons Why Your Chatbot Needs Natural Language Processing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/resources/5-reasons-why-your-chatbot-needs-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/5-reasons-why-your-chatbot-needs-natural-language-processing/amp/",
+      "publishedDateTime": "2020-06-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-speech-recognition-startup-uniphore-leverages-ai-to-ready-for-post-coronavirus-world.md",
+      "title": "Speech recognition startup Uniphore leverages AI to ready for post-coronavirus world",
+      "excerpt": "The need for automation is soaring amid the coronavirus crisis as BPO calls swell. Conversational AI startup Uniphore is tapping technology to change the way enterprises engage with consumers and build loyalty in the post-COVID-19 world.",
+      "webUrl": "https://yourstory.com/2020/06/speech-recognition-startup-uniphore-taps-ai-coronavirus",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/wordpress/2015/12/Yourstory-Uniphore.jpg?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "Speech recognition startup Uniphore leverages AI to ready for post-coronavirus world",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/06/speech-recognition-startup-uniphore-taps-ai-coronavirus/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/06/speech-recognition-startup-uniphore-taps-ai-coronavirus/amp",
+      "publishedDateTime": "2020-06-10T16:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-robots-usage-rises-amid-coronavirus-crisis-etfs-to-gain.md",
       "title": "Robots' Usage Rises Amid Coronavirus Crisis: ETFs to Gain",
       "excerpt": "The fund tracks investment results that correspond generally to the performance of the Indxx Global Robotics & Artificial Intelligence Thematic Index. Notably, the fund provides exposure to the performance of companies that benefit from the rising adoption of AI, robotics and automation. The fund has 37 holdings with AUM of $1.51 billion.",
@@ -916,176 +1085,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60.md",
-      "title": "AWS certification course bundle deal: Train to become a cloud pro for just $60",
-      "excerpt": "Since launching in 2006, Amazon Web Services (AWS) has become the premier on-demand cloud computing platform. Offering a wide range of APIs to companies, governments, and individuals on a pay-as-you-go basis,",
-      "webUrl": "https://www.zdnet.com/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/05/35c5ae5e-3009-4ea2-90ec-61584b9fe4ce/thumbnail/1200x675/4eaf54addf487f85eff01764ae49ab83/zdnet-aws.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AWS certification course bundle deal: Train to become a cloud pro for just $60",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
-      "publishedDateTime": "2020-06-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-loop-insights-launches-automated-contact-tracing-platform-to-support-covid-19-government-mandate.md",
-      "title": "Loop Insights Launches Automated Contact Tracing Platform to Support Covid-19 Government Mandate",
-      "excerpt": "Loop ' s solution ensures 100% accurate data collection via its proprietary IoT (Internet of Things) device, Fobi, and offers AI and predictive modeling. Reactionary time is vital for the management of Covid-19 outbreaks;",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/loop-insights-launches-automated-contact-tracing-platform-to-support-covid-19-government-mandate-1029296207",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/loop-insights-launches-automated-contact-tracing-platform-to-support-covid-19-government-mandate-1029296207",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/loop-insights-launches-automated-contact-tracing-platform-to-support-covid-19-government-mandate-1029296207",
-      "publishedDateTime": "2020-06-10T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-why-we-drive-takes-aim-at-self-driving-vehicles-and-other-threats-to-car-culture.md",
-      "title": "‘Why We Drive’ Takes Aim at Self-Driving Vehicles and Other Threats to Car Culture",
-      "excerpt": "Toward a Philosophy of the Open Road,’ author Matthew Crawford forms an argument for the feeling of power and possibility that can only be attained by taking the",
-      "webUrl": "https://observer.com/2020/06/why-we-drive-matthew-crawford-review/",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://observer.com/wp-content/uploads/sites/2/2020/06/WhyWeDrive.jpg?quality=80&strip",
-          "width": 300,
-          "height": 450,
-          "title": "‘Why We Drive’ Takes Aim at Self-Driving Vehicles and Other Threats to Car Culture",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://observer.com/2020/06/why-we-drive-matthew-crawford-review/amp/",
-      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/06/why-we-drive-matthew-crawford-review/amp/",
-      "publishedDateTime": "2020-06-10T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Observer",
-        "domain": "observer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-seeing-results-from-ai-even-during-covid-19-recession.md",
-      "title": "Seeing Results From AI, Even During Covid-19 Recession",
-      "excerpt": "By leveraging AI solutions, we can bring America back to its former glory, and instead transform the cause of sleepless nights from recession anxiety to the exhaustion of a memorable night out in the city that never sleeps.",
-      "webUrl": "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edf90b7fba0f200069291b4%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": "Seeing Results From AI, Even During Covid-19 Recession",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/06/09/seeing-results-from-ai-even-during-covid19-recession/amp/",
-      "publishedDateTime": "2020-06-10T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

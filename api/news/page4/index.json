@@ -2,6 +2,146 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-29-introducing-the-open-source-amazon-sagemaker-xgboost-algorithm-container.md",
+      "title": "Introducing the open-source Amazon SageMaker XGBoost algorithm container",
+      "excerpt": "XGBoost is a popular and efficient machine learning (ML) algorithm for regression and classification tasks on tabular datasets. It implements a technique known as gradient boosting on trees and performs remarkably well in ML competitions. Since its launch, Amazon SageMaker has supported XGBoost as a",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-the-open-source-amazon-sagemaker-xgboost-algorithm-container/",
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "Introducing the open-source Amazon SageMaker XGBoost algorithm container",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T06:49:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-this-ai-detects-political-affiliation-just-by-reading-tweets-about-covid-19.md",
+      "title": "This AI detects political affiliation just by reading tweets about COVID-19",
+      "excerpt": "A new AI tool has shown how fractured the rhetoric of politicians has been on COVID-19 by analyzing their tweets about the pandemic.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/29/this-ai-detects-political-affiliation-just-by-reading-tweets-about-covid-19/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-87-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "This AI detects political affiliation just by reading tweets about COVID-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/29/this-ai-detects-political-affiliation-just-by-reading-tweets-about-covid-19/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/29/this-ai-detects-political-affiliation-just-by-reading-tweets-about-covid-19/amp/",
+      "publishedDateTime": "2020-06-29T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-ibm-research-releases-differential-privacy-library-that-works-with-machine-learning.md",
+      "title": "IBM Research releases differential privacy library that works with machine learning",
+      "excerpt": "The open-source repository is unique in that most tasks can be run with only a single line of code, according to the company.",
+      "webUrl": "https://www.techrepublic.com/article/ibm-research-releases-differential-privacy-library-that-works-with-machine-learning/",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/ab340b3d-b283-4c37-a8e2-3e935ad2e1f9/resize/1200x/c8b23509f1bf1295de842ccc4200bb3f/istock-1225893654.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM Research releases differential privacy library that works with machine learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-research-releases-differential-privacy-library-that-works-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-research-releases-differential-privacy-library-that-works-with-machine-learning/",
+      "publishedDateTime": "2020-06-29T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing.md",
       "title": "Area 1 Security raises $25 million for AI tools to protect against phishing",
       "excerpt": "Area 1 Security, a cybersecurity vendor whose products leverage AI and machine learning to protect against phishing, has raised $25 million.",
@@ -276,7 +416,7 @@
       "title": "Eric and Wendy Schmidt back Cambridge University effort to equip researchers with AI skills",
       "excerpt": "Eric and Wendy Schmidt have donated to a Cambridge University program that is designed to equip young researchers with machine learning and artificial intelligence skills that have the potential to accelerate their research.",
       "webUrl": "https://www.cnbc.com/2020/06/29/eric-and-wendy-schmidt-fund-cambridge-effort-to-spread-ai-skills.html",
-      "heat": 78,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -602,7 +742,7 @@
       "title": "Chinese ride-hailing giant Didi Chuxing launches pilot self-driving robotaxi service in Shanghai",
       "excerpt": "Commuters can book free rides in Didi autonomous vehicles within designated areas in Shanghai’s Jiading District but human drivers still required on board for safety",
       "webUrl": "https://www.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self",
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1009,138 +1149,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-27-detroit-says-shoddy-work-led-to-wrongful-arrest-tied-to-facial-recognition-technology.md",
-      "title": "Detroit says 'shoddy' work led to wrongful arrest tied to facial recognition technology",
-      "excerpt": "A Black man wrongly arrested after the use of facial recognition technology will have his DNA, fingerprints and mugshot removed from files.",
-      "webUrl": "https://www.freep.com/story/news/local/michigan/detroit/2020/06/26/facial-recognition-wrongful-arrest-detroit-police/3265943001/",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/01/21/PDTF/7f37d006-521d-4d6e-b65c-51b641c9d880-IMG_detroit_police_car_1_1_.JPG?auto=webp&crop=533,300,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Detroit says 'shoddy' work led to wrongful arrest tied to facial recognition technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/3265943001",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3265943001",
-      "publishedDateTime": "2020-06-27T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-27-amazon-is-acquiring-self-driving-start-up-zoox.md",
-      "title": "Amazon Is Acquiring Self-Driving Start-Up Zoox",
-      "excerpt": "Amazon has announced that it is acquiring self-driving car startup Zoox in a deal estimated to be worth over $1 billion. Foster City, California-based Zoox has founded in 2014 and raised $955 million funding from investors,",
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/",
-      "heat": 264,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068",
-          "width": 1200,
-          "height": 676,
-          "title": "Amazon Is Acquiring Self-Driving Start-Up Zoox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/amp/",
-      "publishedDateTime": "2020-06-27T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-27-baidu-backed-maker-of-self-driving-vehicle-sensors-said-to-be-in-talks-to-go-public.md",
-      "title": "Baidu-backed maker of self-driving vehicle sensors said to be in talks to go public",
-      "excerpt": "Velodyne Lidar, in which Baidu and Ford invested US$150 million in 2016, makes radar-like systems used in autonomous vehicles.",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go",
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/27/019fd42e-b830-11ea-94a5-08ba74052128_image_hires_125654.jpeg?itok=1xTXJ5JH&v=1593233821",
-          "width": 1200,
-          "height": 630,
-          "title": "Baidu-backed maker of self-driving vehicle sensors said to be in talks to go public",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go",
-      "publishedDateTime": "2020-06-26T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

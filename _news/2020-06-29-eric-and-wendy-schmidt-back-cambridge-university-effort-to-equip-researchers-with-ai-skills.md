@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/06/29/eric-and-wendy-schmidt-fund-camb
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/29/eric-and-wendy-schmidt-fund-cambridge-effort-to-spread-ai-skills.html"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:

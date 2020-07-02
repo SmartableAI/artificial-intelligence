@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-h
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self"
 type: article
 quality: 76
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F6%2F0%2F0%2F27940064-3-eng-GB%2FCropped-1593271902photo.JPG?source=nar-cms&width=1600&height=900&fit=cover&gravity=faces"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Amazon buying Zoox to veer into self-driving tech"
-    excerpt: "Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
-    publishedDateTime: 2020-06-27T06:54:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/jun/27/amazon-buying-zoox-to-veer-into-self-driving-tech/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 24
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2020/06/27/resized_150246-1damazon0627rgb_54-29733_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
         isCached: true
   - title: "Didi Chuxin offers public test rides in its self-driving vehicles"
     excerpt: "China's ride-hailing giant Didi Chuxing began offering the public free, supervised test rides in its self-driving taxis in Shanghai on Saturday. People wanting to take a 20-minute ride can register online through the company's APP."

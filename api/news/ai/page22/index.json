@@ -2,6 +2,176 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-06-10-amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances.md",
+      "title": "Amazon Web Services (AWS) Gets More EPYC with AMD Powered Instances",
+      "excerpt": "AMD announces the availability of a new ECC instance on Amazon Web Services (AWS) that delivers high performance compute capabilities powered by their 2nd Generation EPYC processors.",
+      "webUrl": "https://techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techent.tv/wp-content/uploads/2020/06/AMD-AWS.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Amazon Web Services (AWS) Gets More EPYC with AMD Powered Instances",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/?amp",
+      "cdnAmpWebUrl": "https://techent-tv.cdn.ampproject.org/c/s/techent.tv/2020/06/10/amazon-web-services-aws-gets-more-epyc-with-amd-powered-instances/?amp",
+      "publishedDateTime": "2020-06-09T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techent.tv",
+        "domain": "techent.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-newport-llc-an-advisory-firm-serving-middle-market-companies-releases-guidance-on-building-fintech-banking-partnerships.md",
+      "title": "Newport LLC, an Advisory Firm Serving Middle Market Companies, Releases Guidance on Building Fintech-Banking Partnerships",
+      "excerpt": "Some online lenders are failing while other Fintechs and bank-Fintech partnerships are booming. Although the future is uncertain, digital services and data/AI will surely play increasingly critical roles in banking,",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/newport-llc-an-advisory-firm-serving-middle-market-companies-releases-guidance-on-building-fintech-banking-partnerships-1029294974",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/newport-llc-an-advisory-firm-serving-middle-market-companies-releases-guidance-on-building-fintech-banking-partnerships-1029294974",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/newport-llc-an-advisory-firm-serving-middle-market-companies-releases-guidance-on-building-fintech-banking-partnerships-1029294974",
+      "publishedDateTime": "2020-06-09T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-ibm-to-withdraw-from-facial-recognition-market-out-of-profiling-fears.md",
+      "title": "IBM to withdraw from facial recognition market out of profiling fears",
+      "excerpt": "IBM announced Monday that it's withdrawing from the general-purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,",
+      "webUrl": "https://www.cnet.com/news/ibm-to-withdraw-from-the-facial-recognition-market/",
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/2YCY2VYaqmWyBiu8wIF6yuDay-U=/756x567/2020/06/08/01fcb072-edca-4af7-b53a-86ac83be9b9c/gettyimages-11893847311.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "IBM to withdraw from facial recognition market out of profiling fears",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/",
+      "publishedDateTime": "2020-06-09T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-course-ai-900t00-a-microsoft-azure-ai-fundamentals.md",
+      "title": "Course AI-900T00-A: Microsoft Azure AI Fundamentals",
+      "excerpt": "This course introduces fundamentals concepts related to artificial intelligence (AI), and the services in Microsoft Azure that can be used to create AI solutions. The course is not designed to teach students to become professional data scientists or software developers,",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/certifications/courses/ai-900t00",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Course AI-900T00-A: Microsoft Azure AI Fundamentals",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T17:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-300000-facebook-content-moderation-mistakes-daily-report-says.md",
       "title": "300,000 Facebook Content Moderation Mistakes Daily, Report Says",
       "excerpt": "According to a just released report by NYU Stern, Facebook content moderators review posts, pictures, and videos that have been flagged by AI or reported by users about 3 million times a day. And since CEO Mark Zuckerberg admitted in a white paper that moderators “make the wrong call in more than one out of every 10 cases,",
@@ -1124,196 +1294,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-google-has-made-it-simple-for-anyone-to-tap-into-its-image-recognition-ai.md",
-      "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
-      "excerpt": "A lot of image recognition is about identifying patterns ... data to the frequency of specific brands of cars. Hopefully AutoML Vision will energize more projects like these.",
-      "webUrl": "https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/uuscxid9fobckrwjepfk.png",
-          "width": 800,
-          "height": 431,
-          "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131/amp",
-      "publishedDateTime": "2020-06-09T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-lyfts-ipo-banks-big-on-self-driving-cars-shits-on-its-e-scooters.md",
-      "title": "Lyft's IPO Banks Big on Self-Driving Cars, Shits on Its E-Scooters",
-      "excerpt": "While the company is bullish about self-driving cars, Lyft doesn’t try to sugar-coat the risks of its electric-scooter and bike-sharing operations.",
-      "webUrl": "https://gizmodo.com/lyfts-ipo-banks-big-on-self-driving-cars-shits-on-its-1832990301",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/g5e3ylh7zbeolkeyburt.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Lyft's IPO Banks Big on Self-Driving Cars, Shits on Its E-Scooters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/lyfts-ipo-banks-big-on-self-driving-cars-shits-on-its-1832990301/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lyfts-ipo-banks-big-on-self-driving-cars-shits-on-its-1832990301/amp",
-      "publishedDateTime": "2020-06-09T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-worlds-first-fully-bionic-mind-controlled-leg-goes-for-a-walk.md",
-      "title": "World's First Fully Bionic, Mind-Controlled Leg Goes for a Walk",
-      "excerpt": "The only difference is that one of his legs is a mind-controlled robot. Vawter is a \"test pilot\" for an Army-funded study on the latest in bionic limb technology. The leg that's been fitted to him ...",
-      "webUrl": "https://gizmodo.com/worlds-first-fully-bionic-mind-controlled-leg-goes-fo-1401152071",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/191culqr0ovixjpg.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "World's First Fully Bionic, Mind-Controlled Leg Goes for a Walk",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/worlds-first-fully-bionic-mind-controlled-leg-goes-fo-1401152071/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/worlds-first-fully-bionic-mind-controlled-leg-goes-fo-1401152071/amp",
-      "publishedDateTime": "2020-06-09T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-aspiring-intel-rival-graphcore-has-shipped-tens-of-thousands-of-ai-chips.md",
-      "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
-      "excerpt": "U.K. chip start-up Graphcore has leveraged relationships with Microsoft and Dell to ship chips to over 100 customers.",
-      "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143",
-          "width": 4328,
-          "height": 2906,
-          "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
-      "publishedDateTime": "2020-06-09T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     }
   ],

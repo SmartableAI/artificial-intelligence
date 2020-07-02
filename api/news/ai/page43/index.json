@@ -2,6 +2,193 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-05-19-microsoft-builds-massive-supercomputer-for-smarter-ai.md",
+      "title": "Microsoft builds massive supercomputer for smarter AI",
+      "excerpt": "The Azure machine has 285,000 processor cores and 10,000 GPUs to tackle a new class of artificial intelligence tasks.",
+      "webUrl": "https://www.cnet.com/news/microsoft-builds-massive-supercomputer-for-smarter-ai/",
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/TEkbzdFayDjsegaDhc8T7JF9qVI=/756x567/2018/11/10/97f08e96-4be4-41b1-acdc-43595379dfe1/llnl-sierra-supercomputer-randy-wong.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Microsoft builds massive supercomputer for smarter AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-builds-massive-supercomputer-for-smarter-ai/",
+      "publishedDateTime": "2020-05-19T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-google-halts-ai-tools-for-oil-industry-after-greenpeace-report.md",
+      "title": "Google Halts AI Tools For Oil Industry After Greenpeace Report",
+      "excerpt": "The move comes after the report detailed links between Google, Amazon and Microsoft and oil and gas companies.",
+      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/05/19/google-halts-ai-tools-for-oil-industry-after-greenpeace-report/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211427609%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Google Halts AI Tools For Oil Industry After Greenpeace Report",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/05/19/google-halts-ai-tools-for-oil-industry-after-greenpeace-report/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/05/19/google-halts-ai-tools-for-oil-industry-after-greenpeace-report/amp/",
+      "publishedDateTime": "2020-05-19T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-tesla-will-boost-its-full-self-driving-software-price-to-8000-in-july.md",
+      "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
+      "excerpt": "As the electric-car maker's driver-assist software package moves closer to being truly full self-driving, the company is raising its price.",
+      "webUrl": "https://www.fool.com/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
+          "attribution": null,
+          "isCached": true
+        },
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F575092%2Ftesla-full-self-driving-stock-news.png&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Tesla Will Boost Its Full Self-Driving Software Price to $8,000 in July",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/19/tesla-will-boost-its-full-self-driving-software-pr.aspx",
+      "publishedDateTime": "2020-05-19T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support.md",
+      "title": "Qeexo Named May \"Partner of the Month\" by Renesas for its AutoML Support",
+      "excerpt": "This honor reinforces Qeexo's methodology that pairing the Qeexo AutoML platform with a flexible MCU hardware platform is a strong value proposition for edge/endpoint processing. Qeexo's end-to ...",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/qeexo-named-may-partner-of-the-month-by-renesas-for-its-automl-support-1029216606",
+      "publishedDateTime": "2020-05-19T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-new-ai-from-deepmind-and-google-can-detect-a-common-cause-of-blindness.md",
       "title": "New AI from DeepMind and Google can detect a common cause of blindness",
       "excerpt": "DeepMind and Google Health have developed an AI that can predict who'll get one of the world's most common causes of blindness.",
@@ -1159,149 +1346,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-master-ai-machine-learning-with-this-discounted-training-bundle.md",
-      "title": "Master AI, Machine Learning With This Discounted Training Bundle",
-      "excerpt": "It's time to demystify AI, and The Essential AI and Machine Learning Certification Training Bundle is here to help for just $40.",
-      "webUrl": "https://www.pcmag.com/deals/master-ai-machine-learning-with-this-discounted-training-bundle",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00oJYHbcrtgk5RlvzX11jYC-1.fit_lim.size_1200x630.v_1589877302.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": "Master AI, Machine Learning With This Discounted Training Bundle",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-artificial-intelligence-ai-in-healthcare-market.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market",
-      "excerpt": "The latest 154+ page survey report on Global Artificial Intelligence (AI) in Healthcare Market is released by HTF MI covering various players of the industry selected from global geographies like ...",
-      "webUrl": "https://www.openpr.com/news/2051214/artificial-intelligence-ai-in-healthcare-market-may-set-new",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2051214/artificial-intelligence-ai-in-healthcare-market-may-set-new",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2051214/artificial-intelligence-ai-in-healthcare-market-may-set-new",
-      "publishedDateTime": "2020-05-19T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-the-role-artificial-intelligence-is-playing-in-the-fight-against-covid-19.md",
-      "title": "The Role Artificial Intelligence is Playing in the Fight Against COVID-19",
-      "excerpt": "As the economy begins the slow process of re-opening, advanced technologies such as artificial intelligence, machine learning, and natural language processing are playing a key role not only in monitoring COVID-19 outbreaks,",
-      "webUrl": "https://www.nasdaq.com/articles/the-role-artificial-intelligence-is-playing-in-the-fight-against-covid-19-2020-05-19",
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-google-ai-could-predict-eye-condition-behind-vision-loss.md",
-      "title": "Google AI could predict eye condition behind vision loss",
-      "excerpt": "The results, published in the journal Nature Medicine, suggest that the AI model, built in partnership with Alphabet subsidiary DeepMind and Moorfields Eye Hospital in Britain, could help doctors ...",
-      "webUrl": "https://www.sify.com/finance/google-ai-could-predict-eye-condition-behind-vision-loss-news-topnews-uftpa8jjdacfc.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "Google AI could predict eye condition behind vision loss",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
