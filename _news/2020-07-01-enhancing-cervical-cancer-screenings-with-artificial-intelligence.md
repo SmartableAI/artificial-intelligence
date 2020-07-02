@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T18:35:00Z
 webUrl: "https://healthitanalytics.com/news/enhancing-cervical-cancer-screenings-with-artificial-intelligence"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,31 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+
+related:
+  - title: "Artificial intelligence brings pancreatic cancer screening one step closer to reality"
+    excerpt: "Artificial intelligence (AI) holds promise for enabling earlier detection of pancreatic cancer, which is crucial to saving lives. The potential of AI is showcased in a study to be presented at the ESMO World Congress on Gastrointestinal Cancer,"
+    publishedDateTime: 2020-07-02T17:05:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-07/esfm-aib062620.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 30
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/235950_web.jpg"
+        width: 1440
+        height: 961
+        isCached: true
+  - title: "Can Artificial Intelligence Detect Early-Stage Pancreatic Cancer?"
+    excerpt: "Could artificial intelligence (AI) be used to identify patients with early-stage pancreatic cancer close to 2 years before the disease becomes apparent, and thus harder to treat?"
+    publishedDateTime: 2020-07-02T17:09:00Z
+    webUrl: "https://www.ajmc.com/focus-of-the-week/can-artificial-intelligence-detect-earlystage-pancreatic-cancer"
+    type: article
+    provider:
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 17
 
 secured: "BUSMFn+/UJNOuDuz7V3AKH7tVa5xg6z2Mz7m3k+KbbYYViIZI2v24ZYu+JQ8hZx3uTWDxRwJzszN5EQea/v9Es6qxglYSyNTrj4s77Y5BN+sLkkVuxoZZH2eHBvKFkzeL4HtYYebEw9BTO6IEHie9SAgS9ChHO2gyx/cGFHMVTlbG4DOORD79TNfQg/Vwzkaw6rcZyvnLP+rVZdmbvVA9BkAyuqlxnNveAQV6VuRIOqpt7MbMCLvV7Kvs9JwQs+Xrw0jbvI+LXkrGuNk7guQcjn2QGGHRUw4CMHceFiyObrAGsPpzXNKVXvnbN942Y0Vcm12VtHk/Q5x6FiC5JjMMd+nTNvg9IkeTmaqy9MS25Ww+48Rut+kk3q3rZZNc3wGC3MCZvQbgL+SGSH9k7Z/Z+1ulrrD6ndCuxtyd2dRTq/P+j/lrDh5PfMdt6XaxnOfo4/IntE5obIdNki6h2E8AdRvvbD3kYQI44XJtAXQxDfIJeHEoqhc5PdhJ7gyUGwrWB1/rAf9R9OnFDx1dGLljg==;2Aj+e0ukSpnGRiuYOiJlrw=="
 ---

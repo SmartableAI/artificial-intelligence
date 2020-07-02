@@ -26,22 +26,6 @@ images:
     title: "Why the racism in facial recognition software probably can’t be fixed"
 
 related:
-  - title: "Detroit Police Chief: Facial Recognition Software Misidentifies 96% of the Time"
-    excerpt: "In a public meeting Monday, Detroit Police Chief James Craig admitted that the technology, developed by a company called DataWorks Plus, almost never brings back a direct match and almost always misidentifies people."
-    publishedDateTime: 2020-06-29T17:11:00Z
-    webUrl: "https://www.vice.com/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
-    ampWebUrl: "https://www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 85
-    images:
-      - url: "https://video-images.vice.com/test-uploads/articles/5efa126c2093b800956fc9ee/lede/1593449761410-Screen-Shot-2020-06-29-at-125550-PM.png?crop=1xw:0.9864669421487603xh;center,center"
-        width: 2122
-        height: 1193
-        isCached: true
   - title: "Facial recognition software fails to correctly identify people '96 percent of the time,' according to Detroit's chief of police"
     excerpt: "Facial recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief."
     publishedDateTime: 2020-06-30T15:48:00Z
@@ -80,22 +64,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/42342f6796f92cddecf7d8032ec25edb_L.jpg"
         width: 620
         height: 465
-        isCached: true
-  - title: "Police and Crime Commissioner says public consent needed for any use of live facial recognition technology in Kent"
-    excerpt: "Police say mooted trials have not taken place and the commissioner insists support of the public is vital before any system is rolled out."
-    publishedDateTime: 2020-06-29T17:23:00Z
-    webUrl: "https://www.kentonline.co.uk/maidstone/news/facial-recognition-tech-needs-public-consent-229508/"
-    ampWebUrl: "https://www.kentonline.co.uk/maidstone/news/amp/facial-recognition-tech-needs-public-consent-229508/"
-    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/maidstone/news/amp/facial-recognition-tech-needs-public-consent-229508/"
-    type: article
-    provider:
-      name: Kent Online
-      domain: kentonline.co.uk
-    quality: 37
-    images:
-      - url: "https://www.kentonline.co.uk/_media/img/F5AAKEO0ZBINYPPKQSG8.jpg"
-        width: 618
-        height: 425
         isCached: true
 
 secured: "wY0XbAvKlJIcNjgIfRWSQuk0WM2aYuJi+GOXzl8jnaEKyjgyUYdgoyn+p1D5kWRsubYguaf1VUL/sm5TzgO/6znKM5z3JC0m5VKSwD1JWF0qw2NgAJseEGbyL6ZBAPuVgIajuW28cZJ3dvW9YV5Ca/plt4Y42F95sWsC+Wz2uuiggg8Rejwwio4zooBWzqQrgWFP14AhWWH2ly9MylNyjD7mD7hIpZZno0P/PGUHUQCXiAe6iTR4bqgs6qqirHmkdzl6gB/H5nuKbD+1jPQ4mo4NXCLhsczhdT2mrUrJzgS+i/x/r7OSudx1hsZKNBoF5KgLZiA4lF4Ou0cGOjmFTAdUFUolEEs6UO8DaD56ioF6sW/QmHSTKPRbyN2mhGt7Gd/1wUk2nkO225qJw5tJ0XNMjTlLhcdX2SoUsXpSOaQsl0JLZw5Jd/7yYbXoNonh76z8YkSpVmDkoNIi5peVnY+UUllDZMsl2SnQ2wJ+BTfqsHoNwotG65Gbpey5GUxJ9Z9fh7CyCxObffTD5z+17Q==;2Udb7zojS0/+fQNRco+2Og=="

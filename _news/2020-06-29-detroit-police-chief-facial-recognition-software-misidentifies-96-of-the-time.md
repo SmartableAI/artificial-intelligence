@@ -8,8 +8,8 @@ ampWebUrl: "https://www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-f
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
 type: article
 quality: 85
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: VICE
@@ -31,74 +31,37 @@ images:
     title: "Detroit Police Chief: Facial Recognition Software Misidentifies 96% of the Time"
 
 related:
-  - title: "Facial recognition software fails to correctly identify people '96 percent of the time,' according to Detroit's chief of police"
-    excerpt: "Facial recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief."
-    publishedDateTime: 2020-06-30T15:48:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
+  - title: "My Invisalign app uses machine learning and facial recognition to sell the benefits of dental work"
+    excerpt: "Align Technology's Chief Digital Officer Sreelakshmi Kolli is using machine learning and DevOps tactics to power the company's digital transformation. Kolli led the cross-functional team that developed the latest version of the company's My Invisalign app."
+    publishedDateTime: 2020-07-02T13:57:00Z
+    webUrl: "https://www.techrepublic.com/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 94
     images:
-      - url: "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg"
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/07/02/e10d0e71-25ac-478a-860a-296fb2b1a2e0/resize/1200x/fa952c92b39946fdcbc676d984647dc5/istock-1150345648.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "ACM calls for governments and businesses to stop using facial recognition"
+    excerpt: "ACM, one of the largest computer science orgs in the world, today called for the halt of facial recognition use by governments and businesses in the U.S."
+    publishedDateTime: 2020-06-30T23:49:00Z
+    webUrl: "https://venturebeat.com/2020/06/30/acm-calls-for-governments-and-businesses-to-stop-using-facial-recognition/"
+    ampWebUrl: "https://venturebeat.com/2020/06/30/acm-calls-for-governments-and-businesses-to-stop-using-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/acm-calls-for-governments-and-businesses-to-stop-using-facial-recognition/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Detroit police chief cops to 96-percent facial recognition error rate"
-    excerpt: "Detroit's police chief admitted on Monday that facial recognition technology used by the department misidentifies suspects about 96 percent of the time. It's an eye-opening admission given that the Detroit Police Department is facing criticism for arresting a man based on a bogus match from facial recognition software."
-    publishedDateTime: 2020-06-30T16:12:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/06/detroit-police-chief-admits-facial-recognition-is-wrong-96-of-the-time/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 49
-  - title: "Why the racism in facial recognition software probably can’t be fixed"
-    excerpt: "It’s been proven that facial recognition software isn’t good at accurately identifying people of color. It’s also known that police departments around the country use facial recognition tools to identify suspects and make arrests."
-    publishedDateTime: 2020-06-29T10:05:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/facial-recognition-software-racism-people-of-color-wrongful-arrests-algorithmic-bias/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 41
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2020/06/fr-ft-img.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Detroit coppers admit that facial recognition systems are useless"
-    excerpt: "But they have used them against Black people anyway Detroit police have used highly unreliable facial recognition technology almost exclusively against Black people so far in 2020, according to the Detroit Police Department's own statistics."
-    publishedDateTime: 2020-07-02T09:59:00Z
-    webUrl: "https://www.fudzilla.com/news/51106-coppers-admit-that-facial-recognition-systems-are-useless"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/42342f6796f92cddecf7d8032ec25edb_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "Police and Crime Commissioner says public consent needed for any use of live facial recognition technology in Kent"
-    excerpt: "Police say mooted trials have not taken place and the commissioner insists support of the public is vital before any system is rolled out."
-    publishedDateTime: 2020-06-29T17:23:00Z
-    webUrl: "https://www.kentonline.co.uk/maidstone/news/facial-recognition-tech-needs-public-consent-229508/"
-    ampWebUrl: "https://www.kentonline.co.uk/maidstone/news/amp/facial-recognition-tech-needs-public-consent-229508/"
-    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/maidstone/news/amp/facial-recognition-tech-needs-public-consent-229508/"
-    type: article
-    provider:
-      name: Kent Online
-      domain: kentonline.co.uk
-    quality: 37
-    images:
-      - url: "https://www.kentonline.co.uk/_media/img/F5AAKEO0ZBINYPPKQSG8.jpg"
-        width: 618
-        height: 425
         isCached: true
 
 secured: "vG+4cegwVNwNzOqQA2fUYC4EG2loRQnBRpfOTNCiZdY1D5Spf0t724IbEKhPt/UFKz+TXI61AFSWIXpZS2s5mmLydC76HL/EWEbXIeufr+es02MmtC/6LoIowiy1EpGjeyn9EAFB9E1k5Adn31ErReStnfbiRVtcFfSoTBZhyJIzAf/VpRcQcF5IeRO4amnTM/HWrLm089pY3/MAyA34DZWcifNQ9Zq/CHodE9d/DNv1tHIssD3bHzC/Slmj2JzeJMABUxVkLcTqKqQ0TSB+wvrQ/zBon1HT5JQNWCKif/iORghgaPnEdz5OYL54sKbglnRfJGBaSL49bwnrqf4RioZiDm6Y/CCJ0gmC4LuCQSKtibuKRghI4qI2GY8z754kwNRHomfDrhDW6uSZ1otk8fzVBsjvLpICzMrB2qxqLdGtk67jzvwZEcg+9hOeQaRW1LkN+i0x5qNhxiCp1yCQ3Bv+BowFC+sSe5KAzGPBnhWiCYcvt4zPq4KfeUTPkUl8;TNJUBrrXC5Xblt9wXp9X5Q=="

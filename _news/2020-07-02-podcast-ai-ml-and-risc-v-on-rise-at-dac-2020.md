@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Podcast: AI, ML and RISC-V on rise at DAC 2020"
 
-secured: "RsY+dmmcpgc4A+BHF/m7Ud8m2lFP51fa/bLKulf1vakpN7Djon9ljNWi2g4J7Ey6Gpn24K+TjHqXTO6xIiR4ZMArjIduJBtvuNDTpQUkDxKCkQNZkwJFv687olbqXgbNRFXJvAPMncJADXeJHmulWOvTerEX7GYEGDBFAeLGy/2wF582AUNdx1CEiIjbCCc2wQlZnpghQpidEvICLTdzdZZaYgcoS4wZosme4X+4/BHdNXUTKzcJSvRygvWrPYCISoeAMHQRNTwADL9ajZLdldn8y1DU0n6nw0cwo2RTNJQ+4/dEe27p/mBuL9fbgYMPyqsE39jatDA73eqzVkdXnw==;g6OcaFNjrYzlQbBry/cUAg=="
+secured: "Ly9XKBtAmlFaDHQNkMNyUjnZMJVE5qZdSRl4vPsudsrzA+9FJjDLwXfgZl56Jyn3MMw4j/VtOnczq6ze2R+kubrH1EJri+Fac++i+NwXITl7r/SOd11dE3KPPmJQD4s0SgIYHEbdq056psOHVfqGd4nP3QxroubjJJqYkt4vxY2iwgi11VfVJrjAZDPcZ/OO8D9Cd6ySen5P2kS8rlcrs7QaGOlHWVPEu1MFmnQ8NLVm6jVrGQAnoEGqwh9t1kg0T5sdB/ruYMkwN/A2AdfEscnyVD9HfOyXbH20Uilcwlx9HX2W9pjy8uyHSAjXnQSi9nX9vtFisf/4uW8d4r//JMcEK8AJ6KxrHe80TzYyonFbINjh2J4Dr+qmulfV/qwqv4Q4mxc0M9Y/jEyw31cCGYCEAvgcsW+CG9hfeNXHTmlt/XzyB5rDSUR+dIdENquRJl7zSMVDxUQibm49S6znTCQNDmOERXFg3ImydJO/P/9tkCczAwqW6yoW5NF9SQpM/6TtD5kSvY/v99iU//0m8A==;9WKsCAdE5Z0pduNqXIqgUw=="
 ---
 

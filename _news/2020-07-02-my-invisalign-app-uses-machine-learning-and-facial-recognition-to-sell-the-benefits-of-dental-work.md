@@ -7,9 +7,9 @@ webUrl: "https://www.techrepublic.com/article/my-invisalign-app-uses-machine-lea
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/"
 type: article
-quality: 77
-heat: -1
-published: false
+quality: 94
+heat: 114
+published: true
 
 provider:
   name: TechRepublic
@@ -23,6 +23,7 @@ topics:
   - Natural Language Processing
   - AI
   - Computer Vision
+  - Machine Learning
 
 images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2020/07/02/e10d0e71-25ac-478a-860a-296fb2b1a2e0/resize/1200x/fa952c92b39946fdcbc676d984647dc5/istock-1150345648.jpg"
@@ -48,7 +49,23 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Detroit Police Chief: Facial Recognition Software Misidentifies 96% of the Time"
+    excerpt: "In a public meeting Monday, Detroit Police Chief James Craig admitted that the technology, developed by a company called DataWorks Plus, almost never brings back a direct match and almost always misidentifies people."
+    publishedDateTime: 2020-06-29T17:11:00Z
+    webUrl: "https://www.vice.com/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
+    ampWebUrl: "https://www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 85
+    images:
+      - url: "https://video-images.vice.com/test-uploads/articles/5efa126c2093b800956fc9ee/lede/1593449761410-Screen-Shot-2020-06-29-at-125550-PM.png?crop=1xw:0.9864669421487603xh;center,center"
+        width: 2122
+        height: 1193
+        isCached: true
 
-secured: "D0tn82UP+XkeCvZNDpfFEniVGNH9mFkVFz9TpUI4x6K5LugvjOwAfHcH8Zflk2Ts5UJB2Swa6xjMl1TCpdWbgqpib/RRwts9cSfnslO1k/ddSUgAr8tMOeRCv6XZP1vu87vSdugKbr1DfdS6a5UH4TaP2+uiNOmmx1ajtd3XGE+BkiQpMOHDA9/o0KgGi+6Z1wR7O/fBUNrnOEKanPKoPoBYnBYIPqd4lKvQLAfZ4/9hq2LMMV+ARv66DQaPX2/nVK/lJxJWgCk1yEyqCEAm76zTj+IY8Ksv74ibYH0payvOPkR0Gs93njpdOUTr0GKUhbAw+Cxvy/7+lR+7XwzXcw==;wugLeY2UJmi/9SCRYHjLIA=="
+secured: "ZVXQXv0Tlnjl/Qc44ax7hA9pErwYR3tIOCRJK9MlPzXvJykmy6AkO9LIK4oHeee/e3Aa6PVuzP4Hymw3LFeS7lIwvtgsVCQczvmfLmpM864zOF78UuA/NiZNZEKJ2TdLxqkDcVbM287zqtsB/Y8n86nmBiqI+fWT2zMAkiAhVE7py0gZv37sulJprbpZhiOBcqRpHvXT3artkOkIMXFuAfMPk6Izt43ZhNWiKZYZk+6HoXxbyTwxTg26wPLg6tVMRrtLRzd1k0Gh6QougcLJsq7gAkVDIOiiVpSwhrcBmveazIQ7AmvyKO04b63PPcjx0003RAhe+cZNxuaFtQgyllHDUWJRNzWuL06gX2rG9Mgbxm1V8zdfkt/ezfBHA78F8zOnGlJIvCGzfndfblGs3iDGdkavoLaYQeusheO3M5FUzrynVVYbgRQQC0MlWmLksydOjS527vGcSKFKz9Ccme0oLQ7m9qeR7NLtTiAL72Uhx1VGwuejWcgpSRPs/su05bgCcYtO0G0Cxu11PBzi5g==;Me/yFcgnMlXVbDJjvhRKRQ=="
 ---
 

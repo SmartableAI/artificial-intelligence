@@ -50,17 +50,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "Amazon Looks to Self-Driving Future by Acquiring Zoox"
-    excerpt: "Amazon says it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will pull up without a driver."
-    publishedDateTime: 2020-06-27T23:07:00Z
-    webUrl: "https://www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox"
-    ampWebUrl: "https://www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/washington/articles/2020-06-26/amazon-looking-to-the-future-of-ride-hailing-will-buy-zoox?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
   - title: "Amazon to takeover self-driving start-up Zoox for over $1bn"
     excerpt: "Amazon.com has agreed to pay over US$1-billion to buy self-driving start-up Zoox, The Information reported on Thursday, citing sources"
     publishedDateTime: 2020-06-28T10:45:00Z
@@ -141,15 +130,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Amazon Agrees to Buy Self-Driving Technology Startup Zoox"
-    excerpt: "The world's largest online retailer has stepped up its investment in the car sector, participating in self-driving car startup Aurora Innovation Inc's $530 million funding round early last year. While Amazon and Zoox did not disclose the financial terms of the deal,"
-    publishedDateTime: 2020-06-27T23:08:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2020-06-26/amazon-agrees-to-buy-self-driving-startup-zoox-for-over-1-billion-the-information"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
   - title: "Amazon’s Zoox Purchase Says a Lot About the Future of Self-Driving Cars"
     excerpt: "Way back in 2018 my colleague Ashlee Vance profiled the founders of the startup, which had raised hundreds of millions of dollars to put self-driving robotaxis on public roads by 2020. It was a concept that seemed tantalizingly possible back then—its competitors included Alphabet Inc."
     publishedDateTime: 2020-06-29T10:45:00Z

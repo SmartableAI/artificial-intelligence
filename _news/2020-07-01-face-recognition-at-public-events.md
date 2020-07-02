@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T00:38:00Z
 webUrl: "https://www.thestar.com.my/news/nation/2020/07/01/face-recognition-at-public-events"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Huawei Mate 40 Pro Could Have 3D Face Recognition For Payments"
+    excerpt: "The Huawei Mate 40 Pro is rumoured to come with 3D face recognition for payments as reported by Gizmochina. The world's largest smartphone maker is"
+    publishedDateTime: 2020-07-02T16:04:00Z
+    webUrl: "https://www.androidheadlines.com/2020/07/huawei-mate-40-pro-could-have-3d-face-recognition-for-payments.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/07/huawei-mate-40-pro-could-have-3d-face-recognition-for-payments.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/huawei-mate-40-pro-could-have-3d-face-recognition-for-payments.html/amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 59
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2020/03/Huawei-Logo-Red-AH-Resized-2020.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "KipleLive contactless and face recognition platform ideal for large events"
     excerpt: "Green Packet Bhd’s KipleLive contactless and face recognition platform was deployed at the “Pasca PKPP Sektor Pelancongan” seminar held yesterday, which was one of the first few live events to be conducted since the movement control order (MCO)."
     publishedDateTime: 2020-07-01T00:05:00Z

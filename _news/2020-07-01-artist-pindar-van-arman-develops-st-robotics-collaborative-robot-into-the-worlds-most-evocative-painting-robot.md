@@ -2,28 +2,21 @@
 category: news
 title: "Artist Pindar Van Arman Develops ST Robotics' Collaborative Robot into the World's Most Evocative Painting Robot"
 excerpt: "The ST R17 HS robot, mounted with a camera on its arm and a paint brush in its gripper, uses its array of more than two dozen artificial intelligence algorithms to paint sets of curated portraits. The finished paintings are then critiqued by the robot ..."
-publishedDateTime: 2020-07-01T14:02:00Z
-webUrl: "https://www.prnewswire.com/news-releases/artist-pindar-van-arman-develops-st-robotics-collaborative-robot-into-the-worlds-most-evocative-painting-robot-301086909.html"
+publishedDateTime: 2020-07-01T15:09:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artist-pindar-van-arman-develops-st-robotics-collaborative-robot-into-the-worlds-most-evocative-painting/article_7bd6aa92-0107-5b3e-bd0d-ac18d81d72ea.html"
 type: article
-quality: 48
-heat: 48
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1199087/ST_Robotics.jpg?p=facebook"
-    width: 932
-    height: 489
-    isCached: true
-    title: "Artist Pindar Van Arman Develops ST Robotics' Collaborative Robot into the World's Most Evocative Painting Robot"
-
-secured: "y7hYU0zMiVIBg206VZ0vvUu7CgudKVRMRw8makrrTEDQgpBQ+u56wc6QIuw++OncNs+Fq5GoE6U4fiKO8RGgvj1R0gmcbBew7+kZ3vkjS4o3eXC2Xb5baRV4uoiOO36YF6AHqADamQKN3ftbj67K7UU3FFiT2F4KI3k174aqF9Fu30R5GKIRC7dbVVITYtcQsIJmsNs40BAqzFBY9B2qMUUZpcr7rh+Ae+b3hCuZw7xEKMuBF+f/2CXdb/cdThfIKLsJfKGPmGqobdozgjUHaXopKiB2Yb0TDQxyHPRGSMKKXFnEl/7Di+IUGpbfpXmHj6zJR807ug1k0eni6nrJWl3Q2WpaYNjvw/mC6/CEJtDHp+c9+lNOn7GuhagXOKMozPSmSJ6GoLHd8fre8LV12i3d4Zxh9mdb9RcBLqueB7T3Cphry4LuOlzWkl4VajGP69HuvR0yWmLsE8ilb4SqDw044D/SfHlxWJTiLdlFzNEc/EOjdAU6KxEL40whBvJKjaFwwTi9yirNsRSx050Gfg==;RsYnVGDE3x5duAf+IvluNg=="
+secured: "0S6WjQm+6kC0L0Z7w8JujO6oPI/xo2q3yYM1MNcsCVMwBoP6XpUlOtOUB+yU2Ey/V41aAzJMML6ew951J5ln1gWylRu+2DlAJ5qgu1+phWvhtApDjEd7q0yfVpknnp3JpldCVG5Wx+PAk6XH9jE6OlpMYGJVsqz9cRGhQCs1LTXY6c3S6+0APnCkDUmgGnsbIraVtPDsXQPdt8ESBVsDOecsBGXHPYuATMyX83Hw2AkviOmQnbRQfDOzwmTYbTnjXb7oXkwfdxEeYZg8bi4w8PnDcWRjnftiCFdWZKkW2H3D8EzUBiqlvJsJKq3noPDUots/7lhsUYeN7ECJHNatwOG0jugebi8ZDITpVFD7LWsqeGXwOSdPUouPajwAUKsZbK9VkU2x78JGdMZFbGnM80v4pEhJaIk5gpSz45U2ywOMk0o7tiFi/32biCJQrWE16VEItNJ9aDyClpSxwdIOp2BneFmP7ByXHp8+hGOFNbrm21mTieUrNoH2uqZQ2TuV1jHUausY6JR+klfVKrT9ZQ==;SeZgYQCHmhJ9vxu/59nF1w=="
 ---
 
