@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "insightengines"
   url: "https://twitter.com/insightengines"
-  followers: 230
+  followers: 231
 
 locations:
   - Norway
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=iD4tlJ-ECZo"
 
-secured: "rjrAoePOblg7YF60RobyM1FnpvRc/b64mzmmbuRxSEimeldyfYj9JXoBRVvqg4ESZ5PE+S/uW4EU3dZPVmPQNrUd+npHa7et9CU9iniuvWV7OkWpYgorDUj8E/8+HRyGsy+A9vWRSGEtHggcV+7P3XLLqgFmcet7kYzXXsGmRH1rjcHJjBC3U+A8xqcJXhZV3Q+esoe09ea5d4za5IWHjULNviR3Wy6555HzDHjtmGvKoZEdz/JlE1/I9N9nmXzBoF0wmT1NsvVvxQ+WvKMmJYSzfOMkRKRxEEklYP0AQ+APQGWKg6ARjrNmkJFasyhiVeaAhgM4WT6gFcd7fAbak+yxbEn2WBiVHXxZJDalPGyAuIZHqYh5sswrgw1+CHNW;Gd2F6kU++5c/E+QFLtl87Q=="
+secured: "LvsC92t+i2w24hZyXez0FEPv4WlZinDPQixQ/cV9jzos+eAMRMG+1M7JdLCozFsGpgqVQjUPd0jnq5odaASVJIn9qwjF9VpxdEs6tCaj/RMx67WY4yVuNG1GxO69nUr+s2im7p0sIV2S33eVQA9JqBvm3RQR7NOc7CI7fGJlwrtt3ZzgwwDtOotjA5dpEcX0m8r+KWwe4MlazMAbnypCl4ai9ZltR9xF5kOKFHjmkV9XoflFTC80Ylr3konbIwYAj6HuUUXfLvDvXz/QZWMMC0e/JKeq5G3ee4YHjuA8kCmJnM+qER7mpgs/TF0q8fdywyeIITBD8WVacmmEKnoGkv5swUZP/mnCcZgAXx/FCKAzC4qQ6qaNMU/nr5JxPlVc;mkoDFF4V8bDNfp5ILOrCzg=="
 ---
 

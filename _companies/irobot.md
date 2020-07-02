@@ -2,7 +2,7 @@
 name: "iRobot"
 overview: "We are the leading global consumer robot company, designing and building robots that empower people to do more, both inside and outside of the home. Founded by MIT roboticists who had the vision of making practical robots a reality. To date, we have sold over 20 million robots and globally employ more than 900 of the robot industry’s best and brightest. iRobot is committed to fostering invention, discovery and technological exploration in the pursuit of practical and valuable robot products for the home. iRobot stock trades on the NASDAQ stock market under the ticker symbol IRBT."
 type: "profile"
-heat: 149
+heat: 32
 
 website: https://www.irobot.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "iRobot"
   url: "https://twitter.com/iRobot"
-  followers: 37784
+  followers: 37779
 
 size: 501-1,000 employees
 yearFounded: 1990
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "iRobot"
 
-secured: "/sYwIInCGqhkiU6YFkcjOIkz6sR0b2cr/E46JtVTIt2d6ketdtW7kbb0q1+uY15wlcL9CReR/nDhg0jUjNDnRWgyBBpCZaNzfMzFFWILf/7sGoTndLxv06EUSWH4jWDsa+YlUEgZX+7xr2XKPESrhmuCzdLOdOLq1lVcOcX7P0XVwaVCIA8puTjhEMwWX8sArp71kvaf0f6sYRc+epB0JvYu2qIrVFB94djm3+twy3kQP8hKrie31SlHnqPH5Cf1OnT1N6EwnqEJ+YPHHePdzmwAdMwgdYM2JaIPIqO5ZF6m/cvhF7ghTqp5RF0Kq5j0v0DqfSWDIiXZ6bqHT0df1zsGudwjm1bKeoVhHQnRUbe4jUfYBd4g47Hbq1SDpmrndj1fSJ2vtxMfUoOAcaPk8A==;Rpl1+B/yDEUGCWXNTerQKA=="
+secured: "Acfu3DAb181pEOgNv9YQv2mu/VE+LZWW/Qtuz8bGUGYHaGyZ53PoL07dDLdfgsOQYtyynF5zvTWvsidgld8Ekm0EI6R95kXBpDhLw8UbhTn8xf3KOYGBgwfUHQ+kdLDNPYeIZmQ12WRF92WsTl6twJdHItsblJy1ydT0BDrs524/JmiEaS20twelVaCE/cDqyLSakyKCSsWwkhVVVhqPdD+PzdUr+jPwH4JPBMx0jSVUSDgkEZqcOAbOmcLuczrULaGTPg7XlKdq7jwjKc2uTDmY9yYZis4KUH/LwidKjtgIoEKegjFjxtd84SIBjmws3Cxeo+Kl2z+Z4Wcw3ofTb3qbMl05wBhha7PMU8Js3XdbgetZt9vQyQk/+C9Ns4h7HLjPblmSKR8xjavF4G9Wlw==;eMMXR0W0wdlTvDZp32tc3w=="
 ---
 
