@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "voyage"
   url: "https://twitter.com/voyage"
-  followers: 7713
+  followers: 7714
 
 size: 51-200 employees
 yearFounded: 2017
@@ -34,7 +34,7 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1267852652341104642/lGTYQ3WG_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1278712351915536386/CoejbAt3_400x400.jpg"
     width: 400
     height: 400
     isCached: true
