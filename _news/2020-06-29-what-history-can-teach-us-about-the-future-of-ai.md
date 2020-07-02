@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-29T16:58:00Z
 webUrl: "https://www.zdnet.com/video/what-history-can-teach-us-about-the-future-of-ai/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: ZDNet
@@ -26,6 +26,22 @@ images:
     height: 578
     isCached: true
     title: "What history can teach us about the future of AI"
+
+related:
+  - title: "Mapping the future of autonomous trucks"
+    excerpt: "If you want to gauge the recent interest in developing autonomous trucks, follow the money. Tech startups and established OEMs alike have since early 2019"
+    publishedDateTime: 2020-07-02T15:57:00Z
+    webUrl: "https://www.trucknews.com/features/mapping-the-future-of-autonomous-trucks/"
+    type: article
+    provider:
+      name: Truck News
+      domain: trucknews.com
+    quality: 24
+    images:
+      - url: "https://www.trucknews.com/wp-content/uploads/2020/07/Tu-Simple-L4_AutonomousTruck_2.jpg"
+        width: 1500
+        height: 791
+        isCached: true
 
 secured: "oorKYtOlmNk+GEmhPLrjW6emPRS5uOjFcEbrMZzez1ZpqyYID4ipVYAU3Mljmu5/lhANYBxye+aOK/tLI0AksZsYkrogxjTgJOpbbUzNaDjB8mdY94jZ3flwwrqLKxeYbm4wIkyDu/a13ZHj+3qk+8Bc7IrgD1GJdM5WIVhQFbo/+eRD8nJQN2MeN5M1TwnaLVI0en7F0pM96m0dybjO18KPF4uJMEKIsqDfkmO+LU0IrI3oQwkq9s49kOpYCx2O6YRxnsBoAm58fsG52TVvj24QV5u3XRD5EUShTuiXk+X4+w2nh6Ug4VfgFWLYYsgrn0LxIVDsVlJzIzXiAZCULqFvAfw3Fg1AaIth9B8+1b7uU9BEWWcf6bf+xyVwpeYbJyEgguJ+eSMpML7DIYetRa5vtKtblv9/ckt0pEm6mzxB6CkYSy3vVLnqHqmuhG1ZPgIQuT3xj4g/kHa2bRB/xvZ4OenLOPbbzZ8E4VhuEVj6JNR+MJARuSM5igicz5bGSA4pv6dkjFfz1DLp+Xm09A==;Mr8dVdEwfiLNuRC2cvfNZw=="
 ---

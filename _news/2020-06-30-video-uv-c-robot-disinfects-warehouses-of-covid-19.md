@@ -66,6 +66,22 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "New Mobile Cleaning Robot Disinfects Equipment, Production Spaces"
+    excerpt: "Undoubtedly, hygiene zones and production lines should be impeccably clean. And complete cleanliness is very important wherever medical devices are handled and food is processed."
+    publishedDateTime: 2020-07-02T15:29:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11425"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11425"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11425"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: "https://www.azorobotics.com/images/news/ImageForNews_11425_1593694770136651.png"
+        width: 950
+        height: 737
+        isCached: true
 
 secured: "LsMMUHTtkhNJhM/vjfIcrXkFdmVk1xPVmeu1dv0vVoXCSo+ANnsRtmQzWhsZvpEV/2cDZjuaoOQ16yO57aHnNLs6DwYTKIblfseKvcJB2RULojjezieMoorGX/WrFFRwJi89en3NU10KNYEMa0clPWCQjJ6Um3xYu6tUCQ2dCFK1WhyTpr2kcnrQHJSoj0fOckSguiaO/naqAB648X+KqbVeRRwN73e3ZkCBnZrWoxawkuWRd2Sm+Is8j2/0VY4xOlfiB3eK8ladmOCxkKCA9ybzVxiwvtmemce18RD1T0490xm1+KMj2LBExEyTaBJcvF681nnTPeQzKsVKrHRYGw==;ehl1u67mknfYJBDtpUSwiA=="
 ---

@@ -8,8 +8,8 @@ ampWebUrl: "https://thenextweb.com/neural/2020/07/01/mit-removes-huge-dataset-th
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/01/mit-removes-huge-dataset-that-teaches-ai-systems-to-use-racist-misogynistic-slurs/amp/"
 type: article
 quality: 81
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -28,6 +28,24 @@ images:
     height: 417
     isCached: true
     title: "MIT removes huge dataset that teaches AI systems to use racist, misogynistic slurs"
+
+related:
+  - title: "MIT Takes Down Popular AI Dataset Due to Racist, Misogynistic Content"
+    excerpt: "MIT permanently pulled its 80 Million Tiny Images dataset—a popular image database used to train machine learning systems to identify people and objects in an environment. The reason? It used racist,"
+    publishedDateTime: 2020-07-02T14:52:00Z
+    webUrl: "https://gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206"
+    ampWebUrl: "https://gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dobhuewgleklvyonjkjx.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "xAWY2DhCjTxOg1p276iXk5MSMxirjRjpaGHmpKkREQ0OEZzvHbHRyk3tDD+cHsZ92PfQheDuwNsFQhhDdSDXYyxLRUTBnxdrXwA+IfIGN3ESENdHwKtenoREYhVyFWxD+ccg3AM1UtJ9jX6a4sRWEcWdrZV2A6wfqh7ExxJ/Heg2kv+Hbd/czMo0bRK1YTWc+PGIoB4MrUTTw3hdklCtLT+rjIbcIf/IcJey2i1t+frigC02CFDeuxyEoiIbCy/FylXNi2TVio7aaGOC7FAn/LM0t0s4j/AkOocifeQ/iOgIP98WIPdYrKO5SWzJ5Zma6NnFz7nIs1SiSSbek2DNOJk5Qb/S6r0LqPfbEL3H30SSPBvrN/xQI11P/MmIkkL2FfLL1s56mOOjmRReAN3Xruo5evGBx8B2j6KV8L0+26zSGwxNFRNBy6GPlSAbxvxZI7IKviuDwJia1QOkZp9epkEVRxmUh44azM5jPl1+qvl9Ur151krd70LwuGqdjuWZD6OaLYN1fWbgv4IDPtQFGQ==;BdedhKvwIuISUNCybgVlww=="
 ---

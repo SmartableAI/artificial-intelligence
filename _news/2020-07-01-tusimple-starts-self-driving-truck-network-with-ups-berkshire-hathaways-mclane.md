@@ -3,7 +3,7 @@ category: news
 title: "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane"
 excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021."
 publishedDateTime: 2020-07-01T17:06:00Z
-webUrl: "https://www.reuters.com/article/us-tusimple-selfdriving-network/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-idUSKBN2425QS"
+webUrl: "https://www.reuters.com/article/us-tusimple-selfdriving-network-idUSKBN2425QS"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2425QS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2425QS"
 type: article
@@ -39,22 +39,6 @@ related:
       - url: "https://images.wsj.net/im-204436/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "TuSimple seeking $250 million in new funding to scale self-driving trucks"
-    excerpt: "TuSimple, the self-driving truck startup backed by Sina, Nvidia, UPS and Tier 1 supplier Mando Corporation, is headed back into the marketplace in search of new capital from investors. The company has hired investment bank Morgan Stanley to help it raise $250 million,"
-    publishedDateTime: 2020-06-27T21:54:00Z
-    webUrl: "https://techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-new-funding-to-scale-self-driving-trucks/"
-    ampWebUrl: "https://techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-new-funding-to-scale-self-driving-trucks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/26/tusimple-seeking-250-million-in-new-funding-to-scale-self-driving-trucks/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 73
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck.jpg?w=1024"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Self-driving trucks hit the road at scale with TuSimple's new freight network"
     excerpt: "The Autonomous Freight Network will receive support from UPS, Penske and US Xpress as TuSimple works to bring self-driving semis to market."
@@ -149,6 +133,6 @@ related:
       domain: ccjdigital.com
     quality: 0
 
-secured: "a46jzwIioWk6mFccuwbHRW4IN74OhGjb/wyUVz4VVSJukr60Cz2AI8P+wuBq8bCFX4x3TXxuT1pXp2wwi4msJMk2AVo5RDL8tLIJGBP+oPhvtFRnU2wkZgo88Waa3Iqrk91/dyZUqdTG0k7gkEi+sfjHnfAnpFG8m+qPPn02y7Ng4eNjWazWoRJ0zxj/muzktPf9NAYtsE/xfg4YjzEGerI2JcpoUzXjxqoYFE5JiFdkBG9j8QeaiR1Y0EEblsLDC/ISMGGqra+0iFVw5Wlx+9jsE2CHaIJAHNdFj7XAiHKZfjgQuW5C+z2JEIlWvSNqv7L7EvrPTNonkgPzTjrSEQ==;A/F2aAchzCxdiPR7PkldCw=="
+secured: "wVm3zK4aSCTWmqeCPRPyot9gCVAK0l/fty1lA9U4NfxiOWBwdDfwKMQThyIbCrqdDsy3e9zM0r4kn7XSXBsLg6HdeXh3laP4Y6ioL2YmCSb9SjdlCDMT4WwWTV+aZhIqtHObtFirZLl+wx724gN14Bnl+8lpG0H9cIR/Cno8aprWWAr6WpER4bXnF9pst71csK8UvvD1DCiOJtZa3wzR7Z63ZYMhF9oQcYj5qzz109cLWQpYq4JhncizAe4HsyhYkzG+ltRz0csr80F00u6VSI5T3DBkZje7Bm/a3R+8JQaVKo4kMLpvNlh37IdH05V6DTAa3XGlXUNR9xeUOnD2/w==;03SvX3r0nJushr4C6N/Wow=="
 ---
 

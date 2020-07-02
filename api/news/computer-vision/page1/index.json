@@ -2,30 +2,30 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-07-02-bias-claims-spur-debate-on-need-for-curbs-oversight-of-facial-recognition-tech.md",
-      "title": "Bias claims spur debate on need for curbs, oversight of facial recognition tech",
-      "excerpt": "Official at Israeli startup AnyVision says he hopes for regulation of the industry because his firm's software could never be abused, unlike open-source platforms",
-      "webUrl": "https://www.timesofisrael.com/bias-claims-spur-debate-on-need-for-curbs-oversight-of-facial-recognition-tech/",
-      "heat": 70,
+      "path": "_news/2020-07-02-larry-magid-facial-recognition-loses-support-as-bias-claims-rise.md",
+      "title": "Larry Magid: Facial recognition loses support as bias claims rise",
+      "excerpt": "Following the lead of San Francisco, Boston and several other cities, Detroit is poised to end a contract with a company that provides facial recognition technology to its police department. And it’s not just Larry Magid (Gary Reyes / Mercury News) cities that are backing away from the technology.",
+      "webUrl": "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/",
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://static.timesofisrael.com/www/uploads/2018/11/AnyVision-e1543488603287-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": "Bias claims spur debate on need for curbs, oversight of facial recognition tech",
+          "url": "https://www.mercurynews.com/wp-content/uploads/2018/08/SJM-L-RECOGNITION-0807-01.jpg?w=1024&h=768",
+          "width": 1024,
+          "height": 768,
+          "title": "Larry Magid: Facial recognition loses support as bias claims rise",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/bias-claims-spur-debate-on-need-for-curbs-oversight-of-facial-recognition-tech/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/bias-claims-spur-debate-on-need-for-curbs-oversight-of-facial-recognition-tech/amp/",
-      "publishedDateTime": "2020-07-02T06:42:00-07:00",
+      "ampWebUrl": "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/",
+      "publishedDateTime": "2020-07-02T07:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -91,7 +91,7 @@
       "title": "The organizations positioned to lobby against a US ban on facial recognition",
       "excerpt": "Pressure on US lawmakers to create federal regulations on facial recognition has been mounting. Against that backdrop, industry groups have quietly lobbied to soften regulations and avoid an outright ban.",
       "webUrl": "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/",
-      "heat": 301,
+      "heat": 311,
       "tags": null,
       "images": [
         {
@@ -138,7 +138,7 @@
       "title": "ACM calls for governments and businesses to stop using facial recognition",
       "excerpt": "ACM, one of the largest computer science orgs in the world, today called for the halt of facial recognition use by governments and businesses in the U.S.",
       "webUrl": "https://venturebeat.com/2020/06/30/acm-calls-for-governments-and-businesses-to-stop-using-facial-recognition/",
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -232,7 +232,7 @@
       "title": "São Paulo subway facial recognition system slammed over user data security and privacy",
       "excerpt": "A new surveillance system is deemed \"inefficient and dangerous\" as it fails to protect the personal information of 4 million daily users, associations say.",
       "webUrl": "https://www.zdnet.com/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {

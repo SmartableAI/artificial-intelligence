@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Data Quantity, Complexity Drives Use of AI in Drug Discovery and Testing"
+    excerpt: "His startup’s technology platform uses AI to uncover gene interactions underlying diseases. The company also uses AI to test therapies that target these interactions, an approach it contends is ..."
+    publishedDateTime: 2020-07-02T14:49:00Z
+    webUrl: "https://xconomy.com/san-francisco/2020/07/02/data-quantity-complexity-drives-use-of-ai-in-drug-discovery-and-testing/"
+    type: article
+    provider:
+      name: Xconomy
+      domain: xconomy.com
+    quality: 36
+    images:
+      - url: "https://media.xconomy.com/wordpress/wp-content/images/2020/07/02103125/genetic-engineering-and-digital-technology-concept-picture-id1054573988.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "68OsIPj3CupICfHkZuZpImFR1699VLqyaswIr4gpljY8DglnYstPIFkOP7nbu3fdMmydYKLERhHDYUeDhQpfuiJFp+aFk60I25iGGVj18GdgIzSUVYABVE/p9GxiVvW7kQA2JojDqzx3HcAYaDhTIHU8q0O2TqWRM/8zjlnTqrz3mYxDKg9n5q44Jn0T5DDKdPK0YyPx2zbe6ZzCM280hI58hAMz1BH9lzHEeGH0+pVpxhRIet98UPlVbriN3S53yvfBtAnfdnLUZwGBY5HUTzW+shrixmogRK/IWG4uqGfyq9P7eZfVSaUZHk94Rpb0PbRPkNc5bzroSuHkNBrw2A==;GGbODPtWvauiSP47F0APFg=="
 ---

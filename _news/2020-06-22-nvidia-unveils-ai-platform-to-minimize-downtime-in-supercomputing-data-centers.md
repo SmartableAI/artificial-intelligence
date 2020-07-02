@@ -1,9 +1,9 @@
 ---
 category: news
 title: "NVIDIA Unveils AI Platform to Minimize Downtime in Supercomputing Data Centers"
-excerpt: "SANTA CLARA, Calif., June 22, 2020 (GLOBE NEWSWIRE) -- ISC Digital--NVIDIA today unveiled the NVIDIA(R) Mellanox(R) UFM(R) Cyber-AI platform, which minimizes downtime in InfiniBand data centers by harnessing AI-powered analytics to detect security threats and operational issues,"
+excerpt: "ISC Digital--NVIDIA today unveiled the NVIDIA(R) Mellanox(R) UFM(R) Cyber-AI platform, which minimizes downtime in InfiniBand data centers by harnessing AI-powered analytics to detect security threats and operational issues,"
 publishedDateTime: 2020-06-22T07:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/nvidia-unveils-ai-platform-to-minimize-downtime-in-supercomputing-data-centers-2020-06-22-3184024"
+webUrl: "https://www.marketwatch.com/press-release/nvidia-unveils-ai-platform-to-minimize-downtime-in-supercomputing-data-centers-2020-06-22"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "NVIDIA Unveils AI Platform to Minimize Downtime in Supercomputing Data Centers"
 
-secured: "TMeVPaGyxqWwsYYx1gV40/Exw7ssme58NALxeU415WOOWb8q/0sEvbfYhIa4veSyi+g5sjry6x4A9QbXaLNTrg1cyb9X+/HcvuXGuSw+CQu/kJTb4PGRfvO1tRiD8mGmy3ocx565SwoC8f0K2Ice1vVStsYurqsZTbB4VYzHcxDgciDoiaftkAjeIiR+/4kOSkbkp0fXC/GY0RuYjkeZL3VMEHTYRNsPIUQFgPViBo1h1aXsKLThohJvjU7/i9yU0gM9BMxZc/AsHrherNVJGhW+PIaXS/tmqfq+hv062vQi/b28kLVaTgdpofNkHB8uWQ2Jz2LowyUoBGKIeRw76Q==;lmnE4WZwlUbvTm+9C2B5Og=="
+secured: "nx70+P6/BZqoawj21y45yAPLLSWtMiDcJjbsCVvfyo96RdF6llz+UtW6+saNO6QyTJCGyRx80oFlyQoCzjT4utmcEjqKDljrvpakfcv71R+y0fwEBPCBWVlK8AzhJsZJgbwnu3+gAI2MCmx3dJx9uFHGqG2qp0/AhFmdWUHNJIvmArqCUjrBfPrgPXN+fdu7n6pFJ6co/nsk4qT1SVSdNtcwqIjGIOE5AiJrHiSG4tLkl54mpPA6TrOqwzhugdORw3VOhnX5UNJYnAUSNWwNKIPgoEsB3jJrn5lHO6NqiOFf6fJteK2BmQzt7Rqk8U0tZPVosdWCh7SFrQLZqWMrzg==;mjnriJNR1+iIE3kHCPMcxg=="
 ---
 

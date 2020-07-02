@@ -60,6 +60,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Data Quantity, Complexity Drives Use of AI in Drug Discovery and Testing"
+    excerpt: "His startup’s technology platform uses AI to uncover gene interactions underlying diseases. The company also uses AI to test therapies that target these interactions, an approach it contends is ..."
+    publishedDateTime: 2020-07-02T14:49:00Z
+    webUrl: "https://xconomy.com/san-francisco/2020/07/02/data-quantity-complexity-drives-use-of-ai-in-drug-discovery-and-testing/"
+    type: article
+    provider:
+      name: Xconomy
+      domain: xconomy.com
+    quality: 36
+    images:
+      - url: "https://media.xconomy.com/wordpress/wp-content/images/2020/07/02103125/genetic-engineering-and-digital-technology-concept-picture-id1054573988.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "JMI organises International Symposium to discuss Artificial Intelligence, Big Data Analytics, Cloud Computing and Internet of Things"
     excerpt: "Department of Computer Science, Jamia Millia Islamia(JMI) organised a one day online international symposium on ‘Recent Technologies in Computer Science’ on June 30, 2020. Topics like Big Data"
     publishedDateTime: 2020-07-02T03:41:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/30/acm-calls-for-governments-and-bus
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/acm-calls-for-governments-and-businesses-to-stop-using-facial-recognition/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 600
     isCached: true
     title: "ACM calls for governments and businesses to stop using facial recognition"
+
+related:
+  - title: "My Invisalign app uses machine learning and facial recognition to sell the benefits of dental work"
+    excerpt: "Align Technology's Chief Digital Officer Sreelakshmi Kolli is using machine learning and DevOps tactics to power the company's digital transformation. Kolli led the cross-functional team that developed the latest version of the company's My Invisalign app."
+    publishedDateTime: 2020-07-02T13:57:00Z
+    webUrl: "https://www.techrepublic.com/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 77
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/07/02/e10d0e71-25ac-478a-860a-296fb2b1a2e0/resize/1200x/fa952c92b39946fdcbc676d984647dc5/istock-1150345648.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "SuWM682qUjP18CaOuBJ8jQT1Y8w19gnc/gUVqdIJbg5ZXn1zz+3RYlhPPaIz9zHzJ9I2JKbdi//QuRtv2lmSZtfQ+FQuVjk+jG1ggzvC5+TpPG7NNBknPqNvLeWqxKSmW8BHxlSAHFlHIW3E7SEZp6lxXs3H1uwV/Ti+OB6bra1ZwoaIlolOVzhrX74t/HZ+FUeBD+Vqy7U8/ts89AECYmF53Xatf7HkziW2zSAAr03RlqZXQuJwVuLo8rMImvvmJfA0EWZe/ijgZOPi0QqzJhyPjCC+q+BBqEQfrnz7txdX/FNfuNHyDId5TAh52rusBPCeQEWXnrl+giFIQd7Kd1TVwj21H6rC0ko+ScAyVqUi4z4hw1n1D+mThg3fpuxJrUb3gcyrkrspe89s5rmWPrRVvxOABRzi+T6tlxE/3e3PE4SQ/1N8YZh8RVmodBP2IBS+WCJIvR/q2ENyY5CTPahUrk83dKBmmrJ/P9XpAk5GiyD66uMlJL2BViNsgj+xyFVDsCHznQTZXjHhOgvFbA==;NSMJI3ATXKkpZ/8QXtMIZg=="
 ---

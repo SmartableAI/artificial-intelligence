@@ -8,8 +8,8 @@ ampWebUrl: "https://www.timesofisrael.com/bias-claims-spur-debate-on-need-for-cu
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/bias-claims-spur-debate-on-need-for-curbs-oversight-of-facial-recognition-tech/amp/"
 type: article
 quality: 70
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Times of Israel
@@ -26,6 +26,24 @@ images:
     isCached: true
     title: "Bias claims spur debate on need for curbs, oversight of facial recognition tech"
 
-secured: "REwTog5MK9drkYkBjjLR2EzKBBWtDnHoMtma+nwkSfTiI7noyVrp87mWXzotwjJqacEJa7Pay3K8H5mJWVZ0cvrFNl8dhm8yzSXnxGDE137b6WVPtcfmHdvUUhcYXH99zqhCMXILyZ7nS+a3ZbFdjOGeTN+pw6/H5NuQWGfIk59QE29FIHpsp7pYJedP3kRBxeGpsw+Te7sh1RHSCj/hMFEWMuiAHvSLGOd0vixrH+Qo16EPn0KMWQXWw/dJWyJOHNgebRrI5IUXuZ93VuHM/+FKpAR7hQZGGEZTRLT8jaxDK4T34AQku+SkBvGeI6UcIWG8uQOjgyBUgUDmrmGY3A==;TJRlqcL1lF2fk9iuLoAOmw=="
+related:
+  - title: "Larry Magid: Facial recognition loses support as bias claims rise"
+    excerpt: "Following the lead of San Francisco, Boston and several other cities, Detroit is poised to end a contract with a company that provides facial recognition technology to its police department. And it’s not just Larry Magid (Gary Reyes / Mercury News) cities that are backing away from the technology."
+    publishedDateTime: 2020-07-02T14:04:00Z
+    webUrl: "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/"
+    ampWebUrl: "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 74
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2018/08/SJM-L-RECOGNITION-0807-01.jpg?w=1024&h=768"
+        width: 1024
+        height: 768
+        isCached: true
+
+secured: "vdNPeM+9I6dylw5IyVDQbdIHIyLCNJehWJMDXUooHEZ2AZU14oPBCsgo9Epmvosu/Lh6qMQjb3sfbXBCHs5jNaZflxQBs4ICNSeZR0FxijRz5r8jZhjkN0D1RlDKLemZ402Fx8yamIBXwbUR48eXkjHxDMscUsjYO8D7Id8PDh3AEcJGym2wJRWfAywjo0I49hf19bgDeroAf2ndL6g+oNQ3r5mF5MHrhwi6AhLhM+rbh/rrJX3KoqQ4p6EQfnSchqmr/iITZPtVy+vGa8azSVzd7Ytup2xkHSLVjLjcjjYgoGYr7VJRUkYfrfMVNo8EGOCQSxp0RzXbdRIgGTxJRsh1L1YpsnQTu5II/QsyYE8ZY0G/VvhzZXnzVf5AVy7xljgw9cDdi+S54SDvjIHsl3tPAK6Y/HibHdl8hHNPWgRocwXS98lHHWtkK7fUuovZdq+ijjT1zS5M4lY0z5tJWwNzaec94SeqKLvY2DoIneLKdiKLxef2VMacGjQFX5XznXb2EcKkxjFu+LiTcPqBXg==;XFTWc0+Ij+SXFBmId5MK6w=="
 ---
 

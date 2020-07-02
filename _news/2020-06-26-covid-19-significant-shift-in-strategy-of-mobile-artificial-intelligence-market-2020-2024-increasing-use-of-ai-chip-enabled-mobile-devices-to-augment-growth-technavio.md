@@ -1,9 +1,9 @@
 ---
 category: news
 title: "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio"
-excerpt: "Buy 2 Technavio reports and get the third for free. View market snapshot before purchasing Increasing use of AI chip-enabled mobile devices has been instrumental in driving the growth of the market. Technavio's custom research reports offer detailed ..."
-publishedDateTime: 2020-06-26T17:38:00Z
-webUrl: "https://www.businesswire.com/news/home/20200626005284/en/"
+excerpt: "Technavio has announced its latest market research report titled Global Mobile Artificial Intelligence Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the mobile artificial intelligence market and it is poised to grow by USD 13."
+publishedDateTime: 2020-06-26T17:30:00Z
+webUrl: "https://www.businesswire.com/news/home/20200626005284/en/COVID-19-Significant-Shift-Strategy-Mobile-Artificial-Intelligence"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio"
 
-secured: "/t+PQbka4r/LfYsppCAyeg/ArxMWs3Xu1uKg3ikpuWKPt4BTuh/qjJ4aTI0y+OgPbI+Kjs2nyrA2hZFPpbZ4BxfuRm0Em8LjotmWFlD4sE/J9tjX5GllDpbamfr3r5D9B6Voy9OcbxE2POMzyyDpjvVn+ILpYIOQWEQGJ6upKAHNl7AswPHRT8XBHOJtNE7dO0GuNOj2oUqQYdhMyr7FeuVZT/cmWduCl9G/5BFILQP5i8U0WL/5YjhSAebt3eI+Z40N8mhdBimxsePbKiDUT5+p9fR4aS+VBQsk2mZ1By0McJinEnWOoaMOXJegGvTHkQofflzWbvaaZ3ckTUy4Jg==;VJFIY6NlK9nq82l3ANuBnA=="
+secured: "WWo4XEccYX5yfPRY2dLVwmGnPyikpaoGrbfyD00fyyCMVBvuCB47vxXyW7WI/hTr2CpjpXfcPw2vvSsuij1t0df7wAps6bCp1QUYRXONDAmV6GZVQcue3ivGLtw1rTUwHvyqY1SWUmS1k2c+s9NTShv5KGgfpHXuRnLw3Sh/2ccFNpEFIKeR9XKNyaa0ZJgXNUvUtZSPUJZnGLdt5w/BsfIgytOcJ0cJ35XaiI9BEPPFig4Q7agIUZI4B8HdVuSav/Wis4NlIeGaoFiuepXzdGau1XWm0UGHqbf8OS1L2To+ccsKMhOKt+W3sZQoUQPW7kMftO9VLpvET14lMRcxag==;mxemvXAE59bdV9gNtHZFeA=="
 ---
 

@@ -156,6 +156,22 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "Easthampton passes municipal ban on facial recognition tech"
+    excerpt: "An ACLU-backed bill currently before legislators on Beacon Hill would establish a statewide moratorium on government use of face surveillance. Easthampton is the latest town to enact a ban on gov't use of facial-recognition technologies."
+    publishedDateTime: 2020-07-02T14:48:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2020/07/02/easthampton-passes-ban-on-facial-recognition.html"
+    ampWebUrl: "https://www.bizjournals.com/boston/news/2020/07/02/easthampton-passes-ban-on-facial-recognition.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/07/02/easthampton-passes-ban-on-facial-recognition.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 59
+    images:
+      - url: "https://media.bizj.us/view/img/11177301/gettyimages-1086568968*600xx2800-1867-0-467.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "OTR: Will Boston's ban on facial recognition technology become a national trend?"
     excerpt: "JANE BOSTON BECAME THE SECOND NATIONAL CITY TO BAN FACIAL RECOGNITION TECHNOLOGY. WILL THIS BE A TREND? WE MAY BE THE FIRST BUT WE’RE NOT THE LAST. MARY ANNE: IT’S MORE 1984 THAN A 2020 DEMOCRACY. ED: THIS WEEK,"
     publishedDateTime: 2020-06-28T15:43:00Z

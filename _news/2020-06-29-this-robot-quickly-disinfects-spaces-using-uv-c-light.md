@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/this-robot-quickly-disinfects-s
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-robot-quickly-disinfects-spaces-using-uv-c-light/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.propakistani.pk/wp-content/uploads/2020/06/CSAIL-robot-e1593435664579.jpg"
         width: 1000
         height: 562
+        isCached: true
+  - title: "New Mobile Cleaning Robot Disinfects Equipment, Production Spaces"
+    excerpt: "Undoubtedly, hygiene zones and production lines should be impeccably clean. And complete cleanliness is very important wherever medical devices are handled and food is processed."
+    publishedDateTime: 2020-07-02T15:29:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=11425"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11425"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11425"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: "https://www.azorobotics.com/images/news/ImageForNews_11425_1593694770136651.png"
+        width: 950
+        height: 737
         isCached: true
   - title: "Video: UV-C robot disinfects warehouses of COVID-19"
     excerpt: "The robot uses an ultraviolet-C (UV-C) light fixture that is integrated into an Ava Robotics’ mobile robot base and does not require any human supervision. UV-C light has proven"

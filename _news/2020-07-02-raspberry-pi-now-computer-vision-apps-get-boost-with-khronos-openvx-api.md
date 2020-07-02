@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Raspberry Pi: Now computer-vision apps get boost with Khronos OpenVX API"
 
-secured: "L+OiNKVQc62LrHuDsAM0VDGUcqugWCbkXu6tqByaKUcLLMYzYXo0Za13c/qL5WYk1qpcfZrgzgXa6t+qfeibJbhybiBVzF2RrOGTdlg6B/LoJ1kp1QVwPrW3xHtqiO7Shng7ypPFGnfyFvitEzTrlbHz1jdUU3H6TbYi1QajC/XMkisfETNL/4ZYVzN4gFQ86v9OYSktWY+dpNJZtCgO1ojHxYAizZaN4eAJoV2fsIFQWLh28lFeU86LWRznhLIUIr06JB3NJ5kIfsZocb4zMEGeQvOHTmsPXCUYKeoITrqOCDfYosZJx2WVDtppTGv38EJsaWhxQaqnf8c930C/bg==;TEySok4aNCz+/94+1d1a+w=="
+secured: "esd+UhuFDQ/Jj6/JyJUL7IkHzWuOPnAJaWo/2Sc2khUd4Gfc7sbG+u4ycNOdlZsiRZ75n+CKSUnwEuhHbPObyslUen0bjS/+BO4WkXl9YgU5qciFQFdGDRlB/nt1a4ZZ40/g4GyQBfILH27DgAKFV1feUpbbnGMKjMXJf1I+k/g9n15zle1rXyJZ5d7wP/mRhHlpju8b/nFovo1RmNhaiWUcQau2JN7WUfcwBAwzvD8pGchsc0fk/xiOKemRMl0j1EQf5tggjUmjCZB7+snbbiJb6xaHHJ77xTniGwpI4SOXhDsc2p+KGscJ2ouSGrcVF8CZcIjio/tNrV1H9KtJ4nJtKgU3Z+AA2ujhBc1TlXs+O05+GIitK1BkeujdB4+HwrUpHyZ2Ara1t8LWZrnRoX2AWOmQdTmE6MiaRJ0lwO8T6KjKsuGqUD1YtxjXk0wIjAJ9u/WisHR+/qIssXLsgx96S1tHEJQFmox0SbHGvAgGZ4KoUTUCeSzWXED4OHEYKfR9cBULCpU8X8J8zUsuww==;w68UHJoJWJn/250OC9dvew=="
 ---
 
