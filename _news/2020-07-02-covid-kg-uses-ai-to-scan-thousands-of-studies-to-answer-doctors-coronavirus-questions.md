@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "COVID-KG uses AI to scan thousands of studies to answer doctors’ coronavirus questions"
 
-secured: "N7BUYmjDYC1QasFRm334s8YRgxBiRaOj7f4e6mbdfjLd75GUH7+ah7Y5BKb2k3zeSFrWAsc/3F/J+knEVl05X+/AHxQw4sfTcAzmEgLEgkd84zVl6a+umFSoGBHfhEuaj6ougXyFibfW+8aeyAF6Gh5T5dYbB0iGul2ciOd+zVv9Wwmk75Wt5sMOL7Z39yc5/KLR/vYPYNwqViY1/9U9g1bZuskSMfcgZrRCGploefIHrlAMmndRfmTpuRo7Ctci1vo/fsdCae+EoNmc8kj9fKd28l0pVpvKfBamfP7mvJVkihfhBC5mLHc2ETiz/fiMkmzROutSfE6eXjfFw4diaw==;g16JYNKsVKFLRKFrzYWS+Q=="
+secured: "PlRn4cfLgcBj2vcpxUpD33qI+Z5Av+HrUhbwqf4pZ2zEv4a1+C2k2GU/7OHJ7g6zZ7etP7KsDZp/C2jF8i0JbQNsMs44ZGsQEucL3g3xfphluj+RB0qTrWdIKUdKgP0uZuvANY8jf1w9umXJWyVqTa+1qLF0YKDCm1Xkg8HhoHMdBN9AaEBtezIeK2nZ98lC8lErxc2tSvlD+ahCaUQgUK0ZRwEU9AtIKeaLNB14PeMxUB+Ir9V5JCSXr8pcb3igaLJz5nSEj0wputqVhok75A7FZtmba2NGlCErzS2Fx1argCsO8YjEE0MkWpn8ZPaWr7MjwZj4WqzbkZx8pgLc7wV4UPQqwvFtIhSn2tUEUsxYn+7YrNgJbs2YMOpY/ss60I5jWXjBKlEQAxI+f+955sWFY/75hG5Xx3bet0lg69qUteP0RpsPJ92INtOoYrecuxtzg+wUJINyM/xWROlkxWmYygogQKUNb6w8XvJ3/IN0hxy+P06Zu9zy356rq4IbmrkwjP9XqVh96Z22WgOC0g==;NYfVIyxI+YEgDyZpCEnxow=="
 ---
 

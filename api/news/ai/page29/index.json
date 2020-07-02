@@ -2,6 +2,212 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-06-03-deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development.md",
+      "title": "DeepMind releases Acme, a distributed framework for reinforcement learning algorithm development",
+      "excerpt": "DeepMind this week released Acme, an open source distributed framework for reinforcement learning algorithm development.",
+      "webUrl": "https://venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": "DeepMind releases Acme, a distributed framework for reinforcement learning algorithm development",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/amp/",
+      "publishedDateTime": "2020-06-03T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-ai-conference-neurips-extends-paper-submission-deadline-amid-blm-protests.md",
+      "title": "AI conference NeurIPS extends paper submission deadline amid BLM protests",
+      "excerpt": "The deadline for AI mega-conference NeurIPS has been extended by 48 hours, to give people affected by protests in the US more time to finish their papers",
+      "webUrl": "https://thenextweb.com/neural/2020/06/03/ai-conference-neurips-extends-paper-submission-deadline-amid-blm-protests/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-62-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI conference NeurIPS extends paper submission deadline amid BLM protests",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/03/ai-conference-neurips-extends-paper-submission-deadline-amid-blm-protests/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/03/ai-conference-neurips-extends-paper-submission-deadline-amid-blm-protests/amp/",
+      "publishedDateTime": "2020-06-03T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-global-enterprise-industrial-automation-outlook-2020-2025-focus-on-artificial-intelligence-industrial-iot-and-smart-machines.md",
+      "title": "Global Enterprise & Industrial Automation Outlook, 2020-2025: Focus on Artificial Intelligence, Industrial IoT and Smart Machines",
+      "excerpt": "The \"Artificial Intelligence, Industrial IoT, and Smart Machines in Enterprise and Industrial Automation 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. This research evaluates various AI technologies and their use relative to analytics solutions within the rapidly growing enterprise and industrial data arena.",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-enterprise-industrial-automation-outlook-2020-2025-focus-on-artificial-intelligence-industrial-iot-and-smart-machines-1029277081",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/global-enterprise-industrial-automation-outlook-2020-2025-focus-on-artificial-intelligence-industrial-iot-and-smart-machines-1029277081",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-enterprise-industrial-automation-outlook-2020-2025-focus-on-artificial-intelligence-industrial-iot-and-smart-machines-1029277081",
+      "publishedDateTime": "2020-06-03T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-anvil-leverages-ai-to-expedite-paperwork-processing.md",
+      "title": "Anvil leverages AI to expedite paperwork processing",
+      "excerpt": "Anvil, a startup developing an AI-powered paperwork processing platform, secured $5 million in venture capital financing.",
+      "webUrl": "https://venturebeat.com/2020/06/03/anvil-leverages-ai-to-expedite-paperwork-processing/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/maxresdefault-8-e1590778086248.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Anvil leverages AI to expedite paperwork processing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/03/anvil-leverages-ai-to-expedite-paperwork-processing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/anvil-leverages-ai-to-expedite-paperwork-processing/amp/",
+      "publishedDateTime": "2020-06-03T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-alphabets-googl-waymo-to-resume-operations-in-bay-area.md",
+      "title": "Alphabet's (GOOGL) Waymo to Resume Operations in Bay Area",
+      "excerpt": "Baidu recently received license for five of its self-driving vehicles in China. Further, the launch of its Apollo Robotaxi fleet of 45 self-driving cars in Changsha — Hunan province in China ...",
+      "webUrl": "https://www.nasdaq.com/articles/alphabets-googl-waymo-to-resume-operations-in-bay-area-2020-06-03",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-america-is-awash-in-cameras-has-its-pluses-and-minuses-for-police-and-protesters.md",
       "title": "America is awash in cameras, has its pluses and minuses for police and protesters",
       "excerpt": "Law enforcement agencies have existing networks of surveillance cameras and body cameras worn by officers, as well as face- and object-recognition software. Large retail and food chains have ...",
@@ -1071,222 +1277,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-vara-raises-7-million-for-ai-tool-that-spots-early-signs-of-breast-cancer.md",
-      "title": "Vara raises $7 million for AI tool that spots early signs of breast cancer",
-      "excerpt": "Vara, a startup developing AI tools that detect early signs of breast cancer, has raised $7 million in venture capital financing.",
-      "webUrl": "https://venturebeat.com/2020/06/02/vara-raises-7-million-for-ai-tool-that-spots-early-signs-of-breast-cancer/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/ce5948e5-f370-474a-aaab-47f06923bc0b-e1590521543643.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Vara raises $7 million for AI tool that spots early signs of breast cancer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/02/vara-raises-7-million-for-ai-tool-that-spots-early-signs-of-breast-cancer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/02/vara-raises-7-million-for-ai-tool-that-spots-early-signs-of-breast-cancer/amp/",
-      "publishedDateTime": "2020-06-02T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-police-facial-recognition-tech-could-misidentify-people-at-protests-experts-say.md",
-      "title": "Police facial recognition tech could misidentify people at protests, experts say",
-      "excerpt": "Facial recognition algorithms are notoriously bad at identifying non-white and non-male people. But the tech may still be used today as protests roil the U.S.",
-      "webUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?itm_source=37&itm_content=1x7&itm_term=2376504",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/protest-2020-getty-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Police facial recognition tech could misidentify people at protests, experts say",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp",
-      "publishedDateTime": "2020-06-02T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-avoiding-the-missing-middle-with-ai.md",
-      "title": "Avoiding The Missing Middle With AI",
-      "excerpt": "It is common knowledge in the manufacturing sector of the economy that many of the companies that should have deployed HPC simulation and modeling",
-      "webUrl": "https://www.nextplatform.com/2020/06/02/avoiding-the-missing-middle-with-ai/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/TNP_default.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": "Avoiding The Missing Middle With AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2020/06/02/avoiding-the-missing-middle-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/06/02/avoiding-the-missing-middle-with-ai/amp/",
-      "publishedDateTime": "2020-06-02T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever.md",
-      "title": "Pandemic is showing us we need safe and ethical AI more than ever",
-      "excerpt": "It’s the perfect time to invest in new practices for accountability and oversight.",
-      "webUrl": "https://thehill.com/opinion/technology/500637-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/cellphone_022414thinkstock.jpg",
-          "width": 640,
-          "height": 360,
-          "title": "Pandemic is showing us we need safe and ethical AI more than ever",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/technology/500637-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/500637-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever?amp",
-      "publishedDateTime": "2020-06-02T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-vw-and-argo-ai-complete-26bn-deal-ford-gets-new-self-driving-frenemy.md",
-      "title": "VW and Argo AI complete $2.6bn deal: Ford gets new self-driving frenemy",
-      "excerpt": "Dubbed a “street-by-street, block-by-block” mindset, it paves the way to a Level 4 self-driving system. That is, one which can be self-operated under specific conditions, within its operating design domain. That means no Argo AI cars autonomously roving everywhere: instead, the technology is designed to work safely and successfully in ...",
-      "webUrl": "https://www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-gets-new-self-driving-frenemy-02623386/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/argo-ai-test-car-1.jpg",
-          "width": 1024,
-          "height": 640,
-          "title": "VW and Argo AI complete $2.6bn deal: Ford gets new self-driving frenemy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-gets-new-self-driving-frenemy-02623386/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-gets-new-self-driving-frenemy-02623386/amp/",
-      "publishedDateTime": "2020-06-02T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

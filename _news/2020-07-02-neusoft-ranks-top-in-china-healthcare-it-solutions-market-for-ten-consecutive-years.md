@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Neusoft Ranks Top in China Healthcare IT Solutions Market for Ten Consecutive Years"
-excerpt: "International Data Corporation (IDC) has released the China Market Shares of Core Hospital Management Systems 2019: Upgrading"
+excerpt: "PRNewswire/ -- Recently, International Data Corporation (IDC) has released the China Market Shares of Core Hospital Management Systems 2019: Upgrading Core Systems to Support Healthcare"
 publishedDateTime: 2020-07-02T12:42:00Z
-webUrl: "https://www.prnewswire.com/news-releases/neusoft-ranks-top-in-china-healthcare-it-solutions-market-for-ten-consecutive-years-301087592.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/neusoft-ranks-top-in-china-healthcare-it-solutions-market-for-ten-consecutive-years/article_ade46851-fe90-5700-8d9d-644250074f76.html"
 type: article
 quality: 33
 heat: 33
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
     title: "Neusoft Ranks Top in China Healthcare IT Solutions Market for Ten Consecutive Years"
 
-secured: "8fcDzustlCruXk1njvbzLxFd1n52Qg6Vs5h+Ge9jYlEBzjpnEC0F6XJ5gWdAdZgr16L4JKplYfUFhmQBSzZB9BGJAaMlLUSzTHz2lAPi450BKN5Am3MLOiw/UfkFLWNVRRCagSOi+9h19FbLeNjPwRhJTclveRjnWVjkNHjRgvM6aHfYARC0bw+A+AECmRV6vyklCpExm5x77noeoqvY5z+fDeBQKt0zwD04jcuw3Vc7mdsQFiRRfkmmx7SZLNokjwPcdARepPosNXoMinyhK/2JOJG00nioqT8y0H0mKkdA6IPPmrF3NaC/dh+usELyIySWRA+iLuSeNhRqxoRzZA==;B18lulmbJCS6ZIG3oRd62A=="
+secured: "LVzqElGw2r2hAINkgUHEg/g+X6Mpug+DuEE6nFjfA9yzfkZh2BFJWiWshlpNZ+WjhK0U/ypmrPgUqSAwx8d8/x4iCcF+BrI/gOTzRMPowsgUoFMwlMk4+OdYYDCRMf8ydYxBbmU8e1lXio/HF/y7B2GiJjMghYH6WW7Cor7ZLEHGU9ugo6ogQdc1wYOMRdCjAvz9o3X2V7uB/ss8+FXqIX/40/ICfIYHmo72S108aK9Z//9z1CdyMphZ+JCKGB29dwB9aCLxMA7TrCHvZbeb+mOwZzjp+dS7X3KqhDRn+Q7J1fI7Wy1FDLynktwx/breTQd3U6e83oALuonBKiYhQg==;Z/OZppe21yOvQyaynIV7iA=="
 ---
 

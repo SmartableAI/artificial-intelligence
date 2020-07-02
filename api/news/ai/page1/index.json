@@ -2,6 +2,147 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-02-velodyne-becomes-latest-tech-company-to-go-public-using-a-spac-eschewing-the-traditional-ipo-path.md",
+      "title": "Velodyne becomes latest tech company to go public using a SPAC, eschewing the traditional IPO path",
+      "excerpt": "Velodyne Lidar, the leading supplier of a sensor widely considered critical to the commercial deployment of autonomous vehicles, said Thursday it has struck a deal to merge with special-purpose acquisition company Graf Industrial Corp.",
+      "webUrl": "https://techcrunch.com/2020/07/02/velodyne-becomes-latest-tech-company-to-go-public-using-a-spac-eschewing-the-traditional-ipo-path/",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1164317768.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Velodyne becomes latest tech company to go public using a SPAC, eschewing the traditional IPO path",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/02/velodyne-becomes-latest-tech-company-to-go-public-using-a-spac-eschewing-the-traditional-ipo-path/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/02/velodyne-becomes-latest-tech-company-to-go-public-using-a-spac-eschewing-the-traditional-ipo-path/amp/",
+      "publishedDateTime": "2020-07-02T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots.md",
+      "title": "9 super-smart problem solvers take on bias in AI, microplastics, and language lessons for chatbots",
+      "excerpt": "These members of MIT's latest 35 Under 35 list are engineers, chemists, and researchers working for universities, startups, and big tech companies.",
+      "webUrl": "https://www.techrepublic.com/article/9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/07/02/1c42fa20-2dad-4cf9-a8e5-6de52362ba1d/resize/1200x/df859e53ef41149c778c4b7905c4a4bb/istock-1133385995.jpg",
+          "width": 1200,
+          "height": 692,
+          "title": "9 super-smart problem solvers take on bias in AI, microplastics, and language lessons for chatbots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots/",
+      "publishedDateTime": "2020-07-02T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-ai-system-learns-to-model-how-fabrics-interact-by-watching-videos.md",
+      "title": "AI system learns to model how fabrics interact by watching videos",
+      "excerpt": "Researchers propose an AI system that learns to model the physical interactions between types of fabrics by watching videos.",
+      "webUrl": "https://venturebeat.com/2020/07/02/ai-system-learns-to-model-how-fabrics-interact-by-watching-videos/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/93bf9bba-c3b0-4777-b0b9-aef3fbe413a4-e1593713324773.png?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 599,
+          "title": "AI system learns to model how fabrics interact by watching videos",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/02/ai-system-learns-to-model-how-fabrics-interact-by-watching-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/02/ai-system-learns-to-model-how-fabrics-interact-by-watching-videos/amp/",
+      "publishedDateTime": "2020-07-02T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-covid-kg-uses-ai-to-scan-thousands-of-studies-to-answer-doctors-coronavirus-questions.md",
       "title": "COVID-KG uses AI to scan thousands of studies to answer doctors’ coronavirus questions",
       "excerpt": "In a new paper, researchers from Columbia, Brandeis, Darpa, UCLA, UIUC, and elsewhere describe an AI framework that answers questions about COVID-19.",
@@ -90,7 +231,7 @@
       "title": "MIT Takes Down Popular AI Dataset Due to Racist, Misogynistic Content",
       "excerpt": "MIT permanently pulled its 80 Million Tiny Images dataset—a popular image database used to train machine learning systems to identify people and objects in an environment. The reason? It used racist,",
       "webUrl": "https://gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206",
-      "heat": 97,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1229,146 +1370,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias.md",
-      "title": "Salesforce researchers claim new method mitigates AI models’ gender bias",
-      "excerpt": "A new paper from researchers at Salesforce proposes a technique for mitigating gender bias in word embeddings from large data sets.",
-      "webUrl": "https://venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/",
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/IMG_20190530_125848__01-e1593559807331.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Salesforce researchers claim new method mitigates AI models’ gender bias",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/amp/",
-      "publishedDateTime": "2020-07-01T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-as-data-grows-what-could-the-future-of-ai-look-like-in-banking.md",
-      "title": "As Data Grows, What Could The Future Of AI Look Like In Banking?",
-      "excerpt": "AI in banking is discussed primarily in connection with specific features, but this is only the basic level of AI's potential.",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/as-data-grows-what-could-the-future-of-ai-look-like-in-banking/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efba7cd3855ae0007ddffe9%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": "As Data Grows, What Could The Future Of AI Look Like In Banking?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/as-data-grows-what-could-the-future-of-ai-look-like-in-banking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/as-data-grows-what-could-the-future-of-ai-look-like-in-banking/amp/",
-      "publishedDateTime": "2020-07-01T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform.md",
-      "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
-      "excerpt": "Spiketrap has raised $3 million for its AI platform that helps brands understand how they are engaging with consumers on social media.",
-      "webUrl": "https://venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Spiketrap_Compilation.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/amp/",
-      "publishedDateTime": "2020-07-01T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,90 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-29-building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams.md",
+      "title": "Building Ethical And Responsible AI Systems Does Not Start With Technology Teams",
+      "excerpt": "Unless we invest time and effort in designing human-centric AI solutions, we run the risk of dividing society and augmenting feelings of mistrust and intimidation.",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/",
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/amp/",
+      "publishedDateTime": "2020-06-29T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-eric-and-wendy-schmidt-back-cambridge-university-effort-to-equip-researchers-with-ai-skills.md",
+      "title": "Eric and Wendy Schmidt back Cambridge University effort to equip researchers with AI skills",
+      "excerpt": "Eric and Wendy Schmidt have donated to a Cambridge University program that is designed to equip young researchers with machine learning and artificial intelligence skills that have the potential to accelerate their research.",
+      "webUrl": "https://www.cnbc.com/2020/06/29/eric-and-wendy-schmidt-fund-cambridge-effort-to-spread-ai-skills.html",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103415766-GettyImages-466716374.jpg?v=1532564180",
+          "width": 3000,
+          "height": 2000,
+          "title": "Eric and Wendy Schmidt back Cambridge University effort to equip researchers with AI skills",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/29/eric-and-wendy-schmidt-fund-cambridge-effort-to-spread-ai-skills.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/29/eric-and-wendy-schmidt-fund-cambridge-effort-to-spread-ai-skills.html",
+      "publishedDateTime": "2020-06-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-veo-technologies-is-helping-thousands-of-soccer-teams-film-their-matches-with-ai-driven-cameras.md",
       "title": "Veo Technologies Is Helping Thousands Of Soccer Teams Film Their Matches With AI-Driven Cameras",
       "excerpt": "Veo Technologies has made a huge dent in the soccer industry and is now looking to take on the rest of the sports world.",
@@ -1042,99 +1126,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-what-you-should-know-about-investing-in-ai-during-economic-downturn.md",
-      "title": "What you should know about investing in AI during economic downturn",
-      "excerpt": "Over the past few months, the COVID-19 virus has had a huge impact on the globe. As of April 28, according to the World Health Organization, there have been more than 2.8 million confirmed cases worldwide and nearly 198,",
-      "webUrl": "https://thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/08/shutterstock_144055459_stocks_stock-market-1200x600.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": "What you should know about investing in AI during economic downturn",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/amp/",
-      "publishedDateTime": "2020-06-26T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-elon-musk-starts-another-catfight-with-jeff-bezos-after-amazon-buys-zoox-self-driving-car-venture.md",
-      "title": "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture",
-      "excerpt": "This time, Musk took aim at Amazon’s $1.2 billion acquisition of Zoox, a venture focusing on self-driving cars that could compete with Tesla, the car company that Musk heads: .@JeffBezos is a copy 🐈 haha https://t.co/plR7uupqBG — Elon Musk (@ ...",
-      "webUrl": "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/",
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/04/190410-musk-bezos-630x366.jpg",
-          "width": 630,
-          "height": 366,
-          "title": "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/",
-      "publishedDateTime": "2020-06-26T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

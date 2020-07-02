@@ -25,18 +25,23 @@ images:
     title: "Velodyne to go public in merger with special-purpose company"
 
 related:
-  - title: "Velodyne Lidar to Go Public In Merger With Blank-Check Firm Graf"
-    excerpt: "Velodyne backers including Ford, Baidu Inc., Nikon Corp. and Hyundai Mobis will retain ... Velodyne creates radar-like systems for self-driving vehicles that use lasers to generate three-dimensional images of a surrounding environment."
-    publishedDateTime: 2020-07-02T15:37:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-07-02/velodyne-lidar-to-go-public-in-merger-with-blank-check-firm-graf"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-07-02/velodyne-lidar-to-go-public-in-merger-with-blank-check-firm-graf"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-02/velodyne-lidar-to-go-public-in-merger-with-blank-check-firm-graf"
+  - title: "Velodyne becomes latest tech company to go public using a SPAC, eschewing the traditional IPO path"
+    excerpt: "Velodyne Lidar, the leading supplier of a sensor widely considered critical to the commercial deployment of autonomous vehicles, said Thursday it has struck a deal to merge with special-purpose acquisition company Graf Industrial Corp."
+    publishedDateTime: 2020-07-02T19:57:00Z
+    webUrl: "https://techcrunch.com/2020/07/02/velodyne-becomes-latest-tech-company-to-go-public-using-a-spac-eschewing-the-traditional-ipo-path/"
+    ampWebUrl: "https://techcrunch.com/2020/07/02/velodyne-becomes-latest-tech-company-to-go-public-using-a-spac-eschewing-the-traditional-ipo-path/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/02/velodyne-becomes-latest-tech-company-to-go-public-using-a-spac-eschewing-the-traditional-ipo-path/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 60
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1164317768.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
 
-secured: "AyxEace7WYCz44tFJwnfhIqvNYXlezZ8LfMjE0XZ9Pl2Di/AxA4aJPJ1C9JwwIDr9G3iFahVU2hDF9ocOfeQPWE5hhv+rvTCgMCCfu9EW8Qn4MrL8CmkSeF6VMdrF5PQ8PZB1hntqsHB7t7/EXki52qEBzr34iUPjRLevxIJEi9iEfyKsJOuytNGwM1TYix5plZqthgdVotmupOH7wwFXuoYhZWWiXcUs7LkzOUD+w2+dXSu3Nb1E4z2C3BNLQQVxhrKEBKGWdMHA3R0UkT61MZvyekWTYjOX03h+Y2o0NzDeKheDT9QWjJs8laHU8e5/+2Pf5EiB5HxJJJita4P7g==;zeA1MNHhc7MdY/MEr0HGEA=="
+secured: "Lkg0v2SNSLn9aX3Uc+4bcENX+7LJWSdrMSvPdoSkGjF+/C1RwWEBz8fXmx9fsRMsAI2PdG1kfQgz9sW3ZlvKASPWX4NYsZkhyA7IDNJ0yM1Cg3fTbjet7wAj85CJNPxc7NrxvDqBbLW3pemFnagKHLBvBx7J8gpQqAruU905U2XvPP/5KlErKT61u8c8Lcq3wykBt+uuE2woLhuO458AQj2drv9mziZPdzy26M9XfOsCJHBl4CP1GjcRgZIH3RNhMQ7p5jkO145vJWCAhyMN4fvoCErtHeX9V3//BMaoH+QU+kxwXa+OE/09LhXahyDsS5z5qsNqEAVcRFBjScEzDClZ/IJvz+ix7cGHeqkq9ilQa5eQ0vM4LslUbqspw02zeFsL56ZNQfnwp3YgWowfadZe8a7FvnegQQeRm0hELtg7BAhWbGqSjxqELWmLxOWzLIPcP3myULJFDBhDs6qTe2EHkfAUAyyhCDYBF4ZEpKxhUBsaPC5oiwvYpcfcjG+SiSdX2ERIl18I4/0DNGYANA==;IDEP4KieB5qXtcn/UGei/A=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "\"Technologies like face recognition play into historical injustices a
 publishedDateTime: 2020-07-02T16:52:00Z
 webUrl: "https://fair.org/home/face-recognition-risks-chilling-our-ability-to-participate-in-free-speech/"
 type: article
-quality: 22
-heat: 22
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://fair.org/wp-content/uploads/2020/07/Clare-Garvie-Featured.jpg"
@@ -24,6 +25,6 @@ images:
     isCached: true
     title: "‘Face Recognition Risks Chilling Our Ability to Participate in Free Speech’"
 
-secured: "p7DdUM8ZO0rLIVdwE3bwmrw4COjgdtb5STtXz7iNXsknvn3Pjmg2M9694YiZLPx3TIVG0GHlLvVHJr4b7FYO/b3L3xlPeJ6elevyNSi8MEEKIn3rNCbIiF+H87g74YxQn5xMBuindMp8FumbBJyaUfI0osjnn3jsrWwhArPRBkGOybBINo9Z33nlyfh4wbeTNWPUKxO1r8ppD+uiLMauePezEgR4B4TKcKLcN5HcfEqyskM8T+OU0AKQo6nWiNpAw07OcYS5XU2XTIPR+MY62/iB7uufkb5tzuNoG97zFNdgGrTWBJF8v2wg62zwhWv42cjJb4k4hNaWCmLwOpE4SQ==;s9AsD+3UFOgWcoKMr9uE0g=="
+secured: "/xAmYkG54Lz42aIgbgNbNlPbuqYu1K1zsXrEeC7dAkRyMo7/lW4yRz8cM+pDjMg5eid/KvOJmLiyQxdXNVoSonbYdHzxHe9BkEhNjnk2B1vkbJMhbFGZeQXALcbJ76hlDvanqwcKs0YMJL452sw9EUTc2ndp6RtiBcF/0TPAPi9VlYHT3vyaDewqNuFO300ia93aJyt6jRavIhEo+1549FSQVpmXUA+smuTYTZEfmIhVUeV0JbkO+GjA5PyeqrbPNg0Ff/gV8S+EM+FeXgptZYiuXVoF79Jl6OdvFSF8AajUYzH9rQspp9qC6H2bHuGCdtvWtvnK7qSEyzSWAVrtzD7mM0tT4kZTUlvTZgI1nviF2Os/wjITb/N+/paUksyn455QPPDy4xgf3AlBLcBGl0ZFbazmU7VwXpep8laQNUNMhj5WBpWmCYu/D5p7R46xTqCzLC8nNTGk2Wtbztqe5yqLiK+dFYhs9DCs9y4ObfDQJR23e3NDNniJ4Q7tUxA+bapf5rVpPvA20j1KokaiOA==;XVy55oTD7iY24rq6k1qddw=="
 ---
 

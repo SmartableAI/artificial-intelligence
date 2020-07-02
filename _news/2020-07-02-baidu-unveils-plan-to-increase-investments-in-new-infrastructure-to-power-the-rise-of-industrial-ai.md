@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Baidu Unveils Plan to Increase Investments in New Infrastructure to Power the Rise of Industrial AI"
-excerpt: "(NASDAQ:BIDU) recently announced that it will increase its investments in cloud computing, AI education, AI platforms, chipsets, and data centers in the coming ten years as part of its efforts to construct \"new infrastructure\" for the smart economy of the future."
-publishedDateTime: 2020-07-02T15:46:00Z
-webUrl: "https://www.marketwatch.com/press-release/baidu-unveils-plan-to-increase-investments-in-new-infrastructure-to-power-the-rise-of-industrial-ai-2020-07-02"
+excerpt: "(NASDAQ:BIDU) recently announced that it will increase its investments in cloud computing, AI education, AI platforms, chipsets, and data centers in the coming ten years as part of its efforts to construct “new infrastructure” for the smart economy of the future."
+publishedDateTime: 2020-07-02T15:45:00Z
+webUrl: "https://apnews.com/PR Newswire/3b5fff98a8f1d12d4f22ad436e0b73a3"
 type: article
-quality: 55
-heat: 55
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
     title: "Baidu Unveils Plan to Increase Investments in New Infrastructure to Power the Rise of Industrial AI"
 
-secured: "wOHGPuQgzMUsH6kBDwic36QL4ScLNpri3K3ZVE0GIJIUpsaD5l+nDuqiCFaq2vEz7ZbEGgUTSzQhz6x67qF59J23B1Hj89f+mpFHJbBE0/cGR2XtOeVcZs0Zrt8tGLmx/AGc84twjYhYRyGSSoHu+SjUtaSt8Qxyo0r4ON0UWiEAycOyvryD+zVzxGvSS9i2vDQqhPUfKgbzJ1Rlm0LvInDkcPNryWt4RiErf40kljMNLZTNROAH+2WUewzzn/1bweMsx0FOYgIJY6ZJP+OLrYiDScNcH8V9kyHfZCjWwY0YlIeQp4d0Xx5qKaVK0yQ6trF5fTqevN9z/njoJI/sog==;wJhzxegc+N3k2Lx0Mw4rfg=="
+secured: "xhJ2oMeOQSZdCQ4b491ihnvSDFfgLmwdt5wz34ztuLxwRXSPwFsOVMXXmF0W7qTiFHVtAnkZwoK0m5DR60noNPlbmdYsuCe5gbYmiS7jSoa7ac/FsNOkNL5GoV9g0JAP/ZB6h22bSpvjjsr8Q4cP2QUWmUNB9xnZV4J9O2XvG9JN6zpHCZ0FSA4Am2llpXFTLVjhXkp60hfXoVR0+T+yugdUurINokZ5qn7/1MX1eKM5YAgrcFSpGNLtQmgtyX+0g6uk6lP0Jm7vaPjyC8B3PEpnozFNbEb/HBnd1sn9L7itFVLnxEa7RyZk8AkceHzGxaZsRTKrskDVnSm7ymwYSw==;+eY1Eq7rcQa/HhPkiiQGRg=="
 ---
 

@@ -2,6 +2,100 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-25-amazon-partners-with-formula-1-for-new-2020-racing-performance-stats.md",
+      "title": "Amazon partners with Formula 1 for new 2020 racing performance stats",
+      "excerpt": "The Formula 1 season begins on July 3 in Spielberg, Austria and Amazon Web Services will help the league roll out six new, real-time racing statistics that will be shown as the ra",
+      "webUrl": "https://www.techrepublic.com/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/25/3657df80-765d-48af-bf16-4110fd6d0261/resize/1200x/94c3ec5113c8d020d33728a0a7338236/optimized-carperfsingledetail-02.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Amazon partners with Formula 1 for new 2020 racing performance stats",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/",
+      "publishedDateTime": "2020-06-25T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge.md",
+      "title": "Lyft releases new self-driving vehicle data set and launches $30,000 challenge",
+      "excerpt": "Lyft released a data set containing logs recorded by its self-driving vehicles' sensors to kick off a new AI research challenge.",
+      "webUrl": "https://venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/234b6a00-a635-4d40-b917-77416e1da96f-e1593067960296.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 571,
+          "title": "Lyft releases new self-driving vehicle data set and launches $30,000 challenge",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/amp/",
+      "publishedDateTime": "2020-06-25T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research.md",
       "title": "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research",
       "excerpt": "Intel and the National Science Foundation (NSF) announced award recipients of joint funding for research into the development of",
@@ -517,6 +611,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-25-amazon-adds-media-analysis-tools-to-amazon-rekognition-video.md",
+      "title": "Amazon adds media analysis tools to Amazon Rekognition Video",
+      "excerpt": "Machine learning service automates workflows such as creating promo videos, ad insertion and packaging content for streaming services",
+      "webUrl": "https://www.broadcastnow.co.uk/tech/amazon-adds-media-analysis-tools-to-amazon-rekognition-video/5151053.article",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d11p0alxbet5ud.cloudfront.net/Pictures/2000x2000fit/2/0/5/1327205_screenshot20200625at10.14.00_839733.png",
+          "width": 715,
+          "height": 398,
+          "title": "Amazon adds media analysis tools to Amazon Rekognition Video",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Broadcast",
+        "domain": "broadcastnow.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-real-ai-robot-cast-in-lead-role-of-sci-fi-movie.md",
       "title": "Real AI Robot Cast In Lead Role Of Sci-Fi Movie",
       "excerpt": "A new sci-fi movie is set to become the first-ever film to rely on an artificial intelligence robot named Erica.",
@@ -985,138 +1117,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-how-product-placement-works-in-2020-with-ai-deep-learning-and-more.md",
-      "title": "How Product Placement Works In 2020 - With AI, Deep Learning And More",
-      "excerpt": "Lela London chats to BEN, the Bill Gates-owned product placement agency behind most of your streaming screen's magic.",
-      "webUrl": "https://www.forbes.com/sites/lelalondon/2020/06/24/how-product-placement-works-in-2020with-ai-deep-learning-and-more/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1159735354%2F0x0.jpg%3FcropX1%3D600%26cropX2%3D1805%26cropY1%3D200%26cropY2%3D891",
-          "width": 1200,
-          "height": 689,
-          "title": "How Product Placement Works In 2020 - With AI, Deep Learning And More",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lelalondon/2020/06/24/how-product-placement-works-in-2020with-ai-deep-learning-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lelalondon/2020/06/24/how-product-placement-works-in-2020with-ai-deep-learning-and-more/amp/",
-      "publishedDateTime": "2020-06-24T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-space-robotics-market-may-see-a-growth-rate-of-873-maxar-technologies-ispace-northrop-grumman.md",
-      "title": "Space Robotics Market may see a growth rate of 8.73% | Maxar Technologies, Ispace, Northrop Grumman",
-      "excerpt": "Latest added Global Space Robotics Market research study by AMA Research offers detailed outlook and elaborates market review till 2025. The market Study is segmented by key regions that are accelerating the marketization.",
-      "webUrl": "https://www.marketwatch.com/press-release/space-robotics-market-may-see-a-growth-rate-of-873-maxar-technologies-ispace-northrop-grumman-2020-06-24",
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Space Robotics Market may see a growth rate of 8.73% | Maxar Technologies, Ispace, Northrop Grumman",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-artificial-intelligence-classifies-colorectal-cancer-using-ir-imaging.md",
-      "title": "Artificial intelligence classifies colorectal cancer using IR imaging",
-      "excerpt": "Infrared microscopy can automatically detect the type of intestinal tumour within only 30 minutes. These results are then used to make targeted therapy decisions.",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-06/rb-aic062420.php",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg",
-          "width": 900,
-          "height": 300,
-          "title": "Artificial intelligence classifies colorectal cancer using IR imaging",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

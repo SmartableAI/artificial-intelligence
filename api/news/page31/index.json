@@ -2,6 +2,205 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-06-08-the-impact-of-artificial-intelligence-on-professional-services.md",
+      "title": "The Impact Of Artificial Intelligence On Professional Services",
+      "excerpt": "Making goods and services better and cheaper is a good thing: it makes us all richer. There is scope to do this in all walks of life, and not least in professional services, such as accountancy and the law.",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/",
+      "publishedDateTime": "2020-06-08T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact.md",
+      "title": "Jaipur Firm Deploys 7 Humanoid Robots to Help Maintain Social Distancing & Reduce Human Contact",
+      "excerpt": "Humanoid robots use artificial intelligence (AI) and the Internet of Things (IoT ... They can even take the lift and reach an employee on another floor, said Chaudhary, adding when they start running out of power, they head straight towards the charging point.",
+      "webUrl": "https://www.india.com/viral/jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact-4051968/",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.india.com/wp-content/uploads/2020/06/34-1.png",
+          "width": 688,
+          "height": 433,
+          "title": "Jaipur Firm Deploys 7 Humanoid Robots to Help Maintain Social Distancing & Reduce Human Contact",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/viral/jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact-4051968/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact-4051968/amp/",
+      "publishedDateTime": "2020-06-08T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-hsbc-introduces-index-fund-built-by-ai.md",
+      "title": "HSBC introduces index fund built by AI",
+      "excerpt": "HSBC has built an automated, AI-based algorithm (in partnership with EquBot and IBM Watson) to read millions of data points about 1,000 of the largest publicly traded US companies. Data fed to the algorithm includes everything from press releases and tweets to satellite images of parking lots and the tone and language used during earnings calls.",
+      "webUrl": "https://www.techradar.com/news/hsbc-introduces-index-fund-built-by-ai",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/z92LJLnTZjgVkKM3UwYDUR-1200-80.jpg",
+          "width": 1200,
+          "height": 590,
+          "title": "HSBC introduces index fund built by AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/hsbc-introduces-index-fund-built-by-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hsbc-introduces-index-fund-built-by-ai",
+      "publishedDateTime": "2020-06-08T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-hong-kong-start-up-roborn-joins-race-to-pioneer-uv-light-disinfecting-robots.md",
+      "title": "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots",
+      "excerpt": "Hong Kong, a global financial centre less known for its robotics expertise, will soon have a local start-up join the international race to make more affordable mobile ultraviolet light disinfecting machines.",
+      "webUrl": "https://www.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/07/069aa2fc-a740-11ea-8ea0-d7434be00753_image_hires_183701.jpg?itok=FVQZGGuz&v=1591526231",
+          "width": 1200,
+          "height": 630,
+          "title": "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
+      "publishedDateTime": "2020-06-07T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-artificial-intelligence-can-serve-as-backup-to-radiologists-eyes.md",
+      "title": "Artificial intelligence can serve as backup to radiologists' eyes",
+      "excerpt": "The study shows that artificial intelligence (AI ... and there was very little you could do in terms of therapy to help patients,\" he said. Schoepf was a principal investigator in a study looking ...",
+      "webUrl": "https://www.newkerala.com/news/2020/74321.htm",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Kerala",
+        "domain": "newkerala.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-consider-the-promises-and-challenges-of-medical-image-analyses-using-machine-learning.md",
       "title": "Consider the Promises and Challenges of Medical Image Analyses Using Machine Learning",
       "excerpt": "The latest machine-learning, deep-learning, and workflow automation technology can accelerate interpretation, improve accuracy, and reduce repetition for radiologists and other specialties. The truth is that most departmental picture archiving and ...",
@@ -827,222 +1026,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all.md",
-      "title": "AI Weekly: Dismantle white supremacy for the good of us all",
-      "excerpt": "Whether it's white supremacy or AI from tech giants, systems made to work best for white men are incompatible with a diverse world.",
-      "webUrl": "https://venturebeat.com/2020/06/05/ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/IMG_20200603_175404.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI Weekly: Dismantle white supremacy for the good of us all",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/05/ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all/amp/",
-      "publishedDateTime": "2020-06-05T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-self-driving-sector-contends-its-cars-can-prevent-many-more-crashes-than-insurance-study-says.md",
-      "title": "Self-Driving Sector Contends Its Cars Can Prevent Many More Crashes Than Insurance Study Says",
-      "excerpt": "Companies working on self-driving vehicles have criticized an insurance industry study suggesting that only a third of all U.S. road crashes could be prevented by driverless cars, arguing that the study has underestimated the technology's capabilities.",
-      "webUrl": "https://www.nytimes.com/reuters/2020/06/05/technology/05reuters-autos-selfdriving.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-Driving Sector Contends Its Cars Can Prevent Many More Crashes Than Insurance Study Says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-05T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month.md",
-      "title": "AI Teammates For ‘Ghost Recon Breakpoint’ Have Been Pushed Back To Next Month",
-      "excerpt": "It will have taken a full year since launch for AI teammates to be added to the game. Will it be enough to bring players back?",
-      "webUrl": "https://www.forbes.com/sites/joeparlock/2020/06/05/ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month/",
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joeparlock/2020/06/05/ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joeparlock/2020/06/05/ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month/amp/",
-      "publishedDateTime": "2020-06-05T11:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-in-q-tel-backs-speech-recognition-outfit.md",
-      "title": "In-Q-Tel backs speech recognition outfit",
-      "excerpt": "In-Q-Tel, the intelligence community’s venture capital arm, has made an investment in an automatic speech recognition startup to determine how that technology can be of use for government agencies.",
-      "webUrl": "https://washingtontechnology.com/articles/2020/06/05/inqtel-deepgram-learning.aspx",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "In-Q-Tel backs speech recognition outfit",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-05T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Technology",
-        "domain": "washingtontechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence.md",
-      "title": "Reinforcement Learning: The Next Big Thing For AI (Artificial Intelligence)?",
-      "excerpt": "But of course, there are other areas of AI that look promising, such as reinforcement learning. Keep in mind that cutting-edge companies like Google’s DeepMind and OpenAI have already made breakthroughs with this approach.",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/",
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eadc484240a4f00063e7dd1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D410%26cropY2%3D3785",
-          "width": 1200,
-          "height": 675,
-          "title": "Reinforcement Learning: The Next Big Thing For AI (Artificial Intelligence)?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-06-05T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

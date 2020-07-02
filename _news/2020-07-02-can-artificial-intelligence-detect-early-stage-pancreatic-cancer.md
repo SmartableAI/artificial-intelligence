@@ -19,18 +19,15 @@ topics:
 related:
   - title: "Artificial intelligence brings pancreatic cancer screening one step closer to reality"
     excerpt: "Artificial intelligence (AI) holds promise for enabling earlier detection of pancreatic cancer, which is crucial to saving lives. The potential of AI is showcased in a study to be presented at the ESMO World Congress on Gastrointestinal Cancer,"
-    publishedDateTime: 2020-07-02T17:05:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-07/esfm-aib062620.php"
+    publishedDateTime: 2020-07-02T18:42:00Z
+    webUrl: "https://medicalxpress.com/news/2020-07-artificial-intelligence-pancreatic-cancer-screening.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-07-artificial-intelligence-pancreatic-cancer-screening.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-artificial-intelligence-pancreatic-cancer-screening.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 30
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/235950_web.jpg"
-        width: 1440
-        height: 961
-        isCached: true
   - title: "Enhancing Cervical Cancer Screenings with Artificial Intelligence"
     excerpt: "Integrating artificial intelligence with medical imaging improved the accuracy and efficiency of cervical cancer screenings."
     publishedDateTime: 2020-07-01T18:35:00Z
