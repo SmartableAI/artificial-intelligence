@@ -25,6 +25,20 @@ images:
     title: "IHS Markit Selects AWS Preferred Cloud Infrastructure Provider; Mike Clayville Quoted"
 
 related:
+  - title: "IHS Markit Selects AWS as Its Preferred CloudInfrastructure Provider"
+    excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that IHS Markit Ltd. (NYSE: INFO) has selected AWS as its preferred"
+    publishedDateTime: 2020-06-29T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ihs-markit-selects-aws-as-its-preferred-cloudinfrastructure-provider-2020-06-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IHS Markit Selects AWS as Its Preferred Cloud Infrastructure Provider"
     excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that IHS Markit Ltd. (NYSE: INFO) has selected AWS as its preferred"
     publishedDateTime: 2020-06-29T07:30:00Z

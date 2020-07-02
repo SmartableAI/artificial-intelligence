@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "TuSimple kicks off plan for a nationwide self-driving truck network with partners UPS, Xpress and McLane"
+    excerpt: "Self-driving trucks startup TuSimple laid out a plan Wednesday to create a mapped network of shipping routes and terminals designed for autonomous trucking operations that will extend across the United States by 2024."
+    publishedDateTime: 2020-07-02T00:03:00Z
+    webUrl: "https://techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/"
+    ampWebUrl: "https://techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 57
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck-close-up.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
     excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday"
     publishedDateTime: 2020-06-29T15:41:00Z

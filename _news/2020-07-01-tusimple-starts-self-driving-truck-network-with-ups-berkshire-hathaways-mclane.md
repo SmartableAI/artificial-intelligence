@@ -1,19 +1,21 @@
 ---
 category: news
-title: "TuSimple Starts Self-Driving Truck Network With UPS, Berkshire Hathaway's McLane"
+title: "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane"
 excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021."
-publishedDateTime: 2020-07-01T12:18:00Z
-webUrl: "https://www.usnews.com/news/technology/articles/2020-07-01/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane"
+publishedDateTime: 2020-07-01T17:06:00Z
+webUrl: "https://www.reuters.com/article/us-tusimple-selfdriving-network/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-idUSKBN2425QS"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2425QS"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2425QS"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -117,6 +119,6 @@ related:
       domain: ccjdigital.com
     quality: 0
 
-secured: "StLM2+g0WrKJcSd+5kSsugbRBRsnePxulPZFy1N4p3UcmwonV+jQ1IDLhRIrt/5IS+aYMEBS56oPnwVzzMZ7QXC1D89emoNfAYHTCjZ2CEBVe+TTYua2v+6+vGEeHixQO66j86WvddElHHHhcOCnDs5Vv958GncososZ4nca5Lf/MHk0qIIsD33Hm0hm9R+71fJqNPir+7nNK/hB7dYx7vscrImJaoifzefN7m6lr73cpJEihV+egqItOG327840rrKFOWtQJh+U9tlbQ6bZbRjvKTvQ4XIRAXyFi8Jhx2D/AVYtmvMdC3Qorr8uF2EXi0bt9e3XX1ydkH25QWPPrw==;4J46L5CzOv+wvrmviimAcg=="
+secured: "frQ2gO8oQWfU5tjVm0pFHK7+Tnu+91HNia2MDycHhqfi3foSeXliaJc5ngj8lHkh3V2GCBdbK8v3e/lN2Blge87yfyEHEVU6EChFP+VE5qC+sU6ywt9sO/t/ovOj1WRevgyL0of9CQ1xmvFjkKa29vUYDd9UDVoDLWG3USglFqKgjfp32goLL/HdHBLEgdnqJXRGOEhkgR6YOVTh+ebNPTvzR64xsJnKExn9zV+IkbrTVw9kFXChHajWZGgoJGKzaj1afeQeq5psI0Okp5nL3u1VPjj21Zc6gtc0vfF+f2NKGDXLCxfn4BzXA0J+ejcEZr8CxGBFZ3ZPDvc0ePd1Ow==;90fgVtDcdeSAOzPVbEgHjw=="
 ---
 

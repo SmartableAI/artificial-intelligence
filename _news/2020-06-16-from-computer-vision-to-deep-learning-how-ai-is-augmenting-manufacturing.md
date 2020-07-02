@@ -1,26 +1,25 @@
 ---
 category: news
 title: "From Computer Vision To Deep Learning: How AI Is Augmenting Manufacturing"
-excerpt: "While machine vision has been around for more than 60 years, the recent surge in the popularity of deep learning has elevated this sometimes misunderstood technology to the attention of major manufacturers globally."
-publishedDateTime: 2020-06-16T16:25:00Z
-webUrl: "https://ctovision.com/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/"
+excerpt: "While machine vision has been around for more than 60 years, the recent surge in the popularity of deep learning has elevated this sometimes misunderstood technology to the attention of major ..."
+publishedDateTime: 2020-06-16T11:14:00Z
+webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/amp/"
 type: article
 
 provider:
-  name: ctovision.com
-  domain: ctovision.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
+  - Machine Learning
   - AI
 
-images:
-  - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-    width: 632
-    height: 422
-    isCached: true
-    title: "From Computer Vision To Deep Learning: How AI Is Augmenting Manufacturing"
-
-secured: "2mSmIyCY8mCeEd2ru0wx0/1ncWKdRWouBRvi6iOL63+GnibZLCbqZWEe7vLd1qKZXzwfG+HbsfexeZ6rQRYRXPD3VViXdY04vx8XxyMV3LzBuoqTZj+VFcUNnuLRS8WmGSAacpNf1zIE8JdwcqxXy5S3RovNKq3Z8xpQIOXq00CpxPR+09/ki7mOMbVqblFwrfe/Xdp4nv54aIb/MLwgLISzQlxAHtKkFjH64y/D5BbEoTxl+HIqr68MbwIiifQoGjNhDQbfNJ17Ssf3vA5YtP3oYFLzVPGveDtBEYrE7sa+GESE6w5rl2ck5uMmnpqnWI3bwu7ZaZiMT7e6Kt39Sg==;RxKeXwhSVKMWxT1QT5EQ9Q=="
+secured: "fvpBz77zx/MnPB0orcNoO/4+Y7dxwvJoQYIYptISl9ZHcCJiCLfuwzo8GtUd6PjvebBcIN58DCLb32AKqg7eCfKiPbxL88khJ5rjle9X0QmdscvLBM7GTXrCSLvjJsrqYpZQRnXHXL81zx31UfYvh2KoMDYR3Ih3sBlmFP9fc+izdy2/SOLNWvYMa85MJDtMLTBHKtCQR8k03vsQlfZekANeeW9+bdb3RBc6Wc6BqSMDn+LUkCRCDvqlcs1ATNdY1gZ31kNDYgU6fEnw/6oZTGABsLgpH6570gdlwF2eZv4302+am87uU9+hc6oYl847CoVRx4zdDpi1xhIzBlqfnA==;Uji5oOaY/PT3pAmT5AQaxg=="
 ---
 
