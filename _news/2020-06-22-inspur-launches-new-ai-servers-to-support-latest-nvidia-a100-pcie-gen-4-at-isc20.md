@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20"
-excerpt: "NF5468M6 and NF5468A5 accommodate 8 pcs of double-width NVIDIA A100 PCIe GPUs in 4U chassis. Both support the latest PCIe Gen 4 of 64GB/s bi-directional bandwidth, achieving superior AI computing performance."
-publishedDateTime: 2020-06-22T07:22:00Z
-webUrl: "https://www.businesswire.com/news/home/20200622005207/en/Inspur-Launches-New-AI-Servers-Support-Latest"
+excerpt: "NF5468M6 and NF5468A5 accommodate 8 pcs of double-width NVIDIA A100 PCIe GPUs in 4U chassis. Both support the latest PCIe Gen 4 of 64GB/s bi-directional"
+publishedDateTime: 2020-06-22T14:26:00Z
+webUrl: "https://www.hpcwire.com/2020/06/22/inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20/"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: HPCwire
+  domain: hpcwire.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200622005207/en/799983/23/inspur_logo.jpg"
-    width: 1200
-    height: 627
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/shutterstock_1400242643.jpg"
+    width: 1000
+    height: 563
     isCached: true
     title: "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20"
 
-secured: "D/dRrx9QXiuRMozAHNKZoiB6GhjnUjEJnEfETQ5v9jW7wq7wRcDIt9V2vuGULfWXsZ8zMQPMj49SF5TZBJoF1J9yAvrVRzA8AWaH/Q6JdE9Zwg7x7D9udoXvEkMcAeJX8teSPsX7W75bmg6FUmK3ErYrMTyn70n6OrD0Kfr0qHZQ8k5cvJoWoDQXsektaAGCRLv2uCVbVwrO5vderElhDl83Gtv0j66EBPXSi6D/lO9L9+Vt/rSrDZEyNXbYyVZUrqANumYIF+RK1OvdN07oe5WAeGGcY9ZfJppTP6FBaJgI659PfHHxD3o/7v5yNCSHlSWj7kASdzu39dgQ46MpTcD3N+mkhiPeCHe8oin+VfYBZ8J0oG1KG8077/Z4HTA1+nEl+upUXU10w2Hl5Yy5XRISBW6jTPmbMV4mWzfWJdkHlGFK5kl8pFM7TFAkfVJ8Y75GA4w1tvAZgqzSD96MttQMOLFAutb8e/zreu0wFY9jldt70HVi0k/g9gJ4lYjn1osOrIEDh8JzD51KwnpagA==;ZsvSnwx4Uxw0uX210JbZrg=="
+secured: "/DeBT9odFHTa6dAV55DQaCbso6ggS11Yjpeq69gDIueg9KpVSv1lcEW4KVmag04h32rcaYrNvhH61qEmFqHBCS1217Y4J02qJ3+I+k8W1eZ867/C4sP4FAUmY8zd5qRYTVpv/1gAXUi1TNXWd+tf3SoGY8i7iPbbBqWwfZSKgkHKVghJlSWV8k71oYyV6HdiFccqxjtnK7a/iqRP3i/QhFjmjFS/qZpp7BzmHkSleL/GcZaGzLbtEsKT9j16pGQWuihCkfFZLMrG6TII0aJStR9W+DVIIDz5WJH4IR6phoIffDnXhtkcdYMMG9V2hEV9EpuXgIXpZHQXUrJWUZnndA==;Ufc+CIRsjD+mCqf/bNya1Q=="
 ---
 
