@@ -8,7 +8,7 @@ ampWebUrl: "https://www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-f
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/dyzykz/detroit-police-chief-facial-recognition-software-misidentifies-96-of-the-time"
 type: article
 quality: 85
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://www.marketplace.org/wp-content/uploads/2020/06/fr-ft-img.jpg?w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Detroit coppers admit that facial recognition systems are useless"
+    excerpt: "But they have used them against Black people anyway Detroit police have used highly unreliable facial recognition technology almost exclusively against Black people so far in 2020, according to the Detroit Police Department's own statistics."
+    publishedDateTime: 2020-07-02T09:59:00Z
+    webUrl: "https://www.fudzilla.com/news/51106-coppers-admit-that-facial-recognition-systems-are-useless"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/42342f6796f92cddecf7d8032ec25edb_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "Police and Crime Commissioner says public consent needed for any use of live facial recognition technology in Kent"
     excerpt: "Police say mooted trials have not taken place and the commissioner insists support of the public is vital before any system is rolled out."

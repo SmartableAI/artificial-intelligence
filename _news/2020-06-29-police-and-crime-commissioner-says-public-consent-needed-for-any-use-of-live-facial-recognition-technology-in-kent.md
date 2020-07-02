@@ -82,6 +82,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Detroit coppers admit that facial recognition systems are useless"
+    excerpt: "But they have used them against Black people anyway Detroit police have used highly unreliable facial recognition technology almost exclusively against Black people so far in 2020, according to the Detroit Police Department's own statistics."
+    publishedDateTime: 2020-07-02T09:59:00Z
+    webUrl: "https://www.fudzilla.com/news/51106-coppers-admit-that-facial-recognition-systems-are-useless"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/42342f6796f92cddecf7d8032ec25edb_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "oF0/fD957+C8tKAmjLOJ8q1r/kD3BbELZZfUOZrSchTDZrRtrEkX7mZsVsybodkF44I091KdAuLNDf6+QbwaCq1OX8aBW9oZzvUiRMpCOAeGUef0JHaYs1EvP7SO9EeXV1/XPVXUDLpPCinmcfi2k7bKe4xf84B45H3lm94sDKc3OHX4UbVyrQbZjtUwfJaXrOEO7IHF0u+ell7EGXFBqdHCrxs4qxuXMxjA30T6j8Vgz3u1Z8cJlHVfforx7J2ejPgJtvxtkZvnenNih8ndKMP96x74D91YaLOQfeRKGPLWo1oRy/mu/+EboB22ryyo4Y52fHhl89qyxQdgTLbnCA==;Ku2kmI9HH2Ygv6S9Tshmhg=="
 ---

@@ -114,6 +114,20 @@ related:
         width: 847
         height: 635
         isCached: true
+  - title: "TuSimple Launches Self-Driving Truck Network with Berkshire’s McLane, UPS"
+    excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc. supply chain unit McLane that"
+    publishedDateTime: 2020-07-02T09:35:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/07/02/574171.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 23
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2020/07/bigstock-aerial-view-of-self-driving-vehicles-580x387.jpg"
+        width: 580
+        height: 387
+        isCached: true
   - title: "BHP jobs on offer to build self-driving trucks"
     excerpt: "THE rollout of 34 autonomous mining trucks at BHP Mitsubishi Alliance’s Central Queensland mine will create 56 new jobs and a $35 million windfall for regional businesses."
     publishedDateTime: 2020-07-01T01:00:00Z

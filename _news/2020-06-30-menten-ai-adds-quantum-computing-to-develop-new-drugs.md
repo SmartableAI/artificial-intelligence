@@ -44,6 +44,20 @@ related:
         width: 1024
         height: 737
         isCached: true
+  - title: "UK investors bet on a deep tech boom after startups across automation, AI, and quantum computing raise $3.3 billion"
+    excerpt: "UK deep tech startups raised $3.3 billion in 2019."
+    publishedDateTime: 2020-07-02T09:06:00Z
+    webUrl: "https://www.businessinsider.com/deep-tech-uk-3-3-billion-boom-2020-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://i.insider.com/5efb53c3aee6a807dc1b9913?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "JMI organises International Symposium to discuss Artificial Intelligence, Big Data Analytics, Cloud Computing and Internet of Things"
     excerpt: "Department of Computer Science, Jamia Millia Islamia(JMI) organised a one day online international symposium on ‘Recent Technologies in Computer Science’ on June 30, 2020. Topics like Big Data"
     publishedDateTime: 2020-07-02T03:41:00Z

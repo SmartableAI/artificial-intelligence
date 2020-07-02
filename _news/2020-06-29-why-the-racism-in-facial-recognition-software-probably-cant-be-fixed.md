@@ -67,6 +67,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
+  - title: "Detroit coppers admit that facial recognition systems are useless"
+    excerpt: "But they have used them against Black people anyway Detroit police have used highly unreliable facial recognition technology almost exclusively against Black people so far in 2020, according to the Detroit Police Department's own statistics."
+    publishedDateTime: 2020-07-02T09:59:00Z
+    webUrl: "https://www.fudzilla.com/news/51106-coppers-admit-that-facial-recognition-systems-are-useless"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/42342f6796f92cddecf7d8032ec25edb_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Police and Crime Commissioner says public consent needed for any use of live facial recognition technology in Kent"
     excerpt: "Police say mooted trials have not taken place and the commissioner insists support of the public is vital before any system is rolled out."
     publishedDateTime: 2020-06-29T17:23:00Z

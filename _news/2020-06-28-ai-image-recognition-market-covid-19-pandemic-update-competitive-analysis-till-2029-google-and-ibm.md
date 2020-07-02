@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-28T08:46:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-image-recognition-market-covid-19-pandemic-update-competitive-analysis-till-2029-google-and-ibm-2020-06-28"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "IoT Chip Market with COVID-19 Impact Analysis by Hardware, Power Consumption, End-use Application and Region - Global Forecast to 2025 - ResearchAndMarkets.com"
+    excerpt: "Impact Analysis by Hardware (Processor, Connectivity IC, Sensor, Memory Device and Logic Device), Power Consumption, End-use Application (Wearable Devices, Consumer Electronics, Building Automation and Retail) and Region - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-07-02T08:17:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200702005145/en/IoT-Chip-Market-COVID-19-Impact-Analysis-Hardware"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: "https://mms.businesswire.com/media/20200702005145/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "g626LnalYApKoZac9f24rLsw7FHe04hcDZLN7eXchM0AAecGOxXqQj6mTqHgMSJX91ZJHrxGW2K9LNUkt/MBnME4OVuALxnCAkdWhA4760GOkoP5SoxP+N9vb7YAD7UCOsHak/zbVvcLh/5J/8lOgtDBdTgM9l61mw9ciTBChXFeB/x7lXMwXk5N8AfnQQkSnMj+Hjxfnqm/QmDukNk+P8MdeR/Q+WRIUY250Gag0Yvh4jKpBgQeEhUqzg12PJomA9eh8c1whMutnYFytWiGRLiggfxHNueW+ElJeDBxi9IkrNeWvcx4MD3/3BnbWza3hwfHoDMCr3wjuA+AUncNxw==;w9a2e4lYHi2TZmpRwsDPxw=="

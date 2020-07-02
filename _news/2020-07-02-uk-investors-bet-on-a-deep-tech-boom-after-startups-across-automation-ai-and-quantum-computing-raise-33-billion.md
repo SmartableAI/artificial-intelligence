@@ -1,0 +1,77 @@
+---
+category: news
+title: "UK investors bet on a deep tech boom after startups across automation, AI, and quantum computing raise $3.3 billion"
+excerpt: "UK deep tech startups raised $3.3 billion in 2019."
+publishedDateTime: 2020-07-02T09:06:00Z
+webUrl: "https://www.businessinsider.com/deep-tech-uk-3-3-billion-boom-2020-6"
+type: article
+quality: 49
+heat: -1
+published: false
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Facebook AI
+  - AI
+  - AI Hardware
+
+images:
+  - url: "https://i.insider.com/5efb53c3aee6a807dc1b9913?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
+    title: "UK investors bet on a deep tech boom after startups across automation, AI, and quantum computing raise $3.3 billion"
+
+related:
+  - title: "Menten.AI’s combination of buzzword bingo brings AI and quantum computing to drug discovery"
+    excerpt: "Menten AI has an impressive founding team and a pitch that combines some of the hottest trends in tech to pursue one of the biggest problems in healthcare — new drug discovery. The company is also $4 million richer with a seed investment from firms including Uncork Capital and Khosla"
+    publishedDateTime: 2020-06-30T12:49:00Z
+    webUrl: "https://techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/"
+    ampWebUrl: "https://techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 77
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/01/quantum.jpg?w=1024"
+        width: 1024
+        height: 737
+        isCached: true
+  - title: "Menten AI Adds Quantum Computing to Develop New Drugs"
+    excerpt: "The startup, backed by Y Combinator among others, aims to develop biologics, or drugs made from organic rather than synthetic material."
+    publishedDateTime: 2020-06-30T09:44:00Z
+    webUrl: "https://www.wsj.com/articles/menten-ai-adds-quantum-computing-to-develop-new-drugs-11593509403"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-203377/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "JMI organises International Symposium to discuss Artificial Intelligence, Big Data Analytics, Cloud Computing and Internet of Things"
+    excerpt: "Department of Computer Science, Jamia Millia Islamia(JMI) organised a one day online international symposium on ‘Recent Technologies in Computer Science’ on June 30, 2020. Topics like Big Data"
+    publishedDateTime: 2020-07-02T03:41:00Z
+    webUrl: "https://indiaeducationdiary.in/jmi-organises-international-symposium-to-discuss-artificial-intelligence-big-data-analytics-cloud-computing-and-internet-of-things/"
+    ampWebUrl: "https://indiaeducationdiary.in/jmi-organises-international-symposium-to-discuss-artificial-intelligence-big-data-analytics-cloud-computing-and-internet-of-things/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/jmi-organises-international-symposium-to-discuss-artificial-intelligence-big-data-analytics-cloud-computing-and-internet-of-things/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 6
+
+secured: "7CaUycCvVd5egawBFs4NiiVaRL2oe9kbWu6kSsIU8TUxD+CJ/QarKQ09M5eeGi9TD6qHbMy5tsmlbGnrmhFX+QRKgP8zCs87jNO1J22hPi+2/qlSkoB0WpxpT+3R1xeZP1TXXKDMbCBDSEPUfVtjN1Ted+6sUTxLI/HpDMmfd3F9J0jOffYizMP8PsY5Xwm7NvgI8GzgR1AtF+7V2L31B7tMrjBTTf56BkSRWh6ZTa2AYWaW1SGPa7X4YhdD3Sl82fVqrokawErrFsR82X64Sm3Ai2HDjSvbnhyp77/Uekn69lI+p7XM4Ypf+3kh4KIzXnJdo52x6WhWI7BX8HZ0gg==;ONkamVNy7eRC+DHOMS/8rQ=="
+---
+

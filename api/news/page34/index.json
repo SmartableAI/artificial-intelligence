@@ -2,6 +2,90 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-06-03-caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort.md",
+      "title": "Caltech AI lab optimizes exoskeleton gait for human comfort",
+      "excerpt": "Caltech researchers supplemented a lower body exoskeleton with AI that optimizes gait recognition for human preference and comfort.",
+      "webUrl": "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/caltech.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 618,
+          "title": "Caltech AI lab optimizes exoskeleton gait for human comfort",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/amp/",
+      "publishedDateTime": "2020-06-03T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-bbc-voice-assistant-on-windows-10-uses-microsofts-azure-ai.md",
+      "title": "BBC voice assistant on Windows 10 uses Microsoft's Azure AI",
+      "excerpt": "The BBC's new voice assistant strives to understand people with different accents. It utilizes Azure AI and is available in preview now on Windows 10.",
+      "webUrl": "https://www.windowscentral.com/bbc-voice-assistant-windows-10-uses-microsofts-azure-ai",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/10/surface-laptop-3-13-review-3.jpg?itok=blTqM47F",
+          "width": 800,
+          "height": 600,
+          "title": "BBC voice assistant on Windows 10 uses Microsoft's Azure AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.windowscentral.com/bbc-voice-assistant-windows-10-uses-microsofts-azure-ai?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/bbc-voice-assistant-windows-10-uses-microsofts-azure-ai?amp",
+      "publishedDateTime": "2020-06-03T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development.md",
       "title": "DeepMind releases Acme, a distributed framework for reinforcement learning algorithm development",
       "excerpt": "DeepMind this week released Acme, an open source distributed framework for reinforcement learning algorithm development.",
@@ -975,100 +1059,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents.md",
-      "title": "BBC Beeb voice assistant is built to understand different UK accents",
-      "excerpt": "The British Broadcasting Corporation or BBC may be best known for being, well, a broadcasting company but it actually has left very important legacies in the tech industry today. The BBC Micro in",
-      "webUrl": "https://www.slashgear.com/bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents-02623480/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/bbc-beeb-beta.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "BBC Beeb voice assistant is built to understand different UK accents",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents-02623480/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents-02623480/amp/",
-      "publishedDateTime": "2020-06-02T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-ios-14-safari-to-get-built-in-translation-better-apple-pencil-support.md",
-      "title": "iOS 14 Safari to get built-in translation, better Apple Pencil support",
-      "excerpt": "The Internet has made the world a smaller place but, unless you’ve taken time to learn multiple languages, chances are you’ll come across pages that are incomprehensible to you.",
-      "webUrl": "https://www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/safari-ipados.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "iOS 14 Safari to get built-in translation, better Apple Pencil support",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/amp/",
-      "publishedDateTime": "2020-06-02T19:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

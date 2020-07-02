@@ -49,6 +49,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "UK investors bet on a deep tech boom after startups across automation, AI, and quantum computing raise $3.3 billion"
+    excerpt: "UK deep tech startups raised $3.3 billion in 2019."
+    publishedDateTime: 2020-07-02T09:06:00Z
+    webUrl: "https://www.businessinsider.com/deep-tech-uk-3-3-billion-boom-2020-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+    images:
+      - url: "https://i.insider.com/5efb53c3aee6a807dc1b9913?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "68OsIPj3CupICfHkZuZpImFR1699VLqyaswIr4gpljY8DglnYstPIFkOP7nbu3fdMmydYKLERhHDYUeDhQpfuiJFp+aFk60I25iGGVj18GdgIzSUVYABVE/p9GxiVvW7kQA2JojDqzx3HcAYaDhTIHU8q0O2TqWRM/8zjlnTqrz3mYxDKg9n5q44Jn0T5DDKdPK0YyPx2zbe6ZzCM280hI58hAMz1BH9lzHEeGH0+pVpxhRIet98UPlVbriN3S53yvfBtAnfdnLUZwGBY5HUTzW+shrixmogRK/IWG4uqGfyq9P7eZfVSaUZHk94Rpb0PbRPkNc5bzroSuHkNBrw2A==;GGbODPtWvauiSP47F0APFg=="
 ---

@@ -104,6 +104,20 @@ related:
         width: 847
         height: 635
         isCached: true
+  - title: "TuSimple Launches Self-Driving Truck Network with Berkshire’s McLane, UPS"
+    excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc. supply chain unit McLane that"
+    publishedDateTime: 2020-07-02T09:35:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/07/02/574171.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 23
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2020/07/bigstock-aerial-view-of-self-driving-vehicles-580x387.jpg"
+        width: 580
+        height: 387
+        isCached: true
   - title: "TuSimple's New Autonomous Freight Network Lays Groundwork for Self-Driving Trucks"
     excerpt: "Autonomous trucking technology company TuSimple has teamed up with UPS, Penske Truck Leasing, U.S. Xpress, and McLane to launch the Autonomous Freight Network, which it says will lay the groundwork for self-driving autonomous trucks to become commercially ..."
     publishedDateTime: 2020-07-01T16:11:00Z

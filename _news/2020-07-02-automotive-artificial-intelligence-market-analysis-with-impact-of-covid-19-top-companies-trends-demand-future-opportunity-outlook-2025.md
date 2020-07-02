@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IoT Chip Market with COVID-19 Impact Analysis by Hardware, Power Consumption, End-use Application and Region - Global Forecast to 2025 - ResearchAndMarkets.com"
+    excerpt: "Impact Analysis by Hardware (Processor, Connectivity IC, Sensor, Memory Device and Logic Device), Power Consumption, End-use Application (Wearable Devices, Consumer Electronics, Building Automation and Retail) and Region - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-07-02T08:17:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200702005145/en/IoT-Chip-Market-COVID-19-Impact-Analysis-Hardware"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: "https://mms.businesswire.com/media/20200702005145/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "sxtj8tGnqOxGyeQliCx53uItnFsJ2fNhLjpKc6FaXo+3Rn6/RgfqktD82jjRDLH3P+2anrfIBjnnf9VI943A5nRD8YrMnx7wJTKp5R8g+SdkCVEbLKZP8Kyy81JWQ6FfsDXVmpdyjKBVPPsm2YiMSHtnKoxUdtg5XYNfX0somrcHY0roZTb2XpcCpOK2tKNMoupQLZceUcei2SsI4VWqylEuEMF/1wcUsgTjNpXw+lP2PGA1Pdih85i5HZQUMiv5pRB4gpXg+FM53cRnOr5li0KZY6VY7pmaV87zu5Zn9aU+41qDtR39DU0PbLtv4Pp3mj587gSi7z48e9cLM6LVZw==;Kc4n+1HLi7d1ejp8lssK/w=="
 ---
