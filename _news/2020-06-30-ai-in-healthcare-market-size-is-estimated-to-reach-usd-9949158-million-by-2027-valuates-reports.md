@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Human Machine Interface Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2027"
+    excerpt: "Selbyville, Delaware Global Human Machine Interface Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Human Machine Interface Market Report also covers top key players,"
+    publishedDateTime: 2020-07-02T05:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/human-machine-interface-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2027-2020-07-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Diabetes Management Market 2028 Report Reviews Future Development, Manufacturers, Trends, Share, Size and Forecast"
     excerpt: "Overview . The Global artificial intelligence in diabetes management market is likely to register significant growth"
     publishedDateTime: 2020-06-30T07:58:00Z

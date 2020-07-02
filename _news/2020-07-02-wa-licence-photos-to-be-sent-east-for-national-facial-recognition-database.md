@@ -1,34 +1,23 @@
 ---
 category: news
-title: "Recommended Reading: When facial recognition identifies the wrong person"
-excerpt: "Law enforcement at all levels are employing facial recognition for a variety of things. When the US and countries around the world began to shut down, tech companies of all sizes announced plans to help."
-publishedDateTime: 2020-06-27T14:07:00Z
-webUrl: "https://www.engadget.com/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
-ampWebUrl: "https://www.engadget.com/amp/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
-cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
+title: "WA licence photos to be sent east for national facial recognition database"
+excerpt: "The licence photos, names, addresses, signatures of West Australians will be available to Commonwealth and interstate investigators through a national facial recognition system."
+publishedDateTime: 2020-07-02T04:04:00Z
+webUrl: "https://www.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
+ampWebUrl: "https://amp.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
+cdnAmpWebUrl: "https://amp-watoday-com-au.cdn.ampproject.org/c/s/amp.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
 type: article
-quality: 88
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WAtoday
+  domain: watoday.com.au
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Fb72763a0-c01c-11e9-befb-17263ab358ba&client=amp-blogside-v2&signature=38dee4b3efbeac7f4000006b08effbd870812c8c"
-    width: 600
-    height: 350
-    isCached: true
-    title: "Recommended Reading: When facial recognition identifies the wrong person"
 
 related:
   - title: "The organizations positioned to lobby against a US ban on facial recognition"
@@ -78,6 +67,22 @@ related:
       - url: "https://cnet3.cbsistatic.com/img/Jm9xOx4BDDOtSspQSGeOkyH-Dkc=/756x567/2019/03/15/24f83d38-b716-4dbb-909b-edbb73d85b1b/facial-recogntion-1010.jpg"
         width: 756
         height: 567
+        isCached: true
+  - title: "Recommended Reading: When facial recognition identifies the wrong person"
+    excerpt: "Law enforcement at all levels are employing facial recognition for a variety of things. When the US and countries around the world began to shut down, tech companies of all sizes announced plans to help."
+    publishedDateTime: 2020-06-27T14:07:00Z
+    webUrl: "https://www.engadget.com/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
+    ampWebUrl: "https://www.engadget.com/amp/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/recommended-reading-when-facial-recognition-identifies-the-wrong-person-140009993.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 88
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Fb72763a0-c01c-11e9-befb-17263ab358ba&client=amp-blogside-v2&signature=38dee4b3efbeac7f4000006b08effbd870812c8c"
+        width: 600
+        height: 350
         isCached: true
   - title: "Facial recognition has a new foe: The world's biggest group of computing professionals"
     excerpt: "The Association for Computing Machinery said the technology could not reliably be used in a way that wouldn't harm vulnerable populations."
@@ -240,17 +245,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
-  - title: "WA licence photos to be sent east for national facial recognition database"
-    excerpt: "The licence photos, names, addresses, signatures of West Australians will be available to Commonwealth and interstate investigators through a national facial recognition system."
-    publishedDateTime: 2020-07-02T04:04:00Z
-    webUrl: "https://www.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
-    ampWebUrl: "https://amp.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
-    cdnAmpWebUrl: "https://amp-watoday-com-au.cdn.ampproject.org/c/s/amp.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
-    type: article
-    provider:
-      name: WAtoday
-      domain: watoday.com.au
-    quality: 37
   - title: "Sports Ministry Moves Delhi High Court Seeking Restoration of Provisional Recognition to 57 NSFs"
     excerpt: "In its order, the HC had said the sports ministry and the Indian Olympic Association (IOA) were to inform the court in advance while taking any decision in relation to the NSFs."
     publishedDateTime: 2020-06-30T10:45:00Z
@@ -305,6 +299,6 @@ related:
       domain: rt.com
     quality: 19
 
-secured: "YyynpP4t3O/OKojiQsORdsSljOlorVPe0HU1zX657CLmto8GOcb8Cyi2DpRVwC67lrgy8eqOaIYEFvhiPG7kCACLv2VW2VI/f4kaIp/hU/qV4GzNoZ6TFxsCrK0FdQR4994T5m3VzLfoO0n5boRuTymfTjGDc7ZaatDT7ltxeHzU45DYW9FrgChQelFJvaXGFIoKRSgPr7olT4InZ5hgxcoRHrzkQSPzX0QbaHB9l1k6pt9bqU68sFhCmExHc9BuMWdzuaJmfm5gNyDrMqgOnEpWtC4B9A0k8uDyTZH2lNvHLAuTNsC/okZ+NceE545KS1T/L7YhaGfMoTW2iFXofxxxhV1jmtuDm3Dw+3E5yqJ92K0H3VNduvYyg8+OUSQ4aqwLLOnmUrdWbH4Yr60o/fnokQLOw7+7DVPS5MextWHixyLhe5pJ/LznxiV5WhbFGi1wOxB8Sz/5iIX18ziCRiz4S0hZSVKcFPsk2YleMipYx/+Q1Mtrmx6HDls3I0kTvUnDQXMR9deDTC9TfTGQJw==;BgZxzw9E+m2IuVrHtBAt5Q=="
+secured: "+Zm0SlvnlJc7ZS4qrbXEnHzI0fIWmN3wsITAoz2+1p3tsYtIL4K+92f3T8bBVCIIctcFTTHJYrYWG0i1/aTwhTHI0G2yPAPYbQlesrADOv1srrBM9g0rXVqICpurD6ao6XHKB/SZJsDBMzw6cqYZArmDxWZfZ1K8ep04bZCPk48kPZKbNxp/WraKPMhRYyPHNc+23JnRvTLvB5Vk4yuONlN9Qko+GYv7yfrsTe/qJp15T/t53NmhnmBJsiSyxXDjvoocGamHatl9h7lJtFF+KpzmVM64zhtrtP5Y5/+M5+S5771OIoo9x5dsZjqkBLmn+DkGaP2Vtbrfklg+PQzFOtaA8ZB/MVgreLb+2rSQtVUnD/HgW3sdZ2VJiB7FLbJL+e80AMU7va5lKpym09UGQS1CeY8NK0hYNXZ8V6okwjnt4NjA52kxG/vNGWH3H6UK4ARloEvpfmVNSUJcyzKDuXH+rEToqed5VZ2M6JVOGfrbRkmBcpjUOl9BP4bUgaw2DSUZcLFYQwAopTjabhZ2wQ==;yp7Qx9U6SIagCkRntwtRdw=="
 ---
 

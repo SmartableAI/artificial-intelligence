@@ -3,9 +3,9 @@ category: news
 title: "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud"
 excerpt: "We congratulate our wise leadership on our unprecedented regional achievement & take pride in HBMSU’s leading position that supports UAE's competitiveness on global educational landscape” Mansoor Al Awar: “With our adoption of AWS,"
 publishedDateTime: 2020-07-01T11:31:00Z
-webUrl: "https://www.zawya.com/uae/en/press-releases/story/HBMSU_becomes_MENA_regions_first_educational_institution_to_migrate_its_full_systems_and_applications_to_AWS_Cloud-ZAWYA20200701110907/"
-ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20200701110907/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200701110907/"
+webUrl: "https://www.zawya.com/mena/en/press-releases/story/HBMSU_becomes_MENA_regions_first_educational_institution_to_migrate_its_full_systems_and_applications_to_AWS_Cloud-ZAWYA20200701110907/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/"
 type: article
 quality: 37
 heat: 37
@@ -42,6 +42,6 @@ related:
         height: 456
         isCached: true
 
-secured: "VHH6/EEoU2jssciXAn+mgi1tHHTI369nsq88hHYbUOirRFdOZoJDCpHOO49poSsh/nOR8Do890OCQ4hR1gMu+T7tmwo3sb65XccjsMjUc3HXgUERmjj/j3rbkC69vmgyiDnO2HlKvDgIfF9OSeX+EjpWabHFWiDqWiPdYGWyzGB6Ho3x+6hW98ywd1S2RPzYuZKfMYuwCFqqy2mozxbc+kVPtoNe6WhVIUjwCKIJNKCXM3xHJe4BkKgCpQ0RUf8REbhg34AedOtL6r0RNHGPyoIGDr8VTUFB8eQMfkQ1zdD7/S7z+1cJzlSSmPF1Mf2ReYUH5MkBSnI1HAyfkNr7uQ==;WA4uOErAEywqVdcuDfNXmA=="
+secured: "SAeaoExB88Bk58lE0uo+mbWAGde9tad1ITtqCYiMIoJlunOlIGz7s6DngUNXa9CST8A1Rglf5FkMDDfl4426e1BlAB6nGjl9sQVqjShv2qAxH/HlKHsDm2U4sHRjurDKhUg4WFnFimQYK3cvOSXigle8WBevxeuRRp+rJvCGvfnay35HhrM8EZ/gvUU9cVGZ6CQSutJyousps0SPqMN0+QLgSoALLvpx/ky2SQDyDhcNRJDxwFOZ21QQ67d5MA+WmwE0vru1oyXrT7y6140SIv2FpVg9W01EEUJLcZqRaY9L1BKz8zKgi6o7LaKfjFbuHGLEi3GYUbK0mZ5uBhgb7w==;NV5kqUKJbIlulM1HIZsIjA=="
 ---
 

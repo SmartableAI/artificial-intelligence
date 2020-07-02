@@ -252,6 +252,17 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "WA licence photos to be sent east for national facial recognition database"
+    excerpt: "The licence photos, names, addresses, signatures of West Australians will be available to Commonwealth and interstate investigators through a national facial recognition system."
+    publishedDateTime: 2020-07-02T04:04:00Z
+    webUrl: "https://www.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
+    ampWebUrl: "https://amp.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
+    cdnAmpWebUrl: "https://amp-watoday-com-au.cdn.ampproject.org/c/s/amp.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
+    type: article
+    provider:
+      name: WAtoday
+      domain: watoday.com.au
+    quality: 37
   - title: "US policy arm of major computing association urges suspension of facial recognition technology"
     excerpt: "The Association for Computing Machinery's US Technology Policy Committee (USTPC) today called for 'an immediate suspension of the current and future private and governmental use of facial recognition (FR) technologies in all circumstances known or reasonably foreseeable to be prejudicial to established human and legal rights' in its 'Statement on Principles and Prerequisites for the Development,"
     publishedDateTime: 2020-06-30T09:19:00Z

@@ -45,6 +45,20 @@ related:
         width: 920
         height: 482
         isCached: true
+  - title: "Human Machine Interface Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2027"
+    excerpt: "Selbyville, Delaware Global Human Machine Interface Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Human Machine Interface Market Report also covers top key players,"
+    publishedDateTime: 2020-07-02T05:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/human-machine-interface-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2027-2020-07-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "JGYOccR2AkkY+NTmg+7LM8fvBnZNX48mP2zIqDIqjyZ2Hy0vVBEhK+W0K8LQRCN4bNTeCPBQ8ZzfAMGjBhfx5Dw39kjmOFAMjhDJOq43ttdgVvXhxf73qX60k4QKWjNa5xzmcIjTKZv3J9y56NC2zRikaSgB7Epo3rGuXs9FF4EZi4SuTH0gYhgE0RuSJ9VcuD+dxhHeOMhConpddP4EBIctoJv9/PIQkUb5kbskhqV3ov9W/x9EUHLOCKfB4UHdr966+2eRvGcH1zbSJOfBvvYkJhmOykQY9ZlF1LepZ0eOCJkBlTT+gG1WKr6lFyClSQAd+u1hexiZGWo9p/tBewe2twsI8u6H9M7M5W+uzIwt/ReNt0NTua0yXycIvlIi7d0I4E3RjncUZ52Geg8PfFnLQmORWJM69sQzqGjPgsR0us8Ggy96tItoMA2OmopHWS8GY5PlIfOT0URPwV3bo22hCcEwmEFZOZZN1rC3AlOBUJUuPC7bMMocxeGy/6ENq+timOsDqDMMjwjLKojwag==;mPOqaAOrvLUXPi6cdpmWuw=="
 ---

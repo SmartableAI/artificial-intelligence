@@ -234,6 +234,17 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "WA licence photos to be sent east for national facial recognition database"
+    excerpt: "The licence photos, names, addresses, signatures of West Australians will be available to Commonwealth and interstate investigators through a national facial recognition system."
+    publishedDateTime: 2020-07-02T04:04:00Z
+    webUrl: "https://www.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
+    ampWebUrl: "https://amp.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
+    cdnAmpWebUrl: "https://amp-watoday-com-au.cdn.ampproject.org/c/s/amp.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
+    type: article
+    provider:
+      name: WAtoday
+      domain: watoday.com.au
+    quality: 37
   - title: "Sports Ministry Moves Delhi High Court Seeking Restoration of Provisional Recognition to 57 NSFs"
     excerpt: "In its order, the HC had said the sports ministry and the Indian Olympic Association (IOA) were to inform the court in advance while taking any decision in relation to the NSFs."
     publishedDateTime: 2020-06-30T10:45:00Z
