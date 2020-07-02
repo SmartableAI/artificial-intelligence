@@ -1113,33 +1113,33 @@
       ]
     },
     {
-      "path": "_news/2020-06-28-after-this-covid-winter-comes-an-ai-spring.md",
-      "title": "After this COVID winter comes an AI spring",
-      "excerpt": "The next economic recovery will both be driven by artificial intelligence and accelerate its adoption. This is the time to start an AI-first enterprise.",
-      "webUrl": "https://venturebeat.com/2020/06/28/after-this-covid-winter-comes-an-ai-spring/",
-      "heat": 87,
+      "path": "_news/2020-06-28-amazon-acquires-self-driving-car-startup-zoox.md",
+      "title": "Amazon Acquires Self-Driving Car Startup Zoox",
+      "excerpt": "Although Zoox has been trying to develop a robot taxi service, Amazon could use the same technologies to one day power self-driving delivery vehicles.",
+      "webUrl": "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox",
+      "heat": 254,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": "After this COVID winter comes an AI spring",
+          "url": "https://i.pcmag.com/imagery/articles/03B67ZCaMv3OJA9m8qLEVfX-1.fit_lim.size_1200x630.v_1593188466.jpg",
+          "width": 940,
+          "height": 529,
+          "title": "Amazon Acquires Self-Driving Car Startup Zoox",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/28/after-this-covid-winter-comes-an-ai-spring/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/28/after-this-covid-winter-comes-an-ai-spring/amp/",
-      "publishedDateTime": "2020-06-28T08:54:00-07:00",
+      "ampWebUrl": "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true",
+      "publishedDateTime": "2020-06-28T09:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1155,6 +1155,7 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

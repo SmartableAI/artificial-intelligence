@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 671
         isCached: true
-  - title: "Lyft Resumes Self-Driving Test Rides"
-    excerpt: "Lyft Inc. (NYSE: LYFT) has resumed testing of its self-driving technology on public roads in California, TechCrunch reported Tuesday. An employee-exclusive pilot program in Palo Alto remains paused, according to TechCrunch. The test rides conducted by its ..."
-    publishedDateTime: 2020-07-01T14:14:00Z
-    webUrl: "https://www.benzinga.com/news/20/07/16464248/lyft-resumes-self-driving-test-rides"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16464248"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16464248"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/lyft_self_driving.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Baidu-backed self-driving vehicle sensors maker going public - report"
     excerpt: "Graf Industrial is in talks to merge with Baidu-backed Velodyne Lidar in a deal that would take public the maker of sensors used in self driving vehicles, according to Bloomberg sources \"familiar with the matter\"."
     publishedDateTime: 2020-06-29T17:00:00Z

@@ -2,6 +2,53 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-09-self-driving-cars-wont-eradicate-the-car-crash-study-says.md",
+      "title": "Self-driving cars won't eradicate the car crash, study says",
+      "excerpt": "While self-driving cars won't get distracted or drive drunk, that only accounts for a third of wrecks that occur, according to the insurance industry. In a blow to hopes for a future free of car ...",
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-cars-crash-study/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving cars won't eradicate the car crash, study says",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
+      "publishedDateTime": "2020-06-08T21:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-experts-rank-tesla-waymo-and-16-other-power-players-in-the-world-on-self-driving-cars.md",
       "title": "Experts rank Tesla, Waymo and 16 other power players in the world on self-driving cars",
       "excerpt": "Guidehouse Insights evaluated Tesla, Waymo, and 16 of their rivals on a variety of criteria related to strategy and execution.",
@@ -1219,53 +1266,6 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-tencent-invests-us70-billion-in-the-future-baidu-opens-worlds-largest-self-driving-car-test-ground.md",
-      "title": "Tencent invests US$70 billion in the future, Baidu opens world’s largest self-driving car test ground",
-      "excerpt": "A wrap up of our leading stories this past week including Tencent’s plan to invest US$70 billion in digital infrastructure and Baidu’s new testing ground for self-driving cars",
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3086719/tencent-invests-us70-billion-future-baidu-opens-worlds-largest-self",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/30/11b11052-a189-11ea-8055-0ae12e466049_image_hires_063234.jpg?itok=_xOpHMiz&v=1590791565",
-          "width": 1200,
-          "height": 630,
-          "title": "Tencent invests US$70 billion in the future, Baidu opens world’s largest self-driving car test ground",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3086719/tencent-invests-us70-billion-future-baidu-opens-worlds-largest-self",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3086719/tencent-invests-us70-billion-future-baidu-opens-worlds-largest-self",
-      "publishedDateTime": "2020-05-29T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/amp/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -44,6 +44,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "JMI organises International Symposium to discuss Artificial Intelligence, Big Data Analytics, Cloud Computing and Internet of Things"
+    excerpt: "Department of Computer Science, Jamia Millia Islamia(JMI) organised a one day online international symposium on ‘Recent Technologies in Computer Science’ on June 30, 2020. Topics like Big Data"
+    publishedDateTime: 2020-07-02T03:41:00Z
+    webUrl: "https://indiaeducationdiary.in/jmi-organises-international-symposium-to-discuss-artificial-intelligence-big-data-analytics-cloud-computing-and-internet-of-things/"
+    ampWebUrl: "https://indiaeducationdiary.in/jmi-organises-international-symposium-to-discuss-artificial-intelligence-big-data-analytics-cloud-computing-and-internet-of-things/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/jmi-organises-international-symposium-to-discuss-artificial-intelligence-big-data-analytics-cloud-computing-and-internet-of-things/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 6
 
 secured: "pCLXwPPW/1uCnu4wosNKvI08YahqGn+d3FCnpZ9TVXuo2ffS7fWvaFyNMo29nxMH5eWO5jNTCSoDTiTWdhUdpXDN64xmXa1pRCTG90eC/SMjqF1m4TqnvELkW9iB89IE4RywZNQ3HpijyrVofffa41tvz8WexNSIJ7ZKNN8nTB7AfFl7b1seu/vDWHwbzIJB2hiM/NSsJI7fHa7el7sVmSux9XzUNPgLZSecQKCiKZkihYIzDQKI4Zm2k0oWanEhGVClmStswqO2+w32pIOEs39EBBvWW5G6p/2aHQrxxQFStVYU1jthKDfaHva316p8rDQWsnD2vbqM33OY9Yu03eh5Fa6KOOUot6H/dMpYRnX8rZe5Di2MwV3oRNRh1cJz57Nj0NShHkPWddISgMp0qqxDMgXV2NpyQLp3xR0pi9BEzkvAtRS+AB3hPLSraUVSI0Oc/tWtl+13khmwkljd5YOkzAMJmDosaftbDeDupufwPZ5dwSGiaNCA36h2kb5obQtZ6BjyBraZ2yBO5ddyHA==;5IEND8kIw4rMMBHGHV+NOw=="
 ---

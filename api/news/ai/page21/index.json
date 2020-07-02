@@ -2,6 +2,52 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-06-11-the-4-types-of-future-companies-as-a-result-of-automation-and-ai.md",
+      "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
+      "excerpt": "Why AI and automation will create new types of companies in the future. The success of these companies will depend upon their use of AI, automation and self management",
+      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edf6e4ecb11580006fabd8c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5500%26cropY1%3D280%26cropY2%3D3375",
+          "width": 1199,
+          "height": 675,
+          "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/amp/",
+      "publishedDateTime": "2020-06-10T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-5-reasons-why-your-chatbot-needs-natural-language-processing.md",
       "title": "5 Reasons Why Your Chatbot Needs Natural Language Processing",
       "excerpt": "This is where Natural Language Processing (NLP) comes into the picture. Within the right context for the right applications, NLP can pave the way for an easier-to-use interface to features and ...",
@@ -1255,54 +1301,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-the-race-to-develop-ai-chips-heats-up-as-graphcore-says-its-shipped-tens-of-thousands.md",
-      "title": "The race to develop A.I. chips heats up as Graphcore says it's shipped 'tens of thousands'",
-      "excerpt": "Microsoft is using Graphcore’s chips in some of its data centers and Dell is selling them on a server. Graphcore has raised over $450 million from the likes of Sequoia, BMW, DeepMind’s co-founders and C4 Ventures.",
-      "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106554991-1590656036718graphcorechip.jpg?v=1590656143",
-          "width": 4328,
-          "height": 2906,
-          "title": "The race to develop A.I. chips heats up as Graphcore says it's shipped 'tens of thousands'",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/09/graphcore-ai-chips.html",
-      "publishedDateTime": "2020-06-10T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

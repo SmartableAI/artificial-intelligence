@@ -44,6 +44,17 @@ related:
         width: 1024
         height: 737
         isCached: true
+  - title: "JMI organises International Symposium to discuss Artificial Intelligence, Big Data Analytics, Cloud Computing and Internet of Things"
+    excerpt: "Department of Computer Science, Jamia Millia Islamia(JMI) organised a one day online international symposium on ‘Recent Technologies in Computer Science’ on June 30, 2020. Topics like Big Data"
+    publishedDateTime: 2020-07-02T03:41:00Z
+    webUrl: "https://indiaeducationdiary.in/jmi-organises-international-symposium-to-discuss-artificial-intelligence-big-data-analytics-cloud-computing-and-internet-of-things/"
+    ampWebUrl: "https://indiaeducationdiary.in/jmi-organises-international-symposium-to-discuss-artificial-intelligence-big-data-analytics-cloud-computing-and-internet-of-things/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/jmi-organises-international-symposium-to-discuss-artificial-intelligence-big-data-analytics-cloud-computing-and-internet-of-things/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 6
 
 secured: "MSC450x6Ss9zfmEQmG/OCVEShgJf33w15P5ZCMLmuMm1pLT+D9KgFeQ4X20P44mMYe0kQ7bDIJy2c/QLwTEq709Yk1hPglYfGpj23CAW5y4fFXPoArgBR1JrOUrcCwcpVV5emVjhlBErQFrH1HTltoHDyXR8Y7UB07zBd9oXAgbi1QDrNdAkDVuyTBIU330i+oEp/bV6EtBGNuY5cYagS8tqYjhhrqYvD4s3Xbj048/qJWuqjVhcvMVVYPZjSp8Yo9IWopXhzxd/906MjZ6Xodp2ipZ+Zm5j/2Ut7jHkC0+w0+0dN0DjyRi37U6WOpuhxJVSGnOc8jxZFW0+Mg0FuTpGiTwnzN9F9gYhptAgMizdjfR96/D3DMEXg23zzAyBgoocDqbzbj0RIJnttAEw/gYCwr1234/2W4r5XdHNv/C+3DAoF0Tpxwpb6XaYVFWTUq7/Jc5owRqELW8uwSQz4vrpEsWBc9p5BfPQ+K6VICqdstDp+dM/IkFwVIaS524cSjqVW9LD9veLGXdXv6tusw==;4PVVUyy4Yq9encOm4Bf2DA=="
 ---

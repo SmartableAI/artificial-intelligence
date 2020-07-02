@@ -2,6 +2,44 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-25-teslas-most-robust-self-driving-package-will-cost-more-again.md",
+      "title": "Tesla's most robust self-driving package will cost more — again",
+      "excerpt": "It'll soon cost you $8,000 to buy a Tesla upgrade package, which includes some features that don't even exist yet. Tesla's Full Self-Driving package is a future-ready option for t",
+      "webUrl": "https://mashable.com/article/tesla-fsd-price-increase-/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F25%252Fd1%252F85b76a05bbb241488ffceb4b20b4d9a3.8b07b.jpg%252F1200x630.jpg?signature=Kdns6EbdS8gZHz0DCtCccLpQqcE=",
+          "width": 1200,
+          "height": 630,
+          "title": "Tesla's most robust self-driving package will cost more — again",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/tesla-fsd-price-increase-.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-price-increase-.amp",
+      "publishedDateTime": "2020-06-25T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-cambricon-once-huaweis-core-ai-chip-supplier-eyes-400m-ipo.md",
       "title": "Cambricon, once Huawei’s core AI chip supplier, eyes $400M IPO",
       "excerpt": "One of China’s most valuable artificial intelligence chipmakers, Cambricon, is one step closer to its initial public offering, and its prospectus reveals a rare snapshot of where Chinese companies stand in relation to their international counterparts in this critical field.",
@@ -1102,53 +1140,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-a-flawed-facial-recognition-system-sent-this-man-to-jail.md",
-      "title": "A Flawed Facial Recognition System Sent This Man to Jail",
-      "excerpt": "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used.",
-      "webUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/",
-      "heat": 364,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ef3e17c6cd63b0e8be2ce66/master/pass/business_facial-recognition_FXJBF0.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "A Flawed Facial Recognition System Sent This Man to Jail",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp",
-      "publishedDateTime": "2020-06-24T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

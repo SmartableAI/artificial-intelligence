@@ -100,7 +100,7 @@
       "title": "TuSimple Adds Logistics Operators to Self-Driving Trucks Effort",
       "excerpt": "Self-driving trucking startup TuSimple is teaming up with big logistics operators to bulk up its delivery business as it lays the groundwork for a planned coast-to-coast autonomous freight network.",
       "webUrl": "https://www.wsj.com/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800",
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -147,7 +147,7 @@
       "title": "Lyft’s self-driving test vehicles are back on public roads in California",
       "excerpt": "Lyft’s self-driving vehicle division has restarted testing on public roads in California, several months after pausing operations amid the COVID-19 pandemic. Lyft’s Level 5 program said Tuesday some of its autonomous vehicles are back on the road in Palo Alto and at its closed test track.",
       "webUrl": "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/",
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -358,6 +358,53 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-28-amazon-acquires-self-driving-car-startup-zoox.md",
+      "title": "Amazon Acquires Self-Driving Car Startup Zoox",
+      "excerpt": "Although Zoox has been trying to develop a robot taxi service, Amazon could use the same technologies to one day power self-driving delivery vehicles.",
+      "webUrl": "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox",
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03B67ZCaMv3OJA9m8qLEVfX-1.fit_lim.size_1200x630.v_1593188466.jpg",
+          "width": 940,
+          "height": 529,
+          "title": "Amazon Acquires Self-Driving Car Startup Zoox",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true",
+      "publishedDateTime": "2020-06-28T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1321,53 +1368,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-didi-chuxing-targets-1-million-autonomous-taxis-by-2030.md",
-      "title": "Didi Chuxing targets 1 million autonomous taxis by 2030",
-      "excerpt": "China’s ride-hailing giant Didi Chuxing aims to operate more than 1 million self-driving cars through its platform by 2030.",
-      "webUrl": "https://venturebeat.com/2020/06/23/didi-chuxing-targets-1-million-autonomous-taxis-by-2030/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Didi.png?w=1200&#038;strip=all",
-          "width": 1199,
-          "height": 603,
-          "title": "Didi Chuxing targets 1 million autonomous taxis by 2030",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/23/didi-chuxing-targets-1-million-autonomous-taxis-by-2030/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/didi-chuxing-targets-1-million-autonomous-taxis-by-2030/amp/",
-      "publishedDateTime": "2020-06-23T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

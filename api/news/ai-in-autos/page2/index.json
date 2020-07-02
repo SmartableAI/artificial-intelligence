@@ -2,6 +2,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-23-didi-chuxing-targets-1-million-autonomous-taxis-by-2030.md",
+      "title": "Didi Chuxing targets 1 million autonomous taxis by 2030",
+      "excerpt": "China’s ride-hailing giant Didi Chuxing aims to operate more than 1 million self-driving cars through its platform by 2030.",
+      "webUrl": "https://venturebeat.com/2020/06/23/didi-chuxing-targets-1-million-autonomous-taxis-by-2030/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Didi.png?w=1200&#038;strip=all",
+          "width": 1199,
+          "height": 603,
+          "title": "Didi Chuxing targets 1 million autonomous taxis by 2030",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/23/didi-chuxing-targets-1-million-autonomous-taxis-by-2030/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/didi-chuxing-targets-1-million-autonomous-taxis-by-2030/amp/",
+      "publishedDateTime": "2020-06-23T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-lyft-details-how-its-going-to-make-self-driving-cars-safer.md",
       "title": "Lyft details how it's going to make self-driving cars safer",
       "excerpt": "Lyft’s self-driving team called Level 5 has published its first ever Voluntary Safety Self-Assessment (VSSA) report (PDF), giving us a glimpse of how it plans to make sure that its autonomous vehicles are safe to use.",
@@ -1221,53 +1268,6 @@
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-self-driving-cars-wont-eradicate-the-car-crash-study-says.md",
-      "title": "Self-driving cars won't eradicate the car crash, study says",
-      "excerpt": "While self-driving cars won't get distracted or drive drunk, that only accounts for a third of wrecks that occur, according to the insurance industry. In a blow to hopes for a future free of car ...",
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-cars-crash-study/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving cars won't eradicate the car crash, study says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
-      "publishedDateTime": "2020-06-08T21:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

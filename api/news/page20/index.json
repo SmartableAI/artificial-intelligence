@@ -2,6 +2,53 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-06-15-how-the-trevor-project-is-using-ai-to-help-prevent-suicide.md",
+      "title": "How The Trevor Project is using AI to help prevent suicide",
+      "excerpt": "Suicide disproportionately affects LGBTQ+ youth. In the U.S. alone, more than 1.8 million LGBTQ+ youth between the ages of 13 and 24 seriously consider suicide or experience a significant crisis each year. Additionally, LGBTQ+ youth are over four times more likely to attempt suicide than their peers,",
+      "webUrl": "https://www.blog.google/outreach-initiatives/google-org/trevor-project/",
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Instagram-3O5A2895_rUpf6kg.max-1200x1200.png",
+          "width": 1200,
+          "height": 800,
+          "title": "How The Trevor Project is using AI to help prevent suicide",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/trevor-project/amp/",
+      "publishedDateTime": "2020-06-15T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-deep-learning-networks-track-up-to-100-animals-simultaneously.md",
       "title": "Deep learning networks track up to 100 animals simultaneously",
       "excerpt": "The trajectories described by this data were used to train a deep interaction network (bit.ly/VSD-DIN), a deep learning model that reasons how objects in complex systems interact, to support dynamic predictions and inferences about the abstract properties ...",
@@ -1005,44 +1052,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-artificial-intelligence-makes-blurry-faces-look-more-than-60-times-sharper.md",
-      "title": "Artificial Intelligence Makes Blurry Faces Look More Than 60 Times Sharper",
-      "excerpt": "Duke University researchers have developed an AI tool that can turn blurry, unrecognizable pictures of people’s faces into eerily convincing",
-      "webUrl": "https://scienceblog.com/516896/artificial-intelligence-makes-blurry-faces-look-more-than-60-times-sharper/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2020/06/BeforeAfter_0.jpg",
-          "width": 750,
-          "height": 375,
-          "title": "Artificial Intelligence Makes Blurry Faces Look More Than 60 Times Sharper",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/516896/artificial-intelligence-makes-blurry-faces-look-more-than-60-times-sharper/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/516896/artificial-intelligence-makes-blurry-faces-look-more-than-60-times-sharper/amp/",
-      "publishedDateTime": "2020-06-14T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

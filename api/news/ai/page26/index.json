@@ -2,6 +2,43 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-06-05-ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month.md",
+      "title": "AI Teammates For ‘Ghost Recon Breakpoint’ Have Been Pushed Back To Next Month",
+      "excerpt": "It will have taken a full year since launch for AI teammates to be added to the game. Will it be enough to bring players back?",
+      "webUrl": "https://www.forbes.com/sites/joeparlock/2020/06/05/ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month/",
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joeparlock/2020/06/05/ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joeparlock/2020/06/05/ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month/amp/",
+      "publishedDateTime": "2020-06-05T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-05-in-q-tel-backs-speech-recognition-outfit.md",
       "title": "In-Q-Tel backs speech recognition outfit",
       "excerpt": "In-Q-Tel, the intelligence community’s venture capital arm, has made an investment in an automatic speech recognition startup to determine how that technology can be of use for government agencies.",
@@ -1230,45 +1267,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era.md",
-      "title": "AI, machine learning to support digital lending landscape in post-covid era",
-      "excerpt": "Among other sectors, digital payments have experienced a significant boost. Areas such as online grocery stores, online pharmacies, OTT players, EDTechs, online gaming, recharges and utility payments have seen an uptick in digital payments due to a growth in their adoption.",
-      "webUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era-11591291821985.html",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/06/04/600x338/c5507094-a63e-11ea-a5bb-117a420bfddf_1591291821232_1591291923562.jpg",
-          "width": 600,
-          "height": 338,
-          "title": "AI, machine learning to support digital lending landscape in post-covid era",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
-      "publishedDateTime": "2020-06-04T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

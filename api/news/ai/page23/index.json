@@ -2,6 +2,44 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-06-09-artificial-intelligence-in-healthcare-market-worth-452-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence in Healthcare Market Worth $45.2 Billion by 2026 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "© 2020 Insider Inc. and finanzen.net GmbH All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ...",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293163",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293163",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-exclusive-report-by-marketsandmarkets-1029293163",
+      "publishedDateTime": "2020-06-09T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-seeing-results-from-ai-even-during-covid19-recession.md",
       "title": "Seeing Results From AI, Even During Covid19 Recession",
       "excerpt": "By leveraging AI solutions, we can bring America back to its former glory, and instead transform the cause of sleepless nights from recession anxiety to the exhaustion of a memorable night out in the city that never sleeps.",
@@ -1278,53 +1316,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-artificial-intelligence-chips-benefit-from-a-good-nights-sleep.md",
-      "title": "Artificial intelligence chips benefit from a good night's sleep",
-      "excerpt": "Artificial neurons are already far more human-like than traditional computers, and now it turns out they might also need sleep to function at their peak. And it’s not just a matter of turning them off every now and then – a new study shows that the neurons benefit from exposure to slow-wave",
-      "webUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/eddb853/2147483647/strip/true/crop/1999x1332+1+21/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0f%2F63%2F2daf086d4c9fbcbe654e04617cd1%2Fdepositphotos-82816702-l-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Artificial intelligence chips benefit from a good night's sleep",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
-      "publishedDateTime": "2020-06-08T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
