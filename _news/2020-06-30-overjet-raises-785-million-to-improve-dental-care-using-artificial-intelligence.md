@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T19:45:00Z
 webUrl: "https://www.businesswire.com/news/home/20200630005971/en/Overjet-Raises-7.85-Million-Improve-Dental-Care"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     title: "Overjet Raises $7.85 Million to Improve Dental Care Using Artificial Intelligence"
 
 related:
-  - title: "Capital Closes $9 Million Series Seed 2 to Advance The Capital Machine"
-    excerpt: "Capital, a leading innovator in the emerging category of “capital as a service” (CAAS), announced today that it has closed on an additional $9M in seed funding led by Jerry Yang’s AME Cloud Ventures with participation from Steve Jurvetson’s Future Ventures,"
-    publishedDateTime: 2020-06-30T13:30:00Z
-    webUrl: "https://apnews.com/PR Newswire/c3741e01caf27dd87526a28923709947"
+  - title: "FraudScope Raises $7 Million to Tackle Health-Care Fraud"
+    excerpt: "Venture capitalists are betting that startup FraudScope can help health insurers combat fraudulent claims, which cost them billions of dollars and are a growing concern because of the coronavirus pandemic."
+    publishedDateTime: 2020-07-02T11:19:00Z
+    webUrl: "https://www.wsj.com/articles/fraudscope-raises-7-million-to-tackle-health-care-fraud-11593682200"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://images.wsj.net/im-205009/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "hHIImwQOgYvp91RRtCDIoaGKJ7tt+aJP/ENPNPLKx4QhARzvqzmizbBUJZvn1hngq0I9JljSYQP0kL39PTsD4X9068oQ31m5Jzq/yA+bfJ8Qui9prRaTzCbwRQonyHfdjqMcvA8a4C3mWz2z9Hf3yfLJWl61e1u6DR8SfJUuuKt7KLhrnzmuDkfI8Ak6to/VpYhrJLrVxUF9FeNBobtYZu/uw9IQeKez5GgdKDwhtKvSRn1oAoRdifzSoyhgovtQaNHW4dgLHPBMKldkkGbuqZ0DZeVuUQk2efFPaliR/4eNBvmfLcuu3wyl1wSUS3MVfZ1fxrLMmDcN8NtGtSovy+iLfu5AwdTE8RapXYuW5nlOom+n1ac1UcEt9vbfLRyJRRNJc5fj89KXxhbhtMrDeHxRercGbEEb0ehy72G1yUIPS0Zu4qND0/b4RBcE7ogA1ahE/mvA0aE905yAHMgxm1g64iQVg4X9CprFuVK8H/OrADrA77zrrRW1fXjx2vVtNdWme8kbXz2MviPc83Iz+Q==;IBa+Vka3EfnYuUPQQb/w9w=="

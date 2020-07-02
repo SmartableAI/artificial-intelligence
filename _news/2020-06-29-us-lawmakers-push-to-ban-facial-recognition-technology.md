@@ -191,6 +191,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Dozens of advocacy groups push for Congress to ban facial recognition technology"
+    excerpt: "Nearly 40 civil rights, privacy and technology groups sent a letter to Congressional leadership Thursday pushing for a federal moratorium on facial recognition technology."
+    publishedDateTime: 2020-07-02T11:00:00Z
+    webUrl: "https://thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition"
+    ampWebUrl: "https://thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 54
+    images:
+      - url: "https://thehill.com/sites/default/files/facialrecognitiontech_070319istock.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Sen. Markey Files Legislation To Ban Government Use Of Facial Recognition Software"
     excerpt: "Markey cited a report that said Black, Brown and Asian individuals were up to 100 times more likely to be misidentified."
     publishedDateTime: 2020-06-29T04:10:00Z
