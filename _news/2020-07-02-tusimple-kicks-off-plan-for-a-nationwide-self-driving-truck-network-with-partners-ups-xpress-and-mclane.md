@@ -58,15 +58,6 @@ related:
       name: Times LIVE
       domain: timeslive.co.za
     quality: 39
-  - title: "Volvo Cars, Waymo partner to build self-driving vehicles"
-    excerpt: "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles."
-    publishedDateTime: 2020-06-28T10:10:00Z
-    webUrl: "https://www.iol.co.za/business-report/international/volvo-cars-waymo-partner-to-build-self-driving-vehicles-49982780"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 19
 
 secured: "dm0tXjBoIZ9Ek2eaolknDNKVpqR53TTjfrUTJKhHM3bef56JM9DZpSmDGGAwcUhnhO2b8N+VBDM1ktSAHH3xb0/vkE3zyJvXdJIm4s9UpHpzpVO56ThZNRmDKYK/EJDdLYZmyDE2qhPWNefofpjqA2c8+v50wA/qhFvE6Y6bkGTq2dwPJsFkQeWVN79Pzb2lW7IzNO1Am/Ei+vfCQuDhHsZGC3bx2zV2g31JlH278aQ+qB0R6QM3t3QK4EVwg7RgEf8inZ4tBwJcUYpGeN4q4DCTS/lDGSq77+OHnvPqADKctTB5SGNSd4XiOXzv1ynhJNZy2RKkjdbJVy65VtYiRdIdcTBS2oDAyMAw6pHkqTh+JdjT1jiIXL8rgiJ5x7mOh5uV3neM+fDCOWlIVd/PDCUAfCdCqtwmHnGKw7MB6kN8qOsoCO1HAaunkqjSCIxoRqOXIU5ivIRN9Elfg7g8nIYFnNDRo7bWhYcwqF7nxSd/18BVSwk7EOIlTJplkF3AyWLR9HLcStELc7mOMuCecA==;vIxc+NiEQU01wwd1uJmpZw=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 940
         height: 529
         isCached: true
-  - title: "Amazon to takeover self-driving start-up Zoox for over $1bn"
-    excerpt: "Amazon.com has agreed to pay over US$1-billion to buy self-driving start-up Zoox, The Information reported on Thursday, citing sources"
-    publishedDateTime: 2020-06-28T10:45:00Z
-    webUrl: "https://www.vanguardngr.com/2020/06/amazon-to-takeover-self-driving-start-up-zoox-for-over-1bn/"
-    ampWebUrl: "https://www.vanguardngr.com/2020/06/amazon-to-takeover-self-driving-start-up-zoox-for-over-1bn/amp/"
-    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/06/amazon-to-takeover-self-driving-start-up-zoox-for-over-1bn/amp/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 44
-    images:
-      - url: "https://www.vanguardngr.com/wp-content/uploads/2019/12/cb730e8b-8d42-4c72-a1ba-1eb3677f8c14-amazon-logo-1024x430.png"
-        width: 1024
-        height: 430
-        isCached: true
   - title: "The case for all-electric self-driving cars"
     excerpt: "Electric cars don't suffer a huge loss in range when equipped with autonomous driving technology, and there's potential to minimize the effects even further, a new peer-reviewed analysis in Nature Energy shows."
     publishedDateTime: 2020-06-30T14:40:00Z

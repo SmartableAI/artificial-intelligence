@@ -2,6 +2,121 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-05-28-baidu-releases-homegrown-quantum-machine-learning-toolkit.md",
+      "title": "Baidu releases homegrown quantum machine learning toolkit",
+      "excerpt": "Search giant Baidu has released a toolkit for machine learning that allowing researchers to build and train quantum neural networks. Why it matters: Tech giants around the globe have increased their focus on quantum computing.",
+      "webUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2019/10/BAIDU4.jpg?fit=1620%2C1080&ssl=1",
+          "width": 1620,
+          "height": 1080,
+          "title": "Baidu releases homegrown quantum machine learning toolkit",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
+      "publishedDateTime": "2020-05-28T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-ai-weiwei-has-turned-his-most-iconic-artworks-into-charity-face-masks.md",
+      "title": "Ai Weiwei has turned his most iconic artworks into charity face masks",
+      "excerpt": "The dissident artist is hoping to raise at least $1 million for vulnerable and displaced people impacted by the Covid-19 pandemic.",
+      "webUrl": "https://www.cnn.com/style/article/ai-weiwei-charity-masks/index.html",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200528145627-02-ai-weiwei-mask-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Ai Weiwei has turned his most iconic artworks into charity face masks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-charity-masks/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-charity-masks/index.html",
+      "publishedDateTime": "2020-05-28T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-28-element-ai-announces-collaboration-with-veritas-consortium-led-by-monetary-authority-of-singapore-mas.md",
+      "title": "Element AI Announces Collaboration with Veritas Consortium led by Monetary Authority of Singapore (MAS)",
+      "excerpt": "Element AI, a global developer of artificial intelligence-powered (AI) solutions and software, today announced a new",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/n16124574/element-ai-announces-collaboration-with-veritas-consortium-led-by-monetary-authority-of-singapore-",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16124574",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16124574",
+      "publishedDateTime": "2020-05-28T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-apple-buys-an-ai-startup-to-improve-siris-data.md",
       "title": "Apple buys an AI startup to improve Siri's data",
       "excerpt": "Cleaner data would go a long way toward that goal by reducing the chances that garbage information confuses Siri. Apple has been determined to upgrade Siri in recent times, and made waves when it hired Google’s former AI leader John Giannandrea with that upgrade in mind.",
@@ -894,137 +1009,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan.md",
-      "title": "5G, AI, cybersecurity and renewable energy set for investment boost under EU coronavirus recovery plan",
-      "excerpt": "The European Commission is proposing to direct billions of euros of financial relief into high tech and green investments to help the bloc recover from the coronavirus crisis. Technologies such as 5G,",
-      "webUrl": "https://techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-914922266.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "5G, AI, cybersecurity and renewable energy set for investment boost under EU coronavirus recovery plan",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/amp/",
-      "publishedDateTime": "2020-05-27T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-baidu-releases-quantum-machine-learning-toolkit-on-github.md",
-      "title": "Baidu releases quantum machine learning toolkit on GitHub",
-      "excerpt": "Chinese tech giant's Paddle Quantum development toolkit now is available on GitHub, enabling developers to build and train quantum neural network models, and includes quantum computing applications.",
-      "webUrl": "https://www.zdnet.com/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2014/09/05/40343944-34cd-11e4-9e6a-00505685119a/thumbnail/1200x675/09d197dae3621fd2b39e14fe08ffe2a0/objective-corporation-banks-on-r-and-d-in-revenue-push.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Baidu releases quantum machine learning toolkit on GitHub",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
-      "publishedDateTime": "2020-05-27T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-microsoft-build-2020-colour-me-azure.md",
-      "title": "Microsoft Build 2020: Colour me Azure",
-      "excerpt": "The Microsoft Build conference is developer heaven. It’s also a great place to learn what’s coming for the rest of us in the Microsoft world, and this year’s conference, virtual though it was, was no different.",
-      "webUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/05/azure-regions-620x250.png",
-          "width": 620,
-          "height": 250,
-          "title": "Microsoft Build 2020: Colour me Azure",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330?amp=1",
-      "publishedDateTime": "2020-05-27T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

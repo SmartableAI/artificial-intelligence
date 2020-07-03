@@ -2,6 +2,147 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-05-18-using-ai-to-predict-retinal-disease-progression.md",
+      "title": "Using AI to predict retinal disease progression",
+      "excerpt": "Vision loss among the elderly is a major healthcare issue: about one in three people have some vision-reducing disease by the age of 65. Age-related macular degeneration (AMD) is the most common cause of blindness in the developed world. In Europe, approximately 25% of those 60 and older have AMD. The",
+      "webUrl": "https://deepmind.com/blog/article/Using_ai_to_predict_retinal_disease_progression",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/UakhSqcWKFG3IeXxAeWRn9glKAVZivbPWLkZdtKeYhWrLtVVx--7YRIGW5j4DdUeSFZ0eLMGFrEhw5t_4CukZWwOx8hF2KUv0etSy94",
+          "width": 512,
+          "height": 288,
+          "title": "Using AI to predict retinal disease progression",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-17-10-ways-ai-can-improve-voice-of-the-customer-programs.md",
+      "title": "10 Ways AI Can Improve Voice Of The Customer Programs",
+      "excerpt": "Gaining insight and intelligence to energize existing customer relationships calls for greater use of AI in VoC programs.",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/17/10-ways-ai-can-improve-voice-of-the-customer-programs/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec1682ea4ff430007767803%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "10 Ways AI Can Improve Voice Of The Customer Programs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/17/10-ways-ai-can-improve-voice-of-the-customer-programs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/05/17/10-ways-ai-can-improve-voice-of-the-customer-programs/amp/",
+      "publishedDateTime": "2020-05-17T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-17-no-matter-how-sophisticated-artificial-intelligence-systems-still-need-human-oversight.md",
+      "title": "No matter how sophisticated, artificial intelligence systems still need human oversight",
+      "excerpt": "AI and machine learning systems are only as good as the data we feed them. Witness the fallout from the COVID-19 crisis, which threw many AI algorithms out of whack: 'If machines are to be trusted, we need to watch over them.",
+      "webUrl": "https://www.zdnet.com/article/no-matter-how-sophisticated-artificial-intelligence-systems-still-need-the-human-touch/",
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/17/8e854e40-61b9-473f-ad50-ea490c404772/asimo-honda-cropped.jpg",
+          "width": 534,
+          "height": 640,
+          "title": "No matter how sophisticated, artificial intelligence systems still need human oversight",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/no-matter-how-sophisticated-artificial-intelligence-systems-still-need-the-human-touch/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/no-matter-how-sophisticated-artificial-intelligence-systems-still-need-the-human-touch/",
+      "publishedDateTime": "2020-05-17T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-05-17-edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form.md",
       "title": "Edward Saatchi on virtual beings: AI is the next great art form",
       "excerpt": "Edward Saatchi believes AI is the next great art form. It is fighting for its legitimacy now, just as virtual reality, video games, and films did before.",

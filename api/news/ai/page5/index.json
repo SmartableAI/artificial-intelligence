@@ -2,6 +2,53 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-28-the-next-wave-of-ai-disruption-millennial-and-generation-z-entrepreneurial-pioneers.md",
+      "title": "The Next Wave Of AI Disruption: Millennial And Generation Z Entrepreneurial Pioneers",
+      "excerpt": "With perspectives and passions, Millennial and Generation Z entrepreneurs are at the forefront of AI innovation. They are unlocking new ways to do even the mundane tasks and will forever change how we work and look at the world.",
+      "webUrl": "https://www.forbes.com/sites/neilsahota/2020/06/28/the-next-wave-of-ai-disruption-millennial-and-generation-z-entrepreneurial-pioneers/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef7df2eec1b8800066f1233%2F0x0.jpg",
+          "width": 1200,
+          "height": 702,
+          "title": "The Next Wave Of AI Disruption: Millennial And Generation Z Entrepreneurial Pioneers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2020/06/28/the-next-wave-of-ai-disruption-millennial-and-generation-z-entrepreneurial-pioneers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2020/06/28/the-next-wave-of-ai-disruption-millennial-and-generation-z-entrepreneurial-pioneers/amp/",
+      "publishedDateTime": "2020-06-28T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-06-28-ai-image-recognition-market-covid-19-pandemic-update-competitive-analysis-till-2029-google-and-ibm.md",
       "title": "AI Image Recognition Market (Covid-19 Pandemic Update) : Competitive Analysis Till 2029 || Google and IBM",
       "excerpt": "Market.us newly added the Global AI Image Recognition Market report that gives meticulous scrutiny of aggressive market conditions based on producing volume, sales, and earnings. The ai image recognition report handles the distribution chain analysis of high Key players.",
@@ -1304,53 +1351,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-five-ways-quiet-workers-can-increase-their-visibility-and-recognition.md",
-      "title": "Five Ways Quiet Workers Can Increase Their Visibility And Recognition",
-      "excerpt": "\"My workplace doesn’t work for quiet people.\" Peter describes himself as quietly confident. He's used to being recognized for his achievements by his bosses. However, when the new director (less appreciative and more of an alpha type) appeared in his company,",
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/five-ways-quiet-workers-can-increase-their-visibility-and-recognition/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F117460704%2F0x0.jpg",
-          "width": 1199,
-          "height": 798,
-          "title": "Five Ways Quiet Workers Can Increase Their Visibility And Recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/five-ways-quiet-workers-can-increase-their-visibility-and-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/06/26/five-ways-quiet-workers-can-increase-their-visibility-and-recognition/amp/",
-      "publishedDateTime": "2020-06-26T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

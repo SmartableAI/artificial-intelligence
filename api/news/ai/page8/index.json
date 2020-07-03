@@ -2,6 +2,44 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-24-dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics.md",
+      "title": "DHL Supply Chain partners with Blue Yonder to accelerate warehouse robotics",
+      "excerpt": "AI-driven fulfillment provider Blue Yonder and DHL have deployed a new platform for the integration of warehouse robots, built on Microsoft Azure.",
+      "webUrl": "https://www.freightwaves.com/news/dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics",
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/06/DHL_Blue_Yonder_1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "DHL Supply Chain partners with Blue Yonder to accelerate warehouse robotics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics/amp",
+      "publishedDateTime": "2020-06-24T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-autonomous-farm-robot-burro-assists-human-workers-with-grape-harvest.md",
       "title": "Autonomous farm robot Burro assists human workers with grape harvest",
       "excerpt": "Burro is an autonomous driving robot that assists farm workers harvesting grapes in California that can augment or replace humans.",
@@ -1312,45 +1350,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-ai-startup-pilots-digital-masks-that-counter-facial-recognition.md",
-      "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
-      "excerpt": "A Los Angeles startup has created “privacy-preserving face skins” – digital masks or avatars that counter facial recognition software.",
-      "webUrl": "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition",
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.coindesk.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-23-at-3.18.31-PM.png",
-          "width": 1889,
-          "height": 930,
-          "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition?amp=1",
-      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition?amp=1",
-      "publishedDateTime": "2020-06-23T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinDesk",
-        "domain": "coindesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

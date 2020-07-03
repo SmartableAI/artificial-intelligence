@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-29-ipo-preview-renalytix-ai-seeks-us-ipo-investment.md",
+      "title": "IPO Preview: Renalytix AI Seeks U.S. IPO Investment",
+      "excerpt": "Renalytix AI (RNLX) intends to raise $86.25 million in an IPO of its ADSs representing underlying ordinary shares, according to an F-1 registration statement. The firm is developing an AI-enhanced diagnostics system for chronic kidney disease.",
+      "webUrl": "https://www.thestreet.com/ipo/news/renalytix-ai-ipo",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTczNjEzNzY1Njg4ODI5MTc0/renalytixnamarket.png",
+          "width": 620,
+          "height": 357,
+          "title": "IPO Preview: Renalytix AI Seeks U.S. IPO Investment",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/renalytix-ai-ipo",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/renalytix-ai-ipo",
+      "publishedDateTime": "2020-06-29T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-in-effort-to-fight-covid-19-mit-robot-gets-to-work-disinfecting-the-greater-boston-food-bank.md",
       "title": "In effort to fight COVID-19, MIT robot gets to work disinfecting The Greater Boston Food Bank",
       "excerpt": "MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) has put one of its research projects to work providing disinfection services for The Greater Boston Food Bank (GBFB), in an effort to slow the spread of COVID-19 and still allow the nonprofit to provide services to its patrons.",
@@ -976,7 +1013,7 @@
       "title": "Waymo And Volvo Form Exclusive Self-Driving Partnership",
       "excerpt": "Waymo and Volvo announced an “exclusive” partnership to integrate Waymo’s self-driving technology onto Volvo’s vehicular platform.",
       "webUrl": "https://www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-form-exclusive-self-driving-partnership/",
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1257,7 +1294,7 @@
       "title": "Amazon Acquires Self-Driving Car Startup Zoox",
       "excerpt": "Although Zoox has been trying to develop a robot taxi service, Amazon could use the same technologies to one day power self-driving delivery vehicles.",
       "webUrl": "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox",
-      "heat": 224,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1343,53 +1380,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-the-next-wave-of-ai-disruption-millennial-and-generation-z-entrepreneurial-pioneers.md",
-      "title": "The Next Wave Of AI Disruption: Millennial And Generation Z Entrepreneurial Pioneers",
-      "excerpt": "With perspectives and passions, Millennial and Generation Z entrepreneurs are at the forefront of AI innovation. They are unlocking new ways to do even the mundane tasks and will forever change how we work and look at the world.",
-      "webUrl": "https://www.forbes.com/sites/neilsahota/2020/06/28/the-next-wave-of-ai-disruption-millennial-and-generation-z-entrepreneurial-pioneers/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef7df2eec1b8800066f1233%2F0x0.jpg",
-          "width": 1200,
-          "height": 702,
-          "title": "The Next Wave Of AI Disruption: Millennial And Generation Z Entrepreneurial Pioneers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2020/06/28/the-next-wave-of-ai-disruption-millennial-and-generation-z-entrepreneurial-pioneers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2020/06/28/the-next-wave-of-ai-disruption-millennial-and-generation-z-entrepreneurial-pioneers/amp/",
-      "publishedDateTime": "2020-06-28T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

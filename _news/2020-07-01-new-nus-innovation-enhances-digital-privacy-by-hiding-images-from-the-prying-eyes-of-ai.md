@@ -41,6 +41,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Enhancing digital privacy by hiding images from AI"
+    excerpt: "In one second, the human eye can only scan through a few photographs. Computers, on the other hand, are capable of performing billions of calculations in the same amount of time. With the"
+    publishedDateTime: 2020-07-03T02:18:00Z
+    webUrl: "https://indiaeducationdiary.in/enhancing-digital-privacy-by-hiding-images-from-ai-2/"
+    ampWebUrl: "https://indiaeducationdiary.in/enhancing-digital-privacy-by-hiding-images-from-ai-2/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/enhancing-digital-privacy-by-hiding-images-from-ai-2/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 39
 
 secured: "2V2x/TTkZSiHhj8bNo1u6U3B1sqL4qcT84PcWU5RGTKlNPn3wV+0L7XvLPn1YnhjNubGE1Dn11T78Nn/BeC4E7rMzG12hNtTl1UJ5QSSiuVisBgpBjahVH1hzeq5+pcIKld07cW3Cj15VEWtob2QO0ospGxclzb2zih3zXpIKwuUY9uv67V26n2x4YKccVpUnPLmyMLnVRgowfwpsyFLK810JwYTG6Atttt/AnsgV8Og8QMrbhGCrnjiFhJVd+hESdrFloyKbdv8w3xI7K2h3GXWwZR6gZpgAu8r0Y7RV99cNlahsMIB4OMXtlIxor2VbSDVC0iSm8YRSj9kWflcfXM6d7O2VyaShCJN3Usmq8vJf1e7PpQaREyGFh4Sv2trhrxrx5a2p81ACyiypW06Jfydc6tJAVf+opv5s5PKTEs/rSY0Did+hm0OdYKlb8eKSOdcJfw+vBPkmjI2Vmp1a+XyqzmIQLG8ZuQWGzxRULW0p9SSzmDD0C3rH2PeEVUDEwB5CVz6VEqFuPQdGoSYhQ==;LJwkTQIM2GD2VSEqsOoUvQ=="
 ---

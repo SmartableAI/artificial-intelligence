@@ -2,6 +2,146 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-06-05-the-ai-community-says-black-lives-matter-but-more-work-needs-to-be-done.md",
+      "title": "The AI community says Black Lives Matter, but more work needs to be done",
+      "excerpt": "The AI community stood with the Black Lives Matter movement in a meaningful way this week, but work remains to be done to affect change.",
+      "webUrl": "https://venturebeat.com/2020/06/05/diversity-in-ai-black-lives-matter/",
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/IMG_20191122_111658-e1591389328766.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "The AI community says Black Lives Matter, but more work needs to be done",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/05/diversity-in-ai-black-lives-matter/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/diversity-in-ai-black-lives-matter/amp/",
+      "publishedDateTime": "2020-06-05T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-05-ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all.md",
+      "title": "AI Weekly: Dismantle white supremacy for the good of us all",
+      "excerpt": "Whether it's white supremacy or AI from tech giants, systems made to work best for white men are incompatible with a diverse world.",
+      "webUrl": "https://venturebeat.com/2020/06/05/ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/IMG_20200603_175404.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Dismantle white supremacy for the good of us all",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/05/ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all/amp/",
+      "publishedDateTime": "2020-06-05T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-05-self-driving-sector-contends-its-cars-can-prevent-many-more-crashes-than-insurance-study-says.md",
+      "title": "Self-Driving Sector Contends Its Cars Can Prevent Many More Crashes Than Insurance Study Says",
+      "excerpt": "Companies working on self-driving vehicles have criticized an insurance industry study suggesting that only a third of all U.S. road crashes could be prevented by driverless cars, arguing that the study has underestimated the technology's capabilities.",
+      "webUrl": "https://www.nytimes.com/reuters/2020/06/05/technology/05reuters-autos-selfdriving.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-Driving Sector Contends Its Cars Can Prevent Many More Crashes Than Insurance Study Says",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-05T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-05-ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month.md",
       "title": "AI Teammates For ‘Ghost Recon Breakpoint’ Have Been Pushed Back To Next Month",
       "excerpt": "It will have taken a full year since launch for AI teammates to be added to the game. Will it be enough to bring players back?",
@@ -1144,129 +1284,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-study-autonomous-vehicles-wont-make-roads-completely-safe.md",
-      "title": "Study: Autonomous vehicles won't make roads completely safe",
-      "excerpt": "A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error. Auto safety experts say humans cause about 94% of U.",
-      "webUrl": "https://www.stamfordadvocate.com/news/article/Stud-Autonomous-vehicles-won-t-make-roads-15316897.php",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
-          "width": 375,
-          "height": 211,
-          "title": "Study: Autonomous vehicles won't make roads completely safe",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.stamfordadvocate.com/news/amp/Stud-Autonomous-vehicles-won-t-make-roads-15316897.php",
-      "cdnAmpWebUrl": "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Stud-Autonomous-vehicles-won-t-make-roads-15316897.php",
-      "publishedDateTime": "2020-06-04T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show.md",
-      "title": "Prada-Backed AI Startup Will Live-Stream Pioneering 3D Virtual Fashion Show",
-      "excerpt": "Artificial Intelligence fashion startup Bigthinx, in partnership with Fashinnovation, will live stream a 3D Virtual Fashion Show, one of the first since the coronavirus pandemic forced the fashion industry online.",
-      "webUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookerobertsislam/2020/06/02/ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show/amp/",
-      "publishedDateTime": "2020-06-04T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities.md",
-      "title": "IBM AI Fairness 360 open source toolkit adds new functionalities",
-      "excerpt": "The new version expands capabilities of its discrimination and bias protection, bringing the tool to R users and scikit-learn.",
-      "webUrl": "https://www.techrepublic.com/article/ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities/",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/04/b2b39573-694b-48e3-ae4c-25afe5b67e19/resize/1200x/b3887efefd581e931bb5f3ce3bd52519/ibm-image.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "IBM AI Fairness 360 open source toolkit adds new functionalities",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities/",
-      "publishedDateTime": "2020-06-04T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

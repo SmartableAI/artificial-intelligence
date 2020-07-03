@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-form-exclusive-self-driving-partnership/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
       name: Times LIVE
       domain: timeslive.co.za
     quality: 39
-  - title: "Volvo Cars, Waymo partner to build self-driving vehicles"
-    excerpt: "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles."
-    publishedDateTime: 2020-06-28T10:10:00Z
-    webUrl: "https://www.iol.co.za/business-report/international/volvo-cars-waymo-partner-to-build-self-driving-vehicles-49982780"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 19
 
 secured: "b+WTAIs1f9Knogp58Qk5E2mQ4xxEVtE/KofmkbmukF52fLsJ1+IXbj+0P/avusgvPPdbdzqV+QoBU7oQYAdAO0DyyPIpE92eGglMAFIALHV8TAS3nEHWCjrb16MiQDWRVidINSsG4VnBokusO+Uyyd0Z+Ggcl0f8zHfQcuAz94PhkL3uiT3bGCUc3GnbPZ5ostjZDzCJievAuRGWfvlALZ1t71HHy/htWxQBvb7n6KIIgOMjCA2VemLs7xWcmf/E+Q0POrd5sX/Z2StiF78eXWLlZTUuEz6T4p+Hc2emRR00bqcOknEQ3YS6hvkJUdUY1fthQKl9TG6eepWI06Z9paTh9WsB4Cttkp03RKbCxImfduXxcMLwiBkkYOuCSxRQMGJtdd0+F+5nL5RZde0FdtwuaGobyCP/3vEcfhdMaUY7sqk4XY37KX4WGh6odPuCqoQrGHH/yIInIg+XNrlGszMgVCDlVNrCNBidUe51eJ7+ljMD8NrmIrm2eb7giPAUCr0B1ySuCZ9F8FOw5YLLDA==;2ledCukJw6/gW/JzHzE8lQ=="
 ---

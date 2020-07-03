@@ -2,6 +2,52 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-25-inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity.md",
+      "title": "Inclusive AI: Are AI hiring tools hurting corporate diversity?",
+      "excerpt": "More companies are using AI hiring tools in the hiring process to pinpoint premium candidates. But potential biases in these technologies have raised ethical concerns.",
+      "webUrl": "https://www.techrepublic.com/article/inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/06/25/93e5c41c-e9fb-4d75-a0da-9f14f5a5d5d3/resize/1200x/42e74b2fc02c29579b0ebee6d0ae7060/jovanmandic.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Inclusive AI: Are AI hiring tools hurting corporate diversity?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/",
+      "publishedDateTime": "2020-06-25T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-voice-ai-is-coming-to-the-workplace-loud-and-clear.md",
       "title": "Voice + AI Is Coming To The Workplace Loud And Clear",
       "excerpt": "While many of us have grown to rely on voice-based devices in our personal lives, our professional lives have yet to leverage the power of voice and AI, until now.",
@@ -1085,53 +1131,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-a-flawed-facial-recognition-system-sent-this-man-to-jail.md",
-      "title": "A Flawed Facial Recognition System Sent This Man to Jail",
-      "excerpt": "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used.",
-      "webUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/",
-      "heat": 364,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ef3e17c6cd63b0e8be2ce66/master/pass/business_facial-recognition_FXJBF0.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "A Flawed Facial Recognition System Sent This Man to Jail",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/flawed-facial-recognition-system-sent-man-jail/amp",
-      "publishedDateTime": "2020-06-24T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

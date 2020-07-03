@@ -2,6 +2,98 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-06-22-visa-unveils-ai-tool-to-help-stop-digital-identity-fraud.md",
+      "title": "Visa unveils AI tool to help stop digital identity fraud",
+      "excerpt": "Billions of people have had their information stolen online, and Visa is hoping its new AI solution will help banks handle fraudulent accounts.",
+      "webUrl": "https://www.techrepublic.com/article/visa-unveils-ai-tool-to-help-stop-digital-identity-fraud/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/07/30/d7796d74-b0e3-448b-8a77-8e17921eb4b6/resize/1200x/301705e54e230a0dd5dd7aac79c2bc0b/istock-949770040.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Visa unveils AI tool to help stop digital identity fraud",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/visa-unveils-ai-tool-to-help-stop-digital-identity-fraud/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/visa-unveils-ai-tool-to-help-stop-digital-identity-fraud/",
+      "publishedDateTime": "2020-06-22T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-ai-could-help-astronomers-unravel-the-mystery-of-dark-matter.md",
+      "title": "AI could help astronomers unravel the mystery of dark matter",
+      "excerpt": "Everything we see in the Universe around us — stars, planets, galaxies, and more — totals less than five percent of the total mass and energy that fills the Cosmos. The nature of dark matter and dark energy,",
+      "webUrl": "https://thenextweb.com/neural/2020/06/22/ai-could-help-astronomers-unravel-the-mystery-of-dark-matter-syndication/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-2-6-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI could help astronomers unravel the mystery of dark matter",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/22/ai-could-help-astronomers-unravel-the-mystery-of-dark-matter-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/22/ai-could-help-astronomers-unravel-the-mystery-of-dark-matter-syndication/amp/",
+      "publishedDateTime": "2020-06-22T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-new-study-on-neural-networks-has-implications-for-improved-ai-applications.md",
       "title": "New Study on Neural Networks has Implications for Improved AI Applications",
       "excerpt": "At North Carolina State University, researchers have found when neural networks are taught physics, they can better adapt to chaos within their environment.",
@@ -1250,99 +1342,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era.md",
-      "title": "Robots Play Pivotal Role In Keeping Travel Safe During Covid-19 Era",
-      "excerpt": "Robots are changing the way the travel industry approaches cleaning as it grapples with how to restore confidence amid the Coronavirus pandemic.",
-      "webUrl": "https://www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb8cacda69980007712aa2%2F0x0.jpg",
-          "width": 1080,
-          "height": 720,
-          "title": "Robots Play Pivotal Role In Keeping Travel Safe During Covid-19 Era",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/amp/",
-      "publishedDateTime": "2020-06-21T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits.md",
-      "title": "The new startup playbook: It’s about avoiding ridiculous ‘unicorn’ habits",
-      "excerpt": "Join leading AI executives: Register for the free livestream. That means all the rules you think you know about building a tech startup have been completely flipped. Which is ultimately a good ...",
-      "webUrl": "https://venturebeat.com/2020/06/21/the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits/",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/brainstorm.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": "The new startup playbook: It’s about avoiding ridiculous ‘unicorn’ habits",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/21/the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/21/the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits/amp/",
-      "publishedDateTime": "2020-06-21T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

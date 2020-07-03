@@ -8,8 +8,8 @@ ampWebUrl: "https://indiaeducationdiary.in/enhancing-digital-privacy-by-hiding-i
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/enhancing-digital-privacy-by-hiding-images-from-ai/?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: India Education Diary
@@ -27,6 +27,17 @@ images:
     title: "Enhancing digital privacy by hiding images from AI"
 
 related:
+  - title: "Enhancing digital privacy by hiding images from AI"
+    excerpt: "In one second, the human eye can only scan through a few photographs. Computers, on the other hand, are capable of performing billions of calculations in the same amount of time. With the"
+    publishedDateTime: 2020-07-03T02:18:00Z
+    webUrl: "https://indiaeducationdiary.in/enhancing-digital-privacy-by-hiding-images-from-ai-2/"
+    ampWebUrl: "https://indiaeducationdiary.in/enhancing-digital-privacy-by-hiding-images-from-ai-2/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/enhancing-digital-privacy-by-hiding-images-from-ai-2/?amp"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 39
   - title: "New NUS innovation enhances digital privacy by hiding images from the prying eyes of AI"
     excerpt: "Technique developed by NUS Computing safeguards sensitive information by stopping algorithms from automatically recognising faces of people as well as specific attributes, such as gender and race, while remaining fully perceptible to the human eye."
     publishedDateTime: 2020-07-01T13:05:00Z

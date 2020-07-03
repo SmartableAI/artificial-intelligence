@@ -2,6 +2,120 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-06-19-add-artificial-intelligence-expert-to-your-resume-after-this-35-training.md",
+      "title": "Add 'Artificial Intelligence Expert' to your résumé after this $35 training",
+      "excerpt": "Artificial intelligence experts. Many of today's most exciting technologies have artificial intelligence to thank. Think personalized Netflix queues, self-driving cars, and this app that blurs out the faces of protestors.",
+      "webUrl": "https://mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale/",
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F19%252F88%252F2240500266b74523b0293e3e05db6d76.089f6.jpg%252F1200x630.jpg?signature=G-7BbAQ99OQQq5C9x57kGAJsLIs=",
+          "width": 1200,
+          "height": 630,
+          "title": "Add 'Artificial Intelligence Expert' to your résumé after this $35 training",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale.amp",
+      "publishedDateTime": "2020-06-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g.md",
+      "title": "Qualcomm launches its RB5 robotics platform with Artificial Intelligence and 5G",
+      "excerpt": "Qualcomm RB5 robotics platform with Artificial Intelligence and 5G - Check out how the new platform from the fabless company transforms businesses.",
+      "webUrl": "https://www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/",
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st1.bgr.in/wp-content/uploads/2020/06/Qualcomm-RB5.jpg",
+          "width": 810,
+          "height": 460,
+          "title": "Qualcomm launches its RB5 robotics platform with Artificial Intelligence and 5G",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/amp/",
+      "cdnAmpWebUrl": "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/amp/",
+      "publishedDateTime": "2020-06-19T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "www.bgr.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-ibm-launches-watson-works-to-address-the-challenges-of-returning-to-the-workplace.md",
+      "title": "IBM Launches Watson Works to Address the Challenges of Returning to the Workplace",
+      "excerpt": "IBM (NYSE: IBM) today announced Watson Works, a curated set of products that embeds Watson artificial intelligence (AI) models and applications to help companies navigate many aspects of the return-to-workplace challenge following lockdowns put in place to slow the spread of COVID-19.",
+      "webUrl": "https://www.cmo.com.au/mediareleases/134132/ibm-launches-watson-works-to-address-the/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo.jpg",
+          "width": 620,
+          "height": 254,
+          "title": "IBM Launches Watson Works to Address the Challenges of Returning to the Workplace",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cmo.com.au",
+        "domain": "cmo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-ai-recreates-the-painting-techniques-of-famous-artists.md",
       "title": "AI recreates the painting techniques of famous artists",
       "excerpt": "Apart from the virtual history lessons, this could be useful for illustrating general painting techniques to relative newcomers — say, starting from the background and working ‘closer’ to the viewer.",
@@ -1196,129 +1310,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-serbian-parliamentary-vote-campaign-taps-greek-beaches-chinese-robots.md",
-      "title": "Serbian parliamentary vote campaign taps Greek beaches, Chinese robots",
-      "excerpt": "On Monday June 15, President Vučić visited the Center for Robotics and Artificial Intelligence in Education (CRVIO) in Belgrade, holding a public meeting with a humanoid robot made in China, called Ema. They held a conversation in Serbian. Vučić ...",
-      "webUrl": "https://globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://globalvoices.org/wp-content/uploads/2020/06/20200516-Aleksandar-Vucic-online-rally-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Serbian parliamentary vote campaign taps Greek beaches, Chinese robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/amp/",
-      "cdnAmpWebUrl": "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/amp/",
-      "publishedDateTime": "2020-06-18T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Voices Online",
-        "domain": "globalvoices.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models.md",
-      "title": "Microsoft acquires ADRM Software to beef up Azure with industry data models",
-      "excerpt": "Microsoft announced that it acquired ADRM Software, a provider of large-scale industry data models used by companies as 'information blueprints.'",
-      "webUrl": "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/",
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": "Microsoft acquires ADRM Software to beef up Azure with industry data models",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/",
-      "publishedDateTime": "2020-06-18T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-pg-diploma-in-data-science-and-artificial-intelligence-ai.md",
-      "title": "PG Diploma in Data Science and Artificial Intelligence (AI)",
-      "excerpt": "Data Science and Artificial Intelligence (AI), has emerged as a thriving field from Industry Utility and Employability point of view. This market is likely to swell to $20 billion by 2025. Companies a",
-      "webUrl": "https://www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_58525325.jpg",
-          "width": 900,
-          "height": 489,
-          "title": "PG Diploma in Data Science and Artificial Intelligence (AI)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
-      "publishedDateTime": "2020-06-18T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

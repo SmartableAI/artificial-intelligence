@@ -2,6 +2,121 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-06-17-artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets.md",
+      "title": "Artificial intelligence company raises $5m as robotics demand \"skyrockets\"",
+      "excerpt": "A London AI company has announced that it has secured $5m to help meet demand from firms looking to use… | London | Engineering | Digital | Funding | Technology | Technology | Industrial |",
+      "webUrl": "https://bdaily.co.uk/articles/2020/06/17/artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdaily.co.uk/images/uploads/iL8idSQksHVXogyIlRInDEcqnmsj2kf5UFA6lpaK.jpeg?w=940&h=430&fit=crop-43-42&s=b3eb9769a05d898d8a9c8014abe2dfcd",
+          "width": 940,
+          "height": 430,
+          "title": "Artificial intelligence company raises $5m as robotics demand \"skyrockets\"",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-17T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bdaily Business Network",
+        "domain": "bdaily.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-self-driving-cars-and-the-future-of-personal-injury-law.md",
+      "title": "Self-driving cars and the future of personal injury law",
+      "excerpt": "Your article was successfully shared with the contacts you provided. Uber self-driving SUV that flipped on its side in a collision in Tempe, Arizona on March 24, 2017. (Photo: Tempe Police ...",
+      "webUrl": "https://www.propertycasualty360.com/2020/06/17/self-driving-cars-and-the-future-of-personal-injury-law-414-181048/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2020/06/uber-driverless-car-crash.jpg",
+          "width": 616,
+          "height": 372,
+          "title": "Self-driving cars and the future of personal injury law",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.propertycasualty360.com/2020/06/17/self-driving-cars-and-the-future-of-personal-injury-law-414-181048/?amp=1",
+      "cdnAmpWebUrl": "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/06/17/self-driving-cars-and-the-future-of-personal-injury-law-414-181048/?amp=1",
+      "publishedDateTime": "2020-06-17T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PropertyCasualty360",
+        "domain": "propertycasualty360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-us-israel-israeli-fintech-firm-pagaya-raises-102-mln-in-funds.md",
+      "title": "U.S.-Israel Israeli fintech firm Pagaya raises $102 mln in funds",
+      "excerpt": "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round.",
+      "webUrl": "https://www.reuters.com/article/tech-pagaya-fundraising-idUSL8N2DU1DP",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2DU1DP",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2DU1DP",
+      "publishedDateTime": "2020-06-17T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-pagaya-raises-102-million-to-manage-assets-with-ai.md",
       "title": "Pagaya raises $102 million to manage assets with AI",
       "excerpt": "Pagaya, a startup that taps AI to manage asset-backed securities, has raised over $100 million in venture capital financing.",
@@ -968,149 +1083,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding.md",
-      "title": "Streamlit wants to revolutionize building machine learning and data science applications, scores $21 million Series A funding",
-      "excerpt": "Streamlit wants to be for data science what business intelligence tools have been for databases: a quick way to get to results, without bothering much with the details",
-      "webUrl": "https://www.zdnet.com/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2018/12/06/7678c1af-8c33-4979-b8e0-aee879e3a982/istock-933321056.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": "Streamlit wants to revolutionize building machine learning and data science applications, scores $21 million Series A funding",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
-      "publishedDateTime": "2020-06-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses.md",
-      "title": "Kickstart a lucrative career: Become an expert in big data and machine learning with these 10 courses",
-      "excerpt": "Getting in on an innovative and lucrative career path before the job market is saturated is incredibly difficult. That's been true in podcasting, tech, and many other fields. Do yourself a solid and develop an expertise in big data and machine learning starting today,",
-      "webUrl": "https://www.zdnet.com/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/06/05/bf5a3452-5b7d-4ca4-9694-3c4b6dc6e0f3/thumbnail/1200x675/244b6f31cf693537b84714e0a47a396e/zdnet-big-data.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Kickstart a lucrative career: Become an expert in big data and machine learning with these 10 courses",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
-      "publishedDateTime": "2020-06-16T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-the-coronavirus-fueled-tech-trends-that-will-continue-to-dominate-daily-life.md",
-      "title": "The coronavirus-fueled tech trends that will continue to dominate daily life",
-      "excerpt": "Machine learning and artificial intelligence underlie ... The pandemic also accelerated the adoption of disruptive trends in financial services, epitomized by Stripe at the top of the 2020 ...",
-      "webUrl": "https://www.cnbc.com/2020/06/16/the-coronavirus-fueled-tech-trends-that-will-continue-to-dominate.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106539260-1589552521050gettyimages-597273317.jpeg?v=1589552560",
-          "width": 5130,
-          "height": 3420,
-          "title": "The coronavirus-fueled tech trends that will continue to dominate daily life",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/16/the-coronavirus-fueled-tech-trends-that-will-continue-to-dominate.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/16/the-coronavirus-fueled-tech-trends-that-will-continue-to-dominate.html",
-      "publishedDateTime": "2020-06-16T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

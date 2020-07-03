@@ -2,6 +2,137 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-06-11-microsoft-bans-police-from-using-its-facial-recognition-software.md",
+      "title": "Microsoft bans police from using its facial recognition software",
+      "excerpt": "The move follows similar measures by Amazon and IBM, and bars police from using Microsoft's systems until federal regulations are in place.",
+      "webUrl": "https://www.cnet.com/news/microsoft-bans-police-from-using-its-facial-recognition-software/",
+      "heat": 409,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/HR54znBsd8jxCVa5CV_hoVJt6rg=/756x567/2020/04/17/9e4fd5eb-524c-4884-88df-b39286c78c21/microsoft-1085.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Microsoft bans police from using its facial recognition software",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-bans-police-from-using-its-facial-recognition-software/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-bans-police-from-using-its-facial-recognition-software/",
+      "publishedDateTime": "2020-06-11T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution.md",
+      "title": "Covid-19 acts as a Catalyst to AI Healthcare Revolution",
+      "excerpt": "The fourth revolution of healthcare is Artificial Intelligence. Here is the connection between AI & Medical field -Healthcare Revolution. AI is medical",
+      "webUrl": "https://techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcresendo.com/wp-content/uploads/2020/06/AI-Health-Care.png",
+          "width": 800,
+          "height": 600,
+          "title": "Covid-19 acts as a Catalyst to AI Healthcare Revolution",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/?amp",
+      "cdnAmpWebUrl": "https://techcresendo-com.cdn.ampproject.org/c/s/techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/?amp",
+      "publishedDateTime": "2020-06-11T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techcresendo.com",
+        "domain": "techcresendo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-openai-releases-commercial-api-for-multi-purpose-ai.md",
+      "title": "OpenAI releases commercial API for multi-purpose AI",
+      "excerpt": "The five year-old organization is releasing its first commercial product, giving businesses access to its general-purpose AI models.",
+      "webUrl": "https://www.zdnet.com/article/openai-releases-commercial-api-for-multi-purpose-ai/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/12/05/4e6420ab-acc9-42c4-86d0-0ed58f504e5a/thumbnail/1200x675/01b6d549f030f0f5ab9687b9c5fd85d0/oppomakes5ggroupvideocall-5c072b3160b2dc10be302bbb1dec05201830233poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "OpenAI releases commercial API for multi-purpose AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openai-releases-commercial-api-for-multi-purpose-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-releases-commercial-api-for-multi-purpose-ai/",
+      "publishedDateTime": "2020-06-11T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms.md",
       "title": "Researchers detail technique that enables attackers to ‘steal’ reinforcement learning algorithms",
       "excerpt": "In a paper, researchers at Nanyang Technological University in Singapore demonstrate a technique that can be used to 'steal' reinforcement learning models.",
@@ -916,110 +1047,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-deal-looking-for-an-exciting-cutting-edge-career-dive-into-artificial-intelligence.md",
-      "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
-      "excerpt": "Artificial intelligence, as it’s more commonly referred, is just starting to break out into the mainstream through applications like self driving cars and analytical software. Those who have ...",
-      "webUrl": "https://pocketnow.com/artificial-intelligence-deal",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pocketnow.com",
-        "domain": "pocketnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-amazon-bans-police-use-of-facial-recognition-technology-for-a-year.md",
-      "title": "Amazon Bans Police Use Of Facial Recognition Technology For A Year",
-      "excerpt": "(RTTNews) - Amazon announced a one-year moratorium on police use of its facial recognition technology, Rekognition, to give ample time to the governments to implement stronger regulations for racial equality and justice.",
-      "webUrl": "https://www.nasdaq.com/articles/amazon-bans-police-use-of-facial-recognition-technology-for-a-year-2020-06-11",
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-bans-police-use-of-facial-recognition-technology-for-a-year-2020-06-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-bans-police-use-of-facial-recognition-technology-for-a-year-2020-06-11?amp",
-      "publishedDateTime": "2020-06-11T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-let-this-ai-powered-tool-build-you-a-better-resume-for-just-29.md",
-      "title": "Let this AI-powered tool build you a better résumé for just $29",
-      "excerpt": "This tool knows exactly what employers are looking for, what catches their eye, and what will help to put you on their radar as a potential new hire. Rezi knows the tricks of the trade and will help you build the perfect resume that companies just can't ignore.",
-      "webUrl": "https://www.zdnet.com/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/11/3d2581d5-abeb-4c22-9a4c-59c52b6975a2/bram-naus-n8qb1zakk88-unsplash.jpg",
-          "width": 4976,
-          "height": 3223,
-          "title": "Let this AI-powered tool build you a better résumé for just $29",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
-      "publishedDateTime": "2020-06-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

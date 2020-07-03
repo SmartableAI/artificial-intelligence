@@ -52,15 +52,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Volvo Cars, Waymo partner to build self-driving vehicles"
-    excerpt: "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles."
-    publishedDateTime: 2020-06-28T10:10:00Z
-    webUrl: "https://www.iol.co.za/business-report/international/volvo-cars-waymo-partner-to-build-self-driving-vehicles-49982780"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 19
 
 secured: "aNwC0ru7O8NTXPOlsp/6GPVvGeUulIW+Wg/JO5xrlQY97ytsu1UVD7+UrG2Y/XxL6XhX2/3suXz6lPQCgfkTTeCdNYRHZvwDsemZQaIcFm0LLqf3oI4pl0piTwgEeyXJBgJpTBfIpIeauIuNMESSJ2FE8Ktb7dWbThEhWTDe4aRa6cT1JA48bkvBSQCp1rjSCFRDs8LInOV0Lxg63SmKnmqvvEiCrf3TmQY8AwVjA1afvcSRtd82/5Hiu3y9Jj/qe3yvcuQTSOwGtntlyqbBbMOHLZBPq3NGa/5di3sCdvQCxSscgSnL3rkVxzTMqyKisteAZNXQd3MuRW6mtb2bP17qaroDi68tEvnQkp025rdnrPltAG/yKWoWCWznMHPNr51uPHRJk67KT5n8m8EGEMQyoDxkF5PXtaCb1EgF3+EtiqwP87wAq39MLZJReml/fqjiS7z9Q1mHLn9YQ4O91MP7S6vl6z5K8R3PLesoAarK0zAPLQw+LzK62+oZk08L5/3DfTZgC9NrVUpSqpBVdg==;hl+Px/1o9MpPm218UgBmDg=="
 ---

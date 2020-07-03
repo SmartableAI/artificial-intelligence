@@ -48,6 +48,44 @@
       ]
     },
     {
+      "path": "_news/2020-07-01-enhancing-digital-privacy-by-hiding-images-from-ai.md",
+      "title": "Enhancing digital privacy by hiding images from AI",
+      "excerpt": "In one second, the human eye can only scan through a few photographs. Computers, on the other hand, are capable of performing billions of calculations in the same amount of time. With the",
+      "webUrl": "https://indiaeducationdiary.in/enhancing-digital-privacy-by-hiding-images-from-ai/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/07/Comparison_Images.jpg?fit=960%2C540&ssl=1",
+          "width": 960,
+          "height": 540,
+          "title": "Enhancing digital privacy by hiding images from AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/enhancing-digital-privacy-by-hiding-images-from-ai/?amp",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/enhancing-digital-privacy-by-hiding-images-from-ai/?amp",
+      "publishedDateTime": "2020-07-01T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments.md",
       "title": "Stanford AI researchers introduce LILAC, reinforcement learning for dynamic environments",
       "excerpt": "Stanford AI Lab (SAIL) researchers created an AI technique called LILAC to allow reinforcement learning algorithms to operate in dynamic environments.",
@@ -1077,54 +1115,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-aws-google-and-mozilla-back-national-ai-research-cloud-bill-in-congress.md",
-      "title": "AWS, Google, and Mozilla back national AI research cloud bill in Congress",
-      "excerpt": "Tech giants joined universities and nonprofits and backed a national AI research cloud, something supporters say will help the U.S. innovate and compete.",
-      "webUrl": "https://venturebeat.com/2020/06/30/aws-google-and-mozilla-back-national-ai-research-cloud-bill-in-congress/",
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/fei-fei-condoleeza.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 580,
-          "title": "AWS, Google, and Mozilla back national AI research cloud bill in Congress",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/aws-google-and-mozilla-back-national-ai-research-cloud-bill-in-congress/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/aws-google-and-mozilla-back-national-ai-research-cloud-bill-in-congress/amp/",
-      "publishedDateTime": "2020-06-30T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

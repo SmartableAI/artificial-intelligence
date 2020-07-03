@@ -2,6 +2,129 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-06-09-tutorial-create-an-ubuntu-data-science-virtual-machine-using-a-resource-manager-template.md",
+      "title": "Tutorial: Create an Ubuntu Data Science Virtual Machine using a Resource Manager template",
+      "excerpt": "This tutorial will show you how to create an Ubuntu 18.04 Data Science Virtual Machine using an Azure Resource Manager template. Data Science Virtual Machines are cloud-based virtual machines preloaded with a suite of data science and machine learning frameworks and tools.",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-tutorial-resource-manager",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Tutorial: Create an Ubuntu Data Science Virtual Machine using a Resource Manager template",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-reducing-the-number-of-unnecessary-biopsies-of-us-bi-rads-4a-lesions-through-a-deep-learning-method-for-residents-in-training-a-cross-sectional-study.md",
+      "title": "Reducing the number of unnecessary biopsies of US-BI-RADS 4a lesions through a deep learning method for residents-in-training: a cross-sectional study",
+      "excerpt": "Objective The aim of the study is to explore the potential value of S-Detect for residents-in-training, a computer-assisted diagnosis system based on deep learning (DL) algorithm. Methods The study was designed as a cross-sectional study.",
+      "webUrl": "https://bmjopen.bmj.com/content/10/6/e035757",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T22:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BMJ",
+        "domain": "bmj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-self-driving-cars-wont-eradicate-the-car-crash-study-says.md",
+      "title": "Self-driving cars won't eradicate the car crash, study says",
+      "excerpt": "While self-driving cars won't get distracted or drive drunk, that only accounts for a third of wrecks that occur, according to the insurance industry. In a blow to hopes for a future free of car ...",
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-cars-crash-study/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving cars won't eradicate the car crash, study says",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-crash-study/",
+      "publishedDateTime": "2020-06-08T21:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-artificial-intelligence-chips-benefit-from-a-good-nights-sleep.md",
       "title": "Artificial intelligence chips benefit from a good night's sleep",
       "excerpt": "Artificial neurons are already far more human-like than traditional computers, and now it turns out they might also need sleep to function at their peak. And it’s not just a matter of turning them off every now and then – a new study shows that the neurons benefit from exposure to slow-wave",
@@ -1146,137 +1269,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-chief-ai-officer-executives-discuss-the-role-pitfalls-and-business-philosophy.md",
-      "title": "Chief AI Officer: Executives discuss the role, pitfalls, and business philosophy",
-      "excerpt": "As artificial intelligence becomes commonplace across industries, more companies are looking to add a dedicated leader to the C-suite. But what does that look like?",
-      "webUrl": "https://www.techrepublic.com/article/chief-ai-officer-executives-discuss-the-role-pitfalls-and-business-philosophy/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/05/08/18b8706b-b03d-4420-85f9-0397e701e29d/resize/1200x/7c00707ad6de40a8144694a1ac8f9a04/data-collection-online-data-data-privacy.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Chief AI Officer: Executives discuss the role, pitfalls, and business philosophy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/chief-ai-officer-executives-discuss-the-role-pitfalls-and-business-philosophy/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/chief-ai-officer-executives-discuss-the-role-pitfalls-and-business-philosophy/",
-      "publishedDateTime": "2020-06-08T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621.md",
-      "title": "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jun 08, 2020 (Market Insight Reports) -- A recent report on AI in Healthcare Market provides a detailed analysis on the industry size, revenue forecasts and geographical landscape pertaining to this business space. Additionally, the report highlights primary ...",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621-2020-06-08?mod=mw_quote_news",
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-roborock-s6-maxv-robot-vacuum-and-mop-with-advanced-obstacle-recognition-launches-with-a-50-off-early-bird-promotion.md",
-      "title": "Roborock S6 MaxV robot vacuum and mop with advanced obstacle recognition launches with a $50 off early bird promotion",
-      "excerpt": "Personally I have never been a great fan of hoovering and made the decision to invest in a robot vacuum cleaner almost soon as they started to",
-      "webUrl": "https://www.geeky-gadgets.com/roborock-s6-maxvrobot-vacuum-08-06-2020/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2020/06/robot-vacuum-5.jpg",
-          "width": 700,
-          "height": 500,
-          "title": "Roborock S6 MaxV robot vacuum and mop with advanced obstacle recognition launches with a $50 off early bird promotion",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

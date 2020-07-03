@@ -2,6 +2,128 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-06-04-autonomous-vehicles-wont-make-roads-completely-safe-study-says.md",
+      "title": "Autonomous vehicles won’t make roads completely safe, study says",
+      "excerpt": "DETROIT A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error. Auto safety experts say humans cause about 94% of U.",
+      "webUrl": "https://www.seattletimes.com/business/stud-autonomous-vehicles-wont-make-roads-completely-safe/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seattletimes.com/wp-content/uploads/2020/06/urn-publicid-ap-org-33be3ab29cc4ea2f46f027378f423010Autonomous_Vehicles-Crashes_96424-300x207.jpg",
+          "width": 300,
+          "height": 207,
+          "title": "Autonomous vehicles won’t make roads completely safe, study says",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/stud-autonomous-vehicles-wont-make-roads-completely-safe/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/stud-autonomous-vehicles-wont-make-roads-completely-safe/?amp=1",
+      "publishedDateTime": "2020-06-04T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-a-tale-of-two-lines-changes-in-customer-support-with-the-growth-in-artificial-intelligence.md",
+      "title": "A Tale Of Two Lines: Changes In Customer Support With The Growth In Artificial Intelligence",
+      "excerpt": "Customer support is changing. Some people claim it means customer support personnel will disappear while others say AI will enhance what the customer service people do. To both, I say “yes.”",
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/06/04/a-tale-of-two-lines-changes-in-customer-support-with-the-growth-in-artificial-intelligence/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed90450d3f5a6000627e3ca%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": "A Tale Of Two Lines: Changes In Customer Support With The Growth In Artificial Intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/06/04/a-tale-of-two-lines-changes-in-customer-support-with-the-growth-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/06/04/a-tale-of-two-lines-changes-in-customer-support-with-the-growth-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-06-04T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-riiid-ai-study-to-be-presented-at-edm-2020-proves-students-more-engaged-by-deep-learning-algorithm.md",
+      "title": "Riiid AI study - to be presented at EDM 2020 - proves students more engaged by deep-learning algorithm",
+      "excerpt": "And deep learning affords such engagement. Prescribing deep attentive score prediction attracts improved student engagements The paper \"Prescribing Deep Attentive Score Prediction Attracts ...",
+      "webUrl": "https://www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2020/riiid_study.jpg?itok=LlzkEVFY",
+          "width": 763,
+          "height": 509,
+          "title": "Riiid AI study - to be presented at EDM 2020 - proves students more engaged by deep-learning algorithm",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm?amp",
+      "publishedDateTime": "2020-06-04T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-andhra-pradesh-to-use-ibms-watson-ai-for-coronavirus-information.md",
       "title": "Andhra Pradesh to use IBM's Watson AI for Coronavirus information",
       "excerpt": "The Andhra Pradesh National Health Mission portal has integrated the IBM Watson virtual agent to help the residents quickly get answers to their queries about Covid-19. The chatbot is designed to understand and respond to common questions about Covid-19 in English,",
@@ -931,147 +1053,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-cvs-launches-pilot-program-for-self-driving-vehicles-to-deliver-prescriptions.md",
-      "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
-      "excerpt": "And last month, the pharmacy giant started a test program that uses flying drones to deliver medicine to customers.",
-      "webUrl": "https://www.fool.com/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F577101%2Fself-driving-vehicle.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 569,
-          "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
-      "publishedDateTime": "2020-06-03T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-how-google-is-using-emerging-ai-techniques-to-improve-language-translation-quality.md",
-      "title": "How Google is using emerging AI techniques to improve language translation quality",
-      "excerpt": "Google Translate is quantifiably improving across 108 languages thanks in part to new AI and machine learning techniques.",
-      "webUrl": "https://venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "How Google is using emerging AI techniques to improve language translation quality",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/amp/",
-      "publishedDateTime": "2020-06-03T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor.md",
-      "title": "LightOn researchers explain how they trained an AI model on an optical co-processor",
-      "excerpt": "In a new paper, researchers at LightOn managed to train an AI model on an optical chip and achieve over 95% accuracy on a popular data set.",
-      "webUrl": "https://venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/AI_winter-e1591205079457.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "LightOn researchers explain how they trained an AI model on an optical co-processor",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/amp/",
-      "publishedDateTime": "2020-06-03T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

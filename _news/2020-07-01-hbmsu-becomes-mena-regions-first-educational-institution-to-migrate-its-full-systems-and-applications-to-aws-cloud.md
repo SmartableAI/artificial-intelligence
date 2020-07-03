@@ -3,9 +3,9 @@ category: news
 title: "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud"
 excerpt: "We congratulate our wise leadership on our unprecedented regional achievement & take pride in HBMSU’s leading position that supports UAE's competitiveness on global educational landscape” Mansoor Al Awar: “With our adoption of AWS,"
 publishedDateTime: 2020-07-01T11:31:00Z
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/HBMSU_becomes_MENA_regions_first_educational_institution_to_migrate_its_full_systems_and_applications_to_AWS_Cloud-ZAWYA20200701110907/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/"
+webUrl: "https://www.zawya.com/uae/en/press-releases/story/HBMSU_becomes_MENA_regions_first_educational_institution_to_migrate_its_full_systems_and_applications_to_AWS_Cloud-ZAWYA20200701110907/"
+ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20200701110907/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200701110907/"
 type: article
 quality: 37
 heat: 37
@@ -42,6 +42,6 @@ related:
         height: 456
         isCached: true
 
-secured: "6VJph/+5HUK7wHatzQal2z05TOA4t1VL6eX2VWJb9X9w9jVqTTeo+6JxMJpoQJPJ8Hl46WIlbw0GiNLOQ8a4Wu0cXEc+RyyUQPvkgaxDfamkb6tqNPtNHDd+wuWnzMWuTZB8YKlynKTpgK1H6SkH+FMXl6oLNJjDZBUNfHF8cLWLsEY+6JImXa2I3XH/Pki77AJwQ4ia6mUrFbifoHkuhhjeEEvlvygwgdBOZ0L6sI8Yaggo5m8YWXeykYjK/PF3A7wyDExYmpZPGaxDKGCyIgVtiIKAsIUWRDY8ylwaRZoKTxCF59xKXd7SOw6C3enAeS3Lj3SuTkp480tXXg3TdHD4cXaoLOJ7OQSzWhRd+Bg5tn8B5N0SoFCpkF47AFDSAVs8nx4azApXUaKl+YZ12wAWGaiVwaBRhwcHxrwixzNWlg4KycA7q9atEN9PKWVL0SxccuIqgOVfxLT88ZhwE3RrSnvL4ZH7EMbyPTxs4xJXfaxk2SRVHwHSII8MILH/ZIyr3HVZpSg/K0A1OTRPaw==;rnkg821Apo3REkUO/VERaw=="
+secured: "MEl1nKrNkO/iwAx0i48eRfMNGZWygSHiogNZHIytBMKp6ptp+N3qTzqAvWCqZZtpgtUVwTAJeN7kfjqavXGLdK5LY4UB2uFidf6ZQbkW/6BFmU2AORF2mCeAI5LARRSSpVHXechhMRKwkza6ddq+6uJbS+mok2URuXti55MjqzBn+S9XDRigywpU7fHTlo007xyrJodk2KZwBFcB4pk4oAjf+mrv1NWArxQ2/dOiCjC0itWAs0sbLHwFLO0viJ2S+BfJuGnAdRecaSgX+sV+Ijj2M1cYHgKo2lm1UztT5TZOTzvPVPO1ytPtu1A5G/cTFxlivAU/6uHYcRGOU2U13Q==;Nrt/SbtT1rqpxxeLzzhSJw=="
 ---
 
