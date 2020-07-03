@@ -26,6 +26,22 @@ images:
     title: "Trump administration awards tech start-up contract to build 'virtual' border wall"
 
 related:
+  - title: "Trump contracts Peter Thiel-backed startup to build his (virtual) border wall"
+    excerpt: "The White House has struck a deal with Palmer Luckey's Anduril Industrial to erect an AI-powered partition along the US-Mexico border."
+    publishedDateTime: 2020-07-03T12:18:00Z
+    webUrl: "https://thenextweb.com/neural/2020/07/03/trump-contracts-peter-thiel-backed-startup-to-build-his-virtual-border-wall/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/07/03/trump-contracts-peter-thiel-backed-startup-to-build-his-virtual-border-wall/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/03/trump-contracts-peter-thiel-backed-startup-to-build-his-virtual-border-wall/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-93-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Palmer Luckey’s surveillance startup Anduril signs contract for ‘virtual border wall’"
     excerpt: "Anduril has been working with CBP since 2018, and it’s secured additional contracts with groups like the US Marine Corps and UK Royal Navy. Its sentry towers use a variety of sensors, including LIDAR,"
     publishedDateTime: 2020-07-02T17:18:00Z
@@ -41,22 +57,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/bYjPJCjrZysSDzlbvcdU-5IXOjk=/0x0:1500x1125/1400x933/filters:focal(630x443:870x683):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67010714/lattice_towers_mesh_communication.0.jpg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "Anduril Industries gets contract to install AI surveillance systems along the border"
-    excerpt: "Anduril’s technology includes towers with cameras and infrared sensors that use artificial intelligence to track movement."
-    publishedDateTime: 2020-07-02T18:54:00Z
-    webUrl: "https://www.bizjournals.com/losangeles/news/2020/07/02/anduril-wins-cbp-deal-to-install-ai-surveillance.html"
-    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/07/02/anduril-wins-cbp-deal-to-install-ai-surveillance.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/07/02/anduril-wins-cbp-deal-to-install-ai-surveillance.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 50
-    images:
-      - url: "https://media.bizj.us/view/img/11690106/5e9bf65688adf7608bb4f526andurilwwwtowerhome001-min*600xx2530-1687-998-82.jpg"
-        width: 600
-        height: 400
         isCached: true
 
 secured: "6qpcCzeXiLD06hp3yeFSu7DPvhTNJb676IBVxzl76E62CIzb8ST6/nvE+yIU4Zg6YNhxTdho/9rpWULrs4ysM18mtjXtkXMGWQGX1xjZncawc2TYl7dm8y+sBDspSdBfdZ5XrJPII/+hp4ya81RnClR1nMHBgqRG0gM8sWtq2M+tXcySoOYYeVQHyh/rb5jcnVQZVj+3SNAShPnRzjntdcBX50KGo6dAeuZ4i3rSDXa1bPiPe3QXq13teafgRFH1tzZ19uFrtlgLZeeWYtCHn3BKj+kOf7eMXVlI1VgwDsF9v5ISXubQeaaY6z7gGaX3SvoJd4Sr5vmoogP1aO5OsiiovZkmqcQXfNxOlnafSyaHT9v0hCgdO7OFDJD8DkSHN63v/yW6rSMQrENfIhg7L/6C1tkNZtRhOgvG9TjhtQXoLby7WiLLcI790sJyuZhYi+UAqUeeCg9yEunqVxmaUdVKtxzxnfMHjE8LLJGswDqL/T2/AHULxYfW4q4EtZpId/EaM92Xm4Z6qV/sd3jZag==;KeD0DCVdXTXc36xVsOU9GA=="

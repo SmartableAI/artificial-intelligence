@@ -7,8 +7,8 @@ webUrl: "https://yourstory.com/mystory/big-data-analytics-artificial-intelligenc
 ampWebUrl: "https://yourstory.com/mystory/big-data-analytics-artificial-intelligence-transforming-future-healthcare/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/big-data-analytics-artificial-intelligence-transforming-future-healthcare/amp"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - IBM AI
 
 related:
   - title: "The Impact of Disruptive Technologies on Healthcare"

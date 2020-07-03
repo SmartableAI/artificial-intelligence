@@ -8,8 +8,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/2/21311433/anduril-palm
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/2/21311433/anduril-palmer-luckey-virtual-border-wall-surveillance-contract-patrol"
 type: article
 quality: 65
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -30,21 +30,21 @@ images:
     title: "Palmer Luckey’s surveillance startup Anduril signs contract for ‘virtual border wall’"
 
 related:
-  - title: "Anduril Industries gets contract to install AI surveillance systems along the border"
-    excerpt: "Anduril’s technology includes towers with cameras and infrared sensors that use artificial intelligence to track movement."
-    publishedDateTime: 2020-07-02T18:54:00Z
-    webUrl: "https://www.bizjournals.com/losangeles/news/2020/07/02/anduril-wins-cbp-deal-to-install-ai-surveillance.html"
-    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/07/02/anduril-wins-cbp-deal-to-install-ai-surveillance.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/07/02/anduril-wins-cbp-deal-to-install-ai-surveillance.amp.html"
+  - title: "Trump contracts Peter Thiel-backed startup to build his (virtual) border wall"
+    excerpt: "The White House has struck a deal with Palmer Luckey's Anduril Industrial to erect an AI-powered partition along the US-Mexico border."
+    publishedDateTime: 2020-07-03T12:18:00Z
+    webUrl: "https://thenextweb.com/neural/2020/07/03/trump-contracts-peter-thiel-backed-startup-to-build-his-virtual-border-wall/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/07/03/trump-contracts-peter-thiel-backed-startup-to-build-his-virtual-border-wall/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/03/trump-contracts-peter-thiel-backed-startup-to-build-his-virtual-border-wall/amp/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 50
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
     images:
-      - url: "https://media.bizj.us/view/img/11690106/5e9bf65688adf7608bb4f526andurilwwwtowerhome001-min*600xx2530-1687-998-82.jpg"
-        width: 600
-        height: 400
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-93-796x417.png"
+        width: 796
+        height: 417
         isCached: true
   - title: "Trump administration awards tech start-up contract to build 'virtual' border wall"
     excerpt: "The Trump administration has reportedly awarded a contract to a California-based tech startup to set up hundreds of \"autonomous surveillance towers\" along the U.S.-Mexico border to aid its immigration enforcement efforts."

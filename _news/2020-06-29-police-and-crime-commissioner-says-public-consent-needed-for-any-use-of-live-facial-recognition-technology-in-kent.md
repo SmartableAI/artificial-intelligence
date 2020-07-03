@@ -43,17 +43,6 @@ related:
         width: 1024
         height: 738
         isCached: true
-  - title: "Facial-recognition backlash brews after fury over police conduct"
-    excerpt: "Now, some of those lawmakers are drafting new legislation to curtail the use of facial-recognition by police departments and government agencies. They’re looking to harness the public outrage over police misconduct and racial inequities,"
-    publishedDateTime: 2020-06-28T20:01:00Z
-    webUrl: "https://www.seattletimes.com/business/facial-recognition-backlash-brews-after-fury-over-police-conduct/"
-    ampWebUrl: "https://www.seattletimes.com/business/facial-recognition-backlash-brews-after-fury-over-police-conduct/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facial-recognition-backlash-brews-after-fury-over-police-conduct/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
 
 secured: "oF0/fD957+C8tKAmjLOJ8q1r/kD3BbELZZfUOZrSchTDZrRtrEkX7mZsVsybodkF44I091KdAuLNDf6+QbwaCq1OX8aBW9oZzvUiRMpCOAeGUef0JHaYs1EvP7SO9EeXV1/XPVXUDLpPCinmcfi2k7bKe4xf84B45H3lm94sDKc3OHX4UbVyrQbZjtUwfJaXrOEO7IHF0u+ell7EGXFBqdHCrxs4qxuXMxjA30T6j8Vgz3u1Z8cJlHVfforx7J2ejPgJtvxtkZvnenNih8ndKMP96x74D91YaLOQfeRKGPLWo1oRy/mu/+EboB22ryyo4Y52fHhl89qyxQdgTLbnCA==;Ku2kmI9HH2Ygv6S9Tshmhg=="
 ---

@@ -23,6 +23,7 @@ topics:
   - AI Ethics
   - AI
   - Microsoft AI
+  - IBM AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2018/02/priority_high_priorities_importance_important_urgent_thinkstock_680720450-100749329-large.jpg"

@@ -34,7 +34,7 @@ related:
     provider:
       name: Your Story
       domain: yourstory.com
-    quality: 45
+    quality: 47
   - title: "The Impact of Disruptive Technologies on Healthcare"
     excerpt: "The healthcare industry is one of the essential services in the world. As digitization grips all kinds of industries, the healthcare sector has benefitted hugely. Disruptive technologies have transformed healthcare as we know it."
     publishedDateTime: 2020-06-29T09:59:00Z

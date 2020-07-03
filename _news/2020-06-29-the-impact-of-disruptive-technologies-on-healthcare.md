@@ -35,7 +35,7 @@ related:
     provider:
       name: Your Story
       domain: yourstory.com
-    quality: 45
+    quality: 47
   - title: "AI, VR and robotics shake up healthcare in the UAE, and the Gulf"
     excerpt: "Government regulations and initiatives are a driving force behind the growth of the UAE’s healthcare sector in general, and in the use of emerging technology in clinical settings."
     publishedDateTime: 2020-06-30T02:15:00Z

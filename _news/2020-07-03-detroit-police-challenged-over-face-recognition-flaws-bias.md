@@ -8,8 +8,8 @@ ampWebUrl: "https://www.pressofatlanticcity.com/news/national/detroit-police-cha
 cdnAmpWebUrl: "https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/news/national/detroit-police-challenged-over-face-recognition-flaws-bias/article_f461240c-bc52-535d-988e-6d4a49abe01d.amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Press of Atlantic City
@@ -43,17 +43,6 @@ related:
         width: 618
         height: 425
         isCached: true
-  - title: "Facial-recognition backlash brews after fury over police conduct"
-    excerpt: "Now, some of those lawmakers are drafting new legislation to curtail the use of facial-recognition by police departments and government agencies. They’re looking to harness the public outrage over police misconduct and racial inequities,"
-    publishedDateTime: 2020-06-28T20:01:00Z
-    webUrl: "https://www.seattletimes.com/business/facial-recognition-backlash-brews-after-fury-over-police-conduct/"
-    ampWebUrl: "https://www.seattletimes.com/business/facial-recognition-backlash-brews-after-fury-over-police-conduct/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facial-recognition-backlash-brews-after-fury-over-police-conduct/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
 
 secured: "HLO1PC1nK+W1HmI2+l0SO5rX0i6qF+xBjA+PqlK2sFd00mfo6xnk7J8i9iM6Jk+0BfVnPhcHo+nncacdWsKabCiFpYR+3SXDjpNCARqhJDYI8X+l21bIUnfVPToF5iriYzds2WuJE8u4kM1nBEnHcVobOpnRhjkBNYgjeToFl3CpzHtp0+aFZD2TDgjS3askDpE7Tii1kQJromkrFCrj7VIn7N7EuqkoP/JZFU2BAz5h4zMWoa/UZ0TidJ40maDcrDY/ywxudLkcQZ/W9S7oIz7L79nHtOztEph/0r6jCHMYpw71a/b+gjstSpBEI7aN+zKgR/zrvXTS/grwZIo0KQ==;gXoiQoM3P6NQhgpP6kSkhQ=="
 ---

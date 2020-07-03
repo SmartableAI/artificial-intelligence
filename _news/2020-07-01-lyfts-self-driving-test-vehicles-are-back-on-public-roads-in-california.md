@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/"
 type: article
 quality: 73
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/lyft_self_driving.jpeg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "Maker of self-driving vehicle sensors said to be in talks to go public"
-    excerpt: "Velodyne creates radar-like systems that use lasers to generate three-dimensional images of a surrounding environment, used by carmakers including Mercedes-Benz AG and Ford Motor Co."
-    publishedDateTime: 2020-06-28T19:27:00Z
-    webUrl: "https://www.dig-in.com/articles/maker-of-self-driving-vehicle-sensors-said-to-be-in-talks-to-go-public"
-    type: article
-    provider:
-      name: Digital Insurance
-      domain: dig-in.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/b8f597a/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Ffc%2F3b%2F303d46e446b2ac5faa2d031e557d%2F362964619.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Baidu-backed self-driving vehicle sensors maker going public - report"
     excerpt: "Graf Industrial is in talks to merge with Baidu-backed Velodyne Lidar in a deal that would take public the maker of sensors used in self driving vehicles, according to Bloomberg sources \"familiar with the matter\"."

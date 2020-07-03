@@ -23,6 +23,7 @@ topics:
   - Microsoft AI
   - AI
   - AI Ethics
+  - IBM AI
 
 images:
   - url: "https://tr4.cbsistatic.com/hub/i/r/2020/06/23/2581bf0e-dcb7-4cfe-b9c6-78c5711f89d1/resize/1200x/3156ee58dcf5bd99123ed6f18c925f5e/istock-1236682035.jpg"
