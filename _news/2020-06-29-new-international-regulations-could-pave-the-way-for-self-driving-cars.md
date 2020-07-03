@@ -8,7 +8,7 @@ ampWebUrl: "https://driving.ca/auto-news/news/new-international-regulations-coul
 cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/new-international-regulations-could-pave-the-way-for-self-driving-cars/amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,17 +27,34 @@ images:
     title: "New international regulations could pave the way for self-driving cars"
 
 related:
-  - title: "Self-driving forklifts are here to revolutionize warehouses, for better or worse"
-    excerpt: "Third Wave Automation raised $15 million to make self-driving forklifts a reality. Here's how it's going to change warehouses as we know it."
-    publishedDateTime: 2020-06-28T13:28:00Z
-    webUrl: "https://www.digitaltrends.com/news/third-wave-automation-autonomous-forklifts/?itm_source=23&itm_content=2x4&itm_term=2356592"
-    ampWebUrl: "https://www.digitaltrends.com/news/third-wave-automation-autonomous-forklifts/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/third-wave-automation-autonomous-forklifts/?amp"
+  - title: "Consumer interest for drones, self-driving cars grows amid pandemic"
+    excerpt: "With the increased need for contactless delivery, consumers are getting first-hand experience and becoming more familiar and comfortable with autonomous systems such as self-driving vehicles and drones,"
+    publishedDateTime: 2020-06-30T11:15:00Z
+    webUrl: "https://www.ept.ca/2020/06/consumer-interest-for-drones-self-driving-cars-grows-amid-pandemic/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 49
+      name: EPT
+      domain: www.ept.ca
+    quality: 24
+    images:
+      - url: "https://www.ept.ca/wp-content/uploads/2020/06/Draganflyer-Commander-with-Sequoia-Camera-600x378.jpg"
+        width: 600
+        height: 378
+        isCached: true
+  - title: "BMW, Mercedes, Bosch welcome regulatory boost for 'eyes-off' self-driving tech"
+    excerpt: "Benz are among automakers set to benefit from a regulatory change that paves the way for the introduction of “eyes-off” technology in production cars as early as next year. A United Nations standard-setting body has agreed to adopt the first set of regulations for a Level 3 driving function called Automated Lane Keeping System (ALKS)."
+    publishedDateTime: 2020-07-01T09:48:00Z
+    webUrl: "https://europe.autonews.com/automakers/bmw-mercedes-bosch-welcome-regulatory-boost-eyes-self-driving-tech"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 20
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/BMW%20iNext%20900x540.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "6FrK7gzztcgWgcyx3FBczamtkF5Zk24U4HYt9eOPot+hmXGqIdl692nnUmORUMU8lbnRG3fu5Znjt4T5g/iNSmId5ibDQoNVmEjf5WPmTz8/7WGf3to4R17Z5tct/DYUEPpPle8UqohDSULxULIMbwE3cu34/vg/QvwJMvrOeFaI2H9FryJh8EGljveldt8tweW9jHno+dvSsnarXsAiUrWidNsIlCUEnCDHJU5r9BYiKcs1QWvk4Ubh+T2HYknD3Nw+a8Gpe/Dkn77mNzx9nTbOI2OsigCgV8LY64h4V6+EGJyfdNHyNBJi2Auem8GbICJKcqiU6OFYJg+KWyi8cg==;qNwGLWrNAZOzbVandm+R4Q=="
 ---
