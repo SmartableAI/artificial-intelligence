@@ -2,6 +2,53 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-25-generating-compositions-in-the-style-of-bach-using-the-ar-cnn-algorithm-in-aws-deepcomposer.md",
+      "title": "Generating compositions in the style of Bach using the AR-CNN algorithm in AWS DeepComposer",
+      "excerpt": "AWS DeepComposer gives you a creative way to get started with machine learning (ML) and generative AI techniques. AWS DeepComposer recently launched a new generative AI algorithm called autoregressive convolutional neural network (AR-CNN), which allows you to generate music in the style of Bach. In this",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/generating-compositions-in-the-style-of-bach-using-the-ar-cnn-algorithm-in-aws-deepcomposer/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/25/deepcomposer.jpg",
+          "width": 1000,
+          "height": 574,
+          "title": "Generating compositions in the style of Bach using the AR-CNN algorithm in AWS DeepComposer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T16:16:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-ambarellas-ai-vision-processor-meets-automotive-safety-goals-with-mentors-tessent-safety-ecosystem.md",
       "title": "Ambarella’s AI Vision Processor Meets Automotive Safety Goals with Mentor’s Tessent Safety Ecosystem",
       "excerpt": "Mentor, a Siemens business, announced that its Tessent software Safety ecosystem helped artificial intelligence (AI) vision silicon company Ambarella Inc. meet in-system test requirements and achieve ISO26262 automotive safety integrity level (ASIL) goals for its CV22FS and CV2FS automotive camera system-on-chips (SoCs).",
@@ -1083,53 +1130,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup.md",
-      "title": "Mercedes Drops Partnership With BMW, Hooks Up With NVIDIA On Self-Driving: Robocar Roundup",
-      "excerpt": "With the field slowing down, why would Mercedes and BMW end their partnership? Just adding NVIDIA chips isn't enough explanation. Plus, a roundup of other robocar news for the week.",
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/imageserve/5ef431b4816bb40006d1c766/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Mercedes Drops Partnership With BMW, Hooks Up With NVIDIA On Self-Driving: Robocar Roundup",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/amp/",
-      "publishedDateTime": "2020-06-25T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

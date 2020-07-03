@@ -2,6 +2,92 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-05-19-microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates.md",
+      "title": "Microsoft's hybrid platform, Azure Stack Hub, gets management, machine learning updates",
+      "excerpt": "Microsoft is adding some new incremental features to its hybrid Azure Stack Hub platform, and it's continuing its Azure Arc unified management push at Build 2020.",
+      "webUrl": "https://www.zdnet.com/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
+      "publishedDateTime": "2020-05-19T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-microsoft-announces-new-supercomputer-lays-out-vision-for-future-ai-work.md",
+      "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
+      "excerpt": "The post Microsoft announces new supercomputer, lays out vision for future AI work appeared first on The AI Blog.\n",
+      "webUrl": "https://blogs.microsoft.com/ai/openai-azure-supercomputer/",
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/05/openai-azure-supercomputer-kevin-scott_3_1200x630-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T07:59:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients.md",
       "title": "AI is helping get medical research into the hands of doctors and patients",
       "excerpt": "A patient-centric approach helps advance medical knowledge, which is desperately needed in the middle of a fast-moving pandemic.",
@@ -961,100 +1047,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-as-machines-get-smarter-how-will-we-relate-to-them.md",
-      "title": "As Machines Get Smarter, How Will We Relate to Them?",
-      "excerpt": "My theory of robot mind was vaporized, replaced by a feeling of unease: As AI grows more capable and assertive, how will we relate to it? Generally speaking, people adapt well to new technologies. We steer hunks of speeding metal and communicate via tiny icons with élan.",
-      "webUrl": "https://www.wired.com/story/as-machines-get-smarter-how-will-we-relate-to-them/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec31a45d58e99fafced809d/master/pass/How-We-Relate-to-AI.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "As Machines Get Smarter, How Will We Relate to Them?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/as-machines-get-smarter-how-will-we-relate-to-them/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/as-machines-get-smarter-how-will-we-relate-to-them/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-is-the-brain-a-useful-model-for-artificial-intelligence.md",
-      "title": "Is the Brain a Useful Model for Artificial Intelligence?",
-      "excerpt": "In the summer of 2009, the Israeli neuroscientist Henry Markram strode onto the TED stage in Oxford, England, and made an immodest proposal: Within a decade, he said, he and his colleagues would build a complete simulation of the human brain inside a supercomputer.",
-      "webUrl": "https://www.wired.com/story/brain-model-artificial-intelligence/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Is the Brain a Useful Model for Artificial Intelligence?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/brain-model-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/brain-model-artificial-intelligence/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

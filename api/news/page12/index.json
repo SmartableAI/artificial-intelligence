@@ -2,6 +2,44 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-06-23-qumulo-leads-customers-to-the-cloud-with-launch-of-qumulo-shift-for-amazon-web-services-s3.md",
+      "title": "Qumulo Leads Customers to the Cloud with Launch of Qumulo Shift for Amazon Web Services S3",
+      "excerpt": "Qumulo, the leading provider of cloud file data services, announced today the l (AWS) S3, the first-ever native cloud service that enables organizations to move file data from any Qumulo on-prem or public cloud cluster into Amazon Simple Storage Service (Amazon S3) and transform that data to object in an open and non-proprietary format.",
+      "webUrl": "https://www.businesswire.com/news/home/20200623005212/en/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200623005212/en/750107/23/High_Res_Qumulo_Logo_%28new%29.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Qumulo Leads Customers to the Cloud with Launch of Qumulo Shift for Amazon Web Services S3",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-why-facebook-chose-to-open-its-first-european-ai-lab-in-paris-and-not-london.md",
       "title": "Why Facebook chose to open its first European A.I. lab in Paris and not London",
       "excerpt": "The social media giant was concerned that rival labs like DeepMind and Microsoft Research already occupied the turf in London.",
@@ -1040,44 +1078,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-folding-based-compression-of-point-cloud-attributes.md",
-      "title": "Folding-based compression of point cloud attributes",
-      "excerpt": "Folding-based compression of point cloud attributes - mauriceqch/pcc_attr_folding",
-      "webUrl": "https://github.com/mauriceqch/pcc_attr_folding",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://repository-images.githubusercontent.com/222734193/0b922680-b240-11ea-849c-66c8d6b4652b",
-          "width": 1280,
-          "height": 552,
-          "title": "Folding-based compression of point cloud attributes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

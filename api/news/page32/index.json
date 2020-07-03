@@ -2,6 +2,91 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-06-08-ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621.md",
+      "title": "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jun 08, 2020 (Market Insight Reports) -- A recent report on AI in Healthcare Market provides a detailed analysis on the industry size, revenue forecasts and geographical landscape pertaining to this business space. Additionally, the report highlights primary ...",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621-2020-06-08?mod=mw_quote_news",
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-roborock-s6-maxv-robot-vacuum-and-mop-with-advanced-obstacle-recognition-launches-with-a-50-off-early-bird-promotion.md",
+      "title": "Roborock S6 MaxV robot vacuum and mop with advanced obstacle recognition launches with a $50 off early bird promotion",
+      "excerpt": "Personally I have never been a great fan of hoovering and made the decision to invest in a robot vacuum cleaner almost soon as they started to",
+      "webUrl": "https://www.geeky-gadgets.com/roborock-s6-maxvrobot-vacuum-08-06-2020/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2020/06/robot-vacuum-5.jpg",
+          "width": 700,
+          "height": 500,
+          "title": "Roborock S6 MaxV robot vacuum and mop with advanced obstacle recognition launches with a $50 off early bird promotion",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-artificial-intelligence-in-education-transformation.md",
       "title": "Artificial Intelligence In Education Transformation",
       "excerpt": "If we want to create an experience that is equitable and enjoyable for all, we have to eliminate as many obstacles as possible.",
@@ -958,100 +1043,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-amid-the-coronavirus-pandemic-many-companies-could-replace-their-workers-with-robots.md",
-      "title": "Amid the coronavirus pandemic, many companies could replace their workers with robots",
-      "excerpt": "And so much work now needs to be done with social distancing, without contact, so we're seeing the use of artificial intelligence and robotics to take on what might have been done by humans. As one CEO said to me, 'The machine doesn't fall ill.' CNBC: Which industries are moving quickest with automation? RJ: Where you're seeing a surge in ...",
-      "webUrl": "https://www.cnbc.com/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html",
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106565314-1591283109366ravinjesuthasan-4.jpg?v=1591283167",
-          "width": 2318,
-          "height": 1546,
-          "title": "Amid the coronavirus pandemic, many companies could replace their workers with robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html",
-      "publishedDateTime": "2020-06-06T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-zuckerberg-says-facebook-will-revisit-policies-in-wake-of-trump-backlash.md",
-      "title": "Zuckerberg says Facebook will revisit policies in wake of Trump backlash",
-      "excerpt": "Facebook’s chief executive said the company will re-examine its policies against violent threats and voter suppression, as well as create new products that ‘advance racial justice’.",
-      "webUrl": "https://www.scmp.com/tech/apps-social/article/3087868/zuckerberg-says-facebook-will-revisit-policies-wake-trump-backlash",
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/06/41509c3c-a7ed-11ea-8ea0-d7434be00753_image_hires_202444.jpg?itok=DJd8Kxei&v=1591446290",
-          "width": 1200,
-          "height": 630,
-          "title": "Zuckerberg says Facebook will revisit policies in wake of Trump backlash",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/apps-social/article/3087868/zuckerberg-says-facebook-will-revisit-policies-wake-trump-backlash",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3087868/zuckerberg-says-facebook-will-revisit-policies-wake-trump-backlash",
-      "publishedDateTime": "2020-06-06T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

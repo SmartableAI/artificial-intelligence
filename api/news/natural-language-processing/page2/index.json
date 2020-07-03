@@ -49,6 +49,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-22-apple-announces-real-time-translation-for-11-languages-with-siri.md",
+      "title": "Apple Announces Real-Time Translation For 11 Languages With Siri",
+      "excerpt": "Apple just announced that iOS 14 will offer live real-time translation for 11 languages, even offline, at its World Wide Developer Conference being held online this week. But the third-most spoken language globally,",
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/22/apple-announces-real-time-translation-for-11-languages-with-siri/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/22/apple-announces-real-time-translation-for-11-languages-with-siri/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/06/22/apple-announces-real-time-translation-for-11-languages-with-siri/amp/",
+      "publishedDateTime": "2020-06-22T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-global-voice-recognition-market-to-reach-usd-1605-billion-by-2027.md",
       "title": "Global Voice recognition Market to reach USD 160.5 billion by 2027",
       "excerpt": "Bizwit Research & Consulting LLP's Recent Analysis on Global Voice recognition Market is poised to raise up to USD 160.5 billion by 2027. The Voice recognition market has been on the surging trend on the global scenario.",
@@ -1189,53 +1227,6 @@
         "name": "GlobeNewswire",
         "domain": "globenewswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-the-best-performing-analysts-are-betting-on-these-5-stocks-right-now.md",
-      "title": "The best-performing analysts are betting on these 5 stocks right now",
-      "excerpt": "As coronavirus restrictions ease and business begins to improve, it could make sense to follow the stock picks of analysts with a proven track record of success. Here we used TipRanks analyst ranking service to pinpoint Wall Street’s best-performing analysts.",
-      "webUrl": "https://www.cnbc.com/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1591230244",
-          "width": 5255,
-          "height": 3402,
-          "title": "The best-performing analysts are betting on these 5 stocks right now",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "publishedDateTime": "2020-06-07T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

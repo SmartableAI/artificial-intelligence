@@ -6,7 +6,7 @@
       "title": "Study: Only 18% of data scientists are learning about AI ethics",
       "excerpt": "A study by data science firm Anaconda found a \"concerning\" absence of AI ethics initiatives in both academia and industry.",
       "webUrl": "https://thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/",
-      "heat": 89,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -45,7 +45,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {

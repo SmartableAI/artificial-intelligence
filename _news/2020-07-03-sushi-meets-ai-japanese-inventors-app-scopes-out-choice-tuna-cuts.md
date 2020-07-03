@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts"
 
-secured: "bSOASBlbLT2s4AnqeNiSZwH4XLopppquYs/t4wc723sKQ3BoPzCnhtDeWs/1jZKToAiPEMYhFV8S5pABjwZ6h12U78M2nav8yNMKSMdrkQhZVJ6Y20dHaG9BItr2sAJv8ackzuqqWhPNmbhO4SE08MRl+B+p8TlFzEXBT4CmPq3wnuv2gAL0NvsHcLkYLy8Ay9oHSIs6UilR7nAgawQzTw45fwKjHeT0OsQ+1wmWT4DMszqX9L5eATxsW/f/WY5WqwtKy3WghpknbjH+NVuLXtuYyPTyCE/Y++rua5vmuglTwBVwvD7c45LOiIfOcyWEpYc5njCynZKQz3pb8TVgrQ==;gFbybY90zi1M/633mQPYCw=="
+secured: "y9+XB6qn3jzYNWEeT+NMq8BTlS2gHvZSnKMonHM5NpSJSQaeDKSD7NapoVFrybo5CyoUIEDjjhdyWHC6d0LnSJGTUmCScTLkooKLUj0ZvCZBOhyomaCe3NZTMKd4zSnl0IE9myHfHvgasLfibNQNgsXqpBq8I6MsY+CC+SCb9PTXRT/Fl+EYKqJ4TE9jC1iuUGnNQ6s8fwEczgQqX+uj1G1HkWcg5ZTJ5l93bKsqLbYkJ0zwYE8sYbWLscf3Rl0x4UHe/3M0GKPCY2c8JBSIleMYnYXYW2AueHNBwnIw4lCe+pdvuIR/cqGH0eAux8fgDhC+/C3yyML/SXvhooa1+sErVb2mMKOaK8pnFQMZWOM/7jBKZZxEbmma5+Vy8ZbL/T/hySO5KD7YTuBO4c/LMoFDHN/QXLk5ywIIHHJnLjAL0Rzf8hjMQBPUm+T0dAYgYP+/x1+GS9fBUhmhnRWT0O6OpO1E6tXnafw1pC/o46EMYbTNnx4jzswhUkrBZOyoWqKvrXznuENqcm0DTtQouA==;KRV8vRLvyvobHVUMnRUjbQ=="
 ---
 

@@ -225,7 +225,7 @@
       "title": "The organizations positioned to lobby against a US ban on facial recognition",
       "excerpt": "Pressure on US lawmakers to create federal regulations on facial recognition has been mounting. Against that backdrop, industry groups have quietly lobbied to soften regulations and avoid an outright ban.",
       "webUrl": "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/",
-      "heat": 291,
+      "heat": 311,
       "tags": null,
       "images": [
         {
@@ -317,15 +317,15 @@
     {
       "path": "_news/2020-06-30-experts-facial-recognition-will-be-everywhere-whether-you-like-it-or-not.md",
       "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
-      "excerpt": "Facial recognition could soon become as commonplace as public Wi-Fi and security cameras. But with the advance of technology comes major ethical questions.",
-      "webUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?itm_source=29&itm_content=1x7&itm_term=2376504",
+      "excerpt": "Facial recognition could soon become as commonplace as public wifi and security cameras, experts say. But with the advance of technology comes major ethical questions.",
+      "webUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/",
       "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/us-technology-artificial-intelligence-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://icdn9.digitaltrends.com/image/digitaltrends/facebook-fine-not-enough-header-500x500.jpg",
+          "width": 500,
+          "height": 333,
           "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
           "attribution": null,
           "isCached": true

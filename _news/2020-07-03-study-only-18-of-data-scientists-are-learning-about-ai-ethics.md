@@ -7,8 +7,8 @@ webUrl: "https://thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientis
 ampWebUrl: "https://thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-94-796x417.png"
@@ -30,6 +31,6 @@ images:
     isCached: true
     title: "Study: Only 18% of data scientists are learning about AI ethics"
 
-secured: "jmKp/VFaUkctIrzH5nvUp34i/LEPyqerfCME9026zzq0ejLiAikNWr5DXTy/20n9uqIUcfhTGbGkB0Fy5ikcWEfLVIDmQUnDkwTTFiSZuVqmTDM+z5FtToTtOSH+g6XchriQOpowu5jReSrtQKg1+m+vEdKuXCUhmoIkB8yj9W2dt08insAXsasYLJjc4hFoSeLidXKNk8id4F/6SudCKW9GO+C3G6rspBdXjYKSxEgcf/NNM5vfRx87GQIbwpdKrd2W0JZskiew62Za/I/7gDosBGlWDo5MoieZjIqTd+bZgZjLhjTCSojNf1cEQ5/b2dMtj46yVZeLQbbuL+JreQ==;zGciBfZ/RCZnE71lbaA8Eg=="
+secured: "MZLNWsLj7kO7tVHIkFf+t45mHxfrRgpnyIXdsOYwEUyCe55QUcYfvn5g1Y0m5pOgEHMtYHY75FOvaSw5wGcNRLhmv4gfqY+Au6GjWfW8Qa5D/QNaVM+NMbiKdMnOixKwPqsaZ7d6RXGms4nvqwCj/hu93GXDATAZUVSkqOZVx/L9iB8fQrMWG0tHg3BmYbhM9b2rbfrj+C3IfjiDk6ywFsBQnM5AIEUgvcqbyjsUVt+GVE2QOlgOJCZvyWP9mK0H6utfmfABuOcJbWYXigwH37D/JyIZk0nlFounKDC1pLe+fPdCwcUfDoRioDh/syDGui6BV6T2lutEFvtMhVJxnczFySkuwxlJ3R2hj35sZ+nplGBEisLAEfYls1E/ZOU8ygjF3cSNbS5XUrRpQHo+q2bOo7ye0nJv8QiQvyoNKGynDijEIqRilXt8WblyN+GtjSZgC/MYptk1wInf/HbgSKXmEabbGJTJsGXhEL6IpKOK1/dtz3baEKCfan6aHjzkIPBnR8Xe+wkL8QEPrIPoxQ==;KetoaHpDQEa1p/WfUiObTw=="
 ---
 

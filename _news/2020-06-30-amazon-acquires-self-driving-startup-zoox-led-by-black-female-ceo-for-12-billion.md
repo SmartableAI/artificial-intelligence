@@ -27,22 +27,6 @@ images:
     title: "Amazon Acquires Self-Driving Startup Zoox Led By Black Female CEO for $1.2 Billion"
 
 related:
-  - title: "Amazon to acquire Foster City based self-driving startup Zoox"
-    excerpt: "The giant online retailer could use the autonomous vehicles to deliver packages but it could also pave the way for a rideshare service."
-    publishedDateTime: 2020-06-29T01:57:00Z
-    webUrl: "https://abc7news.com/zoox-amazon-buys-zoom-valuation/6278567/"
-    ampWebUrl: "https://abc7news.com/amp/zoox-amazon-buys-zoom-valuation/6278567/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/zoox-amazon-buys-zoom-valuation/6278567/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 44
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/6279242_062820-kgo-zoox-car-img_Image_00-00-08,29.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Amazon looks to self-driving future by acquiring Zoox"
     excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their"
     publishedDateTime: 2020-07-03T17:42:00Z
@@ -68,20 +52,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "Amazon Acquires Self-Driving Tech Firm"
-    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
-    publishedDateTime: 2020-06-30T02:38:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21138692/amazon-looks-to-selfdriving-future"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/iStock_1214977181.5efa0bbe636e8.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Amazon Acquires Self-Driving Startup Zoox From Senegalese-Born CEO For Over $1.2bn"
     excerpt: "E-commerce giant Amazon has reportedly forked out more than $1.2 billion to buy the self-driving startup Zoox. On Friday, both companies announced they had signed a"
     publishedDateTime: 2020-07-01T18:04:00Z

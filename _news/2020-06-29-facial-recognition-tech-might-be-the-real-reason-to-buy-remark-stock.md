@@ -164,6 +164,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "North America Facial Recognition Market 2020 Share, Trend, Segmentation And Forecast To 2024"
+    excerpt: "Facial Recognition Industry Description The Global Facial Recognition market is projected to reach $8.74 billion"
+    publishedDateTime: 2020-07-03T19:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-2020-share-trend-segmentation-and-forecast-to-2024-2020-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Dozens of advocacy groups push for Congress to ban facial recognition technology"
     excerpt: "Nearly 40 civil rights, privacy and technology groups sent a letter to Congressional leadership Thursday pushing for a federal moratorium on facial recognition technology."
     publishedDateTime: 2020-07-02T11:00:00Z
@@ -179,6 +193,20 @@ related:
       - url: "https://thehill.com/sites/default/files/facialrecognitiontech_070319istock.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "EU Once Again Considers Facial Recognition Ban"
+    excerpt: "The European Union is once again considering a ban on facial recognition. The possibility of a temporary ban surfaced in an early draft of a European Commission white paper in January, but those plans were eventually abandoned in the final draft of the paper."
+    publishedDateTime: 2020-07-03T18:59:00Z
+    webUrl: "https://findbiometrics.com/eu-once-again-considers-facial-recognition-ban-070301/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 54
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/blurredface-e1579295692518.jpeg"
+        width: 1502
+        height: 1694
         isCached: true
   - title: "Sen. Markey Files Legislation To Ban Government Use Of Facial Recognition Software"
     excerpt: "Markey cited a report that said Black, Brown and Asian individuals were up to 100 times more likely to be misidentified."

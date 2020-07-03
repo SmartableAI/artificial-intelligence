@@ -2,6 +2,100 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-06-02-this-voice-recorder-looks-like-a-cassette-tape-and-uses-ai-to-transcribe-10-languages.md",
+      "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
+      "excerpt": "The 399 yuan (US$56) gadget needs five minutes to transcribe each hour of content. It uses Bluetooth to connect to a smartphone app, which you can open to read the transcript. And don’t worry about your bilingual recordings: iFlytek says the Recording Pen can transcribe a person switching between Chinese and English words.",
+      "webUrl": "https://www.scmp.com/abacus/tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10-languages",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/06/02/image2.png?itok=6NP11nIO",
+          "width": 1200,
+          "height": 630,
+          "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/abacus/tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10-languages",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10-languages",
+      "publishedDateTime": "2020-06-02T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm.md",
+      "title": "Image Recognition Market to Rise at 19.6% CAGR till 2026 Driven by the Growing Incorporation of AI, says Fortune Business Insights(TM)",
+      "excerpt": "Pune, June 02, 2020 (GLOBE NEWSWIRE) -- The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation of artificial intelligence in image recognition will fuel the demand for the product across the world.",
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm-2020-06-02-61845727",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Image Recognition Market to Rise at 19.6% CAGR till 2026 Driven by the Growing Incorporation of AI, says Fortune Business Insights(TM)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-02T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-artificial-intelligence-ai-in-healthcare-market-will-exceed-402-bn-by-2027.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market Will Exceed $ 40.2 Bn By 2027",
       "excerpt": "The global Artificial Intelligence (AI) in Healthcare Market size is expected to reach USD 40.2 billion by 2027, at a significant growth rate of 49.7% during the forecasted period 2020 to 2027. The research report provides a big picture of “Artificial Intelligence (AI) in Healthcare Market” 2027,",
@@ -996,81 +1090,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure.md",
-      "title": "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure",
-      "excerpt": "WANdisco, the LiveData company, today announced the limited public preview availability of WANdisco LiveData Platform for Azure, a new service offering available on Microsoft Azure exclusively. The WANdisco LiveData Platform features the company’s patented consensus engine which ensures data consistency,",
-      "webUrl": "https://www.newswiretoday.com/news/172992/WANdisco-Releases-LiveData-Platform-for-Petabyte-Scale-Cloud-Migration-to-Microsoft-Azure/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-01T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-third-pixel-feature-drop-improves-ai-powered-adaptive-battery-integrates-recorder-and-google-assistant.md",
-      "title": "Third Pixel feature drop improves AI-powered Adaptive Battery, integrates Recorder and Google Assistant",
-      "excerpt": "Google's third Pixel feature drop brings a smarter Adaptive Battery, Recorder integration with Google Assistant, and bedtime and personal safety features.",
-      "webUrl": "https://venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/android-bedtime-graphic.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Third Pixel feature drop improves AI-powered Adaptive Battery, integrates Recorder and Google Assistant",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/amp/",
-      "publishedDateTime": "2020-06-01T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
