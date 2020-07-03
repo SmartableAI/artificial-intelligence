@@ -2,6 +2,146 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-03-study-only-18-of-data-scientists-are-learning-about-ai-ethics.md",
+      "title": "Study: Only 18% of data scientists are learning about AI ethics",
+      "excerpt": "A study by data science firm Anaconda found a \"concerning\" absence of AI ethics initiatives in both academia and industry.",
+      "webUrl": "https://thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-94-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Study: Only 18% of data scientists are learning about AI ethics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/amp/",
+      "publishedDateTime": "2020-07-03T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-03-rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit.md",
+      "title": "R&D Roundup: Tech giants unveil breakthroughs at computer vision summit",
+      "excerpt": "Computer vision summit CVPR has just (virtually) taken place, and like other CV-focused conferences, there are quite a few interesting papers. More than I could possibly write up individually, in fact,",
+      "webUrl": "https://techcrunch.com/2020/07/03/rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/fb-3d.jpg?w=1024",
+          "width": 1024,
+          "height": 594,
+          "title": "R&D Roundup: Tech giants unveil breakthroughs at computer vision summit",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/03/rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/03/rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit/amp/",
+      "publishedDateTime": "2020-07-03T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-03-lemonade-ipo-shows-the-power-of-ai-artificial-intelligence.md",
+      "title": "Lemonade IPO Shows The Power Of AI (Artificial Intelligence)",
+      "excerpt": "Lemonade is a next-generation AI company. The technology is all-pervasive across its operations. Keep in mind that the insurance industry was actually the first industry that was data driven. The roots go back to 1662 when John Graunt helped to create modern statistics,",
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/07/03/lemonade-ipo-shows-the-power-of-ai-artificial-intelligence/",
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eff578f9756420007f6f6b9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444",
+          "width": 1200,
+          "height": 675,
+          "title": "Lemonade IPO Shows The Power Of AI (Artificial Intelligence)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/07/03/lemonade-ipo-shows-the-power-of-ai-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/07/03/lemonade-ipo-shows-the-power-of-ai-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-07-03T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-03-we-need-a-new-field-of-ai-to-combat-racial-bias.md",
       "title": "We need a new field of AI to combat racial bias",
       "excerpt": "Responsibly managing machine learning processes is no longer just a desirable component of progress but a necessary one.",
@@ -29,6 +169,52 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-03-sushi-meets-ai-japanese-inventors-app-scopes-out-choice-tuna-cuts.md",
+      "title": "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts",
+      "excerpt": "If you've ever bought supermarket sushi, you may know the taste trauma that hit Kazuhiro Shimura one night. But \"disappointing\" tuna sparked an idea: he'd develop an artificial intelligence (AI) system to make sure your sashimi is always delicious.",
+      "webUrl": "https://www.reuters.com/article/us-japan-tech-ai-tuna-idUSKBN24415L",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200703&t=2&i=1524528857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG620IQ",
+          "width": 813,
+          "height": 545,
+          "title": "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24415L",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24415L",
+      "publishedDateTime": "2020-07-03T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -205,6 +391,52 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-03-youtube-will-let-ai-suggest-replies-to-video-comments.md",
+      "title": "YouTube Will Let AI Suggest Replies to Video Comments",
+      "excerpt": "Google announced Wednesday that it had implemented its SmartReply system for YouTube creators, which will give those users access to suggested replies based on what someone has commented. Unlike the SmartReply system Google currently uses for Gmail,",
+      "webUrl": "https://gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/tusrvqwjgzwa8v26s2gf.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "YouTube Will Let AI Suggest Replies to Video Comments",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206/amp",
+      "publishedDateTime": "2020-07-02T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -594,7 +826,7 @@
       "title": "Larry Magid: Facial recognition loses support as bias claims rise",
       "excerpt": "Following the lead of San Francisco, Boston and several other cities, Detroit is poised to end a contract with a company that provides facial recognition technology to its police department. And it’s not just Larry Magid (Gary Reyes / Mercury News) cities that are backing away from the technology.",
       "webUrl": "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/",
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1137,238 +1369,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-learn-how-to-accelerate-your-business-using-automation-and-ai-technology-transform-2020.md",
-      "title": "Learn how to accelerate your business using automation and AI technology: Transform 2020",
-      "excerpt": "No one expected the jolt the Covid-19 pandemic would bring to business. If companies were already investing in automation and AI technologies before March 2020, they have only accelerated those investments since.",
-      "webUrl": "https://venturebeat.com/2020/07/01/learn-how-to-accelerate-your-business-using-automation-and-ai-technology-transform-2020/",
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/VB-Transform-2020.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "Learn how to accelerate your business using automation and AI technology: Transform 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/01/learn-how-to-accelerate-your-business-using-automation-and-ai-technology-transform-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/learn-how-to-accelerate-your-business-using-automation-and-ai-technology-transform-2020/amp/",
-      "publishedDateTime": "2020-07-01T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-cisco-uses-amazon-sagemaker-and-kubeflow-to-create-a-hybrid-machine-learning-workflow.md",
-      "title": "Cisco uses Amazon SageMaker and Kubeflow to create a hybrid machine learning workflow",
-      "excerpt": "This is a guest post from members of Cisco’s AI/ML best practices team, including Technical Product Manager Elvira Dzhuraeva, Distinguished Engineer Debo Dutta, and Principal Engineer Amit Saha. Cisco is a large enterprise company that applies machine learning (ML) and artificial intelligence (AI) across",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/cisco-uses-amazon-sagemaker-and-kubeflow-to-create-a-hybrid-machine-learning-workflow/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/30/cisco-sagemaker-1.jpg",
-          "width": 1000,
-          "height": 446,
-          "title": "Cisco uses Amazon SageMaker and Kubeflow to create a hybrid machine learning workflow",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T12:22:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-elon-musk-stays-true-to-his-word-tesla-raises-full-self-driving-price-to-8000.md",
-      "title": "Elon Musk Stays True to His Word: Tesla Raises Full Self-Driving Price to $8,000",
-      "excerpt": "Keeping consistent with what Elon Musk had suggested in May, Tesla (NASDAQ:TSLA) announced today that the cost for the full self-driving (FSD) package is now $8,000 -- a $1,000 in",
-      "webUrl": "https://www.fool.com/investing/2020/07/01/elon-musk-stays-true-to-his-word-tesla-raises-full.aspx",
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F580713%2Fmodel3-interior.png&w=1200&op=resize",
-          "width": 1200,
-          "height": 698,
-          "title": "Elon Musk Stays True to His Word: Tesla Raises Full Self-Driving Price to $8,000",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/01/elon-musk-stays-true-to-his-word-tesla-raises-full.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/01/elon-musk-stays-true-to-his-word-tesla-raises-full.aspx",
-      "publishedDateTime": "2020-07-01T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-google-brings-its-ai-powered-smartreply-feature-to-youtube.md",
-      "title": "Google brings its AI-powered SmartReply feature to YouTube",
-      "excerpt": "Google’s SmartReply, the four-year old, A.I.-based technology that helps suggest responses to messages in Gmail, Android’s Messages, Play Developer Console, and elsewhere, is now being made available to YouTube Creators.",
-      "webUrl": "https://techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/youtube-ios-app.jpg?w=1024",
-          "width": 1024,
-          "height": 575,
-          "title": "Google brings its AI-powered SmartReply feature to YouTube",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/amp/",
-      "publishedDateTime": "2020-07-01T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics.md",
-      "title": "Dating app Badoo is now using AI to detect unsolicited dick pics",
-      "excerpt": "One notable exception is the state of Texas, thanks largely to lobbying from dating app Bumble. Bumble also uses AI to block out to detect lewd images before they reach their destination. Yesterday, its sister app Badoo launched a similar feature.",
-      "webUrl": "https://thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-90-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Dating app Badoo is now using AI to detect unsolicited dick pics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/amp/",
-      "publishedDateTime": "2020-07-01T11:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

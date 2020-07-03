@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "China’s popular ride-hailing app DiDi starts testing self-driving taxis"
-    excerpt: "Currently, the app is only serving a small geographic area of the city.Initially, the company has deployed their own safety personnel to deal with emergency situations"
-    publishedDateTime: 2020-06-29T00:53:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/china-s-popular-ride-hailing-app-didi-starts-testing-self-driving-taxis-11593391327432.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/china-s-popular-ride-hailing-app-didi-starts-testing-self-driving-taxis/amp-11593391327432.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/china-s-popular-ride-hailing-app-didi-starts-testing-self-driving-taxis/amp-11593391327432.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2020/06/29/600x338/2020-06-27T105926Z_1_LYNXMPEG5Q0BA_RTROPTP_3_CHINA-DIDI-CHUXING_1593391571639_1593391587355.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Self-driving trucking service launched from Phoenix, other Southwest cities"
     excerpt: "The autonomous freight network's first phase, through 2021, will feature service between Phoenix, Tucson, El Paso, Dallas, Houston and San Antonio"
     publishedDateTime: 2020-07-02T13:14:00Z

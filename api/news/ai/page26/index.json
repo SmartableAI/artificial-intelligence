@@ -2,6 +2,271 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-06-08-the-21-smartest-ai-scientists-working-at-google-deepmind.md",
+      "title": "The 21 smartest AI scientists working at Google DeepMind",
+      "excerpt": "Background: Prior to joining DeepMind just nine months ago, Martin Riedmiller worked on robotics and autonomous learning systems at the University of Freiberg in Germany. Background: Shane Legg ...",
+      "webUrl": "https://www.businessinsider.in/tech/the-21-smartest-ai-scientists-working-at-google-deepmind/slidelist/51381299.cms",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/msid-51381300,width-640,resizemode-4,imgsize-46648/21-charles-blundell.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "The 21 smartest AI scientists working at Google DeepMind",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
+      "title": "Senator fears Clearview AI facial recognition could be used on protesters",
+      "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
+      "webUrl": "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
+      "heat": 505,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/9iSXtLFKNXgiNKMOB6uefX3betU=/756x567/2020/06/04/6e5b36d7-6f9d-4afc-912e-38a007947e55/sf.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Senator fears Clearview AI facial recognition could be used on protesters",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
+      "publishedDateTime": "2020-06-08T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-your-company-needs-ai-training-heres-how-to-get-it-for-free.md",
+      "title": "Your company needs AI training: Here's how to get it for free",
+      "excerpt": "Just because you don't have a large training budget doesn't mean you shouldn't democratize your AI. Here are some ways to get the training your staff needs.",
+      "webUrl": "https://www.techrepublic.com/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/08/c72c3495-4430-4506-a732-ccffd727714b/resize/1200x/38c546efe64f75f3cbb60431c1a91006/istock-1183313700.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": "Your company needs AI training: Here's how to get it for free",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/your-company-needs-ai-training-heres-how-to-get-it-for-free/",
+      "publishedDateTime": "2020-06-08T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-durr-brings-artificial-intelligence-to-the-paint-shop.md",
+      "title": "Durr brings artificial intelligence to the paint shop",
+      "excerpt": "The automotive industry is a key driver and user of artificial intelligence (AI), which is fast percolating to different work areas. Now German major Durr has developed Advanced Analytics, the first market-ready AI application for paint shops.",
+      "webUrl": "https://www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/cc8e20a9-9966-44d0-bbfb-4cae9eefcc8e.jpg",
+          "width": 735,
+          "height": 490,
+          "title": "Durr brings artificial intelligence to the paint shop",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448?amp=1",
+      "cdnAmpWebUrl": "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/durr-brings-artificial-intelligence-to-the-paint-shop-56448?amp=1",
+      "publishedDateTime": "2020-06-08T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autocar Pro",
+        "domain": "autocarpro.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-mit-fit-tens-of-thousands-of-artificial-brain-synapses-on-a-single-chip.md",
+      "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
+      "excerpt": "MIT engineers put tens of thousands of artificial brain synapses on a single chip that's smaller than a piece of confetti.",
+      "webUrl": "https://www.engadget.com/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-12%2F37a07350-25b2-11ea-bfe1-e6a8b8b0b4ac&client=amp-blogside-v2&signature=dddb7e895b32ece73d8964a5022342b8a16c81b6",
+          "width": 600,
+          "height": 350,
+          "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
+      "publishedDateTime": "2020-06-08T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another.md",
+      "title": "Facebook’s TransCoder AI converts code from one programming language into another",
+      "excerpt": "Facebook's TransCoder AI model can translate among programming languages like Java, C++, and Python with high computational accuracy.",
+      "webUrl": "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s TransCoder AI converts code from one programming language into another",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/facebooks-transcoder-ai-converts-code-from-one-programming-language-into-another/amp/",
+      "publishedDateTime": "2020-06-08T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-a-uniform-interface-to-run-deep-learning-models-from-multiple-frameworks.md",
       "title": "A uniform interface to run deep learning models from multiple frameworks",
       "excerpt": "Neuropod is a library that provides a uniform interface to run deep learning models from multiple frameworks in C++ and Python. Neuropod makes it easy for researchers to build models in a framework of their choosing while also simplifying productionization of these models.",
@@ -1022,260 +1287,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-caltech-researchers-discover-the-brain-uses-a-mathematical-system-to-organize-what-you-see.md",
-      "title": "Caltech Researchers Discover the Brain Uses a Mathematical System to Organize What You See",
-      "excerpt": "Now, Caltech researchers have combined tools from machine learning and neuroscience to discover that the brain uses a mathematical system to organize visual objects according to their principal components.",
-      "webUrl": "https://www.pasadenanow.com/main/wp-admin/admin-ajax.php?action=times_process_times_vote&nonce=30f162dd2e&post_id=480727&disabled=true&is_comment=false",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pasadenanow.com/main/wp-content/uploads/2020/06/41586_2020_2350_Fig4_crop.max828.jpg",
-          "width": 400,
-          "height": 303,
-          "title": "Caltech Researchers Discover the Brain Uses a Mathematical System to Organize What You See",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-07T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pasadena Now",
-        "domain": "pasadenanow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-the-best-performing-analysts-are-betting-on-these-5-stocks-right-now.md",
-      "title": "The best-performing analysts are betting on these 5 stocks right now",
-      "excerpt": "As coronavirus restrictions ease and business begins to improve, it could make sense to follow the stock picks of analysts with a proven track record of success. Here we used TipRanks analyst ranking service to pinpoint Wall Street’s best-performing analysts.",
-      "webUrl": "https://www.cnbc.com/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1591230244",
-          "width": 5255,
-          "height": 3402,
-          "title": "The best-performing analysts are betting on these 5 stocks right now",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
-      "publishedDateTime": "2020-06-07T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-robots-help-employees-at-jaipur-firm-stay-safe-during-covid-19.md",
-      "title": "Robots Help Employees At Jaipur Firm Stay Safe During COVID-19",
-      "excerpt": "With a COVID-19-battered world hard-pressed to maintain social distancing, a private firm here has deployed seven humanoid robots and other artificial intelligence techniques to reduce human to human interaction almost next to nil in its functioning.",
-      "webUrl": "https://www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229",
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2019-07/em33jo3o_robots-pixabay-650_625x300_05_July_19.jpg",
-          "width": 650,
-          "height": 400,
-          "title": "Robots Help Employees At Jaipur Firm Stay Safe During COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229?amp=1&akamai-rum=off",
-      "publishedDateTime": "2020-06-07T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news.md",
-      "title": "Microsoft Is Replacing Employees With AI…And Other Small Business Tech News",
-      "excerpt": "Here are five things in technology that happened this past week and how they affect your business. Did you miss them?",
-      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1139177463%2F0x0.jpg",
-          "width": 1200,
-          "height": 806,
-          "title": "Microsoft Is Replacing Employees With AI…And Other Small Business Tech News",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/amp/",
-      "publishedDateTime": "2020-06-07T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-jaipur-firm-deploys-7-humanoid-robots-to-cut-down-physical-interaction-among-employees.md",
-      "title": "Jaipur firm deploys 7 humanoid robots to cut down physical interaction among employees",
-      "excerpt": "The humanoid robots use artificial intelligence (AI ... adding when they start running out of power, they head straight towards the charging point.",
-      "webUrl": "https://www.indiatvnews.com/news/india/jaipur-firm-deploys-humanoid-robots-to-cut-down-physical-interaction-among-employees-624246",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2019/11/robot-trash-talk-ap-final-1574157673.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Jaipur firm deploys 7 humanoid robots to cut down physical interaction among employees",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/news/india/jaipur-firm-deploys-humanoid-robots-to-cut-down-physical-interaction-among-employees-624246",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/news/india/jaipur-firm-deploys-humanoid-robots-to-cut-down-physical-interaction-among-employees-624246",
-      "publishedDateTime": "2020-06-07T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-artificial-disc-market-study-an-emerging-hint-of-opportunity-alphatec-spine-stryker-globus-medical-orthovita.md",
-      "title": "Artificial Disc Market Study: An Emerging Hint of Opportunity | Alphatec Spine, Stryker, Globus Medical, Orthovita",
-      "excerpt": "Jun 07, 2020 (HTF Market Intelligence via COMTEX) -- AMA Research have added latest edition of survey study on Global Artificial Disc ... care and/or physical therapy. Important Features that ...",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-disc-market-study-an-emerging-hint-of-opportunity-alphatec-spine-stryker-globus-medical-orthovita-2020-06-07?mod=mw_quote_news",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Disc Market Study: An Emerging Hint of Opportunity | Alphatec Spine, Stryker, Globus Medical, Orthovita",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-06T23:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

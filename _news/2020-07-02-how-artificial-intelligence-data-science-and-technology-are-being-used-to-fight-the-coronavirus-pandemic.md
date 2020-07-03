@@ -5,7 +5,7 @@ excerpt: "HOW ARTIFICIAL INTELLIGENCE, DATA SCIENCE, AND TECHNOLOGY ARE BEING US
 publishedDateTime: 2020-07-02T08:29:00Z
 webUrl: "https://www.hostreview.com/blog/200702-how-artificial-intelligence-data-science-and-technology-are-being-used-to-fight-the-coronavirus-pandemic"
 type: article
-quality: 21
+quality: 23
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"

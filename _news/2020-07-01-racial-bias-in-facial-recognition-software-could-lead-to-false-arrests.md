@@ -162,22 +162,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Ed Markey, Ayanna Pressley push for federal ban on facial recognition technology"
-    excerpt: "Massachusetts Sen. Ed Markey and Rep. Ayanna Pressley are pushing to ban the federal government’s use of facial recognition technology, as Boston last week nixed the city use of the"
-    publishedDateTime: 2020-06-28T23:14:00Z
-    webUrl: "https://www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/"
-    ampWebUrl: "https://www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/06/28/ed-markey-ayanna-pressley-push-for-federal-ban-on-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 56
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/03/markeynl06.jpg?w=1024&h=755"
-        width: 1024
-        height: 755
-        isCached: true
   - title: "Facial-Recognition Tech Might Be the Real Reason to Buy Remark Stock"
     excerpt: "Stock Market News, Stock Advice & Trading Tips. When discussing Remark Holdings (NASDAQ:MARK), most investors and pundits have focused on the ability of the compan"
     publishedDateTime: 2020-06-29T13:10:00Z

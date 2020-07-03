@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-03-rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit.md",
+      "title": "R&D Roundup: Tech giants unveil breakthroughs at computer vision summit",
+      "excerpt": "Computer vision summit CVPR has just (virtually) taken place, and like other CV-focused conferences, there are quite a few interesting papers. More than I could possibly write up individually, in fact,",
+      "webUrl": "https://techcrunch.com/2020/07/03/rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/fb-3d.jpg?w=1024",
+          "width": 1024,
+          "height": 594,
+          "title": "R&D Roundup: Tech giants unveil breakthroughs at computer vision summit",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/03/rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/03/rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit/amp/",
+      "publishedDateTime": "2020-07-03T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-huawei-mate-40-pro-could-have-3d-face-recognition-for-payments.md",
       "title": "Huawei Mate 40 Pro Could Have 3D Face Recognition For Payments",
       "excerpt": "The Huawei Mate 40 Pro is rumoured to come with 3D face recognition for payments as reported by Gizmochina. The world's largest smartphone maker is",
@@ -44,7 +91,7 @@
       "title": "Larry Magid: Facial recognition loses support as bias claims rise",
       "excerpt": "Following the lead of San Francisco, Boston and several other cities, Detroit is poised to end a contract with a company that provides facial recognition technology to its police department. And it’s not just Larry Magid (Gary Reyes / Mercury News) cities that are backing away from the technology.",
       "webUrl": "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/",
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -178,7 +225,7 @@
       "title": "The organizations positioned to lobby against a US ban on facial recognition",
       "excerpt": "Pressure on US lawmakers to create federal regulations on facial recognition has been mounting. Against that backdrop, industry groups have quietly lobbied to soften regulations and avoid an outright ban.",
       "webUrl": "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/",
-      "heat": 301,
+      "heat": 291,
       "tags": null,
       "images": [
         {
@@ -248,6 +295,53 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-experts-facial-recognition-will-be-everywhere-whether-you-like-it-or-not.md",
+      "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
+      "excerpt": "Facial recognition could soon become as commonplace as public Wi-Fi and security cameras. But with the advance of technology comes major ethical questions.",
+      "webUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?itm_source=29&itm_content=1x7&itm_term=2376504",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/us-technology-artificial-intelligence-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
+      "publishedDateTime": "2020-06-30T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1203,92 +1297,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-chinese-ai-researchers-based-overseas-sweep-top-awards-at-leading-computer-vision-conference-cvpr.md",
-      "title": "Chinese AI researchers based overseas sweep top awards at leading computer vision conference CVPR",
-      "excerpt": "At leading computer vision gathering Conference on Computer Vision and Pattern Recognition, Chinese researchers were behind both papers recognised as the best appearing at the event.",
-      "webUrl": "https://www.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/18/63f0548c-b132-11ea-953d-a7ecc5cbd229_image_hires_172720.jpg?itok=iSVdn0JI&v=1592472448",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese AI researchers based overseas sweep top awards at leading computer vision conference CVPR",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
-      "publishedDateTime": "2020-06-18T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-congressman-calls-out-amazons-performative-facial-recognition-moratorium.md",
-      "title": "Congressman calls out Amazon's 'performative' facial-recognition moratorium",
-      "excerpt": "[The] 102-word blog post announcement fails to specify whether Amazon will stop selling Rekognition to police departments during the moratorium; whether the company will stop the development of ...",
-      "webUrl": "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F06%252F18%252Fd0%252F067b134488834b6bac8bfc91b9731822.499d9.jpg%252F1200x630.jpg?signature=1lDWOXpdt8JocVS38IojVBFjb5o=",
-          "width": 1200,
-          "height": 630,
-          "title": "Congressman calls out Amazon's 'performative' facial-recognition moratorium",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp",
-      "publishedDateTime": "2020-06-17T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

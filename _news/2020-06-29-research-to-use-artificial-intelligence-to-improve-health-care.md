@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-29T01:28:00Z
 webUrl: "https://www.miragenews.com/research-to-use-artificial-intelligence-to-improve-health-care/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     title: "Research to use artificial intelligence to improve health care"
 
 related:
-  - title: "Australian government sinks AU$19 million into AI health research projects"
-    excerpt: "The Australian government has announced it will invest AU$19 million over three years into artificial intelligence-based health research projects designed to prevent, diagnose, and treat a range of health conditions."
-    publishedDateTime: 2020-06-29T00:46:00Z
-    webUrl: "https://www.zdnet.com/article/australian-government-sinks-au19-million-into-ai-health-research-projects/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/australian-government-sinks-au19-million-into-ai-health-research-projects/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-government-sinks-au19-million-into-ai-health-research-projects/"
+  - title: "FMC Corporation Collaborates with Cyclica to Improve Research Efficiency Using Artificial Intelligence"
+    excerpt: "PRNewswire/ -- FMC Corporation (NYSE: FMC) has entered into a collaboration with Cyclica Inc, a leading biotechnology company specializing in"
+    publishedDateTime: 2020-07-02T15:42:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fmc-corporation-collaborates-with-cyclica-to-improve-research-efficiency-using-artificial-intelligence-301084776.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2018/12/11/ab9d2ce5-1e6c-4bc7-900f-486392d74270/thumbnail/1200x675/6e917f26544cdf82f38dfd6728fb6793/istockphoto-abadonian-835879592.jpg"
-        width: 1200
-        height: 675
+      - url: "https://mma.prnewswire.com/media/331912/fmc_corporation_logo.jpg?p=facebook"
+        width: 1881
+        height: 985
         isCached: true
 
 secured: "LYFWtZmlKdHg7tDe9azqk6NkA76Rj6qZC66MKyNi0Hfk0jZMSXLnV3vEfTDD8jLJRKsIiKxZ0QoIPXHRPFKgPrMst5FcTaiVW4YqqR5RENxgT06NA3F7dCOWwW9ff6M7isadCwEgnkZ234H2niUj9lrWXV7aUUqo6ehcjgkicIJjRFOkRcqK0Lx+bNYA4bfTVuwjAxguZPTyVLxA2bAAdW2AAoQD/MyfK1A226rnZ+6r0WsBFUTqf6iCpHTPBNcLQY39V1Mk74y5WflbctA01nSmWn5uByrPm2YK78bzjrSlBMlPBOyQ/W3gKoeJSIAZKjRiVOj5WBU8BZ27XST+EA==;FW3MC16poU2QAU7ZcyoDHA=="

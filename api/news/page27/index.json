@@ -2,6 +2,279 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-06-11-amazon-halts-police-use-of-its-facial-recognition-tech.md",
+      "title": "Amazon halts police use of its facial recognition tech",
+      "excerpt": "Amazon is to pause the police use of its AWS facial recognition software Rekognition following two weeks of intense protests against police brutality and the murder of George Floyd on 25 May. The tech giant announced that it would be implementing a one-year moratorium on the technology,",
+      "webUrl": "https://www.itpro.co.uk/security/biometrics/356023/amazon-halts-police-use-of-its-facial-recognition-tech",
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570817110/itpro/2018/12/microsoft_facial_recognition.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Amazon halts police use of its facial recognition tech",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/security/biometrics/356023/amazon-halts-police-use-of-its-facial-recognition-tech?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/356023/amazon-halts-police-use-of-its-facial-recognition-tech?amp",
+      "publishedDateTime": "2020-06-11T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-fluent-in-flavor-using-machine-learning-to-build-a-flavor-language-for-whiskey.md",
+      "title": "Fluent in flavor: Using machine learning to build a flavor language for whiskey",
+      "excerpt": "So many descriptors and personal perceptions swirl around a glass of whiskey. Published whiskey reviews include sensory and nonsensory descriptions.",
+      "webUrl": "https://augustafreepress.com/fluent-in-flavor-using-machine-learning-to-build-a-flavor-language-for-whiskey/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://augustafreepress.com/wp-content/uploads/2020/06/whiskey-glass.jpg",
+          "width": 400,
+          "height": 267,
+          "title": "Fluent in flavor: Using machine learning to build a flavor language for whiskey",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Augusta Free Press",
+        "domain": "augustafreepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year.md",
+      "title": "Amazon bans police use of its infamous facial recognition software for a year",
+      "excerpt": "The e-commerce and tech giant has decided to ban the use of Amazon Rekognition by police forces for a year until stricter regulation surrounding facial recognition software can be formulated.",
+      "webUrl": "https://www.neowin.net/news/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2018/08/1535120316_amazon-02_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Amazon bans police use of its infamous facial recognition software for a year",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year/",
+      "publishedDateTime": "2020-06-10T22:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-amazons-facial-recognition-moratorium-has-major-loopholes.md",
+      "title": "Amazon’s facial recognition moratorium has major loopholes",
+      "excerpt": "The moratorium comes two days after IBM said in a letter it was leaving the facial recognition market altogether. Arvind Krishna, IBM’s chief executive, cited a “pursuit of justice and racial equity” in light of the recent protests sparked by the killing of George Floyd by a white police officer in Minneapolis last month.",
+      "webUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/",
+      "heat": 321,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/getty-facial-face-recognition.jpg?w=1024",
+          "width": 1024,
+          "height": 685,
+          "title": "Amazon’s facial recognition moratorium has major loopholes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/amazon-rekognition-moratorium/amp/",
+      "publishedDateTime": "2020-06-10T20:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-clearview-ai-still-backs-facial-recognition-despite-competitors-concerns.md",
+      "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
+      "excerpt": "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse.",
+      "webUrl": "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
+      "publishedDateTime": "2020-06-10T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-the-4-types-of-future-companies-as-a-result-of-automation-and-ai.md",
+      "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
+      "excerpt": "Why AI and automation will create new types of companies in the future. The success of these companies will depend upon their use of AI, automation and self management",
+      "webUrl": "https://www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edf6e4ecb11580006fabd8c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5500%26cropY1%3D280%26cropY2%3D3375",
+          "width": 1199,
+          "height": 675,
+          "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/amp/",
+      "publishedDateTime": "2020-06-10T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-5-reasons-why-your-chatbot-needs-natural-language-processing.md",
       "title": "5 Reasons Why Your Chatbot Needs Natural Language Processing",
       "excerpt": "This is where Natural Language Processing (NLP) comes into the picture. Within the right context for the right applications, NLP can pave the way for an easier-to-use interface to features and ...",
@@ -820,279 +1093,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-flatfile-raises-76-million-for-ai-that-extracts-and-transforms-spreadsheet-data.md",
-      "title": "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data",
-      "excerpt": "Flatfile, a startup developing a platform that ingests and transforms data from spreadsheets, raised $7.6 million in equity financing.",
-      "webUrl": "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/",
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/flatfile-eric-crane-david-boskovic-e1590701751753.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/amp/",
-      "publishedDateTime": "2020-06-10T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-three-ways-ai-video-surveillance-will-transform-the-retail-customer-experience.md",
-      "title": "Three Ways AI Video Surveillance Will Transform The Retail Customer Experience",
-      "excerpt": "As retailers prepare for the industry’s recovery and the country begins to reopen, retail leaders should be thinking about how to attract consumers to shop in-store.",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/10/three-ways-ai-video-surveillance-will-transform-the-retail-customer-experience/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1141999253%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Three Ways AI Video Surveillance Will Transform The Retail Customer Experience",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/10/three-ways-ai-video-surveillance-will-transform-the-retail-customer-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/10/three-ways-ai-video-surveillance-will-transform-the-retail-customer-experience/amp/",
-      "publishedDateTime": "2020-06-10T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-the-weird-frightening-future-of-ai-may-not-be-what-you-think.md",
-      "title": "The weird, frightening future of AI may not be what you think",
-      "excerpt": "There are five principles of AI weirdness, according to author and researcher Janelle Shane. One of them is: \"The danger of AI is not that it's too smart but it's not smart enough.\" But another is: \"AI does not really understand the problem you want it to solve.",
-      "webUrl": "https://www.cnet.com/news/the-weird-frightening-future-of-ai-may-not-be-what-you-think/",
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/b5BohM9J9LzTDHai5gW_rHh6vOU=/756x567/2020/06/08/ea5b88cf-58aa-44a3-995b-bb4043b1935f/look-like-a-thing.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "The weird, frightening future of AI may not be what you think",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-weird-frightening-future-of-ai-may-not-be-what-you-think/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-weird-frightening-future-of-ai-may-not-be-what-you-think/",
-      "publishedDateTime": "2020-06-10T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-azure-machine-learningwhats-new-from-build-2020.md",
-      "title": "Azure Machine Learning—what’s new from Build 2020",
-      "excerpt": "Machine learning (ML) is gaining momentum across a number of industries and scenarios as enterprises look to drive innovation, increase efficiency, and reduce costs. Microsoft Azure Machine Learning empowers developers and data scientists with enterprise-grade capabilities to accelerate the ML lifecycle.",
-      "webUrl": "https://azure.microsoft.com/blog/azure-machine-learning-what-s-new-from-build-2020/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/db646164-18d7-4987-a7ed-dd7451206d47.png",
-          "width": 1024,
-          "height": 586,
-          "title": "Azure Machine Learning—what’s new from Build 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-10T05:00:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60.md",
-      "title": "AWS certification course bundle deal: Train to become a cloud pro for just $60",
-      "excerpt": "Since launching in 2006, Amazon Web Services (AWS) has become the premier on-demand cloud computing platform. Offering a wide range of APIs to companies, governments, and individuals on a pay-as-you-go basis,",
-      "webUrl": "https://www.zdnet.com/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/05/35c5ae5e-3009-4ea2-90ec-61584b9fe4ce/thumbnail/1200x675/4eaf54addf487f85eff01764ae49ab83/zdnet-aws.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AWS certification course bundle deal: Train to become a cloud pro for just $60",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
-      "publishedDateTime": "2020-06-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-loop-insights-launches-automated-contact-tracing-platform-to-support-covid-19-government-mandate.md",
-      "title": "Loop Insights Launches Automated Contact Tracing Platform to Support Covid-19 Government Mandate",
-      "excerpt": "Loop ' s solution ensures 100% accurate data collection via its proprietary IoT (Internet of Things) device, Fobi, and offers AI and predictive modeling. Reactionary time is vital for the management of Covid-19 outbreaks;",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/loop-insights-launches-automated-contact-tracing-platform-to-support-covid-19-government-mandate-1029296207",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/loop-insights-launches-automated-contact-tracing-platform-to-support-covid-19-government-mandate-1029296207",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/loop-insights-launches-automated-contact-tracing-platform-to-support-covid-19-government-mandate-1029296207",
-      "publishedDateTime": "2020-06-10T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

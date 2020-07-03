@@ -2,6 +2,233 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-06-23-ai-continues-to-flourish-in-business-despite-the-pandemic-and-a-turbulent-economy.md",
+      "title": "AI continues to flourish in business despite the pandemic and a turbulent economy",
+      "excerpt": "Organizations are betting on artificial intelligence to help them stay resilient, increase efficiencies, and innovate, Appen Limited's 2020 State of AI report finds.",
+      "webUrl": "https://www.techrepublic.com/article/ai-continues-to-flourish-in-business-despite-the-pandemic-and-a-turbulent-economy/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/23/2581bf0e-dcb7-4cfe-b9c6-78c5711f89d1/resize/1200x/3156ee58dcf5bd99123ed6f18c925f5e/istock-1236682035.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI continues to flourish in business despite the pandemic and a turbulent economy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-continues-to-flourish-in-business-despite-the-pandemic-and-a-turbulent-economy/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-continues-to-flourish-in-business-despite-the-pandemic-and-a-turbulent-economy/",
+      "publishedDateTime": "2020-06-23T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-get-nearly-800-worth-of-beginner-friendly-ai-dev-training-for-just-35.md",
+      "title": "Get nearly $800-worth of beginner-friendly AI dev training for just $35",
+      "excerpt": "Experts have long believed that the development of AI technologies would jump by leaps and bounds in ... If you want to be a part of that future, you have to start training now. And, the ultra-affordable Ultimate Artificial Intelligence Scientist ...",
+      "webUrl": "https://www.pcworld.com/article/3563752/get-nearly-800-worth-of-beginner-friendly-ai-dev-training-for-just-35.html",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/06/sale_29690_article_image-100849791-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Get nearly $800-worth of beginner-friendly AI dev training for just $35",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3563752/get-nearly-800-worth-of-beginner-friendly-ai-dev-training-for-just-35.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3563752/get-nearly-800-worth-of-beginner-friendly-ai-dev-training-for-just-35.amp.html",
+      "publishedDateTime": "2020-06-23T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-qumulo-leads-customers-to-the-cloud-with-launch-of-qumulo-shift-for-amazon-web-services-s3.md",
+      "title": "Qumulo Leads Customers to the Cloud with Launch of Qumulo Shift for Amazon Web Services S3",
+      "excerpt": "Qumulo, the leading provider of cloud file data services, announced today the l (AWS) S3, the first-ever native cloud service that enables organizations to move file data from any Qumulo on-prem or public cloud cluster into Amazon Simple Storage Service (Amazon S3) and transform that data to object in an open and non-proprietary format.",
+      "webUrl": "https://www.businesswire.com/news/home/20200623005212/en/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200623005212/en/750107/23/High_Res_Qumulo_Logo_%28new%29.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Qumulo Leads Customers to the Cloud with Launch of Qumulo Shift for Amazon Web Services S3",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-why-facebook-chose-to-open-its-first-european-ai-lab-in-paris-and-not-london.md",
+      "title": "Why Facebook chose to open its first European A.I. lab in Paris and not London",
+      "excerpt": "The social media giant was concerned that rival labs like DeepMind and Microsoft Research already occupied the turf in London.",
+      "webUrl": "https://www.cnbc.com/2020/06/23/facebook-fair-paris-london.html",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105020546-GettyImages-540680934.jpg?v=1532563680",
+          "width": 2000,
+          "height": 1333,
+          "title": "Why Facebook chose to open its first European A.I. lab in Paris and not London",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/23/facebook-fair-paris-london.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/23/facebook-fair-paris-london.html",
+      "publishedDateTime": "2020-06-23T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era.md",
+      "title": "‘World’s First’ Digital Human AI Partner Promises Companionship During Coronavirus Era",
+      "excerpt": "Planned before the coronavirus pandemic erupted, the Hybri app lets users create a partner, friend or family member. Once created, the digital partner or friend comes to life using either VR or AR, with users able to interact with them through either a smartphone alone,",
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef1c3a78d2fdf0006333444%2F0x0.jpg",
+          "width": 1200,
+          "height": 719,
+          "title": "‘World’s First’ Digital Human AI Partner Promises Companionship During Coronavirus Era",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/amp/",
+      "publishedDateTime": "2020-06-23T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-worlds-largest-api-marketplace.md",
       "title": "RapidAPI Expands Support for Microsoft Azure Cognitive Services on the World’s Largest API Marketplace",
       "excerpt": "RapidAPI,the world’s largest API Marketplace that helps developers find and connect to thousands of APIs, announced today that it has added a dozen",
@@ -1079,222 +1306,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-apple-ios-14-the-top-new-features-coming-to-the-iphone.md",
-      "title": "Apple iOS 14: the top new features coming to the iPhone",
-      "excerpt": "Widgets used to be an afterthought in iOS, but starting with iOS 14 the company is changing course and making them a lot more data-rich and customizable. These can now have multiple sizes, and it looks like Apple has",
-      "webUrl": "https://www.techspot.com/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-22-image-24.jpg",
-          "width": 1248,
-          "height": 857,
-          "title": "Apple iOS 14: the top new features coming to the iPhone",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
-      "publishedDateTime": "2020-06-22T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.md",
-      "title": "Microsoft is buying CyberX to bolster its Azure IoT security",
-      "excerpt": "Azure IoT users can look for additional security and monitoring capabilities as Microsoft announces plans to buy CyberX",
-      "webUrl": "https://www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.html",
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/08/iot_security-100675572-large.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft is buying CyberX to bolster its Azure IoT security",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.amp.html",
-      "publishedDateTime": "2020-06-22T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-trump-signs-executive-order-suspending-certain-work-visas-through-2020.md",
-      "title": "Trump signs executive order suspending certain work visas through 2020",
-      "excerpt": "President Trump on Monday signed an executive order to suspend the issuance of certain temporary worker visas through the end of 2020, cracking down further on immigration after signing a more narrow measure in April.",
-      "webUrl": "https://thehill.com/homenews/administration/503914-trump-signs-executive-order-suspending-certain-work-visas-through",
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_061620getty_memo.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "Trump signs executive order suspending certain work visas through 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/503914-trump-signs-executive-order-suspending-certain-work-visas-through?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/503914-trump-signs-executive-order-suspending-certain-work-visas-through?amp",
-      "publishedDateTime": "2020-06-22T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing.md",
-      "title": "US government doesn't know how it uses facial recognition in public housing",
-      "excerpt": "The Department of Housing and Urban Development says it doesn't have policies limiting how facial recognition is used in public housing.",
-      "webUrl": "https://www.cnet.com/news/us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing/",
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/mBcbBBTe2lIFz0R4LQ7bhNmWx0E=/756x567/2020/05/01/7d392c22-fd26-4e41-bfc7-0eef3e0bf34d/security-facial-recognition-contact-tracing.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "US government doesn't know how it uses facial recognition in public housing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing/",
-      "publishedDateTime": "2020-06-22T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.md",
-      "title": "HomeKit in iOS 14: Support for facial recognition and adaptive lighting",
-      "excerpt": "HomeKit will soon be able to automatically change the color temperature of your lights throughout the day, as well as tell you who’s waiting on your doorstep.",
-      "webUrl": "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.html",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/06/homekit-facial-recognition-100849644-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "HomeKit in iOS 14: Support for facial recognition and adaptive lighting",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html",
-      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html",
-      "publishedDateTime": "2020-06-22T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macworld",
-        "domain": "macworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

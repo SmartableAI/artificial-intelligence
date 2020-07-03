@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Amazon looks to self-driving future by acquiring Zoox"
+    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their"
+    publishedDateTime: 2020-07-03T17:42:00Z
+    webUrl: "https://www.wsav.com/news/technology/amazon-looks-to-self-driving-future-by-acquiring-zoox/"
+    ampWebUrl: "https://www.wsav.com/news/technology/amazon-looks-to-self-driving-future-by-acquiring-zoox/amp/"
+    cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/technology/amazon-looks-to-self-driving-future-by-acquiring-zoox/amp/"
+    type: article
+    provider:
+      name: WSAV-TV
+      domain: wsav.com
+    quality: 44
+    images:
+      - url: "https://www.wsav.com/wp-content/uploads/sites/75/2020/06/b7775bcad29441de8ca0d81aa89555a9.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Amazon Acquires Self-Driving Startup Zoox Led By Black Female CEO for $1.2 Billion"
     excerpt: "Amazon purchased Zoox, a developer of autonomous vehicles, for $1.2 billion. Zoox CEO Aicha Evans will remain in her current position."
     publishedDateTime: 2020-06-30T16:00:00Z
