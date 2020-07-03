@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/raspberry-pi-now-computer-v
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api/"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 371
     isCached: true
     title: "Raspberry Pi: Now computer-vision apps get boost with Khronos OpenVX API"
+
+related:
+  - title: "Raspberry Pi adds Khronos vision API"
+    excerpt: "Raspberry Pi is adopting the OpenVX 1.3 API to improve computer vision. The open and royalty-free API  comes from the Khronos Group whose members include A"
+    publishedDateTime: 2020-07-03T08:27:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/raspberry-pi-adds-khronos-vision-api-2020-07/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 24
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/05/28142229/Raspberry-Pi-4-8GB-800_far542-inline.jpg"
+        width: 615
+        height: 500
+        isCached: true
 
 secured: "esd+UhuFDQ/Jj6/JyJUL7IkHzWuOPnAJaWo/2Sc2khUd4Gfc7sbG+u4ycNOdlZsiRZ75n+CKSUnwEuhHbPObyslUen0bjS/+BO4WkXl9YgU5qciFQFdGDRlB/nt1a4ZZ40/g4GyQBfILH27DgAKFV1feUpbbnGMKjMXJf1I+k/g9n15zle1rXyJZ5d7wP/mRhHlpju8b/nFovo1RmNhaiWUcQau2JN7WUfcwBAwzvD8pGchsc0fk/xiOKemRMl0j1EQf5tggjUmjCZB7+snbbiJb6xaHHJ77xTniGwpI4SOXhDsc2p+KGscJ2ouSGrcVF8CZcIjio/tNrV1H9KtJ4nJtKgU3Z+AA2ujhBc1TlXs+O05+GIitK1BkeujdB4+HwrUpHyZ2Ara1t8LWZrnRoX2AWOmQdTmE6MiaRJ0lwO8T6KjKsuGqUD1YtxjXk0wIjAJ9u/WisHR+/qIssXLsgx96S1tHEJQFmox0SbHGvAgGZ4KoUTUCeSzWXED4OHEYKfR9cBULCpU8X8J8zUsuww==;w68UHJoJWJn/250OC9dvew=="
 ---

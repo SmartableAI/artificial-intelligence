@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-h
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self"
 type: article
 quality: 76
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -118,15 +118,6 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
-  - title: "China's Didi starts self-driving ride service in Shanghai"
-    excerpt: "Ride-hailing giant Didi Chuxing (DiDi) has launched the trial run of self-driving ride service on designated test roads in the eastern metropolis of Shanghai. Users who have registered in advance ..."
-    publishedDateTime: 2020-06-28T17:01:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200628/3583705.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "fGEqkE5yoNL/m/eJIBjWcdQf8rOdEK9ixQ0jLlFm8letDwQiK10yTw6v9Wmo0AoDE+Vjl15zXlhnOff9NeH66xtJHjaCtnMIJDvEqyuLmnFKWOpEXuA8AgF56Ei6XzmixlmRYVO3wu6mlYHmECbXJxlrPYI2BR5vwSv2Nh4lr3WSCry5A3IbtDo3gn8lAb9xWAqCO3ca9uV/4wl3cYMDsfND2VvnYl7xBVEmvGOb6gOvKTS2Uaan0h8trOOTrtZFPuz3F+FKSmNhu6mFiDoRBdu9oVZyAGtj7ohvkDzvBVi/cXylc2SFI0/z40lxw6HyrZbFTsEZgl3E79tXRV4fve3hcwgVdhIlSA3HydmQ0PyXMHoh/lCZi6tTmyWjwuhn95zSXuaPGFPL+Gx6U7h+axbmK1s7OOGe5Lj6GLgp0KTEDBzOpS8dyqlgrKKfTSFCyzSVhjZ6y5epML8u3BGISDS6tRUjkt0GuP6HLIyL7t2FyFoGgxPWMBOskvri90bnl247PqgUu40Ax6D5yIc8kA==;eIipoU3axRdnMfstbr/9yg=="
 ---

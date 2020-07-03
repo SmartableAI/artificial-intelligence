@@ -2,6 +2,90 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-03-sushi-meets-ai-japanese-inventors-app-scopes-out-choice-tuna-cuts.md",
+      "title": "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts",
+      "excerpt": "If you've ever bought supermarket sushi, you may know the taste trauma that hit Kazuhiro Shimura one night. But \"disappointing\" tuna sparked an idea: he'd develop an artificial intelligence (AI) system to make sure your sashimi is always delicious.",
+      "webUrl": "https://www.reuters.com/article/us-japan-tech-ai-tuna/sushi-meets-ai-japanese-inventors-app-scopes-out-choice-tuna-cuts-idUSKBN24415L",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200703&t=2&i=1524528857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG620IQ",
+          "width": 813,
+          "height": 545,
+          "title": "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24415L",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24415L",
+      "publishedDateTime": "2020-07-03T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-03-detroit-police-challenged-over-face-recognition-flaws-bias.md",
+      "title": "Detroit police challenged over face recognition flaws, bias",
+      "excerpt": "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police. And",
+      "webUrl": "https://www.pressofatlanticcity.com/news/national/detroit-police-challenged-over-face-recognition-flaws-bias/article_f461240c-bc52-535d-988e-6d4a49abe01d.html",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/4/42/4422327a-85d0-5e2a-8fe0-58d37d23f9f1/5ef3474fd3e4e.image.jpg?resize=1024%2C738",
+          "width": 1024,
+          "height": 738,
+          "title": "Detroit police challenged over face recognition flaws, bias",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pressofatlanticcity.com/news/national/detroit-police-challenged-over-face-recognition-flaws-bias/article_f461240c-bc52-535d-988e-6d4a49abe01d.amp.html",
+      "cdnAmpWebUrl": "https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/news/national/detroit-police-challenged-over-face-recognition-flaws-bias/article_f461240c-bc52-535d-988e-6d4a49abe01d.amp.html",
+      "publishedDateTime": "2020-07-03T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Press of Atlantic City",
+        "domain": "pressofatlanticcity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-03-robots-at-dubai-expo-2020-to-enrich-visitor-experience.md",
       "title": "Robots at Dubai Expo 2020 to enrich visitor experience",
       "excerpt": "UAE - Terminus Technologies, a China-based leader in smart technologies such as artificial intelligence and robotics, has been named the Expo 2020 Dubai's latest Premier Partner and has signed a long-term lease at District 2020 as part of the innovation ...",
@@ -635,7 +719,7 @@
       "title": "Raspberry Pi: Now computer-vision apps get boost with Khronos OpenVX API",
       "excerpt": "The Raspberry Pi Foundation has announced it's bringing the OpenVX 1.3 API to Raspberry Pi devices to improve computer vision on the popular single-board computers. The new open and royalty-free API comes from the Khronos Group,",
       "webUrl": "https://www.zdnet.com/article/raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api/",
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1044,99 +1128,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-2019-q4-recipients-of-aws-machine-learning-research-awards.md",
-      "title": "2019 Q4 recipients of AWS Machine Learning Research Awards",
-      "excerpt": "The AWS Machine Learning Research Awards (MLRA) aims to advance machine learning (ML) by funding innovative research and open-source projects, training students, and providing researchers with access to the latest technology. Since 2017, MLRA has supported over 180 research projects from 73 schools and",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/2019-q4-recipients-of-aws-machine-learning-research-awards/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": "2019 Q4 recipients of AWS Machine Learning Research Awards",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T13:05:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-learn-how-to-accelerate-your-business-using-automation-and-ai-technology-transform-2020.md",
-      "title": "Learn how to accelerate your business using automation and AI technology: Transform 2020",
-      "excerpt": "No one expected the jolt the Covid-19 pandemic would bring to business. If companies were already investing in automation and AI technologies before March 2020, they have only accelerated those investments since.",
-      "webUrl": "https://venturebeat.com/2020/07/01/learn-how-to-accelerate-your-business-using-automation-and-ai-technology-transform-2020/",
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/VB-Transform-2020.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "Learn how to accelerate your business using automation and AI technology: Transform 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/01/learn-how-to-accelerate-your-business-using-automation-and-ai-technology-transform-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/learn-how-to-accelerate-your-business-using-automation-and-ai-technology-transform-2020/amp/",
-      "publishedDateTime": "2020-07-01T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

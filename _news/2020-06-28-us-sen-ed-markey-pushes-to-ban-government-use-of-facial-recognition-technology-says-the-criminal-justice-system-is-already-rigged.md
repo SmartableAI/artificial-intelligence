@@ -27,21 +27,19 @@ images:
     title: "U.S. Sen. Ed Markey pushes to ban government use of facial recognition technology, says ‘the criminal justice system is already rigged'"
 
 related:
-  - title: "Police and Crime Commissioner says public consent needed for any use of live facial recognition technology in Kent"
-    excerpt: "Police say mooted trials have not taken place and the commissioner insists support of the public is vital before any system is rolled out."
-    publishedDateTime: 2020-06-29T17:23:00Z
-    webUrl: "https://www.kentonline.co.uk/maidstone/news/facial-recognition-tech-needs-public-consent-229508/"
-    ampWebUrl: "https://www.kentonline.co.uk/maidstone/news/amp/facial-recognition-tech-needs-public-consent-229508/"
-    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/maidstone/news/amp/facial-recognition-tech-needs-public-consent-229508/"
+  - title: "CBP’s Outgoing Biometrics Lead on Law Enforcement Use of Facial Recognition"
+    excerpt: "Law enforcement should be careful using facial recognition in public spaces. But with the right applications, authorities and transparency, federal programs could serve a lot of good."
+    publishedDateTime: 2020-07-02T19:21:00Z
+    webUrl: "https://www.nextgov.com/cio-briefing/2020/07/cbps-outgoing-biometrics-lead-law-enforcement-use-facial-recognition/166629/"
     type: article
     provider:
-      name: Kent Online
-      domain: kentonline.co.uk
+      name: Nextgov
+      domain: nextgov.com
     quality: 37
     images:
-      - url: "https://www.kentonline.co.uk/_media/img/F5AAKEO0ZBINYPPKQSG8.jpg"
-        width: 618
-        height: 425
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/07/02/shutterstock_1324894688/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "ZrXVAebkOyiQ4gGeROqFe3FcST2g+u1Cm8GeDHEUSqVfkGKfLYSlGTjJBkcxH8+0knDx6O4U3fKuhI9/lpM+92ut/9KLk7Kn3pbbJMrlSPshECppZWVi2U06LrkLVTLIY9odKaU9zMqNDIpDJGcaA0PfGwoAC0WlPFmMr0PYTG+fUbq0z61qULC/gKCdAXDNN5zuWhOVYUOJji/BlLDWfQ9lkV2AmK+Du/OlChfUmvMgFS/1zFfMmfoi1Be3F5Qko39NQe9/W7JLo9rYyMlJ6hHdYo4IUnBuxv78P+FjMmBZRqUUpYan+MM4dga6UNhpQkA13Bm9GzANeJWd6sQfoOkHdLgXhu/oNuIYSSMPfj88pSx/Vu5k2OzRWIpeoSLP74/ucxzsQebjU+pyezK7P4uz5F9+4Ct25bD+eI2u9VAS8pa5F6XWS2gyLjFdrO0x9olotmEdTAyzuZvwvU715aJyIywWi0QW4n8r1aRArVRx/gdpX0K8On56a5OFj0O1wX+gmycCAtXmBSuDmIrk6A==;WLOWf/+GBHPs7BQbNJbvfQ=="

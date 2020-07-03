@@ -114,15 +114,6 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
-  - title: "China's Didi starts self-driving ride service in Shanghai"
-    excerpt: "Ride-hailing giant Didi Chuxing (DiDi) has launched the trial run of self-driving ride service on designated test roads in the eastern metropolis of Shanghai. Users who have registered in advance ..."
-    publishedDateTime: 2020-06-28T17:01:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200628/3583705.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "JEskr1YxOoaSZLo/tkUmHR/tz5t25VdsWvqfYOb4E9vjJE456cLQH9lFZHPrEF6NuZlGbNgcozq09afR8v0CjkzbWrB6TDvOJJ1YI/z4+MFmNBL1ReXwHFMKJnjJfCJsEypCwlm4oM1IFkl9I40mwRAl/pY1LiMFC53ftW7neTDc+8rBRllR6P+NROWZ3lRU20eVU7HiilDcQ18CtvNW2R3djKsmNLg0eADiCuY4w5hbwvoQJjEEFRzLljii7dsJDvB1iDnRSxRflWjyOUliLiNqQJeijBo3Vq+wHJggGz+4o/kmWnoQ/7ExBFgNVAtG5/MiXe37E4bAt0yueVFKZg==;lE+AzaARgCaWbu00+m3v8w=="
 ---

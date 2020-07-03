@@ -27,22 +27,6 @@ images:
     title: "Amazon Acquires Self-Driving Startup Zoox Led By Black Female CEO for $1.2 Billion"
 
 related:
-  - title: "Amazon Acquires Self-Driving Car Startup Zoox"
-    excerpt: "Although Zoox has been trying to develop a robot taxi service, Amazon could use the same technologies to one day power self-driving delivery vehicles."
-    publishedDateTime: 2020-06-28T16:25:00Z
-    webUrl: "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox"
-    ampWebUrl: "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 74
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03B67ZCaMv3OJA9m8qLEVfX-1.fit_lim.size_1200x630.v_1593188466.jpg"
-        width: 940
-        height: 529
-        isCached: true
   - title: "Amazon to acquire Foster City based self-driving startup Zoox"
     excerpt: "The giant online retailer could use the autonomous vehicles to deliver packages but it could also pave the way for a rideshare service."
     publishedDateTime: 2020-06-29T01:57:00Z
@@ -59,38 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The case for all-electric self-driving cars"
-    excerpt: "Electric cars don't suffer a huge loss in range when equipped with autonomous driving technology, and there's potential to minimize the effects even further, a new peer-reviewed analysis in Nature Energy shows."
-    publishedDateTime: 2020-06-30T14:40:00Z
-    webUrl: "https://www.axios.com/electric-self-driving-cars-b39c1215-fb53-467b-ab21-1fd1cd11e683.html"
-    ampWebUrl: "https://www.axios.com/electric-self-driving-cars-b39c1215-fb53-467b-ab21-1fd1cd11e683.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/electric-self-driving-cars-b39c1215-fb53-467b-ab21-1fd1cd11e683.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 44
-    images:
-      - url: "https://images.axios.com/KER4AXDl2L6o_L1bxvSziG60tYE=/fit-in/1366x1366/2020/06/30/1593526866534.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Lyft Resumes Self-Driving Test Rides"
-    excerpt: "Lyft Inc. (NYSE: LYFT) has resumed testing of its self-driving technology on public roads in California, TechCrunch reported Tuesday. An employee-exclusive pilot program in Palo Alto remains paused, according to TechCrunch. The test rides conducted by its ..."
-    publishedDateTime: 2020-07-01T14:14:00Z
-    webUrl: "https://www.benzinga.com/news/20/07/16464248/lyft-resumes-self-driving-test-rides"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16464248"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16464248"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/lyft_self_driving.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Amazon Peps Up Self-Driving Battle With Zoox Buyout Agreement"
     excerpt: "Amazon’s latest move and aggressive strategies is likely to pose a challenge to Alphabet’s moat in the self-driving technology. We note that Google has been a frontrunner when it comes to autonomous driving courtesy of its well-performing Waymo unit."
     publishedDateTime: 2020-06-29T16:17:00Z
@@ -100,40 +52,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "Amazon’s Zoox Purchase Says a Lot About the Future of Self-Driving Cars"
-    excerpt: "Way back in 2018 my colleague Ashlee Vance profiled the founders of the startup, which had raised hundreds of millions of dollars to put self-driving robotaxis on public roads by 2020. It was a concept that seemed tantalizingly possible back then—its competitors included Alphabet Inc."
-    publishedDateTime: 2020-06-29T10:45:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2020-06-29/amazon-s-zoox-purchase-says-a-lot-about-the-future-of-self-driving-cars"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 34
-  - title: "Why Elon Musk Taunted Bezos For Being A Copycat In Amazon’s Buyout Of Zoox, An Autopilot-Like Self-Driving Car Stalwart"
-    excerpt: "It is time to blare the trumpets and roll out the red carpet for some good old-fashioned maxims that explain the recent announcement of mighty Amazon buying comparatively petite Zoox, a notable self-driving car maker known primarily to Autonomous Vehicle (AV) insiders (for my coverage,"
-    publishedDateTime: 2020-06-28T17:43:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 30
-  - title: "Amazon Looks to Self-Driving Future"
-    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
-    publishedDateTime: 2020-06-29T15:36:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21138692/amazon-looks-to-selfdriving-future"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/iStock_1214977181.5efa0bbe636e8.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Amazon Acquires Self-Driving Tech Firm"
     excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
     publishedDateTime: 2020-06-30T02:38:00Z

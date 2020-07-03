@@ -8,7 +8,7 @@ ampWebUrl: "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/amp/"
 type: article
 quality: 101
-heat: 311
+heat: 301
 published: true
 
 provider:
@@ -174,22 +174,6 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2020/03/markeynl06.jpg?w=1024&h=755"
         width: 1024
         height: 755
-        isCached: true
-  - title: "OTR: Will Boston's ban on facial recognition technology become a national trend?"
-    excerpt: "JANE BOSTON BECAME THE SECOND NATIONAL CITY TO BAN FACIAL RECOGNITION TECHNOLOGY. WILL THIS BE A TREND? WE MAY BE THE FIRST BUT WE’RE NOT THE LAST. MARY ANNE: IT’S MORE 1984 THAN A 2020 DEMOCRACY. ED: THIS WEEK,"
-    publishedDateTime: 2020-06-28T15:43:00Z
-    webUrl: "https://www.wcvb.com/article/on-the-record-will-boston-s-ban-on-facial-recognition-technology-become-a-national-trend/32991208"
-    ampWebUrl: "https://www.wcvb.com/amp/article/on-the-record-will-boston-s-ban-on-facial-recognition-technology-become-a-national-trend/32991208"
-    cdnAmpWebUrl: "https://www-wcvb-com.cdn.ampproject.org/c/s/www.wcvb.com/amp/article/on-the-record-will-boston-s-ban-on-facial-recognition-technology-become-a-national-trend/32991208"
-    type: article
-    provider:
-      name: WCVB Channel 5 Boston
-      domain: wcvb.com
-    quality: 54
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/85dd70bf-0960-4676-b086-3cc43dee7e9e/85dd70bf-0960-4676-b086-3cc43dee7e9e_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Facial-Recognition Tech Might Be the Real Reason to Buy Remark Stock"
     excerpt: "Stock Market News, Stock Advice & Trading Tips. When discussing Remark Holdings (NASDAQ:MARK), most investors and pundits have focused on the ability of the compan"

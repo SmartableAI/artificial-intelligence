@@ -112,15 +112,6 @@ related:
         width: 596
         height: 397
         isCached: true
-  - title: "China's Didi starts self-driving ride service in Shanghai"
-    excerpt: "Ride-hailing giant Didi Chuxing (DiDi) has launched the trial run of self-driving ride service on designated test roads in the eastern metropolis of Shanghai. Users who have registered in advance ..."
-    publishedDateTime: 2020-06-28T17:01:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200628/3583705.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "R1GGzfEVUhgYidE6jGSMleyswpqJ25WWBi7Po1Pz9MgbUOEBgYRXkcOc119PubGj/2dg6lZ9g6XCEKLgi91X7ed2oQZrfSuSpfBiX52+kww/zEFa9VBcaeg7sikaoB+uDLbjtu7vLxwfWkjKnxoxGp2yaRjPZsGiuK+Jgm/aDDm/QqgsQoft6VNtc73rbI358fL/CYidtYQgcre8nsNWWuM3w749q8PnY1Lb/W3fZLbJ7MwfPpu9FKAtI6dIW3tegdHLWsuIFBzzYcjBnItdnwvEjdH3VDXwv7IsEdoICpm3DlIbU21G8q8b4WQcuqGqPJY715pQZ5RTdLyh1CFE1w==;nQX3Ffenps4K8jAeDfleog=="
 ---

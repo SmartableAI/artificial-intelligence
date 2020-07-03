@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 671
         isCached: true
+  - title: "Lyft Resumes Self-Driving Test Rides"
+    excerpt: "Lyft Inc. (NYSE: LYFT) has resumed testing of its self-driving technology on public roads in California, TechCrunch reported Tuesday. An employee-exclusive pilot program in Palo Alto remains paused, according to TechCrunch. The test rides conducted by its ..."
+    publishedDateTime: 2020-07-01T14:14:00Z
+    webUrl: "https://www.benzinga.com/news/20/07/16464248/lyft-resumes-self-driving-test-rides"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16464248"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16464248"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/lyft_self_driving.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Maker of self-driving vehicle sensors said to be in talks to go public"
     excerpt: "Velodyne creates radar-like systems that use lasers to generate three-dimensional images of a surrounding environment, used by carmakers including Mercedes-Benz AG and Ford Motor Co."
     publishedDateTime: 2020-06-28T19:27:00Z

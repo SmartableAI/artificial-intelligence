@@ -25,184 +25,125 @@ images:
     title: "Amazon Looks to Self-Driving Future"
 
 related:
-  - title: "Amazon Acquires Self-Driving Car Startup Zoox"
-    excerpt: "Although Zoox has been trying to develop a robot taxi service, Amazon could use the same technologies to one day power self-driving delivery vehicles."
-    publishedDateTime: 2020-06-28T16:25:00Z
-    webUrl: "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox"
-    ampWebUrl: "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true"
+  - title: "TuSimple Adds Logistics Operators to Self-Driving Trucks Effort"
+    excerpt: "Self-driving trucking startup TuSimple is teaming up with big logistics operators to bulk up its delivery business as it lays the groundwork for a planned coast-to-coast autonomous freight network."
+    publishedDateTime: 2020-07-01T12:08:00Z
+    webUrl: "https://www.wsj.com/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 74
     images:
-      - url: "https://i.pcmag.com/imagery/articles/03B67ZCaMv3OJA9m8qLEVfX-1.fit_lim.size_1200x630.v_1593188466.jpg"
-        width: 940
-        height: 529
-        isCached: true
-  - title: "Amazon to acquire Foster City based self-driving startup Zoox"
-    excerpt: "The giant online retailer could use the autonomous vehicles to deliver packages but it could also pave the way for a rideshare service."
-    publishedDateTime: 2020-06-29T01:57:00Z
-    webUrl: "https://abc7news.com/zoox-amazon-buys-zoom-valuation/6278567/"
-    ampWebUrl: "https://abc7news.com/amp/zoox-amazon-buys-zoom-valuation/6278567/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/zoox-amazon-buys-zoom-valuation/6278567/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 44
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/6279242_062820-kgo-zoox-car-img_Image_00-00-08,29.jpg"
+      - url: "https://images.wsj.net/im-204436/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
-  - title: "The case for all-electric self-driving cars"
-    excerpt: "Electric cars don't suffer a huge loss in range when equipped with autonomous driving technology, and there's potential to minimize the effects even further, a new peer-reviewed analysis in Nature Energy shows."
-    publishedDateTime: 2020-06-30T14:40:00Z
-    webUrl: "https://www.axios.com/electric-self-driving-cars-b39c1215-fb53-467b-ab21-1fd1cd11e683.html"
-    ampWebUrl: "https://www.axios.com/electric-self-driving-cars-b39c1215-fb53-467b-ab21-1fd1cd11e683.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/electric-self-driving-cars-b39c1215-fb53-467b-ab21-1fd1cd11e683.html"
+  - title: "Self-driving trucks hit the road at scale with TuSimple's new freight network"
+    excerpt: "The Autonomous Freight Network will receive support from UPS, Penske and US Xpress as TuSimple works to bring self-driving semis to market."
+    publishedDateTime: 2020-07-01T12:05:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/self-driving-trucks-tusimple-freight-network/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-trucks-tusimple-freight-network/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-trucks-tusimple-freight-network/"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 44
+      name: CNET
+      domain: cnet.com
+    quality: 71
     images:
-      - url: "https://images.axios.com/KER4AXDl2L6o_L1bxvSziG60tYE=/fit-in/1366x1366/2020/06/30/1593526866534.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Lyft Resumes Self-Driving Test Rides"
-    excerpt: "Lyft Inc. (NYSE: LYFT) has resumed testing of its self-driving technology on public roads in California, TechCrunch reported Tuesday. An employee-exclusive pilot program in Palo Alto remains paused, according to TechCrunch. The test rides conducted by its ..."
-    publishedDateTime: 2020-07-01T14:14:00Z
-    webUrl: "https://www.benzinga.com/news/20/07/16464248/lyft-resumes-self-driving-test-rides"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16464248"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16464248"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/lyft_self_driving.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Amazon Acquires Self-Driving Startup Zoox Led By Black Female CEO for $1.2 Billion"
-    excerpt: "Amazon purchased Zoox, a developer of autonomous vehicles, for $1.2 billion. Zoox CEO Aicha Evans will remain in her current position."
-    publishedDateTime: 2020-06-30T16:00:00Z
-    webUrl: "https://www.blackenterprise.com/amazon-acquires-self-driving-startup-zoox-led-by-black-female-ceo-for-1-2-billion/"
-    ampWebUrl: "https://www.blackenterprise.com/amazon-acquires-self-driving-startup-zoox-led-by-black-female-ceo-for-1-2-billion/amp/"
-    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/amazon-acquires-self-driving-startup-zoox-led-by-black-female-ceo-for-1-2-billion/amp/"
-    type: article
-    provider:
-      name: Black Enterprise
-      domain: blackenterprise.com
-    quality: 38
-    images:
-      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/11/iStock-1044976052-e1543353645571.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Amazon Peps Up Self-Driving Battle With Zoox Buyout Agreement"
-    excerpt: "Amazon’s latest move and aggressive strategies is likely to pose a challenge to Alphabet’s moat in the self-driving technology. We note that Google has been a frontrunner when it comes to autonomous driving courtesy of its well-performing Waymo unit."
-    publishedDateTime: 2020-06-29T16:17:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-peps-up-self-driving-battle-with-zoox-buyout-agreement-2020-06-29"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
-  - title: "Amazon’s Zoox Purchase Says a Lot About the Future of Self-Driving Cars"
-    excerpt: "Way back in 2018 my colleague Ashlee Vance profiled the founders of the startup, which had raised hundreds of millions of dollars to put self-driving robotaxis on public roads by 2020. It was a concept that seemed tantalizingly possible back then—its competitors included Alphabet Inc."
-    publishedDateTime: 2020-06-29T10:45:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2020-06-29/amazon-s-zoox-purchase-says-a-lot-about-the-future-of-self-driving-cars"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 34
-  - title: "Why Elon Musk Taunted Bezos For Being A Copycat In Amazon’s Buyout Of Zoox, An Autopilot-Like Self-Driving Car Stalwart"
-    excerpt: "It is time to blare the trumpets and roll out the red carpet for some good old-fashioned maxims that explain the recent announcement of mighty Amazon buying comparatively petite Zoox, a notable self-driving car maker known primarily to Autonomous Vehicle (AV) insiders (for my coverage,"
-    publishedDateTime: 2020-06-28T17:43:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/28/why-elon-musk-taunted-bezos-for-being-a-copycat-in-amazons-buyout-of-zoox-an-autopilot-like-self-driving-car-stalwart/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 30
-  - title: "Amazon Acquires Self-Driving Tech Firm"
-    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
-    publishedDateTime: 2020-06-30T02:38:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21138692/amazon-looks-to-selfdriving-future"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/iStock_1214977181.5efa0bbe636e8.png?auto=format&fit=max&w=1200"
+      - url: "https://cnet3.cbsistatic.com/img/lnh92SF4UX0-VL8HUF2njl5K_qg=/2020/06/30/df6c8293-bfec-4e47-86b1-9a432bcb48a1/ogi-tu.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Amazon Acquires Self-Driving Startup Zoox From Senegalese-Born CEO For Over $1.2bn"
-    excerpt: "E-commerce giant Amazon has reportedly forked out more than $1.2 billion to buy the self-driving startup Zoox. On Friday, both companies announced they had signed a"
-    publishedDateTime: 2020-07-01T18:04:00Z
-    webUrl: "https://urbangeekz.com/2020/06/amazon-acquires-self-driving-startup-zoox-from-senegalese-born-ceo-for-over-1-2bn/"
+  - title: "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane"
+    excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021."
+    publishedDateTime: 2020-07-01T17:06:00Z
+    webUrl: "https://www.reuters.com/article/us-tusimple-selfdriving-network-idUSKBN2425QS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2425QS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2425QS"
     type: article
     provider:
-      name: urbangeekz.com
-      domain: urbangeekz.com
-    quality: 18
+      name: Reuters
+      domain: reuters.com
+    quality: 49
+  - title: "Self-driving truck developer TuSimple launches autonomous freight network"
+    excerpt: "TuSimple, which has a Tucson facility, is working to bring self-driving technology to market and offer low-cost, long-haul autonomous freight operations."
+    publishedDateTime: 2020-07-01T12:00:00Z
+    webUrl: "https://tucson.com/business/self-driving-truck-developer-tusimple-launches-autonomous-freight-network/article_8ba2ca95-c600-593a-b33a-faeca9821b8e.html"
+    ampWebUrl: "https://tucson.com/business/self-driving-truck-developer-tusimple-launches-autonomous-freight-network/article_8ba2ca95-c600-593a-b33a-faeca9821b8e.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/self-driving-truck-developer-tusimple-launches-autonomous-freight-network/article_8ba2ca95-c600-593a-b33a-faeca9821b8e.amp.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 43
     images:
-      - url: "https://urbangeekz.com/wp-content/uploads/2020/06/Aicha-Evans_CEO_Zoox.jpg"
-        width: 837
-        height: 558
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/f/9f/f9f3389a-226a-551a-bde5-96402fd90d5c/5ef2709c628ce.image.jpg?resize=1024%2C617"
+        width: 1024
+        height: 617
         isCached: true
-  - title: "Amazon acquires self-driving car startup as demand stays hot for autonomous delivery"
-    excerpt: "Zoox technology supports autonomous ride-hailing service for passengers, although sector faces infrastructure and regulation challenges, AMR says."
-    publishedDateTime: 2020-06-29T17:19:00Z
-    webUrl: "https://www.dcvelocity.com/articles/46418-amazon-acquires-self-driving-car-startup-as-demand-stays-hot-for-autonomous-delivery"
+  - title: "Self-driving trucks to be commercially available by 2024, TuSimple says"
+    excerpt: "Autonomous driving tech vendor TuSimple today said it plans to bring self-driving trucks to market by 2024 by launching a self-operating freight network through a partnership with the four logistics providers UPS Inc."
+    publishedDateTime: 2020-07-01T18:08:00Z
+    webUrl: "https://www.dcvelocity.com/articles/46439-self-driving-trucks-tobe-commercially-available-by-2024-tusimple-says"
     type: article
     provider:
       name: DC Velocity
       domain: dcvelocity.com
-    quality: 17
+    quality: 39
     images:
-      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202006/zoox-Screen-Shot-2020-06-29-at-111405-AM.png?height=1200&t=1593449930&width=635"
-        width: 635
-        height: 637
+      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202007/tusimple-truck-P1133021-scaled.jpg?height=635&t=1593625917&width=1200"
+        width: 847
+        height: 635
         isCached: true
-  - title: "Amazon looks to self-driving future by acquiring Zoox"
-    excerpt: "Industry analysts think the online retailing giant's ultimate goal is to repurpose the Zoox vehicle for its core business, delivering packages to shoppers."
-    publishedDateTime: 2020-06-29T07:06:00Z
-    webUrl: "https://www.djc.com/news/bu/12133184.html"
+  - title: "TuSimple Launches Self-Driving Truck Network with Berkshire’s McLane, UPS"
+    excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc. supply chain unit McLane that"
+    publishedDateTime: 2020-07-02T09:35:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/07/02/574171.htm"
     type: article
     provider:
-      name: Seattle Daily Journal of Commerce
-      domain: djc.com
-    quality: 4
-  - title: "Amazon acquires self-driving start-up Zoox for $1.2bn"
-    excerpt: "In a transaction that it believes “will help bring the vision of autonomous ride-hailing to reality”, online retailer Amazon is to acquire self-driving start-up Zoox for a reported $1.2bn. The acquisition represents further investment by Amazon in the ..."
-    publishedDateTime: 2020-06-30T08:48:00Z
-    webUrl: "https://www.financierworldwide.com/fw-news/2020/6/30/amazon-acquires-self-driving-start-up-zoox-for-12bn"
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 23
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2020/07/bigstock-aerial-view-of-self-driving-vehicles-580x387.jpg"
+        width: 580
+        height: 387
+        isCached: true
+  - title: "TuSimple's New Autonomous Freight Network Lays Groundwork for Self-Driving Trucks"
+    excerpt: "Autonomous trucking technology company TuSimple has teamed up with UPS, Penske Truck Leasing, U.S. Xpress, and McLane to launch the Autonomous Freight Network, which it says will lay the groundwork for self-driving autonomous trucks to become commercially ..."
+    publishedDateTime: 2020-07-01T16:11:00Z
+    webUrl: "https://www.truckinginfo.com/10120147/tusimples-new-autonomous-freight-network-lays-groundwork-for-self-driving-trucks"
     type: article
     provider:
-      name: Financierworldwide.com
-      domain: financierworldwide.com
-    quality: 4
-  - title: "Video: Amazon acquires self-driving car startup Zoox"
-    excerpt: "Amazon said it will lead Zoox as a standalone business to drive the mission toward developing self-driving vehicles. In the video, Zoox demonstrates a one-hour fully autonomous dr"
-    publishedDateTime: 2020-07-02T12:52:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15380/video-amazon-acquires-self-driving-car-startup-zoox"
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 19
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-07/l4_autonomoustruck_tusimple-web-__-1200x630-s.jpg"
+        width: 1151
+        height: 622
+        isCached: true
+  - title: "BHP jobs on offer to build self-driving trucks"
+    excerpt: "THE rollout of 34 autonomous mining trucks at BHP Mitsubishi Alliance’s Central Queensland mine will create 56 new jobs and a $35 million windfall for regional businesses."
+    publishedDateTime: 2020-07-01T01:00:00Z
+    webUrl: "https://www.couriermail.com.au/business/bhp-jobs-on-offer-to-build-selfdriving-trucks/news-story/a7399310218385c62f043fa68c9d4710"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
+      name: The Courier-Mail
+      domain: couriermail.com.au
     quality: 4
+  - title: "Major fleets partner with self-driving truck developer TuSimple on autonomous freight network"
+    excerpt: "Three major for-hire carriers and a large private fleet have partnered with autonomous truck developer TuSimple to test the company’s self-driving technologies in real-world operations over the next four years. As part of a plan to build out a ..."
+    publishedDateTime: 2020-07-01T13:41:00Z
+    webUrl: "https://www.ccjdigital.com/major-fleets-partner-with-self-driving-truck-developer-tusimple-on-autonomous-freight-network/"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 0
 
 secured: "WcVWDDvr3hkWrCLZ87VZRnwAf1neIeg2khwBWh0JsxM4gwZSFI7zQFPEfdVdtRtjUymF67G0J3WKl9COEBbiRAYft/705Ehz16EG1MEE2l/N4zCSsXMgvIhyn4wFYNJaDowQ30xQx2/bR66j+mN8dNy5J66KYFu/VCMBGLOdnp4UJIlib1ruxHjOaBJ6o0uVRjXxERod0Tp2le1Q+4uuIkVgktvWEUBHifnfWhqOJGTBwmwGPgIBiX5AC4FheogmoduUTI9WbuTBGnkyVzXcaDdgjq+t++ksJDthpgW21O/laYwDuCPOyr7RqMvvy7L2afbQjSrMWi0kkLjccLsjn9eNy7rh7VIx34tgPMjRp56gNpVXboABA4Vbm8gp5Q1cpwNnS7gqInhQrqOWVdTiNDQNn0wIIn1aIHpkhW2m61pY6r8YTFu6+fbqT3PjCLHE/e3O/5WmC/DnqGo4IMCiZMZ0WdaNUKluw2d+H2hLUE8d6xgBqRgjSbrtAU0vPIvoxWIL0gw5fql53ohFC9O3Sg==;NV9ZX4+noCIDszSZv8CH7g=="
 ---

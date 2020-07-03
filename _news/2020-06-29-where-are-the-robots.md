@@ -24,6 +24,19 @@ images:
     isCached: true
     title: "Where are the robots?"
 
+related:
+  - title: "Vicarious: There’s Robots, Then There’s ‘Robots-As-A-Service’ Model"
+    excerpt: "Vicarious is building robots for much more than assembly lines. CEO Scott Phoenix explains that job creation and value creation are the company's sweet spots."
+    publishedDateTime: 2020-07-03T02:34:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/vicarious-breeds-new-version-of-robots/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/vicarious-breeds-new-version-of-robots/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2020/vicarious-breeds-new-version-of-robots/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 39
+
 secured: "wklYYCYaqjYnijcrjCFdMG0n7C69o6At2wysfw0WVR/2aKi3wKPcABFKQep26O1/O2zjQP8spjckPerI87QkP+WSgEDG5Bi+EW1f46+i4TEdfFuLcZ68iqx6VhXuU0/kBAGKGdlwQm7IWTqjmT1bhXLQdD3DVxtIE3SnvllyD9V9uouBCsOA3of7dlJnX0Qdsg/O56ZyOw3GqKcCRXjf7gYEknbLkdo9cIjydNKbq/6mG2bjkQFHiwBMfru5RnYfiP7TXFoEcPbkSghxXM879VXZAnRa4ZWTf5VqxyCGl2ZA8V6cl47ma2Aui2dqaiG23i1mtTUPuV3jUz47SwSxlw==;MfGqwB34KOISjJAswJyw8A=="
 ---
 
