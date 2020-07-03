@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 671
         isCached: true
+  - title: "Didi Chuxing tries self-driving taxis"
+    excerpt: "Didi Chuxing, China’s largest taxi-booking platform, began testing autonomous cars connected to a vehicle-to-everything (V2X)"
+    publishedDateTime: 2020-06-29T08:50:00Z
+    webUrl: "https://www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/"
+    ampWebUrl: "https://www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/amp/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 44
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2020/06/Didi_Chuing_autonomous_taxi.jpg"
+        width: 650
+        height: 396
+        isCached: true
   - title: "Baidu-backed self-driving vehicle sensors maker going public - report"
     excerpt: "Graf Industrial is in talks to merge with Baidu-backed Velodyne Lidar in a deal that would take public the maker of sensors used in self driving vehicles, according to Bloomberg sources \"familiar with the matter\"."
     publishedDateTime: 2020-06-29T17:00:00Z
@@ -73,6 +89,31 @@ related:
         width: 610
         height: 400
         isCached: true
+  - title: "Beijing opens more roads for testing self-driving cars"
+    excerpt: "Beijing opened 52 additional roads on Tuesday in Haidian district, the capital's tech hub, for the testing of autonomous vehicles to push the speedy development of self-driving technology, local authorities said Wednesday."
+    publishedDateTime: 2020-07-01T08:42:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202007/01/WS5efc4c5ea3108348172568a1.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202007/01/5efc4c5ea3108348fcd9a49e.jpeg"
+        width: 596
+        height: 397
+        isCached: true
+  - title: "Beijing opens more roads for testing self-driving cars"
+    excerpt: "Beijing opened 52 additional roads on Tuesday in Haidian District, the capital's tech hub, for the testing of autonomous vehicles"
+    publishedDateTime: 2020-07-02T07:44:00Z
+    webUrl: "https://infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/"
+    ampWebUrl: "https://infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 24
 
 secured: "LQGFA1fMMiu99KgT4Qxfw56LfjzXV5Mjd6MTlAY2Emj/WJ276rMC5Kutk9XHcCKZOb/GnZ15ybkFhJPKSIhzvnrQXCrZ25wAyauYKjQTqJ4fBRGHvlf7VwzhEVU+l8n1HMOjvotzT10cZWyV4ZrCYhUO2GlViE1XalJadKuu7gn9UE4e3S6B/Yih8WJFQlbVx58mgtvKjB+YohAHUlrhRhZdJ1YyTVoRRBK+iqiroDkqEcWf1ZjVG9oJ4GClv8kSPfxRGVrOZ/cN+o/bKX+HEu+H8wc/NWNougngSVfa6+jR3rAWOWF5YG/NftY9hFdQ9tD1vUU9KV9SIQVBZcHiILbs0XcDIvQTRLb2wltEWWeqQS2IIhgr3eb6BpEB8KXOhXsTA2cGTRXCup83FWd9SeQ6YvnaEkRqSYnX9QOAqrCufp/PG+qqHjFZd6zxIjAKGGwq5DUaFAdoIEI45bhgHeETkR2FkgrvH7HrvnS8dKnK6bxZTqtmb4ERdFLn6o3FiDow0yNWKG5tnMs68ENwPQ==;RmoeeD3PHK45ZQpxAEu8TA=="
 ---

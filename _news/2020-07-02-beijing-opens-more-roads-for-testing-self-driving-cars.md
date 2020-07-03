@@ -20,21 +20,21 @@ topics:
   - AI
 
 related:
-  - title: "Chinese ride-hailing giant Didi Chuxing launches pilot self-driving robotaxi service in Shanghai"
-    excerpt: "Commuters can book free rides in Didi autonomous vehicles within designated areas in Shanghai’s Jiading District but human drivers still required on board for safety"
-    publishedDateTime: 2020-06-29T03:54:00Z
-    webUrl: "https://www.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self"
-    ampWebUrl: "https://amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self"
+  - title: "Lyft’s self-driving test vehicles are back on public roads in California"
+    excerpt: "Lyft’s self-driving vehicle division has restarted testing on public roads in California, several months after pausing operations amid the COVID-19 pandemic. Lyft’s Level 5 program said Tuesday some of its autonomous vehicles are back on the road in Palo Alto and at its closed test track."
+    publishedDateTime: 2020-07-01T00:46:00Z
+    webUrl: "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/"
+    ampWebUrl: "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 76
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 73
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/29/079706d6-b9bb-11ea-b64b-070a892763db_image_hires_115443.jpg?itok=BOII168X&v=1593402889"
-        width: 1200
-        height: 630
+      - url: "https://techcrunch.com/wp-content/uploads/2019/07/lyft-level-5-self-driving.jpg?w=1024"
+        width: 1024
+        height: 671
         isCached: true
   - title: "Didi Chuxing tries self-driving taxis"
     excerpt: "Didi Chuxing, China’s largest taxi-booking platform, began testing autonomous cars connected to a vehicle-to-everything (V2X)"
@@ -52,21 +52,51 @@ related:
         width: 650
         height: 396
         isCached: true
-  - title: "Self-driving trucking service launched from Phoenix, other Southwest cities"
-    excerpt: "The autonomous freight network's first phase, through 2021, will feature service between Phoenix, Tucson, El Paso, Dallas, Houston and San Antonio"
-    publishedDateTime: 2020-07-02T13:14:00Z
-    webUrl: "https://www.azcentral.com/story/money/business/tech/2020/07/02/tusimple-launches-self-driving-trucking-routes-phoenix-southwest-cities/3281064001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3281064001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3281064001"
+  - title: "Lyft Resumes Self-Driving Test Rides"
+    excerpt: "Lyft Inc. (NYSE: LYFT) has resumed testing of its self-driving technology on public roads in California, TechCrunch reported Tuesday. An employee-exclusive pilot program in Palo Alto remains paused, according to TechCrunch. The test rides conducted by its ..."
+    publishedDateTime: 2020-07-01T14:14:00Z
+    webUrl: "https://www.benzinga.com/news/20/07/16464248/lyft-resumes-self-driving-test-rides"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16464248"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16464248"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 42
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/06/29/PPHX/987d83bd-f754-41a4-960f-72a5d8e42e02-L4_AutonomousTruck_2.jpg?auto=webp&crop=1400,788,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.benzinga.com/files/images/story/2012/lyft_self_driving.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Baidu-backed self-driving vehicle sensors maker going public - report"
+    excerpt: "Graf Industrial is in talks to merge with Baidu-backed Velodyne Lidar in a deal that would take public the maker of sensors used in self driving vehicles, according to Bloomberg sources \"familiar with the matter\"."
+    publishedDateTime: 2020-06-29T17:00:00Z
+    webUrl: "https://www.just-auto.com/news/baidu-backed-self-driving-vehicle-sensors-maker-going-public-report_id196352.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
         width: 1200
-        height: 675
+        height: 799
+        isCached: true
+  - title: "Lyft’s self-driving test vehicles are back on public roads in California – ClearTipsNews"
+    excerpt: "Lyft's The Autonomous Vehicles Division has resumed testing on public roads in California several months after an operational halt in the midst of the"
+    publishedDateTime: 2020-07-02T06:01:00Z
+    webUrl: "https://www.tipsclear.com/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california-cleartipsnews/"
+    ampWebUrl: "https://www.tipsclear.com/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california-cleartipsnews/"
+    cdnAmpWebUrl: "https://www-tipsclear-com.cdn.ampproject.org/c/s/www.tipsclear.com/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california-cleartipsnews/"
+    type: article
+    provider:
+      name: tipsclear.com
+      domain: tipsclear.com
+    quality: 35
+    images:
+      - url: "https://www.tipsclear.com/wp-content/uploads/2020/07/Lyfts-self-driving-test-vehicles-are-back-on-public-roads-in.jpg"
+        width: 610
+        height: 400
         isCached: true
   - title: "Beijing opens more roads for testing self-driving cars"
     excerpt: "Beijing opened 52 additional roads on Tuesday in Haidian district, the capital's tech hub, for the testing of autonomous vehicles to push the speedy development of self-driving technology, local authorities said Wednesday."

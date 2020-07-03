@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Experts: Facial recognition will be everywhere, whether you like it or not"
-excerpt: "Facial recognition could soon become as commonplace as public wifi and security cameras, experts say. But with the advance of technology comes major ethical questions."
+excerpt: "Facial recognition could soon become as commonplace as public Wi-Fi and security cameras. But with the advance of technology comes major ethical questions."
 publishedDateTime: 2020-06-30T15:15:00Z
-webUrl: "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/"
+webUrl: "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?itm_source=21&itm_content=1x7&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: Digital Trends
@@ -23,13 +23,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://icdn9.digitaltrends.com/image/digitaltrends/facebook-fine-not-enough-header-500x500.jpg"
-    width: 500
-    height: 333
-    isCached: true
-    title: "Experts: Facial recognition will be everywhere, whether you like it or not"
-
-secured: "FST52fPr0Hd/cgGUBwBvCBmOlCUPLrdgW/S3Q9anbyPrSLgYCxERZbD78xnBH3zTiSp6qZf8ncwtjgv3IyexzOqq0SGHqx4aWf3tVoCQajPc6YEmrjhw05iRPhDIpCtOI0nnsyYqWWLUfyPCmdI5GzRFhPjz7RIahdLPQ7AhNvJNTLjHDmKcDPi1RNrfauhdaI9Im/k/DFkFJI99QnXTeyN8rBPtj2TadQ9TwFHDiJmtVyL5hrCfu7+Fl5Q0OCNWrn2+niNLjhvhDet97BJCgmx9ruMZcVG7u5Gttp+FOCGHrSkZCvtG470USYlyRRV0ipyos3HPB1sQ//Bjo1Vl3g==;chK5UHaLXpBUXIcODY157Q=="
+secured: "FHPymNucsu6uwHQMxwOCKVwbI+1OLZYY6A9I+fBKKg8Mev5rYgPwuzX2FxHKHpLeF1W2VXlMBkr8Iy4zRtKE/g6fCM1tKcwLnEPJWkjWzoj4JG6DmwYaw/QbuXbumLYz1Uza2sjd99smOAWDdJ0gPcMyAK3+tluyvD/BxTS2vYTe+dRES+6nuyZCQelpJtenmBP1MMm3SI3clnyShLwUy4B0TlljnUNS4s2ozp7XUqlBwPhM045ZYjrchlP7fXGRqPdyqE3so6GTKPil63tAUD77Uvw4YKWh4wFEcYHXmnqdl3bF5tMwb7W93DNoeZjbWgHs2dboAnpwDan6vMLe3KKpai2QqcWRIxuRhv/ISrSNoizhE/GCxc9eFQMZ+Iip7LalojBXaY38V4K4GEwa+LnGRPL0VQs9xA90ofsnnygdG2HJGRmRI3+Ibymu3bkSOA1X4rOtblI8mS2sSJkgncYXd63K7cwqEAaHQp/MzL6sxBKDYn6tuKIir4pGEyI9gWIvtjjdW91A7yljRuxyng==;JW8kWECr66AFPQ47zfSRTw=="
 ---
 

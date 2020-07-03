@@ -226,22 +226,6 @@ related:
         width: 1502
         height: 1694
         isCached: true
-  - title: "Sen. Markey Files Legislation To Ban Government Use Of Facial Recognition Software"
-    excerpt: "Markey cited a report that said Black, Brown and Asian individuals were up to 100 times more likely to be misidentified."
-    publishedDateTime: 2020-06-29T04:10:00Z
-    webUrl: "https://boston.cbslocal.com/video/4606832-sen-markey-files-legislation-to-ban-government-use-of-facial-recognition-software/"
-    ampWebUrl: "https://boston.cbslocal.com/video/4606832-sen-markey-files-legislation-to-ban-government-use-of-facial-recognition-software/amp/"
-    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/video/4606832-sen-markey-files-legislation-to-ban-government-use-of-facial-recognition-software/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 53
-    images:
-      - url: "https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2019/07/cropped-boston-favicon-5121.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Addressing Facial Recognition Tech's Discriminatory Potential"
     excerpt: "Recent civil rights groups' objections, industry statements and proposed bills on the use of facial recognition technology highlight several problematic concerns, including that it lacks accuracy in identifying nonwhite individuals and may play a role in racially discriminatory policing,"
     publishedDateTime: 2020-06-29T22:02:00Z

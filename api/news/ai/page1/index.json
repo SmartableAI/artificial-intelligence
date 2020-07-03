@@ -1234,7 +1234,7 @@
       "title": "Course 40530-G: Microsoft Cloud Workshop: Cognitive Services and Deep Learning",
       "excerpt": "In this workshop, you will learn to combine both pre-built artificial intelligence (AI) (in the form of various Cognitive Services) with custom AI (in the form of services built and deployed with Azure Machine Learning services).",
       "webUrl": "https://docs.microsoft.com/en-us/learn/certifications/courses/40530",
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {

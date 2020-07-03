@@ -44,17 +44,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Tiger Analytics Announces New Analytics and AI Solutions Built on Microsoft Cloud Services"
-    excerpt: "CHENNAI, India and SANTA CLARA, Calif., June 29, 2020 /PRNewswire-PRWeb/ -- Tiger Analytics, a leading provider of AI & advanced analytics consulting services has come"
-    publishedDateTime: 2020-06-29T05:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/06/n16422337/tiger-analytics-announces-new-analytics-and-ai-solutions-built-on-microsoft-cloud-services"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16422337"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16422337"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
 
 secured: "j5Y5ezguw//fxMC1UcGhazHMo9SdZNhIqIV2C6r6S+hlu/YXPWGwKb/j3c3JFv9uBzFmIz5ePVuUB4h+lSXEr3EX0KFWN8VigIgUaD5/pGSLK9rqabTGbp7vn7dCrJvaqG1NXPa9l+fiDUGxkmbm1K/0jILE1ukKPmr6rg7w3jqdd0N30hFsNzw5r0iMgRL78wg7xg3WY6dmrHANqAjpFmsj8Z5riwTXUGPX0mfy7LCnCn33IlYrfNh+TdM5pTpEPYYT1d7yJUvsVWm9V84/JhkUsbmZkmNmSB/x07RcZ7L0G360IvcQMft8zyg0WR3v2776viVmdbIoEEFMj2JoWA==;9L1XSpJLOesdQCYCZCFEHw=="
 ---

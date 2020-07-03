@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T21:47:00Z
 webUrl: "https://docs.microsoft.com/en-us/learn/certifications/courses/40530"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Tiger Analytics Announces New Analytics and AI Solutions Built on Microsoft Cloud Services"
-    excerpt: "CHENNAI, India and SANTA CLARA, Calif., June 29, 2020 /PRNewswire-PRWeb/ -- Tiger Analytics, a leading provider of AI & advanced analytics consulting services has come"
-    publishedDateTime: 2020-06-29T05:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/06/n16422337/tiger-analytics-announces-new-analytics-and-ai-solutions-built-on-microsoft-cloud-services"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16422337"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16422337"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
 
 secured: "/uFprakriwMblzG7XqlL7sbfOsto9vmfKSmKg50aF+F9BSJcoDu4nAWQDusZqMxsOnw5iytFENFpGFW1ezIruq9glms5o7Wd3HoIle+v+jHjk/3ps4jXizQvy1obb4465IeItlUX5RtkAXpVivQuFcmEhjWqqnwZyPPry29Hz+nQxTXwivLP4K4nGXC8cEjrWeAa8KMO69Tjdzuogmm8B3ZYxIjETwFtd4ATzSp2587bpqZdRjPKk36mSYYJaHHZJ7/LxFsNzkUJoXcDOkPtzzxJhsgHSfd2k8k5OxqsofclI9UwYFaNrGbvGc760kOpWDSrLdENYRutBMReE1ne7A==;yheDx3uG7/rho5XhjEmMXA=="
 ---

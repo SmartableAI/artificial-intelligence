@@ -3,7 +3,7 @@ category: news
 title: "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20"
 excerpt: "NF5468M6 and NF5468A5 accommodate 8 pcs of double-width NVIDIA A100 PCIe GPUs in 4U chassis. Both support the latest PCIe Gen 4 of 64GB/s bi-directional bandwidth, achieving superior AI computing performance."
 publishedDateTime: 2020-06-22T07:22:00Z
-webUrl: "https://www.businesswire.com/news/home/20200622005207/en/Inspur-Launches-New-AI-Servers-Support-Latest"
+webUrl: "https://www.businesswire.com/news/home/20200622005207/en/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20"
 
-secured: "JbFHZbESziIpuKa2tTkdWZm/dTNq66oVIWiGXG7uETMeCS6yHDULwsXKkMEt9SxeDF8j/uijejQPNOMm5iytzoDZtf0QJGOmHuoAHZaQPQqNdHjkxVomu9EHQNDKBWsTfS6OtLJQlOmye/jyfxmW4SpXD9sB3QjhewbmAWxeHPUN4cHr8nONtx94mAXTsALCV0CcAayMvf0DbyDWyAswid9j+AumNSusvo7vjOS1REJ7667x07U7QgUKXFu8RisMqNwjS0ytvfMTL7Ck7o+FL64S1xLzoBKx8/MX0XRun+IWqldnaGlxiBA87QrI+ztLBgYPeUa3Q0x7dOLvxqWujShC9MKTsGsRbXmkVd3eFWyDN9++NEluybsxynFvLNsdFC2DDEpTOhClN2X8Hu8/taSv41wgmkmeIrnPd10rCjk72j0xJ8eTSIsoo2/675lxeJfhjfeeqMh2V1nwya/IZMebNqOX5F2Hf8g8l7cPsHKLid/EfphScGEI69TaC2JNGQTfSTqeCJqcNlg4sLGptw==;vQq64BqHkhBiRvD1ZJV+Vg=="
+secured: "j2RJUSuk0CUCmKIsgOTfTRFJGouQpemy9fDO4z0T5Xt/pVhN32HzVaRDZB6bqPcpt1EWz2lqLgSwBzjy2EB75qES0T7NHP25DpQlQQ2QqabcrvF+DQW6jnCfAFAXc51f6RN6P2tlhLzibePeVmzq1FuOwmaox2OM+WcgrxvSY5sFqWKPSLzVg+G95jEjTZ6qDTz2BoiSpwofzp36HI2J8zjjAIG18+Guif8vKxYguFqxE10bWrRkZaeLzHGLoOLlmlIulDGbnE1Wha4QoMxOUS9GlcvNucuJTEBKiwYpLwKYfCstDYitH2t+5yY3xGOV0WR6zKb3T06SVnpmesskNQ==;WejmINVcyIXKjV62reKb2w=="
 ---
 

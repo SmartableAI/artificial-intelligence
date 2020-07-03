@@ -8,7 +8,7 @@ ampWebUrl: "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/amp/"
 type: article
 quality: 101
-heat: 311
+heat: 301
 published: true
 
 provider:
@@ -213,22 +213,6 @@ related:
       - url: "https://findbiometrics.com/wp-content/uploads/blurredface-e1579295692518.jpeg"
         width: 1502
         height: 1694
-        isCached: true
-  - title: "Sen. Markey Files Legislation To Ban Government Use Of Facial Recognition Software"
-    excerpt: "Markey cited a report that said Black, Brown and Asian individuals were up to 100 times more likely to be misidentified."
-    publishedDateTime: 2020-06-29T04:10:00Z
-    webUrl: "https://boston.cbslocal.com/video/4606832-sen-markey-files-legislation-to-ban-government-use-of-facial-recognition-software/"
-    ampWebUrl: "https://boston.cbslocal.com/video/4606832-sen-markey-files-legislation-to-ban-government-use-of-facial-recognition-software/amp/"
-    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/video/4606832-sen-markey-files-legislation-to-ban-government-use-of-facial-recognition-software/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 53
-    images:
-      - url: "https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2019/07/cropped-boston-favicon-5121.png"
-        width: 512
-        height: 512
         isCached: true
   - title: "Easthampton is the latest Massachusetts community to pass a municipal ban on facial recognition technology"
     excerpt: "According to the American Civil Liberties Union of Massachusetts, a recent poll showed nearly 8 in 10 Massachusetts voters support a moratorium on government use of face surveillance technology, which is currently unregulated in the state."
