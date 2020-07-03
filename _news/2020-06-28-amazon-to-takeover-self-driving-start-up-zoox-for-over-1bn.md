@@ -43,22 +43,6 @@ related:
         width: 940
         height: 529
         isCached: true
-  - title: "Amazon’s Jeff Bezos ‘copies’ Tesla’s Elon Musk again; this time for buying a self-driving startup"
-    excerpt: "Taking a dig at Amazon’s Jeff Bezos for acquiring self-driving startup Zoox, electric vehicle maker Tesla (also working on self-driving vehicles) CEO Elon Musk on Friday called him a ‘copycat’ on Twitter."
-    publishedDateTime: 2020-06-28T07:23:00Z
-    webUrl: "https://www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/"
-    ampWebUrl: "https://www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/amazons-jeff-bezos-copies-teslas-elon-musk-again-this-time-for-buying-a-self-driving-startup/2006404/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 61
-    images:
-      - url: "https://images.financialexpress.com/2020/05/elon-1.jpg"
-        width: 660
-        height: 440
-        isCached: true
   - title: "Amazon to acquire Foster City based self-driving startup Zoox"
     excerpt: "The giant online retailer could use the autonomous vehicles to deliver packages but it could also pave the way for a rideshare service."
     publishedDateTime: 2020-06-29T01:57:00Z
