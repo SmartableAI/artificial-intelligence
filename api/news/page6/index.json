@@ -2,6 +2,53 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-27-amazon-is-acquiring-self-driving-start-up-zoox.md",
+      "title": "Amazon Is Acquiring Self-Driving Start-Up Zoox",
+      "excerpt": "Amazon has announced that it is acquiring self-driving car startup Zoox in a deal estimated to be worth over $1 billion. Foster City, California-based Zoox has founded in 2014 and raised $955 million funding from investors,",
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/",
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068",
+          "width": 1200,
+          "height": 676,
+          "title": "Amazon Is Acquiring Self-Driving Start-Up Zoox",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/amp/",
+      "publishedDateTime": "2020-06-27T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-27-baidu-backed-maker-of-self-driving-vehicle-sensors-said-to-be-in-talks-to-go-public.md",
       "title": "Baidu-backed maker of self-driving vehicle sensors said to be in talks to go public",
       "excerpt": "Velodyne Lidar, in which Baidu and Ford invested US$150 million in 2016, makes radar-like systems used in autonomous vehicles.",
@@ -772,6 +819,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-26-amazon-automates-media-analysis-for-rekognition-video.md",
+      "title": "Amazon Automates Media Analysis for Rekognition Video",
+      "excerpt": "Amazon says that the Rekognition Video provides the exact frame number when it detects a relevant segment of video. It handles various video format rates, such as drop frame and fractional frame rates.",
+      "webUrl": "https://www.tvtechnology.com/equipment/amazon-automates-media-analysis-for-rekognition-video",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rBkVtATHfAGckySg6qHgWb-1200-80.png",
+          "width": 1024,
+          "height": 576,
+          "title": "Amazon Automates Media Analysis for Rekognition Video",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/equipment/amazon-automates-media-analysis-for-rekognition-video",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/amazon-automates-media-analysis-for-rekognition-video",
+      "publishedDateTime": "2020-06-26T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-amazon-buys-self-driving-technology-company-zoox.md",
       "title": "Amazon buys self-driving technology company Zoox",
       "excerpt": "Amazon is jumping deeper into the market for autonomous driving with the purchase of Zoox, which was valued at over $3 billion in 2018.",
@@ -1049,100 +1134,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-five-ways-quiet-workers-can-increase-their-visibility-and-recognition.md",
-      "title": "Five Ways Quiet Workers Can Increase Their Visibility And Recognition",
-      "excerpt": "\"My workplace doesn’t work for quiet people.\" Peter describes himself as quietly confident. He's used to being recognized for his achievements by his bosses. However, when the new director (less appreciative and more of an alpha type) appeared in his company,",
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/five-ways-quiet-workers-can-increase-their-visibility-and-recognition/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F117460704%2F0x0.jpg",
-          "width": 1199,
-          "height": 798,
-          "title": "Five Ways Quiet Workers Can Increase Their Visibility And Recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/five-ways-quiet-workers-can-increase-their-visibility-and-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/06/26/five-ways-quiet-workers-can-increase-their-visibility-and-recognition/amp/",
-      "publishedDateTime": "2020-06-26T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-smart-artificial-intelligence-needs-an-open-source-classroom.md",
-      "title": "Smart Artificial Intelligence Needs An Open (Source) Classroom",
-      "excerpt": "Could the same 'human classroom' type need for interconnected cross-fertilization also help computers to ‘learn’ as they build their data-powered Artificial Intelligence (AI) knowledge bases and software-driven analytics engines?",
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/06/26/smart-artificial-intelligence-needs-an-open-source-classroom/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1222798689%2F0x0.jpg",
-          "width": 1200,
-          "height": 794,
-          "title": "Smart Artificial Intelligence Needs An Open (Source) Classroom",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/06/26/smart-artificial-intelligence-needs-an-open-source-classroom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/06/26/smart-artificial-intelligence-needs-an-open-source-classroom/amp/",
-      "publishedDateTime": "2020-06-26T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

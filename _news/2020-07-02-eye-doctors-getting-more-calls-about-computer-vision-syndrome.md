@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Eye doctors getting more calls about Computer Vision Syndrome"
-excerpt: "Some eye doctors across Eastern Iowa say they are getting more calls as the pandemic is forcing more people to work from home, staring at a computer all day."
-publishedDateTime: 2020-07-02T10:44:00Z
-webUrl: "https://www.kcrg.com/video/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/"
+excerpt: "Some eye doctors across Eastern Iowa say they are getting more calls as the pandemic is forcing more people to work from home, staring at a computer all day. It’s causing what they call Computer Vision Syndrome."
+publishedDateTime: 2020-07-02T11:06:00Z
+webUrl: "https://www.kcrg.com/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/"
 type: article
 quality: 39
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/-9mhd7WYkzCd_Y6us-vAvgmHk10=/980x0/smart/do0bihdskp9dy.cloudfront.net/07-02-2020/t_7270d4baba5747188da181af51e21332_name_file_1920x1080_5400_v4_.jpg"
+  - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/W9FfCiLvOvHWsRU1FXmaKa54oPk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/YVN66F2RNBIJ5GAQU25FQITL5I.png"
     width: 980
     height: 551
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 551
         isCached: true
 
-secured: "KCrkx5mEEMGDJG6vJj59ho9nPM8ksr2iAuoqyiI50pfvBLBigp019s/cc4eY4Vof4i1LmdYj1tVPzBKHnrU4rOC+B5dOprF2Faj6VH+US8ukT+Ehy3xitdVJMZ0HjXiICzAOT5507kmC80CUhnaXX7a6P3mzfruT2njRKCwUQhguwPhwoohobjZi7t6CKd+XUUdd9fKjV0COvss2qiGQTJgu6vXXTHWbfGh6owCk967YYibDKNPxvCgkLUMSbtKw/0C9ffqJAgf9kx7vB2Mo31OcVNG7E+cVT49vKSeASSzV/8cCeRyyTDBYFp9dSSW0JcR0AwCJIOXUTqeVTqd+MnCXGNe5VKd6ob7Dm5BEtq+kIRXKPk9MkK+l0twerNkO0Xr5iILeLeioN8I9AT78ARNeoGmZOp99qga7D7Gj+XtdkhtXc2g++gByHc4jyol6SDtk5VPwJn3D3qlJaHKgp7IzPRJB+5OjuErcvF2a5N7DCKKNnm93Ndu0TsYRxALyrUPcTna3j8q9iYEkYBQoMQ==;n9oQ7jPiFR+KQc3Yv0rZSg=="
+secured: "J891kHszgbVos4VLcXVFG+E8mq1PrIywWAEsmF3A7rVKm0tOPwwhPOydFFGLatAw/lri/PSLuNnERAsc49vrZJl/Y4oamIxaurQIkdPLJQelZmzE10FoBApnZFhagr8d9Rle8SJ2FeVOW3xWL+C6J2Gxnv+/15QE+a0+qldYFuBaPX3fIgh8rNKq8gwnN4mrZt0s5PEB3W5TsE9XxhtYPEdj1Yx8I471umAq8Xzfq2G0AccR6XkcHwQpLoqsFJuSk5SwoXuAU8FVZTdozqIZPKXhtJQLVi13EHt13ks92rnIJwW8RpRnJrfe+A7a+bqtPHi2E0FxGU+onMkoD9s3LQ==;Zr8wIAOvFcN7hS/3UtBOkw=="
 ---
 

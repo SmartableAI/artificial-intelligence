@@ -142,6 +142,53 @@
       ]
     },
     {
+      "path": "_news/2020-06-30-experts-facial-recognition-will-be-everywhere-whether-you-like-it-or-not.md",
+      "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
+      "excerpt": "Facial recognition could soon become as commonplace as public Wi-Fi and security cameras. But with the advance of technology comes major ethical questions.",
+      "webUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?itm_source=28&itm_content=1x7&itm_term=2376504",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/us-technology-artificial-intelligence-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
+      "publishedDateTime": "2020-06-30T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-artificial-intelligence-in-medicine-market-to-reach-1812-billion-at-496-cagr-by-2025-says-amr.md",
       "title": "Artificial Intelligence in Medicine Market to Reach $18.12 Billion at 49.6% CAGR by 2025, Says AMR",
       "excerpt": "Portland, OR , June 30, 2020 (GLOBE NEWSWIRE) -- According to a new report published by Allied Market Research, titled artificial intelligence in medicine marketwas valued at $719 million in 2017 and is expected to reach $18,",
@@ -1310,53 +1357,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-in-effort-to-fight-covid-19-mit-robot-gets-to-work-disinfecting-the-greater-boston-food-bank.md",
-      "title": "In effort to fight COVID-19, MIT robot gets to work disinfecting The Greater Boston Food Bank",
-      "excerpt": "MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) has put one of its research projects to work providing disinfection services for The Greater Boston Food Bank (GBFB), in an effort to slow the spread of COVID-19 and still allow the nonprofit to provide services to its patrons.",
-      "webUrl": "https://techcrunch.com/2020/06/29/in-effort-to-fight-covid-19-mit-robot-gets-to-work-disinfecting-the-greater-boston-food-bank/",
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/2Disinfecting-robot-credit-Alyssa-Pierson-MIT-CSAIL.jpg?w=1024",
-          "width": 1024,
-          "height": 762,
-          "title": "In effort to fight COVID-19, MIT robot gets to work disinfecting The Greater Boston Food Bank",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/29/in-effort-to-fight-covid-19-mit-robot-gets-to-work-disinfecting-the-greater-boston-food-bank/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/29/in-effort-to-fight-covid-19-mit-robot-gets-to-work-disinfecting-the-greater-boston-food-bank/amp/",
-      "publishedDateTime": "2020-06-29T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

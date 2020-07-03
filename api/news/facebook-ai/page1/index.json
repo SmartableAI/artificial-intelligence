@@ -6,7 +6,7 @@
       "title": "Researchers are gathering South African news headlines to power AI",
       "excerpt": "If an AI researcher wants to build a natural language processing model in English, there’s no shortage of data to train her algorithms. With a click, she could have 1.8 million",
       "webUrl": "https://qz.com/1876793/south-african-scientists-use-news-headlines-to-power-ai/",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -45,7 +45,8 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {

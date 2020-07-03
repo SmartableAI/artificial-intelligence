@@ -7,8 +7,8 @@ webUrl: "https://qz.com/1876793/south-african-scientists-use-news-headlines-to-p
 ampWebUrl: "https://qz.com/1876793/south-african-scientists-use-news-headlines-to-power-ai/amp/"
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1876793/south-african-scientists-use-news-headlines-to-power-ai/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cms.qz.com/wp-content/uploads/2020/07/2013-06-24T120000Z_1528076722_GM1E96O165301_RTRMADP_3_MANDELA-e1593717721432.jpg?quality=75&strip=all&w=1400"
@@ -30,6 +31,6 @@ images:
     isCached: true
     title: "Researchers are gathering South African news headlines to power AI"
 
-secured: "9a7ZR4y4iX0j/MJlei/2RC3KJSpt86UX064DETo8pLlVxvx/5JFKJwNm5iUrTRsDWpflmqJtInCe7N8RXWn2IpoNcWRdETjcm81UJZKcBXMBldzadtJd6zSJykqbx5QQHp/H3gxdcNrOquI/FVHAVmtJRJmRio+Lx74R8pzlv6QNsc9gNJOB8Qfx/K8CaHpOp6/W7Sac/wlN/yEsXeIN4ItzrMzPKF6CCCvXoPcYvtAzeiP9P0WBlSpCT3bo1THf0P8P79/dcitVBxRO/qviZMbNvKihJ8U+rRgWx29tkj9gNNi1JwgLVHQIYXvRpysGSI0bS4uosncq/2hRTFtcgQ==;YOvBzIk2YMlTps4Lm35RbQ=="
+secured: "hexk2ge/YtHeeJB1U29G8FYCC11NwrIwpZm7aTFcaG6gBy6kJlHHF/8iFPHgqYFnAhKAR5FUneaUsUTvDMitMR4Jo5acifDokbjIQb5kBTXO6Dh0WJJVGOXPyKs5/uOcSDi3bk/76CMvEIrAuS/mRcv7Dtiy+ZcVmUExH1vOBlAJQIaiTudiF4EqpjngccHd8qs7jB4GqSOf3qsx8dM5hVpw0xejHgai8XHybER3P7sSo3RQGs93xOc6/0uMoNuOE2tGg1vTl7p0IgDPvYk7EWQXpha6q4rCiOcbWGpOE9Zv4Gf7lC2mdGDbj4ipJ9XXc9CnbtGZq0/LNG0RwO6ZDtANkCDOuqLOg81lTNi1E6Uy9EQrVzbkhXWYsIkwNrLEqlWhgv+leitXPgdGsEd4KWp1xRz+ABFcmxx2KD9z6nwQmneOnzy8FH2HtiaWgSoM/lSW+xLKLs1mM1m1Rwp5b4/pAoSwRRyENv1qiGOzYRhVe73kJ1ahynn8Dzm16I+sVMlgXzaYT1k8m8pChXdlGw==;RPkH3XzDVRD78FMMkvbe5g=="
 ---
 

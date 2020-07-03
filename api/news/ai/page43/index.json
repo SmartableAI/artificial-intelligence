@@ -2,6 +2,129 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-05-20-vuzix-m400-smart-glasses-now-support-hands-free-voice-control-for-skype-for-business-zoom-and-zoom-for-healthcare-applications.md",
+      "title": "Vuzix M400 Smart Glasses Now Support Hands-Free Voice Control for Skype for Business, Zoom and Zoom for Healthcare Applications",
+      "excerpt": "PRNewswire/ -- Vuzix® Corporation (NASDAQ: VUZI), (\"Vuzix\" or, the \"Company\"), a leading supplier of Smart Glasses and Augmented Reality (AR) technology and products, today announced",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vuzix-m400-smart-glasses-now-support-hands-free-voice-control-for-skype-for-business-zoom/article_f967488a-a5b0-596b-9ac6-9a6fefae5e73.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/d0/9d029a52-8f57-5a6f-817e-5b57ac2248f7/5ec534c01ec33.image.jpg?resize=300%2C301",
+          "width": 300,
+          "height": 301,
+          "title": "Vuzix M400 Smart Glasses Now Support Hands-Free Voice Control for Skype for Business, Zoom and Zoom for Healthcare Applications",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-facial-recognition-reunites-missing-child-after-32-years.md",
+      "title": "Facial recognition reunites missing child after 32 years",
+      "excerpt": "Facial recognition technology leading to a joyful reunion and a happy ending to what was a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his",
+      "webUrl": "https://www.myhighplains.com/news/world/facial-recognition-reunites-missing-child-after-32-years/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.myhighplains.com/wp-content/uploads/sites/87/2020/05/DB7E220B2CBD4F819FAA7CDA6577BD9D_5.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": "Facial recognition reunites missing child after 32 years",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.myhighplains.com/news/world/facial-recognition-reunites-missing-child-after-32-years/amp/",
+      "cdnAmpWebUrl": "https://www-myhighplains-com.cdn.ampproject.org/c/s/www.myhighplains.com/news/world/facial-recognition-reunites-missing-child-after-32-years/amp/",
+      "publishedDateTime": "2020-05-20T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "myhighplains.com",
+        "domain": "myhighplains.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-20-self-driving-shared-electric-scooters-are-here-are-they-awesome-or-terrifying.md",
+      "title": "‘Self-driving’ shared electric scooters are here – Are they awesome or terrifying?",
+      "excerpt": "Shared electric scooter provider Go X is combining its scooters with self-driving tech from the company Tortoise to solve the first and last step problem of shared e-scooters: finding and returning the scooters.",
+      "webUrl": "https://electrek.co/2020/05/20/g0-x-self-driving-shared-electric-scooters-are-here/",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/05/go-x-scooters-header.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "‘Self-driving’ shared electric scooters are here – Are they awesome or terrifying?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/05/20/g0-x-self-driving-shared-electric-scooters-are-here/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/20/g0-x-self-driving-shared-electric-scooters-are-here/amp/",
+      "publishedDateTime": "2020-05-20T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain.md",
       "title": "Facial Recognition Firms Pitch Covid-19 ‘Immunity Passports’ For America And Britain",
       "excerpt": "FaceFirst pitches a coronavirus health passport system, though concerns around civil liberties and privacy abound.",
@@ -1150,146 +1273,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-teen-programmer-uses-real-self-driving-car-tech-in-gta-v.md",
-      "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
-      "excerpt": "Driving in 'Grand Theft Auto V' can be... messy. A teen programmer figured out how to use real-life self-driving car technology to make it a little easier.",
-      "webUrl": "https://www.vice.com/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5ec426f35504fd0099a9f91f/lede/1589913548738-Copy-of-Copy-of-Splitscreen-5.jpeg?crop=1xw:1xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
-      "publishedDateTime": "2020-05-19T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-certified-azure-ai-fundamentals.md",
-      "title": "Microsoft Certified: Azure AI Fundamentals",
-      "excerpt": "This certification will be available on or around June 8, 2020. Azure AI Fundamentals validates foundational knowledge of machine learning and artificial intelligence concepts and related Microsoft Azure services.",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Microsoft Certified: Azure AI Fundamentals",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity.md",
-      "title": "Autism as an advantage in AI jobs: This organization is making an argument for neurodiversity",
-      "excerpt": "For Daivergent, matching tech workers with autism to jobs isn't an act of charity. It was 2018, and Leon Campbell was worried about getting a job. The Hunter College grad, now 25, had a degree in computer science,",
-      "webUrl": "https://www.cnet.com/news/autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/WnHHrp55u-AazHFNi1YkNLOOH1U=/756x567/2020/05/19/2501608e-54cd-4831-992a-af2e0acc7ea5/gettyimages-1219925426.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Autism as an advantage in AI jobs: This organization is making an argument for neurodiversity",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/autism-as-an-advantage-in-ai-jobs-this-organization-is-making-an-argument-for-neurodiversity/",
-      "publishedDateTime": "2020-05-19T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

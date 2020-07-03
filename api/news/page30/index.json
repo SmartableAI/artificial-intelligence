@@ -2,6 +2,137 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-06-09-artificial-intelligence-chips-benefit-from-a-good-nights-sleep.md",
+      "title": "Artificial intelligence chips benefit from a good night's sleep",
+      "excerpt": "Artificial neurons are already far more human-like than traditional computers, and now it turns out they might also need sleep to function at their peak. And it’s not just a matter of turning them off every now and then – a new study shows that the neurons benefit from exposure to slow-wave",
+      "webUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/eddb853/2147483647/strip/true/crop/1999x1332+1+21/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0f%2F63%2F2daf086d4c9fbcbe654e04617cd1%2Fdepositphotos-82816702-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Artificial intelligence chips benefit from a good night's sleep",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
+      "publishedDateTime": "2020-06-08T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-here-are-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops.md",
+      "title": "Here are 5 ways to use AI as a ‘bad apple detector’ for cops",
+      "excerpt": "When an apple begins to rot it creates a chemical called ethylene. If that apple happens to be in a barrel with a bunch of other apples, and the rotting causes its skin to break, the ethylene will immediately cause the other apples to start rotting.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/police-lights-sirens-796x398.png",
+          "width": 796,
+          "height": 398,
+          "title": "Here are 5 ways to use AI as a ‘bad apple detector’ for cops",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
+      "publishedDateTime": "2020-06-08T18:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-google-open-sources-computer-vision-model-big-transfer.md",
+      "title": "Google Open-Sources Computer Vision Model Big Transfer",
+      "excerpt": "Google Brain has released the pre-trained models and fine-tuning code for Big Transfer (BiT), a deep-learning computer vision model. The models are pre-trained on publicly-available generic image ...",
+      "webUrl": "https://www.infoq.com/news/2020/06/google-big-transfer/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/06/google-big-transfer/en/headerimage/google-big-transfer-1591540258316.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Google Open-Sources Computer Vision Model Big Transfer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-how-to-run-ml-applications-on-particle-hardware.md",
       "title": "How To Run ML Applications On Particle Hardware",
       "excerpt": "With the release of TensorFlow Lite at Google I/O 2019, the accessible machine learning library is no longer limited to applications with access to GPUs. You can now run machine learning ...",
@@ -940,127 +1071,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-apple-and-google-tweak-maps-ai-assistants-to-back-black-lives-matter.md",
-      "title": "Apple and Google tweak maps, AI assistants to back Black Lives Matter",
-      "excerpt": "The technology companies have updated their mobile operating systems to conspicuously support the protest movement and downplay counter-protesters.",
-      "webUrl": "https://venturebeat.com/2020/06/08/apple-and-google-tweak-maps-ai-assistants-to-back-black-lives-matter/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/IMG_25B0C5408EFB-1-e1591623650320.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Apple and Google tweak maps, AI assistants to back Black Lives Matter",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/08/apple-and-google-tweak-maps-ai-assistants-to-back-black-lives-matter/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/08/apple-and-google-tweak-maps-ai-assistants-to-back-black-lives-matter/amp/",
-      "publishedDateTime": "2020-06-08T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-natural-language-processing-nlp-market-to-exhibit-324-cagr-increasing-technological-advancement-to-drive-growth-fortune-business-insights.md",
-      "title": "Natural Language Processing (NLP) Market to Exhibit 32.4% CAGR; Increasing Technological Advancement to Drive Growth: Fortune Business Insights™",
-      "excerpt": "This information is published by Fortune Business Insights™, in a report, titled, “Natural Language Processing (NLP) Market Size, Share & Industry Analysis, By Deployment (On-Premises ...",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/06/08/2045035/0/en/Natural-Language-Processing-NLP-Market-to-Exhibit-32-4-CAGR-Increasing-Technological-Advancement-to-Drive-Growth-Fortune-Business-Insights.html",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-chief-ai-officer-executives-discuss-the-role-pitfalls-and-business-philosophy.md",
-      "title": "Chief AI Officer: Executives discuss the role, pitfalls, and business philosophy",
-      "excerpt": "As artificial intelligence becomes commonplace across industries, more companies are looking to add a dedicated leader to the C-suite. But what does that look like?",
-      "webUrl": "https://www.techrepublic.com/article/chief-ai-officer-executives-discuss-the-role-pitfalls-and-business-philosophy/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/05/08/18b8706b-b03d-4420-85f9-0397e701e29d/resize/1200x/7c00707ad6de40a8144694a1ac8f9a04/data-collection-online-data-data-privacy.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Chief AI Officer: Executives discuss the role, pitfalls, and business philosophy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/chief-ai-officer-executives-discuss-the-role-pitfalls-and-business-philosophy/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/chief-ai-officer-executives-discuss-the-role-pitfalls-and-business-philosophy/",
-      "publishedDateTime": "2020-06-08T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

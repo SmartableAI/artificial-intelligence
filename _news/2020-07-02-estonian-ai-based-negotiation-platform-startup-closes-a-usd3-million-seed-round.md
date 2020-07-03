@@ -3,7 +3,7 @@ category: news
 title: "Estonian AI-based negotiation platform startup closes a USD3 million seed round"
 excerpt: "Pactum​, an Estonian-founded AI-based platform that enables companies to automate personalised commercial negotiations, has announced the closing of a USD3 million seed financing round led by Berlin-based​ ​Project A​,"
 publishedDateTime: 2020-07-02T20:02:00Z
-webUrl: "https://estonianworld.com/business/estonian-ai-based-negotiation-platform-pactum-closes-a-usd3-million-seed-round/"
+webUrl: "https://estonianworld.com/business/estonian-ai-based-negotiation-platform-startup-closes-usd3-million-seed-round/"
 type: article
 quality: 35
 heat: 35
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Zep7deqrnKBsFC7eJdJzNxL2P5gbqutJbpdMPfFhB/7gq5q94KGAJQSUfKlu8PkR+vI1jbdpBdbFpV7qnmsDNa6/nWPpHeXsWFueiM2gLoPE9AzHj40xmwWWUWRl7XBMBCz3MB+fA2aFt7joLjeZmFhx9CxErC6Pb7LSbAl4nXge3kDupzQ8fVwEE1qD2AlSg1NSKtQjoYKiLWIZmxgguW8WKXxe+7QtkCg0zYpQX/vLjsH4lDNTocFJVqW7mAPcDi1KsTfzknzc+Ize4uygI6N6DLZPyh/KYKA9q3hpQ+0eECQZjg9rDWPJ49w+91xYpSEtyH4cdu792R1JrwGLXQ==;wV6EDoRlGmPpvccoRPE7GQ=="
+secured: "Zhf73LzkVZD5YnYZB1VL3i6MuGtoEU1D5zU6WopnmMV7D3yR8AQW+MU7ThBXlYvyZXPDEy0OnOrgKLBwKVLaJ2ocZ+I+rYjJBZmZZIiXt7r0b4F79jdUKDnTNKQbNjvsekDCR/OyREEkZ8htsSFkUsxEiNspX/0WTbLY9IEUI4qCC656kQHKDwEwiyuIQvMo7aYAB7JM/m1l2067nArNcn/HeDs2Lb3Ytx6/EhmyweKVO6Z1P9a8+i+3haCofD954E7BfVGrT6bRt1Hq8YxFkTmCsCRjxjlCXI4pvRy08bgJ4qPSSNpzM+9IytYuqElAXVQZ8ac4oF+mOj413G8F3Q==;tEQ3M+186ERGnjABgnt73Q=="
 ---
 

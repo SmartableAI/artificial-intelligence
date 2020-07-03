@@ -35,6 +35,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 67
+  - title: "Litmus Partners With ProcessMiner to Offer Leading Edge Computing and Artificial Intelligence Platforms for Manufacturing"
+    excerpt: "Under terms of the agreement, both organizations will promote their respective platform capabilities throughout the manufacturing industry."
+    publishedDateTime: 2020-07-02T22:31:00Z
+    webUrl: "https://www.embedded-computing.com/news/litmus-partners-with-processminer-to-offer-leading-edge-computing-and-artificial-intelligence-platforms-for-manufacturing"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 12
+    images:
+      - url: "http://share.opsy.st/5efe5db3ba388-ProcessMiner-Litmus-Partner-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "oMSGFZyxVGEVqg126mT4XNbmz5RB2+0c4cTrlVqINLaa15OP55js5D0F4zAsJ3iK88DlgTgXHFquiDo8uymzEBwJOrOhB1aW1cKy7iMNuHcM4q2GuFY7ApjhcklW9++NvRf7Jz0dQUHv7F188UgE0hUpc9TZVwS3/Z8nayxXKPK+jjHEpy+iupr0/a1/aqduY5225rLMfiypidvPJImWAU22X6YaX/wtu56uPqeWOxkyJrNvANIwvd9KaqcLcCeFE7RN2yQg34R3JeowcyFOqZuvWPjEuy+dJ1qXf1DkwCMNSNNDJgYf7mNNizAk9cqUVcNn2DAerj6zTiY4KLODdg==;vL20d23NJqpxB5mFssquGA=="
 ---
