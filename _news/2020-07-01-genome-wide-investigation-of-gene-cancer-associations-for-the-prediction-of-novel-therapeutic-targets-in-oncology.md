@@ -28,9 +28,9 @@ related:
   - title: "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud"
     excerpt: "We congratulate our wise leadership on our unprecedented regional achievement & take pride in HBMSU’s leading position that supports UAE's competitiveness on global educational landscape” Mansoor Al Awar: “With our adoption of AWS,"
     publishedDateTime: 2020-07-01T11:31:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/HBMSU_becomes_MENA_regions_first_educational_institution_to_migrate_its_full_systems_and_applications_to_AWS_Cloud-ZAWYA20200701110907/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20200701110907/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200701110907/"
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/HBMSU_becomes_MENA_regions_first_educational_institution_to_migrate_its_full_systems_and_applications_to_AWS_Cloud-ZAWYA20200701110907/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/"
     type: article
     provider:
       name: Zawya

@@ -2,21 +2,20 @@
 category: news
 title: "Etisalat Misr transforms customer experience with IBM Watson"
 excerpt: "New AI virtual assistant to provide personalised services in English and Arabic to Etisalat subscribers across Egypt"
-publishedDateTime: 2020-06-23T07:45:00Z
-webUrl: "https://www.itp.net/news/93032-etisalat-misr-transforms-customer-experience-with-ibm-watson"
+publishedDateTime: 2020-06-23T08:07:00Z
+webUrl: "https://www.commsmea.com/business/trends/22088-etisalat-misr-transforms-customer-experience-with-ibm-watson"
+ampWebUrl: "https://www.commsmea.com/business/trends/22088-etisalat-misr-transforms-customer-experience-with-ibm-watson?amp"
+cdnAmpWebUrl: "https://www-commsmea-com.cdn.ampproject.org/c/s/www.commsmea.com/business/trends/22088-etisalat-misr-transforms-customer-experience-with-ibm-watson?amp"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: GDPR fines
-  domain: itp.net
+  name: CommsMEA
+  domain: commsmea.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "uVcDgGtr1PfXB/F+rOY/zZoQ9TFevVX7lS6ZFlFLjN18+Pg2v/hVM9U4/UNs5biqnTmQxHvkXS1z7uuEvVMrpGdhgyfLMW69PrmXk9qCJfBuNsB95sR/fSFcIFElM1B9wACJjPzWfEUxqUUWPf5MiPRWZ7cjDX5MBMJhpKbVZ/HDUg2R2CCeUI4MpocefUiuUL7IB8DC/qyQR6pwwsUFSkH9zfA1d/YjTy8i3bRGWxjT9lgfmpGUHkAN5hsblzChJGylylLWybuZ71jBdojUAv4346O6AiIN/TdfvLFBhLt4kYuoafZRC1QnWMSxVFmSabf+E9KBvcFsicgw64vi8N02OxSj4T5AG7UG2ZPbroCM2fWdvDYLT0Sgq/1LQhGXX553KiKUAZcdQAlNwJt4f7MMqgtf2Gu9txfaAxUvOgTa4mSGoeUrF5/lvamqr+kCxWnGBwC0s8AoPE5XM1TJzGofBFSyjUkJSp2QSH5eyyE+mBODsFSslTOk4JFQLGBm025oiB8zQJRJRSPerSp7IQ==;mpZYFzxBRVyEZXLDbSjPGg=="
+secured: "CysqnGgOPC5UkLqWMTwzL98YDgnNk2alrJz3CYNrAj91RweFZGg9CS3pjmFPktZnb97ds6Fg6Rnk75xit7VX2mPgXH9WunqmOlL7bHfiFOmbF3iZ2wf8G60xaQHNJuxHI5LaslMsRLxDacR8U1uTRCwmhWTzwpH2a2869oWLolmjxnoN8ovcnwoSMHtkHvWMYBRf9nP0zmY05rFBDnvGcsXWxKT/YiPLQXXvjsqB4FzEkaVgjfw/bXWaYYzi4N44LPQd4+48vSGdBO6k7ncRYAmygr5GS5RW7mDqfzaEA1cEeS1X2J46XwY+zYS5u3/kKNva3jh5gzkvHNIKG4L9BBopROGF9DMeG1WRZ9fnC93ooK+nDrBg8UnF0PBMF9yhi2nscn+LOU2B4/tqjgjSfpbBTTKhdeFuZi4nxgoMXrV/j2fpc28dUuZMOorWVsRoowvMOhsQxHK+L5m5o4KdNF6RRYfN1XmeimnFMqy0QPcvbbB/LFKPPelOfq3zLMraeHFsKj8GGPKTHUJkMfm8Ug==;lEzbN/TEeRYQMoFd49PWVQ=="
 ---
 
