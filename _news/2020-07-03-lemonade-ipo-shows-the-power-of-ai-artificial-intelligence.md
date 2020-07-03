@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Lemonade IPO Shows The Power Of AI (Artificial Intelligence)"
 
-secured: "w1weYELnc+N77fvQ8pRCDWdqOfmGSCtKm4W/ql2lxwp29sfkDxTWKGyt+TnDGHCUqKGBYLnxqhy64hr5Vzn7lIH6UNxDwvN0lg2dOOEbMvv3Ilb1jJNdeKndwPrQbp8m4qBE01RUSdadbXsnLBh4fG5E0cuEpJp3anCvg2MOH3ahtHNcTUj/6T0TMTbYsNTbEqImoTO2VHe6TGGQZ0POw+QaPtE5gNG2IXbmhULjT32jBdcR1Xww7IpR/HYTummJPkD8NHx+V7uAf5/Md3qduXuNfMpUV8KuEwZWMBfzWm1HICLLpQXQ17/jxGq38bBKfDktNOzPpxhJSnJDirDH2g==;TdzMpAdz+KYfrTaPJJAPzg=="
+secured: "n0ytu5e+o9eXpki8/zWmy+FCZWrEe3sLgNxm/AZ0HQjiLOkZjra1CFr+bc/nkYID6xqEJKqxO79F3hOwu0misl22SMdPpQ5AzC1KRBiuv7dwuYOBEHKHkyBF/dd7g0BUgl/dAHQeQBE0IOZAIETGE4O2A1BOvCl20laOiIIuOnaJWYLf/qWX9gs3FYaxkWyNavg1Z6wlVOfo8YUKCO914XvdsZn0sjVZtoAoJkcy1ojQ2R4TcVfzsON+K3YUAn04S5SNgPvfOYjrYqZ8h9Eme9scMmzLhm1DoHQbN7AahN1Vr+qoRZ9PZaa0AVc1gyjHQQfnSOaSceWBNSF5h9rLNg==;OQ3iPFxhWOaVV/YI3GCWug=="
 ---
 
