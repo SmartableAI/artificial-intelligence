@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20"
 
-secured: "DH+FR9Wx7VBzjLCwFAWyZ61RMtPwcudVvH3EETS0hJfEx+gnRWl36f2JU9jQuK9ugjyDZGgtqpTPbC2Rv9eZKORrS6XqvTYQCjuB2AaH6ee/iBkLO5LDI3lER/i6/scQhqhnqb2g/iUbC62JiSHnJrEWmig+e1wLN7nRkvMiSl7BEUpXpW3DoH8tu91nuD/Tcs8ii/6M+NVtN7mJwgwh6I0qLxVQhoxYlfg1qAUBi/r7DinnI/v8hExEqn6FYcIcOJT9F0dxLIQNWLX+qi+b0TgP7yv67S29Xnv8KdSb98TCaYm+5+sOayLW7/5HAb7AKvdY+W5Mkyzo+b5SiEbwqA==;buUXzqi8xK4mYC+WMbm//w=="
+secured: "JbFHZbESziIpuKa2tTkdWZm/dTNq66oVIWiGXG7uETMeCS6yHDULwsXKkMEt9SxeDF8j/uijejQPNOMm5iytzoDZtf0QJGOmHuoAHZaQPQqNdHjkxVomu9EHQNDKBWsTfS6OtLJQlOmye/jyfxmW4SpXD9sB3QjhewbmAWxeHPUN4cHr8nONtx94mAXTsALCV0CcAayMvf0DbyDWyAswid9j+AumNSusvo7vjOS1REJ7667x07U7QgUKXFu8RisMqNwjS0ytvfMTL7Ck7o+FL64S1xLzoBKx8/MX0XRun+IWqldnaGlxiBA87QrI+ztLBgYPeUa3Q0x7dOLvxqWujShC9MKTsGsRbXmkVd3eFWyDN9++NEluybsxynFvLNsdFC2DDEpTOhClN2X8Hu8/taSv41wgmkmeIrnPd10rCjk72j0xJ8eTSIsoo2/675lxeJfhjfeeqMh2V1nwya/IZMebNqOX5F2Hf8g8l7cPsHKLid/EfphScGEI69TaC2JNGQTfSTqeCJqcNlg4sLGptw==;vQq64BqHkhBiRvD1ZJV+Vg=="
 ---
 

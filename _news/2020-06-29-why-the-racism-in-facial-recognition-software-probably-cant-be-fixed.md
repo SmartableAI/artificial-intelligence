@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says"
+    excerpt: "Facial-recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief."
+    publishedDateTime: 2020-07-03T14:50:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Detroit police chief cops to 96-percent facial recognition error rate"
     excerpt: "Detroit's police chief admitted on Monday that facial recognition technology used by the department misidentifies suspects about 96 percent of the time. It's an eye-opening admission given that the Detroit Police Department is facing criticism for arresting a man based on a bogus match from facial recognition software."
     publishedDateTime: 2020-06-30T16:12:00Z

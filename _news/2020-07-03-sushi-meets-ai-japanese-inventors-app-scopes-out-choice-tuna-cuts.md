@@ -1,34 +1,27 @@
 ---
 category: news
-title: "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts"
-excerpt: "If you've ever bought supermarket sushi, you may know the taste trauma that hit Kazuhiro Shimura one night. But \"disappointing\" tuna sparked an idea: he'd develop an artificial intelligence (AI) system to make sure your sashimi is always delicious."
+title: "Sushi Meets AI: Japanese Inventor's App Scopes Out Choice Tuna Cuts"
+excerpt: "Using a deep learning algorithm to crunch through grading data from merchants, Tuna Scope has now evolved into a smartphone app. Clients can download and use it anywhere, creating"
 publishedDateTime: 2020-07-03T09:54:00Z
-webUrl: "https://www.reuters.com/article/us-japan-tech-ai-tuna/sushi-meets-ai-japanese-inventors-app-scopes-out-choice-tuna-cuts-idUSKBN24415L"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN24415L"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24415L"
+webUrl: "https://www.usnews.com/news/technology/articles/2020-07-03/sushi-meets-ai-japanese-inventors-app-scopes-out-choice-tuna-cuts"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-03/sushi-meets-ai-japanese-inventors-app-scopes-out-choice-tuna-cuts?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-03/sushi-meets-ai-japanese-inventors-app-scopes-out-choice-tuna-cuts?context=amp"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 67
+heat: 67
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200703&t=2&i=1524528857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG620IQ"
-    width: 813
-    height: 545
-    isCached: true
-    title: "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts"
-
-secured: "TEo80hFpZNTnAt0En4bNUhCYKrESL3jOGWLvPxADONPColjITdNmKS/jA1WzYLxGoGhUfErnzFj32esTuu0Y1RekCqrMIEHob10X+kiAge4n2+ITZhn/k23NR6WlO74AuAWOqs0PxyLwetZ+W56IV0w8wVDxrWncw52ATpA7sZ8wLtWt3//HXv+FWXSJ8fXW1ZMtq8/t5rJpWjSc8EIju7SA9QV8aT+IA6admmPH3pGrDGb/ZODgnh7E5/X38N6kGggwyph+gIulIUYEufOUk1L+Fng+N7lTLy5WfmkqsYMiPBZT30+bWxrw/jzamM2Vd7XIx7uDEAdb3xtRiHo8jooHR7vsnRUmHKYWMf8OYxw6DA5xYeenE/6mxYjQ5XrMzAD68GOgrJtWyPkXRunWiS0lJaOEUYq/U0VraApxCALvKn9pdoLeuKGlQrnPiNcXpfCLFcLbANF5sel7UoS+mDedcWea23vu5DM2iFswyAZoXehm6N+tdackCNhgnzW7TQy2tqlOIJZ3k9JGHACsMA==;QAbmZ5qyX59oZ+WoGa+3Xg=="
+secured: "U0jKgqr4f3t62KPDIy7pDtWuk9COLh0XJ3zWmelbiKNLbxpMu8JmKTWRYXDHXE1vwkW7DPJlMevCdczL1V4TFlnaUjBnHohw7vewVEdiet0vNgMcLLei3rUa6avA3anrbHGTNiR/LFGOpnll5bgjb3b/za2TTX0FgkTU+yNYuUnFFamz8ASj/rPF3tzQ9DMadD08RZYyt3KrqNa4h9UqypZF4BX0Uvo8rULWV8DSpwKqVtXyQSn5ARPTSiAuECXMu3LCunWAhgOFtLZCGrkNLMypn5XroOD0+3oWNdHvzviii8cJqKrrit99BrUYEAaaiT/3jvtJ4Rrka36KGxsDqxJ0+f7d52tzkRwoMzDPX4sQjKgRSBZ3cnFMMULL6KQAaNjcq0cKAfsETpHDnoEle9vT8BzM5ZjLL42ojN8NGUfy/ySl8RnUpZScyQ7zg5eeZxCz4U7bH8xNSxLhRkb4/FYsjEMwVG4nIsldzsBKgM6vJuC7rjVvYJsUEoSdaIwgCprVFnGyUSFG58n/QArwHw==;t3u9v9oWoKBfWOqmEylSQw=="
 ---
 

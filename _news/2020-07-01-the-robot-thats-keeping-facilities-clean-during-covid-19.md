@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-k
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     height: 800
     isCached: true
     title: "The Robot That's Keeping Facilities Clean During Covid-19"
+
+related:
+  - title: "The robots are coming, and this is how they will change the future of work"
+    excerpt: "Robotic systems have historically been kept separate from humans, and tucked away deep in factory lines. But as robots start mingling with humans in their workplaces, what is work going to look like?"
+    publishedDateTime: 2020-07-01T14:13:00Z
+    webUrl: "https://www.zdnet.com/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/06/30/44b82d2a-c7eb-4458-89bb-a1aeff3fc18b/makrshakr-milanoduomo-bp-5972.jpg"
+        width: 1152
+        height: 768
+        isCached: true
 
 secured: "eWD48WDceY2uPWPh/1wcObm/CaV3fmRF/fFg3o9ajXIemDqHu7pIwyru+ueBlTn3UcRvJv6m0eZ7TzR+ieR/wRqYoO0HGC5+G6xfC0JuiivV3d37JxfOhrCxU7MvWk82BuqBGxXRbuzlgJWdmIEuji1uBs5nIbuTHHpDu3OMTNTRUeKlFlNZsp7uKYCTLE0D8uYINZoqAsFnQoqS8+oYEBcWG8iVodXP5DNiyBIqsIlJ1aMjixSTwDiyw1aRxbC4ETA11xAvNRMicAkEpvTMeXnOpfrPL3igxEvSQ6olu8FuC50pEX0ubzw8hHnq4H0Gy4e4JgWV6qFHurhNl9PQig==;fRTbbZL1ByURL5nTseAL7Q=="
 ---

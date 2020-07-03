@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Detroit coppers admit that facial recognition systems are useless"
-excerpt: "But they have used them against Black people anyway Detroit police have used highly unreliable facial recognition technology almost exclusively against Black people so far in 2020, according to the Detroit Police Department's own statistics."
-publishedDateTime: 2020-07-02T09:59:00Z
-webUrl: "https://www.fudzilla.com/news/51106-coppers-admit-that-facial-recognition-systems-are-useless"
+title: "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says"
+excerpt: "Facial-recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief."
+publishedDateTime: 2020-07-03T14:50:00Z
+webUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6"
+ampWebUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
 type: article
-quality: 39
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Fudzilla
-  domain: fudzilla.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.fudzilla.com/media/k2/items/cache/42342f6796f92cddecf7d8032ec25edb_L.jpg"
-    width: 620
-    height: 465
+  - url: "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
-    title: "Detroit coppers admit that facial recognition systems are useless"
+    title: "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says"
 
 related:
   - title: "Facial recognition software fails to correctly identify people '96 percent of the time,' according to Detroit's chief of police"
@@ -36,22 +42,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 76
-    images:
-      - url: "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says"
-    excerpt: "Facial-recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief."
-    publishedDateTime: 2020-07-03T14:50:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
     images:
       - url: "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg"
         width: 1200
@@ -80,7 +70,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Detroit coppers admit that facial recognition systems are useless"
+    excerpt: "But they have used them against Black people anyway Detroit police have used highly unreliable facial recognition technology almost exclusively against Black people so far in 2020, according to the Detroit Police Department's own statistics."
+    publishedDateTime: 2020-07-02T09:59:00Z
+    webUrl: "https://www.fudzilla.com/news/51106-coppers-admit-that-facial-recognition-systems-are-useless"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/42342f6796f92cddecf7d8032ec25edb_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
-secured: "JN9Vxb0G2c5DCA950SA67ile8muP9hjf8lsBVD5kAg8WO2LFaPDzDuM2xlyyY3hwMnC0oEvfZAEjoc6PEYnrOjjXYgSWMDSqHZql3Sw6w2KWRVcK0LiEX4/B/B6zNk69ZX7u0VsvEuUE+NSQKf2k/Z7KMz2TQRk8GBbORcKKPIA5LnEw0C9cTLZ9XSTaOgjupkqlE35vAZUPbe6CHfsrrfEqSTzRzEnvyu5tqBOIICXW6H802A32xqmCl+uwfgwwpCQ9dFgf3ropwMPXJqwTUKZ3ZvIOIVN9sASMhZCC82Lnl7Sq84HXw0mCnA3f/HgpoeQB5XfSXcsWOZrOhK/OHkSpMCf5WjXJSB44N6TBsH4rO7iTz3UBIvbxonJwEFfJKnZEmD3uJCOjyR0n6/jJrk3sqLyiIQG8xGCchyDWyf419IQabZL/cvf3ulVlq4SeXZR0lSc1HH6kgCrgKKIw7h2L3cE92J6wEZ619Wvbc57LWkyAjoi0ldwF7UVqtS5csql2lQtDtVnsO471cMaaIw==;qy1n6XkXqu7GalnLdd0HIA=="
+secured: "SSYjubhlBJJnISD82V/NMrMIvp9rHGuDAjBK9qIj3pApiLYTiWQK0DrvwIbsR5QPzL59e/4igBDgwj2i8dxbVIXNsmy8UnfwyaPCPgVTIUdDG8G3PurO3wwbtF6BuJLz0ZhKzUjsuKVAEcau3UXXCM5Ns87vs+EKLbv9k01Gqvq4qK5OBdRgKTM53HfllvjoH+yTuP5bfUscNjQuOec8xnfuVg65ny4vw//WROwRRX96qNT6EQbPsCe2OW6meJn91MDPa5UjiUgO/Oio2V6qwBm4LDS0m032PS+KFVO6/McE7vBrLcBH0fsfeEUcV6TuipKkoJjgbSyYIZQ7bGF3UA==;WV7XR5zGGZJXGeW+nWUiVA=="
 ---
 

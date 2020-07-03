@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says"
+    excerpt: "Facial-recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief."
+    publishedDateTime: 2020-07-03T14:50:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Why the racism in facial recognition software probably can’t be fixed"
     excerpt: "It’s been proven that facial recognition software isn’t good at accurately identifying people of color. It’s also known that police departments around the country use facial recognition tools to identify suspects and make arrests."
     publishedDateTime: 2020-06-29T10:05:00Z
