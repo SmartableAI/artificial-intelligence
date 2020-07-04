@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T11:08:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027-2020-07-01"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     title: "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027"
 
 related:
-  - title: "AI-based Fever Detection Camera Market 2020: Covid19 Impact Analysis, End Users And Regional Forecast Till 2027"
-    excerpt: "Jun 29, 2020 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by"
-    publishedDateTime: 2020-06-29T15:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2020-covid19-impact-analysis-end-users-and-regional-forecast-till-2027-2020-06-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Automatic Speech Recognition Market 2020 Industry Size, Cost Structure Analysis, Growth, Share and Opportunities and Forecast to 2026"
     excerpt: "Jul 03, 2020 (The Expresswire) -- “Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Automatic Speech Recognition Market” report presents an in-depth assessment of the Automatic Speech Recognition market ..."
     publishedDateTime: 2020-07-03T17:06:00Z

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-based Fever Detection Camera Market 2020: Covid19 Impact Analysis, End Users And Regional Forecast Till 2027"
-    excerpt: "Jun 29, 2020 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by"
-    publishedDateTime: 2020-06-29T15:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2020-covid19-impact-analysis-end-users-and-regional-forecast-till-2027-2020-06-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Diabetes Management Market 2028 Report Reviews Future Development, Manufacturers, Trends, Share, Size and Forecast"
     excerpt: "Overview . The Global artificial intelligence in diabetes management market is likely to register significant growth"
     publishedDateTime: 2020-06-30T07:58:00Z

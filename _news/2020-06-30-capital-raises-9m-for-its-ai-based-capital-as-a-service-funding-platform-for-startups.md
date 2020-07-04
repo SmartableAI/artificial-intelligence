@@ -46,22 +46,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Cynet raises $18 million for AI safeguards against cyberthreats"
-    excerpt: "Cynet, a cybersecurity startup that leverages AI and machine learning to detect threats, has raised $18 million in venture capital."
-    publishedDateTime: 2020-06-29T15:03:00Z
-    webUrl: "https://venturebeat.com/2020/06/29/cynet-raises-18-million-for-ai-safeguards-against-cyberthreats/"
-    ampWebUrl: "https://venturebeat.com/2020/06/29/cynet-raises-18-million-for-ai-safeguards-against-cyberthreats/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/cynet-raises-18-million-for-ai-safeguards-against-cyberthreats/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/Cynet-Team.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 542
-        isCached: true
 
 secured: "nCB5YBLwj24JYaRnte/VAs/sD7xlxW4dYRNK9B7OTX3OslnYwsCjfoeFdb/i2lSP62XczVDjBzDaFQJTmW1xL/NTfT4AC5eJy6c08gQnlwvGX3Y981IHRqzddv5GoRh2bgkdAjlETb71xgbTq8nXUOG/B3CaojvbXC3cuDL4W0spH1lij61ukz5lN3MJAvhb0t2rrtQLjQTmC2ULq0/APO10KqnX6iEhlXLGKnw1L1Cp3Dh1m5xZDqw8uPZVqVjTdLM6vTtHnhSCvOz+HY9kLT3j2leX/x6JTKiOKsXgMeEkbd90yXNcVbPTUXkwzobte5uqIFFOpTl5U+tmykYJJgQGT+WYoSqRZP9BGm3nPhON/3XeuhAUQvpBeYxs2fXu9MWRrApZN12pdSnTyTKECAP2G77eg0j26HU2uChiGMrt2d8dUpd+9P9VquMVegVQTXWDG/eQLwzi6pMJvnX3XBzt76PfmAcW2L+2gPdKWYWrQ7vDw/9VZ83IhHz1lR/BY+nzb1bTv7APH9rjIanzYg==;Yqj35CwcRVXYjN0AUdSjbA=="
 ---

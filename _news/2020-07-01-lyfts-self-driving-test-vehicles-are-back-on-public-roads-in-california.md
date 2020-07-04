@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/"
 type: article
 quality: 73
-heat: 133
+heat: 113
 published: true
 
 provider:
@@ -47,31 +47,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Baidu-backed self-driving vehicle sensors maker going public - report"
-    excerpt: "Graf Industrial is in talks to merge with Baidu-backed Velodyne Lidar in a deal that would take public the maker of sensors used in self driving vehicles, according to Bloomberg sources \"familiar with the matter\"."
-    publishedDateTime: 2020-06-29T17:00:00Z
-    webUrl: "https://www.just-auto.com/news/baidu-backed-self-driving-vehicle-sensors-maker-going-public-report_id196352.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
-    excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday"
-    publishedDateTime: 2020-06-29T15:41:00Z
-    webUrl: "https://timeslive.co.za/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 39
   - title: "Lyft’s self-driving test vehicles are back on public roads in California – ClearTipsNews"
     excerpt: "Lyft's The Autonomous Vehicles Division has resumed testing on public roads in California several months after an operational halt in the midst of the"
     publishedDateTime: 2020-07-02T06:01:00Z

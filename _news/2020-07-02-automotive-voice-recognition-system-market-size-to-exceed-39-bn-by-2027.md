@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-02T10:45:00Z
 webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-size-to-exceed-39-bn-by-2027-2020-07-02"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     height: 630
     isCached: true
     title: "Automotive Voice Recognition System Market Size to Exceed $39 Bn By 2027"
-
-related:
-  - title: "Speech and Voice Recognition Market Key Developments, Research Methodology and Top Player Forecast Overview Till 2026"
-    excerpt: "The global speech and voice recognition market is expected to rise with an impressive CAGR and generate the highest"
-    publishedDateTime: 2020-06-29T15:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-key-developments-research-methodology-and-top-player-forecast-overview-till-2026-2020-06-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "MG+urKijV4zpqheHPlJfWSukF0JNjoHWif4adLUwTHYP48Hwd9/g1+paksQytSV9g/ovWuMAnK/uYzfw6+qAbCu49zaIkSmI2xRmiy7FgfYyERAei+Jdf5eZAhDzLDAfUvIk0Cquozf7HWHsz7wCp6XmVST2tqxt+AI8UU7l04mWtiKWNRZ8qhRW1MpYKAIbAi5YUzsnPS+ylhd+OsnBSXv721er3oxcV/E/z96YY1FPrqpLMEHza2IlD3HoyMwSuTEFYLwBz8dXoXi8q135z3ctIZiXnu0x3aTg4bCI8F8LafsnbYgz8gUrluwYetzr0oCFIPGNLQbFqukdbnXbiw==;phxNbzMQHhMUDDcyCp+KpA=="
 ---

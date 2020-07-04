@@ -2,6 +2,175 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-06-18-eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace.md",
+      "title": "Eskalera creates AI-based Inclusion Index to measure a better workplace",
+      "excerpt": "Eskalera is unveiling the Inclusion Index, a new system for organizing a company that encourages and quantifies an inclusive culture.",
+      "webUrl": "https://venturebeat.com/2020/06/18/eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Esk_Product_Promotion-Ratio.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 677,
+          "title": "Eskalera creates AI-based Inclusion Index to measure a better workplace",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/18/eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace/amp/",
+      "publishedDateTime": "2020-06-18T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-serbian-parliamentary-vote-campaign-taps-greek-beaches-chinese-robots.md",
+      "title": "Serbian parliamentary vote campaign taps Greek beaches, Chinese robots",
+      "excerpt": "On Monday June 15, President Vučić visited the Center for Robotics and Artificial Intelligence in Education (CRVIO) in Belgrade, holding a public meeting with a humanoid robot made in China, called Ema. They held a conversation in Serbian. Vučić ...",
+      "webUrl": "https://globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://globalvoices.org/wp-content/uploads/2020/06/20200516-Aleksandar-Vucic-online-rally-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Serbian parliamentary vote campaign taps Greek beaches, Chinese robots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/amp/",
+      "cdnAmpWebUrl": "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/amp/",
+      "publishedDateTime": "2020-06-18T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Voices Online",
+        "domain": "globalvoices.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models.md",
+      "title": "Microsoft acquires ADRM Software to beef up Azure with industry data models",
+      "excerpt": "Microsoft announced that it acquired ADRM Software, a provider of large-scale industry data models used by companies as 'information blueprints.'",
+      "webUrl": "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/",
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft acquires ADRM Software to beef up Azure with industry data models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/",
+      "publishedDateTime": "2020-06-18T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-pg-diploma-in-data-science-and-artificial-intelligence-ai.md",
+      "title": "PG Diploma in Data Science and Artificial Intelligence (AI)",
+      "excerpt": "Data Science and Artificial Intelligence (AI), has emerged as a thriving field from Industry Utility and Employability point of view. This market is likely to swell to $20 billion by 2025. Companies a",
+      "webUrl": "https://www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_58525325.jpg",
+          "width": 900,
+          "height": 489,
+          "title": "PG Diploma in Data Science and Artificial Intelligence (AI)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
+      "publishedDateTime": "2020-06-18T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory.md",
       "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
       "excerpt": "Chip giant Intel on Thursday unveiled new 3rd Gen Intel Xeon Scalable processors and additions to its hardware and software AI portfolio.",
@@ -1099,178 +1268,6 @@
         "AI Hardware",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office.md",
-      "title": "Attention All Business Owners: With This AI Platform, You Can Now Safely Get Back To Your Office",
-      "excerpt": "A unique platform analyzes an organization's digital and physical footprints as well as existing office layouts, then generates new ones",
-      "webUrl": "https://www.forbes.com/sites/carrierubinstein/2020/06/17/attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea6b681b50250006e83d8f%2F0x0.jpg%3FcropX1%3D24%26cropX2%3D2278%26cropY1%3D241%26cropY2%3D1510",
-          "width": 1200,
-          "height": 676,
-          "title": "Attention All Business Owners: With This AI Platform, You Can Now Safely Get Back To Your Office",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carrierubinstein/2020/06/17/attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carrierubinstein/2020/06/17/attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office/amp/",
-      "publishedDateTime": "2020-06-17T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity.md",
-      "title": "Microsoft unveils Azure Machine Learning courses and scholarships on Udacity",
-      "excerpt": "A newly unveiled introductory course for machine learning on Azure will be available for free on Udacity. A set of chosen top performers will then get scholarships for a more advanced course.",
-      "webUrl": "https://www.neowin.net/news/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity",
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1592419710_microsoft_azure_and_udacity_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft unveils Azure Machine Learning courses and scholarships on Udacity",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity/",
-      "publishedDateTime": "2020-06-17T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-sosi-invests-in-apptek-to-advance-artificial-intelligence-and-machine-learning-for-its-speech-recognition-and-translation-offerings.md",
-      "title": "SOSi Invests in AppTek to Advance Artificial Intelligence and Machine Learning for Its Speech Recognition and Translation Offerings",
-      "excerpt": "SOS International LLC (SOSi) announced today that its owners acquired a non-controlling interest in Applications Technology (AppTek), LLC, a leader in",
-      "webUrl": "https://www.businesswire.com/news/home/20200617005724/en/SOSi-Invests-AppTek-Advance-Artificial-Intelligence-Machine",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-congressman-slams-amazons-use-of-facial-recognition-technology-calls-for-new-disclosures.md",
-      "title": "Congressman slams Amazon’s use of facial recognition technology, calls for new disclosures",
-      "excerpt": "Amazon may have halted the sale of its facial recognition software to police, but the move hasn’t eased pressure on the tech giant. In a letter sent to its CEO Jeff Bezos on",
-      "webUrl": "https://www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/",
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/rekognition-1.png",
-          "width": 300,
-          "height": 353,
-          "title": "Congressman slams Amazon’s use of facial recognition technology, calls for new disclosures",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/amp/",
-      "publishedDateTime": "2020-06-17T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

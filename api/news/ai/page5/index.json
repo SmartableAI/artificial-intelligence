@@ -2,6 +2,53 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-29-advancing-azure-service-quality-with-artificial-intelligence-aiops.md",
+      "title": "Advancing Azure service quality with artificial intelligence: AIOps",
+      "excerpt": "As Mark mentioned when he authored the Advancing Reliability blog series, building and operating a global cloud infrastructure at the scale of Azure is a complex task with hundreds of ever-evolving service components, spanning more than 160 datacenters and across more than 60 regions.",
+      "webUrl": "https://azure.microsoft.com/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/",
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/23aa03d8-6047-40dd-9a74-f9785e4ca016.png",
+          "width": 1024,
+          "height": 449,
+          "title": "Advancing Azure service quality with artificial intelligence: AIOps",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T02:00:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-service-robotics-market-by-supply-demand-scenario-application-by-region-pricing-analysis-opportunities-and-forecast-2026.md",
       "title": "Service Robotics Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026",
       "excerpt": "The global service robotics market is expected to rise with an impressive CAGR and generate the highest revenue by",
@@ -1321,55 +1368,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-ai-weekly-a-deep-learning-pioneers-teachable-moment-on-ai-bias.md",
-      "title": "AI Weekly: A deep learning pioneer’s teachable moment on AI bias",
-      "excerpt": "Facebook chief AI scientist Yann LeCun got into a debate with Google AI ethics colead Timnit Gebru about bias, and there are lessons to draw from the event.",
-      "webUrl": "https://venturebeat.com/2020/06/26/ai-weekly-a-deep-learning-pioneers-teachable-moment-on-ai-bias/",
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-540680990.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI Weekly: A deep learning pioneer’s teachable moment on AI bias",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/26/ai-weekly-a-deep-learning-pioneers-teachable-moment-on-ai-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/26/ai-weekly-a-deep-learning-pioneers-teachable-moment-on-ai-bias/amp/",
-      "publishedDateTime": "2020-06-26T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
       ]
     }
   ],

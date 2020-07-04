@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/tusimple-adds-logistics-operators-t
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800"
 type: article
 quality: 74
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -103,20 +103,6 @@ related:
       - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202007/tusimple-truck-P1133021-scaled.jpg?height=635&t=1593625917&width=1200"
         width: 847
         height: 635
-        isCached: true
-  - title: "Amazon Looks to Self-Driving Future"
-    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
-    publishedDateTime: 2020-06-29T15:36:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21138692/amazon-looks-to-selfdriving-future"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/iStock_1214977181.5efa0bbe636e8.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "TuSimple Launches Self-Driving Truck Network with Berkshire’s McLane, UPS"
     excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc. supply chain unit McLane that"

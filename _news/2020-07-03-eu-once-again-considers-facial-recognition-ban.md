@@ -122,22 +122,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "U.S. Senator Pushes for Government Ban on Facial Recognition"
-    excerpt: "U.S. Sen. Ed Markey introduced a facial recognition bill this week with Rep. Ayanna Pressley, another Massachusetts Democrat; Sen. Jeff Merkley, an Oregon Democrat; and Pramila Jayapal, a Washington Democrat."
-    publishedDateTime: 2020-06-29T15:34:00Z
-    webUrl: "https://www.govtech.com/policy/US-Senator-Pushes-for-Government-Ban-on-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/policy/US-Senator-Pushes-for-Government-Ban-on-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/US-Senator-Pushes-for-Government-Ban-on-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
-        width: 927
-        height: 626
-        isCached: true
   - title: "Boston mayor okays ban on facial recognition tech"
     excerpt: "Mayor Marty Walsh has approved ban on government use of facial surveillance technology, making Boston the first major East Coast city to do so."
     publishedDateTime: 2020-06-30T21:06:00Z

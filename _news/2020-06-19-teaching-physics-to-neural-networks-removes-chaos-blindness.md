@@ -1,21 +1,23 @@
 ---
 category: news
 title: "Teaching physics to neural networks removes 'chaos blindness'"
-excerpt: "Researchers from North Carolina State University have discovered that teaching physics to neural networks enables those networks to better adapt to chaos within their environment. The work has implications for improved artificial intelligence (AI) applications ranging from medical diagnostics to automated drone piloting."
-publishedDateTime: 2020-06-19T19:33:00Z
-webUrl: "https://phys.org/news/2020-06-physics-neural-networks-chaos.html"
-ampWebUrl: "https://phys.org/news/2020-06-physics-neural-networks-chaos.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-06-physics-neural-networks-chaos.amp"
+excerpt: "Artificial neural networks mimic this behavior by adjusting numerical weights and biases during training sessions to minimize the difference between their actual and desired outputs."
+publishedDateTime: 2020-06-19T21:08:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/06/200619143437.htm"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "ywqapasBxZUvv+br1WDeUkh0ejBhBalxfJPYskJ3dAmupf9WQJOZ8U87XEyYxvwrzc/DrgU1Z3QivVjWFYYEYjMGHzkZXQuhw7GHskSNM8rjBc81mXnjVHse7bUd54Okox/m+VH68QGXXbQezzFrVgKPPm1Toso1F6n69TTpDHi6O2jLUaU38ISlrOq3nJoluH1bB3DD1j5ajg6iC3E9MlKpYfPIxozMp+70/DaG5rAoxsl2I5s3IouDgyvrUV2T57ljMKcslI7vfpcoQFe7tRuRUIe9P21wCw54iZVCydB5hYznBA03HN5W9YcbkuNb/7QyeLo1CA7YxG83WxrhR+LZDgVk+W6ykkAIM8nmDb+uhy35BZeEeTF3MfxsxCND1l7OWFNKTXOqfkp5Dw2ZwbfTdkbRsdT4o3ngDoqfAf8q6H3HKHplJp0EY8FmN7CoVVXO97WH/u9wefs3h+v7iJbpKsFaKO+Y2LJ4tmAGkSc4XQl4tUeCckUReDWpCoqZ+qQ98Af0V7qX09xhd4We6Q==;N4+w4FrwkUPLBG9tXOb7NQ=="
+secured: "GXghmNjppb9UaYTs0tAAX4snWS9d4kZmgpUzRvAsPTjxAvkhEVjIzh/Hd6VwYw9WyrEwE9M/00AWsWjNudix+9jTEJNJiCAKWuDqDA4zAFYKdtI3DRbM68s4Etmsx84kNE91FvKPHpiE2Qc4ImqcpMCHwqd7H7ql+M7duUdSW06a2//QZ9cFisBps7X3klc0VO2Q7bFFuWAj8moVZbcBrzNfoD1O6wbzC3+0evhmxMVkUoHnokOKT/zRREjVhm97nzPuEA0nshDTkfYz5K9OIOvpDfLGcum3hZgrUAL8cpx+J4LzZCSohGao0SgmB6Duf3p/pU5tB2W5CCo/unRXhg==;7qxje/reLUIMW/pWpcywkQ=="
 ---
 

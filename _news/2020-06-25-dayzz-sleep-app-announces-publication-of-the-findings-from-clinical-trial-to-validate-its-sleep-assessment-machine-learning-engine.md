@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Dayzz Sleep App Announces Publication of the Findings From Clinical Trial to Validate Its Sleep Assessment Machine Learning Engine"
-excerpt: "Innovative sleep solution provider dayzz announced this week the results of its first clinical trial. dayzz' machine learning engine"
-publishedDateTime: 2020-06-25T13:06:00Z
-webUrl: "https://www.prnewswire.com/il/news-releases/dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine-301083677.html"
+excerpt: "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... of its first clinical trial. dayzz' machine learning engine enables assessment of common ..."
+publishedDateTime: 2020-06-25T13:38:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine-1029342265"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine-1029342265"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine-1029342265"
 type: article
-quality: 9
-heat: 9
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-    title: "Dayzz Sleep App Announces Publication of the Findings From Clinical Trial to Validate Its Sleep Assessment Machine Learning Engine"
-
-secured: "LOUwt4g9AmwL1yCurct+auk01iiHirh04wHgF+txiKhaqlgr0oyNDWpaTqaSQQpThCLVlbL3TL3XvQHZnHmux+/4mvI/OyvLM2hQrwA56qiPv472hdbPdxKdhuEwTNA7qIXEU3nw8wxL4FO3oOBTry91uj5VqWAl+DsC95H4zuwi+fmnT5XpGBf/Ipe8rpjZlalH4dZnlx5y71YwJGwQHGAfjOyjsV1S7Ggyxw267s9flL335fXUvSDsyYJTCHdEpNb/rbo54j6WPDrUCGLsHoVJatZvqim6jLwtTWr0lW4N79xjBLZAODnSKEWeG1ZkHrW3Koa86FyuFRbxb8FmYw==;EUKm8yaUuOuHniR/fUrabg=="
+secured: "wFP2lt7qcbeYA2lwaN+m4JnDQpPwpuTf63tnECB3GHzPyqkJy5Qp01uXgmdRWdxFUonU2SCvxzdUTAARuAhaSsqFNaMzxnDl2GkgLl1FJTUVnrJrM3Vg8VVgYJtMiRD82c5Q9NJDAbRBPPr8k87nLHE/9868+/KlnMw8IzgJAu8eYeEChfBN7YBK3jIFGNSOG4bgqnxPAjhVYt9Li6ccdTN1XkDVc1L9Zq2yudw/4l84seXDkcUWcDf+H9cC40yyNRF0zr+acHDjok0H7IAYBownSw39vwtNseiVUr9RG39DxLkPKWga2zGWdbquSIv1CXPt/MdcLH97CvCX1t9WGg==;fcBRkV053ahG/9dV9974Sw=="
 ---
 

@@ -57,15 +57,20 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Amazon Peps Up Self-Driving Battle With Zoox Buyout Agreement"
-    excerpt: "Amazon’s latest move and aggressive strategies is likely to pose a challenge to Alphabet’s moat in the self-driving technology. We note that Google has been a frontrunner when it comes to autonomous driving courtesy of its well-performing Waymo unit."
-    publishedDateTime: 2020-06-29T16:17:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-peps-up-self-driving-battle-with-zoox-buyout-agreement-2020-06-29"
+  - title: "Amazon Acquires Self-Driving Tech Firm"
+    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
+    publishedDateTime: 2020-06-30T02:38:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/21138692/amazon-looks-to-selfdriving-future"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/iStock_1214977181.5efa0bbe636e8.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon acquires self-driving car startup as demand stays hot for autonomous delivery"
     excerpt: "Zoox technology supports autonomous ride-hailing service for passengers, although sector faces infrastructure and regulation challenges, AMR says."
     publishedDateTime: 2020-06-29T17:19:00Z

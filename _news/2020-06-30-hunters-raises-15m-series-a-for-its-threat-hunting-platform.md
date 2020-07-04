@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-it
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-its-threat-hunting-platform/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     title: "Hunters raises $15M Series A for its threat-hunting platform"
 
 related:
-  - title: "Cynet raises $18 million for AI safeguards against cyberthreats"
-    excerpt: "Cynet, a cybersecurity startup that leverages AI and machine learning to detect threats, has raised $18 million in venture capital."
-    publishedDateTime: 2020-06-29T15:03:00Z
-    webUrl: "https://venturebeat.com/2020/06/29/cynet-raises-18-million-for-ai-safeguards-against-cyberthreats/"
-    ampWebUrl: "https://venturebeat.com/2020/06/29/cynet-raises-18-million-for-ai-safeguards-against-cyberthreats/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/cynet-raises-18-million-for-ai-safeguards-against-cyberthreats/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/Cynet-Team.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 542
-        isCached: true
   - title: "Capital raises $9M for its AI-based ‘capital as a service’ funding platform for startups"
     excerpt: "In 2019, in the US alone, more than 10,000 startups raised more than $133 billion in venture funding, with a large proportion of that equity investments. Today, a company building a platform to help startups consider alternative routes to financing — specifically less dilutive options that"
     publishedDateTime: 2020-06-30T11:39:00Z

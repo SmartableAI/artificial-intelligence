@@ -2,6 +2,175 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-06-02-avoiding-the-missing-middle-with-ai.md",
+      "title": "Avoiding The Missing Middle With AI",
+      "excerpt": "It is common knowledge in the manufacturing sector of the economy that many of the companies that should have deployed HPC simulation and modeling",
+      "webUrl": "https://www.nextplatform.com/2020/06/02/avoiding-the-missing-middle-with-ai/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/TNP_default.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": "Avoiding The Missing Middle With AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2020/06/02/avoiding-the-missing-middle-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/06/02/avoiding-the-missing-middle-with-ai/amp/",
+      "publishedDateTime": "2020-06-02T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever.md",
+      "title": "Pandemic is showing us we need safe and ethical AI more than ever",
+      "excerpt": "It’s the perfect time to invest in new practices for accountability and oversight.",
+      "webUrl": "https://thehill.com/opinion/technology/500637-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/cellphone_022414thinkstock.jpg",
+          "width": 640,
+          "height": 360,
+          "title": "Pandemic is showing us we need safe and ethical AI more than ever",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/technology/500637-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/500637-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever?amp",
+      "publishedDateTime": "2020-06-02T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-vw-and-argo-ai-complete-26bn-deal-ford-gets-new-self-driving-frenemy.md",
+      "title": "VW and Argo AI complete $2.6bn deal: Ford gets new self-driving frenemy",
+      "excerpt": "Dubbed a “street-by-street, block-by-block” mindset, it paves the way to a Level 4 self-driving system. That is, one which can be self-operated under specific conditions, within its operating design domain. That means no Argo AI cars autonomously roving everywhere: instead, the technology is designed to work safely and successfully in ...",
+      "webUrl": "https://www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-gets-new-self-driving-frenemy-02623386/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/argo-ai-test-car-1.jpg",
+          "width": 1024,
+          "height": 640,
+          "title": "VW and Argo AI complete $2.6bn deal: Ford gets new self-driving frenemy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-gets-new-self-driving-frenemy-02623386/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-gets-new-self-driving-frenemy-02623386/amp/",
+      "publishedDateTime": "2020-06-02T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-overjet-raises-785m-for-its-dental-focused-ai-tech.md",
+      "title": "Overjet raises $7.85M for its dental-focused AI tech",
+      "excerpt": "Overjet, a startup focused on using AI to help dentists and insurance companies understand dental scans, today announced that it has raised $7.85 million in what it describes as a seed round. According to Overjet’s CEO Wardah Inam (an MIT PhD in electrical engineering and computer science),",
+      "webUrl": "https://techcrunch.com/2020/06/02/overjet-raises-7-85m-for-its-dental-focused-ai-tech/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-02-at-10.43.56-AM.png?w=1014",
+          "width": 1014,
+          "height": 626,
+          "title": "Overjet raises $7.85M for its dental-focused AI tech",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/02/overjet-raises-7-85m-for-its-dental-focused-ai-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/02/overjet-raises-7-85m-for-its-dental-focused-ai-tech/amp/",
+      "publishedDateTime": "2020-06-02T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-ai-breathes-new-life-into-a-classic-80s-synth.md",
       "title": "AI breathes new life into a classic ‘80s synth",
       "excerpt": "(Modern FM synths are substantially more manageable.) This led most users to simply stick with the presets. A new AI tool could help DX7 fans move beyond those basic sounds, though. This DX7 Cartridge Does Not Exist uses machine learning to generate new patches based on a sample pool of hand-crafted ones, and creates a file that can be loaded ...",
@@ -926,195 +1095,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-all-you-need-to-know-about-symbolic-artificial-intelligence.md",
-      "title": "All you need to know about symbolic artificial intelligence",
-      "excerpt": "Today, artificial intelligence is mostly about artificial neural networks and deep learning. But this is not how it always was. In fact, for most of its six-decade history, the field was dominated by symbolic artificial intelligence,",
-      "webUrl": "https://thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-3-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "All you need to know about symbolic artificial intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-06-02T01:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-self-driving-vehicle-startup-argo-ai-completes-26b-deal-with-volkswagen-expands-to-europe.md",
-      "title": "Self-driving vehicle startup Argo AI completes $2.6B deal with Volkswagen, expands to Europe",
-      "excerpt": "Volkswagen Group finalized Tuesday its $2.6 billion investment into Argo AI, the Pittsburgh-based self-driving car startup that came out of stealth in 2017 with $1 billion in backing from Ford. The deal turns Argo into a global company with two customers — VW and Ford — as well as operations in",
-      "webUrl": "https://techcrunch.com/2020/06/01/self-driving-vehicle-startup-argo-ai-completes-2-6b-deal-with-volkswagen-expands-to-europe/",
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/argo-ai-detroit.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Self-driving vehicle startup Argo AI completes $2.6B deal with Volkswagen, expands to Europe",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/01/self-driving-vehicle-startup-argo-ai-completes-2-6b-deal-with-volkswagen-expands-to-europe/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/01/self-driving-vehicle-startup-argo-ai-completes-2-6b-deal-with-volkswagen-expands-to-europe/amp/",
-      "publishedDateTime": "2020-06-01T23:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-artificial-intelligence-chipset-market-analysis-as-per-the-latest-covid-19-impact.md",
-      "title": "Artificial Intelligence Chipset Market Analysis as per the Latest COVID-19 Impact",
-      "excerpt": "The global Artificial Intelligence Chipset Market is segregated on the basis of Component as Hardware and Software. Based on Technology the global Artificial Intelligence Chipset market is segmented in Machine Learning,",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-analysis-as-per-the-latest-covid-19-impact-2020-06-02",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Chipset Market Analysis as per the Latest COVID-19 Impact",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-01T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-covid-19-impact-on-artificial-intelligence-platform-market.md",
-      "title": "COVID-19 Impact on Artificial Intelligence Platform Market",
-      "excerpt": "The global Artificial Intelligence Platform market is segregated on the basis of Component as Tools and Services. Based on Deployment the global Artificial Intelligence Platform market is segmented in Cloud and On-Premises.",
-      "webUrl": "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-platform-market-2020-06-02",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "COVID-19 Impact on Artificial Intelligence Platform Market",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-01T23:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

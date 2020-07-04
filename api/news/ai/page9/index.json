@@ -2,6 +2,99 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-06-24-sqream-technologies-raises-394-million-for-gpu-accelerated-databases.md",
+      "title": "SQream Technologies raises $39.4 million for GPU-accelerated databases",
+      "excerpt": "Tel Aviv-based startup SQream Technologies raised $39.4 million in venture capital to further develop its GPU-accelerated database product offerings.",
+      "webUrl": "https://venturebeat.com/2020/06/24/sqream-technologies-raises-39-4-million-for-gpu-accelerated-databases/",
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/sqreamtechnologies-e1592865628671.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "SQream Technologies raises $39.4 million for GPU-accelerated databases",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/24/sqream-technologies-raises-39-4-million-for-gpu-accelerated-databases/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/sqream-technologies-raises-39-4-million-for-gpu-accelerated-databases/amp/",
+      "publishedDateTime": "2020-06-24T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-researchers-use-ai-and-simulation-to-optimize-ride-sharing-earnings.md",
+      "title": "Researchers use AI and simulation to optimize ride-sharing earnings",
+      "excerpt": "Researchers at Boston University propose a framework that optimizes ride-hailing earnings for drivers without negatively impacting the rider experience.",
+      "webUrl": "https://venturebeat.com/2020/06/24/researchers-use-ai-and-simulation-to-optimize-ride-sharing-earnings/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-509147578-e1584462768628.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers use AI and simulation to optimize ride-sharing earnings",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/24/researchers-use-ai-and-simulation-to-optimize-ride-sharing-earnings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/researchers-use-ai-and-simulation-to-optimize-ride-sharing-earnings/amp/",
+      "publishedDateTime": "2020-06-24T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-artificial-intelligence-real-estate-firm-ojo-labs-raises-625-million-buys-home-listing-site.md",
       "title": "Artificial Intelligence Real Estate Firm OJO Labs Raises $62.5 Million, Buys Home Listing Site",
       "excerpt": "Having closed a fourth round of funding, OJO Labs, a real estate company that deploys artificial intelligence to the home buying experience, announced today the acquisition of home listing website Movoto.",
@@ -44,6 +137,44 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-incontextai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare.md",
+      "title": "inContext.ai Awarded $225K by the National Science Foundation to Develop Artificial Intelligence Tools for Healthcare",
+      "excerpt": "Context.ai, a developer of healthcare-centric information extraction software and AI-powered clinical applications, announced an award of $225K in N",
+      "webUrl": "https://www.businesswire.com/news/home/20200624005224/en/inContext.ai-Awarded-225K-National-Science-Foundation-Develop",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200624005224/en/800732/23/inContextai_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "inContext.ai Awarded $225K by the National Science Foundation to Develop Artificial Intelligence Tools for Healthcare",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1215,138 +1346,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-letter-decrying-predictive-criminality-ai-research-paper-passes-1000-signatures.md",
-      "title": "Letter decrying predictive criminality AI research paper passes 1,000 signatures",
-      "excerpt": "In response to a research paper that claims to predict criminality from people's faces, hundreds demand its withdrawal from publication.",
-      "webUrl": "https://venturebeat.com/2020/06/23/letter-decrying-predictive-criminality-ai-research-paper-passes-1000-signatures/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/IMG_20190530_135205.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 688,
-          "title": "Letter decrying predictive criminality AI research paper passes 1,000 signatures",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/23/letter-decrying-predictive-criminality-ai-research-paper-passes-1000-signatures/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/letter-decrying-predictive-criminality-ai-research-paper-passes-1000-signatures/amp/",
-      "publishedDateTime": "2020-06-23T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services.md",
-      "title": "HPE moves closer to everything-as-a-service with Ezmeral and expanded GreenLake cloud services",
-      "excerpt": "HPE's new products take into account the current tight financial times with an emphasis on using existing infrastructure and limiting additional costs.",
-      "webUrl": "https://www.techrepublic.com/article/hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services/",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/06/23/41556b91-92f7-4142-8488-1d39ecd6cc09/resize/1200x/0567b58d92c7016516f9b60f8ff693bf/hpe-exmeral.jpg",
-          "width": 1200,
-          "height": 603,
-          "title": "HPE moves closer to everything-as-a-service with Ezmeral and expanded GreenLake cloud services",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services/",
-      "publishedDateTime": "2020-06-23T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-qualcomm-puts-ai-and-5g-in-the-hands-of-robotics-designers.md",
-      "title": "Qualcomm Puts AI and 5G in the Hands of Robotics Designers",
-      "excerpt": "According to Qualcomm’s press release, the platform features artificial intelligence (AI) and machine learning (ML) capabilities while still minimizing power consumption. This platform has been designed specifically for applications in robotics ...",
-      "webUrl": "https://www.allaboutcircuits.com/news/qualcomm-puts-ai-5g-in-hands-robotics-designers/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/RB5_Platform.jpg",
-          "width": 700,
-          "height": 301,
-          "title": "Qualcomm Puts AI and 5G in the Hands of Robotics Designers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "All About Circuits",
-        "domain": "allaboutcircuits.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

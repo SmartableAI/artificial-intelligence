@@ -114,20 +114,6 @@ related:
         width: 847
         height: 635
         isCached: true
-  - title: "Amazon Looks to Self-Driving Future"
-    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
-    publishedDateTime: 2020-06-29T15:36:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21138692/amazon-looks-to-selfdriving-future"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/iStock_1214977181.5efa0bbe636e8.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "TuSimple's New Autonomous Freight Network Lays Groundwork for Self-Driving Trucks"
     excerpt: "Autonomous trucking technology company TuSimple has teamed up with UPS, Penske Truck Leasing, U.S. Xpress, and McLane to launch the Autonomous Freight Network, which it says will lay the groundwork for self-driving autonomous trucks to become commercially ..."
     publishedDateTime: 2020-07-01T16:11:00Z

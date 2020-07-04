@@ -2,6 +2,73 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-06-24-sas-and-microsoft-partner-on-future-of-analytics-and-ai.md",
+      "title": "SAS and Microsoft Partner on Future of Analytics And AI",
+      "excerpt": "“Through this partnership, Microsoft and SAS will help our customers accelerate growth and find new ways to drive innovation with a broad set of SAS Analytics offerings on Microsoft Azure,” said Scott Guthrie, EVP, Cloud and AI, Microsoft ...",
+      "webUrl": "https://www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm",
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "http://www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm/amp",
+      "cdnAmpWebUrl": "https://www-iotevolutionworld-com.cdn.ampproject.org/c/www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm/amp",
+      "publishedDateTime": "2020-06-24T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iotevolutionworld.com",
+        "domain": "iotevolutionworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-video-using-deep-learning-to-combat-cheating-in-counter-strike.md",
+      "title": "Video: Using deep learning to combat cheating in Counter-Strike",
+      "excerpt": "In this GDC 2018 talk Valve's John McDonald discusses how the company has utilized deep learning machine learning techniques to combat cheating in Counter-Strike: Global Offensive .",
+      "webUrl": "https://gamasutra.com/view/news/365410/Video_Using_deep_learning_to_combat_cheating_in_CounterStrike.php",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/remedy.gif",
+          "width": 341,
+          "height": 214,
+          "title": "Video: Using deep learning to combat cheating in Counter-Strike",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gamasutra",
+        "domain": "gamasutra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-boston-bans-police-forces-from-using-facial-recognition.md",
       "title": "Boston Bans Police Forces From Using Facial Recognition",
       "excerpt": "It’s official, as of today, Boston’s become the second-largest US community to ban police use of facial recognition technology, thanks to a unanimous vote by more than a dozen city council people. The move follows similar bans by the neighboring cities Brookline,",
@@ -491,44 +558,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-24-incontextai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare.md",
-      "title": "inContext.ai Awarded $225K by the National Science Foundation to Develop Artificial Intelligence Tools for Healthcare",
-      "excerpt": "Press Release inContext.ai, a developer of healthcare-centric information extraction software and AI-powered clinical applications, announced an award of $225K in National Science Foundation (NSF) funding.",
-      "webUrl": "https://venturebeat.com/2020/06/24/incontext-ai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/24/incontext-ai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/incontext-ai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare/amp/",
-      "publishedDateTime": "2020-06-24T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-24-facial-recognition-to-predict-criminals-sparks-row-over-ai-bias.md",
       "title": "Facial recognition to 'predict criminals' sparks row over AI bias",
       "excerpt": "A US university's claim it can use facial recognition to \"predict criminality\" has renewed debate over racial bias in technology. Harrisburg University researchers said their software \"can predict if someone is a criminal,",
@@ -609,6 +638,44 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-blue-ridge-enhances-machine-learning-capabilities-for-price-optimization.md",
+      "title": "Blue Ridge Enhances Machine Learning Capabilities for Price Optimization",
+      "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... which leverage machine learning to quickly identify opportunities and simulate pricing ...",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/blue-ridge-enhances-machine-learning-capabilities-for-price-optimization-1029338347",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -794,6 +861,44 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-incontextai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare.md",
+      "title": "inContext.ai Awarded $225K by the National Science Foundation to Develop Artificial Intelligence Tools for Healthcare",
+      "excerpt": "Context.ai, a developer of healthcare-centric information extraction software and AI-powered clinical applications, announced an award of $225K in N",
+      "webUrl": "https://www.businesswire.com/news/home/20200624005224/en/inContext.ai-Awarded-225K-National-Science-Foundation-Develop",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200624005224/en/800732/23/inContextai_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "inContext.ai Awarded $225K by the National Science Foundation to Develop Artificial Intelligence Tools for Healthcare",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -984,148 +1089,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-machine-learning-as-a-service-mlaas-market-2020-by-regions-manufactures-type-application-sales-revenue-and-forecast-to-2026.md",
-      "title": "Machine Learning as a Service (MLaaS) Market 2020 by Regions, Manufactures, Type, Application, Sales, Revenue and Forecast to 2026",
-      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Machine Learning as a Service (MLaaS) Market” report provides valuable information regarding new products in the market,",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2020-by-regions-manufactures-type-application-sales-revenue-and-forecast-to-2026-2020-06-24",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning as a Service (MLaaS) Market 2020 by Regions, Manufactures, Type, Application, Sales, Revenue and Forecast to 2026",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-teaching-ai-to-fourth-graders-is-a-thing-now.md",
-      "title": "Teaching AI to fourth-graders is a thing now",
-      "excerpt": "Real-world projects taught by industry leaders help fourth-graders understand AI in an innovative way, an alternative to cranking out a learn-to-code factory.",
-      "webUrl": "https://www.techrepublic.com/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/23/ae3777d3-b430-4d47-867d-c4acd0aa296f/resize/1200x/a43663c878d6831ebf3e25149e0be50c/create-learn-kid.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": "Teaching AI to fourth-graders is a thing now",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
-      "publishedDateTime": "2020-06-24T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-modular-robotics-market-to-cross-151497-million-value-by-2030-ps-intelligence.md",
-      "title": "Modular Robotics Market to Cross $15,149.7 Million Value by 2030: P&S Intelligence",
-      "excerpt": "NEW YORK, June 24, 2020 (GLOBE NEWSWIRE) -- With the Industry 4.0 revolution gaining ground, the global modular robotics market revenue is projected to reach $15,149.7 million by 2030, from $5,619.1 million in 2019,",
-      "webUrl": "https://www.marketwatch.com/press-release/modular-robotics-market-to-cross-151497-million-value-by-2030-ps-intelligence-2020-06-24",
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Modular Robotics Market to Cross $15,149.7 Million Value by 2030: P&S Intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
