@@ -2,25 +2,25 @@
 category: news
 title: "Thousands of sex robots that can learn and talk to go on sale for $15,000"
 excerpt: "A ROBOT doll which can hold conversations, learn and has a “personality” is set to revolutionise the billion dollar sex tech market. The $15,000 silicone doll, which looks like a"
-publishedDateTime: 2020-07-04T09:38:00Z
-webUrl: "https://www.thesun.co.uk/news/12030128/sex-robots-speak-learn-ai-memory/"
-ampWebUrl: "https://www.thesun.co.uk/news/12030128/sex-robots-speak-learn-ai-memory/amp/"
-cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/12030128/sex-robots-speak-learn-ai-memory/amp/"
+publishedDateTime: 2020-07-04T10:51:00Z
+webUrl: "https://www.thesun.ie/news/5617392/sex-robots-speak-learn-ai-memory/"
+ampWebUrl: "https://www.thesun.ie/news/5617392/sex-robots-speak-learn-ai-memory/amp/"
+cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/5617392/sex-robots-speak-learn-ai-memory/amp/"
 type: article
 quality: 58
 heat: 68
 published: false
 
 provider:
-  name: The Sun
-  domain: thesun.co.uk
+  name: Irish Sun
+  domain: thesun.ie
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.thesun.co.uk/wp-content/uploads/2020/07/MB-COMP-DOLL-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+  - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2020/07/MB-COMP-DOLL.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
     width: 1200
     height: 800
     isCached: true
@@ -44,6 +44,6 @@ related:
         height: 382
         isCached: true
 
-secured: "Mc5Ov7uO78h/U2BV6AZEKk3I/Ci2QurVfc5MGQGZU0slO/bzjBBWiTGLXbLylltw/KmDnh/CfityaQSJ/qpkCICCRzrKt35L2rh1Z54BRMBJto4vVucL479I53AA/TREcUYxO3kAXYFAkipzrI0bvDOLcHyg/yvlgXBR1IKexAFxUVCW78iAz2nJGzPTWcwHfkcHTJFShW9R0ddHD1q1nYVbya5K6leLdJw5+MQ04g//s9kLYIroq9LbqlhARLble0Kes04Q4TD07CedcvICMIkTlTkY0uD5C0sfiA3ZmZGZ1Dg7Z/k5Tg5R7YoNeWdyT5LRUvMsD3JG+QDd4Dnqmg==;8/m7UAqjIz/raxD9ks2ZOA=="
+secured: "RPlXD6swo7CyQhHzWnrJQdgbUdIa2ZNriuJVTz2KiSo+wzvUqKehAn+W9tgbk/uVakcVKVAJyZtRGqAAGo/ZqKLxKuQ2zX4DUVhjlWPSNek/HxK4E+wsLC8XFOFDsZXoH8rw08hPzLiHhFNtX4cIyZkxEjDg+qfa5DAbEBjOKUqEG5Q3Co5RgtbvnZBqqPmpXrJ0XKqulnOlSqg1H54b5gAQ1XPBrZizPRLlYMW9Ap8elal/HCSUuzGdwdVV8rmp++p83bxUepVYAVgrHd0tAYjaPv+jd3Qzb2CY/iQ8TZpOSr/xN4XO5QOBesZwy0YHKIYt27xO/yDbecFYZdvTxg==;Sy9hsVWtaog1GRxZg8JNqA=="
 ---
 

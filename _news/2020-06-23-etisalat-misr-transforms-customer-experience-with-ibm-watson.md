@@ -2,20 +2,20 @@
 category: news
 title: "Etisalat Misr transforms customer experience with IBM Watson"
 excerpt: "New AI virtual assistant to provide personalised services in English and Arabic to Etisalat subscribers across Egypt"
-publishedDateTime: 2020-06-23T07:45:00Z
-webUrl: "https://www.itp.net/news/93032-etisalat-misr-transforms-customer-experience-with-ibm-watson"
-ampWebUrl: "https://www.itp.net/news/93032-etisalat-misr-transforms-customer-experience-with-ibm-watson?amp"
-cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/news/93032-etisalat-misr-transforms-customer-experience-with-ibm-watson?amp"
+publishedDateTime: 2020-06-23T08:07:00Z
+webUrl: "https://www.commsmea.com/business/trends/22088-etisalat-misr-transforms-customer-experience-with-ibm-watson"
+ampWebUrl: "https://www.commsmea.com/business/trends/22088-etisalat-misr-transforms-customer-experience-with-ibm-watson?amp"
+cdnAmpWebUrl: "https://www-commsmea-com.cdn.ampproject.org/c/s/www.commsmea.com/business/trends/22088-etisalat-misr-transforms-customer-experience-with-ibm-watson?amp"
 type: article
 
 provider:
-  name: GDPR fines
-  domain: itp.net
+  name: CommsMEA
+  domain: commsmea.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "71pwr+32/TdTpGfLdAvvGvMJrozeSFY5mMeM707goUEexVhheygt2YZrH9ofVh3mwR8MruM3g+q8MYuMRphvn8XvwBPycfCu7jMjL0v5+Q8i6bI1jRo9Xxt60krET/I2KuhWlhgDv2KbHRij+rzZ8od5appqFa34Z9PSBqixFxzSXY0Uqx/VPbKycvMzzFw/tu817QsOiYZ9N7jE4ULsZ6nmE0wBNVic6rjrw7mZb01VIuqm/mA5GNNLlXmM4RHoaoYS1F48e+aLJXVTvZCW31dZNJCCMvOEVR3cHf8K6t6NC6IwfX+SmMPUxO/cA/KjPgG2aCDeW1tOGQ1kmF25oAKZPNSCuchEPfUyZGJ+cOA1hHdTvFytY1OUTWc6wmHv/ZaNkcQyU5uJ1d38kqJzlPh1qoy9WHHhaf1wfnDLijussjUBPuzGdIJKBlhy206DFE48oJyAQFNQM5hV3sq2ht2NMnVtw8O2k0dQmwty8n9XBh/oQWU7V4ZwzhJWWrkR4Lz2ggPOAv5JwPnQ4EUKig==;pPwnNqWq4xOdTc+NTIjOaw=="
+secured: "s6hzMnHvaLSLqZlHdj3/E7uIQo/TedtLXHC6TEzVlz4Eg5mQny5haaUsphjfOLwtykkNPJUA6m5hQkdZvvkkqalj0G/pi7hKyvQE4FiMRkozFRx4ZV42yO1+UvGWuE1KTwqfBDtttgCdW5wdx3bh5C6REC/1TLYn9dtqVNAKu0cY/QxqKLFI7CEf4n+ghnd8nxPG2UWCxrMpxuA9erHFsnLh1v6Vu3WFJ+rf6m+E+nt/ekEdnKP/Shwk8qMtZE15EqMMLz9jlvCqrLlfZsQ7CnYzSkVBCoEEv9wVFlPoSIpaXnjC8ko+ywVtXK8zH7GdQTGFdbtg8qo3KOvzwdTTfrb3URYJyXMf/YhbVMUs7A8LKkxvJf3Z8/COUb6oFMIKxjqPWShcirBs9sp5RBCM02J1yocs+3fN4z8UUBwES1r7F2OhHgAe/f8KKYae8cJcr/5NeKU0BGtRIRvKNEyY2wNqEORMeHA5RauPjMyz0q86hPLbbUAqumNDJDDidcAdgPr6JbcESO9I8IPOswz99A==;foaKR/YtgKSlVNNeeAvzXA=="
 ---
 

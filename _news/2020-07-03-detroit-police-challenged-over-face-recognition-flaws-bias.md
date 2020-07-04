@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pressofatlanticcity.com/news/national/detroit-police-cha
 cdnAmpWebUrl: "https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/news/national/detroit-police-challenged-over-face-recognition-flaws-bias/article_f461240c-bc52-535d-988e-6d4a49abe01d.amp.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     height: 738
     isCached: true
     title: "Detroit police challenged over face recognition flaws, bias"
-
-related:
-  - title: "Police and Crime Commissioner says public consent needed for any use of live facial recognition technology in Kent"
-    excerpt: "Police say mooted trials have not taken place and the commissioner insists support of the public is vital before any system is rolled out."
-    publishedDateTime: 2020-06-29T17:23:00Z
-    webUrl: "https://www.kentonline.co.uk/maidstone/news/facial-recognition-tech-needs-public-consent-229508/"
-    ampWebUrl: "https://www.kentonline.co.uk/maidstone/news/amp/facial-recognition-tech-needs-public-consent-229508/"
-    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/maidstone/news/amp/facial-recognition-tech-needs-public-consent-229508/"
-    type: article
-    provider:
-      name: Kent Online
-      domain: kentonline.co.uk
-    quality: 37
-    images:
-      - url: "https://www.kentonline.co.uk/_media/img/F5AAKEO0ZBINYPPKQSG8.jpg"
-        width: 618
-        height: 425
-        isCached: true
 
 secured: "HLO1PC1nK+W1HmI2+l0SO5rX0i6qF+xBjA+PqlK2sFd00mfo6xnk7J8i9iM6Jk+0BfVnPhcHo+nncacdWsKabCiFpYR+3SXDjpNCARqhJDYI8X+l21bIUnfVPToF5iriYzds2WuJE8u4kM1nBEnHcVobOpnRhjkBNYgjeToFl3CpzHtp0+aFZD2TDgjS3askDpE7Tii1kQJromkrFCrj7VIn7N7EuqkoP/JZFU2BAz5h4zMWoa/UZ0TidJ40maDcrDY/ywxudLkcQZ/W9S7oIz7L79nHtOztEph/0r6jCHMYpw71a/b+gjstSpBEI7aN+zKgR/zrvXTS/grwZIo0KQ==;gXoiQoM3P6NQhgpP6kSkhQ=="
 ---

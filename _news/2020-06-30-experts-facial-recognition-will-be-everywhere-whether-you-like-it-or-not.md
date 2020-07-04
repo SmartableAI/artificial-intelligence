@@ -3,7 +3,7 @@ category: news
 title: "Experts: Facial recognition will be everywhere, whether you like it or not"
 excerpt: "Facial recognition could soon become as commonplace as public Wi-Fi and security cameras. But with the advance of technology comes major ethical questions."
 publishedDateTime: 2020-06-30T15:15:00Z
-webUrl: "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?itm_source=28&itm_content=1x7&itm_term=2376504"
+webUrl: "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?itm_source=29&itm_content=1x7&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp"
 type: article
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Experts: Facial recognition will be everywhere, whether you like it or not"
 
-secured: "qWG4/Z3oZMSFTMCUbmWiEcDUHCW820cbTcU45zUS+EC0a3Fr3bnm7sFGtT/9trbTLN2J5sltsbainlDVaBGFjYqZZc1C86SeKBazrHf8lbN4ycCtMi6FX2s8uadrSR0oQTdnd12G6PNUxdO2er/LQTYinJzX6rOcG4TqlFT77OpCcXbd6PO04SYpM9zP4LUl5el2MOhjvxAoX6LcXgHEVbC2fWxVByN3awwLvaHBCKF6F1MUU91t6ABpGn0V7xEncg9vGnXJJw1vmQwcQ7W319MxcRow30Iemm4qPG3DOPrHLELMmODOs5rfPewpGk6ZDQqU7Rn2vA0kw8PakQuulQ==;MsLyASBtqZwbNXikPC3L/g=="
+secured: "SbAK/xPXSiX3rElGxUDeYmKxnHWjURMfig2YuJlI/MrpmNmGvSWdYt2GEqesZeCLRaWB0xJLed4c89ToCQOdfwfSGgI+RyMAENt/OP8PBpBar4RnqtAQ7d+8sxtmQBjIkA0CJaneqUPq6O0ZZsK7deXzWvAT3rQfpDTzrURBPuXLwbbUVfrxxuSXAF9fib5FI7sLYTjSFo6nBVYJCD11IQaSoZhsVyFd87YQ02vnGET/aFqaQMVs7vYJ541Y6OqRd4wE9Wl+x9WO67DMQBznpq69FPTSKJHaqZnrmL7dLj99h4SXrVaFkhRq4AAt1ZEZhvdVjfTOy4i5RWHw5exGWQ==;8rAZ+BOFal0fILeGG7Oekw=="
 ---
 

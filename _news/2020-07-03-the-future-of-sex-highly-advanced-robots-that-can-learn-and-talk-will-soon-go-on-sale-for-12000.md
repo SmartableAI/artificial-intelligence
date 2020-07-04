@@ -29,17 +29,17 @@ images:
 related:
   - title: "Thousands of sex robots that can learn and talk to go on sale for $15,000"
     excerpt: "A ROBOT doll which can hold conversations, learn and has a “personality” is set to revolutionise the billion dollar sex tech market. The $15,000 silicone doll, which looks like a"
-    publishedDateTime: 2020-07-04T09:38:00Z
-    webUrl: "https://www.thesun.co.uk/news/12030128/sex-robots-speak-learn-ai-memory/"
-    ampWebUrl: "https://www.thesun.co.uk/news/12030128/sex-robots-speak-learn-ai-memory/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/12030128/sex-robots-speak-learn-ai-memory/amp/"
+    publishedDateTime: 2020-07-04T10:51:00Z
+    webUrl: "https://www.thesun.ie/news/5617392/sex-robots-speak-learn-ai-memory/"
+    ampWebUrl: "https://www.thesun.ie/news/5617392/sex-robots-speak-learn-ai-memory/amp/"
+    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/5617392/sex-robots-speak-learn-ai-memory/amp/"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
+      name: Irish Sun
+      domain: thesun.ie
     quality: 58
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/07/MB-COMP-DOLL-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2020/07/MB-COMP-DOLL.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
         isCached: true

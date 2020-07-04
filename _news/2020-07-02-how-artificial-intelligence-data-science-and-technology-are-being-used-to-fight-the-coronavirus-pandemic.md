@@ -35,20 +35,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 47
-  - title: "MIT Designs Robot That Eliminates Coronavirus With UV Light"
-    excerpt: "MIT has developed a robot that navigates around spaces to blast the virus with UV light. The team has even tested the system at a Boston-area food bank with encouraging results."
-    publishedDateTime: 2020-06-29T17:47:00Z
-    webUrl: "https://www.extremetech.com/extreme/312198-mit-designs-robot-that-eliminates-coronavirus-with-uv-light"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/06/2Disinfecting-robot.jpg"
-        width: 672
-        height: 371
-        isCached: true
 
 secured: "+/6akLmF5QMq8cjMiOX5ECJJWHzoPbENp2iCVODBBvY0zeR/TKP4nYlaKUdvF86wu/RfsPzdyZiKoyiwQ2SBYonOSrBAhJDCxOuPFPVTlf/X/Iy3RNI3lE2bHmUYDmdthTmefOCzNUlxtcGVQkTtZJY7arQ2jekmTVHkxaCoQGZoONG0AsvOWL+M1NFig9+kYuDNtRIRLChh6P0NG+cUaVqZYNbxJ9h8dDb0Qj5kO/BXHcjwvEpoIWoEUmcTBWE4989gWTPFpHxVhLDZhawSMRjvpVtHy24FVcwVf7Y9XeAU9CuzdN4mcs8pvmzGGkVtK6HOr8NVje5qbFTI17gEzg==;G8toHkiSBNsHgMhG0sPteQ=="
 ---

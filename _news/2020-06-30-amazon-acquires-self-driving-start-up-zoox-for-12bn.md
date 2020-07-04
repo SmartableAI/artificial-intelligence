@@ -78,20 +78,6 @@ related:
         width: 837
         height: 558
         isCached: true
-  - title: "Amazon acquires self-driving car startup as demand stays hot for autonomous delivery"
-    excerpt: "Zoox technology supports autonomous ride-hailing service for passengers, although sector faces infrastructure and regulation challenges, AMR says."
-    publishedDateTime: 2020-06-29T17:19:00Z
-    webUrl: "https://www.dcvelocity.com/articles/46418-amazon-acquires-self-driving-car-startup-as-demand-stays-hot-for-autonomous-delivery"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 17
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202006/zoox-Screen-Shot-2020-06-29-at-111405-AM.png?height=1200&t=1593449930&width=635"
-        width: 635
-        height: 637
-        isCached: true
   - title: "Video: Amazon acquires self-driving car startup Zoox"
     excerpt: "Amazon said it will lead Zoox as a standalone business to drive the mission toward developing self-driving vehicles. In the video, Zoox demonstrates a one-hour fully autonomous dr"
     publishedDateTime: 2020-07-02T12:52:00Z

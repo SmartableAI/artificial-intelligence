@@ -35,20 +35,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 67
-  - title: "How the Utility Industry is Employing AI"
-    excerpt: "Today, the utility industry is undergoing a major transformation owing to the use of AI. Fusing AI and Machine learning (ML), these industries have largely reduced the on-field workload. There are two major aspects of utilities where modern technologies are playing their major role."
-    publishedDateTime: 2020-06-29T18:39:00Z
-    webUrl: "https://www.cioreview.com/news/how-the-utility-industry-is-employing-ai-nid-31490-cid-244.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_H30EXwbP.jpg"
-        width: 705
-        height: 485
-        isCached: true
 
 secured: "P0gQz7PSpmyTH74AV+VdJ56MIMqGg9cFsdl9h/ACein7ilnfee1a2IfTm0I3mu/6qETqj9Gzzf43O1IjKZicmO3CpUWDJWKqqs953fvAM8mYWWOnUyFntHIbE9X+pKh8MNl3cjlSfS3Fg6iiUc6uN2I0sxnAi6R6APyCrLxo9KU6+ZK6E8las30qVBBJ8lSu8EeFM7M/K5uZ38X8VNLcLd2uOD7U6YQgEGfY3jhLTMOI6nIJCq+nBfACJYZWZHJvkxE5rW8S+ba9vUGmkX5aok8AUwIz+n/P+0S0vAOhsQ50dY3EqeaZHNOrnjUa3P6g7GscqAExzh3KhzmHDgZDPDGUTNiaBFQIxou5+DNFwbEtMl0rhWjI+EsShZOzHFVxs1cNQp+bE4wtvfYbMBE5TpaMM1teqwnKgAgGTJhJWOhd8m/4mZJOg67mv3anxOG6oiojYWJZ/olyMNW6JEG4QyTF1KTuLiFA9ZgWjjoJi6Ff4ieKekiMTfhh64rMf1NZxnAfg5k8bBmvUSPxbgpSIg==;9LojI9R/w4J40lnELCa7fg=="
 ---

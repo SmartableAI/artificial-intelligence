@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/connecting
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/02/connecting-the-industrial-internet-of-things-with-smart-ai-objects/amp/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "How the Utility Industry is Employing AI"
-    excerpt: "Today, the utility industry is undergoing a major transformation owing to the use of AI. Fusing AI and Machine learning (ML), these industries have largely reduced the on-field workload. There are two major aspects of utilities where modern technologies are playing their major role."
-    publishedDateTime: 2020-06-29T18:39:00Z
-    webUrl: "https://www.cioreview.com/news/how-the-utility-industry-is-employing-ai-nid-31490-cid-244.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_H30EXwbP.jpg"
-        width: 705
-        height: 485
-        isCached: true
   - title: "Litmus Partners With ProcessMiner to Offer Leading Edge Computing and Artificial Intelligence Platforms for Manufacturing"
     excerpt: "Under terms of the agreement, both organizations will promote their respective platform capabilities throughout the manufacturing industry."
     publishedDateTime: 2020-07-02T22:31:00Z
