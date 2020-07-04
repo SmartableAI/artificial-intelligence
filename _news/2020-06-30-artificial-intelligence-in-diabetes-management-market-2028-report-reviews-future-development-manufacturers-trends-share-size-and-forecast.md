@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Automatic Speech Recognition Market 2020 Industry Size, Cost Structure Analysis, Growth, Share and Opportunities and Forecast to 2026"
+    excerpt: "Jul 03, 2020 (The Expresswire) -- “Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Automatic Speech Recognition Market” report presents an in-depth assessment of the Automatic Speech Recognition market ..."
+    publishedDateTime: 2020-07-03T17:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-2020-industry-size-cost-structure-analysis-growth-share-and-opportunities-and-forecast-to-2026-2020-07-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "JGYOccR2AkkY+NTmg+7LM8fvBnZNX48mP2zIqDIqjyZ2Hy0vVBEhK+W0K8LQRCN4bNTeCPBQ8ZzfAMGjBhfx5Dw39kjmOFAMjhDJOq43ttdgVvXhxf73qX60k4QKWjNa5xzmcIjTKZv3J9y56NC2zRikaSgB7Epo3rGuXs9FF4EZi4SuTH0gYhgE0RuSJ9VcuD+dxhHeOMhConpddP4EBIctoJv9/PIQkUb5kbskhqV3ov9W/x9EUHLOCKfB4UHdr966+2eRvGcH1zbSJOfBvvYkJhmOykQY9ZlF1LepZ0eOCJkBlTT+gG1WKr6lFyClSQAd+u1hexiZGWo9p/tBewe2twsI8u6H9M7M5W+uzIwt/ReNt0NTua0yXycIvlIi7d0I4E3RjncUZ52Geg8PfFnLQmORWJM69sQzqGjPgsR0us8Ggy96tItoMA2OmopHWS8GY5PlIfOT0URPwV3bo22hCcEwmEFZOZZN1rC3AlOBUJUuPC7bMMocxeGy/6ENq+timOsDqDMMjwjLKojwag==;mPOqaAOrvLUXPi6cdpmWuw=="
 ---

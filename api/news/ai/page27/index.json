@@ -2,6 +2,81 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-06-08-natural-language-processing-nlp-market-to-exhibit-324-cagr-increasing-technological-advancement-to-drive-growth-fortune-business-insights.md",
+      "title": "Natural Language Processing (NLP) Market to Exhibit 32.4% CAGR; Increasing Technological Advancement to Drive Growth: Fortune Business Insights™",
+      "excerpt": "This information is published by Fortune Business Insights™, in a report, titled, “Natural Language Processing (NLP) Market Size, Share & Industry Analysis, By Deployment (On-Premises ...",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/06/08/2045035/0/en/Natural-Language-Processing-NLP-Market-to-Exhibit-32-4-CAGR-Increasing-Technological-Advancement-to-Drive-Growth-Fortune-Business-Insights.html",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-chief-ai-officer-executives-discuss-the-role-pitfalls-and-business-philosophy.md",
+      "title": "Chief AI Officer: Executives discuss the role, pitfalls, and business philosophy",
+      "excerpt": "As artificial intelligence becomes commonplace across industries, more companies are looking to add a dedicated leader to the C-suite. But what does that look like?",
+      "webUrl": "https://www.techrepublic.com/article/chief-ai-officer-executives-discuss-the-role-pitfalls-and-business-philosophy/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/05/08/18b8706b-b03d-4420-85f9-0397e701e29d/resize/1200x/7c00707ad6de40a8144694a1ac8f9a04/data-collection-online-data-data-privacy.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Chief AI Officer: Executives discuss the role, pitfalls, and business philosophy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/chief-ai-officer-executives-discuss-the-role-pitfalls-and-business-philosophy/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/chief-ai-officer-executives-discuss-the-role-pitfalls-and-business-philosophy/",
+      "publishedDateTime": "2020-06-08T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-ai-in-healthcare-market-2020-share-trends-segmentation-and-forecast-to-2025-cagr-of-4621.md",
       "title": "AI in Healthcare Market 2020 Share, Trends, Segmentation and Forecast to 2025 | CAGR of 46.21%",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jun 08, 2020 (Market Insight Reports) -- A recent report on AI in Healthcare Market provides a detailed analysis on the industry size, revenue forecasts and geographical landscape pertaining to this business space. Additionally, the report highlights primary ...",
@@ -1175,82 +1250,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-self-driving-sector-contends-its-cars-can-prevent-many-more-crashes-than-insurance-study-says.md",
-      "title": "Self-driving sector contends its cars can prevent many more crashes than insurance study says",
-      "excerpt": "REUTERS: Companies working on self-driving vehicles have criticized an insurance industry study suggesting that only a third of all US road crashes could be prevented by driverless cars ...",
-      "webUrl": "https://www.channelnewsasia.com/news/business/self-driving-sector-contends-its-cars-can-prevent-many-more-crashes-than-insurance-study-says-12810622",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-05T21:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-the-ai-community-says-black-lives-matter-but-more-work-needs-to-be-done.md",
-      "title": "The AI community says Black Lives Matter, but more work needs to be done",
-      "excerpt": "The AI community stood with the Black Lives Matter movement in a meaningful way this week, but work remains to be done to affect change.",
-      "webUrl": "https://venturebeat.com/2020/06/05/diversity-in-ai-black-lives-matter/",
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/IMG_20191122_111658-e1591389328766.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "The AI community says Black Lives Matter, but more work needs to be done",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/05/diversity-in-ai-black-lives-matter/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/diversity-in-ai-black-lives-matter/amp/",
-      "publishedDateTime": "2020-06-05T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

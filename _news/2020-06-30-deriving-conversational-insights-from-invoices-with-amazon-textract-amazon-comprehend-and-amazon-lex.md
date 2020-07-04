@@ -43,17 +43,6 @@ related:
         width: 990
         height: 498
         isCached: true
-  - title: "Building Ethical And Responsible AI Systems Does Not Start With Technology Teams"
-    excerpt: "Unless we invest time and effort in designing human-centric AI solutions, we run the risk of dividing society and augmenting feelings of mistrust and intimidation."
-    publishedDateTime: 2020-06-29T11:32:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
 
 secured: "MDmzibHs2Fbd6SOuzxP+O90W3oEbq9uvTuBdVcdo6/mMWAeQWuXpKCHlfb/wIT/FNaWoocL8IqAWMZfYN35h2DV5kE/5Dko4HPse8Z6fFU/qZFPcV6XE80YycypGVzsGxNRc+cuQMuEcKyEdUjGS6PUuZo+NdAy+wjOUI+fijUJ/IpvuxLZOnX0DKndeeC0vhhGsOsfY3a0UcgL634wrB+7Yaf9CamBKtkZc4jOi6tF2t9XnH/naD8XkCYPGRP+YXvmvGRk0q5YvgmjQ72zuXsV1HnWLdgh5c6zO1L4n40l86MMcX8naNY+mZrBdsPPrdypMDyZRRm0Was7OZ217Cw==;IGXnvQC6SoKw5gKDS80Elg=="
 ---

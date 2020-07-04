@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-29T14:26:29Z
 webUrl: "https://www.ibm.com/blogs/watson/2020/06/addressing-complex-kubernetes-issues-with-watson-aiops-and-sysdig/"
 type: article
 quality: 117
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -42,17 +42,6 @@ related:
         width: 1000
         height: 564
         isCached: true
-  - title: "Building Ethical And Responsible AI Systems Does Not Start With Technology Teams"
-    excerpt: "Unless we invest time and effort in designing human-centric AI solutions, we run the risk of dividing society and augmenting feelings of mistrust and intimidation."
-    publishedDateTime: 2020-06-29T11:32:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
 
 secured: "tKYhzby5Gy3NfKxKJXZwBxYQukCP/UKDoc+SaEk1zdJztZ/hwNXhp2+qEIXlO79LdKDvTS29ZjhJO8ld/Zx3n/NWhZV1k8KRXvUut4PXMbpsv4eofVL3T8U1bhWn09nzPyOVSUqHqK19fo/FCGMQZkYSywuxN2NNOz2LeSk0K4CAWJtT0PGsgK86LLWYLwu92JDxSfvDweqfysixF3mPBVzgOrhJrE1ArpRmxqI3fDIi/0MBPorcvMcjPX/uQcK+vTwSWp8MeQhxSXP0LC+tPWIw/JOBYSebzmfCDmE2mksVAIrivMCGLLqX+ElBvqIVTtI25w3WUoKPxcexOqXeQA==;hnK4NHS9q0eys+G7iSXlfw=="
 ---

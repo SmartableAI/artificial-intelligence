@@ -2,6 +2,91 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-06-19-why-qualcomm-will-be-big-in-robotics-the-next-big-it-wave.md",
+      "title": "Why Qualcomm Will Be Big in Robotics, the Next Big IT Wave",
+      "excerpt": "Qualcomm has an impressive robotics offering in its RB5 robotics platform. The technology, when applied to a full product, has the capability of redefining what an autonomous machine, either fixed or mobile,",
+      "webUrl": "https://www.eweek.com/innovation/why-qualcomm-will-be-big-in-robotics-the-next-big-it-wave",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/Human.vs.robot_1.jpg?alias=social_image",
+          "width": 560,
+          "height": 300,
+          "title": "Why Qualcomm Will Be Big in Robotics, the Next Big IT Wave",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T18:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-artificial-intelligence-systems-need-checks-and-balances-throughout-development.md",
+      "title": "Artificial intelligence systems need ‘checks and balances’ throughout development",
+      "excerpt": "The Department of Defense is moving forward of artificial intelligence projects for lethality. Experts warn that testing, experimentation and human understanding are critical to creating trustworthy systems.",
+      "webUrl": "https://www.c4isrnet.com/it-networks/2020/06/18/artificial-intelligence-systems-need-checks-and-balances-throughout-development/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.armytimes.com/resizer/tw4DuuF_K5QoEibZuKhpeUvKPDQ=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/YFKKAHFIPZB3PMZ4U3C7EBWM2M.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial intelligence systems need ‘checks and balances’ throughout development",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T17:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-tesla-admits-its-approach-to-self-driving-is-harder-but-might-be-only-way-to-scale.md",
       "title": "Tesla admits its approach to self-driving is harder but might be only way to scale",
       "excerpt": "Tesla’s head of AI admitted that the automaker’s approach to self-driving is harder than what most companies in the industry are doing, but he says it’s the only way to scale. There are dozens of high-profile companies working on solving self-driving and virtually as many different approaches,",
@@ -1217,100 +1302,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs.md",
-      "title": "Algoriddim’s Djay Pro AI can transfer vocals and rhythms between songs",
-      "excerpt": "Algoriddim suggests that the feature relies on advanced AI chip features found in Apple’s iOS devices, including the A12Z Bionic in the 2020 iPad Pro. Algoriddim is debuting the AI feature with ...",
-      "webUrl": "https://venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/",
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/djayai-2.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Algoriddim’s Djay Pro AI can transfer vocals and rhythms between songs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/amp/",
-      "publishedDateTime": "2020-06-18T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19.md",
-      "title": "IBM launches Watson Works aimed at managing work's new normal amid COVID-19",
-      "excerpt": "IBM launched Watson Works, a set of models and applications designed to manage workspaces, people and facilities as employees return to the office during the COVID-19 pandemic. Wa",
-      "webUrl": "https://www.zdnet.com/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/24/b6e37c98-9f98-43bb-973e-ad26833fda56/thumbnail/1200x675/48665c9939ec4476228e8e8c28322098/qualcomm.png",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM launches Watson Works aimed at managing work's new normal amid COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
-      "publishedDateTime": "2020-06-18T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

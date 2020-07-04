@@ -2,6 +2,81 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-06-12-cloud-storage-on-site-hardware-aws-azure-google-cloud.md",
+      "title": "Cloud storage on-site hardware: AWS, Azure, Google Cloud",
+      "excerpt": "AWS’s Outposts, Gateway and Snow hardware, Azure’s Stack and Arc appliances, and Google Cloud’s software-defined Anthos.",
+      "webUrl": "https://www.computerweekly.com/feature/Cloud-storage-on-site-hardware-AWS-Azure-Google-Cloud",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/feature/Cloud-storage-on-site-hardware-AWS-Azure-Google-Cloud?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Cloud-storage-on-site-hardware-AWS-Azure-Google-Cloud?amp=1",
+      "publishedDateTime": "2020-06-12T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-how-ai-can-support-the-supply-chain-and-overcome-hurdles.md",
+      "title": "How AI Can Support The Supply Chain And Overcome Hurdles",
+      "excerpt": "Behind the scenes and out of the public eye, AI is powering hundreds of logistics decisions and overcoming thousands of external hurdles.",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/12/how-ai-can-support-the-supply-chain-and-overcome-hurdles/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F172155755%2F0x0.jpg",
+          "width": 1200,
+          "height": 904,
+          "title": "How AI Can Support The Supply Chain And Overcome Hurdles",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/12/how-ai-can-support-the-supply-chain-and-overcome-hurdles/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/12/how-ai-can-support-the-supply-chain-and-overcome-hurdles/amp/",
+      "publishedDateTime": "2020-06-12T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-cvpr-2020-convenes-thousands-from-the-global-ai-machine-learning-and-computer-vision-community-in-virtual-event-beginning-sunday.md",
       "title": "CVPR 2020 Convenes Thousands from the Global AI, Machine Learning and Computer Vision Community in Virtual Event Beginning Sunday",
       "excerpt": "LOS ALAMITOS, Calif., June 12, 2020 /PRNewswire/ -- The Computer Vision and Pattern Recognition (CVPR) Conference, one of the largest events exploring artificial intelligence, machine learning ...",
@@ -1143,91 +1218,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-facebook-google-and-microsoft-team-up-to-build-ai-paedo-hunter-that-tracks-down-child-abuse-online.md",
-      "title": "Facebook, Google and Microsoft team up to build AI paedo-hunter that tracks down child abuse online",
-      "excerpt": "Project Protect will establish a multi-million pound research and innovation fund ... Facebook's hugely popular Messenger chat app. Facebook is using an AI machine learning system to spot ...",
-      "webUrl": "https://www.thesun.co.uk/tech/11840091/facebook-google-twitter-microsoft-ai-project-protect-child-abuse-online/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2020/06/NINTCHDBPICT000542482426.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
-          "width": 1200,
-          "height": 800,
-          "title": "Facebook, Google and Microsoft team up to build AI paedo-hunter that tracks down child abuse online",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/11840091/facebook-google-twitter-microsoft-ai-project-protect-child-abuse-online/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/11840091/facebook-google-twitter-microsoft-ai-project-protect-child-abuse-online/amp/",
-      "publishedDateTime": "2020-06-11T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19.md",
-      "title": "How a smartphone coupled with machine learning may become a simple, efficient test for COVID-19",
-      "excerpt": "A scientist at the University of Cincinnati has been refining an ingenious design for an ultra-portable genetic test that uses AI and smartphones. It could eventually offer a cheaper, simpler alternative for detecting coronavirus infections.",
-      "webUrl": "https://www.zdnet.com/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/11/24859aeb-4a40-45a9-a322-30b18146042c/priye-et-al-2017-lamp-box-materials.png",
-          "width": 2126,
-          "height": 1144,
-          "title": "How a smartphone coupled with machine learning may become a simple, efficient test for COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
-      "publishedDateTime": "2020-06-11T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

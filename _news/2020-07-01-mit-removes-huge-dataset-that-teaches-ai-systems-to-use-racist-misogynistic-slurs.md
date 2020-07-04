@@ -46,6 +46,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "MIT Deletes Database That Taught AI to Be Racist, Sexist"
+    excerpt: "Unfortunately, a massive and popular training dataset from MIT taught a bunch of algorithms to use racist and misogynistic slurs. AI learns to interpret and identify objects in pictures after poring over thousands of images that were already labeled."
+    publishedDateTime: 2020-07-04T04:52:00Z
+    webUrl: "https://futurism.com/the-byte/mit-deletes-database-taught-ai-racist-sexist"
+    ampWebUrl: "https://futurism.com/mit-deletes-database-taught-ai-racist-sexist/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/mit-deletes-database-taught-ai-racist-sexist/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 57
+    images:
+      - url: "https://wp-assets.futurism.com/2020/07/mit-deletes-database-taught-ai-racist-sexist-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "MIT AI training dataset pulled down for racist, sexist, vulgar labels as industry grapples with bias"
     excerpt: "A database used in training systems for tasks like facial biometrics and object recognition has been taken down by the Massachusetts Institute of Technology (MIT) after The Register reported it"
     publishedDateTime: 2020-07-02T19:46:00Z

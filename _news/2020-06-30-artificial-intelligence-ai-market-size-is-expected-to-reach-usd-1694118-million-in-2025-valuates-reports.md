@@ -24,20 +24,6 @@ images:
     title: "Artificial intelligence (AI) Market Size is Expected to Reach USD 169,411.8 Million in 2025 - Valuates Reports"
 
 related:
-  - title: "Artificial Intelligence in Medicine Market to Reach $18.12 Billion at 49.6% CAGR by 2025, Says AMR"
-    excerpt: "Portland, OR , June 30, 2020 (GLOBE NEWSWIRE) -- According to a new report published by Allied Market Research, titled artificial intelligence in medicine marketwas valued at $719 million in 2017 and is expected to reach $18,"
-    publishedDateTime: 2020-06-30T15:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-to-reach-1812-billion-at-496-cagr-by-2025-says-amr-2020-06-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Healthcare Market Size is Estimated to Reach USD 99,491.58 Million by 2027 - Valuates Reports"
     excerpt: "PRNewswire/ -- The Artificial Intelligence (AI) in the healthcare market was valued at USD 4,836.87 Million in 2019 and is projected to reach USD"
     publishedDateTime: 2020-06-30T14:30:00Z
@@ -52,6 +38,15 @@ related:
         width: 920
         height: 482
         isCached: true
+  - title: "Artificial Intelligence in Medicine Market to Reach $18.12 Billion at 49.6% CAGR by 2025, Says AMR"
+    excerpt: "The growth of the global artificial intelligence (AI) in medicine market is driven by the surge in AI capabilities due to increase in processing power, the need to compensate for the lack of skilled professionals in healthcare,"
+    publishedDateTime: 2020-06-30T15:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-medicine-market-to-reach-18-12-billion-at-49-6-cagr-by-2025-says-amr-1029354994"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
   - title: "Artificial Intelligence in Manufacturing Market Size is Projected to Reach USD 15,273.7 Million in 2025 -Valuates Reports"
     excerpt: "The global artificial intelligence in manufacturing market contributed 513 6 million in 2017 and is projected to reach 15 273 7 million in 2025 growing at a CAGR of 55 2 Artificial intelligence is a technology that deals with the"
     publishedDateTime: 2020-06-30T10:13:00Z
@@ -64,6 +59,6 @@ related:
       domain: openpr.com
     quality: 14
 
-secured: "TFa/lXoGt3cAlKpPGT9I3dmpU2qVFQxopt4DArC4wmeZGZQ7ay+2VnpZ+ivq0TzvMgeb6V/7l6mgcxAY6q0VTpsf9xXlRZCx4Hzti4xY/zw5hok0HCjXExq6dqVhqZojqU/NeKxU5BnenDkI2iZF2GaI7W2VTiF2AMnIj9+kA7kjEr25j75QZGDgL/bubltX2wxVd8Vpe3cN1VinwjzcE4Ynd6FYKVTbR6lOaZJ5+sTDymnZYfnRPcX2SF5fHvI4ME7KIv2IK3YXCy9TgY3RGXO0+q7m1gQQYhwZADCGICh/cxnJX0OSF0DkZBWI/9X1zZV4KZUUS6F4qSoVrUWlAQ==;NZ7Q1rPNnqIK3mBWLXS7pg=="
+secured: "3hIwRxy+Fq70rg8kw9x6+Ga6zxIGH3pq6vDRZbKcZQj/MdSx6D/RS76kKfRKgZiDBUEKnq9uwIWwos4ZqRwIQwqPbZ/ZM3m3Rw5GwpTAhZh9gs4O320FeF3VZ3dg1iOI65q0rdu08TMdYE5Xl7D0AdOkfcFzVOn1yxOaLjb6AcsAY9x8+A3B8V6MiT4F+LvDG1gowMyvqxANvdQ6XPdFKolwffb+cia6P/x6/hYd+SzxYvLJmAwRRFXdAoamkOcCLhhgUbRgBBz059ObDIf9Joyc3/L19bqQkhUhwoCKlA+zdBGRmT5vXn/UV1PfNtzwtBjkIN6hfFocFO5AB4lp7PxrjZr5ftCsjZ/Ekx6kMUuQamy63xE7/JjoSjIicwjoeRkr1CcmXKiR1c803zMQcj8YS/7SrciGUKOrt5rvtqpl0t4cyIigvZqT38HUunmIY1L7lTdK5nJpjN9AvtPde+LlT5YwI0x9j0U9kOvtDyNQJigUFksGpJtN/Oh7M1kuoSjC22qBlZstvTsMXcmLHw==;AppS9ohOSPAaOglWHAAolQ=="
 ---
 

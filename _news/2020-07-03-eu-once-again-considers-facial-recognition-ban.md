@@ -5,7 +5,7 @@ excerpt: "The European Union is once again considering a ban on facial recogniti
 publishedDateTime: 2020-07-03T18:59:00Z
 webUrl: "https://findbiometrics.com/eu-once-again-considers-facial-recognition-ban-070301/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://findbiometrics.com/wp-content/uploads/blurredface-e1579295692518.jpeg"

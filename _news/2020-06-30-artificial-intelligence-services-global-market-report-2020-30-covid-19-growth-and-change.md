@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T11:15:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-services-global-market-report-2020-30-covid-19-growth-and-change-2020-06-30"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     title: "Artificial Intelligence Services Global Market Report 2020-30: Covid 19 Growth and Change"
 
 related:
+  - title: "Artificial Intelligence in Healthcare Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2029"
+    excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 37 billion by 2029 end with"
+    publishedDateTime: 2020-07-01T15:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-global-trends-market-share-industry-size-growth-opportunities-and-market-forecast-2020-to-2029-2020-07-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market 2020: Global Technology, Segmentation, Growth, Development, Trends and Forecasts to 2026"
     excerpt: "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest"
     publishedDateTime: 2020-06-29T15:30:00Z

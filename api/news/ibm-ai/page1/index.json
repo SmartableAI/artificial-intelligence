@@ -99,7 +99,7 @@
       "title": "Addressing complex Kubernetes issues with Watson AIOps and Sysdig",
       "excerpt": "\nExplosive growth in cloud applications built on containers has exponentially increased the volume of alerts, signals, and data vying for the attention of IT admins. Applications consisting of dozens of microservices, running across intercommunicating nodes, complicate incident detection and response.",
       "webUrl": "https://www.ibm.com/blogs/watson/2020/06/addressing-complex-kubernetes-issues-with-watson-aiops-and-sysdig/",
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {

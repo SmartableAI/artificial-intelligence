@@ -97,6 +97,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-29-cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise.md",
+      "title": "cnvrg.io Collaborates With Red Hat to Deliver an Accelerated Production ML Workflow With MLOps on Red Hat OpenShift for the AI Enterprise",
+      "excerpt": "PRNewswire/ -- cnvrg.io, the data science platform simplifying model management and introducing advanced MLOps to the industry, today announced",
+      "webUrl": "https://www.prnewswire.com/news-releases/cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise-301084968.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1160338/cnvrg_io_Logo.jpg?p=facebook",
+          "width": 796,
+          "height": 419,
+          "title": "cnvrg.io Collaborates With Red Hat to Deliver an Accelerated Production ML Workflow With MLOps on Red Hat OpenShift for the AI Enterprise",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-28-from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap.md",
       "title": "From PhD in AI to fruit chips company, youngster takes a big leap",
       "excerpt": "Twenty-eight-year-old Bharadwaj Karanth’s company, Suvidha Foods and Beverages, procures fruits and vegetables directly from farmers and processes them into chips and dry fruits.",
@@ -137,8 +175,8 @@
     {
       "path": "_news/2020-06-26-covid-19-significant-shift-in-strategy-of-mobile-artificial-intelligence-market-2020-2024-increasing-use-of-ai-chip-enabled-mobile-devices-to-augment-growth-technavio.md",
       "title": "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio",
-      "excerpt": "Technavio has announced its latest market research report titled Global Mobile Artificial Intelligence Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the mobile artificial intelligence market and it is poised to grow by USD 13.",
-      "webUrl": "https://www.businesswire.com/news/home/20200626005284/en/COVID-19-Significant-Shift-Strategy-Mobile-Artificial-Intelligence",
+      "excerpt": "Buy 2 Technavio reports and get the third for free. View market snapshot before purchasing Increasing use of AI chip-enabled mobile devices has been instrumental in driving the growth of the market. Technavio's custom research reports offer detailed ...",
+      "webUrl": "https://www.businesswire.com/news/home/20200626005284/en/",
       "heat": null,
       "tags": null,
       "images": [
@@ -154,7 +192,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-26T10:30:00-07:00",
+      "publishedDateTime": "2020-06-26T10:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -730,44 +768,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-22-inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20.md",
-      "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
-      "excerpt": "Inspur, a data center and AI full-stack solutions provider, releases NF5468M6 and NF5468A5 AI servers supporting the",
-      "webUrl": "https://www.hpcwire.com/off-the-wire/inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/shutterstock_coronavirus_11-405x228.jpg",
-          "width": 405,
-          "height": 228,
-          "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-22-windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu.md",
       "title": "Windows 10 PCs: Why the new key to faster desktop applications is your GPU",
       "excerpt": "Adobe has been putting in GPU-accelerated machine learning in applications like Photoshop and Lightroom, while Corel has added AI-powered brushes to its natural material Painter. By opening DirectX's GPU compute to cross-platform APIs like Mesa3D ...",
@@ -862,10 +862,48 @@
       ]
     },
     {
+      "path": "_news/2020-06-22-inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20.md",
+      "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
+      "excerpt": "NF5468M6 and NF5468A5 accommodate 8 pcs of double-width NVIDIA A100 PCIe GPUs in 4U chassis. Both support the latest PCIe Gen 4 of 64GB/s bi-directional bandwidth, achieving superior AI computing performance.",
+      "webUrl": "https://www.businesswire.com/news/home/20200622005207/en/Inspur-Launches-New-AI-Servers-Support-Latest",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200622005207/en/799983/23/inspur_logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-nvidia-unveils-ai-platform-to-minimize-downtime-in-supercomputing-data-centers.md",
       "title": "NVIDIA Unveils AI Platform to Minimize Downtime in Supercomputing Data Centers",
-      "excerpt": "SANTA CLARA, Calif., June 22, 2020 (GLOBE NEWSWIRE) -- ISC Digital--NVIDIA today unveiled the NVIDIA(R) Mellanox(R) UFM(R) Cyber-AI platform, which minimizes downtime in InfiniBand data centers by harnessing AI-powered analytics to detect security threats and operational issues,",
-      "webUrl": "https://www.marketwatch.com/press-release/nvidia-unveils-ai-platform-to-minimize-downtime-in-supercomputing-data-centers-2020-06-22-3184024",
+      "excerpt": "ISC Digital--NVIDIA today unveiled the NVIDIA(R) Mellanox(R) UFM(R) Cyber-AI platform, which minimizes downtime in InfiniBand data centers by harnessing AI-powered analytics to detect security threats and operational issues,",
+      "webUrl": "https://www.marketwatch.com/press-release/nvidia-unveils-ai-platform-to-minimize-downtime-in-supercomputing-data-centers-2020-06-22",
       "heat": null,
       "tags": null,
       "images": [
@@ -910,17 +948,17 @@
     },
     {
       "path": "_news/2020-06-22-worlds-top-system-makers-unveil-nvidia-a100-powered-servers-to-accelerate-ai-data-science-and-scientific-computing.md",
-      "title": "World's Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing",
-      "excerpt": "ISC Digital--June 22, 2020--NVIDIA and the world's leading server manufacturers today announced NVIDIA A100-powered systems in a variety of designs and configurations to tackle the most complex challenges in AI,",
-      "webUrl": "https://www.marketwatch.com/press-release/worlds-top-system-makers-unveil-nvidia-a100-powered-servers-to-accelerate-ai-data-science-and-scientific-computing-2020-06-22",
+      "title": "World’s Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing",
+      "excerpt": "ISC Digital—June 22, 2020—NVIDIA and the world’s leading server manufacturers today announced NVIDIA A100-powered systems in a variety of designs and configurations to tackle the most complex challenges in AI,",
+      "webUrl": "https://apnews.com/7208593b875025f54adbc52c6713c4c0",
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "World's Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing",
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "World’s Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing",
           "attribution": null,
           "isCached": true
         }
@@ -931,18 +969,9 @@
       "publishedDateTime": "2020-06-22T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1303,44 +1332,6 @@
         "AI Hardware",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-huamis-next-wearable-ai-chip-huangshan-2-scheduled-for-mass-production-in-q4-2020-50-energy-saved-with-faster-atrial-fibrillation-detection.md",
-      "title": "Huami's Next Wearable AI Chip Huangshan-2 Scheduled for Mass Production in Q4, 2020, 50% Energy Saved with Faster Atrial Fibrillation Detection",
-      "excerpt": "The Global Top 5 wearable brand[1], Amazfit's mother company, Huami (NYSE: HMI) , made its second wearable AI chip Huangshan-2 public on",
-      "webUrl": "https://www.prnewswire.com/ae/news-releases/huami-s-next-wearable-ai-chip-huangshan-2-scheduled-for-mass-production-in-q4-2020-50-energy-saved-with-faster-atrial-fibrillation-detection-880075794.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1192309/Wearable_Device_Chip.jpg?p=facebook",
-          "width": 3457,
-          "height": 1808,
-          "title": "Huami's Next Wearable AI Chip Huangshan-2 Scheduled for Mass Production in Q4, 2020, 50% Energy Saved with Faster Atrial Fibrillation Detection",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

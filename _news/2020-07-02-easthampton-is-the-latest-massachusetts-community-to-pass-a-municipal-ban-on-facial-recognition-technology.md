@@ -185,6 +185,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "EU Once Again Considers Facial Recognition Ban"
+    excerpt: "The European Union is once again considering a ban on facial recognition. The possibility of a temporary ban surfaced in an early draft of a European Commission white paper in January, but those plans were eventually abandoned in the final draft of the paper."
+    publishedDateTime: 2020-07-03T18:59:00Z
+    webUrl: "https://findbiometrics.com/eu-once-again-considers-facial-recognition-ban-070301/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 56
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/blurredface-e1579295692518.jpeg"
+        width: 1502
+        height: 1694
+        isCached: true
   - title: "Facial-Recognition Tech Might Be the Real Reason to Buy Remark Stock"
     excerpt: "Stock Market News, Stock Advice & Trading Tips. When discussing Remark Holdings (NASDAQ:MARK), most investors and pundits have focused on the ability of the compan"
     publishedDateTime: 2020-06-29T13:10:00Z
@@ -211,20 +225,6 @@ related:
       - url: "https://thehill.com/sites/default/files/facialrecognitiontech_070319istock.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "EU Once Again Considers Facial Recognition Ban"
-    excerpt: "The European Union is once again considering a ban on facial recognition. The possibility of a temporary ban surfaced in an early draft of a European Commission white paper in January, but those plans were eventually abandoned in the final draft of the paper."
-    publishedDateTime: 2020-07-03T18:59:00Z
-    webUrl: "https://findbiometrics.com/eu-once-again-considers-facial-recognition-ban-070301/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 54
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/blurredface-e1579295692518.jpeg"
-        width: 1502
-        height: 1694
         isCached: true
   - title: "Addressing Facial Recognition Tech's Discriminatory Potential"
     excerpt: "Recent civil rights groups' objections, industry statements and proposed bills on the use of facial recognition technology highlight several problematic concerns, including that it lacks accuracy in identifying nonwhite individuals and may play a role in racially discriminatory policing,"

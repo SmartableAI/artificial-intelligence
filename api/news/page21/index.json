@@ -2,6 +2,98 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-06-16-ai-model-creates-3d-avatars-from-a-persons-picture.md",
+      "title": "AI model creates 3D avatars from a person’s picture",
+      "excerpt": "An AI system dubbed AvatarMe creates 3D avatars of people from nothing but face images, whether hand-drawn or photographed in black-and-white.",
+      "webUrl": "https://venturebeat.com/2020/06/16/ai-model-creates-3d-avatars-from-a-persons-picture/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/results_preview.gif?w=520&resize=520%2C293&strip=all",
+          "width": 520,
+          "height": 293,
+          "title": "AI model creates 3D avatars from a person’s picture",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/16/ai-model-creates-3d-avatars-from-a-persons-picture/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/ai-model-creates-3d-avatars-from-a-persons-picture/amp/",
+      "publishedDateTime": "2020-06-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing.md",
+      "title": "Amazon's new Distance Assistant uses AI to encourage social distancing",
+      "excerpt": "Amazon said Tuesday it's developed a new artificial intelligence system to help maintain social distancing in its warehouses, and it plans to share the underlying technology for free. Called Distance Assistant,",
+      "webUrl": "https://www.cnet.com/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/",
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/VVtAMDc2hhLaPrj5n2SzE2T5ZH8=/756x567/2020/06/16/1d156dc2-9fad-4065-af55-4c0247ccb4cc/amazon-distance-assistant-image.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Amazon's new Distance Assistant uses AI to encourage social distancing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/",
+      "publishedDateTime": "2020-06-16T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-a-competition-to-identify-bird-calls-using-machine-learning.md",
       "title": "A competition to identify bird calls using machine learning",
       "excerpt": "Do you hear the birds chirping outside your window? There are more than 10,000 bird species in the world, and they can be found in nearly every environment, from untouched rainforests to suburbs and cities. Birds play an essential role in nature. They are high up in the food chain and integrate changes",
@@ -1002,91 +1094,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-tibco-delivers-advanced-cognitive-services-on-microsoft-azure-to-joint-customers.md",
-      "title": "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers",
-      "excerpt": "Before it's here, it's on the Bloomberg Terminal.",
-      "webUrl": "https://www.bloomberg.com/press-releases/2020-06-02/tibco-delivers-advanced-cognitive-services-on-microsoft-azure-to-joint-customers",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-were-never-going-to-get-meaningful-data-on-self-driving-car-testing.md",
-      "title": "We’re never going to get meaningful data on self-driving car testing",
-      "excerpt": "The US Department of Transportation launched a new voluntary program to collect and share data from autonomous vehicle operators. Companies testing AVs on public roads are invited to submit information to the government,",
-      "webUrl": "https://www.theverge.com/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary",
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/tPWCcMshwdjqMp7htX3K26tYh-s=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66938010/vpavic_191202_3827_0004.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "We’re never going to get meaningful data on self-driving car testing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary",
-      "publishedDateTime": "2020-06-15T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
