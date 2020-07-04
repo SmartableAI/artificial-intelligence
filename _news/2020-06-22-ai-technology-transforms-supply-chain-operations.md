@@ -1,19 +1,19 @@
 ---
 category: news
 title: "AI Technology Transforms Supply Chain Operations"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-06-22T18:46:00Z
-webUrl: "https://www.computerworld.com/resources/204879/ai-technology-transforms-supply-chain-operations"
+excerpt: "CSO offers the latest information and best practices on business continuity and data protection, best practices for prevention of social engineering scams, malware and breaches, and tips and advice abut security careers and leadership."
+publishedDateTime: 2020-06-22T18:33:00Z
+webUrl: "https://www.csoonline.com/resources/204879/ai-technology-transforms-supply-chain-operations"
 type: article
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: CSOonline
+  domain: csoonline.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "yQ2Yu2H/+UOISlP/iT6r1oDjC/m3eiARmXNRjtoEDb2+sXcI7dkpzXMqPEm+bf5LnVmG4p6MD793XlfunlzuSIkQM/5cjSIxrSpD+07WPy4tZotHUDTFAbh5paaMS0aqGtD5KAi7B4U5mMucuNmZTMV4NeV2JfDAiI+z+7DT9Q93tB0adNVFy4vZUxKa3mXblZdFwg3WwgBeQaG+qRIe1mHy+JYj/jgrAYtmtShmZQLCmWBbSU18HLSpz3AE+zDSoDSjBhVP30EgnwDgI5tVvVSXfh6DPeUZ5QqGSQnXWXwhON0+feczW2WzO8o1/VUM+AO8MM4JALxjomDZ2vW3PfzFvWYowwr1Q7arCd5m/b8ptdl8Ib1eGeFSwWeWCmnF7LF3ITqhoRRodktdww7oGS+Ql7EPJV/33vki6+nNXNYXf2UX3wz2+cJlVoK/LCAF79eSvFqpu69pXyGtVUDRW84c68jZJ+nFBnNhapGKRTRskVMRCmk17tdhfAxLEPQUNxO0Bf95ej3Koy1vH8XKPQ==;IzkgZFeQf6+kTxu24jPesA=="
+secured: "ZuGLd9iOX8nko93Kyl2Mi5Y1qEW0eq3RSenPcqpiPEMjk9IE4YcfGu5JYuN1neLVjhTX1oSNgmdpRYYOO1tjy3/nDdld+JMDlEV/6r7rqTNv7kI0xVBnOnFW/UT21ijMJsa5fr0oko7ZbknAnZ5G+rRzOdVs7jgnBA01mo/k5jeeEOKU3n5lmFo6Yt2cA7w2fVlN5nLHkacK+n1KRwoNe8DP2KAstJZaioVP4cz/X1O+DfeAhn9QI/Z0A5Z3VlDZ4t5U1K8xpMbEG8+2mtwbxA8fsWPBrbAJWP5Zo2JTEU2OEI/15DsoY3Mfxy5tEfZOhLvCPoKmPq+27l8/90jbkBKaWcbBQHCDJr8GTGttsTaBkNDpPTSY7Oxc1oY9aiImM7MKrYCb1RORn48yGvRJYN04zmtV1pJnz+07IwpKrM+VlMag3rV9KL36IAj1a3dj6hkp4E9AbODL30GAxsUV73x7lWkKQofEe3xjPQ2h/bzhwtw2hTvQ5nlJOhV0ls/VhB4TfCBIhqydDvrxbYrXtg==;h6IUNaNv3ArryuQW9hZLeA=="
 ---
 

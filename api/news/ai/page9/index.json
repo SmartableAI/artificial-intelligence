@@ -2,6 +2,52 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-06-24-un-telcos-in-africa-take-on-covid-19-with-ai-and-digital-service.md",
+      "title": "UN, telcos in Africa take on Covid-19 with AI and digital service",
+      "excerpt": "The United Nations Economic Commission for Africa joined forces with a group of telecoms operating in Africa to reach over 600 million mobile subscribers with coronavirus health advice.",
+      "webUrl": "https://www.cnn.com/2020/06/24/africa/un-africa-telcos-coronavius-intl/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200624084633-02-cameroon-coronavirus-0306-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "UN, telcos in Africa take on Covid-19 with AI and digital service",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html",
+      "publishedDateTime": "2020-06-24T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-sqream-technologies-raises-394-million-for-gpu-accelerated-databases.md",
       "title": "SQream Technologies raises $39.4 million for GPU-accelerated databases",
       "excerpt": "Tel Aviv-based startup SQream Technologies raised $39.4 million in venture capital to further develop its GPU-accelerated database product offerings.",
@@ -1288,53 +1334,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-facebook-claims-wav2vec-20-tops-speech-recognition-performance-with-10-minutes-of-labeled-data.md",
-      "title": "Facebook claims wav2vec 2.0 tops speech recognition performance with 10 minutes of labeled data",
-      "excerpt": "In a paper published on the preprint server Arxiv.org, researchers at Facebook describe wave2vec 2.0, an improved framework for self-supervised speech recognition. They claim it demonstrates for ...",
-      "webUrl": "https://venturebeat.com/2020/06/23/facebook-claims-wav2vec-2-0-tops-speech-recognition-performance-with-10-minutes-of-labeled-data/",
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook claims wav2vec 2.0 tops speech recognition performance with 10 minutes of labeled data",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/23/facebook-claims-wav2vec-2-0-tops-speech-recognition-performance-with-10-minutes-of-labeled-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/facebook-claims-wav2vec-2-0-tops-speech-recognition-performance-with-10-minutes-of-labeled-data/amp/",
-      "publishedDateTime": "2020-06-23T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

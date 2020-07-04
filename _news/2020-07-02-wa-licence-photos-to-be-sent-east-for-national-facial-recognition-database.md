@@ -208,28 +208,6 @@ related:
         width: 2247
         height: 1498
         isCached: true
-  - title: "Addressing Facial Recognition Tech's Discriminatory Potential"
-    excerpt: "Recent civil rights groups' objections, industry statements and proposed bills on the use of facial recognition technology highlight several problematic concerns, including that it lacks accuracy in identifying nonwhite individuals and may play a role in racially discriminatory policing,"
-    publishedDateTime: 2020-06-29T22:02:00Z
-    webUrl: "https://www.law360.com/articles/1287406/addressing-facial-recognition-tech-s-discriminatory-potential"
-    ampWebUrl: "https://www.law360.com/amp/articles/1287406"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1287406"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
-  - title: "U.S. Lawmakers Push to Ban Facial Recognition Technology"
-    excerpt: "A group of lawmakers has introduced a bill that would ban the government use of facial recognition technology. The bill comes after a Detroit man was falsely arrested after being misidentified by police using the tech."
-    publishedDateTime: 2020-06-29T21:11:00Z
-    webUrl: "https://www.governing.com/security/US-Lawmakers-Push-to-Ban-Facial-Recognition-Technology.html"
-    ampWebUrl: "https://www.governing.com/security/US-Lawmakers-Push-to-Ban-Facial-Recognition-Technology.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/US-Lawmakers-Push-to-Ban-Facial-Recognition-Technology.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
   - title: "Sports Ministry Moves Delhi High Court Seeking Restoration of Provisional Recognition to 57 NSFs"
     excerpt: "In its order, the HC had said the sports ministry and the Indian Olympic Association (IOA) were to inform the court in advance while taking any decision in relation to the NSFs."
     publishedDateTime: 2020-06-30T10:45:00Z

@@ -2,6 +2,52 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-05-28-apple-just-bought-another-ai-startup-to-help-siri-catch-up-to-rivals-amazon-and-google.md",
+      "title": "Apple just bought another AI startup to help Siri catch up to rivals Amazon and Google",
+      "excerpt": "Apple has acquired AI startup Inductiv Inc. to improve Siri, which has fallen behind Amazon's Alexa and the Google Assistant.",
+      "webUrl": "https://www.businessinsider.com/apple-buys-ai-startup-inductiv-siri-catch-up-amazon-google-2020-5",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ecfc2e3aee6a86d3947b893?width=1200&format=jpeg",
+          "width": 1102,
+          "height": 551,
+          "title": "Apple just bought another AI startup to help Siri catch up to rivals Amazon and Google",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/apple-buys-ai-startup-inductiv-siri-catch-up-amazon-google-2020-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-buys-ai-startup-inductiv-siri-catch-up-amazon-google-2020-5?amp",
+      "publishedDateTime": "2020-05-28T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-artificial-intelligence-startup-accern-raises-13-million-in-series-a-to-help-enterprises-adopt-ai-more-easily.md",
       "title": "Artificial Intelligence Startup Accern Raises $13 Million In Series A To Help Enterprises Adopt AI More Easily",
       "excerpt": "New York-based artificial intelligence startup Accern announced that it has closed a $13 million Series A funding round led by Fusion Fund. Mighty Capital, Allianz Life Ventures, Vectr Fintech Partners and Viaduct Ventures also participated,",
@@ -987,44 +1033,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls.md",
-      "title": "Joint AI Center Turns To Air Force cloudONE As JEDI Stalls",
-      "excerpt": "The Joint Artificial Intelligence Center needs three things: new acquisition authorities, more staff, and the cloud. With JEDI delayed ‘potentially many more months,’ director Lt. Gen. Jack Shanahan said,",
-      "webUrl": "https://breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2019/11/5099088-1-e1573655588617-1024x722.jpg",
-          "width": 1024,
-          "height": 722,
-          "title": "Joint AI Center Turns To Air Force cloudONE As JEDI Stalls",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/amp/",
-      "publishedDateTime": "2020-05-27T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

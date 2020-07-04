@@ -2,6 +2,53 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-05-18-facebook-ceo-warns-against-spread-of-chinese-style-internet-regulations.md",
+      "title": "Facebook CEO warns against spread of Chinese-style internet regulations",
+      "excerpt": "Facebook chief executive Mark Zuckerberg warned against ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies ...",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3084962/facebook-ceo-warns-against-spread-chinese-style-internet-regulations",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/methode/2020/05/19/71370a12-995b-11ea-96ff-7aff439fc3be_image_hires_075509.jpg?itok=5oh-v35g&v=1589846119",
+          "width": 1200,
+          "height": 630,
+          "title": "Facebook CEO warns against spread of Chinese-style internet regulations",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3084962/facebook-ceo-warns-against-spread-chinese-style-internet-regulations",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3084962/facebook-ceo-warns-against-spread-chinese-style-internet-regulations",
+      "publishedDateTime": "2020-05-18T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-cloud-storage-market-to-reach-usd-29754-billion-by-2027-higher-adoption-of-machine-learning-to-boost-growth-says-fortune-business-insights.md",
       "title": "Cloud Storage Market to Reach USD 297.54 Billion by 2027; Higher Adoption of Machine Learning to Boost Growth, Says Fortune Business Insights™",
       "excerpt": "The global cloud storage market is set to gain traction from the rising adoption of autonomous systems and machine learning. Besides,",
@@ -1056,52 +1103,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-should-ai-assist-in-surgical-decision-making.md",
-      "title": "Should AI assist in surgical decision-making?",
-      "excerpt": "Surgical errors in particular account for 26% of these deaths and cost somewhere north of $36 billion in the U.S. I did a double take when I read those stats while reporting this story. Some of the most common laparoscopic procedures,",
-      "webUrl": "https://www.zdnet.com/article/should-ai-assist-in-surgical-decision-making/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/05/15/264428c6-6cba-4fdf-8331-bf5f033fe09b/surgery.jpg",
-          "width": 1024,
-          "height": 681,
-          "title": "Should AI assist in surgical decision-making?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/should-ai-assist-in-surgical-decision-making/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/should-ai-assist-in-surgical-decision-making/",
-      "publishedDateTime": "2020-05-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

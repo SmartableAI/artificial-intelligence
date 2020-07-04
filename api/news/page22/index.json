@@ -2,6 +2,53 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-06-16-kt-to-invest-41-million-into-hyundai-robotics.md",
+      "title": "KT to invest $41 million into Hyundai Robotics",
+      "excerpt": "South Korean telco KT will invest 50 billion won ($41.4 million) into Hyundai Robotics for a 10% stake, the company said on Tuesday. The two companies will collaborate to co-develop intelligent service robots and perform research in the areas of automation and smart factories,",
+      "webUrl": "https://www.zdnet.com/article/kt-to-invest-us41-million-into-local-robotics-firm/",
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/25/f7e0bf06-4c68-4d88-8aa1-06f0e1dc872c/thumbnail/1200x675/6c7c37cb3b8e3da953320ca4b312fa17/kt-deploys-5g-autonomous-carts-at-wareho-5ecb0926e468b746804e73bb-1-may-25-2020-24-47-54-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "KT to invest $41 million into Hyundai Robotics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/kt-to-invest-us41-million-into-local-robotics-firm/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kt-to-invest-us41-million-into-local-robotics-firm/",
+      "publishedDateTime": "2020-06-15T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems.md",
       "title": "CSIRO and Microsoft to use AI to tackle man-made environmental problems",
       "excerpt": "Artificial intelligence is one technology the pair will be using to look at challenges such as illegal fishing and plastic waste, and to boost farming in Australia.",
@@ -1050,44 +1097,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-measuring-the-benefit-of-deep-learning-for-the-games-industry.md",
-      "title": "Measuring the benefit of deep learning for the games industry",
-      "excerpt": "The following blog post, unless otherwise noted, was written by a member of Gamasutra’s community. The thoughts and opinions expressed are those of the writer and not Gamasutra or its parent ...",
-      "webUrl": "https://www.gamasutra.com/blogs/ShaneMcAndrew/20200615/364612/Measuring_the_benefit_of_deep_learning_for_the_games_industry.php",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh5.googleusercontent.com/51HvOoh1tioFNt8T7iTXatuQPJiOfSgUQPIdHt_IQsoA9ZfkxFNlz1Xns7qgr6xyFx-WP6rOOKUIbPy9b9dQd7FFnZga9EqsC-tPMNY_CsqH8eDfxTfs2PU8JsHPk2gqvfQUIsMW",
-          "width": 720,
-          "height": 405,
-          "title": "Measuring the benefit of deep learning for the games industry",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gamasutra",
-        "domain": "gamasutra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

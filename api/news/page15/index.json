@@ -2,6 +2,53 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-06-22-computer-makers-unveil-50-ai-servers-with-nvidias-a100-gpus.md",
+      "title": "Computer makers unveil 50 AI servers with Nvidia’s A100 GPUs",
+      "excerpt": "Computer makers are launching 50 servers with Nvidia's A100 GPUs to power AI, data science, and scientific computing applications.",
+      "webUrl": "https://venturebeat.com/2020/06/22/computer-makers-unveil-50-ai-servers-with-nvidias-a100-gpus/",
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/nvidia-selene.jpg?w=1200&#038;strip=all",
+          "width": 1145,
+          "height": 580,
+          "title": "Computer makers unveil 50 AI servers with Nvidia’s A100 GPUs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/22/computer-makers-unveil-50-ai-servers-with-nvidias-a100-gpus/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/22/computer-makers-unveil-50-ai-servers-with-nvidias-a100-gpus/amp/",
+      "publishedDateTime": "2020-06-22T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20.md",
       "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
       "excerpt": "NF5468M6 and NF5468A5 accommodate 8 pcs of double-width NVIDIA A100 PCIe GPUs in 4U chassis. Both support the latest PCIe Gen 4 of 64GB/s bi-directional bandwidth, achieving superior AI computing performance.",
@@ -1028,53 +1075,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-5-big-myths-of-ai-and-machine-learning-debunked-free-ebook.md",
-      "title": "5 Big Myths of AI and Machine Learning Debunked - Free eBook",
-      "excerpt": "The myths around artificial intelligence can get pretty dense,so we've taken five of the biggest and dissected them to help you understand the truth about today's AI landscape. Grab your free eBook!",
-      "webUrl": "https://www.neowin.net/news/5-big-myths-of-ai-and-machine-learning-debunked---free-ebook",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1592575548_w_splu410c98_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "5 Big Myths of AI and Machine Learning Debunked - Free eBook",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/5-big-myths-of-ai-and-machine-learning-debunked---free-ebook/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/5-big-myths-of-ai-and-machine-learning-debunked---free-ebook/",
-      "publishedDateTime": "2020-06-19T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

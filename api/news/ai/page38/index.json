@@ -2,6 +2,44 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-05-27-microsoft-build-2020-colour-me-azure.md",
+      "title": "Microsoft Build 2020: Colour me Azure",
+      "excerpt": "The Microsoft Build conference is developer heaven. It’s also a great place to learn what’s coming for the rest of us in the Microsoft world, and this year’s conference, virtual though it was, was no different.",
+      "webUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/05/azure-regions-620x250.png",
+          "width": 620,
+          "height": 250,
+          "title": "Microsoft Build 2020: Colour me Azure",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330?amp=1",
+      "publishedDateTime": "2020-05-27T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-former-microsoft-ai-and-bing-chief-harry-shum-joins-fast-growing-startup-news-break-as-chairman.md",
       "title": "Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
       "excerpt": "Microsoft’s former top artificial intelligence executive, Harry Shum, has signed on as chairman of the board of News Break, the technology startup founded and led by former Yahoo engineering",
@@ -1270,45 +1308,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-ai-gaming-driverless-cars-push-nvidia-stock-higher.md",
-      "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
-      "excerpt": "Some big trends stand to benefit Nvidia and its rivals, Intel and Advanced Micro Devices Inc. (NASDAQ: AMD). These include artificial intelligence, gaming and driverless vehicles.",
-      "webUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2019/02/imageforentry7-azs.jpg?w=400",
-          "width": 400,
-          "height": 225,
-          "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/",
-      "publishedDateTime": "2020-05-26T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

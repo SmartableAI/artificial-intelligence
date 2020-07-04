@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "MIT-designed robot can disinfect a warehouse floor in 30 minutes — and could one day be employed in grocery stores and schools"
-    excerpt: "MIT has designed a robot that is capable of disinfecting the floor of a 4,000-square foot warehouse in only half an hour, and it could one day be used to clean your local grocery store or school. The"
-    publishedDateTime: 2020-07-04T12:26:00Z
-    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/07/04/mit-designed-robot-can-disinfect-a-warehouse-floor-in-30-minutes-and-could-one-day-be-employed-in-grocery-stores-and-schools/"
+    excerpt: "MIT has designed a robot that is capable of disinfecting the floor of a 4,000-square foot warehouse in only half an hour, and it could one day be used to clean your local grocery store or school."
+    publishedDateTime: 2020-07-04T14:55:00Z
+    webUrl: "https://www.channel3000.com/mit-designed-robot-can-disinfect-a-warehouse-floor-in-30-minutes-and-could-one-day-be-employed-in-grocery-stores-and-schools/"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
+      name: Channel 3000
+      domain: channel3000.com
     quality: 11
     images:
-      - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech-860x484.png"
-        width: 860
-        height: 484
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2020/07/hypatia-h_0d8ab0534ae9e50b31a5f0507e989d51-h_a18d5f229e9f4a76a650c463d3408b52.jpg"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "eLQztdJcYdZlPOJ+cHzOmKOMpu45YINGoZUtApJJzWlZrsrJUycwcpkinqbBwTvg3ZYibZXWiwZhK9NZRFW3PuovuFK4zFdKOljoSMnsREy+Tmd8tmRQqAYsSw4yX+CdrpvN2tCB3ERTvpZU/DeFbCA0+XDxqhqnK/uZ/kjMn3xYYQ49rjcTcajDL07p1EdwyIniMgvjdNdei2mBqVT4abB+zeLXUYmU/2DJMEeQNESqQiOjf46+1IZX1Byzj9xxGmbSvlqwGmOij4o3YLAM8fhpWacnOCufpWRWBcllZcCGyY2u4vjPTGxCQ3xGw9ZprGIKGo9EkEICICOzuPqs8SAP6Cs7TEiV4F1Xpq6JJjIbdK+vbFZOLcKH/CaKRDqvvWRmoNbpPsewogIoOk3TYhLPhE/rYBUDSGVWm/lX5pVu/jRWKuosEVYFrh1AvutitpSoQTlL6Hh9KpgWl0HNAR1V0TI+rZAT2Zp2/YQ5YODvhpraRzRUqsqN38QZQ9T2VG/LMFhRZKevsBQUaiSD7A==;1zajnmSD9lf69AINdBvp6w=="

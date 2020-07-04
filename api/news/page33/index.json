@@ -2,6 +2,44 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-06-08-the-impact-of-artificial-intelligence-on-professional-services.md",
+      "title": "The Impact Of Artificial Intelligence On Professional Services",
+      "excerpt": "Making goods and services better and cheaper is a good thing: it makes us all richer. There is scope to do this in all walks of life, and not least in professional services, such as accountancy and the law.",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services/amp/",
+      "publishedDateTime": "2020-06-08T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact.md",
       "title": "Jaipur Firm Deploys 7 Humanoid Robots to Help Maintain Social Distancing & Reduce Human Contact",
       "excerpt": "Humanoid robots use artificial intelligence (AI) and the Internet of Things (IoT ... They can even take the lift and reach an employee on another floor, said Chaudhary, adding when they start running out of power, they head straight towards the charging point.",
@@ -988,52 +1026,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all.md",
-      "title": "AI Weekly: Dismantle white supremacy for the good of us all",
-      "excerpt": "Whether it's white supremacy or AI from tech giants, systems made to work best for white men are incompatible with a diverse world.",
-      "webUrl": "https://venturebeat.com/2020/06/05/ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/IMG_20200603_175404.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI Weekly: Dismantle white supremacy for the good of us all",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/05/ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all/amp/",
-      "publishedDateTime": "2020-06-05T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

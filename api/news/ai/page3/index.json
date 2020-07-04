@@ -1283,6 +1283,43 @@
       ]
     },
     {
+      "path": "_news/2020-06-30-aws-codeguru-is-out-ai-tool-checks-code-and-suggests-changes-to-save-you-money.md",
+      "title": "AWS CodeGuru is out: AI tool checks code and suggests changes to save you money",
+      "excerpt": "Amazon Web Services (AWS) has announced general availability of its machine-learning tool CodeGuru, which helps developers streamline applications and improve the quality of their code. The service consists of Amazon CodeGuru Reviewer, a bug scanner run ...",
+      "webUrl": "https://www.zdnet.com/article/aws-codeguru-is-out-ai-tool-checks-code-and-suggests-changes-to-save-you-money/",
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-codeguru-is-out-ai-tool-checks-code-and-suggests-changes-to-save-you-money/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-codeguru-is-out-ai-tool-checks-code-and-suggests-changes-to-save-you-money/",
+      "publishedDateTime": "2020-06-30T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-youtuber-uses-artificial-intelligence-to-make-fake-iron-maiden-song-power-gravy.md",
       "title": "YouTuber Uses Artificial Intelligence To Make Fake Iron Maiden Song, Power Gravy",
       "excerpt": "Following on from the AI recreations of Metallica’s Deliverance Rides and Nirvana’s Smother, YouTuber and tech wizard Funk Turkey has used artificial intelligence to create a brand new Iron Maiden song",
@@ -1316,53 +1353,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-daimler-backed-momenta-says-its-robotaxis-will-be-fully-driverless-and-profitable-in-2024.md",
-      "title": "Daimler-backed Momenta says its robotaxis will be fully driverless and profitable in 2024",
-      "excerpt": "In China and the U.S., there’s much debate about when and how humans will achieve fully autonomous robotaxis at scale — cars that chauffeur passengers under complex road conditions without safety drivers behind the wheel.",
-      "webUrl": "https://techcrunch.com/2020/06/30/momenta-robotaxis/",
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-30-at-12.08.36-PM-e1593490638906.png?w=680",
-          "width": 680,
-          "height": 362,
-          "title": "Daimler-backed Momenta says its robotaxis will be fully driverless and profitable in 2024",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/30/momenta-robotaxis/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/momenta-robotaxis/amp/",
-      "publishedDateTime": "2020-06-30T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

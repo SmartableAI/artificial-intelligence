@@ -2,6 +2,53 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-05-24-scale-ai-releases-free-lidar-data-set-to-power-self-driving-car-development.md",
+      "title": "Scale AI releases free lidar data set to power self-driving car development",
+      "excerpt": "High-quality data is the fuel that powers AI algorithms. Without a continual flow of labeled data, bottlenecks can occur and the algorithm will slowly get worse and add risk to the system. It’s why labeled data is so critical for companies like Zoox,",
+      "webUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/LiDAR-comparison-credit_-Scale-AI.png?w=1024",
+          "width": 1024,
+          "height": 512,
+          "title": "Scale AI releases free lidar data set to power self-driving car development",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/amp/",
+      "publishedDateTime": "2020-05-23T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-05-23-towards-a-more-transparent-ai.md",
       "title": "Towards A More Transparent AI",
       "excerpt": "How can we depend on machine learning models and trust them knowing that there are so many ways for the model to fail?",
@@ -1120,53 +1167,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-google-will-stop-building-custom-ai-for-big-oil-and-gas.md",
-      "title": "Google will stop building custom AI for Big Oil and Gas",
-      "excerpt": "This report exposes how the three largest cloud companies — Amazon (33% market share), Microsoft (18%), and Google (8%) — are partnering with oil companies to use artificial intelligence ...",
-      "webUrl": "https://electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/05/Google-1.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 500,
-          "title": "Google will stop building custom AI for Big Oil and Gas",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/amp/",
-      "publishedDateTime": "2020-05-22T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

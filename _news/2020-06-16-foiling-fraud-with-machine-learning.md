@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "Foiling fraud with machine learning"
 
-secured: "JzN1Xlp7M6tn2VFhkrNUjlcXSEUVz/hB3FO3msIj7BjhER4OuT9sIyGi1QfQ49RF1pD8SMFZcyUFLwuyt37ozuz5cGjuM/Zd+jP1QGUGwCbULtWf68oJjxGfH1+EmmXtmObfRw6ynWVbolw/wKnJieBDB3+acERjRT9Pr8BQWmjG/C+pQFc5BMWzx0rFCkiP/A6jj37FwbBcBsMRyQIlAX1Qq3QY6gjMwxU8AmwS1jBAtZSbxgvdBIl2q2abjPAa9/oGE9VPOPIOceTsxaSTTwWrd1uKbm2Ec1fgmK5c95Ia/b7ve2aUYOOIL5g75JGkQ2aqZHUAwxv2K9OA0kKJYg==;5ZGUXBXyKfgO8w4dxMV43Q=="
+secured: "lhnX1XkbrOIR90SQE5UXYga/cl5tXfWY7OzEeZAbHHgNcc1oNlL/d1G70+WrrOJB/735FEP8CrFtkLnHm0sCYkXIIJ09xzM+/QDTd/bOMyfAuePv4hvN42/SjU4A5wgdId5Is8vaYWzJgoVAsMLnYEoQoyrZKK9ycOYXkBEywZFbnXlDF/gOlZvxCKkltDeHAgtlOGVx7DHbK3denVJMu5gBCOjR+mSP1rJqPTQQe9fEfxWONsKR5iO5Km43DT+KC89zkhKEY701XED3QsAp4ktK1uJ2Y0VEVGJcIjbqWch/Gex7GplzN2Q7215docDTOgwMGHd1I/FEOiwZlh/GsQ==;teJls47L/DddfyBKoidh4Q=="
 ---
 

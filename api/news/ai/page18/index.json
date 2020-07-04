@@ -2,6 +2,44 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-06-16-neoml-open-source-library-for-building-training-and-deploying-machine-learning-models.md",
+      "title": "NeoML: Open source library for building, training, and deploying machine learning models",
+      "excerpt": "NeoML is an open source library for building, training, and deploying machine learning models. It supports deep learning and traditional ML algorithms.",
+      "webUrl": "https://www.helpnetsecurity.com/2020/06/16/neoml-open-source-library/",
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.helpnetsecurity.com/posts2020/NeoML.png",
+          "width": 750,
+          "height": 257,
+          "title": "NeoML: Open source library for building, training, and deploying machine learning models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-16T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Help Net Security",
+        "domain": "helpnetsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing.md",
       "title": "From Computer Vision To Deep Learning: How AI Is Augmenting Manufacturing",
       "excerpt": "While machine vision has been around for more than 60 years, the recent surge in the popularity of deep learning has elevated this sometimes misunderstood technology to the attention of major ...",
@@ -1294,35 +1332,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-deep-learning-networks-track-up-to-100-animals-simultaneously.md",
-      "title": "Deep learning networks track up to 100 animals simultaneously",
-      "excerpt": "The trajectories described by this data were used to train a deep interaction network (bit.ly/VSD-DIN), a deep learning model that reasons how objects in complex systems interact, to support dynamic predictions and inferences about the abstract properties ...",
-      "webUrl": "https://www.vision-systems.com/boards-software/article/14176167/deep-learning-networks-track-up-to-100-animals-simultaneously",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vision Systems Design",
-        "domain": "vision-systems.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,53 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-06-04-ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists.md",
+      "title": "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists",
+      "excerpt": "In a paper, Uber researchers describe an autonomous vehicle perception system that reasons about the behavior of pedestrians, vehicles, and cyclists.",
+      "webUrl": "https://venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/amp/",
+      "publishedDateTime": "2020-06-04T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study.md",
       "title": "Self-driving cars could only prevent a third of U.S. crashes: study",
       "excerpt": "(Reuters) - Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday.",
@@ -1021,52 +1068,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-nanox-raises-20-million-to-scale-its-ai-medical-imaging-system.md",
-      "title": "Nanox raises $20 million to scale its AI medical imaging system",
-      "excerpt": "Nanox raised $20 million from SK Telecom in a deal that'll see the former's AI medical imaging hardware deployed in Vietnam and South Korea.",
-      "webUrl": "https://venturebeat.com/2020/06/04/nanox-raises-20-million-to-scale-its-ai-medical-imaging-system/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/565d38a9-02a3-4ac9-9e24-fee9c3b9094a-e1579032983901.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Nanox raises $20 million to scale its AI medical imaging system",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/04/nanox-raises-20-million-to-scale-its-ai-medical-imaging-system/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/04/nanox-raises-20-million-to-scale-its-ai-medical-imaging-system/amp/",
-      "publishedDateTime": "2020-06-04T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
