@@ -28,6 +28,20 @@ images:
     title: "Automotive Artificial Intelligence Market Analysis With Impact of COVID-19, Top Companies, Trends, Demand, Future Opportunity Outlook 2025"
 
 related:
+  - title: "Computer Vision Market Analysis 2020 by Size, Share, Latest Global Trends, Top Key Players, Future Growth, Revenue Analysis, Demand Forecast To 2023"
+    excerpt: "Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal"
+    publishedDateTime: 2020-07-02T16:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-analysis-2020-by-size-share-latest-global-trends-top-key-players-future-growth-revenue-analysis-demand-forecast-to-2023-2020-07-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IoT Chip Market with COVID-19 Impact Analysis by Hardware, Power Consumption, End-use Application and Region - Global Forecast to 2025 - ResearchAndMarkets.com"
     excerpt: "Impact Analysis by Hardware (Processor, Connectivity IC, Sensor, Memory Device and Logic Device), Power Consumption, End-use Application (Wearable Devices, Consumer Electronics, Building Automation and Retail) and Region - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2020-07-02T08:17:00Z

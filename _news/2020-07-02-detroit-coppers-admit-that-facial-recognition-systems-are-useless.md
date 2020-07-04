@@ -66,20 +66,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "Why the racism in facial recognition software probably can’t be fixed"
-    excerpt: "It’s been proven that facial recognition software isn’t good at accurately identifying people of color. It’s also known that police departments around the country use facial recognition tools to identify suspects and make arrests."
-    publishedDateTime: 2020-06-29T10:05:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/facial-recognition-software-racism-people-of-color-wrongful-arrests-algorithmic-bias/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 41
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2020/06/fr-ft-img.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "JN9Vxb0G2c5DCA950SA67ile8muP9hjf8lsBVD5kAg8WO2LFaPDzDuM2xlyyY3hwMnC0oEvfZAEjoc6PEYnrOjjXYgSWMDSqHZql3Sw6w2KWRVcK0LiEX4/B/B6zNk69ZX7u0VsvEuUE+NSQKf2k/Z7KMz2TQRk8GBbORcKKPIA5LnEw0C9cTLZ9XSTaOgjupkqlE35vAZUPbe6CHfsrrfEqSTzRzEnvyu5tqBOIICXW6H802A32xqmCl+uwfgwwpCQ9dFgf3ropwMPXJqwTUKZ3ZvIOIVN9sASMhZCC82Lnl7Sq84HXw0mCnA3f/HgpoeQB5XfSXcsWOZrOhK/OHkSpMCf5WjXJSB44N6TBsH4rO7iTz3UBIvbxonJwEFfJKnZEmD3uJCOjyR0n6/jJrk3sqLyiIQG8xGCchyDWyf419IQabZL/cvf3ulVlq4SeXZR0lSc1HH6kgCrgKKIw7h2L3cE92J6wEZ619Wvbc57LWkyAjoi0ldwF7UVqtS5csql2lQtDtVnsO471cMaaIw==;qy1n6XkXqu7GalnLdd0HIA=="
 ---

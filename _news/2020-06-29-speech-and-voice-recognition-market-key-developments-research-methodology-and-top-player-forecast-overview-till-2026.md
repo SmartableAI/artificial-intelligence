@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2020-2025"
-    excerpt: "Jun 29, 2020 (AmericaNewsHour) -- Market Overview: The Global Speech and Voice Recognition Market was valued at USD 5.21 billion in 2016 and is projected to reach USD 26.15 billion by 2025, growing at a CAGR of 19.63% from 2017 to 2025. Voice and Speech ..."
-    publishedDateTime: 2020-06-29T10:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2020-2025-2020-06-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "EVa4/s8wwaFv8sr8pPXh077OHeIrTURPiXjKv1a0saLSJMS4wlX7TK49jMV4pbHYxBG9l+AQ2ho84DUOpgRLWH+7dZ6PF8ed3uTyw0KuyZx+Q2iOLBqjhyRuIgjiTV+ZIktbMs2M/3tg4fcql7CRkbU/Qn5zlv8WWDxI9cs0GKX/ru1+fS0ygcO3UmzIZn2+94EH+oVS+2zuyVYOrxe713KlUBm6MOcImcUlQaOJ+ktM0n6Cs/y7FpK1+y5AwtrK0woImBr0Kon5jtpVwN7pQVvMgZ+idrc+RW96ZL5+qxdMZRFNb4fa+LtHyiDRKG1q4Qoek9g16fAuYFyRHySljQ==;7SI9k+REl5NGeA+69RZDyA=="
 ---

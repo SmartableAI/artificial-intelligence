@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "Why the racism in facial recognition software probably can’t be fixed"
-    excerpt: "It’s been proven that facial recognition software isn’t good at accurately identifying people of color. It’s also known that police departments around the country use facial recognition tools to identify suspects and make arrests."
-    publishedDateTime: 2020-06-29T10:05:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/facial-recognition-software-racism-people-of-color-wrongful-arrests-algorithmic-bias/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 41
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2020/06/fr-ft-img.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Detroit coppers admit that facial recognition systems are useless"
     excerpt: "But they have used them against Black people anyway Detroit police have used highly unreliable facial recognition technology almost exclusively against Black people so far in 2020, according to the Detroit Police Department's own statistics."
     publishedDateTime: 2020-07-02T09:59:00Z

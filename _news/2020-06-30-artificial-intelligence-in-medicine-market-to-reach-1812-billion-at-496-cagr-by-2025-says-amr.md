@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T15:00:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-to-reach-1812-billion-at-496-cagr-by-2025-says-amr-2020-06-30"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -29,15 +29,29 @@ images:
     title: "Artificial Intelligence in Medicine Market to Reach $18.12 Billion at 49.6% CAGR by 2025, Says AMR"
 
 related:
-  - title: "Artificial intelligence (AI) Market Size is Expected to Reach USD 169,411.8 Million in 2025 - Valuates Reports"
-    excerpt: "PRNewswire/ -- The global Artificial Intelligence (AI) market size is expected to reach USD 169,411.8 Million in 2025, from USD 4,065.0 Million in"
-    publishedDateTime: 2020-06-30T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025---valuates-reports-301085882.html"
+  - title: "AI in Healthcare Market Size is Estimated to Reach USD 99,491.58 Million by 2027 - Valuates Reports"
+    excerpt: "PRNewswire/ -- The Artificial Intelligence (AI) in the healthcare market was valued at USD 4,836.87 Million in 2019 and is projected to reach USD"
+    publishedDateTime: 2020-06-30T14:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ai-in-healthcare-market-size-is-estimated-to-reach-usd-99-491-58-million-by-2027----valuates-reports-301086006.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 34
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
+  - title: "Artificial intelligence (AI) Market Size is Expected to Reach USD 169,411.8 Million in 2025 - Valuates Reports"
+    excerpt: "PRNewswire/ -- The global Artificial Intelligence (AI) market size is expected to reach USD 169,411.8 Million in 2025, from USD 4,065.0 Million in"
+    publishedDateTime: 2020-06-30T22:00:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025-valuates-reports-877658862.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
     images:
       - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
         width: 920

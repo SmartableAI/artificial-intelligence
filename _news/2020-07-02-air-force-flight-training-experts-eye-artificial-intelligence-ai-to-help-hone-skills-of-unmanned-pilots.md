@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-02T06:39:00Z
 webUrl: "https://www.militaryaerospace.com/unmanned/article/14178834/artificial-intelligence-ai-unmanned-flight-training"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -15,17 +15,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Air Force seeks to pit unmanned aircraft with artificial intelligence (AI) against a manned jet fighter"
-    excerpt: "Manned jet fighter to cross swords with remote-controlled F-35 jet that will carry out maneuvers augmented by artificial intelligence technology."
-    publishedDateTime: 2020-06-29T09:22:00Z
-    webUrl: "https://www.militaryaerospace.com/computers/article/14178610/artificial-intelligence-ai-jet-fighter-unmanned"
-    type: article
-    provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 18
 
 secured: "jVdra11sRUl4NloSHWU5cXR99Z6o9BVn5qbD+Bs6n3n0sqE9rJSOV/NFkt8TEt2DrTr0ACOT98Yvh4cgsS7W5QHDGGH+N/1ZP7E2tQsJRBryYplL5ALSUklx+gWaL2VchSGlUTRfK/nJ1el4nFD7wMc47MqAnf5ks//wH9W9BMFGuPZOVknTLnSEkCcF+Em6zH9gR/RbdliTH+XhOQGwIXG+NfdLe7EIVqMTwIu5GKBmsMwt6VeO7LrOIpvi7cwpTE4ITreTljkXhcvrGpNyLypVNjLKu+gJt0jRnKu3JRkDAzedwoHBAv1CaQ3Rmpu9XsTmgumhw4e+4qf2VxHWtroWBsht3BTLWB0esfKtTMJLYV+FRjogrYry+bXGhSPhZ3y7MC3CdgiozurqaaIqD+B83Q6ysaQAvh0NCdvyJsdrNw3KvQjgDe+CDxgw4AewNQdvPX8qYLMPNYB4+fWhjfRuNbMePwboO+BRpEAr8b+24CGvDlhtSzO3G7GrQaS7KQIsfWEM6E4dHRWbNJ2emw==;avPuiQxQWobnsKCctdlHZQ=="
 ---

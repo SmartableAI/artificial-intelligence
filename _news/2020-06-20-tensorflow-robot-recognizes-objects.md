@@ -13,6 +13,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://hackaday.com/wp-content/uploads/2016/10/robot.png"

@@ -2,12 +2,9 @@
 category: news
 title: "Video: Using deep learning to combat cheating in Counter-Strike"
 excerpt: "In this GDC 2018 talk Valve's John McDonald discusses how the company has utilized deep learning machine learning techniques to combat cheating in Counter-Strike: Global Offensive ."
-publishedDateTime: 2020-06-24T19:08:00Z
-webUrl: "https://gamasutra.com/view/news/365410/Video_Using_deep_learning_to_combat_cheating_in_CounterStrike.php"
+publishedDateTime: 2020-06-24T19:07:00Z
+webUrl: "https://www.gamasutra.com/view/news/365410/Video_Using_deep_learning_to_combat_cheating_in_CounterStrike.php"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Gamasutra
@@ -18,42 +15,12 @@ topics:
   - AI
 
 images:
-  - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/992467.jpg"
-    width: 467
-    height: 483
+  - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/remedy.gif"
+    width: 341
+    height: 214
     isCached: true
     title: "Video: Using deep learning to combat cheating in Counter-Strike"
 
-related:
-  - title: "Analyzing trend and forecasting of rainfall changes in India using non-parametrical and machine learning approaches"
-    excerpt: "This study analyzes and forecasts the long-term Spatio-temporal changes in rainfall using the data from 1901 to 2015 across India at meteorological divisional level. The Pettitt test was employed to detect the abrupt change point in time frame,"
-    publishedDateTime: 2020-06-25T09:26:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-67228-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 32
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-67228-7/MediaObjects/41598_2020_67228_Fig1_HTML.png"
-        width: 500
-        height: 685
-        isCached: true
-  - title: "Uncovering the effects of interface-induced ordering of liquid on crystal growth using machine learning"
-    excerpt: "Considerably less is known about the role of the liquid structure on the kinetics of crystal growth. Here atomistic simulations and machine learning methods are employed together to demonstrate that the liquid adjacent to solid-liquid interfaces presents ..."
-    publishedDateTime: 2020-06-26T09:10:00Z
-    webUrl: "https://www.nature.com/articles/s41467-020-16892-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 23
-    images:
-      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-16892-4/MediaObjects/41467_2020_16892_Fig3_HTML.png"
-        width: 685
-        height: 240
-        isCached: true
-
-secured: "pbBxeFRRN5F9yrnGdFT8s+qsCX7e8iZLpERnfVYuSiABBlTCFVom0vf0XB4It82Wz3TS32zL7sNQ59GGkK9c81CcZdAidD9JRcAwblHZgp9127aTHjyyc2ekOVgPha2RYIJV8MQkWCmRaP9z4m1cif9di2hR1wMzGGnpntWmbh3ZtHzyraT3Li6BDfdVgOrURO+tttrVLN/gXUDGA1DcPdWjKGtpPsjuw1JFCPqorH9ltSNY3BbmaY/AgopBiSWWcGSGccasjtoDnEB4fxx57MrwOCUrWC3agdz3eXg61dWGkgT7Cj84+B79ueDa4Ocg8/O7p8j19gT/UrPWc8ly7K0YR6mKom1tLjzFcvi4jujnV848h1XEum1fX8KBwTMaDCOael9OqTA0Pc0FIQq4vShv6QsQIxQmYfulPcIWMANuBxw42NpHep0w1hoQX75XVH+y0pQJYmSXjD9/XFDMEGu6XXDiYJW/z+9d4G/YTElQ3gUJMctBTIdsbg+G9qPIZluZGLIDsbbfGbt7fsyg8g==;GMlWmfS1tWKxF8G5vfh8vg=="
+secured: "uc33vZ4SPvNBsL4VSJHSoHIQpoTmnqBo942Y0PUrVNMdmLvSfUEzVSELxcXBjhO8xdktwFq6nNgEXVA6lf0Ht/jYGlodHBuXkFisZJAmfn1L2YgRn9Fceg2Pfjk+IaWWATzymJP4BQALD0TFUrvS80AR6zyYf39Y5sFKrV5Lb5uBrEZ5b814w+BjatS4llKiqJifxm/YNDtZ2XiUzZEmu4U9cLIXz6T13joAMrzuOr5zb/mp9/yWW4kEFnQUru1CW+MRfM3cEA82DpS6fzydu/FfpWgOHFJBd8mldH8pQLgZNVmoBCyA6iMBpoTi6wmqDZsBCZw7E5raK+8PT3tbYg==;6zSZ6rT8dNkNskCa5l+PVg=="
 ---
 

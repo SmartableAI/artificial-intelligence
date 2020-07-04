@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Market Analysis 2020 by Size, Share, Latest Global Trends, Top Key Players, Future Growth, Revenue Analysis, Demand Forecast To 2023"
+    excerpt: "Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal"
+    publishedDateTime: 2020-07-02T16:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-analysis-2020-by-size-share-latest-global-trends-top-key-players-future-growth-revenue-analysis-demand-forecast-to-2023-2020-07-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QIjfkZWGSI28tMKP4ixFecW0oCjrBGHeLifo9D66qRnCOCH1VO0Xr9sJ6sVMRXkctxo6CbZ5GnAQqqC751mnl1S2bRjLBOZZIMmJPc6eroYc3ZHBuZ9l/jQddmcOQP4jINvJkqFpQGUUX25oaYUdaDKmYjKT3fzJ+23YURNhhe+DWh+PfEsY+oVuSQRFr00qpNxdIflIeKqEHb72cW5Ex3X2xDwrG0K/onORvO4g7PWmeQbrzHJmPx8WUd1ACtkKfze3qzWaw7Lby+qlsxloVZJ9xGo0BjEhGasId2XWszgP4RMQIYyKs4E681tlkktxsGjAk6/Sw6wFk4YSsS95fIY38xVO6FlnFc8y8oji3xgDhG96bmYhBvu/MqnoV37TnVn9vnlerQ9nUzE/MTrjd1VIdJeocDgQuvsjKYEQUP8M5ZriokrCl51g2mZ99Ynmaj9witnzFeMlrmTRYEAKgsYOJ2K3YkG3gSFi9DMvHo6tjN5vwWQRhbFzsDTIQ2qPSdk2r0s9cijXzJGuxKzX1A==;/NwcTp6xsUnsYk53shor3Q=="
 ---

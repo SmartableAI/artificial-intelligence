@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/85800-autonomous-robot-mit-uses-uv
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85800-autonomous-robot-mit-uses-uvc-kill-coronavirus-particles.html"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -54,22 +54,6 @@ related:
       name: Robotics & Automation News
       domain: roboticsandautomationnews.com
     quality: 27
-  - title: "Autonomous robot equipped with UVC lights neutralises 90 per cent of coronavirus particles on surfaces and can disinfect an entire warehouse in 30 minutes"
-    excerpt: "The machine uses a type of short-wavelength ultraviolet light called UVC to kill microorganisms and disrupt their DNA in a process known as 'ultraviolet germicidal irradiation'."
-    publishedDateTime: 2020-06-29T09:48:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8469761/Autonomous-robot-uses-UVC-light-kill-coronavirus-warehouses.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8469761/amp/Autonomous-robot-uses-UVC-light-kill-coronavirus-warehouses.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8469761/amp/Autonomous-robot-uses-UVC-light-kill-coronavirus-warehouses.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 17
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/06/29/09/30174576-0-image-a-4_1593419738612.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "A/cqbFWyCRXAM7L641V49VWGyy8tVdM/FrNWaGvLmGi+5g862O/2/mJ8X7QuM7H+qfv2mZ0GcQ7uBkqmeYCh8ZvhxlG1vjv6+XHTzwtC6Ri4npe9yp1pe+DUI/Tw0URJzEDrAhDsT5SSGHPjLzWAW7COoX53nPQmXjs8KDzAvzyOWzCyAX2yP65rPY3Qk1WjvL3j8QmY/Jb14UPIPcEPpNWYeiqMycQy4ab5/6qMpAdzZWWdCYHpu4CL6RMhNKelkdYdKKXAOYDj4gc8rlje4JWsElJ5atmYmErA1UuHwmb0u8V5OLcHjqeLKAMDDecVNmbtYkExcyYkaq+pA4Nv8XNIeRMmPEDIKhl2AXDVQp0nJpdYiF/weG5/oSpFQfxX/QI+QhU8Y0ks98XcHBW8VfReIMx+GazwEm8Dp4MODAVZBHBbedhGAAG/wziAth2ohQFaeSDMJwDU1OEsuHGFP0IPeoAzSMiuZJlx/TPR9FX6lRlZPNfEhEfhsfIY8u9z;rK0v282W5wp2UAYOp8/5hA=="
 ---

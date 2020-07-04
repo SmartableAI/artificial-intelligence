@@ -39,15 +39,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Amazon’s Zoox Purchase Says a Lot About the Future of Self-Driving Cars"
-    excerpt: "Way back in 2018 my colleague Ashlee Vance profiled the founders of the startup, which had raised hundreds of millions of dollars to put self-driving robotaxis on public roads by 2020. It was a concept that seemed tantalizingly possible back then—its competitors included Alphabet Inc."
-    publishedDateTime: 2020-06-29T10:45:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2020-06-29/amazon-s-zoox-purchase-says-a-lot-about-the-future-of-self-driving-cars"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 34
 
 secured: "lTpRkaelwM+lByW0Xs8O1yH7rtm6k+ppnqMV6WvV3q5INpRy4CQwR4uITlE+o+SHYL1BvbiR8mOfiGAX54Pd7mYowWU0AYrRiiLjQPIgqZK+aSYQ/LEzcdtv2DJPK848282o/+Pc0ltHorX/K0Iej1rXBw5eXgj40RZlyfHqgkAOu0ssK/UaO+xUcEGge/Flw/c41dria6anxwWXLEc4Aleg3RBRFDoheRvzB9SwHLAitVZ809/g+epD8tgwE6Mg0DIQrvwQ43CBKChbPcH53OUJuvBiHdoo+6LsoCSS31MSg0SzqqBXGOsFGehdhWBvc7Y1+awvqUqC1xdERJ58E8g1Pbl9ZSgasKKpkKqvTnicz3KYey5MSrxXDkfVyODyWGQypfnimBMc3lR0/+qqgWJ/F989Y4qlNLt/zYlOxsRIagyF+sa0aGpvUOlt6Py0hdcpvpNBKIz+hdkeqKKCRu3eeoEtACSxNE28VoJmvYdaYos00fFMx4jeAYW5VkFMydBKAZQScvyScn/vdYdCGQ==;eH0DC0+ar4mkEg0eCGdJiw=="
 ---

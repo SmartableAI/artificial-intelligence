@@ -50,22 +50,6 @@ related:
       name: Robotics & Automation News
       domain: roboticsandautomationnews.com
     quality: 27
-  - title: "Autonomous robot equipped with UVC lights neutralises 90 per cent of coronavirus particles on surfaces and can disinfect an entire warehouse in 30 minutes"
-    excerpt: "The machine uses a type of short-wavelength ultraviolet light called UVC to kill microorganisms and disrupt their DNA in a process known as 'ultraviolet germicidal irradiation'."
-    publishedDateTime: 2020-06-29T09:48:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8469761/Autonomous-robot-uses-UVC-light-kill-coronavirus-warehouses.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8469761/amp/Autonomous-robot-uses-UVC-light-kill-coronavirus-warehouses.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8469761/amp/Autonomous-robot-uses-UVC-light-kill-coronavirus-warehouses.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 17
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/06/29/09/30174576-0-image-a-4_1593419738612.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "hWVuU8T2Z8LMbV9VlzSAZ3NQpOr2sQSLHJvQQ//kLEtw06C59slGst/DY36ToqwXx6n9RjcAes0eI0O8Dh3mL6322aolWQeS3gUsS4+0VJVglB98hC4QjiCGHNkP1ZQMyJp8lL/aA/k+z3IsGKwBzQq/sqDX5mvAitsCfJqBn14l+J1xlQnrSzcsOw2fKY+9qsenKvh7mRjxpRqQWOppmAkbC5RwgpqBUt2dY8wcXLs914ZxbJChGK6Ue4m6lxS2z5KJ21CCwC3YN9iWcVIR13AzXS4D9+BlgyOnrZO083VM33JWtkBaJCk4EE0p8XyqOs0T4cu3Cwq2A++Kug9MYOQeHxl9EBL3xxwQKTr5jmxs3RSG4wmGvDzbkNUsL93W4lAX/45q3HWCO9gUY+Q2LtFZdZb20K6N9axv3zLIgjxzkY7Ji7YS6adUqv9ztOhLUjR5ZqDZ20DxzqkaqlIVjCQM8tGLTK6vzqjru69KQO6pm+v7hPNOi/sg7ThdX7XzjaWBHUmO8zrX/EnHOhLKzg==;eRc1S8lIQtsirl7l0Dxp8w=="
 ---
