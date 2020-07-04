@@ -29,15 +29,15 @@ images:
     title: "Impact of COVID-19 on Artificial Intelligence Market Size, Share, Revenue, End Users And Forecast Till 2026 Size and Industry Share"
 
 related:
-  - title: "Service Robotics Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026"
-    excerpt: "The global service robotics market is expected to rise with an impressive CAGR and generate the highest revenue by"
-    publishedDateTime: 2020-06-29T08:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market---by-supply-demand-scenario-application-by-region-pricing-analysis-opportunities-and-forecast-2026-2020-06-29"
+  - title: "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis By Size, Growth Rate and Trends With Forecast To 2026"
+    excerpt: "Artificial Intelligence in Healthcare Market2020 Global Industry Trends, Size, Share Analysis Report. According to"
+    publishedDateTime: 2020-06-29T13:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-by-size-growth-rate-and-trends-with-forecast-to-2026-2020-06-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -57,20 +57,57 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Key Developments, Research Methodology and Top Player Forecast Overview Till 2026"
-    excerpt: "The global speech and voice recognition market is expected to rise with an impressive CAGR and generate the highest"
-    publishedDateTime: 2020-06-29T15:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-key-developments-research-methodology-and-top-player-forecast-overview-till-2026-2020-06-29"
+  - title: "AI in Healthcare Market Size is Estimated to Reach USD 99,491.58 Million by 2027 - Valuates Reports"
+    excerpt: "PRNewswire/ -- The Artificial Intelligence (AI) in the healthcare market was valued at USD 4,836.87 Million in 2019 and is projected to reach USD"
+    publishedDateTime: 2020-06-30T14:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ai-in-healthcare-market-size-is-estimated-to-reach-usd-99-491-58-million-by-2027----valuates-reports-301086006.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
+  - title: "Human Machine Interface Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2027"
+    excerpt: "Selbyville, Delaware Global Human Machine Interface Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Human Machine Interface Market Report also covers top key players,"
+    publishedDateTime: 2020-07-02T05:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/human-machine-interface-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2027-2020-07-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 33
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Market Analysis 2020 by Size, Share, Latest Global Trends, Top Key Players, Future Growth, Revenue Analysis, Demand Forecast To 2023"
+    excerpt: "Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal"
+    publishedDateTime: 2020-07-02T16:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-analysis-2020-by-size-share-latest-global-trends-top-key-players-future-growth-revenue-analysis-demand-forecast-to-2023-2020-07-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Diabetes Management Market 2028 Report Reviews Future Development, Manufacturers, Trends, Share, Size and Forecast"
+    excerpt: "Overview . The Global artificial intelligence in diabetes management market is likely to register significant growth"
+    publishedDateTime: 2020-06-30T07:58:00Z
+    webUrl: "https://www.medgadget.com/2020/06/artificial-intelligence-in-diabetes-management-market-2028-report-reviews-future-development-manufacturers-trends-share-size-and-forecast.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "+5p+b2HW3g/7MVIlzN4clThv65so5fIoWvj3L6uW/96as9EqOg5eGIrS67UgHltRAklpKXvYqYFo/DzCvlbcdLlFU4oSicshEVslBzbL5B6glZ/BpGfU87JKpqsoY0R3TSvT9fZLEizFA97sVdVlLbXHS0dB6IocTBz+louQbNqtF0mvY/obkwSJIB0jSirkP/KvUZ/YBiIBsEqfR3rrO/iNnu4h7+HI6vRO5LGPUt9hZIlgVw/9Sxwuv9pTFcR3MZ1hxNB3KnevmnB1KPEgsU6J8owrNFjYYZMJGDS9yBR26lbGnuIJ3UKh4SSzNfxvQJZUywV8CDA5TOOUWIdVog==;I0B2JxJwHdcPoloSVPm+HQ=="
 ---

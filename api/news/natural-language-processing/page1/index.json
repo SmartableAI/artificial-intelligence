@@ -194,6 +194,53 @@
       ]
     },
     {
+      "path": "_news/2020-07-02-automotive-voice-recognition-system-market-size-to-exceed-39-bn-by-2027.md",
+      "title": "Automotive Voice Recognition System Market Size to Exceed $39 Bn By 2027",
+      "excerpt": "According to the Acumen Research, The global Automotive Voice Recognition System Market is expected to exceed $39 billion by 2027 and the market is anticipated to display a compound annual growth rate (CAGR) of 21 percent from 2020 to 2027.",
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-size-to-exceed-39-bn-by-2027-2020-07-02",
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automotive Voice Recognition System Market Size to Exceed $39 Bn By 2027",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-reddit-owes-its-moderators-more-than-an-updated-hate-speech-policy.md",
       "title": "Reddit owes its moderators more than an updated hate speech policy",
       "excerpt": "Should Reddit pay its volunteer moderators? The thought had not really occurred to me until last week, when I joined a call with CEO Steve Huffman and his general counsel, Benjamin Lee. The executives were briefing me and some other reporters about a significant expansion of the site’s content moderation policies,",
@@ -473,6 +520,54 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency.md",
+      "title": "Unifying The Supply Chain With Machine Learning Organized Information, Increases Speed, And Improves Efficiency",
+      "excerpt": "The supply chain is complex, and machine learning will be a critical tool in the continuing improvement of supply chain management.",
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/",
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed90450d3f5a6000627e3ca%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": "Unifying The Supply Chain With Machine Learning Organized Information, Increases Speed, And Improves Efficiency",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/amp/",
+      "publishedDateTime": "2020-06-30T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1281,91 +1376,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-sdl-launches-ai-enabled-online-translation-service.md",
-      "title": "SDL launches AI-enabled online translation service",
-      "excerpt": "SDL has launched SLATE. Smart Language Translation for the Enterprise a new self-service platform delivers a transformed experience in online translation",
-      "webUrl": "https://www.enterprisetimes.co.uk/2020/06/23/sdl-launches-ai-enabled-online-translation-service/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/06/german-64270_1280-2.jpg",
-          "width": 728,
-          "height": 410,
-          "title": "SDL launches AI-enabled online translation service",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetimes.co.uk",
-        "domain": "enterprisetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-apple-ios-14-the-top-new-features-coming-to-the-iphone.md",
-      "title": "Apple iOS 14: the top new features coming to the iPhone",
-      "excerpt": "Widgets used to be an afterthought in iOS, but starting with iOS 14 the company is changing course and making them a lot more data-rich and customizable. These can now have multiple sizes, and it looks like Apple has",
-      "webUrl": "https://www.techspot.com/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-22-image-24.jpg",
-          "width": 1248,
-          "height": 857,
-          "title": "Apple iOS 14: the top new features coming to the iPhone",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
-      "publishedDateTime": "2020-06-22T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

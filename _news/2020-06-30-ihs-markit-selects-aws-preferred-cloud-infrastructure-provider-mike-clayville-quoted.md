@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T08:25:00Z
 webUrl: "https://www.govconwire.com/2020/06/ihs-markit-selects-aws-preferred-cloud-infrastructure-provider-mike-clayville-quoted/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 270
     isCached: true
     title: "IHS Markit Selects AWS Preferred Cloud Infrastructure Provider; Mike Clayville Quoted"
-
-related:
-  - title: "IHS Markit Selects AWS as Its Preferred Cloud Infrastructure Provider"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that IHS Markit Ltd. (NYSE: INFO) has selected AWS as its preferred"
-    publishedDateTime: 2020-06-29T07:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200629005060/en/IHS-Markit-Selects-AWS-Preferred-Cloud-Infrastructure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
-    images:
-      - url: "https://mms.businesswire.com/media/20200629005060/en/801532/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "czZvQPfzp4x+jvpuY+axEAgHfvmPV92afOZAqCV0FAuIZLKiPaSfuw70LhGVHyGV+vihQu5+X3iKUvbqrXzLrgi93/6hGzuHmMzwJtDhltEqF0yGUF+CSeHGrtMY+DQkkrmLrl2fCCItsf1BJv87oqU26TYZngUyB5E0wAeUeK4T4r/BjbRB6B2WtTrkcwcdxWfGUPc15Mh9h9tNLKFHMyzWNaRONwnSwWBW/1BrrDlPnAsMhiAkmAjXT264wHaCSQzSnPA3+m/6LVxF9Hn/nSYI4VaiU7SoaL9LORTu26fK0JJ/iOv2UCCne1IHNym6yvXs96EgX5G8MrH35tezrFyHReGlcu/i1Sj79R/sC5g3w9StuWwHWqXSzazy0/T/+kBM3gLkmVxJnkjNium27kDzRjv3yQylkibo7kBAwqbv4LvLt4BDtrA71KL7SE4SOzqMjFjzwjA6xqfv+E7euHaxVrixc+FY4iAx9dWdeIm/g9PgsmVU1P7F/iA2U5agFpz05o3kajMLKgS6zWitRA==;wQeQZA2UKVXxPenLc5/hTg=="
 ---

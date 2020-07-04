@@ -39,6 +39,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Entertainment Robots Market 2020 Global Trends, Market Share, Industry Size, Growth, Sales, Opportunities, and Market Forecast to 2023"
+    excerpt: "The global entertainment robots market is expected to reach approximately USD 3.71 billion by 2023 at a CAGR of 23.06%"
+    publishedDateTime: 2020-07-03T15:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-global-trends-market-share-industry-size-growth-sales-opportunities-and-market-forecast-to-2023-2020-07-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Impact of COVID-19 on Artificial Intelligence Market Size, Share, Revenue, End Users And Forecast Till 2026 Size and Industry Share"
+    excerpt: "The global artificial intelligence market is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-06-29T13:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-artificial-intelligence-market-size-share-revenue-end-users-and-forecast-till-2026-size-and-industry-share-2020-06-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Human Machine Interface Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2027"
     excerpt: "Selbyville, Delaware Global Human Machine Interface Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Human Machine Interface Market Report also covers top key players,"
     publishedDateTime: 2020-07-02T05:20:00Z

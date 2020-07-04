@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/vicarious-b
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2020/vicarious-breeds-new-version-of-robots/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -18,22 +18,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Where are the robots?"
-    excerpt: "Where have all the robots been hiding during the Covid-19 crisis? For about a decade, we have heard rumors that a new generation of automated technologies have learned to do our jobs. If these tech prophecies were true,"
-    publishedDateTime: 2020-06-29T07:13:00Z
-    webUrl: "https://www.swissinfo.ch/eng/business/where-are-the-robots-/45863068"
-    type: article
-    provider:
-      name: Swissinfo
-      domain: swissinfo.ch
-    quality: 39
-    images:
-      - url: "https://www.swissinfo.ch/resource/image/45863066/landscape_ratio16x9/1920/1080/ebd567b0fb1504fdc22c53abc27ff49d/GK/op_jesse_ramirez.png"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "2dIPToIEYcm2am2ngBB33gfGkKEq+6/o0Qry2O6w2748fr5y7TamoTfYT3ROnC+07Tn37WvImzCTTr1YkxXcwzTKWiZQseS6H4xp9LPLaKX6PGm10yqmL2pLU1/e+DWZXiw7IDj/RzEtB3t1TRyQfgX7KMZ8eVLh8XJbprT1TxQf2JB5fiSGIr+CicAMmhDCEWsaW8rrlcfq2msynTr+O+mSCn1rBUBEwXGLOGIAYxNAG/m2FaE+Rm2COd4tzcShGuZzzj4GQEG0AqNv1uWtuv1+YC2edkk7HBKoIVWZ/3XYqvMVxOb6wD5HhBN3tClnowrot2UqGjwhnRvuSUD2IHOtXc44odP8P4YHnGjWoCyKuXxbFrjgrRiiq016EKgS6GT4cHPk9oQYunfgqIr1R7YoR/1MJOmO+Co4eHWxk/32WzlkCg3SqHqHpCnbSrygYjjOfmTpVptA5XxJUWZe2FBJ4NcOZKt+XrrbumRbM8/UZsTUzDlYcaiNu4CjF7rPSFytO3cIN0+KlL/0C9sayg==;dM+zFxg7mvUhlRL7hiZgMw=="
 ---

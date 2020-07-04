@@ -2,6 +2,318 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-06-16-ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed.md",
+      "title": "AI is tracking down the UK’s biggest foe: Japanese knotweed",
+      "excerpt": "Scientists are using AI to find invasive species of plants, including the scourge of British homes and gardens: Japanese knotweed.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/16/ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-75-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI is tracking down the UK’s biggest foe: Japanese knotweed",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/16/ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/16/ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed/amp/",
+      "publishedDateTime": "2020-06-16T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery.md",
+      "title": "Zycada raises $19 million for AI that speeds up web content delivery",
+      "excerpt": "Zycada, a startup developing AI technologies that speed up web content delivery, has raised $19 million in venture capital.",
+      "webUrl": "https://venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/",
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/0ae55f70-49ef-4207-8d57-61ed74ec5475-e1591732013768.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Zycada raises $19 million for AI that speeds up web content delivery",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/amp/",
+      "publishedDateTime": "2020-06-16T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding.md",
+      "title": "Streamlit wants to revolutionize building machine learning and data science applications, scores $21 million Series A funding",
+      "excerpt": "Streamlit wants to be for data science what business intelligence tools have been for databases: a quick way to get to results, without bothering much with the details",
+      "webUrl": "https://www.zdnet.com/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2018/12/06/7678c1af-8c33-4979-b8e0-aee879e3a982/istock-933321056.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": "Streamlit wants to revolutionize building machine learning and data science applications, scores $21 million Series A funding",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
+      "publishedDateTime": "2020-06-16T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses.md",
+      "title": "Kickstart a lucrative career: Become an expert in big data and machine learning with these 10 courses",
+      "excerpt": "Getting in on an innovative and lucrative career path before the job market is saturated is incredibly difficult. That's been true in podcasting, tech, and many other fields. Do yourself a solid and develop an expertise in big data and machine learning starting today,",
+      "webUrl": "https://www.zdnet.com/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/06/05/bf5a3452-5b7d-4ca4-9694-3c4b6dc6e0f3/thumbnail/1200x675/244b6f31cf693537b84714e0a47a396e/zdnet-big-data.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Kickstart a lucrative career: Become an expert in big data and machine learning with these 10 courses",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
+      "publishedDateTime": "2020-06-16T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-the-coronavirus-fueled-tech-trends-that-will-continue-to-dominate-daily-life.md",
+      "title": "The coronavirus-fueled tech trends that will continue to dominate daily life",
+      "excerpt": "Machine learning and artificial intelligence underlie ... The pandemic also accelerated the adoption of disruptive trends in financial services, epitomized by Stripe at the top of the 2020 ...",
+      "webUrl": "https://www.cnbc.com/2020/06/16/the-coronavirus-fueled-tech-trends-that-will-continue-to-dominate.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106539260-1589552521050gettyimages-597273317.jpeg?v=1589552560",
+          "width": 5130,
+          "height": 3420,
+          "title": "The coronavirus-fueled tech trends that will continue to dominate daily life",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/16/the-coronavirus-fueled-tech-trends-that-will-continue-to-dominate.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/16/the-coronavirus-fueled-tech-trends-that-will-continue-to-dominate.html",
+      "publishedDateTime": "2020-06-16T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-neoml-open-source-library-for-building-training-and-deploying-machine-learning-models.md",
+      "title": "NeoML: Open source library for building, training, and deploying machine learning models",
+      "excerpt": "NeoML is an open source library for building, training, and deploying machine learning models. It supports deep learning and traditional ML algorithms.",
+      "webUrl": "https://www.helpnetsecurity.com/2020/06/16/neoml-open-source-library/",
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.helpnetsecurity.com/posts2020/NeoML.png",
+          "width": 750,
+          "height": 257,
+          "title": "NeoML: Open source library for building, training, and deploying machine learning models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-16T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Help Net Security",
+        "domain": "helpnetsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing.md",
+      "title": "From Computer Vision To Deep Learning: How AI Is Augmenting Manufacturing",
+      "excerpt": "While machine vision has been around for more than 60 years, the recent surge in the popularity of deep learning has elevated this sometimes misunderstood technology to the attention of major ...",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/amp/",
+      "publishedDateTime": "2020-06-16T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-working-with-the-azure-kinect-developer-kit.md",
       "title": "Working with the Azure Kinect Developer Kit",
       "excerpt": "Azure Kinect is a direct descendent of the second-generation Kinect modules that shipped with the Xbox One, but instead of providing real-world inputs for gaming, it’s targeted at enterprise users and applications.",
@@ -784,334 +1096,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-linkedin-ai-hiring-is-slowing-down-due-to-the-pandemic.md",
-      "title": "LinkedIn: AI hiring is slowing down due to the pandemic",
-      "excerpt": "A new report published by LinkedIn found that AI and machine learning jobs hiring slowed down in the weeks following the COVID-19 outbreak.",
-      "webUrl": "https://venturebeat.com/2020/06/15/linkedin-ai-hiring-is-slowing-down-due-to-the-pandemic/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/LinkedIn-logo-e1585672001937.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "LinkedIn: AI hiring is slowing down due to the pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/15/linkedin-ai-hiring-is-slowing-down-due-to-the-pandemic/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/15/linkedin-ai-hiring-is-slowing-down-due-to-the-pandemic/amp/",
-      "publishedDateTime": "2020-06-15T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-igniting-the-dynamic-workforce-in-your-company.md",
-      "title": "Igniting the dynamic workforce in your company",
-      "excerpt": "In the rapid push to move to remote work, we’ve seen digital strategies accelerate by years—transforming their workplaces, work styles, and business processes forever. Overnight, remote workforces put out advanced environments of multi-device mobility, dynamic connection points and robust cloud-based",
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/06/igniting-the-dynamic-workforce-in-your-company/",
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/06/Watson-Box_LeadSpace_990X498_v2-01_x2-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": "Igniting the dynamic workforce in your company",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T11:53:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-artificial-intelligence-fully-automated-luxury-capitalism.md",
-      "title": "Artificial Intelligence, & Fully Automated Luxury Capitalism",
-      "excerpt": "Some have argued for a version of communism, called fully automated luxury communism. While this approach deserves credit for facing up to the exponential future, it overlooks two important facts. First,",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/15/artificial-intelligence--fully-automated-luxury-capitalism/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F828562116%2F0x0.jpg",
-          "width": 1199,
-          "height": 806,
-          "title": "Artificial Intelligence, & Fully Automated Luxury Capitalism",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/15/artificial-intelligence--fully-automated-luxury-capitalism/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/15/artificial-intelligence--fully-automated-luxury-capitalism/amp/",
-      "publishedDateTime": "2020-06-15T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge.md",
-      "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
-      "excerpt": "Alternatively, there’s color night vision for a more surreptitious view of the garden, porch, or whatever else you might point the camera at. Much the same way, the built-in siren can be automatically triggered or done manually through the app. There’s also two-way audio support. Motion detection uses computer vision to filter out the ...",
-      "webUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/Essential-_Spotlight_Lifestyle_Mounted_B.jpg",
-          "width": 1680,
-          "height": 1050,
-          "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
-      "publishedDateTime": "2020-06-15T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-facebook-cto-says-hiring-matters-for-mitigating-ai-bias-but-the-company-lacks-ai-research-diversity-stats.md",
-      "title": "Facebook CTO says hiring matters for mitigating AI bias, but the company lacks AI research diversity stats",
-      "excerpt": "Facebook CTO Mike Schroepfer on the importance of diversity and hiring at Facebook to address algorithmic bias despite little evident diversity at Facebook.",
-      "webUrl": "https://venturebeat.com/2020/06/15/facebook-cto-says-hiring-matters-for-mitigating-ai-bias-but-the-company-lacks-ai-research-diversity-stats/",
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-621759882.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook CTO says hiring matters for mitigating AI bias, but the company lacks AI research diversity stats",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/15/facebook-cto-says-hiring-matters-for-mitigating-ai-bias-but-the-company-lacks-ai-research-diversity-stats/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/15/facebook-cto-says-hiring-matters-for-mitigating-ai-bias-but-the-company-lacks-ai-research-diversity-stats/amp/",
-      "publishedDateTime": "2020-06-15T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-robot-to-safely-swab-for-coronavirus-developed-by-scientists-in-denmark.md",
-      "title": "Robot to safely swab for coronavirus developed by scientists in Denmark",
-      "excerpt": "Danish researchers have developed a fully automated robot that can take coronavirus swabs so that health care professionals are not exposed to the risk of infection.",
-      "webUrl": "https://in.reuters.com/article/us-health-coronavirus-swab-robot-idINKBN23B1PF",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Robot to safely swab for coronavirus developed by scientists in Denmark",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN23B1PF",
-      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN23B1PF",
-      "publishedDateTime": "2020-06-15T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study.md",
-      "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
-      "excerpt": "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday.",
-      "webUrl": "https://in.reuters.com/article/autos-self-driving-idINKBN23B2QM",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN23B2QM",
-      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN23B2QM",
-      "publishedDateTime": "2020-06-15T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

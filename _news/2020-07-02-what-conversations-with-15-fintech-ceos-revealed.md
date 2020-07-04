@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/dushyantshahrawat/2020/07/01/what-conve
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dushyantshahrawat/2020/07/01/what-conversations-with-15-fintech-ceos-revealed/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 675
     isCached: true
     title: "What Conversations With 15 FinTech CEOs Revealed"
+
+related:
+  - title: "AI Conversations: Reinventing the Retail Industry with an ‘Edge’"
+    excerpt: "The retail industry is in the midst of a sweeping transformation driven by new technologies and new business models. Artificial intelligence is an essential enabler of this transformation."
+    publishedDateTime: 2020-06-30T16:51:00Z
+    webUrl: "https://www.cio.com/article/3564721/ai-conversations-reinventing-the-retail-industry-with-an-edge.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/06/retail-verticals-100850469-large.jpg"
+        width: 1200
+        height: 524
+        isCached: true
 
 secured: "qJ5nQ7D8zAYKRXiRgsEI2xM0IaTT+PrkrOtY72AA48Lb8FxEdO5j3aM+i3VDXDg8o0Ho/jK5w1TFMtxKZSjbQyNkzMLP6N1/hxhQN9XKVcg8KS0HZJ5jxdzU4qIv11BE0/ct1DzUkaimk0rkiwrkRs5P/EeX3OsJ1L/wKlLxhC1UA2VlxK8jQKRacF2aTy2/I1voeqqdpPR45Q1cAVXt790klofVxSVO7SPvVDYOm4ncocZxmuQHa8nZh2iDpaiQl1FlkvW3GqBjhTKJLxleyFMAwwi3s8Qpxo7qHnaEHvpwhHRHzawM1om0XORChPyCXtEukHRocx1l5mRnfzk2AIUbSnlqH1/KAaBawoac8cN2i4SoVhbuF1wRbwq9S4VfeOlx1fmuXPbvSorffwC53Xjr6+F8HUI/LDGpjL7FCzrkgbtfxdbG9KITO1PZi4sG+JsNY3/TOnfkxkSA/p/uZBqxo1s0vXp+otSQ3I29xUBmPa592r/EoTYm3a0xyhs/0NvSVqCl+nr+D5jIV6H6QQ==;bpZ27t/Pf2ZjTsRYFOQtSQ=="
 ---

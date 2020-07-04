@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16469567"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16469567"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     height: 668
     isCached: true
     title: "How Machine Learning Improves The Efficiency Of Freight Operations"
+
+related:
+  - title: "Unifying The Supply Chain With Machine Learning Organized Information, Increases Speed, And Improves Efficiency"
+    excerpt: "The supply chain is complex, and machine learning will be a critical tool in the continuing improvement of supply chain management."
+    publishedDateTime: 2020-06-30T14:19:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed90450d3f5a6000627e3ca%2F0x0.jpg"
+        width: 876
+        height: 548
+        isCached: true
 
 secured: "UjxKNrO+KaO6eXK696Nq6pduNxxrDTSXvBHUfajp5Y/RzXHaq+WDVUvjINHzkrPmd3EOp+JR3crmxQHK/1Jm4qwpJqZuHhNFrAMpyMYc4frClZSgWw6j5yRX0QNrobdp1PpKf3fU9JHDu1p6ocXSV5hVItrY8WyBBWs06K6Yl2qu02Gx6JHacSY7cuRygCmRBso5ciJfVecwOcSmjTuL734RwDl42EBH8j12lnpU20UAvoQqaSuQUb5DQxMynUkjIV88fWWQ3YtxbFF9r7cRvYlV6nLtBpV1uI7g6JfFKjIKHUKYCTg14xEDJRFWFoIMaTJiLAympO/TTH/liG+PChx6B9NOKev7K+vXumpj6zFanfQ162ZyQOSfS1IiBBdmEiSbU/X6ANFBM0YByd3T+pNgoF10JICMFRbPILgXuMr44Vhlbb3Ci8z6JQxFXXG380YbFZhOkU6ThzdAWgGIJcyydaHrljTpni4BfJWF+h4oSAwbPCqjLZAT6pnF0eRLa8tJc6E1qT2jcENccsjUTQ==;CeoIDzlmq3iYse173SO/rg=="
 ---

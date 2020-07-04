@@ -25,47 +25,21 @@ images:
     title: "AI Conversations: Transforming Financial Services"
 
 related:
-  - title: "Advancing Azure service quality with artificial intelligence: AIOps"
-    excerpt: "As Mark mentioned when he authored the Advancing Reliability blog series, building and operating a global cloud infrastructure at the scale of Azure is a complex task with hundreds of ever-evolving service components, spanning more than 160 datacenters and across more than 60 regions."
-    publishedDateTime: 2020-06-29T09:00:20Z
-    webUrl: "https://azure.microsoft.com/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/"
+  - title: "AI ‘only scratching the surface’ of potential in financial services"
+    excerpt: "About half of financial services and insurance firms globally already use AI, according to a 2019 study by research group Forrester, and that number is expected to grow as new uses are found for the technology."
+    publishedDateTime: 2020-07-01T02:00:00Z
+    webUrl: "https://www.ft.com/content/11aab1cc-907b-11ea-bc44-dbf6756c871a"
+    ampWebUrl: "https://amp.ft.com/content/11aab1cc-907b-11ea-bc44-dbf6756c871a"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/11aab1cc-907b-11ea-bc44-dbf6756c871a"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 119
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/23aa03d8-6047-40dd-9a74-f9785e4ca016.png"
-        width: 1024
-        height: 449
-        isCached: true
-  - title: "Addressing complex Kubernetes issues with Watson AIOps and Sysdig"
-    excerpt: "\nExplosive growth in cloud applications built on containers has exponentially increased the volume of alerts, signals, and data vying for the attention of IT admins. Applications consisting of dozens of microservices, running across intercommunicating nodes, complicate incident detection and response."
-    publishedDateTime: 2020-06-29T14:26:29Z
-    webUrl: "https://www.ibm.com/blogs/watson/2020/06/addressing-complex-kubernetes-issues-with-watson-aiops-and-sysdig/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 117
-    images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/04/Leadspace-1.jpg"
-        width: 990
-        height: 498
-        isCached: true
-  - title: "Advancing Azure service quality with artificial intelligence: AIOps Facebook"
-    excerpt: "As Mark mentioned when he launched this Advancing Reliability blog series, building and operating a global cloud infrastructure at the scale of Azure is a complex task with hundreds of […]"
-    publishedDateTime: 2020-06-30T15:55:00Z
-    webUrl: "https://ctovision.com/advancing-azure-service-quality-with-artificial-intelligence-aiops-facebook/"
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 68
-    images:
-      - url: "https://ctovision.com/wp-content/uploads/space.jpg"
-        width: 632
-        height: 422
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F0c9ed6d2-b6db-11ea-8ecb-0994e384dffe?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "OY72ayvPNo+huMC6SCWlt2ZHCnSWAT0v+9t86K7aGRZH4xiiL5kM+rPChmi4Qn150BTCcgWMKL6OJYBc5O9PwHjMIuo0aj7H7nWAVWz5r8cggrrrruSzWAbvHSPY9/qso3BvnW6Ot0LpYlY4tUK9NPUtDN0neokOzxUQ9i0m2F/mYmwKnZXPfJX+0omgqAE6Mr5+RCn2O1FoKZMOxsNkrW6jH9KePUQmBN3jmEUx0VtXXMliPzG8uz3jl8oZiM1O0ruAqAWRL51RAjNfUoc9Qkis07P0KyXAn98KyDah5IgCZAKOTW5R8GK5mYkpyvfVDhtoVNrBKptQMDsIwgaVFZg3cBvt/PoBNvOx08/jc0oY0p6JFFtnOc6uLx8bIXtqrZEdn+01CauIWcM4KJ5c5gA3m/tHoKTCEXHOw5vZZVnqyqHCB9gUwzXDZBgiINUVyM/LDXTEeB9NWW5YpEy0MHwOw7zxWfsAGn9kqRvbvvUfZjeg6YXVrwBLVxgCkDDBFJbzk65exEpe4Lm4ne39LA==;mKgpTxYVbqVqKN99RwqByQ=="

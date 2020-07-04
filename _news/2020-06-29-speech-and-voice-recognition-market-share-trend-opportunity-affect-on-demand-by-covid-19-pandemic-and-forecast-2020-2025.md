@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Market Key Developments, Research Methodology and Top Player Forecast Overview Till 2026"
+    excerpt: "The global speech and voice recognition market is expected to rise with an impressive CAGR and generate the highest"
+    publishedDateTime: 2020-06-29T15:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-key-developments-research-methodology-and-top-player-forecast-overview-till-2026-2020-06-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "RxZHHWTprzxj4VuubFd/Jq/BdF5tUpeFjPs8v311G9vjrpDf8hVxIajCdb6j60gSpo2ui2KE2AyTBPTRi2bf05CrKQ1Yit8EvefXNtpheJqNu6RVHxXrGKiNF4ifvow+OFuC980kMFv+0NIGQz1KwHi7t9plUVizjsXpBPG3nAaKgDVO3CT8TpYBXwWNwCmUx6BbuCNrnqgXwPrv/D+Ok6tRsJ1eEK+HWMuNFsewYGdwNJlC2vV9vKTQezJHEzLjORjiFac0wD56PjPLlg0jgWA//U2TSokmgubWxyyUXC90eIFUAasvjWTpg6Xdw45NpOc5MG1MuzMH9QLrBGbACg==;mOLluLG0B5SaJwN7ksYYvw=="
 ---

@@ -30,43 +30,29 @@ images:
     title: "Speech and Voice Recognition Market Key Developments, Research Methodology and Top Player Forecast Overview Till 2026"
 
 related:
-  - title: "Service Robotics Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026"
-    excerpt: "The global service robotics market is expected to rise with an impressive CAGR and generate the highest revenue by"
-    publishedDateTime: 2020-06-29T08:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market---by-supply-demand-scenario-application-by-region-pricing-analysis-opportunities-and-forecast-2026-2020-06-29"
+  - title: "Automotive Voice Recognition System Market Size to Exceed $39 Bn By 2027"
+    excerpt: "According to the Acumen Research, The global Automotive Voice Recognition System Market is expected to exceed $39 billion by 2027 and the market is anticipated to display a compound annual growth rate (CAGR) of 21 percent from 2020 to 2027."
+    publishedDateTime: 2020-07-02T10:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-size-to-exceed-39-bn-by-2027-2020-07-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Entertainment Robots Market 2020 Global Trends, Market Share, Industry Size, Growth, Sales, Opportunities, and Market Forecast to 2023"
-    excerpt: "The global entertainment robots market is expected to reach approximately USD 3.71 billion by 2023 at a CAGR of 23.06%"
-    publishedDateTime: 2020-07-03T15:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-global-trends-market-share-industry-size-growth-sales-opportunities-and-market-forecast-to-2023-2020-07-03"
+  - title: "Speech and Voice Recognition Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2020-2025"
+    excerpt: "Jun 29, 2020 (AmericaNewsHour) -- Market Overview: The Global Speech and Voice Recognition Market was valued at USD 5.21 billion in 2016 and is projected to reach USD 26.15 billion by 2025, growing at a CAGR of 19.63% from 2017 to 2025. Voice and Speech ..."
+    publishedDateTime: 2020-06-29T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2020-2025-2020-06-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Impact of COVID-19 on Artificial Intelligence Market Size, Share, Revenue, End Users And Forecast Till 2026 Size and Industry Share"
-    excerpt: "The global artificial intelligence market is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2020-06-29T13:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-artificial-intelligence-market-size-share-revenue-end-users-and-forecast-till-2026-size-and-industry-share-2020-06-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
+    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

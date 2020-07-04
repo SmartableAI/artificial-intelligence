@@ -2,6 +2,269 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-06-15-global-fintech-market-by-technology-service-application-deployment-mode-region-and-vendor-forecast-to-2025-researchandmarketscom.md",
+      "title": "Global FinTech Market by Technology, Service, Application, Deployment Mode, Region and Vendor - Forecast to 2025 - ResearchAndMarkets.com",
+      "excerpt": "The \"Global FinTech Market By Technology (API; AI; Blockchain; Distributed Computing), By Service (Payment; Fund Transfer; Personal Finance; Loans; Insurance; Wealth Management), By Application, By Deployment Mode,",
+      "webUrl": "https://www.businesswire.com/news/home/20200615005414/en/Global-FinTech-Market-Technology-Service-Application-Deployment",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200615005414/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Global FinTech Market by Technology, Service, Application, Deployment Mode, Region and Vendor - Forecast to 2025 - ResearchAndMarkets.com",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-ai-is-amazing-but-complicated-and-we-dont-necessarily-need-to-plunge-in-headfirst.md",
+      "title": "AI Is Amazing But Complicated, And We Don’t Necessarily Need To Plunge In Headfirst",
+      "excerpt": "We know AI has biases. We know it’s complex. We understand that AI may or may not draw fair and ethical conclusions all the time. Yet it’s clear that AI is going to happen anyway. Physicist Stephen Hawking said AI was a major concern.",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/15/ai-is-amazing-but-complicated-and-we-dont-necessarily-need-to-plunge-in-headfirst/",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI Is Amazing But Complicated, And We Don’t Necessarily Need To Plunge In Headfirst",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/15/ai-is-amazing-but-complicated-and-we-dont-necessarily-need-to-plunge-in-headfirst/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/15/ai-is-amazing-but-complicated-and-we-dont-necessarily-need-to-plunge-in-headfirst/amp/",
+      "publishedDateTime": "2020-06-15T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-google-weve-got-1000-interns-working-on-open-source-projects-from-home.md",
+      "title": "Google: We've got 1,000 interns working on open-source projects - from home",
+      "excerpt": "Students enrolled in Google's summer internship programme will work from home this year and focus mostly on open-source projects.",
+      "webUrl": "https://www.techrepublic.com/article/google-weve-got-1000-interns-working-on-open-source-projects-from-home/",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/05/08/32f19f7a-aac1-431d-ba47-f9e67bb3641d/thumbnail/1200x675/b516fd0da4e25f251e6c411643be0927/20200507-moyer2-dan.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google: We've got 1,000 interns working on open-source projects - from home",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/google-weve-got-1000-interns-working-on-open-source-projects-from-home/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-weve-got-1000-interns-working-on-open-source-projects-from-home/",
+      "publishedDateTime": "2020-06-15T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-john-oliver-dives-into-the-shady-uses-of-facial-recognition.md",
+      "title": "John Oliver dives into the shady uses of facial recognition",
+      "excerpt": "\"There are currently serious concerns that facial recognition is being used to identify Black Lives Matter protesters.\"",
+      "webUrl": "https://mashable.com/video/john-oliver-facial-recognition/",
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F15%252F2f%252F4db85291caa440c5a2b2a03734947693.77000.png%252F1200x630.png?signature=aC6sIrEtCQeW2ffnViW3KAFrh68=",
+          "width": 1200,
+          "height": 630,
+          "title": "John Oliver dives into the shady uses of facial recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/john-oliver-facial-recognition.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/john-oliver-facial-recognition.amp",
+      "publishedDateTime": "2020-06-15T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-we-need-to-gather-as-much-data-as-we-can-how-ai-could-change-everything-about-education.md",
+      "title": "'We need to gather as much data as we can': How AI could change everything about education",
+      "excerpt": "COVID-19 has been a trial by fire for technology in education, but the sector needs to gather what it has learnt quickly if it wishes to edge forward with digital transformation.",
+      "webUrl": "https://www.techrepublic.com/article/we-need-to-gather-as-much-data-as-we-can-how-ai-could-change-everything-about-education/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/03/3a19062e-b5ae-4474-8195-6fdd48148608/thumbnail/1200x675/6ffda78e1c1d9c2e1f05fd41f9fa265a/20200303-ai-tom.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "'We need to gather as much data as we can': How AI could change everything about education",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/we-need-to-gather-as-much-data-as-we-can-how-ai-could-change-everything-about-education/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/we-need-to-gather-as-much-data-as-we-can-how-ai-could-change-everything-about-education/",
+      "publishedDateTime": "2020-06-15T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-company-boards-arent-ready-for-the-ai-revolution.md",
+      "title": "Company boards aren't ready for the AI revolution",
+      "excerpt": "Other businesses are now following suit, eager not to miss out on the AI advantage. I’m certain that companies which delay drafting and delivering their own AI strategies are bound for obsolescence. However,",
+      "webUrl": "https://www.techradar.com/news/company-boards-arent-ready-for-the-ai-revolution",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Company boards aren't ready for the AI revolution",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/company-boards-arent-ready-for-the-ai-revolution",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/company-boards-arent-ready-for-the-ai-revolution",
+      "publishedDateTime": "2020-06-15T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables.md",
       "title": "Huami unveils the Huangshan 2 chip, a self developed processor for its wearables",
       "excerpt": "Huami Technology, the known wearables maker, held its AI Innovation Conference in China. In the event, the company showcased a number of AI innovation technologies, and with it, the second generation of its self developed Huangshan processor.",
@@ -464,6 +727,35 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-14-artificial-intelligence-for-speech-recognition-market.md",
+      "title": "Artificial Intelligence for Speech Recognition Market",
+      "excerpt": "A new market study is released on Artificial Intelligence for Speech Recognition Market with data Tables for historical and forecast years represented with Chats & Graphs spread through 58 Pages ...",
+      "webUrl": "https://www.openpr.com/news/2074022/artificial-intelligence-for-speech-recognition-market",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2074022/artificial-intelligence-for-speech-recognition-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2074022/artificial-intelligence-for-speech-recognition-market",
+      "publishedDateTime": "2020-06-14T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -974,315 +1266,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-vergecast-android-11-beta-ps5-reveal-and-big-tech-halts-facial-recognition-for-police.md",
-      "title": "Vergecast: Android 11 beta, PS5 reveal, and big tech halts facial recognition for police",
-      "excerpt": "During the first part of the show, Verge reporter Megan Farokhmanesh and games editor Andrew Webster take over to run through everything announced at Sony’s virtual event on Thursday — from all the games to the long-awaited reveal of the PS5 design.",
-      "webUrl": "https://www.theverge.com/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409",
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/hW5KgB-H-j-9OHV4IwHlz09YiDc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66929738/dbohn_200608_4059_0003.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "Vergecast: Android 11 beta, PS5 reveal, and big tech halts facial recognition for police",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409",
-      "publishedDateTime": "2020-06-12T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai.md",
-      "title": "Researchers train drones to perform flips, rolls, and loops with AI",
-      "excerpt": "In a preprint paper, researchers propose a technique for training autonomous drones to perform flips, rolls, and other challenging acrobatics.",
-      "webUrl": "https://venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/6cf11ce1-1e3d-4b2f-ab04-62a2cfc0e264-e1591995877569.png?w=1200&#038;strip=all",
-          "width": 830,
-          "height": 415,
-          "title": "Researchers train drones to perform flips, rolls, and loops with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/amp/",
-      "publishedDateTime": "2020-06-12T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-a-bill-in-congress-would-limit-uses-of-facial-recognition.md",
-      "title": "A Bill in Congress Would Limit Uses of Facial Recognition",
-      "excerpt": "Amazon, Microsoft, and IBM say they want federal rules around the technology. Critics of the proposal, sponsored by four Democrats, say it doesn't go far enough.",
-      "webUrl": "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/",
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ee17e6b45997e7f063bebc5/master/pass/business_recognition_609119090.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "A Bill in Congress Would Limit Uses of Facial Recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp",
-      "publishedDateTime": "2020-06-12T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-cryptominers-found-in-azure-kubernetes-containers.md",
-      "title": "Cryptominers Found in Azure Kubernetes Containers",
-      "excerpt": "Images from a public repository contained cryptominers that Microsoft researchers found in Kubeflow instances running on Azure.",
-      "webUrl": "https://www.darkreading.com/attacks-breaches/cryptominers-found-in-azure-kubernetes-containers/d/d-id/1338083",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twimgs.com/nojitter/darkreading/dr-logo.jpg",
-          "width": 600,
-          "height": 600,
-          "title": "Cryptominers Found in Azure Kubernetes Containers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-12T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-how-ai-can-help-find-a-coronavirus-vaccine.md",
-      "title": "How AI can help find a coronavirus vaccine",
-      "excerpt": "Murat Sonmez, managing director of the World Economic Forum, explains how big data and machine learning can help find a vaccine for COVID-19.",
-      "webUrl": "https://www.techrepublic.com/article/how-ai-can-help-find-a-coronavirus-vaccine/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/12/70e49bbc-cbc1-4955-ab58-dea875785790/resize/1200x/6730efc6ea35da13bc5bdc2fe4478178/20200610-sonmez-dan.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How AI can help find a coronavirus vaccine",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-can-help-find-a-coronavirus-vaccine/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-can-help-find-a-coronavirus-vaccine/",
-      "publishedDateTime": "2020-06-12T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt.md",
-      "title": "You can help a Mars Rover’s AI learn to tell rocks from dirt",
-      "excerpt": "Mars Rover Curiosity has been on the Red Planet for going on 8 years, but its journey is nowhere near finished — and it’s still getting upgrades. You can help it out by spending a few minutes labeling raw data to feed to its terrain-scanning AI.",
-      "webUrl": "https://techcrunch.com/2020/06/12/you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/spoc-examples.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "You can help a Mars Rover’s AI learn to tell rocks from dirt",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/12/you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/12/you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/amp/",
-      "publishedDateTime": "2020-06-12T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-hackers-target-microsoft-azure-servers-to-illegally-mine-crypto.md",
-      "title": "Hackers Target Microsoft Azure Servers to Illegally Mine Crypto",
-      "excerpt": "The machine learning cluster of Microsoft Azure cloud computing services has become the recent target of hackers for mining digital currencies.",
-      "webUrl": "https://www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2015/12/microsoft.jpg",
-          "width": 880,
-          "height": 400,
-          "title": "Hackers Target Microsoft Azure Servers to Illegally Mine Crypto",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/amp/",
-      "publishedDateTime": "2020-06-12T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,136 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-29-what-history-can-teach-us-about-the-future-of-ai.md",
+      "title": "What history can teach us about the future of AI",
+      "excerpt": "Dr. Carl Benedikt Frey, Oxford Martin Citi Fellow at Oxford University, tells Tonya Hall about different ways we can look back on history to predict what the future of AI looks like.",
+      "webUrl": "https://www.zdnet.com/video/what-history-can-teach-us-about-the-future-of-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/06/29/4940cc5d-8123-4a7f-b7ac-17413fcbea49/thumbnail/770x578/f6d02d8855e8211b13393bf1deaab6f2/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "What history can teach us about the future of AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-emotional-support-robot-robin-headed-to-ucla-mattel-childrens-hospital.md",
+      "title": "Emotional support robot Robin headed to UCLA Mattel Children's hospital",
+      "excerpt": "In a nine-week study of interactions with hospitalized children, ages 4 to 12, joy increased 26% and stress was reduced by 34%, according to Expper Technologies.",
+      "webUrl": "https://www.techrepublic.com/article/emotional-support-robot-robin-headed-to-ucla-mattel-childrens-hospital/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/29/46430198-22a8-4dc1-b381-ccaaa655508b/resize/1200x/776296c2c60d2ff855525c73e1bfb2ba/robin-robot.jpg",
+          "width": 1200,
+          "height": 1801,
+          "title": "Emotional support robot Robin headed to UCLA Mattel Children's hospital",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/emotional-support-robot-robin-headed-to-ucla-mattel-childrens-hospital/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/emotional-support-robot-robin-headed-to-ucla-mattel-childrens-hospital/",
+      "publishedDateTime": "2020-06-29T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-ipo-preview-renalytix-ai-seeks-us-ipo-investment.md",
+      "title": "IPO Preview: Renalytix AI Seeks U.S. IPO Investment",
+      "excerpt": "Renalytix AI (RNLX) intends to raise $86.25 million in an IPO of its ADSs representing underlying ordinary shares, according to an F-1 registration statement. The firm is developing an AI-enhanced diagnostics system for chronic kidney disease.",
+      "webUrl": "https://www.thestreet.com/ipo/news/renalytix-ai-ipo",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTczNjEzNzY1Njg4ODI5MTc0/renalytixnamarket.png",
+          "width": 620,
+          "height": 357,
+          "title": "IPO Preview: Renalytix AI Seeks U.S. IPO Investment",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/renalytix-ai-ipo",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/renalytix-ai-ipo",
+      "publishedDateTime": "2020-06-29T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-in-effort-to-fight-covid-19-mit-robot-gets-to-work-disinfecting-the-greater-boston-food-bank.md",
       "title": "In effort to fight COVID-19, MIT robot gets to work disinfecting The Greater Boston Food Bank",
       "excerpt": "MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) has put one of its research projects to work providing disinfection services for The Greater Boston Food Bank (GBFB), in an effort to slow the spread of COVID-19 and still allow the nonprofit to provide services to its patrons.",
@@ -142,6 +272,52 @@
       ]
     },
     {
+      "path": "_news/2020-06-29-addressing-complex-kubernetes-issues-with-watson-aiops-and-sysdig.md",
+      "title": "Addressing complex Kubernetes issues with Watson AIOps and Sysdig",
+      "excerpt": "\nExplosive growth in cloud applications built on containers has exponentially increased the volume of alerts, signals, and data vying for the attention of IT admins. Applications consisting of dozens of microservices, running across intercommunicating nodes, complicate incident detection and response.",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/06/addressing-complex-kubernetes-issues-with-watson-aiops-and-sysdig/",
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/04/Leadspace-1.jpg",
+          "width": 990,
+          "height": 498,
+          "title": "Addressing complex Kubernetes issues with Watson AIOps and Sysdig",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T07:26:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-mits-autonomous-robot-uses-uvc-light-to-kill-coronavirus-particles-on-surfaces.md",
       "title": "MIT's autonomous robot uses UVC light to kill coronavirus particles on surfaces",
       "excerpt": "The robot is a joint project between MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and Ava Robotics. As UVC light is harmful to humans, the machine is used to disinfect locations after workers have finished their shifts.",
@@ -193,7 +369,7 @@
       "title": "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis By Size, Growth Rate and Trends With Forecast To 2026",
       "excerpt": "Artificial Intelligence in Healthcare Market2020 Global Industry Trends, Size, Share Analysis Report. According to",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-by-size-growth-rate-and-trends-with-forecast-to-2026-2020-06-29",
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -608,44 +784,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-29-building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams.md",
-      "title": "Building Ethical And Responsible AI Systems Does Not Start With Technology Teams",
-      "excerpt": "Unless we invest time and effort in designing human-centric AI solutions, we run the risk of dividing society and augmenting feelings of mistrust and intimidation.",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/",
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/amp/",
-      "publishedDateTime": "2020-06-29T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2020-06-29-eric-and-wendy-schmidt-back-cambridge-university-effort-to-equip-researchers-with-ai-skills.md",
       "title": "Eric and Wendy Schmidt back Cambridge University effort to equip researchers with AI skills",
       "excerpt": "Eric and Wendy Schmidt have donated to a Cambridge University program that is designed to equip young researchers with machine learning and artificial intelligence skills that have the potential to accelerate their research.",
@@ -1016,147 +1154,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self-driving-robotaxi-service-in-shanghai.md",
-      "title": "Chinese ride-hailing giant Didi Chuxing launches pilot self-driving robotaxi service in Shanghai",
-      "excerpt": "Commuters can book free rides in Didi autonomous vehicles within designated areas in Shanghai’s Jiading District but human drivers still required on board for safety",
-      "webUrl": "https://www.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self",
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/29/079706d6-b9bb-11ea-b64b-070a892763db_image_hires_115443.jpg?itok=BOII168X&v=1593402889",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese ride-hailing giant Didi Chuxing launches pilot self-driving robotaxi service in Shanghai",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self",
-      "publishedDateTime": "2020-06-28T20:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-australian-government-sinks-au19-million-into-ai-health-research-projects.md",
-      "title": "Australian government sinks AU$19 million into AI health research projects",
-      "excerpt": "The Australian government has announced it will invest AU$19 million over three years into artificial intelligence-based health research projects designed to prevent, diagnose, and treat a range of health conditions.",
-      "webUrl": "https://www.zdnet.com/article/australian-government-sinks-au19-million-into-ai-health-research-projects/",
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/12/11/ab9d2ce5-1e6c-4bc7-900f-486392d74270/thumbnail/1200x675/6e917f26544cdf82f38dfd6728fb6793/istockphoto-abadonian-835879592.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Australian government sinks AU$19 million into AI health research projects",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-government-sinks-au19-million-into-ai-health-research-projects/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-government-sinks-au19-million-into-ai-health-research-projects/",
-      "publishedDateTime": "2020-06-28T17:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-3-new-ways-artificial-intelligence-is-powering-the-future-of-marketing.md",
-      "title": "3 New Ways Artificial Intelligence Is Powering The Future Of Marketing",
-      "excerpt": "From an AI Chef to a Snoop Dog video ad, to digital people, here are 3 futuristic ways AI is taking brand voice to the next level.",
-      "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/28/3-new-ways-artificial-intelligence-is-powering-the-future-of-marketing/",
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F829563436%2F0x0.jpg",
-          "width": 1200,
-          "height": 857,
-          "title": "3 New Ways Artificial Intelligence Is Powering The Future Of Marketing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/28/3-new-ways-artificial-intelligence-is-powering-the-future-of-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/06/28/3-new-ways-artificial-intelligence-is-powering-the-future-of-marketing/amp/",
-      "publishedDateTime": "2020-06-28T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

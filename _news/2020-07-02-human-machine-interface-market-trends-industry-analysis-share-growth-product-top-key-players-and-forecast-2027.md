@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Entertainment Robots Market 2020 Global Trends, Market Share, Industry Size, Growth, Sales, Opportunities, and Market Forecast to 2023"
+    excerpt: "The global entertainment robots market is expected to reach approximately USD 3.71 billion by 2023 at a CAGR of 23.06%"
+    publishedDateTime: 2020-07-03T15:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-global-trends-market-share-industry-size-growth-sales-opportunities-and-market-forecast-to-2023-2020-07-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Healthcare Market Size is Estimated to Reach USD 99,491.58 Million by 2027 - Valuates Reports"
     excerpt: "PRNewswire/ -- The Artificial Intelligence (AI) in the healthcare market was valued at USD 4,836.87 Million in 2019 and is projected to reach USD"
     publishedDateTime: 2020-06-30T14:30:00Z
@@ -56,6 +70,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
         width: 920
         height: 482
+        isCached: true
+  - title: "Impact of COVID-19 on Artificial Intelligence Market Size, Share, Revenue, End Users And Forecast Till 2026 Size and Industry Share"
+    excerpt: "The global artificial intelligence market is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-06-29T13:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-artificial-intelligence-market-size-share-revenue-end-users-and-forecast-till-2026-size-and-industry-share-2020-06-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Computer Vision Market Analysis 2020 by Size, Share, Latest Global Trends, Top Key Players, Future Growth, Revenue Analysis, Demand Forecast To 2023"
     excerpt: "Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal"

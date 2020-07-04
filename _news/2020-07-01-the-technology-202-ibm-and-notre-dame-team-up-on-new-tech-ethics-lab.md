@@ -25,17 +25,20 @@ images:
     title: "The Technology 202: IBM and Notre Dame team up on new tech ethics lab"
 
 related:
-  - title: "Building Ethical And Responsible AI Systems Does Not Start With Technology Teams"
-    excerpt: "Unless we invest time and effort in designing human-centric AI solutions, we run the risk of dividing society and augmenting feelings of mistrust and intimidation."
-    publishedDateTime: 2020-06-29T11:32:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/29/building-ethical-and-responsible-ai-systems-does-not-start-with-technology-teams/amp/"
+  - title: "IBM, Notre Dame Launch Lab to Focus on Tech Ethics"
+    excerpt: "IBM Tech Ethics Lab will conduct research and produce guidelines for governments and businesses on the ethical use of emerging technologies"
+    publishedDateTime: 2020-07-02T10:04:00Z
+    webUrl: "https://www.wsj.com/articles/ibm-notre-dame-launch-lab-to-focus-on-tech-ethics-11593682202"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-205092/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "b41R7OQQEmmv7IOPgRqfZC9zOFLY4fR6XThfKTI/5Dn1bosiz0XMq2fz3LOdSrq6DfWxXAxwGoil9irM4P4olLAtYsbTD1DlyEh9q4lviTbBJldUOd0Sq2SZM8DByvHJGZw0PsgxBX0AmuuDdnO+mwXi2IgfOsuwlQMo3SD0+JvcrwLBXJKbFTzT016i7X+DePuluxI03uImMNfF0ex5RRbJqCXzkK1zltPv2zKPYTI2u672smCrnZLB1JSq6k9rEWkJcNFAIKExkq7K8bH9zs4UKW1WwFoMWzVxlh1tjmNVXtovbbrLHgakvLvv7eaw31fFtElqEocEhhpN1UMumiT1SWqriMh3ON0+ScWXVWOAm+eGlGGp94OUC+JCbelBhPS4jDPcbt826VZvTivTy2h5q32jUsxC83uwbfFivaunH4czC8EreCr0SCLwRi/odD/2XUtjc4KK+pmlBCWKyPgvRi5s/v3F5lGRmMS4V2p19scBw6M528i3NuBeqN+lkLaPGKTUiGcP22XwTaP2ZA==;qaQ2jaBYxi607iJ1CDx9Wg=="
 ---

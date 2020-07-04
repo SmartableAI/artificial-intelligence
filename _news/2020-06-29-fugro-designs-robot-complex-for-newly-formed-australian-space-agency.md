@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-29T16:01:00Z
 webUrl: "https://www.globalconstructionreview.com/news/fugro-designs-robot-complex-newly-formed-australia/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     height: 600
     isCached: true
     title: "Fugro designs robot complex for newly formed Australian Space Agency"
-
-related:
-  - title: "Australian Space Agency picks Fugro for robotics control centre"
-    excerpt: "The newly formed Australian Space Agency (ASA) has partnered with Fugro for the design, construction and operate a robotics control centre."
-    publishedDateTime: 2020-06-29T07:52:00Z
-    webUrl: "https://www.theconstructionindex.co.uk/news/view/australian-space-agency-picks-fugro-for-robotics-control-centre"
-    ampWebUrl: "https://www.theconstructionindex.co.uk/news/view/australian-space-agency-picks-fugro-for-robotics-control-centre?amp=1"
-    cdnAmpWebUrl: "https://www-theconstructionindex-co-uk.cdn.ampproject.org/c/s/www.theconstructionindex.co.uk/news/view/australian-space-agency-picks-fugro-for-robotics-control-centre?amp=1"
-    type: article
-    provider:
-      name: Construction Index
-      domain: theconstructionindex.co.uk
-    quality: 54
 
 secured: "M8gNwbTmgObV6HqF9e7Kf0zT/O++QuNs+LPwqRE5dLmi9NhtGyxx0sJaq05NcgSXCbNoaspWbRxGFgm1IblmdWLIlcZFzNTLuh/k7lUVpBhGsNOORIIB4m5kqiKtNjoonbpzX/QdNUrL1D36CuUsdgV/I2zZxFmL5Qi3GnW1+3X4QGgDCQl4cIflJQzZ0XjCyIH1TqMGEQsA7mbq9fpSl3El9qopsyUO3mM2y0J3JdTcL42GwBZS6GX0at5m1r2wmStu44Oc6CVc+3FtR8DGF1CnR+pvsscOsSY5+m7+dVx4Z89lQZbUDGf4CK9ll8gu6M6ZJSdigP9wI+I6iFua9Q==;zk4egucfP+DB1DudxD7+pw=="
 ---

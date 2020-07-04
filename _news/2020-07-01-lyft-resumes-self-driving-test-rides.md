@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 671
         isCached: true
-  - title: "Didi Chuxing tries self-driving taxis"
-    excerpt: "Didi Chuxing, China’s largest taxi-booking platform, began testing autonomous cars connected to a vehicle-to-everything (V2X)"
-    publishedDateTime: 2020-06-29T08:50:00Z
-    webUrl: "https://www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/"
-    ampWebUrl: "https://www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 44
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2020/06/Didi_Chuing_autonomous_taxi.jpg"
-        width: 650
-        height: 396
-        isCached: true
   - title: "Baidu-backed self-driving vehicle sensors maker going public - report"
     excerpt: "Graf Industrial is in talks to merge with Baidu-backed Velodyne Lidar in a deal that would take public the maker of sensors used in self driving vehicles, according to Bloomberg sources \"familiar with the matter\"."
     publishedDateTime: 2020-06-29T17:00:00Z

@@ -36,22 +36,6 @@ related:
         width: 1024
         height: 671
         isCached: true
-  - title: "Didi Chuxing tries self-driving taxis"
-    excerpt: "Didi Chuxing, China’s largest taxi-booking platform, began testing autonomous cars connected to a vehicle-to-everything (V2X)"
-    publishedDateTime: 2020-06-29T08:50:00Z
-    webUrl: "https://www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/"
-    ampWebUrl: "https://www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/apps/news-apps/didi-chuxing-tries-self-driving-taxis/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 44
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2020/06/Didi_Chuing_autonomous_taxi.jpg"
-        width: 650
-        height: 396
-        isCached: true
   - title: "Lyft Resumes Self-Driving Test Rides"
     excerpt: "Lyft Inc. (NYSE: LYFT) has resumed testing of its self-driving technology on public roads in California, TechCrunch reported Tuesday. An employee-exclusive pilot program in Palo Alto remains paused, according to TechCrunch. The test rides conducted by its ..."
     publishedDateTime: 2020-07-01T14:14:00Z

@@ -78,15 +78,6 @@ related:
         width: 635
         height: 637
         isCached: true
-  - title: "Amazon looks to self-driving future by acquiring Zoox"
-    excerpt: "Industry analysts think the online retailing giant's ultimate goal is to repurpose the Zoox vehicle for its core business, delivering packages to shoppers."
-    publishedDateTime: 2020-06-29T07:06:00Z
-    webUrl: "https://www.djc.com/news/bu/12133184.html"
-    type: article
-    provider:
-      name: Seattle Daily Journal of Commerce
-      domain: djc.com
-    quality: 4
   - title: "Amazon acquires self-driving start-up Zoox for $1.2bn"
     excerpt: "In a transaction that it believes “will help bring the vision of autonomous ride-hailing to reality”, online retailer Amazon is to acquire self-driving start-up Zoox for a reported $1.2bn. The acquisition represents further investment by Amazon in the ..."
     publishedDateTime: 2020-06-30T08:48:00Z
