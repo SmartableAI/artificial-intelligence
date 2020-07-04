@@ -50,6 +50,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "TuSimple kicks off plan for a nationwide self-driving truck network with partners UPS, Xpress and McLane"
+    excerpt: "Self-driving trucks startup TuSimple laid out a plan Wednesday to create a mapped network of shipping routes and terminals designed for autonomous trucking operations that will extend across the United States by 2024."
+    publishedDateTime: 2020-07-02T00:03:00Z
+    webUrl: "https://techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/"
+    ampWebUrl: "https://techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 57
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck-close-up.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane"
     excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021."
     publishedDateTime: 2020-07-01T17:06:00Z
@@ -141,6 +157,15 @@ related:
     provider:
       name: The Courier-Mail
       domain: couriermail.com.au
+    quality: 4
+  - title: "Four large fleets set to test TuSimple self-driving tech in Southwest"
+    excerpt: "Four large fleets to test TuSimple autonomous truck tech Three major for-hire carriers and a large private fleet have partnered with autonomous truck developer TuSimple to test the company’s self-driving technologies in real-world operations over the next four years."
+    publishedDateTime: 2020-07-03T22:21:00Z
+    webUrl: "https://www.overdriveonline.com/four-large-fleets-set-to-test-tusimple-self-driving-tech-in-southwest/"
+    type: article
+    provider:
+      name: Overdrive
+      domain: overdriveonline.com
     quality: 4
 
 secured: "uLRplhGEmMsCJuC4mTmDc/pQyZoVWDOmdTpaXX7fz5BHr7928GNwIWB45yY8EB1vfOIZrH3khir6wGIv0Ie2vG5jdulJz5OQ7MT94Ce4V96p2WDE5SkLV7YHkUyRisTBOoY6ZHLHaYpKeas1MdYRT4gCdSjHOsZwCSXS1Ik2Rn+6z9WtiAMb00b3faXcu2h8Pt1nwB+vypukgmTq3ezLaEkwBTBtDWuCxH4Az7/p3NY2dhM2Sx0XGph9G+iFMDY/Pd+p4NjsvWvf7QD29SAYn8eyxpX8v5RV6asxcxTdAiv2sWOrehNedx9hEppLm3T7mONf0MrBu/UtvixB1wSEKh0yi/cbHWKjsDbjV7NkLzd7VtNGSRTPo2VJ9Dh3LeBb+J/BXDPxNdSrC4KxYol1+RyAzngYnG3SwfkzHYXb6l9qAyDI/hOIVO085cfDRtRutuJA//fkGj/IkgzcUfklZywpPO1lroU3korrIl9uxOvmOknSRqsa/VGd7vWgknMbwOE2Zhn7RbyzUbUflYzDNg==;+UWYQMfgBY7tsDsW9bq59Q=="

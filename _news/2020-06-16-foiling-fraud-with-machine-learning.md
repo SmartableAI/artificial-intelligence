@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Foiling fraud with machine learning"
-excerpt: "Caroline Hermon is Head of Fraud Solutions at SAS UK & Ireland. All the while, an army of agile start-ups, FinTechs and other data-driven organisations have disrupted the financial services and retail landscapes."
-publishedDateTime: 2020-06-16T10:05:00Z
-webUrl: "https://www.techradar.com/in/news/foiling-fraud-with-machine-learning"
-ampWebUrl: "https://www.techradar.com/in/amp/news/foiling-fraud-with-machine-learning"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/foiling-fraud-with-machine-learning"
+excerpt: "More recently, however, it has begun yielding the hoped-for results as banks, retailers and other businesses supplement traditional customer service ... and machine learning (AI/ML) approaches ..."
+publishedDateTime: 2020-06-16T10:00:00Z
+webUrl: "https://www.techradar.com/news/foiling-fraud-with-machine-learning"
+ampWebUrl: "https://www.techradar.com/amp/news/foiling-fraud-with-machine-learning"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/foiling-fraud-with-machine-learning"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "Foiling fraud with machine learning"
 
-secured: "nm926CmALH/ZR9i95B07nfsfBfvOAzmSs4mLRcYXhJTMFGGQfp1yrUBibZnJwu8ya66UBnIzOw01Wv4OCtNABr9sVD2/XarKKoIENqx+F14g0S2DYMJ5Gv8I06fiiVdswut0mu6AdwiFNfTgbkE/39S+q42gUe/Zp17cqtEsGiexnYVYmnju/B2lKaIwGgPGDF8b4Qz2FwJ++EZnPY7vuP6xFnr0+8khP1TOIzOBmrcSI9PeJfG3wJH1/xBM4Zqc9tNdpA2kkItBGGswf3rsB0tiupZbvN02qW4uB/vbRaYg3SSxlgSmwr2MzOP7K/eqHA7IrNvSyeyKLlj0i6wbBQ==;khDxKiYpG7C0byBr2uR1Nw=="
+secured: "8ATq3T0103wXHQ46xHH3C+9L4U4bTJtcga/IedBYOJ12S/WK30ZmAgyMNfGJHAcdk26Y2ZREOGhC7YIOoAOyiVXNzHFhfT8dG4GrxWvgYB57bWOSn0aHtqYol11QSVCb20yCzgtDsGogNPJabMtjoCcycp2jfCz+Ej1lWrpsjKVry76bV0jrQJ1IcTrhAR+1zajkSMISbYJnjhJTRTTFcDnrv+MhXQLJYh2hg5BNHFbFXD8MOORPjkwz/gaijxwajesQgHXjDaOD6OGLtiiDgRCrOEfEsutiIcR4Gt1nA21XzwWWaXxR1ebOqGYT5jCs8D+NsUyeK4z4jGUSHVx2VQ==;+f/p5J6sWHi8vxfLwOqUgQ=="
 ---
 

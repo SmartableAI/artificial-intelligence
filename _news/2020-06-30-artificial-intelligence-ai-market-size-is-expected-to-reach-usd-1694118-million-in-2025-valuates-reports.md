@@ -2,10 +2,10 @@
 category: news
 title: "Artificial intelligence (AI) Market Size is Expected to Reach USD 169,411.8 Million in 2025 - Valuates Reports"
 excerpt: "PRNewswire/ -- The global Artificial Intelligence (AI) market size is expected to reach USD 169,411.8 Million in 2025, from USD 4,065.0 Million in"
-publishedDateTime: 2020-06-30T12:30:00Z
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025---valuates-reports-301085882.html"
+publishedDateTime: 2020-06-30T22:00:00Z
+webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025-valuates-reports-877658862.html"
 type: article
-quality: 34
+quality: 32
 heat: -1
 published: false
 
@@ -14,7 +14,6 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -51,6 +50,6 @@ related:
       domain: openpr.com
     quality: 14
 
-secured: "LNa/gsShbTU9ila9T6/qLY5Yui46Ki2QHxga2d832c7/PPCpk43EDHQ5Umtaec3TOWNjC2kWG7mxMwXH7OALg6F2CqAZ0LrY32LJOzOHN7LoOCww1gvqM7HWzvCwjrJVtT0wx5Y48LYcQSGm0Rs56mPO0Ldmshadm5yqEUHtq85yVSSrBA18vKOctsuaMBNJdWnB1JEFcdgmTYvnYsiLEqsmeDxShzSdhpnKxAZpp21UcucFwpjGohj6H9t5nuf3NWNgswavsPhHdZI95pv3vV6v6Oj0mQWGKxNOlfFMJAoiIy4Mt9l+T6cPOE/OjeCtoVSy8AASTbweTpFUsb3nAQ==;Sijb2WC8xFrAtR77RuqdnQ=="
+secured: "sUvQr3Eklu+nEf+ppbmFVvYMXBxOAXnCE4/7HFnmQuZ3YBcQR3kUZe9hAmzEknoZH9+44sODkJZvgMuo0eiWloly5f7aAwalTFAzaoOtb4q8GGvfrNsVeSFFhS0uNJIvp/VGNpNm/HV63xeQchoacc15Nf6i17M65KIIKgQul0OLAmIygdKDroS6BGC7EeaA34zWG7Jha04ebaBQ+UsshLkngxMQGpGK5LQWTYnj81KNKgEjsMhaTrCas6yo3A3BtKwzhX1czODPzUuw3gCCZCtW0lI5+zPfd01URLt4tnnPydoTTiHPdEVpSzvNAjeGYpEsgzvXeIJPEuXx25kEKQ==;1AjUNySKHGzk7UzkpGYPxQ=="
 ---
 

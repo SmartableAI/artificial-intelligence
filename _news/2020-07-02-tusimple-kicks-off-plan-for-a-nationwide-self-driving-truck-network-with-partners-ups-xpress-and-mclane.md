@@ -31,33 +31,148 @@ images:
     title: "TuSimple kicks off plan for a nationwide self-driving truck network with partners UPS, Xpress and McLane"
 
 related:
-  - title: "Waymo And Volvo Form Exclusive Self-Driving Partnership"
-    excerpt: "Waymo and Volvo announced an “exclusive” partnership to integrate Waymo’s self-driving technology onto Volvo’s vehicular platform."
-    publishedDateTime: 2020-06-29T06:36:00Z
-    webUrl: "https://www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-form-exclusive-self-driving-partnership/"
-    ampWebUrl: "https://www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-form-exclusive-self-driving-partnership/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-form-exclusive-self-driving-partnership/amp/"
+  - title: "TuSimple Adds Logistics Operators to Self-Driving Trucks Effort"
+    excerpt: "Self-driving trucking startup TuSimple is teaming up with big logistics operators to bulk up its delivery business as it lays the groundwork for a planned coast-to-coast autonomous freight network."
+    publishedDateTime: 2020-07-01T12:08:00Z
+    webUrl: "https://www.wsj.com/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef97c751581aa000682bee9%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://images.wsj.net/im-204436/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Volvo Cars and Waymo are partnering to build self-driving vehicles"
-    excerpt: "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday"
-    publishedDateTime: 2020-06-29T15:41:00Z
-    webUrl: "https://timeslive.co.za/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-06-26-volvo-cars-and-waymo-are-partnering-to-build-self-driving-vehicles/"
+  - title: "Self-driving trucks hit the road at scale with TuSimple's new freight network"
+    excerpt: "The Autonomous Freight Network will receive support from UPS, Penske and US Xpress as TuSimple works to bring self-driving semis to market."
+    publishedDateTime: 2020-07-01T12:05:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/self-driving-trucks-tusimple-freight-network/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-trucks-tusimple-freight-network/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-trucks-tusimple-freight-network/"
     type: article
     provider:
-      name: Times LIVE
-      domain: timeslive.co.za
+      name: CNET
+      domain: cnet.com
+    quality: 71
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/lnh92SF4UX0-VL8HUF2njl5K_qg=/2020/06/30/df6c8293-bfec-4e47-86b1-9a432bcb48a1/ogi-tu.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane"
+    excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021."
+    publishedDateTime: 2020-07-01T17:06:00Z
+    webUrl: "https://www.reuters.com/article/us-tusimple-selfdriving-network-idUSKBN2425QS"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2425QS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2425QS"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
+  - title: "Self-driving truck developer TuSimple launches autonomous freight network"
+    excerpt: "TuSimple, which has a Tucson facility, is working to bring self-driving technology to market and offer low-cost, long-haul autonomous freight operations."
+    publishedDateTime: 2020-07-01T12:00:00Z
+    webUrl: "https://tucson.com/business/self-driving-truck-developer-tusimple-launches-autonomous-freight-network/article_8ba2ca95-c600-593a-b33a-faeca9821b8e.html"
+    ampWebUrl: "https://tucson.com/business/self-driving-truck-developer-tusimple-launches-autonomous-freight-network/article_8ba2ca95-c600-593a-b33a-faeca9821b8e.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/self-driving-truck-developer-tusimple-launches-autonomous-freight-network/article_8ba2ca95-c600-593a-b33a-faeca9821b8e.amp.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 43
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/f/9f/f9f3389a-226a-551a-bde5-96402fd90d5c/5ef2709c628ce.image.jpg?resize=1024%2C617"
+        width: 1024
+        height: 617
+        isCached: true
+  - title: "Self-driving trucks to be commercially available by 2024, TuSimple says"
+    excerpt: "Autonomous driving tech vendor TuSimple today said it plans to bring self-driving trucks to market by 2024 by launching a self-operating freight network through a partnership with the four logistics providers UPS Inc."
+    publishedDateTime: 2020-07-01T18:08:00Z
+    webUrl: "https://www.dcvelocity.com/articles/46439-self-driving-trucks-tobe-commercially-available-by-2024-tusimple-says"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
     quality: 39
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202007/tusimple-truck-P1133021-scaled.jpg?height=635&t=1593625917&width=1200"
+        width: 847
+        height: 635
+        isCached: true
+  - title: "Amazon Looks to Self-Driving Future"
+    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
+    publishedDateTime: 2020-06-29T15:36:00Z
+    webUrl: "https://www.manufacturing.net/automotive/news/21138692/amazon-looks-to-selfdriving-future"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/iStock_1214977181.5efa0bbe636e8.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "TuSimple Launches Self-Driving Truck Network with Berkshire’s McLane, UPS"
+    excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc. supply chain unit McLane that"
+    publishedDateTime: 2020-07-02T09:35:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/07/02/574171.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 23
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2020/07/bigstock-aerial-view-of-self-driving-vehicles-580x387.jpg"
+        width: 580
+        height: 387
+        isCached: true
+  - title: "TuSimple's New Autonomous Freight Network Lays Groundwork for Self-Driving Trucks"
+    excerpt: "Autonomous trucking technology company TuSimple has teamed up with UPS, Penske Truck Leasing, U.S. Xpress, and McLane to launch the Autonomous Freight Network, which it says will lay the groundwork for self-driving autonomous trucks to become commercially ..."
+    publishedDateTime: 2020-07-01T16:11:00Z
+    webUrl: "https://www.truckinginfo.com/10120147/tusimples-new-autonomous-freight-network-lays-groundwork-for-self-driving-trucks"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 19
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-07/l4_autonomoustruck_tusimple-web-__-1200x630-s.jpg"
+        width: 1151
+        height: 622
+        isCached: true
+  - title: "BHP jobs on offer to build self-driving trucks"
+    excerpt: "THE rollout of 34 autonomous mining trucks at BHP Mitsubishi Alliance’s Central Queensland mine will create 56 new jobs and a $35 million windfall for regional businesses."
+    publishedDateTime: 2020-07-01T01:00:00Z
+    webUrl: "https://www.couriermail.com.au/business/bhp-jobs-on-offer-to-build-selfdriving-trucks/news-story/a7399310218385c62f043fa68c9d4710"
+    type: article
+    provider:
+      name: The Courier-Mail
+      domain: couriermail.com.au
+    quality: 4
+  - title: "Four large fleets set to test TuSimple self-driving tech in Southwest"
+    excerpt: "Four large fleets to test TuSimple autonomous truck tech Three major for-hire carriers and a large private fleet have partnered with autonomous truck developer TuSimple to test the company’s self-driving technologies in real-world operations over the next four years."
+    publishedDateTime: 2020-07-03T22:21:00Z
+    webUrl: "https://www.overdriveonline.com/four-large-fleets-set-to-test-tusimple-self-driving-tech-in-southwest/"
+    type: article
+    provider:
+      name: Overdrive
+      domain: overdriveonline.com
+    quality: 4
+  - title: "Major fleets partner with self-driving truck developer TuSimple on autonomous freight network"
+    excerpt: "Three major for-hire carriers and a large private fleet have partnered with autonomous truck developer TuSimple to test the company’s self-driving technologies in real-world operations over the next four years. As part of a plan to build out a ..."
+    publishedDateTime: 2020-07-01T13:41:00Z
+    webUrl: "https://www.ccjdigital.com/major-fleets-partner-with-self-driving-truck-developer-tusimple-on-autonomous-freight-network/"
+    type: article
+    provider:
+      name: CCJ
+      domain: ccjdigital.com
+    quality: 0
 
 secured: "dm0tXjBoIZ9Ek2eaolknDNKVpqR53TTjfrUTJKhHM3bef56JM9DZpSmDGGAwcUhnhO2b8N+VBDM1ktSAHH3xb0/vkE3zyJvXdJIm4s9UpHpzpVO56ThZNRmDKYK/EJDdLYZmyDE2qhPWNefofpjqA2c8+v50wA/qhFvE6Y6bkGTq2dwPJsFkQeWVN79Pzb2lW7IzNO1Am/Ei+vfCQuDhHsZGC3bx2zV2g31JlH278aQ+qB0R6QM3t3QK4EVwg7RgEf8inZ4tBwJcUYpGeN4q4DCTS/lDGSq77+OHnvPqADKctTB5SGNSd4XiOXzv1ynhJNZy2RKkjdbJVy65VtYiRdIdcTBS2oDAyMAw6pHkqTh+JdjT1jiIXL8rgiJ5x7mOh5uV3neM+fDCOWlIVd/PDCUAfCdCqtwmHnGKw7MB6kN8qOsoCO1HAaunkqjSCIxoRqOXIU5ivIRN9Elfg7g8nIYFnNDRo7bWhYcwqF7nxSd/18BVSwk7EOIlTJplkF3AyWLR9HLcStELc7mOMuCecA==;vIxc+NiEQU01wwd1uJmpZw=="
 ---

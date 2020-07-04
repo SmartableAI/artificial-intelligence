@@ -44,14 +44,14 @@ related:
   - title: "Tanzanian Fintech Startup Offers Free Financial Advice through App"
     excerpt: "Mipango has launched an artificial intelligence (AI)-based app that provides users with free financial advice on iOS and Android devices. Mipango is a personal finance mobile application that enables users to manage their income,"
     publishedDateTime: 2020-07-01T09:18:00Z
-    webUrl: "https://africa.com/tanzanian-fintech-startup-offers-free-financial-advice-through-app/"
+    webUrl: "https://africa.com/tanzanian-fintech-startup-offers-free-financial-advice-through-app-2/"
     type: article
     provider:
       name: Africa.com
       domain: africa.com
     quality: 24
     images:
-      - url: "https://secureservercdn.net/198.71.233.51/cxz.f6d.myftpupload.com/wp-content/uploads/2020/07/10.jpg?time=1593589660"
+      - url: "https://secureservercdn.net/198.71.233.51/cxz.f6d.myftpupload.com/wp-content/uploads/2020/07/9-3.jpg?time=1593806028"
         width: 702
         height: 336
         isCached: true

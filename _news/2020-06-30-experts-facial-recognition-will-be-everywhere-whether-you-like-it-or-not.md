@@ -3,13 +3,13 @@ category: news
 title: "Experts: Facial recognition will be everywhere, whether you like it or not"
 excerpt: "Facial recognition could soon become as commonplace as public Wi-Fi and security cameras. But with the advance of technology comes major ethical questions."
 publishedDateTime: 2020-06-30T15:15:00Z
-webUrl: "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?itm_source=21&itm_content=1x7&itm_term=2376504"
+webUrl: "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?itm_source=30&itm_content=1x7&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: Digital Trends
@@ -23,6 +23,13 @@ topics:
   - Computer Vision
   - AI
 
-secured: "FHPymNucsu6uwHQMxwOCKVwbI+1OLZYY6A9I+fBKKg8Mev5rYgPwuzX2FxHKHpLeF1W2VXlMBkr8Iy4zRtKE/g6fCM1tKcwLnEPJWkjWzoj4JG6DmwYaw/QbuXbumLYz1Uza2sjd99smOAWDdJ0gPcMyAK3+tluyvD/BxTS2vYTe+dRES+6nuyZCQelpJtenmBP1MMm3SI3clnyShLwUy4B0TlljnUNS4s2ozp7XUqlBwPhM045ZYjrchlP7fXGRqPdyqE3so6GTKPil63tAUD77Uvw4YKWh4wFEcYHXmnqdl3bF5tMwb7W93DNoeZjbWgHs2dboAnpwDan6vMLe3KKpai2QqcWRIxuRhv/ISrSNoizhE/GCxc9eFQMZ+Iip7LalojBXaY38V4K4GEwa+LnGRPL0VQs9xA90ofsnnygdG2HJGRmRI3+Ibymu3bkSOA1X4rOtblI8mS2sSJkgncYXd63K7cwqEAaHQp/MzL6sxBKDYn6tuKIir4pGEyI9gWIvtjjdW91A7yljRuxyng==;JW8kWECr66AFPQ47zfSRTw=="
+images:
+  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/us-technology-artificial-intelligence-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+    title: "Experts: Facial recognition will be everywhere, whether you like it or not"
+
+secured: "GN2ns6fnSkL/wsbx3QmOMWZLsqp285ORcVzmJRFmzi+gyAUeLKmWfrKXqPWvGYLD8mgjBbyk2tnhbC8A88AVUJZK9/zKrx77lV/tl7jClhB1mUXI0XtTjvM7gOg5KkMdDBG3JBaiLnSB8tD9vptl8O8f0vj0xuVrOmed7mhajY1KFcqrANMre2iMqUNWKjHhxmZ3escT9CxCRKWK4GQxudV38No0RoO7eJ8S13KMwsjBHDaGrxRTOk8zaa3ewQ3MF18LNlHXTUevKTOhLjKOEN1axSPn/3rwYLEH5+nGyCxlW3hTwuQX0DrNlpNIJYGsyxinmrcnuhMGkLAkTqdNzA==;dA2IyNvAigOJVnj0IuW9zg=="
 ---
 

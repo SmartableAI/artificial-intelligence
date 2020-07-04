@@ -2,33 +2,33 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-07-01-learn-how-to-accelerate-your-business-using-automation-and-ai-technology-transform-2020.md",
-      "title": "Learn how to accelerate your business using automation and AI technology: Transform 2020",
-      "excerpt": "No one expected the jolt the Covid-19 pandemic would bring to business. If companies were already investing in automation and AI technologies before March 2020, they have only accelerated those investments since.",
-      "webUrl": "https://venturebeat.com/2020/07/01/learn-how-to-accelerate-your-business-using-automation-and-ai-technology-transform-2020/",
-      "heat": 108,
+      "path": "_news/2020-07-01-2019-q4-recipients-of-aws-machine-learning-research-awards.md",
+      "title": "2019 Q4 recipients of AWS Machine Learning Research Awards",
+      "excerpt": "The AWS Machine Learning Research Awards (MLRA) aims to advance machine learning (ML) by funding innovative research and open-source projects, training students, and providing researchers with access to the latest technology. Since 2017, MLRA has supported over 180 research projects from 73 schools and",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/2019-q4-recipients-of-aws-machine-learning-research-awards/",
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/VB-Transform-2020.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "Learn how to accelerate your business using automation and AI technology: Transform 2020",
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "2019 Q4 recipients of AWS Machine Learning Research Awards",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/01/learn-how-to-accelerate-your-business-using-automation-and-ai-technology-transform-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/learn-how-to-accelerate-your-business-using-automation-and-ai-technology-transform-2020/amp/",
-      "publishedDateTime": "2020-07-01T13:04:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T13:05:57-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -44,7 +44,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -416,7 +417,7 @@
       "title": "Ethics in the Balance: AI’s Implications for Government",
       "excerpt": "As automation becomes an ever-more viable tool for government for everything from cameras on light poles to using AI to set prisoners’ bail, can policymakers ensure it is used responsibly and ethically?",
       "webUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html",
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -829,7 +830,7 @@
       "title": "TuSimple Adds Logistics Operators to Self-Driving Trucks Effort",
       "excerpt": "Self-driving trucking startup TuSimple is teaming up with big logistics operators to bulk up its delivery business as it lays the groundwork for a planned coast-to-coast autonomous freight network.",
       "webUrl": "https://www.wsj.com/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800",
-      "heat": 164,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1007,7 +1008,7 @@
       "title": "Lyft’s self-driving test vehicles are back on public roads in California",
       "excerpt": "Lyft’s self-driving vehicle division has restarted testing on public roads in California, several months after pausing operations amid the COVID-19 pandemic. Lyft’s Level 5 program said Tuesday some of its autonomous vehicles are back on the road in Palo Alto and at its closed test track.",
       "webUrl": "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/",
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {

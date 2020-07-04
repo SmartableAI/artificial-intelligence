@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Israeli, UAE technology firms pen deal on virus research"
-excerpt: "JERUSALEM (AP) — A state-linked technology company in the United Arab Emirates has signed a partnership with two major Israeli defense firms to research ways of combating the coronavirus pandemic."
+excerpt: "Elta, which specializes in sensors, radars, electronic warfare and communication systems, said they would cooperate on research and technology focused on artificial intelligence ... (AP) — A Black Facebook employee, joined by two others who were denied ..."
 publishedDateTime: 2020-07-03T08:01:00Z
-webUrl: "https://wgnradio.com/news/business-news/israeli-uae-technology-firms-pen-deal-on-virus-research/"
-ampWebUrl: "https://wgnradio.com/news/business-news/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/"
-cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/business-news/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/"
+webUrl: "https://www.ozarksfirst.com/local-news/finance-and-business/israeli-uae-technology-firms-pen-deal-on-virus-research/"
+ampWebUrl: "https://www.ozarksfirst.com/local-news/finance-and-business/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/"
+cdnAmpWebUrl: "https://www-ozarksfirst-com.cdn.ampproject.org/c/s/www.ozarksfirst.com/local-news/finance-and-business/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: WGN Radio
-  domain: wgnradio.com
+  name: Ozarks First
+  domain: ozarksfirst.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://wgnradio.com/wp-content/uploads/sites/6/2020/07/f2f490c5bfe44cb1966bbb8f9ffa114c.jpg?w=1280&h=720&crop=1"
+  - url: "https://www.ozarksfirst.com/wp-content/uploads/sites/65/2020/07/f2f490c5bfe44cb1966bbb8f9ffa114c.jpg?w=1280&h=720&crop=1"
     width: 1280
     height: 720
     isCached: true
     title: "Israeli, UAE technology firms pen deal on virus research"
 
-secured: "hHjLwsDZ1U9g83RhktE5ZXSfE7SDeD+cECu6mAII08RKwVzTRUXerDadRJEqyrs4+Q5j7tklHJfR3ebJiiZsEYnNqXHfSexySNylpyXFXNwRD5C5G4Ay2UBxWWcAFH/Uc4ZB2x+IcRscQbWUNs3SNkJ23qOC0Jf670QJ5sxYnX5/oIybtDYE+zYTsKVTbTf2HLUbvPeWe6QHV9QfQczyYKhaQod61iIVnrK5PArN/j3t4hUQ6rmhQ657sZDCwrP22bYcjTqiUALAa3zZwXiiV0d9hgFoVCyG7i57P78s/bXIKBkAI1633oHu5x3gnQx+1/zsqnpyzXVn5rXMl5B7bw==;chlaMBcPVRB9HSSE8pnQwg=="
+secured: "Hu8Yj2L9TSQf8YksqZlsQXgZgTXRIpyG5AGULefO5Kl/dnwAuU5/mnwRDLEsv47uXJiEy4e5wc4c4xSuq5jYqwB2UMEXRY89TFPjo4uchEOxl+yuIcBG6huNe2rMUDgn47hhVJwLsKebhaVJ477Vi4Ixm70ZyP8sRoIkZh8iuxLWS1mBS9J3Jux8T1qgN9qSPYJlY5ovxXYZ5lrVkWRXtZ+OxOIahUXyMcXFXhuXIYKpS1aS04VA0ZUADMW4K5+DCG52BK4Yd+f1W3h7zVP79WkLLErwm9wl5hA5zH50b6AzVC/qx8FIPE06cax71wfqQvgSPEawAJAPcuQwjqYaxw==;g+8OeHesEcLuzY2zfpkzHg=="
 ---
 
