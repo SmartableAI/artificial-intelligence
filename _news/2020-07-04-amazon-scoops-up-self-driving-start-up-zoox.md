@@ -59,20 +59,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Amazon Acquires Self-Driving Tech Firm"
-    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
-    publishedDateTime: 2020-06-30T02:38:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21138692/amazon-looks-to-selfdriving-future"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/iStock_1214977181.5efa0bbe636e8.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Amazon Acquires Self-Driving Startup Zoox From Senegalese-Born CEO For Over $1.2bn"
     excerpt: "E-commerce giant Amazon has reportedly forked out more than $1.2 billion to buy the self-driving startup Zoox. On Friday, both companies announced they had signed a"
     publishedDateTime: 2020-07-01T18:04:00Z
@@ -106,6 +92,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "KZhYL1N2zRMQ1k3WRCf76QWOqsthWSFYqtDa7X/mP666cx7thPreLSAJ7cJkUs+YWz8R6fkZQ5yUpbjFKA0VSsUtNJf8EPL6w7K1319ZZh/+6/v98EwzY7xgDIUKa3EdDRqcm0RcxZizyV3iSvNeW9yGZZIpPu6kxCNt58Sm7g+9yDJzHHxrYrD40cmBUTurPcFxcTAO8E77Ts1Nv85Pv6Lc54FD0aMKWUqEdESgHjd19/drapccsDH7wqMCJws4B5gAHtIDk1SeA0zN5rGRXo8Ad66Gw4JFHA3WSbVSO38Y4VvQ/y+FXmv3juLRnYX717gjUXdIv9LUCMCZh2IsFQ==;4fLv5lBbRvn5CKiDzPoYyg=="
+secured: "8TcAp6g9hXknQpzhdl9wd5TeLhqZir3p23c8imrFf53utxWQBl9tOPk5FTSPf5KeoNextjlT4FLjQZvGMlKTWXE1DZ9herxm2GbUkWhKwnFNRgk1BkbIxnglBLFZIJlVHEDndMrdLSTcRWTYzbv59NIIJvXopn+xIRwhtsHhTjlrY5dI1hm3N7OgRNK5xt0f9nC15n9uN4FOmA2LZJQeD5yl5HCIfmtNuIKfXAjWRVDEJgBT+Wmi8xZRxh2k5SDeTeXVg+ky8TPt4SzJ4JfTdfdSwZhEfYgjZwOhpsakX0Zanh5Pk3s5qj2OUWL+7PEMB6IOcv3o6Vc7Mq6jxJZB4iQG/147Kx+AZ9Ildv4MEWm50QfYI91gTpziv1ruSyFd82vKc7M9XvOi63GIbVeRy3ULRcRE+zXXelGwQldvJrwxKg8h0vgLMg0bRWZppIy8wvfkuR779PFoJlA5PMD3vw2aB7qqUfqP60sd9I4l5cvzmxXXdFdWryI7oCdSq+RoIhzFbd0y2PNdyMd6S9/0eg==;/QdDCHJHan4sS79lpG3hiw=="
 ---
 

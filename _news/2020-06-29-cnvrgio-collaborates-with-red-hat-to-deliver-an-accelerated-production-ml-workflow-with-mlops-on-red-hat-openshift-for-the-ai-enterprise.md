@@ -2,8 +2,8 @@
 category: news
 title: "cnvrg.io Collaborates With Red Hat to Deliver an Accelerated Production ML Workflow With MLOps on Red Hat OpenShift for the AI Enterprise"
 excerpt: "PRNewswire/ -- cnvrg.io, the data science platform simplifying model management and introducing advanced MLOps to the industry, today announced"
-publishedDateTime: 2020-06-29T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise-301084968.html"
+publishedDateTime: 2020-06-29T20:00:00Z
+webUrl: "https://www.prnewswire.com/il/news-releases/cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise-301084968.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "cnvrg.io Collaborates With Red Hat to Deliver an Accelerated Production ML Workflow With MLOps on Red Hat OpenShift for the AI Enterprise"
 
-secured: "nGgje9YdYSNbxg7GiYVjiZvL//bUXc4aycAKhgOUYrw+lPhfTpYI21OoyuB4+paQeHJ9FORu43WvV81il0R30jY6UYL3vHo8IW9G1e0C4GFimk6DiTCCzETP79i5XxeXZG2kebnjy3djIYhwUyVXOQ5sYzWP9Fi5/2b7lYv4yGkHjU3v43NYdqI+0o6S/uu+YAaFtulxhRKu/w9T41H4qKnS21BahR1kd3fGVcUt3dyJ1WTyU8Kwr3fH6ZnAn5aNQ+BI0sqE5rtArvRYe7YMwd4QoIigmBQgterpk6lYCP5ai0mR70hyaoXS2Jh9rMkgiNo9zUOjIh4gDZ5M6Ukuu6aBEGr65w2f2AIfLDA/0Jzjo/3LR7bfUQg4m+XzwAB4dYs7cROQEtwJxvgoRh8wrVPtQy+avX0rrs5x35phQQnud7j4otiYilcxVOXwHJJw4NxKTu+PkodsZuocZFCs9DLg+rd3Cp2gz3b+Dz7YdDKX4h4Ace/6a3+CV0JQiQ7PGDSA8pujT8xbMxUHMHF0aw==;hqVWr5Mm14qt7Xp02xpMnw=="
+secured: "78duj7TMD+Eg+UM9F03EXauc21fNoSPpRb1nQv9CSU2BFOF7EzFrUN10qcoY9N73ETiWQnNqqXoEO1gH/XEVIEOnKX+6Uc5E5PW1+52kxjd8AgG4RPMqD5d5FnrjOJQy2H3npFVVPx6+QOUx6w4DwWbsVK1MdlFWWOtc4h3ZF5I0DHxYFJ5U0AAERrVpcvLa1Il9x/JqhxDdtPCvn78LPB3i3Id/e8wMJcCd4LQqNsFXRTWGmTLyO77l8Z9p4YrphZUM2RVhLxhMqJmmvmaESJracRIGr+iajoBpa/kDfRnzzHzexFjk6WUcWdstxKE67V4eORnMckrT/LG96b1wFA==;vB1UN+hV1xF9KNOpd97/Gg=="
 ---
 

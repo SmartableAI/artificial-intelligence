@@ -2,6 +2,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-06-in-unusual-revolt-scientists-funded-by-mark-zuckerberg-criticize-facebooks-inaction-on-president-trumps-posts.md",
+      "title": "In unusual revolt, scientists funded by Mark Zuckerberg criticize Facebook’s inaction on President Trump’s posts",
+      "excerpt": "Dozens of scientists who have received funding from Mark Zuckerberg’s philanthropic vehicle have signed an open letter sharply criticizing Facebook.",
+      "webUrl": "https://www.statnews.com/2020/06/06/in-unusual-revolt-scientists-funded-by-mark-zuckerberg-criticize-facebooks-inaction-on-president-trumps-posts/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-06T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-06-zuckerberg-says-facebook-will-revisit-policies-in-wake-of-trump-backlash.md",
       "title": "Zuckerberg says Facebook will revisit policies in wake of Trump backlash",
       "excerpt": "Facebook’s chief executive said the company will re-examine its policies against violent threats and voter suppression, as well as create new products that ‘advance racial justice’.",

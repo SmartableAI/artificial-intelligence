@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global RegTech Market By Technology, By Application, By Organization Size, By Service, By Region, Forecast & Opportunities, 2025"
-    excerpt: "Reportlinker.com announces the release of the report \"Global RegTech Market By Technology, By Application, By Organization"
-    publishedDateTime: 2020-06-30T02:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/06/g16440928/global-regtech-market-by-technology-by-application-by-organization-size-by-service-by-region-forec"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16440928"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16440928"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "P1GVsuGfm+Wprwih+IpykGKul+/MJnRrV+VsEApBdhnFL/hvIADphedLjmB/ityCe7GwyK9yakkV1mE4E2GaJLJBTox6xdB32BXiQFMb3K26NBdsak3DjvXVMy8EbAgigGvpy7lDRvnf+UciwiscOs+xaRvIuQqJ23Wh1LikT0dKI4RKvQCjMj9aDKMxHedfKd/ryH86epiPl+0/9K8ykte8EkADQSRNXgozMVjGx6Ct28NuBv88xh7xQrNCOzrJTcBIEVIa6KpaalWIFFT6K/Pj89FDLq/rG0cF9zWnXn1rJcuh5hfjJA+tiiWudcghEE8ng9XDjbhSvRPLxxbCsw==;u4INcXZA32Tvj4xHZ2x8Tw=="
 ---

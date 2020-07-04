@@ -73,20 +73,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Amazon Acquires Self-Driving Tech Firm"
-    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
-    publishedDateTime: 2020-06-30T02:38:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/21138692/amazon-looks-to-selfdriving-future"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/06/16x9/iStock_1214977181.5efa0bbe636e8.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Amazon acquires self-driving start-up Zoox for $1.2bn"
     excerpt: "In a transaction that it believes “will help bring the vision of autonomous ride-hailing to reality”, online retailer Amazon is to acquire self-driving start-up Zoox for a reported $1.2bn. The acquisition represents further investment by Amazon in the ..."
     publishedDateTime: 2020-06-30T08:48:00Z

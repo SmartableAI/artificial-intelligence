@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T11:15:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-services-global-market-report-2020-30-covid-19-growth-and-change-2020-06-30"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -45,17 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global RegTech Market By Technology, By Application, By Organization Size, By Service, By Region, Forecast & Opportunities, 2025"
-    excerpt: "Reportlinker.com announces the release of the report \"Global RegTech Market By Technology, By Application, By Organization"
-    publishedDateTime: 2020-06-30T02:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/06/g16440928/global-regtech-market-by-technology-by-application-by-organization-size-by-service-by-region-forec"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16440928"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16440928"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "1CTGd/CwpgR8PnyKyEEw8xC8n6ZadoZ/1MZfZlZy+iDClDEVBDwWScS7RN3JPoHEpce3+2TWzhgy2g5pB3dxIjv6A10mUmHeQLyT8kNai9/Gq8kiE0fxj+QBxla7Un/6zs2kaXhvVE8KHbdOXz3ugC1i0SthAsoZD1C30YCoWAkaRQLOkk85iJ+TB2BmH5qJw+X25QSHtMXnPQ36PmBk3XY2MwGZjfuG7ejtQ4My9n/ZJt6wb/OnoYN54owO78/dm9axWTrg9YrficDiblVN8iHDQbzFb9sRuyNhj7wSG6fOIldP1/eAq8WCYyt35f4VC/2cRe+EVvvFspCU+B4Jzw==;dzFugwrrJcAPINRFU5pSaA=="
 ---

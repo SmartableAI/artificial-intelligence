@@ -1,19 +1,21 @@
 ---
 category: news
-title: "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers"
-excerpt: "Himax Technologies, Inc. (NASDAQ:HIMX) (\"Himax\" or \"Company\"), a leading supplier and fabless manufacturer of display"
-publishedDateTime: 2020-06-30T10:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16443255"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16443255"
+title: "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google’s TensorFlow Lite for Microcontrollers"
+excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced the launch of WiseEye WE-I Plus HX6537-A solution that supports."
+publishedDateTime: 2020-06-30T10:25:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096"
 type: article
-quality: 29
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
@@ -44,6 +46,6 @@ related:
       domain: seekingalpha.com
     quality: 51
 
-secured: "Bha6IexIvn5QPIOpS+qtlakSDgk0QQAubavIOQWjS9fEHhZGwX0iRdiCyzvfM7Qo9iMzS2WiwMt2XtpKP1f4cQpUVHz+6xQ35NffN18VAHVnkgUZd6mkzUjol87E1zRMyvJp8Ni8DJAbc8neRfLKzVFZ32T+2+BNd5Iuk5pcUxvOULOqVgEzkJfp0mGnJ7QDXFiLILAeXfFMgks+C5d5Z6OK0Q+m4ghL/zdeiczVNAD7bX8jekYTpqqjFE07Y0MxQ6yPOTlwnjflq0VvI7EHQKjPDoHUvGLWEUhVCxLJ4so+1KpMtxujCcl1Pory5E2Y28Z7B8wtaF1FEo1EX1IceQ==;Bof7h/0dmE1hnZ0wQsVY/g=="
+secured: "ku8hC6NGGZrh9JvzX2HfaK6poHqMjgK2TdBQaOqlurXe0lcoDyVSWwSsuqTxn/qosku0m1bku9Z1tqIPmW8Nwx+vNjTMQtu9ktOMimKreIYyDyjTfDLuBT+PeoIE/STxKoJ8b9k1Wq0rlkmdF5cVZZtKCq4QXXHweIfklpNUG1NorEgtDLNxs5Quz+EsKGfC6J7jqSidnWeMmyQUu7zLnFwr+Yhjec1ihfTPf2lZbiSQo14o4LvFupYtQNBX2UpSvWREniSewj9SMkPVU3KM9vFkZPRCVB0WsXZ+2vuofBOO6M14fq1rZsPCq7BdA7JDhzou15wv0IKn8QgXtz88tA==;TAccigZaSv8MRe37weJlGA=="
 ---
 

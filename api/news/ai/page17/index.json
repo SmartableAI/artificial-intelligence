@@ -934,6 +934,44 @@
       ]
     },
     {
+      "path": "_news/2020-06-16-foiling-fraud-with-machine-learning.md",
+      "title": "Foiling fraud with machine learning",
+      "excerpt": "Read Caroline Hermon explain how machine learning ... traditional customer service channels with digital services. All the while, an army of agile start-ups, FinTechs and other data-driven organisations have disrupted the financial services and retail ...",
+      "webUrl": "https://ctovision.com/foiling-fraud-with-machine-learning/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ctovision.com/wp-content/uploads/space.jpg",
+          "width": 632,
+          "height": 422,
+          "title": "Foiling fraud with machine learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-16T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ctovision.com",
+        "domain": "ctovision.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-clockwise-raises-18-million-to-optimize-work-calendars-with-ai.md",
       "title": "Clockwise raises $18 million to optimize work calendars with AI",
       "excerpt": "Clockwise, whose platform taps AI to optimize workplace calendars, has raised $18 million to grow its products and expand its reach.",
@@ -1237,54 +1275,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding.md",
-      "title": "Streamlit wants to revolutionize building machine learning and data science applications, scores $21 million Series A funding",
-      "excerpt": "Streamlit wants to be for data science what business intelligence tools have been for databases: a quick way to get to results, without bothering much with the details",
-      "webUrl": "https://www.zdnet.com/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2018/12/06/7678c1af-8c33-4979-b8e0-aee879e3a982/istock-933321056.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": "Streamlit wants to revolutionize building machine learning and data science applications, scores $21 million Series A funding",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
-      "publishedDateTime": "2020-06-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

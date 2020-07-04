@@ -1,29 +1,29 @@
 ---
 category: news
 title: "2020 IaaS Value Matrix Highlights Increased ROI from Multi-Cloud Integrations, 5G Connectivity and AI"
-excerpt: "Nucleus Research today released the 2020 IaaS Technology Value Matrix, its assessment of the infrastructure-as-a-service (IaaS) market. For the report, Nucleus evaluated IaaS vendors based on their products’ usability,"
-publishedDateTime: 2020-07-02T14:00:00Z
-webUrl: "https://apnews.com/c6fbed28dc3d4f82afe8deb865753289"
+excerpt: "Nucleus Research today released the 2020 IaaS Technology Value Matrix, its assessment of the infrastructure-as-a-service (IaaS) market. For the report"
+publishedDateTime: 2020-07-02T14:40:00Z
+webUrl: "https://www.businesswire.com/news/home/20200702005040/en/2020-IaaS-Matrix-Highlights-Increased-ROI-Multi-Cloud"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200702005040/en/731239/23/nucleus-research-vector-logo_%281%29.jpg"
+    width: 1200
+    height: 627
     isCached: true
     title: "2020 IaaS Value Matrix Highlights Increased ROI from Multi-Cloud Integrations, 5G Connectivity and AI"
 
-secured: "0/Ef4t6gxnAtuiclSt48gyIjeexXqUJkVbMe0qibw9YLQ8XzFvaBryAcfw7LlMhrLTsjXOL45GvpR5TYCpN8uIfJ+1aEzQLOZdxR/3gL91ryQ2KEvc2NMmXmma1C2d1VFl7r0gOYs0v9XtuHlf8N6XRVPbeQqpRDMzMIEFVVmNMh6AhyaTH6ABAFcXhBo3Fs634dkamDycPhxKGa5dj5ySDziSwYn9UEZSFX4R4n3s5t6Lpef7zgLQaTmmF3gzHhelmgyuiqRUdOabnZSbYUMKk7OswzbyKfFKX6p/bFyapgMawGHjs/BwIKBWymBubv1uMz+d3gU5oB1RRfj9sQJg==;R0dmxzIrX58DcxuusbvNzA=="
+secured: "0JfQhRi4rrXB99yJ//RDL8uG6kyjtZIVthcRV7yz3M/eSdYOkgLJ4uIdv4Ew49QqqNKQnxaMW8CSF7r4BR3auxJ/OSicmmpbydcgxxA0blDWXYplffg2xRoZId3V9GnqTKlY/ha/9QkHtKnRiWWifU1yUuUcnwgF1rQK62db/lXi2E5E3U4dD1+wX0TiEEA2H8zMZ9yIkOM/X+7nBG5Fphg8iCf48MuIIxbk3xA9SqtsCh71i/Zp5nFZhtDxDzNSNaRzLjiKwl/0T6FmYUJCJ8R6IL8G1a5/NoiluPIR5p3CfOhwpQzTWplQf/XS15r17zZ64BEWRboTfuCEFv+a0Q==;vxP4d4gAq1IL7Ajp5IYhCA=="
 ---
 
