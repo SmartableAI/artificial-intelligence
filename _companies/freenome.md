@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "freenome"
   url: "https://www.twitter.com/freenome"
-  followers: 1975
+  followers: 1974
 
 size: 51-200 employees
 yearFounded: 2014
