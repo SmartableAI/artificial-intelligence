@@ -12,7 +12,7 @@ affiliation:
 twitter:
   username: SenorScience
   url: https://twitter.com/SenorScience
-  followers: 12
+  followers: 11
 
 googleScholar:
   url: https://scholar.google.com/citations?user=P6krKIkAAAAJ
