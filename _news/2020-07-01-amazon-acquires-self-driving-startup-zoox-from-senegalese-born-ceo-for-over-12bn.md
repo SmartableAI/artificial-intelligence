@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Amazon Scoops Up Self-Driving Start-Up Zoox"
+    excerpt: "Amazon.com is taking the plunge into autonomous driving technology and eventual contactless delivery with the acquisition of Zoox."
+    publishedDateTime: 2020-07-04T16:54:00Z
+    webUrl: "https://www.thestreet.com/video/amazon-buys-self-driving-start-up-zoox"
+    ampWebUrl: "https://www.thestreet.com/.amp/video/amazon-buys-self-driving-start-up-zoox"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/amazon-buys-self-driving-start-up-zoox"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://content.jwplatform.com/thumbs/ZgwCFLmG-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "Amazon Acquires Self-Driving Startup Zoox Led By Black Female CEO for $1.2 Billion"
     excerpt: "Amazon purchased Zoox, a developer of autonomous vehicles, for $1.2 billion. Zoox CEO Aicha Evans will remain in her current position."
     publishedDateTime: 2020-06-30T16:00:00Z

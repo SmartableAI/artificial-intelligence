@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Potential Impact of COVID-19 Pandemic on Global Cognitive Data Management Market Report 2020 Key Companies IBM, Salesforce, SAP, Informatica, SAS"
+    excerpt: "Cognitive Data Management Market Report 2020 Key Companies IBM, Salesforce, SAP, Informatica, SAS; In Depth Analysis and"
+    publishedDateTime: 2020-07-04T17:43:00Z
+    webUrl: "https://galusaustralis.com/2020/07/725501/potential-impact-of-covid-19-pandemic-on-global-cognitive-data-management-market-report-2020-key-companies-ibm-salesforce-sap-informatica-sas/"
+    ampWebUrl: "https://galusaustralis.com/2020/07/725501/potential-impact-of-covid-19-pandemic-on-global-cognitive-data-management-market-report-2020-key-companies-ibm-salesforce-sap-informatica-sas/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/07/725501/potential-impact-of-covid-19-pandemic-on-global-cognitive-data-management-market-report-2020-key-companies-ibm-salesforce-sap-informatica-sas/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 7
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2020/06/Cognitive-Market-Research-Report-2020-COVID-19-Impact-Edition-37.jpg"
+        width: 802
+        height: 400
+        isCached: true
   - title: "IoT Chip Market with COVID-19 Impact Analysis by Hardware, Power Consumption, End-use Application and Region - Global Forecast to 2025 - ResearchAndMarkets.com"
     excerpt: "Impact Analysis by Hardware (Processor, Connectivity IC, Sensor, Memory Device and Logic Device), Power Consumption, End-use Application (Wearable Devices, Consumer Electronics, Building Automation and Retail) and Region - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2020-07-02T08:17:00Z

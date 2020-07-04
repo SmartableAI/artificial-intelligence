@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "An AI founder’s struggle to be seen in the age of Black Lives Matter"
 
-secured: "JibDt33I2n+cjVbrHwHAFj9kVF/kdbrBzZNOamBGQnDZPt8LcZPf7GWkVOeZ5i1amBv1fSmCT43a86pQhAoU+WVsdK0ybtnjcBdDa7Pa3cp8sOLgFfIq6/IaIxIONE7odMt1IJ4sO9yH5rNn5nUVAICNjD5fDqLsA6Qc+16ieGzOwuE+2lVbcwgT+d0ULbjZbE/itIl8gXodwOS8jsoq6uVCEVbcJ2Gbuh9SMPYbS5BmMkp32bwQa1rHhxLErKOpgCYlKEQ7pRJN05qWfMw+tKoOWDTX54tTqlrBK26EbF/8PcVj+Uge1kPsbmWCRemGsW+eFZR003/gQ20qbZ+Teg==;LHfmlQgpWM7IXJLud82fGA=="
+secured: "mkZlAKxjKCG2mkvH1GtpXbyGzfSYbfn61JPw+ieJfcmwnWJvsA+3+8E4squheYB9FE89xECJepdI6Avy5HGKNvLG/rr8I55LMuxZwttwn7Patt4sNbIG2+MKUN4jI8BdWQlqkLzsTQuhT44CNyn4CXjJyMmu10vhSeZ84olsKyPZ2/HvJphOI7SKdltjzW/T84EoO8Vn4Mq/lUVyuxXFsuPhSB2mJIxtLF32PFUYQQBW1xJt6xP3ShvLRwyde/vuAROgj1Ux//R3pmFrhDBVgDOrMW3Fg0VD+sR4c7FPQ/nuSusO0ErLZLepxMTRQZwqSnIgbuC0HfUUQGi4GC5rKTSbcAvnt+WqkN0ISg7BN5j/UghwrOKlzc4jcxq5k1YWNFBvbZJCy34uPyZB7dJy0uZK0IUbWo9oRU7PjD0sBj4G4523xO/6lQl5FbsvWcmo2mvPYPSUbRbcfrsLA1aJ9EXZSlRKj6Ua4ELm0EhCLhAFmx6qMWIKE+dxmUTxlkw6tsGz/qqhvRmMUTgdYljY/A==;l/0EOhiP/B+1HELM5krb5g=="
 ---
 

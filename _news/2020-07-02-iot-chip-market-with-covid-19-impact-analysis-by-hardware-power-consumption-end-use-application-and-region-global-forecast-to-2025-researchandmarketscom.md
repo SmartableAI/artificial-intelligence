@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Potential Impact of COVID-19 Pandemic on Global Cognitive Data Management Market Report 2020 Key Companies IBM, Salesforce, SAP, Informatica, SAS"
+    excerpt: "Cognitive Data Management Market Report 2020 Key Companies IBM, Salesforce, SAP, Informatica, SAS; In Depth Analysis and"
+    publishedDateTime: 2020-07-04T17:43:00Z
+    webUrl: "https://galusaustralis.com/2020/07/725501/potential-impact-of-covid-19-pandemic-on-global-cognitive-data-management-market-report-2020-key-companies-ibm-salesforce-sap-informatica-sas/"
+    ampWebUrl: "https://galusaustralis.com/2020/07/725501/potential-impact-of-covid-19-pandemic-on-global-cognitive-data-management-market-report-2020-key-companies-ibm-salesforce-sap-informatica-sas/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/07/725501/potential-impact-of-covid-19-pandemic-on-global-cognitive-data-management-market-report-2020-key-companies-ibm-salesforce-sap-informatica-sas/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 7
+    images:
+      - url: "https://galusaustralis.com/wp-content/uploads/2020/06/Cognitive-Market-Research-Report-2020-COVID-19-Impact-Edition-37.jpg"
+        width: 802
+        height: 400
+        isCached: true
 
 secured: "QIjfkZWGSI28tMKP4ixFecW0oCjrBGHeLifo9D66qRnCOCH1VO0Xr9sJ6sVMRXkctxo6CbZ5GnAQqqC751mnl1S2bRjLBOZZIMmJPc6eroYc3ZHBuZ9l/jQddmcOQP4jINvJkqFpQGUUX25oaYUdaDKmYjKT3fzJ+23YURNhhe+DWh+PfEsY+oVuSQRFr00qpNxdIflIeKqEHb72cW5Ex3X2xDwrG0K/onORvO4g7PWmeQbrzHJmPx8WUd1ACtkKfze3qzWaw7Lby+qlsxloVZJ9xGo0BjEhGasId2XWszgP4RMQIYyKs4E681tlkktxsGjAk6/Sw6wFk4YSsS95fIY38xVO6FlnFc8y8oji3xgDhG96bmYhBvu/MqnoV37TnVn9vnlerQ9nUzE/MTrjd1VIdJeocDgQuvsjKYEQUP8M5ZriokrCl51g2mZ99Ynmaj9witnzFeMlrmTRYEAKgsYOJ2K3YkG3gSFi9DMvHo6tjN5vwWQRhbFzsDTIQ2qPSdk2r0s9cijXzJGuxKzX1A==;/NwcTp6xsUnsYk53shor3Q=="
 ---

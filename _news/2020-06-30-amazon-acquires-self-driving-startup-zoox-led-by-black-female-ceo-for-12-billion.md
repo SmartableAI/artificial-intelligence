@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Amazon Scoops Up Self-Driving Start-Up Zoox"
+    excerpt: "Amazon.com is taking the plunge into autonomous driving technology and eventual contactless delivery with the acquisition of Zoox."
+    publishedDateTime: 2020-07-04T16:54:00Z
+    webUrl: "https://www.thestreet.com/video/amazon-buys-self-driving-start-up-zoox"
+    ampWebUrl: "https://www.thestreet.com/.amp/video/amazon-buys-self-driving-start-up-zoox"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/amazon-buys-self-driving-start-up-zoox"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://content.jwplatform.com/thumbs/ZgwCFLmG-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "Amazon Acquires Self-Driving Tech Firm"
     excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their phones."
     publishedDateTime: 2020-06-30T02:38:00Z
