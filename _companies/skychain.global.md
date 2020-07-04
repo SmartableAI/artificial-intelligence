@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "skychainglobal"
   url: "https://twitter.com/skychainglobal"
-  followers: 2707
+  followers: 2706
 
 locations:
   - Redwood City, CA
@@ -31,6 +31,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=npQklriczNA"
 
-secured: "WR9K5MQJaMAsBFNMOYmF7vJ1OJGYIdqHowx+tv//UIuW9NrtGGFP0fAyMJxtxLXZG7S/Apg+fs9Sl15TRqx3t2xexFhIT2qEAxQ4cPHs/+3RUg/EDw4a5l95Ep8ilQQEyE0Fu+A7HGq76EeJEOMeHVs5Rvd70ItjBZOpAjfZ+csX1xAWhqLjLGkVtd6p4OCqTwMbxecmmYJlSpHbWLcnag+rblv5e0X9hVXWc4ESd8omIMz2rAJb88CyiVqt94lPsJYlGdQbEgBI6CfyU6AkUg+bz8/rB5LBIc26QX7XE7sxNX86QmAIIYMFDW3XSyFrhGW8uCJR9p7R45dO6K+opGk+acYs9JO+26i8bHbZNfrLi3cZ07dg8ljrWGNupH/d;nB3TjeYyGv0IeBTsSrRRvg=="
+secured: "swVXchcjIFlDuY3FsD0RzJq3p02B3wWphbMSeGz8BFKlGDCBNhaJ2JuTEeUxhSC5G4rnbj48unkO0Z5W/yKJjcDPAw1qmksvk2jsWkQc0T1bhvJ1xiTqxAHbS+sD8856Xqa59sref8wp317PySCVooXHEM5Lqon32O5WCXW0PMew4bV1T/BvVNRlagfUSU7ZSVw9HfxNHr6K2xWfWvAYNvegcJ3rg/AoIxwSznpJdTQ6Iferz04SOwPKbLBVYXitRgdNTXhqwWdOP8bvH8hlsjjm7Gn4F0WK2npPBdVET2N0CFTbeEyMH8a8VSExfiAJSHNjHwukTv8ACeQc1gU0W0VbwmBDe6M9XBQCebXjiOqJn/u23qiMMoF6XaR1II8d;msqFqDyktRB76s12l6VNSQ=="
 ---
 
