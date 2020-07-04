@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "MIT Designs Robot That Eliminates Coronavirus With UV Light"
+    excerpt: "MIT has developed a robot that navigates around spaces to blast the virus with UV light. The team has even tested the system at a Boston-area food bank with encouraging results."
+    publishedDateTime: 2020-06-29T17:47:00Z
+    webUrl: "https://www.extremetech.com/extreme/312198-mit-designs-robot-that-eliminates-coronavirus-with-uv-light"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2020/06/2Disinfecting-robot.jpg"
+        width: 672
+        height: 371
+        isCached: true
   - title: "How Artificial Intelligence, Data Science, And Technology Are Being Used To Fight The Coronavirus Pandemic?"
     excerpt: "HOW ARTIFICIAL INTELLIGENCE, DATA SCIENCE, AND TECHNOLOGY ARE BEING USED TO FIGHT THE CORONAVIRUS PA,General Information"
     publishedDateTime: 2020-07-02T08:29:00Z

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Self-Driving Cars Are a Way Better Solution to Drunk Driving Than Sobriety Checkpoints"
-    excerpt: "Lars Trautman, a senior fellow of criminal justice and civil liberties policy at the R Street Institute [2], told me via email: [Michigan v Sitz] created a perverse result in which a suspicionless stop that would be constitutionally offensive if conducted against an individual suddenly becomes sound so long as"
-    publishedDateTime: 2020-06-29T13:12:00Z
-    webUrl: "https://www.rstreet.org/2020/06/29/self-driving-cars-are-a-way-better-solution-to-drunk-driving-than-sobriety-checkpoints/"
-    type: article
-    provider:
-      name: R Street Institute
-      domain: rstreet.org
-    quality: 16
-    images:
-      - url: "https://www.rstreet.org/wp-content/uploads/2018/04/yoest-facebook-share-default.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "kz82bJ6AiAhcULEerDp5Z5r+EGiEcGIUp6Br9eEpLewtt+DrCyacgHgeu3wMad7u9eSHjHFV+Fg2FxL3toOJUetwqISewMxovvV9vT5PIkaMhsoiPLLGsHxxGXzlejFg37F3J0msU4ELxRzVaMILpuLNUU4XIbcYAUZ4pbqZV+EJZBWJqtRiU2RhMPJFJJmPnbycQRvuL8OQ/FbaWz97WwzNsuD3a9b7bnTxhjYz/AMCt0nOKO9oKAXlFqEosCMA4qy4QeEQ4YxlEExTuGcsY9dEqox2+8pHswnC87WZZCTLqiQusucVI2LoZ+j6y7+0Qw5n/AYa/LlVnPaiwMZLcMwXGWvFT8ZW5Rh3GyVUtPt5Rjz0cMdk74yt2yHHmE590Dv+USzluPHdAQxPRJC3MIgniQQp3gkC1e+4TwD6zmmdRZnEWSXvzBZZdDqANxAnc3QGiB58g4jeu9O4OH8mhbIkyTXgMRSs1Pzw7R+xZRawIPHFD6ZS6NbvbOmHgqYy7Nq7QIpk6Yi9/Ou92jElbQ==;N0b6+yYwLFArWrqRFwompQ=="
 ---

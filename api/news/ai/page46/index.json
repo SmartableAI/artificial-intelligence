@@ -2,6 +2,53 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-05-19-azure-synapse-link-anchors-microsofts-new-big-data-analytics-capabilities.md",
+      "title": "Azure Synapse Link anchors Microsoft’s new big data analytics capabilities",
+      "excerpt": "During its Build 2020 conference, Microsoft announced a number of products targeting enterprises engaged in big data, including Azure Synapse Linke.",
+      "webUrl": "https://venturebeat.com/2020/05/19/azure-synapse-link-anchors-microsoft-big-data-analytics-capabilities/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/microsoft.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Azure Synapse Link anchors Microsoft’s new big data analytics capabilities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-builds-openais-dream-system-an-azure-supercomputer-that-ranks-among-top-5-in-the-world.md",
       "title": "Microsoft builds OpenAI’s ‘dream system,’ an Azure supercomputer that ranks among top 5 in the world",
       "excerpt": "Microsoft says it has created one of the world’s top supercomputers for the exclusive use of OpenAI, the San Francisco-based artificial intelligence company pursuing breakthroughs in",
@@ -1237,53 +1284,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-are-ai-powered-killer-robots-inevitable.md",
-      "title": "Are AI-Powered Killer Robots Inevitable?",
-      "excerpt": "Military scholars warn of a “battlefield singularity,” a point at which humans can no longer keep up with the pace of conflict.",
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-military-robots/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ebefa5288ead7be95a5c6c2/master/pass/Biz-robotskull-476996566.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Are AI-Powered Killer Robots Inevitable?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-military-robots/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-military-robots/amp",
-      "publishedDateTime": "2020-05-19T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

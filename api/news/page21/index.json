@@ -2,6 +2,52 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-06-16-clockwise-raises-18-million-to-optimize-work-calendars-with-ai.md",
+      "title": "Clockwise raises $18 million to optimize work calendars with AI",
+      "excerpt": "Clockwise, whose platform taps AI to optimize workplace calendars, has raised $18 million to grow its products and expand its reach.",
+      "webUrl": "https://venturebeat.com/2020/06/16/clockwise-raises-18-million-to-optimize-employees-calendars-with-ai/",
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/calendar-e1591825433253.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Clockwise raises $18 million to optimize work calendars with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/16/clockwise-raises-18-million-to-optimize-employees-calendars-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/clockwise-raises-18-million-to-optimize-employees-calendars-with-ai/amp/",
+      "publishedDateTime": "2020-06-16T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-ai-model-creates-3d-avatars-from-a-persons-picture.md",
       "title": "AI model creates 3D avatars from a person’s picture",
       "excerpt": "An AI system dubbed AvatarMe creates 3D avatars of people from nothing but face images, whether hand-drawn or photographed in black-and-white.",
@@ -1056,44 +1102,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-wimi-hologram-cloud-nasdaqwimi-accelerates-development-in-the-field-of-computer-vision.md",
-      "title": "WIMI Hologram Cloud (NASDAQ:WIMI) Accelerates Development in the Field Of Computer Vision",
-      "excerpt": "WIMI Hologram Cloud (NASDAQ:WIMI), as a solution provider under 5G, has a leading AR holographic application platform in China, which is currently mainly used in",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/ab16258647/wimi-hologram-cloud-nasdaq-wimi-accelerates-development-in-the-field-of-computer-vision",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ibb.co/qMQqYD0/1.png",
-          "width": 522,
-          "height": 340,
-          "title": "WIMI Hologram Cloud (NASDAQ:WIMI) Accelerates Development in the Field Of Computer Vision",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16258647",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16258647",
-      "publishedDateTime": "2020-06-15T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

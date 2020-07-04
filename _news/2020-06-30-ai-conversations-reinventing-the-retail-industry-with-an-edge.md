@@ -24,21 +24,35 @@ images:
     title: "AI Conversations: Reinventing the Retail Industry with an ‘Edge’"
 
 related:
-  - title: "What Conversations With 15 FinTech CEOs Revealed"
-    excerpt: "A month ago, my investment banking group hosted Rosenblatt’s 12th annual FinTech summit, bringing together 400 investors and senior industry executives from the US, UK, Europe, India, Hong Kong, and Singapore."
-    publishedDateTime: 2020-07-02T00:57:00Z
-    webUrl: "https://www.forbes.com/sites/dushyantshahrawat/2020/07/01/what-conversations-with-15-fintech-ceos-revealed/"
-    ampWebUrl: "https://www.forbes.com/sites/dushyantshahrawat/2020/07/01/what-conversations-with-15-fintech-ceos-revealed/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dushyantshahrawat/2020/07/01/what-conversations-with-15-fintech-ceos-revealed/amp/"
+  - title: "Deriving conversational insights from invoices with Amazon Textract, Amazon Comprehend, and Amazon Lex"
+    excerpt: "Organizations across industries have a large number of physical documents such as invoices that they need to process. It is difficult to extract information from a scanned document when it contains tables, forms, paragraphs, and check boxes. Organization have been addressing these problems with manual"
+    publishedDateTime: 2020-06-30T19:49:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deriving-conversational-insights-from-invoices-with-amazon-textract-amazon-comprehend-and-amazon-lex/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 103
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/25/conversational-insights-001.jpg"
+        width: 1000
+        height: 564
+        isCached: true
+  - title: "Unifying The Supply Chain With Machine Learning Organized Information, Increases Speed, And Improves Efficiency"
+    excerpt: "The supply chain is complex, and machine learning will be a critical tool in the continuing improvement of supply chain management."
+    publishedDateTime: 2020-06-30T14:19:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 74
+    quality: 86
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efd2e103855ae0006058de7%2F0x0.jpg"
-        width: 1200
-        height: 675
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed90450d3f5a6000627e3ca%2F0x0.jpg"
+        width: 876
+        height: 548
         isCached: true
 
 secured: "3NWP2i8Tpkg0OaNrQTSbrw7Fja/fnJEXpVUR22EMiu/V3ptSX4cy1yEBnDnc97VLpJO+eYlGyf0+Pp47MP8HdtuP9fc/A3YJabtcwpFazrG05mSVWXkfIE7Wz4dep3S/ITlqfzP1dUIhaUeNp1ukJRGW5PWMCP4+ohC3TVn3G0stRkRUlTfVBhOrQk9BPc1J3ZS2Yrqf8qwkbMdbCYpJXGUpqcAvsLSbcA+E/3TDerFlBMIIcTl9MQLjXICKUmROgxCuAxVkPdA3eQf8zm+Bz4zH9xhvfsqldNZMk8Of6R5QNu36wTYzxss1y5FcuHgUPv5mf/zFP8YjAiGpgnhk4SfCO9CoTivwWUGnpX6760ikpqp5655KWch4vB+4LGQ9pmEYAh7/RkuS0XA86dxlbzctIQlfN5Zgb4jn5sjKRiPf7dsM7c4jaColEQKztUz1RYOy54s/RJ+MugHtQ08VMeetiFgv27gc1tTWI1hko+7jjJVEvaAG7tBiu8iGKKoRt1evM5tekNoaHf+GaGHXmA==;aqvGLPX5G2ofUnNAG+/b4A=="

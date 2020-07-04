@@ -2,6 +2,52 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-05-31-gender-bias-in-predictive-algorithms-how-applied-ai-research-can-help-us-build-a-more-equitable-future.md",
+      "title": "Gender Bias In Predictive Algorithms: How Applied AI Research Can Help Us Build A More Equitable Future",
+      "excerpt": "AI research conducted through a gendered lens helps us to imagine how these advanced technologies can be used to achieve a seemingly impossible feat - eliminating bias.",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/30/gender-bias-in-predictive-algorithms/",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed30063b8ac0f0006007345%2F0x0.jpg",
+          "width": 1000,
+          "height": 671,
+          "title": "Gender Bias In Predictive Algorithms: How Applied AI Research Can Help Us Build A More Equitable Future",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/30/gender-bias-in-predictive-algorithms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/30/gender-bias-in-predictive-algorithms/amp/",
+      "publishedDateTime": "2020-05-30T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-31-a-closer-look-at-deepmind-the-google-ai-thats-mastering-starcraft-2.md",
       "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
       "excerpt": "May 31, 2020 This feature was originally published in January 2019. You’d be forgiven for assuming that DeepMind’s artificial intelligence technology has already proven its chops. Back in ...",
@@ -1264,35 +1310,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-cognitive-computing-market-2020-2025-insights-technology-advancements-and-future-growth-analysis-cagr-280.md",
-      "title": "Cognitive Computing Market 2020-2025 Insights, Technology Advancements and Future Growth Analysis | CAGR (28.0%)",
-      "excerpt": "The report presents an in depth assessment of the Cognitive Computing Market including enabling technologies key trends market drivers challenges standardization regulatory landscape deployment models operator case studies opportunities future roadmap value chain ecosystem player profiles and strategies The report",
-      "webUrl": "https://www.openpr.com/news/2062025/cognitive-computing-market-2020-2025-insights-technology",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2062025/cognitive-computing-market-2020-2025-insights-technology",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2062025/cognitive-computing-market-2020-2025-insights-technology",
-      "publishedDateTime": "2020-05-29T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

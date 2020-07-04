@@ -2,6 +2,53 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-06-11-superannotate-uses-ai-techniques-to-speed-up-data-labeling.md",
+      "title": "SuperAnnotate uses AI techniques to speed up data labeling",
+      "excerpt": "SuperAnnotate, a startup developing AI-powered data labeling and annotation tools, raised $3 million in a seed funding round.",
+      "webUrl": "https://venturebeat.com/2020/06/11/superannotate-uses-ai-techniques-to-speed-up-data-labeling/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/ea7130cc-4a60-44b6-b483-faa3bfc97716-e1591656959570.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "SuperAnnotate uses AI techniques to speed up data labeling",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/11/superannotate-uses-ai-techniques-to-speed-up-data-labeling/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/superannotate-uses-ai-techniques-to-speed-up-data-labeling/amp/",
+      "publishedDateTime": "2020-06-11T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-openais-text-generator-is-going-commercial.md",
       "title": "OpenAI’s Text Generator Is Going Commercial",
       "excerpt": "Last spring, artificial intelligence research institute OpenAI said it had made software so good at generating text—including fake news articles—that it was too dangerous to release.",
@@ -954,54 +1001,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-amazon-pauses-police-use-of-its-facial-recognition-software.md",
-      "title": "Amazon Pauses Police Use of Its Facial Recognition Software",
-      "excerpt": "The company said it hoped the moratorium “might give Congress enough time to put in place appropriate rules” for the technology.",
-      "webUrl": "https://www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.html",
-      "heat": 841,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/06/10/business/10UNREST-AMAZON-sub/10UNREST-AMAZON-sub-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": "Amazon Pauses Police Use of Its Facial Recognition Software",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.amp.html",
-      "publishedDateTime": "2020-06-10T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T11:08:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027-2020-07-01"
 type: article
 quality: 64
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     title: "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027"
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market 2020 Global Industry Analysis By Size, Growth Rate and Trends With Forecast To 2026"
-    excerpt: "Artificial Intelligence in Healthcare Market2020 Global Industry Trends, Size, Share Analysis Report. According to"
-    publishedDateTime: 2020-06-29T13:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2020-global-industry-analysis-by-size-growth-rate-and-trends-with-forecast-to-2026-2020-06-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI-based Fever Detection Camera Market 2020: Covid19 Impact Analysis, End Users And Regional Forecast Till 2027"
     excerpt: "Jun 29, 2020 (The Expresswire) -- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by"
     publishedDateTime: 2020-06-29T15:03:00Z

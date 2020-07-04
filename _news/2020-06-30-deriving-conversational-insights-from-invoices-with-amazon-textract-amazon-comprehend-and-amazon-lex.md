@@ -6,8 +6,8 @@ publishedDateTime: 2020-06-30T19:49:13Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/deriving-conversational-insights-from-invoices-with-amazon-textract-amazon-comprehend-and-amazon-lex/"
 type: article
 quality: 103
-heat: -1
-published: false
+heat: 123
+published: true
 
 provider:
   name: AWS
@@ -29,19 +29,35 @@ images:
     title: "Deriving conversational insights from invoices with Amazon Textract, Amazon Comprehend, and Amazon Lex"
 
 related:
-  - title: "Addressing complex Kubernetes issues with Watson AIOps and Sysdig"
-    excerpt: "\nExplosive growth in cloud applications built on containers has exponentially increased the volume of alerts, signals, and data vying for the attention of IT admins. Applications consisting of dozens of microservices, running across intercommunicating nodes, complicate incident detection and response."
-    publishedDateTime: 2020-06-29T14:26:29Z
-    webUrl: "https://www.ibm.com/blogs/watson/2020/06/addressing-complex-kubernetes-issues-with-watson-aiops-and-sysdig/"
+  - title: "Unifying The Supply Chain With Machine Learning Organized Information, Increases Speed, And Improves Efficiency"
+    excerpt: "The supply chain is complex, and machine learning will be a critical tool in the continuing improvement of supply chain management."
+    publishedDateTime: 2020-06-30T14:19:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 117
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/04/Leadspace-1.jpg"
-        width: 990
-        height: 498
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed90450d3f5a6000627e3ca%2F0x0.jpg"
+        width: 876
+        height: 548
+        isCached: true
+  - title: "AI Conversations: Reinventing the Retail Industry with an ‘Edge’"
+    excerpt: "The retail industry is in the midst of a sweeping transformation driven by new technologies and new business models. Artificial intelligence is an essential enabler of this transformation."
+    publishedDateTime: 2020-06-30T16:51:00Z
+    webUrl: "https://www.cio.com/article/3564721/ai-conversations-reinventing-the-retail-industry-with-an-edge.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/06/retail-verticals-100850469-large.jpg"
+        width: 1200
+        height: 524
         isCached: true
 
 secured: "MDmzibHs2Fbd6SOuzxP+O90W3oEbq9uvTuBdVcdo6/mMWAeQWuXpKCHlfb/wIT/FNaWoocL8IqAWMZfYN35h2DV5kE/5Dko4HPse8Z6fFU/qZFPcV6XE80YycypGVzsGxNRc+cuQMuEcKyEdUjGS6PUuZo+NdAy+wjOUI+fijUJ/IpvuxLZOnX0DKndeeC0vhhGsOsfY3a0UcgL634wrB+7Yaf9CamBKtkZc4jOi6tF2t9XnH/naD8XkCYPGRP+YXvmvGRk0q5YvgmjQ72zuXsV1HnWLdgh5c6zO1L4n40l86MMcX8naNY+mZrBdsPPrdypMDyZRRm0Was7OZ217Cw==;IGXnvQC6SoKw5gKDS80Elg=="

@@ -2,45 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-06-12-microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero.md",
-      "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
-      "excerpt": "Hackers have attacked badly configured machine learning clusters on Microsoft’s Azure cloud computing network, and hijacked them to mine Monero",
-      "webUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero",
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYTk5ZTE1ZjFmYTEwNGZmYjc0ZDg2ZDkzNmE5MGE4ZC5qcGc=.jpg",
-          "width": 370,
-          "height": 246,
-          "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp",
-      "publishedDateTime": "2020-06-12T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-06-12-goosegrass-detection-in-strawberry-and-tomato-using-a-convolutional-neural-network.md",
       "title": "Goosegrass Detection in Strawberry and Tomato Using a Convolutional Neural Network",
       "excerpt": "Goosegrass is a problematic weed species in Florida vegetable plasticulture production. To reduce costs associated with goosegrass control, a post-emergence precision applicator i",
@@ -1251,6 +1212,35 @@
       "provider": {
         "name": "Asia One",
         "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
+      "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
+      "excerpt": "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ...",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

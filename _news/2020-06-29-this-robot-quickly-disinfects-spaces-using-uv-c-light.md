@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/this-robot-quickly-disinfects-s
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-robot-quickly-disinfects-spaces-using-uv-c-light/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-88-796x417.png"
         width: 796
         height: 417
-        isCached: true
-  - title: "This Robot Automatically Disinfects COVID-19 in Public Areas"
-    excerpt: "A new autonomous robot equipped with UVC light is able to disinfect and clean 90% of the coronavirus particles. The scientists at MIT’s Computer Science and Artificial Intelligence Laboratory teamed up with Ava robotics to create this robot that is able to disinfect and neutralize virus particles."
-    publishedDateTime: 2020-06-29T13:48:00Z
-    webUrl: "https://propakistani.pk/2020/06/29/this-robot-automatically-disinfects-covid-19-in-public-areas/"
-    ampWebUrl: "https://propakistani.pk/2020/06/29/this-robot-automatically-disinfects-covid-19-in-public-areas/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/06/29/this-robot-automatically-disinfects-covid-19-in-public-areas/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 59
-    images:
-      - url: "https://cdn.propakistani.pk/wp-content/uploads/2020/06/CSAIL-robot-e1593435664579.jpg"
-        width: 1000
-        height: 562
         isCached: true
   - title: "New Mobile Cleaning Robot Disinfects Equipment, Production Spaces"
     excerpt: "Undoubtedly, hygiene zones and production lines should be impeccably clean. And complete cleanliness is very important wherever medical devices are handled and food is processed."

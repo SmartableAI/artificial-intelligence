@@ -2,6 +2,45 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-06-22-pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards.md",
+      "title": "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards",
+      "excerpt": "Facebook announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and groundbreaking academic research in the field of artificial intelligence (AI) ethics.",
+      "webUrl": "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/",
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailytimes.com.pk/assets/uploads/2020/06/07/Facebook-removes-nearly-200-accounts-tied-to-hate-groups.jpg",
+          "width": 715,
+          "height": 450,
+          "title": "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/",
+      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/",
+      "publishedDateTime": "2020-06-21T20:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Times",
+        "domain": "dailytimes.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-type-x-armored-combat-robot-equipped-for-unmanned-convoy-protection.md",
       "title": "Type-X armored combat robot equipped for unmanned convoy protection",
       "excerpt": "Estonia-based Milrem Robotics and Belgium's John Cockerill Defense have unveiled Milrem's Type-X Robotic Combat Vehicle. Based on a modular design and equipped with the Cockerill Protected Weapons Station Generation II (CPWS II) turret,",
@@ -707,44 +746,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-19-teaching-physics-to-neural-networks-removes-chaos-blindness.md",
-      "title": "Teaching physics to neural networks removes 'chaos blindness'",
-      "excerpt": "Artificial neural networks mimic this behavior by adjusting numerical weights and biases during training sessions to minimize the difference between their actual and desired outputs.",
-      "webUrl": "https://www.sciencedaily.com/releases/2020/06/200619143437.htm",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-19T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-19-this-startup-could-be-a-dog-owners-best-friend-as-it-uses-machine-learning-to-help-guide-key-decisions.md",
       "title": "This startup could be a dog owner’s best friend as it uses machine learning to help guide key decisions",
       "excerpt": "After adopting his first dog last year, Patrick Opie was struggling with figuring out what Orin, his mini Australian shepherd, needed and when. The struggle went beyond coping with normal puppy",
@@ -779,6 +780,35 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-teaching-physics-to-neural-networks-removes-chaos-blindness.md",
+      "title": "Teaching physics to neural networks removes 'chaos blindness'",
+      "excerpt": "Researchers from North Carolina State University have discovered that teaching physics to neural networks enables those networks to better adapt to chaos within their environment. The work has implications for improved artificial intelligence (AI) applications ranging from medical diagnostics to automated drone piloting.",
+      "webUrl": "https://phys.org/news/2020-06-physics-neural-networks-chaos.html",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-06-physics-neural-networks-chaos.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-06-physics-neural-networks-chaos.amp",
+      "publishedDateTime": "2020-06-19T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1050,44 +1080,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-microsoft-acquires-adrm-software-to-develop-data-models-for-azure.md",
-      "title": "Microsoft Acquires ADRM Software to Develop Data Models for Azure",
-      "excerpt": "Microsoft has announced the purchase of data model develop ADRM, which will be incorporated into its Microsoft Azure division.",
-      "webUrl": "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2020/06/Data-Model-ADRM-Microsoft.jpg",
-          "width": 1024,
-          "height": 402,
-          "title": "Microsoft Acquires ADRM Software to Develop Data Models for Azure",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/?amp",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/?amp",
-      "publishedDateTime": "2020-06-19T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

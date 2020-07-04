@@ -3,27 +3,27 @@ category: news
 title: "MIT-designed robot can disinfect a warehouse floor in 30 minutes — and could one day be employed in grocery stores and schools"
 excerpt: "MIT has designed a robot that is capable of disinfecting the floor of a 4,000-square foot warehouse in only half an hour, and it could one day be used to clean your local grocery store or school. The"
 publishedDateTime: 2020-07-04T04:01:00Z
-webUrl: "https://abc17news.com/money/2020/07/03/mit-designed-robot-can-disinfect-a-warehouse-floor-in-30-minutes-and-could-one-day-be-employed-in-grocery-stores-and-schools/"
+webUrl: "https://keyt.com/lifestyle/money-and-business/2020/07/03/mit-designed-robot-can-disinfect-a-warehouse-floor-in-30-minutes-and-could-one-day-be-employed-in-grocery-stores-and-schools/"
 type: article
 quality: 11
 heat: 11
 published: false
 
 provider:
-  name: ABC 17 News
-  domain: abc17news.com
+  name: KEYT
+  domain: keyt.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/Money-web-1024x576-860x484.jpg"
+  - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech-860x484.png"
     width: 860
     height: 484
     isCached: true
     title: "MIT-designed robot can disinfect a warehouse floor in 30 minutes — and could one day be employed in grocery stores and schools"
 
-secured: "NZNvKnHCZZNBcKMJjI5eGjfCUSIct7f/MyQOMo2swLv218gy6pSjYrRFQplWHP3T/MhkVfulGcVoohy1KC8ntftAho1TBMehvAw8vdsZKVrqgnzNe+ijTqNphIH8qnGfP/z4repli3ociqcGBJx1h1PyvtJc0qAqEtbvnbJN/yP1Cmu9USP7tHojWbeT3aOZ1lzamh6fU+HYLFY/5kU/SfWn1GLGfLhZGFozjt4CiYGQZSlyHnlIYKfTMf91t3Oxe93adVFdhMWOhJ+uWjgUlk29N7sIZhMeK5DP8JcB9cp58P0tPHAHW7Xw0bFNPFyXz32i8HtL0s7uy5EmEiM6tg==;5oj45LMxHE33sgbWwFxBYw=="
+secured: "FtrUyYcmEWCZpQjaL5MZwr4/2Y2Q4NrcWO9r4Lq8Ulm9pZ5k1LpGTISZD6C1X/5RRqrtbFyziT8o4AOGGL4FovDCXV1QfeKbrXb2FPlCr+sbQrHoZ4x2Wc7y3AtN43XPzeidEBjgHLKum+F791rgkEdWZPGMoVkOks4mlONlb1QWRawSlMvsWxSsErOb0zzIL/BBXTvH6qO1y3q/lDj56z1xWjotPYTWD/jAaHo5EfFYjD6H0Ed9uVD08+TkbTHuZpCE7nVFqnUqom5S7B91xfuqo0vebo+4w0fJbTNCMUod7EHVyjRJGYVWolRoab7lc0y2LjihFQbKYEmbhOIFDw==;oH5HK0iK/SXiNdKUmzapTw=="
 ---
 
