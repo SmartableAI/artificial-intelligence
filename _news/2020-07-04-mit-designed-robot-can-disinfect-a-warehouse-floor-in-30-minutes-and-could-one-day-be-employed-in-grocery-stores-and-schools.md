@@ -2,8 +2,8 @@
 category: news
 title: "MIT-designed robot can disinfect a warehouse floor in 30 minutes — and could one day be employed in grocery stores and schools"
 excerpt: "MIT has designed a robot that is capable of disinfecting the floor of a 4,000-square foot warehouse in only half an hour, and it could one day be used to clean your local grocery store or school. The"
-publishedDateTime: 2020-07-04T04:01:00Z
-webUrl: "https://keyt.com/lifestyle/money-and-business/2020/07/03/mit-designed-robot-can-disinfect-a-warehouse-floor-in-30-minutes-and-could-one-day-be-employed-in-grocery-stores-and-schools/"
+publishedDateTime: 2020-07-04T12:26:00Z
+webUrl: "https://keyt.com/lifestyle/money-and-business/2020/07/04/mit-designed-robot-can-disinfect-a-warehouse-floor-in-30-minutes-and-could-one-day-be-employed-in-grocery-stores-and-schools/"
 type: article
 quality: 11
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 878
         isCached: true
 
-secured: "TFyHpka/bKMF3y1oGfKOE4dcyeKtut54Sqr3vRiObF012D/fZVKSPpnabZXpsJ0D6/nDry2bBBxi3qj/HCXpq9Yvx6nnDKnM84gUAxhStom/t0ZzYL9NE7m9e+JRYGOdsPX/7E+WZyCWgIgFCWulf2HljCQuXVEmHgx0OYUsrfbaJDMTFkYBJ5vgWfgOkHCxpgrw15KeiVNTR8JYNFtEZcxEiZ9HYwE+h8MVN5S9obfKMi6qKzcEBfYOTLRhjw8zIJ7Ixfw2GCb3gnV3hicQVb6+bhuw0NkwncmmRarKgCc/3vThws7qXo+Sn61aruh5HDfrpAj1Z7WBtY2PUVE0jgT60jsv9hcsbGs5gaDydnGhcgyWJ5vGIcTypL99S6Q2MTy/TZOJ0YT9N1TqxKlERzZh5SC/BLFbr4CtpQBMxRQwulMD0CLhJBObXgOEF9nA58d6PSTClFWf7EBki9XKDwFRVBUzVlfwPLizZUHnmcC3rrjc23YSN18iFxdfEIXR/0AjsdEqvz9LiH6eUFykyg==;+xwXdhSyUtU9teZtlsvI2A=="
+secured: "WxO9wvNezwOOymyvP5Uw5mxMQUrJ2Dh9H33pUOeTwsaarBk4goFNyUBtBBwyOnw6y7xDOHHzN+3WcK5xNRXThQ9ebGvrqYbOw9GImqUe7CbsM5RmAgs4oOKqIeWo6Jr8yBQfm6lsh4V8D5mKUjZhIcmfKW5x/5yy7VUz1OPPJ+JP/dKA7FHaDixx/1YhjrozwJiyBFY95x+PeE5Xw8x1E1Qocu9q/fUdsJX95mBB6sRlZy8FFM8LbIfbISPeXqnKrV20Qa5kcNQBya7EvgIbtfwlaE+aqAdFXll9dZZMP+JuuKJnOvydKMZNfBsrUmIo2GuJL8woTt1uZgwNfvbdmQ==;1TV6HmJxdGEZyuUF4MA5FQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/amp/"
 type: article
 quality: 101
-heat: 281
+heat: 271
 published: true
 
 provider:
@@ -265,20 +265,6 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/236157_web.jpg"
         width: 618
         height: 218
-        isCached: true
-  - title: "Facial recognition on trial: emotion and gender “detection” under scrutiny in a court case in Brazil"
-    excerpt: "As AI-powered facial recognition systems are deployed around the world, it is imperative to ensure they do not facilitate human rights violations, especially of people and communities already at risk."
-    publishedDateTime: 2020-06-29T20:40:00Z
-    webUrl: "https://www.accessnow.org/facial-recognition-on-trial-emotion-and-gender-detection-under-scrutiny-in-a-court-case-in-brazil/"
-    type: article
-    provider:
-      name: Access Now
-      domain: accessnow.org
-    quality: 24
-    images:
-      - url: "https://www.accessnow.org/cms/assets/uploads/2020/06/facial-recognition-social.jpg"
-        width: 1024
-        height: 497
         isCached: true
   - title: "Racial bias in facial recognition software could lead to false arrests"
     excerpt: "A black man in Detroit was wrongfully arrested after facial recognition software incorrectly identified him, forcing developers to acknowledge the ways that racial bias is present in artificial intell"

@@ -269,20 +269,6 @@ related:
         width: 618
         height: 218
         isCached: true
-  - title: "Facial recognition on trial: emotion and gender “detection” under scrutiny in a court case in Brazil"
-    excerpt: "As AI-powered facial recognition systems are deployed around the world, it is imperative to ensure they do not facilitate human rights violations, especially of people and communities already at risk."
-    publishedDateTime: 2020-06-29T20:40:00Z
-    webUrl: "https://www.accessnow.org/facial-recognition-on-trial-emotion-and-gender-detection-under-scrutiny-in-a-court-case-in-brazil/"
-    type: article
-    provider:
-      name: Access Now
-      domain: accessnow.org
-    quality: 24
-    images:
-      - url: "https://www.accessnow.org/cms/assets/uploads/2020/06/facial-recognition-social.jpg"
-        width: 1024
-        height: 497
-        isCached: true
 
 secured: "wyxvQOUtvSfWI0g0YtgwusYwDQXJ6rH7d9tfjO/kQyOPzcwGJbBv58tODgOq87EicNuMvBht40DVqXNCGwMbqbnlCC2z1nUADbSa3fRJmjXwPcO5DGp7Hn4bw0ntNxMJDDDgGKCUW0FrtfehdROT2OqWLuXgH2KqdG596Jv+9kTiD3rp2DxSGFIr3wrIV4jw2Wq5uq7VkugyZHwW3spl7ZIUQI+nFt2eRbtj1064SOTQiJYHPjsSmK97SO0FMBv9GbRrrp1wJTV7sgJq7KaTJf5S7BSz+M2325TBJNSWnLgXSRQ0tMizx4PCzO4kOMKpOFAh27PtAz/TCah4qB6TpziBENSBlq3I/qSzJ6yN/uvhz6R/CN89q1UPSu85CeF67bfGCbyJw95TjbIDIqRU4diwxKgQCMdRynOhYOWiEMPVHdWFhe1uSN/Xzl7JRKEhoSthr2a/V09sZ0XRnbkRamTUdPvwPlaVaME0qSMzGW1J9HTgfvy9YUoGox5NEHF9aqpDnm4DrAP6XylNnF6vBw==;F7L0R+MwZHFSDe5sNTndKw=="
 ---

@@ -27,8 +27,8 @@ images:
 related:
   - title: "MIT-designed robot can disinfect a warehouse floor in 30 minutes — and could one day be employed in grocery stores and schools"
     excerpt: "MIT has designed a robot that is capable of disinfecting the floor of a 4,000-square foot warehouse in only half an hour, and it could one day be used to clean your local grocery store or school. The"
-    publishedDateTime: 2020-07-04T04:01:00Z
-    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/07/03/mit-designed-robot-can-disinfect-a-warehouse-floor-in-30-minutes-and-could-one-day-be-employed-in-grocery-stores-and-schools/"
+    publishedDateTime: 2020-07-04T12:26:00Z
+    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/07/04/mit-designed-robot-can-disinfect-a-warehouse-floor-in-30-minutes-and-could-one-day-be-employed-in-grocery-stores-and-schools/"
     type: article
     provider:
       name: KEYT
