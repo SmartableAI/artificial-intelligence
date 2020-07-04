@@ -5,7 +5,7 @@ excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”)
 publishedDateTime: 2020-06-30T10:25:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096"
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 related:
   - title: "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers"

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T11:15:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-services-global-market-report-2020-30-covid-19-growth-and-change-2020-06-30"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     title: "Artificial Intelligence Services Global Market Report 2020-30: Covid 19 Growth and Change"
 
 related:
+  - title: "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025"
+    excerpt: "Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023” To Its Research Database This report focuses on the global Natural language processing (NLP) status, future forecast,"
+    publishedDateTime: 2020-07-03T22:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-07-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Global Trends, Market Share, Industry Size, Growth, Opportunities and Market Forecast 2020 to 2029"
     excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 37 billion by 2029 end with"
     publishedDateTime: 2020-07-01T15:07:00Z

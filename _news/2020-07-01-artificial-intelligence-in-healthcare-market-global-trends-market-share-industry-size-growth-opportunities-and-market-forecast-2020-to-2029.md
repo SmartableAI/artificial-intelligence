@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025"
+    excerpt: "Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023” To Its Research Database This report focuses on the global Natural language processing (NLP) status, future forecast,"
+    publishedDateTime: 2020-07-03T22:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-07-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "P1GVsuGfm+Wprwih+IpykGKul+/MJnRrV+VsEApBdhnFL/hvIADphedLjmB/ityCe7GwyK9yakkV1mE4E2GaJLJBTox6xdB32BXiQFMb3K26NBdsak3DjvXVMy8EbAgigGvpy7lDRvnf+UciwiscOs+xaRvIuQqJ23Wh1LikT0dKI4RKvQCjMj9aDKMxHedfKd/ryH86epiPl+0/9K8ykte8EkADQSRNXgozMVjGx6Ct28NuBv88xh7xQrNCOzrJTcBIEVIa6KpaalWIFFT6K/Pj89FDLq/rG0cF9zWnXn1rJcuh5hfjJA+tiiWudcghEE8ng9XDjbhSvRPLxxbCsw==;u4INcXZA32Tvj4xHZ2x8Tw=="
 ---

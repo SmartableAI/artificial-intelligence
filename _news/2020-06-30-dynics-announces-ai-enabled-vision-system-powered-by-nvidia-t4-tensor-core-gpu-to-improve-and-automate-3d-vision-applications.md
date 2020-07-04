@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Dynics announces AI-enabled vision system powered by NVIDIA T4 Tensor Core GPU to improve and automate 3D vision applications"
-excerpt: "PRNewswire/ -- Dynics, Inc., a U.S.-based manufacturer of industrial-grade computer hardware, visualization software, network security, network monitoring"
-publishedDateTime: 2020-06-30T21:04:00Z
-webUrl: "https://www.prnewswire.com/news-releases/dynics-announces-ai-enabled-vision-system-powered-by-nvidia-t4-tensor-core-gpu-to-improve-and-automate-3d-vision-applications-301086343.html"
+excerpt: "Artificial intelligence (AI) is increasingly being integrated into modern manufacturing to improve and automate processes, including 3D vision applications. The XiT4 Inference Server, powered by the NVIDIA® T4 Tensor Core GPUs,"
+publishedDateTime: 2020-06-30T21:33:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/dynics-announces-ai-enabled-vision-system-powered-by-nvidia-t4-tensor-core-gpu-to-improve-and-automate-3d-vision-applications-1029356900"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/dynics-announces-ai-enabled-vision-system-powered-by-nvidia-t4-tensor-core-gpu-to-improve-and-automate-3d-vision-applications-1029356900"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dynics-announces-ai-enabled-vision-system-powered-by-nvidia-t4-tensor-core-gpu-to-improve-and-automate-3d-vision-applications-1029356900"
 type: article
-quality: 27
-heat: 27
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-    title: "Dynics announces AI-enabled vision system powered by NVIDIA T4 Tensor Core GPU to improve and automate 3D vision applications"
-
-secured: "M+yANuFDW2dRHhE7Jc5QxOm9osyPFm1ytTkTXIZk69muo7T4489rafeEqlnHDgyADv9JszW6iBEp/6qZVdGHOKXU0zSszLXeOstkoHVxxgT2HyXjDtaBuubFT/QAXzFTHvDlHlqQs1BqZM6QI3BO+yEdjHH2TTGx5eFXIkr+5ZqURXlnnsJOLO9nxmKbRTDFNf6hAVdhpQuPCDpAOyol2m7vwrDLONtpzmNPxjD3GKKta1tBayn3JzLnwRVUeo/VgacYwW2DxFmP9ydU+mbLSY/M5EOakV/+BX5+AvqasLeZnLNN1nrkFwup9kKJwIN89Nq+SaM5uG6zNT8a6jCEfg==;CNnj6j0Czxeoe98RaXkwng=="
+secured: "TAIxu5pWYKMkXdsktEBQEtireFeGB9/o7mYGQUIcGI7K20hvFCVEWRW40VX2cQ8hhV/H/Kdp+dzg4PMta+OX0+u/ht01SlwMe0Yz5jD5NIhcfNCqiSS9BafYVp00xn0imBNn9GtmB6yGIWKD0HHe9FD9GmpZzrHzak0FltR4UDn7PcRjz/qFrSyJNKr8+AlPae5PHN4QU/KBV/C34xbsTy4jT3MdZfx10RTNBDI8LlrIOIHmp53X94WduC9YqsKoRnwOqviyBrWHneZVQuFgctAEO30lx/ytrvxEDNJt5920Do7UJNjCg+Yyv/Jo3F2bGW4zLA0Q9iOIm5rTWWtEeA==;Y1kpiFBdSzB3WOUYF7J8VA=="
 ---
 

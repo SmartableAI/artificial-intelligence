@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Predictive Oncology Inc. Announces Receipt of Cash Proceeds of $2.2 Million from Exercise of Warrants"
-excerpt: "Predictive Oncology Inc. (the “Company,” “Predictive Oncology,” “we,” “our” or “us”) (NASDAQ: POAI), a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and drug discovery,"
-publishedDateTime: 2020-06-29T20:30:00Z
-webUrl: "https://apnews.com/3c33301f1798b8eba9bf0cc88241f83b"
+excerpt: "Helomics applies artificial intelligence to its rich data gathered from patient ... by providing an evidence-based roadmap for therapy. In addition to its proprietary precision oncology platform, Helomics offers boutique CRO services that leverage its ..."
+publishedDateTime: 2020-06-29T23:25:00Z
+webUrl: "https://www.omaha.com/money/markets/predictive-oncology-inc-announces-receipt-of-cash-proceeds-of-2-2-million-from-exercise-of/article_1863f4b0-e730-5a28-9aec-b152e5a12fb1.html"
 type: article
-quality: 9
-heat: 9
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+    width: 1200
+    height: 630
     isCached: true
     title: "Predictive Oncology Inc. Announces Receipt of Cash Proceeds of $2.2 Million from Exercise of Warrants"
 
-secured: "NgUD959CS8NQ/gG6LjFw+CdLDExoPj/VIXMjtLmGhNxsdWk1pKFe9NqHM/lslgedcKVKEFJqw/rNY7+Rh/dscUt5AW6nZrrOZCHvGE2EnhpC5KuBxgnVCl2YaJjW0MOHYomwAvRJrqnPaKocyhDKfJpfWzSH9IT9srtshYCLRk7LQ3EZJPzYPXONkhi8vU5DIiydJ7YKLZMee3Sov3fHbIytC3vRY+/w11VtG2/ktfWZ76HQdmwcyPs5SIbZtvsJJ1MhZUdyt5No0Ub32lOY27oBt/NSKhcwhnGUcbBJ/5KScpBWwIf/HZwC9/aUKFzaxsmvIzN/199yYPrJWltipA==;QqJXgzoR5OBWO0un1tLfMg=="
+secured: "mRZE2j9DunoafH7nGM09r54nd4bvV4ZA3WP0WyJeqXB36dRHTyoTKedzgGhOFHEIO9ZwfVdoab+t4loZKZlFzVt+wTvdOimw8DrCU2vZ/jgLuXzaqcLLQ3LUN69/BGAojumGcndPSAk2kHXg0urYoAwdP9FdMaKXIE5xPvZLMLX8VMhIHeGpn5dHRIGOH/gOU3Gxlew9aglolRE2QK4oPYV3igaBsnOrltpHXZsU8sdpQj6t+OhXocw2hBiP7sUQTOPc0CdL5NfgH0JTJHk8SdJpzKEqSNbLJG9keLRlFWkUdkFacRzkGL3kyUrjbGy2meOu1nsMC2XzqcFkw1vhJA==;E1vgLZlDCbQKFxGoutmB7Q=="
 ---
 
