@@ -39,20 +39,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "With The Explosive Growth of the AI Industry, WIMI Hologram AR Is Expected To Become the Leader in 5G Holographic AI"
-    excerpt: "WIMI, as a representative of the holographic vision field, launched its IPO on NASDAQ on April 1 (EASTERN TIME) under the symbol WIMI and publicly issued 5 million ADS. Institutional shareholders are Shengshijing Investment,"
-    publishedDateTime: 2020-06-30T07:00:00Z
-    webUrl: "https://apnews.com/cb42f6948a8ac35bfa67d5ba8ba86f0c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "h5ggwV9l5urFP5KBBx35DiqO75eqH8vErkrXvGVqbcYHqu8fJ941ejtv1Bg0IGxpF0u/BdJIeGYR1raZJpBfemnkT3JktkDJ2Dze14GdEHyioGHZyr9zp9tTWbFLNvvQnu2b8XP1H7Rv1u/OwuiUd0/0z0wP6WvLHYbSn/PFClhhGder0LWLTdmP5xbdvf/pWkrtLZwUclnKuwtWdVx0YWS4Oz5E4ZbMh0VWXE7OXHmraNkGWq8FK/W1UA3g0h7rFTGny3cmKTgZUjBoTGfo5An3bTRKoFMwKCtEr6sfoT9NPcIl6G8RM0dJdfJYEVkNPL9pyYGa5yJLphf1gvehrg==;s+2SgSsuZoLxImcIKAbmBg=="
 ---

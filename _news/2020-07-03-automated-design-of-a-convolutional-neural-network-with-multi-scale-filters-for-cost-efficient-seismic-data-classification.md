@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Automated design of a convolutional neural network with multi-scale filters for cost-efficient seismic data classification"
-excerpt: "The authors present an automated design approach to propose a new neural network architecture for seismic data analysis. The new architecture classifies multiple seismic reflection datasets at extremely low computational cost compared with conventional architectures for image classification."
-publishedDateTime: 2020-07-03T09:31:00Z
-webUrl: "https://www.nature.com/articles/s41467-020-17123-6"
+excerpt: "Nat. Commun. 10, 4284 (2019). Saikia P., Baruah R. D., Singh S. K., Chaudhuri P. Artificial Neural Networks in the domain of reservoir characterization: a review from shallow to deep models. Comput. Geosci. 135, 104357 (2019). 11. Souza, J. et al."
+publishedDateTime: 2020-07-03T00:00:00Z
+webUrl: "https://www.nature.com/articles/s41467-020-17123-6?code=9e2ebebd-7a1c-44d8-9ac9-6a4e0dd72998&error=cookies_not_supported"
 type: article
 quality: 13
 heat: 13
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Automated design of a convolutional neural network with multi-scale filters for cost-efficient seismic data classification"
 
-secured: "iJxYa5wFFYYcdGBqZHZ7x01kKJTSsh0sALMp+gyUIm7EGPujGhlQTmR/uQN2sKsrCsvzIQGqdii5xR8zwZQ1Hastmh+/9lxL0JCww/WbfD1PDVM2x9MXTvQIfQeC8Pe9gLmobFqt4DK3gVX+yDRJneEtusK0y4vDDDfxU/XOfeuVhOP2hI3/As56ZyOGtTpPHL2bo5E1+6KtSTornRlx9GU1XiCztZhBbxtKx2q95dbM8adtD0PcLfpqiB8QxRqmX0+zL0YV+3cfCv5mGHNB91o6kz2fy9bXIUjil78rUusngUM2GqicyeGULHKKlBn6K2oY+8NA9oVV0YIfkp4I6Q==;pTei0Kr/ufelBIMrynMDnA=="
+secured: "IY7nxvT79ad45djP0XBom7v8hZW4JSP9xP8C/fpSXB3dXqyJHsFL71Yxad8am0q8JIvopoUKKbCVrYY5xEvxhYebfMpHp0fBpdLvAE9lQ3T+hayAi0zmVlCprY0AmbQT+haLk68djrUAIoO9/fahS6QlgGBcV3VMFb+Vq0mkbvJhKokJdczZ6qdpOGY5C5Ac+zDfySBXZ/cTxRwaLXgVIqK/2s4MtUlOt7mxmLi0ixue/h/ltFNmPc06oCzofFB0DJOWdh/rDBN/ABFr4BV82n0buHf0dw57BjNmij0zIkZfPyuLQBzsdqllVxfBxUlWYi2lxCmoIROxiE2bsfAgvg==;v0CkPM6HO2HSULxTNd3WkQ=="
 ---
 

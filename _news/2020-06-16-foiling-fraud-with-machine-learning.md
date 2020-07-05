@@ -1,32 +1,26 @@
 ---
 category: news
 title: "Foiling fraud with machine learning"
-excerpt: "More recently, however, it has begun yielding the hoped-for results as banks, retailers and other businesses supplement traditional customer service ... and machine learning (AI/ML) approaches ..."
-publishedDateTime: 2020-06-16T10:00:00Z
-webUrl: "https://www.techradar.com/news/foiling-fraud-with-machine-learning"
-ampWebUrl: "https://www.techradar.com/amp/news/foiling-fraud-with-machine-learning"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/foiling-fraud-with-machine-learning"
+excerpt: "Read Caroline Hermon explain how machine learning ... traditional customer service channels with digital services. All the while, an army of agile start-ups, FinTechs and other data-driven organisations have disrupted the financial services and retail ..."
+publishedDateTime: 2020-06-16T16:25:00Z
+webUrl: "https://ctovision.com/foiling-fraud-with-machine-learning/"
 type: article
 
 provider:
-  name: TechRadar
-  domain: techradar.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ctovision.com
+  domain: ctovision.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/gaGNk35XKYpmpPGJq8v2tU-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://ctovision.com/wp-content/uploads/space.jpg"
+    width: 632
+    height: 422
     isCached: true
     title: "Foiling fraud with machine learning"
 
-secured: "0MKXNegDE+oCIhOkkTw+TNyE8rBmTruzByFyBfic0W9ykSNaTA3e5UNg2mM2Ekyo2XbyEK8oVngnF7kGmSgdoeWWw0jYqjP4xsXtzFsp7O+1apJqUnWQ6x5m9F1+wt0Sa9NA1TMGY7HPV5Atp26Tbvcoz5a0uRqaRmks0ME5eKmVhzTLeFhr0bVX7l+uUcFuERbdujHaGgFv4eLzyeEQFVNPy8bEDUqiCK8DSGTrK/ctFiEnMecmiNYiOrYozJQvKvLZl9mJ5MC3bGFssjaCX4714V66MI2iKSdFLjphmLrzlbo3SA3epc2ZfWe4Sah8fOSe0CNhm3eDKDjO+5A7Jw==;zKO/2M+EkRc+n+6YTHEZEg=="
+secured: "JkHe/vnSd10al56T+Quxw9QIH8Op1yj+jgtd5ey+tAb93j6hReVPPmpkayWuT7X7e0vxYcEHDt0RJ3Yt7AmZutaAgw4ptK0omAX3/Btk3jxQtnrt7Na3ItocdxU2AQTBNZYap036cSiSeJWnPdzj5SL9/xtLn59Yy55r5JlqHpVv0oBDfgJ86Hh08a4uYB7ir6J+hO8Zl3+wYemcoYBW2SUJreCE4wxZs5MnbKxHRe1nSGr4xQuaCcwMgf9L8Gx1KNubfln5jQYE6uxOED2OJ5W4HHbUcqwSk7l2FFxWBS9SkY6o2v4xqp7BknZygHC5x4n4BnRoGcYwHF0zmQE3Sg==;UWeNLBVNMfvJnsLx4gVC2g=="
 ---
 

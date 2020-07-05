@@ -1,25 +1,30 @@
 ---
 category: news
 title: "AI Expert, Mayur Rele, gives an Intuitive Explanation of Convolutional Neural Networks"
-excerpt: "Nowadays, people seem to take for granted how sophisticated and powerful computers have become. You can talk to your phones, and your Bluetooth speakers and they will respond"
-publishedDateTime: 2020-06-30T00:28:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/06/ab16440035/ai-expert-mayur-rele-gives-an-intuitive-explanation-of-convolutional-neural-networks"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16440035"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16440035"
+excerpt: "CNNs were first pioneered back in the late 1980s based on a series of earlier work in the 1960s on Artificial Neural Networks (ANNs) and Multilayer Perceptrons (MLPs). They were initially designed to work similarly to the human brain. Of course ..."
+publishedDateTime: 2020-06-30T01:25:00Z
+webUrl: "https://www.marketwatch.com/press-release/ai-expert-mayur-rele-gives-an-intuitive-explanation-of-convolutional-neural-networks-2020-06-29"
 type: article
-quality: 48
-heat: 48
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
-  - AI
   - Machine Learning
+  - AI
 
-secured: "GmiW3/0nxUJ0AhdxzS5Rfx24vNYtoDtkijbeglDYPFvMEu5UCmjT2vW3vCbAN6wxGdavrdoQiZDeNuLiZldgzXPa3kDGVbuWOag8I4LKepeU2RXXI1wyBCSuq7bZAS1NKVm1filv4M14GGFBEiYype+ALBNv7EnckOVuN3RpIgDzHO7anrUo8sFMS0O9uGhN7KP2+omgArQB3IEDyULX1RMT26+VXzQ0gGR8/vpJ9+AexfQK32B4QHkDyCVfUOpCBBB0mt21bJvvKSL5TgdlhqPsEvVXt6sTHxwWcTk+UL4MI2kbhj5sEuL0f02YXeZxEe0A9xyVBlJHjgeoz4jSQA==;NlmVaJvUzg5n14z6le2Yug=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+    title: "AI Expert, Mayur Rele, gives an Intuitive Explanation of Convolutional Neural Networks"
+
+secured: "U8rWdfZCzMkhXSr/z3XlwgJjj3EpnXk+QuXhfePfprHKyWIf9lAYSgCPzRuQ5kl6bZhCSkyK8fCVx2MJmM2zDaCt0LS17MyweEJwZOwAZ1awWqinrtDru8Wc7K8Cs6z4vOgeoI3XUerbHfs1mNiamPw0dqYwxDyfeKggmAJ2jZdwvvAKGEdQ1xu1IZN2hh73stM9rNf5J/LVm2KG8ybcIanLc0C8sjGPtXV5llS8jTJRxPc2kFVWJhvcwkdip9ltOKDlS46KN4mmaVMIdwyKeZqJkB7lOjT1rEpjZbcixvPjt8zR6Sz1qWn7TFPuGQDC4aT4jTT6lnFgKBIjk+Ww0g==;mJGKysRfL5BBSqKvhqk8YQ=="
 ---
 

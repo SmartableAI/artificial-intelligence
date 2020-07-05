@@ -3,7 +3,7 @@ category: news
 title: "CBP’s Outgoing Biometrics Lead on Law Enforcement Use of Facial Recognition"
 excerpt: "Law enforcement should be careful using facial recognition in public spaces. But with the right applications, authorities and transparency, federal programs could serve a lot of good."
 publishedDateTime: 2020-07-02T19:21:00Z
-webUrl: "https://www.nextgov.com/cio-briefing/2020/07/cbps-outgoing-biometrics-lead-law-enforcement-use-facial-recognition/166629/?oref=ng-skybox-hp"
+webUrl: "https://www.nextgov.com/cio-briefing/2020/07/cbps-outgoing-biometrics-lead-law-enforcement-use-facial-recognition/166629/"
 type: article
 quality: 37
 heat: 37
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "CBP’s Outgoing Biometrics Lead on Law Enforcement Use of Facial Recognition"
 
-secured: "7z9uVFNcClkr5ZBqq1nBFGS1edm8UFVnCPQE0QVt7x5IQrEiPOMfKHOsq5vDCIdVo6uc/3WIL/H9gb+KaDalX32AcVXpAAGOPLAY3hzFlLP9PJRmnb7F1fg4xHNBtaI34mGqZOUb0VDIBfghvuhRVzqr/4xRuP53sN5gcL+obH7wzgpjZS5Tvv27wIGRbtINWG+mAqT6KwiYaMVYY/sjK5jFhyOEWYxUTFKR2SlVSL1+aJCqF/R3yERXH2Bp7u9vkw8vO8O7g4+FK3+amoCUXQW2x69gUkGTsJ4aUsxeOiXGhURk2A+KBdgLIuembOE6E8rdH1fZ4CmrCwM9iqcOVQ==;RIVz8xeOTAu28FXnx9vgnw=="
+secured: "J4gpCRArL2xkBYO2F020collFTiuMSpJapLO0efBwe63yN4+GrlCm+SbwQJ0PO2jBRrDk8lMXwLo9CeQSHooWWFpsTNgM9dNCyLMxllxUSr26fQD0y2lOJXgF8WcKaFK/qg+4bUKF2xdhjENeGnzSAo6/Run+RBCLdy4q2hqkmKv2mPEXm1Z7jn43/JzDXe75eUBvUvEdX81OtGADUyHj3Dmg3q1II/MlldSHRLJLE5F9I9ZFRlgi1OyaXtwvAulaFU3Taf/WmijxTViNbPa5PMJVjwn1MMDUUA0EdGcbL59ve8pUJcoQ5iRdQNZuA2T1XRbSfkam+7ptmHaFqDDYw==;DBreKKY7CRykmPTTk5Vj4A=="
 ---
 
