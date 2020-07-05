@@ -2,6 +2,52 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-06-16-ai-model-creates-3d-avatars-from-a-persons-picture.md",
+      "title": "AI model creates 3D avatars from a person’s picture",
+      "excerpt": "An AI system dubbed AvatarMe creates 3D avatars of people from nothing but face images, whether hand-drawn or photographed in black-and-white.",
+      "webUrl": "https://venturebeat.com/2020/06/16/ai-model-creates-3d-avatars-from-a-persons-picture/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/results_preview.gif?w=520&resize=520%2C293&strip=all",
+          "width": 520,
+          "height": 293,
+          "title": "AI model creates 3D avatars from a person’s picture",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/16/ai-model-creates-3d-avatars-from-a-persons-picture/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/ai-model-creates-3d-avatars-from-a-persons-picture/amp/",
+      "publishedDateTime": "2020-06-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing.md",
       "title": "Amazon's new Distance Assistant uses AI to encourage social distancing",
       "excerpt": "Amazon said Tuesday it's developed a new artificial intelligence system to help maintain social distancing in its warehouses, and it plans to share the underlying technology for free. Called Distance Assistant,",
@@ -572,6 +618,53 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-foiling-fraud-with-machine-learning.md",
+      "title": "Foiling fraud with machine learning",
+      "excerpt": "More recently, however, it has begun yielding the hoped-for results as banks, retailers and other businesses supplement traditional customer service ... and machine learning (AI/ML) approaches ...",
+      "webUrl": "https://www.techradar.com/news/foiling-fraud-with-machine-learning",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/gaGNk35XKYpmpPGJq8v2tU-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Foiling fraud with machine learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/foiling-fraud-with-machine-learning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/foiling-fraud-with-machine-learning",
+      "publishedDateTime": "2020-06-16T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -1217,100 +1310,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-artificial-intelligence-fully-automated-luxury-capitalism.md",
-      "title": "Artificial Intelligence, & Fully Automated Luxury Capitalism",
-      "excerpt": "Some have argued for a version of communism, called fully automated luxury communism. While this approach deserves credit for facing up to the exponential future, it overlooks two important facts. First,",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/15/artificial-intelligence--fully-automated-luxury-capitalism/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F828562116%2F0x0.jpg",
-          "width": 1199,
-          "height": 806,
-          "title": "Artificial Intelligence, & Fully Automated Luxury Capitalism",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/15/artificial-intelligence--fully-automated-luxury-capitalism/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/15/artificial-intelligence--fully-automated-luxury-capitalism/amp/",
-      "publishedDateTime": "2020-06-15T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge.md",
-      "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
-      "excerpt": "Alternatively, there’s color night vision for a more surreptitious view of the garden, porch, or whatever else you might point the camera at. Much the same way, the built-in siren can be automatically triggered or done manually through the app. There’s also two-way audio support. Motion detection uses computer vision to filter out the ...",
-      "webUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/Essential-_Spotlight_Lifestyle_Mounted_B.jpg",
-          "width": 1680,
-          "height": 1050,
-          "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
-      "publishedDateTime": "2020-06-15T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

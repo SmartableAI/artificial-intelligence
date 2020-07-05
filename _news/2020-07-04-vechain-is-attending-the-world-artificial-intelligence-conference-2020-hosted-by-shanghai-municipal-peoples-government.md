@@ -1,28 +1,28 @@
 ---
 category: news
-title: "VeChain Is Attending the World Artificial Intelligence Conference 2020 Hosted By Shanghai Municipal People's Government"
-excerpt: "From 9 July to 11 July 2020, the World Artificial Intelligence Conference (WAIC) will be held online due to the COVID-19 pandemic. Organized"
+title: "VeChain Is Attending the World Artificial Intelligence Conference 2020 Hosted By Shanghai Municipal People’s Government"
+excerpt: "From 9 July to 11 July 2020, the World Artificial Intelligence Conference (WAIC) will be held online due to the COVID-19 pandemic. Organized by the Shanghai Municipal People’s Government, the annual conference’s mission is to provide a global platform for current and future AI innovation startups and corporations to exchange ideas and resources in pursuit of humankind’s greatest technological achievements."
 publishedDateTime: 2020-07-04T16:42:00Z
-webUrl: "https://www.prnewswire.com/news-releases/vechain-is-attending-the-world-artificial-intelligence-conference-2020-hosted-by-shanghai-municipal-peoples-government-301088148.html"
+webUrl: "https://apnews.com/PR Newswire/40a2a5177129949cf6cdbfbcc7497299"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1200208/vechain.jpg?p=publish&w=950"
-    width: 645
-    height: 1243
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
-    title: "VeChain Is Attending the World Artificial Intelligence Conference 2020 Hosted By Shanghai Municipal People's Government"
+    title: "VeChain Is Attending the World Artificial Intelligence Conference 2020 Hosted By Shanghai Municipal People’s Government"
 
-secured: "C4RUMkWnkVvdEiFRGWtPCfpzIGtVvaJtQ4d4xJfgfn0QeVgy0/urvsevHP8AL0dZ+VWT3Unnw9N7Mh33zDESIoRZ8imwZzjYSUkZrZAsLtftWo3/V0ZJTCgsmk8czhpr/zapssT4X5rPdjM49k/Yo3OFHg8PfNw709wxvH87bylGWdjW1GRm1SR57nKg0JgfgFvUabV1Bqg/DNkcatIG13R5SBFYSu8BSHNWrF7iOwFdCCU5wjxGqk9gtrABpdRzblL8yZa4zdhqkB0JoaQI/dnaXiRV9cD8xQGJ5PgOaVAS2p7lkcoLpnn/CeABgpIfvu4VFOUCHKYLQfjB+UWh6WiWVSk5F6LYi5F4uFHdjdVztIFAHFRc87qO4B8jrLkTCMFEqS5ZOjLiGB1PIzCrnYInQgAT26w1gaKdFEnoLAlP4lkB1voELGzkBZSfFNY6OqsKlLQMrmVzfOSDAvIsati5DB2r5ipyQ9cT1riQMJLtOwb0ZwhykxByU9TpqvEbNNN5lf9mzhIwM3DITSln8g==;Xxp9XzOgyFkYLiSwLdC+bg=="
+secured: "GbeBkc9RAKBNjpgxQ+rciW3eHusprFtPBXdU3HCGXL5KvleU6nc/A+D/ApFHtGApipJVoms1NG5ttzcEL/5D+qW/kvXvZytfMHeaObsX9KED0EG2rNGEo7ywIJcinDwv3UKVCyQCgOON/pWE/EzLkTS+ROPeKFaWRHvpDvOdVBeLSWLlyB6bue4OQUEiCNEtCIEjoDOGm5ut2cZmKi/COKKPLxwAKrFDECT7OrttWEIuStFttcVwwN5XaEK0PzjOTotWIxf7j+XMPgIV2y/1kkqARNWAd+hAKOoz0veEZR3YvehCGO1zV2SkKX3LC6PA2WbXSC52h5BZg/59ADAa+A==;r/oy1bTJugMKVeX9tyz5qg=="
 ---
 

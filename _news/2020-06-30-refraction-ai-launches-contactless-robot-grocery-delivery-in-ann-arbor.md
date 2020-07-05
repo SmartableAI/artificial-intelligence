@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Ann Arbor robotics startup goes in on grocery delivery"
-    excerpt: "An Ann Arbor robotics startup is expanding into the growing world of grocery delivery. Customers of The Produce Station grocery story on South State Street in Ann Arbor can now have their items delivered by a REV-1 robot developed by Refraction AI Inc."
-    publishedDateTime: 2020-06-30T11:00:00Z
-    webUrl: "https://www.crainsdetroit.com/retail/ann-arbor-robotics-startup-goes-grocery-delivery"
-    type: article
-    provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/REV_i_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "G9mHibNIsXOkyN7InexP4IX+k0WNPZ/YwAjQcs/9v/tYnwP3bizBox45LoGF05w7HdczxrQ6qXkrl4tDmqP52RI8dnVP8EidFt/2TKfZUxxGLCex5mQc6J3UeU94j+i+aevOT7xEqYV+urDSVmC/8RYKiyWXvaTWPq72u+Go8zay4rUi+ME3Czob1LXIEPV3+wzvm+/F+fJQb+moX/ftkBxwI3eedCULvx0g8LZWUIkQJDqSzFXLApiIwwu0DvtdzQ847H/DTnCWDC64sJCt4X9RpSolUxv4vn1rxb7VWeUsgdHRUE6haihevM0aPzhydXZYGwm5AHW1FUMFaA0NoRQMo2rOuTphG5iTpSgiWyl/wupwgGuo68Vy/Xsq6AK1EMFFt1PBUKz7PS1gECNbPbp4zuV3oJqNhqiwLwTMYK4l+NOwYVEreqLfVbtvYyAG7wbwBvQ4TmXjti1trmmDbqMOfMUTkba3jGD4OtUVvw8AUXbO7fMq2fl3v3uop62CQ45zDc7Htv+4TydfzKAWnQ==;RT+qGxCvd1sobzpu1ZfcZQ=="
 ---

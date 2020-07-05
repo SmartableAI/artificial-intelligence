@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-02T17:36:00Z
 webUrl: "https://customerthink.com/new-tealium-predict-machine-learning-solution-helps-marketers-proactively-understand-cx-data-to-deliver-roi-faster/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     height: 1280
     isCached: true
     title: "New Tealium Predict Machine Learning Solution Helps Marketers Proactively Understand CX Data to Deliver ROI Faster"
-
-related:
-  - title: "New Tealium Predict Machine Learning Solution Helps Marketers Proactively Understand CX Data to Deliver ROI Faster"
-    excerpt: "PRNewswire-PRWeb/ -- Tealium, the trusted leader in real-time customer data orchestration, today announced the general availability of Tealium Predict"
-    publishedDateTime: 2020-06-30T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/06/n16443249/new-tealium-predict-machine-learning-solution-helps-marketers-proactively-understand-cx-data-to-de"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16443249"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16443249"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
 
 secured: "vjbbCwSxbs0DE13vP64eb+kmfulSZ+HuB8lbNSncDvBEy5CehLwoRv8b4SdSJcEsp8Q7mesz//qb1Oj1I6lz5s9ZWvnbGZkzyJyoG8rqqAbQd7UtU1fR7noeRzJtrwFDoovvjvrVpXFq7zcEwEEps0RmCyXBYvBgXFzjltACh6j25QebmST7Sx2y2yGk6TOPwgW6ytOgYTR3rlDjKtM7gftqmIW5/8Owhi+LTgWJuQrwP5igU+kGjupi9nT5eYltFAYkTXeg633rSUiLDYwNvSk7+QqVB2IRFSzWcJgBFVPPkht/uovpDkC2SDt229x1nlzS31V1FFWTgo+/BL0LoA==;rg2u+/WeC29EwCpPUFuOGw=="
 ---

@@ -2,6 +2,99 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-06-11-openai-releases-commercial-api-for-multi-purpose-ai.md",
+      "title": "OpenAI releases commercial API for multi-purpose AI",
+      "excerpt": "The five year-old organization is releasing its first commercial product, giving businesses access to its general-purpose AI models.",
+      "webUrl": "https://www.zdnet.com/article/openai-releases-commercial-api-for-multi-purpose-ai/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/12/05/4e6420ab-acc9-42c4-86d0-0ed58f504e5a/thumbnail/1200x675/01b6d549f030f0f5ab9687b9c5fd85d0/oppomakes5ggroupvideocall-5c072b3160b2dc10be302bbb1dec05201830233poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "OpenAI releases commercial API for multi-purpose AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openai-releases-commercial-api-for-multi-purpose-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-releases-commercial-api-for-multi-purpose-ai/",
+      "publishedDateTime": "2020-06-11T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms.md",
+      "title": "Researchers detail technique that enables attackers to ‘steal’ reinforcement learning algorithms",
+      "excerpt": "In a paper, researchers at Nanyang Technological University in Singapore demonstrate a technique that can be used to 'steal' reinforcement learning models.",
+      "webUrl": "https://venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers detail technique that enables attackers to ‘steal’ reinforcement learning algorithms",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/amp/",
+      "publishedDateTime": "2020-06-11T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-facebook-google-and-microsoft-team-up-to-build-ai-paedo-hunter-that-tracks-down-child-abuse-online.md",
       "title": "Facebook, Google and Microsoft team up to build AI paedo-hunter that tracks down child abuse online",
       "excerpt": "Project Protect will establish a multi-million pound research and innovation fund ... Facebook's hugely popular Messenger chat app. Facebook is using an AI machine learning system to spot ...",
@@ -927,98 +1020,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-let-this-ai-powered-tool-build-you-a-better-resume-for-just-29.md",
-      "title": "Let this AI-powered tool build you a better résumé for just $29",
-      "excerpt": "This tool knows exactly what employers are looking for, what catches their eye, and what will help to put you on their radar as a potential new hire. Rezi knows the tricks of the trade and will help you build the perfect resume that companies just can't ignore.",
-      "webUrl": "https://www.zdnet.com/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/11/3d2581d5-abeb-4c22-9a4c-59c52b6975a2/bram-naus-n8qb1zakk88-unsplash.jpg",
-          "width": 4976,
-          "height": 3223,
-          "title": "Let this AI-powered tool build you a better résumé for just $29",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
-      "publishedDateTime": "2020-06-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-eu-privacy-watchdog-thinks-that-clearview-ai-is-illegal.md",
-      "title": "EU privacy watchdog thinks that Clearview AI is illegal",
-      "excerpt": "Clearview AI's planned expansion into the EU hit a roadblock yesterday when the bloc's privacy watchdog said it \"doubts\" that the service is legal",
-      "webUrl": "https://thenextweb.com/neural/2020/06/11/eu-privacy-watchdog-thinks-that-clearview-ai-is-illegal/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-69-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "EU privacy watchdog thinks that Clearview AI is illegal",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/11/eu-privacy-watchdog-thinks-that-clearview-ai-is-illegal/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/11/eu-privacy-watchdog-thinks-that-clearview-ai-is-illegal/amp/",
-      "publishedDateTime": "2020-06-11T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

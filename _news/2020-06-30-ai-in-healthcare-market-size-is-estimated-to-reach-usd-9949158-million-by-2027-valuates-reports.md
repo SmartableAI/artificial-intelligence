@@ -36,29 +36,18 @@ related:
     quality: 35
   - title: "Artificial intelligence (AI) Market Size is Expected to Reach USD 169,411.8 Million in 2025 - Valuates Reports"
     excerpt: "PRNewswire/ -- The global Artificial Intelligence (AI) market size is expected to reach USD 169,411.8 Million in 2025, from USD 4,065.0 Million in"
-    publishedDateTime: 2020-06-30T22:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025-valuates-reports-877658862.html"
+    publishedDateTime: 2020-06-30T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025---valuates-reports-301085882.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
         width: 920
         height: 482
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Size is Projected to Reach USD 15,273.7 Million in 2025 -Valuates Reports"
-    excerpt: "The global artificial intelligence in manufacturing market contributed 513 6 million in 2017 and is projected to reach 15 273 7 million in 2025 growing at a CAGR of 55 2 Artificial intelligence is a technology that deals with the"
-    publishedDateTime: 2020-06-30T10:13:00Z
-    webUrl: "https://www.openpr.com/news/2082125/artificial-intelligence-in-manufacturing-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2082125/artificial-intelligence-in-manufacturing-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2082125/artificial-intelligence-in-manufacturing-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
 
 secured: "9jAkGmhCzeK2R3mDYe8IN+M+We+RqEcs6rSPUj2Vtpxsh9y82NDFOld0Gr9Twww2foCfGYM2CuryZE1MFBmyG+ldkPKAyNdfBZpPdl4a755Jz3O17LUAZ+OB6cihfEFP/3JgLplq25KhUlT2dU0w3crNnoOZmSnaDAmCvq2TXappUFf9XK1cLw4Agz7hAKWRhqymHzmi56+19u6p9BHytQbU3lpvZArnAGZIPeWyrzRsKFBUjJTNRGbreHSOiVZC6fX4RkInCLRk4gq9Cto+orDVF8YfA1NKaD9YcrhFKdr2GMCf1eBQsvcvPD6H6kAFbHp4jY+b8USk6s1FM6HYzg==;2X9s007p+b/drArdR+QMVQ=="
 ---

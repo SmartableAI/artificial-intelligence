@@ -2,6 +2,99 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-29-sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy.md",
+      "title": "São Paulo subway facial recognition system slammed over user data security and privacy",
+      "excerpt": "A new surveillance system is deemed \"inefficient and dangerous\" as it fails to protect the personal information of 4 million daily users, associations say.",
+      "webUrl": "https://www.zdnet.com/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/24/e8481169-ff9b-466b-8e43-10b2b93dae57/thumbnail/1200x675/e7e0863bd1d561f06a8a84b6febb0d56/whats.png",
+          "width": 1200,
+          "height": 675,
+          "title": "São Paulo subway facial recognition system slammed over user data security and privacy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
+      "publishedDateTime": "2020-06-29T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-ibm-donates-trusted-ai-projects-to-linux-foundation-ai.md",
+      "title": "IBM donates \"Trusted AI\" projects to Linux Foundation AI",
+      "excerpt": "As real-world AI deployments increase, IBM says the contributions can help ensure they're fair, secure and trustworthy.",
+      "webUrl": "https://www.zdnet.com/article/ibm-donates-trusted-ai-projects-to-linux-foundation-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/24/e49feb8e-f4c2-4d63-b04f-01c52c8ce0ee/thumbnail/1200x675/38a749d7b83303899c7cf3ade4a6704f/hc-create-account-1.png",
+          "width": 1200,
+          "height": 675,
+          "title": "IBM donates \"Trusted AI\" projects to Linux Foundation AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-donates-trusted-ai-projects-to-linux-foundation-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-donates-trusted-ai-projects-to-linux-foundation-ai/",
+      "publishedDateTime": "2020-06-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-nasas-new-moon-bound-space-suits-will-get-a-boost-from-ai.md",
       "title": "NASA’s New Moon-Bound Space Suits Will Get a Boost From AI",
       "excerpt": "Engineers are turning to generative design algorithms to build components for NASA’s next-generation space suit—the first major update in decades.",
@@ -1250,99 +1343,6 @@
       "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/amp/",
       "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/amp/",
       "publishedDateTime": "2020-06-26T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-elon-musk-starts-another-catfight-with-jeff-bezos-after-amazon-buys-zoox-self-driving-car-venture.md",
-      "title": "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture",
-      "excerpt": "This time, Musk took aim at Amazon’s $1.2 billion acquisition of Zoox, a venture focusing on self-driving cars that could compete with Tesla, the car company that Musk heads: .@JeffBezos is a copy 🐈 haha https://t.co/plR7uupqBG — Elon Musk (@ ...",
-      "webUrl": "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/",
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/04/190410-musk-bezos-630x366.jpg",
-          "width": 630,
-          "height": 366,
-          "title": "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/",
-      "publishedDateTime": "2020-06-26T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai.md",
-      "title": "Our fragile 40-years-old Banking infrastructure can only be saved with AI",
-      "excerpt": "IT failures are more common than we think. Admitting that you have a problem means there is a risk in doing business with you, and that leads to customer churn. Most companies try to conceal their failures and pretend there is nothing wrong.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/future-artificial-intelligence.jpg",
-          "width": 650,
-          "height": 400,
-          "title": "Our fragile 40-years-old Banking infrastructure can only be saved with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/amp/",
-      "publishedDateTime": "2020-06-26T12:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Next Web",

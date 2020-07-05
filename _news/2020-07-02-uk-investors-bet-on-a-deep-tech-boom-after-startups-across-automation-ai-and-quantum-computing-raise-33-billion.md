@@ -46,20 +46,6 @@ related:
         width: 1024
         height: 737
         isCached: true
-  - title: "Menten AI Adds Quantum Computing to Develop New Drugs"
-    excerpt: "The startup, backed by Y Combinator among others, aims to develop biologics, or drugs made from organic rather than synthetic material."
-    publishedDateTime: 2020-06-30T09:44:00Z
-    webUrl: "https://www.wsj.com/articles/menten-ai-adds-quantum-computing-to-develop-new-drugs-11593509403"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-203377/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Data Quantity, Complexity Drives Use of AI in Drug Discovery and Testing"
     excerpt: "His startup’s technology platform uses AI to uncover gene interactions underlying diseases. The company also uses AI to test therapies that target these interactions, an approach it contends is ..."
     publishedDateTime: 2020-07-02T14:49:00Z

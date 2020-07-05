@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/amp/"
 type: article
 quality: 77
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     title: "Menten.AI’s combination of buzzword bingo brings AI and quantum computing to drug discovery"
 
 related:
-  - title: "Menten AI Adds Quantum Computing to Develop New Drugs"
-    excerpt: "The startup, backed by Y Combinator among others, aims to develop biologics, or drugs made from organic rather than synthetic material."
-    publishedDateTime: 2020-06-30T09:44:00Z
-    webUrl: "https://www.wsj.com/articles/menten-ai-adds-quantum-computing-to-develop-new-drugs-11593509403"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-203377/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "UK investors bet on a deep tech boom after startups across automation, AI, and quantum computing raise $3.3 billion"
     excerpt: "UK deep tech startups raised $3.3 billion in 2019."
     publishedDateTime: 2020-07-02T09:06:00Z

@@ -211,36 +211,6 @@ related:
       name: WAtoday
       domain: watoday.com.au
     quality: 37
-  - title: "Sports Ministry Moves Delhi High Court Seeking Restoration of Provisional Recognition to 57 NSFs"
-    excerpt: "In its order, the HC had said the sports ministry and the Indian Olympic Association (IOA) were to inform the court in advance while taking any decision in relation to the NSFs."
-    publishedDateTime: 2020-06-30T10:45:00Z
-    webUrl: "https://www.india.com/sports/sports-ministry-moves-delhi-high-court-seeking-restoration-of-provisional-recognition-to-57-nsfs-4071808/"
-    ampWebUrl: "https://www.india.com/sports/sports-ministry-moves-delhi-high-court-seeking-restoration-of-provisional-recognition-to-57-nsfs-4071808/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/sports/sports-ministry-moves-delhi-high-court-seeking-restoration-of-provisional-recognition-to-57-nsfs-4071808/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 31
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2020/06/kiren-rijiju-3.jpg"
-        width: 700
-        height: 415
-        isCached: true
-  - title: "US policy arm of major computing association urges suspension of facial recognition technology"
-    excerpt: "The Association for Computing Machinery's US Technology Policy Committee (USTPC) today called for 'an immediate suspension of the current and future private and governmental use of facial recognition (FR) technologies in all circumstances known or reasonably foreseeable to be prejudicial to established human and legal rights' in its 'Statement on Principles and Prerequisites for the Development,"
-    publishedDateTime: 2020-06-30T09:19:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/afcm-upa062920.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/236157_web.jpg"
-        width: 618
-        height: 218
-        isCached: true
   - title: "Racial bias in facial recognition software could lead to false arrests"
     excerpt: "A black man in Detroit was wrongfully arrested after facial recognition software incorrectly identified him, forcing developers to acknowledge the ways that racial bias is present in artificial intell"
     publishedDateTime: 2020-07-01T07:38:00Z

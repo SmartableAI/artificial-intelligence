@@ -2,6 +2,99 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-06-26-amazon-shakes-up-the-race-for-self-drivingand-ride-hailing.md",
+      "title": "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing",
+      "excerpt": "Uber CEO Dara Khosrowshahi says his company wants to be the “Amazon for transportation.” Friday, Amazon made clear that it intends to be the Amazon for transportation. The ecommerce giant said it had agreed to acquire Bay Area-based autonomous vehicle company Zoox,",
+      "webUrl": "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/",
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ef60bd7be64fa7887c43297/master/pass/Biz_Zoox_1215628120.jpg",
+          "width": 2400,
+          "height": 1602,
+          "title": "Amazon Shakes Up the Race for Self-Driving—and Ride-Hailing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-shakes-self-driving-ride-hailing/amp",
+      "publishedDateTime": "2020-06-26T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-what-you-should-know-about-investing-in-ai-during-economic-downturn.md",
+      "title": "What you should know about investing in AI during economic downturn",
+      "excerpt": "Over the past few months, the COVID-19 virus has had a huge impact on the globe. As of April 28, according to the World Health Organization, there have been more than 2.8 million confirmed cases worldwide and nearly 198,",
+      "webUrl": "https://thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/08/shutterstock_144055459_stocks_stock-market-1200x600.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": "What you should know about investing in AI during economic downturn",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/amp/",
+      "publishedDateTime": "2020-06-26T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-elon-musk-starts-another-catfight-with-jeff-bezos-after-amazon-buys-zoox-self-driving-car-venture.md",
       "title": "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture",
       "excerpt": "This time, Musk took aim at Amazon’s $1.2 billion acquisition of Zoox, a venture focusing on self-driving cars that could compete with Tesla, the car company that Musk heads: .@JeffBezos is a copy 🐈 haha https://t.co/plR7uupqBG — Elon Musk (@ ...",
@@ -511,8 +604,8 @@
     {
       "path": "_news/2020-06-26-covid-19-significant-shift-in-strategy-of-mobile-artificial-intelligence-market-2020-2024-increasing-use-of-ai-chip-enabled-mobile-devices-to-augment-growth-technavio.md",
       "title": "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio",
-      "excerpt": "Technavio has announced its latest market research report titled Global Mobile Artificial Intelligence Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the mobile artificial intelligence market and it is poised to grow by USD 13.",
-      "webUrl": "https://www.businesswire.com/news/home/20200626005284/en/COVID-19-Significant-Shift-Strategy-Mobile-Artificial-Intelligence",
+      "excerpt": "Buy 2 Technavio reports and get the third for free. View market snapshot before purchasing Increasing use of AI chip-enabled mobile devices has been instrumental in driving the growth of the market. Technavio's custom research reports offer detailed ...",
+      "webUrl": "https://www.businesswire.com/news/home/20200626005284/en/",
       "heat": null,
       "tags": null,
       "images": [
@@ -528,7 +621,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-26T10:30:00-07:00",
+      "publishedDateTime": "2020-06-26T10:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -1040,100 +1133,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-lets-kill-facial-recognition-for-good.md",
-      "title": "Let's Kill Facial Recognition For Good",
-      "excerpt": "Those emails mention all three classes of surveillance covered in today’s bill—pattern, facial, and voice recognition—as being available for the DEA to use at its discretion. “Facial recognition technology doesn’t just pose a grave threat to our ...",
-      "webUrl": "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nvw4abg7rvdyxyeklgsr.jpg",
-          "width": 800,
-          "height": 449,
-          "title": "Let's Kill Facial Recognition For Good",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp",
-      "cdnAmpWebUrl": "https://paleofuture-gizmodo-com.cdn.ampproject.org/c/s/paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp",
-      "publishedDateTime": "2020-06-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "paleofuture.gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-ibm-cloud-suffers-second-global-outage-this-month.md",
-      "title": "IBM Cloud suffers second global outage this month",
-      "excerpt": "It's worth noting that IBM did not immediately address the earlier outage but did release a statement on its Twitter account that services were being \"restored to full services as",
-      "webUrl": "https://www.itpro.co.uk/cloud/356238/ibm-cloud-suffers-second-global-outage-in-a-month",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1593164937/itpro/IBM_Cloud_Shutterstock.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": "IBM Cloud suffers second global outage this month",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/356238/ibm-cloud-suffers-second-global-outage-in-a-month?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/356238/ibm-cloud-suffers-second-global-outage-in-a-month?amp",
-      "publishedDateTime": "2020-06-26T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

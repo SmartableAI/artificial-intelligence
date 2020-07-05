@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/06/30/refraction-ais-autonomous-robots-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/refraction-ais-autonomous-robots-begin-delivering-groceries-in-ann-arbor/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.clickondetroit.com/resizer/c1XwEdQt5v17LRD8LRYo_objZeI=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/YSSQGN4M3RD6LM467RZCMN3MIY.png"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Ann Arbor robotics startup goes in on grocery delivery"
-    excerpt: "An Ann Arbor robotics startup is expanding into the growing world of grocery delivery. Customers of The Produce Station grocery story on South State Street in Ann Arbor can now have their items delivered by a REV-1 robot developed by Refraction AI Inc."
-    publishedDateTime: 2020-06-30T11:00:00Z
-    webUrl: "https://www.crainsdetroit.com/retail/ann-arbor-robotics-startup-goes-grocery-delivery"
-    type: article
-    provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/REV_i_0.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "dX4WKYCr/0mFJF8D8tmb2eVO5HlZLLAlvIyr8IOipYhcpAhRDnbCp4X71c8TJZ3voTm/aUCwbsz4uqDhMjXPV3pw/j9FlqIMby6mqaM7KAjhv2pxd9YMyLUXwrirdQXZyG5BViXN2Z8A5V810Z+qZwYhh+YTXh4Dyja7YtIpKwu+Ok+5FrtPjp273M3ntSBiilLKyvQ1sZIKeXXNYi5637Y8ETQGdf72WwawW5LS2oUSP20Q9d8bsbQe4nN0RiT7j8c3KaMxq2xsUPgQSkO7h3STcpEdwO19UTAxBRcUa1gUxaarAYuEf8KKuoDPTUvmxyuyVTcdDQ4HqukX+ZjlMYFNApipckUB83DJfmxdRG3OS2YaQrQUCk/LeoM7ho6C3Jox03tzHLQPtVNmMnZdecv6Rb6T1TtWZeUKJUD6CmXjAff/bKN0Tb4ehC/+f5ThFgDfjuQ22ErKYmvV4Ra+5YRnyNnQxKCvwLm/2zHpu3+Ma8nymiGrhWsJVtX5gmq4;LhijY1nMWCE4E1H2wzDToA=="

@@ -2,6 +2,102 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-05-19-microsoft-debuts-whitenoise-an-ai-toolkit-for-differential-privacy.md",
+      "title": "Microsoft debuts WhiteNoise, an AI toolkit for differential privacy",
+      "excerpt": "Microsoft debuted a number of privacy- and fairness-focused enhancements to Azure Machine Learning, including the WhiteNoise toolkit.",
+      "webUrl": "https://venturebeat.com/2020/05/19/microsoft-debuts-whitenoise-an-ai-toolkit-for-differential-privacy/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft debuts WhiteNoise, an AI toolkit for differential privacy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-azure-machine-learning-gets-responsible-ml-innovations-and-more.md",
+      "title": "Azure Machine Learning gets Responsible ML innovations and more",
+      "excerpt": "Microsoft has announced new capabilities to its cloud-based machine learning platform. A new project to advance machine teaching methods has also been released in the form of a public preview.",
+      "webUrl": "https://www.neowin.net/news/azure-machine-learning-gets-responsible-ml-innovations-and-more",
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/05/1589650666_airport_story.jpg",
+          "width": 760,
+          "height": 506,
+          "title": "Azure Machine Learning gets Responsible ML innovations and more",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/azure-machine-learning-gets-responsible-ml-innovations-and-more/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-machine-learning-gets-responsible-ml-innovations-and-more/",
+      "publishedDateTime": "2020-05-19T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-announces-azure-cognitive-services-and-bot-service-enhancements.md",
       "title": "Microsoft announces Azure Cognitive Services and Bot Service enhancements",
       "excerpt": "Not only have Microsoft's Bot Framework and Service been updated, but new AI functionality and language capabilities have been introduced for apps that leverage Azure Cognitive Services as well.",
@@ -978,82 +1074,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-sony-microsoft-unveil-latest-joint-ai-play.md",
-      "title": "Sony, Microsoft unveil latest joint AI play",
-      "excerpt": "Sony’s semiconductor division and Microsoft announced a collaboration to develop AI video analytics systems for",
-      "webUrl": "https://www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "Sony, Microsoft unveil latest joint AI play",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/amp/",
-      "publishedDateTime": "2020-05-19T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-microsoft-is-integrating-azure-ai-into-sonys-smart-camera-sensors.md",
-      "title": "Microsoft is integrating Azure AI into Sony’s smart camera sensors",
-      "excerpt": "The two companies plan to embed Microsoft Azure AI capabilities onto Sony's new intelligent vision sensors, which were recently unveiled.",
-      "webUrl": "https://www.siliconrepublic.com/machines/microsoft-azure-sony-smart-camera-sensors-ai",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2020/05/microsoft-1.png",
-          "width": 1200,
-          "height": 900,
-          "title": "Microsoft is integrating Azure AI into Sony’s smart camera sensors",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

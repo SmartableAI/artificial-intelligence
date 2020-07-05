@@ -3,7 +3,7 @@ category: news
 title: "Artificial Intelligence in Fintech - Global Market Growth, Trends and Forecasts to 2025 - Assessment of the Impact of COVID-19 on the Industry - ResearchAndMarkets.com"
 excerpt: "Growth, Trends, Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The global AI in Fintech market was estimated at USD 6.67 billion in 2019 and is expected to reach USD 22."
 publishedDateTime: 2020-06-19T14:50:00Z
-webUrl: "https://www.businesswire.com/news/home/20200619005338/en/"
+webUrl: "https://www.businesswire.com/news/home/20200619005338/en/Artificial-Intelligence-Fintech---Global-Market-Growth"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "Artificial Intelligence in Fintech - Global Market Growth, Trends and Forecasts to 2025 - Assessment of the Impact of COVID-19 on the Industry - ResearchAndMarkets.com"
 
-secured: "Var+9Oc8PtD14PiagoOYxyb7vVk4sSTksSC9UKJkBj81L8XuWYY2hMyplQdJsuGqBlwAOanKhsW6/w8jMSf740INJ0Io4+v8tW9ocSDjRRzCbrqvcR1878FpBBgEnCa5aMgZLdFC8KSexRihKDtlAaja0TC2cuVEU9iFZXAdZncwJxt8eqCNCtTeTQhaA1QBiSKAPZ76mnsutpGBsyHX7mEuctz8DRVVjSzTDF1nR9+V+SDBYlKnO9jn83s5TQnXXZhxELnKrWYjOrV8qaLLUL4bg/G89cDVgaXOGjBMeYi2CLx5/eWnd4J8rb9eoD912HmCRHjEyUcR3T40XIreWA==;WCcDhdmjPcivStpFabi9SA=="
+secured: "IpfXV2vPNWGMaV8vQTKMRHOoAWQEEoR7AZiJtlMmsg2danvMU8t+kBwki+iTb271gdVtcyJfYN8yDk8rL9Va+7tMG9Gve1tlyhar6NSB6IucOl5P+gY/aQ6lyiffQsT0P4JW0HKdiOS1S9K+7U6ED1vqv2TibvdGqiWpvdE+tQWqhU3RvOLHYhL9YutCKGzQSAveZszyV2H+aUYcwSMXqT7Ll29kDNYmPG5tpEN2mLS+PGpdfybmh77rdtvaq3ktRm0NAAaGNY4jBu96MK1ivUWX1mehArBtdvkl7V9onR27A51uMPRWf3GP3XIceLH6EEquDM76UIRBFg9VrlvVWg==;ohjT8PKwN9tv08BPTKwkeQ=="
 ---
 

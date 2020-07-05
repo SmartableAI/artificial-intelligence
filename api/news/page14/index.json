@@ -2,6 +2,81 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-06-22-microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.md",
+      "title": "Microsoft is buying CyberX to bolster its Azure IoT security",
+      "excerpt": "Azure IoT users can look for additional security and monitoring capabilities as Microsoft announces plans to buy CyberX",
+      "webUrl": "https://www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.html",
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/08/iot_security-100675572-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft is buying CyberX to bolster its Azure IoT security",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.amp.html",
+      "publishedDateTime": "2020-06-22T15:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-trump-signs-executive-order-suspending-certain-work-visas-through-2020.md",
+      "title": "Trump signs executive order suspending certain work visas through 2020",
+      "excerpt": "President Trump on Monday signed an executive order to suspend the issuance of certain temporary worker visas through the end of 2020, cracking down further on immigration after signing a more narrow measure in April.",
+      "webUrl": "https://thehill.com/homenews/administration/503914-trump-signs-executive-order-suspending-certain-work-visas-through",
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_061620getty_memo.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "Trump signs executive order suspending certain work visas through 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/503914-trump-signs-executive-order-suspending-certain-work-visas-through?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/503914-trump-signs-executive-order-suspending-certain-work-visas-through?amp",
+      "publishedDateTime": "2020-06-22T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing.md",
       "title": "US government doesn't know how it uses facial recognition in public housing",
       "excerpt": "The Department of Housing and Urban Development says it doesn't have policies limiting how facial recognition is used in public housing.",
@@ -1004,99 +1079,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-how-data-scientists-are-linking-ai-and-data-analysis-to-find-coronavirus-cure.md",
-      "title": "How data scientists are linking AI and data analysis to find coronavirus cure",
-      "excerpt": "In the last three months, it feels as if all of us have become armchair data scientists. As scientists across the globe race to find a cure for the scourge that is COVID-19, we’re all learning hard lessons about bell curves and epidemiological models.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/22/how-data-scientists-are-linking-ai-and-data-analysis-to-find-coronavirus-cure-syndication/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-3-4-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "How data scientists are linking AI and data analysis to find coronavirus cure",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/22/how-data-scientists-are-linking-ai-and-data-analysis-to-find-coronavirus-cure-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/22/how-data-scientists-are-linking-ai-and-data-analysis-to-find-coronavirus-cure-syndication/amp/",
-      "publishedDateTime": "2020-06-22T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-new-york-subway-system-may-implement-temperature-checks-robot-cleaners.md",
-      "title": "New York Subway System May Implement Temperature Checks, Robot Cleaners",
-      "excerpt": "Thermal camera screenings and the use of artificial intelligence to evaluate mask usage are among a suite of recommendations to be considered by officials at New York’s Metropolitan Transportation Authority in a new report.",
-      "webUrl": "https://www.wsj.com/articles/new-york-subway-system-may-implement-temperature-checks-robot-cleaners-11592827200",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-200836/social",
-          "width": 1280,
-          "height": 640,
-          "title": "New York Subway System May Implement Temperature Checks, Robot Cleaners",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/new-york-subway-system-may-implement-temperature-checks-robot-cleaners-11592827200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-subway-system-may-implement-temperature-checks-robot-cleaners-11592827200",
-      "publishedDateTime": "2020-06-22T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

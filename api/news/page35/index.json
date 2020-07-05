@@ -2,6 +2,91 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-06-05-artificial-intelligence-healthcare-and-the-pandemic.md",
+      "title": "Artificial intelligence, healthcare and the pandemic",
+      "excerpt": "The coronavirus crisis demands a regulatory framework for the application of AI to protect public health without jeopardising human rights.",
+      "webUrl": "https://www.socialeurope.eu/artificial-intelligence-healthcare-and-the-pandemic",
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.socialeurope.eu/wp-content/uploads/2020/06/SE-5.jpg",
+          "width": 1108,
+          "height": 570,
+          "title": "Artificial intelligence, healthcare and the pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.socialeurope.eu/artificial-intelligence-healthcare-and-the-pandemic/amp",
+      "cdnAmpWebUrl": "https://www-socialeurope-eu.cdn.ampproject.org/c/s/www.socialeurope.eu/artificial-intelligence-healthcare-and-the-pandemic/amp",
+      "publishedDateTime": "2020-06-05T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Social Europe",
+        "domain": "socialeurope.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-05-why-the-buzz-around-deepmind-is-dissipating-as-it-transitions-from-games-to-science.md",
+      "title": "Why the buzz around DeepMind is dissipating as it transitions from games to science",
+      "excerpt": "DeepMind is shifting its focus from building “AI agents” that can play games to building AI agents that can have real world impact, particularly in areas of science like biology. In 2016, DeepMind, an Alphabet-owned AI unit headquartered in London,",
+      "webUrl": "https://www.cnbc.com/2020/06/05/google-deepmind-alphago-buzz-dissipates.html",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1529472645",
+          "width": 1024,
+          "height": 678,
+          "title": "Why the buzz around DeepMind is dissipating as it transitions from games to science",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/05/google-deepmind-alphago-buzz-dissipates.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/05/google-deepmind-alphago-buzz-dissipates.html",
+      "publishedDateTime": "2020-06-04T22:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-05-tibco-delivers-advanced-cognitive-services-on-microsoft-azure-to-joint-customers.md",
       "title": "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers",
       "excerpt": "Leveraging AI at the Edge and in Containers Fuels Timely and Responsive Analytics Sydney, Australia, June 5, 2020 – TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect,",
@@ -976,82 +1061,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-riiid-ai-study-to-be-presented-at-edm-2020-proves-students-more-engaged-by-deep-learning-algorithm.md",
-      "title": "Riiid AI study - to be presented at EDM 2020 - proves students more engaged by deep-learning algorithm",
-      "excerpt": "And deep learning affords such engagement. Prescribing deep attentive score prediction attracts improved student engagements The paper \"Prescribing Deep Attentive Score Prediction Attracts ...",
-      "webUrl": "https://www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jun2020/riiid_study.jpg?itok=LlzkEVFY",
-          "width": 763,
-          "height": 509,
-          "title": "Riiid AI study - to be presented at EDM 2020 - proves students more engaged by deep-learning algorithm",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm?amp",
-      "publishedDateTime": "2020-06-04T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-andhra-pradesh-to-use-ibms-watson-ai-for-coronavirus-information.md",
-      "title": "Andhra Pradesh to use IBM's Watson AI for Coronavirus information",
-      "excerpt": "The Andhra Pradesh National Health Mission portal has integrated the IBM Watson virtual agent to help the residents quickly get answers to their queries about Covid-19. The chatbot is designed to understand and respond to common questions about Covid-19 in English,",
-      "webUrl": "https://www.indiatvnews.com/technology/news-ibm-watson-ai-used-by-andhra-pradesh-for-coronavirus-queries-see-how-will-it-work-623425",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/06/ibm-watson-ai-1591275941.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Andhra Pradesh to use IBM's Watson AI for Coronavirus information",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-ibm-watson-ai-used-by-andhra-pradesh-for-coronavirus-queries-see-how-will-it-work-623425",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-ibm-watson-ai-used-by-andhra-pradesh-for-coronavirus-queries-see-how-will-it-work-623425",
-      "publishedDateTime": "2020-06-04T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

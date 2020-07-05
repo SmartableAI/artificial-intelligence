@@ -2,10 +2,10 @@
 category: news
 title: "Artificial intelligence (AI) Market Size is Expected to Reach USD 169,411.8 Million in 2025 - Valuates Reports"
 excerpt: "PRNewswire/ -- The global Artificial Intelligence (AI) market size is expected to reach USD 169,411.8 Million in 2025, from USD 4,065.0 Million in"
-publishedDateTime: 2020-06-30T22:00:00Z
-webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025-valuates-reports-877658862.html"
+publishedDateTime: 2020-06-30T12:30:00Z
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025---valuates-reports-301085882.html"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -14,6 +14,7 @@ provider:
   domain: prnewswire.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -47,18 +48,7 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
-  - title: "Artificial Intelligence in Manufacturing Market Size is Projected to Reach USD 15,273.7 Million in 2025 -Valuates Reports"
-    excerpt: "The global artificial intelligence in manufacturing market contributed 513 6 million in 2017 and is projected to reach 15 273 7 million in 2025 growing at a CAGR of 55 2 Artificial intelligence is a technology that deals with the"
-    publishedDateTime: 2020-06-30T10:13:00Z
-    webUrl: "https://www.openpr.com/news/2082125/artificial-intelligence-in-manufacturing-market-size"
-    ampWebUrl: "https://www.openpr.com/amp/2082125/artificial-intelligence-in-manufacturing-market-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2082125/artificial-intelligence-in-manufacturing-market-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 14
 
-secured: "+zGtSV8Jbeu6IC64dnGbb8KQfAKhxqEqi4mFEWxyIahsUqknUPlLnaA8C0EFe8YjKYwvJhBDbRGSM8mqBuRgvY+eTN3oghPyGu6sMYN7wt7DRdbxNA6P2DHTJveTYJhECYZrA006erO8nz8Z5BUAnT0pjro33i6tbQFTO4ePh86ew13pY6tKIsdsA62zP+9eAO1zJfr7vj+UaXXXvancKKCQeMTCUUZBRdKhi9Tc354xfrZvkoPJusS1NCCX64CFIpmLc42NcvaydHytSrTJkmD3WveuUvtkJsPT1QJS1J5FKdSM6JwBc9hFAs7tyhgTHU1dt0FNrChYWBYRAnVUsg==;7Z0wKGChyx07KyihzwhMDQ=="
+secured: "jvln2I33RJESowFGDpJ0skPZcqOMZUf1OoaebbPwVdHItdNWu569QjxdjA7/Bps0ilVkix2DsAbTqEcLUC+p+ttEu8lTJ+LtLIzWjBQvzx91rzA4v2nvxRvOblENUY99MwOx/mTrPW/UFxoUEnfVWT7feQws6P31+Cj117Af6uc7QuaLfPnywAontl4FhkAGKDSDsbsszaLdMPzazbZ2lshsZhZBjzUylUx2BKa1/qcgHN1+kWhTHX/3vFOhkp1efNgP/9cZP2kfZhZ9UQJvbMqWDmfsr0CALF5ZNGAXIPEaaNdSbC1+uR5lReT3Q1+/HKySq5AVmYMNomu0fS+ibA==;JDwzb5kRPW1G2AIB5CKLag=="
 ---
 

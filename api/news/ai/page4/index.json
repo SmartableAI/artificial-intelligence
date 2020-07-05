@@ -2,6 +2,53 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-30-mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses.md",
+      "title": "MIT’s coronavirus-killer robot uses UV-C light to disinfect warehouses",
+      "excerpt": "A new MIT robot that uses UV light to kill the coronavirus could be used to disinfect warehouses, schools, and offices.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-88-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "MIT’s coronavirus-killer robot uses UV-C light to disinfect warehouses",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/amp/",
+      "publishedDateTime": "2020-06-30T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-youtuber-uses-artificial-intelligence-to-make-fake-iron-maiden-song-power-gravy.md",
       "title": "YouTuber Uses Artificial Intelligence To Make Fake Iron Maiden Song, Power Gravy",
       "excerpt": "Following on from the AI recreations of Metallica’s Deliverance Rides and Nirvana’s Smother, YouTuber and tech wizard Funk Turkey has used artificial intelligence to create a brand new Iron Maiden song",
@@ -132,6 +179,35 @@
         "AI",
         "Natural Language Processing",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
+      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
+      "excerpt": "Himax Technologies, Inc. (NASDAQ:HIMX) (\"Himax\" or \"Company\"), a leading supplier and fabless manufacturer of display",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16443255",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16443255",
+      "publishedDateTime": "2020-06-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1238,99 +1314,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy.md",
-      "title": "São Paulo subway facial recognition system slammed over user data security and privacy",
-      "excerpt": "A new surveillance system is deemed \"inefficient and dangerous\" as it fails to protect the personal information of 4 million daily users, associations say.",
-      "webUrl": "https://www.zdnet.com/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/24/e8481169-ff9b-466b-8e43-10b2b93dae57/thumbnail/1200x675/e7e0863bd1d561f06a8a84b6febb0d56/whats.png",
-          "width": 1200,
-          "height": 675,
-          "title": "São Paulo subway facial recognition system slammed over user data security and privacy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
-      "publishedDateTime": "2020-06-29T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-ibm-donates-trusted-ai-projects-to-linux-foundation-ai.md",
-      "title": "IBM donates \"Trusted AI\" projects to Linux Foundation AI",
-      "excerpt": "As real-world AI deployments increase, IBM says the contributions can help ensure they're fair, secure and trustworthy.",
-      "webUrl": "https://www.zdnet.com/article/ibm-donates-trusted-ai-projects-to-linux-foundation-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/24/e49feb8e-f4c2-4d63-b04f-01c52c8ce0ee/thumbnail/1200x675/38a749d7b83303899c7cf3ade4a6704f/hc-create-account-1.png",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM donates \"Trusted AI\" projects to Linux Foundation AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-donates-trusted-ai-projects-to-linux-foundation-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-donates-trusted-ai-projects-to-linux-foundation-ai/",
-      "publishedDateTime": "2020-06-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

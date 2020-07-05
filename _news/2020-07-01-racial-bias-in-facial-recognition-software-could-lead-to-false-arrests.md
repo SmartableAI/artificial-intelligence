@@ -217,36 +217,6 @@ related:
       name: WAtoday
       domain: watoday.com.au
     quality: 37
-  - title: "Sports Ministry Moves Delhi High Court Seeking Restoration of Provisional Recognition to 57 NSFs"
-    excerpt: "In its order, the HC had said the sports ministry and the Indian Olympic Association (IOA) were to inform the court in advance while taking any decision in relation to the NSFs."
-    publishedDateTime: 2020-06-30T10:45:00Z
-    webUrl: "https://www.india.com/sports/sports-ministry-moves-delhi-high-court-seeking-restoration-of-provisional-recognition-to-57-nsfs-4071808/"
-    ampWebUrl: "https://www.india.com/sports/sports-ministry-moves-delhi-high-court-seeking-restoration-of-provisional-recognition-to-57-nsfs-4071808/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/sports/sports-ministry-moves-delhi-high-court-seeking-restoration-of-provisional-recognition-to-57-nsfs-4071808/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 31
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2020/06/kiren-rijiju-3.jpg"
-        width: 700
-        height: 415
-        isCached: true
-  - title: "US policy arm of major computing association urges suspension of facial recognition technology"
-    excerpt: "The Association for Computing Machinery's US Technology Policy Committee (USTPC) today called for 'an immediate suspension of the current and future private and governmental use of facial recognition (FR) technologies in all circumstances known or reasonably foreseeable to be prejudicial to established human and legal rights' in its 'Statement on Principles and Prerequisites for the Development,"
-    publishedDateTime: 2020-06-30T09:19:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/afcm-upa062920.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/236157_web.jpg"
-        width: 618
-        height: 218
-        isCached: true
 
 secured: "wyxvQOUtvSfWI0g0YtgwusYwDQXJ6rH7d9tfjO/kQyOPzcwGJbBv58tODgOq87EicNuMvBht40DVqXNCGwMbqbnlCC2z1nUADbSa3fRJmjXwPcO5DGp7Hn4bw0ntNxMJDDDgGKCUW0FrtfehdROT2OqWLuXgH2KqdG596Jv+9kTiD3rp2DxSGFIr3wrIV4jw2Wq5uq7VkugyZHwW3spl7ZIUQI+nFt2eRbtj1064SOTQiJYHPjsSmK97SO0FMBv9GbRrrp1wJTV7sgJq7KaTJf5S7BSz+M2325TBJNSWnLgXSRQ0tMizx4PCzO4kOMKpOFAh27PtAz/TCah4qB6TpziBENSBlq3I/qSzJ6yN/uvhz6R/CN89q1UPSu85CeF67bfGCbyJw95TjbIDIqRU4diwxKgQCMdRynOhYOWiEMPVHdWFhe1uSN/Xzl7JRKEhoSthr2a/V09sZ0XRnbkRamTUdPvwPlaVaME0qSMzGW1J9HTgfvy9YUoGox5NEHF9aqpDnm4DrAP6XylNnF6vBw==;F7L0R+MwZHFSDe5sNTndKw=="
 ---
