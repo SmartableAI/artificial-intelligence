@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Israeli, UAE technology firms pen deal on virus research"
-excerpt: "Elta, which specializes in sensors, radars, electronic warfare and communication systems, said they would cooperate on research and technology focused on artificial intelligence ... (AP) — A Black Facebook employee, joined by two others who were denied ..."
-publishedDateTime: 2020-07-03T15:56:00Z
-webUrl: "https://www.news10.com/news/technology/israeli-uae-technology-firms-pen-deal-on-virus-research/"
-ampWebUrl: "https://www.news10.com/news/technology/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/"
-cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/technology/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/"
+excerpt: "JERUSALEM (AP) — A state-linked technology company in the United Arab Emirates has signed a partnership with two major Israeli defense firms to research ways of combating the coronavirus pandemic."
+publishedDateTime: 2020-07-03T08:01:00Z
+webUrl: "https://wgnradio.com/news/business-news/israeli-uae-technology-firms-pen-deal-on-virus-research/"
+ampWebUrl: "https://wgnradio.com/news/business-news/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/"
+cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/business-news/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: WTEN
-  domain: news10.com
+  name: WGN Radio
+  domain: wgnradio.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://www.news10.com/wp-content/uploads/sites/64/2020/07/f2f490c5bfe44cb1966bbb8f9ffa114c.jpg?w=1280&h=720&crop=1"
+  - url: "https://wgnradio.com/wp-content/uploads/sites/6/2020/07/f2f490c5bfe44cb1966bbb8f9ffa114c.jpg?w=1280&h=720&crop=1"
     width: 1280
     height: 720
     isCached: true
     title: "Israeli, UAE technology firms pen deal on virus research"
 
-secured: "zJf1pY8d5eFs7WB9/2DH0mjo030Q6ATvmcZMR8cWJiiGhYIBoF8t3Nlmpn5UQOOf+da8TP46rTY1OT7FCMS+ZAXuZZqHTBVJ5MyNbLTX6lsnoAgObLM61uYEvjlOOInDia4mrWQrrrm2FZMh4rIgdysTZOTg8zr/xWaTuESAgjRaCo9PNb61IB96mtO/Ah26VeM3Rot5mnjxOele2ckP6Vq/uq7UHM1G+sNX+6LUMohJI0r9mbjJbHX9KHJEndeHZDzPU2KbaFPXnoSB5RtNj0op5gnaQZowzEKwtwnGteoC8R63PNjbW+oeq7bGsvhot5YDw3UC8108EysRzNdgFQ==;uHuaLq8ygoS/yhGfBhDgtw=="
+secured: "ABmvZt7jbaU8a3LsFU5Zv6XQ3fYngEvzNGbFk5WjW0Qg8ZvUpERAksm9lrdkaKxUCZhnToVNGG0zj9jJ6xNZMY1JxfawYeUOi8WbQ7F67a3W46EhEQEbwbGVXnRbTqvZz4lYPczjQmuAKFlj80PB8DMuLinmNMYptvC4jr7dGg08Gw5rfQcCdXSDlfJIDG98FYaO1Uc/VbqdgXwOxtrw16qBO2vVi0o2UehTz3CZX/98BjEAU9lmXfoiyrN9J/CKT8GlQIB1+P4JslhDq1bO1xnAGTVfRzAbnToUv9N5V9yjneqyJ4rpi8JJcwexrKotfRfN5tCsiVrSNYjV5FpvfA==;UTk4AzQPqv037SlMNs/h7g=="
 ---
 

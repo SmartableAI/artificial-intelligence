@@ -26,19 +26,6 @@ images:
     isCached: true
     title: "Self-driving trucking service launched from Phoenix, other Southwest cities"
 
-related:
-  - title: "How a former soldier went from self-taught truck driver to helping Alphabet's Waymo usher in the era of self-driving semis (GOOGL)"
-    excerpt: "Jon Rainwater instructs safety drivers for Waymo Via, the self-driving company's freight and deliveries unit. He enjoyed a lively career before"
-    publishedDateTime: 2020-07-02T12:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6-1029355546"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6-1029355546"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6-1029355546"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-
 secured: "kz82bJ6AiAhcULEerDp5Z5r+EGiEcGIUp6Br9eEpLewtt+DrCyacgHgeu3wMad7u9eSHjHFV+Fg2FxL3toOJUetwqISewMxovvV9vT5PIkaMhsoiPLLGsHxxGXzlejFg37F3J0msU4ELxRzVaMILpuLNUU4XIbcYAUZ4pbqZV+EJZBWJqtRiU2RhMPJFJJmPnbycQRvuL8OQ/FbaWz97WwzNsuD3a9b7bnTxhjYz/AMCt0nOKO9oKAXlFqEosCMA4qy4QeEQ4YxlEExTuGcsY9dEqox2+8pHswnC87WZZCTLqiQusucVI2LoZ+j6y7+0Qw5n/AYa/LlVnPaiwMZLcMwXGWvFT8ZW5Rh3GyVUtPt5Rjz0cMdk74yt2yHHmE590Dv+USzluPHdAQxPRJC3MIgniQQp3gkC1e+4TwD6zmmdRZnEWSXvzBZZdDqANxAnc3QGiB58g4jeu9O4OH8mhbIkyTXgMRSs1Pzw7R+xZRawIPHFD6ZS6NbvbOmHgqYy7Nq7QIpk6Yi9/Ou92jElbQ==;N0b6+yYwLFArWrqRFwompQ=="
 ---
 

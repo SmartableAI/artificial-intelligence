@@ -2,6 +2,239 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-30-nvidia-expands-virtual-gpu-support-enabling-more-remote-work.md",
+      "title": "Nvidia expands virtual GPU support, enabling more remote work",
+      "excerpt": "The updates to Nvidia's vGPU software could help organizations remotely leverage virtual reality or better collaborate on computer-aided design.",
+      "webUrl": "https://www.zdnet.com/article/nvidia-expands-virtual-gpu-support-enabling-more-remote-work/",
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/30/8fdc5834-5d12-4977-b0e1-151c1646263e/vgpu-remote-work-image.png",
+          "width": 1250,
+          "height": 619,
+          "title": "Nvidia expands virtual GPU support, enabling more remote work",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-expands-virtual-gpu-support-enabling-more-remote-work/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-expands-virtual-gpu-support-enabling-more-remote-work/",
+      "publishedDateTime": "2020-06-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-zia-khan-predicts-the-ai-of-the-future-will-only-be-used-for-good.md",
+      "title": "Zia Khan predicts the AI of the future will only be used for good",
+      "excerpt": "It took a global pandemic and stay-at-home orders for 1.5 billion people worldwide, but something is finally occurring to us: The future we thought we expected may not be the one we get. We know that things will change;",
+      "webUrl": "https://qz.com/1869472/zia-khan-on-the-future-impacted-by-coronavirus/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/06/Zia-Khan.jpg?quality=75&strip=all&w=1400",
+          "width": 820,
+          "height": 984,
+          "title": "Zia Khan predicts the AI of the future will only be used for good",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1869472/zia-khan-on-the-future-impacted-by-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1869472/zia-khan-on-the-future-impacted-by-coronavirus/amp/",
+      "publishedDateTime": "2020-06-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-mentenais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery.md",
+      "title": "Menten.AI’s combination of buzzword bingo brings AI and quantum computing to drug discovery",
+      "excerpt": "Menten AI has an impressive founding team and a pitch that combines some of the hottest trends in tech to pursue one of the biggest problems in healthcare — new drug discovery. The company is also $4 million richer with a seed investment from firms including Uncork Capital and Khosla",
+      "webUrl": "https://techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/",
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/01/quantum.jpg?w=1024",
+          "width": 1024,
+          "height": 737,
+          "title": "Menten.AI’s combination of buzzword bingo brings AI and quantum computing to drug discovery",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/amp/",
+      "publishedDateTime": "2020-06-30T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-ibm-uses-ai-to-enhance-old-wimbledon-tennis-footage-for-the-digital-era.md",
+      "title": "IBM uses AI to enhance old Wimbledon tennis footage for the digital era",
+      "excerpt": "IBM and Wimbledon are using AI techniques to revitalize classic footage going back to the 1970s to appeal to modern tennis fans.",
+      "webUrl": "https://venturebeat.com/2020/06/30/ibm-uses-ai-to-enhance-old-wimbledon-tennis-footage-for-the-digital-era/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-88811603.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": "IBM uses AI to enhance old Wimbledon tennis footage for the digital era",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/30/ibm-uses-ai-to-enhance-old-wimbledon-tennis-footage-for-the-digital-era/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/ibm-uses-ai-to-enhance-old-wimbledon-tennis-footage-for-the-digital-era/amp/",
+      "publishedDateTime": "2020-06-30T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses.md",
+      "title": "MIT’s coronavirus-killer robot uses UV-C light to disinfect warehouses",
+      "excerpt": "A new MIT robot that uses UV light to kill the coronavirus could be used to disinfect warehouses, schools, and offices.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-88-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "MIT’s coronavirus-killer robot uses UV-C light to disinfect warehouses",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/amp/",
+      "publishedDateTime": "2020-06-30T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-artificial-intelligence-ai-market-size-is-expected-to-reach-usd-1694118-million-in-2025-valuates-reports.md",
       "title": "Artificial intelligence (AI) Market Size is Expected to Reach USD 169,411.8 Million in 2025 - Valuates Reports",
       "excerpt": "PRNewswire/ -- The global Artificial Intelligence (AI) market size is expected to reach USD 169,411.8 Million in 2025, from USD 4,065.0 Million in",
@@ -174,21 +407,30 @@
     },
     {
       "path": "_news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
-      "excerpt": "Himax Technologies, Inc. (NASDAQ:HIMX) (\"Himax\" or \"Company\"), a leading supplier and fabless manufacturer of display",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite",
+      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google’s TensorFlow Lite for Microcontrollers",
+      "excerpt": "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced the launch of WiseEye WE-I Plus HX6537-A solution that supports.",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096",
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16443255",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16443255",
-      "publishedDateTime": "2020-06-30T03:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T03:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -197,7 +439,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "TensorFlow",
+        "Google AI",
         "AI"
       ]
     },
@@ -326,53 +569,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-30-ai-expert-mayur-rele-gives-an-intuitive-explanation-of-convolutional-neural-networks.md",
-      "title": "AI Expert, Mayur Rele, gives an Intuitive Explanation of Convolutional Neural Networks",
-      "excerpt": "CNNs were first pioneered back in the late 1980s based on a series of earlier work in the 1960s on Artificial Neural Networks (ANNs) and Multilayer Perceptrons (MLPs). They were initially designed to work similarly to the human brain. Of course ...",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-expert-mayur-rele-gives-an-intuitive-explanation-of-convolutional-neural-networks-2020-06-29",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI Expert, Mayur Rele, gives an Intuitive Explanation of Convolutional Neural Networks",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T18:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-30-athens-airport-recruits-robots-to-inform-travelers-on-covid-19-measures.md",
       "title": "Athens airport recruits robots to inform travelers on COVID-19 measures",
       "excerpt": "Two semi-humanoid robots wearing face masks were greeting visitors at Athens International Airport \"Eleftherios Venizelos\" (AIA) with anti-COVID-19 information when Xinhua reporters took a tour in the airport on Friday.",
@@ -407,6 +603,35 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-ai-expert-mayur-rele-gives-an-intuitive-explanation-of-convolutional-neural-networks.md",
+      "title": "AI Expert, Mayur Rele, gives an Intuitive Explanation of Convolutional Neural Networks",
+      "excerpt": "Nowadays, people seem to take for granted how sophisticated and powerful computers have become. You can talk to your phones, and your Bluetooth speakers and they will respond",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/ab16440035/ai-expert-mayur-rele-gives-an-intuitive-explanation-of-convolutional-neural-networks",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16440035",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16440035",
+      "publishedDateTime": "2020-06-29T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -665,53 +890,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-29-artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services.md",
-      "title": "Artificial Intelligence in Social Media Market Share, Size, Growth and Segmentation |Google LLC, Facebook Inc, Amazon Web Services",
-      "excerpt": "Jun 29, 2020 (WiredRelease via COMTEX) -- The research report titled, Artificial Intelligence in Social Media Market is latest published by MarketResearch.Biz. The Artificial Intelligence in Social Media market has been garnering high-quality momentum in ...",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services-2020-06-29",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Social Media Market Share, Size, Growth and Segmentation |Google LLC, Facebook Inc, Amazon Web Services",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-29-power-efficient-neural-network-with-artificial-dendrites.md",
       "title": "Power-efficient neural network with artificial dendrites",
       "excerpt": "The lack of these critical functions in artificial neural networks compromises their performance, for example in terms of flexibility, energy efficiency and the ability to handle complex tasks. Here, by developing artificial dendrites, we experimentally ...",
@@ -886,183 +1064,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-ipo-preview-renalytix-ai-seeks-us-ipo-investment.md",
-      "title": "IPO Preview: Renalytix AI Seeks U.S. IPO Investment",
-      "excerpt": "Renalytix AI (RNLX) intends to raise $86.25 million in an IPO of its ADSs representing underlying ordinary shares, according to an F-1 registration statement. The firm is developing an AI-enhanced diagnostics system for chronic kidney disease.",
-      "webUrl": "https://www.thestreet.com/ipo/news/renalytix-ai-ipo",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTczNjEzNzY1Njg4ODI5MTc0/renalytixnamarket.png",
-          "width": 620,
-          "height": 357,
-          "title": "IPO Preview: Renalytix AI Seeks U.S. IPO Investment",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/renalytix-ai-ipo",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/renalytix-ai-ipo",
-      "publishedDateTime": "2020-06-29T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-in-effort-to-fight-covid-19-mit-robot-gets-to-work-disinfecting-the-greater-boston-food-bank.md",
-      "title": "In effort to fight COVID-19, MIT robot gets to work disinfecting The Greater Boston Food Bank",
-      "excerpt": "MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) has put one of its research projects to work providing disinfection services for The Greater Boston Food Bank (GBFB), in an effort to slow the spread of COVID-19 and still allow the nonprofit to provide services to its patrons.",
-      "webUrl": "https://techcrunch.com/2020/06/29/in-effort-to-fight-covid-19-mit-robot-gets-to-work-disinfecting-the-greater-boston-food-bank/",
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/2Disinfecting-robot-credit-Alyssa-Pierson-MIT-CSAIL.jpg?w=1024",
-          "width": 1024,
-          "height": 762,
-          "title": "In effort to fight COVID-19, MIT robot gets to work disinfecting The Greater Boston Food Bank",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/29/in-effort-to-fight-covid-19-mit-robot-gets-to-work-disinfecting-the-greater-boston-food-bank/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/29/in-effort-to-fight-covid-19-mit-robot-gets-to-work-disinfecting-the-greater-boston-food-bank/amp/",
-      "publishedDateTime": "2020-06-29T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-security-first-your-ai-is-so-easy-to-hack.md",
-      "title": "Security first: Your AI is so easy to hack",
-      "excerpt": "The reality for AI-enabled systems is that they have an increased attack surface for bad actors to exploit -- but too often security is an afterthought.",
-      "webUrl": "https://venturebeat.com/2020/06/29/security-first-your-ai-is-so-easy-to-hack/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1158867526.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 708,
-          "title": "Security first: Your AI is so easy to hack",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/29/security-first-your-ai-is-so-easy-to-hack/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/security-first-your-ai-is-so-easy-to-hack/amp/",
-      "publishedDateTime": "2020-06-29T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-the-3-weeks-that-changed-everything.md",
-      "title": "The 3 Weeks That Changed Everything",
-      "excerpt": "Imagine if the National Transportation Safety Board investigated America’s response to the coronavirus pandemic.",
-      "webUrl": "https://www.theatlantic.com/politics/archive/2020/06/how-white-house-coronavirus-response-went-wrong/613591/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/c7zPQiFShImvsFvzoeKHqUhwbLA=/570x321/filters:format(png)/media/img/mt/2020/06/Atlantic_NTSB_v2/original.png",
-          "width": 570,
-          "height": 321,
-          "title": "The 3 Weeks That Changed Everything",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/613591/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/613591/",
-      "publishedDateTime": "2020-06-29T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

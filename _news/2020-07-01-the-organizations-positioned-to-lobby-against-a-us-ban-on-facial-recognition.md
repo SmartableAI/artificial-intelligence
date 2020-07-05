@@ -8,7 +8,7 @@ ampWebUrl: "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/amp/"
 type: article
 quality: 101
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202006/ott_now_mich_200626_1920x1080.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Boston mayor okays ban on facial recognition tech"
-    excerpt: "Mayor Marty Walsh has approved ban on government use of facial surveillance technology, making Boston the first major East Coast city to do so."
-    publishedDateTime: 2020-06-30T21:06:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2020/06/30/mayor-walsh-signs-ban-on-facial-recognition-tech.html"
-    ampWebUrl: "https://www.bizjournals.com/boston/news/2020/06/30/mayor-walsh-signs-ban-on-facial-recognition-tech.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/06/30/mayor-walsh-signs-ban-on-facial-recognition-tech.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 59
-    images:
-      - url: "https://media.bizj.us/view/img/11663456/mayor-walsh-may-4*600xx3593-2395-4-0.jpg"
-        width: 600
-        height: 399
         isCached: true
   - title: "Easthampton passes municipal ban on facial recognition tech"
     excerpt: "An ACLU-backed bill currently before legislators on Beacon Hill would establish a statewide moratorium on government use of face surveillance. Easthampton is the latest town to enact a ban on gov't use of facial-recognition technologies."

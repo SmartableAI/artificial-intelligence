@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Notre Dame, IBM Launch Tech Ethics Lab"
+    excerpt: "The University of Notre Dame and New York-based IBM (NYSE: IBM) are launching a collaboration that intends to address ethical concerns raised by the use of advanced technologies. The university says t"
+    publishedDateTime: 2020-07-02T17:17:00Z
+    webUrl: "https://www.insideindianabusiness.com/story/42320124/notre-dame-ibm-launch-tech-ethics-lab"
+    type: article
+    provider:
+      name: INside INdiana Business
+      domain: insideindianabusiness.com
+    quality: 39
+    images:
+      - url: "https://INSIDEINDIANA.images.worldnow.com/images/19688430_G.jpeg?lastEditedDate=1593687472000"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "b41R7OQQEmmv7IOPgRqfZC9zOFLY4fR6XThfKTI/5Dn1bosiz0XMq2fz3LOdSrq6DfWxXAxwGoil9irM4P4olLAtYsbTD1DlyEh9q4lviTbBJldUOd0Sq2SZM8DByvHJGZw0PsgxBX0AmuuDdnO+mwXi2IgfOsuwlQMo3SD0+JvcrwLBXJKbFTzT016i7X+DePuluxI03uImMNfF0ex5RRbJqCXzkK1zltPv2zKPYTI2u672smCrnZLB1JSq6k9rEWkJcNFAIKExkq7K8bH9zs4UKW1WwFoMWzVxlh1tjmNVXtovbbrLHgakvLvv7eaw31fFtElqEocEhhpN1UMumiT1SWqriMh3ON0+ScWXVWOAm+eGlGGp94OUC+JCbelBhPS4jDPcbt826VZvTivTy2h5q32jUsxC83uwbfFivaunH4czC8EreCr0SCLwRi/odD/2XUtjc4KK+pmlBCWKyPgvRi5s/v3F5lGRmMS4V2p19scBw6M528i3NuBeqN+lkLaPGKTUiGcP22XwTaP2ZA==;qaQ2jaBYxi607iJ1CDx9Wg=="
 ---

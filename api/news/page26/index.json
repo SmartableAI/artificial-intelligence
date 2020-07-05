@@ -2,6 +2,239 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-06-12-probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled.md",
+      "title": "ProBeat: The question of cloud AI or edge AI is far from settled",
+      "excerpt": "It's too early to say whether Google's cloud solution or Microsoft's edge solution is the superior approach to noise cancellation.",
+      "webUrl": "https://venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/microsoft-teams-google-meet.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ProBeat: The question of cloud AI or edge AI is far from settled",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/amp/",
+      "publishedDateTime": "2020-06-12T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai.md",
+      "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
+      "excerpt": "German automaker Volkswagen AG has closed its $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog post on Tuesday.",
+      "webUrl": "https://in.reuters.com/article/volkswagen-argo-idINKBN2390FT",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200602&t=2&i=1520735652&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG510AV",
+          "width": 819,
+          "height": 545,
+          "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN2390FT",
+      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN2390FT",
+      "publishedDateTime": "2020-06-12T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-top-companies-to-short-as-stock-market-optimism-dips.md",
+      "title": "Top Companies To Short As Stock Market Optimism Dips",
+      "excerpt": "We have some buying this morning with markets recovering some of Thursday’s massive losses. However, it looks uneasy at best. For those looking to bet against the upward trend our AI technology paired with our deep learning algorithms have identified several Top Shorts today.",
+      "webUrl": "https://www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1215230279%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": "Top Companies To Short As Stock Market Optimism Dips",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/amp/",
+      "publishedDateTime": "2020-06-12T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-scientists-say-satellite-imagery-and-machine-learning-advances-will-boost-african-consumer-data.md",
+      "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
+      "excerpt": "Scientists were able predict consumer data variation down to the village or neighborhood level with up to 55% accuracy and assets wealth up to 75% accuracy.",
+      "webUrl": "https://qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/06/sts058-77-083_orig-cover-e1591977652161.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 868,
+          "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/amp/",
+      "publishedDateTime": "2020-06-12T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-how-this-ai-company-is-working-to-transform-space-exploration-in-an-age-of-global-pandemic.md",
+      "title": "How This AI Company Is Working to Transform Space Exploration in an Age of Global Pandemic",
+      "excerpt": "Hypergiant founder and CEO Ben Lamm explains AI's role in creating a more flexible infrastructure for the future of space exploration.",
+      "webUrl": "https://www.entrepreneur.com/article/351699",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591802874-Unknown.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "How This AI Company Is Working to Transform Space Exploration in an Age of Global Pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351699",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351699",
+      "publishedDateTime": "2020-06-12T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-researchers-propose-framework-to-measure-ais-social-and-environmental-impact.md",
       "title": "Researchers propose framework to measure AI’s social and environmental impact",
       "excerpt": "Researchers propose a framework -- SECure -- designed to measure the social and environmental impact of AI systems in the real world.",
@@ -847,214 +1080,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-tutorial-build-and-deploy-a-custom-skill-with-azure-machine-learning.md",
-      "title": "Tutorial: Build and deploy a custom skill with Azure Machine Learning",
-      "excerpt": "This tutorial demonstrates how to use Azure Machine Learning to build and deploy a custom skill for Azure Cognitive Search's AI enrichment pipeline.",
-      "webUrl": "https://docs.microsoft.com/en-us/azure/search/cognitive-search-tutorial-aml-custom-skill",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Tutorial: Build and deploy a custom skill with Azure Machine Learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T22:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision.md",
-      "title": "3 (Not So Obvious) Industries That Could Be Transformed By Computer Vision",
-      "excerpt": "Computer vision, or machine vision, is an important business trend that will transform many industries and many business processes. Here we look at three not so obvious examples to showcase that it is important for any industry.",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/12/3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/12/3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/12/3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/amp/",
-      "publishedDateTime": "2020-06-11T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2023.md",
-      "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
-      "excerpt": "Jun 11, 2020 (AmericaNewsHour) -- Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End ...",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-06-11?mod=mw_quote_news",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T20:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi.md",
-      "title": "Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi",
-      "excerpt": "Here is the link to the board that looks like a Raspberry Pi. This new hardware was launched ahead of the TensorFlow Dev Summit, revolving around machine learning and ‘AI’ in embedded ...",
-      "webUrl": "https://hackaday.com/2019/03/05/google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/03/googletpu.png",
-          "width": 800,
-          "height": 438,
-          "title": "Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-reference-design-supports-memory-intensive-ai-workloads.md",
-      "title": "Reference design supports memory-intensive AI workloads",
-      "excerpt": "One of the challenges is that smart vision and other AI applications generate a lot of data that is ... smaller than a 9 × 13-mm BGA packaging used by a standard DDR3 DRAM chip. Another advantage of the solution is that it doesn’t require expertise ...",
-      "webUrl": "https://www.embedded.com/reference-design-supports-memory-intensive-ai-workloads/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2020/06/img20200616091403Memory-controller-reference-desi_0.jpg",
-          "width": 383,
-          "height": 305,
-          "title": "Reference design supports memory-intensive AI workloads",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -59,22 +59,6 @@ related:
         width: 756
         height: 567
         isCached: true
-  - title: "Boston mayor okays ban on facial recognition tech"
-    excerpt: "Mayor Marty Walsh has approved ban on government use of facial surveillance technology, making Boston the first major East Coast city to do so."
-    publishedDateTime: 2020-06-30T21:06:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2020/06/30/mayor-walsh-signs-ban-on-facial-recognition-tech.html"
-    ampWebUrl: "https://www.bizjournals.com/boston/news/2020/06/30/mayor-walsh-signs-ban-on-facial-recognition-tech.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/06/30/mayor-walsh-signs-ban-on-facial-recognition-tech.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 59
-    images:
-      - url: "https://media.bizj.us/view/img/11663456/mayor-walsh-may-4*600xx3593-2395-4-0.jpg"
-        width: 600
-        height: 399
-        isCached: true
   - title: "Easthampton passes municipal ban on facial recognition tech"
     excerpt: "An ACLU-backed bill currently before legislators on Beacon Hill would establish a statewide moratorium on government use of face surveillance. Easthampton is the latest town to enact a ban on gov't use of facial-recognition technologies."
     publishedDateTime: 2020-07-02T14:48:00Z

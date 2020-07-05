@@ -2,6 +2,186 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-30-aws-google-and-mozilla-back-national-ai-research-cloud-bill-in-congress.md",
+      "title": "AWS, Google, and Mozilla back national AI research cloud bill in Congress",
+      "excerpt": "Tech giants joined universities and nonprofits and backed a national AI research cloud, something supporters say will help the U.S. innovate and compete.",
+      "webUrl": "https://venturebeat.com/2020/06/30/aws-google-and-mozilla-back-national-ai-research-cloud-bill-in-congress/",
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/fei-fei-condoleeza.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 580,
+          "title": "AWS, Google, and Mozilla back national AI research cloud bill in Congress",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/30/aws-google-and-mozilla-back-national-ai-research-cloud-bill-in-congress/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/aws-google-and-mozilla-back-national-ai-research-cloud-bill-in-congress/amp/",
+      "publishedDateTime": "2020-06-30T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-artificial-intelligence-is-experiencing-growing-pains.md",
+      "title": "Artificial Intelligence Is Experiencing Growing Pains",
+      "excerpt": "We’ve moved beyond the phase of Is AI a shiny object? toward broader mainstream adoption and actual value creation. But are organizations ready?",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/30/artificial-intelligence-is-experiencing-growing-pains/",
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/30/artificial-intelligence-is-experiencing-growing-pains/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/06/30/artificial-intelligence-is-experiencing-growing-pains/amp/",
+      "publishedDateTime": "2020-06-30T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-australian-authorities-want-an-ai-to-settle-your-divorce.md",
+      "title": "Australian Authorities Want an AI To Settle Your Divorce",
+      "excerpt": "For better or worse, there’s a good chance your current love life owes something to automation. Even if you’re just hooking up with the occasional Tinder fling (which if you are, no judgment), you’re still turning to Tinder’s black-box algorithms to pick out that fling for you before turning to more black-box algorithms to pick out the best dingy bar to meet them at before turning to more black-box algorithms to figure out what,",
+      "webUrl": "https://gizmodo.com/australian-authorities-want-an-ai-to-settle-your-divorc-1844218776",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/iecgpkelskttyvkjc7sq.jpg",
+          "width": 800,
+          "height": 451,
+          "title": "Australian Authorities Want an AI To Settle Your Divorce",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/australian-authorities-want-an-ai-to-settle-your-divorc-1844218776/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/australian-authorities-want-an-ai-to-settle-your-divorc-1844218776/amp",
+      "publishedDateTime": "2020-06-30T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models.md",
+      "title": "Montreal AI Ethics Institute suggests ways to counter bias in AI models",
+      "excerpt": "In a recent paper, analysts at the Montreal AI Ethics Institute examine key challenges faced by the AI community -- and propose solutions.",
+      "webUrl": "https://venturebeat.com/2020/06/30/montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models/",
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Montreal AI Ethics Institute suggests ways to counter bias in AI models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/30/montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models/amp/",
+      "publishedDateTime": "2020-06-30T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning.md",
       "title": "Facebook’s MARGE AI summarizes and translates documents without fine-tuning",
       "excerpt": "The researchers claim MARGE learns to paraphrase, translate, and summarize text without any fine-tuning, a potential step toward systems that can perform any text task from pre-training alone. In machine learning,",
@@ -369,6 +549,44 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-artificial-intelligence-the-time-for-ethics-is-over.md",
+      "title": "Artificial Intelligence: The time for ethics is over",
+      "excerpt": "If the rules are too weak, there is a too great a risk that our rights and freedoms will be undermined: This currently applies to all applications of artificial intelligence, […]",
+      "webUrl": "https://ctovision.com/artificial-intelligence-the-time-for-ethics-is-over/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ctovision.com/wp-content/uploads/space.jpg",
+          "width": 632,
+          "height": 422,
+          "title": "Artificial Intelligence: The time for ethics is over",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ctovision.com",
+        "domain": "ctovision.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -921,239 +1139,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-nvidia-expands-virtual-gpu-support-enabling-more-remote-work.md",
-      "title": "Nvidia expands virtual GPU support, enabling more remote work",
-      "excerpt": "The updates to Nvidia's vGPU software could help organizations remotely leverage virtual reality or better collaborate on computer-aided design.",
-      "webUrl": "https://www.zdnet.com/article/nvidia-expands-virtual-gpu-support-enabling-more-remote-work/",
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/30/8fdc5834-5d12-4977-b0e1-151c1646263e/vgpu-remote-work-image.png",
-          "width": 1250,
-          "height": 619,
-          "title": "Nvidia expands virtual GPU support, enabling more remote work",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-expands-virtual-gpu-support-enabling-more-remote-work/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-expands-virtual-gpu-support-enabling-more-remote-work/",
-      "publishedDateTime": "2020-06-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-zia-khan-predicts-the-ai-of-the-future-will-only-be-used-for-good.md",
-      "title": "Zia Khan predicts the AI of the future will only be used for good",
-      "excerpt": "It took a global pandemic and stay-at-home orders for 1.5 billion people worldwide, but something is finally occurring to us: The future we thought we expected may not be the one we get. We know that things will change;",
-      "webUrl": "https://qz.com/1869472/zia-khan-on-the-future-impacted-by-coronavirus/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/06/Zia-Khan.jpg?quality=75&strip=all&w=1400",
-          "width": 820,
-          "height": 984,
-          "title": "Zia Khan predicts the AI of the future will only be used for good",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1869472/zia-khan-on-the-future-impacted-by-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1869472/zia-khan-on-the-future-impacted-by-coronavirus/amp/",
-      "publishedDateTime": "2020-06-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-mentenais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery.md",
-      "title": "Menten.AI’s combination of buzzword bingo brings AI and quantum computing to drug discovery",
-      "excerpt": "Menten AI has an impressive founding team and a pitch that combines some of the hottest trends in tech to pursue one of the biggest problems in healthcare — new drug discovery. The company is also $4 million richer with a seed investment from firms including Uncork Capital and Khosla",
-      "webUrl": "https://techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/",
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/01/quantum.jpg?w=1024",
-          "width": 1024,
-          "height": 737,
-          "title": "Menten.AI’s combination of buzzword bingo brings AI and quantum computing to drug discovery",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/amp/",
-      "publishedDateTime": "2020-06-30T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-ibm-uses-ai-to-enhance-old-wimbledon-tennis-footage-for-the-digital-era.md",
-      "title": "IBM uses AI to enhance old Wimbledon tennis footage for the digital era",
-      "excerpt": "IBM and Wimbledon are using AI techniques to revitalize classic footage going back to the 1970s to appeal to modern tennis fans.",
-      "webUrl": "https://venturebeat.com/2020/06/30/ibm-uses-ai-to-enhance-old-wimbledon-tennis-footage-for-the-digital-era/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-88811603.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": "IBM uses AI to enhance old Wimbledon tennis footage for the digital era",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/ibm-uses-ai-to-enhance-old-wimbledon-tennis-footage-for-the-digital-era/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/ibm-uses-ai-to-enhance-old-wimbledon-tennis-footage-for-the-digital-era/amp/",
-      "publishedDateTime": "2020-06-30T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses.md",
-      "title": "MIT’s coronavirus-killer robot uses UV-C light to disinfect warehouses",
-      "excerpt": "A new MIT robot that uses UV light to kill the coronavirus could be used to disinfect warehouses, schools, and offices.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-88-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "MIT’s coronavirus-killer robot uses UV-C light to disinfect warehouses",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/amp/",
-      "publishedDateTime": "2020-06-30T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

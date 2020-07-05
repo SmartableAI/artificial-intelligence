@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Automated design of a convolutional neural network with multi-scale filters for cost-efficient seismic data classification"
-excerpt: "Nat. Commun. 10, 4284 (2019). Saikia P., Baruah R. D., Singh S. K., Chaudhuri P. Artificial Neural Networks in the domain of reservoir characterization: a review from shallow to deep models. Comput. Geosci. 135, 104357 (2019). 11. Souza, J. et al."
-publishedDateTime: 2020-07-03T00:00:00Z
-webUrl: "https://www.nature.com/articles/s41467-020-17123-6?code=9e2ebebd-7a1c-44d8-9ac9-6a4e0dd72998&error=cookies_not_supported"
+excerpt: "The authors present an automated design approach to propose a new neural network architecture for seismic data analysis. The new architecture classifies multiple seismic reflection datasets at extremely low computational cost compared with conventional architectures for image classification."
+publishedDateTime: 2020-07-03T09:31:00Z
+webUrl: "https://www.nature.com/articles/s41467-020-17123-6"
 type: article
 quality: 13
 heat: 13
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Automated design of a convolutional neural network with multi-scale filters for cost-efficient seismic data classification"
 
-secured: "WN8ucbL/alJN76CnMqdXu1XKibzaK3QNWsysAR2atgpUb0oGDjXBRWtzZqitGFCuzojXzHQy3iMe5s7GKADuEoSMpf4iQFA0xxvQDs1A/ew101ZlstNXLILCCGmQUWz6aAikalsRwmFGeEegyyIeYnTNxzM+UGLRls0URijdtgWe8O22lbbKPiK7PrSWeh5ZPBqCrc7WVKLESAfE1jI0oZa8I4I6luFOt+/wpzfwoZZ2fuzfg9YbYe6FmYMKpFoH7uWq0N+OTzWkj6NmWdPErnMMBgNm05IQLHcLpSJerIGqWUZqBx0J20LduxjlKG/Fn+Lr7nYemnIhFfoBLm7tFQ9wmn5g2hc7lI5Kkk3TSQa4V364mwzjmu9MFKBij0rNF9BjEDigI3NOB8+6w6wTzFA24QTqnXfIz5nl2PIifabxlkmC47iZQuK0DeIZbdl2r06YThZgsa6iLKc5DK5w5mP3VzSqWHWzEcJhJ13jBFsJURVprl15bAuJ9C7RAOMS;btv3s6giJc3VUXZUzGKiiw=="
+secured: "bDVqiTuuS+XPH+aey5uxOTwrswv51sv2uKHnh6weby0RT6KHZ6gv1WaR4FwsXWEambf0fIv4YZRk1drWh100JxPzlpuaqd8qV6eIphhcjRMRtuvucoHJdAXVrAOfl3NfYBlpOUOYtVaC5KhxZKquW2G5N6q5oiQvQgF4R+s2Z4ZTJLd4GQPJSGCXPZmZzxa6/b3dbX2Fd+p1BDY1zi8rlq7Ydzw5rMFomX40KKR/jGNDqH+BYOTJqqXvqhSeZSsZkzRNd7B0zsvIRdfanc1OcpcyEtAvp6F/0N+wlpcIT3zmuodwBDKDXGw5Y+KMPbh4QimSucwIzGQ4KikHDbT/WQ==;dId3segfUIVxNKffVyczrQ=="
 ---
 

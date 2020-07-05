@@ -2,6 +2,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-05-volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles.md",
+      "title": "Volvo & Google’s Waymo Join Hands To Develop Self-Driving Vehicles",
+      "excerpt": "Volvo and Waymo will integrate Waymo's self-driving tech into an all-new mobility focussed electric vehicle architecture",
+      "webUrl": "https://gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gaadiwaadi.com/wp-content/uploads/2020/06/Volvo-and-Waymo-2.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Volvo & Google’s Waymo Join Hands To Develop Self-Driving Vehicles",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/amp/",
+      "cdnAmpWebUrl": "https://gaadiwaadi-com.cdn.ampproject.org/c/s/gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/amp/",
+      "publishedDateTime": "2020-07-05T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gaadiwaadi.com",
+        "domain": "gaadiwaadi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-velodyne-becomes-latest-tech-company-to-go-public-using-a-spac-eschewing-the-traditional-ipo-path.md",
       "title": "Velodyne becomes latest tech company to go public using a SPAC, eschewing the traditional IPO path",
       "excerpt": "Velodyne Lidar, the leading supplier of a sensor widely considered critical to the commercial deployment of autonomous vehicles, said Thursday it has struck a deal to merge with special-purpose acquisition company Graf Industrial Corp.",
@@ -1328,54 +1366,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024.md",
-      "title": "Mercedes cars will be powered by NVIDIA AI for self-driving starting 2024",
-      "excerpt": "Mercedes will use a full NVIDIA software and hardware system for their vehicles to power self-driving, with the first cars hitting the road in 2024. The system will be based on NVIDIA’s Orin chip, which they claim outperforms Tesla’s FSD computer by ~38%.",
-      "webUrl": "https://electrek.co/2020/06/23/mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024/",
-      "heat": 350,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/06/sm_20C0302_04.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 563,
-          "title": "Mercedes cars will be powered by NVIDIA AI for self-driving starting 2024",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/06/23/mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/06/23/mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024/amp/",
-      "publishedDateTime": "2020-06-23T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
