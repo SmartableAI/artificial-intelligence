@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T15:08:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-medicine-market-to-reach-18-12-billion-at-49-6-cagr-by-2025-says-amr-1029354994"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -20,36 +20,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "AI in Healthcare Market Size is Estimated to Reach USD 99,491.58 Million by 2027 - Valuates Reports"
-    excerpt: "PRNewswire/ -- The Artificial Intelligence (AI) in the healthcare market was valued at USD 4,836.87 Million in 2019 and is projected to reach USD"
-    publishedDateTime: 2020-06-30T14:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ai-in-healthcare-market-size-is-estimated-to-reach-usd-99-491-58-million-by-2027----valuates-reports-301086006.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
-  - title: "Artificial intelligence (AI) Market Size is Expected to Reach USD 169,411.8 Million in 2025 - Valuates Reports"
-    excerpt: "PRNewswire/ -- The global Artificial Intelligence (AI) market size is expected to reach USD 169,411.8 Million in 2025, from USD 4,065.0 Million in"
-    publishedDateTime: 2020-06-30T22:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025-valuates-reports-877658862.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
 
 secured: "WkFgNB06EkgInfXIpsfYGzS5V2Mu8/Gnk46b07z2LpgpgIYYwRmNCwUiWANpUOD03/GGtt3L0Ev7tVUcOolUIVGEFHrWI4wGj/jiWBhHJFU+W8I8R5zLyjizpIFg3AaPxPrCcsyJI3mk21ufAjB4afKmGzB71FOINIpi8//+aZ1agtKgBsxqvPSgYOyqexwxG56f1wsRlwETge4NfDYAHBd6HJKPZKIJDg/beVXer6lyLTGTE18ebAgy7aPqyZLe36qOonQglaTe44y4YA5nCtPPP3/LuadK9KpR1Z2dxTKbqleXN0RyDzeFv8h9NlQSY2kpq8sBLy/QqjmrRTuJSg==;GWxwDJ66YiReVcGUP6UIjg=="
 ---

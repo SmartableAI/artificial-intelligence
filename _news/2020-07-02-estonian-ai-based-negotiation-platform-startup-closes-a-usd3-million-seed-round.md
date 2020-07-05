@@ -24,22 +24,6 @@ images:
     isCached: true
     title: "Estonian AI-based negotiation platform startup closes a USD3 million seed round"
 
-related:
-  - title: "Capital Closes $9 Million Series Seed 2 to Advance The Capital Machine"
-    excerpt: "Capital, a leading innovator in the emerging category of “capital as a service” (CAAS), announced today that it has closed on an additional $9M in seed funding led by Jerry Yang’s AME Cloud Ventures with participation from Steve Jurvetson’s Future Ventures,"
-    publishedDateTime: 2020-06-30T13:30:00Z
-    webUrl: "https://apnews.com/PR Newswire/c3741e01caf27dd87526a28923709947"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
-secured: "TBxhtrH4m1J9y6VONwpS0s01TlfqOcvmLzcK0zfA4rYomDgl5zN1bbDeQ9zLCS+C6rugeihtECyAiEfa235yRmOG546+PC/6M/W3jhHB+lgGlJ/8mDjMpbN2PufVLyrdl79fjX3dKQQi875Hr7dsK5M1xIPBRkjXfqwOYsnMiGcLVZvCX5YK/EbwCrgk1u2Lcc6H4NJWuKKt63DuhZKC7dpIcW5XrNc4y9DQYlA9a48jnKvwnah9LKDhckYo7S7LFTCP/JXYHJqeCDuw0CXbZCmwykX0kyNRSDrlHKyGc72l7TjKiO+P7kAFrsDQkyNeZ3cDI3wifziJTUItq5OfEg==;BX+UCufbv1296CkKZi2LUw=="
+secured: "GFxvNPCC+7Un/heu6DnOjew/7MmxxBcoBDJag11uxK9pRdVeX7rco4LUkskIo6spztEgyh3nVazp9JWPXofuU214Lp/hDupZg8/YRJlATyb3rdYBUxrEFEXXGRJu+HyZzUpHAVFvt9ycsBngK3klYXm9/2QDknwQptHROazfmFQX4Uum/0F/RU66EjKOPL8p2n5VBdTuQYlm0hUCSmE2lP/IQ76kYjXflcqTUFMpz9IVcClgUv+WGdOKRsDSEPZt7S2BoNMQhPmX2Cx6qcrLG+YV/wv5Swjj3+y23YB1nxv3MmjLH8BiM5D3ewJVxcCWppYDexyZ0ns8NwmRcdyfDhmwmpVnv1RzlfQf/3wpVzzBjxIi80uZBDzUNifl6Wx4Ic7q5hsxszMpZsafJNLu2nfZeiR5D5mjbxTMzsWBzl6Hn/RqPgqCK9EmpfBYd1ywBYqEegNJi6Bof3OogqxQGFB76h+L4RrwPHuVr0gyxsuSoo3kHO7jQeQe1RssypAnWxTOtXEMqs6AWEJpFoClcQ==;b+WkQR9vErMInzxUFIolIQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T19:49:13Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/deriving-conversational-insights-from-invoices-with-amazon-textract-amazon-comprehend-and-amazon-lex/"
 type: article
 quality: 103
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     title: "Deriving conversational insights from invoices with Amazon Textract, Amazon Comprehend, and Amazon Lex"
 
 related:
-  - title: "Unifying The Supply Chain With Machine Learning Organized Information, Increases Speed, And Improves Efficiency"
-    excerpt: "The supply chain is complex, and machine learning will be a critical tool in the continuing improvement of supply chain management."
-    publishedDateTime: 2020-06-30T14:19:00Z
-    webUrl: "https://www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/"
-    ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed90450d3f5a6000627e3ca%2F0x0.jpg"
-        width: 876
-        height: 548
-        isCached: true
   - title: "AI Conversations: Reinventing the Retail Industry with an ‘Edge’"
     excerpt: "The retail industry is in the midst of a sweeping transformation driven by new technologies and new business models. Artificial intelligence is an essential enabler of this transformation."
     publishedDateTime: 2020-06-30T16:51:00Z

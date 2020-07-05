@@ -38,22 +38,6 @@ related:
         width: 1000
         height: 564
         isCached: true
-  - title: "Unifying The Supply Chain With Machine Learning Organized Information, Increases Speed, And Improves Efficiency"
-    excerpt: "The supply chain is complex, and machine learning will be a critical tool in the continuing improvement of supply chain management."
-    publishedDateTime: 2020-06-30T14:19:00Z
-    webUrl: "https://www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/"
-    ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/06/30/unifying-the-supply-chain-with-machine-learning-organized-information-increases-speed-and-improves-efficiency/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed90450d3f5a6000627e3ca%2F0x0.jpg"
-        width: 876
-        height: 548
-        isCached: true
 
 secured: "3NWP2i8Tpkg0OaNrQTSbrw7Fja/fnJEXpVUR22EMiu/V3ptSX4cy1yEBnDnc97VLpJO+eYlGyf0+Pp47MP8HdtuP9fc/A3YJabtcwpFazrG05mSVWXkfIE7Wz4dep3S/ITlqfzP1dUIhaUeNp1ukJRGW5PWMCP4+ohC3TVn3G0stRkRUlTfVBhOrQk9BPc1J3ZS2Yrqf8qwkbMdbCYpJXGUpqcAvsLSbcA+E/3TDerFlBMIIcTl9MQLjXICKUmROgxCuAxVkPdA3eQf8zm+Bz4zH9xhvfsqldNZMk8Of6R5QNu36wTYzxss1y5FcuHgUPv5mf/zFP8YjAiGpgnhk4SfCO9CoTivwWUGnpX6760ikpqp5655KWch4vB+4LGQ9pmEYAh7/RkuS0XA86dxlbzctIQlfN5Zgb4jn5sjKRiPf7dsM7c4jaColEQKztUz1RYOy54s/RJ+MugHtQ08VMeetiFgv27gc1tTWI1hko+7jjJVEvaAG7tBiu8iGKKoRt1evM5tekNoaHf+GaGHXmA==;aqvGLPX5G2ofUnNAG+/b4A=="
 ---

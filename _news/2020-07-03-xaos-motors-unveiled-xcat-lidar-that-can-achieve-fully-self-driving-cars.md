@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16501599"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16501599"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     height: 378
     isCached: true
     title: "XAOS MOTORS unveiled XCAT LiDAR that can achieve fully self-driving cars"
-
-related:
-  - title: "The case for all-electric self-driving cars"
-    excerpt: "Electric cars don't suffer a huge loss in range when equipped with autonomous driving technology, and there's potential to minimize the effects even further, a new peer-reviewed analysis in Nature Energy shows."
-    publishedDateTime: 2020-06-30T14:40:00Z
-    webUrl: "https://www.axios.com/electric-self-driving-cars-b39c1215-fb53-467b-ab21-1fd1cd11e683.html"
-    ampWebUrl: "https://www.axios.com/electric-self-driving-cars-b39c1215-fb53-467b-ab21-1fd1cd11e683.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/electric-self-driving-cars-b39c1215-fb53-467b-ab21-1fd1cd11e683.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 44
-    images:
-      - url: "https://images.axios.com/KER4AXDl2L6o_L1bxvSziG60tYE=/fit-in/1366x1366/2020/06/30/1593526866534.jpg"
-        width: 1366
-        height: 768
-        isCached: true
 
 secured: "bXFJqaNnUsYbJFSKNIBUwuIJ+xUsItvnijag7lYslswcc3TeL06Nng/yeMn04BxjAJepLIsuvPDbfiw+I8/F9NOI3VGqlEz7nIkpdts6u8gc9Ggkkeu8foXrshUKchTDug/uDkettbW+gWZKmCCSjbtquqVjrHM8yHXpHR6Ig10f5c9duIL6eD4Slcvp2murupzaKZB0wTz5piwQORc8+qGk4Cjug/iuYnLPqk8k93aa6aj6dur40V00KME43SyVjPOKb4m7YaF7YWY+7TyZyGqifGgIGrUBzhbqGWsFgzLf5O9NRCntAL9WOokEg1QVuoaJnlPiWG/FBaPC0fwTOw==;o3SuRHqbyM8j/q6Mves5cw=="
 ---

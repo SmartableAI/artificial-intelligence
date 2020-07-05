@@ -1,21 +1,25 @@
 ---
 category: news
 title: "Enabling Technologies to Offer Three New Proactive, Painless, and Complimentary Security Assessments"
-excerpt: "Enabling Technologies has recognized that attackers are increasing their attacks while organizations are working from home."
-publishedDateTime: 2020-06-29T04:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/06/n16422169/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16422169"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16422169"
+excerpt: "Enabling Technologies has recognized that attackers are increasing their attacks while organizations are working from home. To as"
+publishedDateTime: 2020-06-29T04:08:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "mRoeZtDSHp6eB1Z6GGPw9uuA+Bl9fN2KA8VbcJ80aUnFHpU8AffCDI83GFWXNs6aYedagT3L0yW5O9HGM/rqrf1+DhKsbYa+UrY2OhtDLsb7EwRMeRrdDuWqbuJAJ6i9Z3PoVEvLdmO1RvRdgssJlJ4jM7Nu+Lu1GZQp68gKwHMnslFaoE1dKtngGFCbj6Ox5sEjVKdcOOZDyn+JCiZJl4iq2SPfvwRGSzbCeA7ed64X33MZhoo2HPLCNQwqoAq7DD5ApNrC3QfgbYsmrMwm6R/zlkV+J8QY3zQntcOkZBeuBHlZpt5i8zkJjlDwLC9+OWN0F1YwG0s4wZ3K9N0HHA==;IZaxc9ZPZIbalvzhBVHF1A=="
+secured: "l1ORRIBJCf5eEpMQTjnyqSof3Ur44kOVVCCM5SAGIkBiFqeYKU4dXMDWgREqGro95vH7SH2uyCKad/Uhr2mmu8mdOLpMT9Xj6EJ9irytXt7C6pq4iJWj/VpXHki1U75ZF9ju39f7W8eDqbUcyaDxu/7tM4bcwv1AAefrF76P6ncVRleKtPcesLu9goNGJ8rl0NW7CPAE+hQiIdgQKxhhnAdqVft1sqIkSuN4hDWaa51rKIwKnkNTzKSigR26XtcLRr2vX1HodMuH8RhEWjvajXi/E7+0scLnT2IODeDNMcn0p7pFJ4ZdT/W43nLc61EJuxoBhPeB78k18iTKD44C+g==;JOGJgoCZ2g241J4fptsI2Q=="
 ---
 
