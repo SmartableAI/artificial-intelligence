@@ -2,6 +2,53 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-12-scientists-say-satellite-imagery-and-machine-learning-advances-will-boost-african-consumer-data.md",
+      "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
+      "excerpt": "Scientists were able predict consumer data variation down to the village or neighborhood level with up to 55% accuracy and assets wealth up to 75% accuracy.",
+      "webUrl": "https://qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/06/sts058-77-083_orig-cover-e1591977652161.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 868,
+          "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/amp/",
+      "publishedDateTime": "2020-06-12T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-deep-learning-neural-networks-market-is-booming-worldwide-ibm-neural-technologies-aws.md",
       "title": "Deep Learning Neural Networks Market is Booming Worldwide | IBM, Neural Technologies, AWS",
       "excerpt": "A special chapter in the study presents Impact Analysis of COVID-19 on Global Deep Learning Neural Networks Market along with tables and graphs related to various country and segments showcasing impact on growth trends.",
@@ -1231,54 +1278,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans.md",
-      "title": "WWF-Indonesia using machine learning to save critically endangered orangutans",
-      "excerpt": "Indonesia . World Wildlife Fund for Nature Indonesia (WWF-Indonesia) is on a mission to save critically endangered orangutans in In",
-      "webUrl": "https://www.zdnet.com/article/wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/",
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/05/bd8f31fe-d3da-4b10-a19d-1b9c480d6f3b/wwf-indonesia-orangutans-mum-and-baby.jpg",
-          "width": 5596,
-          "height": 3712,
-          "title": "WWF-Indonesia using machine learning to save critically endangered orangutans",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/",
-      "publishedDateTime": "2020-06-04T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
