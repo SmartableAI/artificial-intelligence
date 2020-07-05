@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T11:08:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027-2020-07-01"
 type: article
 quality: 64
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Software System Market Analysis by Manufacturers, Regions, Type and Application to 2024"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 04, 2020 (The Expresswire) -- The “Artificial Intelligence Software System Market” report entitled “Global Artificial Intelligence Software System Market Growth ..."
+    publishedDateTime: 2020-07-04T18:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-system-market-analysis-by-manufacturers-regions-type-and-application-to-2024-2020-07-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

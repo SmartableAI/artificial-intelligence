@@ -2,6 +2,52 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-05-28-ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic.md",
+      "title": "AI algorithms are puzzled by our online behavior during the coronavirus pandemic",
+      "excerpt": "At some point, every one of us has had the feeling that online applications like YouTube, Amazon, and Spotify seem to know us better than ourselves, recommending content that we like even before we say it.",
+      "webUrl": "https://thenextweb.com/neural/2020/05/28/ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic-syndication/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-32-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "AI algorithms are puzzled by our online behavior during the coronavirus pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/05/28/ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/28/ai-algorithms-are-puzzled-by-our-online-behavior-during-the-coronavirus-pandemic-syndication/amp/",
+      "publishedDateTime": "2020-05-28T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-greyparrot-bags-22m-seed-to-scale-its-ai-for-waste-management.md",
       "title": "Greyparrot bags $2.2M seed to scale its AI for waste management",
       "excerpt": "London-based Greyparrot, which uses computer vision AI to scale efficient processing of recycling, has bagged £1.825 million (~$2.2M) in seed funding, topping up the $1.2M in pre-seed funding it had raised previously.",
@@ -1195,44 +1241,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-microsoft-build-2020-colour-me-azure.md",
-      "title": "Microsoft Build 2020: Colour me Azure",
-      "excerpt": "The Microsoft Build conference is developer heaven. It’s also a great place to learn what’s coming for the rest of us in the Microsoft world, and this year’s conference, virtual though it was, was no different.",
-      "webUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/05/azure-regions-620x250.png",
-          "width": 620,
-          "height": 250,
-          "title": "Microsoft Build 2020: Colour me Azure",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330?amp=1",
-      "publishedDateTime": "2020-05-27T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

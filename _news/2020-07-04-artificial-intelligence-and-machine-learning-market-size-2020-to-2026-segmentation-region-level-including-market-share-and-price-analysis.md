@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Software System Market Analysis by Manufacturers, Regions, Type and Application to 2024"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 04, 2020 (The Expresswire) -- The “Artificial Intelligence Software System Market” report entitled “Global Artificial Intelligence Software System Market Growth ..."
+    publishedDateTime: 2020-07-04T18:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-system-market-analysis-by-manufacturers-regions-type-and-application-to-2024-2020-07-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2020 | Industry Analysis and Forecasts to 2025"
     excerpt: "This report provides in depth study of “Natural Language Processing (NLP) in Healthcare and Life Sciences Market” using SWOT analysis i.e. Strength, Weakness, Opportunities an"
     publishedDateTime: 2020-07-03T23:21:00Z

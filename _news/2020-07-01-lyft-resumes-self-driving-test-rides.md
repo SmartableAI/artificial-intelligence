@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16464248"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16464248"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     title: "Lyft Resumes Self-Driving Test Rides"
 
 related:
-  - title: "Lyft’s self-driving test vehicles are back on public roads in California"
-    excerpt: "Lyft’s self-driving vehicle division has restarted testing on public roads in California, several months after pausing operations amid the COVID-19 pandemic. Lyft’s Level 5 program said Tuesday some of its autonomous vehicles are back on the road in Palo Alto and at its closed test track."
-    publishedDateTime: 2020-07-01T00:46:00Z
-    webUrl: "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/"
-    ampWebUrl: "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 73
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/07/lyft-level-5-self-driving.jpg?w=1024"
-        width: 1024
-        height: 671
-        isCached: true
   - title: "Lyft’s self-driving test vehicles are back on public roads in California – ClearTipsNews"
     excerpt: "Lyft's The Autonomous Vehicles Division has resumed testing on public roads in California several months after an operational halt in the midst of the"
     publishedDateTime: 2020-07-02T06:01:00Z
@@ -84,6 +68,15 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
+  - title: "Video: Amazon acquires self-driving car startup Zoox"
+    excerpt: "Amazon said it will lead Zoox as a standalone business to drive the mission toward developing self-driving vehicles. In the video, Zoox demonstrates a one-hour fully autonomous dr"
+    publishedDateTime: 2020-07-02T12:52:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15380/video-amazon-acquires-self-driving-car-startup-zoox"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "LQGFA1fMMiu99KgT4Qxfw56LfjzXV5Mjd6MTlAY2Emj/WJ276rMC5Kutk9XHcCKZOb/GnZ15ybkFhJPKSIhzvnrQXCrZ25wAyauYKjQTqJ4fBRGHvlf7VwzhEVU+l8n1HMOjvotzT10cZWyV4ZrCYhUO2GlViE1XalJadKuu7gn9UE4e3S6B/Yih8WJFQlbVx58mgtvKjB+YohAHUlrhRhZdJ1YyTVoRRBK+iqiroDkqEcWf1ZjVG9oJ4GClv8kSPfxRGVrOZ/cN+o/bKX+HEu+H8wc/NWNougngSVfa6+jR3rAWOWF5YG/NftY9hFdQ9tD1vUU9KV9SIQVBZcHiILbs0XcDIvQTRLb2wltEWWeqQS2IIhgr3eb6BpEB8KXOhXsTA2cGTRXCup83FWd9SeQ6YvnaEkRqSYnX9QOAqrCufp/PG+qqHjFZd6zxIjAKGGwq5DUaFAdoIEI45bhgHeETkR2FkgrvH7HrvnS8dKnK6bxZTqtmb4ERdFLn6o3FiDow0yNWKG5tnMs68ENwPQ==;RmoeeD3PHK45ZQpxAEu8TA=="
 ---

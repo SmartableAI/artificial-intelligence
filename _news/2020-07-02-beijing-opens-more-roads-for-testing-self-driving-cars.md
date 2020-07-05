@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Lyft’s self-driving test vehicles are back on public roads in California"
-    excerpt: "Lyft’s self-driving vehicle division has restarted testing on public roads in California, several months after pausing operations amid the COVID-19 pandemic. Lyft’s Level 5 program said Tuesday some of its autonomous vehicles are back on the road in Palo Alto and at its closed test track."
-    publishedDateTime: 2020-07-01T00:46:00Z
-    webUrl: "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/"
-    ampWebUrl: "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 73
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/07/lyft-level-5-self-driving.jpg?w=1024"
-        width: 1024
-        height: 671
-        isCached: true
   - title: "Lyft Resumes Self-Driving Test Rides"
     excerpt: "Lyft Inc. (NYSE: LYFT) has resumed testing of its self-driving technology on public roads in California, TechCrunch reported Tuesday. An employee-exclusive pilot program in Palo Alto remains paused, according to TechCrunch. The test rides conducted by its ..."
     publishedDateTime: 2020-07-01T14:14:00Z
@@ -82,6 +66,15 @@ related:
         width: 596
         height: 397
         isCached: true
+  - title: "Video: Amazon acquires self-driving car startup Zoox"
+    excerpt: "Amazon said it will lead Zoox as a standalone business to drive the mission toward developing self-driving vehicles. In the video, Zoox demonstrates a one-hour fully autonomous dr"
+    publishedDateTime: 2020-07-02T12:52:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15380/video-amazon-acquires-self-driving-car-startup-zoox"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "R1GGzfEVUhgYidE6jGSMleyswpqJ25WWBi7Po1Pz9MgbUOEBgYRXkcOc119PubGj/2dg6lZ9g6XCEKLgi91X7ed2oQZrfSuSpfBiX52+kww/zEFa9VBcaeg7sikaoB+uDLbjtu7vLxwfWkjKnxoxGp2yaRjPZsGiuK+Jgm/aDDm/QqgsQoft6VNtc73rbI358fL/CYidtYQgcre8nsNWWuM3w749q8PnY1Lb/W3fZLbJ7MwfPpu9FKAtI6dIW3tegdHLWsuIFBzzYcjBnItdnwvEjdH3VDXwv7IsEdoICpm3DlIbU21G8q8b4WQcuqGqPJY715pQZ5RTdLyh1CFE1w==;nQX3Ffenps4K8jAeDfleog=="
 ---

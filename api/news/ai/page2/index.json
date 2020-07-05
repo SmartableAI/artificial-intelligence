@@ -2,31 +2,40 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-07-02-huawei-mate-40-pro-could-have-3d-face-recognition-for-payments.md",
-      "title": "Huawei Mate 40 Pro Could Have 3D Face Recognition For Payments",
-      "excerpt": "The Huawei Mate 40 Pro is rumoured to come with 3D face recognition for payments as reported by Gizmochina. The world's largest smartphone maker is",
-      "webUrl": "https://www.androidheadlines.com/2020/07/huawei-mate-40-pro-could-have-3d-face-recognition-for-payments.html",
+      "path": "_news/2020-07-02-covid-kg-uses-ai-to-scan-thousands-of-studies-to-answer-doctors-coronavirus-questions.md",
+      "title": "COVID-KG uses AI to scan thousands of studies to answer doctors’ coronavirus questions",
+      "excerpt": "In a new paper, researchers from Columbia, Brandeis, Darpa, UCLA, UIUC, and elsewhere describe an AI framework that answers questions about COVID-19.",
+      "webUrl": "https://venturebeat.com/2020/07/02/covid-kg-knowledge-graph-research-system/",
       "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2020/03/Huawei-Logo-Red-AH-Resized-2020.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Huawei Mate 40 Pro Could Have 3D Face Recognition For Payments",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "COVID-KG uses AI to scan thousands of studies to answer doctors’ coronavirus questions",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2020/07/huawei-mate-40-pro-could-have-3d-face-recognition-for-payments.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/huawei-mate-40-pro-could-have-3d-face-recognition-for-payments.html/amp",
-      "publishedDateTime": "2020-07-02T09:04:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2020/07/02/covid-kg-knowledge-graph-research-system/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/02/covid-kg-knowledge-graph-research-system/amp/",
+      "publishedDateTime": "2020-07-02T09:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -35,7 +44,6 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -128,7 +136,7 @@
       "title": "My Invisalign app uses machine learning and facial recognition to sell the benefits of dental work",
       "excerpt": "Align Technology's Chief Digital Officer Sreelakshmi Kolli is using machine learning and DevOps tactics to power the company's digital transformation. Kolli led the cross-functional team that developed the latest version of the company's My Invisalign app.",
       "webUrl": "https://www.techrepublic.com/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/",
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1041,7 +1049,7 @@
       "title": "Self-driving cars: Will buyers come if you just build them? Maybe",
       "excerpt": "The first self-driving cars began to appear in the 1980s, so why aren't we all riding in them by now? Adoption levels of autonomous vehicles and other types of robotics and automation was a research project recently undertaken by MyPlanet,",
       "webUrl": "https://www.techrepublic.com/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {

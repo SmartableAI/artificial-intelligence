@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T02:47:00Z
 webUrl: "https://www.crn.com.au/news/what-you-need-to-know-about-aws-space-foray-549937"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 900
     isCached: true
     title: "What you need to know about AWS’ space foray"
-
-related:
-  - title: "5 Big Things To Know About AWS’ Space Foray"
-    excerpt: "AWS is ratcheting up its aerospace and satellite solutions business with a new dedicated division led by the retired two-star Air Force general who previously was in charge of planning for the U.S. Sp"
-    publishedDateTime: 2020-06-30T23:38:00Z
-    webUrl: "https://www.crn.com/news/cloud/5-big-things-to-know-about-aws-space-foray"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/025e-0fc75f79e66f-b6ba9d7ee667-1000/aws-booth.jpg"
-        width: 610
-        height: 457
-        isCached: true
 
 secured: "X9ZP5eO0REinEGWp0pcSl6AWuw6S/yMC1pyZJAtqOVEa/xwfvv7U9rBG/hynY7Pg9uHWvrHTM4X8unfYLmBkuacv6BVnnCLnYuqaEtQJ4fSamgWnDbMWlWUhnGfH552udWUEu91bnMpbY0E9yKckHseq6o0uho6NMtmDLVZZ5LJY3xsF8oF15ji23KF5Qg5lPAO4WMP2RCh1x8FX5iebC5P0W6E2p4zXcSdGEgoeX7lLBjFNZTn6tl7MWwSooebapJyOCGUIZ2bzNKGxdwWFaeZ93hfK9vMR+TskAfvU0zPvzaBxyzqu7RBv+DShnlBbKiW1eOcFTocTTQtZ0a2xYQ==;gWWcNhpW20/w2mPfY3Sc1w=="
 ---

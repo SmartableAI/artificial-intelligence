@@ -2,6 +2,53 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-06-18-physical-therapy-software-market-to-record-a-robust-growth-rate-for-the-covid-19-period-impact-covid-19.md",
+      "title": "Physical Therapy Software Market to Record a Robust Growth Rate for the COVID-19 Period (Impact COVID-19)",
+      "excerpt": "Be it artificial intelligence (AI), internet of things (IoT) or digital reality, the increased rate of technological advancements around the world is directly proportional to the growth of global Physical Therapy Software Market. In the next two years ...",
+      "webUrl": "https://www.marketwatch.com/press-release/physical-therapy-software-market-to-record-a-robust-growth-rate-for-the-covid-19-period-impact-covid-19-2020-06-18",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Physical Therapy Software Market to Record a Robust Growth Rate for the COVID-19 Period (Impact COVID-19)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-17T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-worker-upskilling-and-innovation-a-key-to-working-with-robots-artificial-intelligence.md",
       "title": "Worker upskilling and innovation a key to working with robots, artificial intelligence",
       "excerpt": "Upskilling workers with vital innovation capabilities is key for the future employment landscape, according to a study by Flinders University Professor Giselle Rampersad which also found that for workers of the future to thrive with robots and artificial intelligence,",
@@ -1040,53 +1087,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids.md",
-      "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
-      "excerpt": "According to Russian business daily Vedomosti, a new facial recognition system coming to every school in the country has been ominously named \"Orwell.\"",
-      "webUrl": "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/people-of-color-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/amp/",
-      "publishedDateTime": "2020-06-17T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -128,15 +128,6 @@ related:
         width: 1151
         height: 622
         isCached: true
-  - title: "BHP jobs on offer to build self-driving trucks"
-    excerpt: "THE rollout of 34 autonomous mining trucks at BHP Mitsubishi Alliance’s Central Queensland mine will create 56 new jobs and a $35 million windfall for regional businesses."
-    publishedDateTime: 2020-07-01T01:00:00Z
-    webUrl: "https://www.couriermail.com.au/business/bhp-jobs-on-offer-to-build-selfdriving-trucks/news-story/a7399310218385c62f043fa68c9d4710"
-    type: article
-    provider:
-      name: The Courier-Mail
-      domain: couriermail.com.au
-    quality: 4
   - title: "Four large fleets set to test TuSimple self-driving tech in Southwest"
     excerpt: "Four large fleets to test TuSimple autonomous truck tech Three major for-hire carriers and a large private fleet have partnered with autonomous truck developer TuSimple to test the company’s self-driving technologies in real-world operations over the next four years."
     publishedDateTime: 2020-07-03T22:21:00Z
