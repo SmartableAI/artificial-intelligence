@@ -75,38 +75,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Tech worker group calls for facial recognition ban citing 'technical and ethical' reasons"
-    excerpt: "The Association for Computing Machinery said the technology could not be reliably used in a way that wouldn’t adversely affect vulnerable populations."
-    publishedDateTime: 2020-06-30T20:50:00Z
-    webUrl: "https://www.nbcnews.com/tech/security/tech-worker-group-calls-facial-recognition-ban-citing-technical-ethical-n1232591"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1232591"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1232591"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 80
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202006/ott_now_mich_200626_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "This Bill Will Ban Government Use of Facial Recognition Tech"
-    excerpt: "The Facial Recognition and Biometric Technology Moratorium Act just introduced into Congress aims to ban federal government from using biometric tech."
-    publishedDateTime: 2020-06-30T20:45:00Z
-    webUrl: "https://nerdist.com/article/banning-facial-recognition-technology/"
-    ampWebUrl: "https://nerdist.com/article/banning-facial-recognition-technology/?amp"
-    cdnAmpWebUrl: "https://nerdist-com.cdn.ampproject.org/c/s/nerdist.com/article/banning-facial-recognition-technology/?amp"
-    type: article
-    provider:
-      name: Nerdist
-      domain: nerdist.com
-    quality: 61
-    images:
-      - url: "https://nerdist.com/wp-content/uploads/2020/06/Facial-recognition-ban-bill-feature-image-06302020.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Easthampton passes municipal ban on facial recognition tech"
     excerpt: "An ACLU-backed bill currently before legislators on Beacon Hill would establish a statewide moratorium on government use of face surveillance. Easthampton is the latest town to enact a ban on gov't use of facial-recognition technologies."
     publishedDateTime: 2020-07-02T14:48:00Z

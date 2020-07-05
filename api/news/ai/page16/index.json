@@ -2,6 +2,214 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-06-18-algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs.md",
+      "title": "Algoriddim’s Djay Pro AI can transfer vocals and rhythms between songs",
+      "excerpt": "Algoriddim suggests that the feature relies on advanced AI chip features found in Apple’s iOS devices, including the A12Z Bionic in the 2020 iPad Pro. Algoriddim is debuting the AI feature with ...",
+      "webUrl": "https://venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/",
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/djayai-2.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Algoriddim’s Djay Pro AI can transfer vocals and rhythms between songs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/amp/",
+      "publishedDateTime": "2020-06-18T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19.md",
+      "title": "IBM launches Watson Works aimed at managing work's new normal amid COVID-19",
+      "excerpt": "IBM launched Watson Works, a set of models and applications designed to manage workspaces, people and facilities as employees return to the office during the COVID-19 pandemic. Wa",
+      "webUrl": "https://www.zdnet.com/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/24/b6e37c98-9f98-43bb-973e-ad26833fda56/thumbnail/1200x675/48665c9939ec4476228e8e8c28322098/qualcomm.png",
+          "width": 1200,
+          "height": 675,
+          "title": "IBM launches Watson Works aimed at managing work's new normal amid COVID-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
+      "publishedDateTime": "2020-06-18T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai.md",
+      "title": "Kaia Health raises $26 million to help manage chronic pain with AI",
+      "excerpt": "Kaia Health, a startup developing an AI-powered app to help manage -- and reduce -- chronic pain, has raised $26 million.",
+      "webUrl": "https://venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/771b40a0-8596-4e45-ac82-8cdd7015a2b2-e1592189066236.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Kaia Health raises $26 million to help manage chronic pain with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/amp/",
+      "publishedDateTime": "2020-06-18T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-ai-in-computer-vision-market-covid-19-impact-2020-future-development-manufacturers-trends-share-size-and-forecast.md",
+      "title": "AI In Computer Vision Market (COVID-19 Impact) 2020- Future Development, Manufacturers, Trends, Share, Size and Forecast",
+      "excerpt": "Global AI In Computer Vision Market Size, Status and Forecast 2020-2026 Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Global AI In ...",
+      "webUrl": "https://www.openpr.com/news/2076909/ai-in-computer-vision-market-covid-19-impact-2020-future",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2076909/ai-in-computer-vision-market-covid-19-impact-2020-future",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2076909/ai-in-computer-vision-market-covid-19-impact-2020-future",
+      "publishedDateTime": "2020-06-18T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-microsoft-announces-azure-machine-learning-courses-on-udacity.md",
+      "title": "Microsoft Announces Azure Machine Learning Courses on Udacity",
+      "excerpt": "Microsoft and Udacity are offering an introductory Azure Machine Learning course and a scholarship to a more complex course.",
+      "webUrl": "https://winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2020/06/Microsoft-Azure-Udacity-Microsoft.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Microsoft Announces Azure Machine Learning Courses on Udacity",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/?amp",
+      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/?amp",
+      "publishedDateTime": "2020-06-18T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-djay-pro-uses-ai-to-turn-songs-into-acapellas-and-instrumentals-on-the-fly.md",
       "title": "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly",
       "excerpt": "Algoriddim leveraged AI for an update to its djay Pro software a couple years back, improving its Automix capability. It seems the company has been developing some more interesting uses since then with today’s launch of Neural Mix,",
@@ -1054,224 +1262,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-huamis-next-wearable-ai-chip-huangshan-2-scheduled-for-mass-production-in-q4-2020-50-energy-saved-with-faster-atrial-fibrillation-detection.md",
-      "title": "Huami's Next Wearable AI Chip Huangshan-2 Scheduled for Mass Production in Q4, 2020, 50% Energy Saved with Faster Atrial Fibrillation Detection",
-      "excerpt": "The Global Top 5 wearable brand[1], Amazfit's mother company, Huami (NYSE: HMI) , made its second wearable AI chip Huangshan-2 public on",
-      "webUrl": "https://www.prnewswire.com/ae/news-releases/huami-s-next-wearable-ai-chip-huangshan-2-scheduled-for-mass-production-in-q4-2020-50-energy-saved-with-faster-atrial-fibrillation-detection-880075794.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1192309/Wearable_Device_Chip.jpg?p=facebook",
-          "width": 3457,
-          "height": 1808,
-          "title": "Huami's Next Wearable AI Chip Huangshan-2 Scheduled for Mass Production in Q4, 2020, 50% Energy Saved with Faster Atrial Fibrillation Detection",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show.md",
-      "title": "Microsoft pushed its facial recognition to federal agencies, emails show",
-      "excerpt": "The released documents come a week after Microsoft announced it would stop selling facial recognition to police.",
-      "webUrl": "https://www.cnet.com/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/",
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/2Q_ri_ZUN6kPKtzEKdXD3Zr0LpA=/756x567/2019/01/28/1f3bfd0e-d868-48de-a97a-eb86ec05927b/microsoft-logo-msft-1090.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Microsoft pushed its facial recognition to federal agencies, emails show",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/",
-      "publishedDateTime": "2020-06-17T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says.md",
-      "title": "Amazon owes answers on facial recognition moratorium, lawmaker says",
-      "excerpt": "A House representative mistaken by Rekognition as a criminal is questioning CEO Jeff Bezos about Amazon's one-year pause on facial recognition.",
-      "webUrl": "https://www.cnet.com/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/LRqa-J9lGENDIqzrmO3X_JuHePE=/756x567/2020/01/17/24f77466-4cd0-4018-b436-90846e478c80/amazon-ces-2020-booth-2.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Amazon owes answers on facial recognition moratorium, lawmaker says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
-      "publishedDateTime": "2020-06-17T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-deep-learnings-climate-change-problem.md",
-      "title": "Deep Learning’s Climate Change Problem",
-      "excerpt": "The “bigger is better” ethos that currently dominates the AI research agenda threatens to inflict major environmental damage in the years ahead.",
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea37fddb3b680006a1e6bc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1024%26cropY1%3D50%26cropY2%3D626",
-          "width": 1024,
-          "height": 577,
-          "title": "Deep Learning’s Climate Change Problem",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/amp/",
-      "publishedDateTime": "2020-06-17T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-chinas-tencent-to-use-facial-recognition-to-curb-young-video-gamers.md",
-      "title": "China's Tencent to use facial recognition to curb young video gamers",
-      "excerpt": "Chinese tech behemoth Tencent has begun to use facial recognition to prevent minors from spending large sums of money while playing endless hours of video games.",
-      "webUrl": "https://www.upi.com/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/9361592407529/2020/1/3a6ff9b53599ae38e5b383e93adcfc17/v1.5/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers.jpg",
-          "width": 800,
-          "height": 532,
-          "title": "China's Tencent to use facial recognition to curb young video gamers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
-      "publishedDateTime": "2020-06-17T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

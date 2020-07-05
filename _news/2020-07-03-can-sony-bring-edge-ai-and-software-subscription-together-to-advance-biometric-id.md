@@ -5,8 +5,8 @@ excerpt: "The COVID-19 pandemic has created an urgent need in the biometrics mar
 publishedDateTime: 2020-07-03T17:31:00Z
 webUrl: "https://www.biometricupdate.com/202007/can-sony-bring-edge-ai-and-software-subscription-together-to-advance-biometric-id"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/18162008/Sony.jpg"

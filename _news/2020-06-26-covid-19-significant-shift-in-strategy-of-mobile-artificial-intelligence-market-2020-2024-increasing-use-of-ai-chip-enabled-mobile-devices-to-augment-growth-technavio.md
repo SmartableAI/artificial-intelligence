@@ -1,9 +1,9 @@
 ---
 category: news
 title: "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio"
-excerpt: "Technavio has announced its latest market research report titled Global Mobile Artificial Intelligence Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the mobile artificial intelligence market and it is poised to grow by USD 13."
-publishedDateTime: 2020-06-26T17:30:00Z
-webUrl: "https://www.businesswire.com/news/home/20200626005284/en/COVID-19-Significant-Shift-Strategy-Mobile-Artificial-Intelligence"
+excerpt: "Buy 2 Technavio reports and get the third for free. View market snapshot before purchasing Increasing use of AI chip-enabled mobile devices has been instrumental in driving the growth of the market. Technavio's custom research reports offer detailed ..."
+publishedDateTime: 2020-06-26T17:38:00Z
+webUrl: "https://www.businesswire.com/news/home/20200626005284/en/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio"
 
-secured: "yDEwCiHaiwQiso3sXmoUn3PJrnukbN9lmIzzcNe5zSiWWfZGOrUjUUY5FHU4b7FJeEgC6PrSKf1NEiLf91pAEBdkleAHQudRLaCV0/uy14whmv6GOJowa5tTPESbaQVBIWu8dzsrMG6h/pZhpoZ+YzbS+91F7nfMnFKAR5jnU6si8kLNHetmnfMwCnX9DhNz8LdSdcHDEIy3Tzub376ic8lXuprebUZKdSDb57Q+SvOj8GttGp6I6ToFGV0Nch/XwjDzOHxFOw6frf2eWxWWiU42u6wl7DHUjj6ICSEnvVPUimr1MSzIZnlYg6ytv7GxGyTrKUNOtnfarNo9musId0D8ZrM7jNpGEVs7MPvVqDnmOLU12tLKFhadWb6Eud5KCmuiLH5Bd1KhUi56qtSYSUaOe+KDZrS1y9IUcrmwkxWFAtE3q7xzcOuCEWFQm7FnRzm4KITJ72SEajeyKxDplM1U/XgvH7+lwTrOztxGt+18lHcz5wKtYtAZV32hO043deK+uHrdL3bsaoSRGH9PQA==;tioibXj0daEKee+5vFAMXg=="
+secured: "s7gyK95g5+n4FEaBkqPqM3IpvZvLAJLC/xC/fFNBr6ZpCnBccMxBJthkF3cUzvrHzxzANGkbzzFkW19Apu/40vZsR2Ody6FDGx+rEBR4F5MmUHtksTmTO1t5dJZK/FswCPNlh1lilIIJjA8sIDKdzWA+1kPN5PdPH5eAOaXhG7ohOrsYDUQDprXByzMCJYkxj9CAVhyMplFHWD6eBYb6EzrvK72CBfU/EoSQ0BoAzqSMND7i8m9l27Fa1+P7ZQi2NkNFlw8dEXM2N/iDfFiSawbA+PgibLlWEqtW5S44+t3+efjCdS+YItJ/ZAI0k6d0VpYOGg0FkK3EjVr/L7+COQ==;Tp9ZeU47qim5LwntLY0//w=="
 ---
 

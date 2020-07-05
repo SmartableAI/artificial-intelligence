@@ -2,6 +2,195 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-06-23-google-brings-grammar-suggestions-to-spanish-google-docs.md",
+      "title": "Google brings grammar suggestions to Spanish Google Docs",
+      "excerpt": "Google announced Tuesday that it's expanded its grammar suggestions feature in Google Docs to support Spanish. Google touts its assistive writing features such as Smart Compose and grammar suggestions as helping to remove the roadblocks to getting your ideas out faster and more accurately while writing in Google Docs.",
+      "webUrl": "https://www.cnet.com/news/google-brings-grammar-suggestions-to-spanish-google-docs/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/MFLT6rx2GFLOe1gR08eDHpmjdcA=/756x567/2019/09/10/2e5b33b9-5b16-46a4-89d0-b7251ace8e71/google-logo-5.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Google brings grammar suggestions to Spanish Google Docs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-brings-grammar-suggestions-to-spanish-google-docs/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-brings-grammar-suggestions-to-spanish-google-docs/",
+      "publishedDateTime": "2020-06-23T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars.md",
+      "title": "Lyft is using data from its ride-share drivers to develop self-driving cars",
+      "excerpt": "Lyft is using data collected from drivers on its ride-hailing app to accelerate the development of self-driving cars. Lyft’s Level 5 self-driving car program is using the data to build 3D maps ...",
+      "webUrl": "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/",
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/lyft-maps.gif",
+          "width": 600,
+          "height": 338,
+          "title": "Lyft is using data from its ride-share drivers to develop self-driving cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/amp/",
+      "publishedDateTime": "2020-06-23T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-ai-continues-to-flourish-in-business-despite-the-pandemic-and-a-turbulent-economy.md",
+      "title": "AI continues to flourish in business despite the pandemic and a turbulent economy",
+      "excerpt": "Organizations are betting on artificial intelligence to help them stay resilient, increase efficiencies, and innovate, Appen Limited's 2020 State of AI report finds.",
+      "webUrl": "https://www.techrepublic.com/article/ai-continues-to-flourish-in-business-despite-the-pandemic-and-a-turbulent-economy/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/23/2581bf0e-dcb7-4cfe-b9c6-78c5711f89d1/resize/1200x/3156ee58dcf5bd99123ed6f18c925f5e/istock-1236682035.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI continues to flourish in business despite the pandemic and a turbulent economy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-continues-to-flourish-in-business-despite-the-pandemic-and-a-turbulent-economy/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-continues-to-flourish-in-business-despite-the-pandemic-and-a-turbulent-economy/",
+      "publishedDateTime": "2020-06-23T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-get-nearly-800-worth-of-beginner-friendly-ai-dev-training-for-just-35.md",
+      "title": "Get nearly $800-worth of beginner-friendly AI dev training for just $35",
+      "excerpt": "Experts have long believed that the development of AI technologies would jump by leaps and bounds in ... If you want to be a part of that future, you have to start training now. And, the ultra-affordable Ultimate Artificial Intelligence Scientist ...",
+      "webUrl": "https://www.pcworld.com/article/3563752/get-nearly-800-worth-of-beginner-friendly-ai-dev-training-for-just-35.html",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/06/sale_29690_article_image-100849791-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Get nearly $800-worth of beginner-friendly AI dev training for just $35",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3563752/get-nearly-800-worth-of-beginner-friendly-ai-dev-training-for-just-35.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3563752/get-nearly-800-worth-of-beginner-friendly-ai-dev-training-for-just-35.amp.html",
+      "publishedDateTime": "2020-06-23T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-qumulo-leads-customers-to-the-cloud-with-launch-of-qumulo-shift-for-amazon-web-services-s3.md",
       "title": "Qumulo Leads Customers to the Cloud with Launch of Qumulo Shift for Amazon Web Services S3",
       "excerpt": "Qumulo, the leading provider of cloud file data services, announced today the l (AWS) S3, the first-ever native cloud service that enables organizations to move file data from any Qumulo on-prem or public cloud cluster into Amazon Simple Storage Service (Amazon S3) and transform that data to object in an open and non-proprietary format.",
@@ -456,6 +645,35 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-adastra-and-ataccama-to-help-organizations-accelerate-their-fight-against-covid-19-offering-data-governance-acceleration-program-on-microsoft-azure.md",
+      "title": "Adastra and Ataccama to Help Organizations Accelerate Their Fight Against COVID-19, offering Data Governance Acceleration Program on Microsoft Azure",
+      "excerpt": "TORONTO, June 23, 2020 /CNW/ - Adastra and Ataccama announced that they will help organizations fight COVID-19 by offering a Data Governance Acceleration Program – implementing AI-driven data governance powered by Microsoft Azure - at no cost to customer ...",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/n16348628/adastra-and-ataccama-to-help-organizations-accelerate-their-fight-against-covid-19-offering-data-g",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16348628",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16348628",
+      "publishedDateTime": "2020-06-23T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1061,223 +1279,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-sdl-launches-ai-enabled-online-translation-service.md",
-      "title": "SDL launches AI-enabled online translation service",
-      "excerpt": "SDL has launched SLATE. Smart Language Translation for the Enterprise a new self-service platform delivers a transformed experience in online translation",
-      "webUrl": "https://www.enterprisetimes.co.uk/2020/06/23/sdl-launches-ai-enabled-online-translation-service/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/06/german-64270_1280-2.jpg",
-          "width": 728,
-          "height": 410,
-          "title": "SDL launches AI-enabled online translation service",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetimes.co.uk",
-        "domain": "enterprisetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-c3ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research.md",
-      "title": "C3.ai's Digital Transformation Institute issues awards for data-driven COVID-19 research",
-      "excerpt": "The research projects looked at COVID-19 as well as its impact on housing precarity, eviction and inequality as well as the role of social determinants on health and using data science to detect and understand transmission.",
-      "webUrl": "https://www.zdnet.com/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/",
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/23/02428142-0b66-4a7f-bc5f-747fba9b6ecc/thumbnail/1200x675/65b00467acc2a9c0f0f617b40fbc3806/3-2.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "C3.ai's Digital Transformation Institute issues awards for data-driven COVID-19 research",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/",
-      "publishedDateTime": "2020-06-22T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-folding-based-compression-of-point-cloud-attributes.md",
-      "title": "Folding-based compression of point cloud attributes",
-      "excerpt": "Folding-based compression of point cloud attributes - mauriceqch/pcc_attr_folding",
-      "webUrl": "https://github.com/mauriceqch/pcc_attr_folding",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://repository-images.githubusercontent.com/222734193/0b922680-b240-11ea-849c-66c8d6b4652b",
-          "width": 1280,
-          "height": 552,
-          "title": "Folding-based compression of point cloud attributes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-ai-researchers-condemn-predictive-crime-software-citing-racial-bias-and-flawed-methods.md",
-      "title": "AI researchers condemn predictive crime software, citing racial bias and flawed methods",
-      "excerpt": "At the time of writing, more than 50 employees working on AI at companies like Facebook, Google and Microsoft had signed on to an open letter opposing the research and imploring its publisher to ...",
-      "webUrl": "https://techcrunch.com/2020/06/23/ai-crime-prediction-open-letter-springer/",
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1236590500.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "AI researchers condemn predictive crime software, citing racial bias and flawed methods",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/23/ai-crime-prediction-open-letter-springer/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/ai-crime-prediction-open-letter-springer/amp/",
-      "publishedDateTime": "2020-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-applying-for-technical-roles.md",
-      "title": "Applying for technical roles",
-      "excerpt": "We answer the Women in Machine Learning community's questions about applying for a job in industry.",
-      "webUrl": "https://deepmind.com/blog/article/Women-in-machine-learning-A-look-into-the-technical-interview-process",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/a7e8Kag7pYvvx5kOvdSuSg80YBVRh9ROA_1iPRqIHXauAiO6MJCdpnSt_54v6Tm7lHiymfla0JyVjJYlAPCYlZ_zz6WQFFYPa-ofaQ",
-          "width": 512,
-          "height": 288,
-          "title": "Applying for technical roles",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

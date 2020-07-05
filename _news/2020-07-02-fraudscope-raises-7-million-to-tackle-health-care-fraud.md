@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-02T11:19:00Z
 webUrl: "https://www.wsj.com/articles/fraudscope-raises-7-million-to-tackle-health-care-fraud-11593682200"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     title: "FraudScope Raises $7 Million to Tackle Health-Care Fraud"
 
 related:
-  - title: "Overjet Raises $7.85 Million to Improve Dental Care Using Artificial Intelligence"
-    excerpt: "Overjet ( a leading provider of Artificial Intelligence-powered technology for the dental industry, has closed a total of $7.85M in series seed funding led by top tech VC firm Crosslink Capital and participation from other investors such as MIT E14 fund and strategic dental industry partners."
-    publishedDateTime: 2020-06-30T19:45:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200630005971/en/Overjet-Raises-7.85-Million-Improve-Dental-Care"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 47
-    images:
-      - url: "https://mms.businesswire.com/media/20200630005971/en/802338/23/Logo_Color.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "FraudScope Raises $7 Million in Series A Funding to Expand its AI Solutions to Address Healthcare Fraud, Waste & Abuse"
     excerpt: "PRNewswire-PRWeb/ -- FraudScope, the fast-growing AI-based platform that helps health plans address the increasing problem"
     publishedDateTime: 2020-07-02T12:19:00Z
