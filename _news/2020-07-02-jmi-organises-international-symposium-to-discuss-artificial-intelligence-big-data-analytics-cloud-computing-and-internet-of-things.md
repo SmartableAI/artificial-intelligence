@@ -19,49 +19,30 @@ topics:
   - AI
 
 related:
-  - title: "Menten.AI’s combination of buzzword bingo brings AI and quantum computing to drug discovery"
-    excerpt: "Menten AI has an impressive founding team and a pitch that combines some of the hottest trends in tech to pursue one of the biggest problems in healthcare — new drug discovery. The company is also $4 million richer with a seed investment from firms including Uncork Capital and Khosla"
-    publishedDateTime: 2020-06-30T12:49:00Z
-    webUrl: "https://techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/"
-    ampWebUrl: "https://techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/menten-ais-combination-of-buzzword-bingo-brings-ai-and-quantum-computing-to-drug-discovery/amp/"
+  - title: "Connecting The Industrial Internet Of Things With Smart AI Objects"
+    excerpt: "John Clemons is a Consultant for Rockwell Automation and Maverick Technologies, a leading platform-independent automation solutions provider Smart manufacturing, Industry 4.0 and the industrial internet of things (IIoT) are discussed constantly in the manufacturing world."
+    publishedDateTime: 2020-07-02T12:13:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/connecting-the-industrial-internet-of-things-with-smart-ai-objects/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/connecting-the-industrial-internet-of-things-with-smart-ai-objects/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/02/connecting-the-industrial-internet-of-things-with-smart-ai-objects/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 77
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/01/quantum.jpg?w=1024"
-        width: 1024
-        height: 737
-        isCached: true
-  - title: "UK investors bet on a deep tech boom after startups across automation, AI, and quantum computing raise $3.3 billion"
-    excerpt: "UK deep tech startups raised $3.3 billion in 2019."
-    publishedDateTime: 2020-07-02T09:06:00Z
-    webUrl: "https://www.businessinsider.com/deep-tech-uk-3-3-billion-boom-2020-6"
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+  - title: "Litmus Partners With ProcessMiner to Offer Leading Edge Computing and Artificial Intelligence Platforms for Manufacturing"
+    excerpt: "Under terms of the agreement, both organizations will promote their respective platform capabilities throughout the manufacturing industry."
+    publishedDateTime: 2020-07-02T22:31:00Z
+    webUrl: "https://www.embedded-computing.com/news/litmus-partners-with-processminer-to-offer-leading-edge-computing-and-artificial-intelligence-platforms-for-manufacturing"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 12
     images:
-      - url: "https://i.insider.com/5efb53c3aee6a807dc1b9913?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Data Quantity, Complexity Drives Use of AI in Drug Discovery and Testing"
-    excerpt: "His startup’s technology platform uses AI to uncover gene interactions underlying diseases. The company also uses AI to test therapies that target these interactions, an approach it contends is ..."
-    publishedDateTime: 2020-07-02T14:49:00Z
-    webUrl: "https://xconomy.com/san-francisco/2020/07/02/data-quantity-complexity-drives-use-of-ai-in-drug-discovery-and-testing/"
-    type: article
-    provider:
-      name: Xconomy
-      domain: xconomy.com
-    quality: 36
-    images:
-      - url: "https://media.xconomy.com/wordpress/wp-content/images/2020/07/02103125/genetic-engineering-and-digital-technology-concept-picture-id1054573988.jpg"
-        width: 1024
-        height: 683
+      - url: "http://share.opsy.st/5efe5db3ba388-ProcessMiner-Litmus-Partner-300x300.png"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "68OsIPj3CupICfHkZuZpImFR1699VLqyaswIr4gpljY8DglnYstPIFkOP7nbu3fdMmydYKLERhHDYUeDhQpfuiJFp+aFk60I25iGGVj18GdgIzSUVYABVE/p9GxiVvW7kQA2JojDqzx3HcAYaDhTIHU8q0O2TqWRM/8zjlnTqrz3mYxDKg9n5q44Jn0T5DDKdPK0YyPx2zbe6ZzCM280hI58hAMz1BH9lzHEeGH0+pVpxhRIet98UPlVbriN3S53yvfBtAnfdnLUZwGBY5HUTzW+shrixmogRK/IWG4uqGfyq9P7eZfVSaUZHk94Rpb0PbRPkNc5bzroSuHkNBrw2A==;GGbODPtWvauiSP47F0APFg=="

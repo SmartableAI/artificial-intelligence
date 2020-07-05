@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-02T06:05:00Z
 webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analysis-with-impact-of-covid-19-top-companies-trends-demand-future-opportunity-outlook-2025-2020-07-02"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -28,50 +28,71 @@ images:
     title: "Automotive Artificial Intelligence Market Analysis With Impact of COVID-19, Top Companies, Trends, Demand, Future Opportunity Outlook 2025"
 
 related:
-  - title: "Computer Vision Market Analysis 2020 by Size, Share, Latest Global Trends, Top Key Players, Future Growth, Revenue Analysis, Demand Forecast To 2023"
-    excerpt: "Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal"
-    publishedDateTime: 2020-07-02T16:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-analysis-2020-by-size-share-latest-global-trends-top-key-players-future-growth-revenue-analysis-demand-forecast-to-2023-2020-07-02"
+  - title: "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025"
+    excerpt: "Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023” To Its Research Database This report focuses on the global Natural language processing (NLP) status, future forecast,"
+    publishedDateTime: 2020-07-03T22:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-07-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 30
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Potential Impact of COVID-19 Pandemic on Global Cognitive Data Management Market Report 2020 Key Companies IBM, Salesforce, SAP, Informatica, SAS"
-    excerpt: "Cognitive Data Management Market Report 2020 Key Companies IBM, Salesforce, SAP, Informatica, SAS; In Depth Analysis and"
-    publishedDateTime: 2020-07-04T17:43:00Z
-    webUrl: "https://galusaustralis.com/2020/07/725501/potential-impact-of-covid-19-pandemic-on-global-cognitive-data-management-market-report-2020-key-companies-ibm-salesforce-sap-informatica-sas/"
-    ampWebUrl: "https://galusaustralis.com/2020/07/725501/potential-impact-of-covid-19-pandemic-on-global-cognitive-data-management-market-report-2020-key-companies-ibm-salesforce-sap-informatica-sas/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/07/725501/potential-impact-of-covid-19-pandemic-on-global-cognitive-data-management-market-report-2020-key-companies-ibm-salesforce-sap-informatica-sas/amp/"
+  - title: "Entertainment Robots Market 2020 Global Trends, Market Share, Industry Size, Growth, Sales, Opportunities, and Market Forecast to 2023"
+    excerpt: "The global entertainment robots market is expected to reach approximately USD 3.71 billion by 2023 at a CAGR of 23.06%"
+    publishedDateTime: 2020-07-03T15:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-global-trends-market-share-industry-size-growth-sales-opportunities-and-market-forecast-to-2023-2020-07-03"
     type: article
     provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 7
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
-      - url: "https://galusaustralis.com/wp-content/uploads/2020/06/Cognitive-Market-Research-Report-2020-COVID-19-Impact-Edition-37.jpg"
-        width: 802
-        height: 400
-        isCached: true
-  - title: "IoT Chip Market with COVID-19 Impact Analysis by Hardware, Power Consumption, End-use Application and Region - Global Forecast to 2025 - ResearchAndMarkets.com"
-    excerpt: "Impact Analysis by Hardware (Processor, Connectivity IC, Sensor, Memory Device and Logic Device), Power Consumption, End-use Application (Wearable Devices, Consumer Electronics, Building Automation and Retail) and Region - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-07-02T08:17:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200702005145/en/IoT-Chip-Market-COVID-19-Impact-Analysis-Hardware"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200702005145/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
         isCached: true
+  - title: "Natural Language Processing Market 2020 Size, Share, Top Manufacturers, Segmentation, Future Plans, Competitive Landscape and Forecast to 2025"
+    excerpt: "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD"
+    publishedDateTime: 2020-07-03T06:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-size-share-top-manufacturers-segmentation-future-plans-competitive-landscape-and-forecast-to-2025-2020-07-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing (NLP) Market 2020| Countries Exclusive Data, Demand, Share and Growth Analysis by Key Participant up to 2027"
+    excerpt: "The Global Natural Language Processing (NLP) Market Feasibility Analysis and Trend Forecast Report is the most professional and comprehensive systematic deep market research report in this field. This report first introduces the background of Natural ..."
+    publishedDateTime: 2020-07-03T13:53:00Z
+    webUrl: "https://www.mynewsdesk.com/us/pressreleases/natural-language-processing-nlp-market-2020-countries-exclusive-data-demand-share-and-growth-analysis-by-key-participant-up-to-2027-3019927"
+    type: article
+    provider:
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
+    quality: 6
+    images:
+      - url: "https://d9qz450atvita.cloudfront.net/assets/graphics/logos/mynewsdesk-dfa651f50b8d922b50d4a45a7ec1677e9b42e11968483f7b3563cb727540e36e.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Industry Analysis 2020, Market Growth, Trends, Opportunities Forecast To 2025"
+    excerpt: "Summary A New Market Study, titled “Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming Trends, Growth Drivers and"
+    publishedDateTime: 2020-07-03T17:14:00Z
+    webUrl: "https://www.medgadget.com/2020/07/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-industry-analysis-2020-market-growth-trends-opportunities-forecast-to-2025.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "sxtj8tGnqOxGyeQliCx53uItnFsJ2fNhLjpKc6FaXo+3Rn6/RgfqktD82jjRDLH3P+2anrfIBjnnf9VI943A5nRD8YrMnx7wJTKp5R8g+SdkCVEbLKZP8Kyy81JWQ6FfsDXVmpdyjKBVPPsm2YiMSHtnKoxUdtg5XYNfX0somrcHY0roZTb2XpcCpOK2tKNMoupQLZceUcei2SsI4VWqylEuEMF/1wcUsgTjNpXw+lP2PGA1Pdih85i5HZQUMiv5pRB4gpXg+FM53cRnOr5li0KZY6VY7pmaV87zu5Zn9aU+41qDtR39DU0PbLtv4Pp3mj587gSi7z48e9cLM6LVZw==;Kc4n+1HLi7d1ejp8lssK/w=="
 ---

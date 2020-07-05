@@ -43,20 +43,6 @@ related:
         width: 600
         height: 378
         isCached: true
-  - title: "Consumer interest for drones, self-driving cars grows amid pandemic"
-    excerpt: "With the increased need for contactless delivery, consumers are getting first-hand experience and becoming more familiar and comfortable with autonomous systems such as self-driving vehicles and drones,"
-    publishedDateTime: 2020-06-30T11:15:00Z
-    webUrl: "https://www.ept.ca/2020/06/consumer-interest-for-drones-self-driving-cars-grows-amid-pandemic/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 24
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2020/06/Draganflyer-Commander-with-Sequoia-Camera-600x378.jpg"
-        width: 600
-        height: 378
-        isCached: true
 
 secured: "Z9qi60c57/Jh1BaFxTh0cQt5gq1Brm/Tkz8ODt+iMkWe8+ndXFw/TzefBFWU5szxqrgq2M5fKhnVlIsKWWXxPQHsgCsi/5ZYamjFGMdDsYV1UJwmobnCxCsTPC1CAPxTz6JReZcC3NRDvKAaWQNoD5Z/mOSa7Pgm4bkdOw9jBJxcO9i8mefOCOv79M4t2SNZg2SOEOllo+Fed5MUTLFUJvPnX7uWTXslyvvDczjY8fqzXSOjpyX/71oG0aQs1CaCz5nUZIRdeVTEyQxNkt9OA7gsjET7iTkNM16rjmsGJ7FKN6KmYrM/j3ciBqqDKyUaz9pYhbu7nmyvfOnejBYd8If0qhBJ2+3SXgVIcuVi7P/KMXFoEtb9V1vVWHYw1wLh1LYV8FYeHBuF+UH0VY3JQZAV/WZehjejRJAEKbzPBHAB6YbCGvtTYBn/JgheXMdshvUMsgZIHg/GF5MRxCfzEyU2d3iOKCyMG4IUnI73ZL/qETCG70vmn7QZnP6wmGY2LDfDAK6UY3BDVxt5wCrmGA==;oijlyWVU8Ysdci/G9RLzMA=="
 ---

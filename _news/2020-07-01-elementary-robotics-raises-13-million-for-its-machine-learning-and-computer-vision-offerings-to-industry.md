@@ -84,22 +84,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Hi Marley raises $8 million for its AI messaging platform that connects insurers with customers"
-    excerpt: "Hi Marley, a startup developing an AI-imbued messaging platform for insurance carriers, raised $8 million in venture capital."
-    publishedDateTime: 2020-06-30T11:04:00Z
-    webUrl: "https://venturebeat.com/2020/06/30/hi-marley-raises-8-million-for-its-ai-messaging-platform-that-connects-insurers-with-customers/"
-    ampWebUrl: "https://venturebeat.com/2020/06/30/hi-marley-raises-8-million-for-its-ai-messaging-platform-that-connects-insurers-with-customers/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/hi-marley-raises-8-million-for-its-ai-messaging-platform-that-connects-insurers-with-customers/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 75
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/1c7c0b76-fdef-435c-8d86-6002877bce09-e1593117540834.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 688
-        isCached: true
   - title: "LA's Elementary Robotics Finds $12.7M For Industrial Inspections"
     excerpt: "Los Angeles-based Elementary Robotics, a new startup led by startup veteran Arye Barnehama, said on Tuesday that it has raised $12.7M in funding for its industrial robotics company. The funding was led by Threshold Ventures,"
     publishedDateTime: 2020-06-30T18:00:00Z

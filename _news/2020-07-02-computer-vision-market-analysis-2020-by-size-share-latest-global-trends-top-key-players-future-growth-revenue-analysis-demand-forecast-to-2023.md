@@ -29,49 +29,19 @@ images:
     title: "Computer Vision Market Analysis 2020 by Size, Share, Latest Global Trends, Top Key Players, Future Growth, Revenue Analysis, Demand Forecast To 2023"
 
 related:
-  - title: "Automotive Artificial Intelligence Market Analysis With Impact of COVID-19, Top Companies, Trends, Demand, Future Opportunity Outlook 2025"
-    excerpt: "Europe (Germany, UK, France, Rest of Europe) 5.3 Asia Pacific (China, India, Japan, Rest of Asia Pacific) 5.4 Latin America (Brazil, Argentina, Rest of Latin America) 5.5 Middle East & Africa Competitive Landscape: The major players in the market are as follows: 1."
-    publishedDateTime: 2020-07-02T06:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analysis-with-impact-of-covid-19-top-companies-trends-demand-future-opportunity-outlook-2025-2020-07-02"
+  - title: "Human Machine Interface Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2027"
+    excerpt: "Selbyville, Delaware Global Human Machine Interface Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Human Machine Interface Market Report also covers top key players,"
+    publishedDateTime: 2020-07-02T05:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/human-machine-interface-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2027-2020-07-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 33
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Potential Impact of COVID-19 Pandemic on Global Cognitive Data Management Market Report 2020 Key Companies IBM, Salesforce, SAP, Informatica, SAS"
-    excerpt: "Cognitive Data Management Market Report 2020 Key Companies IBM, Salesforce, SAP, Informatica, SAS; In Depth Analysis and"
-    publishedDateTime: 2020-07-04T17:43:00Z
-    webUrl: "https://galusaustralis.com/2020/07/725501/potential-impact-of-covid-19-pandemic-on-global-cognitive-data-management-market-report-2020-key-companies-ibm-salesforce-sap-informatica-sas/"
-    ampWebUrl: "https://galusaustralis.com/2020/07/725501/potential-impact-of-covid-19-pandemic-on-global-cognitive-data-management-market-report-2020-key-companies-ibm-salesforce-sap-informatica-sas/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/07/725501/potential-impact-of-covid-19-pandemic-on-global-cognitive-data-management-market-report-2020-key-companies-ibm-salesforce-sap-informatica-sas/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 7
-    images:
-      - url: "https://galusaustralis.com/wp-content/uploads/2020/06/Cognitive-Market-Research-Report-2020-COVID-19-Impact-Edition-37.jpg"
-        width: 802
-        height: 400
-        isCached: true
-  - title: "IoT Chip Market with COVID-19 Impact Analysis by Hardware, Power Consumption, End-use Application and Region - Global Forecast to 2025 - ResearchAndMarkets.com"
-    excerpt: "Impact Analysis by Hardware (Processor, Connectivity IC, Sensor, Memory Device and Logic Device), Power Consumption, End-use Application (Wearable Devices, Consumer Electronics, Building Automation and Retail) and Region - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-07-02T08:17:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200702005145/en/IoT-Chip-Market-COVID-19-Impact-Analysis-Hardware"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200702005145/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "HKMg1k5S1bCA8w94QpBUFpf+ddnz3jII2vKb5yxF40Z/GaFj0hx4ft8UkbEtfQ7BLuY6OqBc5lLc9ujw4hr49u6AKcYW5EW1ePnEviKTgOp+FZKFtCrTF8AYqdmymLSr6vP9GU1Wh9gGawa0GcwLk9yQfT6fxp3jLYcoPTNv1bj0NPKz7eJrCCCEhhNh0KtbbstrfMLT8yR9KGSCDagSZoWxIv3h482/svOQzKeiaS4fo3V1mCk4O4KjQAjV8bC6mp+gfI8x1kg8p0AptJCGBxCbK3oM52Naj8kbM7woeubOQnSXu1gsg9N76xzyPqYPETcHafNa8ck8gjOLswzn5w==;heO6jhKDE3nj3MaPAJ9NYA=="

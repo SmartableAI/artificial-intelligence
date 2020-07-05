@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Hi Marley raises $8 million for its AI messaging platform that connects insurers with customers"
-    excerpt: "Hi Marley, a startup developing an AI-imbued messaging platform for insurance carriers, raised $8 million in venture capital."
-    publishedDateTime: 2020-06-30T11:04:00Z
-    webUrl: "https://venturebeat.com/2020/06/30/hi-marley-raises-8-million-for-its-ai-messaging-platform-that-connects-insurers-with-customers/"
-    ampWebUrl: "https://venturebeat.com/2020/06/30/hi-marley-raises-8-million-for-its-ai-messaging-platform-that-connects-insurers-with-customers/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/hi-marley-raises-8-million-for-its-ai-messaging-platform-that-connects-insurers-with-customers/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 75
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/1c7c0b76-fdef-435c-8d86-6002877bce09-e1593117540834.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 688
-        isCached: true
   - title: "Elementary Robotics raises $13 million for its machine learning and computer vision offerings to industry"
     excerpt: "Elementary Robotics, a Los Angeles-based robotics startup, has raised $12.7 million in its Series A funding round led by Threshold Ventures, an early-stage investor in technology companies."
     publishedDateTime: 2020-07-01T07:40:00Z

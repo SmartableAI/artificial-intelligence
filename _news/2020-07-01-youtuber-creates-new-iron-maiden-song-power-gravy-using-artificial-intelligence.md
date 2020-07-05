@@ -8,8 +8,8 @@ ampWebUrl: "https://www.nme.com/news/music/youtuber-creates-new-iron-maiden-song
 cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/music/youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence-2699446?amp"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: NME
@@ -26,22 +26,6 @@ images:
     title: "YouTuber creates ‘new’ Iron Maiden song ‘Power Gravy’ using artificial intelligence"
 
 related:
-  - title: "YouTuber Uses Artificial Intelligence To Make Fake Iron Maiden Song, Power Gravy"
-    excerpt: "Following on from the AI recreations of Metallica’s Deliverance Rides and Nirvana’s Smother, YouTuber and tech wizard Funk Turkey has used artificial intelligence to create a brand new Iron Maiden song"
-    publishedDateTime: 2020-06-30T12:16:00Z
-    webUrl: "https://www.kerrang.com/the-news/youtuber-uses-artificial-intelligence-to-make-fake-iron-maiden-song-power-gravy/"
-    ampWebUrl: "https://www.kerrang.com/amp/youtuber-uses-artificial-intelligence-to-make-fake-iron-maiden-song-power-gravy"
-    cdnAmpWebUrl: "https://www-kerrang-com.cdn.ampproject.org/c/s/www.kerrang.com/amp/youtuber-uses-artificial-intelligence-to-make-fake-iron-maiden-song-power-gravy"
-    type: article
-    provider:
-      name: Kerrang!
-      domain: kerrang.com
-    quality: 67
-    images:
-      - url: "https://images.kerrangcdn.com/MaidenPowerGravy.jpg?auto=compress&fit=crop&w=1008"
-        width: 1008
-        height: 567
-        isCached: true
   - title: "A.Iron Maiden? Artificial Intelligence Creates “Iron Maiden” Song “Power Gravy”!"
     excerpt: "Funk Turkey is a pseudonym and stage name of Arkansas parody/comedy musician and producer Kirt Connor. The YouTuber recently used artificial intelligence to create a new “Metallica” and 'Nirvana' songs,"
     publishedDateTime: 2020-07-03T19:30:00Z

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio"
-excerpt: "Buy 2 Technavio reports and get the third for free. View market snapshot before purchasing Increasing use of AI chip-enabled mobile devices has been instrumental in driving the growth of the market. Technavio's custom research reports offer detailed ..."
-publishedDateTime: 2020-06-26T17:38:00Z
-webUrl: "https://www.businesswire.com/news/home/20200626005284/en/"
+excerpt: "Technavio has announced its latest market research report titled Global Mobile Artificial Intelligence Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the mobile artificial intelligence market and it is poised to grow by USD 13."
+publishedDateTime: 2020-06-26T17:30:00Z
+webUrl: "https://www.businesswire.com/news/home/20200626005284/en/COVID-19-Significant-Shift-Strategy-Mobile-Artificial-Intelligence"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio"
 
-secured: "wnOINNmjYtogfdWkILNfx3oJA03nNG6n8J4QuuhK3o6gxizBcYNBWhM+edssNbfQzqL8Okbp3J0Lhzf0zzA3FaT7cmYyENrkqSr86UZo0YwT0ULvMlMQhlHDWZOctR7lM5J2Kfpemgmqw4NCz8ullFbv9vnVD2arxxMmfbGK3odJvNSsjgfIB7jZgEeKLnHeTdPiLPoCFI07WTF9Ppn5q53yMLVu339Kamtt9/s/oIGnwWezyOASIv3qlMRfd2+mcdLZRXQ+TSxu8v57pTY7xSTnkoON8IqWUJph0jT/ha6z/tdmVzLQdQTd9JvGKtq7/pA7Y2rTNC1akfLp4lg/AA==;l/GUA39oFRb0G1Z6Q1af6A=="
+secured: "HwvcOBabra67zU+qlXq0IbMyhtz24oW/5DKBOmgD2Ydu2fWvA7GJzTa14E9eUY9UyWH4hWr/RJXjIA2iMG5+j9Wa9RLIrXx4XiNrppIVr3Ua6b9MAKCTrCBsy4EUWBDo3WSL+nQ41EIZJOZ7cdk266i9aDpRRtQMoLnyOn8vCkdxWGoKK8Cqtg1FCFOedb1E2jrrmzvwV4PqycZ6SkxgC93pdldRxKm+dmVWkDGLMc0LhW7C+M29w1Uw666LCdUyaN6tt1dAmzRAzYjeeXTIuHZWLOCPgTPBVxhW4aDFHPtN6U72oQc7c9tFJmKvdNgOKq5ylrd3F7MlQZMqxZrU6A==;KVBUS97kAwPtd3pDEW8fIQ=="
 ---
 
