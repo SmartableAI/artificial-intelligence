@@ -3,22 +3,22 @@ category: news
 title: "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business"
 excerpt: "As Black Lives Matter protests swept across the United States, IBM, Amazon and Microsoft took a stand: They halted sales of facial recognition technology to American police departments, and called on the government to regulate the powerful emerging technology."
 publishedDateTime: 2020-07-03T05:43:00Z
-webUrl: "https://keyt.com/lifestyle/money-and-business/2020/07/02/amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/"
+webUrl: "https://localnews8.com/money/2020/07/02/amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/"
 type: article
 quality: 6
 heat: -1
 published: false
 
 provider:
-  name: KEYT
-  domain: keyt.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech-860x484.png"
+  - url: "https://localnews8.b-cdn.net/2019/11/Money-logo-new-860x484.jpg"
     width: 860
     height: 484
     isCached: true
@@ -58,6 +58,6 @@ related:
         height: 400
         isCached: true
 
-secured: "opAwz6KhLYrLu0yPvs+bvMccELGs5PAZ1ABN57CpfRTPw8ZdHLqmMPfIgJbwyHq7q5h3vc9SASU1RhKDcZDLFzSAdPAnUqVpfBlk0NqShZpoS/rE2lIDMt+ILemps+Il+ZpS8wqnbEikLGQUJNgjTRIaR8f7TPLJuGzZUANuc1xdtT9SwPKiYylxidB/zznIPNe3XHIokWrHEFpvKKjZXhIybbk+zPo//ej2UGfud44teMdeVqYgRbBysJez2yq8NPaqjPWy0j+Ht9jkWSv9szzCPz5mPplEj4AlXSkCBe/11tcPNXcZ393pjWZg6toev5AqIPQx2Bi9yJRwOw26jg==;Y16SFEBB6PwB0t8mmoYP6Q=="
+secured: "EMQfJh+qpDrTY7vSAEZGwWOBftRNo7KrRpzTFDNE2j5XgkvGjIhmOJu4JfGjbxCQ0CZ9kjIp0Kzc5G3R91Z4xtsWl1/o60eKPdJLsky4oYzV3vNa2KC3OvN7+jBDMkFgTp+7ELjURLhmT4LJ79XZ1ungRUV+zkVJ/LmEG7XhOHYW5psPIPv1xKwYCwfiWNiY0TP6cQGSDp3pga+cXbE8CFoT3uduR8KQb0SoJ1xQqtjcLwEfLHf9jgifem4TNCWuyAW1ds2pXaNgDdRBWkGIjQmbi+CmGV8gWYTUM5tcndDT8yGFY8PvAWClPFQ3N8co9dZoZo1ehSi5z83yI4vHzw==;QU13EWhw109R5rJcf+C4PQ=="
 ---
 

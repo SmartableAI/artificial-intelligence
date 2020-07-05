@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Volvo, Waymo partner to build self-driving vehicles"
-excerpt: "Waymo will focus on the artificial intelligence for the software \"driver.\" Volvo will design and manufacture the vehicles. The companies said Waymo will work with Volvo's global brands ..."
-publishedDateTime: 2020-06-25T19:23:00Z
-webUrl: "https://europe.autonews.com/automakers/volvo-waymo-partner-build-self-driving-vehicles"
+excerpt: "Waymo and Volvo Cars have agreed to develop a self-driving electric vehicle designed for ride-hailing use, as part of a new global partnership, the companies said Thursday. Waymo, a unit of Silicon Valley's Alphabet Inc."
+publishedDateTime: 2020-06-25T17:38:00Z
+webUrl: "https://www.autonews.com/mobility-report/volvo-waymo-partner-build-self-driving-vehicles"
 type: article
 
 provider:
@@ -15,12 +15,12 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Volvo%20grille%20new%20web_0.jpg"
+  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Volvo%20grille%20new%20web.jpg"
     width: 800
     height: 600
     isCached: true
     title: "Volvo, Waymo partner to build self-driving vehicles"
 
-secured: "+uFl2evH0O6sE8bl1KQpg8VO+YlzW6rCNpN82L8zcwZTPnb8KlezFJHjoMwbs5FwRb14bJh/omiMUfPiQJnCXoxh06NauRl1pSwGwdzrPa7iFtx1XmiQcWgX4s92xRSq9c4ZRooF4tUrNazyEMbpuw7+8pouf7rAuBGhURIus9JLvN9g7/NReaYcMxJld5kOTqDBRdr1YrWfWZ6EZ4uHRoWcw6s47JPJpI0aaoNXPER1qypZU5WExALw4Ps4CuHhLlfq5QDxE3wQn+iGTI9ic2CypCpS/NturXvR8VwMouYysePqwM9smMk2sf9WvXQeZzb2w+CYJ4jEPoGUW9BPiTVKZLCSUCtyaj530dLjmbAjNfNpi59W1teSa//whUH6LuKKUY9PlYg3rkkuf0NGew3W1rnHCKWV5wxgoMBCX1Dlgw42z+inhbJQ/PzDwd1KG+XQ29XUWilTogEuvA/bpj8Ox+meGi03hIGw+r4hJY8rYLYE2CmcVHhR9IEQScqdzYUWiWjmhKVrYatwCQXdWw==;WOCyj1h1YewX4MyRAWSsCQ=="
+secured: "lWFeGjg8pKuLnn22cVMNz/bsvnXKwrAqUuJLvokrQ4sJUdMKrYTnJ6wKZPa8078IbNbBRGDohlbPxgvWBe4XFmBgSAL0IR/KtGsdDCcz75SeVmJuwz/efFxgZ37/PoOa7cjb1pga8bn4IQHT8JOQQ/Pg+syRAZklNm6FQ/2o2HCz1KNX/b1C3gfnuKLunJ5VRPuGya6v9WI6Je0a6weoULz8OQxjDhPkooBqHu2w/UHGawGrMN5mX/hru5r7l0E9iREOi9TFNWyNnWm6rFaz/W+d8xUeQUF2C1N3nn7MpK9QHNGDNzGzBQCbSWzlN/mw18z/hY/g1yX4q7+kK+P4LA==;erXis9U4E1OH6ySBkqgACQ=="
 ---
 

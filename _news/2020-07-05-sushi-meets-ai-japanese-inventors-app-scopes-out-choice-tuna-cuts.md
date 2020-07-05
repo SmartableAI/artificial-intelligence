@@ -1,29 +1,20 @@
 ---
 category: news
-title: "Sushi meets AI: Japanese inventor’s app scopes out choice tuna cuts"
-excerpt: "Since the start of coronavirus pandemic fish merchants ... saws to cut up frozen tuna shipped from around the world. The AI delivered a result within a few seconds. “I think this will become ..."
-publishedDateTime: 2020-07-05T03:49:00Z
-webUrl: "https://dailytimes.com.pk/636146/sushi-meets-ai-japanese-inventors-app-scopes-out-choice-tuna-cuts/"
-ampWebUrl: "https://dailytimes.com.pk/636146/sushi-meets-ai-japanese-inventors-app-scopes-out-choice-tuna-cuts/amp/"
-cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/636146/sushi-meets-ai-japanese-inventors-app-scopes-out-choice-tuna-cuts/amp/"
+title: "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts"
+excerpt: "If you've ever bought supermarket sushi, you may know the taste trauma that hit Kazuhiro Shimura one night. But \"disappointing\" tuna sparked an idea: he'd develop an artificial intelligence (AI) system to make sure your sashimi is always delicious."
+publishedDateTime: 2020-07-05T21:24:00Z
+webUrl: "https://japantoday.com/category/tech/sushi-meets-ai-japanese-inventor%27s-app-scopes-out-choice-tuna-cuts"
 type: article
-quality: 57
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Daily Times
-  domain: dailytimes.com.pk
+  name: Japan Today
+  domain: japantoday.com
 
 topics:
   - AI
-
-images:
-  - url: "https://dailytimes.com.pk/assets/uploads/2020/07/Sushi-meets-Ai-Japanese-inventors-app-scopes-out-choice-tuna-cuts.jpg"
-    width: 672
-    height: 450
-    isCached: true
-    title: "Sushi meets AI: Japanese inventor’s app scopes out choice tuna cuts"
 
 related:
   - title: "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts"
@@ -43,6 +34,6 @@ related:
         height: 545
         isCached: true
 
-secured: "Q3bF2yDRcR9ElxDQgCq/T5x/j5gwZrro22wE1OX9tfTWZWstBSbO6fetz46aRDlkHh3Q9ioBjQCp5sorOIqxG08XZPbtlLuoZB3iP1SnPfyzZ5ygNhvzliKvwHEpS3byk8vyST6ANxtn9LHCFOxo1ytctqsKsB1Xd0zT7A+CcgEVPC4l0wo6ZixU4h+AQdQweAc7e2kkrfb0vr24u5cMcj4KjMX+SUoi0Kdo526SXTIRlyHItN3oftWpF9ACcILRMyvKH2hq4ESDekA7zbr1753YRw7e7mpfDBz9WLGdyeQwZqZltj2G4ag/vARdgHyvSnJ/ZqXlDtzFi0L+dO1KnQ==;nh1l8z07NZF9Nd/h3LaR+Q=="
+secured: "A/jGkhwfInvQ2DZEX1hvvVq3fxZIx5Uo3+uD7B4M5qjzyjfeeDjR+PmDr58YDjLV2Gg4m4DIvc2KNyd4JI3AXmYAmITup2fwc1imiHEh72Z7MA9wzP/hInQsFKAhOZy/YVsN5+XJeXu1JrpzU1pMlnPGjOVnAqx/iuWi+DzkWMOGtbpKi2lzcJHmDojETU0hlLL6Fk94BDpTkc9nuUDPjdSpqQfww/4LlhL0DM0a0bT7Hg8EiGovd5vZ/gR2LKuBRM+6PevHfaI6vh6Yw0BPYEOHnH5DktdpvJ5tR8gIOG9PAaY82z+3SsD7ejzK6iFXXTSUqp7OvaulitaPcamyzQ==;nnvyn3AR0z+C34zZaiXhxA=="
 ---
 

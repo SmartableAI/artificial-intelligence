@@ -52,22 +52,6 @@ related:
         width: 756
         height: 567
         isCached: true
-  - title: "Facial recognition has a new foe: The world's biggest group of computing professionals"
-    excerpt: "The Association for Computing Machinery said the technology could not reliably be used in a way that wouldn't harm vulnerable populations."
-    publishedDateTime: 2020-07-01T03:38:00Z
-    webUrl: "https://www.nbcnews.com/tech/security/tech-worker-group-calls-facial-recognition-ban-citing-technical-ethical-n1232591"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1232591"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1232591"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 81
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202006/ott_now_mich_200626_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Easthampton passes municipal ban on facial recognition tech"
     excerpt: "An ACLU-backed bill currently before legislators on Beacon Hill would establish a statewide moratorium on government use of face surveillance. Easthampton is the latest town to enact a ban on gov't use of facial-recognition technologies."
     publishedDateTime: 2020-07-02T14:48:00Z

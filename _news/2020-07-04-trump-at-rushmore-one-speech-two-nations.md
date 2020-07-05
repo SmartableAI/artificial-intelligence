@@ -41,6 +41,22 @@ related:
         width: 345
         height: 213
         isCached: true
+  - title: "Wear masks consistently, the Rushmore speech, president’s finances and psyops | LETTERS"
+    excerpt: "Keep them open?Don’t like bars and certain other businesses getting shut down? If most people wore masks consistently to control the virus’s"
+    publishedDateTime: 2020-07-05T21:29:00Z
+    webUrl: "https://www.news-journalonline.com/opinion/20200705/wear-masks-consistently-rushmore-speech-presidentrsquos-finances-and-psyops--letters"
+    ampWebUrl: "https://www.news-journalonline.com/opinion/20200705/wear-masks-consistently-rushmore-speech-presidentrsquos-finances-and-psyops--letters?template=ampart"
+    cdnAmpWebUrl: "https://www-news--journalonline-com.cdn.ampproject.org/c/s/www.news-journalonline.com/opinion/20200705/wear-masks-consistently-rushmore-speech-presidentrsquos-finances-and-psyops--letters?template=ampart"
+    type: article
+    provider:
+      name: The Daytona Beach News-Journal
+      domain: news-journalonline.com
+    quality: 36
+    images:
+      - url: "https://www.news-journalonline.com/apps/pbcsi.dll/bilde?Site=LK&Date=20200705&Category=OPINION&ArtNo=200709089&Ref=AR"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "God Bless America: Read Donald Trump's full controversial Fourth of July speech from Mount Rushmore"
     excerpt: "The power-packed speech saw Trump lash out against the Black Lives Matter protests, while also asserting supposed economic rise in the face of an ongoing pandemic"
     publishedDateTime: 2020-07-04T06:14:00Z
