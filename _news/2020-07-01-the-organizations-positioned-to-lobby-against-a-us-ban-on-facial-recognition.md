@@ -8,7 +8,7 @@ ampWebUrl: "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/amp/"
 type: article
 quality: 101
-heat: 231
+heat: 221
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 91
     images:
       - url: "https://cnet3.cbsistatic.com/img/U4mP_-rt6ZiOcOSW9GGJyC_iFa8=/756x567/2020/06/29/30d88944-0d4e-4dae-a68e-c3477dd7d227/gettyimages-1217491940.jpg"
-        width: 756
-        height: 567
-        isCached: true
-  - title: "Tech companies want facial recognition laws, but maybe not this one"
-    excerpt: "Lawmakers introduced legislation that would put an indefinite ban on facial recognition for police use. Not everyone's a fan."
-    publishedDateTime: 2020-06-30T18:28:00Z
-    webUrl: "https://www.cnet.com/news/tech-companies-want-facial-recognition-laws-but-maybe-not-this-one/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tech-companies-want-facial-recognition-laws-but-maybe-not-this-one/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tech-companies-want-facial-recognition-laws-but-maybe-not-this-one/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/Jm9xOx4BDDOtSspQSGeOkyH-Dkc=/756x567/2019/03/15/24f83d38-b716-4dbb-909b-edbb73d85b1b/facial-recogntion-1010.jpg"
         width: 756
         height: 567
         isCached: true

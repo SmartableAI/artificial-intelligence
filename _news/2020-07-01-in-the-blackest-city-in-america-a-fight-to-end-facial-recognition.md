@@ -48,22 +48,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Tech companies want facial recognition laws, but maybe not this one"
-    excerpt: "Lawmakers introduced legislation that would put an indefinite ban on facial recognition for police use. Not everyone's a fan."
-    publishedDateTime: 2020-06-30T18:28:00Z
-    webUrl: "https://www.cnet.com/news/tech-companies-want-facial-recognition-laws-but-maybe-not-this-one/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tech-companies-want-facial-recognition-laws-but-maybe-not-this-one/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tech-companies-want-facial-recognition-laws-but-maybe-not-this-one/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/Jm9xOx4BDDOtSspQSGeOkyH-Dkc=/756x567/2019/03/15/24f83d38-b716-4dbb-909b-edbb73d85b1b/facial-recogntion-1010.jpg"
-        width: 756
-        height: 567
-        isCached: true
   - title: "Facial recognition has a new foe: The world's biggest group of computing professionals"
     excerpt: "The Association for Computing Machinery said the technology could not reliably be used in a way that wouldn't harm vulnerable populations."
     publishedDateTime: 2020-07-01T03:38:00Z

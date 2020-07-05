@@ -3,9 +3,9 @@ category: news
 title: "From PhD in AI to fruit chips company, youngster takes a big leap"
 excerpt: "Twenty-eight-year-old Bharadwaj Karanth’s company, Suvidha Foods and Beverages, procures fruits and vegetables directly from farmers and processes them into chips and dry fruits."
 publishedDateTime: 2020-06-28T00:29:00Z
-webUrl: "https://www.newindianexpress.com/cities/bengaluru/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.html"
-ampWebUrl: "https://www.newindianexpress.com/cities/bengaluru/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp"
-cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/bengaluru/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp"
+webUrl: "https://www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.html"
+ampWebUrl: "https://www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp"
+cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "From PhD in AI to fruit chips company, youngster takes a big leap"
 
-secured: "9lab18oyX+Ylza6v6qT6VFSqzqShCG9w8yhmNDHx2tLRSnu2BAvT38CUh239wKb+9jKXP9Ygrr+ZvYeonr83EPvqoIda8zCWRnBuQakz2YCp4PCYEu62FYbS5qssqeV7pc2vQ/GI07J9+9/WCijs7StjArfZXuyzhb7uPg0rkE2tGaJifU7BloxzTjH05F1r6/MXoSsdaAGg8NRIGOdIiJBku1VEENl0rbt9U3PsnTVdjTvpSK+j3+q2ThcpmedUA+ANCoddM0TQ6jkFo8Zco83ZFSsxtIkxIj3l3SeMlYk3VxfrhVAik4gFIwmzYoscyBZtIS9VuOFH+nv/qimsEw==;KGa0xxiRbGmD/mYZfeJzBQ=="
+secured: "OhkrHLhSafCVh927g6etDjnf+RFCdKSyn5vSFTUj+JN4eqY+qni73jNTGLoAskj/tkO2SSsTOagRYQARD/QYpmJra/IsXKv1PJxFXCcZ+MlaWg8rSOQ9n6mLeD2CxkGdCGHdGGOGu0q1onMkJvkybDy/erjWGE5+IBUVQq7Ub5EVptKEr8x0EnbaDUyh/xv8UWSzhnmG6UMAceQE0mPCH0SSmzWW0JqhXFm9PzapP2HI3RkDGA8IqpxDd6Izy7UwiKoUsTCObzuCwfnvfSVfxbW1pHUZp7KuDpK2JgPZh7npy+KZ2LhQ+A/vSYc0itPDcVPgiEsi9VZNZ1I8fG8pxg==;0UZ52zo3+EeRtq3gA/QXkg=="
 ---
 

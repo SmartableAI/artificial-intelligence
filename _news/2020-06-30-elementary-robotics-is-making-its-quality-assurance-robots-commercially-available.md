@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/30/elementary-robotics-is-making-its-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/elementary-robotics-is-making-its-quality-assurance-robots-commercially-available/amp/"
 type: article
 quality: 114
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
       name: Robotics & Automation News
       domain: roboticsandautomationnews.com
     quality: 66
-  - title: "LA's Elementary Robotics Finds $12.7M For Industrial Inspections"
-    excerpt: "Los Angeles-based Elementary Robotics, a new startup led by startup veteran Arye Barnehama, said on Tuesday that it has raised $12.7M in funding for its industrial robotics company. The funding was led by Threshold Ventures,"
-    publishedDateTime: 2020-06-30T18:00:00Z
-    webUrl: "https://www.socaltech.com/la_s_elementary_robotics_finds____7m_for_industrial_inspections/s-0080032.html"
-    type: article
-    provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 34
 
 secured: "evId3Akc8TQ8Z+XSkGo6LQmb/za2lypmWzY5C6Isq1beg3gsQF7jMNCqAS1UaXirfH8vAPm4g+56ncdQWuYKmRfETfhBQgqJLDpfX6OQMy1o8Pqlvo5r09P0DJdsGv9YQBex8BaVh/3ydax5ak2J5mT7m4gvhkOGg7o3qlAqRd3Lu9ysfA0i/XTD/IXzz21OtWgFrF2s9YyWnNfKsX4IUlpXM1mGVzg0BffCVGIzdc9w+bbcrRY+P8dZbxN7Mj9iT9uYfXEXNF0bACTiOuppqo+tldIh9/D5NxcwiXTX5F8nKiUtXaOARoR9K06ZJUgtn5ymdn595wQJ7V4FW4/Eb0FC/odasggroWSRscrAoC6U5S9zykgrCGJ9barE9nPhJOGjxHxdHiJyQ6WZmPmZD465Vy+W9qeWKTwsUfXA1leS1Lowc7YdIVHbu5nEEnJczNPY2LmJy4LGsI0pwBRuGPdC6WtiplGnsUnJbh6Z5XOBlkghlhYByNv1sho0A6Em;97kWSXuIIFSzL92C+PkLyQ=="
 ---
