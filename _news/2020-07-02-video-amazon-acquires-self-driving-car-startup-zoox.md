@@ -80,15 +80,6 @@ related:
         width: 837
         height: 558
         isCached: true
-  - title: "Amazon acquires self-driving start-up Zoox for $1.2bn"
-    excerpt: "In a transaction that it believes “will help bring the vision of autonomous ride-hailing to reality”, online retailer Amazon is to acquire self-driving start-up Zoox for a reported $1.2bn. The acquisition represents further investment by Amazon in the ..."
-    publishedDateTime: 2020-06-30T08:48:00Z
-    webUrl: "https://www.financierworldwide.com/fw-news/2020/6/30/amazon-acquires-self-driving-start-up-zoox-for-12bn"
-    type: article
-    provider:
-      name: Financierworldwide.com
-      domain: financierworldwide.com
-    quality: 4
 
 secured: "LihU/5ZB3ZRIrhOZtxyxybLOoGM3QkKQwsqBb/0dDbeBNUwIIrdibJiJDWBbBlVxJ3z77Eqkhiiz7rZ35HSNfnAJbDfPcIAGsk0TYkMWH7zvI0zspckOYYcCP9XPFWKYV3UyojIYUQFaKVdpOBq2Gnztr2IHK+dvPAv/WogkHczQcYNxcriHz2Ccb8opJcpsIgZfzuSrnxdLUXuSnlxA7N3WXNW3v41U2MySC4gEVWGxceOGW6TD1f8AMelcHEea00igl42gWNJuK2BJdZTlo9hr/uWqVl3QVY+xAC6RHSen3mbfPZabCoLHAB5TbA7XxqFXQWIZrScBfwPqXBhLlg==;dc4e3jSSoq6iTTcNSCCN2Q=="
 ---

@@ -27,20 +27,6 @@ images:
     title: "How Fintech has Made Finance Easy from your Device"
 
 related:
-  - title: "Tanzanian FinTech Launches Personal Finance App"
-    excerpt: "Mipango Fintech has launched a new app that will provide free personal financial management to Tanzanians on IOS and Android mobile devices. The app - which is underpinned by AI and operates in Swa"
-    publishedDateTime: 2020-06-30T08:40:00Z
-    webUrl: "https://www.itnewsafrica.com/2020/06/tanzanian-fintech-launches-personal-finance-app/"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 24
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/06/Mipango-App-696x458.png"
-        width: 696
-        height: 458
-        isCached: true
   - title: "Tanzanian Fintech Startup Offers Free Financial Advice through App"
     excerpt: "Mipango has launched an artificial intelligence (AI)-based app that provides users with free financial advice on iOS and Android devices. Mipango is a personal finance mobile application that enables users to manage their income,"
     publishedDateTime: 2020-07-01T09:18:00Z

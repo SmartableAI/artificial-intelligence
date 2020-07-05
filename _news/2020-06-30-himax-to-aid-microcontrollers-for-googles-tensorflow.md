@@ -33,17 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers"
-    excerpt: "Himax Technologies, Inc. (NASDAQ:HIMX) (\"Himax\" or \"Company\"), a leading supplier and fabless manufacturer of display"
-    publishedDateTime: 2020-06-30T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16443255"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16443255"
+  - title: "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google’s TensorFlow Lite for Microcontrollers"
+    excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced the launch of WiseEye WE-I Plus HX6537-A solution that supports."
+    publishedDateTime: 2020-06-30T10:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
 
 secured: "LqP7jlihl7T7ghIyRYvWnaxzMlWprbTnBcQ8lkKggfA9oSZklB1dBvNTWdMgBgFlfBqmgpMUr8sGacTnY3pdYCobWrGHAkQUMiF/+T3HZvSMkMJGJ51gnHfTDAoQn8C6PuNaVV5SyYiWHZ9pNH4jUBZCMfk5O7WO0/08KOLxWzjuJhgnrWvJEevG+8v1/F4AhoKDw+fl3JXvbkzq/AOqaxxeySJTnjAeT5ANkaZqMqAArhZI2HYBS5I8xfraozUMntluKJfGv7tL5EueB4iSAfP+OzjgrLCZbQxkz6VuZiZzZU7XAIohoRNnrKTfWoD6WgmdWGTzsaYcFYbZV4bh3Q==;f47p6Ov6yDi1m4lQziZa2A=="
 ---

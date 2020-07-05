@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Hitachi and ThinkCyte announce collaboration to develop an AI-driven cell analysis and sorting system"
 
-secured: "hezB+NvceCOrhmcUNQK8ghCbnYGWjpGgx188fnSOy8OKWR6e6PpEK26c1A7t8lQo0Z/v0gfo4BH6xvFodV2iVx8rd1JW5amdV/bOsyjHuXiBsLbGfDhv2XLs4YSI/pG0o2guBg/5OXEAGZrt+VON7QreQ6fPokzJY48lS/fal0U6hKqcbRR2MYDoRxaUuyJve9/9VBq0Iu2UW20fxCRgJtW+XSLi8Qbm/tcup80079kPPuR67QsJsvUKfmgbnCtrN2SON+y+O7MMzl9cQffHq1AsHZgvV/oLtiKP1L9Sexk9yltfEMhc9twVul2BKuPSr5pka/Z6T9HUOdrjH9WuhA==;zrMrrNYu6G+F0pE7/qIFbg=="
+secured: "Tl3rsorfoEgXm4cm2hW6DTIw/het96PvA5DFMJRGiG7MJdBn63VrWXiMODzEXd866aCUPkh/bLXlqbAdie4ZwPo276ST+wc/yL7ZnDRwH7jajQyBOGm/YakXDDvHq5wLzhqMxXH/hs+ca9OUM88gnbHAj5PJ0fW+P7WHM8yx9IRNbylGxexrvvNCmuObcj6Vx3Hzf/JBH5jz3yFfzBbgdoME1kisXl+XKMkmZfM/cUQFLkT7BatvNr85pLKP7WpIs2MFeudqCkbqDOExvfkgtxKuzABXHRY6+m1f5PrQQIPRHJaYdncd/Li+CDs/aWHZhxHPXFyDAsiowFZKdIrv9654AD4p3j00qTSCh9iboNG/QyAYIbcza1DrD7xw00MSz+lj1UllqqC/V2Xbg26g0TOAPBTe4rIlIfZS+7+r7tAFFP4OZXBSyGymwOR23ICW6MXzVOvOnQlwm5Naw8P5wNsVijNcORxoC62XGeHEiCsZBex1sq7SUWXDAJIW+tqzfHUJK8gaDCwKOve0eoBdww==;gD0TvMtReftLB0dvZ1JbYg=="
 ---
 

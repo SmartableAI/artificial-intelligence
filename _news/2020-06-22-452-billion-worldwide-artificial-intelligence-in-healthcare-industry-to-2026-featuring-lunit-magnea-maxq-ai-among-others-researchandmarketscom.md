@@ -1,9 +1,9 @@
 ---
 category: news
 title: "$45.2 Billion Worldwide Artificial Intelligence in Healthcare Industry to 2026 - Featuring Lunit, Magnea & Maxq AI Among Others - ResearchAndMarkets.com"
-excerpt: "Billion Worldwide Artificial Intelligence in Healthcare Industry to 2026 - Featuring Lunit, Magnea & Maxq AI Among Others - ResearchAndMarkets.com DUBLIN-- ( BUSINESS WIRE )--The \"Artificial Intelligence in Healthcare Market with Covid-19 Impact Analysis by Offering (Hardware,"
-publishedDateTime: 2020-06-22T14:06:00Z
-webUrl: "https://www.businesswire.com/news/home/20200622005457/en/"
+excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Healthcare Market with Covid-19 Impact Analysis by Offering (Hardware, Software, Services), Technology (Machine Learning, NLP, Context-Aware Computing, Computer Vision), End-Use Application ..."
+publishedDateTime: 2020-06-22T15:36:00Z
+webUrl: "https://www.businesswire.com/news/home/20200622005457/en/45.2-Billion-Worldwide-Artificial-Intelligence-Healthcare-Industry"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "$45.2 Billion Worldwide Artificial Intelligence in Healthcare Industry to 2026 - Featuring Lunit, Magnea & Maxq AI Among Others - ResearchAndMarkets.com"
 
-secured: "jOJiw0CtdDXRJRZ+37LZ8+EYwCQv7+AGwE3qpMRjPN8EqDQzEU9czM0EhrUhHyYSnZRGNbEUloV6K+lxZAUDj7Lgw01jE5mzb/w6shdMx4cIR0UNZ9OHx1TaJdwM71r3+8DuxzLwSpWxJAnpBkfNgcmOtKUz5DE7VLJogOAI0C52Q9R+eXMcS/2fpdmb/bajWARGe8l4CM+sfULu1dBbw21AIltTHeucYNeClY1RvKSP7DEKI0CbMIHU8aI9QALYn3fQOOCuBAbFail9eSqKnO4VEq7J+TClkLLDkGlNB2t02vKo3c18whhShvSsFpPz2fFAZCq3zjaosBe1kfJBpQ==;cvd1ahnsXLzzZY8kylfJJw=="
+secured: "Se2HIeoTaJCnTxpvc4PZt3af0VnxyUp9BajUuy6rSNyppjkhNzC8lP89GofCrc5FB8QrqUxio1Sn16rN/S/0GvHjoaR/qxtiKBSXYWrzc07GA59fnjY4weqWWmC0Ma5kUOj/h7mLyikTuPuIMtHdCFwJ5FlyXPboLM2bn4r5yLXgA836DEdfieQbYH8Q1YpEyGN9B5NIS0XxPx9XVIYz5lDJws1P1iS0GPP0IRHu5PtwklZtT1zP+aw/jJzF8atIDsA0JMcb61cmX7r2qwQjmTFqvTwdx9/pkArI2YHpEDGhxcSChDqoI9lfMhZf8dfQOg3dtJTxVX0hSl2AUBH4yA==;Y16JdN6768+gjFhHzzz+fA=="
 ---
 

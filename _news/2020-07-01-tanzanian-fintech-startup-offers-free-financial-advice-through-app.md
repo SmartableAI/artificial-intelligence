@@ -41,20 +41,6 @@ related:
         width: 1428
         height: 960
         isCached: true
-  - title: "Tanzanian FinTech Launches Personal Finance App"
-    excerpt: "Mipango Fintech has launched a new app that will provide free personal financial management to Tanzanians on IOS and Android mobile devices. The app - which is underpinned by AI and operates in Swa"
-    publishedDateTime: 2020-06-30T08:40:00Z
-    webUrl: "https://www.itnewsafrica.com/2020/06/tanzanian-fintech-launches-personal-finance-app/"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 24
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/06/Mipango-App-696x458.png"
-        width: 696
-        height: 458
-        isCached: true
 
 secured: "8O/DyjVr3rky2tOA/t2f7Rt3TilKBTobfYrTtUsrqF5YMfYgwoDcRW0g6/KSK14UAz4StHKkfiwzTjb+zV3tYmsKAJ7cxz4Wd/iE99EHj/KOBpDYseaEvL6grdUo//5Lk3dlRwvhEwEUk98cCWBb6sFOKNH/wAw/70Y7xGUwyfxIKpPnzxA7Zy0AK5iPnFSxrzAgNk7OlkTDMJLaQzl2rZDiVfazBBQbfe+3xj4mEVZeDej3pyGH7rS4NB228zyQWG3bSHzd/B9mansb4dWa5r1k+4ET0K3Rz+3f3f+DSwaWuGGinDXR8gEOxWvFVR5leLiLJ+GFHVFI7GnSHJY1DEkKUUTk9rv02ooTvmzc+NqIGgVs4rA0AFpN3HeWhKKsBsSffp272/bIztnVH6v6DSNn35o+zUXB6/ZCC2wnMWrN0rrC5pXi8hktUTd/Kcka9nQAwK1RSDLjF2slAoxj3T2wjA/UuOEYIb69lrqoQQW5hOqsouq98fiCDacMqqB9T23rmQVpEuxGy635C9cubw==;AWHwiEj10llchjYKQMweSg=="
 ---

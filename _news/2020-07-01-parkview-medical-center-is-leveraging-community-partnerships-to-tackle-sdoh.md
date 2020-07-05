@@ -39,15 +39,6 @@ related:
         width: 635
         height: 353
         isCached: true
-  - title: "SDL and parson AG Form Partnership to Deliver Multilingual Technical Content"
-    excerpt: "SDL (LSE: SDL), the intelligent language and content company, has formed a strategic partnership with parson AG (“parson”), experts in technical commu"
-    publishedDateTime: 2020-06-30T07:23:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200630005045/en/SDL-parson-AG-Form-Partnership-Deliver-Multilingual"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 1
 
 secured: "GMWCUAD5nTNk6j6ONqoQI6UTbuAM2Tb69JWyXz/F2IqFhzfkfbgZ/Ly5M6M+4sScGG7uszKOrwKtNgWnYvwulsq7/MllEzVR+4Jdiq2GiIb9LTJfeVwbU+3yagIz2cyZiQAdKN8WORznW5LwooX38IfBf21Id3AZoE3NTMj6pLVx8P13BCy6Heb6Hau9v2qvBULZmPZT65Fqk3y54tVUS5rW+ludtlIqHeoZWQX+7xHE0UK7eGy6kPg2STevpW/LLt/X4DnXAH93Zp2VhXjNUbZrLOWWqw7CG1Q6/gBzOv5VMyx6EMSwHnb5ekhhBYdcjxJGPdJD7IIPaiF5wAS5OXCsopDTdRbuTahF13eWtFBJ1zNQWWjTRedmOc+46danxQ3tDwBfpkIZzh+QPxM4DQYrhsYjI0SCyGT0GUa/6IyukSehSspxgThJ9DIJlJ3rqbcJ9bRuIhCJFZyUDKDbxgct0Bkh9zCtjlbagFfM1G7wo4LIXnN3q7WO98dhyM0V4Rpo9NSj5U7W27daX3fAug==;e2HyMlTVUeGVsbx2pJtcqg=="
 ---

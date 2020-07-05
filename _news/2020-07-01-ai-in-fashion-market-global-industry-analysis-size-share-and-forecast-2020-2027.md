@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-01T11:08:00Z
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027-2020-07-01"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Diabetes Management Market 2028 Report Reviews Future Development, Manufacturers, Trends, Share, Size and Forecast"
-    excerpt: "Overview . The Global artificial intelligence in diabetes management market is likely to register significant growth"
-    publishedDateTime: 2020-06-30T07:58:00Z
-    webUrl: "https://www.medgadget.com/2020/06/artificial-intelligence-in-diabetes-management-market-2028-report-reviews-future-development-manufacturers-trends-share-size-and-forecast.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "5dQ083Jkrgn9YP5EdW6IEh7cjwef2ikQSy6fp68WnXY2FqaQChLNErCJzekLwjYx3d8NHeJcyCxh2Te2p9/qSzx0z2vbcI0N6JvISbV+7KwIE6vW1VuddG2Drq0p62TkavIMrmRDHrhdaSYqeXFb9wzwlyTywxFHr/Sx4Ejjb5VBBLQEKu5PqDN3iEJwpA9Ho6vpLnbxsXe/amDr1YOyrxhVkmu0qJrgmx39tDGtmtS4Rnayp1CNmRbuhvNXoqgfn035EmtoGqBU3tW0bxxpN9McGhUZebqXs5vzTSwd5l1sus78so09M4lH+p7VK+OfkTg7Wxqu2b0XdbrZfbPEWg==;SpESQxfVJmTDQSFV2cEiZA=="
 ---
