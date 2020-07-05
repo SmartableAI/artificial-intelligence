@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "Artificial intelligence (AI) Market Size is Expected to Reach USD 169,411.8 Million in 2025 - Valuates Reports"
 
-secured: "Gj2GOzx63cPQZA0ZSxt5m6h52hjqOnBoBLlw94La0maiS6SiVulEQL/74wf8U1NLoJ9rx/IdM3dk7sFoDZ6Q+EoN7s/RnBM7pMUWCaZ1zMFemWUjl5hjibTYpkymgdrveJOCgJIu1wz0+MwhN4/VagEV4TmInYe28MYo8sxJYay5g7O3g0DYua+pXKVFWql5b4HvquMOXWyvt/YTHv1E+t1+p4jo3FTne2ag/8UHxGTJ0gllqz7/QHCB78UZs6Tu748W/ZT88d9fc30RxBANVXo9f45Z2P5fGzBQeRzRk94QBki+vhWW1TB/Nkv1VmB3hOBBZvlRZYeLu/zU5a5c+g==;iTrLPlfoCWRqlKgVvxjc0g=="
+secured: "Li28mwB+lU0P7fma2bHF08DDhOlaR81zx8VDRijvGd5V0IhYXRi9yYrABvUt+/XWBm03xumqAB/fWCrNxOqJM9lo/X4incJHKUV45MEmMyIPWu0XfrMR95w92xQhHpThqCS8HFMCT9GaDYEwc/DA7baG3mQDr/C8UxCmuXOOrwaDcpKF6q2ufib22XhLeBN4CD6u8BMN8RZ5450/YI0vsIq+XlReZ+x0W9ldzvCcbXu6LDNyY47Xt3GOMxJ3GJ68B6dK0oi6/tfEzbMCcM8OPx8a+UZ7VQjJaoc1o2BOjok9PsQj+LbqaS/zOuBiBgvQu/7LteFpTcMq89Ipjb5hwZt1GWrs75bYBEnfcP5ba1yIMp5sBiKX63QlTQGBq8U0FXG4ixWcwjVOCyHPiXZEtvTeS5DNjYCpz87N2zWDODKbApejaD1hOPILP+jVGBnlKcHyuEQTUcJxGaY6lzwsLDHV/JPBom+JJxc5sMapZauci03sO2/d9GAsbWofZ1Z3IO+Ntwgzz34QE4pBMMaMuQ==;jmbvB6ArboN+5kwGUwJXqg=="
 ---
 

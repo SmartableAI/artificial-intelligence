@@ -2,6 +2,182 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-25-inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity.md",
+      "title": "Inclusive AI: Are AI hiring tools hurting corporate diversity?",
+      "excerpt": "More companies are using AI hiring tools in the hiring process to pinpoint premium candidates. But potential biases in these technologies have raised ethical concerns.",
+      "webUrl": "https://www.techrepublic.com/article/inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/06/25/93e5c41c-e9fb-4d75-a0da-9f14f5a5d5d3/resize/1200x/42e74b2fc02c29579b0ebee6d0ae7060/jovanmandic.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Inclusive AI: Are AI hiring tools hurting corporate diversity?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/",
+      "publishedDateTime": "2020-06-25T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-voice-ai-is-coming-to-the-workplace-loud-and-clear.md",
+      "title": "Voice + AI Is Coming To The Workplace Loud And Clear",
+      "excerpt": "While many of us have grown to rely on voice-based devices in our personal lives, our professional lives have yet to leverage the power of voice and AI, until now.",
+      "webUrl": "https://www.forbes.com/sites/ninaachadjian/2020/06/25/voice--ai-is-coming-to-the-workplace-loud-and-clear/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1128057578%2F0x0.jpg",
+          "width": 1200,
+          "height": 556,
+          "title": "Voice + AI Is Coming To The Workplace Loud And Clear",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ninaachadjian/2020/06/25/voice--ai-is-coming-to-the-workplace-loud-and-clear/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ninaachadjian/2020/06/25/voice--ai-is-coming-to-the-workplace-loud-and-clear/amp/",
+      "publishedDateTime": "2020-06-25T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-machine-learning-platform-mlflow-joins-the-linux-foundation.md",
+      "title": "Machine learning platform MLflow joins the Linux Foundation",
+      "excerpt": "Handing the platform run by Databricks to the vendor-neutral foundation will speed growth, the organizations say.",
+      "webUrl": "https://www.techrepublic.com/article/machine-learning-platform-mlflow-joins-the-linux-foundation/",
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/01/24/815af793-11d7-4337-8ab0-cc3048fe78cf/resize/1200x/fe1818e94dbdea2e87869e3264c8e2b5/opensourceistock-479493570boygovideo.jpg",
+          "width": 1200,
+          "height": 960,
+          "title": "Machine learning platform MLflow joins the Linux Foundation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-platform-mlflow-joins-the-linux-foundation/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-platform-mlflow-joins-the-linux-foundation/",
+      "publishedDateTime": "2020-06-25T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data.md",
+      "title": "Grants Available for COVID-19 Research that Uses Artificial Intelligence and Big Data",
+      "excerpt": "Research that Uses Artificial Intelligence and Big Data | Read more about UCF Colleges & Campus News, Research, Orlando and Central Florida news.",
+      "webUrl": "https://www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/",
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ucf.edu/news/files/2020/06/WebAI.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Grants Available for COVID-19 Research that Uses Artificial Intelligence and Big Data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/?amp",
+      "cdnAmpWebUrl": "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/?amp",
+      "publishedDateTime": "2020-06-25T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UCF Today",
+        "domain": "ucf.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-intel-aims-to-bring-ai-education-to-community-colleges.md",
       "title": "Intel aims to bring AI education to community colleges",
       "excerpt": "The AI and ML deployments are well underway, but for CXOs the biggest issue will be managing these initiatives, and figuring out where the data science team fits in and what algorithms to buy versus build.",
@@ -1182,149 +1358,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-eurotech-announces-software-qualification-of-everyware-software-framework-with-aws-iot-core.md",
-      "title": "Eurotech Announces Software Qualification of Everyware Software Framework with AWS IoT Core",
-      "excerpt": "Eurotech a company that designs, develops, and deploys hardware, software, services and solutions for the Internet of Things (IoT) is extending its commitment as a Select Technology Partner in the Amazon Web Services (AWS) Partner Network and today announced the software qualification of the Eurotech Everyware Software Framework (ESF) with AWS IoT Core.",
-      "webUrl": "https://www.newswiretoday.com/news/173150/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly.md",
-      "title": "Apple’s Core ML now lets app developers update AI models on the fly",
-      "excerpt": "Apple's Core ML can now update AI models without the need to ship an App Store update, while Create ML now has an action classification template.",
-      "webUrl": "https://venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/apple-core-ml.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 574,
-          "title": "Apple’s Core ML now lets app developers update AI models on the fly",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/amp/",
-      "publishedDateTime": "2020-06-24T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-sas-and-microsoft-partner-on-future-of-analytics-and-ai.md",
-      "title": "SAS and Microsoft Partner on Future of Analytics And AI",
-      "excerpt": "“Through this partnership, Microsoft and SAS will help our customers accelerate growth and find new ways to drive innovation with a broad set of SAS Analytics offerings on Microsoft Azure,” said Scott Guthrie, EVP, Cloud and AI, Microsoft ...",
-      "webUrl": "https://www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm",
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "http://www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm/amp",
-      "cdnAmpWebUrl": "https://www-iotevolutionworld-com.cdn.ampproject.org/c/www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm/amp",
-      "publishedDateTime": "2020-06-24T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iotevolutionworld.com",
-        "domain": "iotevolutionworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-video-using-deep-learning-to-combat-cheating-in-counter-strike.md",
-      "title": "Video: Using deep learning to combat cheating in Counter-Strike",
-      "excerpt": "In this GDC 2018 talk Valve's John McDonald discusses how the company has utilized deep learning machine learning techniques to combat cheating in Counter-Strike: Global Offensive .",
-      "webUrl": "https://gamasutra.com/view/news/365410/Video_Using_deep_learning_to_combat_cheating_in_CounterStrike.php",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/remedy.gif",
-          "width": 341,
-          "height": 214,
-          "title": "Video: Using deep learning to combat cheating in Counter-Strike",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gamasutra",
-        "domain": "gamasutra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

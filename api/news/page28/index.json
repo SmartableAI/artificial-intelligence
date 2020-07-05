@@ -2,6 +2,185 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-06-11-openai-launches-an-api-to-commercialize-its-research.md",
+      "title": "OpenAI launches an API to commercialize its research",
+      "excerpt": "OpenAI launched an API to commercialize -- and prevent the abuse of -- the AI and machine leraning models it's actively developing.",
+      "webUrl": "https://venturebeat.com/2020/06/11/openai-launches-an-api-to-commercialize-its-research/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "OpenAI launches an API to commercialize its research",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/11/openai-launches-an-api-to-commercialize-its-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/openai-launches-an-api-to-commercialize-its-research/amp/",
+      "publishedDateTime": "2020-06-11T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-superannotate-uses-ai-techniques-to-speed-up-data-labeling.md",
+      "title": "SuperAnnotate uses AI techniques to speed up data labeling",
+      "excerpt": "SuperAnnotate, a startup developing AI-powered data labeling and annotation tools, raised $3 million in a seed funding round.",
+      "webUrl": "https://venturebeat.com/2020/06/11/superannotate-uses-ai-techniques-to-speed-up-data-labeling/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/ea7130cc-4a60-44b6-b483-faa3bfc97716-e1591656959570.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "SuperAnnotate uses AI techniques to speed up data labeling",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/11/superannotate-uses-ai-techniques-to-speed-up-data-labeling/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/superannotate-uses-ai-techniques-to-speed-up-data-labeling/amp/",
+      "publishedDateTime": "2020-06-11T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-openais-text-generator-is-going-commercial.md",
+      "title": "OpenAI’s Text Generator Is Going Commercial",
+      "excerpt": "Last spring, artificial intelligence research institute OpenAI said it had made software so good at generating text—including fake news articles—that it was too dangerous to release.",
+      "webUrl": "https://www.wired.com/story/openai-text-generator-going-commercial/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ee185bc9798446ce8080154/master/pass/OpenAI-Commercial-Venture_-86506626.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": "OpenAI’s Text Generator Is Going Commercial",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/openai-text-generator-going-commercial/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/openai-text-generator-going-commercial/amp",
+      "publishedDateTime": "2020-06-11T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study.md",
+      "title": "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study",
+      "excerpt": "We study spiking neural networks, which are systems that learn much as living brains do,” said Los Alamos National Laboratory computer scientist Yijing Watkins. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development.",
+      "webUrl": "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://starctmag.com/wp-content/uploads/2020/06/Artificial-Brains-Need-Sleep-Just-as-Much-as-Regular-Brains-Do-New-Study.jpg",
+          "width": 744,
+          "height": 389,
+          "title": "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/amp/",
+      "cdnAmpWebUrl": "https://starctmag-com.cdn.ampproject.org/c/s/starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/amp/",
+      "publishedDateTime": "2020-06-11T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StarMag",
+        "domain": "starctmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-deep-learning-robotics-granted-new-patent-from-us-patent-office-for-robotic-learning.md",
       "title": "Deep Learning Robotics Granted New Patent from U.S. Patent Office for Robotic Learning",
       "excerpt": "CAESAREA, Israel, June 11, 2020 /PRNewswire/ -- Deep Learning Robotics Ltd., a leading technology company focused on robotics and automation solutions, announced that the United States Patent and ...",
@@ -840,169 +1019,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-robots-usage-rises-amid-coronavirus-crisis-etfs-to-gain.md",
-      "title": "Robots' Usage Rises Amid Coronavirus Crisis: ETFs to Gain",
-      "excerpt": "The fund tracks investment results that correspond generally to the performance of the Indxx Global Robotics & Artificial Intelligence Thematic Index. Notably, the fund provides exposure to the performance of companies that benefit from the rising adoption of AI, robotics and automation. The fund has 37 holdings with AUM of $1.51 billion.",
-      "webUrl": "https://www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10",
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10?amp",
-      "publishedDateTime": "2020-06-10T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-amazon-pauses-police-use-of-its-facial-recognition-software.md",
-      "title": "Amazon Pauses Police Use of Its Facial Recognition Software",
-      "excerpt": "The company said it hoped the moratorium “might give Congress enough time to put in place appropriate rules” for the technology.",
-      "webUrl": "https://www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.html",
-      "heat": 841,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/06/10/business/10UNREST-AMAZON-sub/10UNREST-AMAZON-sub-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": "Amazon Pauses Police Use of Its Facial Recognition Software",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.amp.html",
-      "publishedDateTime": "2020-06-10T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-how-a-kirkland-company-uses-ai-to-make-it-safer-for-you-to-return-to-your-office.md",
-      "title": "How a Kirkland company uses AI to make it safer for you to return to your office",
-      "excerpt": "Nomad Go's HealthySpaces system collects anonymous data using computer vision and can track how many people have entered and exited an office and whether people are social distancing. It can also ...",
-      "webUrl": "https://www.bizjournals.com/seattle/news/2020/06/10/nomad-go-ai-computer-vision-office-covid-kirkland.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11677837/nomad-go-mask-detection*600xx1676-1122-0-0.png",
-          "width": 600,
-          "height": 401,
-          "title": "How a Kirkland company uses AI to make it safer for you to return to your office",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/seattle/news/2020/06/10/nomad-go-ai-computer-vision-office-covid-kirkland.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2020/06/10/nomad-go-ai-computer-vision-office-covid-kirkland.amp.html",
-      "publishedDateTime": "2020-06-10T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-ibm-for-financial-services-banking-tradition-meets-hybrid-cloud.md",
-      "title": "IBM for Financial Services: Banking Tradition Meets Hybrid Cloud",
-      "excerpt": "WEEK FINANCIAL IT ANALYSIS: Banks are often leading-edge adopters of the latest technological solutions, such as hybrid cloud, digital transformation and artificial intelligence. But there's always something new to consider,",
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/ibm-for-financial-services-banking-tradition-meets-hybrid-cloud",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/06/Banking.apps.JPG?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": "IBM for Financial Services: Banking Tradition Meets Hybrid Cloud",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-10T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

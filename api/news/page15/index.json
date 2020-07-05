@@ -2,6 +2,174 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-06-22-integrating-spatial-gene-expression-and-breast-tumour-morphology-via-deep-learning.md",
+      "title": "Integrating spatial gene expression and breast tumour morphology via deep learning",
+      "excerpt": "Deep learning can predict spatial variations in gene expression from haematoxylin-and-eosin-stained histopathology images of patients with cancer.",
+      "webUrl": "https://www.nature.com/articles/s41551-020-0578-x",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41551-020-0578-x/MediaObjects/41551_2020_578_Fig1_HTML.png",
+          "width": 685,
+          "height": 594,
+          "title": "Integrating spatial gene expression and breast tumour morphology via deep learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-visa-unveils-ai-tool-to-help-stop-digital-identity-fraud.md",
+      "title": "Visa unveils AI tool to help stop digital identity fraud",
+      "excerpt": "Billions of people have had their information stolen online, and Visa is hoping its new AI solution will help banks handle fraudulent accounts.",
+      "webUrl": "https://www.techrepublic.com/article/visa-unveils-ai-tool-to-help-stop-digital-identity-fraud/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/07/30/d7796d74-b0e3-448b-8a77-8e17921eb4b6/resize/1200x/301705e54e230a0dd5dd7aac79c2bc0b/istock-949770040.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Visa unveils AI tool to help stop digital identity fraud",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/visa-unveils-ai-tool-to-help-stop-digital-identity-fraud/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/visa-unveils-ai-tool-to-help-stop-digital-identity-fraud/",
+      "publishedDateTime": "2020-06-22T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-ai-could-help-astronomers-unravel-the-mystery-of-dark-matter.md",
+      "title": "AI could help astronomers unravel the mystery of dark matter",
+      "excerpt": "Everything we see in the Universe around us — stars, planets, galaxies, and more — totals less than five percent of the total mass and energy that fills the Cosmos. The nature of dark matter and dark energy,",
+      "webUrl": "https://thenextweb.com/neural/2020/06/22/ai-could-help-astronomers-unravel-the-mystery-of-dark-matter-syndication/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-2-6-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI could help astronomers unravel the mystery of dark matter",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/22/ai-could-help-astronomers-unravel-the-mystery-of-dark-matter-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/22/ai-could-help-astronomers-unravel-the-mystery-of-dark-matter-syndication/amp/",
+      "publishedDateTime": "2020-06-22T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-new-study-on-neural-networks-has-implications-for-improved-ai-applications.md",
+      "title": "New Study on Neural Networks has Implications for Improved AI Applications",
+      "excerpt": "At North Carolina State University, researchers have found when neural networks are taught physics, they can better adapt to chaos within their environment.",
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=11379",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.azorobotics.com/images/news/ImageForNews_11379_15928251179826128.png",
+          "width": 950,
+          "height": 535,
+          "title": "New Study on Neural Networks has Implications for Improved AI Applications",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=11379",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11379",
+      "publishedDateTime": "2020-06-22T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-nvidia-reveals-pcie-40-version-of-its-ampere-a100-gpu.md",
       "title": "Nvidia reveals PCIe 4.0 version of its Ampere A100 GPU",
       "excerpt": "Nvidia finally showed off its new 7nm Ampere architecture last month in the form of the A100 GPU. Now, the company has announced a number of A100 powered systems from leading server manufacturers, including Asus,",
@@ -947,177 +1115,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards.md",
-      "title": "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards",
-      "excerpt": "Facebook announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and groundbreaking academic research in the field of artificial intelligence (AI) ethics.",
-      "webUrl": "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/",
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/assets/uploads/2020/06/07/Facebook-removes-nearly-200-accounts-tied-to-hate-groups.jpg",
-          "width": 715,
-          "height": 450,
-          "title": "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/",
-      "publishedDateTime": "2020-06-21T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-type-x-armored-combat-robot-equipped-for-unmanned-convoy-protection.md",
-      "title": "Type-X armored combat robot equipped for unmanned convoy protection",
-      "excerpt": "Estonia-based Milrem Robotics and Belgium's John Cockerill Defense have unveiled Milrem's Type-X Robotic Combat Vehicle. Based on a modular design and equipped with the Cockerill Protected Weapons Station Generation II (CPWS II) turret,",
-      "webUrl": "https://newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/a91bde8/2147483647/strip/true/crop/2560x1707+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Feb%2F43%2F55a42262488984eecb91ad84851a%2Fimg-0688-scaled.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Type-X armored combat robot equipped for unmanned convoy protection",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/?amp=true",
-      "publishedDateTime": "2020-06-21T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player.md",
-      "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
-      "excerpt": "Whilst we patiently wait for the day that Womble-shaped robots replace human tennis players at Wimbledon, we can admire the IBM powered AI technology ... them into the huge Watson driven analytics ...",
-      "webUrl": "https://hackaday.com/2019/07/08/wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/07/Wimbledon.jpg",
-          "width": 862,
-          "height": 320,
-          "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-21T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems.md",
-      "title": "Waymo and Uber propose AI techniques to improve self-driving systems",
-      "excerpt": "Waymo and Uber researchers presented new techniques to improve the reliability -- and safety -- of their self-driving systems.",
-      "webUrl": "https://venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/",
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/waymo-ipace-e1572290208222.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Waymo and Uber propose AI techniques to improve self-driving systems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/amp/",
-      "publishedDateTime": "2020-06-21T16:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

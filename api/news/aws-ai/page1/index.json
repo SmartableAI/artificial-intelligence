@@ -148,7 +148,7 @@
       "title": "Deriving conversational insights from invoices with Amazon Textract, Amazon Comprehend, and Amazon Lex",
       "excerpt": "Organizations across industries have a large number of physical documents such as invoices that they need to process. It is difficult to extract information from a scanned document when it contains tables, forms, paragraphs, and check boxes. Organization have been addressing these problems with manual",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/deriving-conversational-insights-from-invoices-with-amazon-textract-amazon-comprehend-and-amazon-lex/",
-      "heat": 123,
+      "heat": 103,
       "tags": null,
       "images": [
         {

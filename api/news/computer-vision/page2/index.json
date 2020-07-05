@@ -2,6 +2,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-18-rockset-redefines-the-data-stack-for-ai-powered-computer-vision.md",
+      "title": "Rockset Redefines the Data Stack for AI-Powered Computer Vision",
+      "excerpt": "June 18, 2020 (GLOBE NEWSWIRE) -- Rockset, the real-time indexing database in the cloud, today announced that it is redefining the real-time data stack for AI-powered computer vision, an industry ...",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/06/18/2050169/0/en/Rockset-Redefines-the-Data-Stack-for-AI-Powered-Computer-Vision.html",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-chinese-ai-researchers-based-overseas-sweep-top-awards-at-leading-computer-vision-conference-cvpr.md",
       "title": "Chinese AI researchers based overseas sweep top awards at leading computer vision conference CVPR",
       "excerpt": "At leading computer vision gathering Conference on Computer Vision and Pattern Recognition, Chinese researchers were behind both papers recognised as the best appearing at the event.",
@@ -1254,53 +1283,6 @@
         "name": "The Business Journals",
         "domain": "bizjournals.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-ibm-to-withdraw-from-facial-recognition-market-out-of-profiling-fears.md",
-      "title": "IBM to withdraw from facial recognition market out of profiling fears",
-      "excerpt": "IBM announced Monday that it's withdrawing from the general-purpose facial recognition market, saying it worries that the technology is being used to promote discrimination and racial injustice. \"IBM firmly opposes and will not condone uses of any technology,",
-      "webUrl": "https://www.cnet.com/news/ibm-to-withdraw-from-the-facial-recognition-market/",
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/2YCY2VYaqmWyBiu8wIF6yuDay-U=/756x567/2020/06/08/01fcb072-edca-4af7-b53a-86ac83be9b9c/gettyimages-11893847311.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "IBM to withdraw from facial recognition market out of profiling fears",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-to-withdraw-from-the-facial-recognition-market/",
-      "publishedDateTime": "2020-06-09T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

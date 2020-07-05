@@ -2,6 +2,167 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-05-25-why-robots-will-need-humans-in-the-future.md",
+      "title": "Why robots will need humans in the future",
+      "excerpt": "Ben Shneiderman, a University of Maryland computer scientist who has for decades warned against blindly automating tasks with computers, thinks fully automated cars and the tech industry’s vision for a robotic future is misguided.",
+      "webUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.orlandosentinel.com/resizer/-RkmdLbQY_5T6dnGwSJV5mIp7-g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JTAXB6YFGFAU7AZ5272JMTGK3I.png",
+          "width": 1200,
+          "height": 858,
+          "title": "Why robots will need humans in the future",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp",
+      "publishedDateTime": "2020-05-25T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orlando Sentinel",
+        "domain": "orlandosentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-conversational-artificial-intelligence-ai-market-overall-study-report-with-top-key-players.md",
+      "title": "Conversational Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
+      "excerpt": "Kenneth Research has published a detailed report on Conversational Artificial Intelligence (AI) Market which has",
+      "webUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-overall-study-report-with-top-key-players-2020-05-25",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Conversational Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-25T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-adobe-premiere-pro-may-2020-amd-vs-nvidia-gpu-encoding-performance.md",
+      "title": "Adobe Premiere Pro May 2020 AMD vs NVIDIA GPU Encoding Performance",
+      "excerpt": "The latest versions of Adobe's Premiere Pro and Media Encoder bring significant encode performance improvements to our graphics cards. With this 14.2 release, we revisited all 21 GPUs we just finished testing for our latest Radeon Pro review,",
+      "webUrl": "https://techgage.com/article/adobe-premiere-pro-may-2020-amd-vs-nvidia-gpu-encoding-performance/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techgage.com/wp-content/uploads/2020/06/Adobe-Premiere-Pro-Logo-600x315-cropped.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "Adobe Premiere Pro May 2020 AMD vs NVIDIA GPU Encoding Performance",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-25T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techgage",
+        "domain": "techgage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas.md",
+      "title": "Ed-tech startup to offer free AI, coding & robotics courses for children in rural areas",
+      "excerpt": "Robochamps, an edtech start-up dedicated to introducing kids to early AI education, recently launched online courses in robotics and coding in multiple languages, including Hindi, Gujarati, Punjabi, a",
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/article31671631.ece",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Ed-tech startup to offer free AI, coding & robotics courses for children in rural areas",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/article31671631.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/article31671631.ece/amp/",
+      "publishedDateTime": "2020-05-25T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-25-global-deep-learning-chipset-market-2019-to-2027-industry-analysis-size-share-growth-trends-and-forecast-researchandmarketscom.md",
       "title": "Global Deep Learning Chipset Market (2019 to 2027) - Industry Analysis, Size, Share, Growth, Trends and Forecast - ResearchAndMarkets.com",
       "excerpt": "The \"Deep Learning Chipset Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2019 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ...",
@@ -903,195 +1064,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-hitting-the-books-do-we-really-want-our-robots-to-have-consciousness.md",
-      "title": "Hitting the Books: Do we really want our robots to have consciousness?",
-      "excerpt": "Although I argue for self-awareness, I do not believe that we need to worry about consciousness. Let’s first try to build some interesting robots without consciousness and see how far we get.",
-      "webUrl": "https://www.engadget.com/hitting-the-books-how-to-grow-a-robot-mark-lee-150031360.html",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F8b194eb0-9c5b-11ea-b6fd-8ed4d5e48c49&client=amp-blogside-v2&signature=63f3f512471b9e4ba21e47e49d51de72ff3205b3",
-          "width": 600,
-          "height": 350,
-          "title": "Hitting the Books: Do we really want our robots to have consciousness?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/hitting-the-books-how-to-grow-a-robot-mark-lee-150031360.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/hitting-the-books-how-to-grow-a-robot-mark-lee-150031360.html",
-      "publishedDateTime": "2020-05-23T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-everything-you-need-to-know-about-neuromorphic-computing.md",
-      "title": "Everything you need to know about neuromorphic computing",
-      "excerpt": "In July, a group of artificial intelligence researchers showcased a self-driving bicycle that could navigate around obstacles, follow a person, and respond to voice commands. While the self-driving bike itself was of little use,",
-      "webUrl": "https://thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/1-26-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Everything you need to know about neuromorphic computing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/amp/",
-      "publishedDateTime": "2020-05-23T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus.md",
-      "title": "What Can Tesla And Waymo Learn From A Human’s Ability To Focus",
-      "excerpt": "Humans focus to drive while autonomous vehicles try to be knowledge oracles. Perhaps the human approach is better.",
-      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/05/23/what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec8e9886fdb740006902ba2%2F0x0.jpg",
-          "width": 1199,
-          "height": 579,
-          "title": "What Can Tesla And Waymo Learn From A Human’s Ability To Focus",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/05/23/what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/05/23/what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus/amp/",
-      "publishedDateTime": "2020-05-23T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2020-industry-demands-insight-forecast-by-2025.md",
-      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market 2020 Industry Demands, Insight & Forecast by 2025",
-      "excerpt": "The artificial intelligence and robotics in the aerospace and defense market (henceforth, referred to as the market studied) is anticipated to register a CAGR of over 20% during the forecast period. - The use of robots in space exploration,",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2020-industry-demands-insight-forecast-by-2025-2020-05-23",
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market 2020 Industry Demands, Insight & Forecast by 2025",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-23T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI in Robotics"
       ]
     }

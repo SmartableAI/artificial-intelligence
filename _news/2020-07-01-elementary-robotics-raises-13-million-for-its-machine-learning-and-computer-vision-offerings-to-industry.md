@@ -36,22 +36,6 @@ related:
         width: 1024
         height: 594
         isCached: true
-  - title: "Elementary Robotics raises $12.7M to expand AI manufacturing platform"
-    excerpt: "The Los Angeles-based startup has built a hardware and software platform for applying machine learning and computer vision for intelligent automation of quality and traceability workflows in manufacturing and logistics."
-    publishedDateTime: 2020-06-30T16:31:00Z
-    webUrl: "https://www.bizjournals.com/losangeles/news/2020/06/30/elementary-robotics-raises-127m-ai-platform.html"
-    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/06/30/elementary-robotics-raises-127m-ai-platform.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/06/30/elementary-robotics-raises-127m-ai-platform.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 89
-    images:
-      - url: "https://media.bizj.us/view/img/10715656/tmmtx-toyota-assembly-line-05*600xx6000-4000-0-0.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "LA's Elementary Robotics Finds $12.7M For Industrial Inspections"
     excerpt: "Los Angeles-based Elementary Robotics, a new startup led by startup veteran Arye Barnehama, said on Tuesday that it has raised $12.7M in funding for its industrial robotics company. The funding was led by Threshold Ventures,"
     publishedDateTime: 2020-06-30T18:00:00Z

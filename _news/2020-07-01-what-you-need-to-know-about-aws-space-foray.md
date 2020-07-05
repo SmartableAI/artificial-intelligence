@@ -39,20 +39,6 @@ related:
         width: 610
         height: 457
         isCached: true
-  - title: "AWS Seeking Bigger Stake In The Space Race"
-    excerpt: "AWS is launching a new aerospace and satellite solutions division, led by retired U.S. Air Force Maj. Gen. Clint Crosier, to win military and commercial space organizations as cloud computing customer"
-    publishedDateTime: 2020-06-30T16:12:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-seeking-bigger-stake-in-the-space-race"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/025e-0fc6b94b58bc-3d37b2f6653a-1000/1010819940.jpg"
-        width: 610
-        height: 343
-        isCached: true
 
 secured: "X9ZP5eO0REinEGWp0pcSl6AWuw6S/yMC1pyZJAtqOVEa/xwfvv7U9rBG/hynY7Pg9uHWvrHTM4X8unfYLmBkuacv6BVnnCLnYuqaEtQJ4fSamgWnDbMWlWUhnGfH552udWUEu91bnMpbY0E9yKckHseq6o0uho6NMtmDLVZZ5LJY3xsF8oF15ji23KF5Qg5lPAO4WMP2RCh1x8FX5iebC5P0W6E2p4zXcSdGEgoeX7lLBjFNZTn6tl7MWwSooebapJyOCGUIZ2bzNKGxdwWFaeZ93hfK9vMR+TskAfvU0zPvzaBxyzqu7RBv+DShnlBbKiW1eOcFTocTTQtZ0a2xYQ==;gWWcNhpW20/w2mPfY3Sc1w=="
 ---

@@ -25,20 +25,6 @@ images:
     title: "5 Big Things To Know About AWS’ Space Foray"
 
 related:
-  - title: "AWS Seeking Bigger Stake In The Space Race"
-    excerpt: "AWS is launching a new aerospace and satellite solutions division, led by retired U.S. Air Force Maj. Gen. Clint Crosier, to win military and commercial space organizations as cloud computing customer"
-    publishedDateTime: 2020-06-30T16:12:00Z
-    webUrl: "https://www.crn.com/news/cloud/aws-seeking-bigger-stake-in-the-space-race"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/025e-0fc6b94b58bc-3d37b2f6653a-1000/1010819940.jpg"
-        width: 610
-        height: 343
-        isCached: true
   - title: "What you need to know about AWS’ space foray"
     excerpt: "With the majority of its projects requiring more autonomous behaviors, it’s continuing to build its workforce’s skills in AI and ML with tools including AWS DeepRacer, which uses reinforcement ..."
     publishedDateTime: 2020-07-01T02:47:00Z

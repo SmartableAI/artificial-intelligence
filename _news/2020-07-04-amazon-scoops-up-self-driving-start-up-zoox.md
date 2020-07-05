@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Amazon Acquires Self-Driving Startup Zoox Led By Black Female CEO for $1.2 Billion"
-    excerpt: "Amazon purchased Zoox, a developer of autonomous vehicles, for $1.2 billion. Zoox CEO Aicha Evans will remain in her current position."
-    publishedDateTime: 2020-06-30T16:00:00Z
-    webUrl: "https://www.blackenterprise.com/amazon-acquires-self-driving-startup-zoox-led-by-black-female-ceo-for-1-2-billion/"
-    ampWebUrl: "https://www.blackenterprise.com/amazon-acquires-self-driving-startup-zoox-led-by-black-female-ceo-for-1-2-billion/amp/"
-    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/amazon-acquires-self-driving-startup-zoox-led-by-black-female-ceo-for-1-2-billion/amp/"
-    type: article
-    provider:
-      name: Black Enterprise
-      domain: blackenterprise.com
-    quality: 38
-    images:
-      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2018/11/iStock-1044976052-e1543353645571.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Amazon Acquires Self-Driving Startup Zoox From Senegalese-Born CEO For Over $1.2bn"
     excerpt: "E-commerce giant Amazon has reportedly forked out more than $1.2 billion to buy the self-driving startup Zoox. On Friday, both companies announced they had signed a"
     publishedDateTime: 2020-07-01T18:04:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/01/stanford-ai-researchers-introduce
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     title: "Stanford AI researchers introduce LILAC, reinforcement learning for dynamic environments"
 
 related:
-  - title: "Researchers combine reinforcement learning and NLP to escape a Grue monster"
-    excerpt: "Researchers from Georgia Tech and Microsoft combined reinforcement learning and language models to outperform state-of-the-art AI in text adventures games."
-    publishedDateTime: 2020-06-30T16:48:00Z
-    webUrl: "https://venturebeat.com/2020/06/30/researchers-combine-reinforcement-learning-and-nlp-to-escape-a-grue-monster/"
-    ampWebUrl: "https://venturebeat.com/2020/06/30/researchers-combine-reinforcement-learning-and-nlp-to-escape-a-grue-monster/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/researchers-combine-reinforcement-learning-and-nlp-to-escape-a-grue-monster/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/11973724825_4aa60d5971_k.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 692
-        isCached: true
   - title: "Reinforcement Learning - Startup Ecosystem Booming Segments; Investors Seeking Growth"
     excerpt: "Startup Ecosystem Market is conducted to provide hidden gems performance analysis. The study is a perfect mix of qualitative and quantitative information covering market size breakdown of revenue and volume (if applicable) by important segments."
     publishedDateTime: 2020-07-01T22:43:00Z

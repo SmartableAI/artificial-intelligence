@@ -8,8 +8,8 @@ ampWebUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Business Insider
@@ -31,44 +31,21 @@ images:
     title: "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says"
 
 related:
-  - title: "Facial recognition software fails to correctly identify people '96 percent of the time,' according to Detroit's chief of police"
-    excerpt: "Facial recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief."
-    publishedDateTime: 2020-06-30T15:48:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
+  - title: "Detroit police challenged over face recognition flaws, bias"
+    excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police. And"
+    publishedDateTime: 2020-07-03T09:01:00Z
+    webUrl: "https://www.pressofatlanticcity.com/news/national/detroit-police-challenged-over-face-recognition-flaws-bias/article_f461240c-bc52-535d-988e-6d4a49abe01d.html"
+    ampWebUrl: "https://www.pressofatlanticcity.com/news/national/detroit-police-challenged-over-face-recognition-flaws-bias/article_f461240c-bc52-535d-988e-6d4a49abe01d.amp.html"
+    cdnAmpWebUrl: "https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/news/national/detroit-police-challenged-over-face-recognition-flaws-bias/article_f461240c-bc52-535d-988e-6d4a49abe01d.amp.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
+      name: The Press of Atlantic City
+      domain: pressofatlanticcity.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Detroit police chief cops to 96-percent facial recognition error rate"
-    excerpt: "Detroit's police chief admitted on Monday that facial recognition technology used by the department misidentifies suspects about 96 percent of the time. It's an eye-opening admission given that the Detroit Police Department is facing criticism for arresting a man based on a bogus match from facial recognition software."
-    publishedDateTime: 2020-06-30T16:12:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2020/06/detroit-police-chief-admits-facial-recognition-is-wrong-96-of-the-time/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 49
-  - title: "Detroit coppers admit that facial recognition systems are useless"
-    excerpt: "But they have used them against Black people anyway Detroit police have used highly unreliable facial recognition technology almost exclusively against Black people so far in 2020, according to the Detroit Police Department's own statistics."
-    publishedDateTime: 2020-07-02T09:59:00Z
-    webUrl: "https://www.fudzilla.com/news/51106-coppers-admit-that-facial-recognition-systems-are-useless"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/42342f6796f92cddecf7d8032ec25edb_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/4/42/4422327a-85d0-5e2a-8fe0-58d37d23f9f1/5ef3474fd3e4e.image.jpg?resize=1024%2C738"
+        width: 1024
+        height: 738
         isCached: true
 
 secured: "WsUKHmXnpN1pyl+miel2h9b+yWA/dFWtT3WKSotB431BHklgN4vdA0k0QnnkIJTDcHQNdFhNGxwOHQaZLVfblHcpNEOoOMHWSgZFtiou3HHw88JLFSwhmmmz3g3WVNgy/JMxnxQu+uC5qFmb+W334bnkekmDqjb0c1aWsonoeTZE/qLp1h1IFHqDbenH7dWO8BiQyrJLvZ6z+Sq5FqnWwaB5PPxjhoCsTIC8l+pvam3yMI/qNqOe0BqC5ZJt1J5CnSLLMSaNzQCtmtcRd+ITGSKxO+1aGfr+DSfruYx6tPMCFGgcEtKWl0wW7N/MfWh1P8q+6q52na886WgJcudTtAYzMNiOicNx6pvEejHdkE9By9IsCICXKCl8CsCNbrvPs6sgY5pOgq5ATt++V8n6CmBk9iVLodMFWjbgEAYoYc0joFSC+MTUin0k02kD4zofpidMd3oC7MwcGnWoPU4bzFp3ZtAJ/vaRqiF3PB9n957tEED56AF/aXhYainRkKUwbNU07Hg5pidbAnSEKC8dgg==;uIeMHcC66q8oQkV5XdSARg=="

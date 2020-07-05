@@ -2,6 +2,193 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-29-introducing-the-open-source-amazon-sagemaker-xgboost-algorithm-container.md",
+      "title": "Introducing the open-source Amazon SageMaker XGBoost algorithm container",
+      "excerpt": "XGBoost is a popular and efficient machine learning (ML) algorithm for regression and classification tasks on tabular datasets. It implements a technique known as gradient boosting on trees and performs remarkably well in ML competitions. Since its launch, Amazon SageMaker has supported XGBoost as a",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-the-open-source-amazon-sagemaker-xgboost-algorithm-container/",
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "Introducing the open-source Amazon SageMaker XGBoost algorithm container",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T06:49:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-cellular-machine-to-machine-m2m-market-share-segmentation-growth-and-size-att-inc-verizon-communication-china-mobile-ltd.md",
+      "title": "Cellular Machine to Machine (M2M) Market Share, Segmentation, Growth and Size |AT&T Inc, Verizon Communication, China Mobile Ltd",
+      "excerpt": "Global market segmentation, by end-use: Banking, Financial Services and Insurance (BFSI), Media & Communication ... Artificial Intelligence (AI), Machine Learning, Deep Learning, Supervised Learning, Unsupervised Learning Get Detailed About COVID-19 ...",
+      "webUrl": "https://www.marketwatch.com/press-release/cellular-machine-to-machine-m2m-market-share-segmentation-growth-and-size-att-inc-verizon-communication-china-mobile-ltd-2020-06-29",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cellular Machine to Machine (M2M) Market Share, Segmentation, Growth and Size |AT&T Inc, Verizon Communication, China Mobile Ltd",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-this-ai-detects-political-affiliation-just-by-reading-tweets-about-covid-19.md",
+      "title": "This AI detects political affiliation just by reading tweets about COVID-19",
+      "excerpt": "A new AI tool has shown how fractured the rhetoric of politicians has been on COVID-19 by analyzing their tweets about the pandemic.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/29/this-ai-detects-political-affiliation-just-by-reading-tweets-about-covid-19/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-87-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "This AI detects political affiliation just by reading tweets about COVID-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/29/this-ai-detects-political-affiliation-just-by-reading-tweets-about-covid-19/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/29/this-ai-detects-political-affiliation-just-by-reading-tweets-about-covid-19/amp/",
+      "publishedDateTime": "2020-06-29T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-ibm-research-releases-differential-privacy-library-that-works-with-machine-learning.md",
+      "title": "IBM Research releases differential privacy library that works with machine learning",
+      "excerpt": "The open-source repository is unique in that most tasks can be run with only a single line of code, according to the company.",
+      "webUrl": "https://www.techrepublic.com/article/ibm-research-releases-differential-privacy-library-that-works-with-machine-learning/",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/ab340b3d-b283-4c37-a8e2-3e935ad2e1f9/resize/1200x/c8b23509f1bf1295de842ccc4200bb3f/istock-1225893654.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM Research releases differential privacy library that works with machine learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-research-releases-differential-privacy-library-that-works-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-research-releases-differential-privacy-library-that-works-with-machine-learning/",
+      "publishedDateTime": "2020-06-29T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing.md",
       "title": "Area 1 Security raises $25 million for AI tools to protect against phishing",
       "excerpt": "Area 1 Security, a cybersecurity vendor whose products leverage AI and machine learning to protect against phishing, has raised $25 million.",
@@ -647,20 +834,29 @@
     {
       "path": "_news/2020-06-29-enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments.md",
       "title": "Enabling Technologies to Offer Three New Proactive, Painless, and Complimentary Security Assessments",
-      "excerpt": "Enabling Technologies has recognized that attackers are increasing their attacks while organizations are working from home.",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/n16422169/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments",
+      "excerpt": "Enabling Technologies has recognized that attackers are increasing their attacks while organizations are working from home. To as",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367",
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16422169",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16422169",
-      "publishedDateTime": "2020-06-28T21:00:00-07:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367",
+      "publishedDateTime": "2020-06-28T21:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -952,192 +1148,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-amazon-acquires-self-driving-car-startup-zoox.md",
-      "title": "Amazon Acquires Self-Driving Car Startup Zoox",
-      "excerpt": "Although Zoox has been trying to develop a robot taxi service, Amazon could use the same technologies to one day power self-driving delivery vehicles.",
-      "webUrl": "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox",
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03B67ZCaMv3OJA9m8qLEVfX-1.fit_lim.size_1200x630.v_1593188466.jpg",
-          "width": 940,
-          "height": 529,
-          "title": "Amazon Acquires Self-Driving Car Startup Zoox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true",
-      "publishedDateTime": "2020-06-28T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-after-this-covid-winter-comes-an-ai-spring.md",
-      "title": "After this COVID winter comes an AI spring",
-      "excerpt": "The next economic recovery will both be driven by artificial intelligence and accelerate its adoption. This is the time to start an AI-first enterprise.",
-      "webUrl": "https://venturebeat.com/2020/06/28/after-this-covid-winter-comes-an-ai-spring/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": "After this COVID winter comes an AI spring",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/28/after-this-covid-winter-comes-an-ai-spring/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/28/after-this-covid-winter-comes-an-ai-spring/amp/",
-      "publishedDateTime": "2020-06-28T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-the-next-wave-of-ai-disruption-millennial-and-generation-z-entrepreneurial-pioneers.md",
-      "title": "The Next Wave Of AI Disruption: Millennial And Generation Z Entrepreneurial Pioneers",
-      "excerpt": "With perspectives and passions, Millennial and Generation Z entrepreneurs are at the forefront of AI innovation. They are unlocking new ways to do even the mundane tasks and will forever change how we work and look at the world.",
-      "webUrl": "https://www.forbes.com/sites/neilsahota/2020/06/28/the-next-wave-of-ai-disruption-millennial-and-generation-z-entrepreneurial-pioneers/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef7df2eec1b8800066f1233%2F0x0.jpg",
-          "width": 1200,
-          "height": 702,
-          "title": "The Next Wave Of AI Disruption: Millennial And Generation Z Entrepreneurial Pioneers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2020/06/28/the-next-wave-of-ai-disruption-millennial-and-generation-z-entrepreneurial-pioneers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2020/06/28/the-next-wave-of-ai-disruption-millennial-and-generation-z-entrepreneurial-pioneers/amp/",
-      "publishedDateTime": "2020-06-28T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-ai-image-recognition-market-covid-19-pandemic-update-competitive-analysis-till-2029-google-and-ibm.md",
-      "title": "AI Image Recognition Market (Covid-19 Pandemic Update) : Competitive Analysis Till 2029 || Google and IBM",
-      "excerpt": "Market.us newly added the Global AI Image Recognition Market report that gives meticulous scrutiny of aggressive market conditions based on producing volume, sales, and earnings. The ai image recognition report handles the distribution chain analysis of high Key players.",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-covid-19-pandemic-update-competitive-analysis-till-2029-google-and-ibm-2020-06-28",
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI Image Recognition Market (Covid-19 Pandemic Update) : Competitive Analysis Till 2029 || Google and IBM",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-28T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

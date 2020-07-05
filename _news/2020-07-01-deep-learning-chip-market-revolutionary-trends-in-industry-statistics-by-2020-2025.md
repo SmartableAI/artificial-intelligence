@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Deep Learning Chip Market Revolutionary Trends in Industry Statistics by 2020-2025"
-excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 01, 2020 (Market Insight Reports) -- The increasing investments in deep learning chip start-ups, prominence of quantum computing, and real time consumer behavior insights ..."
-publishedDateTime: 2020-07-01T11:26:00Z
-webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-revolutionary-trends-in-industry-statistics-by-2020-2025-2020-07-01"
+excerpt: "The increasing investments in deep learning chip start-ups, prominence of quantum computing, and real time consumer behavior insights & increased operational efficiency are few of the factors driving the deep learning chip market worldwide."
+publishedDateTime: 2020-07-01T11:23:00Z
+webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-revolutionary-trends-in-industry-statistics-by-2020-2025-2020-07-01?mod=mw_quote_news"
 type: article
 quality: 63
 heat: 63
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Deep Learning Chip Market Revolutionary Trends in Industry Statistics by 2020-2025"
 
-secured: "KuPienF1Cx3aDI3PWbztHplk4L9xPMye5QrCUuE8czu/lrDGLBH4JrGB1TY4vi4aGuy1RHKv8Cqyms8IOwUYse4nfGW+pLEZvAZmWL7ovIIbtHuMYw/NDUOFF77hOZnzqEpr1eut71ULG/UYoTV0UwKKfussRCnjvNuak9ls17mswgU/CeiCWNvK5ZMy/0tny1m5YLbzhC4fXcG89yKiFFbz5LcjSafAaG18tMjXZbmrhwzbRNQFxlZbFVr3l+wxC+cIEOAES4GZZeLsjow7+qInqRBM2owYP5LOpavtWkfLP3XaRIVICrBpBxlXW+3iHmgpLCs7o5YjwNuRNtf3/g==;wqd8AemjR7I3pfHqaC78Bw=="
+secured: "ryrrl2sc8BZN+XV1FCWqkDo63a1yKN/xESmBuW2hOqOxftU5y5jER1FIHDZE+lHk0yngyO255IGzWvRxpMImz39VR6Vu6JRKnmimxkohsqqTFfV3Jnp4474zyIgOScHieB1plfJ+OHKlH9RLw8Fl51InY5YQv2nHzD6ogSFGdCctSZIQLl5F9kHgoyaDLrwDsn+e5QyQEXeiiL+3WsRoKwtk8UJI2CKY1gQiTGXfqyMX4vjexjn4se+o4dobT2Y8cirqjMTuwhJlK0ezXszGU4C8DTHbVr5ZM1NF5oxLzatRi8YYbqUeNLt7bccetgT94z6XhUgG+Dg8jfXI/ie1Dg==;bkz1UianPhSWU8qlzRr5SA=="
 ---
 

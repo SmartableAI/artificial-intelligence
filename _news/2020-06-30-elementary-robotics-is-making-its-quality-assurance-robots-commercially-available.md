@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/06/30/elementary-robotics-is-making-its-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/elementary-robotics-is-making-its-quality-assurance-robots-commercially-available/amp/"
 type: article
 quality: 114
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     title: "Elementary Robotics is making its quality assurance robots commercially available"
 
 related:
-  - title: "Elementary Robotics raises $12.7M to expand AI manufacturing platform"
-    excerpt: "The Los Angeles-based startup has built a hardware and software platform for applying machine learning and computer vision for intelligent automation of quality and traceability workflows in manufacturing and logistics."
-    publishedDateTime: 2020-06-30T16:31:00Z
-    webUrl: "https://www.bizjournals.com/losangeles/news/2020/06/30/elementary-robotics-raises-127m-ai-platform.html"
-    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/06/30/elementary-robotics-raises-127m-ai-platform.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/06/30/elementary-robotics-raises-127m-ai-platform.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 89
-    images:
-      - url: "https://media.bizj.us/view/img/10715656/tmmtx-toyota-assembly-line-05*600xx6000-4000-0-0.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Elementary Robotics raises $13 million for its machine learning and computer vision offerings to industry"
     excerpt: "Elementary Robotics, a Los Angeles-based robotics startup, has raised $12.7 million in its Series A funding round led by Threshold Ventures, an early-stage investor in technology companies."
     publishedDateTime: 2020-07-01T07:40:00Z

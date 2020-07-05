@@ -2,6 +2,149 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-06-24-eurotech-announces-software-qualification-of-everyware-software-framework-with-aws-iot-core.md",
+      "title": "Eurotech Announces Software Qualification of Everyware Software Framework with AWS IoT Core",
+      "excerpt": "Eurotech a company that designs, develops, and deploys hardware, software, services and solutions for the Internet of Things (IoT) is extending its commitment as a Select Technology Partner in the Amazon Web Services (AWS) Partner Network and today announced the software qualification of the Eurotech Everyware Software Framework (ESF) with AWS IoT Core.",
+      "webUrl": "https://www.newswiretoday.com/news/173150/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly.md",
+      "title": "Apple’s Core ML now lets app developers update AI models on the fly",
+      "excerpt": "Apple's Core ML can now update AI models without the need to ship an App Store update, while Create ML now has an action classification template.",
+      "webUrl": "https://venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/apple-core-ml.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 574,
+          "title": "Apple’s Core ML now lets app developers update AI models on the fly",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/amp/",
+      "publishedDateTime": "2020-06-24T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-sas-and-microsoft-partner-on-future-of-analytics-and-ai.md",
+      "title": "SAS and Microsoft Partner on Future of Analytics And AI",
+      "excerpt": "“Through this partnership, Microsoft and SAS will help our customers accelerate growth and find new ways to drive innovation with a broad set of SAS Analytics offerings on Microsoft Azure,” said Scott Guthrie, EVP, Cloud and AI, Microsoft ...",
+      "webUrl": "https://www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm",
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "http://www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm/amp",
+      "cdnAmpWebUrl": "https://www-iotevolutionworld-com.cdn.ampproject.org/c/www.iotevolutionworld.com/iot/articles/445797-sas-microsoft-partner-future-analytics-ai.htm/amp",
+      "publishedDateTime": "2020-06-24T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iotevolutionworld.com",
+        "domain": "iotevolutionworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-video-using-deep-learning-to-combat-cheating-in-counter-strike.md",
+      "title": "Video: Using deep learning to combat cheating in Counter-Strike",
+      "excerpt": "In this GDC 2018 talk Valve's John McDonald discusses how the company has utilized deep learning machine learning techniques to combat cheating in Counter-Strike: Global Offensive .",
+      "webUrl": "https://gamasutra.com/view/news/365410/Video_Using_deep_learning_to_combat_cheating_in_CounterStrike.php",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/remedy.gif",
+          "width": 341,
+          "height": 214,
+          "title": "Video: Using deep learning to combat cheating in Counter-Strike",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gamasutra",
+        "domain": "gamasutra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-boston-bans-police-forces-from-using-facial-recognition.md",
       "title": "Boston Bans Police Forces From Using Facial Recognition",
       "excerpt": "It’s official, as of today, Boston’s become the second-largest US community to ban police use of facial recognition technology, thanks to a unanimous vote by more than a dozen city council people. The move follows similar bans by the neighboring cities Brookline,",
@@ -491,44 +634,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-24-incontextai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare.md",
-      "title": "inContext.ai Awarded $225K by the National Science Foundation to Develop Artificial Intelligence Tools for Healthcare",
-      "excerpt": "Press Release inContext.ai, a developer of healthcare-centric information extraction software and AI-powered clinical applications, announced an award of $225K in National Science Foundation (NSF) funding.",
-      "webUrl": "https://venturebeat.com/2020/06/24/incontext-ai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/24/incontext-ai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/incontext-ai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare/amp/",
-      "publishedDateTime": "2020-06-24T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-24-facial-recognition-to-predict-criminals-sparks-row-over-ai-bias.md",
       "title": "Facial recognition to 'predict criminals' sparks row over AI bias",
       "excerpt": "A US university's claim it can use facial recognition to \"predict criminality\" has renewed debate over racial bias in technology. Harrisburg University researchers said their software \"can predict if someone is a criminal,",
@@ -832,6 +937,44 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-incontextai-awarded-225k-by-the-national-science-foundation-to-develop-artificial-intelligence-tools-for-healthcare.md",
+      "title": "inContext.ai Awarded $225K by the National Science Foundation to Develop Artificial Intelligence Tools for Healthcare",
+      "excerpt": "Context.ai, a developer of healthcare-centric information extraction software and AI-powered clinical applications, announced an award of $225K in N",
+      "webUrl": "https://www.businesswire.com/news/home/20200624005224/en/inContext.ai-Awarded-225K-National-Science-Foundation-Develop",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200624005224/en/800732/23/inContextai_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "inContext.ai Awarded $225K by the National Science Foundation to Develop Artificial Intelligence Tools for Healthcare",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1146,176 +1289,6 @@
         "AI",
         "AI in Robotics",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-modular-robotics-market-to-cross-151497-million-value-by-2030-ps-intelligence.md",
-      "title": "Modular Robotics Market to Cross $15,149.7 Million Value by 2030: P&S Intelligence",
-      "excerpt": "NEW YORK, June 24, 2020 (GLOBE NEWSWIRE) -- With the Industry 4.0 revolution gaining ground, the global modular robotics market revenue is projected to reach $15,149.7 million by 2030, from $5,619.1 million in 2019,",
-      "webUrl": "https://www.marketwatch.com/press-release/modular-robotics-market-to-cross-151497-million-value-by-2030-ps-intelligence-2020-06-24",
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Modular Robotics Market to Cross $15,149.7 Million Value by 2030: P&S Intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-sequence-to-sequence-modeling-using-lstm-for-language-translation.md",
-      "title": "Sequence-to-Sequence Modeling using LSTM for Language Translation",
-      "excerpt": "Sequence Modeling using LSTM for Language Translation - language translation using deep learning encoder-decoder network",
-      "webUrl": "https://analyticsindiamag.com/sequence-to-sequence-modeling-using-lstm-for-language-translation/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/Translation-aggregator_JO_1.jpg",
-          "width": 1080,
-          "height": 360,
-          "title": "Sequence-to-Sequence Modeling using LSTM for Language Translation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-43.md",
-      "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading Up 4.3%",
-      "excerpt": "Shares of Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) were up 4.3% during mid-day trading on Monday . The stock traded as high as $112.41 and last traded at $112.",
-      "webUrl": "https://theenterpriseleader.com/2020/06/23/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-4-3.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading Up 4.3%",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/06/23/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-4-3.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/06/23/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-4-3.html/amp",
-      "publishedDateTime": "2020-06-23T23:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-mercedes-benz-nvidia-deepen-autonomous-driving-alliance.md",
-      "title": "Mercedes-Benz, Nvidia deepen autonomous driving alliance",
-      "excerpt": "Semiconductor maker Nvidia Corp has struck a deal with Germany's Daimler to develop and equip Mercedes-Benz cars with a next generation chip and software platform that could eventually be used for autonomous driving functions.",
-      "webUrl": "https://www.reuters.com/article/us-nvidia-daimler-autonomous-idUSKBN23U2W5",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200623&t=2&i=1523230547&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5M1PR",
-          "width": 813,
-          "height": 545,
-          "title": "Mercedes-Benz, Nvidia deepen autonomous driving alliance",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23U2W5",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23U2W5",
-      "publishedDateTime": "2020-06-23T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

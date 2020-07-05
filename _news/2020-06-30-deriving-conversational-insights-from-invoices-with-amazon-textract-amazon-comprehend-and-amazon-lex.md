@@ -6,7 +6,7 @@ publishedDateTime: 2020-06-30T19:49:13Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/deriving-conversational-insights-from-invoices-with-amazon-textract-amazon-comprehend-and-amazon-lex/"
 type: article
 quality: 103
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     height: 564
     isCached: true
     title: "Deriving conversational insights from invoices with Amazon Textract, Amazon Comprehend, and Amazon Lex"
-
-related:
-  - title: "AI Conversations: Reinventing the Retail Industry with an ‘Edge’"
-    excerpt: "The retail industry is in the midst of a sweeping transformation driven by new technologies and new business models. Artificial intelligence is an essential enabler of this transformation."
-    publishedDateTime: 2020-06-30T16:51:00Z
-    webUrl: "https://www.cio.com/article/3564721/ai-conversations-reinventing-the-retail-industry-with-an-edge.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/06/retail-verticals-100850469-large.jpg"
-        width: 1200
-        height: 524
-        isCached: true
 
 secured: "MDmzibHs2Fbd6SOuzxP+O90W3oEbq9uvTuBdVcdo6/mMWAeQWuXpKCHlfb/wIT/FNaWoocL8IqAWMZfYN35h2DV5kE/5Dko4HPse8Z6fFU/qZFPcV6XE80YycypGVzsGxNRc+cuQMuEcKyEdUjGS6PUuZo+NdAy+wjOUI+fijUJ/IpvuxLZOnX0DKndeeC0vhhGsOsfY3a0UcgL634wrB+7Yaf9CamBKtkZc4jOi6tF2t9XnH/naD8XkCYPGRP+YXvmvGRk0q5YvgmjQ72zuXsV1HnWLdgh5c6zO1L4n40l86MMcX8naNY+mZrBdsPPrdypMDyZRRm0Was7OZ217Cw==;IGXnvQC6SoKw5gKDS80Elg=="
 ---
