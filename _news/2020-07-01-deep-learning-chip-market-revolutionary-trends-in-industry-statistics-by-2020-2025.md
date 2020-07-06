@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-01T11:23:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-revolutionary-trends-in-industry-statistics-by-2020-2025-2020-07-01?mod=mw_quote_news"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,22 @@ images:
     height: 630
     isCached: true
     title: "Deep Learning Chip Market Revolutionary Trends in Industry Statistics by 2020-2025"
+
+related:
+  - title: "Machine Learning Market Outlook By Industry Size, Share, Revenue, Regions And Top Key Players Analysis From 2020-2025"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 03, 2020 (AmericaNewsHour) -- Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy growth rate of more ..."
+    publishedDateTime: 2020-07-03T10:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-outlook-by-industry-size-share-revenue-regions-and-top-key-players-analysis-from-2020-2025-2020-07-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "zGYkTroaOBFEqngQr9k1R06bqLWeCqb6MOqjyWAmpVwhC3s0AmLHJ3nj9MmaWfKsYp4jTAU3mS5RdZ9hWyrQd4QDbPhOe0YGur6xRw/FYmHfdBPAfcUpo9cUpumLJ5t3aueGXL6aGgWsQPZCpa2rCl2cwx9Ai8beW6OhgOgeCa1X53MPLJyFBadvamZJq8bSZfyMSWRK7P5WVB2fR/MnnWvdK3pNrHga41HHc9PKqNcytLQmkKDWZyYyy3fk46kIdGagoC3ePXgzcoLvsvmL2XAgLTUyIW+ghoO5kCLTR0iaGUDjWZv1m8sgTh+lAixAhyQcTJIwhjbJPAPWd4nQeA==;EQ+Ud+O6PvJhWqJL0Y+EKA=="
 ---

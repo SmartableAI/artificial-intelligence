@@ -2,6 +2,146 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-30-elementary-robotics-raises-127-million-to-automate-industrial-inspections.md",
+      "title": "Elementary Robotics raises $12.7 million to automate industrial inspections",
+      "excerpt": "Elementary Robotics, a startup developing autonomous industrial inspection technologies, has raised $12.7 million in venture capital.",
+      "webUrl": "https://venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/",
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/4d006010-e497-496d-8ac8-5d5df66bc4e9-e1593109151202.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Elementary Robotics raises $12.7 million to automate industrial inspections",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/amp/",
+      "publishedDateTime": "2020-06-30T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-refraction-ais-robots-start-delivering-groceries-in-ann-arbor.md",
+      "title": "Refraction AI’s robots start delivering groceries in Ann Arbor",
+      "excerpt": "Refraction AI, a startup based in Ann Arbor, has launched an autonomous delivery pilot for customers of the local Produce Station.",
+      "webUrl": "https://venturebeat.com/2020/06/30/refraction-ais-autonomous-robots-begin-delivering-groceries-in-ann-arbor/",
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/20200424_120944-scaled-e1593206157534.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Refraction AI’s robots start delivering groceries in Ann Arbor",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/30/refraction-ais-autonomous-robots-begin-delivering-groceries-in-ann-arbor/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/refraction-ais-autonomous-robots-begin-delivering-groceries-in-ann-arbor/amp/",
+      "publishedDateTime": "2020-06-30T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-ai-jen-poo-thinks-well-finally-appreciate-our-essential-workers-in-the-wake-of-coronavirus.md",
+      "title": "Ai-jen Poo thinks we’ll finally appreciate our essential workers in the wake of coronavirus",
+      "excerpt": "Below is an answer from Ai-jen Poo, the co-founder and executive director of the National Domestic Workers’ Alliance, an organization that advocates on behalf of domestic workers. She also co-founded SuperMajority,",
+      "webUrl": "https://qz.com/1874537/ai-jen-poo-on-the-future-impacted-by-coronavirus/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2019/08/aijenpoo.credit.othello.banaci-1.jpg?quality=75&strip=all&w=1400",
+          "width": 820,
+          "height": 984,
+          "title": "Ai-jen Poo thinks we’ll finally appreciate our essential workers in the wake of coronavirus",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1874537/ai-jen-poo-on-the-future-impacted-by-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1874537/ai-jen-poo-on-the-future-impacted-by-coronavirus/amp/",
+      "publishedDateTime": "2020-06-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-anousheh-ansari-says-well-embrace-ai-and-automation-even-more-after-covid-19.md",
       "title": "Anousheh Ansari says we’ll embrace AI and automation even more after Covid-19",
       "excerpt": "Below is an answer from Anousheh Ansari, the CEO of design competition company XPRIZE. Her 11-day journey into space in 2006 made her the first female private space explorer, first astronaut of Iranian descent,",
@@ -951,137 +1091,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-power-efficient-neural-network-with-artificial-dendrites.md",
-      "title": "Power-efficient neural network with artificial dendrites",
-      "excerpt": "The lack of these critical functions in artificial neural networks compromises their performance, for example in terms of flexibility, energy efficiency and the ability to handle complex tasks. Here, by developing artificial dendrites, we experimentally ...",
-      "webUrl": "https://www.nature.com/articles/s41565-020-0722-5?error=cookies_not_supported&code=4912fef0-6828-48a3-bff1-b7df7719795e",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41565-020-0722-5/MediaObjects/41565_2020_722_Fig1_HTML.png",
-          "width": 685,
-          "height": 400,
-          "title": "Power-efficient neural network with artificial dendrites",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-how-euler-hermes-detects-typo-squatting-with-amazon-sagemaker.md",
-      "title": "How Euler Hermes detects typo squatting with Amazon SageMaker",
-      "excerpt": "This is a guest post from Euler Hermes. In their own words, “For over 100 years, Euler Hermes, the world leader in credit insurance, has accompanied its clients to provide simpler and safer digital products, thus becoming a key catalyzer in the world’s commerce.” Euler Hermes manages more than 600,000",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-euler-hermes-detects-typo-squatting-with-amazon-sagemaker/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/25/euler-hermes-2.png",
-          "width": 953,
-          "height": 528,
-          "title": "How Euler Hermes detects typo squatting with Amazon SageMaker",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T10:22:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-what-history-can-teach-us-about-the-future-of-ai.md",
-      "title": "What history can teach us about the future of AI",
-      "excerpt": "Dr. Carl Benedikt Frey, Oxford Martin Citi Fellow at Oxford University, tells Tonya Hall about different ways we can look back on history to predict what the future of AI looks like.",
-      "webUrl": "https://www.zdnet.com/video/what-history-can-teach-us-about-the-future-of-ai/",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/06/29/4940cc5d-8123-4a7f-b7ac-17413fcbea49/thumbnail/770x578/f6d02d8855e8211b13393bf1deaab6f2/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "What history can teach us about the future of AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

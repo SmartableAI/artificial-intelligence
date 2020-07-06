@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning Market Size 2020 to 2026: Segmentation (Region Level) Including Market Share and Price Analysis"
-    excerpt: "Artificial Intelligence and Machine Learning Market ” Global Report (2020-2026) provides market intelligence on the different segments based on type, application and geography. Market size and forecast has been provided in terms of both,"
-    publishedDateTime: 2020-07-04T01:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-2020-to-2026-segmentation-region-level-including-market-share-and-price-analysis-2020-06-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "YZx7ZpzXZ6I5cRhnHRxpMYTwXyXaE+7a6OjApT8N/cmE+lNggWZAU+7r5F26q5zO0Y5H/nnnFy7YFVomAfoAviKyG6vB3CtqaxiMVown+7eiIr8QQmZ7b1Say07R4D2yf7mrXygpWVSggfBUMXoO566qReLgJLuXPEzDsfmqc6LWOJx+dLL3CV8ZDD20trASivaHfOdCnN7MBI7C8/OCFTp2gNzpK93nnluxWfNWTQtb6g8yE0TdgbIYd3Xk1vXSOphDmUPY+87H6ExDNWxXgGZnSlU7YRdskHb3sia+FYWQluazuRXV49Pco97zLZSIwp2HzT0RIGgilCU4WoeH9g==;+wWto/ueTpEsCx9ndXk10w=="
 ---
