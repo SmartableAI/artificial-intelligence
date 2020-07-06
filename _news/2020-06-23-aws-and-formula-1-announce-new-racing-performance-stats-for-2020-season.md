@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "AWS and Formula 1 Announce New Racing Performance Stats for 2020 Season"
 
-secured: "+nUysdqsgD9g28YomTa91yEAAmhHnv6kh8xv3XSuMKKQnSy6zTnsJTimI3YTV1BKfSofKJeb/FQTgdczGb4+h9qFVhh2Kh5oE+38+0vnkMjvywp+8vK6hfoG8I6//9HfgnJpBLUIT+9u7SeWKYldPnapoMKTtQh/Ua4wyrwqBITD2Bt736N0+/r6RpXNAI5QQ/CG7j49di3/VjuyBXXjuWZtHH+LEOeQ2S/cpr4JnnusMxlHaj4ANB0r7uqca29Cj1lRyLMQb26R9c5GDX0PjlEM+gi+CaSoFjliW/F4TbEhaoLm0zEKTMqOP5lc/kstZWkw86lQQp/gDyVbXMZXJg==;3BQjQO4PP3BUP0kJj9wEvg=="
+secured: "Mhe56ubx9xzxucsIvSRBuI9U1HVmqMMwMlzEV33SIiQ9YDX6XUpMem+LTwghMMlj8DLMqy/SiilUyD+AhT/NSsECqXiwQB8c+zrlztdDKxlvQuSoAbPxrcyvndMr8ehMjAcJq+6YvtHKeARH6w0BVzgGx9Q+CP0u8TVBGwx7HnRnObY3+aF//mly/ITUmVNNmIThggZVAUZkdzjpadOfezrMR/0ptgyB4yQSfXpGxfx4ll8xoaZqHLb7i5mKjkKYhvAXq7pGS7EqXnTGdW/DmcrFUT9HJdVokWu4BD80mfLF5u5G00y1J72zaWn+r/T9npa3cX6a+WtRVw3ej4l5bJ8p4CXY6iTmM3Luwcck46KxDxrZn+3/8VYTkC1O3qnYnTTQwH+VEIwTdfcN3ZsYu+MOVF0//ifW5EXKKmcTrjAryKKCaEo61YhcQqEI6HH8/kzF1FzGla3KuLL30OSBHv7efXo3l4MXgfCXYy/Eoxb+QLJkshdlwECw1zGxtIBBrK4AgWvwmAji3AwLh9VQPw==;XBZnMKuaz01rrs/SFcCtvg=="
 ---
 

@@ -89,6 +89,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Big Tech's Wish List for National Facial Recognition Law"
+    excerpt: "Tech companies want a national facial recognition law that balances consent and transparency. But keep Illinois' Biometric Information Privacy Act and its private right of action out of the discussion,"
+    publishedDateTime: 2020-07-06T14:09:00Z
+    webUrl: "https://www.law.com/legaltechnews/2020/07/06/big-techs-wish-list-for-a-national-facial-recognition-law/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2019/01/Facial-recognition-Aegis-SN-Technologies-web.jpg"
+        width: 1016
+        height: 614
+        isCached: true
 
 secured: "RMtOjS5as51d09Bo040s722mQTAj54YpgGXUVCQ4XgTGf4LjeEigZA5tfq8rQ/oF4lyV942m7qPDCoNzqbNLNtxoIMdfbwyedPTMEUc8ZjBFz4DypqRE1B6PVCUTbId8/kLxHh08GrTznBN3f0xNGJ44zNHKjs7clFTVtEQwmk4I6zQvZ3m9zYnPIAROA/STFRbS0gzIxJ1EJfOVTitbmDNzYWzNhk3/JCFaOKRNjtqVpkygayMu8Q52KvyRZXc1yoeLH2Iag5kBUmhw4o6VUQpCv3kHeWIYlj8mgMaGwcZXOddfzDXbJxeWwbaV8VwP+99dxDBelmzwJ0RLRvyvWO2z/WebySNQSliWneKQ1GUHurdD1llRGt6j3uT4GKBsukgOwRq+/1dY78ZJNnuI5laIR2wObwbOErm1EruW1ZZiVlduIaDI0Qtq4u94fqs7xUEby7ZSB51SXh2Y4oFHRuv/kAOSvy5OppqLKJWTweei/54DCtQuh8Kw6UkCl4P3wAj+ICE9ASsb5Ioh1+z1TA==;L6CW+XW3Z5U7d8X9dJ8fGg=="
 ---

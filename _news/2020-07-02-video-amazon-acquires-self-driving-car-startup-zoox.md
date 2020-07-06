@@ -59,17 +59,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 25
-  - title: "Beijing opens more roads for testing self-driving cars"
-    excerpt: "Beijing opened 52 additional roads on Tuesday in Haidian District, the capital's tech hub, for the testing of autonomous vehicles"
-    publishedDateTime: 2020-07-02T07:44:00Z
-    webUrl: "https://infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/"
-    ampWebUrl: "https://infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 24
 
 secured: "LihU/5ZB3ZRIrhOZtxyxybLOoGM3QkKQwsqBb/0dDbeBNUwIIrdibJiJDWBbBlVxJ3z77Eqkhiiz7rZ35HSNfnAJbDfPcIAGsk0TYkMWH7zvI0zspckOYYcCP9XPFWKYV3UyojIYUQFaKVdpOBq2Gnztr2IHK+dvPAv/WogkHczQcYNxcriHz2Ccb8opJcpsIgZfzuSrnxdLUXuSnlxA7N3WXNW3v41U2MySC4gEVWGxceOGW6TD1f8AMelcHEea00igl42gWNJuK2BJdZTlo9hr/uWqVl3QVY+xAC6RHSen3mbfPZabCoLHAB5TbA7XxqFXQWIZrScBfwPqXBhLlg==;dc4e3jSSoq6iTTcNSCCN2Q=="
 ---

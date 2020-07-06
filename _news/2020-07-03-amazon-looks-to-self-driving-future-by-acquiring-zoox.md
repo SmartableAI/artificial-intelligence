@@ -52,17 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 25
-  - title: "Beijing opens more roads for testing self-driving cars"
-    excerpt: "Beijing opened 52 additional roads on Tuesday in Haidian District, the capital's tech hub, for the testing of autonomous vehicles"
-    publishedDateTime: 2020-07-02T07:44:00Z
-    webUrl: "https://infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/"
-    ampWebUrl: "https://infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 24
   - title: "Video: Amazon acquires self-driving car startup Zoox"
     excerpt: "Amazon said it will lead Zoox as a standalone business to drive the mission toward developing self-driving vehicles. In the video, Zoox demonstrates a one-hour fully autonomous dr"
     publishedDateTime: 2020-07-02T12:52:00Z

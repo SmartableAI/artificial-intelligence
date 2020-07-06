@@ -8,7 +8,7 @@ ampWebUrl: "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accu
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://media.bizj.us/view/img/11177301/gettyimages-1086568968*600xx2800-1867-0-467.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Big Tech's Wish List for National Facial Recognition Law"
+    excerpt: "Tech companies want a national facial recognition law that balances consent and transparency. But keep Illinois' Biometric Information Privacy Act and its private right of action out of the discussion,"
+    publishedDateTime: 2020-07-06T14:09:00Z
+    webUrl: "https://www.law.com/legaltechnews/2020/07/06/big-techs-wish-list-for-a-national-facial-recognition-law/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2019/01/Facial-recognition-Aegis-SN-Technologies-web.jpg"
+        width: 1016
+        height: 614
         isCached: true
   - title: "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business"
     excerpt: "As Black Lives Matter protests swept across the United States, IBM, Amazon and Microsoft took a stand: They halted sales of facial recognition technology to American police departments, and called on the government to regulate the powerful emerging technology."

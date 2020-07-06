@@ -2,6 +2,146 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-06-29-security-first-your-ai-is-so-easy-to-hack.md",
+      "title": "Security first: Your AI is so easy to hack",
+      "excerpt": "The reality for AI-enabled systems is that they have an increased attack surface for bad actors to exploit -- but too often security is an afterthought.",
+      "webUrl": "https://venturebeat.com/2020/06/29/security-first-your-ai-is-so-easy-to-hack/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1158867526.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 708,
+          "title": "Security first: Your AI is so easy to hack",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/29/security-first-your-ai-is-so-easy-to-hack/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/security-first-your-ai-is-so-easy-to-hack/amp/",
+      "publishedDateTime": "2020-06-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-the-3-weeks-that-changed-everything.md",
+      "title": "The 3 Weeks That Changed Everything",
+      "excerpt": "Imagine if the National Transportation Safety Board investigated America’s response to the coronavirus pandemic.",
+      "webUrl": "https://www.theatlantic.com/politics/archive/2020/06/how-white-house-coronavirus-response-went-wrong/613591/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/c7zPQiFShImvsFvzoeKHqUhwbLA=/570x321/filters:format(png)/media/img/mt/2020/06/Atlantic_NTSB_v2/original.png",
+          "width": 570,
+          "height": 321,
+          "title": "The 3 Weeks That Changed Everything",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/613591/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/613591/",
+      "publishedDateTime": "2020-06-29T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-mits-autonomous-robot-uses-uvc-light-to-kill-coronavirus-particles-on-surfaces.md",
+      "title": "MIT's autonomous robot uses UVC light to kill coronavirus particles on surfaces",
+      "excerpt": "The robot is a joint project between MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and Ava Robotics. As UVC light is harmful to humans, the machine is used to disinfect locations after workers have finished their shifts.",
+      "webUrl": "https://www.techspot.com/news/85800-autonomous-robot-mit-uses-uvc-kill-coronavirus-particles.html",
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-29-image-3.jpg",
+          "width": 1930,
+          "height": 1436,
+          "title": "MIT's autonomous robot uses UVC light to kill coronavirus particles on surfaces",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85800-autonomous-robot-mit-uses-uvc-kill-coronavirus-particles.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85800-autonomous-robot-mit-uses-uvc-kill-coronavirus-particles.html",
+      "publishedDateTime": "2020-06-29T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-introducing-the-open-source-amazon-sagemaker-xgboost-algorithm-container.md",
       "title": "Introducing the open-source Amazon SageMaker XGBoost algorithm container",
       "excerpt": "XGBoost is a popular and efficient machine learning (ML) algorithm for regression and classification tasks on tabular datasets. It implements a technique known as gradient boosting on trees and performs remarkably well in ML competitions. Since its launch, Amazon SageMaker has supported XGBoost as a",
@@ -1208,146 +1348,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-machines-that-can-understand-human-speech-the-conversational-pattern-of-ai.md",
-      "title": "Machines That Can Understand Human Speech: The Conversational Pattern Of AI",
-      "excerpt": "Conversation and human language is a particularly challenging area for computers, since words and communication is not precise. Learn more about the conversational pattern of AI.",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/28/machines-that-can-understand-human-speech-the-conversational-pattern-of-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef8cc31142efb0006bde562%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Machines That Can Understand Human Speech: The Conversational Pattern Of AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/28/machines-that-can-understand-human-speech-the-conversational-pattern-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/28/machines-that-can-understand-human-speech-the-conversational-pattern-of-ai/amp/",
-      "publishedDateTime": "2020-06-28T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-amazon-acquires-self-driving-car-startup-zoox.md",
-      "title": "Amazon Acquires Self-Driving Car Startup Zoox",
-      "excerpt": "Although Zoox has been trying to develop a robot taxi service, Amazon could use the same technologies to one day power self-driving delivery vehicles.",
-      "webUrl": "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox",
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03B67ZCaMv3OJA9m8qLEVfX-1.fit_lim.size_1200x630.v_1593188466.jpg",
-          "width": 940,
-          "height": 529,
-          "title": "Amazon Acquires Self-Driving Car Startup Zoox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true",
-      "publishedDateTime": "2020-06-28T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-after-this-covid-winter-comes-an-ai-spring.md",
-      "title": "After this COVID winter comes an AI spring",
-      "excerpt": "The next economic recovery will both be driven by artificial intelligence and accelerate its adoption. This is the time to start an AI-first enterprise.",
-      "webUrl": "https://venturebeat.com/2020/06/28/after-this-covid-winter-comes-an-ai-spring/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": "After this COVID winter comes an AI spring",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/28/after-this-covid-winter-comes-an-ai-spring/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/28/after-this-covid-winter-comes-an-ai-spring/amp/",
-      "publishedDateTime": "2020-06-28T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,120 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-05-29-artificial-intelligence-in-healthcare-is-changing-the-fabric-of-the-industry.md",
+      "title": "Artificial Intelligence In Healthcare Is Changing The Fabric Of The Industry",
+      "excerpt": "The most heavily impacted sectors include financial services, transportation, and e-commerce, but healthcare is starting to ... in the care process While the promise of artificial intelligence in healthcare is being more widely embraced among providers ...",
+      "webUrl": "https://www.smartdatacollective.com/artificial-intelligence-healthcare-changing-industry/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2018/06/AI-in-healthcare.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": "Artificial Intelligence In Healthcare Is Changing The Fabric Of The Industry",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-lets-all-vote-should-we-crowdsource-the-morality-of-driverless-cars.md",
+      "title": "Let’s all vote: should we crowdsource the morality of driverless cars?",
+      "excerpt": "If a driverless car is hurtling towards a pedestrian ... those MIT researchers took the subsequent data and created an artificial intelligence that could learn from these results and make similar ...",
+      "webUrl": "https://www.scpr.org/programs/airtalk/2017/10/19/59749/let-s-all-vote-should-we-crowdsource-the-morality/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a.scpr.org/i/f95e247b712a2d44b88eab362266ac4e/174547-full.jpg",
+          "width": 1024,
+          "height": 684,
+          "title": "Let’s all vote: should we crowdsource the morality of driverless cars?",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KPCC",
+        "domain": "scpr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-week-in-review-auto-security-pervasive-computing.md",
+      "title": "Week In Review: Auto, Security, Pervasive Computing",
+      "excerpt": "Synopsys launched quick start kits, called QuickStart Implementation Kits (QIKs), for Arm’s latest processor IP Cortex-A78 CPU, Mali-G78 GPU, and Cortex-X1 CPU. The QIKs, available today, help designers hit PPA (power, performance, and area) targets ...",
+      "webUrl": "https://semiengineering.com/week-in-review-auto-security-pervasive-computing-17/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/semiengineering.com/wp-content/uploads/2019/09/Blue-car.jpg?fit=754%2C636&#038;ssl=1",
+          "width": 754,
+          "height": 636,
+          "title": "Week In Review: Auto, Security, Pervasive Computing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-aclu-sues-clearview-ai-claiming-the-companys-tech-crosses-ethical-bounds.md",
       "title": "ACLU sues Clearview AI claiming the company's tech crosses ethical bounds",
       "excerpt": "The American Civil Liberties Union has accused Clearview AI's biometric platform of creating a nightmare scenario that many have long feared.",
@@ -1159,138 +1273,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-monetary-authority-of-singapore-begins-collation-of-fairness-metrics-for-bank-ai-development.md",
-      "title": "Monetary Authority of Singapore begins collation of 'fairness' metrics for bank AI development",
-      "excerpt": "The Monetary Authority of Singapore (MAS) announced today that the first phase of the VeritasVeritas, which is a part of Singapore’s National AI Strategy, aims to provide financial institutions with a verifiable way to incorporate the FEAT (Fairness,",
-      "webUrl": "https://www.finextra.com/pressarticle/82688/monetary-authority-of-singapore-begins-collation-of-fairness-metrics-for-bank-ai-development",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
-          "width": 480,
-          "height": 270,
-          "title": "Monetary Authority of Singapore begins collation of 'fairness' metrics for bank AI development",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-chinas-voice-recognition-king-iflytek-goes-against-the-grain-with-forecast-that-offline-sales-will-grow-more.md",
-      "title": "China’s voice recognition king iFlyTek goes against the grain with forecast that offline sales will grow more",
-      "excerpt": "FlyTek’s sales approach goes against the grain of the current move by many merchants to take their business and sales online amid Covid-19",
-      "webUrl": "https://www.scmp.com/tech/innovation/article/3086522/chinas-voice-recognition-king-iflytek-goes-against-grain-forecast",
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/28/bf70959a-a0c2-11ea-8055-0ae12e466049_image_hires_171312.jpg?itok=3qxBBGTj&v=1590657202",
-          "width": 1200,
-          "height": 630,
-          "title": "China’s voice recognition king iFlyTek goes against the grain with forecast that offline sales will grow more",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/innovation/article/3086522/chinas-voice-recognition-king-iflytek-goes-against-grain-forecast",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3086522/chinas-voice-recognition-king-iflytek-goes-against-grain-forecast",
-      "publishedDateTime": "2020-05-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-artificial-intelligence-in-healthcare-market-by-technology-advancement-and-demand-2020-2026.md",
-      "title": "Artificial Intelligence In Healthcare Market by Technology Advancement and Demand 2020-2026",
-      "excerpt": "Global Artificial Intelligence In Healthcare Market Size, Status And Forecast 2020-2026: The report discusses many vital industry facets that influence the \"Global Artificial Intelligence In Healthcare Market\" industry acutely which includes extensive study of competitive edge,",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-by-technology-advancement-and-demand-2020-2026-2020-05-28",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence In Healthcare Market by Technology Advancement and Demand 2020-2026",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

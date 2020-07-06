@@ -2,6 +2,138 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-06-12-researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai.md",
+      "title": "Researchers train drones to perform flips, rolls, and loops with AI",
+      "excerpt": "In a preprint paper, researchers propose a technique for training autonomous drones to perform flips, rolls, and other challenging acrobatics.",
+      "webUrl": "https://venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/6cf11ce1-1e3d-4b2f-ab04-62a2cfc0e264-e1591995877569.png?w=1200&#038;strip=all",
+          "width": 830,
+          "height": 415,
+          "title": "Researchers train drones to perform flips, rolls, and loops with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/amp/",
+      "publishedDateTime": "2020-06-12T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-a-bill-in-congress-would-limit-uses-of-facial-recognition.md",
+      "title": "A Bill in Congress Would Limit Uses of Facial Recognition",
+      "excerpt": "Amazon, Microsoft, and IBM say they want federal rules around the technology. Critics of the proposal, sponsored by four Democrats, say it doesn't go far enough.",
+      "webUrl": "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/",
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ee17e6b45997e7f063bebc5/master/pass/business_recognition_609119090.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "A Bill in Congress Would Limit Uses of Facial Recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp",
+      "publishedDateTime": "2020-06-12T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-cryptominers-found-in-azure-kubernetes-containers.md",
+      "title": "Cryptominers Found in Azure Kubernetes Containers",
+      "excerpt": "Images from a public repository contained cryptominers that Microsoft researchers found in Kubeflow instances running on Azure.",
+      "webUrl": "https://www.darkreading.com/attacks-breaches/cryptominers-found-in-azure-kubernetes-containers/d/d-id/1338083",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twimgs.com/nojitter/darkreading/dr-logo.jpg",
+          "width": 600,
+          "height": 600,
+          "title": "Cryptominers Found in Azure Kubernetes Containers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-12T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-how-ai-can-help-find-a-coronavirus-vaccine.md",
       "title": "How AI can help find a coronavirus vaccine",
       "excerpt": "Murat Sonmez, managing director of the World Economic Forum, explains how big data and machine learning can help find a vaccine for COVID-19.",
@@ -982,128 +1114,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-machine-learning-market-by-component-end-use-size-opportunities-and-forecast-2019-2026.md",
-      "title": "Machine Learning Market By Component, End-use, Size, Opportunities And Forecast, 2019 – 2026",
-      "excerpt": "As per the research held by Acumen Research and Consulting, \"the global Machine Learning market anticipated to exceed US$ 76.8 Bn by 2027, along with the projected CAGR of 40.1% from 2020 to 2027\". The global Machine Learning market research report encompasses qualitative and quantitative data derived from the analysis by experts and research analysts in the respective industry verticals from valid sources with the help of primary and secondary research tools.",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-by-component-end-use-size-opportunities-and-forecast-2019-2026-2020-06-12",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning Market By Component, End-use, Size, Opportunities And Forecast, 2019 – 2026",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-12T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-cloud-storage-on-site-hardware-aws-azure-google-cloud.md",
-      "title": "Cloud storage on-site hardware: AWS, Azure, Google Cloud",
-      "excerpt": "AWS’s Outposts, Gateway and Snow hardware, Azure’s Stack and Arc appliances, and Google Cloud’s software-defined Anthos.",
-      "webUrl": "https://www.computerweekly.com/feature/Cloud-storage-on-site-hardware-AWS-Azure-Google-Cloud",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/feature/Cloud-storage-on-site-hardware-AWS-Azure-Google-Cloud?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Cloud-storage-on-site-hardware-AWS-Azure-Google-Cloud?amp=1",
-      "publishedDateTime": "2020-06-12T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-how-ai-can-support-the-supply-chain-and-overcome-hurdles.md",
-      "title": "How AI Can Support The Supply Chain And Overcome Hurdles",
-      "excerpt": "Behind the scenes and out of the public eye, AI is powering hundreds of logistics decisions and overcoming thousands of external hurdles.",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/12/how-ai-can-support-the-supply-chain-and-overcome-hurdles/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F172155755%2F0x0.jpg",
-          "width": 1200,
-          "height": 904,
-          "title": "How AI Can Support The Supply Chain And Overcome Hurdles",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/12/how-ai-can-support-the-supply-chain-and-overcome-hurdles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/12/how-ai-can-support-the-supply-chain-and-overcome-hurdles/amp/",
-      "publishedDateTime": "2020-06-12T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -20,56 +20,17 @@ topics:
   - AI
 
 related:
-  - title: "Amazon looks to self-driving future by acquiring Zoox"
-    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their"
-    publishedDateTime: 2020-07-03T17:42:00Z
-    webUrl: "https://www.wsav.com/news/technology/amazon-looks-to-self-driving-future-by-acquiring-zoox/"
-    ampWebUrl: "https://www.wsav.com/news/technology/amazon-looks-to-self-driving-future-by-acquiring-zoox/amp/"
-    cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/technology/amazon-looks-to-self-driving-future-by-acquiring-zoox/amp/"
+  - title: "Hidden Secrets That The Burger King ‘Autopilot Whopper’ Teaches Us About Tesla And Self-Driving Cars"
+    excerpt: "What do AI, self-driving cars, Tesla, Autopilot, and hamburgers such as the infamous Burger King Whopper all have in common? Well, a whopper of a story, of course. A recent ad campaign by Burger King has this smarmy catchphrase: “Smart cars are smart enough to brake for a Whopper” (here’s a link to the video)."
+    publishedDateTime: 2020-07-06T15:38:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/06/hidden-secrets-that-the-burger-king-autopilot-whopper-teaches-us-about-tesla-and-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/06/hidden-secrets-that-the-burger-king-autopilot-whopper-teaches-us-about-tesla-and-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/06/hidden-secrets-that-the-burger-king-autopilot-whopper-teaches-us-about-tesla-and-self-driving-cars/amp/"
     type: article
     provider:
-      name: WSAV-TV
-      domain: wsav.com
-    quality: 44
-    images:
-      - url: "https://www.wsav.com/wp-content/uploads/sites/75/2020/06/b7775bcad29441de8ca0d81aa89555a9.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Amazon Scoops Up Self-Driving Start-Up Zoox"
-    excerpt: "Amazon.com is taking the plunge into autonomous driving technology and eventual contactless delivery with the acquisition of Zoox."
-    publishedDateTime: 2020-07-04T16:54:00Z
-    webUrl: "https://www.thestreet.com/video/amazon-buys-self-driving-start-up-zoox"
-    ampWebUrl: "https://www.thestreet.com/.amp/video/amazon-buys-self-driving-start-up-zoox"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/amazon-buys-self-driving-start-up-zoox"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://content.jwplatform.com/thumbs/ZgwCFLmG-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
-  - title: "5 key takeaways from Amazon's $1 billion acquisition of self-driving startup Zoox (AMZN)"
-    excerpt: "Amazon on Friday announced its acquisition of the self-driving startup Zoox. Analysts say the deal can help Amazon in many ways by expanding"
-    publishedDateTime: 2020-07-02T07:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amazons-1-billion-zoox-acquisition-5-takeaways-on-what-it-means-2020-6-1029346837"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
-  - title: "Video: Amazon acquires self-driving car startup Zoox"
-    excerpt: "Amazon said it will lead Zoox as a standalone business to drive the mission toward developing self-driving vehicles. In the video, Zoox demonstrates a one-hour fully autonomous dr"
-    publishedDateTime: 2020-07-02T12:52:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15380/video-amazon-acquires-self-driving-car-startup-zoox"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
+      name: Forbes
+      domain: forbes.com
+    quality: 54
 
 secured: "R1GGzfEVUhgYidE6jGSMleyswpqJ25WWBi7Po1Pz9MgbUOEBgYRXkcOc119PubGj/2dg6lZ9g6XCEKLgi91X7ed2oQZrfSuSpfBiX52+kww/zEFa9VBcaeg7sikaoB+uDLbjtu7vLxwfWkjKnxoxGp2yaRjPZsGiuK+Jgm/aDDm/QqgsQoft6VNtc73rbI358fL/CYidtYQgcre8nsNWWuM3w749q8PnY1Lb/W3fZLbJ7MwfPpu9FKAtI6dIW3tegdHLWsuIFBzzYcjBnItdnwvEjdH3VDXwv7IsEdoICpm3DlIbU21G8q8b4WQcuqGqPJY715pQZ5RTdLyh1CFE1w==;nQX3Ffenps4K8jAeDfleog=="
 ---
