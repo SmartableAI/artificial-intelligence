@@ -2,6 +2,544 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-06-04-inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence.md",
+      "title": "Inky raises $20 million to prevent phishing attacks with AI ‘fence’",
+      "excerpt": "Inky, which taps AI and machine learning to spot and deflect phishing attacks, has raised $20 million in venture capital financing.",
+      "webUrl": "https://venturebeat.com/2020/06/04/inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/INKY-Releases-2018-Q4-Email-Security-Report-Welcome-to-2019-Phishing-Gets-Personal-e1591114148163.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Inky raises $20 million to prevent phishing attacks with AI ‘fence’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/04/inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/04/inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence/amp/",
+      "publishedDateTime": "2020-06-04T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026.md",
+      "title": "Size & Share of Cloud Natural Language Processing (NLP) Market 2020 Research Report and Forecast to 2026",
+      "excerpt": "Facts & Factors (FnF), a leading market research company recently published a research report on “ Cloud Natural Language Processing (NLP) Market By Type (Rule-Based, Statistical, and Hybrid), By Deployment Model (Public,",
+      "webUrl": "https://surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/amp/",
+      "cdnAmpWebUrl": "https://surfacingmagazine-net.cdn.ampproject.org/c/s/surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/amp/",
+      "publishedDateTime": "2020-06-04T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "surfacingmagazine.net",
+        "domain": "surfacingmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-ai-should-serve-us-not-destroy-our-humanity.md",
+      "title": "AI should serve us, not destroy our humanity",
+      "excerpt": "There has been a shift in the way we interact with machine technology and apply information of formal scientific jargon to the real world",
+      "webUrl": "https://www.zawya.com/saudi-arabia/en/business/story/AI_should_serve_us_not_destroy_our_humanity-SNG_176079931/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "AI should serve us, not destroy our humanity",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-04T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-taiwan-draws-up-plan-to-woo-us13-billion-of-annual-tech-research-in-semiconductors-5g-and-ai.md",
+      "title": "Taiwan draws up plan to woo US$1.3 billion of annual tech research in semiconductors, 5G and AI",
+      "excerpt": "Taiwan is dangling incentives to attract more than NT$40 billion (US$1.3 billion) of annual investments in research and technology, creating a seven-year blueprint to safeguard the island’s lead in semiconductors and other cutting-edge fields.",
+      "webUrl": "https://www.scmp.com/tech/policy/article/3087517/taiwan-draws-plan-woo-us13-billion-annual-tech-research-semiconductors",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/04/7753bab4-a629-11ea-8ea0-d7434be00753_image_hires_140753.jpg?itok=UGp-QqSc&v=1591250881",
+          "width": 1200,
+          "height": 630,
+          "title": "Taiwan draws up plan to woo US$1.3 billion of annual tech research in semiconductors, 5G and AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3087517/taiwan-draws-plan-woo-us13-billion-annual-tech-research-semiconductors",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3087517/taiwan-draws-plan-woo-us13-billion-annual-tech-research-semiconductors",
+      "publishedDateTime": "2020-06-03T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-a-complete-guide-of-natural-language-processing-nlp.md",
+      "title": "A Complete Guide of Natural Language Processing (NLP)",
+      "excerpt": "With rise of Big Data and Data Science, Natural Language Processing is also advancing to extract true meaning of data. NLP is a key part of Artificial Intelligence and it depends upon machine learning capabilities.",
+      "webUrl": "https://www.analyticsinsight.net/complete-guide-natural-language-processing-nlp/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/06/Natural-Language-Processing.jpg",
+          "width": 1560,
+          "height": 878,
+          "title": "A Complete Guide of Natural Language Processing (NLP)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T22:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-machine-learning-as-a-service-market-analysis-as-per-the-latest-coronavirus-impact.md",
+      "title": "Machine Learning as a Service Market Analysis as per the Latest Coronavirus Impact",
+      "excerpt": "The Machine Learning as a Service Market is segmented on the lines of its component, organization size, end-user, application, and regional. Based on component segmentation it covers software and services.",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis-as-per-the-latest-coronavirus-impact-2020-06-04",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning as a Service Market Analysis as per the Latest Coronavirus Impact",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-police-facial-recognition-tech-could-misidentify-people-at-protests-experts-say.md",
+      "title": "Police facial recognition tech could misidentify people at protests, experts say",
+      "excerpt": "How? If the police force in your area is using any kind of facial recognition software to identify protesters, it’s possible you could be misidentified as one. Most facial recognition was ...",
+      "webUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/protest-2020-getty-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Police facial recognition tech could misidentify people at protests, experts say",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp",
+      "publishedDateTime": "2020-06-03T17:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
+      "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
+      "excerpt": "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ...",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-in-q-tel-enlists-deepgram-for-speech-recognition.md",
+      "title": "In-Q-Tel Enlists Deepgram for Speech Recognition",
+      "excerpt": "Deepgram, the speech recognition vendor, has signed on with the investment arm of the U.S. intelligence community. The Bay Area startup said Thursday (June 4) is has inked a strategic investment agreement with In-Q-Tel. The agreement allows government ...",
+      "webUrl": "https://www.datanami.com/2020/06/04/in-q-tel-enlists-deepgram-for-speech-recognition/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2014/10/speech-generation.png",
+          "width": 600,
+          "height": 397,
+          "title": "In-Q-Tel Enlists Deepgram for Speech Recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-facebook-creates-shopping-data-sets-to-make-more-humanlike-chatbots.md",
+      "title": "Facebook creates shopping data sets to make more humanlike chatbots",
+      "excerpt": "In a preprint paper, Facebook describes data sets and a basic framework for AI assistants that recommend fashion and furniture items.",
+      "webUrl": "https://venturebeat.com/2020/06/03/facebook-shopping-data-sets-humanlike-chatbots/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook creates shopping data sets to make more humanlike chatbots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/03/facebook-shopping-data-sets-humanlike-chatbots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/facebook-shopping-data-sets-humanlike-chatbots/amp/",
+      "publishedDateTime": "2020-06-03T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-californias-statehouse-is-considering-a-controversial-facial-recognition-bill.md",
+      "title": "California’s statehouse is considering a controversial facial recognition bill",
+      "excerpt": "As protestors square off against police across the country, California is readying a bill that could expand the state’s use of facial recognition, including for law enforcement purposes. Introduced as Assembly Bill 2261,",
+      "webUrl": "https://www.theverge.com/2020/6/3/21279539/california-facial-recognition-ab2261-law-privacy-regulation",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/UTM_B2kRoU8foyNwIHWM2Ito0JA=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66891489/acastro_180730_1777_facial_recognition_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "California’s statehouse is considering a controversial facial recognition bill",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/3/21279539/california-facial-recognition-ab2261-law-privacy-regulation",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/3/21279539/california-facial-recognition-ab2261-law-privacy-regulation",
+      "publishedDateTime": "2020-06-03T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-video-building-intrinsically-motivated-teams-via-self-determination-theory.md",
+      "title": "Video: Building intrinsically motivated teams via self-determination theory",
+      "excerpt": "In this GDC 2020 virtual talk DeepMind's Alexandre Moufarek discusses how you can help build intrinsically motivated teams by applying self-determination theory.",
+      "webUrl": "https://gamasutra.com/view/news/364174/Video_Building_intrinsically_motivated_teams_via_selfdetermination_theory.php",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/remedy.gif",
+          "width": 341,
+          "height": 214,
+          "title": "Video: Building intrinsically motivated teams via self-determination theory",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gamasutra",
+        "domain": "gamasutra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-pioneering-personalized-user-experiences-at-stockx-with-amazon-personalize.md",
+      "title": "Pioneering personalized user experiences at StockX with Amazon Personalize",
+      "excerpt": "This is a guest post by Sam Bean and Nic Roberts II at StockX. In their own words, “StockX is a Detroit startup company revolutionizing ecommerce with a unique Bid/Ask marketplace—our platform models the New York Stock Exchange and treats goods like sneakers and streetwear as high-value, tradable commodities.",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/pioneering-personalized-user-experiences-at-stockx-with-amazon-personalize/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/02/stockx-2.gif",
+          "width": 907,
+          "height": 465,
+          "title": "Pioneering personalized user experiences at StockX with Amazon Personalize",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T11:40:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-cvs-launches-pilot-program-for-self-driving-vehicles-to-deliver-prescriptions.md",
       "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
       "excerpt": "And last month, the pharmacy giant started a test program that uses flying drones to deliver medicine to customers.",
@@ -720,571 +1258,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-america-is-awash-in-cameras-a-double-edged-sword-for-protesters-and-police.md",
-      "title": "America is awash in cameras, a double-edged sword for protesters and police",
-      "excerpt": "Law enforcement agencies have existing networks of surveillance cameras and body cameras worn by officers, as well as face- and object-recognition software. Large retail and food chains have ...",
-      "webUrl": "https://www.washingtonpost.com/technology/2020/06/03/cameras-surveillance-police-protesters/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-03-2020/t_48c102585698434184e8226c2f464325_name_Screen_Shot_2020_06_03_at_11_48_02_AM_scaled.jpg&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": "America is awash in cameras, a double-edged sword for protesters and police",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2020/06/03/cameras-surveillance-police-protesters/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/06/03/cameras-surveillance-police-protesters/?outputType=amp",
-      "publishedDateTime": "2020-06-03T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-ai-or-human-lyrics-could-you-tell-which-is-which.md",
-      "title": "AI or human lyrics: Could you tell which is which?",
-      "excerpt": "Could you correctly identify AI-generated song lyrics? It seems that many of us can not tell the difference between a human or robot songwriter.",
-      "webUrl": "https://www.zdnet.com/article/ai-or-human-lyrics-could-you-tell-which-is-which/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/06/02/1b2ac1b3-4e84-4e13-b259-d030ce58632b/thumbnail/1200x675/8bccc54719a47bb6e084f37f321c2f3b/robot-music-guitar-clubfungus.png",
-          "width": 1200,
-          "height": 675,
-          "title": "AI or human lyrics: Could you tell which is which?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-or-human-lyrics-could-you-tell-which-is-which/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-or-human-lyrics-could-you-tell-which-is-which/",
-      "publishedDateTime": "2020-06-03T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-regulating-artificial-intelligence-why-we-need-expert-input-to-limit-risks.md",
-      "title": "Regulating Artificial Intelligence: Why We Need Expert Input To Limit Risks",
-      "excerpt": "Businesses must figure out how to deploy AI in a way that does not harm consumers, violate consumers' privacy or otherwise run afoul of laws.",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/03/regulating-artificial-intelligence-why-we-need-expert-input-to-limit-risks/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F06%2Fa-41.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Regulating Artificial Intelligence: Why We Need Expert Input To Limit Risks",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/03/regulating-artificial-intelligence-why-we-need-expert-input-to-limit-risks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/03/regulating-artificial-intelligence-why-we-need-expert-input-to-limit-risks/amp/",
-      "publishedDateTime": "2020-06-03T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-cloud-computing-google-signs-milestone-discount-deal-with-uk-government.md",
-      "title": "Cloud computing: Google signs 'milestone' discount deal with UK government",
-      "excerpt": "UK public sector bodies including the NHS will be offered discounted rates for Google Cloud services under a new government agreement.",
-      "webUrl": "https://www.zdnet.com/article/cloud-computing-google-signs-milestone-discount-deal-with-uk-government/",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/15/85d6fa95-3fc9-4009-8c70-c842435cd4fb/thumbnail/1200x675/e0aa90238cb2c7fd3050cbd975975541/google-announces-new-integrated-firstpar-5ebdf6d5a07d36782c1deff5-1-may-15-2020-2-25-42-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Cloud computing: Google signs 'milestone' discount deal with UK government",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cloud-computing-google-signs-milestone-discount-deal-with-uk-government/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloud-computing-google-signs-milestone-discount-deal-with-uk-government/",
-      "publishedDateTime": "2020-06-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-artificial-intelligence-ai-in-healthcare-market-forecast-report-2020-2027-top-key-players-analysis.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
-      "excerpt": "According to the latest report by GMI Research, Artificial Intelligence (AI) in Healthcare Market: Global Industry Trends, Share, Size, Growth, Opportunity, and Forecast 2020-2027. The global Artificial Intelligence (AI) in the healthcare market illustrates the impact of the COVID-19 pandemic and represents that the market is anticipated to bounce back in 2021 over 2020 while growing at a significant growth rate from 2022 onwards.",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-forecast-report-2020---2027---top-key-players-analysis-2020-06-03",
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Healthcare Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-03T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-tibco-software-announces-that-spotfire-and-data-science-supports-microsoft-azure-cognitive-services.md",
-      "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
-      "excerpt": "TIBCO announces that TIBCO Spotfire and TIBCO Data Science now support Microsoft Azure Cognitive Services. TIBCO's solutions extend these services to analyse multivariate anomalies and add root cause analysis, using input from the Key Phrase Extraction ...",
-      "webUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/oilandgas.jpg",
-          "width": 612,
-          "height": 355,
-          "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
-      "publishedDateTime": "2020-06-03T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-assessing-the-accuracy-of-automatic-speech-recognition-for-psychotherapy.md",
-      "title": "Assessing the accuracy of automatic speech recognition for psychotherapy",
-      "excerpt": "Although automatic speech recognition software is commercially available, its accuracy in mental health settings has not been well described. It is unclear which metrics and thresholds are ...",
-      "webUrl": "https://www.nature.com/articles/s41746-020-0285-8",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-020-0285-8/MediaObjects/41746_2020_285_Fig1_HTML.png",
-          "width": 669,
-          "height": 685,
-          "title": "Assessing the accuracy of automatic speech recognition for psychotherapy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-03T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-bbc-testing-beeb-ai-voice-assistant-with-windows-insiders.md",
-      "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
-      "excerpt": "The Beeb AI assistant aims to help users in the UK by navigating BBC services and access BBC content. There are no plans to build a device to rival Amazon Echo or Google Home, alt",
-      "webUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570815849/itpro/2017/01/voice_assistantbigstock.jpg",
-          "width": 900,
-          "height": 592,
-          "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders?amp",
-      "publishedDateTime": "2020-06-03T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-researchers-eye-embedding-artificial-intelligence-ai-into-war-games-simulation-to-beef-up-challenges.md",
-      "title": "Researchers eye embedding artificial intelligence (AI) into war games simulation to beef-up challenges",
-      "excerpt": "U.S. military researchers are asking industry to develop artificial intelligence (AI ... Officials of the U.S. Defense Advanced Research Projects Agency (DARPA) in Arlington, Va.,",
-      "webUrl": "https://www.militaryaerospace.com/computers/article/14177043/artificial-intelligence-ai-war-games-simulation",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-03T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Military",
-        "domain": "militaryaerospace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-lg-and-kt-to-use-ai-for-pandemic-prevention.md",
-      "title": "LG and KT to use AI for pandemic prevention",
-      "excerpt": "LG will collaborate with KT to use AI for future pandemic prevention, as well as for the development of new products and services.",
-      "webUrl": "https://www.zdnet.com/article/lg-and-kt-to-deploy-ai-for-pandemic-prevention/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/06/03/2912e5be-a2d1-4213-9fd1-1e9c4cef4c32/kt5-kt-5g.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": "LG and KT to use AI for pandemic prevention",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lg-and-kt-to-deploy-ai-for-pandemic-prevention/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-and-kt-to-deploy-ai-for-pandemic-prevention/",
-      "publishedDateTime": "2020-06-03T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-robot-chef-uses-machine-learning-to-perfect-its-omelette-making-skills.md",
-      "title": "Robot chef uses machine learning to perfect its omelette-making skills",
-      "excerpt": "From robots that flip burgers in California to ones that serve up bratwursts in Berlin, we are starting to see how machines can play sous-chef in kitchens around the world. But scientists at the University of Cambridge have been exploring how these culinary robots might not only do some of",
-      "webUrl": "https://newatlas.com/robotics/robot-chef-machine-perfect-omelette/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/aafb1bf/2147483647/strip/true/crop/1008x672+149+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fec%2F80%2F62314aaa432b9113b18408421b27%2Fscreen-shot-2020-06-03-at-4.28.56%20pm.png",
-          "width": 1200,
-          "height": 800,
-          "title": "Robot chef uses machine learning to perfect its omelette-making skills",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/robot-chef-machine-perfect-omelette/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/robot-chef-machine-perfect-omelette/?amp=true",
-      "publishedDateTime": "2020-06-02T23:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-facebook-paypal-back-indonesian-start-up-gojeks-asia-digital-payments-push.md",
-      "title": "Facebook, PayPal back Indonesian start-up Gojek’s Asia digital payments push",
-      "excerpt": "The deal announced Wednesday marks Facebook’s first investment in an Indonesian company and is a major boost for Gojek, the country’s largest start-up which made its name in the ride-hailing business.",
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/03/af227d42-a564-11ea-8ea0-d7434be00753_image_hires_144031.jpg?itok=sZyyj_K0&v=1591166440",
-          "width": 1200,
-          "height": 630,
-          "title": "Facebook, PayPal back Indonesian start-up Gojek’s Asia digital payments push",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments",
-      "publishedDateTime": "2020-06-02T23:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents.md",
-      "title": "BBC Beeb voice assistant is built to understand different UK accents",
-      "excerpt": "The British Broadcasting Corporation or BBC may be best known for being, well, a broadcasting company but it actually has left very important legacies in the tech industry today. The BBC Micro in",
-      "webUrl": "https://www.slashgear.com/bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents-02623480/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/bbc-beeb-beta.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "BBC Beeb voice assistant is built to understand different UK accents",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents-02623480/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents-02623480/amp/",
-      "publishedDateTime": "2020-06-02T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

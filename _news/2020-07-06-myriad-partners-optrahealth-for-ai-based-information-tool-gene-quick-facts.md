@@ -8,7 +8,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/myriad-partners-optrahealth-for-ai-b
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts-2020-07-06?amp"
 type: article
 quality: 64
-heat: 64
+heat: 74
+published: true
 
 provider:
   name: Nasdaq
@@ -16,6 +17,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Myriad Announces Partnership with OptraHEALTH® to Deliver “Gene™” a New AI Based Information Tool for Hereditary Cancer Patients"
+    excerpt: "Myriad Genetics, Inc. (NASDAQ: MYGN), a leader in molecular diagnostics and precision medicine, today announced a new collaboration with OptraHEALTH ® to implement a cognitive ChatBOT named Gene ™ to provide genetic and financial assistance information to prospective patients."
+    publishedDateTime: 2020-07-06T11:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/myriad-announces-partnership-with-optrahealth-to-deliver-gene-a-new-ai-based-information-tool-for-hereditary-cancer-patients-1029368388"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 18
 
 secured: "B5WKJGfn/wDh22B6Np0i0Ob544yzpFn+txDs3BtrQkVI4QVzXB8NdFFIDvW986qK6HAeU+G9RRQTd1UUwyFxzg9VfJwOiLlmnZxxmO98ipWEfJeTll6tA1JowosC3VqBg2zi+jt/PH4+3v/JG/I0FCtv+PVSQIEOX4gowTRNPXa1gXTz9MIVu5n2psh0ygbdfcIGIlOZh9Tk0igqmYli1HA5Xze/e3V497rCgtGc9cN+7mxULq1M9QPtc1OKu36H2pM/XlRzEkBSTxEWSM9agLOAcijvetWoWtBXaoBboKEVNb1eS0yMubdgSyro5TZMcvPqVEtasGHdW4ZCVagp9fV3991X3IsuvLBIXjuSnmg9XrBFnfCmr+yi5rBOub+8d9bKkw5dqXqy4hhg8ZTix+DiffXjTdKlb/gcd2gDdx3R9WzY8sq7JJRWZSibKiJjk4Wu5ZNeuRm5gkCuVrBGNiFTWz51f5F+jqkOcjEx5c+kjcQz4SWcz+F2c8On3k5wixZXmKW+0GbtSN3gFkQeIQ==;43yN0ow+CpQIQr5pzCWVzA=="
 ---

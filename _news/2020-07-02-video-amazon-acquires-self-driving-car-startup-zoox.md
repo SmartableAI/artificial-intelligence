@@ -70,20 +70,6 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 24
-  - title: "Amazon Acquires Self-Driving Startup Zoox From Senegalese-Born CEO For Over $1.2bn"
-    excerpt: "E-commerce giant Amazon has reportedly forked out more than $1.2 billion to buy the self-driving startup Zoox. On Friday, both companies announced they had signed a"
-    publishedDateTime: 2020-07-01T18:04:00Z
-    webUrl: "https://urbangeekz.com/2020/06/amazon-acquires-self-driving-startup-zoox-from-senegalese-born-ceo-for-over-1-2bn/"
-    type: article
-    provider:
-      name: urbangeekz.com
-      domain: urbangeekz.com
-    quality: 18
-    images:
-      - url: "https://urbangeekz.com/wp-content/uploads/2020/06/Aicha-Evans_CEO_Zoox.jpg"
-        width: 837
-        height: 558
-        isCached: true
 
 secured: "LihU/5ZB3ZRIrhOZtxyxybLOoGM3QkKQwsqBb/0dDbeBNUwIIrdibJiJDWBbBlVxJ3z77Eqkhiiz7rZ35HSNfnAJbDfPcIAGsk0TYkMWH7zvI0zspckOYYcCP9XPFWKYV3UyojIYUQFaKVdpOBq2Gnztr2IHK+dvPAv/WogkHczQcYNxcriHz2Ccb8opJcpsIgZfzuSrnxdLUXuSnlxA7N3WXNW3v41U2MySC4gEVWGxceOGW6TD1f8AMelcHEea00igl42gWNJuK2BJdZTlo9hr/uWqVl3QVY+xAC6RHSen3mbfPZabCoLHAB5TbA7XxqFXQWIZrScBfwPqXBhLlg==;dc4e3jSSoq6iTTcNSCCN2Q=="
 ---

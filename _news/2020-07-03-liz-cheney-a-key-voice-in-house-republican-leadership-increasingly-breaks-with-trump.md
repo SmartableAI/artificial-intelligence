@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-03T23:58:00Z
 webUrl: "https://keyt.com/politics/2020/07/03/liz-cheney-a-key-voice-in-house-republican-leadership-increasingly-breaks-with-trump/"
 type: article
 quality: 16
-heat: 26
+heat: 16
 published: false
 
 provider:

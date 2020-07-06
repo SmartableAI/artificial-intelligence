@@ -2,6 +2,607 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-06-21-google-will-shut-down-its-ai-guided-photos-printing-service-on-june-30th.md",
+      "title": "Google will shut down its AI-guided Photos printing service on June 30th",
+      "excerpt": "Google is ending its AI-guided Photos printing trial service on June 30th, but it might lead to a similar feature in the long run.",
+      "webUrl": "https://www.engadget.com/google-photos-printing-trial-ends-023308003.html",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F0c6735a0-b344-11ea-bafe-160a0b0e31fc&client=amp-blogside-v2&signature=b58b18d9c10038d1386655a2cdb759e378701301",
+          "width": 600,
+          "height": 350,
+          "title": "Google will shut down its AI-guided Photos printing service on June 30th",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-photos-printing-trial-ends-023308003.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-photos-printing-trial-ends-023308003.html",
+      "publishedDateTime": "2020-06-20T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-20-what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols.md",
+      "title": "What does that tattoo mean? AI app decodes extremist political symbols",
+      "excerpt": "VizPol can help journalists spot far-right and white supremacist symbols like Odal rune tattoos and boogaloo igloo flags.",
+      "webUrl": "https://www.cnet.com/news/what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/6V802LNr692jWjxRHZJDKMoiJEo=/756x567/2020/06/19/db54e33c-a93f-42a3-abe1-888a4258a06c/gettyimages-863111282.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "What does that tattoo mean? AI app decodes extremist political symbols",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/",
+      "publishedDateTime": "2020-06-20T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-20-dangerous-ai-algorithms-and-how-to-recognize-them.md",
+      "title": "Dangerous AI algorithms and how to recognize them",
+      "excerpt": "When discussing the threats of artificial intelligence, the first thing that comes to mind are images of Skynet, The Matrix, and the robot apocalypse. The runner up is technological unemployment, the vision of a foreseeable future in which AI algorithms take over all jobs and push humans into a struggle for meaningless survival in a world where human labor is",
+      "webUrl": "https://thenextweb.com/neural/2020/06/20/dangerous-ai-algorithms-and-how-to-recognize-them/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/1-copy-9-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Dangerous AI algorithms and how to recognize them",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/20/dangerous-ai-algorithms-and-how-to-recognize-them/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/20/dangerous-ai-algorithms-and-how-to-recognize-them/amp/",
+      "publishedDateTime": "2020-06-20T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-20-pakistani-man-wins-facebook-ethics-in-ai-research-award.md",
+      "title": "Pakistani man wins Facebook ‘Ethics in AI Research’ award",
+      "excerpt": "A scholar Junaid Qadir from Pakistan has become the winner of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics.",
+      "webUrl": "https://dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-in-ai-research-award/",
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailytimes.com.pk/assets/uploads/2020/06/20/Pakistani-scholars-win-Facebook-Ethics-in-AI-Research-award.png",
+          "width": 640,
+          "height": 356,
+          "title": "Pakistani man wins Facebook ‘Ethics in AI Research’ award",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-in-ai-research-award/amp/",
+      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-in-ai-research-award/amp/",
+      "publishedDateTime": "2020-06-20T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Times",
+        "domain": "dailytimes.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-20-tensorflow-robot-recognizes-objects.md",
+      "title": "TensorFlow Robot Recognizes Objects",
+      "excerpt": "Google’s open-source TensorFlow software can help. It is a machine learning system used in Google’s own speech recognition, search, and other products. It is also used in quite a few non ...",
+      "webUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2016/10/robot.png",
+          "width": 800,
+          "height": 400,
+          "title": "TensorFlow Robot Recognizes Objects",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-lost-memories-war-crimes-evidence-threatened-by-ai-moderation.md",
+      "title": "'Lost memories': War crimes evidence threatened by AI moderation",
+      "excerpt": "From bombings and protests to the opening of a new health center, student journalist Baraa Razzouk has been documenting daily life in Idlib, Syria, for years, and posting the videos to his YouTube account.",
+      "webUrl": "https://www.reuters.com/article/us-global-socialmedia-rights-trfn/lost-memories-war-crimes-evidence-threatened-by-ai-moderation-idUSKBN23Q2TO",
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23Q2TO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23Q2TO",
+      "publishedDateTime": "2020-06-19T14:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-teaching-physics-to-neural-networks-removes-chaos-blindness.md",
+      "title": "Teaching physics to neural networks removes 'chaos blindness'",
+      "excerpt": "Artificial neural networks mimic this behavior by adjusting numerical weights and biases during training sessions to minimize the difference between their actual and desired outputs.",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/06/200619143437.htm",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-19T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-this-startup-could-be-a-dog-owners-best-friend-as-it-uses-machine-learning-to-help-guide-key-decisions.md",
+      "title": "This startup could be a dog owner’s best friend as it uses machine learning to help guide key decisions",
+      "excerpt": "After adopting his first dog last year, Patrick Opie was struggling with figuring out what Orin, his mini Australian shepherd, needed and when. The struggle went beyond coping with normal puppy",
+      "webUrl": "https://www.geekwire.com/2020/startup-dog-owners-best-friend-uses-machine-learning-help-guide-key-decisions/",
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/orin1-630x472.jpeg",
+          "width": 630,
+          "height": 472,
+          "title": "This startup could be a dog owner’s best friend as it uses machine learning to help guide key decisions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/startup-dog-owners-best-friend-uses-machine-learning-help-guide-key-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/startup-dog-owners-best-friend-uses-machine-learning-help-guide-key-decisions/amp/",
+      "publishedDateTime": "2020-06-19T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-5-big-myths-of-ai-and-machine-learning-debunked-free-ebook.md",
+      "title": "5 Big Myths of AI and Machine Learning Debunked - Free eBook",
+      "excerpt": "The myths around artificial intelligence can get pretty dense,so we've taken five of the biggest and dissected them to help you understand the truth about today's AI landscape. Grab your free eBook!",
+      "webUrl": "https://www.neowin.net/news/5-big-myths-of-ai-and-machine-learning-debunked---free-ebook",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1592575548_w_splu410c98_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "5 Big Myths of AI and Machine Learning Debunked - Free eBook",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/5-big-myths-of-ai-and-machine-learning-debunked---free-ebook/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/5-big-myths-of-ai-and-machine-learning-debunked---free-ebook/",
+      "publishedDateTime": "2020-06-19T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-artificial-intelligence-wrote-the-lyrics-to-this-fake-nirvana-song.md",
+      "title": "Artificial intelligence wrote the lyrics to this fake Nirvana song",
+      "excerpt": "YouTuber Funk Turkey has been experimenting with this very proposition, feeding band lyrics to an AI and asking it to write an entirely new song based on the output. The results are, well… interesting,",
+      "webUrl": "https://www.techspot.com/news/85706-artificial-intelligence-wrote-lyrics-fake-nirvana-song.html",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-19-image-9.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": "Artificial intelligence wrote the lyrics to this fake Nirvana song",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85706-artificial-intelligence-wrote-lyrics-fake-nirvana-song.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85706-artificial-intelligence-wrote-lyrics-fake-nirvana-song.html",
+      "publishedDateTime": "2020-06-19T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai.md",
+      "title": "CVPR challenge pushes researchers to improve car accident detection AI",
+      "excerpt": "The AI City Challenge attracted AI researchers from 30+ countries in a competition for tasks like spotting car accidents or stalled cars on highways.",
+      "webUrl": "https://venturebeat.com/2020/06/19/cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/ai-city-challenge.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "CVPR challenge pushes researchers to improve car accident detection AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/19/cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/19/cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai/amp/",
+      "publishedDateTime": "2020-06-19T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough.md",
+      "title": "AI Weekly: Restricting surveillance technologies is a strong first step, but it’s not enough",
+      "excerpt": "New laws and regulations are curbing law enforcement's use of surveillance technologies, but that might not be enough.",
+      "webUrl": "https://venturebeat.com/2020/06/19/ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_340300073-e1592521538361.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Restricting surveillance technologies is a strong first step, but it’s not enough",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/19/ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/19/ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough/amp/",
+      "publishedDateTime": "2020-06-19T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-artificial-intelligence-in-fintech-global-market-growth-trends-and-forecasts-to-2025-assessment-of-the-impact-of-covid-19-on-the-industry-researchandmarketscom.md",
+      "title": "Artificial Intelligence in Fintech - Global Market Growth, Trends and Forecasts to 2025 - Assessment of the Impact of COVID-19 on the Industry - ResearchAndMarkets.com",
+      "excerpt": "Growth, Trends, Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The global AI in Fintech market was estimated at USD 6.67 billion in 2019 and is expected to reach USD 22.",
+      "webUrl": "https://www.businesswire.com/news/home/20200619005338/en/Artificial-Intelligence-Fintech---Global-Market-Growth",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200619005338/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Artificial Intelligence in Fintech - Global Market Growth, Trends and Forecasts to 2025 - Assessment of the Impact of COVID-19 on the Industry - ResearchAndMarkets.com",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-19T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-19-ge-healthcare-taps-lunits-ai-for-its-new-chest-x-ray-suite.md",
+      "title": "GE Healthcare taps Lunit’s AI for its new chest X-ray suite",
+      "excerpt": "GE Healthcare launched an artificial intelligence-powered chest X-ray analysis suite, designed to spot and highlight eight common conditions, using algorithms built by the South Korean startup Lunit ... analytics, AI and connectivity will only become ...",
+      "webUrl": "https://www.fiercebiotech.com/medtech/ge-healthcare-taps-lunit-s-ai-for-its-new-chest-x-ray-suite",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1592492062/Lunit%20Xray%20AI.jpeg?H_Tp7Ynhb8bsEI3Y4GISbyNH7u9Sjepp",
+          "width": 2700,
+          "height": 1518,
+          "title": "GE Healthcare taps Lunit’s AI for its new chest X-ray suite",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-19T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-microsoft-acquires-adrm-software-to-develop-data-models-for-azure.md",
       "title": "Microsoft Acquires ADRM Software to Develop Data Models for Azure",
       "excerpt": "Microsoft has announced the purchase of data model develop ADRM, which will be incorporated into its Microsoft Azure division.",
@@ -665,587 +1266,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-ibm-launches-watson-works-to-address-the-challenges-of-returning-to-the-workplace.md",
-      "title": "IBM Launches Watson Works to Address the Challenges of Returning to the Workplace",
-      "excerpt": "IBM (NYSE: IBM) today announced Watson Works, a curated set of products that embeds Watson artificial intelligence (AI) models and applications to help companies navigate many aspects of the return-to-workplace challenge following lockdowns put in place to slow the spread of COVID-19.",
-      "webUrl": "https://www.cmo.com.au/mediareleases/134132/ibm-launches-watson-works-to-address-the/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://demo.idg.com.au/cmo/cmo50/2020/cmo50_promo.jpg",
-          "width": 620,
-          "height": 254,
-          "title": "IBM Launches Watson Works to Address the Challenges of Returning to the Workplace",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-ai-recreates-the-painting-techniques-of-famous-artists.md",
-      "title": "AI recreates the painting techniques of famous artists",
-      "excerpt": "Apart from the virtual history lessons, this could be useful for illustrating general painting techniques to relative newcomers — say, starting from the background and working ‘closer’ to the viewer.",
-      "webUrl": "https://www.engadget.com/ai-recreates-painting-techniques-of-famous-artists-022923128.html",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F080a74b0-b1a3-11ea-bfa7-b98b6051d4be&client=amp-blogside-v2&signature=5d536120550223598bcf3a3cd34a91546508d565",
-          "width": 1200,
-          "height": 425,
-          "title": "AI recreates the painting techniques of famous artists",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-ai-makes-a-splash-in-advertising.md",
-      "title": "AI Makes A Splash In Advertising",
-      "excerpt": "AI is particularly good at advertising: identifying potential customers through clustering and pattern matching, tailoring messages through AI-enabled hyperpersonalization, and finding the best times and means to communicate through pattern identification.",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/18/ai-makes-a-splash-in-advertising/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1174712945%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "AI Makes A Splash In Advertising",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/18/ai-makes-a-splash-in-advertising/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/18/ai-makes-a-splash-in-advertising/amp/",
-      "publishedDateTime": "2020-06-18T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-why-qualcomm-will-be-big-in-robotics-the-next-big-it-wave.md",
-      "title": "Why Qualcomm Will Be Big in Robotics, the Next Big IT Wave",
-      "excerpt": "Qualcomm has an impressive robotics offering in its RB5 robotics platform. The technology, when applied to a full product, has the capability of redefining what an autonomous machine, either fixed or mobile,",
-      "webUrl": "https://www.eweek.com/innovation/why-qualcomm-will-be-big-in-robotics-the-next-big-it-wave",
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/Human.vs.robot_1.jpg?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": "Why Qualcomm Will Be Big in Robotics, the Next Big IT Wave",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T18:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-artificial-intelligence-systems-need-checks-and-balances-throughout-development.md",
-      "title": "Artificial intelligence systems need ‘checks and balances’ throughout development",
-      "excerpt": "The Department of Defense is moving forward of artificial intelligence projects for lethality. Experts warn that testing, experimentation and human understanding are critical to creating trustworthy systems.",
-      "webUrl": "https://www.c4isrnet.com/it-networks/2020/06/18/artificial-intelligence-systems-need-checks-and-balances-throughout-development/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.armytimes.com/resizer/tw4DuuF_K5QoEibZuKhpeUvKPDQ=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/YFKKAHFIPZB3PMZ4U3C7EBWM2M.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial intelligence systems need ‘checks and balances’ throughout development",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-teaching-physics-to-neural-networks-removes-chaos-blindness.md",
-      "title": "Teaching physics to neural networks removes 'chaos blindness'",
-      "excerpt": "The work has implications for improved artificial intelligence (AI) applications ranging from medical diagnostics to automated drone piloting. Neural networks are an advanced type of AI loosely ...",
-      "webUrl": "https://phys.org/news/2020-06-physics-neural-networks-chaos.html",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-06-physics-neural-networks-chaos.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-06-physics-neural-networks-chaos.amp",
-      "publishedDateTime": "2020-06-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-tesla-admits-its-approach-to-self-driving-is-harder-but-might-be-only-way-to-scale.md",
-      "title": "Tesla admits its approach to self-driving is harder but might be only way to scale",
-      "excerpt": "Tesla’s head of AI admitted that the automaker’s approach to self-driving is harder than what most companies in the industry are doing, but he says it’s the only way to scale. There are dozens of high-profile companies working on solving self-driving and virtually as many different approaches,",
-      "webUrl": "https://electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/",
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/06/Tesla-Autopilot.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 463,
-          "title": "Tesla admits its approach to self-driving is harder but might be only way to scale",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/amp/",
-      "publishedDateTime": "2020-06-18T16:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-amazon-touts-ai-for-social-distancing-amid-worker-complaints.md",
-      "title": "Amazon Touts AI for Social Distancing Amid Worker Complaints",
-      "excerpt": "Facing criticism over workplace safety, the company is using cameras, sensors, and augmented reality to warn employees when they're too close to one another.",
-      "webUrl": "https://www.wired.com/story/amazon-touts-ai-social-distancing-worker-complaints/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5eebf79845997e7f063bebff/master/pass/business_amazon_874678990.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Amazon Touts AI for Social Distancing Amid Worker Complaints",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/amazon-touts-ai-social-distancing-worker-complaints/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-touts-ai-social-distancing-worker-complaints/amp",
-      "publishedDateTime": "2020-06-18T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-detecting-fraud-in-heterogeneous-networks-using-amazon-sagemaker-and-deep-graph-library.md",
-      "title": "Detecting fraud in heterogeneous networks using Amazon SageMaker and Deep Graph Library",
-      "excerpt": "Fraudulent users and malicious accounts can result in billions of dollars in lost revenue annually for businesses. Although many businesses use rule-based filters to prevent malicious activity in their systems, these filters are often brittle and may not capture the full range of malicious behavior.",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-fraud-in-heterogeneous-networks-using-amazon-sagemaker-and-deep-graph-library/",
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/16/heterogeneous-networks-sagemaker-2-978x630.gif",
-          "width": 978,
-          "height": 630,
-          "title": "Detecting fraud in heterogeneous networks using Amazon SageMaker and Deep Graph Library",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T16:26:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-qualcomm-launches-5g-ai-enabled-robotics-platform.md",
-      "title": "Qualcomm launches 5G, AI-enabled robotics platform",
-      "excerpt": "Qualcomm Technologies released the Qualcomm Robotics RB5 platform ... fifth-generation Qualcomm AI Engine that delivers 15 tera operations per second of artificial intelligence (AI) performance for running complex AI and deep learning workloads.",
-      "webUrl": "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/",
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gpsworld.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-Development-Kit-W-300x274.jpg",
-          "width": 300,
-          "height": 274,
-          "title": "Qualcomm launches 5G, AI-enabled robotics platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/amp/",
-      "cdnAmpWebUrl": "https://www-gpsworld-com.cdn.ampproject.org/c/s/www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/amp/",
-      "publishedDateTime": "2020-06-18T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GPS World",
-        "domain": "gpsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-ibm-unveils-watson-works-to-address-the-challenge-of-returning-to-the-workplace.md",
-      "title": "IBM unveils Watson Works to address the challenge of returning to the workplace",
-      "excerpt": "IBM (NYSE: IBM) today announced Watson Works, a curated set of products that embeds Watson artificial intelligence (AI) models and applications to help companies navigate many aspects of the ...",
-      "webUrl": "https://www.finextra.com/pressarticle/82966/ibm-unveils-watson-works-to-address-the-challenge-of-returning-to-the-workplace/wholesale",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
-          "width": 480,
-          "height": 270,
-          "title": "IBM unveils Watson Works to address the challenge of returning to the workplace",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec.md",
-      "title": "AI Mining ESG Data Companies Not Disclosing Says Blackrock Exec",
-      "excerpt": "Machine learning is helping the $7 trillion investment firm to uncover ESG impacts from satellite images of pollution to cars in a parking lot, he said. He added AI is aiding in the analysis of voice inflections from executives and whether the inflections have change from the last time they spoke.",
-      "webUrl": "https://www.forbes.com/sites/tedknutson/2020/06/18/ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F4b464d37cc9c46399f1bc34acbd0f90a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3344%26cropY1%3D139%26cropY2%3D2020",
-          "width": 1199,
-          "height": 675,
-          "title": "AI Mining ESG Data Companies Not Disclosing Says Blackrock Exec",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedknutson/2020/06/18/ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/06/18/ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec/amp/",
-      "publishedDateTime": "2020-06-18T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-intel-introduces-cooper-lake-processors.md",
-      "title": "Intel introduces Cooper Lake processors",
-      "excerpt": "Intel's (NASDAQ:INTC) new 3rd Gen Intel Xeon Scalable processors, dubbed Cooper Lake, are \"designed for deep learning, virtual machine density, in-memory database, mission-critical applications ...",
-      "webUrl": "https://seekingalpha.com/news/3584303-intel-introduces-cooper-lake-processors",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/news/3584303-intel-introduces-cooper-lake-processors",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/news/3584303-intel-introduces-cooper-lake-processors",
-      "publishedDateTime": "2020-06-18T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-tech-in-latin-america-an-entrepreneurs-guide-to-mays-startup-news.md",
-      "title": "Tech in Latin America: An entrepreneur’s guide to May’s startup news",
-      "excerpt": "The Venture City, a startup accelerator with presences in Brazil ... Elsewhere, the United Nations AI for Good Summit geared up for a webinar about indigenous knowledge and AI which featured ...",
-      "webUrl": "https://thenextweb.com/podium/2020/06/18/tech-in-latin-america-an-entrepreneurs-guide-to-mays-startup-news/",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/marcus-dantus-1.jpeg",
-          "width": 592,
-          "height": 370,
-          "title": "Tech in Latin America: An entrepreneur’s guide to May’s startup news",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/podium/2020/06/18/tech-in-latin-america-an-entrepreneurs-guide-to-mays-startup-news/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/06/18/tech-in-latin-america-an-entrepreneurs-guide-to-mays-startup-news/amp/",
-      "publishedDateTime": "2020-06-18T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

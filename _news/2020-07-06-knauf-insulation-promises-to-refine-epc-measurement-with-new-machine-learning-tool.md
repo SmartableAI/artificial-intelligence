@@ -7,6 +7,7 @@ webUrl: "https://www.businessgreen.com/news/4017368/knauf-insulation-promises-re
 type: article
 quality: 18
 heat: 18
+published: false
 
 provider:
   name: Business Green
@@ -23,6 +24,6 @@ images:
     isCached: true
     title: "Knauf Insulation promises to refine EPC measurement with new machine-learning tool"
 
-secured: "gEzyc1lYSW2A5mV3c9b5KQIzdS5fODat9xxau2CpfJugU/CpNUHTAL0hVM3mZXO6bADWl6SgTf6ZBOV0wjKSGemOLPLAdbwpT7bzcNUnwyS1gAG2jIvh+uycNB4xc4mi7rE6uaID0vdjme6UPps/AsKhDYkzU9AnS7tFgab8w4skwP5FghNKV9r437Ak2Be+n10huFIIPWEI8RsDSalfVJyWpJCyKW543WLYe9yC/9f+WHZHnmDsa2AyLpKwe4rSvboeAq3CFFpkHpw63/wNUmWD6bAA/PN/nd4DUg+r1Cb7mynAcVgpDXxk2nLdoXQhdP9K1EGszab7LSaaBrehng==;PWL+wRj4MsasSTQRU6NK/g=="
+secured: "yCNRK/Yj4gnHs8hlOhgOqVcGS/fJI6p4XOqK+mHsQPGwyq7OzyfYezT7vg9mXAXUI/jKAOBw0KxHzbvqUhS+Be7Lvosek8lH39R/VryZsM4WPwFijaxvsumKj4TDN7vDP9KpD3abiJkVkk+XQi9E90KWp31Mo2ctYG9tRlxuXsiP/A8yQc3zRkgxGKrFOHdqlHD5n1X4+iw76Vv0CrZYwcyFqtnDUzoSqS1xikB7WZOuO0Bfbp8Yft39PGOArk9Iwk2xzvyHf2dudxAaPjLDRJZrFbcEtk19gjbUSfykOpjid7AVA1RvqYACV7ngv+KLhGUf4AzDfoqB1j6QfKxNLIeGNScufwOYWn9mD5GOssC4JKeCESuJpCCrE+/jP0TTE1C3yw6v7vjounndvUfmSHluWRtu9BIp9iwlQ7FFvqvqoG9iEh9JH04B2IJAiYm3wU6MAhsl1J44cNp3yj1cQ2rFVTFzK1gez0xkvwXghT9DIeQI/sZwy/HE7PNfQGWk54jRDk5eCe9UUipOYlnsqQ==;0nsH+02oZyrA+TwSfw7wOQ=="
 ---
 

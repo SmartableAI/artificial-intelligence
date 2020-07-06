@@ -29,6 +29,48 @@ images:
     title: "Global Automatic Speech Recognition Market 2020 Industry Size, Cost Structure Analysis, Growth, Share and Opportunities and Forecast to 2026"
 
 related:
+  - title: "Artificial Intelligence (AI) Market Opportunities, Business Growth, Trends and Forecast 2020 to 2027"
+    excerpt: "As per the research held by Acumen Research and Consulting, \"the global Artificial Intelligence (AI) market anticipated to exceed US$ 160 Bn by 2027, along with the projected CAGR of 49% from 2020 to 2027\"."
+    publishedDateTime: 2020-07-06T13:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-opportunities-business-growth-trends-and-forecast-2020-to-2027-2020-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Neural Network Software Market Report (2020 to 2025) – COVID-19 Growth and Change"
+    excerpt: "The Neural Network Software Market is expected to exceed more than US$ 22.55 Billion by 2024 at a CAGR of 33.2% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
+    publishedDateTime: 2020-07-06T11:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change-2020-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Study Innovative Business Growth Outlook Forecasting By 2025"
+    excerpt: "The major factors speculated to augment the markets are growing security requirements in government sectors for"
+    publishedDateTime: 2020-07-03T07:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-study-innovative-business-growth-outlook-forecasting-by-2025-2020-07-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025"
     excerpt: "Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023” To Its Research Database This report focuses on the global Natural language processing (NLP) status, future forecast,"
     publishedDateTime: 2020-07-03T22:56:00Z
@@ -43,6 +85,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Car Market Size, Outlook, Trend and Forecast, 2020 – 2024"
+    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
+    publishedDateTime: 2020-07-06T07:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-size-outlook-trend-and-forecast-2020-2024-2020-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Voice Recognition System Market Size to Exceed $39 Bn By 2027"
+    excerpt: "According to the Acumen Research, The global Automotive Voice Recognition System Market is expected to exceed $39 billion by 2027 and the market is anticipated to display a compound annual growth rate (CAGR) of 21 percent from 2020 to 2027."
+    publishedDateTime: 2020-07-02T10:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-size-to-exceed-39-bn-by-2027-2020-07-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Entertainment Robots Market 2020 Global Trends, Market Share, Industry Size, Growth, Sales, Opportunities, and Market Forecast to 2023"
     excerpt: "The global entertainment robots market is expected to reach approximately USD 3.71 billion by 2023 at a CAGR of 23.06%"
     publishedDateTime: 2020-07-03T15:48:00Z
@@ -52,20 +122,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Software System Market Analysis by Manufacturers, Regions, Type and Application to 2024"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 04, 2020 (The Expresswire) -- The “Artificial Intelligence Software System Market” report entitled “Global Artificial Intelligence Software System Market Growth ..."
-    publishedDateTime: 2020-07-04T18:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-system-market-analysis-by-manufacturers-regions-type-and-application-to-2024-2020-07-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -127,6 +183,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Human Machine Interface Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2027"
+    excerpt: "Selbyville, Delaware Global Human Machine Interface Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Human Machine Interface Market Report also covers top key players,"
+    publishedDateTime: 2020-07-02T05:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/human-machine-interface-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2027-2020-07-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market Analysis 2020 by Size, Share, Latest Global Trends, Top Key Players, Future Growth, Revenue Analysis, Demand Forecast To 2023"
+    excerpt: "Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal"
+    publishedDateTime: 2020-07-02T16:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-analysis-2020-by-size-share-latest-global-trends-top-key-players-future-growth-revenue-analysis-demand-forecast-to-2023-2020-07-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Voice Assistant Market 2020 Research Report with COVID-19 Impact, by Future Trend, Growth rate and Industry Analysis to 2025"
     excerpt: "Global Voice Assistant Market Growth (Status and Outlook) 2020-2025 organized by researchers at MarketsandResearch.biz presents a detailed diagram of the market in terms of current and future trends driving the profit pattern."
     publishedDateTime: 2020-07-06T01:13:00Z
@@ -140,6 +224,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Drug Discovery Market is Projected to Grow at a CAGR of 49.6% during the forecast period 2020 to 2027"
+    excerpt: "A new research report published by Fior Markets with the title Global Artificial Intelligence (AI) in Drug Discovery Market by Type (Service, Software, Hardware), Technology (Context-Aware Processing,"
+    publishedDateTime: 2020-07-04T11:51:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2020-07-04/global-artificial-intelligence-ai-in-drug-discovery-market-is-projected-to-grow-at-a-cagr-of-496"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 19
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
         isCached: true
   - title: "Natural Language Processing (NLP) Market 2020| Countries Exclusive Data, Demand, Share and Growth Analysis by Key Participant up to 2027"
     excerpt: "The Global Natural Language Processing (NLP) Market Feasibility Analysis and Trend Forecast Report is the most professional and comprehensive systematic deep market research report in this field. This report first introduces the background of Natural ..."

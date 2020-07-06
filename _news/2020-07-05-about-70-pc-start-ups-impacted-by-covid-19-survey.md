@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.in/business/news/about-70-pc-start-ups-i
 cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/about-70-pc-start-ups-impacted-by-covid-19-survey/amp_articleshow/76800935.cms"
 type: article
 quality: 42
-heat: 62
+heat: 42
 published: false
 
 provider:

@@ -1,30 +1,26 @@
 ---
 category: news
 title: "AWS and Formula 1 Announce New Racing Performance Stats for 2020 Season"
-excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ..."
-publishedDateTime: 2020-06-23T05:09:00Z
-webUrl: "https://www.marketwatch.com/press-release/aws-and-formula-1-announce-new-racing-performance-stats-for-2020-season-2020-06-23-4159927"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), and Formula 1 (F1) (NASDAQ: FWONA, FWONK) are introducing six new, real-"
+publishedDateTime: 2020-06-23T08:49:00Z
+webUrl: "https://www.businesswire.com/news/home/20200623005380/en/AWS-Formula-1-Announce-New-Racing-Performance"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+  - url: "https://mms.businesswire.com/media/20200623005380/en/800446/23/2020_F1_Insight_CarPerfTop5-02.jpg"
     width: 1200
-    height: 630
+    height: 627
     isCached: true
     title: "AWS and Formula 1 Announce New Racing Performance Stats for 2020 Season"
 
-secured: "GWEg5qpCUfKGFUGhTGzfZ7GDFRrIkaU9yBB5oOLcOGkT4NBwcP1vwFELBHn1sIBDdb6F+Ait6DyfCNX9IbP0BbQ5ujEK23fEAflDfg2au6+TkY1FEIH2Q6sQlpaZ/xfkVa2DNlmaDAWeX9gg0b9GVYiSIj0Q9vL/8lSzLtfy6ueqNBfDEnS2ueRYh0722dIIsDYUkMupv1kilxV3j5Qe/EWzkgtzbY0w0B+pkj0pj97dN/3rbHMgC676tHcZ62KbLItolTxViIOCKtdEAGCqcIXXCk44jRB2Cn1bKfworgxXU44SucxzJYGx8P2gieIq0X9BNgXqj7Bz3uoXNae7xg==;yojG02I99esY6Ou5iNhS9g=="
+secured: "+nUysdqsgD9g28YomTa91yEAAmhHnv6kh8xv3XSuMKKQnSy6zTnsJTimI3YTV1BKfSofKJeb/FQTgdczGb4+h9qFVhh2Kh5oE+38+0vnkMjvywp+8vK6hfoG8I6//9HfgnJpBLUIT+9u7SeWKYldPnapoMKTtQh/Ua4wyrwqBITD2Bt736N0+/r6RpXNAI5QQ/CG7j49di3/VjuyBXXjuWZtHH+LEOeQ2S/cpr4JnnusMxlHaj4ANB0r7uqca29Cj1lRyLMQb26R9c5GDX0PjlEM+gi+CaSoFjliW/F4TbEhaoLm0zEKTMqOP5lc/kstZWkw86lQQp/gDyVbXMZXJg==;3BQjQO4PP3BUP0kJj9wEvg=="
 ---
 

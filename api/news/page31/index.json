@@ -2,6 +2,607 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-06-10-artificial-intelligence-ai-in-manufacturing-market-2020-global-analysis-opportunities-and-forecast-to-2024.md",
+      "title": "Artificial Intelligence (AI) in manufacturing Market 2020 Global Analysis, Opportunities And Forecast To 2024",
+      "excerpt": "Global Artificial Intelligence (AI) in Manufacturing Market: by Component (Software, Service, Hardware (Network,",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2020-global-analysis-opportunities-and-forecast-to-2024-2020-06-10",
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in manufacturing Market 2020 Global Analysis, Opportunities And Forecast To 2024",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-10T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy.md",
+      "title": "DeepMind hopes to teach AI to cooperate by playing Diplomacy",
+      "excerpt": "In a new paper, researchers at DeepMind propose using the game Diplomacy as an environment for training reinforcement learning agents.",
+      "webUrl": "https://venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/90f19ba9-2828-4f1f-b15f-32a826086c8b-e1591803634502.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "DeepMind hopes to teach AI to cooperate by playing Diplomacy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/amp/",
+      "publishedDateTime": "2020-06-10T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-eu-watchdog-sets-up-tiktok-task-force-warns-on-clearview-ai-software.md",
+      "title": "EU watchdog sets up TikTok task force, warns on Clearview AI software",
+      "excerpt": "Chinese video app TikTok's practices are to be examined by an EU task force, the bloc's privacy watchdog said on Wednesday, which also warned EU police forces against using facial recognition software from U.",
+      "webUrl": "https://www.reuters.com/article/us-eu-privacy-tiktok-clearview/eu-watchdog-sets-up-tiktok-task-force-warns-on-clearview-ai-software-idUSKBN23H2PM",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200610&t=2&i=1521793831&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG591QS",
+          "width": 884,
+          "height": 545,
+          "title": "EU watchdog sets up TikTok task force, warns on Clearview AI software",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23H2PM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23H2PM",
+      "publishedDateTime": "2020-06-10T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-amazon-asks-court-to-block-former-aws-marketing-vp-from-working-on-google-cloud-next-speeches.md",
+      "title": "Amazon asks court to block former AWS marketing VP from working on Google Cloud Next speeches",
+      "excerpt": "Amazon is seeking a court order to keep Brian Hall, former Amazon Web Services vice president of product marketing, from editing and summarizing keynote speeches and slides for the upcoming",
+      "webUrl": "https://www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/",
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/GOOGLENEXT_2019_0409_091006-9782_ALIVECOVERAGE-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Amazon asks court to block former AWS marketing VP from working on Google Cloud Next speeches",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/amp/",
+      "publishedDateTime": "2020-06-10T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai.md",
+      "title": "Drones Vs. COVID-19: Ensuring Airspace Safety And Security With AI",
+      "excerpt": "Across the globe, drones are also playing an important role in the fight against COVID-19. In India, the Karnataka Government is using drones to sanitize public spaces in areas with confirmed cases, such as hospitals and metro areas.",
+      "webUrl": "https://www.forbes.com/sites/amirhusain/2020/06/10/drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee0e993e5438300070044fb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Drones Vs. COVID-19: Ensuring Airspace Safety And Security With AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amirhusain/2020/06/10/drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/06/10/drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai/amp/",
+      "publishedDateTime": "2020-06-10T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-cruise-is-using-food-bank-deliveries-as-cover-to-run-tests-that-may-violate-stay-home-orders-drivers-say.md",
+      "title": "Cruise is using food bank deliveries as cover to run tests that may violate stay-home orders, drivers say",
+      "excerpt": "Cruise’s self-driving cars are back on the road in San Francisco, but the company may be skirting the city’s shelter-in-place rules in its rush to get there, some of the company’s backup ...",
+      "webUrl": "https://www.theverge.com/2020/6/10/21286301/cruise-self-driving-car-testing-san-francisco-stay-home-order",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/zSpaDLuU-iIUGURwAN6VFFRLQtw=/0x0:2190x1468/1400x933/filters:focal(920x559:1270x909):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66916562/1189070702.jpg.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Cruise is using food bank deliveries as cover to run tests that may violate stay-home orders, drivers say",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/10/21286301/cruise-self-driving-car-testing-san-francisco-stay-home-order",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/10/21286301/cruise-self-driving-car-testing-san-francisco-stay-home-order",
+      "publishedDateTime": "2020-06-10T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-fleksy-rolls-out-an-sdk-for-its-ai-keyboard.md",
+      "title": "Fleksy rolls out an SDK for its AI keyboard",
+      "excerpt": "The developers behind Fleksy have launched an SDK for Android and iOS to scale demand for white labelling of their AI keyboard software which bakes in privacy-safe next-word prediction. Swipe-style input (which it calls Fleksywave) is also in beta and slated to roll out soon.",
+      "webUrl": "https://techcrunch.com/2020/06/10/fleksy-rolls-out-an-sdk-for-its-ai-keyboard/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/SDK-1200-630.png?w=1024",
+          "width": 1024,
+          "height": 538,
+          "title": "Fleksy rolls out an SDK for its AI keyboard",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/10/fleksy-rolls-out-an-sdk-for-its-ai-keyboard/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/fleksy-rolls-out-an-sdk-for-its-ai-keyboard/amp/",
+      "publishedDateTime": "2020-06-10T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-flatfile-raises-76-million-for-ai-that-extracts-and-transforms-spreadsheet-data.md",
+      "title": "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data",
+      "excerpt": "Flatfile, a startup developing a platform that ingests and transforms data from spreadsheets, raised $7.6 million in equity financing.",
+      "webUrl": "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/",
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/flatfile-eric-crane-david-boskovic-e1590701751753.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/amp/",
+      "publishedDateTime": "2020-06-10T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-three-ways-ai-video-surveillance-will-transform-the-retail-customer-experience.md",
+      "title": "Three Ways AI Video Surveillance Will Transform The Retail Customer Experience",
+      "excerpt": "As retailers prepare for the industry’s recovery and the country begins to reopen, retail leaders should be thinking about how to attract consumers to shop in-store.",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/10/three-ways-ai-video-surveillance-will-transform-the-retail-customer-experience/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1141999253%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Three Ways AI Video Surveillance Will Transform The Retail Customer Experience",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/10/three-ways-ai-video-surveillance-will-transform-the-retail-customer-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/10/three-ways-ai-video-surveillance-will-transform-the-retail-customer-experience/amp/",
+      "publishedDateTime": "2020-06-10T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-the-weird-frightening-future-of-ai-may-not-be-what-you-think.md",
+      "title": "The weird, frightening future of AI may not be what you think",
+      "excerpt": "There are five principles of AI weirdness, according to author and researcher Janelle Shane. One of them is: \"The danger of AI is not that it's too smart but it's not smart enough.\" But another is: \"AI does not really understand the problem you want it to solve.",
+      "webUrl": "https://www.cnet.com/news/the-weird-frightening-future-of-ai-may-not-be-what-you-think/",
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/b5BohM9J9LzTDHai5gW_rHh6vOU=/756x567/2020/06/08/ea5b88cf-58aa-44a3-995b-bb4043b1935f/look-like-a-thing.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "The weird, frightening future of AI may not be what you think",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-weird-frightening-future-of-ai-may-not-be-what-you-think/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-weird-frightening-future-of-ai-may-not-be-what-you-think/",
+      "publishedDateTime": "2020-06-10T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-azure-machine-learningwhats-new-from-build-2020.md",
+      "title": "Azure Machine Learning—what’s new from Build 2020",
+      "excerpt": "Machine learning (ML) is gaining momentum across a number of industries and scenarios as enterprises look to drive innovation, increase efficiency, and reduce costs. Microsoft Azure Machine Learning empowers developers and data scientists with enterprise-grade capabilities to accelerate the ML lifecycle.",
+      "webUrl": "https://azure.microsoft.com/blog/azure-machine-learning-what-s-new-from-build-2020/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/db646164-18d7-4987-a7ed-dd7451206d47.png",
+          "width": 1024,
+          "height": 586,
+          "title": "Azure Machine Learning—what’s new from Build 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-10T05:00:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60.md",
+      "title": "AWS certification course bundle deal: Train to become a cloud pro for just $60",
+      "excerpt": "Since launching in 2006, Amazon Web Services (AWS) has become the premier on-demand cloud computing platform. Offering a wide range of APIs to companies, governments, and individuals on a pay-as-you-go basis,",
+      "webUrl": "https://www.zdnet.com/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/05/35c5ae5e-3009-4ea2-90ec-61584b9fe4ce/thumbnail/1200x675/4eaf54addf487f85eff01764ae49ab83/zdnet-aws.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AWS certification course bundle deal: Train to become a cloud pro for just $60",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-certification-course-bundle-deal-train-to-become-a-cloud-pro-for-just-60/",
+      "publishedDateTime": "2020-06-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-loop-insights-launches-automated-contact-tracing-platform-to-support-covid-19-government-mandate.md",
+      "title": "Loop Insights Launches Automated Contact Tracing Platform to Support Covid-19 Government Mandate",
+      "excerpt": "Loop ' s solution ensures 100% accurate data collection via its proprietary IoT (Internet of Things) device, Fobi, and offers AI and predictive modeling. Reactionary time is vital for the management of Covid-19 outbreaks;",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/loop-insights-launches-automated-contact-tracing-platform-to-support-covid-19-government-mandate-1029296207",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/loop-insights-launches-automated-contact-tracing-platform-to-support-covid-19-government-mandate-1029296207",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/loop-insights-launches-automated-contact-tracing-platform-to-support-covid-19-government-mandate-1029296207",
+      "publishedDateTime": "2020-06-10T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-why-we-drive-takes-aim-at-self-driving-vehicles-and-other-threats-to-car-culture.md",
       "title": "‘Why We Drive’ Takes Aim at Self-Driving Vehicles and Other Threats to Car Culture",
       "excerpt": "Toward a Philosophy of the Open Road,’ author Matthew Crawford forms an argument for the feeling of power and possibility that can only be attained by taking the",
@@ -483,577 +1084,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-300000-facebook-content-moderation-mistakes-daily-report-says.md",
-      "title": "300,000 Facebook Content Moderation Mistakes Daily, Report Says",
-      "excerpt": "According to a just released report by NYU Stern, Facebook content moderators review posts, pictures, and videos that have been flagged by AI or reported by users about 3 million times a day. And since CEO Mark Zuckerberg admitted in a white paper that moderators “make the wrong call in more than one out of every 10 cases,",
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211058713%2F0x0.jpg",
-          "width": 1200,
-          "height": 779,
-          "title": "300,000 Facebook Content Moderation Mistakes Daily, Report Says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/amp/",
-      "publishedDateTime": "2020-06-09T17:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-this-wearable-ai-translator-lets-you-talk-freely-and-naturally-in-different-languages.md",
-      "title": "This wearable AI translator lets you talk freely and naturally in different languages",
-      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
-      "webUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2019%252F01%252F08%252F6e%252Fcde31ac0debc4a54974622afc46c4242.e83a8.png%252F1200x630.png?signature=ktElHOCCyScMZXyVZijc6UoLwD4=",
-          "width": 1200,
-          "height": 630,
-          "title": "This wearable AI translator lets you talk freely and naturally in different languages",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/wt2-plus-wearable-translator-timekettle.amp",
-      "publishedDateTime": "2020-06-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-global-artificial-intelligence-in-big-data-analytics-and-iot-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025.md",
-      "title": "Global Artificial Intelligence in Big Data Analytics and IoT Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025",
-      "excerpt": "Global Artificial Intelligence in Big Data Analytics and IoT Market Growth (Status and Outlook) 2020-2025 combines the essentials, definitions, categorization, and analysis of significant features about the market.",
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-big-data-analytics-and-iot-market-2020-key-players-comprehensive-research-swot-analysis-and-forecast-by-2025-2020-06-09",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Artificial Intelligence in Big Data Analytics and IoT Market 2020 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2025",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-tesla-launches-new-car-sharing-feature-to-simplify-access.md",
-      "title": "Tesla launches new car-sharing feature to simplify access",
-      "excerpt": "Tesla has launched a new feature that simplifies sharing your car with other people — another step toward its self-driving car-sharing network. With Model 3, Tesla focused on designing around ...",
-      "webUrl": "https://electrek.co/2020/06/09/tesla-new-car-sharing-feature-access/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/06/Tesla-car-sharing-hero.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 430,
-          "title": "Tesla launches new car-sharing feature to simplify access",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/06/09/tesla-new-car-sharing-feature-access/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/06/09/tesla-new-car-sharing-feature-access/amp/",
-      "publishedDateTime": "2020-06-09T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving.md",
-      "title": "IIHS Is Wrong In Claim That Only One Third Of Crashes Can Be Prevented By Self-Driving",
-      "excerpt": "They claim only 1/3rd of crashes will be prevented by robocars. But they think the hard crashes are easy and the easy crashes are hard, getting it really wrong. How will robots make dangerous mistakes?",
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/",
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/09/iihs-is-wrong-in-claim-that-only-one-third-of-crashes-can-be-prevented-by-self-driving/amp/",
-      "publishedDateTime": "2020-06-09T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-microsofts-news-ai-publishes-stories-about-its-own-racist-failures.md",
-      "title": "Microsoft's news AI publishes stories about its own racist failures",
-      "excerpt": "The inciting incident for this entire debacle appears to be Microsoft's late May decision to fire some human editors and journalists responsible for MSN.com and have its AI curate and aggregate stories for the site instead.",
-      "webUrl": "https://mashable.com/article/microsoft-news-ai-publishes-stories-about-racist-error/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F06%252F09%252F76%252Fdec069b9f3b44584ba24247a3a38d8a0.d7721.jpg%252F1200x630.jpg?signature=2jw9zmc73TP_TwyQ0MGmPUALBJg=",
-          "width": 1200,
-          "height": 630,
-          "title": "Microsoft's news AI publishes stories about its own racist failures",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/microsoft-news-ai-publishes-stories-about-racist-error.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/microsoft-news-ai-publishes-stories-about-racist-error.amp",
-      "publishedDateTime": "2020-06-09T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business.md",
-      "title": "Four Ways AI And Location Intelligence Are Guiding The Future Of Business",
-      "excerpt": "AI alone is not enough. Executives are already seeing that machine learning programs require real-world context to connect AI with the physical world, and that bridge is location intelligence.",
-      "webUrl": "https://www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business/",
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edfded8a1823e0006af20f5%2F0x0.jpg%3FcropX1%3D135%26cropX2%3D1200%26cropY1%3D94%26cropY2%3D694",
-          "width": 1066,
-          "height": 601,
-          "title": "Four Ways AI And Location Intelligence Are Guiding The Future Of Business",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esri/2020/06/09/four-ways-ai-and-location-intelligence-are-guiding-the-future-of-business/amp/",
-      "publishedDateTime": "2020-06-09T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-ai-software-at-microsofts-msn-misidentifies-mixed-race-little-mix-singers-report-says.md",
-      "title": "AI software at Microsoft's MSN misidentifies mixed-race Little Mix singers, report says",
-      "excerpt": "\"You might want to make sure you're using an image of the correct mixed race member of the group,\" Little Mix member Jade Thirlwall reportedly says.",
-      "webUrl": "https://www.cnet.com/news/ai-software-at-microsofts-msn-misidentifies-mixed-race-little-mix-singers-report-says/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/EYBPpknqxGvno4xRxCB5mf4wpxc=/756x567/2020/06/09/b795f993-8598-4744-9396-3f89c5f5f745/screen-shot-2020-06-09-at-11-34-39-am.png",
-          "width": 756,
-          "height": 567,
-          "title": "AI software at Microsoft's MSN misidentifies mixed-race Little Mix singers, report says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-software-at-microsofts-msn-misidentifies-mixed-race-little-mix-singers-report-says/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-software-at-microsofts-msn-misidentifies-mixed-race-little-mix-singers-report-says/",
-      "publishedDateTime": "2020-06-09T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-vectra-ai-offers-a-security-assist-to-microsoft-defender-atp-and-azure-sentinel.md",
-      "title": "Vectra AI Offers a Security Assist to Microsoft Defender ATP and Azure Sentinel",
-      "excerpt": "The eight-year-old, San Jose, Calif.-based Vectra attracted $100 million in a Series E funding round last June in part due to growing interest in its approach to network threat detection and response (NDR).",
-      "webUrl": "https://rcpmag.com/blogs/scott-bekker/2020/06/ai-security-for-azure.aspx",
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://rcpmag.com/-/media/ECG/VirtualizationReview/Images/IntroImages2019/BlueGreenCircuts.jpg",
-          "width": 647,
-          "height": 450,
-          "title": "Vectra AI Offers a Security Assist to Microsoft Defender ATP and Azure Sentinel",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-09T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Channel Partner",
-        "domain": "rcpmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24.md",
-      "title": "Amazon claims its AI-powered packaging selector reduced product damage rates by 24%",
-      "excerpt": "Amazon taps AI and machine learning to match packaging types with products, resulting in substantial cost savings and decreased product damages.",
-      "webUrl": "https://venturebeat.com/2020/06/09/amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24/",
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon claims its AI-powered packaging selector reduced product damage rates by 24%",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/09/amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/amazon-claims-its-ai-powered-packaging-selector-reduced-product-damage-rates-by-24/amp/",
-      "publishedDateTime": "2020-06-09T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-study-artificial-brains-need-rest-too.md",
-      "title": "Study: Artificial brains need rest too",
-      "excerpt": "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep",
-      "webUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/",
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-66-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Study: Artificial brains need rest too",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/amp/",
-      "publishedDateTime": "2020-06-09T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-daily-crunch-ibm-is-getting-out-of-facial-recognition.md",
-      "title": "Daily Crunch: IBM is getting out of facial recognition",
-      "excerpt": "IBM’s CEO takes a stand on mass surveillance, Apple may soon make a big chip announcement and Google Maps gets new features to help users navigate transit safely. Here’s your Daily Crunch for . 1. IBM ends all facial recognition business as CEO calls out bias and inequality",
-      "webUrl": "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/",
-      "heat": 256,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-540691818.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Daily Crunch: IBM is getting out of facial recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/daily-crunch-ibm-is-getting-out-of-facial-recognition/amp/",
-      "publishedDateTime": "2020-06-09T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos.md",
-      "title": "Google Brain, Intel, and UC Berkeley train robotic surgery AI with videos",
-      "excerpt": "Motion2Vec was created by researchers from Google, Intel, and UC Berkeley and is trained with video of human surgeons using da Vinci robots.",
-      "webUrl": "https://venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/surgery-robotics.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google Brain, Intel, and UC Berkeley train robotic surgery AI with videos",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/09/google-brain-intel-and-uc-berkeley-train-robotic-surgery-ai-with-videos/amp/",
-      "publishedDateTime": "2020-06-09T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,6 +7,7 @@ webUrl: "https://www.militaryaerospace.com/trusted-computing/article/14178908/tr
 type: article
 quality: 19
 heat: 19
+published: false
 
 provider:
   name: Military

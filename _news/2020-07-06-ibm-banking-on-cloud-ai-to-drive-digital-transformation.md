@@ -38,21 +38,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Learn how to accelerate your business using automation and AI technology: Transform 2020"
-    excerpt: "No one expected the jolt the Covid-19 pandemic would bring to business. If companies were already investing in automation and AI technologies before March 2020, they have only accelerated those investments since."
-    publishedDateTime: 2020-07-01T20:04:00Z
-    webUrl: "https://venturebeat.com/2020/07/01/learn-how-to-accelerate-your-business-using-automation-and-ai-technology-transform-2020/"
-    ampWebUrl: "https://venturebeat.com/2020/07/01/learn-how-to-accelerate-your-business-using-automation-and-ai-technology-transform-2020/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/learn-how-to-accelerate-your-business-using-automation-and-ai-technology-transform-2020/amp/"
+  - title: "'Networks, AI, analytics and security will accelerate digital transformation roadmaps in Middle East healthcare industry': Aruba Expert"
+    excerpt: "The healthcare industry in the Middle East will have to undergo crucial reforms once the crisis takes a back seat"
+    publishedDateTime: 2020-07-06T11:37:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Networks_AI_analytics_and_security_will_accelerate_digital_transformation_roadmaps_in_Middle_East_healthcare_industry_Aruba_Expert-ZAWYA20200706111933/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200706111933/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200706111933/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 78
+      name: Zawya
+      domain: zawya.com
+    quality: 25
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/VB-Transform-2020.png?w=1200&#038;strip=all"
+      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
         width: 1200
-        height: 800
+        height: 878
         isCached: true
 
 secured: "Q6qTLrOvkfkoH9zPd+pPL/I39MXMmJ8ouJiFMX5T/+zQyeFiNxB9/HxIRjcQRGXqSkUwEUkpi5tQcrODl1Qh6D8uHRkWPrBK66qQ0l8lOuSFr5bhoJ31YD30rIsgzItQTRnUTuU007LPnm/5TDcj+iBETNkU9zZ7FphxBdqzAyFBt9qsRtU9gYsYSoJiAOIO7kNIMbjHkuPI8ocMj3PkDwnQX6MdBRqVU4i8dVzprL1xSB9xNsjnByKce07EoCot6gBcxAdtze5DrPFZORSF3XYoRT6Atb8AR3h5yBT3gde84fB4OMq+qTCNe4QM7gg6nCbmDgQ8yKPjtRknsq4kpw==;5hBTqDr19eWCI2PRxr1IsQ=="

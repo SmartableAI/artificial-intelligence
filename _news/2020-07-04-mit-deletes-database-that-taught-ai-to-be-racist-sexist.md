@@ -42,22 +42,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "MIT removes huge dataset that teaches AI systems to use racist, misogynistic slurs"
-    excerpt: "MIT has taken offline a massive and highly-cited dataset that trained AI systems to use racist and misogynistic terms to describe people, The Register reports. The training set — called 80 Million Tiny Images,"
-    publishedDateTime: 2020-07-01T18:42:00Z
-    webUrl: "https://thenextweb.com/neural/2020/07/01/mit-removes-huge-dataset-that-teaches-ai-systems-to-use-racist-misogynistic-slurs/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/07/01/mit-removes-huge-dataset-that-teaches-ai-systems-to-use-racist-misogynistic-slurs/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/01/mit-removes-huge-dataset-that-teaches-ai-systems-to-use-racist-misogynistic-slurs/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 81
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-5-796x417.jpg"
-        width: 796
-        height: 417
-        isCached: true
   - title: "MIT AI training dataset pulled down for racist, sexist, vulgar labels as industry grapples with bias"
     excerpt: "A database used in training systems for tasks like facial biometrics and object recognition has been taken down by the Massachusetts Institute of Technology (MIT) after The Register reported it"
     publishedDateTime: 2020-07-02T19:46:00Z

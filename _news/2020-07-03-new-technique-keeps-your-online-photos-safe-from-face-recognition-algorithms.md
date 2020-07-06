@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-03T03:47:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/07/03/online-photos-safe-from-face-recognition-algorithms/"
 type: article
 quality: 36
-heat: 46
+heat: 36
 published: false
 
 provider:

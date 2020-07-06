@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nati
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -31,31 +31,6 @@ images:
     title: "TuSimple kicks off plan for a nationwide self-driving truck network with partners UPS, Xpress and McLane"
 
 related:
-  - title: "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane"
-    excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021."
-    publishedDateTime: 2020-07-01T17:06:00Z
-    webUrl: "https://www.reuters.com/article/us-tusimple-selfdriving-network-idUSKBN2425QS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2425QS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2425QS"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
-  - title: "Self-driving trucks to be commercially available by 2024, TuSimple says"
-    excerpt: "Autonomous driving tech vendor TuSimple today said it plans to bring self-driving trucks to market by 2024 by launching a self-operating freight network through a partnership with the four logistics providers UPS Inc."
-    publishedDateTime: 2020-07-01T18:08:00Z
-    webUrl: "https://www.dcvelocity.com/articles/46439-self-driving-trucks-tobe-commercially-available-by-2024-tusimple-says"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 39
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202007/tusimple-truck-P1133021-scaled.jpg?height=635&t=1593625917&width=1200"
-        width: 847
-        height: 635
-        isCached: true
   - title: "TuSimple Launches Self-Driving Truck Network with Berkshire’s McLane, UPS"
     excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc. supply chain unit McLane that"
     publishedDateTime: 2020-07-02T09:35:00Z

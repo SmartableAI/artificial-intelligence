@@ -8,7 +8,7 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=11425"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11425"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     height: 737
     isCached: true
     title: "New Mobile Cleaning Robot Disinfects Equipment, Production Spaces"
-
-related:
-  - title: "Fraunhofer team develops cleaning robot for food production"
-    excerpt: "Researchers from the Fraunhofer Institute for Process Engineering and Packaging (IVV) in Dresden have developed a mobile cleaning robot for the food manufacturing industry. The so-called Mobile Cleaning Device 4."
-    publishedDateTime: 2020-07-01T20:13:00Z
-    webUrl: "https://insights.globalspec.com/article/14487/fraunhofer-team-develops-cleaning-robot-for-food-production"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://insights.globalspec.com/images/assets/487/14487/Mobile_cleaning.jpg"
-        width: 640
-        height: 497
-        isCached: true
 
 secured: "VKW3gCzfM3JzbyjbRjVnYhtjIf9Q3Kmw3hBPvaI8rwf69XIjwyfKlcbIQ2moCDQvFnIaYYQ+gzYg/Qk2iDe/n2Lobj1UFQ5gr5+SLqMVN7YePtksJXhPtMgiQ4qAuZUowIxBdRfC+exTvxFE1FP0Hwr797z9u6oSoXkHMpkCD8q7O0envUySPpzZVYTQz2szBOxoDE0zo2XN+PYA+4SsYrPLfSMV0dyFITayx7X6OvTYkXlfoF+Nc99rqPARyqJe1hhjbKfJE0bGyFbR8G44R+LjxjIpieOXMY6J1UIC7HPmOTjhmsJZ+c72kUNomLAA3D7Se+zwmE+7RHqz0KNn9w==;Z82ULyZh2XFwzi2DOyYyqA=="
 ---

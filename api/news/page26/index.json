@@ -2,6 +2,530 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-06-15-five-steps-for-building-and-deploying-a-deep-learning-neural-network.md",
+      "title": "Five steps for building and deploying a deep learning neural network",
+      "excerpt": "Free tools and training data, easy-to-find tutorials, and low hardware costs have made deep learning no longer a method available only to researchers or people with highly specialized skills and/or big budgets. This presents both opportunities and threats ...",
+      "webUrl": "https://www.vision-systems.com/boards-software/article/14175365/five-steps-for-building-and-deploying-a-deep-learning-neural-network",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vision Systems Design",
+        "domain": "vision-systems.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-14-marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c.md",
+      "title": "Marketing To Robots: Why CMOs Need To Start Thinking About Business To Robot To Consumer (B2R2C)",
+      "excerpt": "What happens when robots & virtual assistants own the relationship with the consumer? In this new era of B2R2C, brands will need to think outside the “bot.",
+      "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/14/marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1185170041%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Marketing To Robots: Why CMOs Need To Start Thinking About Business To Robot To Consumer (B2R2C)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/14/marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/06/14/marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/amp/",
+      "publishedDateTime": "2020-06-14T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-14-assembling-a-top-notch-ai-team.md",
+      "title": "Assembling A Top-Notch AI Team",
+      "excerpt": "Even though there are many great AI software tools on the market, you still need to assemble a strong team when it comes to putting together projects. The technology is complex and evolving. There are also the challenges of change management within an organization.",
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F981091096%2F0x0.jpg%3FcropX1%3D469%26cropX2%3D7295%26cropY1%3D0%26cropY2%3D3840",
+          "width": 1200,
+          "height": 675,
+          "title": "Assembling A Top-Notch AI Team",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/amp/",
+      "publishedDateTime": "2020-06-14T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-14-improving-financial-sentiment-analysis-with-machine-learning-proxy-servers.md",
+      "title": "Improving Financial Sentiment Analysis with Machine Learning & Proxy Servers",
+      "excerpt": "Improving financial sentiment analysis with Afrtificial intelligence, machine learning and proxy servers is the new word in trading. Here's why",
+      "webUrl": "https://www.financemagnates.com/fintech/trading/improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financemagnates.com/wp-content/uploads/2019/05/AI_risk-management.jpg",
+          "width": 880,
+          "height": 400,
+          "title": "Improving Financial Sentiment Analysis with Machine Learning & Proxy Servers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.financemagnates.com/fintech/trading/improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/amp/",
+      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/trading/improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/amp/",
+      "publishedDateTime": "2020-06-14T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finance Magnates",
+        "domain": "financemagnates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-06-14-where-are-all-the-robots.md",
+      "title": "Where are all the robots?",
+      "excerpt": "D2, all we got is Facebook serving us ads we don’t want to click on, Netflix recommending us another movie that we probably shouldn’t stay up to watch, and iRobot’s Roomba.",
+      "webUrl": "https://techcrunch.com/2020/06/14/where-are-all-the-robots/",
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-168265499.jpg?w=1000",
+          "width": 1000,
+          "height": 667,
+          "title": "Where are all the robots?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/14/where-are-all-the-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/14/where-are-all-the-robots/amp/",
+      "publishedDateTime": "2020-06-14T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-06-14-artificial-intelligence-makes-blurry-faces-look-more-than-60-times-sharper.md",
+      "title": "Artificial Intelligence Makes Blurry Faces Look More Than 60 Times Sharper",
+      "excerpt": "Duke University researchers have developed an AI tool that can turn blurry, unrecognizable pictures of people’s faces into eerily convincing",
+      "webUrl": "https://scienceblog.com/516896/artificial-intelligence-makes-blurry-faces-look-more-than-60-times-sharper/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2020/06/BeforeAfter_0.jpg",
+          "width": 750,
+          "height": 375,
+          "title": "Artificial Intelligence Makes Blurry Faces Look More Than 60 Times Sharper",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://scienceblog.com/516896/artificial-intelligence-makes-blurry-faces-look-more-than-60-times-sharper/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/516896/artificial-intelligence-makes-blurry-faces-look-more-than-60-times-sharper/amp/",
+      "publishedDateTime": "2020-06-14T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-14-only-artificial-intelligence-can-protect-britain-top-general-warns.md",
+      "title": "Only artificial intelligence can protect Britain, top general warns",
+      "excerpt": "BRITAIN'S Armed Forces are still fighting \"yesterday's wars\" and can neither protect this country nor meet increasing 21st Century challenges, General Sir Richard Barrons said last night.",
+      "webUrl": "https://www.express.co.uk/news/politics/1295693/armed-forces-artificial-intelligence-sir-richard-barrons",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/139/590x/1295693_1.jpg?r=1592139773569",
+          "width": 590,
+          "height": 350,
+          "title": "Only artificial intelligence can protect Britain, top general warns",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/politics/1295693/armed-forces-artificial-intelligence-sir-richard-barrons/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/politics/1295693/armed-forces-artificial-intelligence-sir-richard-barrons/amp",
+      "publishedDateTime": "2020-06-14T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-14-this-ai-powered-app-will-build-you-a-winning-logo-for-just-40-flat.md",
+      "title": "This AI-Powered App Will Build You a Winning Logo for Just $40 Flat",
+      "excerpt": "A logo creates instant resonance between you and your customers and sticks in their minds whenever they need your services. Just think: When you get hungry, do you sometimes see the golden arches? That's the power of logos at work.",
+      "webUrl": "https://www.entrepreneur.com/article/351755",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591895053-Ent-Logo.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "This AI-Powered App Will Build You a Winning Logo for Just $40 Flat",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351755",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351755",
+      "publishedDateTime": "2020-06-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-14-artificial-intelligence-for-speech-recognition-market.md",
+      "title": "Artificial Intelligence for Speech Recognition Market",
+      "excerpt": "A new market study is released on Artificial Intelligence for Speech Recognition Market with data Tables for historical and forecast years represented with Chats & Graphs spread through 58 Pages ...",
+      "webUrl": "https://www.openpr.com/news/2074022/artificial-intelligence-for-speech-recognition-market",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2074022/artificial-intelligence-for-speech-recognition-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2074022/artificial-intelligence-for-speech-recognition-market",
+      "publishedDateTime": "2020-06-14T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-14-machine-learning-behind-google-translate.md",
+      "title": "Machine Learning Behind Google Translate",
+      "excerpt": "Google Translate was launched 10 years ago. During the initial days, Google Translate was launched with Phrase-Based Machine Translation as the key algorithm. Later, Google came up with other machine learning advancements that changed the way we look at foreign languages forever.",
+      "webUrl": "https://analyticsindiamag.com/google-translate-machine-learning/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/google-translate-scaled.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": "Machine Learning Behind Google Translate",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-14T01:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-14-facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos.md",
+      "title": "Facebook AI model achieves 65% accuracy to detect deepfake videos",
+      "excerpt": "Alarmed at the growing forged or deepfake videos on its platform, Facebook organised a Deepfake Detection Challenge and the results were not very encouraging, as the highest-performing model achieved an average precision of 65.",
+      "webUrl": "https://www.businessinsider.in/tech/news/facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos/articleshow/76367010.cms",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/76367010.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": "Facebook AI model achieves 65% accuracy to detect deepfake videos",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos/amp_articleshow/76367010.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos/amp_articleshow/76367010.cms",
+      "publishedDateTime": "2020-06-13T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-14-the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb.md",
+      "title": "The Brazil Tech And Innovation Round-Up: Covid-19 Data Reporting Controversy, Fake News Bill, Artificial Intelligence, Gympass, Airbnb",
+      "excerpt": "A selection of noteworthy developments around tech and innovation in South America's largest economy during the week ending June 12, 2020.",
+      "webUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee57bcb0813a30007224b80%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": "The Brazil Tech And Innovation Round-Up: Covid-19 Data Reporting Controversy, Fake News Bill, Artificial Intelligence, Gympass, Airbnb",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/amp/",
+      "publishedDateTime": "2020-06-13T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-14-facebooks-universal-music-translator.md",
+      "title": "Facebook’s Universal Music Translator",
+      "excerpt": "Star Trek has its universal language translator and now researchers from Facebook Artificial Intelligence Research (FAIR) has developed a universal music translator. Much of it is based on Google ...",
+      "webUrl": "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/05/universal_music_translation_fe1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Facebook’s Universal Music Translator",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-14-sd-times-news-digest-tensorflow-20-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings.md",
       "title": "SD Times news digest: TensorFlow 2.0 beta, WSL2 for Windows insiders, and TIBCO’s new cloud-native offerings",
       "excerpt": "TensorFlow, the open-source machine learning ... Polish-born and Long Island-bred, he is an Online and Social Media Editor for SD Times. He is also a Carnegie Hall pianist and music producer.",
@@ -527,594 +1051,6 @@
         "Microsoft AI",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-how-ai-can-help-find-a-coronavirus-vaccine.md",
-      "title": "How AI can help find a coronavirus vaccine",
-      "excerpt": "Murat Sonmez, managing director of the World Economic Forum, explains how big data and machine learning can help find a vaccine for COVID-19.",
-      "webUrl": "https://www.techrepublic.com/article/how-ai-can-help-find-a-coronavirus-vaccine/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/12/70e49bbc-cbc1-4955-ab58-dea875785790/resize/1200x/6730efc6ea35da13bc5bdc2fe4478178/20200610-sonmez-dan.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How AI can help find a coronavirus vaccine",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-can-help-find-a-coronavirus-vaccine/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-can-help-find-a-coronavirus-vaccine/",
-      "publishedDateTime": "2020-06-12T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt.md",
-      "title": "You can help a Mars Rover’s AI learn to tell rocks from dirt",
-      "excerpt": "Mars Rover Curiosity has been on the Red Planet for going on 8 years, but its journey is nowhere near finished — and it’s still getting upgrades. You can help it out by spending a few minutes labeling raw data to feed to its terrain-scanning AI.",
-      "webUrl": "https://techcrunch.com/2020/06/12/you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/spoc-examples.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "You can help a Mars Rover’s AI learn to tell rocks from dirt",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/12/you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/12/you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/amp/",
-      "publishedDateTime": "2020-06-12T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-hackers-target-microsoft-azure-servers-to-illegally-mine-crypto.md",
-      "title": "Hackers Target Microsoft Azure Servers to Illegally Mine Crypto",
-      "excerpt": "The machine learning cluster of Microsoft Azure cloud computing services has become the recent target of hackers for mining digital currencies.",
-      "webUrl": "https://www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2015/12/microsoft.jpg",
-          "width": 880,
-          "height": 400,
-          "title": "Hackers Target Microsoft Azure Servers to Illegally Mine Crypto",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/amp/",
-      "publishedDateTime": "2020-06-12T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-ab-testing-ml-models-in-production-using-amazon-sagemaker.md",
-      "title": "A/B Testing ML models in production using Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a fully managed service that provides developers and data scientists the ability to quickly build, train, and deploy machine learning (ML) models. Tens of thousands of customers, including Intuit, Voodoo, ADP, Cerner, Dow Jones, and Thomson Reuters, use Amazon SageMaker to remove",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/a-b-testing-ml-models-in-production-using-amazon-sagemaker/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/12/targeted-routing-003-2.gif",
-          "width": 500,
-          "height": 373,
-          "title": "A/B Testing ML models in production using Amazon SageMaker",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-12T12:27:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-revolutionizing-data-collaboration-with-federated-machine-learning.md",
-      "title": "Revolutionizing Data Collaboration with Federated Machine Learning",
-      "excerpt": "We now live in a world that’s becoming more data-driven every day. Organizations across a wide range of industries are using artificial intelligence (AI)",
-      "webUrl": "https://www.datanami.com/2020/06/12/revolutionizing-data-collaboration-with-federated-machine-learning/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/collaboration_people_shutterstock_ImageFlow.jpg",
-          "width": 1000,
-          "height": 555,
-          "title": "Revolutionizing Data Collaboration with Federated Machine Learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-12T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer.md",
-      "title": "Bigfoot Biomedical® Appoints Jim Malone MD Chief Medical Officer",
-      "excerpt": "Press Release Bigfoot Biomedical, Inc. announced today the appointment of Dr. Jim Malone as Chief Medical Officer. Dr. Malone, an endocrinologist specializing in diabetes, spent 12 years in clinical practice and 21 years in clinical research,",
-      "webUrl": "https://venturebeat.com/2020/06/12/bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/mms.businesswire.com/media/20200612005070/en/797739/4/Jim_Malone.jpg?strip=all&ssl=1",
-          "width": 381,
-          "height": 480,
-          "title": "Bigfoot Biomedical® Appoints Jim Malone MD Chief Medical Officer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/12/bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer/amp/",
-      "publishedDateTime": "2020-06-12T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled.md",
-      "title": "ProBeat: The question of cloud AI or edge AI is far from settled",
-      "excerpt": "It's too early to say whether Google's cloud solution or Microsoft's edge solution is the superior approach to noise cancellation.",
-      "webUrl": "https://venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/microsoft-teams-google-meet.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "ProBeat: The question of cloud AI or edge AI is far from settled",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/amp/",
-      "publishedDateTime": "2020-06-12T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai.md",
-      "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
-      "excerpt": "German automaker Volkswagen AG has closed its $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog post on Tuesday.",
-      "webUrl": "https://in.reuters.com/article/volkswagen-argo-idINKBN2390FT",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200602&t=2&i=1520735652&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG510AV",
-          "width": 819,
-          "height": 545,
-          "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN2390FT",
-      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN2390FT",
-      "publishedDateTime": "2020-06-12T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-top-companies-to-short-as-stock-market-optimism-dips.md",
-      "title": "Top Companies To Short As Stock Market Optimism Dips",
-      "excerpt": "We have some buying this morning with markets recovering some of Thursday’s massive losses. However, it looks uneasy at best. For those looking to bet against the upward trend our AI technology paired with our deep learning algorithms have identified several Top Shorts today.",
-      "webUrl": "https://www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1215230279%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": "Top Companies To Short As Stock Market Optimism Dips",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/amp/",
-      "publishedDateTime": "2020-06-12T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-scientists-say-satellite-imagery-and-machine-learning-advances-will-boost-african-consumer-data.md",
-      "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
-      "excerpt": "Scientists were able predict consumer data variation down to the village or neighborhood level with up to 55% accuracy and assets wealth up to 75% accuracy.",
-      "webUrl": "https://qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/06/sts058-77-083_orig-cover-e1591977652161.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 868,
-          "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/amp/",
-      "publishedDateTime": "2020-06-12T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-how-this-ai-company-is-working-to-transform-space-exploration-in-an-age-of-global-pandemic.md",
-      "title": "How This AI Company Is Working to Transform Space Exploration in an Age of Global Pandemic",
-      "excerpt": "Hypergiant founder and CEO Ben Lamm explains AI's role in creating a more flexible infrastructure for the future of space exploration.",
-      "webUrl": "https://www.entrepreneur.com/article/351699",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591802874-Unknown.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "How This AI Company Is Working to Transform Space Exploration in an Age of Global Pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351699",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351699",
-      "publishedDateTime": "2020-06-12T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-researchers-propose-framework-to-measure-ais-social-and-environmental-impact.md",
-      "title": "Researchers propose framework to measure AI’s social and environmental impact",
-      "excerpt": "Researchers propose a framework -- SECure -- designed to measure the social and environmental impact of AI systems in the real world.",
-      "webUrl": "https://venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Researchers propose framework to measure AI’s social and environmental impact",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/amp/",
-      "publishedDateTime": "2020-06-12T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines.md",
-      "title": "AI Emerges As A Major Player In The Race To Find Covid-19 Therapies And Vaccines",
-      "excerpt": "In this piece, I discuss how Covid-19 research has quickly created unprecedented amounts of publicly available research data and why privacy is top of mind. This piece also looks at the impact AI has during this time.",
-      "webUrl": "https://www.forbes.com/sites/brianuzzi/2020/06/12/ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1217452462%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI Emerges As A Major Player In The Race To Find Covid-19 Therapies And Vaccines",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2020/06/12/ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2020/06/12/ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines/amp/",
-      "publishedDateTime": "2020-06-12T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

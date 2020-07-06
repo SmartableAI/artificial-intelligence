@@ -17,6 +17,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - TensorFlow
+  - Google AI
 
 secured: "sfFaCBEOtSbgRAmyBHiapBgTCxnlc3xPSLYgJSi7m8Gl8C9TONSrSkkzgN7U2BD1PbWMFp01Sz6lowf8cJDwwsf/Wwiw2STXRc0sjYyST1Ma/XhxFoOkC3g1g4Bjqz/RgoxZQ5rOA3kgU0JfvryS8rMouwwGkMpp0qTsBEs1822WqWxkjboSwgjRNQNo3SsTvcJjCcWNZX4f//b7DXQ1Y9osZM5XRZkv3TtsgctU3pfr0wFC1Zn+Z3g79LaTgp1yEL2dD6y10faYSrzQ2dq260SJJGxX8rCOSLWTR8sGtFJm2ytcFx9hdv5pQsm8TwxLkUBDRveKBdvrXOIBKuJypg==;6PesxXkWt/Nj2OGkuKWjqw=="
 ---

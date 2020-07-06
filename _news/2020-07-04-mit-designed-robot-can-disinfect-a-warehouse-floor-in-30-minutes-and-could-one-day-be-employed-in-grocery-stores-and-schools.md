@@ -8,7 +8,7 @@ ampWebUrl: "https://wsvn.com/news/us-world/mit-designed-robot-can-disinfect-a-wa
 cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/mit-designed-robot-can-disinfect-a-warehouse-floor-in-30-minutes-and-could-one-day-be-employed-in-grocery-stores-and-schools/amp/"
 type: article
 quality: 31
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     title: "MIT-designed robot can disinfect a warehouse floor in 30 minutes — and could one day be employed in grocery stores and schools"
 
 related:
+  - title: "MIT-Designed Robot Could Be Used To Disinfect Schools, Grocery Stores With UV-C Light"
+    excerpt: "MIT has designed a robot that is capable of disinfecting the floor of a 4,000-square foot warehouse in only half an hour."
+    publishedDateTime: 2020-07-06T12:40:00Z
+    webUrl: "https://boston.cbslocal.com/2020/07/06/mit-cleaning-robot-disinfect-uv-c-light/"
+    ampWebUrl: "https://boston.cbslocal.com/2020/07/06/mit-cleaning-robot-disinfect-uv-c-light/amp/"
+    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/07/06/mit-cleaning-robot-disinfect-uv-c-light/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 52
+    images:
+      - url: "https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2020/07/mit-cleaning-robot.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "MIT-designed robot can disinfect a warehouse floor in 30 minutes -- and could one day be employed in grocery stores and schools"
     excerpt: "MIT has designed a robot that is capable of disinfecting the floor of a 4,000-square foot warehouse in only half an hour, and it could one day be used to"
     publishedDateTime: 2020-07-05T03:51:00Z

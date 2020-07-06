@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.co
 type: article
 quality: 74
 heat: 74
+published: true
 
 provider:
   name: InfoWorld
