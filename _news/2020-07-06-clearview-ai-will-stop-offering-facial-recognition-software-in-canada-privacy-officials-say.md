@@ -82,6 +82,6 @@ related:
       domain: globalnews.ca
     quality: 49
 
-secured: "2+wfXm/njnrKt/UEZE+MWtNcP0ZCD0j49xaunduAx/iSqjeyJRk0t3FFEW7Em1jG6fatlx0TaddEBwg6rZEeq0xZwujseuZThWCux37aoaUH0BvzalebPB7xuntUYLm8sNoI5kMierymeOE5ekGqPlAiMsWIwQ/34dJ09IV26UAtbLaXcxaDT88F5UwCbRhqFKl6g32IESnLvX2O6teVWUeIVvGsXgQLZaPf4egYIUjEZG4wunHjDHJJznEsxiO7aQQ8I5IpEEfQa12O7CpFCRvZ1Y7QoQJFiVEaCbIHrw/noeQdepS0ooNceb6DF9tuuNTmqIhSSW7cgyQ4uxhglA==;7m+w77E6uehU7yCR3NXMQg=="
+secured: "MzKfkaKkkzgRppTGc3Oi+g2J2SHVkUyiymFy8zRTtfwlBZel5pj7J6pG79eGo8Y4csJ11k+M2r+DRFKoBMj1lB2NgUG4spNWDrLkKbu0+W60KZfejK11W36N5wbt7oMb1AQBSDVllSbB28D5/HyvtyUj+uTgpiCvwLNqrzU0uhMyxHCs/Q1i+BEVRuJkCB0ZUiXnAvI0jnma612cofTlNH/fkLBkHkj6AaPImJbT6YvE2kwchoAoD5hlVu0UggDue5Hnl6Pl460kdxsWBCAuGH+zngjhxKlY/mTe9hD8l5DsNO0gtBzrBpDxFffgmk+FwIQzh8SfheCwy6WOni0jcg==;XxnMk+/8dHqgc1/9/mgarA=="
 ---
 
