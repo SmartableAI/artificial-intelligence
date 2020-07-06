@@ -8,7 +8,7 @@ ampWebUrl: "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accu
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     title: "Larry Magid: Facial recognition loses support as bias claims rise"
 
 related:
+  - title: "ECHR receives first complaint about facial recognition system in Moscow"
+    excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
+    publishedDateTime: 2020-07-06T10:26:00Z
+    webUrl: "https://tass.com/society/1175141"
+    ampWebUrl: "https://tass.com/society/1175141/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/society/1175141/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 74
+    images:
+      - url: "https://phototass1.cdnvideo.ru/width/1080_4713ca57/tass/m2/en//uploads/i/20200706/1274319.jpg"
+        width: 1080
+        height: 688
+        isCached: true
   - title: "Bias claims spur debate on need for curbs, oversight of facial recognition tech"
     excerpt: "Official at Israeli startup AnyVision says he hopes for regulation of the industry because his firm's software could never be abused, unlike open-source platforms"
     publishedDateTime: 2020-07-02T13:42:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.dw.com/en/speech-recognition-software-doesnt-understand-
 cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/speech-recognition-software-doesnt-understand-everybody/av-54038584"
 type: article
 quality: 44
-heat: 44
+heat: 54
 published: false
 
 provider:

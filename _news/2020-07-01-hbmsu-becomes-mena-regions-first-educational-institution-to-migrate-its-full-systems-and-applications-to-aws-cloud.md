@@ -3,13 +3,10 @@ category: news
 title: "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud"
 excerpt: "We congratulate our wise leadership on our unprecedented regional achievement & take pride in HBMSU’s leading position that supports UAE's competitiveness on global educational landscape” Mansoor Al Awar: “With our adoption of AWS,"
 publishedDateTime: 2020-07-01T11:31:00Z
-webUrl: "https://www.zawya.com/mena/en/press-releases/story/HBMSU_becomes_MENA_regions_first_educational_institution_to_migrate_its_full_systems_and_applications_to_AWS_Cloud-ZAWYA20200701110907/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/"
+webUrl: "https://www.zawya.com/uae/en/press-releases/story/HBMSU_becomes_MENA_regions_first_educational_institution_to_migrate_its_full_systems_and_applications_to_AWS_Cloud-ZAWYA20200701110907/"
+ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20200701110907/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200701110907/"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
   name: Zawya
@@ -26,22 +23,6 @@ images:
     isCached: true
     title: "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud"
 
-related:
-  - title: "Riiid Labs launches AI education solutions in America"
-    excerpt: "Riiid, a member company of the Born2Global Centre, could not be coming to America at a better time, as artificial intelligence transforms"
-    publishedDateTime: 2020-07-06T01:59:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/riiid-labs-launches-ai-education-solutions-in-america-301088205.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1200045/Riiid_Labs.jpg?p=facebook"
-        width: 1374
-        height: 720
-        isCached: true
-
-secured: "XU7mfZo50TR8eJK6p6u9AsqmDgvHomnJvDqDz3wuJyHZW2AkV81BSHMVpVY/DIdqBOBHfW14kfi5puVfnyzp57j9LZ0eewnHNcXvCUZ8xeSiDF/Rxcc/gX+3x3oTdZc8qdK7H6yqrFNH5KFzMbiM5UBX9EDlYRhXFM38kv1Hd4OfhlQiFOTBNKVI55k4jCzfAWNfLopKMOQgXftIwOQi8Z8Y9dWOgc+d9HT4UeBOhCkGTDmNdOM2T067FxLYptCDrR1USGE5AKILDGMnMw3Z9JSVF1+gFSiMNdWEfa3Q7xLt3l7p/FWmpSjeGGABwnB6K6o9ljwaWvdIOHjn0hmUUKhhBSqdFOV4sWUd3UxZ1tZ8UfjT/EGFVK3nbwQ85YeBCg4x+ju+PvK53s1D0ivwrmlzy/z3idCbLZ3tAUCSGJIf4heEW01kRz7j4HhyzFiXg3EtUDThsqvOefRVCykt32UDafRhmkKmj2xXM3yArg0P/bgxWPpE+8Mjar0gDA459l9njt19R+hhrvp5OirHhQ==;Cq1xr6yQH5wLGlhxTPIUiA=="
+secured: "bHLno2DY1wXuW3wwh4hOOocdmIRtJERVquUMDTyBCIq0jJQtQkr2JUO+SS5asalpSAYGKESSU4O+/Vad0YExEgiefcieS0tNAd/3o7FKIa+chnrBj96OEo6htky31C4O7u0JERZ9tpnBaTXp21JnKss0qII2zHLHHs/OU1YBAsUmG1Ehdf6YIo+d+MFEOcrxFJsY2gSFDFvo4C/oSWtbln3HHTODT2lOIvBVgZGEKM5II1zrtVWgqsYmvN5lRcjPWDJpPKf+wh2jgHvsymU4BESs1yPzIstJaijoVr6BAD+KYPzuh6TFPtuZ7ygVzVc2ftFVP7nnpPhNfAnHWLaMzw==;Mq/1M1NNkhAMLg3HYt41mA=="
 ---
 

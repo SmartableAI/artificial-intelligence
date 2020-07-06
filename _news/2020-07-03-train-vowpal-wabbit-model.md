@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-03T21:51:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/train-vowpal-wabbit-model"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

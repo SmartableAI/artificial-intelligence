@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-03T12:59:00Z
 webUrl: "https://eandt.theiet.org/content/articles/2020/07/could-embracing-ai-improve-bowel-cancer-screening/"
 type: article
 quality: 39
-heat: 39
+heat: 59
 published: false
 
 provider:

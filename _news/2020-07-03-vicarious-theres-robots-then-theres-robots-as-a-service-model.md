@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/vicarious-b
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2020/vicarious-breeds-new-version-of-robots/amp/"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

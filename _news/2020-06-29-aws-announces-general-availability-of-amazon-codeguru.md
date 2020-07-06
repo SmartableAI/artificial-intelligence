@@ -1,105 +1,26 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon CodeGuru"
-excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon CodeGuru, a developer tool p"
-publishedDateTime: 2020-06-29T22:07:00Z
-webUrl: "https://www.businesswire.com/news/home/20200629005826/en/AWS-Announces-General-Availability-Amazon-CodeGuru"
+excerpt: "Amazon Web Services Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon CodeGuru, a developer tool powered by machine learning that provides intelligent recommendations for improving code quality and identifying an application’s most expensive lines of code."
+publishedDateTime: 2020-06-29T21:30:00Z
+webUrl: "https://apnews.com/52ff201a80034f9fba6f24df37809cc3"
 type: article
-quality: 54
-heat: -1
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200629005826/en/801942/23/AWS_logo_RGB.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
     title: "AWS Announces General Availability of Amazon CodeGuru"
 
-related:
-  - title: "Amazon launches AI-powered code review service CodeGuru in general availability"
-    excerpt: "Amazon announced the general availability of CodeGuru, an AI-powered code review service that was first revealed at AWS re:Invent 2019 last year."
-    publishedDateTime: 2020-06-29T22:05:00Z
-    webUrl: "https://venturebeat.com/2020/06/29/amazon-launches-ai-powered-code-review-service-codeguru-in-general-availability/"
-    ampWebUrl: "https://venturebeat.com/2020/06/29/amazon-launches-ai-powered-code-review-service-codeguru-in-general-availability/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/amazon-launches-ai-powered-code-review-service-codeguru-in-general-availability/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "CodeGuru, AWS’s AI code reviewer and performance profiler, is now generally available"
-    excerpt: "AWS today announced that CodeGuru, a set of tools that use machine learning to automatically review code for bugs and suggest potential optimizations, is now generally available. The tool launched into preview at AWS re:Invent last December."
-    publishedDateTime: 2020-06-29T21:43:00Z
-    webUrl: "https://techcrunch.com/2020/06/29/codeguru-awss-ai-code-reviewer-and-performance-profiler-is-now-generally-available/"
-    ampWebUrl: "https://techcrunch.com/2020/06/29/codeguru-awss-ai-code-reviewer-and-performance-profiler-is-now-generally-available/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/29/codeguru-awss-ai-code-reviewer-and-performance-profiler-is-now-generally-available/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 80
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/06/Profiler2.png"
-        width: 722
-        height: 389
-        isCached: true
-  - title: "Bitvore Announces General Availability of its AI-Powered Cellenus Platform on Microsoft Azure"
-    excerpt: "PRNewswire/ -- Bitvore, a leading provider of AI-powered intelligence for financial institutions, today announced that it has completed a"
-    publishedDateTime: 2020-06-30T12:49:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/bitvore-announces-general-availability-of-its-ai-powered-cellenus-platform-on-microsoft-azure-301085624.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 58
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "CORRECTING and REPLACING AWS Announces General Availability of Amazon CodeGuru"
-    excerpt: "Second paragraph of release after the bulleted list should read: Amazon CodeGuru is available today in US East (N. Virginia), US East (Ohio), US West"
-    publishedDateTime: 2020-06-30T00:38:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200629005826/en/CORRECTING-REPLACING-AWS-Announces-General-Availability-Amazon"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 50
-    images:
-      - url: "https://mms.businesswire.com/media/20200629005826/en/801942/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Amazon releases CodeGuru, which uses machine learning to optimize code"
-    excerpt: "Amazon Web Services Inc. said today its new Amazon CodeGuru service, which relies on machine learning to automatically check code for bugs and suggest fixes, is now generally available. Amazon announced the tool in preview at its AWS re:Invent event in December."
-    publishedDateTime: 2020-06-30T03:17:00Z
-    webUrl: "https://siliconangle.com/2020/06/29/amazon-codeguru-uses-machine-learning-optimize-code-now-available/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/06/source-4280758_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-
-secured: "KoJAYiANwk89u4c7dT3ICVwnHIIzhEwC5KvNV6Fy/47Z5yWXEaoJZZqTh2KE0xteeQcytiX7BDSmvlZU+2aZGYoWTrgNi+HvHtKeX7DMv/DCj0zy9yhFNkyC6nVZOVL1sVi4UCzRxXJAxj9BL+beTaCfhGgK4lQ8BU92mVIU+3GbfTuMUvgaCHDG1Lw0yKf3TWdW8haRHjQc4UGVdrhR1r/v4VESbKE9Qc9BY0igGIbczCVUsHNO1/NtnEE3rHmbH8rx1QXU+I4e7qQvUPQWbTFvv6IZrywsXKizvw0laaibNapeSwBoMiGKDH5ijMUr+dSNvHQpOyk1MWf/17yHwg==;Cv4qu0fVmVfPSNKC24YhfA=="
+secured: "ElJjW6HyDTGGPVQYDd+xjRglu5CmL2G2DEmxp5DZ8lzix+hZ1jby/52Pt2hsXyqvfRdeLRhjXjv5LCUGUAhbYcKxpz2gLxp9LZY9LpCgmL3pV6uHzbUSoRhFulJr8aTPrzyoYa/CbKdTL2ktcFt2xoFymc9chLwYXbmD05Q8H/cEjq//kFKOSWbfw84ZAtRBShp+VB8FQy32135ep5T9lytilwxRhZs7xzyGiAaFK50QEQEvZa+FIDX7erWc2Dj6faqwQJRnK9fJUHcICtWBjcy+1bWdoe6pF9mHgI8SP80P46zI58h9Kb/k8pmewlLm/tH6sEL2K9wARn2J28erxA==;5VafevSjaNib66cBl4xhYw=="
 ---
 

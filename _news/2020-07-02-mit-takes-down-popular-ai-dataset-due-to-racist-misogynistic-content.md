@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206/amp"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     title: "MIT Takes Down Popular AI Dataset Due to Racist, Misogynistic Content"
 
 related:
-  - title: "MIT removes huge dataset that teaches AI systems to use racist, misogynistic slurs"
-    excerpt: "MIT has taken offline a massive and highly-cited dataset that trained AI systems to use racist and misogynistic terms to describe people, The Register reports. The training set — called 80 Million Tiny Images,"
-    publishedDateTime: 2020-07-01T18:42:00Z
-    webUrl: "https://thenextweb.com/neural/2020/07/01/mit-removes-huge-dataset-that-teaches-ai-systems-to-use-racist-misogynistic-slurs/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/07/01/mit-removes-huge-dataset-that-teaches-ai-systems-to-use-racist-misogynistic-slurs/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/01/mit-removes-huge-dataset-that-teaches-ai-systems-to-use-racist-misogynistic-slurs/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 81
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-5-796x417.jpg"
-        width: 796
-        height: 417
-        isCached: true
   - title: "MIT Deletes Database That Taught AI to Be Racist, Sexist"
     excerpt: "Unfortunately, a massive and popular training dataset from MIT taught a bunch of algorithms to use racist and misogynistic slurs. AI learns to interpret and identify objects in pictures after poring over thousands of images that were already labeled."
     publishedDateTime: 2020-07-04T04:52:00Z

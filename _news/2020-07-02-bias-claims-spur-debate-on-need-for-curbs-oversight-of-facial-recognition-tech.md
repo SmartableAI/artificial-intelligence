@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "ECHR receives first complaint about facial recognition system in Moscow"
+    excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
+    publishedDateTime: 2020-07-06T10:26:00Z
+    webUrl: "https://tass.com/society/1175141"
+    ampWebUrl: "https://tass.com/society/1175141/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/society/1175141/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 74
+    images:
+      - url: "https://phototass1.cdnvideo.ru/width/1080_4713ca57/tass/m2/en//uploads/i/20200706/1274319.jpg"
+        width: 1080
+        height: 688
+        isCached: true
   - title: "Easthampton passes municipal ban on facial recognition tech"
     excerpt: "An ACLU-backed bill currently before legislators on Beacon Hill would establish a statewide moratorium on government use of face surveillance. Easthampton is the latest town to enact a ban on gov't use of facial-recognition technologies."
     publishedDateTime: 2020-07-02T14:48:00Z

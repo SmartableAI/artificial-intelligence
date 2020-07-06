@@ -1,21 +1,23 @@
 ---
 category: news
 title: "Teaching physics to neural networks removes 'chaos blindness'"
-excerpt: "The work has implications for improved artificial intelligence (AI) applications ranging from medical diagnostics to automated drone piloting. Neural networks are an advanced type of AI loosely ..."
-publishedDateTime: 2020-06-19T00:00:00Z
-webUrl: "https://phys.org/news/2020-06-physics-neural-networks-chaos.html"
-ampWebUrl: "https://phys.org/news/2020-06-physics-neural-networks-chaos.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-06-physics-neural-networks-chaos.amp"
+excerpt: "Artificial neural networks mimic this behavior by adjusting numerical weights and biases during training sessions to minimize the difference between their actual and desired outputs."
+publishedDateTime: 2020-06-19T21:08:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/06/200619143437.htm"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "HKqh1bO+I165+HAtCgaBGjdgExayKOEXyVlnVDQONaoh4uU1Vw0p4OIjyv60dE9748TiB4ZxfB41pri2tdQVyPPN1IZF6DPC9fYqpbGbJ4rQAZ1woUkqyTdmWuQ/gNqxYrC4hHDy8O0yPt8TWqC2SPMJMvjybBPltcx9BQSWTrGh48PqyvGgCd1oESQc/Gw45HHP7YycgcTJFh8ffcCr18fMIoVobQSViruSTFFd/Y8dlQib1Dz46SD9dU03KgeqSTGOoH7zsRm7U05wGiG2C/CRb/XO5GU4PT9gIYNFQjSdCXv2GzVhoGq4jqz0Cj2AeN6kN8w45OCGWkmbmznKXg==;QcxEt6F4flozqGan7qu6fw=="
+secured: "fNBvzqzTwNQiSdxvA373wRF/qXWIbTmeVw+C6M1O+WqzPa2Ei+zVseMYnTocWOEecnnxNg1rgjgx061cE2zMVBsm3raL5VtdseKWtx7DyHBy8c9EGQeGNQt511V5x2fa/Qd2RZLCODDa1yaxCMsJq66VmgQeiT/xyjb4SgakoIQH4Dy7DudStSC0H0oNKgbFFdLPpQ7dcoW8v1rBEnurzsP24WSafukvOH55sBGH/UbQUgaLNp1NAfhFwoBSgeaBAvxITNyokUXE0a060IgdD26ZLKr04X3T7vk+Bi7XggzN4rN5fP8UOVTEn1mTan1D5RVObGN8uZL4t1RCFhHenQ==;ywUbjugPkbKXbP03mW5u5A=="
 ---
 

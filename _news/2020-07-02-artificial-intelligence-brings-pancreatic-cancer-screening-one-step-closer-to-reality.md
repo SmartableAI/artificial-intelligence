@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "Enhancing Cervical Cancer Screenings with Artificial Intelligence"
-    excerpt: "Integrating artificial intelligence with medical imaging improved the accuracy and efficiency of cervical cancer screenings."
-    publishedDateTime: 2020-07-01T18:35:00Z
-    webUrl: "https://healthitanalytics.com/news/enhancing-cervical-cancer-screenings-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "y877ifbPsvX+WAMB3rd445YhQtYWwU+3yfcaWrDxhKm2za2TznS4GI1M5day+x13Cpi0eIwxJvuJIY2b+PcR/6+lxVo4rOFSTN7Uh2Js5o+YfC5VK9qFoYh5hWNgf2vTeEZeqBJ81ohcz8QZTYxxpIdr/+CxN/3b4hBBBRPZUAZYXCijUcJJ9vzwTV+/KZtD2uNvzE2pMmmzcy98oRCwpZLLsnS47B9PubxIK+9SUiseRfV9zZMAC149xYHUXfaESMl5Mt3D1jdPzZGLRKTqci+whuepK8mV0xFxmzjNq9yTIRZlKETe1lwqGa77NLJ6Hai18nHvvVBXKFRnyjVHKUp/esddncKU2YeCO57Dml4GNzWRSqfvrhiFspr7VHAbsP58KV5Pk8gJdYM9Sa5BompWfPPd23lupeE/5ceq6sSLQMbdq+/1API9Vm3MB9lQ4zgDHhn/1mf/XjfTC7LJ43VqK8IkHeINxDZ/x669pbBhTI32/5eIuJOzQe5aa5SBLuXFMlOvoVQliy4CzojS7g==;goFyO7c642KmHve8nnycQw=="
 ---

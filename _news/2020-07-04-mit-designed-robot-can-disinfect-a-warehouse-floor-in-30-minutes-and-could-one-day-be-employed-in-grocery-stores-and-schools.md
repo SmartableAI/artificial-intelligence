@@ -8,7 +8,7 @@ ampWebUrl: "https://wsvn.com/news/us-world/mit-designed-robot-can-disinfect-a-wa
 cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/mit-designed-robot-can-disinfect-a-warehouse-floor-in-30-minutes-and-could-one-day-be-employed-in-grocery-stores-and-schools/amp/"
 type: article
 quality: 31
-heat: 31
+heat: 41
 published: false
 
 provider:

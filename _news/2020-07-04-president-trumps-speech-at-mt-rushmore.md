@@ -8,7 +8,7 @@ ampWebUrl: "https://elkodaily.com/opinion/columnists/president-trumps-speech-at-
 cdnAmpWebUrl: "https://elkodaily-com.cdn.ampproject.org/c/s/elkodaily.com/opinion/columnists/president-trumps-speech-at-mt-rushmore/article_b21d5e5b-968b-529d-b0b2-24f1a629e607.amp.html"
 type: article
 quality: 44
-heat: 44
+heat: 74
 published: false
 
 provider:

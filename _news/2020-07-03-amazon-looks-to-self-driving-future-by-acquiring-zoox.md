@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsav.com/news/technology/amazon-looks-to-self-driving-fu
 cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/technology/amazon-looks-to-self-driving-future-by-acquiring-zoox/amp/"
 type: article
 quality: 44
-heat: 44
+heat: 94
 published: false
 
 provider:
