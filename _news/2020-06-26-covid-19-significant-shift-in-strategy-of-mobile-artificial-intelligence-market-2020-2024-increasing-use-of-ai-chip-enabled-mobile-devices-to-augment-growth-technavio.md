@@ -1,9 +1,9 @@
 ---
 category: news
 title: "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio"
-excerpt: "Buy 2 Technavio reports and get the third for free. View market snapshot before purchasing Increasing use of AI chip-enabled mobile devices has been instrumental in driving the growth of the market. Technavio's custom research reports offer detailed ..."
-publishedDateTime: 2020-06-26T17:38:00Z
-webUrl: "https://www.businesswire.com/news/home/20200626005284/en/"
+excerpt: "Technavio has announced its latest market research report titled Global Mobile Artificial Intelligence Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the mobile artificial intelligence market and it is poised to grow by USD 13."
+publishedDateTime: 2020-06-26T17:30:00Z
+webUrl: "https://www.businesswire.com/news/home/20200626005284/en/COVID-19-Significant-Shift-Strategy-Mobile-Artificial-Intelligence"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio"
 
-secured: "yBSSf88qY7CxmDfEccPuysoYE642TAAPun+f6nNPo+bUPlKqhvBsdAswFqtP9YUn5ht4CbVxCGEycQsYKpXP3DU2tGC1Mhbrqfi5OOOtgHS9wg+DTUwy9bO8BGBN0Hi8EQPUx4MNnSUvSRN77fV/wHKARRzUrlZnABy46tHwPTzYyJvteEdB31ZUSh1NrKh6mE+Wa5ebkhO+q7pEuoxnHRBlv1wJezwT/gOBqIaxRRqv0PhLUFaGm2PuPlmf/s7QbxFLrYBT55O7BU3dNc8w4NGwqzNiLcB80v00lktsLq/Z9XPkd9ZIFcRRCKOP2BLtra6E83H1ebH2IDUfYB44LQ==;+4VlXLdrUZq5SaGBlZejig=="
+secured: "G1jNSR17JM0+C7eUABAr0EyrwnUaF3vNGoZ9dIdpHSpg26CaAiHzLfyUjSVQ8fYfwlRWEMLEPz9bKVaNF9a5yTKfGnOGd1eYOqbPnnuJQ3oVJmh9QfU0+L1AcqzGZW7X3zcaL2SSHgSsM6sWrF0ih5TNxTa/pDJb7RVXtXSSpCd1HkH2jVOXff1SZGpYCI0yfD+w6tL1JOOJGwRfgUkaubOF8AbQbNO2+C1xmJjOXDeEr6jNeKsjdVjJQzDz5aZHmbzyubkfv607lYYe/Q0kLflntWZnNcni6K+SMvzUCVAs9YhoiDgbZH/31yz1FPtXDU3h72mchuDqI3l6polYXA==;frEECpKTzeF+SYMtN+eIsA=="
 ---
 

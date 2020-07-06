@@ -134,15 +134,6 @@ related:
       name: WAtoday
       domain: watoday.com.au
     quality: 37
-  - title: "Racial bias in facial recognition software could lead to false arrests"
-    excerpt: "A black man in Detroit was wrongfully arrested after facial recognition software incorrectly identified him, forcing developers to acknowledge the ways that racial bias is present in artificial intell"
-    publishedDateTime: 2020-07-01T07:38:00Z
-    webUrl: "https://www.rt.com/shows/watching-the-hawks/493378-facial-recognition-racial-bias-false-arrest/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 19
 
 secured: "ZWYfbGUJtx4EKTntTXBRo/C1MG0bVM9gyvv8CaG9PCLd57UaiBKm9gS5Ae3XZHOp9UPO0yLfyzF3uVbnr1mVJ3RJCGDuuMExfGJltsZfEBaPrYD1HMCrAaVZx9vnyRhAHxqDTMdmj1bKabcRmFyPKjJA4Ca2qeKJkcszlHfHpVMUSpl6rtWiKqJ75HDMfnO4btFGU6MtawPZXE7kBrFN4Qs7Fa0GKehUC1XzUM7pNcnbLSM4ZVfFX1kA18AixWdRH+zcORRmmMuDdYs9uLcJ14+JaGti+VMwHmviLDjP5zky2gVA01DAO9sb+giBFQRDwnRIBHBLwtqLYa2x3i8ung==;SL93aZekuxm0QiNM3U70Qw=="
 ---

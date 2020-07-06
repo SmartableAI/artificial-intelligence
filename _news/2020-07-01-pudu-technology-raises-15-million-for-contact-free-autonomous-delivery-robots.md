@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/01/pudu-technology-raises-15-million
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots/amp/"
 type: article
 quality: 99
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     height: 574
     isCached: true
     title: "Pudu Technology raises $15 million for ‘contact-free’ autonomous delivery robots"
-
-related:
-  - title: "Elementary Robotics raises $13 million for its machine learning and computer vision offerings to industry"
-    excerpt: "Elementary Robotics, a Los Angeles-based robotics startup, has raised $12.7 million in its Series A funding round led by Threshold Ventures, an early-stage investor in technology companies."
-    publishedDateTime: 2020-07-01T07:40:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/07/01/elementary-robotics-raises-13-million-for-its-machine-learning-and-computer-vision-offerings-to-industry/33667/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 66
 
 secured: "FCOIcpH3J6SbjQxq+4MUvEt8NLupt2SxWVbsMOmN8zdOyGSn2TOP5jn8PyhpqlSqVsDo4IARNpdMiMvdkOai+Hy9hvjQVCXfdA/abIwZPYna4CLKqNKv04IXU9zfs/kOgaNv2LwRgfRDZBTeEMuleSfVgZVa+J4txjpC+niiXOLHXnxS1VauG52Vuzkv2a8Ag3lHFJZ2cgT9V/Sk7jvWBSajfAeQXWgUrPpmQ0dBWjxUOfm21R9wMryo4wZWoZ5m/RidQsLSu9olof0bWyIr/yEectzU4gck+IPlzlTYH7tCAl72JQLVUQfV2w5ckyNXxZ+gvh8z3UkyAzTRmW/lO4PvXQfFn2YaffIk4JnhMZucbVc+0S4fiQKtwnfoeAuJuTB53sfiY4S4g+YQQByHrtdkMqhTcwcXvmF3FMySCaRGWbpSrWMERGWGx+3wrADbsoxBCNvqENMwMmFAv1T2sP7YeQ4gyM2jjXqIDBm8MZLJsibqu1NkzABlLWDk0jvlpX+EafGI6IEas3pNmaGL9w==;byhMgrnPnKG1AYuncP2cbg=="
 ---

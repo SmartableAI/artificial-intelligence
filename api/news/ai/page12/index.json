@@ -174,8 +174,8 @@
     {
       "path": "_news/2020-06-23-aws-and-formula-1-announce-new-racing-performance-stats-for-2020-season.md",
       "title": "AWS and Formula 1 Announce New Racing Performance Stats for 2020 Season",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), and Formula 1 (F1) (NASDAQ: FWONA, FWONK) are introducing six new, real-",
-      "webUrl": "https://www.businesswire.com/news/home/20200623005380/en/AWS-Formula-1-Announce-New-Racing-Performance",
+      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ...",
+      "webUrl": "https://www.businesswire.com/news/home/20200623005380/en/AWS-Formula-1-Announce-New-Racing-Performance/",
       "heat": null,
       "tags": null,
       "images": [
@@ -191,7 +191,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T01:49:00-07:00",
+      "publishedDateTime": "2020-06-23T01:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -880,13 +880,13 @@
     {
       "path": "_news/2020-06-22-computer-vision-advances-zero-defect-manufacturing.md",
       "title": "Computer Vision Advances Zero-Defect Manufacturing",
-      "excerpt": "The Relimetrics Quality Audit Solution for Electronics (RELI-QA) is a proven Zero Defect Manufacturing (ZDM) solution that uses machine learning to achieve a high level of flexibility and scalability for computer vision systems.",
-      "webUrl": "https://www.infoworld.com/resources/204876/computer-vision-advances-zero-defect-manufacturing",
+      "excerpt": "CSO offers the latest information and best practices on business continuity and data protection, best practices for prevention of social engineering scams, malware and breaches, and tips and advice abut security careers and leadership.",
+      "webUrl": "https://www.csoonline.com/resources/204876/computer-vision-advances-zero-defect-manufacturing",
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "url": "https://idge.staticworld.net/cso/CSO_logo_300x300.png",
           "width": 300,
           "height": 300,
           "title": "Computer Vision Advances Zero-Defect Manufacturing",
@@ -897,21 +897,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T11:41:00-07:00",
+      "publishedDateTime": "2020-06-22T11:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

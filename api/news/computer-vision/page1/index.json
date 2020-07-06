@@ -281,7 +281,7 @@
       "title": "The organizations positioned to lobby against a US ban on facial recognition",
       "excerpt": "Pressure on US lawmakers to create federal regulations on facial recognition has been mounting. Against that backdrop, industry groups have quietly lobbied to soften regulations and avoid an outright ban.",
       "webUrl": "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/",
-      "heat": 181,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -1092,13 +1092,13 @@
     {
       "path": "_news/2020-06-22-computer-vision-advances-zero-defect-manufacturing.md",
       "title": "Computer Vision Advances Zero-Defect Manufacturing",
-      "excerpt": "The Relimetrics Quality Audit Solution for Electronics (RELI-QA) is a proven Zero Defect Manufacturing (ZDM) solution that uses machine learning to achieve a high level of flexibility and scalability for computer vision systems.",
-      "webUrl": "https://www.infoworld.com/resources/204876/computer-vision-advances-zero-defect-manufacturing",
+      "excerpt": "CSO offers the latest information and best practices on business continuity and data protection, best practices for prevention of social engineering scams, malware and breaches, and tips and advice abut security careers and leadership.",
+      "webUrl": "https://www.csoonline.com/resources/204876/computer-vision-advances-zero-defect-manufacturing",
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "url": "https://idge.staticworld.net/cso/CSO_logo_300x300.png",
           "width": 300,
           "height": 300,
           "title": "Computer Vision Advances Zero-Defect Manufacturing",
@@ -1109,21 +1109,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T11:41:00-07:00",
+      "publishedDateTime": "2020-06-22T11:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

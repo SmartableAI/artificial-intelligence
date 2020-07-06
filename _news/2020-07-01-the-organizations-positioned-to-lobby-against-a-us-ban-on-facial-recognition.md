@@ -8,7 +8,7 @@ ampWebUrl: "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/amp/"
 type: article
 quality: 101
-heat: 181
+heat: 171
 published: true
 
 provider:
@@ -134,15 +134,6 @@ related:
       name: WAtoday
       domain: watoday.com.au
     quality: 37
-  - title: "Racial bias in facial recognition software could lead to false arrests"
-    excerpt: "A black man in Detroit was wrongfully arrested after facial recognition software incorrectly identified him, forcing developers to acknowledge the ways that racial bias is present in artificial intell"
-    publishedDateTime: 2020-07-01T07:38:00Z
-    webUrl: "https://www.rt.com/shows/watching-the-hawks/493378-facial-recognition-racial-bias-false-arrest/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 19
 
 secured: "dhvEIeOG6zf3ldE5R290ATA8ke+L/UDIHFge1NCGfQ2jccYaa2CaUjJ5ZbJvn8DKtFuwaF0N3CVEwQa48QRsS+RkmEnKrDY6TvZBT8f1ITUUSDtlD9A9k/enHI1AoA/Zdc6MYZsgnuxthZ80e+aFJpx3QlElAiVd80iwunuCgsnoKx2RBYakpf/hIeF2+AcSbY7kV+XW+N+DJJSBJ3xx1c4LoghPuq//2i+YVldJFjUnNRM4xNIKFqyCPTT4l2zw2rdZMZQvU+Iny7ItyjZjWHTas6dOWlyQYnvzIvCNsC1CPbUrzSeTLl9OTHDMgXla7a5qF6RJofWwQFQpmaaRGkbUA9gi5JrSet4rRtSwzzlXBM0yMBCKTRRvkvFHpJrZ/W/VslSptX5CZ3K0MCht/j2nk0oizcs2fxhJx+C3yJrvb3Few9f/CH3Ltz+5vXlS/H32N22APAcl8g+W2YIdj6rgOz2va5y0MX/o2vW2ciVnl+/1hPh5PyPt73rzLlvvV6Dq1gXy25JKvZyrQUcURg==;InY0lHNOuPH7S9hD6rV9Tw=="
 ---

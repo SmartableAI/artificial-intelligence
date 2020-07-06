@@ -128,15 +128,6 @@ related:
         width: 2247
         height: 1498
         isCached: true
-  - title: "Racial bias in facial recognition software could lead to false arrests"
-    excerpt: "A black man in Detroit was wrongfully arrested after facial recognition software incorrectly identified him, forcing developers to acknowledge the ways that racial bias is present in artificial intell"
-    publishedDateTime: 2020-07-01T07:38:00Z
-    webUrl: "https://www.rt.com/shows/watching-the-hawks/493378-facial-recognition-racial-bias-false-arrest/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 19
 
 secured: "+Zm0SlvnlJc7ZS4qrbXEnHzI0fIWmN3wsITAoz2+1p3tsYtIL4K+92f3T8bBVCIIctcFTTHJYrYWG0i1/aTwhTHI0G2yPAPYbQlesrADOv1srrBM9g0rXVqICpurD6ao6XHKB/SZJsDBMzw6cqYZArmDxWZfZ1K8ep04bZCPk48kPZKbNxp/WraKPMhRYyPHNc+23JnRvTLvB5Vk4yuONlN9Qko+GYv7yfrsTe/qJp15T/t53NmhnmBJsiSyxXDjvoocGamHatl9h7lJtFF+KpzmVM64zhtrtP5Y5/+M5+S5771OIoo9x5dsZjqkBLmn+DkGaP2Vtbrfklg+PQzFOtaA8ZB/MVgreLb+2rSQtVUnD/HgW3sdZ2VJiB7FLbJL+e80AMU7va5lKpym09UGQS1CeY8NK0hYNXZ8V6okwjnt4NjA52kxG/vNGWH3H6UK4ARloEvpfmVNSUJcyzKDuXH+rEToqed5VZ2M6JVOGfrbRkmBcpjUOl9BP4bUgaw2DSUZcLFYQwAopTjabhZ2wQ==;yp7Qx9U6SIagCkRntwtRdw=="
 ---

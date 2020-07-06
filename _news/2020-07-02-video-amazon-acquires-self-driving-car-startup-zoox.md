@@ -51,20 +51,6 @@ related:
         height: 400
         isCached: true
   - title: "Beijing opens more roads for testing self-driving cars"
-    excerpt: "Beijing opened 52 additional roads on Tuesday in Haidian district, the capital's tech hub, for the testing of autonomous vehicles to push the speedy development of self-driving technology, local authorities said Wednesday."
-    publishedDateTime: 2020-07-01T08:42:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202007/01/WS5efc4c5ea3108348172568a1.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202007/01/5efc4c5ea3108348fcd9a49e.jpeg"
-        width: 596
-        height: 397
-        isCached: true
-  - title: "Beijing opens more roads for testing self-driving cars"
     excerpt: "Beijing opened 52 additional roads on Tuesday in Haidian District, the capital's tech hub, for the testing of autonomous vehicles"
     publishedDateTime: 2020-07-02T07:44:00Z
     webUrl: "https://infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/"

@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "AI Shutter could be Xiaomi’s Top Shot alternative"
 
-secured: "5x4+h4hdV9+tJAP6jnfjZoAQQwo1JYCyFChpO0M/Az18zB60Tx1NWitaq3Qy9WK8xs9LkYEYd7YXmIyQ7A/2ET3PtinHYwSNk1e6R/HkNpIVmgMXGwG37cLa+nuyO8gWe6dLhu5qW0e6FjYeS0UZ3i3A27kW9miczD1+U2uAG6Cp4+8ieKp8d3e4YXaPwVaS6zEflc8Y3GOX+qarNAZM1wERfCALLeNag5Q8MTfDZSVewk3K825gJ+htC+GGb6PJq5+RftljILliskevMz9FlFXSUVXvv3WKNAKrg0PRjz6Fy5XqE7vzgarcdqKpGuB3v57R//nWGgdB8B8xOEm8GQ==;8IbkpNqQ9SstlhXx8ybTlQ=="
+secured: "CV80RjWFtMfs6s6q2U/OriBSbW67+JUHXCJb8zsCSabMvM6pbh3qGnbRThlcXTEwV4WGyNnPKTh77l0RDYpEvCbuVqw3BxXneOUkeUvsAobfGbTRkTPwBk3IuByp0mmpchb8OS3UmMAuJLHpUbbAU89R5N+bdlCZr+VtdyUrMEI9Xjnr5QQCf3hcWOs2OOFCFffYD4weAtq1qjTWs/rUOjyiixV8N+4NNpPditgYyl/pduyqW1zsLFzfXph/zNm1RFCcuAMocbTUQczxIqLTlB/dN8GDDK0zy9cBgmuU+hN0M+/Yr9cJS0pS2FENjFwyXTtLSVkIV+A3HvPdxDmkY+LQyJI/JkwQ2jw1tOPywa6D3WNB9nHne892Pt/Ufj2hBNO0FUnk01uzqRTvecLlA0YsVCH34wY+HtsIv0LZxGyIgwdKfScabU747i6nSA540K2aai/85Sm/j/Z4syEk24jW7UAg/ITJb9sIyn16JVYD7HfKX7+iZnCmy7/dlVN/BHRNYY5wfFdeD7yndhJiww==;kBl5ebGH3VAZCpB/phlI0w=="
 ---
 

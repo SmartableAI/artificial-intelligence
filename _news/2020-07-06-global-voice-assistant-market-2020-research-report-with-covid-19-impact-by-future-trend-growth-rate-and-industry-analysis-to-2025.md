@@ -1,21 +1,32 @@
 ---
 category: news
-title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Industry Analysis 2020, Market Growth, Trends, Opportunities Forecast To 2025"
-excerpt: "Summary A New Market Study, titled “Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming Trends, Growth Drivers and"
-publishedDateTime: 2020-07-03T17:14:00Z
-webUrl: "https://www.medgadget.com/2020/07/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-industry-analysis-2020-market-growth-trends-opportunities-forecast-to-2025.html"
+title: "Global Voice Assistant Market 2020 Research Report with COVID-19 Impact, by Future Trend, Growth rate and Industry Analysis to 2025"
+excerpt: "Global Voice Assistant Market Growth (Status and Outlook) 2020-2025 organized by researchers at MarketsandResearch.biz presents a detailed diagram of the market in terms of current and future trends driving the profit pattern."
+publishedDateTime: 2020-07-06T01:13:00Z
+webUrl: "https://www.marketwatch.com/press-release/global-voice-assistant-market-2020-research-report-with-covid-19-impact-by-future-trend-growth-rate-and-industry-analysis-to-2025-2020-07-05"
 type: article
-quality: 0
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Medgadget
-  domain: medgadget.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+    title: "Global Voice Assistant Market 2020 Research Report with COVID-19 Impact, by Future Trend, Growth rate and Industry Analysis to 2025"
 
 related:
   - title: "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025"
@@ -74,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Voice Assistant Market 2020 Research Report with COVID-19 Impact, by Future Trend, Growth rate and Industry Analysis to 2025"
-    excerpt: "Global Voice Assistant Market Growth (Status and Outlook) 2020-2025 organized by researchers at MarketsandResearch.biz presents a detailed diagram of the market in terms of current and future trends driving the profit pattern."
-    publishedDateTime: 2020-07-06T01:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-assistant-market-2020-research-report-with-covid-19-impact-by-future-trend-growth-rate-and-industry-analysis-to-2025-2020-07-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing (NLP) Market 2020| Countries Exclusive Data, Demand, Share and Growth Analysis by Key Participant up to 2027"
     excerpt: "The Global Natural Language Processing (NLP) Market Feasibility Analysis and Trend Forecast Report is the most professional and comprehensive systematic deep market research report in this field. This report first introduces the background of Natural ..."
     publishedDateTime: 2020-07-03T13:53:00Z
@@ -102,7 +99,16 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Industry Analysis 2020, Market Growth, Trends, Opportunities Forecast To 2025"
+    excerpt: "Summary A New Market Study, titled “Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming Trends, Growth Drivers and"
+    publishedDateTime: 2020-07-03T17:14:00Z
+    webUrl: "https://www.medgadget.com/2020/07/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-industry-analysis-2020-market-growth-trends-opportunities-forecast-to-2025.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
-secured: "yavbe/w6YK0YDsIycypLzlsjkElmICywA9rHExCAQB2XHOiv2SVnRWIK6qFc45Qv0Bouf831fuCVef6THGEMFKIBvlinxwfoppQFqESsmMo0nL+1/Xm7JyE2jZbnG+L4TlefcLsFBwbc4lhZdQK91sy3iXJJNWHpb28othEUpJPfOjOLI74q/AQpuUU4ljbWwApgI0jFSy8QWyQNg1lOJ+zyBJsGo+edkFsy9ZZSr1bPRdL2aJ5AtkBJy0kbp0zqkllY9ugrBU8iwzWVy78NkjqJvXt6E7RqHlcNvHydFmbQZoJQ9g3q9iPoDsRZ/L3cnGzwQ2+HM7DrPWIFz7fFZQ==;RV3vPgg4LvJjsmGZjDsV7Q=="
+secured: "4cBei9nOVu9I6fbYVod/3KkZU0kxU9hAVK086axoBxuTHnJCihjpqYOOi6geVvk3exbBCZILynPpLnHUSQF7UfgYjMg0pTE4xpVkUP2jlWil/l+Z7fPOgpxXOT0xYSHg0vr+M/d5YGOIlWknqWUUxwV2RDpcOMPPUncG4u/7DUZjVIi4qKdOswLoAMDc+LSIJmnYfoaM0B7KsK7J/F14SavyvVQE9DJl9gvsjM2pxb2vjH7sCGlMSYE5AJOOE+rfFzj1OAxz1+1K6qwW/rwRRdaUq+6QOviQFTHYqerSLucetPN3mHgHU51fXJteI4u14yxr6xUubPvHOTw7mEa/Hw==;nYN3xNrb+NfUmpL8qkzMmA=="
 ---
 
