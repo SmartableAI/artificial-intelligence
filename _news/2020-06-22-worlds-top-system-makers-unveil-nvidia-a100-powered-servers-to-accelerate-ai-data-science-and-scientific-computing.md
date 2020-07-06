@@ -1,30 +1,26 @@
 ---
 category: news
-title: "World's Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing"
-excerpt: "ISC Digital--June 22, 2020--NVIDIA and the world's leading server manufacturers today announced NVIDIA A100-powered systems in a variety of designs and configurations to tackle the most complex challenges in AI,"
+title: "World’s Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing"
+excerpt: "ISC Digital—June 22, 2020—NVIDIA and the world’s leading server manufacturers today announced NVIDIA A100-powered systems in a variety of designs and configurations to tackle the most complex challenges in AI,"
 publishedDateTime: 2020-06-22T07:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/worlds-top-system-makers-unveil-nvidia-a100-powered-servers-to-accelerate-ai-data-science-and-scientific-computing-2020-06-22"
+webUrl: "https://apnews.com/7208593b875025f54adbc52c6713c4c0"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
-    title: "World's Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing"
+    title: "World’s Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing"
 
-secured: "9282k8dvTC+3KlljHpmFbJcWTeQ0b0PD5sKJxNBlff134cK9ZcaNXPsjq0DLi48geh7CinrZcsD6bgntlJ7i+PAsb7HZ8m23ocXT+lxekEJvVv5xaEi/YtIEvIdciH1z6fsnbg+RwzoHfW5z9OAvrX5rX6cUR4NO446ux0AVmZwxCEzYZr3gyKl/QeBLwfey98mbUWfK48RZHSKZPhS9Q+j8ebT67+PZx9Xd81C67rBBP0W8HQ/s02e8H7GjHORSW0tzgP1H5qVxMYupAazi2xLHk8ZvPE4mDKcvs6vhGdhOXmH4JqddVXGwBSzv8QTWHxjM2vmoenQCfMDvzEPi5Q==;VUDoB3VEqsaX3duVxpZLXg=="
+secured: "VXP95/lOn4jrzxo70iJdiI6+RBDwrhU6keOBajfxkb+ztR1qquG/N/EkyMgE6j9wkToeUEFvbrbM71u92yFlMUUGEI48AlJ/94WV52Qf3ovGwhuZX25LPSEtc5TPqjCovZwsK6DDhYIAqoOjeRQc8XnGOVswHDKy1tzOAxOhlqpjDsR6WpsmsU7IZtC2ycimYSzRaRPgDCQ/ZYmTKFYFXfDpzXx8IgDMVCoDjdOBnscOmWqBeA1IRX/DLh1Aek3N6tJU+U6tV9lIkrX0Aya0zdzlmhPspoJ86vhAOufHUHmRmYPrFqlsgQ6OtS7un09xwjVtFVeRJs1+n77mnrov9Q==;y1GPRdCUsdWnjAnaroA07A=="
 ---
 

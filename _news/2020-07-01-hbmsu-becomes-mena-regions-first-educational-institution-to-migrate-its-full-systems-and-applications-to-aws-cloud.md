@@ -27,19 +27,19 @@ images:
     title: "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud"
 
 related:
-  - title: "Genome-wide investigation of gene-cancer associations for the prediction of novel therapeutic targets in oncology"
-    excerpt: "In the genomics era, the availability of large biomedical datasets with genome-wide readouts has the potential to transform target selection and validation. In this study we investigate how computational intelligence methods can be applied to predict novel therapeutic targets in oncology."
-    publishedDateTime: 2020-07-01T09:11:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-67846-1"
+  - title: "Riiid Labs launches AI education solutions in America"
+    excerpt: "Riiid, a member company of the Born2Global Centre, could not be coming to America at a better time, as artificial intelligence transforms"
+    publishedDateTime: 2020-07-06T01:59:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/riiid-labs-launches-ai-education-solutions-in-america-301088205.html"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 3
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-67846-1/MediaObjects/41598_2020_67846_Fig1_HTML.png"
-        width: 685
-        height: 456
+      - url: "https://mma.prnewswire.com/media/1200045/Riiid_Labs.jpg?p=facebook"
+        width: 1374
+        height: 720
         isCached: true
 
 secured: "XU7mfZo50TR8eJK6p6u9AsqmDgvHomnJvDqDz3wuJyHZW2AkV81BSHMVpVY/DIdqBOBHfW14kfi5puVfnyzp57j9LZ0eewnHNcXvCUZ8xeSiDF/Rxcc/gX+3x3oTdZc8qdK7H6yqrFNH5KFzMbiM5UBX9EDlYRhXFM38kv1Hd4OfhlQiFOTBNKVI55k4jCzfAWNfLopKMOQgXftIwOQi8Z8Y9dWOgc+d9HT4UeBOhCkGTDmNdOM2T067FxLYptCDrR1USGE5AKILDGMnMw3Z9JSVF1+gFSiMNdWEfa3Q7xLt3l7p/FWmpSjeGGABwnB6K6o9ljwaWvdIOHjn0hmUUKhhBSqdFOV4sWUd3UxZ1tZ8UfjT/EGFVK3nbwQ85YeBCg4x+ju+PvK53s1D0ivwrmlzy/z3idCbLZ3tAUCSGJIf4heEW01kRz7j4HhyzFiXg3EtUDThsqvOefRVCykt32UDafRhmkKmj2xXM3yArg0P/bgxWPpE+8Mjar0gDA459l9njt19R+hhrvp5OirHhQ==;Cq1xr6yQH5wLGlhxTPIUiA=="

@@ -7,8 +7,8 @@ webUrl: "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accused
 ampWebUrl: "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/"
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/"
 type: article
-quality: 74
-heat: 94
+quality: 76
+heat: 96
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.mercurynews.com/wp-content/uploads/2018/08/SJM-L-RECOGNITION-0807-01.jpg?w=1024&h=768"
@@ -46,14 +47,14 @@ related:
   - title: "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business"
     excerpt: "As Black Lives Matter protests swept across the United States, IBM, Amazon and Microsoft took a stand: They halted sales of facial recognition technology to American police departments, and called on the government to regulate the powerful emerging technology."
     publishedDateTime: 2020-07-03T05:43:00Z
-    webUrl: "https://localnews8.com/money/2020/07/02/amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/"
+    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/07/02/amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
+      name: KEYT
+      domain: keyt.com
     quality: 6
     images:
-      - url: "https://localnews8.b-cdn.net/2019/11/Money-logo-new-860x484.jpg"
+      - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech-860x484.png"
         width: 860
         height: 484
         isCached: true

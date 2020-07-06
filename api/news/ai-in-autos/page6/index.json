@@ -2,6 +2,35 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-19-latest-news-update-on-google.md",
+      "title": "Latest News Update on Google",
+      "excerpt": "San Francisco, May 21 : While Google has been working on life-like version of its spoken Artificial Intelligence (AI ... has quit the company to join rival Waymo owned by Google's parent company ...",
+      "webUrl": "https://www.newkerala.com/news/tags/Google.html",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Kerala",
+        "domain": "newkerala.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-18-self-driving-shuttle-company-adds-seatbelts-in-order-to-resume-us-operations.md",
       "title": "Self-driving shuttle company adds seatbelts in order to resume US operations",
       "excerpt": "French self-driving vehicle company EasyMile will add seatbelts to its shuttles in order to be able to once again carry passengers in the US. EasyMile’s shuttles were suspended by the National Highway Traffic Safety Administration (NHTSA) in late February after an incident where a passenger fell out of her seat during a sudden stop in Columbus,",

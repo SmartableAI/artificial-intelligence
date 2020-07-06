@@ -147,7 +147,7 @@
       "title": "Larry Magid: Facial recognition loses support as bias claims rise",
       "excerpt": "Following the lead of San Francisco, Boston and several other cities, Detroit is poised to end a contract with a company that provides facial recognition technology to its police department. And it’s not just Larry Magid (Gary Reyes / Mercury News) cities that are backing away from the technology.",
       "webUrl": "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/",
-      "heat": 94,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -177,7 +177,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {

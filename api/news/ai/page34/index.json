@@ -2,6 +2,52 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-06-02-volkswagen-makes-official-investment-in-argo-ai-will-share-costs-with-ford.md",
+      "title": "Volkswagen makes official investment in Argo AI, will share costs with Ford",
+      "excerpt": "Ford, Volkswagen and Argo AI made it official on Tuesday. VW has made an investment in the self-driving technology company, which charts a course for shared development costs for any autonomous vehicle technologies to come.",
+      "webUrl": "https://www.cnet.com/roadshow/news/volkswagen-ford-investment-argo-ai/",
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/7PbtLT6iMpt6eKDYw0cRPWAFGLo=/2019/09/25/4f3ce380-0cb8-44fd-a15a-8cbc15b49217/ogi-ford.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Volkswagen makes official investment in Argo AI, will share costs with Ford",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/volkswagen-ford-investment-argo-ai/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/volkswagen-ford-investment-argo-ai/",
+      "publishedDateTime": "2020-06-01T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion.md",
       "title": "Dell Technologies rolls out systems for HPC, AI workloads leveraging VMware's Bitfusion",
       "excerpt": "Dell Technologies is betting that integrated systems, more efficient use of GPUs and the ability run AI workloads within VMware environments will boost AI workloads.",
@@ -1251,53 +1297,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-armed-with-disinfectant-and-admonishments-south-korean-robot-fights-coronavirus-spread.md",
-      "title": "Armed with disinfectant and admonishments, South Korean robot fights coronavirus spread",
-      "excerpt": "A self-driving robot equipped with cameras and an LED screen greets visitors at the lobby in the headquarters of South Korea's largest mobile operator, checking their temperature, dispensing hand sanitiser and disinfecting the floor.",
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-southkorea-robots-idUSKBN23816M",
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200601&t=2&i=1520590902&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG50147",
-          "width": 818,
-          "height": 545,
-          "title": "Armed with disinfectant and admonishments, South Korean robot fights coronavirus spread",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23816M",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23816M",
-      "publishedDateTime": "2020-05-31T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

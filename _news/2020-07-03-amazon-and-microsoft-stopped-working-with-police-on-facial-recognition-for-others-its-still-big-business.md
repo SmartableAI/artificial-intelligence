@@ -3,22 +3,22 @@ category: news
 title: "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business"
 excerpt: "As Black Lives Matter protests swept across the United States, IBM, Amazon and Microsoft took a stand: They halted sales of facial recognition technology to American police departments, and called on the government to regulate the powerful emerging technology."
 publishedDateTime: 2020-07-03T05:43:00Z
-webUrl: "https://localnews8.com/money/2020/07/02/amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/"
+webUrl: "https://keyt.com/lifestyle/money-and-business/2020/07/02/amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/"
 type: article
 quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: KEYT
+  domain: keyt.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://localnews8.b-cdn.net/2019/11/Money-logo-new-860x484.jpg"
+  - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech-860x484.png"
     width: 860
     height: 484
     isCached: true
@@ -35,7 +35,7 @@ related:
     provider:
       name: Mercury News
       domain: mercurynews.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://www.mercurynews.com/wp-content/uploads/2018/08/SJM-L-RECOGNITION-0807-01.jpg?w=1024&h=768"
         width: 1024
@@ -58,6 +58,6 @@ related:
         height: 400
         isCached: true
 
-secured: "phgs/vLJNMM8+9cgfeTZfBUxYibk5T7qLd8qz75gb6igTqI6xCnxMJP56ptw3ya5rKs83y3xt2gIYnmNA9LpWbafd3XCyje6Jy7XJ807d+WicJOYDKuEXez6vNnNTwok/6KTUV6ElPAQEBJ2QbOpmXJ1+svqDAPaJKM+fGJgh+zbfYgjvIkIPe1SJGYS/naztLkvRCPpYpyK4z6yv4g0bYnc5TtXehhUlIzu7B/8aIIkib9Gv8EjK/eRl8KQys2C3yQ08V8shcpimLfvuPqFD2GmbTI4tzW8QrQ6VIlH1LP+HcMYOhOMyY5r/dF0A+Yqmm1C0VNVpdBPKAQIClJ3YGu7WBqZG8xfOyICGQTf0tu+x+pjwqp3W7W22mm6PViRb3pfkapeBssuKZokzUjY8adRlKO4MNLKTsCX5v98K6QK7UAftw8ScuV3oyrKZV1wFnPmx2q/fGMjzkE27m2hsykipLR7HyBhcCRHdlJNeDCM7Dn9pVnWjFLeba16cMqDlWCOo7Qy6+ebfQjFahAJ/g==;iYt2jx6rO0AsatnNqZTvcA=="
+secured: "xUnve3mf8mbvesMdri6VAnFEaGDfk4SZr0WCosrodMQdZ3eBGdJ+hUbZhEwtYP7UAs7ObAkgdIi1CdS7iae7Rvjj3PE+q9GHbwhDb92ODLg7qe0AEVq+PyTjkScmJPBiks5RBoE0rwMSll8JqjayDLMX3xIpNMojWFkiJi49zy0OSxVVBYzvSPdcSEHdLhK2QL1R4c8Lb7+wiztdRyz0eXo09rAvi6wfHvMOrN/+xHEbUQYgjiFyuFO+zROqfztGYG5621dQu97g6PULi9a5XXgHwbhjGEEKZwad153e4bmegFt+s3rWUXllTyJvsvarnnZImjsr11rgY+jSIoQV9w==;LranS/R5J1whPBklKHGQ/Q=="
 ---
 
