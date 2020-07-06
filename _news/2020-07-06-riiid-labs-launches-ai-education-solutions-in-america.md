@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-06T01:59:00Z
 webUrl: "https://www.prnewswire.com/news-releases/riiid-labs-launches-ai-education-solutions-in-america-301088205.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     isCached: true
     title: "Riiid Labs launches AI education solutions in America"
 
-related:
-  - title: "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud"
-    excerpt: "We congratulate our wise leadership on our unprecedented regional achievement & take pride in HBMSU’s leading position that supports UAE's competitiveness on global educational landscape” Mansoor Al Awar: “With our adoption of AWS,"
-    publishedDateTime: 2020-07-01T11:31:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/HBMSU_becomes_MENA_regions_first_educational_institution_to_migrate_its_full_systems_and_applications_to_AWS_Cloud-ZAWYA20200701110907/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 37
-    images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
-        isCached: true
-
-secured: "77wgDRgzzgFX91pvC3Me0djcPWrEP/L1695UoX260qMVYih6vk3VQ/hTefBrKAJIz+78W/B5NWqShxHJ9OItoCpsiRh75P/i0MHzSolwtqhYBw2XjdyTw1+s6DdFjiuFb/6dCVvh9EbfHiC+negaekLBm/kRSCB368Or70LKhjkzsL3Vnh4Umf0gi3LC/iUEMACAMrrXwl8Gw1DaYDqaYMVPpInA1buccil4yB4eDPh9xyF9oP8UQnAKCF18HI7hT0q1+QgkaiZvij8S0Gu7vciN/oC+cH72Cp336M4WNSXk1+E+NQX1rz4zHex0aNbcV1uTnAe+jX4O0OPpFEh97A==;xbWmDag0UXpiB92Dcg0CgA=="
+secured: "CXd727mGYGXNYOEgwBhF795KiR1ABg0tH03AH5w08puYiVem7Ee16pkPZ2SLxeUslCbp8VVuBIqzjwHVfHdNfPEMJnB2wmDSY0S8GHRDpsJxwXrtAR6FFFup1OxhTEuE+yrpUfP4sQaIJ8xynl/VMY5XnSeWsMe5QspWMhK2bjrLXHixQOEQ609kFt9kyoXU0l2fMQCHjeumahMqTeGUJeVxn5Y9/ok/rKCFmyjFSnRWKrB7z9sW/taLl2yPwU0+MCU4tHKDKKoMuGdAQoBeLLsZimk6c9MDBgQJvyZbJ/99n6w0QoEblv/YErSkz9WjmQkmHfInqrQMk7Y0FiT8KV4obKkjOub1H1pyGLS/j0cceatJ9aRTfftqmh2xojd13WrXSj/IpOO68UFgygng7x4yZ1RUVm6XZbSyZDpcd3e8l5epjOoRG6VpDnaOgynTXpSmQUIHouJmq4SgghmNjyAFl9ioBXz78SADUoonoO5Hlh2T3w2mH0uSQ3JDv2V+yacLYY4QFjyKCGGdBV4x3A==;NNK+PJtvr22n9gGPeaFZOw=="
 ---
 

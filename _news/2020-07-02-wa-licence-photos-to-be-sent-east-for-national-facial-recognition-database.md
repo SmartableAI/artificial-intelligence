@@ -36,22 +36,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "In 'the Blackest city in America,' a fight to end facial recognition"
-    excerpt: "Activists say facial recognition and its racial bias have no place in Detroit, a city that boasts the highest percentage of Black residents in the US."
-    publishedDateTime: 2020-07-01T12:09:00Z
-    webUrl: "https://www.cnet.com/news/in-the-blackest-city-in-america-a-fight-to-end-facial-recognition/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/in-the-blackest-city-in-america-a-fight-to-end-facial-recognition/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/in-the-blackest-city-in-america-a-fight-to-end-facial-recognition/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 91
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/U4mP_-rt6ZiOcOSW9GGJyC_iFa8=/756x567/2020/06/29/30d88944-0d4e-4dae-a68e-c3477dd7d227/gettyimages-1217491940.jpg"
-        width: 756
-        height: 567
-        isCached: true
   - title: "Easthampton passes municipal ban on facial recognition tech"
     excerpt: "An ACLU-backed bill currently before legislators on Beacon Hill would establish a statewide moratorium on government use of face surveillance. Easthampton is the latest town to enact a ban on gov't use of facial-recognition technologies."
     publishedDateTime: 2020-07-02T14:48:00Z

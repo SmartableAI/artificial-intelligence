@@ -2,8 +2,8 @@
 category: news
 title: "Video: Using deep learning to combat cheating in Counter-Strike"
 excerpt: "In this GDC 2018 talk Valve's John McDonald discusses how the company has utilized deep learning machine learning techniques to combat cheating in Counter-Strike: Global Offensive ."
-publishedDateTime: 2020-06-24T19:07:00Z
-webUrl: "https://www.gamasutra.com/view/news/365410/Video_Using_deep_learning_to_combat_cheating_in_CounterStrike.php"
+publishedDateTime: 2020-06-24T19:08:00Z
+webUrl: "https://gamasutra.com/view/news/365410/Video_Using_deep_learning_to_combat_cheating_in_CounterStrike.php"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "Video: Using deep learning to combat cheating in Counter-Strike"
 
-secured: "nfrHPYcfYMSg7cTNlgnfDDu4CEyyLWJacEaXT5qtwVjDaJsVa6+zxg1Gk42lwitl/01MNMH/0clu6NuUxcXSwW8V1z9Z1aWgrmzEt8FuK2pp3xkcZeTZUCvu9261eVbnp/1dbpM/wX/x/36uf40FdsptpZiHqTL1PZ2TTg0UC6hX9YwxQHuXaqCjQOepvjXJaW0wWcTYBcGZK6NAVTBH8OkP1SLPKPOjCVLEl8ZD97k1D8yULg/l6dl1b66tGP0NmR0tqWWTnjM9eBs5RfXEGHaGs48lbMJVloct12gYsdM3+WUFpVWS0APaPFnVM4ZNcqCQLoh/12jNPV/TBvPZ0g==;KjLQQ3KblcSIgxDNDkGIIg=="
+secured: "VumRN/LBzL4qGOUsEQqEbJVx4nrgvTF3OgsB6K4f5RUnmrKekR4uwbH+r3+0kwRLCCS6DxXaOPj7VR/a1kQRlhdfYPDFdV0oHFu8hOouqSOsSMd4coAHg061z1vbKhPIJ1WKnwbH8ylwYpv1U2GxkBEC89cBOwMMz/XuorjhDZau5vuAiD0pw6eGkmkBWn5OAqVcmnyUR4N10xtACfTJmocScFGpHg9gEPeoCMPbwfxLrpqn+ni7CGIrBAzXHsnWgIkA3KAvyVMJ1qPU4HD7MNL2f+GDQ8e1R9P3ptXoeLtn7YSy9HR/25Y45xBiFno475TvxWdnOryCLeCntQhS2Q==;LHhG1XIom5Ni+7e5l7x2GA=="
 ---
 

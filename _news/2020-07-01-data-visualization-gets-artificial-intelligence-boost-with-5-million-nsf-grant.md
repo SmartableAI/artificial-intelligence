@@ -2,8 +2,8 @@
 category: news
 title: "Data visualization gets artificial intelligence boost with $5 million NSF grant"
 excerpt: "SAGE, soon to be on its third iteration as SAGE3, is the most widely used big-data visualization and collaboration software in the world."
-publishedDateTime: 2020-07-01T14:43:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-07/vt-dvg070120.php"
+publishedDateTime: 2020-07-01T16:02:00Z
+webUrl: "https://eurekalert.org/pub_releases/2020-07/vt-dvg070120.php"
 type: article
 quality: 33
 heat: 33
@@ -17,12 +17,12 @@ topics:
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/images/meganav/browse-images.jpg"
-    width: 585
-    height: 363
+  - url: "https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
+    width: 900
+    height: 300
     isCached: true
     title: "Data visualization gets artificial intelligence boost with $5 million NSF grant"
 
-secured: "a3G8iQDqAwhFoZT23UxSGZQqfedSCbuWzIJv3yQBEknKMjKVZtMSR5HlyCzdMI2kbrPnGzQzqYlE+3kuEAR2c3qXz1CP2GkbFi9OgNR8Zyuc/VOqbPe035GIcRuwdOJ5NNVq7yDliaZAipwt53epcwTXVQWjlt728JF3OKdcJEKXW7iIZupNT8zuoT511dwh2xFQPn8IzlYKea2pqSxWNLWw6wKUwQUxSLFblI0Cxo5z/wSUm9cyijonB3uPZdgHgJkDIRn7Fgm+7QX6lh/WBa+0Y39y6oxMQEP0fI/oGagjJxDGlnSAqiP3E32P3JmzGrdOneuFTj7gAqeb+jjlhG2GUY1z/hsTMOiLQeFo073ugy3v5/3pVXORz78DgrRi+Zp3MkP01nqlvoyTivDRMMrk/S4msiS5Q9O+C25XKD9f7oMVsV3Kun1RtRINeQBmgcQVPnUN1jNjTs1NGslFQ7NML/BSnjqyvesTMfDpPvhVrUXPm3TnYRiIbZFn/NuY0bqsy3twrcWWV70nWiB7Bg==;0khvA3dYDdhZ3ssxtsBVxw=="
+secured: "SFUhce3DBFtngf7wwdN6uHEIK/E3pPFEoEge1BS+f7fzLZvmBCVEsPN7ksNnBJ5v8Zr2jUq7xqpr7lBx9wTK//ngdstdEt9Tl+ps2mLLe4zDQTtLtZC2GRz3kQgU2e0O8/346ZBmhZUUyMnSIwOk0EZSqHHni/iuCKKB2eYygxJQjpzXi9RNPRt0qHv9jNV29o3qtwVAVvDCdiNt1Wkj8hSwdlFSVRo8ql1AD4U0HjwyLOa5GKGaP37EK1LBh0lta5OCHt8vJTsSn5Hj25snNy8hU9s28q/I7bOiA2vugYdAPoM/r6swxRfIzph1xWGhQdRq3yc+d3XzbbRDQwdIsA==;R1QF3xFE1J3ZCHjKoYi+9g=="
 ---
 

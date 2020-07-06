@@ -25,38 +25,6 @@ images:
     title: "TuSimple's New Autonomous Freight Network Lays Groundwork for Self-Driving Trucks"
 
 related:
-  - title: "TuSimple Adds Logistics Operators to Self-Driving Trucks Effort"
-    excerpt: "Self-driving trucking startup TuSimple is teaming up with big logistics operators to bulk up its delivery business as it lays the groundwork for a planned coast-to-coast autonomous freight network."
-    publishedDateTime: 2020-07-01T12:08:00Z
-    webUrl: "https://www.wsj.com/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-204436/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Self-driving trucks hit the road at scale with TuSimple's new freight network"
-    excerpt: "The Autonomous Freight Network will receive support from UPS, Penske and US Xpress as TuSimple works to bring self-driving semis to market."
-    publishedDateTime: 2020-07-01T12:05:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/self-driving-trucks-tusimple-freight-network/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-trucks-tusimple-freight-network/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-trucks-tusimple-freight-network/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 71
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/lnh92SF4UX0-VL8HUF2njl5K_qg=/2020/06/30/df6c8293-bfec-4e47-86b1-9a432bcb48a1/ogi-tu.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "TuSimple kicks off plan for a nationwide self-driving truck network with partners UPS, Xpress and McLane"
     excerpt: "Self-driving trucks startup TuSimple laid out a plan Wednesday to create a mapped network of shipping routes and terminals designed for autonomous trucking operations that will extend across the United States by 2024."
     publishedDateTime: 2020-07-02T00:03:00Z
@@ -84,22 +52,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "Self-driving truck developer TuSimple launches autonomous freight network"
-    excerpt: "TuSimple, which has a Tucson facility, is working to bring self-driving technology to market and offer low-cost, long-haul autonomous freight operations."
-    publishedDateTime: 2020-07-01T12:00:00Z
-    webUrl: "https://tucson.com/business/self-driving-truck-developer-tusimple-launches-autonomous-freight-network/article_8ba2ca95-c600-593a-b33a-faeca9821b8e.html"
-    ampWebUrl: "https://tucson.com/business/self-driving-truck-developer-tusimple-launches-autonomous-freight-network/article_8ba2ca95-c600-593a-b33a-faeca9821b8e.amp.html"
-    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/self-driving-truck-developer-tusimple-launches-autonomous-freight-network/article_8ba2ca95-c600-593a-b33a-faeca9821b8e.amp.html"
-    type: article
-    provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 43
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/f/9f/f9f3389a-226a-551a-bde5-96402fd90d5c/5ef2709c628ce.image.jpg?resize=1024%2C617"
-        width: 1024
-        height: 617
-        isCached: true
   - title: "Self-driving trucks to be commercially available by 2024, TuSimple says"
     excerpt: "Autonomous driving tech vendor TuSimple today said it plans to bring self-driving trucks to market by 2024 by launching a self-operating freight network through a partnership with the four logistics providers UPS Inc."
     publishedDateTime: 2020-07-01T18:08:00Z
