@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "babylonhealth"
   url: "https://twitter.com/babylonhealth"
-  followers: 12229
+  followers: 12230
 
 size: 1,001-5,000 employees
 yearFounded: 2013
@@ -32,7 +32,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1276550754438918144/4UXlFVRs_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1280074145947168769/H-1or_wk_400x400.jpg"
     width: 400
     height: 400
     isCached: true
