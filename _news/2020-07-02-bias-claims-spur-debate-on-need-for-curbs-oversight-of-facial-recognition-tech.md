@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Easthampton passes municipal ban on facial recognition tech"
+    excerpt: "An ACLU-backed bill currently before legislators on Beacon Hill would establish a statewide moratorium on government use of face surveillance. Easthampton is the latest town to enact a ban on gov't use of facial-recognition technologies."
+    publishedDateTime: 2020-07-02T14:48:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2020/07/02/easthampton-passes-ban-on-facial-recognition.html"
+    ampWebUrl: "https://www.bizjournals.com/boston/news/2020/07/02/easthampton-passes-ban-on-facial-recognition.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/07/02/easthampton-passes-ban-on-facial-recognition.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 59
+    images:
+      - url: "https://media.bizj.us/view/img/11177301/gettyimages-1086568968*600xx2800-1867-0-467.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business"
     excerpt: "As Black Lives Matter protests swept across the United States, IBM, Amazon and Microsoft took a stand: They halted sales of facial recognition technology to American police departments, and called on the government to regulate the powerful emerging technology."
     publishedDateTime: 2020-07-03T05:43:00Z

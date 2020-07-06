@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/06/AdobeStock_305109236-1024x683.jpeg"

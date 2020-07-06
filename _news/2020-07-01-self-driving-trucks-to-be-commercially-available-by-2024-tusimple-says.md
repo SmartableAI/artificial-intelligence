@@ -66,20 +66,6 @@ related:
         width: 580
         height: 387
         isCached: true
-  - title: "TuSimple's New Autonomous Freight Network Lays Groundwork for Self-Driving Trucks"
-    excerpt: "Autonomous trucking technology company TuSimple has teamed up with UPS, Penske Truck Leasing, U.S. Xpress, and McLane to launch the Autonomous Freight Network, which it says will lay the groundwork for self-driving autonomous trucks to become commercially ..."
-    publishedDateTime: 2020-07-01T16:11:00Z
-    webUrl: "https://www.truckinginfo.com/10120147/tusimples-new-autonomous-freight-network-lays-groundwork-for-self-driving-trucks"
-    type: article
-    provider:
-      name: Truckinginfo
-      domain: truckinginfo.com
-    quality: 19
-    images:
-      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-07/l4_autonomoustruck_tusimple-web-__-1200x630-s.jpg"
-        width: 1151
-        height: 622
-        isCached: true
   - title: "Four large fleets set to test TuSimple self-driving tech in Southwest"
     excerpt: "Four large fleets to test TuSimple autonomous truck tech Three major for-hire carriers and a large private fleet have partnered with autonomous truck developer TuSimple to test the company’s self-driving technologies in real-world operations over the next four years."
     publishedDateTime: 2020-07-03T22:21:00Z

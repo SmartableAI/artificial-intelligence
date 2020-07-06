@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "MIT Scientists Design Autonomous UV Robot That Can Disinfect Boston Food Bank in Just 30 Minutes"
-    excerpt: "The robot, designed by the CSAIL robotics team from the Massachusetts Institute of Technology, could soon be used in factories and supermarkets, too."
-    publishedDateTime: 2020-07-01T15:16:00Z
-    webUrl: "https://www.goodnewsnetwork.org/mit-scientists-design-uv-robot-for-boston-food-bank/"
-    type: article
-    provider:
-      name: GoodNewsNetwork
-      domain: goodnewsnetwork.org
-    quality: 26
-    images:
-      - url: "https://www.goodnewsnetwork.org/wp-content/uploads/2020/07/UV-Robot-Alyssa-PiersonCSAIL.jpg"
-        width: 1400
-        height: 878
-        isCached: true
 
 secured: "J9bNOwUckPNDVOF1O8E2Hls9MKrm58//FPTHOTO3eB9gcZy23EG91iakI+MTotVubWyezmC/6UFGrISR5M0E7of7macEcnVGdIatqTZvdFUu4ymhutxHF+l560vCpKGv4CKWKueJkN9EMIdQvVaQuDZBmpsFME73O3NaM0TBfE3XTjBhtj17wt68JzbUgGY99hoQk0Ae4n5dz7cWHeJUMen0H8bx09HWHhTJ+itCOZjDbsrN6caRmB2gUSo1Gn9acdcJZatChthWdgTtneTKUhj+vn9ed5549QTVzrs/2QnFaVIseqUJIewDAjXhtYtZ+8jGPLsYnAXpAQ1SuSzIz3RQOFUGTOapU14Ry5FxmfW700vuy1Lu8jdJDa2ySWnPTPirnhkOaPmvgNCqBudfaK4WaXw6OIt01pkQ22+ZzkqdTep90OJpyiTCFas51mXLLEveUAxqGcOJjgmoQF6y4S6cm/sB20J3Hp94glpGQpWIZSA3CHjTrBzcQZaXYQ6QFDOQruSWW137DM7oJlek4w==;vw8Mq6BnEVSlC3sQk1nUIA=="
 ---

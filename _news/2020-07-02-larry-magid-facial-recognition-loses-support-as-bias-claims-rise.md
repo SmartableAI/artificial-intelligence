@@ -8,7 +8,7 @@ ampWebUrl: "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accu
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
     images:
       - url: "https://static.timesofisrael.com/www/uploads/2018/11/AnyVision-e1543488603287-640x400.jpg"
         width: 640
+        height: 400
+        isCached: true
+  - title: "Easthampton passes municipal ban on facial recognition tech"
+    excerpt: "An ACLU-backed bill currently before legislators on Beacon Hill would establish a statewide moratorium on government use of face surveillance. Easthampton is the latest town to enact a ban on gov't use of facial-recognition technologies."
+    publishedDateTime: 2020-07-02T14:48:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2020/07/02/easthampton-passes-ban-on-facial-recognition.html"
+    ampWebUrl: "https://www.bizjournals.com/boston/news/2020/07/02/easthampton-passes-ban-on-facial-recognition.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/07/02/easthampton-passes-ban-on-facial-recognition.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 59
+    images:
+      - url: "https://media.bizj.us/view/img/11177301/gettyimages-1086568968*600xx2800-1867-0-467.jpg"
+        width: 600
         height: 400
         isCached: true
   - title: "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business"

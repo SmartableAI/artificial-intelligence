@@ -1,29 +1,19 @@
 ---
 category: news
 title: "Hitachi and ThinkCyte announce collaboration to develop an AI-driven cell analysis and sorting system"
-excerpt: "TOKYO, July 1, 2020 /PRNewswire/ -- Hitachi, Ltd. (TSE: 6501, \"Hitachi\") and ThinkCyte, Inc. (\"ThinkCyte\") today announced that they have entered into a collaboration focused on developing an artificial intelligence (AI)-driven cell analysis and sorting ..."
-publishedDateTime: 2020-07-01T14:05:00Z
-webUrl: "https://www.prnewswire.com/news-releases/hitachi-and-thinkcyte-announce-collaboration-to-develop-an-ai-driven-cell-analysis-and-sorting-system-301086729.html"
+excerpt: "PRNewswire/ -- Hitachi, Ltd. (TSE: 6501, \"Hitachi\") and ThinkCyte, Inc. (\"ThinkCyte\") today announced that they have entered into a collaboration focused on developing an artificial intelligence"
+publishedDateTime: 2020-07-01T14:00:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/hitachi-and-thinkcyte-announce-collaboration-to-develop-an-ai-driven-cell-analysis-and-sorting-system/article_8d713520-8eea-5745-98b8-5a8529e889a6.html"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1196816/ThinkCyte_Logo.jpg?p=facebook"
-    width: 1241
-    height: 650
-    isCached: true
-    title: "Hitachi and ThinkCyte announce collaboration to develop an AI-driven cell analysis and sorting system"
-
-secured: "Tl3rsorfoEgXm4cm2hW6DTIw/het96PvA5DFMJRGiG7MJdBn63VrWXiMODzEXd866aCUPkh/bLXlqbAdie4ZwPo276ST+wc/yL7ZnDRwH7jajQyBOGm/YakXDDvHq5wLzhqMxXH/hs+ca9OUM88gnbHAj5PJ0fW+P7WHM8yx9IRNbylGxexrvvNCmuObcj6Vx3Hzf/JBH5jz3yFfzBbgdoME1kisXl+XKMkmZfM/cUQFLkT7BatvNr85pLKP7WpIs2MFeudqCkbqDOExvfkgtxKuzABXHRY6+m1f5PrQQIPRHJaYdncd/Li+CDs/aWHZhxHPXFyDAsiowFZKdIrv9654AD4p3j00qTSCh9iboNG/QyAYIbcza1DrD7xw00MSz+lj1UllqqC/V2Xbg26g0TOAPBTe4rIlIfZS+7+r7tAFFP4OZXBSyGymwOR23ICW6MXzVOvOnQlwm5Naw8P5wNsVijNcORxoC62XGeHEiCsZBex1sq7SUWXDAJIW+tqzfHUJK8gaDCwKOve0eoBdww==;gD0TvMtReftLB0dvZ1JbYg=="
+secured: "bMfTOXVZCOaIjG9M/ttNfCoEMnvB94jqNEYyOKnIjKuqKosnV+RUv1NHap31HSxi/sY1V0WaV/jGqsJKO+ITmUBth+GFULCcyxTGMEy88XbzeStISc+THN2V5XtmW0/wp8+1jEzAw+W2kcl9E777OpJEBURy4y/o0IOYKZBWIVElMsbTsoRyMoT2Oxb8aU3lk0/ibccD4HGvMcN7PxbReaKchH9gEPT3myF/eBxwx5tBPQjwqnvJ3p6WYtut+wBFPUq6e7VmGbLWAx8FAOym1RCkyFvCsDZiUJib0EEkpjomAdNm27OwA6yVvdLS89Kw5XpyACPWf0vAdcIaOJptkQ==;Ez/bXhesw7qLokym5ry+XA=="
 ---
 

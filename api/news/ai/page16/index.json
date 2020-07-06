@@ -2,6 +2,137 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-06-18-edge-analytics-complementing-cloud-computing.md",
+      "title": "Edge Analytics Complementing Cloud Computing",
+      "excerpt": "Model developed on popular frameworks like TensorFlow, keras, and Caffe can be deployed after optimization to run on inference devices like Andriod and micro-controllers. Inference engines designed considering capabilities of MCUs, like TensorFlow-Lite ...",
+      "webUrl": "https://www.embedded-computing.com/guest-blogs/edge-analytics-complementing-cloud-computing",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://share.opsy.st/5eeba638d9705-imageedit_128_2720927183.jpg",
+          "width": 700,
+          "height": 466,
+          "title": "Edge Analytics Complementing Cloud Computing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-openais-commercial-release-of-api-raises-serious-questions-about-ai-misuse.md",
+      "title": "OpenAI's commercial release of API raises serious questions about AI misuse",
+      "excerpt": "The organization previously aired reservations related to potential misuse of the text-generation model. Now, the company is taking the AI commercial.",
+      "webUrl": "https://www.techrepublic.com/article/openais-commercial-release-of-api-raises-serious-questions-about-ai-misuse/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/18/953aa22e-374d-478f-ac00-2aa854affe24/resize/1200x/6f60a13b933639e8f7894b9f42c8e830/artificial-intelligence-2.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "OpenAI's commercial release of API raises serious questions about AI misuse",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/openais-commercial-release-of-api-raises-serious-questions-about-ai-misuse/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/openais-commercial-release-of-api-raises-serious-questions-about-ai-misuse/",
+      "publishedDateTime": "2020-06-18T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-why-it-matters-that-ibm-has-abandoned-its-facial-recognition-technology.md",
+      "title": "Why It Matters That IBM Has Abandoned Its Facial Recognition Technology",
+      "excerpt": "Now that tide has started to turn when last week three significant players, who have created face recognition technology, made some bold decisions to not sell their technology to law enforcement and other agencies that could misuse it.",
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2020/06/18/why-it-matters-that-ibm-has-abandoned-its-facial-recognition-technology/",
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb8bcb84bc02000770522f%2F0x0.jpg",
+          "width": 1200,
+          "height": 1074,
+          "title": "Why It Matters That IBM Has Abandoned Its Facial Recognition Technology",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2020/06/18/why-it-matters-that-ibm-has-abandoned-its-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2020/06/18/why-it-matters-that-ibm-has-abandoned-its-facial-recognition-technology/amp/",
+      "publishedDateTime": "2020-06-18T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-google-builds-ai-agent-that-learns-to-generalize-to-new-environments-by-ignoring-distractions.md",
       "title": "Google builds AI agent that learns to generalize to new environments by ignoring distractions",
       "excerpt": "Google researchers propose an AI system that uses the concept of self-attention to generalize to unfamiliar environments.",
@@ -1156,120 +1287,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-artificial-intelligence-in-healthcare-market-forecast-revised-in-a-new-fmi-report-as-covid-19-projected-to-hold-a-massive-impact-on-sales-in-2020.md",
-      "title": "Artificial Intelligence In Healthcare Market Forecast Revised in a New FMI Report as COVID-19 Projected to Hold a Massive Impact on Sales in 2020",
-      "excerpt": "An ongoing study of the research analysts at Future Market Insights (FMI), offers a thorough quantitative and qualitative assessment of the Artificial Intelligence In Healthcare market along with easy to grasp tables, graphs, and figures. The Coronavirus ...",
-      "webUrl": "https://www.pharmiweb.com/press-release/2020-06-18/artificial-intelligence-in-healthcare-market-forecast-revised-in-a-new-fmi-report-as-covid-19-projec",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-baidu-breaks-off-an-ai-alliance-amid-strained-us-china-ties.md",
-      "title": "Baidu Breaks Off an AI Alliance Amid Strained US-China Ties",
-      "excerpt": "The search giant was the only Chinese member of the Partnership on Artificial Intelligence, a US-led effort to foster collaboration on ethical issues.",
-      "webUrl": "https://www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5eeab8bef435e6f478b289f5/master/pass/business_baidu_1211912901.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Baidu Breaks Off an AI Alliance Amid Strained US-China Ties",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/amp",
-      "publishedDateTime": "2020-06-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-sas-microsoft-partner-to-further-shape-future-of-analytics-and-ai.md",
-      "title": "SAS, Microsoft partner to further shape future of analytics and AI",
-      "excerpt": "Microsoft Corporation and SAS today announced an extensive technology and go-to-market strategic partnership. The two companies will enable customers to easily run their SAS workloads in the cloud, expanding their business solutions and unlocking critical value from their digital transformation initiatives.",
-      "webUrl": "https://www.itweb.co.za/content/KBpdg7pzEAzqLEew",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/k-KrNcDkdz_xM9SDHP5O4k9y9X152gcmWw7DNu7IR_QQRsB5vwbWfcT-f09xWshd5LkFrDfwd6SHQda5Zq9D-lk=w400-h312-c",
-          "width": 400,
-          "height": 312,
-          "title": "SAS, Microsoft partner to further shape future of analytics and AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.itweb.co.za/content/KBpdg7pzEAzqLEew",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/KBpdg7pzEAzqLEew",
-      "publishedDateTime": "2020-06-18T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

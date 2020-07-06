@@ -57,7 +57,23 @@ related:
         width: 640
         height: 400
         isCached: true
+  - title: "Easthampton passes municipal ban on facial recognition tech"
+    excerpt: "An ACLU-backed bill currently before legislators on Beacon Hill would establish a statewide moratorium on government use of face surveillance. Easthampton is the latest town to enact a ban on gov't use of facial-recognition technologies."
+    publishedDateTime: 2020-07-02T14:48:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2020/07/02/easthampton-passes-ban-on-facial-recognition.html"
+    ampWebUrl: "https://www.bizjournals.com/boston/news/2020/07/02/easthampton-passes-ban-on-facial-recognition.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/07/02/easthampton-passes-ban-on-facial-recognition.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 59
+    images:
+      - url: "https://media.bizj.us/view/img/11177301/gettyimages-1086568968*600xx2800-1867-0-467.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
-secured: "qpLSPMmhx6JdJuPZsLzVFbEXmKo05awsTceAfCXah4I1cxIXWsyxJOZMqR6nekIsZ6faOZ/UfZF0eY9PzJCmbDi+5990mACEgq/+a5pZUhWrhE/hy3ji42bg3GM+s0Btt+3VCrDMZIwYteTvZycL+UPulKYqrbcnxVyXMdUbucWID0dPOKAYoo9QUv9f+pmZoZ+j00nnST6IJ7IdbFBBXCqwKVXdUmPwnmD7JuBce7PToTDfsEVF2btDQU/3GSLD7E5kgWsM1siHspPYG5kQY3Ae/+2qum2NVQYlyGJrplEUaWzVKqE9ZnDaMAeaWFjkc4W2VkJEqYHRcg6eSBZ1Hg==;NG8JtXF0EFyH2FSBpJ1GyA=="
+secured: "RMtOjS5as51d09Bo040s722mQTAj54YpgGXUVCQ4XgTGf4LjeEigZA5tfq8rQ/oF4lyV942m7qPDCoNzqbNLNtxoIMdfbwyedPTMEUc8ZjBFz4DypqRE1B6PVCUTbId8/kLxHh08GrTznBN3f0xNGJ44zNHKjs7clFTVtEQwmk4I6zQvZ3m9zYnPIAROA/STFRbS0gzIxJ1EJfOVTitbmDNzYWzNhk3/JCFaOKRNjtqVpkygayMu8Q52KvyRZXc1yoeLH2Iag5kBUmhw4o6VUQpCv3kHeWIYlj8mgMaGwcZXOddfzDXbJxeWwbaV8VwP+99dxDBelmzwJ0RLRvyvWO2z/WebySNQSliWneKQ1GUHurdD1llRGt6j3uT4GKBsukgOwRq+/1dY78ZJNnuI5laIR2wObwbOErm1EruW1ZZiVlduIaDI0Qtq4u94fqs7xUEby7ZSB51SXh2Y4oFHRuv/kAOSvy5OppqLKJWTweei/54DCtQuh8Kw6UkCl4P3wAj+ICE9ASsb5Ioh1+z1TA==;L6CW+XW3Z5U7d8X9dJ8fGg=="
 ---
 
