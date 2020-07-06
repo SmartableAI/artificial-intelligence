@@ -36,20 +36,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "New NUS innovation enhances digital privacy by hiding images from the prying eyes of AI"
-    excerpt: "Technique developed by NUS Computing safeguards sensitive information by stopping algorithms from automatically recognising faces of people as well as specific attributes, such as gender and race, while remaining fully perceptible to the human eye."
-    publishedDateTime: 2020-07-01T13:05:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-06/nuos-nni063020.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/236309_web.jpg"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "K4wxtVx0dixoebKZZ7wJOebBlyAxYZ7NlDWomI3+f8htdtRRJAMMWkQ7TLtDCK7kc7tKg4k0Cz3ougeQza2J1w4OZNrsdlSxDTzVysnCmlLLUneZIyokLCIpEgzLTVuW2sSIrxTMb8N36vmeV157OGJ1Dk56ZU36E2EHqzd+ZSahziuPJmERxSCXGKsAf2Skb1dVbAOKZrK60tKeKHSNAEHxpJ0hBStdrdWsgXp+hoDu3N2Dbksr9/DMG0LwBd162YdwJ0P9r/Z+l5xDJFO8797DIGY6bTn+8wI5GceYgsD7vZ6IxMUpV1ktJnR6wsVEz3/5JmXZU3GEKF6qfwLG5Q==;qioz41G0rnvcvdIA5kHG2w=="
 ---

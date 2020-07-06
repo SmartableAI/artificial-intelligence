@@ -2,6 +2,35 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-06-30-ibm-is-it-a-good-investment.md",
+      "title": "IBM: Is “IT” a Good Investment?",
+      "excerpt": "Over the past few years, the company has been transitioning from a computer manufacturer to a leading cloud platform and cognitive solutions company ... AMZN)’s AWS and Microsoft Corporation (NASDAQ:MSFT)’s Azure. Many on Wall Street were optimistic ...",
+      "webUrl": "https://www.insidermonkey.com/blog/ibm-is-it-a-good-investment-847806/?singlepage=1",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-ai-expert-mayur-rele-gives-an-intuitive-explanation-of-convolutional-neural-networks.md",
       "title": "AI Expert, Mayur Rele, gives an Intuitive Explanation of Convolutional Neural Networks",
       "excerpt": "CNNs were first pioneered back in the late 1980s based on a series of earlier work in the 1960s on Artificial Neural Networks (ANNs) and Multilayer Perceptrons (MLPs). They were initially designed to work similarly to the human brain. Of course ...",
@@ -1289,52 +1318,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-veo-technologies-is-helping-thousands-of-soccer-teams-film-their-matches-with-ai-driven-cameras.md",
-      "title": "Veo Technologies Is Helping Thousands Of Soccer Teams Film Their Matches With AI-Driven Cameras",
-      "excerpt": "Veo Technologies has made a huge dent in the soccer industry and is now looking to take on the rest of the sports world.",
-      "webUrl": "https://www.forbes.com/sites/mortenjensen/2020/06/29/veo-technologies-is-helping-thousands-of-soccer-teams-film-their-matches-with-ai-driven-cameras/",
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef469ff26f198000715ca1a%2F0x0.jpg",
-          "width": 1200,
-          "height": 802,
-          "title": "Veo Technologies Is Helping Thousands Of Soccer Teams Film Their Matches With AI-Driven Cameras",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mortenjensen/2020/06/29/veo-technologies-is-helping-thousands-of-soccer-teams-film-their-matches-with-ai-driven-cameras/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mortenjensen/2020/06/29/veo-technologies-is-helping-thousands-of-soccer-teams-film-their-matches-with-ai-driven-cameras/amp/",
-      "publishedDateTime": "2020-06-29T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

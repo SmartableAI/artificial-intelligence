@@ -89,15 +89,6 @@ related:
       name: Overdrive
       domain: overdriveonline.com
     quality: 4
-  - title: "Major fleets partner with self-driving truck developer TuSimple on autonomous freight network"
-    excerpt: "Three major for-hire carriers and a large private fleet have partnered with autonomous truck developer TuSimple to test the company’s self-driving technologies in real-world operations over the next four years. As part of a plan to build out a ..."
-    publishedDateTime: 2020-07-01T13:41:00Z
-    webUrl: "https://www.ccjdigital.com/major-fleets-partner-with-self-driving-truck-developer-tusimple-on-autonomous-freight-network/"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 0
 
 secured: "d90/1OuCqa9uSqDfeXKxS0M0lXFkGt43McQVDJDykChYyypC6ufAlyQBn9w+0lmhWzIuZBjpPqT8Mq5iJ9li8m634p4DxfcpRKyOFsh6i8AbQA83Ucc+66m+W4Ha3AUEkW3880FTy2Dk2vObkgDHIemOUbT+6wLWckicR87vX6kW+nawHZfPH2AgR9iQejtUoCiU4PRzuH6we9JURhPs2CKno8l6GDpH6QgMHTbyt6TFLL9HFzHsQKJ6hxQesha5zf1ofR3khU0xLyXX40K13eI+RRZTAc4NppRsZw4qE2+1Iw7dyyaep2v51PjLwIRAQSCCcd4vfTVEvwngcEEx4DqX356QZ6VeDyxZ2upymqTh2owhokRPFfFhuzWqCd+cinJcHOGMy3+mWWPBx/BuzH+YrWOmasjhSptQ9j4pIItv/OJwh/O9sNJtBalFp2gCMVVBPKXCqodCoa/iU6vdJhLtWRrvbvRxqxWr6zYWLigkgIj9ejdNnrt3o9JxfwohemsZR09zU7YENexr78/2Cg==;XB+Gg7wMeTcBZe3IUOPmDQ=="
 ---

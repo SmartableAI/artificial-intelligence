@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 698
         isCached: true
-  - title: "Tesla increases Full Self-Driving price to $8,000 as promised"
-    excerpt: "Driving package to $8,000 as promised, and it may have saved its quarter. The decision to pre-sell a “Full Self-Driving” package in its vehicles years before it planned on making the technology available through the software has been controversial,"
-    publishedDateTime: 2020-07-01T13:19:00Z
-    webUrl: "https://electrek.co/2020/07/01/tesla-increases-full-self-driving-price-8000-promised/"
-    ampWebUrl: "https://electrek.co/2020/07/01/tesla-increases-full-self-driving-price-8000-promised/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/01/tesla-increases-full-self-driving-price-8000-promised/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?quality=82&strip=all"
-        width: 2370
-        height: 1179
-        isCached: true
 
 secured: "R7CstPgOvWOOPrKAHp/pxVx1cOrJcb71ZEh1z+6+hRsaqYjDfZCAAP8gmuML1SHQdHc861jrKZ9oI0C3Erc1Kb+192zzUog0FK+fNQOKIjmyMM5FA0XLxOkUuAfaHkVJ4hD45RL9spGz2yVbIcurK2R5IXn3XAJOVJYMf4OhMhRos+2G19ZbTs+qcePlmh6qPd+oRH0ZTp+KXBUtCm6bghXLEDaE5IDCiR1NNKBjEG7B1XNG2o8KCZix/cnR+HWYRlTL+i74O9OvjvJYTkmaKLb8t9qlvnAlY/AWRTs9vr1PjoIxR6rtcFQlHMhkkaPXjTNCW/8H0tUvJYypT1ygKv4WEspRT7Jml1SHVD4QUyxY9/r9O788/sE61xV+kMc4cK5dFh0ytufgLVudEOTCkRxnnBq1l4/EFuHY+tLwJplZSb17vPxcBd+frBlH1XUMH2lMqjnkvzvwHK1jPjcD4d7SL5C7Rtr7qROxto7vtepE1gloxmnXwZpEhlCvRREEf/IvIWq/ZhbI9JhqL7ixkQ==;8S2HQBlo9IN4G3ZPMDdRlA=="
 ---

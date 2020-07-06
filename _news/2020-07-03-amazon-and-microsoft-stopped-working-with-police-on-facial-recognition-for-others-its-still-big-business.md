@@ -3,22 +3,22 @@ category: news
 title: "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business"
 excerpt: "As Black Lives Matter protests swept across the United States, IBM, Amazon and Microsoft took a stand: They halted sales of facial recognition technology to American police departments, and called on the government to regulate the powerful emerging technology."
 publishedDateTime: 2020-07-03T05:43:00Z
-webUrl: "https://keyt.com/lifestyle/money-and-business/2020/07/02/amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/"
+webUrl: "https://localnews8.com/money/2020/07/02/amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/"
 type: article
 quality: 6
 heat: -1
 published: false
 
 provider:
-  name: KEYT
-  domain: keyt.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech-860x484.png"
+  - url: "https://localnews8.b-cdn.net/2019/11/Money-logo-new-860x484.jpg"
     width: 860
     height: 484
     isCached: true
@@ -58,6 +58,6 @@ related:
         height: 400
         isCached: true
 
-secured: "t+kUVCXY5wuYEAupVeCkw0QV2ikxLz+LI4BePt6gAXHq5TOoy5tGVxHxt2kkGEmmpBuh0tsfARMx7QazPkrsvMQbJBQW3dXI9dxliGG/cC6lrqG53siP05GPr34kkz6+eQ1aCZeJUwi8O4AwNJ+5tlzdpjF3Rj8oJVJIQQQAAWFMC6LoYb2OsjUYHtJt0JLVfg2HF//4Rigo4ryiFF3ZDmoH2DbG+9HsX4GDLE7Q3fLnogjOgT64x/KlueODPvvFpaoyxzC4XfAWoMr4Oka3fo/+qFHfvHzSYD3PAR5YtDRE1CHxnc+3RMEoX2phnSxyld3iZMmXuflPXTdOnOvxSFWhI+AR0puT6IcajCYfeVMytYNtFCPf24kFsIVtldxUl6F2e8zkaA0VmkGMMVMli0UjiVV04gDjsqOHu95QinpBxwtoRjT2Of+0zpbdHYN3VzbcHEsqIXK7T4FAzHFWpYDcVhrg3TurYxIQuSqUpOUiwHm3FHIAXHpGyDQi8EKMqXJe9y14JEUu+5mWaOxCKw==;kYnPMXRhc3ggm4grlxxayg=="
+secured: "qpLSPMmhx6JdJuPZsLzVFbEXmKo05awsTceAfCXah4I1cxIXWsyxJOZMqR6nekIsZ6faOZ/UfZF0eY9PzJCmbDi+5990mACEgq/+a5pZUhWrhE/hy3ji42bg3GM+s0Btt+3VCrDMZIwYteTvZycL+UPulKYqrbcnxVyXMdUbucWID0dPOKAYoo9QUv9f+pmZoZ+j00nnST6IJ7IdbFBBXCqwKVXdUmPwnmD7JuBce7PToTDfsEVF2btDQU/3GSLD7E5kgWsM1siHspPYG5kQY3Ae/+2qum2NVQYlyGJrplEUaWzVKqE9ZnDaMAeaWFjkc4W2VkJEqYHRcg6eSBZ1Hg==;NG8JtXF0EFyH2FSBpJ1GyA=="
 ---
 

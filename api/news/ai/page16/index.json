@@ -2,6 +2,52 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-06-18-google-builds-ai-agent-that-learns-to-generalize-to-new-environments-by-ignoring-distractions.md",
+      "title": "Google builds AI agent that learns to generalize to new environments by ignoring distractions",
+      "excerpt": "Google researchers propose an AI system that uses the concept of self-attention to generalize to unfamiliar environments.",
+      "webUrl": "https://venturebeat.com/2020/06/18/google-builds-ai-agent-that-learns-to-generalize-to-new-environments-by-ignoring-distractions/",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google builds AI agent that learns to generalize to new environments by ignoring distractions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/18/google-builds-ai-agent-that-learns-to-generalize-to-new-environments-by-ignoring-distractions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/google-builds-ai-agent-that-learns-to-generalize-to-new-environments-by-ignoring-distractions/amp/",
+      "publishedDateTime": "2020-06-18T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-youtube-sued-for-using-ai-to-racially-profile-content-creators.md",
       "title": "YouTube sued for using AI to racially profile content creators",
       "excerpt": "A group of black content creators has sued YouTube for allegedly using AI to censor their videos based “wholly or in part” on race.",
@@ -1224,53 +1270,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-chinese-ai-researchers-based-overseas-sweep-top-awards-at-leading-computer-vision-conference-cvpr.md",
-      "title": "Chinese AI researchers based overseas sweep top awards at leading computer vision conference CVPR",
-      "excerpt": "At leading computer vision gathering Conference on Computer Vision and Pattern Recognition, Chinese researchers were behind both papers recognised as the best appearing at the event.",
-      "webUrl": "https://www.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/18/63f0548c-b132-11ea-953d-a7ecc5cbd229_image_hires_172720.jpg?itok=iSVdn0JI&v=1592472448",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese AI researchers based overseas sweep top awards at leading computer vision conference CVPR",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
-      "publishedDateTime": "2020-06-18T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

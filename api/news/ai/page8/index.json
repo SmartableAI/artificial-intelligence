@@ -2,6 +2,52 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-26-can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer.md",
+      "title": "Can We Have Conscious Artificial Intelligence And Other Mind-Blowing Things Science Can’t Answer",
+      "excerpt": "In a recent conversation with Professor of Public Understanding of Science at Oxford University, mathematician, broadcaster and author Marcus du Sautoy we explored some questions that he pondered in his book What We Cannot Know: Explorations at the Edge of Knowledge.",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/26/can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef575a661d20f0007e1dbd5%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Can We Have Conscious Artificial Intelligence And Other Mind-Blowing Things Science Can’t Answer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/26/can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/26/can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer/amp/",
+      "publishedDateTime": "2020-06-25T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-can-ai-erase-enough-of-its-own-bias-to-address-racial-and-gender-gaps.md",
       "title": "Can AI erase enough of its own bias to address racial and gender gaps?",
       "excerpt": "VCs and lenders rely on business data such as transaction records to inform funding decisions for fintechs or small businesses, but bias and uneven representation in management still result in gender and racial disparity.",
@@ -1282,53 +1328,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup.md",
-      "title": "Mercedes Drops Partnership With BMW, Hooks Up With NVIDIA On Self-Driving: Robocar Roundup",
-      "excerpt": "With the field slowing down, why would Mercedes and BMW end their partnership? Just adding NVIDIA chips isn't enough explanation. Plus, a roundup of other robocar news for the week.",
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/imageserve/5ef431b4816bb40006d1c766/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Mercedes Drops Partnership With BMW, Hooks Up With NVIDIA On Self-Driving: Robocar Roundup",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/amp/",
-      "publishedDateTime": "2020-06-25T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

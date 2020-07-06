@@ -21,6 +21,6 @@ images:
     isCached: true
     title: "Rugged COTS Platform Takes On Fast-Changing Needs of Self-Driving Trucks"
 
-secured: "kKrmAFK9513yNbrQ4LVoZu2BDkQDsew4+37vFzOHYl1jr1n1DdBACQRsM8kX6/UmV7e4ts6Syx+el41LcSFMoVlIn8PPSvMQW6J6llfWgRLX21C+FEf5aXiQu35r/HD0YW//0vV8iLxX63xERempkwyPwp1+GC/IpStHab97I1GsEW/+h4BwKNom0mrEL5Oc1NJhJci12XlKNE4wfQJRtj0WnpopfrG6Iry/vucLHVX+JWR9zXUSae8P+yOzVUqDRhpndzMGc05mz0JzizswQ5tPnIo7lqhNJEvsTKSxUV04RtVYsfNAi/51xVLt1fV8Q2xfhU1LrwXqO+d7G9yTUQ==;YFy2FTISVelg/4lSLHXKgA=="
+secured: "UxXtNeQyEG9gpPhMAFxEuLe/32xMrXxkqj5gQTgr/GCe/ycBMlnck+S9vY3d8c2DoD2fC2X8b2TWuX6EA5vCbCyen+DA27EdhDbsmfNAJ60M4IoMdDnZNS5vDUbYGEHwSdUL6FkGNchhV5Toi0D3jBn+icqe4kKSBwpE2hUrLDBbvp3CdrZsDLM+JgDkiJJVjXdcfDEtPSZqX4BUPZ88nCCfQWQF8mabNiqyPXUJsolzm/kqHrzQl8Xp2sPKqoG/9JQZGyWIg8reMU6gKTujJ7aooN1zoh17NlhgG4tjCHRNkVB5qLvfMWYE3ez7jvuvV/tMqSL6z6YV7YsJ46hP//HAIptRntMSIdhj7Hyj2ZxRw3L6I95n2sAz6VDWzoJcuxXAmQ6PeuRTGaaJVTGBkrGZboCtAEXoI0RL+a8aWk/In/8xQSY8VzIe2JMLjU5JcLuTjq3kfbHjxW69gw/OdWiyvYhJQ/CVm9/eLvqovenucpPxdpl88NkAdcJXaGOyoeJ/5KQYPR/gZb2Noc8p4A==;AAYCiCj5LVi/0NpgwPZ7Eg=="
 ---
 

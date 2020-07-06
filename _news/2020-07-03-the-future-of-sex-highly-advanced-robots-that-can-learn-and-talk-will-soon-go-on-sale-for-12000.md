@@ -27,33 +27,33 @@ images:
     title: "The future of sex: Highly advanced robots that can learn and talk will soon go on sale for £12,000"
 
 related:
-  - title: "The robots are coming, and this is how they will change the future of work"
-    excerpt: "Robotic systems have historically been kept separate from humans, and tucked away deep in factory lines. But as robots start mingling with humans in their workplaces, what is work going to look like?"
-    publishedDateTime: 2020-07-01T14:13:00Z
-    webUrl: "https://www.zdnet.com/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/"
+  - title: "Thousands of sex robots that can learn and talk to go on sale for $15,000"
+    excerpt: "A ROBOT doll which can hold conversations, learn and has a “personality” is set to revolutionise the billion dollar sex tech market. The $15,000 silicone doll, which looks like a"
+    publishedDateTime: 2020-07-04T10:51:00Z
+    webUrl: "https://www.thesun.ie/news/5617392/sex-robots-speak-learn-ai-memory/"
+    ampWebUrl: "https://www.thesun.ie/news/5617392/sex-robots-speak-learn-ai-memory/amp/"
+    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/5617392/sex-robots-speak-learn-ai-memory/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 58
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/06/30/44b82d2a-c7eb-4458-89bb-a1aeff3fc18b/makrshakr-milanoduomo-bp-5972.jpg"
-        width: 1152
-        height: 768
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2020/07/MB-COMP-DOLL.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Are Sensors And Artificial Intelligence The Future Of Ageing-in-place Technology?"
-    excerpt: "International research[1] is clearly showing the value of sensors in a private residence to extend the amount of time a person can remain independently in their home for longer. SECURELY® is a trust-owned New Zealand company that has a range of products that use sensors and artificial intelligence to monitor activity within a home."
-    publishedDateTime: 2020-07-06T04:07:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2007/S00100/are-sensors-and-artificial-intelligence-the-future-of-ageing-in-place-technology.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2007/S00100/are-sensors-and-artificial-intelligence-the-future-of-ageing-in-place-technology.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2007/S00100/are-sensors-and-artificial-intelligence-the-future-of-ageing-in-place-technology.htm"
+  - title: "Thousands of sex robots which hold conversations were sold out"
+    excerpt: "Sex robots which can hold conversations have gone on sale in their thousands for a £12,000 price tag,' says the designers. California based company RealDoll manufactured these"
+    publishedDateTime: 2020-07-06T04:53:00Z
+    webUrl: "https://www.thehansindia.com/life-style/thousands-of-sex-robots-which-hold-conversations-were-sold-out-632019"
+    ampWebUrl: "https://www.thehansindia.com/amp/life-style/thousands-of-sex-robots-which-hold-conversations-were-sold-out-632019"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/thousands-of-sex-robots-which-hold-conversations-were-sold-out-632019"
     type: article
     provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 32
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
 
 secured: "rvONr3fxnVT07zRArmbINXxZ8Pkix5lnWYo1HqR68LKtV2lzCy5LVnvqoBRFWaihW2NuPPgs0qQpkGxPIJSsaWMTxu4KHkP2ttRA/9PpTbJdEeFmAkdfVV3KlIMSM41P3ZUN5y9yOYWVeZ+u2MWsM3H57vIwwBGecqnR4tzUHJ98oPRYYSB1wG7/+fZ5KVq3/5GMTChXD5BUSLuvl+PkK7m9yx/YZi0xkFb/YqS6YpZ26MokuClTGLDELeCTBJLi86EyIG17ds/Fs9hjV//TGzwAV7pbG0U9K/UjD5Eg6G7uyUu88Vvk/dy3LtFEY83easJvdbKf8k1Avb9vaeYjyLKm72kXkLWXsKAXLb8nvCSxs08rflSD9cM7THbOcio3wda4xbo7geQNpgHKttC5rs+HHJa6IqK0AXnPiungCuMTotI7N4W5UbJfOQz0QsPzUlLF6a2mM+9HYNgoggPhmqfeTOzLeOy++glOUZZemT/6NWgYCFwclp0VUDsWrr4jh10H7u7RXbjQ2nNbyvCDwQ==;UbdvW3tZ4H3ZsojMm0VR+Q=="
 ---

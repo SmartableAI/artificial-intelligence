@@ -2,6 +2,35 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-06-17-sosi-invests-in-apptek-to-advance-artificial-intelligence-and-machine-learning-for-its-speech-recognition-and-translation-offerings.md",
+      "title": "SOSi Invests in AppTek to Advance Artificial Intelligence and Machine Learning for Its Speech Recognition and Translation Offerings",
+      "excerpt": "SOS International LLC (SOSi) announced today that its owners acquired a non-controlling interest in Applications Technology (AppTek), LLC, a leader in",
+      "webUrl": "https://www.businesswire.com/news/home/20200617005724/en/SOSi-Invests-AppTek-Advance-Artificial-Intelligence-Machine",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-17T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-ibm-named-an-ai-text-analytics-leader-in-two-2020-forrester-wave-reports.md",
       "title": "IBM Named an AI Text Analytics Leader in two 2020 Forrester Wave™ Reports",
       "excerpt": "\nI’m thrilled to announce that IBM’s Watson Discovery was named a ‘Leader’ in two reports from Forrester in Q2 2020. Compared to other vendors, Watson Discovery received the highest score for strategy and for market presence in both reports: “The Forrester Wave™: AI-Based Text Analytics Platforms (Document-Focused),",
@@ -1078,44 +1107,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-us-israeli-fintech-firm-pagaya-raises-102-million-in-funds.md",
-      "title": "US-Israeli fintech firm Pagaya raises $102 million in funds",
-      "excerpt": "Pagaya manages over $1.6 billion of assets for banks, insurance companies, pensions funds, asset managers, and sovereign wealth funds using AI.",
-      "webUrl": "https://www.jpost.com/israel-news/us-israeli-fintech-firm-pagaya-raises-102-million-in-funds-631792",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/458910",
-          "width": 640,
-          "height": 428,
-          "title": "US-Israeli fintech firm Pagaya raises $102 million in funds",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/israel-news/us-israeli-fintech-firm-pagaya-raises-102-million-in-funds-631792/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/us-israeli-fintech-firm-pagaya-raises-102-million-in-funds-631792/amp",
-      "publishedDateTime": "2020-06-17T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

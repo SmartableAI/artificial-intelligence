@@ -2,6 +2,35 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-06-12-udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud.md",
+      "title": "Udacity, Microsoft to skill people in machine learning for Azure Cloud",
+      "excerpt": "Phase one of the programme will provide 10,000 applicants access to the two-month-long foundation course titled Introduction to Machine Learning on Azure' with a low-code experience. The second phase will offer a scholarship for the new programme in Microsoft Azure to top 300 performers of the foundation course,",
+      "webUrl": "https://news.webindia123.com/news/articles/Science/20200612/3574912.html",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-12T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-deep-learning-neural-networks-market-is-booming-worldwide-ibm-neural-technologies-aws.md",
       "title": "Deep Learning Neural Networks Market is Booming Worldwide | IBM, Neural Technologies, AWS",
       "excerpt": "A special chapter in the study presents Impact Analysis of COVID-19 on Global Deep Learning Neural Networks Market along with tables and graphs related to various country and segments showcasing impact on growth trends.",
@@ -992,35 +1021,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-repairing-and-rewiring-the-brain.md",
-      "title": "Repairing and Rewiring the Brain",
-      "excerpt": "Perhaps the most rewarding part of my work is helping post- traumatic brain injury clients to regain mastery of skills they thought were lost forever. Many of you may be familiar with this aspect of my work from Clark Elliott’s book,",
-      "webUrl": "https://www.psychologytoday.com/us/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain?amp",
-      "publishedDateTime": "2020-06-11T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

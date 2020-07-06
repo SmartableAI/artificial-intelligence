@@ -2,6 +2,45 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-01-ethics-in-the-balance-ais-implications-for-government.md",
+      "title": "Ethics in the Balance: AI’s Implications for Government",
+      "excerpt": "As automation becomes an ever-more viable tool for government for everything from cameras on light poles to using AI to set prisoners’ bail, can policymakers ensure it is used responsibly and ethically?",
+      "webUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/taskforce1.jpg",
+          "width": 940,
+          "height": 630,
+          "title": "Ethics in the Balance: AI’s Implications for Government",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
+      "publishedDateTime": "2020-07-01T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-how-to-use-the-new-ai-driven-nextcloud-inbox.md",
       "title": "How to use the new AI-driven Nextcloud Inbox",
       "excerpt": "Nextcloud Mail users will be thrilled with the new AI-driven inboxes. Learn the ins and outs of this new feature.",
@@ -1316,52 +1355,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey.md",
-      "title": "Where does your organization stand on the AI curve? (Find out with this survey)",
-      "excerpt": "To learn more about where your company stands now, and how the market is evolving in the AI-first era, take the VB AI Survey now.",
-      "webUrl": "https://venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/wocintechchat.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Where does your organization stand on the AI curve? (Find out with this survey)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/amp/",
-      "publishedDateTime": "2020-06-30T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

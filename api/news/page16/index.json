@@ -2,6 +2,53 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-06-22-nvidia-reveals-pcie-40-version-of-its-ampere-a100-gpu.md",
+      "title": "Nvidia reveals PCIe 4.0 version of its Ampere A100 GPU",
+      "excerpt": "Nvidia finally showed off its new 7nm Ampere architecture last month in the form of the A100 GPU. Now, the company has announced a number of A100 powered systems from leading server manufacturers, including Asus,",
+      "webUrl": "https://www.techspot.com/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-22-image-5.jpg",
+          "width": 1800,
+          "height": 1350,
+          "title": "Nvidia reveals PCIe 4.0 version of its Ampere A100 GPU",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
+      "publishedDateTime": "2020-06-22T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key.md",
       "title": "DeepMind sets AI loose on Diplomacy board game, and collaboration is key",
       "excerpt": "Artificial intelligence systems have become increasingly well-adapted to a host of basic board games. Now, DeepMind is hoping to teach agents the art of collaboration using Diplomacy.",
@@ -47,6 +94,44 @@
         "AI",
         "AI Ethics",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20.md",
+      "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
+      "excerpt": "Inspur, a data center and AI full-stack solutions provider, releases NF5468M6 and NF5468A5 AI servers supporting the",
+      "webUrl": "https://www.hpcwire.com/off-the-wire/inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/shutterstock_coronavirus_11-405x228.jpg",
+          "width": 405,
+          "height": 228,
+          "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -687,44 +772,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-22-inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20.md",
-      "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
-      "excerpt": "NF5468M6 and NF5468A5 accommodate 8 pcs of double-width NVIDIA A100 PCIe GPUs in 4U chassis. Both support the latest PCIe Gen 4 of 64GB/s bi-directional bandwidth, achieving superior AI computing performance.",
-      "webUrl": "https://www.businesswire.com/news/home/20200622005207/en/Inspur-Launches-New-AI-Servers-Support-Latest",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200622005207/en/799983/23/inspur_logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-22-nvidia-unveils-ai-platform-to-minimize-downtime-in-supercomputing-data-centers.md",
       "title": "NVIDIA Unveils AI Platform to Minimize Downtime in Supercomputing Data Centers",
       "excerpt": "ISC Digital--NVIDIA today unveiled the NVIDIA (R) Mellanox (R) UFM (R) Cyber-AI platform, which minimizes downtime in InfiniBand data centers by harnessing AI-powered analytics to detect security threats and operational issues,",
@@ -1071,52 +1118,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-victoria-police-emails-reveal-clearview-ais-dodgy-direct-marketing.md",
-      "title": "Victoria Police emails reveal Clearview AI's dodgy direct marketing",
-      "excerpt": "Why bother with messy official approvals, tedious legal and privacy assessments, or even ethics when cops use facial recognition? 'Feel free to run wild with your searches,' says Clearview.",
-      "webUrl": "https://www.zdnet.com/article/victoria-police-emails-reveal-clearview-ais-dodgy-direct-marketing/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/21/4255271c-e78c-453d-8441-0131f1324aae/clearvew-email.png",
-          "width": 1138,
-          "height": 960,
-          "title": "Victoria Police emails reveal Clearview AI's dodgy direct marketing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/victoria-police-emails-reveal-clearview-ais-dodgy-direct-marketing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/victoria-police-emails-reveal-clearview-ais-dodgy-direct-marketing/",
-      "publishedDateTime": "2020-06-21T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

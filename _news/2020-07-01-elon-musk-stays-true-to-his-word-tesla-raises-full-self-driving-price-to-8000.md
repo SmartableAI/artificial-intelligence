@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/07/01/elon-musk-stays-true-t
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/01/elon-musk-stays-true-to-his-word-tesla-raises-full.aspx"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     title: "Elon Musk Stays True to His Word: Tesla Raises Full Self-Driving Price to $8,000"
 
 related:
-  - title: "Tesla increases Full Self-Driving price to $8,000 as promised"
-    excerpt: "Driving package to $8,000 as promised, and it may have saved its quarter. The decision to pre-sell a “Full Self-Driving” package in its vehicles years before it planned on making the technology available through the software has been controversial,"
-    publishedDateTime: 2020-07-01T13:19:00Z
-    webUrl: "https://electrek.co/2020/07/01/tesla-increases-full-self-driving-price-8000-promised/"
-    ampWebUrl: "https://electrek.co/2020/07/01/tesla-increases-full-self-driving-price-8000-promised/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/01/tesla-increases-full-self-driving-price-8000-promised/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-new-self-driving-demo-e1555984282698.jpg?quality=82&strip=all"
-        width: 2370
-        height: 1179
-        isCached: true
   - title: "Elon Musk Stays True To His Word: Tesla Raises Full Self-Driving Price To $8,000"
     excerpt: "Keeping consistent with what Elon Musk had suggested in May, Tesla announced today that the cost for the full self-driving (FSD) package is now $8,000 -- a $1,000 increase over its previous price tag."
     publishedDateTime: 2020-07-02T10:51:00Z

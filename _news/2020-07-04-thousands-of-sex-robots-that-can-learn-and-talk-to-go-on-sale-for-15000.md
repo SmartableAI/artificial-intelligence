@@ -8,8 +8,8 @@ ampWebUrl: "https://www.thesun.ie/news/5617392/sex-robots-speak-learn-ai-memory/
 cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/5617392/sex-robots-speak-learn-ai-memory/amp/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Irish Sun
@@ -27,6 +27,22 @@ images:
     title: "Thousands of sex robots that can learn and talk to go on sale for $15,000"
 
 related:
+  - title: "The future of sex: Highly advanced robots that can learn and talk will soon go on sale for £12,000"
+    excerpt: "At Abyss Creations, up to 600 silicone sex dolls are sent out to bedrooms worldwide, including in the UK. They cost anything from $5,999 (£4,800) for a basic model to tens of thousands"
+    publishedDateTime: 2020-07-03T21:55:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8488583/The-future-sex-Highly-advanced-robots-learn-talk-soon-sale-12-000.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8488583/amp/The-future-sex-Highly-advanced-robots-learn-talk-soon-sale-12-000.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8488583/amp/The-future-sex-Highly-advanced-robots-learn-talk-soon-sale-12-000.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 45
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/07/03/22/30367178-0-image-a-89_1593811474494.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Thousands of sex robots which hold conversations were sold out"
     excerpt: "Sex robots which can hold conversations have gone on sale in their thousands for a £12,000 price tag,' says the designers. California based company RealDoll manufactured these"
     publishedDateTime: 2020-07-06T04:53:00Z

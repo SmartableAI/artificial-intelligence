@@ -19,37 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "The robots are coming, and this is how they will change the future of work"
-    excerpt: "Robotic systems have historically been kept separate from humans, and tucked away deep in factory lines. But as robots start mingling with humans in their workplaces, what is work going to look like?"
-    publishedDateTime: 2020-07-01T14:13:00Z
-    webUrl: "https://www.zdnet.com/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/"
+  - title: "The Future of Fintech: AI & Blockchain"
+    excerpt: "74% of banking executives believe AI will transform their industry completely, and 46% of global financial services employees expect blockchain to improve transparency and data management. In The Future of Fintech: AI & Blockchain slide deck, Business ..."
+    publishedDateTime: 2020-07-03T12:56:00Z
+    webUrl: "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/06/30/44b82d2a-c7eb-4458-89bb-a1aeff3fc18b/makrshakr-milanoduomo-bp-5972.jpg"
-        width: 1152
-        height: 768
-        isCached: true
-  - title: "The future of sex: Highly advanced robots that can learn and talk will soon go on sale for £12,000"
-    excerpt: "At Abyss Creations, up to 600 silicone sex dolls are sent out to bedrooms worldwide, including in the UK. They cost anything from $5,999 (£4,800) for a basic model to tens of thousands"
-    publishedDateTime: 2020-07-03T21:55:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8488583/The-future-sex-Highly-advanced-robots-learn-talk-soon-sale-12-000.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8488583/amp/The-future-sex-Highly-advanced-robots-learn-talk-soon-sale-12-000.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8488583/amp/The-future-sex-Highly-advanced-robots-learn-talk-soon-sale-12-000.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 45
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/07/03/22/30367178-0-image-a-89_1593811474494.jpg"
-        width: 636
-        height: 382
+      - url: "https://static.businessinsider.com/image/5e305ac224306a476129d512"
+        width: 400
+        height: 224
         isCached: true
 
 secured: "c7RfQRcOc3j6UK7Sx0+uiLSdbHhciB0plvQL2GAZJRmfAtdsRvlgcIu+a4DOHWS9bHFgc+omWx1Pt6UPO6SUGl8IoLm4y2Xi9FpCTQTtuxZCUzmCzmI+L0A3nC7x/UnqShUMl1x6Tq8pN/Obroe9iQ9uq0HDLc8DnAThqz/Y2HxubzJXU2fkZWQeClDauOXIaaJvF5t4vvXm3S7pD2ZuW1FPdMY6pc4JNjy3liP5zf7Q4H029t6OPDqY1Rh49yRB8b8CrH4WY6/A2JZy6AKNI6P3C3Aewj0/MBjB0HjjxZoNk8txtjgZXO+xWSJXFZ+SWH54Kr49W9Pwy+rEPW9hRA==;sAypwM8uYKWChd1jarpbag=="

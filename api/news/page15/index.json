@@ -2,6 +2,53 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-06-23-c3ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research.md",
+      "title": "C3.ai's Digital Transformation Institute issues awards for data-driven COVID-19 research",
+      "excerpt": "The research projects looked at COVID-19 as well as its impact on housing precarity, eviction and inequality as well as the role of social determinants on health and using data science to detect and understand transmission.",
+      "webUrl": "https://www.zdnet.com/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/",
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/23/02428142-0b66-4a7f-bc5f-747fba9b6ecc/thumbnail/1200x675/65b00467acc2a9c0f0f617b40fbc3806/3-2.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "C3.ai's Digital Transformation Institute issues awards for data-driven COVID-19 research",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/",
+      "publishedDateTime": "2020-06-22T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-folding-based-compression-of-point-cloud-attributes.md",
       "title": "Folding-based compression of point cloud attributes",
       "excerpt": "Folding-based compression of point cloud attributes - mauriceqch/pcc_attr_folding",
@@ -997,53 +1044,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-nvidia-reveals-pcie-40-version-of-its-ampere-a100-gpu.md",
-      "title": "Nvidia reveals PCIe 4.0 version of its Ampere A100 GPU",
-      "excerpt": "Nvidia finally showed off its new 7nm Ampere architecture last month in the form of the A100 GPU. Now, the company has announced a number of A100 powered systems from leading server manufacturers, including Asus,",
-      "webUrl": "https://www.techspot.com/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-22-image-5.jpg",
-          "width": 1800,
-          "height": 1350,
-          "title": "Nvidia reveals PCIe 4.0 version of its Ampere A100 GPU",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
-      "publishedDateTime": "2020-06-22T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,52 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-06-23-worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era.md",
+      "title": "‘World’s First’ Digital Human AI Partner Promises Companionship During Coronavirus Era",
+      "excerpt": "Planned before the coronavirus pandemic erupted, the Hybri app lets users create a partner, friend or family member. Once created, the digital partner or friend comes to life using either VR or AR, with users able to interact with them through either a smartphone alone,",
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef1c3a78d2fdf0006333444%2F0x0.jpg",
+          "width": 1200,
+          "height": 719,
+          "title": "‘World’s First’ Digital Human AI Partner Promises Companionship During Coronavirus Era",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/amp/",
+      "publishedDateTime": "2020-06-23T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-worlds-largest-api-marketplace.md",
       "title": "RapidAPI Expands Support for Microsoft Azure Cognitive Services on the World’s Largest API Marketplace",
       "excerpt": "RapidAPI,the world’s largest API Marketplace that helps developers find and connect to thousands of APIs, announced today that it has added a dozen",
@@ -728,8 +774,8 @@
     {
       "path": "_news/2020-06-23-aws-and-formula-1-announce-new-racing-performance-stats-for-2020-season.md",
       "title": "AWS and Formula 1 Announce New Racing Performance Stats for 2020 Season",
-      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ...",
-      "webUrl": "https://www.businesswire.com/news/home/20200623005380/en/AWS-Formula-1-Announce-New-Racing-Performance/",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), and Formula 1 (F1) (NASDAQ: FWONA, FWONK) are introducing six new, real-",
+      "webUrl": "https://www.businesswire.com/news/home/20200623005380/en/AWS-Formula-1-Announce-New-Racing-Performance",
       "heat": null,
       "tags": null,
       "images": [
@@ -745,7 +791,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T01:50:00-07:00",
+      "publishedDateTime": "2020-06-23T01:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -995,53 +1041,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-c3ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research.md",
-      "title": "C3.ai's Digital Transformation Institute issues awards for data-driven COVID-19 research",
-      "excerpt": "The research projects looked at COVID-19 as well as its impact on housing precarity, eviction and inequality as well as the role of social determinants on health and using data science to detect and understand transmission.",
-      "webUrl": "https://www.zdnet.com/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/",
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/23/02428142-0b66-4a7f-bc5f-747fba9b6ecc/thumbnail/1200x675/65b00467acc2a9c0f0f617b40fbc3806/3-2.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "C3.ai's Digital Transformation Institute issues awards for data-driven COVID-19 research",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/",
-      "publishedDateTime": "2020-06-22T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,45 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-06-04-ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era.md",
+      "title": "AI, machine learning to support digital lending landscape in post-covid era",
+      "excerpt": "Among other sectors, digital payments have experienced a significant boost. Areas such as online grocery stores, online pharmacies, OTT players, EDTechs, online gaming, recharges and utility payments have seen an uptick in digital payments due to a growth in their adoption.",
+      "webUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era-11591291821985.html",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/06/04/600x338/c5507094-a63e-11ea-a5bb-117a420bfddf_1591291821232_1591291923562.jpg",
+          "width": 600,
+          "height": 338,
+          "title": "AI, machine learning to support digital lending landscape in post-covid era",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
+      "publishedDateTime": "2020-06-04T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-scientists-built-an-ai-to-discover-new-stars-in-the-quest-to-explain-our-galaxys-origin.md",
       "title": "Scientists built an AI to discover new stars in the quest to explain our galaxy’s origin",
       "excerpt": "Researchers have used AI system to spot thousands of new stars that could hold clues about the formation of the galaxy",
@@ -1020,53 +1059,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-police-facial-recognition-tech-could-misidentify-people-at-protests-experts-say.md",
-      "title": "Police facial recognition tech could misidentify people at protests, experts say",
-      "excerpt": "How? If the police force in your area is using any kind of facial recognition software to identify protesters, it’s possible you could be misidentified as one. Most facial recognition was ...",
-      "webUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/protest-2020-getty-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Police facial recognition tech could misidentify people at protests, experts say",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?amp",
-      "publishedDateTime": "2020-06-03T17:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

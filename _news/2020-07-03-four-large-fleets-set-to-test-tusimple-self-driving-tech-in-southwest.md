@@ -87,15 +87,6 @@ related:
         width: 1151
         height: 622
         isCached: true
-  - title: "Major fleets partner with self-driving truck developer TuSimple on autonomous freight network"
-    excerpt: "Three major for-hire carriers and a large private fleet have partnered with autonomous truck developer TuSimple to test the company’s self-driving technologies in real-world operations over the next four years. As part of a plan to build out a ..."
-    publishedDateTime: 2020-07-01T13:41:00Z
-    webUrl: "https://www.ccjdigital.com/major-fleets-partner-with-self-driving-truck-developer-tusimple-on-autonomous-freight-network/"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 0
 
 secured: "fUksfLPqa1ICFSW9OdV8dyuw0g4t2b4saLTwB/lsB3W8e+ZjamF7SMn1C8uaSMuHAksiZmbm8HDLA7W4QcNx0xcaZG+bPAvUMR3rL27k/bgxiB9ECYWvMaqg3wR7x7PGjou8POxnOH19v8pN6aGFxd6YJQcnF0VgQGN+5YCGtoXTGGS3wzVnSgfWoCN9b8Rt05u3I/lUmdJ/adNke3yj2RLefLgd7ltMWzAkI5e5XD+mjlJoIwyPM2rSsJE5f5xKOHc4J0flEyUP6kaUWXvx3fGytGmY+dbAQHkjB3UR+ZrFo31itfO4SNWk1jPJw7X3Y9MAMWNtdCyWL8KlmDpZhQ==;UFhWJmJMjp/H9WBdPhv2Sw=="
 ---

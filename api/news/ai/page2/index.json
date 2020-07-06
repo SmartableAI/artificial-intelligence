@@ -2,6 +2,99 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-03-youtube-will-let-ai-suggest-replies-to-video-comments.md",
+      "title": "YouTube Will Let AI Suggest Replies to Video Comments",
+      "excerpt": "Google announced Wednesday that it had implemented its SmartReply system for YouTube creators, which will give those users access to suggested replies based on what someone has commented. Unlike the SmartReply system Google currently uses for Gmail,",
+      "webUrl": "https://gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/tusrvqwjgzwa8v26s2gf.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "YouTube Will Let AI Suggest Replies to Video Comments",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206/amp",
+      "publishedDateTime": "2020-07-02T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-considering-the-american-voice.md",
+      "title": "Considering the American Voice",
+      "excerpt": "Irving Howe wrote for the Book Review about American literature — “moving from visions to problems, from ecstasy to trouble, from self to society” — on July 4, 1976. “Land of the free? Yes, but also home of the exploited.",
+      "webUrl": "https://www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.html",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Considering the American Voice",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.amp.html",
+      "publishedDateTime": "2020-07-02T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-velodyne-becomes-latest-tech-company-to-go-public-using-a-spac-eschewing-the-traditional-ipo-path.md",
       "title": "Velodyne becomes latest tech company to go public using a SPAC, eschewing the traditional IPO path",
       "excerpt": "Velodyne Lidar, the leading supplier of a sensor widely considered critical to the commercial deployment of autonomous vehicles, said Thursday it has struck a deal to merge with special-purpose acquisition company Graf Industrial Corp.",
@@ -601,7 +694,7 @@
       "title": "IBM, Notre Dame Launch Lab to Focus on Tech Ethics",
       "excerpt": "IBM Tech Ethics Lab will conduct research and produce guidelines for governments and businesses on the ethical use of emerging technologies",
       "webUrl": "https://www.wsj.com/articles/ibm-notre-dame-launch-lab-to-focus-on-tech-ethics-11593682202",
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -695,7 +788,7 @@
       "title": "TuSimple kicks off plan for a nationwide self-driving truck network with partners UPS, Xpress and McLane",
       "excerpt": "Self-driving trucks startup TuSimple laid out a plan Wednesday to create a mapped network of shipping routes and terminals designed for autonomous trucking operations that will extend across the United States by 2024.",
       "webUrl": "https://techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/",
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -979,7 +1072,7 @@
       "title": "Elon Musk Stays True to His Word: Tesla Raises Full Self-Driving Price to $8,000",
       "excerpt": "Keeping consistent with what Elon Musk had suggested in May, Tesla (NASDAQ:TSLA) announced today that the cost for the full self-driving (FSD) package is now $8,000 -- a $1,000 in",
       "webUrl": "https://www.fool.com/investing/2020/07/01/elon-musk-stays-true-to-his-word-tesla-raises-full.aspx",
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1151,44 +1244,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-01-enhancing-digital-privacy-by-hiding-images-from-ai.md",
-      "title": "Enhancing digital privacy by hiding images from AI",
-      "excerpt": "In one second, the human eye can only scan through a few photographs. Computers, on the other hand, are capable of performing billions of calculations in the same amount of time. With the",
-      "webUrl": "https://indiaeducationdiary.in/enhancing-digital-privacy-by-hiding-images-from-ai/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/07/Comparison_Images.jpg?fit=960%2C540&ssl=1",
-          "width": 960,
-          "height": 540,
-          "title": "Enhancing digital privacy by hiding images from AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/enhancing-digital-privacy-by-hiding-images-from-ai/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/enhancing-digital-privacy-by-hiding-images-from-ai/?amp",
-      "publishedDateTime": "2020-07-01T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-01-stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments.md",
       "title": "Stanford AI researchers introduce LILAC, reinforcement learning for dynamic environments",
       "excerpt": "Stanford AI Lab (SAIL) researchers created an AI technique called LILAC to allow reinforcement learning algorithms to operate in dynamic environments.",
@@ -1326,45 +1381,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-ethics-in-the-balance-ais-implications-for-government.md",
-      "title": "Ethics in the Balance: AI’s Implications for Government",
-      "excerpt": "As automation becomes an ever-more viable tool for government for everything from cameras on light poles to using AI to set prisoners’ bail, can policymakers ensure it is used responsibly and ethically?",
-      "webUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/taskforce1.jpg",
-          "width": 940,
-          "height": 630,
-          "title": "Ethics in the Balance: AI’s Implications for Government",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
-      "publishedDateTime": "2020-07-01T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

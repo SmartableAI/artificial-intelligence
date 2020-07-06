@@ -2,6 +2,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-03-the-future-of-fintech-ai-blockchain.md",
+      "title": "The Future of Fintech: AI & Blockchain",
+      "excerpt": "74% of banking executives believe AI will transform their industry completely, and 46% of global financial services employees expect blockchain to improve transparency and data management. In The Future of Fintech: AI & Blockchain slide deck, Business ...",
+      "webUrl": "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.businessinsider.com/image/5e305ac224306a476129d512",
+          "width": 400,
+          "height": 224,
+          "title": "The Future of Fintech: AI & Blockchain",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-03T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-where-insights-meet-privacy-privacy-preserving-machine-learning.md",
       "title": "Where Insights Meet Privacy: Privacy-Preserving Machine Learning",
       "excerpt": "As the rise and adoption of AI/ML parallels that of global privacy demand and regulation, businesses must be mindful of the security and privacy considerations associated with leveraging machine learning.",
@@ -1189,45 +1236,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era.md",
-      "title": "AI, machine learning to support digital lending landscape in post-covid era",
-      "excerpt": "Among other sectors, digital payments have experienced a significant boost. Areas such as online grocery stores, online pharmacies, OTT players, EDTechs, online gaming, recharges and utility payments have seen an uptick in digital payments due to a growth in their adoption.",
-      "webUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era-11591291821985.html",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/06/04/600x338/c5507094-a63e-11ea-a5bb-117a420bfddf_1591291821232_1591291923562.jpg",
-          "width": 600,
-          "height": 338,
-          "title": "AI, machine learning to support digital lending landscape in post-covid era",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/amp-11591291821985.html",
-      "publishedDateTime": "2020-06-04T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

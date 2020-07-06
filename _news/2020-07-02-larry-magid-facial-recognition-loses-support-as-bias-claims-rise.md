@@ -47,14 +47,14 @@ related:
   - title: "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business"
     excerpt: "As Black Lives Matter protests swept across the United States, IBM, Amazon and Microsoft took a stand: They halted sales of facial recognition technology to American police departments, and called on the government to regulate the powerful emerging technology."
     publishedDateTime: 2020-07-03T05:43:00Z
-    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/07/02/amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/"
+    webUrl: "https://localnews8.com/money/2020/07/02/amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
+      name: Local News 8
+      domain: localnews8.com
     quality: 6
     images:
-      - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech-860x484.png"
+      - url: "https://localnews8.b-cdn.net/2019/11/Money-logo-new-860x484.jpg"
         width: 860
         height: 484
         isCached: true

@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nati
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/amp/"
 type: article
 quality: 57
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -93,15 +93,6 @@ related:
       name: Overdrive
       domain: overdriveonline.com
     quality: 4
-  - title: "Major fleets partner with self-driving truck developer TuSimple on autonomous freight network"
-    excerpt: "Three major for-hire carriers and a large private fleet have partnered with autonomous truck developer TuSimple to test the company’s self-driving technologies in real-world operations over the next four years. As part of a plan to build out a ..."
-    publishedDateTime: 2020-07-01T13:41:00Z
-    webUrl: "https://www.ccjdigital.com/major-fleets-partner-with-self-driving-truck-developer-tusimple-on-autonomous-freight-network/"
-    type: article
-    provider:
-      name: CCJ
-      domain: ccjdigital.com
-    quality: 0
 
 secured: "dm0tXjBoIZ9Ek2eaolknDNKVpqR53TTjfrUTJKhHM3bef56JM9DZpSmDGGAwcUhnhO2b8N+VBDM1ktSAHH3xb0/vkE3zyJvXdJIm4s9UpHpzpVO56ThZNRmDKYK/EJDdLYZmyDE2qhPWNefofpjqA2c8+v50wA/qhFvE6Y6bkGTq2dwPJsFkQeWVN79Pzb2lW7IzNO1Am/Ei+vfCQuDhHsZGC3bx2zV2g31JlH278aQ+qB0R6QM3t3QK4EVwg7RgEf8inZ4tBwJcUYpGeN4q4DCTS/lDGSq77+OHnvPqADKctTB5SGNSd4XiOXzv1ynhJNZy2RKkjdbJVy65VtYiRdIdcTBS2oDAyMAw6pHkqTh+JdjT1jiIXL8rgiJ5x7mOh5uV3neM+fDCOWlIVd/PDCUAfCdCqtwmHnGKw7MB6kN8qOsoCO1HAaunkqjSCIxoRqOXIU5ivIRN9Elfg7g8nIYFnNDRo7bWhYcwqF7nxSd/18BVSwk7EOIlTJplkF3AyWLR9HLcStELc7mOMuCecA==;vIxc+NiEQU01wwd1uJmpZw=="
 ---

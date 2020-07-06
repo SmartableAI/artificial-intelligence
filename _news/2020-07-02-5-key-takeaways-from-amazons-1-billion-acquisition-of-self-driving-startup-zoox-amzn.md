@@ -54,6 +54,17 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "Beijing opens more roads for testing self-driving cars"
+    excerpt: "Beijing opened 52 additional roads on Tuesday in Haidian District, the capital's tech hub, for the testing of autonomous vehicles"
+    publishedDateTime: 2020-07-02T07:44:00Z
+    webUrl: "https://infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/"
+    ampWebUrl: "https://infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news/beijing-opens-more-roads-for-testing-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 24
   - title: "Amazon Acquires Self-Driving Startup Zoox From Senegalese-Born CEO For Over $1.2bn"
     excerpt: "E-commerce giant Amazon has reportedly forked out more than $1.2 billion to buy the self-driving startup Zoox. On Friday, both companies announced they had signed a"
     publishedDateTime: 2020-07-01T18:04:00Z
@@ -68,6 +79,15 @@ related:
         width: 837
         height: 558
         isCached: true
+  - title: "Video: Amazon acquires self-driving car startup Zoox"
+    excerpt: "Amazon said it will lead Zoox as a standalone business to drive the mission toward developing self-driving vehicles. In the video, Zoox demonstrates a one-hour fully autonomous dr"
+    publishedDateTime: 2020-07-02T12:52:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15380/video-amazon-acquires-self-driving-car-startup-zoox"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "WeiFbaOmQMXwNvYSF5sGpV2cB0M2LzDCH9ovG/M2SaGVRF3TooDsrUaXFzU1q+iqjf5effvy8zXezklzkbps6QB3Tz/eoXN5upf5DQhYIsdYE1N2jaznRZEVqOUcRq2UupuGVqKarklH0QwGWnGBad9BM0S4k1v0ocPflB4ZXlfdYIDg1HBPRLQJidezH829JJNHOmOpLeMAU5FUhd8Jg4v2dqOg1WdMYqRnLmiEq6D+xVchpuRcUq7m66101gIDVSTzFpl87HM/kydXS3UbSQpWePmZctjV0b2Ye+rRQXbO/nWGT5whcOis2k6pteeYGTaCn7niZPJWw5gxFRF3cS5Q0vAHfta6/KIzCB8ACmXE09fdugvkgGYh8yU8EVCi/nKO4x2tF+/joGbwBVuKmw8nA8ccG6xOqO3HzhDgfPnky46IARNhAlGkqIwgHsrOG7Bg2BGCqxteNJPgBKx0SURcsJkpBKZqaP5m3/GJr1ejrAWRuzsR/E+18i5oKUSf;9Tbx5BE/wdpqSx7inIDOiw=="
 ---

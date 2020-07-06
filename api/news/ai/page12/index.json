@@ -2,6 +2,35 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-06-23-adastra-and-ataccama-to-help-organizations-accelerate-their-fight-against-covid-19-offering-data-governance-acceleration-program-on-microsoft-azure.md",
+      "title": "Adastra and Ataccama to Help Organizations Accelerate Their Fight Against COVID-19, offering Data Governance Acceleration Program on Microsoft Azure",
+      "excerpt": "TORONTO, June 23, 2020 /CNW/ - Adastra and Ataccama announced that they will help organizations fight COVID-19 by offering a Data Governance Acceleration Program – implementing AI-driven data governance powered by Microsoft Azure - at no cost to customer ...",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/n16348628/adastra-and-ataccama-to-help-organizations-accelerate-their-fight-against-covid-19-offering-data-g",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16348628",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16348628",
+      "publishedDateTime": "2020-06-23T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-hewlett-packard-enterprise-helps-customers-accelerate-transformation-with-breakthrough-hpe-greenlake-cloud-services.md",
       "title": "Hewlett Packard Enterprise Helps Customers Accelerate Transformation with Breakthrough HPE GreenLake Cloud Services",
       "excerpt": "Cloud services for Machine Learning Operations – Through HPE GreenLake ... HPE Ezmeral software portfolio, and backing from HPE Financial Services and HPE Pointnext Technology Services provide a differentiated solution that competitors cannot match.",
@@ -373,8 +402,8 @@
     {
       "path": "_news/2020-06-23-aws-and-formula-1-announce-new-racing-performance-stats-for-2020-season.md",
       "title": "AWS and Formula 1 Announce New Racing Performance Stats for 2020 Season",
-      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ...",
-      "webUrl": "https://www.businesswire.com/news/home/20200623005380/en/AWS-Formula-1-Announce-New-Racing-Performance/",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), and Formula 1 (F1) (NASDAQ: FWONA, FWONK) are introducing six new, real-",
+      "webUrl": "https://www.businesswire.com/news/home/20200623005380/en/AWS-Formula-1-Announce-New-Racing-Performance",
       "heat": null,
       "tags": null,
       "images": [
@@ -390,7 +419,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T01:50:00-07:00",
+      "publishedDateTime": "2020-06-23T01:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -1178,35 +1207,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-ai-technology-transforms-supply-chain-operations.md",
-      "title": "AI Technology Transforms Supply Chain Operations",
-      "excerpt": "CSO offers the latest information and best practices on business continuity and data protection, best practices for prevention of social engineering scams, malware and breaches, and tips and advice abut security careers and leadership.",
-      "webUrl": "https://www.csoonline.com/resources/204879/ai-technology-transforms-supply-chain-operations",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,52 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-06-03-caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort.md",
+      "title": "Caltech AI lab optimizes exoskeleton gait for human comfort",
+      "excerpt": "Caltech researchers supplemented a lower body exoskeleton with AI that optimizes gait recognition for human preference and comfort.",
+      "webUrl": "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/caltech.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 618,
+          "title": "Caltech AI lab optimizes exoskeleton gait for human comfort",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/amp/",
+      "publishedDateTime": "2020-06-03T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-bbc-voice-assistant-on-windows-10-uses-microsofts-azure-ai.md",
       "title": "BBC voice assistant on Windows 10 uses Microsoft's Azure AI",
       "excerpt": "The BBC's new voice assistant strives to understand people with different accents. It utilizes Azure AI and is available in preview now on Windows 10.",
@@ -1230,44 +1276,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19.md",
-      "title": "Black-Owned Laboratory Uses Artificial Intelligence-Based Drug Discovery Platform to Develop Treatment for COVID-19",
-      "excerpt": "Ennaid Therapeutics uses artificial intelligence (AI)-based drug discovery platforms to develop antiviral drugs. Darnisha Harrison, Louisiana State University grad and founder and CEO of Georgia ...",
-      "webUrl": "https://afro.com/black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.afro.com/wp-content/uploads/2020/06/darnesha-harrison-featured-web.jpg",
-          "width": 1400,
-          "height": 730,
-          "title": "Black-Owned Laboratory Uses Artificial Intelligence-Based Drug Discovery Platform to Develop Treatment for COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Afro",
-        "domain": "afro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

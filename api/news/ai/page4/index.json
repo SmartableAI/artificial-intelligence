@@ -2,6 +2,52 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-30-where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey.md",
+      "title": "Where does your organization stand on the AI curve? (Find out with this survey)",
+      "excerpt": "To learn more about where your company stands now, and how the market is evolving in the AI-first era, take the VB AI Survey now.",
+      "webUrl": "https://venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/wocintechchat.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Where does your organization stand on the AI curve? (Find out with this survey)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/amp/",
+      "publishedDateTime": "2020-06-30T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-save-95-off-this-ultimate-artificial-intelligence-scientist-certification-bundle.md",
       "title": "Save 95% off this Ultimate Artificial Intelligence Scientist Certification Bundle",
       "excerpt": "Be an in-demand, certified tech professional with 87+ hours of content on Python, Tensorflow, Machine and Deep Learning while saving over $750 off the normal cost of this certification.",
@@ -1305,35 +1351,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-ibm-is-it-a-good-investment.md",
-      "title": "IBM: Is “IT” a Good Investment?",
-      "excerpt": "Over the past few years, the company has been transitioning from a computer manufacturer to a leading cloud platform and cognitive solutions company ... AMZN)’s AWS and Microsoft Corporation (NASDAQ:MSFT)’s Azure. Many on Wall Street were optimistic ...",
-      "webUrl": "https://www.insidermonkey.com/blog/ibm-is-it-a-good-investment-847806/?singlepage=1",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

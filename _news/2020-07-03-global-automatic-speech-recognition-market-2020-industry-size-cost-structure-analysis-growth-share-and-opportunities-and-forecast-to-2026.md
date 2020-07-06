@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Car Market 2020 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast to 2023"
+    excerpt: "Jul 06, 2020 (AmericaNewsHour) -- The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn"
+    publishedDateTime: 2020-07-06T07:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-global-covid-19-impact-analysis-trends-opportunities-and-forecast-to-2023-2020-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Artificial Intelligence Market Analysis With Impact of COVID-19, Top Companies, Trends, Demand, Future Opportunity Outlook 2025"
     excerpt: "Europe (Germany, UK, France, Rest of Europe) 5.3 Asia Pacific (China, India, Japan, Rest of Asia Pacific) 5.4 Latin America (Brazil, Argentina, Rest of Latin America) 5.5 Middle East & Africa Competitive Landscape: The major players in the market are as follows: 1."
     publishedDateTime: 2020-07-02T06:05:00Z

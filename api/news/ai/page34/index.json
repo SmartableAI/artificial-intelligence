@@ -2,6 +2,53 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-06-02-self-driving-vehicle-startup-argo-ai-completes-26b-deal-with-volkswagen-expands-to-europe.md",
+      "title": "Self-driving vehicle startup Argo AI completes $2.6B deal with Volkswagen, expands to Europe",
+      "excerpt": "Volkswagen Group finalized Tuesday its $2.6 billion investment into Argo AI, the Pittsburgh-based self-driving car startup that came out of stealth in 2017 with $1 billion in backing from Ford. The deal turns Argo into a global company with two customers — VW and Ford — as well as operations in",
+      "webUrl": "https://techcrunch.com/2020/06/01/self-driving-vehicle-startup-argo-ai-completes-2-6b-deal-with-volkswagen-expands-to-europe/",
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/argo-ai-detroit.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Self-driving vehicle startup Argo AI completes $2.6B deal with Volkswagen, expands to Europe",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/01/self-driving-vehicle-startup-argo-ai-completes-2-6b-deal-with-volkswagen-expands-to-europe/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/01/self-driving-vehicle-startup-argo-ai-completes-2-6b-deal-with-volkswagen-expands-to-europe/amp/",
+      "publishedDateTime": "2020-06-01T23:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-artificial-intelligence-chipset-market-analysis-as-per-the-latest-covid-19-impact.md",
       "title": "Artificial Intelligence Chipset Market Analysis as per the Latest COVID-19 Impact",
       "excerpt": "The global Artificial Intelligence Chipset Market is segregated on the basis of Component as Hardware and Software. Based on Technology the global Artificial Intelligence Chipset market is segmented in Machine Learning,",
@@ -1223,53 +1270,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "RESTON, Va., June 01, 2020 (GLOBE NEWSWIRE) -- ScientiaMobile, today announced the availability of WURFL Microservice in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
-      "webUrl": "https://www.marketwatch.com/press-release/scientiamobiles-wurfl-microservice-now-available-in-the-microsoft-azure-marketplace-2020-06-01",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "ScientiaMobile's WURFL Microservice Now Available in the Microsoft Azure Marketplace",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-01T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

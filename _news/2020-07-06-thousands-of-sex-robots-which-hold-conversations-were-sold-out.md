@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The future of sex: Highly advanced robots that can learn and talk will soon go on sale for £12,000"
+    excerpt: "At Abyss Creations, up to 600 silicone sex dolls are sent out to bedrooms worldwide, including in the UK. They cost anything from $5,999 (£4,800) for a basic model to tens of thousands"
+    publishedDateTime: 2020-07-03T21:55:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8488583/The-future-sex-Highly-advanced-robots-learn-talk-soon-sale-12-000.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8488583/amp/The-future-sex-Highly-advanced-robots-learn-talk-soon-sale-12-000.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8488583/amp/The-future-sex-Highly-advanced-robots-learn-talk-soon-sale-12-000.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 45
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/07/03/22/30367178-0-image-a-89_1593811474494.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "N0kyHidK7xXyX1eK32IYs9puPZcjsPUoNayvcAy1genD0wv91a1FK0iOhKVrOHipkV5zXAbXhmOiXvTZOix1FiRGfpP80uN8ih9CeX6rUrKcGk80N+Q7NMEPyDndIUQnn/jhKwF2cK6cv6Vj4REdC/btxsKYMeyQD2sIaqi31Z+ETbmRvuQM1hLS92Sh6A80SR7arM2DOBP/AevScOT3gwmFXNUiIB9k8KF6ADcTVUhB+sEJOOL5XWprIHd2vekFUc641HSMRa95FgaVyNhslHGD5hWmr5t5W5SGUOe2zT3TyBt6rJd6Swy3awJQK1Q5E03tAlrYf4AD5bpasigL6+NqOomPT4Qv9wCQvjwXFthwxaqRGh259kaBlsI+CDQRiMLxd0HWUb3/t12B6d9TB8z59GNieRj8koLSujsLU3pZfN2khwLXPtvFYI+IXHe5shi9FkREhNYMK0Yw1NziuUnhW76K5JbZ+gRJUsFxyV16P+YBy1EhPjsyDQ65MHkzSDNPBlKvpiRu1SU9zDfc3g==;2AKFAmQmA0KC3egk8qCd7Q=="
 ---
