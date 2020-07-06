@@ -2,16 +2,16 @@
 category: news
 title: "15 hot tech skills getting hotter -- no certification required"
 excerpt: "Employers are apt to invest more often in cash premiums for noncertified tech skills compared to certifications. Here are a few they’re coveting the most now and going forward."
-publishedDateTime: 2020-07-06T17:51:00Z
-webUrl: "https://www.computerworld.com/article/3565179/15-hot-tech-skills-getting-hotter-no-certification-required.html"
+publishedDateTime: 2020-07-06T17:43:00Z
+webUrl: "https://www.idginsiderpro.com/article/3565179/15-hot-tech-skills-getting-hotter-no-certification-required.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: idginsiderpro
+  domain: idginsiderpro.com
 
 topics:
   - Natural Language Processing
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "15 hot tech skills getting hotter -- no certification required"
 
-secured: "iqIewy9kiO9Os39filApNEuT3x3Xhm3XL1PJlHt4zC894d7Ru3gi8Yztoa5xI/GbH2OQZdGbPNjVwHQz9hr4prT8MbUcPkLYZyu90KeV7cb2jWKb6kn7eInnw8xeTlkAgYI4eFb7nYwwxlMpjVjVNVJpVre1d9IDpnQZfg5GXb4wmzMdwp7jCb6SOI5LGaYuNwGGw3FO3jPjTvDAVbGs46deYkGDuYcp+w3gAehCzsbzXKWmdb5u7gVrQadmvnBZAr674WjjFxn0q0IQS37Y/QeQftDXKLkfWeMonlPZ2xzPHYF/WaJT6Dk3y/vo4USyV4h1M63VsXEjWFgc5UgkJA==;fMYvgRaHKMWkTrxkbLZuMA=="
+secured: "21v0Ws0hHt0fgH4P+psJr3PnG8WznEMqwhrrJjKqoim/9PKFJuAl3G+kk+SWRWlUL/PvtawWBER688v2yWbcxPuyPByfNlhudkVyR41fAXePv78OU/YN1SYUpN0obB5KsZ2a7wKOZoVvH3e3xliOp/mHSL6by4vlCB6dGXrcjBIXMeMCDBNpmZ7SvdfvwJ7Q56rNsPoZdlJWlvbZjYDN19J6owAZhNfVbXkVmKi4+NR/7CXuW/RuHOvv/X4fX97UFhi4QhQz8M1NdAhM/sIRPTMNz06yYWAa9wH+SJTMUsK8idrTnKjKbzk7A2OtjiG/jw7KPnL3t+N4+Hlj1l8xkA==;1cmzrS7WUJ0N4BTkIMs+tg=="
 ---
 

@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "TSMC to Build Supercomputing AI Chips, Ramps Wafer-Scale Computing"
+    excerpt: "Wafer-scale computing is moving ahead, and TSMC plans to be at the forefront of the effort with new packaging technology improvements."
+    publishedDateTime: 2020-07-06T18:00:00Z
+    webUrl: "https://www.extremetech.com/computing/312392-tsmc-to-build-supercomputing-ai-chips-ramps-wafer-scale-computing"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 54
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2019/08/cerebras-1-100808712-large-e1566305886625.jpg"
+        width: 1187
+        height: 668
+        isCached: true
 
 secured: "xmWJy2p9QkRp29pazJc7ZbODYS4U356PREJMXZFJDV9nfGPJItegwUn7qjSY9B2a56MWVMS3kIfM9v2P1spQ5Ce8Mp/ngiw++JBzTmdxg1vPE+cnh1SxWiiBAUimSDdojFA5UHAAvC7uHKR3K1dJn1YOD1PMsdyA37kmWIGa0Rkc1er/LJqTXU13u6QHCFcTXpBRouvDR8DkIVyQM2YfIjse8ABTRvgjev2hOWrEkd7fqf4rHUOubj9KHiExkZp2nxV0IadhiLMaQpja7HUspmRqzRbgXpTqbWL+Jh4bEp/zb+TS7azQlA96/JIEM3fPY9VXrUihbRfND5WgUDS1aA==;jqKW1ji2DW15tEktrccAcw=="
 ---

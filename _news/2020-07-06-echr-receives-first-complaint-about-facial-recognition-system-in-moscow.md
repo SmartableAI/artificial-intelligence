@@ -75,6 +75,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Facial recognition technology displays clear racial bias"
+    excerpt: "Across the world and within the United States the use of facial recognition technology is on the rise. Touted as a powerful security tool, facial recognition has been rolled out nationwide with ..."
+    publishedDateTime: 2020-07-06T17:49:00Z
+    webUrl: "https://thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/"
+    ampWebUrl: "https://thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 59
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
+        width: 1250
+        height: 805
+        isCached: true
   - title: "Big Tech's Wish List for National Facial Recognition Law"
     excerpt: "Tech companies want a national facial recognition law that balances consent and transparency. But keep Illinois' Biometric Information Privacy Act and its private right of action out of the discussion,"
     publishedDateTime: 2020-07-06T14:09:00Z

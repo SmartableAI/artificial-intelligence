@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-06T06:12:00Z
 webUrl: "https://www.digitimes.com/news/a20200706PD207.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Digi Times
@@ -25,6 +25,20 @@ images:
     title: "TSMC may commercialize InFO_SoW for supercomputer AI chips in two years"
 
 related:
+  - title: "Reports: TSMC May Commercialize Production of Cerebras-style AI Supercomputing Chips"
+    excerpt: "Published reports state that TSMC (Taiwan Semiconductor Manufacturing Company) may begin commercial production within two years of specialized supercomputer AI chips, an outgrowth of the company’s customized fabrication of the Wafer Scale Engine (WSE) developed by AI start-up Cerebras Systems."
+    publishedDateTime: 2020-07-06T19:48:00Z
+    webUrl: "https://insidehpc.com/2020/07/reports-tsmc-may-commercialize-production-of-cerebras-style-ai-supercomputing-chips/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 47
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/06/Cerebras-Wafer-Scale-Chip-0819.jpg"
+        width: 500
+        height: 531
+        isCached: true
   - title: "Highlights of the day: TSMC eyeing supercomputer chips"
     excerpt: "TSMC has also developed InFO_SoW (system-on-wafer) technology mainly for processing supercomputing AI chips. Demand for such extremely costly chips may be limited, but TSMC looks to commercialize the technology in two years."
     publishedDateTime: 2020-07-06T08:34:00Z

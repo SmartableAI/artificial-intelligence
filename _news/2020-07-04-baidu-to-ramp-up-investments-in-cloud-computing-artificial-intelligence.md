@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/07/03/baidu-to-ramp-up-inves
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/03/baidu-to-ramp-up-investments-in-cloud-computing-ar.aspx"
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "TSMC to Build Supercomputing AI Chips, Ramps Wafer-Scale Computing"
+    excerpt: "Wafer-scale computing is moving ahead, and TSMC plans to be at the forefront of the effort with new packaging technology improvements."
+    publishedDateTime: 2020-07-06T18:00:00Z
+    webUrl: "https://www.extremetech.com/computing/312392-tsmc-to-build-supercomputing-ai-chips-ramps-wafer-scale-computing"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 54
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2019/08/cerebras-1-100808712-large-e1566305886625.jpg"
+        width: 1187
+        height: 668
         isCached: true
 
 secured: "GSUfkJ1BIsdulEumlvlEfQV+0cRz9EOLDJYS/8dLEazUc2NjFNUt93vKFqCm4tE9B+aJ4/q4SMYe0ZiiMI+AF8vE33VgiLgT8LpAVgvJQinmZBoeXZAflLTLR61F1T0PfhjHiYtwZiV285QO5hmMEL3eaica09mbjz7N9Szk0h8ThGTwFLB+vbDsJF/Q7Ny4zQKmzuU9XIrEAqWmHuUqIURbrYaaZYeyJJbOWqPl+1vBaSf9D5v8U7inghd9gUZGbX0MCo69oo6tECb40+5XHau9CwrXlYb103RMFUriYsuGow1JaBSfd0gCtH2YBGh5y1fdRIOpiGA2VU3+5S6e9qKP5QXgLmfp5LAIaABmCRzmOPcMkZEGtxNdZY5igr+q6JB/cgyFa7hVqyypAuE0zUzcBp/UT+igGAXI9MkfUtp5BKAVHczIajIsPOmVT8uvqsSEnlgzMvOVm9n/+1120luLVYHlmnVxxmmtSZJYmamZM/jSjyc0WJepmjoDObJ4;HvL5ILqJxtv/0aG9i7vexg=="

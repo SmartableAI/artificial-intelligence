@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Questex Enters the Artificial Intelligence Information Market, the First Market to Launch through New Fierce Model"
-excerpt: "As companies transform digitally and infrastructure becomes more agile, the prospect of leveraging artificial intelligence (AI) has never been more promising. Questex"
-publishedDateTime: 2020-07-06T17:11:00Z
-webUrl: "https://www.omaha.com/money/consumer/questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-new-fierce/article_b8855bd4-55dd-5927-b899-07e8b8fcfc49.html"
+excerpt: "As companies transform digitally and infrastructure becomes more agile, the prospect of leveraging artificial intelligence (AI) has never been more promising. Questex today announces it has entered the AI marketplace,"
+publishedDateTime: 2020-07-06T17:18:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-new-fierce-model-1029369811"
 type: article
-quality: 17
-heat: 17
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-    title: "Questex Enters the Artificial Intelligence Information Market, the First Market to Launch through New Fierce Model"
-
-secured: "dLSGVZeKCtQ3cFVpGmrVr2vJV63Wz4KtCio7t0DjBnL8R3GmOPFBSButSxUWjePwUs7cwBS6JgmTR2suP12GmEtUoSwo32F6pv5Quf1FVeDpg6HAI9HDKuTPCNp8bLKyD0oCpX5eD1QQlRJwmF65y+m6gYwvVs8ayTn3K0p174UUcDGaQqCm2zagHm+hS3DxLmk4kDwJFRrHGVJIIknVrepvf29mqJM2QczzugoZmWQWsXBYIHuEinT7l9//5JL0ru8h5By3qlLIsoHVPjqn14MdTcdk/xhdv38xyOvJz2Z3paTtpfhz6t+8YXaA5WkNWUkO5AOIvQ+PUrwwvb34QQ==;vPIiO2fZn/p/V8Tum7Z0xg=="
+secured: "wq4g5rIm+2bwBQe1VkXvZEoICirI/ouCgiFKg1ofPF/fzzpYFiSbKHQHAdDExjVc6qg+EMxvdFJGgOZQ2rIlLVa+lFY6HLAJSSd+zTUTDsTE8p9NC8C6hVrmnxNm8dtjNCvox/8dC0hsgVmQ33RHi/gheHhkP1xI6iQ5uyKjqT8bTxxKRBitRZWKC5dDL/d/5/tagqnbMZF8jG3sHxHnjluz95TCgJuQVgB3LbzRmk9cCKJEoVQClA4Twag91kSl5//J8RVqw4/5a0odziX2AWRHpT+r3CVs55i9PgvEjOhTLATk/AuxGai7C3DDNPb2KP/jRGM+Clr8bJm+3BZFSw==;CX1xWW2ANXV+L6HVd5ZsjQ=="
 ---
 

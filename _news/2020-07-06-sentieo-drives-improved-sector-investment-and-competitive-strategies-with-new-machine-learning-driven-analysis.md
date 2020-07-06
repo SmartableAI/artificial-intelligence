@@ -1,27 +1,24 @@
 ---
 category: news
 title: "Sentieo Drives Improved Sector Investment and Competitive Strategies With New Machine Learning-Driven Analysis"
-excerpt: "This latest release brings a new way for equity and corporate analysts to get to performance insights at the sector or peer group level,” said Naman Shah, Co-Founder & President, Sentieo. “Using our leading deep learning models,"
-publishedDateTime: 2020-07-06T10:20:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis-1029368206"
+excerpt: "Sentieo, the leading, next-generation financial and corporate research platform, today announced the availability of its"
+publishedDateTime: 2020-07-06T10:00:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/g16511311/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-dri"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16511311"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16511311"
 type: article
-quality: 31
-heat: 31
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-secured: "JBM7WAc7F7QzNe+40ZHwNLgvdbsH5D1p00ffKJcs8eSjnuE+8O4yBGwig5bOR0ZDS3JAEGPCWX8GifCfxiY1kdoDHgp2FruhrjakF5g4tx//vI5F0Bo7BrVmPMeSXACJ4Px5La4lKuLFAAMX7GgXGUN4922dLWwStnWAk+h8v7IJF9CjaILFbevBSAiht52IOWTblAPKU3NT0tg2BMSj7qkzmjGp3682bZDt9+cA759hhSJAdklFvEY+JU+NXf6GeIeIsk52dhgcusJKRjgKVISNDsbGNs+fsxYc9Fvj9lH7VNTrZXoIkSIgNb0QuOZhtIhfb31pECBJkYkKJmOA6A==;zwyff9Lyz3Ic+AXA+8AUAQ=="
+secured: "uxDcgGl+DQbjg88kWutUSBqL9mtzeLPwrQ1kCglq1s2CJxnL/bpbp9yehlf/2OLiwLJMvJgifXMMn47Ungx1mBi/p/uI68sxB92YIqc16qkNytJ7Rz0j7K4/ZZdGj5Ra2D1fkMkWTDADfN5bOR6crhVMg5/Tq59AbQZyZWoHrawBwumr4lAjp4ce047AEj7nVlNIqc8NFZ9kHw42rs8cLtO+ka5aBdL8t9iRgZs+Io1LcLDRB2dTLD8CtAG+drWKS0okLhkjx58WeGFzKZEVkFGhYsVcekMSwL+brQjysiSdd2RS8xtcZJadQK4PxattyCnW4TamxKDb9RFpWLacXg==;IfSsi9j17pg5WVioJW+row=="
 ---
 

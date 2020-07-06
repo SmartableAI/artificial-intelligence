@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Clearview AI to stop offering facial recognition technology in Canada"
+    excerpt: "Clearview AI, an American company that provides biometric security software, will no longer offer its facial recognition services in Canada."
+    publishedDateTime: 2020-07-06T19:41:00Z
+    webUrl: "https://betakit.com/clearview-ai-to-stop-offering-facial-recognition-technology-in-canada/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 54
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/07/Clearview-AI-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "ZWYfbGUJtx4EKTntTXBRo/C1MG0bVM9gyvv8CaG9PCLd57UaiBKm9gS5Ae3XZHOp9UPO0yLfyzF3uVbnr1mVJ3RJCGDuuMExfGJltsZfEBaPrYD1HMCrAaVZx9vnyRhAHxqDTMdmj1bKabcRmFyPKjJA4Ca2qeKJkcszlHfHpVMUSpl6rtWiKqJ75HDMfnO4btFGU6MtawPZXE7kBrFN4Qs7Fa0GKehUC1XzUM7pNcnbLSM4ZVfFX1kA18AixWdRH+zcORRmmMuDdYs9uLcJ14+JaGti+VMwHmviLDjP5zky2gVA01DAO9sb+giBFQRDwnRIBHBLwtqLYa2x3i8ung==;SL93aZekuxm0QiNM3U70Qw=="
 ---
