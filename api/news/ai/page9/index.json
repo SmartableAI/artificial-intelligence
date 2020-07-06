@@ -2,6 +2,119 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-06-26-new-german-canadian-lab-decodes-the-brain-with-artificial-intelligence.md",
+      "title": "New German-Canadian lab decodes the brain with artificial intelligence",
+      "excerpt": "Canadian lab HIBALL aims to create a microscopic 3D map of functional neuroanatomy at the cellular level with the help of high-performance computing and artificial intelligence.",
+      "webUrl": "https://www.news-medical.net/news/20200625/New-German-Canadian-lab-decodes-the-brain-with-artificial-intelligence.aspx",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "New German-Canadian lab decodes the brain with artificial intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200625/New-German-Canadian-lab-decodes-the-brain-with-artificial-intelligence.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200625/New-German-Canadian-lab-decodes-the-brain-with-artificial-intelligence.aspx",
+      "publishedDateTime": "2020-06-25T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-chatbot-market-growing-at-a-cagr-297-key-player-ibm-nuance-communications-google-aws-artificial-solutions.md",
+      "title": "Chatbot Market Growing at a CAGR 29.7% | Key Player IBM, Nuance Communications, Google, AWS, Artificial Solutions",
+      "excerpt": "Solutions segment to hold a larger market size during the forecast period. Chatbot solutions are gaining traction with the rising need to deliver 24*7 support related services to",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/ab16398820/chatbot-market-growing-at-a-cagr-29-7-key-player-ibm-nuance-communications-google-aws-artificial-",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16398820",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16398820",
+      "publishedDateTime": "2020-06-25T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-generating-compositions-in-the-style-of-bach-using-the-ar-cnn-algorithm-in-aws-deepcomposer.md",
+      "title": "Generating compositions in the style of Bach using the AR-CNN algorithm in AWS DeepComposer",
+      "excerpt": "AWS DeepComposer gives you a creative way to get started with machine learning (ML) and generative AI techniques. AWS DeepComposer recently launched a new generative AI algorithm called autoregressive convolutional neural network (AR-CNN), which allows you to generate music in the style of Bach. In this",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/generating-compositions-in-the-style-of-bach-using-the-ar-cnn-algorithm-in-aws-deepcomposer/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/25/deepcomposer.jpg",
+          "width": 1000,
+          "height": 574,
+          "title": "Generating compositions in the style of Bach using the AR-CNN algorithm in AWS DeepComposer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T16:16:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-ambarellas-ai-vision-processor-meets-automotive-safety-goals-with-mentors-tessent-safety-ecosystem.md",
       "title": "Ambarella’s AI Vision Processor Meets Automotive Safety Goals with Mentor’s Tessent Safety Ecosystem",
       "excerpt": "Mentor, a Siemens business, announced that its Tessent software Safety ecosystem helped artificial intelligence (AI) vision silicon company Ambarella Inc. meet in-system test requirements and achieve ISO26262 automotive safety integrity level (ASIL) goals for its CV22FS and CV2FS automotive camera system-on-chips (SoCs).",
@@ -320,10 +433,57 @@
       ]
     },
     {
+      "path": "_news/2020-06-25-volvo-cars-waymo-partner-to-build-self-driving-vehicles.md",
+      "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
+      "excerpt": "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles.",
+      "webUrl": "https://uk.reuters.com/article/uk-waymo-volvo-autonomous/volvo-cars-waymo-partner-to-build-self-driving-vehicles-idUKKBN23W2V6",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200625&t=2&i=1523643359&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5O27T",
+          "width": 817,
+          "height": 545,
+          "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN23W2V6",
+      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN23W2V6",
+      "publishedDateTime": "2020-06-25T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu.md",
       "title": "Cyberpunk 2077 might run great even without a next-gen GPU",
       "excerpt": "Nvidia confirms Cyberpunk 2077 will support DLSS 2.0. Cyberpunk 2077 is shaping up to be one hell of a wild ride—our own Andy Kelly spent four hours in the game's massive open world and was left hungry for more.",
-      "webUrl": "https://www.pcgamer.com/uk/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
+      "webUrl": "https://www.pcgamer.com/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
       "heat": null,
       "tags": null,
       "images": [
@@ -337,8 +497,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.pcgamer.com/amp/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
       "publishedDateTime": "2020-06-25T12:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -401,35 +561,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-volvo-cars-waymo-partner-to-build-self-driving-vehicles.md",
-      "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
-      "excerpt": "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated \"driver.\" Volvo will design and manufacture the vehicles. The companies ...",
-      "webUrl": "https://www.nasdaq.com/articles/volvo-cars-waymo-partner-to-build-self-driving-vehicles-2020-06-25-0",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/volvo-cars-waymo-partner-to-build-self-driving-vehicles-2020-06-25-0?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/volvo-cars-waymo-partner-to-build-self-driving-vehicles-2020-06-25-0?amp",
-      "publishedDateTime": "2020-06-25T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1180,147 +1311,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup.md",
-      "title": "Mercedes Drops Partnership With BMW, Hooks Up With NVIDIA On Self-Driving: Robocar Roundup",
-      "excerpt": "With the field slowing down, why would Mercedes and BMW end their partnership? Just adding NVIDIA chips isn't enough explanation. Plus, a roundup of other robocar news for the week.",
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/imageserve/5ef431b4816bb40006d1c766/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Mercedes Drops Partnership With BMW, Hooks Up With NVIDIA On Self-Driving: Robocar Roundup",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/amp/",
-      "publishedDateTime": "2020-06-25T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-apples-ai-plan-a-thousand-small-conveniences.md",
-      "title": "Apple’s AI plan: a thousand small conveniences",
-      "excerpt": "Sprinkled throughout Apple’s announcements about iOS, iPadOS, and macOS were a number of features and updates that have machine learning at their heart. Some weren’t announced onstage, and some features that almost certainly use AI weren’t identified as such,",
-      "webUrl": "https://www.theverge.com/2020/6/25/21301511/apple-ai-machine-learning-features-wwdc-2020-convenience",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/-2YBHYjho09Yd9WWECA00opzEn8=/0x0:2556x1634/1400x933/filters:focal(1074x613:1482x1021):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66979576/Screen_Shot_2020_06_22_at_6.54.32_PM.0.png",
-          "width": 1400,
-          "height": 933,
-          "title": "Apple’s AI plan: a thousand small conveniences",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/25/21301511/apple-ai-machine-learning-features-wwdc-2020-convenience",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/25/21301511/apple-ai-machine-learning-features-wwdc-2020-convenience",
-      "publishedDateTime": "2020-06-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-if-done-right-ai-could-make-policing-fairer.md",
-      "title": "If Done Right, AI Could Make Policing Fairer",
-      "excerpt": "Li herself has ridden the ups and downs of the AI boom. In 2017 she joined Google to help, in her words, “democratize” the technology. Not long after, the company, and Li herself, became embroiled in a controversy over supplying AI to the military through an effort known as Maven,",
-      "webUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ef419aeaf3d0a069fd1d59d/master/pass/business_policing_1175954210.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "If Done Right, AI Could Make Policing Fairer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/done-right-ai-make-policing-fairer/amp",
-      "publishedDateTime": "2020-06-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

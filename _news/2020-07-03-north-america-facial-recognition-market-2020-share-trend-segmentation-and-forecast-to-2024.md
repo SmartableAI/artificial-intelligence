@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
+    excerpt: "TORONTO — Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy ..."
+    publishedDateTime: 2020-07-06T20:49:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/07/06/technology/06reuters-clearview-ai-canada.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 84
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Clearview AI to stop offering facial recognition technology in Canada"
     excerpt: "Clearview AI, an American company that provides biometric security software, will no longer offer its facial recognition services in Canada."
     publishedDateTime: 2020-07-06T19:41:00Z
@@ -58,6 +72,20 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2020/07/Clearview-AI-1024x683.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Clearview AI ceases offering its facial recognition technology in Canada"
+    excerpt: "Clearview AI has advised Canadian privacy protection authorities that, in response to their joint investigation, it will cease offering its"
+    publishedDateTime: 2020-07-06T19:43:00Z
+    webUrl: "https://www.newswire.ca/news-releases/clearview-ai-ceases-offering-its-facial-recognition-technology-in-canada-838440431.html"
+    type: article
+    provider:
+      name: Newswire
+      domain: newswire.ca
+    quality: 53
+    images:
+      - url: "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "ZWYfbGUJtx4EKTntTXBRo/C1MG0bVM9gyvv8CaG9PCLd57UaiBKm9gS5Ae3XZHOp9UPO0yLfyzF3uVbnr1mVJ3RJCGDuuMExfGJltsZfEBaPrYD1HMCrAaVZx9vnyRhAHxqDTMdmj1bKabcRmFyPKjJA4Ca2qeKJkcszlHfHpVMUSpl6rtWiKqJ75HDMfnO4btFGU6MtawPZXE7kBrFN4Qs7Fa0GKehUC1XzUM7pNcnbLSM4ZVfFX1kA18AixWdRH+zcORRmmMuDdYs9uLcJ14+JaGti+VMwHmviLDjP5zky2gVA01DAO9sb+giBFQRDwnRIBHBLwtqLYa2x3i8ung==;SL93aZekuxm0QiNM3U70Qw=="

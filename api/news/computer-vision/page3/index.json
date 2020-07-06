@@ -2,6 +2,53 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-11-clearview-ai-still-backs-facial-recognition-despite-competitors-concerns.md",
+      "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
+      "excerpt": "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse.",
+      "webUrl": "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
+      "publishedDateTime": "2020-06-10T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-amazon-pauses-police-use-of-its-facial-recognition-software.md",
       "title": "Amazon Pauses Police Use of Its Facial Recognition Software",
       "excerpt": "The company said it hoped the moratorium “might give Congress enough time to put in place appropriate rules” for the technology.",
@@ -1242,53 +1289,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-greyparrot-bags-22m-seed-to-scale-its-ai-for-waste-management.md",
-      "title": "Greyparrot bags $2.2M seed to scale its AI for waste management",
-      "excerpt": "London-based Greyparrot, which uses computer vision AI to scale efficient processing of recycling, has bagged £1.825 million (~$2.2M) in seed funding, topping up the $1.2M in pre-seed funding it had raised previously.",
-      "webUrl": "https://techcrunch.com/2020/05/28/greyparrot-bags-2-2m-seed-to-scale-its-ai-for-waste-management/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/2480600971_1c62bbb626_k.jpg?w=1024",
-          "width": 1024,
-          "height": 745,
-          "title": "Greyparrot bags $2.2M seed to scale its AI for waste management",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/28/greyparrot-bags-2-2m-seed-to-scale-its-ai-for-waste-management/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/28/greyparrot-bags-2-2m-seed-to-scale-its-ai-for-waste-management/amp/",
-      "publishedDateTime": "2020-05-28T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

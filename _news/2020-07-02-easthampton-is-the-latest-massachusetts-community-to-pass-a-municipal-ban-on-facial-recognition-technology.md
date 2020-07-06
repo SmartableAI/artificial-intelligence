@@ -101,17 +101,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "WA licence photos to be sent east for national facial recognition database"
-    excerpt: "The licence photos, names, addresses, signatures of West Australians will be available to Commonwealth and interstate investigators through a national facial recognition system."
-    publishedDateTime: 2020-07-02T04:04:00Z
-    webUrl: "https://www.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
-    ampWebUrl: "https://amp.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
-    cdnAmpWebUrl: "https://amp-watoday-com-au.cdn.ampproject.org/c/s/amp.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
-    type: article
-    provider:
-      name: WAtoday
-      domain: watoday.com.au
-    quality: 37
 
 secured: "ipJVwLNJSCQmbklC7tMi9uXqcEUMf82qi4uWUDDk6GK6Ljbzl7vwoaDc0JciS9JuhdqwUR/uHICz7TJHvSQhmI+1II8mO4dfcciXjUcnAG6ZGx1WEc9D3vw7n8uItteyYU5E2HYoMcbUviNToFPONSNBCLRdeDOdc86aauFm4kjkCH3xKhHYgeS6I3vY0idwu8wmCSm5gQt5lfTlNFfbtuTSFS9HTjLOkVlTz6vA5IJOM3vlgvI8E9V0hLKRqdqQbYdy8b9hzmKCqVdBbOCOHHTcl1dvuHoTihXJ/okAVmGwRlud06S5yVh/Anugt+diF7XteQ5K/p3EXPbN8Rd93w==;i2lESHfaWpI4HYinF8uMzA=="
 ---

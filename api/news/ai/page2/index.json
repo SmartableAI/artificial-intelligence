@@ -2,6 +2,146 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-04-how-ai-can-empower-communities-and-strengthen-democracy.md",
+      "title": "How AI can empower communities and strengthen democracy",
+      "excerpt": "A look at AI projects and prototypes built with justice in mind to strengthen communities, improve democracies, and defend free societies and people.",
+      "webUrl": "https://venturebeat.com/2020/07/04/how-ai-can-empower-communities-and-strengthen-democracy/",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/06/9-6-14_0217.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": "How AI can empower communities and strengthen democracy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/04/how-ai-can-empower-communities-and-strengthen-democracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/04/how-ai-can-empower-communities-and-strengthen-democracy/amp/",
+      "publishedDateTime": "2020-07-04T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-04-the-main-beneficiaries-of-artificial-intelligence-success-are-it-departments-themselves.md",
+      "title": "The main beneficiaries of artificial intelligence success are IT departments themselves",
+      "excerpt": "Artificial intelligence, seen as the cure-all for a plethora of enterprise shortfalls, from chatbots to better understanding customers to automating the flow of supply chains. However, it is delivering the most impressive results to information technology ...",
+      "webUrl": "https://www.zdnet.com/article/the-main-beneficiaries-of-artificial-intelligence-success-are-it-departments-themselves/",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/13/c1bbec68-98b3-482c-9627-8f5fe1b342e9/thumbnail/1200x675/a5fc858d6d3af5d91e435234616baa12/building-path-station-world-trade-center-ny-cropped-photo-by-joe-mckendrick.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "The main beneficiaries of artificial intelligence success are IT departments themselves",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-main-beneficiaries-of-artificial-intelligence-success-are-it-departments-themselves/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-main-beneficiaries-of-artificial-intelligence-success-are-it-departments-themselves/",
+      "publishedDateTime": "2020-07-04T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-04-an-ai-founders-struggle-to-be-seen-in-the-age-of-black-lives-matter.md",
+      "title": "An AI founder’s struggle to be seen in the age of Black Lives Matter",
+      "excerpt": "With Google opening accelerators for Black and female founders, and with tech execs speaking about equalizing opportunities, I thought I'd at least be able to get a meeting.",
+      "webUrl": "https://venturebeat.com/2020/07/04/an-ai-founders-struggle-to-be-seen-in-the-age-of-black-lives-matter/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/AI_smarts.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 737,
+          "title": "An AI founder’s struggle to be seen in the age of Black Lives Matter",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/04/an-ai-founders-struggle-to-be-seen-in-the-age-of-black-lives-matter/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/04/an-ai-founders-struggle-to-be-seen-in-the-age-of-black-lives-matter/amp/",
+      "publishedDateTime": "2020-07-04T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-04-thousands-of-sex-robots-that-can-learn-and-talk-to-go-on-sale-for-15000.md",
       "title": "Thousands of sex robots that can learn and talk to go on sale for $15,000",
       "excerpt": "A ROBOT doll which can hold conversations, learn and has a “personality” is set to revolutionise the billion dollar sex tech market. The $15,000 silicone doll, which looks like a",
@@ -187,7 +327,7 @@
       "title": "EU Once Again Considers Facial Recognition Ban",
       "excerpt": "The European Union is once again considering a ban on facial recognition. The possibility of a temporary ban surfaced in an early draft of a European Commission white paper in January, but those plans were eventually abandoned in the final draft of the paper.",
       "webUrl": "https://findbiometrics.com/eu-once-again-considers-facial-recognition-ban-070301/",
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -413,7 +553,7 @@
       "title": "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says",
       "excerpt": "Facial-recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief.",
       "webUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6",
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1142,7 +1282,7 @@
       "title": "My Invisalign app uses machine learning and facial recognition to sell the benefits of dental work",
       "excerpt": "Align Technology's Chief Digital Officer Sreelakshmi Kolli is using machine learning and DevOps tactics to power the company's digital transformation. Kolli led the cross-functional team that developed the latest version of the company's My Invisalign app.",
       "webUrl": "https://www.techrepublic.com/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/",
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1230,138 +1370,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-connecting-the-industrial-internet-of-things-with-smart-ai-objects.md",
-      "title": "Connecting The Industrial Internet Of Things With Smart AI Objects",
-      "excerpt": "John Clemons is a Consultant for Rockwell Automation and Maverick Technologies, a leading platform-independent automation solutions provider Smart manufacturing, Industry 4.0 and the industrial internet of things (IIoT) are discussed constantly in the manufacturing world.",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/connecting-the-industrial-internet-of-things-with-smart-ai-objects/",
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/connecting-the-industrial-internet-of-things-with-smart-ai-objects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/02/connecting-the-industrial-internet-of-things-with-smart-ai-objects/amp/",
-      "publishedDateTime": "2020-07-02T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-where-insights-meet-privacy-privacy-preserving-machine-learning.md",
-      "title": "Where Insights Meet Privacy: Privacy-Preserving Machine Learning",
-      "excerpt": "As the rise and adoption of AI/ML parallels that of global privacy demand and regulation, businesses must be mindful of the security and privacy considerations associated with leveraging machine learning.",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/where-insights-meet-privacy-privacy-preserving-machine-learning/",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efcc8f4cdc22100069576cc%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Where Insights Meet Privacy: Privacy-Preserving Machine Learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/where-insights-meet-privacy-privacy-preserving-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/02/where-insights-meet-privacy-privacy-preserving-machine-learning/amp/",
-      "publishedDateTime": "2020-07-02T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-fraudscope-raises-7-million-to-tackle-health-care-fraud.md",
-      "title": "FraudScope Raises $7 Million to Tackle Health-Care Fraud",
-      "excerpt": "Venture capitalists are betting that startup FraudScope can help health insurers combat fraudulent claims, which cost them billions of dollars and are a growing concern because of the coronavirus pandemic.",
-      "webUrl": "https://www.wsj.com/articles/fraudscope-raises-7-million-to-tackle-health-care-fraud-11593682200",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-205009/social",
-          "width": 1280,
-          "height": 640,
-          "title": "FraudScope Raises $7 Million to Tackle Health-Care Fraud",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-02T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

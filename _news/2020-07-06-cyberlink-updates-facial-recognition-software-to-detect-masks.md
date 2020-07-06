@@ -1,0 +1,63 @@
+---
+category: news
+title: "CyberLink updates facial recognition software to detect masks"
+excerpt: "CyberLink Corp. has updated its facial recognition software, FaceMe, to detect if users are wearing masks. The software can detect if users are wearing a variety of masks such as medical, cloth, fiber or N95 masks,"
+publishedDateTime: 2020-07-06T13:32:00Z
+webUrl: "https://www.digitalsignagetoday.com/news/cyberlink-updates-facial-recognition-software-to-detect-masks/"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Digital Signage
+  domain: digitalsignagetoday.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://nmgprod.s3.amazonaws.com/media/files/6f/5d/6f5db33eb9f9e376da43e8199eaa1155/3/social_image_11.png.760x400_q85_crop_upscale.png"
+    width: 760
+    height: 400
+    isCached: true
+    title: "CyberLink updates facial recognition software to detect masks"
+
+related:
+  - title: "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says"
+    excerpt: "Facial-recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief."
+    publishedDateTime: 2020-07-03T14:50:00Z
+    webUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6"
+    ampWebUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Detroit police challenged over face recognition flaws, bias"
+    excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police. And"
+    publishedDateTime: 2020-07-03T09:01:00Z
+    webUrl: "https://www.pressofatlanticcity.com/news/national/detroit-police-challenged-over-face-recognition-flaws-bias/article_f461240c-bc52-535d-988e-6d4a49abe01d.html"
+    ampWebUrl: "https://www.pressofatlanticcity.com/news/national/detroit-police-challenged-over-face-recognition-flaws-bias/article_f461240c-bc52-535d-988e-6d4a49abe01d.amp.html"
+    cdnAmpWebUrl: "https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/news/national/detroit-police-challenged-over-face-recognition-flaws-bias/article_f461240c-bc52-535d-988e-6d4a49abe01d.amp.html"
+    type: article
+    provider:
+      name: The Press of Atlantic City
+      domain: pressofatlanticcity.com
+    quality: 59
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/4/42/4422327a-85d0-5e2a-8fe0-58d37d23f9f1/5ef3474fd3e4e.image.jpg?resize=1024%2C738"
+        width: 1024
+        height: 738
+        isCached: true
+
+secured: "86oPN3yFLSsjOd67HN+aG7DwaoBGKr1EHLn/yoO7vwHeSSDRILWgzQkF49mnIergecYQ/LtFS5epFyyIpNsBMYSzXUUaV9DUvLBLvtaAX+M47cgrmIzxlYudx8vHmLjmQmmGQwZxWQVN+agnfLcNW6dE2b61TJ5cIeUBFAj6EnIn+a+fMfpJ1MuBfGSpRViftkjW7I2AweHCzalrxPjym4JthphSiSOjCWFB62033ZzSp7zbv/2e1bOCDWrpVxMLWoowORQE5KToMHxdZ39/gjgbI2c969WoR1ohEW+EKsxND8LhmnO47moLDzHcL178EN28YkwmFKkZ6V+pgkMCiA==;sixY32zq1k/KvnCup3v3Xg=="
+---
+

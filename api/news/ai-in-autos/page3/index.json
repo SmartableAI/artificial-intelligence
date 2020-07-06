@@ -2,6 +2,35 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-11-deal-looking-for-an-exciting-cutting-edge-career-dive-into-artificial-intelligence.md",
+      "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
+      "excerpt": "Artificial intelligence, as it’s more commonly referred, is just starting to break out into the mainstream through applications like self driving cars and analytical software. Those who have ...",
+      "webUrl": "https://pocketnow.com/artificial-intelligence-deal",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pocketnow.com",
+        "domain": "pocketnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-cruise-is-using-food-bank-deliveries-as-cover-to-run-tests-that-may-violate-stay-home-orders-drivers-say.md",
       "title": "Cruise is using food bank deliveries as cover to run tests that may violate stay-home orders, drivers say",
       "excerpt": "Cruise’s self-driving cars are back on the road in San Francisco, but the company may be skirting the city’s shelter-in-place rules in its rush to get there, some of the company’s backup ...",
@@ -1245,54 +1274,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-all-you-need-to-know-about-symbolic-artificial-intelligence.md",
-      "title": "All you need to know about symbolic artificial intelligence",
-      "excerpt": "Today, artificial intelligence is mostly about artificial neural networks and deep learning. But this is not how it always was. In fact, for most of its six-decade history, the field was dominated by symbolic artificial intelligence,",
-      "webUrl": "https://thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-3-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "All you need to know about symbolic artificial intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-06-02T01:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -2,10 +2,10 @@
 category: news
 title: "Cambricon to raise $367.8 million in IPO amid Chinese chip fever"
 excerpt: "AI chipmaker Cambricon Technologies Corp <688256.SS> said it will raise 2.58 billion yuan ($367.76 million) in its Shanghai initial public offering after pricing the listing at 64.39 yuan a share."
-publishedDateTime: 2020-07-06T16:05:00Z
-webUrl: "https://uk.reuters.com/article/us-china-cambricon-ipo/cambricon-to-raise-367-8-million-in-ipo-amid-chinese-chip-fever-idUKKBN247245"
-ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKKBN247245"
-cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN247245"
+publishedDateTime: 2020-07-06T15:58:00Z
+webUrl: "https://www.reuters.com/article/us-china-cambricon-ipo-idUSKBN247245"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN247245"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN247245"
 type: article
 quality: 84
 heat: 94
@@ -36,6 +36,6 @@ related:
       domain: nasdaq.com
     quality: 84
 
-secured: "GTvmIbQG1zBoO8jSXkZTF8cDDkxUFs5C4MkAMWTfthnULDhl89bYhL7hg8xS1NyH7hlFLDNFlti5gXlG56hPs904TC1Kzv42oqlYmGkzvPytBSW9d+2OhBkQTcAgDK80bHAE/aLjU6XWqkMPIjIooH6r48YAHfP95C9WmyuOl6x9yfSBjj4+nIDe7K39O0jXfuOli8Lyu7v8ZrLhXZnU+SyDJnHLwyu3uFWNEo8cQ8TC/h29s2jZdIO+JfJau2IVmnPePTEUB7wNCYUmHY7jqSMoKyM5nLZG3ii6RCxYjM25gn4IKAKzdIOJxGmcRbQEx1810R0ApwEMQW0uWhXlxw==;A7Em8tHWVdp4twkZN85e2g=="
+secured: "P7UnnlAwix2bSMUM43F7V/WWNjbrMC17EWoDHc26Jg0YrCM9q30URriEHwQhWICmp1k/LlYMJ5vzbPo56dRyOUSg2D/MjeHrbxQ8VJ5bb2lE4/NNRMPiQviIIarhXBdo+wznMUkX3AItPhfoHMIMD1t6A4cwex6AhrwB6vSidJP9q+6QC/nkuQEuR+jNTPj4NFautgvcwSEEor2k+6ewxBgpYSZdC1qWsTIj3Fcm1CFmOb6F9hKkRlBhrhiuKk90OQl4fo5aNmYBzSswIVL4m2iTii5dh0pE6acGT2MxQi5Zu5wLQ5nANssgSg0KyBRHO02GFmtKIWagJXOdAuFZ3w==;Sbd2DvXymlSZDZBUMsJv2g=="
 ---
 

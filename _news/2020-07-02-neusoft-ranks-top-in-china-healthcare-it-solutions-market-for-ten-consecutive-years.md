@@ -24,6 +24,17 @@ images:
     isCached: true
     title: "Neusoft Ranks Top in China Healthcare IT Solutions Market for Ten Consecutive Years"
 
+related:
+  - title: "Design Competence: Sean Carney on Data-Connected Solutions in Healthcare"
+    excerpt: "The chief design officer at Philips explains why success rests on AI-powered medtech solutions. During a time of quarantine, moving an in-person conference to an online platform is a prudent move. Sean Carney,"
+    publishedDateTime: 2020-07-06T20:52:00Z
+    webUrl: "https://www.machinedesign.com/automation-iiot/article/21135887/design-competence-sean-carney-on-dataconnected-solutions-in-healthcare"
+    type: article
+    provider:
+      name: Machine Design
+      domain: machinedesign.com
+    quality: 18
+
 secured: "LVzqElGw2r2hAINkgUHEg/g+X6Mpug+DuEE6nFjfA9yzfkZh2BFJWiWshlpNZ+WjhK0U/ypmrPgUqSAwx8d8/x4iCcF+BrI/gOTzRMPowsgUoFMwlMk4+OdYYDCRMf8ydYxBbmU8e1lXio/HF/y7B2GiJjMghYH6WW7Cor7ZLEHGU9ugo6ogQdc1wYOMRdCjAvz9o3X2V7uB/ss8+FXqIX/40/ICfIYHmo72S108aK9Z//9z1CdyMphZ+JCKGB29dwB9aCLxMA7TrCHvZbeb+mOwZzjp+dS7X3KqhDRn+Q7J1fI7Wy1FDLynktwx/breTQd3U6e83oALuonBKiYhQg==;Z/OZppe21yOvQyaynIV7iA=="
 ---
 

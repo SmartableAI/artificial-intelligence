@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "CyberLink updates facial recognition software to detect masks"
+    excerpt: "CyberLink Corp. has updated its facial recognition software, FaceMe, to detect if users are wearing masks. The software can detect if users are wearing a variety of masks such as medical, cloth, fiber or N95 masks,"
+    publishedDateTime: 2020-07-06T13:32:00Z
+    webUrl: "https://www.digitalsignagetoday.com/news/cyberlink-updates-facial-recognition-software-to-detect-masks/"
+    type: article
+    provider:
+      name: Digital Signage
+      domain: digitalsignagetoday.com
+    quality: 39
+    images:
+      - url: "https://nmgprod.s3.amazonaws.com/media/files/6f/5d/6f5db33eb9f9e376da43e8199eaa1155/3/social_image_11.png.760x400_q85_crop_upscale.png"
+        width: 760
+        height: 400
+        isCached: true
 
 secured: "HLO1PC1nK+W1HmI2+l0SO5rX0i6qF+xBjA+PqlK2sFd00mfo6xnk7J8i9iM6Jk+0BfVnPhcHo+nncacdWsKabCiFpYR+3SXDjpNCARqhJDYI8X+l21bIUnfVPToF5iriYzds2WuJE8u4kM1nBEnHcVobOpnRhjkBNYgjeToFl3CpzHtp0+aFZD2TDgjS3askDpE7Tii1kQJromkrFCrj7VIn7N7EuqkoP/JZFU2BAz5h4zMWoa/UZ0TidJ40maDcrDY/ywxudLkcQZ/W9S7oIz7L79nHtOztEph/0r6jCHMYpw71a/b+gjstSpBEI7aN+zKgR/zrvXTS/grwZIo0KQ==;gXoiQoM3P6NQhgpP6kSkhQ=="
 ---

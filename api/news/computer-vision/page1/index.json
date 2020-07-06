@@ -2,6 +2,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-06-clearview-ai-will-stop-offering-facial-recognition-software-in-canada-privacy-officials-say.md",
+      "title": "Clearview AI will stop offering facial recognition software in Canada, privacy officials say",
+      "excerpt": "Clearview AI, the controversial U.S.-based technology firm, will no longer make its facial recognition software available in Canada, according to federal and provincial privacy authorities. A statement issued by the Office of the Privacy Commissioner of Canada on Monday said Clearview had advised officials of the move in response to an ongoing investigation by privacy authorities.",
+      "webUrl": "https://www.cbc.ca/news/technology/clearview-ai-stops-facial-recognition-in-canada-1.5639380",
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.5639386.1594063251!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/clearview-ai.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "Clearview AI will stop offering facial recognition software in Canada, privacy officials say",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.5639380",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5639380",
+      "publishedDateTime": "2020-07-06T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-computer-vision-have-you-seen-the-light.md",
       "title": "Computer vision – have you seen the light?",
       "excerpt": "From detecting tumours to identifying wear in machines, computer vision can help improve our world – but not everything is plain sailing",
@@ -53,7 +91,7 @@
       "title": "EU Once Again Considers Facial Recognition Ban",
       "excerpt": "The European Union is once again considering a ban on facial recognition. The possibility of a temporary ban surfaced in an early draft of a European Commission white paper in January, but those plans were eventually abandoned in the final draft of the paper.",
       "webUrl": "https://findbiometrics.com/eu-once-again-considers-facial-recognition-ban-070301/",
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -139,7 +177,7 @@
       "title": "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says",
       "excerpt": "Facial-recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief.",
       "webUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6",
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -225,7 +263,7 @@
       "title": "My Invisalign app uses machine learning and facial recognition to sell the benefits of dental work",
       "excerpt": "Align Technology's Chief Digital Officer Sreelakshmi Kolli is using machine learning and DevOps tactics to power the company's digital transformation. Kolli led the cross-functional team that developed the latest version of the company's My Invisalign app.",
       "webUrl": "https://www.techrepublic.com/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/",
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1278,44 +1316,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-what-to-know-about-computer-vision-syndrome.md",
-      "title": "What To Know About Computer Vision Syndrome",
-      "excerpt": "Computer vision syndrome (CVS) is the term for a group of eye and vision-related problems that develop following the prolonged use of devices with digital screens.",
-      "webUrl": "https://southfloridareporter.com/what-to-know-about-computer-vision-syndrome/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/southfloridareporter/wp-content/uploads/2020/06/20183231/asian-woman-worker-eye-pain-with-eyeglasses_34670-739.jpg",
-          "width": 626,
-          "height": 417,
-          "title": "What To Know About Computer Vision Syndrome",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-20T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SouthFlorida Reporter",
-        "domain": "southfloridareporter.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -5,14 +5,14 @@
       "path": "_news/2020-07-06-cambricon-to-raise-3678-million-in-ipo-amid-chinese-chip-fever.md",
       "title": "Cambricon to raise $367.8 million in IPO amid Chinese chip fever",
       "excerpt": "AI chipmaker Cambricon Technologies Corp <688256.SS> said it will raise 2.58 billion yuan ($367.76 million) in its Shanghai initial public offering after pricing the listing at 64.39 yuan a share.",
-      "webUrl": "https://uk.reuters.com/article/us-china-cambricon-ipo/cambricon-to-raise-367-8-million-in-ipo-amid-chinese-chip-fever-idUKKBN247245",
+      "webUrl": "https://www.reuters.com/article/us-china-cambricon-ipo-idUSKBN247245",
       "heat": 94,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN247245",
-      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN247245",
-      "publishedDateTime": "2020-07-06T09:05:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN247245",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN247245",
+      "publishedDateTime": "2020-07-06T08:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -320,7 +320,7 @@
       "path": "_news/2020-06-29-cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise.md",
       "title": "cnvrg.io Collaborates With Red Hat to Deliver an Accelerated Production ML Workflow With MLOps on Red Hat OpenShift for the AI Enterprise",
       "excerpt": "PRNewswire/ -- cnvrg.io, the data science platform simplifying model management and introducing advanced MLOps to the industry, today announced",
-      "webUrl": "https://www.prnewswire.com/news-releases/cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise-301084968.html",
+      "webUrl": "https://www.prnewswire.com/il/news-releases/cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise-301084968.html",
       "heat": null,
       "tags": null,
       "images": [
@@ -336,7 +336,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T06:00:00-07:00",
+      "publishedDateTime": "2020-06-29T13:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",
@@ -510,7 +510,7 @@
       "path": "_news/2020-06-25-cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu.md",
       "title": "Cyberpunk 2077 might run great even without a next-gen GPU",
       "excerpt": "Nvidia confirms Cyberpunk 2077 will support DLSS 2.0. Cyberpunk 2077 is shaping up to be one hell of a wild ride—our own Andy Kelly spent four hours in the game's massive open world and was left hungry for more.",
-      "webUrl": "https://www.pcgamer.com/uk/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
+      "webUrl": "https://www.pcgamer.com/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
       "heat": null,
       "tags": null,
       "images": [
@@ -524,8 +524,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.pcgamer.com/amp/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
       "publishedDateTime": "2020-06-25T12:04:00-07:00",
       "updatedDateTime": null,
       "provider": {

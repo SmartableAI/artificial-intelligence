@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
+    excerpt: "TORONTO — Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy ..."
+    publishedDateTime: 2020-07-06T20:49:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/07/06/technology/06reuters-clearview-ai-canada.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 84
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "North America Facial Recognition Market 2020 Share, Trend, Segmentation And Forecast To 2024"
     excerpt: "Facial Recognition Industry Description The Global Facial Recognition market is projected to reach $8.74 billion"
     publishedDateTime: 2020-07-03T19:48:00Z
@@ -55,7 +69,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Clearview AI ceases offering its facial recognition technology in Canada"
+    excerpt: "Clearview AI has advised Canadian privacy protection authorities that, in response to their joint investigation, it will cease offering its"
+    publishedDateTime: 2020-07-06T19:43:00Z
+    webUrl: "https://www.newswire.ca/news-releases/clearview-ai-ceases-offering-its-facial-recognition-technology-in-canada-838440431.html"
+    type: article
+    provider:
+      name: Newswire
+      domain: newswire.ca
+    quality: 53
+    images:
+      - url: "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png"
+        width: 600
+        height: 315
+        isCached: true
 
-secured: "GORtmrCUt8p9ahnSujWm5/QPcKUWnkBdeKDMF98TnkGUR68NZSFwTGy2ZuMRP7+jvj1wbp1aSbmMjO3UKZyEM3ffmWAvE6FLbaWFH5cs4N65pbpcVm1ac6D0703Cv3UnUOkokchTwtcLyKJ1D3xNxQ1u1RHzmFPsfERgC8uoForq/8XhOKf4tcAl6kxgCkzZtcvKwGGKye3m1d58BRIuz+H3g4ha0rSaGJyEyKnkMZ6EdQvF0OWKYuYqeEk/ic5+ncFmDvrfAXs3hS2fo+kpZikPXJ4flilAyLPCMePsC07K1FBPFmne7W5v5PlJx1w4PZEkeDRA9/bZPq4NDXr85g==;WGYZTmNUiPmLKWy2h4UFCQ=="
+secured: "GDpi/MGS6vfyqlWE6DMlEQzu8bzs8bVcxCAY3vh3zur1850/ct3zp7R9b6vBTDLWivjgD1VbvgwlSKpHt2lJFd4RJaL+RDucxLLE+zsHkLfNwGly08V12N+Or2yIT96DB2xMhyewHSIFUEpqLDfKwmHgHOWWryLOkdSf7akqamPNsktIJkziXEtC/n9bfm6JSS2C/9P93HQ1dJP0Xc1dttTzqCfOGA5EwtRDAOgZE/Ufh2j90fGK5fMTMxqjRArwhxSNFGas/7RsOj8HysG028LvcB3iuu2D1X07SpUArZaT5BGNW2Qxosek+D4kRY35B3smWmZ3auk0fMJ48oyZ/TGs85e3d/3lis4huyFN4RVs5JvmqA8EYdByddOQlOGybahdYc6Amt3rQtTZJ8on8uw5ss9mwVXhzxfQG/27ZmaIGa6KYITpfz8zUuLIV1f1+MK4e5HkfOdS45qLDwN/J3FUsva5F1sE7uVLJJx+wRefyOxTv6csF7e35/RMwgjaGj+KJuPyg9Wk5LqlXhPZgA==;jIHF+R+ezltWbdO3NxOKBg=="
 ---
 

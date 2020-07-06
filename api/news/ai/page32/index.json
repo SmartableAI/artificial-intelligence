@@ -2,6 +2,137 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-06-04-iihs-study-finds-self-driving-cars-may-only-avoid-a-third-of-crashes.md",
+      "title": "IIHS study finds self-driving cars may only avoid a third of crashes",
+      "excerpt": "An IIHS study suggests that self-driving cars might only avoid a third of existing crashes unless they prioritize safety above all else.",
+      "webUrl": "https://www.engadget.com/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html",
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2Fb618a410-3970-11ea-afd7-78fc2104beb5&client=amp-blogside-v2&signature=2adb1b3feaaf29682c22943c45bad82071d5e703",
+          "width": 600,
+          "height": 350,
+          "title": "IIHS study finds self-driving cars may only avoid a third of crashes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html",
+      "publishedDateTime": "2020-06-04T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-how-to-start-a-career-in-big-data-and-machine-learning-for-less-than-40.md",
+      "title": "How to Start a Career in Big Data and Machine Learning for Less Than $40",
+      "excerpt": "According to a recent study, as many as 95 percent of companies have to manage some kind of unstructured data. Forty percent of those companies have to do so on a frequent basis. The world isn't just trending towards using big data infrastructure.",
+      "webUrl": "https://www.stamfordadvocate.com/business/article/How-to-Start-a-Career-in-Big-Data-and-Machine-15316490.php",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/12/31/04/19501369/23/rawImage.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": "How to Start a Career in Big Data and Machine Learning for Less Than $40",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-04-measuring-ai-performance-on-mobile-devices-and-why-it-matters.md",
+      "title": "Measuring AI Performance On Mobile Devices And Why It Matters",
+      "excerpt": "It will be incumbent upon these benchmark app developers and the press to sort through the finer points of what makes for a quality mobile AI benchmark, and also what is a truer measure of performance for your own personal pocket AI assistant.",
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2020/06/04/measuring-ai-performance-on-mobile-devices-and-why-it-matters/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed908fc0a0c710006933ed3%2F0x0.jpg",
+          "width": 800,
+          "height": 444,
+          "title": "Measuring AI Performance On Mobile Devices And Why It Matters",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2020/06/04/measuring-ai-performance-on-mobile-devices-and-why-it-matters/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/06/04/measuring-ai-performance-on-mobile-devices-and-why-it-matters/amp/",
+      "publishedDateTime": "2020-06-04T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-insights-on-the-us-natural-language-processing-industry-to-2025-featuring-google-ibm-microsoft-among-others-researchandmarketscom.md",
       "title": "Insights on the US Natural Language Processing Industry to 2025 - Featuring Google, IBM & Microsoft Among Others - ResearchAndMarkets.com",
       "excerpt": "The \"United States Natural Language Processing Market By Component (Software and Services), By Deployment (On-Premise, Cloud), By Organization Size (SME's Vs Large Enterprises), By Type, By Application,",
@@ -1137,147 +1268,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-cvs-launches-pilot-program-for-self-driving-vehicles-to-deliver-prescriptions.md",
-      "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
-      "excerpt": "And last month, the pharmacy giant started a test program that uses flying drones to deliver medicine to customers.",
-      "webUrl": "https://www.fool.com/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F577101%2Fself-driving-vehicle.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 569,
-          "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
-      "publishedDateTime": "2020-06-03T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-how-google-is-using-emerging-ai-techniques-to-improve-language-translation-quality.md",
-      "title": "How Google is using emerging AI techniques to improve language translation quality",
-      "excerpt": "Google Translate is quantifiably improving across 108 languages thanks in part to new AI and machine learning techniques.",
-      "webUrl": "https://venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/google-reuters-e1586941024905.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "How Google is using emerging AI techniques to improve language translation quality",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/amp/",
-      "publishedDateTime": "2020-06-03T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor.md",
-      "title": "LightOn researchers explain how they trained an AI model on an optical co-processor",
-      "excerpt": "In a new paper, researchers at LightOn managed to train an AI model on an optical chip and achieve over 95% accuracy on a popular data set.",
-      "webUrl": "https://venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/AI_winter-e1591205079457.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "LightOn researchers explain how they trained an AI model on an optical co-processor",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/amp/",
-      "publishedDateTime": "2020-06-03T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

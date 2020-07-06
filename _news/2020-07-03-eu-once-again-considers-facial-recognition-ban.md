@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-03T18:59:00Z
 webUrl: "https://findbiometrics.com/eu-once-again-considers-facial-recognition-ban-070301/"
 type: article
 quality: 56
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -102,17 +102,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "WA licence photos to be sent east for national facial recognition database"
-    excerpt: "The licence photos, names, addresses, signatures of West Australians will be available to Commonwealth and interstate investigators through a national facial recognition system."
-    publishedDateTime: 2020-07-02T04:04:00Z
-    webUrl: "https://www.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
-    ampWebUrl: "https://amp.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
-    cdnAmpWebUrl: "https://amp-watoday-com-au.cdn.ampproject.org/c/s/amp.watoday.com.au/national/western-australia/wa-licence-photos-to-be-sent-east-for-national-facial-recognition-database-20200701-p5583u.html"
-    type: article
-    provider:
-      name: WAtoday
-      domain: watoday.com.au
-    quality: 37
 
 secured: "MTTIEfz4NqtuOSukuS0fNDYIehoprg5CA76erv+zd6fVHKsdvnu4tS+/UzDXaeqh6bxUfMv0Mh6YxvBfhIv4sDsJhrVuvNx4PCpXQ64CpalrmsEX2ejGxRrf34JPFBVwhCi78slDKBnN2GqoavWGThZ6nCA45BK6WifsfD3yvtWPSXuG1tM2/TAMk7mPIr6ErSArpq7evFxP2vKEMqSrwLDbH1MtZ0q9J8yzlfTel/6MGNFOlXwdTcmAb4K7PfKt31C1KXhwqUzI72zOK8m0woXXOMaU+aaOAqBQch2/DmInZa/XxydP5ZSfDC3f/ca3Fe7EsjfyHtJCKtD2CDrs8bIGPP4iGi4izE8QUbGID2PryvunLIex0DUK5hmWo+Kj/+kmmlXnYTbseAB6rKLOTf40OAzR2WGAPHRTXh+0ega61HM0I3PPYGTXCF1cV2TnW2R/ENljO2wwSLtL2wkbeO+HSxSao9MhqttuGwibJUCoVJV1HZ2BiYy9xfCcZ2zVn2U6WVMIVt8R9+x0uUgkog==;AsJKKdMin+NJ4xnbYO58dA=="
 ---

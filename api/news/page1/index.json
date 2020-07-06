@@ -2,6 +2,175 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-06-ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights.md",
+      "title": "AI Weekly: Workplace surveillance tech promises safety, but not worker rights",
+      "excerpt": "As bigger tech companies roll out \"getting back to work\" solutions, we can't forget about the rights and privacy of the workers being surveilled.",
+      "webUrl": "https://venturebeat.com/2020/07/06/ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/back-to-work.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Workplace surveillance tech promises safety, but not worker rights",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/06/ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/06/ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights/amp/",
+      "publishedDateTime": "2020-07-06T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-artificial-intelligence-has-the-bible-warned-us-against-the-rise-of-ai.md",
+      "title": "Artificial Intelligence: Has the Bible warned us against the rise of AI?",
+      "excerpt": "ARTIFICIAL intelligence is feared by many to be a future threat to humanity's independence - but does the Bible have anything to say about the rise of AI?",
+      "webUrl": "https://www.express.co.uk/news/weird/1305923/Artificial-intelligence-Bible-warning-AI-prophecy",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/80/590x/Artificial-intelligence-Bible-warning-AI-prophecy-1305923.jpg?r=1594068291250",
+          "width": 590,
+          "height": 350,
+          "title": "Artificial Intelligence: Has the Bible warned us against the rise of AI?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/weird/1305923/Artificial-intelligence-Bible-warning-AI-prophecy/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/weird/1305923/Artificial-intelligence-Bible-warning-AI-prophecy/amp",
+      "publishedDateTime": "2020-07-06T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,",
+      "webUrl": "https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F581061%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "publishedDateTime": "2020-07-06T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-clearview-ai-will-stop-offering-facial-recognition-software-in-canada-privacy-officials-say.md",
+      "title": "Clearview AI will stop offering facial recognition software in Canada, privacy officials say",
+      "excerpt": "Clearview AI, the controversial U.S.-based technology firm, will no longer make its facial recognition software available in Canada, according to federal and provincial privacy authorities. A statement issued by the Office of the Privacy Commissioner of Canada on Monday said Clearview had advised officials of the move in response to an ongoing investigation by privacy authorities.",
+      "webUrl": "https://www.cbc.ca/news/technology/clearview-ai-stops-facial-recognition-in-canada-1.5639380",
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.5639386.1594063251!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/clearview-ai.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "Clearview AI will stop offering facial recognition software in Canada, privacy officials say",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.5639380",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5639380",
+      "publishedDateTime": "2020-07-06T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-study-tests-whether-ai-can-convincingly-answer-existential-questions.md",
       "title": "Study tests whether AI can convincingly answer existential questions",
       "excerpt": "A new study has explored whether AI can provide more attractive answers to existential questions than history's most influential thinkers.",
@@ -173,14 +342,14 @@
       "path": "_news/2020-07-06-cambricon-to-raise-3678-million-in-ipo-amid-chinese-chip-fever.md",
       "title": "Cambricon to raise $367.8 million in IPO amid Chinese chip fever",
       "excerpt": "AI chipmaker Cambricon Technologies Corp <688256.SS> said it will raise 2.58 billion yuan ($367.76 million) in its Shanghai initial public offering after pricing the listing at 64.39 yuan a share.",
-      "webUrl": "https://uk.reuters.com/article/us-china-cambricon-ipo/cambricon-to-raise-367-8-million-in-ipo-amid-chinese-chip-fever-idUKKBN247245",
+      "webUrl": "https://www.reuters.com/article/us-china-cambricon-ipo-idUSKBN247245",
       "heat": 94,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN247245",
-      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN247245",
-      "publishedDateTime": "2020-07-06T09:05:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN247245",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN247245",
+      "publishedDateTime": "2020-07-06T08:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -886,182 +1055,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience.md",
-      "title": "How Stitch Fix used AI to personalize its online shopping experience",
-      "excerpt": "To futher personalize its shopping recommendations, Stitch Fix built out a service using a combination of AI and human curation.",
-      "webUrl": "https://venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/stitch-fix-shop-your-looks-1.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 610,
-          "title": "How Stitch Fix used AI to personalize its online shopping experience",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/amp/",
-      "publishedDateTime": "2020-07-05T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-3-top-artificial-intelligence-stocks-to-buy-in-july.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in July",
-      "excerpt": "Artificial intelligence (AI) is likewise an important but oft-misunderstood technology. It's still developing, but it promises to create a new segment of the economy based on the automation of simple tasks and raw data crunching.",
-      "webUrl": "https://www.fool.com/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/4f99495c05b836a8efa014a9663f2e1e.png",
-          "width": 720,
-          "height": 386,
-          "title": "3 Top Artificial Intelligence Stocks to Buy in July",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
-      "publishedDateTime": "2020-07-05T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-why-ai-continues-to-deliver-results-in-a-pandemic.md",
-      "title": "Why AI Continues To Deliver Results In A Pandemic",
-      "excerpt": "AI-at-scale leaders continue to make progress on their AI initiatives at the same pace as before the Covid-19 pandemic.",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0100437185870006e1613d%2F0x0.jpg",
-          "width": 1200,
-          "height": 571,
-          "title": "Why AI Continues To Deliver Results In A Pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/amp/",
-      "publishedDateTime": "2020-07-05T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles.md",
-      "title": "Volvo & Google’s Waymo Join Hands To Develop Self-Driving Vehicles",
-      "excerpt": "Volvo and Waymo will integrate Waymo's self-driving tech into an all-new mobility focussed electric vehicle architecture",
-      "webUrl": "https://gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gaadiwaadi.com/wp-content/uploads/2020/06/Volvo-and-Waymo-2.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Volvo & Google’s Waymo Join Hands To Develop Self-Driving Vehicles",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/amp/",
-      "cdnAmpWebUrl": "https://gaadiwaadi-com.cdn.ampproject.org/c/s/gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/amp/",
-      "publishedDateTime": "2020-07-05T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gaadiwaadi.com",
-        "domain": "gaadiwaadi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

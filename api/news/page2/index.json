@@ -2,6 +2,136 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-05-how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience.md",
+      "title": "How Stitch Fix used AI to personalize its online shopping experience",
+      "excerpt": "To futher personalize its shopping recommendations, Stitch Fix built out a service using a combination of AI and human curation.",
+      "webUrl": "https://venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/stitch-fix-shop-your-looks-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 610,
+          "title": "How Stitch Fix used AI to personalize its online shopping experience",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/amp/",
+      "publishedDateTime": "2020-07-05T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-05-why-ai-continues-to-deliver-results-in-a-pandemic.md",
+      "title": "Why AI Continues To Deliver Results In A Pandemic",
+      "excerpt": "AI-at-scale leaders continue to make progress on their AI initiatives at the same pace as before the Covid-19 pandemic.",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0100437185870006e1613d%2F0x0.jpg",
+          "width": 1200,
+          "height": 571,
+          "title": "Why AI Continues To Deliver Results In A Pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/amp/",
+      "publishedDateTime": "2020-07-05T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-05-volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles.md",
+      "title": "Volvo & Google’s Waymo Join Hands To Develop Self-Driving Vehicles",
+      "excerpt": "Volvo and Waymo will integrate Waymo's self-driving tech into an all-new mobility focussed electric vehicle architecture",
+      "webUrl": "https://gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gaadiwaadi.com/wp-content/uploads/2020/06/Volvo-and-Waymo-2.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Volvo & Google’s Waymo Join Hands To Develop Self-Driving Vehicles",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/amp/",
+      "cdnAmpWebUrl": "https://gaadiwaadi-com.cdn.ampproject.org/c/s/gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/amp/",
+      "publishedDateTime": "2020-07-05T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gaadiwaadi.com",
+        "domain": "gaadiwaadi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-05-everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths.md",
       "title": "Everything You Ever Wanted To Know About Synthetic Humanoid Robots Or Synths",
       "excerpt": "Will AI hold up a mirror to society forcing us to look not only at how we treat beings unlike us but also how we interact with and treat one another? Is the future of artificial intelligence, human-like robots?",
@@ -412,7 +542,7 @@
       "title": "EU Once Again Considers Facial Recognition Ban",
       "excerpt": "The European Union is once again considering a ban on facial recognition. The possibility of a temporary ban surfaced in an early draft of a European Commission white paper in January, but those plans were eventually abandoned in the final draft of the paper.",
       "webUrl": "https://findbiometrics.com/eu-once-again-considers-facial-recognition-ban-070301/",
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -638,7 +768,7 @@
       "title": "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says",
       "excerpt": "Facial-recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief.",
       "webUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6",
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -993,148 +1123,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-considering-the-american-voice.md",
-      "title": "Considering the American Voice",
-      "excerpt": "Irving Howe wrote for the Book Review about American literature — “moving from visions to problems, from ecstasy to trouble, from self to society” — on July 4, 1976. “Land of the free? Yes, but also home of the exploited.",
-      "webUrl": "https://www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.html",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Considering the American Voice",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.amp.html",
-      "publishedDateTime": "2020-07-02T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-velodyne-becomes-latest-tech-company-to-go-public-using-a-spac-eschewing-the-traditional-ipo-path.md",
-      "title": "Velodyne becomes latest tech company to go public using a SPAC, eschewing the traditional IPO path",
-      "excerpt": "Velodyne Lidar, the leading supplier of a sensor widely considered critical to the commercial deployment of autonomous vehicles, said Thursday it has struck a deal to merge with special-purpose acquisition company Graf Industrial Corp.",
-      "webUrl": "https://techcrunch.com/2020/07/02/velodyne-becomes-latest-tech-company-to-go-public-using-a-spac-eschewing-the-traditional-ipo-path/",
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1164317768.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Velodyne becomes latest tech company to go public using a SPAC, eschewing the traditional IPO path",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/02/velodyne-becomes-latest-tech-company-to-go-public-using-a-spac-eschewing-the-traditional-ipo-path/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/02/velodyne-becomes-latest-tech-company-to-go-public-using-a-spac-eschewing-the-traditional-ipo-path/amp/",
-      "publishedDateTime": "2020-07-02T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-researchers-are-gathering-south-african-news-headlines-to-power-ai.md",
-      "title": "Researchers are gathering South African news headlines to power AI",
-      "excerpt": "If an AI researcher wants to build a natural language processing model in English, there’s no shortage of data to train her algorithms. With a click, she could have 1.8 million",
-      "webUrl": "https://qz.com/1876793/south-african-scientists-use-news-headlines-to-power-ai/",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/07/2013-06-24T120000Z_1528076722_GM1E96O165301_RTRMADP_3_MANDELA-e1593717721432.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 787,
-          "title": "Researchers are gathering South African news headlines to power AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1876793/south-african-scientists-use-news-headlines-to-power-ai/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1876793/south-african-scientists-use-news-headlines-to-power-ai/amp/",
-      "publishedDateTime": "2020-07-02T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

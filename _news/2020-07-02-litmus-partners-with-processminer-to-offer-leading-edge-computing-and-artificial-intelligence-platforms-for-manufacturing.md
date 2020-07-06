@@ -35,17 +35,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 67
-  - title: "JMI organises International Symposium to discuss Artificial Intelligence, Big Data Analytics, Cloud Computing and Internet of Things"
-    excerpt: "Department of Computer Science, Jamia Millia Islamia(JMI) organised a one day online international symposium on ‘Recent Technologies in Computer Science’ on June 30, 2020. Topics like Big Data"
-    publishedDateTime: 2020-07-02T03:41:00Z
-    webUrl: "https://indiaeducationdiary.in/jmi-organises-international-symposium-to-discuss-artificial-intelligence-big-data-analytics-cloud-computing-and-internet-of-things/"
-    ampWebUrl: "https://indiaeducationdiary.in/jmi-organises-international-symposium-to-discuss-artificial-intelligence-big-data-analytics-cloud-computing-and-internet-of-things/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/jmi-organises-international-symposium-to-discuss-artificial-intelligence-big-data-analytics-cloud-computing-and-internet-of-things/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 6
 
 secured: "P0gQz7PSpmyTH74AV+VdJ56MIMqGg9cFsdl9h/ACein7ilnfee1a2IfTm0I3mu/6qETqj9Gzzf43O1IjKZicmO3CpUWDJWKqqs953fvAM8mYWWOnUyFntHIbE9X+pKh8MNl3cjlSfS3Fg6iiUc6uN2I0sxnAi6R6APyCrLxo9KU6+ZK6E8las30qVBBJ8lSu8EeFM7M/K5uZ38X8VNLcLd2uOD7U6YQgEGfY3jhLTMOI6nIJCq+nBfACJYZWZHJvkxE5rW8S+ba9vUGmkX5aok8AUwIz+n/P+0S0vAOhsQ50dY3EqeaZHNOrnjUa3P6g7GscqAExzh3KhzmHDgZDPDGUTNiaBFQIxou5+DNFwbEtMl0rhWjI+EsShZOzHFVxs1cNQp+bE4wtvfYbMBE5TpaMM1teqwnKgAgGTJhJWOhd8m/4mZJOg67mv3anxOG6oiojYWJZ/olyMNW6JEG4QyTF1KTuLiFA9ZgWjjoJi6Ff4ieKekiMTfhh64rMf1NZxnAfg5k8bBmvUSPxbgpSIg==;9LojI9R/w4J40lnELCa7fg=="
 ---
