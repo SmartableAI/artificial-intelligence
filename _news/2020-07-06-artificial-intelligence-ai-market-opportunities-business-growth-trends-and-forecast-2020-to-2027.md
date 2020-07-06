@@ -262,6 +262,6 @@ related:
       domain: medgadget.com
     quality: 0
 
-secured: "GtTAfb2f3oTs/vCNMtsrLufoL9LlMTGJy+MnI6PzAY/1djTeCozx2vi4WKlSl82TzUey7YI0ILDlGKdo2eTArHltJgD1Wy9mBlx+saOr/ASwv5D5TmWsm145w0yIbhBXh1FDtpTNXRVFMAMFxYUP/nbL6ClnStfAWJIDY3z9YrN2jf4YQOo7jZw8+q197ognYIra1monCN5IetO0iqF7SSc7Y+ewz32LCvqShRGBauTjzd8UA/3j42EccijsCCq/eTLnOSFjJ8o0ATGOnc9Fx9t7PEoo3duGLoI3iQzm++ZU70Im7DdddcO0uyQ6NkPuw7jZtHKRBG6aC0o6/H1MDg==;sxkWUZkPRPUD68eDkapDsw=="
+secured: "cAWmnbhBCuAUYwRGKO5wR0mxlyUQDKCMDNpZc7Y+Tdx6O/sHmT53Vy07Z/7Zzl7hT0zmOut1Sdbsfh+c94OTLy6RxyJJEy8GBkrNM3R8svcfmc6fdZWPLHVi7YqzuCV6TjHWMuo393gfvn4TGkz8cnMUlxk19WFm3lOipyefrqtQFn7WXhZTGoCNcj1NfUF4M2EfZ+ThmSHpSdEH9ENlPnuWacdm318K7NntalFzxP0NESatHol3NlELSIm1b5hNtkYDYZd7lf/eL5wcMFudRaD+BbwobL7CDtPc9LORLyouliSpbSLXE5taTQNcGevWTOt34SeyGPl34uArLaA3TA==;cKUI+IV92qfGmYnywBTFww=="
 ---
 
