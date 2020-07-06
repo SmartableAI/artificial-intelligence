@@ -54,6 +54,20 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "Amazon looks to self-driving future by acquiring Zoox"
+    excerpt: "NEW YORK (AP) — Amazon says it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will pull up without a driver. But industry analysts are speculating that Amazon will use Zoox technology to build an autonomous package delivery service."
+    publishedDateTime: 2020-07-06T17:50:00Z
+    webUrl: "https://waow.com/2020/06/26/amazon-looks-to-self-driving-future-by-acquiring-zoox/"
+    type: article
+    provider:
+      name: WAOW
+      domain: waow.com
+    quality: 24
+    images:
+      - url: "https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/9/2018/09/04105457/waowdefault-1.jpg"
+        width: 720
+        height: 403
+        isCached: true
   - title: "Video: Amazon acquires self-driving car startup Zoox"
     excerpt: "Amazon said it will lead Zoox as a standalone business to drive the mission toward developing self-driving vehicles. In the video, Zoox demonstrates a one-hour fully autonomous dr"
     publishedDateTime: 2020-07-02T12:52:00Z

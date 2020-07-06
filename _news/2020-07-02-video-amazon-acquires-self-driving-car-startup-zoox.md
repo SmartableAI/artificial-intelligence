@@ -59,6 +59,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 25
+  - title: "Amazon looks to self-driving future by acquiring Zoox"
+    excerpt: "NEW YORK (AP) — Amazon says it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will pull up without a driver. But industry analysts are speculating that Amazon will use Zoox technology to build an autonomous package delivery service."
+    publishedDateTime: 2020-07-06T17:50:00Z
+    webUrl: "https://waow.com/2020/06/26/amazon-looks-to-self-driving-future-by-acquiring-zoox/"
+    type: article
+    provider:
+      name: WAOW
+      domain: waow.com
+    quality: 24
+    images:
+      - url: "https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/9/2018/09/04105457/waowdefault-1.jpg"
+        width: 720
+        height: 403
+        isCached: true
 
 secured: "LihU/5ZB3ZRIrhOZtxyxybLOoGM3QkKQwsqBb/0dDbeBNUwIIrdibJiJDWBbBlVxJ3z77Eqkhiiz7rZ35HSNfnAJbDfPcIAGsk0TYkMWH7zvI0zspckOYYcCP9XPFWKYV3UyojIYUQFaKVdpOBq2Gnztr2IHK+dvPAv/WogkHczQcYNxcriHz2Ccb8opJcpsIgZfzuSrnxdLUXuSnlxA7N3WXNW3v41U2MySC4gEVWGxceOGW6TD1f8AMelcHEea00igl42gWNJuK2BJdZTlo9hr/uWqVl3QVY+xAC6RHSen3mbfPZabCoLHAB5TbA7XxqFXQWIZrScBfwPqXBhLlg==;dc4e3jSSoq6iTTcNSCCN2Q=="
 ---

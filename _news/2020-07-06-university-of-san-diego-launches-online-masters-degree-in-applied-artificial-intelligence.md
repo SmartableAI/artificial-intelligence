@@ -5,8 +5,8 @@ excerpt: "Growing Demand for AI Professionals. SAN DIEGO, CA / ACCESSWIRE / July
 publishedDateTime: 2020-07-06T13:15:00Z
 webUrl: "https://apnews.com/4a05d700cb8dd62bd9895f19e8c8f3be"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

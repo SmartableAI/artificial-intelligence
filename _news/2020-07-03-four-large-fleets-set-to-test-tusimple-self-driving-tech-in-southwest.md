@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "TuSimple kicks off plan for a nationwide self-driving truck network with partners UPS, Xpress and McLane"
-    excerpt: "Self-driving trucks startup TuSimple laid out a plan Wednesday to create a mapped network of shipping routes and terminals designed for autonomous trucking operations that will extend across the United States by 2024."
-    publishedDateTime: 2020-07-02T00:03:00Z
-    webUrl: "https://techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/"
-    ampWebUrl: "https://techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/amp/"
+  - title: "Self-driving trucking service launched from Phoenix, other Southwest cities"
+    excerpt: "The autonomous freight network's first phase, through 2021, will feature service between Phoenix, Tucson, El Paso, Dallas, Houston and San Antonio"
+    publishedDateTime: 2020-07-02T13:14:00Z
+    webUrl: "https://www.azcentral.com/story/money/business/tech/2020/07/02/tusimple-launches-self-driving-trucking-routes-phoenix-southwest-cities/3281064001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3281064001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3281064001"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 57
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 42
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck-close-up.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://www.gannett-cdn.com/presto/2020/06/29/PPHX/987d83bd-f754-41a4-960f-72a5d8e42e02-L4_AutonomousTruck_2.jpg?auto=webp&crop=1400,788,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "TuSimple Launches Self-Driving Truck Network with Berkshire’s McLane, UPS"
     excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc. supply chain unit McLane that"

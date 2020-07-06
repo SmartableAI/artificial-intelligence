@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Sony's new plans could pave the way for software upgradable image sensors"
 
-secured: "UMuMwoz1P+iQjb7IZk1QaKl/f23x5M5vPdc0SewqWqRcdssq2qtmJr62y1jVFCbWpNomwS0neoJOwQJBHfwn1OCXgZ1t3iNtDD+u18i658PXYbLssD2ywy9R3rvRfhUYZT1Tjgi9OWuyFEVGedQNaQIIbDWDbprjWRUHtn9/gMixDkA4e7jWI+U3U67QbR1sJaC/8N35R5A102blNBiFWcFSsFtdfrAFqdgFM1ALftw7Ra+iSsfJL4HtPxVISXC+PWorxgtnpKbg7sl54x1QhQCi+t51Zr6p159YQ34klKO6HFQuMdUluBj0NkUWROVY/I4xUuo4i+3jqj8wd+yEuA==;2SML6QUtSOngfF1+l6s08Q=="
+secured: "A+J2pzGUtY/Wv/9DezL9gvd+mHHse1qo4iZzvnb35naq9FhmHIYi6rZybbpfxPGtoLmTPhUC8VY+1mzJccYyHw9rXLluJ65+SRXudwkBWlcnVmUacTXdSzzXQP+tEjLYV413teCqu7uJxbSG3af7MlkEoPIsCBtqu/sgQyM74y2yukS3DbSz7J78b/zCiy+0JsJjNM8kzfJDf3ffJyFQmodJDclDqwMvbblbVnsDwvZ2cRM5Nzf4s4D144CZkMWDUXWlVSZCiNVAiv/So5ohAaeG0ngEL9d+q36bCt+Kzs/v65QyGqRU9Diae/is2kxVOfp/AqYXF2mC1ru1GzS2teVfc2OvcJrQvU++SEz3QMEOYa9FKtulXczw3piI7XURmFgBLKLipNwCxBtoQJTUxrBkvgQE1OY/iB1kgv3Dg2cpyWdmyOnP5KLAaMdNRHT05BASBdOif+iMyqH3ghBeDk23DI0Fu8P5BjPDejBG5zIUzcof/V/wDVW5zDb1s+qb5a85wPH5Paf//nWQWGqneQ==;cZkym2kBmH5VlJuUHYHG6Q=="
 ---
 

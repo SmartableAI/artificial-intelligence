@@ -26,6 +26,31 @@ images:
     isCached: true
     title: "Self-driving trucking service launched from Phoenix, other Southwest cities"
 
+related:
+  - title: "TuSimple Launches Self-Driving Truck Network with Berkshire’s McLane, UPS"
+    excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc. supply chain unit McLane that"
+    publishedDateTime: 2020-07-02T09:35:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/07/02/574171.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 23
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2020/07/bigstock-aerial-view-of-self-driving-vehicles-580x387.jpg"
+        width: 580
+        height: 387
+        isCached: true
+  - title: "Four large fleets set to test TuSimple self-driving tech in Southwest"
+    excerpt: "Four large fleets to test TuSimple autonomous truck tech Three major for-hire carriers and a large private fleet have partnered with autonomous truck developer TuSimple to test the company’s self-driving technologies in real-world operations over the next four years."
+    publishedDateTime: 2020-07-03T22:21:00Z
+    webUrl: "https://www.overdriveonline.com/four-large-fleets-set-to-test-tusimple-self-driving-tech-in-southwest/"
+    type: article
+    provider:
+      name: Overdrive
+      domain: overdriveonline.com
+    quality: 4
+
 secured: "kz82bJ6AiAhcULEerDp5Z5r+EGiEcGIUp6Br9eEpLewtt+DrCyacgHgeu3wMad7u9eSHjHFV+Fg2FxL3toOJUetwqISewMxovvV9vT5PIkaMhsoiPLLGsHxxGXzlejFg37F3J0msU4ELxRzVaMILpuLNUU4XIbcYAUZ4pbqZV+EJZBWJqtRiU2RhMPJFJJmPnbycQRvuL8OQ/FbaWz97WwzNsuD3a9b7bnTxhjYz/AMCt0nOKO9oKAXlFqEosCMA4qy4QeEQ4YxlEExTuGcsY9dEqox2+8pHswnC87WZZCTLqiQusucVI2LoZ+j6y7+0Qw5n/AYa/LlVnPaiwMZLcMwXGWvFT8ZW5Rh3GyVUtPt5Rjz0cMdk74yt2yHHmE590Dv+USzluPHdAQxPRJC3MIgniQQp3gkC1e+4TwD6zmmdRZnEWSXvzBZZdDqANxAnc3QGiB58g4jeu9O4OH8mhbIkyTXgMRSs1Pzw7R+xZRawIPHFD6ZS6NbvbOmHgqYy7Nq7QIpk6Yi9/Ou92jElbQ==;N0b6+yYwLFArWrqRFwompQ=="
 ---
 

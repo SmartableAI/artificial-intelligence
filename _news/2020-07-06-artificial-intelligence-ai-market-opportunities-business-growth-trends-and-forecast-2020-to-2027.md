@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-06T13:33:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-opportunities-business-growth-trends-and-forecast-2020-to-2027-2020-07-06"
 type: article
 quality: 67
-heat: 237
+heat: 247
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     title: "Artificial Intelligence (AI) Market Opportunities, Business Growth, Trends and Forecast 2020 to 2027"
 
 related:
+  - title: "Natural Language Processing Market Size, Trends, Outlook, Opportunity Till 2025"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 06, 2020 (AmericaNewsHour) -- The Natural Language Processing market is developing and expanding at a significant pace considering the global scenario. The Natural ..."
+    publishedDateTime: 2020-07-06T09:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-trends-outlook-opportunity-till-2025-2020-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Neural Network Software Market Report (2020 to 2025) – COVID-19 Growth and Change"
     excerpt: "The Neural Network Software Market is expected to exceed more than US$ 22.55 Billion by 2024 at a CAGR of 33.2% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
     publishedDateTime: 2020-07-06T11:09:00Z

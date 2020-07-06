@@ -73,6 +73,17 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Trump’s Rushmore speech was monumentally splendid"
+    excerpt: "Despite so much media drivel about President Trump giving a “dystopian,” or “dark and divisive,” or out-and-out racist speech at Mount Rushmore, his July 3 speech as written was the single finest of Trump’s presidency."
+    publishedDateTime: 2020-07-06T16:24:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/columnists/trumps-rushmore-speech-was-monumentally-splendid"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/columnists/trumps-rushmore-speech-was-monumentally-splendid?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/columnists/trumps-rushmore-speech-was-monumentally-splendid?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 24
 
 secured: "va60ChjPHmnGedRjEyei9zV3aP0xbr/NI9pv2Rs8JoVuZJ6JGJbjr06q8yw50fZ56ur0LIJqd4t6mn12UhVB4bzqfEdW0LAALiH1qlu/TOIUuF1B5oKc/HJAwi1i6W9d2KI8PwLK48mjD7wX/Tahsf+OovwdQfzE/p0oSZQbaDg6EedggVJv2oegZ/kPqn87DlRdEpXzlLHP39FFrigSx6TDwiVK419pBh6dUPSLP6z25SNG7xUuX9opzY0XBeEWr2vNxXUylZXzYtDrcZKWoGgioF3rbagsu0gSDEKHtlvT4QkXszRwitkAk6HjFbjfTAQe081bSNfwYPWu0Fot/hVugXqdVIdGsuF1I/vfF5AnWvN8rcuR4NxiLHgKoNDuv/h7kcitQpWPnRYHSLmJs1UA94RDQ1hVN6RR0lf2e3pKpMwG3Lyjq63j49BJm4z99SCpfDy1HwWZA1UzKDADJP2v89OgMrjNL4+xKnhaiWdXZ50oFcATkBdZqtpHdIx7jT8cqwHUx3ALZ/N5nP42Ug==;peByfc2qYlNokucOll9rGA=="
 ---
