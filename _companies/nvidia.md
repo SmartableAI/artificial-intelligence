@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "NvidiaAI"
   url: "https://twitter.com/NvidiaAI"
-  followers: 57244
+  followers: 57248
 
 size: 10,001+ employees
 yearFounded: 1993
