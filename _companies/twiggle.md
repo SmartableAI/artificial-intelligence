@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "twiggle_com"
   url: "https://twitter.com/twiggle_com"
-  followers: 311
+  followers: 310
 
 size: 51-200 employees
 yearFounded: 2014
