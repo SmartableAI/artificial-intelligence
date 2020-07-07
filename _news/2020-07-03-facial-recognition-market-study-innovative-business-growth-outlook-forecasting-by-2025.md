@@ -30,18 +30,18 @@ images:
 
 related:
   - title: "Facial Recognition Market Growth Predicted at 18% Till 2026: Global Market Insights, Inc."
-    excerpt: "The demand for 3D facial recognition systems that offer enhanced accuracy compared to traditional 2D technology will drive market growth. 3D systems offer accurate results even in dim light conditions as they use facial parameters,"
-    publishedDateTime: 2020-07-05T23:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-predicted-at-18-till-2026-global-market-insights-inc-2020-07-05"
+    excerpt: "The demand for 3D facial recognition systems that offer enhanced accuracy compared to traditional 2D technology will drive market growth. 3D systems offer accurate results even in dim light conditions as they use facial parameters, such as the depth of the ..."
+    publishedDateTime: 2020-07-05T22:59:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-growth-predicted-at-18-till-2026-global-market-insights-inc-301088154.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1200214/Global_Market_Insights_facial_recognition_market.jpg?p=facebook"
+        width: 599
+        height: 315
         isCached: true
 
 secured: "rnqBmhAeYlKCJrkEPAEeHAPNn8gegJBeG2V5O7eJyxB+3OHGJDM4wDYFY6/fF8hzzBffFL5D53lo+OopyJoZgpRcFvRU4DbnWXBmstvCMspG0mskU8JGWiXJYISewWR++RmVDpOr+TnFfP5onhjk/TjRH5wyNXKUFaKmKuvbI7W+Gh/62lWnBi1wEsMdV6DKDxU83jHtRPznFJQ2knhEYNC+GqW2jkl7nptSvlcGTkXrexOMjxiFaGD82RIXq8vERrr7MmmNbznGnRiep6aRw/5Nq+2qbSURvB1Nc+75LyoBudmXYqqe6hXu7963dPZ7tSqmAAD7IluARmnX/0M7/w==;QTvTt2sXbaGwaP+GZxMFMQ=="

@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Facial Recognition Market Growth Predicted at 18% Till 2026: Global Market Insights, Inc."
-excerpt: "The demand for 3D facial recognition systems that offer enhanced accuracy compared to traditional 2D technology will drive market growth. 3D systems offer accurate results even in dim light conditions as they use facial parameters,"
-publishedDateTime: 2020-07-05T23:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-predicted-at-18-till-2026-global-market-insights-inc-2020-07-05"
+excerpt: "The demand for 3D facial recognition systems that offer enhanced accuracy compared to traditional 2D technology will drive market growth. 3D systems offer accurate results even in dim light conditions as they use facial parameters, such as the depth of the ..."
+publishedDateTime: 2020-07-05T22:59:00Z
+webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-growth-predicted-at-18-till-2026-global-market-insights-inc-301088154.html"
 type: article
-quality: 60
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1200214/Global_Market_Insights_facial_recognition_market.jpg?p=facebook"
+    width: 599
+    height: 315
     isCached: true
     title: "Facial Recognition Market Growth Predicted at 18% Till 2026: Global Market Insights, Inc."
 
@@ -44,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "NQ73GxHfFBhepUmIzuNiJ1kl2ZJnAfYnqLBzPqoTafj7OwhbEgK2dcQI4O72L+2qIPVF8af8Hu7JSlZRPu4cJNSiBVCjkPNElGsi5v4lpU68j7iAECVFMlT5bE88+PkinAk6DN/cwhQe74EhIvI3OaObUUTT180J+aDNEh9DAq1QsO0Yhlwo9AsRH84anEXIH39ejuyrIe2x3NCPS/n4e2PPUEI3ZZjbrKb7Qo1+tpBQpt5ncBZFEguNf5knF7gUIBjFh1YTtfzY11Co89y2mdBntGXSb/RA5hWGPscLuW27atBZDdlaDlVe9Z65NsHEk4K6O4aP6LO9subUM1VEyg==;RJhX2eLv03BwLdfbBNuvAw=="
+secured: "a/ZtynrwRJ0gH3jyI7rgHVEG/3Tk55ug7kuuKoFCclzjcf3zdiA7KH+tRJuNEb1PRcJ2oyVDBto34Ar7ttw9pLmXD5FmYQyXCm9s+qQ3vXeA/BH/zAeMRb0vURtzmEfFMwPKSVP7uLh08ERwf2JM1cdz1RQ8AGeqr5GlKMPitPFnEKQrg5hlGTY5k/w3NcKBshFEt5R1pfHRg8+pZwmzpMYuT5bSfKBFfownhHBiz4NWYsZN0ELCfx3gxiINObZKWnkyk1I9Xay0W0ukfC+oE4MDDyzwx9db4pbr/cxZ3r57sUVRuPGFDNXfxILiWvSe+EgyoSq/6azFkzK7LPxkxA==;FG/1TZgtvUoxeFPwc/Y3Zw=="
 ---
 

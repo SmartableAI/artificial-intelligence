@@ -85,6 +85,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Clearview AI stops offering facial recognition technology in Canada"
+    excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
+    publishedDateTime: 2020-07-07T01:48:00Z
+    webUrl: "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN2472RA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2472RA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2472RA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
   - title: "ECHR receives first complaint about facial recognition system in Moscow"
     excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
     publishedDateTime: 2020-07-06T10:26:00Z
@@ -101,17 +112,6 @@ related:
         width: 1080
         height: 688
         isCached: true
-  - title: "Clearview AI stops offering facial recognition technology in Canada"
-    excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
-    publishedDateTime: 2020-07-07T01:48:00Z
-    webUrl: "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN2472RA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2472RA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2472RA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
   - title: "Clearview AI will stop offering facial recognition software in Canada, privacy officials say"
     excerpt: "Clearview AI, the controversial U.S.-based technology firm, will no longer make its facial recognition software available in Canada, according to federal and provincial privacy authorities. A statement issued by the Office of the Privacy Commissioner of Canada on Monday said Clearview had advised officials of the move in response to an ongoing investigation by privacy authorities."
     publishedDateTime: 2020-07-06T20:04:00Z
@@ -240,6 +240,29 @@ related:
         width: 620
         height: 443
         isCached: true
+  - title: "TikTok sued for storing facial recognition data"
+    excerpt: "A class action lawsuit filed June 26 alleges violations of the Illinois Biometric Information Privacy Act, a state law that targets the collection of facial recognition information. “Defendants ..."
+    publishedDateTime: 2020-07-07T13:48:00Z
+    webUrl: "https://legalnewsline.com/stories/542043428-tiktok-sued-for-storing-facial-recognition-data"
+    type: article
+    provider:
+      name: Legal News Line
+      domain: legalnewsline.com
+    quality: 39
+    images:
+      - url: "https://jnswire.s3.amazonaws.com/jns-media/8f/57/9291488/eye.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Clearview AI to end facial recognition services in Canada: privacy commissioner"
+    excerpt: "OTTAWA — The federal privacy commissioner said U.S. firm Clearview AI will stop offering its facial-recognition services in Canada in response to an investigation by the commissioner and three provincial counterparts. The office of privacy watchdog ..."
+    publishedDateTime: 2020-07-07T15:24:00Z
+    webUrl: "https://www.canadianmanufacturing.com/technology/clearview-ai-to-end-facial-recognition-services-in-canada-privacy-commissioner-256646/"
+    type: article
+    provider:
+      name: Canadian Manufacturing
+      domain: canadianmanufacturing.com
+    quality: 30
 
 secured: "MTTIEfz4NqtuOSukuS0fNDYIehoprg5CA76erv+zd6fVHKsdvnu4tS+/UzDXaeqh6bxUfMv0Mh6YxvBfhIv4sDsJhrVuvNx4PCpXQ64CpalrmsEX2ejGxRrf34JPFBVwhCi78slDKBnN2GqoavWGThZ6nCA45BK6WifsfD3yvtWPSXuG1tM2/TAMk7mPIr6ErSArpq7evFxP2vKEMqSrwLDbH1MtZ0q9J8yzlfTel/6MGNFOlXwdTcmAb4K7PfKt31C1KXhwqUzI72zOK8m0woXXOMaU+aaOAqBQch2/DmInZa/XxydP5ZSfDC3f/ca3Fe7EsjfyHtJCKtD2CDrs8bIGPP4iGi4izE8QUbGID2PryvunLIex0DUK5hmWo+Kj/+kmmlXnYTbseAB6rKLOTf40OAzR2WGAPHRTXh+0ega61HM0I3PPYGTXCF1cV2TnW2R/ENljO2wwSLtL2wkbeO+HSxSao9MhqttuGwibJUCoVJV1HZ2BiYy9xfCcZ2zVn2U6WVMIVt8R9+x0uUgkog==;AsJKKdMin+NJ4xnbYO58dA=="
 ---

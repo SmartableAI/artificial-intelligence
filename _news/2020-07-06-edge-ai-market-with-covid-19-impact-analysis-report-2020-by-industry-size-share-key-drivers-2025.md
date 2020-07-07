@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud Computing Chips Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact on Global Market of COVID-19"
+    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
+    publishedDateTime: 2020-07-07T09:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-computing-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-on-global-market-of-covid-19-2020-07-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "x4W5L5V033dIlvAaagvEtwjewTfv3AbIBbWgDgcEgrAQiZxT5BKZEN/+b/qJBeTUer8g820DYnaPwBldg1vSHMrJmP+1Te/0DWb7PhO/Y+Du4X3G0JJYNYjkQRob+CzkTRVKQ7mTzKmaZM3Z5ce7+yTVTZfEV0STXCxZSr67smq9Q5V8wfc1wugzSQ9LHb+PfowXgCaIRJzfrjhouctDrZmyFIOwIwsHqlxXltdXX+twh2PV1D+zLdd+Ae5pzmJwvmuehB+gq32762D2Y9/ymyV/RvfGujX0O+CVsKABiJyfZ3CNxcSBC2vX/xDsXumz06dJHRqrmhuar2HiFwnu9Q==;/eLNsMuzRY5TnV/i1a7odQ=="
 ---

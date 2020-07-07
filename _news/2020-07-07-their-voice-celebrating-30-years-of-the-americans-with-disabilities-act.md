@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-07T13:19:00Z
 webUrl: "https://www.heraldextra.com/news/community/their-voice-celebrating-30-years-of-the-americans-with-disabilities-act/article_e1174511-7ba3-5edc-8013-68c1edf06889.html"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     isCached: true
     title: "Their Voice: Celebrating 30 years of the Americans with Disabilities Act"
 
-related:
-  - title: "Considering the American Voice"
-    excerpt: "Irving Howe wrote for the Book Review about American literature — “moving from visions to problems, from ecstasy to trouble, from self to society” — on July 4, 1976. “Land of the free? Yes, but also home of the exploited."
-    publishedDateTime: 2020-07-02T21:18:00Z
-    webUrl: "https://www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.html"
-    ampWebUrl: "https://www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "H25OWGrXZeHZy3qip38uqK7Mhml21mtC4ou/vzyceLdS884wBPWkCGGXJDNb71C8qrFGl25YchaAes/dJVphLBflHc/8NGjbfOSaBjr7MVyBh9uH8uFgDx/lsjil+UgvCxkWVHvfXutW/K+BzNO9cAMymJ1QHP3nH9vqCSl/CLMdfc1Zm+KsHP8z/NR08NdXD42BYvWKBaFIEHLccDp2IW/Q5HZxuzDNiMlNbfwb3rukAAuzk9qG5o38znpBwN8aHZ4GFI2jNNlibTRakyrD5i6phnyADG0C5cuiEd4bEVC90rrcNnpgyZWtNpGz6Db+jxmU+fje/ReRrtLklMCctQ==;CZr7PbGArz4Gk8NTLbFjWQ=="
+secured: "+E2TqytxRUJkQ9neudnWTHRDICwkJlHNVPahUkjoKTrjRTPH9x2qxAyyj98UGUFlhQeAdXQWg0Ysmh/D2tiLeDHGJ/STKnEyozbDk4b0w7DF/unIjtaYVCAjHq3GTK2qbdpuUBKmGCb2X+/QVHqQikHJalQK9aPRDqUhiNEqpylXCinlco62iwv7IKicC3aJ3FHmovcxzHDLkW/KO/rNq8QbZlYv/qmREsVax6wz3DKjXJRckijwuKo2X1Yi3jt/NGRCK4p8JvwywtQgWXbku9vBZjXfznIvLrFm+IjsbnFlZyszmNDQEG+KTRG4BUbbRxcBnGxNWuKnybsZ3xTqJihd4kO+BpYAoLZCsDiNmI/aKK39yu8WtK4nXmQ05gbfYPjdx/tv59fN6t9WFUv0WiJagTfEQyWoIL/+2H7kGiBFTBMDw3Fmzxtt7UcUtz8IZAyXeQX+QpX6RP6T8pUXG4ZgRtBEDhwGHLb2eSrvWEqwjUXOy/14nQFN49komWgaSViLRoiW5wBkUBJcnq8aSg==;Gm+TcZXPLJd4+6Ny5d4Kfw=="
 ---
 

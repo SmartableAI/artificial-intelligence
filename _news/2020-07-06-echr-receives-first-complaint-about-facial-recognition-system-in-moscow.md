@@ -96,7 +96,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 67
+    quality: 84
   - title: "Clearview AI will stop offering facial recognition software in Canada, privacy officials say"
     excerpt: "Clearview AI, the controversial U.S.-based technology firm, will no longer make its facial recognition software available in Canada, according to federal and provincial privacy authorities. A statement issued by the Office of the Privacy Commissioner of Canada on Monday said Clearview had advised officials of the move in response to an ongoing investigation by privacy authorities."
     publishedDateTime: 2020-07-06T20:04:00Z
@@ -239,6 +239,29 @@ related:
         width: 620
         height: 443
         isCached: true
+  - title: "TikTok sued for storing facial recognition data"
+    excerpt: "A class action lawsuit filed June 26 alleges violations of the Illinois Biometric Information Privacy Act, a state law that targets the collection of facial recognition information. “Defendants ..."
+    publishedDateTime: 2020-07-07T13:48:00Z
+    webUrl: "https://legalnewsline.com/stories/542043428-tiktok-sued-for-storing-facial-recognition-data"
+    type: article
+    provider:
+      name: Legal News Line
+      domain: legalnewsline.com
+    quality: 39
+    images:
+      - url: "https://jnswire.s3.amazonaws.com/jns-media/8f/57/9291488/eye.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Clearview AI to end facial recognition services in Canada: privacy commissioner"
+    excerpt: "OTTAWA — The federal privacy commissioner said U.S. firm Clearview AI will stop offering its facial-recognition services in Canada in response to an investigation by the commissioner and three provincial counterparts. The office of privacy watchdog ..."
+    publishedDateTime: 2020-07-07T15:24:00Z
+    webUrl: "https://www.canadianmanufacturing.com/technology/clearview-ai-to-end-facial-recognition-services-in-canada-privacy-commissioner-256646/"
+    type: article
+    provider:
+      name: Canadian Manufacturing
+      domain: canadianmanufacturing.com
+    quality: 30
 
 secured: "lDD8jPc874Y45V+cWFiP3BQNQDFbr94zAuzPotooeMj/YPBUsJr32qlIRluNXLxGqOZtRe2Q40B6qwVXiHijT3jIFqphboRwXU8u9Ig1SMSe5H7T14uqWRX5TYb4cNlN7viNiGeJVbfcHq+ZMybp6T9rWrLlTozOtCAdF42xmY566+u/XvbJrfJu9GfeAse8IXBBp3EZT1u/yajAwEsJLR9xysPR8D6os7O6qLOsEsP8fHVKxfyX1d8BxJ6yFS1G7bUFbIn1Bd/bPuyBgoR3FCK+5I/9PNIEGHFRW29+KVc5J2GAm/Yv0AfQshE3UC5Sp6wAn8flyrAIO6UUuabpqQ==;OLdaiODk6pgUcAjV+Kzl3Q=="
 ---

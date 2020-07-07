@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Himax Technologies Soared Last Week For This One Reason"
-excerpt: "When Himax (NASDAQ:HIMX) launched its WiseEye solution that would support Google’s (NASDAQ:GOOG) TensorFlow microcontroller, the stock popped to almost $4.50. Speculators should watch out: the jump may not last."
-publishedDateTime: 2020-07-07T10:50:00Z
-webUrl: "https://www.baystreet.ca/techinsider/2281/Himax-Technologies-Soared-Last-Week-For-This-One-Reason"
+excerpt: "Jul 07, 2020 (Baystreet.ca via COMTEX) -- When Himax (NASDAQ:HIMX) launched its WiseEye solution that would support Google's (NASDAQ:GOOG)"
+publishedDateTime: 2020-07-07T15:45:00Z
+webUrl: "https://www.marketwatch.com/press-release/himax-technologies-soared-last-week-for-this-one-reason-2020-07-07-111974559"
 type: article
-quality: 24
-heat: 24
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: BayStreet
-  domain: baystreet.ca
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "http://www.baystreet.ca/images/articlegroups/original/17/techinsider2.jpg"
-    width: 1024
-    height: 400
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
     title: "Himax Technologies Soared Last Week For This One Reason"
 
-secured: "uOqRgwit2yOWC9Gs6SiAZdIcpnXPjrCQsOHqr1mZaZ0DHJlip4Xuyz4DonKA3eZAGGPKUdajTXpwOoBGMWna8XWD+WFFaHiEuT05y5FHm+lTuxB2VfjvcOGo32BmEbJ4/sdqhqUNvHrU7PR/65XVFZVDbhd7py02DDQ1/haxjzQgZVZPX7zTUo+Xnl3HMTRH/DWqtWdiYG+7JFxwAJki01fCkjpqcPTNQRtwSrkPNLkVnx4eCjxAtiRc7e/w5gHnAZkArzFyjp6C5CESGhGIqSiFYThU0ePFETYBAJ3IhvFen+ih7hnpDttMZklVdeqSZyZI+u5D2K4275oahXYM7Q==;dCjE2x9KOcB3SVvATSfe9A=="
+secured: "REVcVbfuO28No+mwc9HgB3Ezg1nBQC2zD//d7WD114vozVTQbqlsmdCHNPnbLOX3aJyelgchIYGm6MdkVU+9vISkRr+n9iS3mlmK1HsqicOjJQh9u4x3FJWsHDJ3tmfKzylDyYbRHH445VLweLujFCv4XZgB3BGqp8SxPcjnDtRa/zR5ONZpZ+DMG/7gkx+rk5h0VAY88nZBcgsS5EWtTS8Yv3z4QOAZVmDVfACQGGD7UJmT5VkLX7kyBJCjbF41b9G7nmOS5WssYb+lVY8wPDBBci7Ul+gDLpJMx2kbLu3L2tAOSM487N/Oc5Fo1hxzWyHXyGi+p7mJVMCBahpleA==;PEFWX7fiN5ttqdG5z3Epxg=="
 ---
 

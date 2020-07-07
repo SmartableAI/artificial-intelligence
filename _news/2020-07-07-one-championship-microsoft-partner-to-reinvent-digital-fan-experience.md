@@ -33,18 +33,18 @@ related:
         height: 682
         isCached: true
   - title: "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience"
-    excerpt: "The largest global sports media property in Asian history, ONE Championship™ (ONE), and Microsoft Corp. (Microsoft) today announced a"
-    publishedDateTime: 2020-07-07T12:34:00Z
-    webUrl: "https://www.thesundaily.my/sport/one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-the-digital-fan-experience-HY2724229"
+    excerpt: "Microsoft named ONE Championship’s preferred cloud provider, delivering new fan engagement experiences powered by Microsoft Azure and best-in-class collaboration with Microsoft 365"
+    publishedDateTime: 2020-07-07T02:24:00Z
+    webUrl: "https://www.nationthailand.com/sport/30390882"
     type: article
     provider:
-      name: The Sun
-      domain: thesundaily.my
+      name: nationthailand
+      domain: nationthailand.com
     quality: 24
     images:
-      - url: "https://www.thesundaily.my/binrepository/480x271/0c11/480d250/none/11808/XJAB/one-championship_1268820_20200707200113.jpg"
-        width: 480
-        height: 250
+      - url: "https://media.nationthailand.com/images/news/2020/07/07/30390882/800_be8b4c575054762.jpg?v=1594087764"
+        width: 675
+        height: 450
         isCached: true
   - title: "Microsoft services chosen by One Championship"
     excerpt: "Through Azure AI, machine learning and data analytics, One will expand its core data functionalities and transform its direct-to-consumer digital experiences. To further delight fans, One will provide them with unique sets of data and statistics to better ..."

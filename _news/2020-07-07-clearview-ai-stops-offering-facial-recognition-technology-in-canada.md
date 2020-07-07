@@ -7,7 +7,7 @@ webUrl: "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN2472RA"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2472RA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2472RA"
 type: article
-quality: 67
+quality: 84
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 related:
   - title: "Clearview AI stops facial recognition sales in Canada amid privacy investigation"
@@ -240,6 +241,29 @@ related:
         width: 620
         height: 443
         isCached: true
+  - title: "TikTok sued for storing facial recognition data"
+    excerpt: "A class action lawsuit filed June 26 alleges violations of the Illinois Biometric Information Privacy Act, a state law that targets the collection of facial recognition information. “Defendants ..."
+    publishedDateTime: 2020-07-07T13:48:00Z
+    webUrl: "https://legalnewsline.com/stories/542043428-tiktok-sued-for-storing-facial-recognition-data"
+    type: article
+    provider:
+      name: Legal News Line
+      domain: legalnewsline.com
+    quality: 39
+    images:
+      - url: "https://jnswire.s3.amazonaws.com/jns-media/8f/57/9291488/eye.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Clearview AI to end facial recognition services in Canada: privacy commissioner"
+    excerpt: "OTTAWA — The federal privacy commissioner said U.S. firm Clearview AI will stop offering its facial-recognition services in Canada in response to an investigation by the commissioner and three provincial counterparts. The office of privacy watchdog ..."
+    publishedDateTime: 2020-07-07T15:24:00Z
+    webUrl: "https://www.canadianmanufacturing.com/technology/clearview-ai-to-end-facial-recognition-services-in-canada-privacy-commissioner-256646/"
+    type: article
+    provider:
+      name: Canadian Manufacturing
+      domain: canadianmanufacturing.com
+    quality: 30
 
 secured: "RfFIKnwPm3YLFMZdQXCdOhiFxE6+kCH3WYcAmw3l7Sr4P5IaflkXF5Ob23ccvH0YsLHrckJGCr2DRl3WN5tWfxx6MiXHVvjFn+9TjcKfYPxL/Wvl1ddx1AQEeiTYDXGY7k7pVTAAaqeqTD/z6e0+GVvZLuEUruROvRBp5qejiL44BkIUEdzJJzXjAbstlwj+Psd7PWjYT8YCGtopTVSYLBd+tbRJcOcaf1DvALUCigFOlLoZw920cjdvHxg7uktswcYENqvqXgWnr6YBOWcCF8OLtazNWtSHeHFku0ZVi4U/sotQvoBlLszOQp/rGuYWPx2eYJY/yqoCCom4G9Y8CQ==;jz6P92OazDxvHFIpEPPzbQ=="
 ---

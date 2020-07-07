@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Startup Protera Rises In The $51 Billion Clean Label Market With Cultured Ingredients That Double Bakery Shelf Life"
 
-secured: "Nxfq1+X6ZPFg9Mk+cw5sIAA3Ru17j8q4mji5Pt6eDtjI/IYRKIaZr0Qs5fAHBKpXz0qFv9VXnkFVSxO/XIK3HobxtVUNIam+FjVZ4wpQvt+6dROeVnzA9duHU2duEHJA5cQKqKgsSuNrtqrfIoTVaNq5YKcHII+36QxGKcNk/p5CY5mX1jbsOdkZTzb8knbcYoNQ4NhMOlVIcQw9Ujy6+oh0UPkTax8HX5erXQWjcDNuwT80jS/+swIdZxvCNSgBnrfhsCGu7dK1cCiYoK5kDagH+jw6fHfRIZv6MNY/+2xwHFQX+GLQPNcQNBKybbY3PmyEUW/UJ1Jmjc/Is6WyyQ==;hDJLWpSGlAvgKuT8oYa0JQ=="
+secured: "rivKVpbUSc4044Zz+IjcuaA8hyFyj/rTiNkqsj5G5H7Wi93mG+2WlZjMRKp+4Ino0qLs7ZLtCCOPR/SAPTGJAQ5IHfGLrH/wRpLanso0IJTOJo3CdWk7pPv4zjFuaIbwgf5Nx9hwGmagcUBWezAeqsuHJPamLe2zDncu6Vuvmi7Ymf+NffJ4tngC23uBK+HPbyIgooSPv9yPgqBE4Iv0QAQWcw2kBZd8xdTNcEJbm0Tm6HFnG0bReQGA2oMaCSP6hj7JsssP97fjw4zD2lMI8qgLWt19T9SlKMnbmtoxIb9+wRsd8Pa2tgfy5Z9mfl8+E9SJ/i3Lp2JX8WvRSY4Wk86tQ1bI8cb/VE9X+L3VOdxixGaUDu4FLw4YMOXRMZw4zfS6mMVczpykQDLiij2cPy8tjSHOGgaUZiAzM2OHO1B2/V9hEy6eOMD0P1Aa+e/6p9mN2cFgpsoyU+M8NHFdX7eb2fKPJbdJ//r+GFAKLgGO5B4ufMYHsCZguHCCqVpl7JiSflR7gAOnR46ePK34VA==;97BV7AJcLQR1+wKfVNiCRg=="
 ---
 
