@@ -169,20 +169,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence Market Analysis With Impact of COVID-19, Top Companies, Trends, Demand, Future Opportunity Outlook 2025"
-    excerpt: "Europe (Germany, UK, France, Rest of Europe) 5.3 Asia Pacific (China, India, Japan, Rest of Asia Pacific) 5.4 Latin America (Brazil, Argentina, Rest of Latin America) 5.5 Middle East & Africa Competitive Landscape: The major players in the market are as follows: 1."
-    publishedDateTime: 2020-07-02T06:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analysis-with-impact-of-covid-19-top-companies-trends-demand-future-opportunity-outlook-2025-2020-07-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing Market 2020 Size, Share, Top Manufacturers, Segmentation, Future Plans, Competitive Landscape and Forecast to 2025"
     excerpt: "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD"
     publishedDateTime: 2020-07-03T06:01:00Z
@@ -192,20 +178,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Human Machine Interface Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2027"
-    excerpt: "Selbyville, Delaware Global Human Machine Interface Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Human Machine Interface Market Report also covers top key players,"
-    publishedDateTime: 2020-07-02T05:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/human-machine-interface-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2027-2020-07-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -42,19 +42,14 @@ related:
         height: 800
         isCached: true
   - title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
-    excerpt: "TORONTO — Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy ..."
-    publishedDateTime: 2020-07-06T20:49:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/07/06/technology/06reuters-clearview-ai-canada.html"
+    excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
+    publishedDateTime: 2020-07-06T20:59:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-06/clearview-ai-stops-offering-facial-recognition-technology-in-canada"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 84
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "North America Facial Recognition Market 2020 Share, Trend, Segmentation And Forecast To 2024"
     excerpt: "Facial Recognition Industry Description The Global Facial Recognition market is projected to reach $8.74 billion"
     publishedDateTime: 2020-07-03T19:48:00Z

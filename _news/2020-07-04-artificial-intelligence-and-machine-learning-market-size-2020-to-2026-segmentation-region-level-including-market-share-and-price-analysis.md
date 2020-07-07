@@ -5,9 +5,9 @@ excerpt: "Artificial Intelligence and Machine Learning Market ” Global Report 
 publishedDateTime: 2020-07-04T01:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-2020-to-2026-segmentation-region-level-including-market-share-and-price-analysis-2020-06-23"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 51
+heat: 81
+published: true
 
 provider:
   name: MarketWatch
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Google AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

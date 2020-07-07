@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/07/06/ai-weekly-workplace-surveillance-tec
 ampWebUrl: "https://venturebeat.com/2020/07/06/ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/06/ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights/amp/"
 type: article
-quality: 86
-heat: 86
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - IBM AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/07/back-to-work.jpg?w=1200&#038;strip=all"
@@ -30,6 +31,6 @@ images:
     isCached: true
     title: "AI Weekly: Workplace surveillance tech promises safety, but not worker rights"
 
-secured: "XUFPI3X8TyFHM4f8OksojAVVnIU9VmfMF7g0lRFLwtfiTMhpw/B/6/Ezx074Ojg78xS4FdVb7yENbUp2KLoTgEtVjqZIYZ/xYq6sMtxKgt+I0mrbEws4WYfXnwM+4h0jE3POTJIX4p708xGri4ekzzWcu5IMOyLxw96fhDxRuVDde5MEU+xuej/vtbvs9023nlFV7zqQO1YuBYfjWkOm/eztrNYDrTXTYyzYg7vMIeQ7JGSMtkUxbQhfyXWoX1Wcrd5D7ibfNL/AxzVMT3iD0SBDQdW2W26jTGHoQ5+AJwzldDlAg7U8fkTcxmmSh4GepWFXKkusZLVWk6nbyxyy/A==;OwORxo40uaMapBXkoVWTLA=="
+secured: "pU+N65V8b/s/UPsdPKpJR0AIIx6fqRJ59InMJjwaMUzsMDkpkKzf9zKBGEbUnHexRxqNlkeaVY+sS57R6Ax8slPrNQxvCSecde3NqUJqsSRobYmIBi/0P8Dsafa5Gatx23x+PzZvotZxkuODHlGrhAIc6wurFPryFtohpXYQUaKM2mGxqOYeiJxmjpzCXwVhpX8Ut2+4gGeTJqmvRu51vP8aH5z30wItl+WILJuXO/R/8Inzf5axyl4Lclf1pECSo78/b1q9nayBuU5JGfwyS5geVFhVjUVgMQfLxBXeH8gw2o6f9O1yKxjIAZ+lIOMkGfGDpjAFa0E3MElJJ+WU2HTmpVCfoPLu4QqZitHVuEcqoJP9X8yjphH09Ykxri62BDvljWJMaCvTcMVMl1FJMBxf7mtk93vaethIAI1eOWgNOrYcD3XYXfgl3Wpzc0PdK6/tKh2bVRBuyn1CuOZxdxR2OQ3GU03vlAAR+M41olc/6hL8520FIdYtF2mhm3dwgMgQKb5FZ79XkjuDUki9Mw==;ZyJlR0XYJNdJ2D1wHyG3SA=="
 ---
 

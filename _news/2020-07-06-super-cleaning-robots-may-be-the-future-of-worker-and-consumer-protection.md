@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Super-Cleaning Robots May Be the Future of Worker and Consumer Protection"
 
-secured: "5V12K5ts1lySaVa/oO3o7dY01NbgJWF4/GdGeoWZk4jxFWlOkckK/d5hdZJahg5rQ4/L+viaZKAZGjI/7QCvKobHxcWKZFYPxIITTJb4rqqn5nWMl3b480CcyyaEjqq2lBZHHSR77PrOaX/89I6ZmadKV2u9AYCWxxcdpUGE4HCYS8+qZnR+oNgIxSlPmBg7gGjjgFRjJOCve+gwgnrP3ewqty5/I2VELxKL3A9HE72NUX6frnnMzNA4ijq7a+htHVWbtGPsibJDCKgADUA6Nf+iHh7F33qmT0doldbSoGfPUy8Cl5WjgJxW8OdewJT+SAqRZ7naIIceMvcdGBF6BQ==;4S3OiQHJq+8HpJTAInegBQ=="
+secured: "qjHDzqpqFAacxh/chCt3XypjJ82ryEDM4BIcHgzgmINBp8K8ssxN8K8LhP9JptCyTWPS+hATGJYnOGDGYVSUgJJPhZcrd+iZuxa+GzQ+ylqkSp8lVwsANmEZwfFUE/lZsRuLYltc82CjYjnQTC109JB4eP2YoLmQueJpjsECfAc1G1VM5ISg9CKomF+kT2sFo8mJ7ZaLNi/MTgL66FPnLSCU3j5Gj5SilNIcUQFXSKJcyE5c5L7auiLCNdBzPKqvX1g6QomFjU94GZXwFcP101TicCPPGXJX6sVdE/9xll/fzuoMSuFVtjKH2NnkCVm/F/bLEhzH5Q1jDNBIPR29+ErgAGUlp9xm4yYcQn/Kgciohs30HJpsKwO8AvdeMagS+1e9hOZ/zAwNxjRN6x52NoKUwhoVGK/766c8aS8ZGMljKRPeJh9UQ//e1u1Gi++Ts2dYcZAYcnhG5cavi/Vbihaq3VSgcA86wpmQ5zlp8tUZxfLOO1NCRQU3WN6f7ZlDQFquJG5pwbXUfaIhKdwkRw==;aLEVvVk3J0tqLuI7d/4LUQ=="
 ---
 

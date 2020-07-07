@@ -450,13 +450,13 @@
     {
       "path": "_news/2020-06-22-rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks.md",
       "title": "Rugged COTS Platform Takes On Fast-Changing Needs of Self-Driving Trucks",
-      "excerpt": "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,",
-      "webUrl": "https://www.computerworld.com/resources/204893/rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks",
+      "excerpt": "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World",
+      "webUrl": "https://www.networkworld.com/resources/204893/rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks",
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
+          "url": "https://idge.staticworld.net/nww/nww_logo_300x300.png",
           "width": 300,
           "height": 300,
           "title": "Rugged COTS Platform Takes On Fast-Changing Needs of Self-Driving Trucks",
@@ -467,11 +467,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T14:19:00-07:00",
+      "publishedDateTime": "2020-06-22T14:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
+        "name": "Network World",
+        "domain": "networkworld.com",
         "images": null,
         "publishers": null,
         "authors": null

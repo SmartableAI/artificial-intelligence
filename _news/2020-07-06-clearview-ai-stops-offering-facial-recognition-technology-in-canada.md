@@ -1,32 +1,25 @@
 ---
 category: news
 title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
-excerpt: "TORONTO — Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy ..."
-publishedDateTime: 2020-07-06T20:49:00Z
-webUrl: "https://www.nytimes.com/reuters/2020/07/06/technology/06reuters-clearview-ai-canada.html"
+excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
+publishedDateTime: 2020-07-06T20:59:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-07-06/clearview-ai-stops-offering-facial-recognition-technology-in-canada"
 type: article
-quality: 84
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-    width: 1200
-    height: 630
-    isCached: true
-    title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
 
 related:
   - title: "My Invisalign app uses machine learning and facial recognition to sell the benefits of dental work"
@@ -88,6 +81,6 @@ related:
         height: 315
         isCached: true
 
-secured: "TtT/Aph/hKtgvzoxUSlgE2tQ5w8ickpvGjI2+aT3I7E3bQsmwKi5euVsKc34mTbYYCtNjq8SMVafstqjH3yIh5ACO2V+ccAt8Ds9d5+4yg7fwj8REUVqiJe1pEZdRreitqSjniwfEQ7QwyY7opot/hL5Y9kMCWhzmRX5c/0zgHFI7iiz6tL3ov9xwLEu737xsQJvZgEKprLVFiWxmW7FIyFTEAFefQr9DNYp3/CAMSvPpxBfpOOF12tYiin3nEYKRQ+Op/mMalQQerN/4fxbuuuDEkQHiRiaGGlo8DYJdLdpmVwHgFerqqajEODlegtx749zMqFuc+yPnb6kr6L5bQ==;1ySe2Gc7cELW4CRJmdumSQ=="
+secured: "dhpvD+sjyHh0i/oERi1zVA2dEXJs9coq+yfpBZKwnkm0oYzIgKmGJsmlyKXHMhMlUuKurGVX6RsOQ+/vuVNg8m00vhpVgpsoldmSUFoJ+cqL2hnezhz8+/ExH7lHUJELqxxcLuZ8tuuqNkGIpNKWW2FlZeMWG8u7xLmrwpPOY0e/Ma3TK1J9ipbIa2DdZ2wJhRNEA02clg2JxLnU1d076NqiEaL8Qu9E84wiFC7s9lF/aWVmy2TRmWKavV+a4phm6aFDjIIg5y3NpXu69Y0J8FCte/m5+FKsqmxU6YmFg020lEs6zB02WEBpWapzs/T8yUWBOJ/S6KMb92urBQRWYQ==;kYS8L97X3319QnjTh/g4TA=="
 ---
 
