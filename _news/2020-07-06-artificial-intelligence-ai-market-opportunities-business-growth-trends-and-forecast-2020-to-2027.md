@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-06T13:33:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-opportunities-business-growth-trends-and-forecast-2020-to-2027-2020-07-06"
 type: article
 quality: 67
-heat: 227
+heat: 217
 published: true
 
 provider:
@@ -177,20 +177,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Market Analysis 2020 by Size, Share, Latest Global Trends, Top Key Players, Future Growth, Revenue Analysis, Demand Forecast To 2023"
-    excerpt: "Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal"
-    publishedDateTime: 2020-07-02T16:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-analysis-2020-by-size-share-latest-global-trends-top-key-players-future-growth-revenue-analysis-demand-forecast-to-2023-2020-07-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -32,6 +32,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "Myriad Announces Partnership with OptraHEALTH® to Deliver “Gene™” a New AI Based Information Tool for Hereditary Cancer"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-07-06T13:02:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-07-06/myriad-announces-partnership-with-optrahealth-to-deliver-gene-a-new-ai-based-information-tool-for-hereditary-cancer"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 23
 
 secured: "iY55CO/ItcEhTyFX0wK62SOdMmkL6NJTFxhUOCp7JUq//Wle1rZz3YwlgWvSOXkuVyV8m8jIkAk/gyhixweISWpTQZEVa0PQFAl4zJuTwdDyY/DDGUVIRTuWZobyq7rCoSrnHgJ4UI8HDOH7ZT5qkLHayim99rz6IElSsRV1+5gqC5+9/yPN/J8vI9ILqtB0dHpQNDQZoNMJjNGMHMScg3FAUOrYOMglza11BtchZi+B1DR7dlKidbl0UAnLdxtyC2yQM3KWIhuI6Gnnmzcipjgc2z5MybGtcJYFH0ZDxvKLOY+AO7rUx+vr7WcC/t3/PSFYrljUufsUy+PQXmEAFw==;xQyBQjan2nYggnkmCME0rQ=="
 ---

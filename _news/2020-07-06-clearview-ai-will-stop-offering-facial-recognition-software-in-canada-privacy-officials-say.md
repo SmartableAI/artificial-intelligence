@@ -75,15 +75,17 @@ related:
         width: 1080
         height: 688
         isCached: true
-  - title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
+  - title: "Clearview AI stops offering facial recognition technology in Canada"
     excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
-    publishedDateTime: 2020-07-06T20:59:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-06/clearview-ai-stops-offering-facial-recognition-technology-in-canada"
+    publishedDateTime: 2020-07-06T21:26:00Z
+    webUrl: "https://www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7"
+    ampWebUrl: "https://www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7?amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Facial recognition technology displays clear racial bias"
     excerpt: "Across the world and within the United States the use of facial recognition technology is on the rise. Touted as a powerful security tool, facial recognition has been rolled out nationwide with ..."
     publishedDateTime: 2020-07-06T17:49:00Z

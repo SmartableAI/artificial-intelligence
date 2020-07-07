@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Deloitte Launches the Deloitte AI Institute to Advance Applied Artificial Intelligence Innovation and Research for the Enterprise"
-excerpt: "Deloitte today announced the launch of the Deloitte AI Institute, a center that focuses on artificial intelligence (AI) research, eminence and applied innovation across industries. The Institute will bring together the brightest minds in the field of AI to apply cutting-edge research to help address a wide spectrum of relevant AI use cases."
+excerpt: "Deloitte today announced the launch of the Deloitte AI Institute, a center that focuses on artificial intelligence (AI) research, eminence"
 publishedDateTime: 2020-06-24T12:00:00Z
-webUrl: "https://apnews.com/PR Newswire/c0e76b7b4ac4a3567504eaff48a3d770"
+webUrl: "https://www.prnewswire.com/news-releases/deloitte-launches-the-deloitte-ai-institute-to-advance-applied-artificial-intelligence-innovation-and-research-for-the-enterprise-301082507.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/379251/Deloitte_Logo.jpg?p=facebook"
+    width: 1612
+    height: 845
     isCached: true
     title: "Deloitte Launches the Deloitte AI Institute to Advance Applied Artificial Intelligence Innovation and Research for the Enterprise"
 
-secured: "7ANKr21x7yObp13gW4ZxOPszz52cSAlOptcaUl4k0rXcipvIQXaPObxslvusN1bQxLBRLCSpNsJUllYcwhaLGqSQJjAo6YKXk30TZtLEgDnTHxuiZHfe19LckOuTOcYZeKKYy0WltKv+yRtzU+VwCfPpMFzbcFh0KZ/7uqGEbyouFEmMKzPpZNP7SczhacwGKLdZY+k63Df1pQCz0/UzlGIbuLx4mntjqS3MYeJVGEdL/oGFN7Ey/6k/bcyk2uLWkEVehBz2zpSbLFa2msq/clTnGBqJUb9eZob3WcBiSyN5BH3emVU0L46xnYul60XU1d+JJ1HQB5ohYTu5BIWJ0g==;FESsfJ9Y7ePesJNADtmTAg=="
+secured: "8K8UsjZQo3anb0NJvWw6GomazOalbmQnJIIK8NOEq+tHr2MB4XKIYi753/JhGEGVf2PxOAQLlXMKazXzuKDCl2MVvfQKAGhYrg8HBOLn7voAxENZIl1MbY3gOW/NkLvPVSwErGCMeBoDqiYKVLwPgznihLBgCr08Xg5S63SteC9TecTQWz0W/9DYKPuakDlnDlWd5HgKo1QuR8WD5JqYY2ItMIKwdoPYX2XJYCjT6verTwRWq7gcWi1j4gQoDPNIxpRztDXFL2Rs3bOnc5DPeqOOL97T1eaCJWkPyLs7M8CrxG3J+QOXOst0WNiOuE644mtJRY4NvqprOYcuemnJUA==;T5qO2jCUui4UGp6uoA5fxw=="
 ---
 

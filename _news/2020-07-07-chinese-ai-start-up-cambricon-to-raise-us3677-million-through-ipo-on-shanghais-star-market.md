@@ -7,7 +7,7 @@ webUrl: "https://www.scmp.com/tech/start-ups/article/3092125/chinese-ai-start-ca
 ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3092125/chinese-ai-start-cambricon-raise-us3677-million-through-ipo"
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3092125/chinese-ai-start-cambricon-raise-us3677-million-through-ipo"
 type: article
-quality: 76
+quality: 78
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/07/dad4dcb4-c017-11ea-8c85-9f30eae6654e_image_hires_143815.jpg?itok=Dc-FV1XS&v=1594103901"
@@ -52,7 +53,21 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "China's top AI chip unicorn to raise $368m in Shanghai debut"
+    excerpt: "China's flagship artificial intelligence chip startup Cambricon Technologies is set to raise 2.58 billion yuan ($367 million) in its initial public offering that Beijing hopes will accelerate its challenge to dominant U."
+    publishedDateTime: 2020-07-07T08:50:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/China-s-top-AI-chip-unicorn-to-raise-368m-in-Shanghai-debut"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F2%2F3%2F3%2F28103324-1-eng-GB%2FAP_997434849529r.jpg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces"
+        width: 1024
+        height: 512
+        isCached: true
 
-secured: "aldF8U2hGRjrTeLcraWqGpm4kJwOgcDa5XYMpYTTK5JEc5uCIrMFbU6dqGgKO5qsoU07gJNLSHHorGRgYHa+e/2Ou43oPih+NqW+QcFfi8Udv1Sjd4LiL0fXxw/mv6BUq1Vl++6xa7ZhR5cT3hiSDR1TmphUiKKgyfHTIry9sUzL4xj+ppku8E+Njr9yc/BZF9JCZXpH9f7dybIwyRb8KWRRreadClebgEdVdTMfvoXDwftok4j71V19+h1bLRoU9stdVgHiDeNr/+fdW5Ch/p34t2Jn+DSeZw8LFL7f/l98srhdmYx45gjj9mO+yQUS9cHUY95UHh5AyTD+MQJVXg==;ezrx4Zztu2bgwn+2WWq/ng=="
+secured: "a7+FV8G+GjhJWWcXZZcHfZErVa6MphkCdDCcrjuTPSME+Og77VmDdgCwrquH1ZFzTMprEde7M+JDfBsUYs59Vx4mLA3+1PuLovcuxbaocLHvxqfwhTquQmmj8ckx1pLn6tJR/z0LztGis2ci8yskU8gzmi7MObRL8c2Xxm8lf1UxTiyPBmg6w7litqtwRQnE2dMmf29SXctB0M+2guTaHZi9IvBxbyE9ZGIijw7mOifg20e+OpsDEmU8VHixmi6VIdkbYhbkIYW4HTrf9nrWfAwI/Bq7R4CfhayTxI+9F0RhLRhNHMQzyX1Z/7L/zMsRjq5qCH5GnsCXbzx++5GGR1LRU29CxuENQKBEFLaOyIYOqODCdJYseUtGSaUnoeYu4ViHKFgU3D1cCWMzT/1+hes7yeH4BF1pnwwdlQHe34WF1AluTfDpk2WouLpxIpn5dPhmvoUnk8GqqZlqDVcWgRfBaFdzVgujoz1yMn13rVa7olGhPT9U0pF5Zz3CZZuLxOmSviFaag6kRxDsHvGaRA==;Iizr2Cfo4VuEaq6MsJsu9Q=="
 ---
 

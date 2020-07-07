@@ -1,21 +1,26 @@
 ---
 category: news
 title: "IHS Markit Selects AWS as Its Preferred Cloud Infrastructure Provider"
-excerpt: "Global market intelligence leader accelerates migration to the cloud with AWS, improving scalability and agility to respond to market changes and develop new products"
-publishedDateTime: 2020-06-29T07:01:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/06/b16422766/ihs-markit-selects-aws-as-its-preferred-cloud-infrastructure-provider"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16422766"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16422766"
+excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that IHS Markit Ltd. (NYSE: INFO) has selected AWS as its preferred"
+publishedDateTime: 2020-06-29T07:30:00Z
+webUrl: "https://www.businesswire.com/news/home/20200629005060/en/IHS-Markit-Selects-AWS-Preferred-Cloud-Infrastructure"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "s1wTSHHA8Uf764GMyJmZTqUaqV4ovTrSNk9duKdq+LC+k7hZ+7JCQwmz+zZInmjF4Cn8qOhZUVu1MQGAjtLCsh9beHZ6M75LWApDMAquOOzndFSrcGti2zL5VPmledExVwV7BXdd5zgqQmeBfkbQic+B10H4QKOmT2NSzBvq76mkETL56AKhAHplBm1JoGe4cLZRa2zRUZROvF1zbJGvuAbFKUNmGCZx5L57DfcvMRWD0FSQ/hsSLNKsIvgfEct5Yv2nRz4RcnmJa/xswcQN1xOisICMXuXnO8zDDRlSeRyryf3gHd1+1Xzq22pTlFAZjY2VFCufddGcxWpjxGPS9w==;r6IV6kzMEC/Bws3ajx/Hbw=="
+images:
+  - url: "https://mms.businesswire.com/media/20200629005060/en/801532/23/AWS_logo_RGB.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+    title: "IHS Markit Selects AWS as Its Preferred Cloud Infrastructure Provider"
+
+secured: "F+gLyGZOZG5Z296EdQrS5/bczisowni3mGT0ZRZrScCn6JQw10emsgv8QXGDemD0ZN9zFdtJ/z5FdJEm89SovqVxGQoqt5hNsrph0JUTdzqOZGKZ+FF4wHYeNLM7GPjXLZ6MzLsLAuUAesUJvg0k3QZyIDk+tDvoboxEl9j3RLBu2SOJY10dozqZ13Iv/CdhUeBMPrM2u0osbBmVKMuqqDkc6P7PE0JGTGvDvmBhh3IF19VbHp5YJSu7V3+qx/btixFLYcsUtnFq7NW9bllEgTEGiVjGDF848OLrtE9sMcooQ6dzk0nLaGEN/k7Fdf0CjJ0usiSG3zgnyPQTZokIUQ==;WEIuMbcjc36+4wEnbTBqlA=="
 ---
 

@@ -1,24 +1,25 @@
 ---
 category: news
-title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
+title: "Clearview AI stops offering facial recognition technology in Canada"
 excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
-publishedDateTime: 2020-07-06T20:59:00Z
-webUrl: "https://www.usnews.com/news/technology/articles/2020-07-06/clearview-ai-stops-offering-facial-recognition-technology-in-canada"
+publishedDateTime: 2020-07-06T21:26:00Z
+webUrl: "https://www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7"
+ampWebUrl: "https://www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7?amp"
 type: article
-quality: 64
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Computer Vision
   - AI
 
 related:
@@ -229,6 +230,6 @@ related:
         height: 614
         isCached: true
 
-secured: "atqMTxAPttgIz0tR7eG4c3IMmUQdKmVJDbqVtPL3vNJ6Tx6A/0xnp+w5R42nAsXBLbKjTxk2Llk4NiDjOEPwuR2Acx9YZLAl2iPV7s6MFMGOebDiSLK9/zjJ1uF9YK1MJf+6LjgdYT/TFKiVQ/Ly5Q2W95eOo/c5/vOnroWRSibjNKZyMfLjgGVl/3O+FIwBX75LeAFEyF6bUymFa4LmULNest+G9Ftpi24sGWUtNYYb97u3iJ8vgmeyY2VJ9/rFCFP8hO4Ad4MiayYmiHIWbJ0U4jSE+Tu+zCS9LvxocCdMBEiVMn96U7C8XIjCAy4xi3/SPuTi/5HGcwM69dMEMg==;tJ3GxxP3D0fsX8ffSlesYg=="
+secured: "iHXeYVcgbYWvTySt8J6mQtUG4YHCa+nCyk2z1XfRg7r/pBQU+B7zFC4gvx6vlo1LfZ0STWgNIHMgwc1U4QI8pAniKES2gQfQ7sQreMcL9fvxVTSwfEHsgP1KHNkNhYAgJAdgD0pex5/MrK//aXx/nh5EHgV5/nBdWZRiOClRFDcRzlwx7DL90TzDdd6Dk58HkShhUme2sb79Eq77trq5IMMJa/XxTTK5lDF57FHWUiOdFgr1Exwtb/s4votKMoPQJfu43PA++nJsFoMwJ2e8lrh9oj/0Y3SMm4fCrAHC1s3iOnTw6e7u4Q6doKs8FSr69pw6DzZU/Tx8lSP1EcCATg==;9hx9Tz35u3cakQNMcFB1Qw=="
 ---
 

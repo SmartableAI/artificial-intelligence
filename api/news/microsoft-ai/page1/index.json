@@ -2,44 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-07-07-one-championship-microsoft-partner-to-reinvent-digital-fan-experience.md",
-      "title": "ONE Championship, Microsoft partner to reinvent digital fan experience",
-      "excerpt": "Largest global sports media property ONE Championship (ONE) and Microsoft has announced a strategic partnership to harness the Cloud, including Microsoft Azure and Microsoft 365, to transform digital fan experiences and enhance collaboration for employees.",
-      "webUrl": "https://www.sify.com/finance/one-championship-microsoft-partner-to-reinvent-digital-fan-experience-news-topnews-uhhfkAabbfiag.html",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/bmw1_ug4ia0jbedjjh.jpg",
-          "width": 872,
-          "height": 578,
-          "title": "ONE Championship, Microsoft partner to reinvent digital fan experience",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/one-championship-microsoft-partner-to-reinvent-digital-fan-experience-news-topnews-uhhfkAabbfiag.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/one-championship-microsoft-partner-to-reinvent-digital-fan-experience-news-topnews-uhhfkAabbfiag.html",
-      "publishedDateTime": "2020-07-06T22:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-06-researchers-use-ai-to-highlight-zooms-privacy-risks.md",
       "title": "Researchers use AI to highlight Zoom’s privacy risks",
       "excerpt": "In a study, researchers demonstrated that AI could be used to cross-reference the names and images of Zoom meeting participants.",
@@ -356,29 +318,20 @@
     {
       "path": "_news/2020-06-29-enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments.md",
       "title": "Enabling Technologies to Offer Three New Proactive, Painless, and Complimentary Security Assessments",
-      "excerpt": "Enabling Technologies has recognized that attackers are increasing their attacks while organizations are working from home. To as",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367",
+      "excerpt": "Enabling Technologies has recognized that attackers are increasing their attacks while organizations are working from home.",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/n16422169/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments",
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367",
-      "publishedDateTime": "2020-06-28T21:08:00-07:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16422169",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16422169",
+      "publishedDateTime": "2020-06-28T21:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1273,6 +1226,44 @@
       "provider": {
         "name": "ITWeb",
         "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-sas-and-microsoft-partner-to-democratise-ai-and-analytics.md",
+      "title": "SAS and Microsoft Partner to Democratise AI and Analytics",
+      "excerpt": "The companies say that this partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform and supports their shared vision to further democratise AI and analytics. “Through this ...",
+      "webUrl": "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2020/03/MICROSOFT-696x452.jpg",
+          "width": 696,
+          "height": 452,
+          "title": "SAS and Microsoft Partner to Democratise AI and Analytics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp",
+      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2020/06/sas-and-microsoft-partner-to-democratise-ai-and-analytics/?amp",
+      "publishedDateTime": "2020-06-18T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
         "images": null,
         "publishers": null,
         "authors": null

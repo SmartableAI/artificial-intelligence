@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/07/03/baidu-to-ramp-up-inves
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/03/baidu-to-ramp-up-investments-in-cloud-computing-ar.aspx"
 type: article
 quality: 101
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     title: "Baidu to Ramp Up Investments in Cloud Computing, Artificial Intelligence"
 
 related:
-  - title: "Baidu Unveils Plan to Increase Investments in New Infrastructure to Power the Rise of Industrial AI"
-    excerpt: "(NASDAQ:BIDU) recently announced that it will increase its investments in cloud computing, AI education, AI platforms, chipsets, and data centers in the coming ten years as part of its efforts to construct \"new infrastructure\" for the smart economy of the future."
-    publishedDateTime: 2020-07-02T15:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/baidu-unveils-plan-to-increase-investments-in-new-infrastructure-to-power-the-rise-of-industrial-ai-2020-07-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "TSMC to Build Supercomputing AI Chips, Ramps Wafer-Scale Computing"
     excerpt: "Wafer-scale computing is moving ahead, and TSMC plans to be at the forefront of the effort with new packaging technology improvements."
     publishedDateTime: 2020-07-06T18:00:00Z

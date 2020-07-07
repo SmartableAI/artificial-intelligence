@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/myriad-partners-optrahealth-for-ai-b
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts-2020-07-06?amp"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Myriad Announces Partnership with OptraHEALTH® to Deliver “Gene™” a New AI Based Information Tool for Hereditary Cancer"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-07-06T13:02:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-07-06/myriad-announces-partnership-with-optrahealth-to-deliver-gene-a-new-ai-based-information-tool-for-hereditary-cancer"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 23
   - title: "Myriad Announces Partnership with OptraHEALTH® to Deliver “Gene™” a New AI Based Information Tool for Hereditary Cancer Patients"
     excerpt: "Myriad Genetics, Inc. (NASDAQ: MYGN), a leader in molecular diagnostics and precision medicine, today announced a new collaboration with OptraHEALTH ® to implement a cognitive ChatBOT named Gene ™ to provide genetic and financial assistance information to prospective patients."
     publishedDateTime: 2020-07-06T11:11:00Z

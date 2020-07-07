@@ -41,11 +41,25 @@ related:
     provider:
       name: South China Morning Post
       domain: scmp.com
-    quality: 76
+    quality: 78
     images:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/07/dad4dcb4-c017-11ea-8c85-9f30eae6654e_image_hires_143815.jpg?itok=Dc-FV1XS&v=1594103901"
         width: 1200
         height: 630
+        isCached: true
+  - title: "China's top AI chip unicorn to raise $368m in Shanghai debut"
+    excerpt: "China's flagship artificial intelligence chip startup Cambricon Technologies is set to raise 2.58 billion yuan ($367 million) in its initial public offering that Beijing hopes will accelerate its challenge to dominant U."
+    publishedDateTime: 2020-07-07T08:50:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/China-s-top-AI-chip-unicorn-to-raise-368m-in-Shanghai-debut"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F2%2F3%2F3%2F28103324-1-eng-GB%2FAP_997434849529r.jpg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "Ycj7lxj6R2qP4osTauz+Nw8Be8jRsYp3jtebrtCRpvgUtNOdgBwtQcd7976OfIwlzB2za5mgF439Xyp3/yW0W+N971HkUPwMHs7wH7Ev1xaay7L1M9kPzlnT0TbQir/1lfOqgjemUMlHwUPL9QNptWD38rsKPsey0zGp+RjSgFHZPpbfhNpLGDV/aM9u9ykRCuBxOgLFNwJUijQ9v5K7Rs9KQB7T2+okObmxN7cfRtTNwfb695KTmn2RJ19QDSBF0BZRV0sKTatJo/jFUqDVBkXNI+fmaE5maHV83evbJsDASAo2BdlHYUWR8INyYItp/5R0db8JQY/zKncHSf4GUmTpRqMqI9ZnMyigJQmWatnAen8wMGxuKW55Kpv9JeGjh6NVRGXM+UzrF0UZgPNZ1LGtRSlDGD5JpFHb3em1btey/fhwPGDKi/a+44ITnBqnyALV5D9Tdctm7Rs0BCNV+QBK/v1Jer1zDkAh3b6nL6wjrq7uPWufNhR6mBJCbqtq;eme8gA6bnVDoj6qLK7YORg=="

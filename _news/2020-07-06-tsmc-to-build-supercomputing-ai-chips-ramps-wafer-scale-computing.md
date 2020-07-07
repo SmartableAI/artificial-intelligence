@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Baidu Unveils Plan to Increase Investments in New Infrastructure to Power the Rise of Industrial AI"
-    excerpt: "(NASDAQ:BIDU) recently announced that it will increase its investments in cloud computing, AI education, AI platforms, chipsets, and data centers in the coming ten years as part of its efforts to construct \"new infrastructure\" for the smart economy of the future."
-    publishedDateTime: 2020-07-02T15:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/baidu-unveils-plan-to-increase-investments-in-new-infrastructure-to-power-the-rise-of-industrial-ai-2020-07-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "+ES6g0jTGzWjEQ6OpLiCPiKc1SPEAvFNZnmFIynSkhsIfjojcFVAwKfgYSH4B8egsHU0+Qg98LgHo99xCDi+mL9v9fiNnBMrl+fQlMsrQpEFGnh0bnbuJCp+Bt68HZKwW68+86VrGGZQs6On8hwykUct13H1ysnrZQx7TSvj77PrxcqyOw6KoboASt2u8+lG2bv7xkN1vE7xXuPAuVFqgBFx8Sr6ci1u6vILxhSrEYTh5zKSXiCnGrscCnUijhWgKTaSNB47f4LJtEOsFasq15GaqEYQzvz/4atGI9A3N4gitubWjS+nRyq9zev0853l9RG6P2v58kWBH+E9WowSIJpyBW7N+1MuPlKmRG4pT07FV8d1AqhtLSsmBq9Qd3UNBXqteJBWJnsgoR8dgKzy1DeZlwGBX+9vLpzT7LtJkvCAfFgmS2R9KkBuaSOTgxRZj7GX7a0cP4Ilf3mE+YyZecuZg8VkFI9VEeJvZ2zZJx1LEYK9zvIr32kdBS7jXOwO3KSfaO2yZGnL6m3/HZg7Zw==;kNIcjvpMOoXZlrwCHZNjEg=="
 ---

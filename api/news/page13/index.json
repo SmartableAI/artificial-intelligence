@@ -952,15 +952,15 @@
     {
       "path": "_news/2020-06-24-deloitte-launches-the-deloitte-ai-institute-to-advance-applied-artificial-intelligence-innovation-and-research-for-the-enterprise.md",
       "title": "Deloitte Launches the Deloitte AI Institute to Advance Applied Artificial Intelligence Innovation and Research for the Enterprise",
-      "excerpt": "Deloitte today announced the launch of the Deloitte AI Institute, a center that focuses on artificial intelligence (AI) research, eminence and applied innovation across industries. The Institute will bring together the brightest minds in the field of AI to apply cutting-edge research to help address a wide spectrum of relevant AI use cases.",
-      "webUrl": "https://apnews.com/PR Newswire/c0e76b7b4ac4a3567504eaff48a3d770",
+      "excerpt": "Deloitte today announced the launch of the Deloitte AI Institute, a center that focuses on artificial intelligence (AI) research, eminence",
+      "webUrl": "https://www.prnewswire.com/news-releases/deloitte-launches-the-deloitte-ai-institute-to-advance-applied-artificial-intelligence-innovation-and-research-for-the-enterprise-301082507.html",
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mma.prnewswire.com/media/379251/Deloitte_Logo.jpg?p=facebook",
+          "width": 1612,
+          "height": 845,
           "title": "Deloitte Launches the Deloitte AI Institute to Advance Applied Artificial Intelligence Innovation and Research for the Enterprise",
           "attribution": null,
           "isCached": true
@@ -972,8 +972,8 @@
       "publishedDateTime": "2020-06-24T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

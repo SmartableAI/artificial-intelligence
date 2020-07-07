@@ -1,47 +1,45 @@
 ---
 category: news
 title: "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience"
-excerpt: "The largest global sports media property in Asian history, ONE Championship™ (ONE), and Microsoft Corp. (Microsoft) today announced a strategic partnership to harness the Microsoft cloud,"
-publishedDateTime: 2020-07-07T06:28:00Z
-webUrl: "https://indiaeducationdiary.in/one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-the-digital-fan-experience/"
-ampWebUrl: "https://indiaeducationdiary.in/one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-the-digital-fan-experience/?amp"
-cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-the-digital-fan-experience/?amp"
+excerpt: "Microsoft named ONE Championship's preferred cloud provider, delivering new fan engagement experiences powered by Microsoft Azure and best-in-class collaboration with Microsoft 365"
+publishedDateTime: 2020-07-07T09:52:00Z
+webUrl: "https://www.zawya.com/mena/en/press-releases/story/ONE_Championship_and_Microsoft_partner_to_further_accelerate_and_reinvent_the_digital_fan_experience-ZAWYA20200707090141/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200707090141/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200707090141/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
-  name: India Education Diary
-  domain: indiaeducationdiary.in
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/07/unnamed-1-1.jpg?fit=1119%2C746&ssl=1"
-    width: 1119
-    height: 746
+  - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
+    width: 1200
+    height: 878
     isCached: true
     title: "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience"
 
 related:
   - title: "ONE Championship, Microsoft partner to reinvent digital fan experience"
-    excerpt: "Largest global sports media property ONE Championship (ONE) and Microsoft has announced a strategic partnership to harness the Cloud, including Microsoft Azure and Microsoft 365, to transform digital fan experiences and enhance collaboration for employees."
-    publishedDateTime: 2020-07-07T05:14:00Z
-    webUrl: "https://www.sify.com/finance/one-championship-microsoft-partner-to-reinvent-digital-fan-experience-news-topnews-uhhfkAabbfiag.html"
-    ampWebUrl: "https://www.sify.com/finance/one-championship-microsoft-partner-to-reinvent-digital-fan-experience-news-topnews-uhhfkAabbfiag.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/one-championship-microsoft-partner-to-reinvent-digital-fan-experience-news-topnews-uhhfkAabbfiag.html"
+    excerpt: "Through Azure AI, machine learning and data analytics, ONE will expand its core data capabilities and transform its direct-to-consumer digital experiences. To further delight fans, ONE will ..."
+    publishedDateTime: 2020-07-07T07:39:00Z
+    webUrl: "https://menafn.com/1100443747/ONE-Championship-Microsoft-partner-to-reinvent-digital-fan-experience"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 59
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://www.sify.com/uploads/bmw1_ug4ia0jbedjjh.jpg"
-        width: 872
-        height: 578
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?806920"
+        width: 381
+        height: 250
         isCached: true
   - title: "ONE Championship and Microsoft partner to further accelerate and reinvent digital fan experience"
     excerpt: "Microsoft named ONE Championship's preferred cloud provider, delivering new fan engagement experiences powered by Microsoft Azure and"
@@ -67,6 +65,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "+jcjEzX8PMwy3pUbdlFy1omwR0+mPWcRNeYqAazKoSSAEllIHajj4eG+0GaQXn2x1iTR8SIRSztahMqRE6XLCWbg4WIz+ZhIKkFPmvo8PtkavN0E3jvwiIm1EXP/+hU9YvNWGF3SmDgFRvGtIOqB5fCN4bDVnFsCwvi9W50vecdVPeVhxTeC/oyRWH9tULvLClS9QKdsd25NGyYqBzCE3bhSfgaWr0pkGMKj2oW8p8mOrhOnN9vjwEfb7Xj6Y4h/bP00NXIzArb24IsBjsJxk4bSoT9STtAR4wU6UAw5EVttG7n24QHpcppiFxbTlPCVKAX+4pB+Mz93EbIlxbl67Q==;ZfGQ6jcNykDr05bkyl3S4A=="
+secured: "dS1A4OEl7ePd7oPLJlQJP6qwlq5IVfFg398napDII3pbnzsN3/PqHtcNRYoPL0S8Oj/NGbfwBfNLZnFtYXqEuORBoZ4LCW6OouI7M17XDqZLCFGv89Lfq1Z1PciizOjd9C6hNNk9xNrC4pV2iNrjlaAVq8w95hOBlPuPcYRFWB8FZimvltM/0GqZ997PAx/I6o6B8EnqjRaW1qQCFNcJZIUsGrql2aCJqnoinIaxjqMSYcCLrhoNz5IzxfBC6Woca7wC8z1CGrUPErSdMZx9kGURPU9N/tIMPW0RuXXm1jQ1rRgrA/ltFVPXAkQP8Ogdzjj4j7K4KIuH/WpKrjtUfg==;crvXEz/8BiCfmXyZ/gEOvw=="
 ---
 
