@@ -25,19 +25,19 @@ images:
     title: "Alarm systems upgraded with Facewatch biometric facial recognition for workplace security"
 
 related:
-  - title: "CBP’s Outgoing Biometrics Lead on Law Enforcement Use of Facial Recognition"
-    excerpt: "Law enforcement should be careful using facial recognition in public spaces. But with the right applications, authorities and transparency, federal programs could serve a lot of good."
-    publishedDateTime: 2020-07-02T19:21:00Z
-    webUrl: "https://www.nextgov.com/cio-briefing/2020/07/cbps-outgoing-biometrics-lead-law-enforcement-use-facial-recognition/166629/"
+  - title: "Citycom Employs Facial, Object Recognition for Covid Remote Working Security Checks"
+    excerpt: "The new solution can give firms insight into the activities, performance, and health of employees working from home during the Covid-19 outbreak, to monitor for"
+    publishedDateTime: 2020-07-03T17:04:00Z
+    webUrl: "https://www.waterstechnology.com/operations/7649221/citycom-employs-facial-object-recognition-for-covid-remote-working-security-checks"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
+      name: WatersTechnology
+      domain: waterstechnology.com
+    quality: 33
     images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/07/02/shutterstock_1324894688/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.waterstechnology.com/sites/waterstechnology/files/styles/metatag_image/public/article_copied_files/fingerprint-security-580x358.jpg?itok=k1tT4vB3"
+        width: 378
+        height: 234
         isCached: true
 
 secured: "pYMgED23fofI21RDtGD9bEYHKWWAEltB6ojP397qGRgbxWx1Q6nyg66noqLDt1WYA8kyXUecD4pEmhKraK75h6WIyr+FLfKTbipZUQD9E0oD42GSPjbOONl4WymHjm14ngVS0Fet4SE2giXXWu5jl18hZAwpqKqTzy9LL44O4uPFaYPpIKD6KzK/rl6WYvPMPKxwCF7SKG8NVcpi4rSxIW05FTXcwiGlk4BIODfU/x0CiG0Dk0gSfXmz3iw2fxKOiy0aqyEPoLNk5MlCnWPrFPf+wBPti4ek/2WbWlaqSiG8S+2U80Jc2GvXgczl0lghmYMbVKyAzWM8IpnzduAchn6ub2/w/Ktw1Txo6+qdtJujf1zt+cSTbdgbaixxNBVLaBSgFH8TpDKnHG51fDBQdc5G8SnyD/R8ejBTyJsbAn9K63o1zMBWyCxGICwryY+/iVSzoa6+o18WBVyVKLmRZ/kz7pRCLjF9zSp5/Bh5owfX/D5o7LYGgg0b2CrYTROguxoXoC0uq2Tl5ofqjg/W1w==;cz3f3L/XPTlZN6d3eaTXMA=="

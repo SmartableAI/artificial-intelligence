@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "North America Facial Recognition Market 2020 Share, Trend, Segmentation And Forecast To 2024"
+    excerpt: "Facial Recognition Industry Description The Global Facial Recognition market is projected to reach $8.74 billion"
+    publishedDateTime: 2020-07-03T19:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-2020-share-trend-segmentation-and-forecast-to-2024-2020-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-Driving Car Market Size, Outlook, Trend and Forecast, 2020 – 2024"
     excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
     publishedDateTime: 2020-07-06T07:38:00Z

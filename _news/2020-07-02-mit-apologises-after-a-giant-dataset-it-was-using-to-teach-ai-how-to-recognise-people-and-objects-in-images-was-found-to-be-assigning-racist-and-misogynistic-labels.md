@@ -26,22 +26,6 @@ images:
     title: "MIT apologises after a giant dataset it was using to teach AI how to recognise people and objects in images was found to be assigning racist and misogynistic labels"
 
 related:
-  - title: "MIT Takes Down Popular AI Dataset Due to Racist, Misogynistic Content"
-    excerpt: "MIT permanently pulled its 80 Million Tiny Images dataset—a popular image database used to train machine learning systems to identify people and objects in an environment. The reason? It used racist,"
-    publishedDateTime: 2020-07-02T14:52:00Z
-    webUrl: "https://gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206"
-    ampWebUrl: "https://gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 87
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dobhuewgleklvyonjkjx.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "MIT Deletes Database That Taught AI to Be Racist, Sexist"
     excerpt: "Unfortunately, a massive and popular training dataset from MIT taught a bunch of algorithms to use racist and misogynistic slurs. AI learns to interpret and identify objects in pictures after poring over thousands of images that were already labeled."
     publishedDateTime: 2020-07-04T04:52:00Z

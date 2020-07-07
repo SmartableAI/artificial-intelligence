@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN247245"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN247245"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -35,6 +35,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Chinese AI start-up Cambricon to raise US$367.7 million through IPO on Shanghai’s Star Market"
+    excerpt: "Cambricon, one of China’s most valuable AI chip start-ups, has set a listing price of 64.39 yuan per share on Shanghai’s Star Market."
+    publishedDateTime: 2020-07-07T06:24:00Z
+    webUrl: "https://www.scmp.com/tech/start-ups/article/3092125/chinese-ai-start-cambricon-raise-us3677-million-through-ipo"
+    ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3092125/chinese-ai-start-cambricon-raise-us3677-million-through-ipo"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3092125/chinese-ai-start-cambricon-raise-us3677-million-through-ipo"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 76
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/07/dad4dcb4-c017-11ea-8c85-9f30eae6654e_image_hires_143815.jpg?itok=Dc-FV1XS&v=1594103901"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "P7UnnlAwix2bSMUM43F7V/WWNjbrMC17EWoDHc26Jg0YrCM9q30URriEHwQhWICmp1k/LlYMJ5vzbPo56dRyOUSg2D/MjeHrbxQ8VJ5bb2lE4/NNRMPiQviIIarhXBdo+wznMUkX3AItPhfoHMIMD1t6A4cwex6AhrwB6vSidJP9q+6QC/nkuQEuR+jNTPj4NFautgvcwSEEor2k+6ewxBgpYSZdC1qWsTIj3Fcm1CFmOb6F9hKkRlBhrhiuKk90OQl4fo5aNmYBzSswIVL4m2iTii5dh0pE6acGT2MxQi5Zu5wLQ5nANssgSg0KyBRHO02GFmtKIWagJXOdAuFZ3w==;Sbd2DvXymlSZDZBUMsJv2g=="
 ---

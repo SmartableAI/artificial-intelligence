@@ -25,21 +25,33 @@ images:
     title: "Facial recognition technology is one of the most racist weapons in the police arsenal"
 
 related:
-  - title: "Easthampton is the latest Massachusetts community to pass a municipal ban on facial recognition technology"
-    excerpt: "According to the American Civil Liberties Union of Massachusetts, a recent poll showed nearly 8 in 10 Massachusetts voters support a moratorium on government use of face surveillance technology, which is currently unregulated in the state."
-    publishedDateTime: 2020-07-02T13:38:00Z
-    webUrl: "https://www.masslive.com/news/2020/07/easthampton-is-the-latest-massachusetts-community-to-pass-a-municipal-ban-on-facial-recognition-technology.html"
-    ampWebUrl: "https://www.masslive.com/news/2020/07/easthampton-is-the-latest-massachusetts-community-to-pass-a-municipal-ban-on-facial-recognition-technology.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/07/easthampton-is-the-latest-massachusetts-community-to-pass-a-municipal-ban-on-facial-recognition-technology.html?outputType=amp"
+  - title: "Africa: Future of Facial Recognition Technology in Africa"
+    excerpt: "Analysis - When several United States (US) companies withdrew their facial recognition software products amid concerns about flaws, biases and misuse in the wake of the killing of George Floyd, did leaders in sub-Saharan Africa take note?"
+    publishedDateTime: 2020-07-07T07:21:00Z
+    webUrl: "https://allafrica.com/stories/202007070165.html"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
+      name: AllAfrica.com
+      domain: allafrica.com
     quality: 41
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6XHOCAFJEZAH3J4XCWVGBTIN3E.jpg"
-        width: 2247
-        height: 1498
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
+  - title: "CBP’s Outgoing Biometrics Lead on Law Enforcement Use of Facial Recognition"
+    excerpt: "Law enforcement should be careful using facial recognition in public spaces. But with the right applications, authorities and transparency, federal programs could serve a lot of good."
+    publishedDateTime: 2020-07-02T19:21:00Z
+    webUrl: "https://www.nextgov.com/cio-briefing/2020/07/cbps-outgoing-biometrics-lead-law-enforcement-use-facial-recognition/166629/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/07/02/shutterstock_1324894688/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "zhpmNGXIcwK34O9bAcLVdozBPYXiyiGxJ7VdYkMNRd5Zj7Po0HhZUMUHCh9gyHKEHn/f9cVBpgXD+QHMwk1pW7srPUjll/QuqMF6Qi165ENV8mG2IgE6xAyX7L4D2fKLMwqnUdqjKTZ0sHy3yL6vDZAbgilFeYBYKlfz4oHuPs1pHC98yIuIAT0SO1Pjp4z3GKgC+ImjnCF+fK8Kjh4Vn6/nfNZIR4hAzu3tANB7YIm2fsJxJEJSQnFk6wc+gAWTr7I7dY4SWL/Gy68gScqPEP7CKBYCDBBgYpyJsn19SZSrF8z1Q4CICKKPnfgHlqnGZWcqtsi+qj956PQnaaKRxA==;eM4v/hvwRA3aqECuK8VvNQ=="

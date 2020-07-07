@@ -59,17 +59,15 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Clearview AI stops offering facial recognition technology in Canada"
+  - title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
     excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
-    publishedDateTime: 2020-07-06T21:26:00Z
-    webUrl: "https://www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7?amp"
+    publishedDateTime: 2020-07-06T20:59:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-06/clearview-ai-stops-offering-facial-recognition-technology-in-canada"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Clearview AI will stop offering facial recognition software in Canada, privacy officials say"
     excerpt: "Clearview AI, the controversial U.S.-based technology firm, will no longer make its facial recognition software available in Canada, according to federal and provincial privacy authorities. A statement issued by the Office of the Privacy Commissioner of Canada on Monday said Clearview had advised officials of the move in response to an ongoing investigation by privacy authorities."
     publishedDateTime: 2020-07-06T20:04:00Z
@@ -101,6 +99,22 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
         width: 1250
         height: 805
+        isCached: true
+  - title: "Can Any Store or Business Use Facial Recognition Cameras in Australia?"
+    excerpt: "Facial recognition technology is on the rise globally and with companies in Australia looking for ways to use it with customers, the lines between privacy and convenience can get a little murky. Part of the reason behind this is that many of us aren’t ..."
+    publishedDateTime: 2020-07-07T07:33:00Z
+    webUrl: "https://www.lifehacker.com.au/2020/07/can-any-store-or-business-use-facial-recognition-cameras-in-australia/"
+    ampWebUrl: "https://www.lifehacker.com.au/2020/07/can-any-store-or-business-use-facial-recognition-cameras-in-australia/amp/"
+    cdnAmpWebUrl: "https://www-lifehacker-com-au.cdn.ampproject.org/c/s/www.lifehacker.com.au/2020/07/can-any-store-or-business-use-facial-recognition-cameras-in-australia/amp/"
+    type: article
+    provider:
+      name: Lifehacker Australia
+      domain: lifehacker.com.au
+    quality: 59
+    images:
+      - url: "https://www.lifehacker.com.au/content/uploads/sites/4/2019/08/surveillance.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "EU Once Again Considers Facial Recognition Ban"
     excerpt: "The European Union is once again considering a ban on facial recognition. The possibility of a temporary ban surfaced in an early draft of a European Commission white paper in January, but those plans were eventually abandoned in the final draft of the paper."

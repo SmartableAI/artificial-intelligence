@@ -1,25 +1,24 @@
 ---
 category: news
-title: "Clearview AI stops offering facial recognition technology in Canada"
+title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
 excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
-publishedDateTime: 2020-07-06T21:26:00Z
-webUrl: "https://www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7"
-ampWebUrl: "https://www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7?amp"
+publishedDateTime: 2020-07-06T20:59:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-07-06/clearview-ai-stops-offering-facial-recognition-technology-in-canada"
 type: article
-quality: 67
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - Computer Vision
   - AI
 
 related:
@@ -102,6 +101,22 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
         width: 1250
         height: 805
+        isCached: true
+  - title: "Can Any Store or Business Use Facial Recognition Cameras in Australia?"
+    excerpt: "Facial recognition technology is on the rise globally and with companies in Australia looking for ways to use it with customers, the lines between privacy and convenience can get a little murky. Part of the reason behind this is that many of us aren’t ..."
+    publishedDateTime: 2020-07-07T07:33:00Z
+    webUrl: "https://www.lifehacker.com.au/2020/07/can-any-store-or-business-use-facial-recognition-cameras-in-australia/"
+    ampWebUrl: "https://www.lifehacker.com.au/2020/07/can-any-store-or-business-use-facial-recognition-cameras-in-australia/amp/"
+    cdnAmpWebUrl: "https://www-lifehacker-com-au.cdn.ampproject.org/c/s/www.lifehacker.com.au/2020/07/can-any-store-or-business-use-facial-recognition-cameras-in-australia/amp/"
+    type: article
+    provider:
+      name: Lifehacker Australia
+      domain: lifehacker.com.au
+    quality: 59
+    images:
+      - url: "https://www.lifehacker.com.au/content/uploads/sites/4/2019/08/surveillance.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "EU Once Again Considers Facial Recognition Ban"
     excerpt: "The European Union is once again considering a ban on facial recognition. The possibility of a temporary ban surfaced in an early draft of a European Commission white paper in January, but those plans were eventually abandoned in the final draft of the paper."
@@ -214,6 +229,6 @@ related:
         height: 614
         isCached: true
 
-secured: "AQPU23RmsJG4Qfqek1Fo083rtS09ndTnVl9+rcLsd6ZA4H5WUW80hTkxee3bwVrr98jQ1xsccMJC2gs3LNKjJ9rL7efKb/Hi3DV8VnaXfcygRryIheuK4PA5iwjDHfU6FIwJybZTDnwylYzm2Q24mcDmOVqylFzjdlpvUCcIj5hKikCph9xgUoHHYfaWrg+/GBgYQOifyZVxejjmvva7y9/E5OzJucnJ184frk9EXVeuri0uKh7nfowXn88b0h/NMVREUswytL9JYWEE+oPCNEt3i15/u3C0Ut/1YpQgW1Gb/vkfv3eSRmXK8z2ooYdLIWf8qZo/6aDbqO+UuJTctg==;dqoY8g1WpJ1ObDE9dOvDDQ=="
+secured: "atqMTxAPttgIz0tR7eG4c3IMmUQdKmVJDbqVtPL3vNJ6Tx6A/0xnp+w5R42nAsXBLbKjTxk2Llk4NiDjOEPwuR2Acx9YZLAl2iPV7s6MFMGOebDiSLK9/zjJ1uF9YK1MJf+6LjgdYT/TFKiVQ/Ly5Q2W95eOo/c5/vOnroWRSibjNKZyMfLjgGVl/3O+FIwBX75LeAFEyF6bUymFa4LmULNest+G9Ftpi24sGWUtNYYb97u3iJ8vgmeyY2VJ9/rFCFP8hO4Ad4MiayYmiHIWbJ0U4jSE+Tu+zCS9LvxocCdMBEiVMn96U7C8XIjCAy4xi3/SPuTi/5HGcwM69dMEMg==;tJ3GxxP3D0fsX8ffSlesYg=="
 ---
 

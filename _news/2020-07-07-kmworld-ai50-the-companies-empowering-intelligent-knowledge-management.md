@@ -3,7 +3,7 @@ category: news
 title: "KMWorld AI50: The Companies Empowering Intelligent Knowledge Management"
 excerpt: "As the drive for digital transformation becomes an imperative for companies seeking to compete and succeed in all industry sectors, intelligent tools and services are being recognized for their key roles in enabling valuable speed,"
 publishedDateTime: 2020-07-07T05:34:00Z
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=141554"
+webUrl: "https://www.kmworld.com/Articles/Editorial/Features/KMWorld-AI50-The-Companies-Empowering-Intelligent-Knowledge-Management-141554.aspx"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "KMWorld AI50: The Companies Empowering Intelligent Knowledge Management"
 
-secured: "xSlkU2iXWytBM+npvk8d2yj3hiHAuaBPPl2jBmQK1eQTvlCOT8NjhBfpWstOJlrlkGKYpmMWF/OnP3PNs9Pwrrk71ffhLLGuU3xXA2Yyn1GtpwPyiXPHNwD2vXLCmXCglZfVaKPJxDhXNNV+qPZPjZhiwRpA3QCGHpygye8KqNRHNjPiafGciiUN7DWsa0PDOM37Im1Agmk6fEV7pLI45VEjVTq4S43k1JJKT/aZfWstuRxzXV0PbKzGEIsCHW0Ad3IZOQGcKlVxPGcV10bV7cUjgfLXD42IcR+tNXI5JsX6IQtZiZeXE/OrBBy7D5V/a3TcIGdh3Z1zqVST7fdabQ==;gD1/qiEPz0lu3xj/vJIGhg=="
+secured: "AH8UJDI92ypHahb/Udf8InAfET38IkOzFgnMXFuJlXwaL5PzQ9N/JAh8roGTNHj7rjFAGL45tbpF9i3w4Q48IUaa/mAcdrrRZQOi6aOu3RO0I58JhFp7BWxhwhDTBSJiFyAbLZaE8y4fz1JThUTZ2M3HMoq/cKg6ZbCko3tyRpS8VOc5PLZAs1TSn76RUgIn81YJVilrfpKf95BI08iU9FxT2lVYINwosVnsK4/ZWqya5rQL9lEkjLyNqB2272m7f7GrmOA3l4QDKxRnDS5PLclKqDbBQbjmHV20Q1ldQrqGdcZESrLWWDepu3OXYwR6l36geg8Xu1dxCEj54Pf8OA==;3xNd1LChGscKE2gm8jRtxQ=="
 ---
 

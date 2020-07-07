@@ -3,7 +3,7 @@ category: news
 title: "Gary Fowler, CEO of GSD Venture Studios Will Present Emotion AI and Going Global With David Yang"
 excerpt: "An inevitable question arises: with AI’s ability to learn at such an incredibly fast pace, when will the line between a human brain and an AI brain begin to blur? And will AI ever catch up with — or even surpass — humans in thinking,"
 publishedDateTime: 2020-07-06T12:00:00Z
-webUrl: "https://apnews.com/b1af199fdc1b244fbe34c357c4f1576d"
+webUrl: "https://apnews.com/e14dc9b790b246c2377d451ff13ed934"
 type: article
 quality: 24
 heat: 24
@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Gary Fowler, CEO of GSD Venture Studios Will Present Emotion AI and Going Global With David Yang"
 
-secured: "V48u8YdvnwYmNb3SjeijnCGUl4sfZYslc5mIjmQcixVk54EmIf8VTCVNYV6Wb25VUsEgwlhQBXz1Q1jN8MXEUokNzHNn8XpX5eMho3Ix0IaAKSFWF3mkuUC2VQv4xXP+BaZXM0DZ6LTr/9Rv8coilCN8HT2kJFzOI44xBS2E2/+FV79YKwEt8gyrQe4ix4POctDSW08+OUonfImPZpVw1rUIgyfAwDsoV/tRUcWIM1X/px0bP4Y1NJMIzsc1paUtRlnUpjcyTqNHNql2/FjY/9Xs2nsZ8b7pqg8gScE/dS7z1hBUU7iWPSTcbkDvrAkPDcwb16fbgQyjLiTQ77GwDg==;FBnUOMAnaeVrV0X8CEH89w=="
+secured: "tMq6kXpES5w/NEIDOnx3HCED3HWk201ve3xK9J7Cbd07NDmUJILUBsGIrftoLtkvA7/a3muGPd8j4kd0PoVm3G4wnba9S18U59wGm6ca311HUNiNq69C0N0ul/WfZnzMGy4HHxFuXwu6Iz5ofEnG+wknrHIGPuwGnkNJguQkgqtggXVYtGelLrOd2RA7IeAVoMrO+j3ZcwVsV9KJai19pJpy7g3X/di58K48sJd4oE96YLZLUtftQOfLYRzfce/jVj5qB6fP79ngr4lIELrIDRnaN5bBnronKxnBNmPEmkphctVdJZ16qnTaH1uPLZVqdMenuIpkyRiPUjdZMDZDWA==;x9sNy2C8KD49mZ/dARPCww=="
 ---
 

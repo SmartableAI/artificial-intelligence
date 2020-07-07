@@ -1,26 +1,28 @@
 ---
 category: news
 title: "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience"
-excerpt: "Microsoft named ONE Championship’s preferred cloud provider, delivering new fan engagement experiences powered by Microsoft Azure and best-in-class collaboration with Microsoft 365"
-publishedDateTime: 2020-07-07T02:24:00Z
-webUrl: "https://www.nationthailand.com/sport/30390882"
+excerpt: "The largest global sports media property in Asian history, ONE Championship™ (ONE), and Microsoft Corp. (Microsoft) today announced a strategic partnership to harness the Microsoft cloud,"
+publishedDateTime: 2020-07-07T06:28:00Z
+webUrl: "https://indiaeducationdiary.in/one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-the-digital-fan-experience/"
+ampWebUrl: "https://indiaeducationdiary.in/one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-the-digital-fan-experience/?amp"
+cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-the-digital-fan-experience/?amp"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: nationthailand
-  domain: nationthailand.com
+  name: India Education Diary
+  domain: indiaeducationdiary.in
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://media.nationthailand.com/images/news/2020/07/07/30390882/800_be8b4c575054762.jpg?v=1594087764"
-    width: 675
-    height: 450
+  - url: "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/07/unnamed-1-1.jpg?fit=1119%2C746&ssl=1"
+    width: 1119
+    height: 746
     isCached: true
     title: "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience"
 
@@ -55,7 +57,16 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Microsoft services chosen by One Championship"
+    excerpt: "Through Azure AI, machine learning and data analytics, One will expand its core data functionalities and transform its direct-to-consumer digital experiences. To further delight fans, One will provide them with unique sets of data and statistics to better ..."
+    publishedDateTime: 2020-07-07T07:36:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-services-chosen-by-one-championship--1345464"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
-secured: "Vk1yOtjkNSMHOAany+91Lluv+ci0y5sWjMyv80dcCRmWwzSFCq+VY0p0zucWdIOvszDS/d1rcQpm08RfiKfpK6uHgNoL/7v1+Bstyw/L5Lb+8qYl0f5y+GVozgPGkmGLCpwVtcN3gmtzSGRlWeaqmBa4ZmD4JM85LU3ucUjJlRQ7BFkoVq9EeFF2+81jFeuuTfk0jJV8Z4L9fkAT1wT3Bktifq0dqjPJLr4sxfHSfHaxwXg+LULiWl+zUKpttipJm7iWoC2p4jC7CHTd+CcLBSKz+gxpANa62ypBE3BbR2WgxfuqvnevdBufBbI+opCcy14x7zL3jSj+4hdDlZvn4w==;ofcj21v46k3VRoQDebO05Q=="
+secured: "+jcjEzX8PMwy3pUbdlFy1omwR0+mPWcRNeYqAazKoSSAEllIHajj4eG+0GaQXn2x1iTR8SIRSztahMqRE6XLCWbg4WIz+ZhIKkFPmvo8PtkavN0E3jvwiIm1EXP/+hU9YvNWGF3SmDgFRvGtIOqB5fCN4bDVnFsCwvi9W50vecdVPeVhxTeC/oyRWH9tULvLClS9QKdsd25NGyYqBzCE3bhSfgaWr0pkGMKj2oW8p8mOrhOnN9vjwEfb7Xj6Y4h/bP00NXIzArb24IsBjsJxk4bSoT9STtAR4wU6UAw5EVttG7n24QHpcppiFxbTlPCVKAX+4pB+Mz93EbIlxbl67Q==;ZfGQ6jcNykDr05bkyl3S4A=="
 ---
 
