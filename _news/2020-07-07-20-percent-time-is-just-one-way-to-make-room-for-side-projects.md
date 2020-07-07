@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "‘20 Percent Time’ Is Just One Way to Make Room for Side Projects"
 
-secured: "uqqT8rO5U0HMul/EkkVuVKyTFYBs4JkxyFVffdHGHwUg6QcNn1Luzh8xtS2FF6ZZpRVEGCA2rHujHtMBYgH0ThIoRGi91L5lbumGTl5tHcI8g8JtH7IcU0nwV1SLEozKqM3L/M2/jkCBfqPDUgFEgY7KPjG4C7whUWtBqHcg7wpaIhVKgovOk7bTCGp1+rhqmVrDsKv3E3UWzsogsEv5IJYKq7bOOQtZo/WnANGll+/KtGrekUiBevzWRZpuYUQk5IinXO2M2truQc2zsbCXix+OYsI6TxjZrdT6zPg+SY9tJiLOwgGZFgogLBfYabOiI0CoULaCTcW/0Q/V7nO2DQ==;/du7k7b013CfBl2YLIZw9Q=="
+secured: "L3Q68NuR9+sXdISzCqKYww8KjWWEd2CxZ2Do/ykHq6TlNjS5kkj4RiCwzzZf2Abb5I4sFsQ44k3GyWBIDjiw1BjOYnuVsj7K0GLQs6xH7jJKUnAPisGIQySdah+4PLVrjXcebv20+Q5AaXAoq1bLQ28HKxu+GAkOVY9jMNLYFzuKZLilu/xk3AvdE0nvQwxMdfNbK/4yaWqHiJ/U0koG2CmwhKcQU7rMoKfm/6sgAI1XS/oOZ/QlndLCuKNH9B3ri4ntojnmLeuEVb2qocO1hMZLKyOOPH7PdG5VmHaZDPL0rzDaTbBsz1p2J+Y0/n4QyZymmPUZygD2TMpc4rCSghslYAp74uLwE+NsputeVLeimYr5TzgGsu8GBN1Shy7MOVDeD8xse3Q15pNV0wereqrlVT7yrFKbNJBd97nKwZo76tOLSdRPr9dQoWG5zc/Gcn/VK06R/q8EiatVsMbH4iNvStyC/udVMk0qy9arA10LS/PyBDBxzGdg1esCmRdCXBJ6/qEbf5r+HLRqYppBtw==;Zr2Jop7QhObIlb/uwABPoQ=="
 ---
 

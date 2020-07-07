@@ -2,6 +2,100 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-05-19-mount-sinais-ai-can-diagnose-covid-19.md",
+      "title": "Mount Sinai’s AI can diagnose COVID-19",
+      "excerpt": "Researchers from Mount Sinai believe they are the first in the US to use AI, combined with imaging and clinical data, to diagnose COVID-19.",
+      "webUrl": "https://www.engadget.com/mount-sinai-ai-diagnoses-covid-19-152430735.html",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-05%2F1b148db0-99df-11ea-bffc-6f21960ebf57&client=amp-blogside-v2&signature=289127313e83e511d92b33c506a4697f8eb8a732",
+          "width": 600,
+          "height": 350,
+          "title": "Mount Sinai’s AI can diagnose COVID-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/mount-sinai-ai-diagnoses-covid-19-152430735.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mount-sinai-ai-diagnoses-covid-19-152430735.html",
+      "publishedDateTime": "2020-05-19T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-azure-cognitive-services-learns-more-languages.md",
+      "title": "Azure Cognitive Services learns more languages",
+      "excerpt": "It wouldn’t be a Microsoft Build without a bunch of new capabilities for Azure Cognitive Services, Microsoft’s cloud-based AI tools for developers. The first new feature is what Microsoft calls the “personalized apprentice mode,",
+      "webUrl": "https://techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/",
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1173107665-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Azure Cognitive Services learns more languages",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/amp/",
+      "publishedDateTime": "2020-05-19T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-launches-new-tools-for-building-fairer-machine-learning-models.md",
       "title": "Microsoft launches new tools for building fairer machine learning models",
       "excerpt": "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s",
@@ -1010,91 +1104,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-europe-to-facebook-pay-taxes-and-respect-our-values-or-well-regulate.md",
-      "title": "Europe to Facebook: Pay taxes and respect our values — or we’ll regulate",
-      "excerpt": "A livestreamed “debate” yesterday between Facebook CEO Mark Zuckerberg and a European commissioner shaping digital policy for the internal market, Thierry Breton, sounded cordial enough on the surface,",
-      "webUrl": "https://techcrunch.com/2020/05/19/europe-to-facebook-pay-taxes-and-respect-our-values-or-well-regulate/",
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/Screenshot-2020-05-18-at-18.51.27.png?w=680",
-          "width": 680,
-          "height": 382,
-          "title": "Europe to Facebook: Pay taxes and respect our values — or we’ll regulate",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/europe-to-facebook-pay-taxes-and-respect-our-values-or-well-regulate/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/europe-to-facebook-pay-taxes-and-respect-our-values-or-well-regulate/amp/",
-      "publishedDateTime": "2020-05-19T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-shot-in-the-arm-6-use-cases-of-ai-that-will-disrupt-healthcare-space.md",
-      "title": "Shot in the arm: 6 use cases of AI that will disrupt healthcare space",
-      "excerpt": "Machines that think and talk like us may once have been possible only in the realm of science fiction. In 1950, all that changed when British mathematician Alan Turing created the Turing test, still in use today,",
-      "webUrl": "https://yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Healthcare-AI-1589887107545.jpg?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": "Shot in the arm: 6 use cases of AI that will disrupt healthcare space",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/05/shot-arm-ai-disrupt-healthcare-space/amp",
-      "publishedDateTime": "2020-05-19T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

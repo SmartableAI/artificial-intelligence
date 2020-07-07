@@ -5,8 +5,8 @@ excerpt: "Face recognition behavior and associated brain responses can be enhanc
 publishedDateTime: 2020-07-07T17:19:00Z
 webUrl: "https://www.nature.com/articles/s41398-020-00903-5"
 type: article
-quality: 11
-heat: 11
+quality: 13
+heat: 13
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41398-020-00903-5/MediaObjects/41398_2020_903_Fig1_HTML.png"
@@ -24,6 +25,6 @@ images:
     isCached: true
     title: "Intranasal oxytocin modulates brain responses to voice-identity recognition in typically developing individuals, but not in ASD"
 
-secured: "N7eOHyq0I4/G/VD/sutSvtW9PptgDJDrU4Zvku0rPUx6xquxUdLSqW6N1quvCqqiXBPg4RoehJSABIML/tj5WxTDGEv4/DcEcBLPO6lSTBSCHSzIjNXiwGtSa7BQ94TEBsfpQScU5s/nehWtkaTPTjIDTlDMBmatIW7o2EZ5fmXQ3lmwpNcel7UHh6xJqRB2xLYpQ3z+MI24ZcDCYMfyTVg1RkglSAbcRgNduV42X5eQZhAJBcgf6ArN+SFlEvwkX/N58on6pb2qPdenm0Em52xEWg0xxAjDLIm0aYP65k3NgV2l2BkZUzDNUo5k72XlcnxOcbcJOnjs1oS9HeXcQw==;ZGv8Np1Mk6pzSPHCYH7z7g=="
+secured: "1qNiIweC0knN45b7GMXWpTi7ixp1SEJ61H9KbtiIlzBpgtWxFWihFZ0adz/uypacMUnbKfNYHyLYwd3XrX4PoNeuZrCJKyFnCh3kaZJNm+vO7csVDlJn6nQ7gJpldIOhxrVgeCqc3vsrqExq92w5C02p4cnNvyM/46TUMAD9q4qdHa1/paGK8hcv1XYpXp3zflR/2cInFrslKajrzG6gnOmwy6N1jUGR/qXCZD2GxE6mxiE87llTTXzqNhP00ymd/JznB465Paj/Dd0LSAeMDmXw7/mjIs6R52+91YYwIyirIFlwU83KnppQ88dW48UB2Wr6PThhtF+TW++M6QArrgWUsWbhV4PHP35AmL2MphJD1WVfMZF2/evIpvfJBgwfhgYlD1t092HN5qPkp/dwrgAlTnmBkPBN5w50ocMODY/SXQQ6ePWHPW58PZvWe1GfgfyEwTwY4Mh3sKut1LnM4dZ2M7+aoCPEbPPDX+Ow5rPXrcKlYyXNeblCgRUTMB0tTjC4+sEUIwJboFWFtPEc6A==;iZ2idiat6prKfyGCEMdRqw=="
 ---
 

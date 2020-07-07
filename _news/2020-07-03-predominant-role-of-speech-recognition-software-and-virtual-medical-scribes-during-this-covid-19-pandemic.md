@@ -25,21 +25,21 @@ images:
     title: "Predominant role of Speech Recognition software and Virtual Medical Scribes during this Covid-19 pandemic."
 
 related:
-  - title: "Speech-recognition software doesn't understand everybody"
-    excerpt: "If you don't speak English like a white male, your words are less likely to be correctly interpreted. Digital voice assistants have to be trained -- women and African Americans figure less in the samples used."
-    publishedDateTime: 2020-07-03T11:49:00Z
-    webUrl: "https://www.dw.com/en/speech-recognition-software-doesnt-understand-everybody/av-54038584"
-    ampWebUrl: "https://amp.dw.com/en/speech-recognition-software-doesnt-understand-everybody/av-54038584"
-    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/speech-recognition-software-doesnt-understand-everybody/av-54038584"
+  - title: "COVID-19 and Artificial Intelligence: How the pandemic has re-ignited a focus on the software"
+    excerpt: "The COVID-19 pandemic brings with it increased focus on Artificial Intelligence (\"AI\") as developers rush to create software, such as contact"
+    publishedDateTime: 2020-07-07T19:12:00Z
+    webUrl: "https://www.savannahnow.com/news/20200707/covid-19-and-artificial-intelligence-how-pandemic-has-re-ignited-focus-on-software"
+    ampWebUrl: "https://www.savannahnow.com/news/20200707/covid-19-and-artificial-intelligence-how-pandemic-has-re-ignited-focus-on-software?template=ampart"
+    cdnAmpWebUrl: "https://www-savannahnow-com.cdn.ampproject.org/c/s/www.savannahnow.com/news/20200707/covid-19-and-artificial-intelligence-how-pandemic-has-re-ignited-focus-on-software?template=ampart"
     type: article
     provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 44
+      name: Savannah Morning News
+      domain: savannahnow.com
+    quality: 46
     images:
-      - url: "https://www.dw.com/image/45301374_403.jpg"
-        width: 940
-        height: 529
+      - url: "https://www.savannahnow.com/apps/pbcsi.dll/bilde?Site=GA&Date=20200707&Category=NEWS&ArtNo=200709470&Ref=AR"
+        width: 2097
+        height: 1429
         isCached: true
 
 secured: "uAvGyS5HFH0PVmsyMFBwSSxvk6JL4i9K7dyeszGE+PK0ifb4ToGlGEML16gQWs7n1QgT4PHQcBh7eMnsAG74OJmrQFN4ozQbI7CK4fI12pXPB9XMU2p8g+qI5cJh8Xz/3VjWww96IwtWqDFwU4JxYwzf+SuhJVB8qhyKcmZk/8Dvxvi5k35zq27lUoRMDYoeqO5POx6++OXRxbEJqXnGH4Mb9T/IzkT3+eZg2PA5OPPrF/O/y22Uz12Ygz88SYt7irtrdDbOmfDz1/iW5gzyZ/8jYZbF1Fet0EhOHQDtn1LFaSEXjYVbqktMMh/c/427ezrD9BVNr7KtqI9cupluWA==;uXddNj8VqNRlOivPKJB3Kw=="

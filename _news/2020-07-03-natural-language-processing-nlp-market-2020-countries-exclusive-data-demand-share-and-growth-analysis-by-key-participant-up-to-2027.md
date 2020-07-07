@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Automatic Speech Recognition Market 2020 Industry Size, Cost Structure Analysis, Growth, Share and Opportunities and Forecast to 2026"
+    excerpt: "Jul 03, 2020 (The Expresswire) -- “Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Automatic Speech Recognition Market” report presents an in-depth assessment of the Automatic Speech Recognition market ..."
+    publishedDateTime: 2020-07-03T17:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-2020-industry-size-cost-structure-analysis-growth-share-and-opportunities-and-forecast-to-2026-2020-07-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market 2020 Size, Share, Top Manufacturers, Segmentation, Future Plans, Competitive Landscape and Forecast to 2025"
     excerpt: "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD"
     publishedDateTime: 2020-07-03T06:01:00Z

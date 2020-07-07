@@ -5,9 +5,9 @@ excerpt: "Google late last month debuted experimental tests for its TensorFlow P
 publishedDateTime: 2020-07-07T17:38:00Z
 webUrl: "https://www.biometricupdate.com/202007/googles-tensorflow-gets-a-new-test-for-training-data-leaks"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Biometric Companies
@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/17145823/cybersecurity-online-authetication.jpg"
@@ -24,6 +25,6 @@ images:
     isCached: true
     title: "Google’s TensorFlow gets a new test for training data leaks"
 
-secured: "gI97rokx42d3EZF3gdoJoga7LMaYnLbfUVhmqvIGd2snjPUIRKdhdp41E0D2zxSLLn4cVHKSUpibsfq4ozdp0rbjbybyXrGd6IF0HHMWXpBGNzQ6OJ4pxfMv78TOay3cMk/ZP22Q7nNlprIIaiVMXkoR7f366h7HaFOZl720NN9vMXyDl3KINUGYFXtF9NDg1LsSHzI0iHO10/9mhXEdDs9dvNxwVLiKqArnLz6Mu6+cpd9snhBSjGOMeKEr7/KzdY3pzJmW9KEM+dMHtSJ+1wLSsI8ePzFAL2SrvKYxaQgfpUgvaAZZY4V5mnDFZaK844ABJiDTCIyMLBCADvs9DA==;x0bm2RCkkLU+GY47VwhpXQ=="
+secured: "Krw0KdjsemHURXys4YPVrdy4Gh1dZOZ5ezpWMWWeh5B9/k69LzTecc6+qFprDfopuznIAyjRl/z757GlHksDpfu0mbr4MCW/uasfmderxSGgP6zryM957JiwJWxRwendTCwS5UZUvTO85gQRLC2TtFI/Hw0oCNMTVEU98jnaB0iNVBHFfJZDO/3YEWtG2DvTqcEerP+trI7TRajPCpzIpwypn7zaYnubHBwdMhvN10Zluv+rqGuJ0B2U6f8HLcch9OTGylvZQiFnlR5Dc81hEromwOd8HHLgs2vhqIjhL7HElVlkJoUpX40K87XFaAHXdRDYb/gFPDA7ZEqNXSkGZh6f+RLxokFJqCMp4VGnQbpMIeLMKo3j0oTk/oCfEUnZnOEGYiy3i1u1Zpf6R1+M4O0VuUdtgdpGz6jWGl8qnkFCpNMAZFOXnfKVl3BNsol6lYvjzd6Ki3cVsJg3NdVkWPMZ2hfqsZO2A5oeduB2UdtIfACJSqWNVZxpaJqxDxhbYDDRx6ll7zZDhYKAJimAhA==;7q4uQ1+QBcavWxgI+RFjRA=="
 ---
 

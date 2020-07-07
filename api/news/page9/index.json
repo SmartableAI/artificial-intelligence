@@ -2,6 +2,98 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-06-29-ibm-donates-trusted-ai-projects-to-linux-foundation-ai.md",
+      "title": "IBM donates \"Trusted AI\" projects to Linux Foundation AI",
+      "excerpt": "As real-world AI deployments increase, IBM says the contributions can help ensure they're fair, secure and trustworthy.",
+      "webUrl": "https://www.zdnet.com/article/ibm-donates-trusted-ai-projects-to-linux-foundation-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/24/e49feb8e-f4c2-4d63-b04f-01c52c8ce0ee/thumbnail/1200x675/38a749d7b83303899c7cf3ade4a6704f/hc-create-account-1.png",
+          "width": 1200,
+          "height": 675,
+          "title": "IBM donates \"Trusted AI\" projects to Linux Foundation AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-donates-trusted-ai-projects-to-linux-foundation-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-donates-trusted-ai-projects-to-linux-foundation-ai/",
+      "publishedDateTime": "2020-06-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-nasas-new-moon-bound-space-suits-will-get-a-boost-from-ai.md",
+      "title": "NASA’s New Moon-Bound Space Suits Will Get a Boost From AI",
+      "excerpt": "Engineers are turning to generative design algorithms to build components for NASA’s next-generation space suit—the first major update in decades.",
+      "webUrl": "https://www.wired.com/story/nasas-new-moon-bound-space-suits-will-get-a-boost-from-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ef6276a30e7532f3baa1c87/master/pass/Science_spacesuit_48905768626_8db23d3bbb_o.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "NASA’s New Moon-Bound Space Suits Will Get a Boost From AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/nasas-new-moon-bound-space-suits-will-get-a-boost-from-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nasas-new-moon-bound-space-suits-will-get-a-boost-from-ai/amp",
+      "publishedDateTime": "2020-06-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-research-artificial-neural-networks-are-more-similar-to-the-brain-than-we-thought.md",
       "title": "Research: Artificial neural networks are more similar to the brain than we thought",
       "excerpt": "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Consider the animal in the following image. If you recognize it,",
@@ -1055,73 +1147,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-behringer-deepmind-12-polyphonic-analog-synth.md",
-      "title": "Behringer DeepMind 12 Polyphonic Analog Synth",
-      "excerpt": "We provide a safe community for finding the gear you want. As its name suggests, the Behringer DeepMind 12 is a 12-voice polyphonic analog synth, with a 49-note velocity- and and aftertouch-sensitive keyboard. Each voice comprises three digitally generated ...",
-      "webUrl": "https://reverb.com/item/34393726-behringer-deepmind-12-polyphonic-analog-synth",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-27T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reverb.com",
-        "domain": "reverb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap.md",
-      "title": "From PhD in AI to fruit chips company, youngster takes a big leap",
-      "excerpt": "Twenty-eight-year-old Bharadwaj Karanth’s company, Suvidha Foods and Beverages, procures fruits and vegetables directly from farmers and processes them into chips and dry fruits.",
-      "webUrl": "https://www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/6/29/w600X390/karanth094206.jpg",
-          "width": 600,
-          "height": 390,
-          "title": "From PhD in AI to fruit chips company, youngster takes a big leap",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp",
-      "publishedDateTime": "2020-06-27T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

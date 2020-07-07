@@ -2,6 +2,92 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-06-09-artificial-intelligence-chips-market-new-business-opportunities-and-investment-research-report.md",
+      "title": "Artificial Intelligence Chips Market | New Business Opportunities and Investment Research Report",
+      "excerpt": "Latest added Global Artificial Intelligence Chips Market research study by AMA Research offers detailed outlook and elaborates market review till 2025. The market Study is segmented by key regions that are accelerating the mercerization.",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-new-business-opportunities-and-investment-research-report-2020-06-09",
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Chips Market | New Business Opportunities and Investment Research Report",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-utilities-to-streamline-the-creation-and-evaluation-of-automl-algorithms.md",
+      "title": "Utilities to streamline the creation and evaluation of AutoML algorithms.",
+      "excerpt": "AutoML Utils. While machine learning is facing a reproducibility crisis, the problem is exacerbated in the subdiscipline of automated machine learning [1, 2] where the number of p",
+      "webUrl": "https://github.com/microsoft/automl_utils",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://avatars2.githubusercontent.com/u/6154722?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": "Utilities to streamline the creation and evaluation of AutoML algorithms.",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-artificial-intelligence-in-healthcare-market-worth-452-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
       "title": "Artificial Intelligence in Healthcare Market Worth $45.2 Billion by 2026 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "© 2020 Insider Inc. and finanzen.net GmbH All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ...",
@@ -1023,91 +1109,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-chip-maker-tsmc-scores-subsidies-picks-site-for-us12-billion-us-plant.md",
-      "title": "Chip maker TSMC scores subsidies, picks site for US$12 billion US plant",
-      "excerpt": "TSMC, the main chip maker to Apple and Huawei Technologies, has moved closer to finalising a fabrication facility in Arizona to allay US security concerns and shift hi-tech manufacturing to America.",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/09/3118219e-aa29-11ea-bf1b-7541df8028ff_image_hires_165019.jpeg?itok=5FwrDhl-&v=1591692627",
-          "width": 1200,
-          "height": 630,
-          "title": "Chip maker TSMC scores subsidies, picks site for US$12 billion US plant",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
-      "publishedDateTime": "2020-06-09T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-new-machine-learning-approach-classifies-common-type-of-brain-tumor.md",
-      "title": "New machine learning approach classifies common type of brain tumor",
-      "excerpt": "A new machine learning approach classifies a common type of brain tumour into low or high grades with almost 98% accuracy, researchers report in the journal IEEE Access.",
-      "webUrl": "https://www.news-medical.net/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "New machine learning approach classifies common type of brain tumor",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
-      "publishedDateTime": "2020-06-09T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

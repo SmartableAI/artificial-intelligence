@@ -25,33 +25,21 @@ images:
     title: "Facial recognition technology is one of the most racist weapons in the police arsenal"
 
 related:
-  - title: "SAFR Facial Recognition Now Runs On The AXIS Camera Application Platform (ACAP)"
-    excerpt: "SAFR Inside enables network cameras like the AXIS Q1615 Mk III to reduce video processing server overhead and achieve new lows in total cost of ownership. Take the example of a retail grocery chain deploying SAFR for mask detection on a few traditional IP cameras at dozens of locations."
-    publishedDateTime: 2020-07-06T13:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/safr-facial-recognition-now-runs-on-the-axis-camera-application-platform-acap-2020-06-18"
+  - title: "Facial recognition technologies echo the historical problem of linking appearance with criminality"
+    excerpt: "Several startups now claim to be able to use artificial intelligence to help employers detect the personality traits of job candidates based on their facial expressions. In China, the government has pioneered the use of surveillance cameras that identify and track ethnic minorities."
+    publishedDateTime: 2020-07-07T18:05:00Z
+    webUrl: "https://scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
+    ampWebUrl: "https://amp.scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
+      name: Scroll
+      domain: scroll.in
+    quality: 45
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "North America Facial Recognition Market 2020 Share, Trend, Segmentation And Forecast To 2024"
-    excerpt: "Facial Recognition Industry Description The Global Facial Recognition market is projected to reach $8.74 billion"
-    publishedDateTime: 2020-07-03T19:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-2020-share-trend-segmentation-and-forecast-to-2024-2020-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/125973-gngajbjuaf-1566471406.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Africa: Future of Facial Recognition Technology in Africa"
     excerpt: "Analysis - When several United States (US) companies withdrew their facial recognition software products amid concerns about flaws, biases and misuse in the wake of the killing of George Floyd, did leaders in sub-Saharan Africa take note?"

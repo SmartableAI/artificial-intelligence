@@ -2,6 +2,44 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-19-microsoft-is-integrating-azure-ai-into-sonys-smart-camera-sensors.md",
+      "title": "Microsoft is integrating Azure AI into Sony’s smart camera sensors",
+      "excerpt": "The two companies plan to embed Microsoft Azure AI capabilities onto Sony's new intelligent vision sensors, which were recently unveiled.",
+      "webUrl": "https://www.siliconrepublic.com/machines/microsoft-azure-sony-smart-camera-sensors-ai",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconrepublic.com/wp-content/uploads/2020/05/microsoft-1.png",
+          "width": 1200,
+          "height": 900,
+          "title": "Microsoft is integrating Azure AI into Sony’s smart camera sensors",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-azure-hosted-ai-for-finding-code-defects-emitted-but-does-it-work.md",
       "title": "Azure-hosted AI for finding code defects emitted – but does it work?",
       "excerpt": "Altran – in association with Microsoft – has pushed out an open source project to find code defects via AI whenever you commit code. It is easy to see why Microsoft is keen. T",

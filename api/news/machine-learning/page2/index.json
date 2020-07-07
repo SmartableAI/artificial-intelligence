@@ -2,53 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-06-24-googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device.md",
-      "title": "Google’s new ML Kit SDK keeps all machine learning on the device",
-      "excerpt": "Smartphones today have become so powerful that sometimes even mid-range handsets can support some fancy machine learning and AI applications. Most of those, however, still rely on cloud-hosted",
-      "webUrl": "https://www.slashgear.com/googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device-24626181/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/ml-kit.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "Google’s new ML Kit SDK keeps all machine learning on the device",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device-24626181/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device-24626181/amp/",
-      "publishedDateTime": "2020-06-24T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-24-machine-learning-as-a-service-mlaas-market-2020-by-regions-manufactures-type-application-sales-revenue-and-forecast-to-2026.md",
       "title": "Machine Learning as a Service (MLaaS) Market 2020 by Regions, Manufactures, Type, Application, Sales, Revenue and Forecast to 2026",
       "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Machine Learning as a Service (MLaaS) Market” report provides valuable information regarding new products in the market,",
@@ -1238,6 +1191,44 @@
       "provider": {
         "name": "Nature",
         "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-measuring-the-benefit-of-deep-learning-for-the-games-industry.md",
+      "title": "Measuring the benefit of deep learning for the games industry",
+      "excerpt": "The following blog post, unless otherwise noted, was written by a member of Gamasutra’s community. The thoughts and opinions expressed are those of the writer and not Gamasutra or its parent ...",
+      "webUrl": "https://www.gamasutra.com/blogs/ShaneMcAndrew/20200615/364612/Measuring_the_benefit_of_deep_learning_for_the_games_industry.php",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh5.googleusercontent.com/51HvOoh1tioFNt8T7iTXatuQPJiOfSgUQPIdHt_IQsoA9ZfkxFNlz1Xns7qgr6xyFx-WP6rOOKUIbPy9b9dQd7FFnZga9EqsC-tPMNY_CsqH8eDfxTfs2PU8JsHPk2gqvfQUIsMW",
+          "width": 720,
+          "height": 405,
+          "title": "Measuring the benefit of deep learning for the games industry",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gamasutra",
+        "domain": "gamasutra.com",
         "images": null,
         "publishers": null,
         "authors": null

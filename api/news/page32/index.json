@@ -2,6 +2,82 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-06-11-mit-builds-a-tiny-brain-chip-with-tens-of-thousands-of-artificial-synapses.md",
+      "title": "MIT Builds a Tiny Brain Chip With Tens of Thousands of Artificial Synapses",
+      "excerpt": "MIT scientists have built a brain-like chip that's smaller than a piece of confetti and is crammed with tens of thousands of artificial synapses.",
+      "webUrl": "https://singularityhub.com/2020/06/11/mit-builds-a-tiny-brain-chip-with-tens-of-thousands-of-artificial-synapses/",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/06/MIT-neuromorphic-brain-chip-alloy.jpg",
+          "width": 639,
+          "height": 359,
+          "title": "MIT Builds a Tiny Brain Chip With Tens of Thousands of Artificial Synapses",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/06/11/mit-builds-a-tiny-brain-chip-with-tens-of-thousands-of-artificial-synapses/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/06/11/mit-builds-a-tiny-brain-chip-with-tens-of-thousands-of-artificial-synapses/amp/",
+      "publishedDateTime": "2020-06-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-amazon-bans-police-use-of-its-face-recognition-for-a-year.md",
+      "title": "Amazon Bans Police Use of its Face Recognition for a Year",
+      "excerpt": "Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin.",
+      "webUrl": "https://www.voanews.com/usa/nation-turmoil-george-floyd-protests/amazon-bans-police-use-its-face-recognition-year",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im-media.voltron.voanews.com/Drupal/01live-166/2020-06/AP_20163038160927.jpg",
+          "width": 2016,
+          "height": 1512,
+          "title": "Amazon Bans Police Use of its Face Recognition for a Year",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.voanews.com/usa/nation-turmoil-george-floyd-protests/amazon-bans-police-use-its-face-recognition-year?amp",
+      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/usa/nation-turmoil-george-floyd-protests/amazon-bans-police-use-its-face-recognition-year?amp",
+      "publishedDateTime": "2020-06-11T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voice of America",
+        "domain": "voanews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-sentropy-raises-13-million-to-develop-ai-tools-that-detect-online-abuse.md",
       "title": "Sentropy raises $13 million to develop AI tools that detect online abuse",
       "excerpt": "Sentropy, a startup developing AI-powered abuse detection tools to address online harrassment, has emerged from stealth with $13 million in funding.",
@@ -935,91 +1011,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning.md",
-      "title": "Tirupati: IIIT Sri City to offer M Tech in AI & Machine Learning",
-      "excerpt": "MHRD gives its nod to launch the programme from this academic year Top IT industries have invested huge funds on AI research and development in recent days and many start-ups are",
-      "webUrl": "https://www.thehansindia.com/andhra-pradesh/tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning-627352",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2020/06/10/975931-iiit.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": "Tirupati: IIIT Sri City to offer M Tech in AI & Machine Learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/andhra-pradesh/tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning-627352",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/andhra-pradesh/tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning-627352",
-      "publishedDateTime": "2020-06-10T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-uber-researchers-investigate-whether-ai-can-behave-ethically.md",
-      "title": "Uber researchers investigate whether AI can behave ethically",
-      "excerpt": "In a preprint paper, researchers at Uber explore whether AI algorithms can be trained to make decisions ethically, according to philosophical theories.",
-      "webUrl": "https://venturebeat.com/2020/06/10/uber-researchers-investigate-whether-ai-can-behave-ethically/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-509147578-e1584462768628.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Uber researchers investigate whether AI can behave ethically",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/10/uber-researchers-investigate-whether-ai-can-behave-ethically/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/10/uber-researchers-investigate-whether-ai-can-behave-ethically/amp/",
-      "publishedDateTime": "2020-06-10T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

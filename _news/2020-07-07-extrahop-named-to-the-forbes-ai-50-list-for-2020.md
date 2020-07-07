@@ -28,6 +28,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 76
+  - title: "Gong Named One of America's Most Promising AI Companies by Forbes"
+    excerpt: "Gong, the revenue intelligence platform leveraging artificial intelligence to replace opinions with true customer reality, today announced that it has been named to"
+    publishedDateTime: 2020-07-07T18:52:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gong-named-one-of-americas-most-promising-ai-companies-by-forbes/article_9f78a61a-e90d-537a-ba9b-1c86a8b5c6fd.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "sZmiiX4bA2dn1wGndNyfuDk/anBlxnv9vNN83ERNef90bZqT+ZozdumgECVTW5dYWp49s14rJyTrgIANQrmHHtAV8fwzrZDl3NShDBpCzzq4SZuIoYbXFIVHYMYDhnUJWEx+1wLy+ZYhJ7uxkKvtHQXlBnpRWQY3YkfpeZZIsxMeyhVKXfR6L2G7TGQrrFFRNiCLkEVlURTxweUpU0aAAl1HRf8J0V4Wt/Nhha+PBZ3ddRMcBYW65lqvnPaDil/lKV5w4DiBh8WBidYmDOhJ7kMNiMCXwMAz1wM4Eu4VtDMb5Ae7I6yt1auCdeqmayUM8rb+P7rNfd9bwrbJoCm4Yg==;q2FQ8Vt3heUV4Mr2TrgKcA=="
 ---

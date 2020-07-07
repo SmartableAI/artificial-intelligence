@@ -2,6 +2,100 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-05-22-ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology.md",
+      "title": "AI Weekly: Getting back to work under the watchful eye of technology",
+      "excerpt": "As we figure out how to get back to normal, all the same issues around surveillance, AI, data privacy, and safety coalesce in the workplace.",
+      "webUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/reuters-thermal-camera-workplace-surveillance-2.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Getting back to work under the watchful eye of technology",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/amp/",
+      "publishedDateTime": "2020-05-22T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-nvidia-ai-creates-a-playable-version-of-pac-man-without-any-source-code.md",
+      "title": "Nvidia AI creates a playable version of Pac-Man without any source code",
+      "excerpt": "Up until now, that's seemingly been the case, but one Nvidia-created AI is challenging the norm. To celebrate Pac-Man's 40th anniversary, the hardware maker fed a computer farm a whopping 50,000 \"episodes\" of gameplay from the title -- but",
+      "webUrl": "https://www.techspot.com/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-22-image-26.jpg",
+          "width": 1680,
+          "height": 940,
+          "title": "Nvidia AI creates a playable version of Pac-Man without any source code",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html",
+      "publishedDateTime": "2020-05-22T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development.md",
       "title": "Scale AI releases free lidar dataset to power self-driving car development",
       "excerpt": "High quality data is the fuel that powers AI algorithms. Without a continual flow of labeled data, bottlenecks can occur and the algorithm will slowly get worse and add risk to the system. It’s why labeled data is so critical for companies like Zoox,",
@@ -1214,92 +1308,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-ibm-making-big-job-cuts-even-to-watson-and-ai-as-it-pivots-to-cloud.md",
-      "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
-      "excerpt": "A thread on the Watching IBM Facebook group mentions cuts in cloud and cognitive software teams and Watson health. Whole departments of ... cutting staff from AI-driven initiatives that aren’t doing well, or all of the above.",
-      "webUrl": "https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/05/22/ibm_layoffs/",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2020/03/03/shutterstock_ibm.jpg",
-          "width": 994,
-          "height": 600,
-          "title": "IBM making big job cuts – even to Watson and AI – as it ‘pivots’ to cloud",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/05/22/ibm_layoffs/",
-      "publishedDateTime": "2020-05-21T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-first-rate-cleaning-is-just-the-start-for-this-super-smart-home-robot.md",
-      "title": "First-rate cleaning is just the start for this super-smart Home Robot",
-      "excerpt": "Robot vacuum cleaners can be a great time-saving addition to the home, but Lucy is a whole new ballgame. Using sophisticated object recognition, night vision and AI-based robotic intelligence, Lucy not only puts other robot vacuums in the shade when it comes to cleaning your floor,",
-      "webUrl": "https://newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksr-ugc.imgix.net/assets/029/186/787/5fc7090956e99254f2665496fa1cf339_original.jpg?ixlib=rb-2.1.0&crop=faces&w=560&h=315&fit=crop&v=1590179053&auto=format&frame=1&q=92&s=c09f4cffcaa93e0dc1fa90dabc59a32b",
-          "width": 560,
-          "height": 315,
-          "title": "First-rate cleaning is just the start for this super-smart Home Robot",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/sponsored-content/robot-vacuum-lucy-home-ai-robot-security/?amp=true",
-      "publishedDateTime": "2020-05-21T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

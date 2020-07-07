@@ -25,37 +25,119 @@ images:
     title: "CyberLink updates facial recognition software to detect masks"
 
 related:
-  - title: "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says"
-    excerpt: "Facial-recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief."
-    publishedDateTime: 2020-07-03T14:50:00Z
-    webUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6"
-    ampWebUrl: "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp"
+  - title: "Facial recognition market to surpass $12 billion by 2026"
+    excerpt: "To enhance tracking and security in public spaces, the facial recognition technologies market is expected to surge in the years ahead. In the era of digital transformation, more organizations are utilizing facial recognition technologies for a host of ..."
+    publishedDateTime: 2020-07-07T18:40:00Z
+    webUrl: "https://www.techrepublic.com/article/facial-recognition-market-to-surpass-12-billion-by-2026/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/facial-recognition-market-to-surpass-12-billion-by-2026/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-market-to-surpass-12-billion-by-2026/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
     images:
-      - url: "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg"
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/07/07/52407e3d-cfe0-434d-9778-e1df9e7274a5/resize/1200x/dd5a6f0f9bbb18f40fa1b8cffa7ccf91/facial-recognition-primipil.jpg"
         width: 1200
-        height: 600
+        height: 900
         isCached: true
-  - title: "Detroit police challenged over face recognition flaws, bias"
-    excerpt: "A Black man who says he was unjustly arrested because facial recognition technology mistakenly identified him as a suspected shoplifter is calling for a public apology from Detroit police. And"
-    publishedDateTime: 2020-07-03T09:01:00Z
-    webUrl: "https://www.pressofatlanticcity.com/news/national/detroit-police-challenged-over-face-recognition-flaws-bias/article_f461240c-bc52-535d-988e-6d4a49abe01d.html"
-    ampWebUrl: "https://www.pressofatlanticcity.com/news/national/detroit-police-challenged-over-face-recognition-flaws-bias/article_f461240c-bc52-535d-988e-6d4a49abe01d.amp.html"
-    cdnAmpWebUrl: "https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/news/national/detroit-police-challenged-over-face-recognition-flaws-bias/article_f461240c-bc52-535d-988e-6d4a49abe01d.amp.html"
+  - title: "SAFR Facial Recognition Now Runs On The AXIS Camera Application Platform (ACAP)"
+    excerpt: "SAFR Inside enables network cameras like the AXIS Q1615 Mk III to reduce video processing server overhead and achieve new lows in total cost of ownership. Take the example of a retail grocery chain deploying SAFR for mask detection on a few traditional IP cameras at dozens of locations."
+    publishedDateTime: 2020-07-06T13:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/safr-facial-recognition-now-runs-on-the-axis-camera-application-platform-acap-2020-06-18"
     type: article
     provider:
-      name: The Press of Atlantic City
-      domain: pressofatlanticcity.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/4/42/4422327a-85d0-5e2a-8fe0-58d37d23f9f1/5ef3474fd3e4e.image.jpg?resize=1024%2C738"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Study Innovative Business Growth Outlook Forecasting By 2025"
+    excerpt: "The major factors speculated to augment the markets are growing security requirements in government sectors for"
+    publishedDateTime: 2020-07-03T07:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-study-innovative-business-growth-outlook-forecasting-by-2025-2020-07-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "North America Facial Recognition Market 2020 Share, Trend, Segmentation And Forecast To 2024"
+    excerpt: "Facial Recognition Industry Description The Global Facial Recognition market is projected to reach $8.74 billion"
+    publishedDateTime: 2020-07-03T19:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-2020-share-trend-segmentation-and-forecast-to-2024-2020-06-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global biometric facial recognition market to top $12B by 2026 on public security, retail growth"
+    excerpt: "Biometric facial recognition is poised for major growth on demand for the high accuracy of 3D imaging and public security concerns, and is forecast by Global Market Insights to grow from just over"
+    publishedDateTime: 2020-07-07T16:28:00Z
+    webUrl: "https://www.biometricupdate.com/202007/global-biometric-facial-recognition-market-to-top-12b-by-2026-on-public-security-retail-growth"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 41
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/02110721/safr-realnetworks-real-time-biometric-facial-recognition.jpg"
+        width: 1560
+        height: 1025
+        isCached: true
+  - title: "Facial recognition and thermal imaging to help fight virus"
+    excerpt: "A SCOTTISH company has unveiled a “track and trace system” using facial recognition and thermal imaging to detect people with high"
+    publishedDateTime: 2020-07-07T04:32:00Z
+    webUrl: "https://www.heraldscotland.com/business_hq/18565073.thermal-facial-imaging-fight-virus/"
+    type: article
+    provider:
+      name: heraldscotland.com
+      domain: heraldscotland.com
+    quality: 39
+    images:
+      - url: "https://www.heraldscotland.com/resources/images/11558537/"
+        width: 1140
+        height: 540
+        isCached: true
+  - title: "Computing Professionals Alliance Calls for Facial Recognition Moratorium"
+    excerpt: "The Association for Computing Machinery has come out in favor of a ban on biometric facial recognition technology, arguing"
+    publishedDateTime: 2020-07-06T20:38:00Z
+    webUrl: "https://findbiometrics.com/computing-professionals-alliance-calls-for-facial-recognition-moratorium-907062/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 38
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/Face1-1024x678.jpg"
         width: 1024
-        height: 738
+        height: 678
+        isCached: true
+  - title: "Facial Recognition Market Growth Predicted at 18% Till 2026: Global Market Insights, Inc."
+    excerpt: "The demand for 3D facial recognition systems that offer enhanced accuracy compared to traditional 2D technology will drive market growth. 3D systems offer accurate results even in dim light conditions as they use facial parameters, such as the depth of the ..."
+    publishedDateTime: 2020-07-05T22:59:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-growth-predicted-at-18-till-2026-global-market-insights-inc-301088154.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/1200214/Global_Market_Insights_facial_recognition_market.jpg?p=facebook"
+        width: 599
+        height: 315
         isCached: true
 
 secured: "86oPN3yFLSsjOd67HN+aG7DwaoBGKr1EHLn/yoO7vwHeSSDRILWgzQkF49mnIergecYQ/LtFS5epFyyIpNsBMYSzXUUaV9DUvLBLvtaAX+M47cgrmIzxlYudx8vHmLjmQmmGQwZxWQVN+agnfLcNW6dE2b61TJ5cIeUBFAj6EnIn+a+fMfpJ1MuBfGSpRViftkjW7I2AweHCzalrxPjym4JthphSiSOjCWFB62033ZzSp7zbv/2e1bOCDWrpVxMLWoowORQE5KToMHxdZ39/gjgbI2c969WoR1ohEW+EKsxND8LhmnO47moLDzHcL178EN28YkwmFKkZ6V+pgkMCiA==;sixY32zq1k/KvnCup3v3Xg=="

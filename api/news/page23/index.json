@@ -2,6 +2,82 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-06-18-artificial-intelligence-in-healthcare-market-forecast-revised-in-a-new-fmi-report-as-covid-19-projected-to-hold-a-massive-impact-on-sales-in-2020.md",
+      "title": "Artificial Intelligence In Healthcare Market Forecast Revised in a New FMI Report as COVID-19 Projected to Hold a Massive Impact on Sales in 2020",
+      "excerpt": "An ongoing study of the research analysts at Future Market Insights (FMI), offers a thorough quantitative and qualitative assessment of the Artificial Intelligence In Healthcare market along with easy to grasp tables, graphs, and figures. The Coronavirus ...",
+      "webUrl": "https://www.pharmiweb.com/press-release/2020-06-18/artificial-intelligence-in-healthcare-market-forecast-revised-in-a-new-fmi-report-as-covid-19-projec",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-baidu-breaks-off-an-ai-alliance-amid-strained-us-china-ties.md",
+      "title": "Baidu Breaks Off an AI Alliance Amid Strained US-China Ties",
+      "excerpt": "The search giant was the only Chinese member of the Partnership on Artificial Intelligence, a US-led effort to foster collaboration on ethical issues.",
+      "webUrl": "https://www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eeab8bef435e6f478b289f5/master/pass/business_baidu_1211912901.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Baidu Breaks Off an AI Alliance Amid Strained US-China Ties",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/amp",
+      "publishedDateTime": "2020-06-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-sas-microsoft-partner-to-further-shape-future-of-analytics-and-ai.md",
       "title": "SAS, Microsoft partner to further shape future of analytics and AI",
       "excerpt": "Microsoft Corporation and SAS today announced an extensive technology and go-to-market strategic partnership. The two companies will enable customers to easily run their SAS workloads in the cloud, expanding their business solutions and unlocking critical value from their digital transformation initiatives.",
@@ -969,100 +1045,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says.md",
-      "title": "Amazon owes answers on facial recognition moratorium, lawmaker says",
-      "excerpt": "A House representative mistaken by Rekognition as a criminal is questioning CEO Jeff Bezos about Amazon's one-year pause on facial recognition.",
-      "webUrl": "https://www.cnet.com/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/LRqa-J9lGENDIqzrmO3X_JuHePE=/756x567/2020/01/17/24f77466-4cd0-4018-b436-90846e478c80/amazon-ces-2020-booth-2.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Amazon owes answers on facial recognition moratorium, lawmaker says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
-      "publishedDateTime": "2020-06-17T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-deep-learnings-climate-change-problem.md",
-      "title": "Deep Learning’s Climate Change Problem",
-      "excerpt": "The “bigger is better” ethos that currently dominates the AI research agenda threatens to inflict major environmental damage in the years ahead.",
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea37fddb3b680006a1e6bc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1024%26cropY1%3D50%26cropY2%3D626",
-          "width": 1024,
-          "height": 577,
-          "title": "Deep Learning’s Climate Change Problem",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/amp/",
-      "publishedDateTime": "2020-06-17T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
