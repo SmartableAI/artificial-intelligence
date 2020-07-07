@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "ECHR receives first complaint about facial recognition system in Moscow"
-    excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
-    publishedDateTime: 2020-07-06T10:26:00Z
-    webUrl: "https://tass.com/society/1175141"
-    ampWebUrl: "https://tass.com/society/1175141/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/society/1175141/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 74
-    images:
-      - url: "https://phototass1.cdnvideo.ru/width/1080_4713ca57/tass/m2/en//uploads/i/20200706/1274319.jpg"
-        width: 1080
-        height: 688
-        isCached: true
   - title: "Bias claims spur debate on need for curbs, oversight of facial recognition tech"
     excerpt: "Official at Israeli startup AnyVision says he hopes for regulation of the industry because his firm's software could never be abused, unlike open-source platforms"
     publishedDateTime: 2020-07-02T13:42:00Z
@@ -89,37 +73,7 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Facial recognition technology displays clear racial bias"
-    excerpt: "Across the world and within the United States the use of facial recognition technology is on the rise. Touted as a powerful security tool, facial recognition has been rolled out nationwide with ..."
-    publishedDateTime: 2020-07-06T17:49:00Z
-    webUrl: "https://thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/"
-    ampWebUrl: "https://thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 59
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
-        width: 1250
-        height: 805
-        isCached: true
-  - title: "Big Tech's Wish List for National Facial Recognition Law"
-    excerpt: "Tech companies want a national facial recognition law that balances consent and transparency. But keep Illinois' Biometric Information Privacy Act and its private right of action out of the discussion,"
-    publishedDateTime: 2020-07-06T14:09:00Z
-    webUrl: "https://www.law.com/legaltechnews/2020/07/06/big-techs-wish-list-for-a-national-facial-recognition-law/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2019/01/Facial-recognition-Aegis-SN-Technologies-web.jpg"
-        width: 1016
-        height: 614
-        isCached: true
 
-secured: "XvDVg3N+9tBE1dx8eNl0S2X889xKK3nrEd6KkVSQCwSpJPTT93JQpJg2jXbXYm5GZdHipIkE4anoIb/45EJJAgpU1vuPY+ALZ0VrGqjRHvjrUGcxp9+0ER7Wpcz26sP1pB94uhgnxP/PNnvUHd0ASqRxxQt2D6z1XM8kYFz5Wdi/1OOijjlLHY8Y8Z5eVnyN5GxEA5QEzIthQQOQT3vr5uK5pmJwcyoX+KKrGUb9g1InoXgtm6amyOsHeJ0hYQI8Anb2qZ2OvX40UxEXTHXN3QuZjFwxpRbWVWyzv8M/YHihryEUIPbf7mrwxJifxYZL/Y5Qtjy+s/L6u704C+YvLA==;DHtl4LtosSvUgehMT3P9HA=="
+secured: "66BgDaTtJ+CJIW5/lrvlxLnx6A5Y2UL0XCX8lga2tqC+d7FUYI6ug81aGhcOiENfOO9RCmSXb/SRmv0BVQm5jEINx6ebzrzOKyTED1DnzK4+2dhxToS0jvz5DwpG6CdN13GNuRmlqgjaqdUOSEDF+YzdpJwnRsymAQdvGNURT0+GHf8Y0QcyMb+dZzZcJUXIGwofg6egLFFcSRUnfFv4wYzF1ALYwLyj5mw5dPZt0c78sP241O8+9JB5PiMHorzu7sJWHzaaFS/iek4Pzz14+RFU/dtCP0M+noRN3+Nj1i9De/k5hAABMIvsM0PuSlIrKmtITOlFoCHyLbmdtBHP1W/IqCb161bMX+6vdSSEMKE7R4aJ2A/JS9mZU0xwMjle3HA7vPXZTvJ5VdEF8G5SLktSRQPnRdnoUX6f9yYOlWgNkpeX3GU6gSE202A778/v0LQv6ZfV6nVvzj47+F14lwqTLN6il4BRUMIL+zWL812eA5exlJOGC+ueCckJ4UxTPlhYd4kksVGNS9BOeRt78w==;pu/G32D40vvn9CguhCadhQ=="
 ---
 

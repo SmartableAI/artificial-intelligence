@@ -57,15 +57,6 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "5 key takeaways from Amazon's $1 billion acquisition of self-driving startup Zoox (AMZN)"
-    excerpt: "Amazon on Friday announced its acquisition of the self-driving startup Zoox. Analysts say the deal can help Amazon in many ways by expanding"
-    publishedDateTime: 2020-07-02T07:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amazons-1-billion-zoox-acquisition-5-takeaways-on-what-it-means-2020-6-1029346837"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
   - title: "Video: Amazon acquires self-driving car startup Zoox"
     excerpt: "Amazon said it will lead Zoox as a standalone business to drive the mission toward developing self-driving vehicles. In the video, Zoox demonstrates a one-hour fully autonomous dr"
     publishedDateTime: 2020-07-02T12:52:00Z

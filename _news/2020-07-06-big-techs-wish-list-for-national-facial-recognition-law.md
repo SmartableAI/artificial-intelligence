@@ -25,22 +25,33 @@ images:
     title: "Big Tech's Wish List for National Facial Recognition Law"
 
 related:
-  - title: "Larry Magid: Facial recognition loses support as bias claims rise"
-    excerpt: "Following the lead of San Francisco, Boston and several other cities, Detroit is poised to end a contract with a company that provides facial recognition technology to its police department. And it’s not just Larry Magid (Gary Reyes / Mercury News) cities that are backing away from the technology."
-    publishedDateTime: 2020-07-02T14:04:00Z
-    webUrl: "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/"
-    ampWebUrl: "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/"
+  - title: "Clearview AI stops facial recognition sales in Canada amid privacy investigation"
+    excerpt: "Officials said Clearview AI will no longer operate in Canada, but investigation into Royal Canadian Mounted Police's use of Clearview's AI will continue."
+    publishedDateTime: 2020-07-07T00:11:00Z
+    webUrl: "https://venturebeat.com/2020/07/06/clearview-ai-stops-facial-recognition-sales-in-canada-amid-privacy-investigation/"
+    ampWebUrl: "https://venturebeat.com/2020/07/06/clearview-ai-stops-facial-recognition-sales-in-canada-amid-privacy-investigation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/06/clearview-ai-stops-facial-recognition-sales-in-canada-amid-privacy-investigation/amp/"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 76
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 99
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2018/08/SJM-L-RECOGNITION-0807-01.jpg?w=1024&h=768"
-        width: 1024
-        height: 768
+      - url: "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 733
         isCached: true
+  - title: "Clearview AI stops offering facial recognition technology in Canada"
+    excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
+    publishedDateTime: 2020-07-06T21:01:00Z
+    webUrl: "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN2472RA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2472RA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2472RA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
   - title: "ECHR receives first complaint about facial recognition system in Moscow"
     excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
     publishedDateTime: 2020-07-06T10:26:00Z
@@ -57,37 +68,21 @@ related:
         width: 1080
         height: 688
         isCached: true
-  - title: "Bias claims spur debate on need for curbs, oversight of facial recognition tech"
-    excerpt: "Official at Israeli startup AnyVision says he hopes for regulation of the industry because his firm's software could never be abused, unlike open-source platforms"
-    publishedDateTime: 2020-07-02T13:42:00Z
-    webUrl: "https://www.timesofisrael.com/bias-claims-spur-debate-on-need-for-curbs-oversight-of-facial-recognition-tech/"
-    ampWebUrl: "https://www.timesofisrael.com/bias-claims-spur-debate-on-need-for-curbs-oversight-of-facial-recognition-tech/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/bias-claims-spur-debate-on-need-for-curbs-oversight-of-facial-recognition-tech/amp/"
+  - title: "Clearview AI will stop offering facial recognition software in Canada, privacy officials say"
+    excerpt: "Clearview AI, the controversial U.S.-based technology firm, will no longer make its facial recognition software available in Canada, according to federal and provincial privacy authorities. A statement issued by the Office of the Privacy Commissioner of Canada on Monday said Clearview had advised officials of the move in response to an ongoing investigation by privacy authorities."
+    publishedDateTime: 2020-07-06T20:04:00Z
+    webUrl: "https://www.cbc.ca/news/technology/clearview-ai-stops-facial-recognition-in-canada-1.5639380"
+    ampWebUrl: "https://www.cbc.ca/amp/1.5639380"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5639380"
     type: article
     provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 70
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 63
     images:
-      - url: "https://static.timesofisrael.com/www/uploads/2018/11/AnyVision-e1543488603287-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
-  - title: "Easthampton passes municipal ban on facial recognition tech"
-    excerpt: "An ACLU-backed bill currently before legislators on Beacon Hill would establish a statewide moratorium on government use of face surveillance. Easthampton is the latest town to enact a ban on gov't use of facial-recognition technologies."
-    publishedDateTime: 2020-07-02T14:48:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2020/07/02/easthampton-passes-ban-on-facial-recognition.html"
-    ampWebUrl: "https://www.bizjournals.com/boston/news/2020/07/02/easthampton-passes-ban-on-facial-recognition.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/07/02/easthampton-passes-ban-on-facial-recognition.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 59
-    images:
-      - url: "https://media.bizj.us/view/img/11177301/gettyimages-1086568968*600xx2800-1867-0-467.jpg"
-        width: 600
-        height: 400
+      - url: "https://i.cbc.ca/1.5639386.1594063251!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/clearview-ai.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "Facial recognition technology displays clear racial bias"
     excerpt: "Across the world and within the United States the use of facial recognition technology is on the rise. Touted as a powerful security tool, facial recognition has been rolled out nationwide with ..."
@@ -105,20 +100,102 @@ related:
         width: 1250
         height: 805
         isCached: true
-  - title: "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business"
-    excerpt: "As Black Lives Matter protests swept across the United States, IBM, Amazon and Microsoft took a stand: They halted sales of facial recognition technology to American police departments, and called on the government to regulate the powerful emerging technology."
-    publishedDateTime: 2020-07-03T05:43:00Z
-    webUrl: "https://keyt.com/lifestyle/money-and-business/2020/07/02/amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/"
+  - title: "EU Once Again Considers Facial Recognition Ban"
+    excerpt: "The European Union is once again considering a ban on facial recognition. The possibility of a temporary ban surfaced in an early draft of a European Commission white paper in January, but those plans were eventually abandoned in the final draft of the paper."
+    publishedDateTime: 2020-07-03T18:59:00Z
+    webUrl: "https://findbiometrics.com/eu-once-again-considers-facial-recognition-ban-070301/"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 6
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 56
     images:
-      - url: "https://keyt.b-cdn.net/2020/03/keyt-biz-and-tech-860x484.png"
-        width: 860
-        height: 484
+      - url: "https://findbiometrics.com/wp-content/uploads/blurredface-e1579295692518.jpeg"
+        width: 1502
+        height: 1694
         isCached: true
+  - title: "Clearview AI to end facial-recognition services in Canada: privacy commissioner"
+    excerpt: "The federal privacy commissioner says U.S. firm Clearview AI will stop offering its facial-recognition services in Canada in response to an investigation by the commissioner and three provincial counterparts."
+    publishedDateTime: 2020-07-06T20:50:00Z
+    webUrl: "https://www.ctvnews.ca/politics/clearview-ai-to-end-facial-recognition-services-in-canada-privacy-commissioner-1.5012850?autoPlay=true"
+    ampWebUrl: "https://beta.ctvnews.ca/national/politics/2020/7/6/1_5012850.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/politics/2020/7/6/1_5012850.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 55
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/2/21/1_4822055.jpg?cache_timestamp=1582305262634"
+        width: 3778
+        height: 2660
+        isCached: true
+  - title: "Clearview AI to stop offering facial recognition technology in Canada"
+    excerpt: "Clearview AI, an American company that provides biometric security software, will no longer offer its facial recognition services in Canada."
+    publishedDateTime: 2020-07-06T19:41:00Z
+    webUrl: "https://betakit.com/clearview-ai-to-stop-offering-facial-recognition-technology-in-canada/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 54
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/07/Clearview-AI-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Facial-Recognition Firm Ends Operations in Canada, Watchdog Says"
+    excerpt: "Canada’s privacy watchdog said facial recognition software provider Clearview AI Inc. will no longer offer its services in the country, suspending a contract with its last remaining client, the Royal Canadian Mounted Police."
+    publishedDateTime: 2020-07-06T19:54:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-07-06/facial-recognition-firm-ends-operations-in-canada-watchdog-says"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-07-06/facial-recognition-firm-ends-operations-in-canada-watchdog-says"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-06/facial-recognition-firm-ends-operations-in-canada-watchdog-says"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+  - title: "Clearview AI ceases offering its facial recognition technology in Canada"
+    excerpt: "Clearview AI has advised Canadian privacy protection authorities that, in response to their joint investigation, it will cease offering its"
+    publishedDateTime: 2020-07-06T19:43:00Z
+    webUrl: "https://www.newswire.ca/news-releases/clearview-ai-ceases-offering-its-facial-recognition-technology-in-canada-838440431.html"
+    type: article
+    provider:
+      name: Newswire
+      domain: newswire.ca
+    quality: 53
+    images:
+      - url: "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Clearview AI to end facial-recognition services in Canada, privacy commissioner says"
+    excerpt: "Clearview AI’s technology allows for the collection of huge numbers of images from various sources that can help police forces, financial institutions and other clients identify people"
+    publishedDateTime: 2020-07-06T19:31:00Z
+    webUrl: "https://www.theglobeandmail.com/business/article-clearview-ai-to-end-facial-recognition-services-in-canada-privacy/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/business/article-clearview-ai-to-end-facial-recognition-services-in-canada-privacy/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/article-clearview-ai-to-end-facial-recognition-services-in-canada-privacy/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 52
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/eC_fE7YHuidFCCqboBzCI5Xvmk8=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/A7GFYFMGPZOSPCXQMGBJ4FZLOI.jpg"
+        width: 760
+        height: 535
+        isCached: true
+  - title: "Clearview AI to stop facial recognition services in Canada, privacy watchdog says"
+    excerpt: "Clearview AI's technology allows for the collection of huge numbers of images from various sources that can help police forces, financial institutions and other clients identify people."
+    publishedDateTime: 2020-07-06T20:20:00Z
+    webUrl: "https://globalnews.ca/news/7144536/clearview-ai-services-canada/"
+    ampWebUrl: "https://globalnews.ca/news/7144536/clearview-ai-services-canada/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7144536/clearview-ai-services-canada/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 49
 
 secured: "fBPIb4ycpGS8kzZ5ypYIBnxhm3gkgWbuSm6DuZ2Eddbq4baayZRfo+0P3BFiHd3Iv96AKY7+uEmSg5A1svOWZtDntChLnhIkdnJfRLazzmzczj1Dbn/CZo7Ez20fAyMlJe9fa4HOlYsyX2NljaMyX4FCxCHJBHooU6cbhLP0muT2UZ1YarcYNZ0nmtwY1EYmp85Wy6cLrG7IiXw469lUEA/Xpi12PUiEi7XDBlERuEC4JgeUhCnCZPEUqoU7E2zea1zIiJS5y3BkG3KitPA0upwS+wHeSGZ2G5eOWJ3Vl5EmzMKTr30nnqrJuf68GOiI9xH/Tcl2VMkTyQ5MUp5xiRzoBMvbHNgEbcIibiUpE+lUbdTqr0bXsbyKKox2IU3IXjH8CYSsAZ12UhtDvPdDyOkibtT7yc4QAWBG398qsMLgtM1hFi16QIDvRTzr0gk+nNEUtlRm0+b6G4Z2Vzp7EjxD8NU+4f/qd5AOZmmZHTfDE8du0+PvOJd+sojCqSN9RrYS8AmbFXvUrxTQZ3NDaQ==;NyjsFodvnXplQrR/9q379g=="
 ---

@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Sentieo Drives Improved Sector Investment and Competitive Strategies With New Machine Learning-Driven Analysis"
-excerpt: "Sentieo, the leading, next-generation financial and corporate research platform, today announced the availability of its"
-publishedDateTime: 2020-07-06T10:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/g16511311/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-dri"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16511311"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16511311"
+excerpt: "This latest release brings a new way for equity and corporate analysts to get to performance insights at the sector or peer group level,” said Naman Shah, Co-Founder & President, Sentieo. “Using our leading deep learning models,"
+publishedDateTime: 2020-07-06T10:20:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis-1029368206"
 type: article
-quality: 19
-heat: 19
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
 
-secured: "je2q0tjw+MV5q5fCMv9O/QlRCP7lpcGCYuI4OwocqvZSXE0i7es+ih48bVMorXI433EMnW0gRC/Ee79aJEegtFOAx007wL3e5VhOn3JcAK/YQHa/VW2nnf2vlH2hC7aZZiXbAd3kuEmm4acSocffwZuvD+uwRu8cBKXpwqMmJ/gyb4ln1ZQTNZ37yb7wCzhOc5RdpehC6nDN+DHf3KridCm7eh5ENbGXii0IDTdDSOkb1IqMcDBKajaboAW+TN5XVR2Me2aT/yN/lIRUN7bEUU96AIgfg6xkebwnEywDh+ShbwdtlVo6YHE8OWOJTKzJe79dGi6zKs6ihn12lzTa6Q==;qlwbMdEELwL1Orty0gwaUQ=="
+secured: "qbLY6zQOm/abJu7XrwYOLjJHnImXUaU4XZ/WmGSsxHlZwNlndvGD46CUL0lY0RC56CgYzvLuv3hjPj4V8aR4+swzsQJ0k5JslIU23PecT1k/jQoaKOSa/ugyn+bbqqDQR+ztQVeX79bJphmdAXW63Ap07r6x+MO1Jt9fusIKu3dZOfE7eIuqtp1meg+LoIHcEQeeL5MOkT1zzhENjVeIbW5czEWlVFDdZpFXxTLqRO3Wwk0xsjcqJf/H/E4nR/WEWoRBk9fyeaZqKMO5Dv8Ag5oj0gazUhFb4Mzpgmt95pPRjQA85F4gNI/+nUnC3RrTRz5UJQCrCv9Yu3Ub1sIUVw==;EAgLMF2spMTDzpZp9y5tiw=="
 ---
 

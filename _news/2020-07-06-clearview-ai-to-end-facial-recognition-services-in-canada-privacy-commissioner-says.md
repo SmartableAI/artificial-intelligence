@@ -27,6 +27,49 @@ images:
     title: "Clearview AI to end facial-recognition services in Canada, privacy commissioner says"
 
 related:
+  - title: "Clearview AI stops facial recognition sales in Canada amid privacy investigation"
+    excerpt: "Officials said Clearview AI will no longer operate in Canada, but investigation into Royal Canadian Mounted Police's use of Clearview's AI will continue."
+    publishedDateTime: 2020-07-07T00:11:00Z
+    webUrl: "https://venturebeat.com/2020/07/06/clearview-ai-stops-facial-recognition-sales-in-canada-amid-privacy-investigation/"
+    ampWebUrl: "https://venturebeat.com/2020/07/06/clearview-ai-stops-facial-recognition-sales-in-canada-amid-privacy-investigation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/06/clearview-ai-stops-facial-recognition-sales-in-canada-amid-privacy-investigation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 99
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 733
+        isCached: true
+  - title: "Clearview AI stops offering facial recognition technology in Canada"
+    excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
+    publishedDateTime: 2020-07-06T21:01:00Z
+    webUrl: "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN2472RA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2472RA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2472RA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+  - title: "ECHR receives first complaint about facial recognition system in Moscow"
+    excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
+    publishedDateTime: 2020-07-06T10:26:00Z
+    webUrl: "https://tass.com/society/1175141"
+    ampWebUrl: "https://tass.com/society/1175141/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/society/1175141/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 74
+    images:
+      - url: "https://phototass1.cdnvideo.ru/width/1080_4713ca57/tass/m2/en//uploads/i/20200706/1274319.jpg"
+        width: 1080
+        height: 688
+        isCached: true
   - title: "Clearview AI will stop offering facial recognition software in Canada, privacy officials say"
     excerpt: "Clearview AI, the controversial U.S.-based technology firm, will no longer make its facial recognition software available in Canada, according to federal and provincial privacy authorities. A statement issued by the Office of the Privacy Commissioner of Canada on Monday said Clearview had advised officials of the move in response to an ongoing investigation by privacy authorities."
     publishedDateTime: 2020-07-06T20:04:00Z
@@ -42,6 +85,36 @@ related:
       - url: "https://i.cbc.ca/1.5639386.1594063251!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/clearview-ai.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "Facial recognition technology displays clear racial bias"
+    excerpt: "Across the world and within the United States the use of facial recognition technology is on the rise. Touted as a powerful security tool, facial recognition has been rolled out nationwide with ..."
+    publishedDateTime: 2020-07-06T17:49:00Z
+    webUrl: "https://thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/"
+    ampWebUrl: "https://thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 59
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
+        width: 1250
+        height: 805
+        isCached: true
+  - title: "EU Once Again Considers Facial Recognition Ban"
+    excerpt: "The European Union is once again considering a ban on facial recognition. The possibility of a temporary ban surfaced in an early draft of a European Commission white paper in January, but those plans were eventually abandoned in the final draft of the paper."
+    publishedDateTime: 2020-07-03T18:59:00Z
+    webUrl: "https://findbiometrics.com/eu-once-again-considers-facial-recognition-ban-070301/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 56
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/blurredface-e1579295692518.jpeg"
+        width: 1502
+        height: 1694
         isCached: true
   - title: "Clearview AI to end facial-recognition services in Canada: privacy commissioner"
     excerpt: "The federal privacy commissioner says U.S. firm Clearview AI will stop offering its facial-recognition services in Canada in response to an investigation by the commissioner and three provincial counterparts."
@@ -59,6 +132,20 @@ related:
         width: 3778
         height: 2660
         isCached: true
+  - title: "Clearview AI to stop offering facial recognition technology in Canada"
+    excerpt: "Clearview AI, an American company that provides biometric security software, will no longer offer its facial recognition services in Canada."
+    publishedDateTime: 2020-07-06T19:41:00Z
+    webUrl: "https://betakit.com/clearview-ai-to-stop-offering-facial-recognition-technology-in-canada/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 54
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/07/Clearview-AI-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Facial-Recognition Firm Ends Operations in Canada, Watchdog Says"
     excerpt: "Canada’s privacy watchdog said facial recognition software provider Clearview AI Inc. will no longer offer its services in the country, suspending a contract with its last remaining client, the Royal Canadian Mounted Police."
     publishedDateTime: 2020-07-06T19:54:00Z
@@ -70,6 +157,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 54
+  - title: "Clearview AI ceases offering its facial recognition technology in Canada"
+    excerpt: "Clearview AI has advised Canadian privacy protection authorities that, in response to their joint investigation, it will cease offering its"
+    publishedDateTime: 2020-07-06T19:43:00Z
+    webUrl: "https://www.newswire.ca/news-releases/clearview-ai-ceases-offering-its-facial-recognition-technology-in-canada-838440431.html"
+    type: article
+    provider:
+      name: Newswire
+      domain: newswire.ca
+    quality: 53
+    images:
+      - url: "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Clearview AI to stop facial recognition services in Canada, privacy watchdog says"
     excerpt: "Clearview AI's technology allows for the collection of huge numbers of images from various sources that can help police forces, financial institutions and other clients identify people."
     publishedDateTime: 2020-07-06T20:20:00Z
@@ -81,6 +182,20 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 49
+  - title: "Big Tech's Wish List for National Facial Recognition Law"
+    excerpt: "Tech companies want a national facial recognition law that balances consent and transparency. But keep Illinois' Biometric Information Privacy Act and its private right of action out of the discussion,"
+    publishedDateTime: 2020-07-06T14:09:00Z
+    webUrl: "https://www.law.com/legaltechnews/2020/07/06/big-techs-wish-list-for-a-national-facial-recognition-law/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2019/01/Facial-recognition-Aegis-SN-Technologies-web.jpg"
+        width: 1016
+        height: 614
+        isCached: true
 
 secured: "S/VfqbKvPKvwZ4Uf6SY0YT5ulV9rT0YUcRaZKXAwNnVqLf0a8uTqke6LDQPyOXix74x4+MyTlwagb7/GHSwh2f9n4dwi27qqAjidzdPTCqDMpTUvrlLtbUWwVY+4UJ5iKWflLxbFNglBltfLg9QoGQVRWUXItRnlye/BDYtm4fMlg1PfbNSPN7wEpdXHIMTbtWzKz92hHVWc4toMtlnqTv/S0LDIrENjeYacBHAjIonuDjtHLSvOuK8O/9TQ9374wRATRw18MLTmOheTnJyItDHiS1KzgtYWqtkJLdG1x9ZxmBDxCndi5rAEHja8ZNrH8/qaamJskxz40pJJZpMILw==;HbqqFb9WBbXJI/sG+JBD0g=="
 ---

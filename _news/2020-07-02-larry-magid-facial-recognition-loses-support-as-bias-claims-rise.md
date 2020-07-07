@@ -8,7 +8,7 @@ ampWebUrl: "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accu
 cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/"
 type: article
 quality: 76
-heat: 136
+heat: 106
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     title: "Larry Magid: Facial recognition loses support as bias claims rise"
 
 related:
-  - title: "ECHR receives first complaint about facial recognition system in Moscow"
-    excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
-    publishedDateTime: 2020-07-06T10:26:00Z
-    webUrl: "https://tass.com/society/1175141"
-    ampWebUrl: "https://tass.com/society/1175141/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/society/1175141/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 74
-    images:
-      - url: "https://phototass1.cdnvideo.ru/width/1080_4713ca57/tass/m2/en//uploads/i/20200706/1274319.jpg"
-        width: 1080
-        height: 688
-        isCached: true
   - title: "Bias claims spur debate on need for curbs, oversight of facial recognition tech"
     excerpt: "Official at Israeli startup AnyVision says he hopes for regulation of the industry because his firm's software could never be abused, unlike open-source platforms"
     publishedDateTime: 2020-07-02T13:42:00Z
@@ -75,36 +59,6 @@ related:
       - url: "https://media.bizj.us/view/img/11177301/gettyimages-1086568968*600xx2800-1867-0-467.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Facial recognition technology displays clear racial bias"
-    excerpt: "Across the world and within the United States the use of facial recognition technology is on the rise. Touted as a powerful security tool, facial recognition has been rolled out nationwide with ..."
-    publishedDateTime: 2020-07-06T17:49:00Z
-    webUrl: "https://thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/"
-    ampWebUrl: "https://thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 59
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
-        width: 1250
-        height: 805
-        isCached: true
-  - title: "Big Tech's Wish List for National Facial Recognition Law"
-    excerpt: "Tech companies want a national facial recognition law that balances consent and transparency. But keep Illinois' Biometric Information Privacy Act and its private right of action out of the discussion,"
-    publishedDateTime: 2020-07-06T14:09:00Z
-    webUrl: "https://www.law.com/legaltechnews/2020/07/06/big-techs-wish-list-for-a-national-facial-recognition-law/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2019/01/Facial-recognition-Aegis-SN-Technologies-web.jpg"
-        width: 1016
-        height: 614
         isCached: true
   - title: "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business"
     excerpt: "As Black Lives Matter protests swept across the United States, IBM, Amazon and Microsoft took a stand: They halted sales of facial recognition technology to American police departments, and called on the government to regulate the powerful emerging technology."
