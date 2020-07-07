@@ -1,27 +1,23 @@
 ---
 category: news
 title: "AVMA explores the future of veterinary medicine & artificial intelligence (AI) with Vetology® AI Founder and President"
-excerpt: "Vetology® recognized these impacts early on and decided to utilize the power of AI technology to automatically evaluate and report on radiographic images. In 2017, Vetology® developed and ..."
-publishedDateTime: 2020-07-05T23:12:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/avma-explores-the-future-of-veterinary-medicine-artificial-intelligence-ai-with-vetology-ai-founder-and-president-1029367174"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/avma-explores-the-future-of-veterinary-medicine-artificial-intelligence-ai-with-vetology-ai-founder-and-president-1029367174"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/avma-explores-the-future-of-veterinary-medicine-artificial-intelligence-ai-with-vetology-ai-founder-and-president-1029367174"
+excerpt: "American Veterinary Medical Association discusses artificial intelligence use in veterinary practice with the Founder and President of Vetology® AI San Diego, CA (PRWEB)"
+publishedDateTime: 2020-07-05T23:00:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/p16508248/avma-explores-the-future-of-veterinary-medicine-artificial-intelligence-ai-with-vetology-ai-founde"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16508248"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16508248"
 type: article
-quality: 58
-heat: 58
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-secured: "vYmU2u7hOxm87gRtFIa28xobHBLeEpYmCrW4fMQwhLqJ0MRHaT6BXpObOugauamSMOb0Oek7tAtM55mAfG7PGB2ojaQOcJdSaWmqjSjrnclaBkbtdXByR26uD3X01DMUuOPUEYRFRJD48gNltJ1Zl0xZSAVBUDIOuug+23mQvTGiX9COLmDVbPcYQNd/qoVSuLJykzxKt8INomBB08/UVGI7KQg5jrMfhDdKrTixQsZ4IYgOy+6TW3EmC/uSYVySdRZ467Jo2vrWH/R51rEfXRADzehp2ljjtT5jQYogFzGFDMyOSLfgt89EOQ2EFM/oYKhE9jtVu8xUXoefBo366g==;PkQw1Jjw95MZiFOpGb+RDQ=="
+secured: "nZnQzn7LzxV0/LzliuUPaj/La4tNNZ2w/Fp2RqQi2OZtb5+Ln4Z47OK9lym2T9o3w4cs77CZ+A2d1ZSNMdtBqHpSbsDLBuWKjuFYZ5d01iyFEBx/GgLOFl/Lv7Th5VQOI90PBeI6h/GZXLOcIcQ/V8M7fsz4tZ2iCyYrk2uZJcmK4WheSs8UghEBlm7TwK1xXEBXv79B26cDXbimeWdP0p9XFC2YI05R+McuYdy6mpFxTzgzWU2Cu1APlJlxMB9H/s0vQz5TTGm+QC/+igHg7/oFga+lvywy6lK9tu6I3fGcJLiaHKQMGgBswFuHD8ciAYEoOtoSsbo6C/Uf3Dx0Rg==;j09BwlHnzz7KqS/uiJR32A=="
 ---
 

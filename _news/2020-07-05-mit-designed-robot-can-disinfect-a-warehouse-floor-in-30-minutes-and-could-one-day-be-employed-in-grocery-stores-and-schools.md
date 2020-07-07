@@ -27,6 +27,22 @@ images:
     title: "MIT-designed robot can disinfect a warehouse floor in 30 minutes -- and could one day be employed in grocery stores and schools"
 
 related:
+  - title: "Robot Janitors Could Soon Be Coming To Schools Near You"
+    excerpt: "In the latest news about robots taking over the world, MIT has developed a robot capable of disinfecting an entire 4,000-square foot warehouse in 30 minute"
+    publishedDateTime: 2020-07-07T16:22:00Z
+    webUrl: "https://www.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/"
+    ampWebUrl: "https://amp.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/"
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
+    quality: 59
+    images:
+      - url: "https://cdn.iflscience.com/images/a48f868f-2f87-56fa-b5fd-3cdacd818206/default-1594121302-the-robot-can-disinfect-gbfb-s-warehouse-in-30-minutes.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "MIT-Designed Robot Could Be Used To Disinfect Schools, Grocery Stores With UV-C Light"
     excerpt: "MIT has designed a robot that is capable of disinfecting the floor of a 4,000-square foot warehouse in only half an hour."
     publishedDateTime: 2020-07-06T12:40:00Z
@@ -59,15 +75,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "MIT Robot Can Disinfect Warehouse Floor in 30 Minutes"
-    excerpt: "C light, a robot traveling at 0.22 miles per hour, covered a 4,000-square-foot warehouse space neutralizing 90% of coronaviruses on surfaces."
-    publishedDateTime: 2020-07-07T13:56:00Z
-    webUrl: "https://www.mhlnews.com/warehousing/article/21135945/mit-robot-can-disinfect-warehouse-floor-in-30-min"
-    type: article
-    provider:
-      name: Material Handling & Logistics
-      domain: mhlnews.com
-    quality: 19
 
 secured: "YX092dBUsDaRieAtelNRjXqFn2/atTMy6ec7zQ3J26RyM/C3hF8DQtL9RqJBWuUwn8uMi0HopbPqcXQcXnQCFJcAIj0fN72LItj+RdeRIT7E4BPP2+B7WDBejTPQv2MvgKbaoM0SmLPJucb8rf0fMbhpaAcFkpnQOkOyA5OpxMeVdqWSHxYt1fmYoGNGlWUVU0uZSfCCvtElUu5fLwo0x0Zwd5366Ih7p02bUmIQTO4U/xulNNbQY55g3Ix5K7MQEL6Kx5+RU68S3ovTseQ6b6H1QyP9e0U3inJLFgvTvjnNHmuhlu7IrqaWo4mK581o94XP4757+AyBvFgpxGXGpg==;v3NpU6PHS/wVFOJGWfkvHQ=="
 ---

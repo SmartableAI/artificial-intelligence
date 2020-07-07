@@ -5,8 +5,8 @@ excerpt: "Microsoft open-sourced Zero Redundancy Optimizer version 2 (ZeRO-2), a
 publishedDateTime: 2020-07-07T13:13:00Z
 webUrl: "https://www.infoq.com/news/2020/07/microsoft-ai-speedup/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://res.infoq.com/news/2020/07/microsoft-ai-speedup/en/headerimage/microsoft-ai-speedup-1593791035274.jpg"

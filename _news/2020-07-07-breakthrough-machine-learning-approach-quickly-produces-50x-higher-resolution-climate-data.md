@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16536082"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16536082"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Breakthrough machine learning approach quickly produces higher-resolution climate data"
+    excerpt: "National Renewable Energy Laboratory (NREL) have developed a novel machine learning approach to quickly enhance the resolution of wind velocity data by 50 times and solar irradiance data by 25 times--an enhancement that has never been achieved before with climate data."
+    publishedDateTime: 2020-07-07T16:54:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-07/drel-bml070720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 31
+    images:
+      - url: "https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
+        width: 900
+        height: 300
+        isCached: true
   - title: "Stable machine-learning parameterization of subgrid processes for climate modeling at a range of resolutions"
     excerpt: "Machine learning has been used to represent small-scale processes, such as clouds, in atmospheric models but this can lead to instability in simulations of climate. Here, the authors demonstrate a use of machine learning in an atmospheric model that leads to stable simulations of climate at a range of grid spacings."
     publishedDateTime: 2020-07-03T09:37:00Z

@@ -42,6 +42,20 @@ related:
         width: 1600
         height: 1066
         isCached: true
+  - title: "KMWorld AI 50: The Companies Empowering Intelligent Knowledge Management"
+    excerpt: "As the drive for digital transformation becomes an imperative for companies seeking to compete and succeed in all industry sectors, intelligent tools and services are being recognized for their key roles in enabling valuable speed,"
+    publishedDateTime: 2020-07-07T17:01:00Z
+    webUrl: "https://www.kmworld.com/Articles/Editorial/Features/KMWorld-AI-50-The-Companies-Empowering-Intelligent-Knowledge-Management-141554.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 38
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/131681-AI50.jpg-ORG.jpg"
+        width: 5000
+        height: 2500
+        isCached: true
   - title: "WIMI Hologram AR’s Light and Shadow AI Vision Helps Scenic Spots Build New Competitive Advantages"
     excerpt: "NEW YORK, NY / ACCESSWIRE / July 3, 2020 / WIMI Hologram Cloud (NASDAQ:WIMI) , as a representative of domestic holographic enterprises, mainly concentrates its business application scenes in five professional fields,"
     publishedDateTime: 2020-07-03T07:00:00Z

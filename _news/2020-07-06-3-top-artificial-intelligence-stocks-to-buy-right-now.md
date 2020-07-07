@@ -33,21 +33,16 @@ images:
 related:
   - title: "3 Top Artificial Intelligence Stocks to Buy in July"
     excerpt: "Artificial intelligence (AI) is likewise an important but oft-misunderstood technology. It's still developing, but it promises to create a new segment of the economy based on the automation of simple tasks and raw data crunching."
-    publishedDateTime: 2020-07-05T19:20:00Z
-    webUrl: "https://www.fool.com/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx"
+    publishedDateTime: 2020-07-05T15:32:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-july-2020-07-05"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-july-2020-07-05?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-july-2020-07-05?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 87
-    images:
-      - url: "https://media.ycharts.com/charts/4f99495c05b836a8efa014a9663f2e1e.png"
-        width: 720
-        height: 386
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
 
-secured: "t5k724D2BgKC00Wejt2HXW/QFlRq4a3KjveTfGdn5W8xKCS/EZxK7eN4NgbU/gbVM9oY+/qfz1JNiQnuWOoCCywMf44g8N5w/BlRehrMw9yCc0pdlHr0MoY0tXrjfunn2zBXozqMa9PNd8lTI6mdK2iBblxM9Ndzn76pHYBy4huGuGck/Fz8l8tNmgFfWkTcceZs/dxGd930Yn2Im0e2FCIzkF69mCC/WZm2As0fqSJyGJ7ohMU+1IN39p3K4POILPQVhTUMPH/s6tLTeAFFyTk8ZQAL4X+WKKNe4JkubP769g6Vh+/hKeC12bSgbnyCuDjsUai66cBNGVapDiwTdg==;weGK0UiHmweUXx/k5P9EwA=="
+secured: "FNi+KSkML76mcoNGVYAwyo09o667tFAA9/CWrg0a09H/2n/pfG17/hEp5ArQCzT6o1UHVsS/uDFUa/aRjXDEt6rYD/tTVItqFWYrSEffR/FeCuL3aWv0E3mpNWZPZLObTMuWmvdbYqaIWwszt45vQUjz/jrjhTC7Suh/2OuQjMl53S+PI302kS+XIOMrLtA1ERs6gAf6DlsyivpKlMt+dkMKO/CoH/G3YbAABg4JNCwTAhmJFvVSXepvXcTVH4cS9Rtzjonn1Tiossxuwf9EgYjlLfm3IwPAUGe6XY1UBChehVPrhzDzhhSgt6yIJmz5aYTcRceXjbQ5erCoUnyl5w==;zzVTxhvEF083Oi522ZNiyA=="
 ---
 

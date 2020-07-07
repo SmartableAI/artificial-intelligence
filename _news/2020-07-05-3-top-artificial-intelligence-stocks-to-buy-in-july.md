@@ -2,32 +2,21 @@
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy in July"
 excerpt: "Artificial intelligence (AI) is likewise an important but oft-misunderstood technology. It's still developing, but it promises to create a new segment of the economy based on the automation of simple tasks and raw data crunching."
-publishedDateTime: 2020-07-05T19:20:00Z
-webUrl: "https://www.fool.com/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx"
+publishedDateTime: 2020-07-05T15:32:00Z
+webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-july-2020-07-05"
+ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-july-2020-07-05?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-july-2020-07-05?amp"
 type: article
-quality: 87
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
-
-images:
-  - url: "https://media.ycharts.com/charts/4f99495c05b836a8efa014a9663f2e1e.png"
-    width: 720
-    height: 386
-    isCached: true
-    title: "3 Top Artificial Intelligence Stocks to Buy in July"
 
 related:
   - title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
@@ -47,6 +36,6 @@ related:
         height: 675
         isCached: true
 
-secured: "zBKhw00lLwwNg4PSXFfOk0PxVAvSKVpDYMbxEsqAqrYq5bQDTWA8CToNkKVxRzt5XOUC98p8mVOFatDvutB5csU2s1lUWyDNQ8uiSrXeTM1TqJFOWa+ygumyVeBekgkg0/AuIyE6SzpLgHJ95EEqoy1+4sV2mtgIrLLa0wZfdWXCUQFOXAIDBzKu2ROxORKng0TsEqR1e2vs8xTVWKA1MV9fYBkdsaczf5K0zuLlZDXHefG4oQvSejIRVkRm695VjGc5Q1mWn7ymN/lP04m4hdxzI24hGJOLbl/ThXOzWj2fB8U+npJzEV8HClH06Ic1QeAT3ljRW4Y2vpHo9nh3xA==;JVvGzMAQlp02S2z3xGVlcA=="
+secured: "AaoNpaVXCO8+eEaQ8bpb8hU+LgpvTVSYzfqHk3692CPtpUwwLI+RoaqiVDTp47iMhhZ8lNSMbvQUP8Xhx29NsvEh9jeZMJVV1ymOlI5MPMx3CPU/RrsSgthl80tO9XWkFZ3SJa+dAR+HdMzCCUce10TO2xb8Xh8xHJN9I61f1MnHicbaf46pRPUoMpH35cN6mVw3C61CxYyyoDeYZyQA2kpomMdfsub6tlZUN5GVNqUJJzGXzxoamE1xr3aH5rO5qhiC+Qjz0yW+EfRB1FWtf90mCe6IWdlOLD9GuEN0zm9MvagXuYHUtd0Kl4KvUrbF5LIhThax0NLqOo0ubJmm81ggbTZrnJPT0WxAuQK6K1MQ8Hb1w7Rp0ZDPGFi7yHLbFYQlK1a75KK9+o+9JNQJrFIQmmXQMx1a0UKJvyGw+Wl5tfnazaY3nI/5r9QOHcO22UDYevt5FjFJzELbw73BXW2TKLKr4XCsH+/nor3zKIDe29yr2d9ERWqpUdYrZQh0x3JVWnZVBKYEHYwYuohfjQ==;kXTU3aVfMtAdiR6ghzd84g=="
 ---
 

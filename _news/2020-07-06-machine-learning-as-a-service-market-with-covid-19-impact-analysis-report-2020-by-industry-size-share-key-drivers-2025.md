@@ -30,33 +30,75 @@ images:
     title: "Machine Learning as a Service Market with (Covid-19) Impact Analysis: Report 2020 By Industry Size, Share & Key Drivers 2025"
 
 related:
-  - title: "Neural Network Software Market Report (2020 to 2025) – COVID-19 Growth and Change"
-    excerpt: "The Neural Network Software Market is expected to exceed more than US$ 22.55 Billion by 2024 at a CAGR of 33.2% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
-    publishedDateTime: 2020-07-06T11:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change-2020-07-06"
+  - title: "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025"
+    excerpt: "Jul 07, 2020 (Market Insight Reports) -- Selbyville, Delaware According to Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Precision Medicine market that provides a comprehensive review of this industry with respect to the ..."
+    publishedDateTime: 2020-07-07T17:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025-2020-07-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Car Market 2020 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast to 2023"
-    excerpt: "Jul 06, 2020 (AmericaNewsHour) -- The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn"
-    publishedDateTime: 2020-07-06T07:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-global-covid-19-impact-analysis-trends-opportunities-and-forecast-to-2023-2020-07-06"
+  - title: "Natural Language Processing Market Size, Trends, Outlook, Opportunity Till 2025"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 06, 2020 (AmericaNewsHour) -- The Natural Language Processing market is developing and expanding at a significant pace considering the global scenario. The Natural ..."
+    publishedDateTime: 2020-07-06T09:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-trends-outlook-opportunity-till-2025-2020-07-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Automatic Speech Recognition Market 2020 Industry Size, Cost Structure Analysis, Growth, Share and Opportunities and Forecast to 2026"
+    excerpt: "Jul 03, 2020 (The Expresswire) -- “Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Automatic Speech Recognition Market” report presents an in-depth assessment of the Automatic Speech Recognition market ..."
+    publishedDateTime: 2020-07-03T17:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-2020-industry-size-cost-structure-analysis-growth-share-and-opportunities-and-forecast-to-2026-2020-07-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Growth Predicted at 18% Till 2026: Global Market Insights, Inc."
+    excerpt: "The demand for 3D facial recognition systems that offer enhanced accuracy compared to traditional 2D technology will drive market growth. 3D systems offer accurate results even in dim light conditions as they use facial parameters, such as the depth of the ..."
+    publishedDateTime: 2020-07-05T22:59:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-growth-predicted-at-18-till-2026-global-market-insights-inc-301088154.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 30
+    images:
+      - url: "https://mma.prnewswire.com/media/1200214/Global_Market_Insights_facial_recognition_market.jpg?p=facebook"
+        width: 599
+        height: 315
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Drug Discovery Market is Projected to Grow at a CAGR of 49.6% during the forecast period 2020 to 2027"
+    excerpt: "A new research report published by Fior Markets with the title Global Artificial Intelligence (AI) in Drug Discovery Market by Type (Service, Software, Hardware), Technology (Context-Aware Processing,"
+    publishedDateTime: 2020-07-04T11:51:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2020-07-04/global-artificial-intelligence-ai-in-drug-discovery-market-is-projected-to-grow-at-a-cagr-of-496"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 19
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
         isCached: true
 
 secured: "C2KAq4dcMWOGOwQQF3DUWS6d9B/qIQ/ZEz2drmMq4sQ7Mp9A3k2hO/h/dULNPDaf45Z1yV9fG2bbEzwcZPcYe1tC5TeHGyT/W1J4hvQ5ErXDEQ2xSci4LNai6TY3cr+5BJEyJUYw8zNbeCZ4j33UduhK3393PIL3HWFj9nCUh63ejXj8lq/zUXe+Q2Dh9oc65NslLR3YTgKFBzloz9gPMAxsuK/WlAWr6JHDIFE1pH0kaWtRz4UUZpB6Kps8SHzpEs/MTL6W6MsNfbOb38cHTmHUciQp5SCIw3tXC6IRogFW9w+E/dKGFFB1X75p2+zeJd5ZCGUx0nO7oEv4i5KBaQ==;LuyXTQogPJUyG5yTQMpdJA=="

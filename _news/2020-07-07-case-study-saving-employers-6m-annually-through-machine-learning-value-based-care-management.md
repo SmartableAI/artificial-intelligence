@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "Case Study: Saving Employers $6M Annually Through Machine Learning + Value-Based Care Management"
 
-secured: "RrZo+V6phqW3ij24/8BvhZRIHt8qGLRfQfLuBn5a5W92kXE2bFnXAg9LB4e4qFAzFdvf3szgstgA1kv4wIVS0Htn2xDWX0KD2rgkf4yVHhKMcrfk74HarwOszim4uRbn7NIvIdZch/ENnSchKrKh2HqOuGXRriImQWxot+RTP50KL79N+mEW5td3+CknNxKCoOuQ+A/vnHTrHLoE3aCo/k4yKzTs0i1jRFHJMk5WN7gxC5mZXR9q0wmy15Q9+xz23m3b9fyprAPMmtcRuliGymLrEIJpmOSZXNTicj2wE5YnFqSRVuN0UVNBXY60heM+eQR5tgApSVd+ot84OltXPw==;kpQdm3myWV0b6XwzCm6JwQ=="
+secured: "wmhl+UJnscMsHrM/np0Om7oXIIfUIy7e62vVl1K/lahwVxmh1GwKdXNEtkKjVxaJ0ZuxV9w9r6BSUfBQTAENuX8oFS6kZh2R+LC5fTAKn11thVGrb6/K/r6JMZl5ko1TPyzJzR+9myd1cO2s6x1QkEuchMaaDHb/0F+/pSZjL3QJ9mc/kUvCDXYjaC/kgSRCgWVDCQE73X6nJK/3rJk1J6qGQY0iLJB8iROccE38wTXqbiRHPi9uSdyaz6/vJvwgJ1rn6FjPv5ldm8R5B3HhBinbGxG/1wnjDpqWKMMOxvFGseVTw5//ox9m7FS+jI5x2FA0MH36H/AXX8Mp2HlY4vk9zBH+yDXLwSJCrA39YmAfLKCjBB2Fe+aE00UD2I3kZt1W81mTaGro5juydTcFOMGhaWCC857H0J3nLxFb9ipm2LVUiORYuEj1FMZyH6fahdDl/je5RrB2ONUOHerHV4FUtXc9nNs7JWJLTVnfPaLy96bo3VRWISG0pJM9nmnq9sMyFihcMKWjJ9N7KtVIuA==;Hfw0XjlnBXXF4V7zliNvaQ=="
 ---
 

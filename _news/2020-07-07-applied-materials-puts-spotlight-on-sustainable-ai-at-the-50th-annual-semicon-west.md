@@ -1,28 +1,33 @@
 ---
 category: news
 title: "Applied Materials Puts Spotlight on Sustainable AI at the 50th Annual SEMICON West"
-excerpt: "The Honorable Al Gore in Conversation with Heather Clancy of GreenBiz.com -- Applied Materials CEO Gary Dickerson on Sustainable AI -- Bending the Climate Curve: Enabling Sustainable Growth of Big Data,"
-publishedDateTime: 2020-07-07T14:00:00Z
-webUrl: "https://apnews.com/b19a28fdf640d2a5fbd5b1ce24f7ff4f"
+excerpt: "The Honorable Al Gore in Conversation with Heather Clancy of GreenBiz.com Applied Materials CEO Gary Dickerson on"
+publishedDateTime: 2020-07-07T14:24:00Z
+webUrl: "https://www.marketwatch.com/press-release/applied-materials-puts-spotlight-on-sustainable-ai-at-the-50th-annual-semicon-west-2020-07-07-101842439"
 type: article
-quality: 31
-heat: 31
+quality: 63
+heat: 63
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
     title: "Applied Materials Puts Spotlight on Sustainable AI at the 50th Annual SEMICON West"
 
-secured: "sJVlnod7yDlTCTChJbQ2lY2aYM8UYy7xdW2j0Kfd35id0psg5Ob1yy3AUthYhIkCZ0EQVZVnOcOu8b9/XpM6OqD8w+CyktvUprEei668JqgXkN9NnVqJDNGtuFZDXuzyHJ4KDKc3j+IA5MyYy/V8zNMnnVlk4FilJnYjaCLrkMMErI2WYAJdmDkXJ+plOJSbl3nywgEmYWau6B2oUXXdWCo1UldaXba0JipN4rOPAN0IZjYfngsOgSH6BqttO75zGiHLLhfIhh9Xq8WX3HxIBzYFz18/1qi9uaoIOIG288y2dZ2RMu0NYwuF8D38xsCOPvwpaJ2pzKri8L5TPWqA0A==;XAb57/g5PAl0kMrgtAJpLg=="
+secured: "eIKg9eR5I8Y0RDUU05gwsdbhdC1vweOJLNUjDL9PhXCgxxj5NlLMOihDt98PUI/CDChZgvpfG8tMhdOl3UJeRlHKRqIs2c/flOlS7r4MKw/Yj9tQd/dmTiFX5ZYcKZq6kHuZy/SInVvFPD9whhLQkZYCQ+3vlrVo0LQw54Wdgq2HGI7W736PtAq9O/SWazvIlUEzfvyDoufDDbJvClbOw33rSeIFl13wpsyUqokJ79VHhVWX40XmkWIA3YjrjqptYGrMyzLpbaPg80wjwAkJSQPafdxCZTrSafvglxDcQzDIpRFWToW1BAigKjdSHP/LNVsH96smu9dXfRWRmngXyA==;iYPqtKuZYIMmEBtmE2+17A=="
 ---
 

@@ -56,6 +56,20 @@ related:
         width: 554
         height: 288
         isCached: true
+  - title: "KMWorld AI 50: The Companies Empowering Intelligent Knowledge Management"
+    excerpt: "As the drive for digital transformation becomes an imperative for companies seeking to compete and succeed in all industry sectors, intelligent tools and services are being recognized for their key roles in enabling valuable speed,"
+    publishedDateTime: 2020-07-07T17:01:00Z
+    webUrl: "https://www.kmworld.com/Articles/Editorial/Features/KMWorld-AI-50-The-Companies-Empowering-Intelligent-Knowledge-Management-141554.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 38
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/131681-AI50.jpg-ORG.jpg"
+        width: 5000
+        height: 2500
+        isCached: true
 
 secured: "A8RWSZLwXyo/bf5Bzbc3IIErI73vYfKm32E9vGQavY0yVTjMdbIA15nAzYgvGBSToKDsgpQphgdI7qMfHtdySLpF2TCJTluo94Qv5ff9rJW0N77KHepDSxUem9EMMstpl1xojhXAvhdugFu6CNpNFT5qwQvf92qH2GlreBuB5Bi/TKzSgS98dOZVTS6tpKvamHKqbMuF/jKqMHEp2RUmh7t8BYmUCHjWaMmfjhpvZrEKGx7xtQkTroS62IHnj96e443xCjL6lhbWJAq6B+YTPVeGHaAaN2X8QgthL8cquZ5GWgHUAxJRsP2jJD0csHNWJvFh8xejJS6LlJICmbliBQ==;GkVgu8KgJ/1GwYn4aBDvqw=="
 ---
