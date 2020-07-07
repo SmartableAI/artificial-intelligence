@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Voice Recognition System Market Size to Exceed $39 Bn By 2027"
-    excerpt: "According to the Acumen Research, The global Automotive Voice Recognition System Market is expected to exceed $39 billion by 2027 and the market is anticipated to display a compound annual growth rate (CAGR) of 21 percent from 2020 to 2027."
-    publishedDateTime: 2020-07-02T10:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-size-to-exceed-39-bn-by-2027-2020-07-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2020 | Industry Analysis and Forecasts to 2025"
     excerpt: "This report provides in depth study of “Natural Language Processing (NLP) in Healthcare and Life Sciences Market” using SWOT analysis i.e. Strength, Weakness, Opportunities an"
     publishedDateTime: 2020-07-03T23:21:00Z

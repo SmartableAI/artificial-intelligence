@@ -27,20 +27,6 @@ images:
     title: "Self-driving trucking service launched from Phoenix, other Southwest cities"
 
 related:
-  - title: "TuSimple Launches Self-Driving Truck Network with Berkshire’s McLane, UPS"
-    excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc. supply chain unit McLane that"
-    publishedDateTime: 2020-07-02T09:35:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/07/02/574171.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 23
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2020/07/bigstock-aerial-view-of-self-driving-vehicles-580x387.jpg"
-        width: 580
-        height: 387
-        isCached: true
   - title: "Four large fleets set to test TuSimple self-driving tech in Southwest"
     excerpt: "Four large fleets to test TuSimple autonomous truck tech Three major for-hire carriers and a large private fleet have partnered with autonomous truck developer TuSimple to test the company’s self-driving technologies in real-world operations over the next four years."
     publishedDateTime: 2020-07-03T22:21:00Z

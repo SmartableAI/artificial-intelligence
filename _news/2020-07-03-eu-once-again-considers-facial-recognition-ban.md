@@ -42,17 +42,22 @@ related:
         width: 1200
         height: 733
         isCached: true
-  - title: "Clearview AI stops offering facial recognition technology in Canada"
-    excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
-    publishedDateTime: 2020-07-06T21:01:00Z
-    webUrl: "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN2472RA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2472RA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2472RA"
+  - title: "Shady Face Recognition Firm Clearview AI Says It's Left Canada Amid Two Federal Investigations"
+    excerpt: "Dystopian, U.S.-based face recognition firm Clearview AI has suspended its contract with the Royal Mounted Canadian Police (RMCP), effectively locking its business out of Canada entirely, Bloomberg reported on Monday."
+    publishedDateTime: 2020-07-07T02:45:00Z
+    webUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344"
+    ampWebUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 92
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "ECHR receives first complaint about facial recognition system in Moscow"
     excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
     publishedDateTime: 2020-07-06T10:26:00Z
@@ -69,6 +74,15 @@ related:
         width: 1080
         height: 688
         isCached: true
+  - title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
+    excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
+    publishedDateTime: 2020-07-06T20:59:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-06/clearview-ai-stops-offering-facial-recognition-technology-in-canada"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Clearview AI will stop offering facial recognition software in Canada, privacy officials say"
     excerpt: "Clearview AI, the controversial U.S.-based technology firm, will no longer make its facial recognition software available in Canada, according to federal and provincial privacy authorities. A statement issued by the Office of the Privacy Commissioner of Canada on Monday said Clearview had advised officials of the move in response to an ongoing investigation by privacy authorities."
     publishedDateTime: 2020-07-06T20:04:00Z

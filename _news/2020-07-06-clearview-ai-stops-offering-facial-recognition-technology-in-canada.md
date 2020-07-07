@@ -1,21 +1,19 @@
 ---
 category: news
-title: "Clearview AI stops offering facial recognition technology in Canada"
+title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
 excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
-publishedDateTime: 2020-07-06T21:01:00Z
-webUrl: "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN2472RA"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2472RA"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2472RA"
+publishedDateTime: 2020-07-06T20:59:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-07-06/clearview-ai-stops-offering-facial-recognition-technology-in-canada"
 type: article
-quality: 84
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -39,6 +37,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 733
+        isCached: true
+  - title: "Shady Face Recognition Firm Clearview AI Says It's Left Canada Amid Two Federal Investigations"
+    excerpt: "Dystopian, U.S.-based face recognition firm Clearview AI has suspended its contract with the Royal Mounted Canadian Police (RMCP), effectively locking its business out of Canada entirely, Bloomberg reported on Monday."
+    publishedDateTime: 2020-07-07T02:45:00Z
+    webUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344"
+    ampWebUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 92
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "ECHR receives first complaint about facial recognition system in Moscow"
     excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
@@ -199,6 +213,6 @@ related:
         height: 614
         isCached: true
 
-secured: "Cy1BreNaTxHuiPqNrwtceM7QvkK93zDJhZyLIjD+Xl5nEr9HQ6rXlqlAT0kdLytL26OlUshXhCn2028dOy0o4ISUpD9+p5prHtFdfeuuEOZjbYhi43GEQVF6YmogVM1XUWs2eSDHIq0ZuE78gQTc3bZ68kwDW2M3hDrlaRsMu78aMJM32Nc1LLxe60jklkECmBX2cknfnz443jYFHy5kj5OwaWGPC6yetuuws2mlz9nKqDF/90hB0+oCUZ7qYqVlkUKLaGpo0sD1COSkqx924vAAnPws6KtBglQVM3M6JNQHA6XId2rG1H5o1lCyNwSCtaNikd2OEBwO7JG2gIJ2Nw==;sVgWYzZFwIEKA0DtW4005Q=="
+secured: "FlLxw9/CVqkT+1JFEHt4+9ruibu113DSMYiHn/enxPwX2QPZOHCFA/sXMaY6W6AcHiXcF4VMkksFzq7Jg1g1CncCYMMTRSUbvR45mFYue0dLotLEVgRvUG/N3ZkZSzXd8y4OogFdsOXyv+e4MLclRN1u+tM5y52SZhCUCVeStphkMJ0T5ZIIagF79yvafmNXtcOM5B9RN/VDsW8VjSeHi8wm468LxFmsmjKje7mWmesav/sXeLrYewpybYdpz2nRilrMbE3RtPnQpNV2r5W4+ZGHiIji10YkKbXB8fCUSevwNmCgZV/wiswAeYdDJY4DbxLouh7yiYVxw8uz9KX2DA==;mmACU/3gzdYN7/0BOZQBpw=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-02T17:17:00Z
 webUrl: "https://www.insideindianabusiness.com/story/42320124/notre-dame-ibm-launch-tech-ethics-lab"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 540
     isCached: true
     title: "Notre Dame, IBM Launch Tech Ethics Lab"
-
-related:
-  - title: "IBM, Notre Dame Launch Lab to Focus on Tech Ethics"
-    excerpt: "IBM Tech Ethics Lab will conduct research and produce guidelines for governments and businesses on the ethical use of emerging technologies"
-    publishedDateTime: 2020-07-02T10:04:00Z
-    webUrl: "https://www.wsj.com/articles/ibm-notre-dame-launch-lab-to-focus-on-tech-ethics-11593682202"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-205092/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "amJRem3vaqPd/z5YcG7xb01VI80uKWkG/H5zO/U30fMkU0JPH26fNgLg6WL2b1zs7H67voiyksQg/2lUW3oPGH50JY2D77kZ22UMX8kVbboQJAX4APY1o2DXB5RX1rw/PzgQiNbN5ZL5pSp1oD8w634ed7+mzxGAayI3qg1bl7VtFEXcV9nj+zEV3tqwAlVt6zCRLVSIt/yXc7SvoS39WZfMrqHWE0k3uhkOS2mIpCsI6nISToEUnRAEkWrNNMLfrmlTHkKMObHqTxlaNwHCwyjfqKk8ajFTcxpVbO703UW0/7GO4UYv5H6Lu2pmmUYf34fzZTlox2727/1s8cY9xQ==;tEdNfasee4gzOWjMT60ZFw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.masslive.com/news/2020/07/easthampton-is-the-latest-mass
 cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/07/easthampton-is-the-latest-massachusetts-community-to-pass-a-municipal-ban-on-facial-recognition-technology.html?outputType=amp"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     title: "Easthampton is the latest Massachusetts community to pass a municipal ban on facial recognition technology"
 
 related:
-  - title: "Dozens of advocacy groups push for Congress to ban facial recognition technology"
-    excerpt: "Nearly 40 civil rights, privacy and technology groups sent a letter to Congressional leadership Thursday pushing for a federal moratorium on facial recognition technology."
-    publishedDateTime: 2020-07-02T11:00:00Z
-    webUrl: "https://thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition"
-    ampWebUrl: "https://thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 54
-    images:
-      - url: "https://thehill.com/sites/default/files/facialrecognitiontech_070319istock.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Facial recognition technology is one of the most racist weapons in the police arsenal"
     excerpt: "Thanks to the growing global anti-racism movement, the world is opening its eyes to how police use of facial recognition fits into the bigger picture of harm against Black and Indigenous people -- and how badly we need laws that govern,"
     publishedDateTime: 2020-07-07T00:33:00Z

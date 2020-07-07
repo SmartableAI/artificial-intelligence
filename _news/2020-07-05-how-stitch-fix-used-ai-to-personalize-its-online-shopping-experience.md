@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-persona
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     height: 610
     isCached: true
     title: "How Stitch Fix used AI to personalize its online shopping experience"
-
-related:
-  - title: "Bestenu Utilizes Artificial Intelligence to Improve Online Shopping"
-    excerpt: "It is no doubt that Artificial Intelligence is creating a profound impact on all industries and arenas, and online shopping is no exception. The two segments of online shopping that have been most affected are product search and customer servicing."
-    publishedDateTime: 2020-07-02T11:04:00Z
-    webUrl: "https://apnews.com/c1e293868e008079f30f9df8914bef23"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Nnvb2yGQCd8fy5rsHdfy+2gDLf045ObluepcLaAQO6iThx5A15O6PBCnhYSOjSqVTZ1myAx9dDhPg3zm1bmQpldbOTUr4L2Ra6ofSe3bfQUgzfgUP/EUr5nOS8mOG/xAidRez4GOK1c5akHDyUc1RIAF6y8/ixsfSG5YJe55j+9UVsSaIfwkx9orva0c1BBuSMizaB16j0tEg0afbSjzi4AmwXaEAtNGgpCvuj/rJPHfZfpTYxdG3ofeAFnCFIUBxTY5tp5zOiEx2fOQJzxUY5gpm91Qqgk1LHR5e4xbAmjGlnE3qcw7FNZK3KUywpKQMMqE8p91UUZgCMe+UbK0d3+Y/lDuflBVRaII6n5yiDxBj/1UB1rZoHsHyGipz5k56GPYVLx1NC8z07nHzko++04NwMeUSoavvo2vxPsvduF8tI0Y4pCjVuPcwu5neEvruDqIC5mxMuELbAhAmyIso82jLksKZ16BKHQx+U6OV7SIoxj7F3BGJgn4ZYm0+OQNt0jUGUPS3h5TbWlORU3HgQ==;qFIknLvO6z8n/hDLewjKLg=="
 ---

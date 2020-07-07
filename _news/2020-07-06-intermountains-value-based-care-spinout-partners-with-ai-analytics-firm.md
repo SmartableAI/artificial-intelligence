@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Intermountain's value-based care spinout partners with AI analytics firm"
 
-secured: "fnI8hxfbPL/P+z4/LUhS0VOKsSRkqEwPUI/3gib5BlEFLYgTsueYNyg+qGAny+kXwDAkZtbhuLXT/efjM9TROV8tKQVW+BIJyntdS80vw+Itzl/XxoTgg0QYVOg19jP0MCNjpz7jKeMH6wnbmn2+HAyVObg/644sL2wtjY1ZvPQ9q+IcIT7dNFu6IxCTkDy/VJBtwnVFFp/mUzhrgJ9ekEu0ZEcgqNtsqggrQ68D/+2C7+1+KozIBxyTJeBrPW+hK2ZbGrZRInPR6jezaH+u6da1O4G3BldKjnfsq16WBN51yoWZ27DXfs6MbJbAq8CZlSXTdk87h+32MwP9yhA47w==;pcsX09hUAhwdBAiea8Lv5w=="
+secured: "IUeX5KwbAOykjX8hesSsk6vfyvdP6CHwvO7UfpkzuZg/EBASG93jhJqXw5bTh5DNF9+IpKsuMvy9kBQJHJmGzYy/S02pm+u8CLp7NssV0wgorLSH89yqkiOo3RIiCsYOnMGAW1Lin0x8xIxzjnX5JV+2sZiaf3KlJyKXAT3+HEuvsqFT1PsDI3mI8Te1a/nk+mqgmY6fJahbPOgyNZbxKU8loefvtB2dD8n2Ks6AOqsN/g7KKNPo5WgRMAiW2kHhUlB4+F5Kt/YxQTgM7Lwyb5MlGpvWQLrkBzO7dhYPe0uuDUKxh2BulFVfWYFONj2Ptpyw1MvEd8D5/g/KR/JXpfw1K9SFjIVhq9uV/PD2xup3gBSMMQmeiKm1x3Fqx0Gcw+lKvLpG3IAb9Y6T//6N4HImCvZj/14UsqQ226bDvxPaqbAipOmVK+JuwSKES/aZL3YfC6k+np3yEuD8l1RZ5R4oiom5/QXKR+Rc6qISBlJIg/MExWiDF3cTvzTXf26V9M+yVIEiiJUziLzubSfpOQ==;TVJqYeLOF7tGXOQOAGDaug=="
 ---
 

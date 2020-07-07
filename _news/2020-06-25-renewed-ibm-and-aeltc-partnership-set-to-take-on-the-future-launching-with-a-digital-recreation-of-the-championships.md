@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Renewed IBM and AELTC partnership set to take on the future, launching with a digital recreation of The Championships"
-excerpt: "PRNewswire/ -- IBM (NYSE: IBM) and the All England Lawn Tennis Club (AELTC) recently put pen to paper on a new long term contract. It was a"
-publishedDateTime: 2020-06-25T15:44:00Z
-webUrl: "https://www.prnewswire.co.uk/news-releases/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-836900114.html"
+excerpt: "The partnership renewal means IBM and Wimbledon will be able to seize new opportunities, with the next phase of their long term partnership"
+publishedDateTime: 2020-06-25T15:33:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-1029343105"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-1029343105"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-1029343105"
 type: article
-quality: 1
-heat: 1
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://i1.ytimg.com/vi/Z_XeSIUI12A/hqdefault.jpg"
-    width: 480
-    height: 360
-    isCached: true
-    title: "Renewed IBM and AELTC partnership set to take on the future, launching with a digital recreation of The Championships"
-
-secured: "56HzgmgHAVV2MiYsC621DVsNa64hHS++wFMLh2C0Lfbc6rlGXbY282F9duW13bPa5T8TC5ENnbYVrLU5DYup3b3lQbeY9H+AULYcfI6ygzzASjm1DlFkULaGSNLHbUyj/2Ol3N/9GJ62ALOxQYUKaoC0vWVeEXjjDPnwGX+TUwUkfsK79WGVXj1MRHhmfDZ6OIeOqCdzEUryGXwX7XMNJOVuYSmbDWOJ5XSxV7slUDSV6z0kmAHR4WWFEIC06ZlyljAuaXzF4BEem7BHiHS+Nn+biKlc9f9cmQBGXitvAQ+sZ8c6WQ88Up5j+/hBur9GCc9KvodtSms5VNj3FyTTkKRlPlKlW1/i+rsY7k8GTS4H75e+KfojZXm9UfvEchL2Az4Io42m00DrKiIxd8WkEgecY0pD8FwRtBpmynLa/b8Hqk5cFGgDOT3BsN0501kfj5YV/K0P/3FNuXDAvIfRz9HJ6zltLkaPXHVJmyRDJ4i6rGZRoxxVm3drHKcuzcEz4USgfesJfV3Zw7tbpiwKzw==;kriGwganLMIVfSAfsjH+ag=="
+secured: "sWd5wg5007YKg768JwieCb6l/94xmHDXmSpvzMQ1zVb94fjix6NaFeHP5MoSl2m/tgXR94UMzzJIKRbBHOhyTovbTWqPjLGdmYlKyKjLVAW1xnlKPY36MUgdSOHaI3uq9pyuv3QjvuC3Pqi8dVjtLS8Wqtzpd2ZB4QGPogv/UhHhIeZVXhIhlZrQLX3MrU3i0akkxESiSMN+mGyFyZgh+LAXZ8CgLqXDPAydeVUjwzjzLxlkLyuTFfBaq43CLru0vccVDXNgcgR7CupD845+f1CGgFKM20sDO70dVx+DhaDLCFSi6PmoqeubBlE+TBagUmk/y2U10qfwtBh7WgK+uw==;KPoFLyNLi0dRHgW8ZlsxdA=="
 ---
 
