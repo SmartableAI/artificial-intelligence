@@ -166,9 +166,9 @@
     {
       "path": "_news/2020-06-17-microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity.md",
       "title": "Microsoft unveils Azure Machine Learning courses and scholarships on Udacity",
-      "excerpt": "A newly unveiled introductory course for machine learning on Azure will be available for free on Udacity. A set of chosen top performers will then get scholarships for a more advanced course.",
-      "webUrl": "https://www.neowin.net/news/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity",
-      "heat": 130,
+      "excerpt": "The digital education platform will host one introductory course, dubbed \"Introduction to machine learning on Azure\" for free. With the availability of 10,000 spots, the course will offer students ...",
+      "webUrl": "https://www.neowin.net/news/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity/",
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -207,9 +207,7 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "Google AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {

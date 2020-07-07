@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.iflscience.com/technology/robot-janitors-could-soon-be-c
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -38,6 +38,22 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 52
+    images:
+      - url: "https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2020/07/mit-cleaning-robot.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "MIT Designs Robot That Could Be Used To Disinfect Schools, Grocery Stores With UV-C Light"
+    excerpt: "MIT has designed a robot that is capable of disinfecting the floor of a 4,000-square foot warehouse in only half an hour."
+    publishedDateTime: 2020-07-07T14:01:00Z
+    webUrl: "https://boston.cbslocal.com/2020/07/06/mit-cleaning-robot-disinfect-uv-c-light/"
+    ampWebUrl: "https://boston.cbslocal.com/2020/07/06/mit-cleaning-robot-disinfect-uv-c-light/amp/"
+    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/07/06/mit-cleaning-robot-disinfect-uv-c-light/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 50
     images:
       - url: "https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2020/07/mit-cleaning-robot.jpg"
         width: 1024
@@ -76,6 +92,6 @@ related:
         height: 683
         isCached: true
 
-secured: "62ETm4h8PQeflTx5vD6yUAAMOop+65XS2Tsd9eEBzrS8Y3vl/zEpjRUAIVdih8LVxfL3IWpX4fy+Jz78z+Xdk9R/22UWyzp+9BesR64346fW0ogQwILo+YQXQqtoUrlbWGebKzKbcCCapNFDA6PBVkDVUf2O7TTAqHUl1wZd157w0/WNWfDXwa8Nqf7tZBrw9iLGJsg1TgQ0atvK6uekq+Nb0Z8GGIi+7MSIeONIvNTAxcG6anjhwJHgk/emResiFw6lJGKM0hgMEoMkLR611FtftpZIsrBgCjktZS19pj4ovwXchhEXYUAlDdIWRUz4d/KYoAKpr3e61wn7mWhDYw==;d0fvpT4PiiMR/1cIf8R0rg=="
+secured: "Y30HW/sNtEkTnJ/erjaLJv49okS2P46P6IL9G1Dp+GlyyaccUCu835NV8ovj/qiOhmm3K9HTbG5W8baoWNDADY5lW9bruhKMm82EZxbdbeSTFUqf93hOpqTgNmfxUEUwo+KKm1EvAVN04n3N3sd1l8iIb5JQJSChgHD7swPtV4RQxRBWLgzgBZhX8fY+Cekiy+ncCg6PwuBnuU4eBPVpQN3D0jHwEY+Ql3VgHSv16NsYbTRtV9fGrgqrX9pBfffEIuc3YGpj431cPZSBEm9A5G+HMHyUpEaNolVrrHq0PVtZrMyzkAgQ65pfnD3AK3i1UuW5nSKb43a4MUXRyjspPETB3KRda49xeL3rGuwri/TrexDu78etZSHtPug02tF0MhSosKXLKAowC1aSueawi+VLbsvfG1UMwtLWYIVYMHu/Mo0AJtCp8YSw1g5PlzY2zVxfExC0QOhHCXIVeoH3dO2WDyfUq87NXIeWtzk7JVz7k7/0PfY5lRjOqXmOVTzr;nOK0AKRSFglZgywyfOpM8Q=="
 ---
 

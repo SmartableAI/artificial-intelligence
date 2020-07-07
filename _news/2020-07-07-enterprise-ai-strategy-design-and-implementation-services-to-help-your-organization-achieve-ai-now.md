@@ -24,21 +24,21 @@ images:
     title: "Enterprise AI strategy, design, and implementation services to help your organization achieve AI now"
 
 related:
-  - title: "How AI Helps Digital Enterprises Streamline Operations"
-    excerpt: "Artificial intelligence (AI) is transforming how enterprises analyze and process information. It is also shifting from theoretical to real-world technology. Companies are deploying AI technologies to boost efficiency, reduce costs, and grow sales and ..."
-    publishedDateTime: 2020-07-03T04:57:00Z
-    webUrl: "https://www.forbes.com/sites/jiawertz/2020/07/03/how-ai-helps-digital-enterprises-streamline-operations/"
-    ampWebUrl: "https://www.forbes.com/sites/jiawertz/2020/07/03/how-ai-helps-digital-enterprises-streamline-operations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2020/07/03/how-ai-helps-digital-enterprises-streamline-operations/amp/"
+  - title: "5 tips to accelerate your company's AI implementation"
+    excerpt: "RingCentral’s Director of global SEO, John Allen lays out everything you need to know about how to get your firm’s AI implementation just right."
+    publishedDateTime: 2020-07-07T02:19:00Z
+    webUrl: "https://www.clickz.com/5-tips-to-accelerate-your-companys-ai-implementation/"
+    ampWebUrl: "https://www.clickz.com/5-tips-to-accelerate-your-companys-ai-implementation/262008/amp/"
+    cdnAmpWebUrl: "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/5-tips-to-accelerate-your-companys-ai-implementation/262008/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: ClickZ
+      domain: clickz.com
+    quality: 57
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1180902197%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://1ld3bn3pj7u818mrpr3kmfig-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/image1-1.png"
+        width: 768
+        height: 527
         isCached: true
 
 secured: "+7NVAeqSOouaYNwSHhl+kLRS+SZJxOpcHTdui5RJqBWgI88XI7gYIgjAeIxQKG+1Ka1oEhWgimU8xUlIHpn74oErrZ95oM4fwUI77ZcZU2E6KgTUgX8iPc5zYCRXu/uNH8jytvdeQpSgqX5EqfnufW/XoF9SFXW+GZGq9wuYA3EJQhw1YgY3VPE+rU+aCdOd5kG8x4Vpe6DVDyWWZZ2Z64q/8F9KEb/YArhGuYJfriSs1PxWlMMskO6OsghxapwEm4IkB/BZZIKXpfde5ynNg0r8McMBtUBAi2IQRJcBnC2Ef1mLBspooLKBTb2o9y/M4XJI/PCwzvVcxtaUBwBlzw==;s9VFRZ5ryrDYltv1l0pg/A=="

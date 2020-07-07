@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scroll.in/article/964521/facial-recognition-technologies
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     title: "Facial recognition technologies echo the historical problem of linking appearance with criminality"
 
 related:
+  - title: "Editorial: The problems with facial recognition technology"
+    excerpt: "Face recognition also can be problematic when manipulated by overzealous law enforcement agencies trying to match driver’s licenses photos to an artist’s sketch or surveillance cameras capturing indiv"
+    publishedDateTime: 2020-07-05T07:15:00Z
+    webUrl: "https://wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.html"
+    ampWebUrl: "https://wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.amp.html"
+    cdnAmpWebUrl: "https://wcfcourier-com.cdn.ampproject.org/c/s/wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.amp.html"
+    type: article
+    provider:
+      name: The Courier
+      domain: wcfcourier.com
+    quality: 59
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/5/38/538f3af9-22c9-5cca-aff0-3bc28fa4dbc0/5efcaa1d0223f.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Africa: Future of Facial Recognition Technology in Africa"
     excerpt: "Analysis - When several United States (US) companies withdrew their facial recognition software products amid concerns about flaws, biases and misuse in the wake of the killing of George Floyd, did leaders in sub-Saharan Africa take note?"
     publishedDateTime: 2020-07-07T07:21:00Z
@@ -54,6 +70,20 @@ related:
       - url: "https://rabble.ca/sites/default/files/node-images/img_0.png"
         width: 865
         height: 441
+        isCached: true
+  - title: "Alarm systems upgraded with Facewatch biometric facial recognition for workplace security"
+    excerpt: "Monitor Computer Systems has partnered with Facewatch to provide the Sentinel alarm monitoring system with facial biometrics to strengthen workplace security, the company announced. Sentinel is"
+    publishedDateTime: 2020-07-06T15:08:00Z
+    webUrl: "https://www.biometricupdate.com/202007/alarm-systems-upgraded-with-facewatch-biometric-facial-recognition-for-workplace-security"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
 
 secured: "nlqwAE06SPsPVns4KvfEQ0zRKC5uRgygLbpzoBhlhxFpn5m9K/huT54GXcq4A68iE67AvEKjUlwS6MZ3yfLYebHFoLHQ5kbEpYMxHyKQBoDSFeL4zW59K1wISQHZ4CN0boV/7/ypvPGxsFNiqjZgnokFMLmhEmL3VZiu/egs7udPjpDLDQkzLddE9MGKkt4JciIs5laprn5fFHgNyraJr9oagy7/HLKKURC6ffTy/f5YcvcHICdmICFiYEo/X/zBHysGrNqj2i7eOcGMalRy/7dgVPY4XHTVXSFwxm6BM+BxYtfQyPJiWhdY0BjNb0F6Lkdf/WNp0lnoEJMOWH9kBA==;2t8Tqx6nDeXV5LNsrMijUg=="

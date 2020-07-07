@@ -2,6 +2,91 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-06-12-citizen-isnt-here-to-be-your-free-speech-platform.md",
+      "title": "Citizen Isn't Here to Be Your Free-Speech Platform",
+      "excerpt": "I have become a Citizen addict. Citizen is an app, currently active in 18 cities, that’s sort of a supercharged police scanner—its home screen is a map of the area around your location that pinpoints disturbances.",
+      "webUrl": "https://www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ee2b6f1e8f495017d8cebd3/master/pass/business_citizen_639285526.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Citizen Isn't Here to Be Your Free-Speech Platform",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/amp",
+      "publishedDateTime": "2020-06-12T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-tech-giants-back-away-from-facial-recognition-amid-bias-concerns.md",
+      "title": "Tech Giants Back Away From Facial Recognition Amid Bias Concerns",
+      "excerpt": "On June 10, Amazon announced a one-year moratorium on police use of Amazon’s facial recognition technology, Amazon Rekognition. In a blog post, Amazon said it will still allow organizations such as Thorn, the International Center for Missing and ...",
+      "webUrl": "https://www.meritalk.com/articles/tech-giants-back-away-from-facial-recognition-amid-bias-concerns/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.meritalk.com/wp-content/uploads/2020/02/shutterstock_618887135-min.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Tech Giants Back Away From Facial Recognition Amid Bias Concerns",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-12T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MeriTalk",
+        "domain": "meritalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-deep-learning-chipset-market-is-thriving-worldwide-nvidia-intel-ibm-qualcomm.md",
       "title": "Deep Learning Chipset Market is Thriving Worldwide | NVIDIA, Intel, IBM, Qualcomm",
       "excerpt": "Deep Learning Chipset Market Research: Global Status & Forecast by Geography, Type &",
@@ -1150,91 +1235,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-microsoft-bans-police-from-using-its-facial-recognition-software.md",
-      "title": "Microsoft bans police from using its facial recognition software",
-      "excerpt": "The move follows similar measures by Amazon and IBM, and bars police from using Microsoft's systems until federal regulations are in place.",
-      "webUrl": "https://www.cnet.com/news/microsoft-bans-police-from-using-its-facial-recognition-software/",
-      "heat": 409,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/HR54znBsd8jxCVa5CV_hoVJt6rg=/756x567/2020/04/17/9e4fd5eb-524c-4884-88df-b39286c78c21/microsoft-1085.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Microsoft bans police from using its facial recognition software",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-bans-police-from-using-its-facial-recognition-software/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-bans-police-from-using-its-facial-recognition-software/",
-      "publishedDateTime": "2020-06-11T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution.md",
-      "title": "Covid-19 acts as a Catalyst to AI Healthcare Revolution",
-      "excerpt": "The fourth revolution of healthcare is Artificial Intelligence. Here is the connection between AI & Medical field -Healthcare Revolution. AI is medical",
-      "webUrl": "https://techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcresendo.com/wp-content/uploads/2020/06/AI-Health-Care.png",
-          "width": 800,
-          "height": 600,
-          "title": "Covid-19 acts as a Catalyst to AI Healthcare Revolution",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/?amp",
-      "cdnAmpWebUrl": "https://techcresendo-com.cdn.ampproject.org/c/s/techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/?amp",
-      "publishedDateTime": "2020-06-11T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techcresendo.com",
-        "domain": "techcresendo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

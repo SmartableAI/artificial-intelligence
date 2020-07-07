@@ -111,6 +111,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Facial recognition technology displays clear racial bias"
+    excerpt: "Across the world and within the United States the use of facial recognition technology is on the rise. Touted as a powerful security tool, facial recognition has been rolled out nationwide with ..."
+    publishedDateTime: 2020-07-06T17:49:00Z
+    webUrl: "https://thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/"
+    ampWebUrl: "https://thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 59
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
+        width: 1250
+        height: 805
+        isCached: true
   - title: "Can Any Store or Business Use Facial Recognition Cameras in Australia?"
     excerpt: "Facial recognition technology is on the rise globally and with companies in Australia looking for ways to use it with customers, the lines between privacy and convenience can get a little murky. Part of the reason behind this is that many of us aren’t ..."
     publishedDateTime: 2020-07-07T07:33:00Z
@@ -223,6 +239,20 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 49
+  - title: "Big Tech's Wish List for National Facial Recognition Law"
+    excerpt: "Tech companies want a national facial recognition law that balances consent and transparency. But keep Illinois' Biometric Information Privacy Act and its private right of action out of the discussion,"
+    publishedDateTime: 2020-07-06T14:09:00Z
+    webUrl: "https://www.law.com/legaltechnews/2020/07/06/big-techs-wish-list-for-a-national-facial-recognition-law/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2019/01/Facial-recognition-Aegis-SN-Technologies-web.jpg"
+        width: 1016
+        height: 614
+        isCached: true
   - title: "Canadians abandon face recognition software"
     excerpt: "Watchdog growls at clearview Canada's privacy watchdog said facial recognition software provider Clearview AI will no longer offer its services in the country, suspending a contract with its last remaining client,"
     publishedDateTime: 2020-07-07T10:23:00Z

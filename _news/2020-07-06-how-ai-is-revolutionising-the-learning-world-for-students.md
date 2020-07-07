@@ -42,20 +42,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "The Need for Patenting AI Inventions"
-    excerpt: "The process of building an efficient IP strategy for Artificial Intelligence is also going up in recent years. Patent analytics company Parola Analytics that"
-    publishedDateTime: 2020-07-03T03:06:00Z
-    webUrl: "https://www.cxotoday.com/news-analysis/the-need-for-patenting-ai-inventions/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 39
-    images:
-      - url: "https://www.cxotoday.com/wp-content/uploads/2020/07/Rahul-Dev.jpg"
-        width: 600
-        height: 449
-        isCached: true
 
 secured: "TkpwSK3zJeDbw0qsIjh2km+lVyNNNb1/l9rtk7/QDkcxtA8gWTsgdyP4IJbfUSaq0qJej2zy+OySfpl7m/BgrJFTyNks7QcHwQCs8YS1nQPSJjhUZa9ubVG6Vza8ICAup84cpra08NeKvQLx9wQV6DakTo4L02QMuNobQs3Q2QhaSOqYKc2OPxWhsVp8sbNb2W9XfAGhOLX5pDwp616oNDXW6fbd8rkG15kfWPHsr+Hrlwm7V0amlvnWa4Q4Y74iGbNQeE/VxMZ1BOA9MgSciPRxs/prUD9mnfZKSB+gs/GRw5PBftJuR7opCD/5E+l0vBqrPGB61k03M0px1GLKfA==;tqQ385NoBG9JxfkMd2XGRQ=="
 ---

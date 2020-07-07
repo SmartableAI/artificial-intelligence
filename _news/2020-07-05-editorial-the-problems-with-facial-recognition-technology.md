@@ -8,8 +8,8 @@ ampWebUrl: "https://wcfcourier.com/opinion/editorial/editorial-the-problems-with
 cdnAmpWebUrl: "https://wcfcourier-com.cdn.ampproject.org/c/s/wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.amp.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: The Courier
@@ -27,63 +27,63 @@ images:
     title: "Editorial: The problems with facial recognition technology"
 
 related:
-  - title: "New technique keeps your online photos safe from facial recognition algorithms"
-    excerpt: "A new solution enables the best of both worlds as users can still post their photos online safe from the prying eye of algorithms."
-    publishedDateTime: 2020-07-03T04:45:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/07/03/online-photos-safe-from-facial-recognition-algorithms/"
+  - title: "Facial recognition technologies echo the historical problem of linking appearance with criminality"
+    excerpt: "Several startups now claim to be able to use artificial intelligence to help employers detect the personality traits of job candidates based on their facial expressions. In China, the government has pioneered the use of surveillance cameras that identify and track ethnic minorities."
+    publishedDateTime: 2020-07-07T18:05:00Z
+    webUrl: "https://scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
+    ampWebUrl: "https://amp.scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 135
+      name: Scroll
+      domain: scroll.in
+    quality: 45
     images:
-      - url: "https://img2.helpnetsecurity.com/posts2020/photos_online_algorithm.jpg"
-        width: 650
-        height: 363
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/125973-gngajbjuaf-1566471406.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Facial recognition technology displays clear racial bias"
-    excerpt: "Across the world and within the United States the use of facial recognition technology is on the rise. Touted as a powerful security tool, facial recognition has been rolled out nationwide with ..."
-    publishedDateTime: 2020-07-06T17:49:00Z
-    webUrl: "https://thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/"
-    ampWebUrl: "https://thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/amp/"
+  - title: "Africa: Future of Facial Recognition Technology in Africa"
+    excerpt: "Analysis - When several United States (US) companies withdrew their facial recognition software products amid concerns about flaws, biases and misuse in the wake of the killing of George Floyd, did leaders in sub-Saharan Africa take note?"
+    publishedDateTime: 2020-07-07T07:21:00Z
+    webUrl: "https://allafrica.com/stories/202007070165.html"
     type: article
     provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 59
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 41
     images:
-      - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
-        width: 1250
-        height: 805
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
         isCached: true
-  - title: "Big Tech's Wish List for National Facial Recognition Law"
-    excerpt: "Tech companies want a national facial recognition law that balances consent and transparency. But keep Illinois' Biometric Information Privacy Act and its private right of action out of the discussion,"
-    publishedDateTime: 2020-07-06T14:09:00Z
-    webUrl: "https://www.law.com/legaltechnews/2020/07/06/big-techs-wish-list-for-a-national-facial-recognition-law/"
+  - title: "Facial recognition technology is one of the most racist weapons in the police arsenal"
+    excerpt: "Thanks to the growing global anti-racism movement, the world is opening its eyes to how police use of facial recognition fits into the bigger picture of harm against Black and Indigenous people -- and how badly we need laws that govern,"
+    publishedDateTime: 2020-07-07T00:33:00Z
+    webUrl: "https://rabble.ca/columnists/2020/07/facial-recognition-technology-one-most-racist-weapons-police-arsenal"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 39
+      name: rabble.ca
+      domain: rabble.ca
+    quality: 32
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2019/01/Facial-recognition-Aegis-SN-Technologies-web.jpg"
-        width: 1016
-        height: 614
+      - url: "https://rabble.ca/sites/default/files/node-images/img_0.png"
+        width: 865
+        height: 441
         isCached: true
-  - title: "New technique keeps your online photos safe from face recognition algorithms"
-    excerpt: "A new solution enables the best of both worlds as users can still post their photos online safe from the prying eye of algorithms."
-    publishedDateTime: 2020-07-03T03:47:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/07/03/online-photos-safe-from-face-recognition-algorithms/"
+  - title: "Alarm systems upgraded with Facewatch biometric facial recognition for workplace security"
+    excerpt: "Monitor Computer Systems has partnered with Facewatch to provide the Sentinel alarm monitoring system with facial biometrics to strengthen workplace security, the company announced. Sentinel is"
+    publishedDateTime: 2020-07-06T15:08:00Z
+    webUrl: "https://www.biometricupdate.com/202007/alarm-systems-upgraded-with-facewatch-biometric-facial-recognition-for-workplace-security"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 36
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
     images:
-      - url: "https://img2.helpnetsecurity.com/posts2020/photos_online_algorithm.jpg"
-        width: 650
-        height: 363
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
 
 secured: "Qoaz1Zb4NFoVd/pB8Mb5Prx8HYz8qgnUORIc69Jc3dbkot+9u+Kj8r3OR08YfnENz5z3ZNukboQTWBRmAw2PeB95wc4VuMK+7Tzdnx5x4nv7nGzDrGPlhQELn/rxOSjXk1xyMeokRyM6341yytLPW8wedSdrFcjzBAd10XhB8meo3QLCNYmpuK1qovel16PDF0WcqZVnRkdnAoom6d23egtlX3XBZImRmeRUEOX4coWsE2V7uMawNrITPmqDIxWumb6XjldZjh2kxAWZOFQpC1uBeMwryvDcPnskXMq88WNQTfIRR3XLFOJlClvFCQ198qhFbfSZKNFC9/8Bablgng==;Cpif9ib6Ss19PDnd4hmjCQ=="

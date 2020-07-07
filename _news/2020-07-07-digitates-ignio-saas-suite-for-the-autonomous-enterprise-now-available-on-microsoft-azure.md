@@ -46,6 +46,6 @@ related:
       domain: openpr.com
     quality: 37
 
-secured: "+NALTAJJhLqMonod4u6kMolAEH65jnKiNAMgq2km/lcoo9xylp5nHASs4pQR9MZ/MbIuPTC8n9DKq/2NThvbmo7iEBpsL1c+bvHGmxORtBozFslyOcDDYRuNmx3DhWjsYI+1w8zYYty4GAS9S+MGdluju1Ffhz/e3LJKsfCBDgsWGZMj4uLakOKHR0B6q166WQLbnf33Z0lIftNBT6YGZwPAFAsLszuq6JI/479lFGO/pBrTg6sNwj+bj+Xc5BrcqdjMhCyL4r4Qu3FZUue5xa+/ZWxRznhcv9a0TxmwmdQAc2sSPGU2zVATXeS5ItT8BqTCjaB9IwWYMldbqumn8g==;mwY1lPUYACTvMhCUig/OSw=="
+secured: "s2v1seBr5KiwP5S8Rck71uIss/4J/S7F2W7VbwyEUwx0B46rv6yvDFWcqZheZ97CKkjdBmNZM57svOjaclLBGgX0+hTXm5lq2dEFXS/ntC0X76IvyWsBaLspoPDx68Kq5uuZzu6vDCUeKdqO5RZbN0busksjRPmodQcNNCpOwNibdiLBRIwqSgphYgDcQaJZF3ohK7wGI9yNOGkTL85Yx8ap5UxHZrKR4p20vqVplBsv4RvjIcfoi5ug7VLdwcqipvQC9LgsZdvWQsYQaFlRxdBadEhmCcMcBaZb/atnsBCn0GpZmsJMjzZRXKZwU+kzvqvtFgiqfzItysDZHP853g==;vWEIFafSSXZeFDOMSlkZNA=="
 ---
 

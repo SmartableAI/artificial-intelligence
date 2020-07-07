@@ -25,6 +25,22 @@ images:
     title: "Facial recognition technology is one of the most racist weapons in the police arsenal"
 
 related:
+  - title: "Editorial: The problems with facial recognition technology"
+    excerpt: "Face recognition also can be problematic when manipulated by overzealous law enforcement agencies trying to match driver’s licenses photos to an artist’s sketch or surveillance cameras capturing indiv"
+    publishedDateTime: 2020-07-05T07:15:00Z
+    webUrl: "https://wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.html"
+    ampWebUrl: "https://wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.amp.html"
+    cdnAmpWebUrl: "https://wcfcourier-com.cdn.ampproject.org/c/s/wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.amp.html"
+    type: article
+    provider:
+      name: The Courier
+      domain: wcfcourier.com
+    quality: 59
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/5/38/538f3af9-22c9-5cca-aff0-3bc28fa4dbc0/5efcaa1d0223f.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Facial recognition technologies echo the historical problem of linking appearance with criminality"
     excerpt: "Several startups now claim to be able to use artificial intelligence to help employers detect the personality traits of job candidates based on their facial expressions. In China, the government has pioneered the use of surveillance cameras that identify and track ethnic minorities."
     publishedDateTime: 2020-07-07T18:05:00Z
@@ -54,6 +70,20 @@ related:
       - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
         width: 664
         height: 664
+        isCached: true
+  - title: "Alarm systems upgraded with Facewatch biometric facial recognition for workplace security"
+    excerpt: "Monitor Computer Systems has partnered with Facewatch to provide the Sentinel alarm monitoring system with facial biometrics to strengthen workplace security, the company announced. Sentinel is"
+    publishedDateTime: 2020-07-06T15:08:00Z
+    webUrl: "https://www.biometricupdate.com/202007/alarm-systems-upgraded-with-facewatch-biometric-facial-recognition-for-workplace-security"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
 
 secured: "zhpmNGXIcwK34O9bAcLVdozBPYXiyiGxJ7VdYkMNRd5Zj7Po0HhZUMUHCh9gyHKEHn/f9cVBpgXD+QHMwk1pW7srPUjll/QuqMF6Qi165ENV8mG2IgE6xAyX7L4D2fKLMwqnUdqjKTZ0sHy3yL6vDZAbgilFeYBYKlfz4oHuPs1pHC98yIuIAT0SO1Pjp4z3GKgC+ImjnCF+fK8Kjh4Vn6/nfNZIR4hAzu3tANB7YIm2fsJxJEJSQnFk6wc+gAWTr7I7dY4SWL/Gy68gScqPEP7CKBYCDBBgYpyJsn19SZSrF8z1Q4CICKKPnfgHlqnGZWcqtsi+qj956PQnaaKRxA==;eM4v/hvwRA3aqECuK8VvNQ=="

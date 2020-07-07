@@ -544,13 +544,13 @@
     {
       "path": "_news/2020-06-22-rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks.md",
       "title": "Rugged COTS Platform Takes On Fast-Changing Needs of Self-Driving Trucks",
-      "excerpt": "Network news, trend analysis, product testing and the industry’s most important blogs, all collected at the most popular network watering hole on the Internet | Network World",
-      "webUrl": "https://www.networkworld.com/resources/204893/rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks",
+      "excerpt": "Advantech and Crystal Group are teaming up to power that evolution based on AV trends, compute requirements, and a rugged COTS philosophy converging for breakthrough innovation in selfdriving truck designs.",
+      "webUrl": "https://www.infoworld.com/resources/204893/rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks",
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://idge.staticworld.net/nww/nww_logo_300x300.png",
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
           "width": 300,
           "height": 300,
           "title": "Rugged COTS Platform Takes On Fast-Changing Needs of Self-Driving Trucks",
@@ -561,12 +561,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T14:10:00-07:00",
+      "publishedDateTime": "2020-06-22T14:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

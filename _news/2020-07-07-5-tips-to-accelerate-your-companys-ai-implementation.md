@@ -8,7 +8,7 @@ ampWebUrl: "https://www.clickz.com/5-tips-to-accelerate-your-companys-ai-impleme
 cdnAmpWebUrl: "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/5-tips-to-accelerate-your-companys-ai-implementation/262008/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 527
     isCached: true
     title: "5 tips to accelerate your company's AI implementation"
+
+related:
+  - title: "Enterprise AI strategy, design, and implementation services to help your organization achieve AI now"
+    excerpt: "AI is a key source of transformation, disruption, and competitive advantage for our clients. Many organizations are coming to us asking them to help get started with AI in practice, make the business case to their leadership,"
+    publishedDateTime: 2020-07-07T04:17:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=141541"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 22
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/131630-EKAI.jpg-ORG.jpg"
+        width: 640
+        height: 336
+        isCached: true
 
 secured: "qfP/QN1NBG6EhHncyD0dm7PT9NzeIwmFn8oB0PG8A8ykQZYyTHM7dWdgIaukqoXwEKRM7xecVRPAiXRhkyrCbPadIwS6eP7glpzKEReQp793mXMlMYml0re2IHLWNZgH0LW110Hup7sjUWOCtP3jXrxULfKKpGab0UwpwMFUoqEWAFnTGQzfrqpJ0sFDjrS4lHteV7IyFZMX0Pk7vY46nCP2MYOcrD60ae1OFDWqp+BBNikpJ7eBSLN2FRefQPTd9qR4sFw7xAWobEo3vPFYvLk6ewUMgVfDcskicNmozC7oTw4ME5l+yPE3s19bB+AVPg+BlDPHqm/XGPDDS3j6dg==;wwqTtVjXDCnkJjIS9DxE5Q=="
 ---
