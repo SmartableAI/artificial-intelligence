@@ -1,25 +1,26 @@
 ---
 category: news
 title: "Renewed IBM and AELTC partnership set to take on the future, launching with a digital recreation of The Championships"
-excerpt: "The partnership renewal means IBM and Wimbledon will be able to seize new opportunities, with the next phase of their long term partnership"
-publishedDateTime: 2020-06-25T15:33:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-1029343105"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-1029343105"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-1029343105"
+excerpt: "PRNewswire/ -- IBM (NYSE: IBM) and the All England Lawn Tennis Club (AELTC) recently put pen to paper on a new long term contract. It was a"
+publishedDateTime: 2020-06-25T15:44:00Z
+webUrl: "https://www.prnewswire.co.uk/news-releases/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-836900114.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - IBM AI
   - AI
 
-secured: "sWd5wg5007YKg768JwieCb6l/94xmHDXmSpvzMQ1zVb94fjix6NaFeHP5MoSl2m/tgXR94UMzzJIKRbBHOhyTovbTWqPjLGdmYlKyKjLVAW1xnlKPY36MUgdSOHaI3uq9pyuv3QjvuC3Pqi8dVjtLS8Wqtzpd2ZB4QGPogv/UhHhIeZVXhIhlZrQLX3MrU3i0akkxESiSMN+mGyFyZgh+LAXZ8CgLqXDPAydeVUjwzjzLxlkLyuTFfBaq43CLru0vccVDXNgcgR7CupD845+f1CGgFKM20sDO70dVx+DhaDLCFSi6PmoqeubBlE+TBagUmk/y2U10qfwtBh7WgK+uw==;KPoFLyNLi0dRHgW8ZlsxdA=="
+images:
+  - url: "https://i1.ytimg.com/vi/Z_XeSIUI12A/hqdefault.jpg"
+    width: 480
+    height: 360
+    isCached: true
+    title: "Renewed IBM and AELTC partnership set to take on the future, launching with a digital recreation of The Championships"
+
+secured: "34bq4YxOu3aJQs/qd0MUfkJNeoQSB8fykEsCcj+T3bKk01+dJIRM6NmuNLVePu4fKpFha41GRQIoIE0a1sRhLXT2RyiHU2CHp48iBoaZZODZazomC93EYSDHOIeDTgq28R9Bdx0srz7QUii+gZjyOrE4YUaif4rh+MAPyRZ+7XTSRc4VipUmixs0mdYFYjtednVFBxAOyX7ZF2ZNZi0PjuqbGY8jCDXazyGGRKOXU+FLXpWptxsrqRdxftrk8Qi7Bb7uAym64YlnI1+ord0k1fbI6rjNivupEclbKBIKsmhKdy0v2W9we5L/PPGaJVaDjt0dr3GW876ucqPyiXhNrA==;k73Exzp0ZIDNInezG+3x6A=="
 ---
 

@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facial recognition and thermal imaging to help fight virus"
+    excerpt: "A SCOTTISH company has unveiled a “track and trace system” using facial recognition and thermal imaging to detect people with high"
+    publishedDateTime: 2020-07-07T04:32:00Z
+    webUrl: "https://www.heraldscotland.com/business_hq/18565073.thermal-facial-imaging-fight-virus/"
+    type: article
+    provider:
+      name: heraldscotland.com
+      domain: heraldscotland.com
+    quality: 39
+    images:
+      - url: "https://www.heraldscotland.com/resources/images/11558537/"
+        width: 1140
+        height: 540
+        isCached: true
 
 secured: "ZWYfbGUJtx4EKTntTXBRo/C1MG0bVM9gyvv8CaG9PCLd57UaiBKm9gS5Ae3XZHOp9UPO0yLfyzF3uVbnr1mVJ3RJCGDuuMExfGJltsZfEBaPrYD1HMCrAaVZx9vnyRhAHxqDTMdmj1bKabcRmFyPKjJA4Ca2qeKJkcszlHfHpVMUSpl6rtWiKqJ75HDMfnO4btFGU6MtawPZXE7kBrFN4Qs7Fa0GKehUC1XzUM7pNcnbLSM4ZVfFX1kA18AixWdRH+zcORRmmMuDdYs9uLcJ14+JaGti+VMwHmviLDjP5zky2gVA01DAO9sb+giBFQRDwnRIBHBLwtqLYa2x3i8ung==;SL93aZekuxm0QiNM3U70Qw=="
 ---

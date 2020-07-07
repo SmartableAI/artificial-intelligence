@@ -25,6 +25,22 @@ images:
     title: "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience"
 
 related:
+  - title: "ONE Championship, Microsoft partner to reinvent digital fan experience"
+    excerpt: "Largest global sports media property ONE Championship (ONE) and Microsoft has announced a strategic partnership to harness the Cloud, including Microsoft Azure and Microsoft 365, to transform digital fan experiences and enhance collaboration for employees."
+    publishedDateTime: 2020-07-07T05:14:00Z
+    webUrl: "https://www.sify.com/finance/one-championship-microsoft-partner-to-reinvent-digital-fan-experience-news-topnews-uhhfkAabbfiag.html"
+    ampWebUrl: "https://www.sify.com/finance/one-championship-microsoft-partner-to-reinvent-digital-fan-experience-news-topnews-uhhfkAabbfiag.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/one-championship-microsoft-partner-to-reinvent-digital-fan-experience-news-topnews-uhhfkAabbfiag.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 59
+    images:
+      - url: "https://www.sify.com/uploads/bmw1_ug4ia0jbedjjh.jpg"
+        width: 872
+        height: 578
+        isCached: true
   - title: "ONE Championship and Microsoft partner to further accelerate and reinvent digital fan experience"
     excerpt: "Microsoft named ONE Championship's preferred cloud provider, delivering new fan engagement experiences powered by Microsoft Azure and"
     publishedDateTime: 2020-07-07T00:03:00Z
