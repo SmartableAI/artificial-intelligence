@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsav.com/news/technology/amazon-looks-to-self-driving-fu
 cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/technology/amazon-looks-to-self-driving-future-by-acquiring-zoox/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,49 +27,21 @@ images:
     title: "Amazon looks to self-driving future by acquiring Zoox"
 
 related:
-  - title: "Amazon Scoops Up Self-Driving Start-Up Zoox"
-    excerpt: "Amazon.com is taking the plunge into autonomous driving technology and eventual contactless delivery with the acquisition of Zoox."
-    publishedDateTime: 2020-07-04T16:54:00Z
-    webUrl: "https://www.thestreet.com/video/amazon-buys-self-driving-start-up-zoox"
-    ampWebUrl: "https://www.thestreet.com/.amp/video/amazon-buys-self-driving-start-up-zoox"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/amazon-buys-self-driving-start-up-zoox"
+  - title: "Self-Driving Tech Is Becoming a Game of Partnerships"
+    excerpt: "Making an autonomous vehicle is proving harder and costlier than many startups predicted. So they're teaming up with giants like Hyundai, Jaguar, and Ford."
+    publishedDateTime: 2020-07-07T12:00:00Z
+    webUrl: "https://www.wired.com/story/self-driving-tech-game-partnerships/"
+    ampWebUrl: "https://www.wired.com/story/self-driving-tech-game-partnerships/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/self-driving-tech-game-partnerships/amp"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
+      name: Wired
+      domain: wired.com
+    quality: 74
     images:
-      - url: "https://content.jwplatform.com/thumbs/ZgwCFLmG-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
-  - title: "Amazon looks to self-driving future by acquiring Zoox"
-    excerpt: "NEW YORK (AP) — Amazon says it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will pull up without a driver. But industry analysts are speculating that Amazon will use Zoox technology to build an autonomous package delivery service."
-    publishedDateTime: 2020-07-06T17:50:00Z
-    webUrl: "https://waow.com/2020/06/26/amazon-looks-to-self-driving-future-by-acquiring-zoox/"
-    type: article
-    provider:
-      name: WAOW
-      domain: waow.com
-    quality: 24
-    images:
-      - url: "https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/9/2018/09/04105457/waowdefault-1.jpg"
-        width: 720
-        height: 403
-        isCached: true
-  - title: "2021 Lexus LS arrives with new looks, self-driving tech"
-    excerpt: "The latest Lexus LS will introduce a self-driving system capable of handling highways, from the on-ramp to the off-ramp."
-    publishedDateTime: 2020-07-07T10:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1034652_2021-lexus-ls-review-price-photos-specs-info"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/lexus-ls_100751064_h.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media.wired.com/photos/5f03caf26cd63b0e8be2ced6/master/pass/business_voyage.jpg"
+        width: 2400
+        height: 1600
         isCached: true
 
 secured: "pbBxA8/GDbTTV8RjZgcs7SRsQYFtOvM6MkyhT/UjaQ3zdnZR4J0tkajkJw/ZKEDiD64wMT+40oiaJDOrmxA9Gr9OYWdw2volS7NWR8sPHtWFEn7xaR7oL5Fd5h6CYM6AMd0o3KqLCAW8hA4HDQhzeaSnWh2Aj4eN/S+mD3Hv3f+tSLeZdIGRbj/MXAOThKLyJ6sv4IoYocJ9xV1kp6uuEZtOTYL7UOp3fRJ3zufRWkwM9QIJJtK32kcNXXZzgdEWLNiP+mmw28zDsksUSJ44Z33OFSX06vSusznZPxkXuksUkqWBmsjuQn29K1z4sUc9qjxjSZmeA5Yun7CbdYUtmX6K08wcCEo06JBYAEwcss6UchaXpW6unv7y1n3GLfoFSd7bMz+22P2ubtdIBKL5DzXBuMR6vsCsxSoQ5FPlBWqBYtc7wmxZRxb9n3gD1R2fDL1IHNo9IBMK4RXRpFmv255wGQafCuneJNXDkweUGIMWY20Xpc9/fvRCacv7UyXHyDC9hz3zfwQRqEQ37VsoRQ==;PhBrkH8t+ynPD8yOQS1WOQ=="

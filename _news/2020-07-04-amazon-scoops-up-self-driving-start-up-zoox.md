@@ -27,21 +27,21 @@ images:
     title: "Amazon Scoops Up Self-Driving Start-Up Zoox"
 
 related:
-  - title: "Amazon looks to self-driving future by acquiring Zoox"
-    excerpt: "NEW YORK (AP) — Amazon said Friday that it is buying self-driving technology company Zoox, which is developing an autonomous vehicle for a ride-hailing service that people would request on their"
-    publishedDateTime: 2020-07-03T17:42:00Z
-    webUrl: "https://www.wsav.com/news/technology/amazon-looks-to-self-driving-future-by-acquiring-zoox/"
-    ampWebUrl: "https://www.wsav.com/news/technology/amazon-looks-to-self-driving-future-by-acquiring-zoox/amp/"
-    cdnAmpWebUrl: "https://www-wsav-com.cdn.ampproject.org/c/s/www.wsav.com/news/technology/amazon-looks-to-self-driving-future-by-acquiring-zoox/amp/"
+  - title: "Amazon Speeds Towards $1.2 Billion Self Driving Black-Led Car Company Zoox"
+    excerpt: "Amazon has purchased of Zoox, led by CEO Aicha Evans for $1.2 billion. With Evans at the helm, carving out her own lane in what’s shaping up to be a competitive self-driving car space, is the e-commerce giant in a position to dominate yet another industry?"
+    publishedDateTime: 2020-07-07T12:21:00Z
+    webUrl: "https://www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/"
+    ampWebUrl: "https://www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/amp/"
     type: article
     provider:
-      name: WSAV-TV
-      domain: wsav.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.wsav.com/wp-content/uploads/sites/75/2020/06/b7775bcad29441de8ca0d81aa89555a9.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148406588%2F0x0.jpg"
+        width: 1200
+        height: 827
         isCached: true
   - title: "Amazon looks to self-driving future by acquiring Zoox"
     excerpt: "NEW YORK (AP) — Amazon says it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will pull up without a driver. But industry analysts are speculating that Amazon will use Zoox technology to build an autonomous package delivery service."
@@ -56,20 +56,6 @@ related:
       - url: "https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/9/2018/09/04105457/waowdefault-1.jpg"
         width: 720
         height: 403
-        isCached: true
-  - title: "2021 Lexus LS arrives with new looks, self-driving tech"
-    excerpt: "The latest Lexus LS will introduce a self-driving system capable of handling highways, from the on-ramp to the off-ramp."
-    publishedDateTime: 2020-07-07T10:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1034652_2021-lexus-ls-review-price-photos-specs-info"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/lexus-ls_100751064_h.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "8TcAp6g9hXknQpzhdl9wd5TeLhqZir3p23c8imrFf53utxWQBl9tOPk5FTSPf5KeoNextjlT4FLjQZvGMlKTWXE1DZ9herxm2GbUkWhKwnFNRgk1BkbIxnglBLFZIJlVHEDndMrdLSTcRWTYzbv59NIIJvXopn+xIRwhtsHhTjlrY5dI1hm3N7OgRNK5xt0f9nC15n9uN4FOmA2LZJQeD5yl5HCIfmtNuIKfXAjWRVDEJgBT+Wmi8xZRxh2k5SDeTeXVg+ky8TPt4SzJ4JfTdfdSwZhEfYgjZwOhpsakX0Zanh5Pk3s5qj2OUWL+7PEMB6IOcv3o6Vc7Mq6jxJZB4iQG/147Kx+AZ9Ildv4MEWm50QfYI91gTpziv1ruSyFd82vKc7M9XvOi63GIbVeRy3ULRcRE+zXXelGwQldvJrwxKg8h0vgLMg0bRWZppIy8wvfkuR779PFoJlA5PMD3vw2aB7qqUfqP60sd9I4l5cvzmxXXdFdWryI7oCdSq+RoIhzFbd0y2PNdyMd6S9/0eg==;/QdDCHJHan4sS79lpG3hiw=="

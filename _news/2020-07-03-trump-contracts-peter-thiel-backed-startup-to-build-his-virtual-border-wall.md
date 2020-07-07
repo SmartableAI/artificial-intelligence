@@ -8,8 +8,8 @@ ampWebUrl: "https://thenextweb.com/neural/2020/07/03/trump-contracts-peter-thiel
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/03/trump-contracts-peter-thiel-backed-startup-to-build-his-virtual-border-wall/amp/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Next Web
@@ -28,24 +28,6 @@ images:
     height: 417
     isCached: true
     title: "Trump contracts Peter Thiel-backed startup to build his (virtual) border wall"
-
-related:
-  - title: "Trump administration awards tech start-up contract to build 'virtual' border wall"
-    excerpt: "The Trump administration has reportedly awarded a contract to a California-based tech startup to set up hundreds of \"autonomous surveillance towers\" along the U.S.-Mexico border to aid its immigration enforcement efforts."
-    publishedDateTime: 2020-07-02T19:02:00Z
-    webUrl: "https://thehill.com/policy/technology/505657-trump-admin-awards-tech-start-up-contract-to-build-virtual-border-wall"
-    ampWebUrl: "https://thehill.com/policy/technology/505657-trump-admin-awards-tech-start-up-contract-to-build-virtual-border-wall?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/505657-trump-admin-awards-tech-start-up-contract-to-build-virtual-border-wall?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 37
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_borderwall_021420getty_0.jpg"
-        width: 1440
-        height: 880
-        isCached: true
 
 secured: "i55yzbZiBkdy0467lX2R9hx7lGEm8BZJ3W3PeJPQniLURAb5Od17d6Q5wumo8DUNHE6rHrDiOokDkGD+fZ134oYjG3/w1i3pF8rB2sizTq44yqQJmYzVdInhbDcuj2hQVje2DXf3ve+px/+Il3ysQ8s2Ps/cRatULTIwfAwUOFR6jdaw9mt6J0Z5bnVESKBQ46Zm2VzEDGSlKzm2AvFIbIRqYQmk72i0YFKYmtwMIzcXxAiW1FqYSw/1gJvIXnxDlW34MTNH0unakAAgzdX8dQdnTlZBrCpk1hbohnmmIflLxI4jirNt3uRlitRL6MSpfP8B4uL9d4gKe/etQVh1u6RfQOHuWnYS550scM82jekeZpSuPqdhzUFn/eTIdBPjaHh876oV1D2VZ5ZdDfJDZUfXFEs3cEFwES09wGhjj/5b92bIY71KfPP6fKASw2ymSS9BKxY9ne5e5/ywjozJ7haP3yde9I0ebwGM30qq/9gcAhnDL5Uz5Okt6j1cr+iIGdIlkah+8OCUDad6R5Rv8A==;eG4IAMnrJyYVCGaiLdwo0g=="
 ---

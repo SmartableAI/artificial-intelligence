@@ -1,21 +1,19 @@
 ---
 category: news
-title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
+title: "Clearview AI stops offering facial recognition technology in Canada"
 excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
-publishedDateTime: 2020-07-06T20:59:00Z
-webUrl: "https://www.usnews.com/news/technology/articles/2020-07-06/clearview-ai-stops-offering-facial-recognition-technology-in-canada"
+publishedDateTime: 2020-07-06T21:12:00Z
+webUrl: "https://www.nasdaq.com/articles/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-07-06"
+ampWebUrl: "https://www.nasdaq.com/articles/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-07-06?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-07-06?amp"
 type: article
-quality: 64
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Computer Vision
@@ -86,6 +84,17 @@ related:
         width: 1080
         height: 688
         isCached: true
+  - title: "Clearview AI stops offering facial recognition technology in Canada"
+    excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
+    publishedDateTime: 2020-07-07T01:48:00Z
+    webUrl: "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN2472RA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2472RA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2472RA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
   - title: "Clearview AI will stop offering facial recognition software in Canada, privacy officials say"
     excerpt: "Clearview AI, the controversial U.S.-based technology firm, will no longer make its facial recognition software available in Canada, according to federal and provincial privacy authorities. A statement issued by the Office of the Privacy Commissioner of Canada on Monday said Clearview had advised officials of the move in response to an ongoing investigation by privacy authorities."
     publishedDateTime: 2020-07-06T20:04:00Z
@@ -101,22 +110,6 @@ related:
       - url: "https://i.cbc.ca/1.5639386.1594063251!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/clearview-ai.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "Facial recognition technology displays clear racial bias"
-    excerpt: "Across the world and within the United States the use of facial recognition technology is on the rise. Touted as a powerful security tool, facial recognition has been rolled out nationwide with ..."
-    publishedDateTime: 2020-07-06T17:49:00Z
-    webUrl: "https://thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/"
-    ampWebUrl: "https://thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 59
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
-        width: 1250
-        height: 805
         isCached: true
   - title: "Can Any Store or Business Use Facial Recognition Cameras in Australia?"
     excerpt: "Facial recognition technology is on the rise globally and with companies in Australia looking for ways to use it with customers, the lines between privacy and convenience can get a little murky. Part of the reason behind this is that many of us aren’t ..."
@@ -230,20 +223,6 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 49
-  - title: "Big Tech's Wish List for National Facial Recognition Law"
-    excerpt: "Tech companies want a national facial recognition law that balances consent and transparency. But keep Illinois' Biometric Information Privacy Act and its private right of action out of the discussion,"
-    publishedDateTime: 2020-07-06T14:09:00Z
-    webUrl: "https://www.law.com/legaltechnews/2020/07/06/big-techs-wish-list-for-a-national-facial-recognition-law/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2019/01/Facial-recognition-Aegis-SN-Technologies-web.jpg"
-        width: 1016
-        height: 614
-        isCached: true
   - title: "Canadians abandon face recognition software"
     excerpt: "Watchdog growls at clearview Canada's privacy watchdog said facial recognition software provider Clearview AI will no longer offer its services in the country, suspending a contract with its last remaining client,"
     publishedDateTime: 2020-07-07T10:23:00Z
@@ -259,6 +238,6 @@ related:
         height: 443
         isCached: true
 
-secured: "jCnrnGs4bh1PClmtruzcaSDk1v4Ls5u62I0fSfttpFUR3XPE7obMA0BlhhX+Um1cEQLqoMN+LGHzrSJ7o6UNvWQ/OxzZFmGets46ATDZEVOh588Rrhw52bYnWeYxnR54aWtftUBU8ndEWdUuOTAVlRVWEXp31YPKKBLDK9oUxdrG2eTZuntkFa0LU9eIvg2R7wrvgCJKLbW0E8FWE2z2XF4eVOhfrI4KPx68jZ8GSOhVYB57m208QXUzA7o8M/nRMQIZq4FaReBCFspTcPy8dkeb0f0/gkviOK3pFOFGxBPqE9LwuFpjD3PPithkQpyij2XM+m08yo2u0581D4FDfQ==;Ur9G6Y30wYPPxLjAQYBHVQ=="
+secured: "4ivM6VYWu6cbJ/e3QrBmca8fdz0T7FVeqI/9g7gmc9YAIPfk5XlwAGCAPfLG5vlhr4sYzJ/fP48BbWz+AGXo0dVqhP67hvvtoXNISmBcKuHp0yuE1MfvyCM6GaX5rI3ENMJ+3HqRPJb6g749FtVMTs0Sbsf6y637LUjHoYGdpp7JfS3VSJXp2ubOwPYv2cG07Kl1B9AJK4Eu1GMZry6dHxMm3l6iNGvQ69zFqcImC0gP669Gtv15Bm54X14S+TgEq/RKeiLQ2eQbEMLOxd4SRQ/4YEvFRFA8Xk36tO7FOzohd/DZhKy7Kv9aLSpqh0eL8z0l4WhmeaEmhJbG7PLBUmKwI7lNqOPkBL9oQq8guoex6BAVn7AALZrmqs/pVXrjDv2Uc+7uUqfds+MwL5wJA4xHS8ovIiVmhNJVlb0L61dXBbA9hXabyEX2wUlttqaVm6B/5KYHWa8Dfzt8Zh6a4ZQjl5rHcHXZVT0h9QycA3+bKyauXYP/RM1rjY2k1KIj;RCaIGrC38nkFTnf4iD+i8g=="
 ---
 

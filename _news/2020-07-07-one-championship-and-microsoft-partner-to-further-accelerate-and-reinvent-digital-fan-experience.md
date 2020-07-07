@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-07T00:03:00Z
 webUrl: "https://www.miragenews.com/one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-digital-fan-experience/"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -26,20 +26,18 @@ images:
 
 related:
   - title: "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience"
-    excerpt: "Microsoft named ONE Championship's preferred cloud provider, delivering new fan engagement experiences powered by Microsoft Azure and best-in-class collaboration with Microsoft 365"
-    publishedDateTime: 2020-07-07T09:52:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/ONE_Championship_and_Microsoft_partner_to_further_accelerate_and_reinvent_the_digital_fan_experience-ZAWYA20200707090141/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200707090141/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200707090141/"
+    excerpt: "The largest global sports media property in Asian history, ONE Championship™ (ONE), and Microsoft Corp. (Microsoft) today announced a"
+    publishedDateTime: 2020-07-07T12:34:00Z
+    webUrl: "https://www.thesundaily.my/sport/one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-the-digital-fan-experience-HY2724229"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 44
+      name: The Sun
+      domain: thesundaily.my
+    quality: 24
     images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
+      - url: "https://www.thesundaily.my/binrepository/480x271/0c11/480d250/none/11808/XJAB/one-championship_1268820_20200707200113.jpg"
+        width: 480
+        height: 250
         isCached: true
   - title: "Microsoft services chosen by One Championship"
     excerpt: "Through Azure AI, machine learning and data analytics, One will expand its core data functionalities and transform its direct-to-consumer digital experiences. To further delight fans, One will provide them with unique sets of data and statistics to better ..."
@@ -49,6 +47,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 19
+  - title: "ONE Championship and Microsoft partner"
+    excerpt: "Through Azure AI, machine learning and data analytics, ONE will expand its core data capabilities and transform its direct-to-consumer digital experiences. To further delight fans, ONE will provide them with unique sets of data and statistics to better ..."
+    publishedDateTime: 2020-07-07T12:04:00Z
+    webUrl: "https://advanced-television.com/2020/07/07/one-championship-and-microsoft-partner/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
     quality: 19
   - title: "ONE Championship, Microsoft partner to reinvent digital fan experience"
     excerpt: "Through Azure AI, machine learning and data analytics, ONE will expand its core data capabilities and transform its direct-to-consumer digital experiences. To further delight fans, ONE will ..."

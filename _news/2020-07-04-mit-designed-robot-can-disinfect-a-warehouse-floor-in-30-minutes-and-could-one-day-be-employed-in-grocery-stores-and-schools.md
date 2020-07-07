@@ -59,6 +59,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "MIT Robot Can Disinfect Warehouse Floor in 30 Minutes"
+    excerpt: "C light, a robot traveling at 0.22 miles per hour, covered a 4,000-square-foot warehouse space neutralizing 90% of coronaviruses on surfaces."
+    publishedDateTime: 2020-07-07T13:56:00Z
+    webUrl: "https://www.mhlnews.com/warehousing/article/21135945/mit-robot-can-disinfect-warehouse-floor-in-30-min"
+    type: article
+    provider:
+      name: Material Handling & Logistics
+      domain: mhlnews.com
+    quality: 19
 
 secured: "J9bNOwUckPNDVOF1O8E2Hls9MKrm58//FPTHOTO3eB9gcZy23EG91iakI+MTotVubWyezmC/6UFGrISR5M0E7of7macEcnVGdIatqTZvdFUu4ymhutxHF+l560vCpKGv4CKWKueJkN9EMIdQvVaQuDZBmpsFME73O3NaM0TBfE3XTjBhtj17wt68JzbUgGY99hoQk0Ae4n5dz7cWHeJUMen0H8bx09HWHhTJ+itCOZjDbsrN6caRmB2gUSo1Gn9acdcJZatChthWdgTtneTKUhj+vn9ed5549QTVzrs/2QnFaVIseqUJIewDAjXhtYtZ+8jGPLsYnAXpAQ1SuSzIz3RQOFUGTOapU14Ry5FxmfW700vuy1Lu8jdJDa2ySWnPTPirnhkOaPmvgNCqBudfaK4WaXw6OIt01pkQ22+ZzkqdTep90OJpyiTCFas51mXLLEveUAxqGcOJjgmoQF6y4S6cm/sB20J3Hp94glpGQpWIZSA3CHjTrBzcQZaXYQ6QFDOQruSWW137DM7oJlek4w==;vw8Mq6BnEVSlC3sQk1nUIA=="
 ---
