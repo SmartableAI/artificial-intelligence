@@ -155,6 +155,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Unbottling Gainful Growth Opportunities in Aroma Chemicals Market: TMR"
+    excerpt: "The global aroma chemicals market is growing and the rate, compounded annually, over the period of 2019 to 2027 will be about 6%, leading to"
+    publishedDateTime: 2020-07-07T11:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ai-unbottling-gainful-growth-opportunities-in-aroma-chemicals-market-tmr-301088971.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/1085206/Transparency_Market_Research_Logo.jpg?p=publish&p=facebook"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Global Automatic Speech Recognition Market 2020 Industry Size, Cost Structure Analysis, Growth, Share and Opportunities and Forecast to 2026"
     excerpt: "Jul 03, 2020 (The Expresswire) -- “Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Automatic Speech Recognition Market” report presents an in-depth assessment of the Automatic Speech Recognition market ..."
     publishedDateTime: 2020-07-03T17:06:00Z

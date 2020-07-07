@@ -24,22 +24,6 @@ images:
     isCached: true
     title: "Machine learning reveals vulnerabilities in 3D-printed carbon-fiber composites"
 
-related:
-  - title: "Reverse engineering of 3D printed parts by machine learning reveals security vulnerabilities"
-    excerpt: "However, a team of researchers from NYU Tandon School of Engineering led by Nikhil Gupta, a professor in the Department of Mechanical and Aerospace Engineering showed that these toolpaths are also easy to reproduce — and therefore steal — with machine learning (ML) tools applied to the microstructures of the part obtained by a CT scan."
-    publishedDateTime: 2020-07-02T17:47:00Z
-    webUrl: "https://www.nanowerk.com/news2/gadget/newsid=55565.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 28
-    images:
-      - url: "https://www.nanowerk.com/news2/gadget/id55565_1.jpg"
-        width: 337
-        height: 334
-        isCached: true
-
 secured: "Z7dGxaf0Uww6su3OCI1PevHrzf89nvOPq0inPaWUqQmbBUPtu6kgC2LvtT8/zEPijtISHFsWp5B7sIE/f/S8HsrCLtiUAYNwvMhcK0Z9ZX7MHEvRtsfUhG0Pn7NRdkoraWRU6X7buqpEIY4rbKI4Ka9wIDQUcH932uMrGlFhgatkoyRtqqiS91beqO2jY3jGySIm6HEr5Yae7zve5FJGVUkYjy5iC05Zq1mIz9SSEB6nc9g3izx5pxvuQbYsLQjgvURMuBj4L9N7/b/V0oq3belap9voag4lD8ey84KXR0+ZQOOxxBFmonjAbO3QIRyy3E7YbolAHmH7R1BquP43Ag==;PmSe0KED57NzZoT5eJykAw=="
 ---
 

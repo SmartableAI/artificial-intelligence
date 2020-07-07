@@ -26,6 +26,22 @@ images:
     isCached: true
     title: "XAOS MOTORS unveiled XCAT LiDAR that can achieve fully self-driving cars"
 
+related:
+  - title: "AImotive and C3S take self-driving car technology from the road to space"
+    excerpt: "AImotive, the automotive supplier of automated driving technologies, and C3S, the satellite and space technology provider, today announced"
+    publishedDateTime: 2020-07-07T11:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aimotive-and-c3s-take-self-driving-car-technology-from-the-road-to-space-301088931.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 38
+    images:
+      - url: "https://mma.prnewswire.com/media/1201161/AImotive_C3S_Volvo_Test_Vehicle.jpg?p=facebook"
+        width: 1777
+        height: 931
+        isCached: true
+
 secured: "bXFJqaNnUsYbJFSKNIBUwuIJ+xUsItvnijag7lYslswcc3TeL06Nng/yeMn04BxjAJepLIsuvPDbfiw+I8/F9NOI3VGqlEz7nIkpdts6u8gc9Ggkkeu8foXrshUKchTDug/uDkettbW+gWZKmCCSjbtquqVjrHM8yHXpHR6Ig10f5c9duIL6eD4Slcvp2murupzaKZB0wTz5piwQORc8+qGk4Cjug/iuYnLPqk8k93aa6aj6dur40V00KME43SyVjPOKb4m7YaF7YWY+7TyZyGqifGgIGrUBzhbqGWsFgzLf5O9NRCntAL9WOokEg1QVuoaJnlPiWG/FBaPC0fwTOw==;o3SuRHqbyM8j/q6Mves5cw=="
 ---
 

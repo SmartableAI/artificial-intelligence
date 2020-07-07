@@ -57,6 +57,20 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "2021 Lexus LS arrives with new looks, self-driving tech"
+    excerpt: "The latest Lexus LS will introduce a self-driving system capable of handling highways, from the on-ramp to the off-ramp."
+    publishedDateTime: 2020-07-07T10:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1034652_2021-lexus-ls-review-price-photos-specs-info"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/lexus-ls_100751064_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "EmZsoQjNusjYjfnUmQQb6wnOZ8u8544GIyp1K+Vn+rOsYxiD/JCg/gY6ChgX+/cbcLCEuqIithzP5ZoIz10ER/Dp6aQ9fEy4mjJrQhNYHmUiAA2GtJwnY1WxuZ99E9Pjytqa0HpkjMMQvWWfFWfwaeBWFYczqJJfxlA7ufSxd3i54eXQVg0rKwF1g3irESxCP8pX4f9W1bbqbru4TxwFjbZ8Ky56dEdSpZpaV4dAArnUGKhsg/nnIvB2WRUosXHg6HVxDBEDTimnwmZPfEIibUsMIdSm9AIUGECeJDOgEfUQQoKLfFeRubWO5XjLxIpCMZISxaEow1jLk1voafDHZA==;n+vB3x/BMRv6WwCUaNB6Hw=="
 ---

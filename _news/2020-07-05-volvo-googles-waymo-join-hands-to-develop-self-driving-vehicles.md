@@ -8,8 +8,8 @@ ampWebUrl: "https://gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-sel
 cdnAmpWebUrl: "https://gaadiwaadi-com.cdn.ampproject.org/c/s/gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: gaadiwaadi.com
@@ -27,6 +27,22 @@ images:
     title: "Volvo & Google’s Waymo Join Hands To Develop Self-Driving Vehicles"
 
 related:
+  - title: "£1m project to assess motorways for self-driving vehicles"
+    excerpt: "Highways England and Loughborough University project will look at the challenges connected and autonomous vehicles (CAVs) could face on motorways."
+    publishedDateTime: 2020-07-07T09:29:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
+    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
+    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
+    type: article
+    provider:
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 44
+    images:
+      - url: "https://cdn.fleetnews.co.uk/web/1/root/istock-980117574_w1200.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Uni to join £1m self-driving vehicles project"
     excerpt: "Loughborough University is to take part in a new £1m project with Highways England to assess how suitable the country’s motorways are for self-driving vehicles."
     publishedDateTime: 2020-07-07T07:21:00Z

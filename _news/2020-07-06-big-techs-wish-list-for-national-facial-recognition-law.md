@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 733
         isCached: true
+  - title: "Troubled facial recognition startup Clearview AI pulls out of Canada ⁠— before it was pushed"
+    excerpt: "Dystopian surveillance firm Clearview AI has stopped offering its facial recognition service in Canada, the government's privacy watchdog has announced."
+    publishedDateTime: 2020-07-07T11:34:00Z
+    webUrl: "https://thenextweb.com/neural/2020/07/07/troubled-facial-recognition-startup-clearview-ai-pulls-out-of-canada-before-it-was-pushed/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/07/07/troubled-facial-recognition-startup-clearview-ai-pulls-out-of-canada-before-it-was-pushed/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/07/troubled-facial-recognition-startup-clearview-ai-pulls-out-of-canada-before-it-was-pushed/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 93
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-97-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Shady Face Recognition Firm Clearview AI Says It's Left Canada Amid Two Federal Investigations"
     excerpt: "Dystopian, U.S.-based face recognition firm Clearview AI has suspended its contract with the Royal Mounted Canadian Police (RMCP), effectively locking its business out of Canada entirely, Bloomberg reported on Monday."
     publishedDateTime: 2020-07-07T02:45:00Z
@@ -73,17 +89,15 @@ related:
         width: 1080
         height: 688
         isCached: true
-  - title: "Clearview AI stops offering facial recognition technology in Canada"
+  - title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
     excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
-    publishedDateTime: 2020-07-06T21:26:00Z
-    webUrl: "https://www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7?amp"
+    publishedDateTime: 2020-07-06T20:59:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-06/clearview-ai-stops-offering-facial-recognition-technology-in-canada"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Clearview AI will stop offering facial recognition software in Canada, privacy officials say"
     excerpt: "Clearview AI, the controversial U.S.-based technology firm, will no longer make its facial recognition software available in Canada, according to federal and provincial privacy authorities. A statement issued by the Office of the Privacy Commissioner of Canada on Monday said Clearview had advised officials of the move in response to an ongoing investigation by privacy authorities."
     publishedDateTime: 2020-07-06T20:04:00Z
@@ -228,6 +242,20 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 49
+  - title: "Canadians abandon face recognition software"
+    excerpt: "Watchdog growls at clearview Canada's privacy watchdog said facial recognition software provider Clearview AI will no longer offer its services in the country, suspending a contract with its last remaining client,"
+    publishedDateTime: 2020-07-07T10:23:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/51128-canadians-abandon-face-recognition-software"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/2fca4ada98a2d3db8f7c535ccc4551d6_L.jpg"
+        width: 620
+        height: 443
+        isCached: true
 
 secured: "fBPIb4ycpGS8kzZ5ypYIBnxhm3gkgWbuSm6DuZ2Eddbq4baayZRfo+0P3BFiHd3Iv96AKY7+uEmSg5A1svOWZtDntChLnhIkdnJfRLazzmzczj1Dbn/CZo7Ez20fAyMlJe9fa4HOlYsyX2NljaMyX4FCxCHJBHooU6cbhLP0muT2UZ1YarcYNZ0nmtwY1EYmp85Wy6cLrG7IiXw469lUEA/Xpi12PUiEi7XDBlERuEC4JgeUhCnCZPEUqoU7E2zea1zIiJS5y3BkG3KitPA0upwS+wHeSGZ2G5eOWJ3Vl5EmzMKTr30nnqrJuf68GOiI9xH/Tcl2VMkTyQ5MUp5xiRzoBMvbHNgEbcIibiUpE+lUbdTqr0bXsbyKKox2IU3IXjH8CYSsAZ12UhtDvPdDyOkibtT7yc4QAWBG398qsMLgtM1hFi16QIDvRTzr0gk+nNEUtlRm0+b6G4Z2Vzp7EjxD8NU+4f/qd5AOZmmZHTfDE8du0+PvOJd+sojCqSN9RrYS8AmbFXvUrxTQZ3NDaQ==;NyjsFodvnXplQrR/9q379g=="
 ---

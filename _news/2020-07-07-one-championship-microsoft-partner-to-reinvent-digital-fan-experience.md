@@ -2,27 +2,20 @@
 category: news
 title: "ONE Championship, Microsoft partner to reinvent digital fan experience"
 excerpt: "Through Azure AI, machine learning and data analytics, ONE will expand its core data capabilities and transform its direct-to-consumer digital experiences. To further delight fans, ONE will ..."
-publishedDateTime: 2020-07-07T07:39:00Z
-webUrl: "https://menafn.com/1100443747/ONE-Championship-Microsoft-partner-to-reinvent-digital-fan-experience"
+publishedDateTime: 2020-07-07T11:06:00Z
+webUrl: "https://news.webindia123.com/news/articles/Science/20200707/3588543.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?806920"
-    width: 381
-    height: 250
-    isCached: true
-    title: "ONE Championship, Microsoft partner to reinvent digital fan experience"
 
 related:
   - title: "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience"
@@ -65,6 +58,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "vpAsf0LNd2DcIoHzvZnSqz5uz9u5PN7cJZJCmHnhvv5aic5ulwu2FMVU/fHCh9B0YKX4+eR4K0dXAb/weozH7rc7WQVFRkenIVqDifuWFj7yBQBG/uKO6kvEvt9GB1oOCQdyjdCM5Aj3g4wzXh/3qgj3wUNRPxkV8VpW5zcgXHFJQ8BsUFMc0UAYouKz3ZFciSWV3B7LkShbqs97FJgA7XwvQ/n65EmAfa94SgrveuAoYN5icAgmSlkTLkh/Wl7s1MOgXGtN0tfThY1mTauOvEwPekZ+JjNDqQWg1RpKwVnzxTyS9gpM3qO+LBP+CfCwtYWOidpibbmlG9rAYYo9Qw==;gySVcInvHzAqLUD+FJI4fg=="
+secured: "jaQGoYvE/P6VV0A50R/znFLTqD2UIqFNnZxiT+XnRILRQvmmQlDh1EtUe6D9XyPPMWh+9gSpkGOmcFXgBBcqYYRB0yZMkIZKSRocvDvOI88+FEFBAZ1bK8k0nuKps2eWBdDumePfxtA9gsaV1nlzuWAktuZdJzrX0JHTaytqT1pzIYFIKxO+Rq24D5kSL02p1Vs9fTTZmvvDSsohgn/BNPnQtWkANYHbPtNKFtTGY+2A8QQrA1/6ik3h0QrTiIWcnAfPXxBeccFOrqVwRKl5CIuYhM62XkuTYmWVUJcQDQV0yhQfiKb5oDZIPAtNI/YaFVu8h1LWvu06SqvhQTOWHg==;rfOKR1uSxS5zbFrooDme1A=="
 ---
 

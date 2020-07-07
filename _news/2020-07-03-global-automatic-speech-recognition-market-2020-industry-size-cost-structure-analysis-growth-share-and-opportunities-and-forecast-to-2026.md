@@ -169,6 +169,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Unbottling Gainful Growth Opportunities in Aroma Chemicals Market: TMR"
+    excerpt: "The global aroma chemicals market is growing and the rate, compounded annually, over the period of 2019 to 2027 will be about 6%, leading to"
+    publishedDateTime: 2020-07-07T11:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ai-unbottling-gainful-growth-opportunities-in-aroma-chemicals-market-tmr-301088971.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/1085206/Transparency_Market_Research_Logo.jpg?p=publish&p=facebook"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Natural Language Processing Market 2020 Size, Share, Top Manufacturers, Segmentation, Future Plans, Competitive Landscape and Forecast to 2025"
     excerpt: "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD"
     publishedDateTime: 2020-07-03T06:01:00Z

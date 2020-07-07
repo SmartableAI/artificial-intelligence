@@ -2,27 +2,27 @@
 category: news
 title: "Abakus Won \"Global AI Service Innovation Golden i Award\""
 excerpt: "Widespread adoption of AI and other emerging technology means a growing portion ... entered strategic cooperation to set up Monix, a fintech joint venture, and jointly launched the first 100% online digital credit product. The joint venture will provide ..."
-publishedDateTime: 2020-07-07T07:34:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/n16528063/abakus-won-global-ai-service-innovation-golden-i-award"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16528063"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16528063"
+publishedDateTime: 2020-07-07T09:14:00Z
+webUrl: "https://www.asiaone.com/business/abakus-won-global-ai-service-innovation-golden-i-award"
+ampWebUrl: "https://www.asiaone.com/business/abakus-won-global-ai-service-innovation-golden-i-award?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/abakus-won-global-ai-service-innovation-golden-i-award?amp"
 type: article
 quality: 59
 heat: 69
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1197650/Abakus.jpg"
-    width: 295
-    height: 400
+  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+    width: 299
+    height: 300
     isCached: true
     title: "Abakus Won \"Global AI Service Innovation Golden i Award\""
 
@@ -44,6 +44,6 @@ related:
         height: 878
         isCached: true
 
-secured: "6pPkiufpdX0F51d6xroWnfAcp+d1KzrjbKHGfXAZgQtDJwarN20b9X4LJxQUNHI8U8oYEcKt6PCwD6/ANDnsayxp78pRJ8trXXIzy/CwTQIJy/FiCwmUMeBU7rH/j7OxhP2oqq3bDjiwUmXCBprDuoe3OJ/l5vvxqrKGJURNItgLbLrS/4QI//bbS4DfEqsxGm/qR3wml0mYUjIswbfGbk3Yqcr2JsE31NaPpCk88HBRWWq8JKQ0gi5GxeaOmDIGfjGQgQI34fGB/zGmjY8NJEUaDO42Sfbud1zj07KXTPkkFYZrPa4bYcZ7ih7EGvpUDJ2zMyLXhyY4qhLgx5IuZw==;jrXaxqAoh4f+vE4oCoOc8Q=="
+secured: "gBFQirNvFIFsYF5TFU1QmGS0hkTdtK7klAYubxVMiWsPAIrOYFxn3mOVCp6WpQl+pzap75ABkba8TuKgz+UP1PsGKt1xobUiTYNI1kXUdzY0lXO3OT4vxVX+rELTIQX/9AeUWBHg1NaRlKG4fY/ZU4cIoAa9Qe4yYckOFrKvgdBqvHX5AdGLgB0Uo+I6NmZD4GS0NaNF1zeM2PYvWyJ8+PQKEH8Ffy/MEkDc5VRcHXyi3jyJZUZFqPGoNjAdb0yoDfbVS8bmNjz6inr4UiHG3crsBzh53xER2zgjGjTblnRvFf1gHGdmbaF7jrj+s/2tmbgG+HNSffLn9z3YlR1z0Q==;gCxTRjaUSBruR/DhDrXLsg=="
 ---
 

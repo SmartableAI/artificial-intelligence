@@ -24,19 +24,6 @@ images:
     isCached: true
     title: "Could embracing AI improve bowel cancer screening?"
 
-related:
-  - title: "Artificial intelligence brings pancreatic cancer screening one step closer to reality"
-    excerpt: "Artificial intelligence (AI) holds promise for enabling earlier detection of pancreatic cancer, which is crucial to saving lives. The potential of AI is showcased in a study to be presented at the ESMO World Congress on Gastrointestinal Cancer,"
-    publishedDateTime: 2020-07-02T18:42:00Z
-    webUrl: "https://medicalxpress.com/news/2020-07-artificial-intelligence-pancreatic-cancer-screening.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-07-artificial-intelligence-pancreatic-cancer-screening.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-artificial-intelligence-pancreatic-cancer-screening.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 30
-
 secured: "YGt64oseI3ELO0DLKrsELVI2oyZGHZoDI9QB1dzXsOylNyxMAMH0l+5LkQwrfIUCJ0xPkL/POz9tRtuO3a3mEaLJ63VhODql22kJhH25VfYCq0MOPOP2p+EzBhJZRKeYWMq0DG2mdHbM437pOQBsu7XyGBcH7Brlt8sUv8tX51uE2Zv3l8hTXgvTZ7CoFS0ilzKk01jg8KQ2p+u7pPtYOC3OKxvML+OmEn6owtU15ma6PlD/vTlwE/HKywR2qcpK56kkzCQeUoqGZj89XE7gdL1/fw8yA4KCkTSg5ktTg4Zw4xD58oLTIcmuCKC1IRYip2GCnflOZVV9CQRQWKw9zOM5gc1dBKGs3foRCloFyM1ocHySxXZ0RwQJuec85akcEdM1cu95sZ4Se9owQ3djpaXjl6kJDwc570AGgnrcV6LsmyV+m5ZGsdPCzHhC1JjnI0+jBeu0tv07oKRNeHXXQC4tMuvnKI7MFmPVKvt1bqI0HtQFhaoiI8MpVv2ZZZ7zU29gbrg6FQB4SU7Gb+2/OA==;nXjXJBo2szRESqmOfsPTUA=="
 ---
 

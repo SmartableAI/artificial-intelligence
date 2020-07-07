@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16504404"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16504404"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     title: "WIMI Hologram AR's Light and Shadow AI Vision Helps Scenic Spots Build New Competitive Advantages"
 
 related:
+  - title: "Ai: The Competitive Advantage"
+    excerpt: "I recently came across a tech company that acquired a smaller US competitor solely to bring in their team of Data Scientists (a key skill set for any AI company). One way start-ups that are building their own AI can solve this is by being open to tapping i ..."
+    publishedDateTime: 2020-07-07T11:44:00Z
+    webUrl: "https://www.cityam.com/ai-the-competitive-advantage/"
+    ampWebUrl: "https://www.cityam.com/ai-the-competitive-advantage/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/ai-the-competitive-advantage/amp/"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 57
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2020/07/image0-7.jpeg"
+        width: 1600
+        height: 1066
+        isCached: true
   - title: "WIMI Hologram AR’s Light and Shadow AI Vision Helps Scenic Spots Build New Competitive Advantages"
     excerpt: "NEW YORK, NY / ACCESSWIRE / July 3, 2020 / WIMI Hologram Cloud (NASDAQ:WIMI) , as a representative of domestic holographic enterprises, mainly concentrates its business application scenes in five professional fields,"
     publishedDateTime: 2020-07-03T07:00:00Z

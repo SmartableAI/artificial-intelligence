@@ -1,25 +1,24 @@
 ---
 category: news
-title: "Clearview AI stops offering facial recognition technology in Canada"
+title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
 excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
-publishedDateTime: 2020-07-06T21:26:00Z
-webUrl: "https://www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7"
-ampWebUrl: "https://www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7?amp"
+publishedDateTime: 2020-07-06T20:59:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-07-06/clearview-ai-stops-offering-facial-recognition-technology-in-canada"
 type: article
-quality: 67
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - Computer Vision
   - AI
 
 related:
@@ -38,6 +37,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 733
+        isCached: true
+  - title: "Troubled facial recognition startup Clearview AI pulls out of Canada ⁠— before it was pushed"
+    excerpt: "Dystopian surveillance firm Clearview AI has stopped offering its facial recognition service in Canada, the government's privacy watchdog has announced."
+    publishedDateTime: 2020-07-07T11:34:00Z
+    webUrl: "https://thenextweb.com/neural/2020/07/07/troubled-facial-recognition-startup-clearview-ai-pulls-out-of-canada-before-it-was-pushed/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/07/07/troubled-facial-recognition-startup-clearview-ai-pulls-out-of-canada-before-it-was-pushed/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/07/troubled-facial-recognition-startup-clearview-ai-pulls-out-of-canada-before-it-was-pushed/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 93
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-97-796x417.png"
+        width: 796
+        height: 417
         isCached: true
   - title: "Shady Face Recognition Firm Clearview AI Says It's Left Canada Amid Two Federal Investigations"
     excerpt: "Dystopian, U.S.-based face recognition firm Clearview AI has suspended its contract with the Royal Mounted Canadian Police (RMCP), effectively locking its business out of Canada entirely, Bloomberg reported on Monday."
@@ -229,7 +244,21 @@ related:
         width: 1016
         height: 614
         isCached: true
+  - title: "Canadians abandon face recognition software"
+    excerpt: "Watchdog growls at clearview Canada's privacy watchdog said facial recognition software provider Clearview AI will no longer offer its services in the country, suspending a contract with its last remaining client,"
+    publishedDateTime: 2020-07-07T10:23:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/51128-canadians-abandon-face-recognition-software"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/2fca4ada98a2d3db8f7c535ccc4551d6_L.jpg"
+        width: 620
+        height: 443
+        isCached: true
 
-secured: "iHXeYVcgbYWvTySt8J6mQtUG4YHCa+nCyk2z1XfRg7r/pBQU+B7zFC4gvx6vlo1LfZ0STWgNIHMgwc1U4QI8pAniKES2gQfQ7sQreMcL9fvxVTSwfEHsgP1KHNkNhYAgJAdgD0pex5/MrK//aXx/nh5EHgV5/nBdWZRiOClRFDcRzlwx7DL90TzDdd6Dk58HkShhUme2sb79Eq77trq5IMMJa/XxTTK5lDF57FHWUiOdFgr1Exwtb/s4votKMoPQJfu43PA++nJsFoMwJ2e8lrh9oj/0Y3SMm4fCrAHC1s3iOnTw6e7u4Q6doKs8FSr69pw6DzZU/Tx8lSP1EcCATg==;9hx9Tz35u3cakQNMcFB1Qw=="
+secured: "jCnrnGs4bh1PClmtruzcaSDk1v4Ls5u62I0fSfttpFUR3XPE7obMA0BlhhX+Um1cEQLqoMN+LGHzrSJ7o6UNvWQ/OxzZFmGets46ATDZEVOh588Rrhw52bYnWeYxnR54aWtftUBU8ndEWdUuOTAVlRVWEXp31YPKKBLDK9oUxdrG2eTZuntkFa0LU9eIvg2R7wrvgCJKLbW0E8FWE2z2XF4eVOhfrI4KPx68jZ8GSOhVYB57m208QXUzA7o8M/nRMQIZq4FaReBCFspTcPy8dkeb0f0/gkviOK3pFOFGxBPqE9LwuFpjD3PPithkQpyij2XM+m08yo2u0581D4FDfQ==;Ur9G6Y30wYPPxLjAQYBHVQ=="
 ---
 

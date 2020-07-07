@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "£1m project to assess motorways for self-driving vehicles"
+    excerpt: "Highways England and Loughborough University project will look at the challenges connected and autonomous vehicles (CAVs) could face on motorways."
+    publishedDateTime: 2020-07-07T09:29:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
+    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
+    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
+    type: article
+    provider:
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 44
+    images:
+      - url: "https://cdn.fleetnews.co.uk/web/1/root/istock-980117574_w1200.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "/cgLKJ2NmFxrUYqxRK6qaH693VhUBSBATKGLzEyPJZ+i+22sf6r4xugV1M2FVIEoLOHDtcdlNadXtLE8xZTShxzwvlR9rzgzaQW5alYzgdQ5stiwc3u9pAfgAxMfL2d+8+9qW1tFwz3upculm/LVc3kjZNNHXY4AIeqt/ESPdPzu5a1LlnSLn8AiQjB7S+MCz0SpZdqpVN5WbbTRkB6Sy/85mM7NvFYKnkMBv/1zRCDVkc56Jd7sDkC4njowatiR0llzGGRcs7cNclz7GpqNr8A4zKVVj+yVczYb4Aj1DB0H/+7SzPu74GuGob6nSEekXP4jyBMwg5UnCjFOZ6Sfag==;TYeSf6Jl3LEn0Z3GY586Ug=="
 ---

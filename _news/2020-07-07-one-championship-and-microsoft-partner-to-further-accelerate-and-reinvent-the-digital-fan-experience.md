@@ -27,20 +27,6 @@ images:
     title: "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience"
 
 related:
-  - title: "ONE Championship, Microsoft partner to reinvent digital fan experience"
-    excerpt: "Through Azure AI, machine learning and data analytics, ONE will expand its core data capabilities and transform its direct-to-consumer digital experiences. To further delight fans, ONE will ..."
-    publishedDateTime: 2020-07-07T07:39:00Z
-    webUrl: "https://menafn.com/1100443747/ONE-Championship-Microsoft-partner-to-reinvent-digital-fan-experience"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?806920"
-        width: 381
-        height: 250
-        isCached: true
   - title: "ONE Championship and Microsoft partner to further accelerate and reinvent digital fan experience"
     excerpt: "Microsoft named ONE Championship's preferred cloud provider, delivering new fan engagement experiences powered by Microsoft Azure and"
     publishedDateTime: 2020-07-07T00:03:00Z
@@ -63,6 +49,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 19
+  - title: "ONE Championship, Microsoft partner to reinvent digital fan experience"
+    excerpt: "Through Azure AI, machine learning and data analytics, ONE will expand its core data capabilities and transform its direct-to-consumer digital experiences. To further delight fans, ONE will ..."
+    publishedDateTime: 2020-07-07T11:06:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200707/3588543.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 19
 
 secured: "dS1A4OEl7ePd7oPLJlQJP6qwlq5IVfFg398napDII3pbnzsN3/PqHtcNRYoPL0S8Oj/NGbfwBfNLZnFtYXqEuORBoZ4LCW6OouI7M17XDqZLCFGv89Lfq1Z1PciizOjd9C6hNNk9xNrC4pV2iNrjlaAVq8w95hOBlPuPcYRFWB8FZimvltM/0GqZ997PAx/I6o6B8EnqjRaW1qQCFNcJZIUsGrql2aCJqnoinIaxjqMSYcCLrhoNz5IzxfBC6Woca7wC8z1CGrUPErSdMZx9kGURPU9N/tIMPW0RuXXm1jQ1rRgrA/ltFVPXAkQP8Ogdzjj4j7K4KIuH/WpKrjtUfg==;crvXEz/8BiCfmXyZ/gEOvw=="

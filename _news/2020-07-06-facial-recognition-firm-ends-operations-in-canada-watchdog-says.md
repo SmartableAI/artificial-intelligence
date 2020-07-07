@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 733
         isCached: true
+  - title: "Troubled facial recognition startup Clearview AI pulls out of Canada ⁠— before it was pushed"
+    excerpt: "Dystopian surveillance firm Clearview AI has stopped offering its facial recognition service in Canada, the government's privacy watchdog has announced."
+    publishedDateTime: 2020-07-07T11:34:00Z
+    webUrl: "https://thenextweb.com/neural/2020/07/07/troubled-facial-recognition-startup-clearview-ai-pulls-out-of-canada-before-it-was-pushed/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/07/07/troubled-facial-recognition-startup-clearview-ai-pulls-out-of-canada-before-it-was-pushed/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/07/troubled-facial-recognition-startup-clearview-ai-pulls-out-of-canada-before-it-was-pushed/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 93
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-97-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Shady Face Recognition Firm Clearview AI Says It's Left Canada Amid Two Federal Investigations"
     excerpt: "Dystopian, U.S.-based face recognition firm Clearview AI has suspended its contract with the Royal Mounted Canadian Police (RMCP), effectively locking its business out of Canada entirely, Bloomberg reported on Monday."
     publishedDateTime: 2020-07-07T02:45:00Z
@@ -72,17 +88,15 @@ related:
         width: 1080
         height: 688
         isCached: true
-  - title: "Clearview AI stops offering facial recognition technology in Canada"
+  - title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
     excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
-    publishedDateTime: 2020-07-06T21:26:00Z
-    webUrl: "https://www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-7?amp"
+    publishedDateTime: 2020-07-06T20:59:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-06/clearview-ai-stops-offering-facial-recognition-technology-in-canada"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Clearview AI will stop offering facial recognition software in Canada, privacy officials say"
     excerpt: "Clearview AI, the controversial U.S.-based technology firm, will no longer make its facial recognition software available in Canada, according to federal and provincial privacy authorities. A statement issued by the Office of the Privacy Commissioner of Canada on Monday said Clearview had advised officials of the move in response to an ongoing investigation by privacy authorities."
     publishedDateTime: 2020-07-06T20:04:00Z
@@ -229,6 +243,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2019/01/Facial-recognition-Aegis-SN-Technologies-web.jpg"
         width: 1016
         height: 614
+        isCached: true
+  - title: "Canadians abandon face recognition software"
+    excerpt: "Watchdog growls at clearview Canada's privacy watchdog said facial recognition software provider Clearview AI will no longer offer its services in the country, suspending a contract with its last remaining client,"
+    publishedDateTime: 2020-07-07T10:23:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/51128-canadians-abandon-face-recognition-software"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/2fca4ada98a2d3db8f7c535ccc4551d6_L.jpg"
+        width: 620
+        height: 443
         isCached: true
 
 secured: "/ld/i8W467dzET1pIUWn1915bmkGTtLRTMN+1E7Echiw6ZfTanoqUYaPJVCtkyoS8m6i4QvDeXQCA72xw7Px/2+GiZFr7NFrjIlRw0hB0jgVmK0/lheTZyc9FUArRmmm4C2QEL4ZBFavPnfVB1fhCAxS+5x28tTZRgbUHntZ132/1IUDxzKTaBqB54fITInVi6fAkcGHoqvJ8VXxqtCOe44+LRTlDPcw9LIH4a5W5rG6+sCxGiGCyB4jd6ruRsJ3NCYv2aOs5mcCg2s5S7LV4rq2/eH5L74RSAoubQGAjav92Od5/aYrEhcp42nW74T0n0RzAfr1u9jLtFuleM0rqLw6hGBHHMiFJj7/24N8IbJTFOhlD1+se9XlYyFlT5Bu4nl0uRE9GR2oJP1JdBv+Ou3u+gZGFCEXNE6OgrOw3hllZeA8vhOk21FL7cVrriCx6Bjvq0bz5wLCzzS8Xh/18NjzWgiqkkJwVkSBeXxUdEQj2vvVJxykSXk/eEK3036uh+WxZvAierEfMGIjQmoB9A==;sJ+O5ffaVYl1LvefulC8zQ=="
