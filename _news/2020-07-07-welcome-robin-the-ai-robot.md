@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Welcome, Robin the AI robot"
-excerpt: "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character—one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital."
-publishedDateTime: 2020-07-07T20:51:00Z
-webUrl: "https://medicalxpress.com/news/2020-07-robin-ai-robot.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-07-robin-ai-robot.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-robin-ai-robot.amp"
+excerpt: "The artificial intelligence system was developed by Expper Technologies, a Silicon Valley-supported startup with roots in Yerevan, Armenia. Robin's technology enables the robot to build what is ..."
+publishedDateTime: 2020-07-07T21:51:00Z
+webUrl: "https://eurekalert.org/pub_releases/2020-07/uoc--wrt070720.php"
 type: article
 quality: 54
 heat: 84
 published: true
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/236836_web.jpg"
+    width: 1440
+    height: 960
+    isCached: true
+    title: "Welcome, Robin the AI robot"
 
 related:
   - title: "Video - BOTZ Vs. ROBO: Which ETF Is The Better AI And Robotics Play?"
@@ -58,6 +63,6 @@ related:
         height: 960
         isCached: true
 
-secured: "R3sq/1DSTWsaNedTIreWqLuaQ7YaIihx5NymiLPPnV1w7RLoK4HF2vAe5JZgwrsH+2GOwPQFaEUzY4D7hFjFxuSe402iCwkUcN/tAoYDzD/qc5yEufECxxX+ROt1SdEZbPNnGdB1ID8LFkZmgk5fc2bz2FJcVBp0i1gvkYm5xE1Q3Ixyxttnap+qZ8E1haADuL7mUpLu281n7P4lumImiwOZRvnz9k6wNl9yd0dfwZN4KE8MtZtNz5Nl+TW26VRlmD8hkhzWhzLoCmRcWplFJOJJVo5FO8P88IIjQKZRneDjXaIYjCyZJJZZpCP/G7oC2u++4OXhmfZ4y/N+kUsGvINgUOtuidHTTxSLm2HY2XYmqHZzcxeh9gNBiqn8jCkPLshMak/eIyPt5sKIf9pS6f79v+sWkj87m3WkXM7iLpeLrFm2atqRgSlxAcDs8ESRbqhWI7r/42+XY7s8av087ewRMIQFGEBfTiMKdWCxjaSHKLMbhwK5XWjhrRSlYpOS;PWKM9iiKRJ1sVOtjPL3Waw=="
+secured: "EjEVMECutFIkI4LHw+NiIFcOgnUOSZxME02z6z/XbPxH1pkG9bDqm8KxEzEdshF4piyRZnpfswUVxDmLfk5+IfDjmrW1KQTcCxG/B7ovEF04JOd1lOcSr5IH19Ox9DmjxApzKsTCwRYxYiT4jXyS5zC+V8A8c3pL5XHxsiuGO0xKWjD4dlzA6GAP/UyL1JyIZnyq5zVtg7nsaU4BfcQPElvM8BwstTrEfxj80yyhdN1Ga+pYPLxLia90SRaU8+bSNaI2TbS5ML2wB65W7+0ymF2bkN6yZyvbOxJ2yduLZ11n/Zh0XXxEyKzCyWJZXOQ4+/RgwTb4brfN/O5VR9KG4A==;ewkiuenHYPXVW/yU7j9tAw=="
 ---
 

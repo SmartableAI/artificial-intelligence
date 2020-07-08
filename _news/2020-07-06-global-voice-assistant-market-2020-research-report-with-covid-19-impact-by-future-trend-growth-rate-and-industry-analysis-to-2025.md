@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market 2020 Size, Share, Top Manufacturers, Segmentation, Future Plans, Competitive Landscape and Forecast to 2025"
-    excerpt: "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD"
-    publishedDateTime: 2020-07-03T06:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-size-share-top-manufacturers-segmentation-future-plans-competitive-landscape-and-forecast-to-2025-2020-07-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing Market 2020 Along With Covid-19 Impact Analysis, Trends, Advancement And Outlook 2029"
     excerpt: "Prudour Pvt. Ltd: Market.us research industry gives a complete investigation of the global Natural Language Processing market for the predicted forecast period 2020-2029. The Natural Language Processing market research study delivers deep insights into the various market segments based on end-use,"
     publishedDateTime: 2020-07-07T16:50:00Z

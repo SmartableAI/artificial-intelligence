@@ -26,16 +26,19 @@ images:
 
 related:
   - title: "Welcome, Robin the AI robot"
-    excerpt: "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character—one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital."
-    publishedDateTime: 2020-07-07T20:51:00Z
-    webUrl: "https://medicalxpress.com/news/2020-07-robin-ai-robot.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-07-robin-ai-robot.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-robin-ai-robot.amp"
+    excerpt: "The artificial intelligence system was developed by Expper Technologies, a Silicon Valley-supported startup with roots in Yerevan, Armenia. Robin's technology enables the robot to build what is ..."
+    publishedDateTime: 2020-07-07T21:51:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2020-07/uoc--wrt070720.php"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 54
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/236836_web.jpg"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Video - BOTZ Vs. ROBO: Which ETF Is The Better AI And Robotics Play?"
     excerpt: "In this episode of ETF Battles, you'll see face-off between BOTZ (Global X Robotics & Artificial Intelligence ETF) vs. ROBO (ROBO Global Robotics & Automation ETF). Both ETFs are designed to track stocks involved with automation,"
     publishedDateTime: 2020-07-06T20:09:00Z
@@ -60,6 +63,6 @@ related:
         height: 467
         isCached: true
 
-secured: "vkO0rjSSeh6N3mcYUl9Duq52cJs+VyJawM8NegVYPT045e0kCv0HhEdHjaQ2r4QQ1FzTPhQx/YmNVul+ai9ik9J0QiGSkTHrzkFpoaL8JtChwNez3IrWxO/l5F2SP/2244NT+D8sBRnNz4zFheiGJF9e7CUfZAleVJJIE3KfUVYYm3vWrEcQvOeYm6EVB0yGSqpOI5wcl+OO1qF1WXS7QMsfIsfe2RWdSNxkMo4vNiRKicJ/z/YqGgHd6KRv3yhs5G4G5cCehBYvgAwyl94KqSHdAagXPpyPWTRBdd/SspgSz/DjPZcKxmBvtc56+NmIRTax0enGFSTTRyYvS3UXBg==;2upAMnJ8liw/3Gs2OE4Pxw=="
+secured: "HRwLHWICknNKuvF9d5VpLyvtuniCQu5xJceNUB/FDmFJEDtXofG3WN8OEEjEDISuRIz6uU1CRZaF1om+SIBIWzmRu77y0xVoQEufj8o9PPy49WmCbghsRfLWPLmFaY4h0f7VQcFiEGlGzl4wim7tgerXCGwBP0IsXCEMklkPptdf1PmpMYjwBEu2wNLgir1qD23xQ+bNDNqvJrLktfFkGxtrZXIbu6zzPqxrb5E3xqBbW/h+YSOD7JrmxsYofv6zCDULknEo2q2U/fOtpSkzY9onDmVrDjcfycnbdRrSfXdBWa/Ax2cWzUn4jvwId4NQqThiBma5iDir/lujIXE9fqdzDpJ8gRvfITF+9iFuhW5RELm6mPfML5wPj6sCQjNU7O1xZKT1nqI+ENrSg7LSUoHeCaS5Wvwhz93ASZIQ2ULJfWVrIR6veHqNNXpsoDu1+MxfLIA86fHYEEJhGkbmSr87aec+yF+zFQPm42BMdTd4BMijfNsts4PhbVgRJYoswCFB/EltpJ79dCeh9M/Ypw==;+1j0banvQqlExQmXaR7iLA=="
 ---
 

@@ -57,20 +57,6 @@ related:
         width: 554
         height: 288
         isCached: true
-  - title: "WIMI Hologram AR’s Light and Shadow AI Vision Helps Scenic Spots Build New Competitive Advantages"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / July 3, 2020 / WIMI Hologram Cloud (NASDAQ:WIMI) , as a representative of domestic holographic enterprises, mainly concentrates its business application scenes in five professional fields,"
-    publishedDateTime: 2020-07-03T07:00:00Z
-    webUrl: "https://apnews.com/aa3550c45be053bc272749f2706623a6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "juOzzMF+TtU0bjBPS8tQP/kbczWNSgERAhkbz5fv2zqRKROFS1BL2jqSIO8CMnDOa/hCpK5oRE9+EJNX2xTfqhpvXGyGLZaY0iTC5OXjhEJfgkWax3wvMU+GHav20jSY+9On/uN0av34QEEv5AK/KAYkLOc8Gtb3sPuVK0/N1X4mL8Y6URngbqgm85p7LwM6GyX7SZofBEJUGDsEAANFdDeOkkjJ1uCWRw6X8uLI00Gkm626+uNaytgAzpVCCg9rnIs7d1DQiJYmZzB+riDaYIR5L85r9qDNnTAk/8wZv0BvCDUtp4Fl/PDZA8O8dUyk9fPAGe0IglYfgSWgEBwl0A==;OXdhvxQhACxblKUBD4qWQw=="
 ---

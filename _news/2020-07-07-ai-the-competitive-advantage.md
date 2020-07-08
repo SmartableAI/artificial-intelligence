@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cityam.com/ai-the-competitive-advantage/amp/"
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/ai-the-competitive-advantage/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/131681-AI50.jpg-ORG.jpg"
         width: 5000
         height: 2500
-        isCached: true
-  - title: "WIMI Hologram AR’s Light and Shadow AI Vision Helps Scenic Spots Build New Competitive Advantages"
-    excerpt: "NEW YORK, NY / ACCESSWIRE / July 3, 2020 / WIMI Hologram Cloud (NASDAQ:WIMI) , as a representative of domestic holographic enterprises, mainly concentrates its business application scenes in five professional fields,"
-    publishedDateTime: 2020-07-03T07:00:00Z
-    webUrl: "https://apnews.com/aa3550c45be053bc272749f2706623a6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "jVw27FRd433VnyBZ/nHqwLG1+1nhpjfw9ZVsmt7brF8AoSlNqWWGPNcRPXOaMnJYFvRk91++1m046K2u6AQfxRM87SHplTMI8hwU6TSTliAO/wG/eqQl/RlmF2px6lzl7P7t3T4gj1Gqa2xqVnnug/zl++B00iooTgGTIRTBe5O+g8knMkZ6hfVKV8KuQPrncU+bTvvij4MS+OleVjIx4IK2w4MHUUSPitZhB00V/f1Uyba2EYcODQTgDhrdiqCvYLY55DpGG2hCPvXL7ZK9yy5ogvt4NvXjRlftqf7N9q3gygHxOQwaVk+VfIqSY9wQK6j2UP5Uf2+N6+qCryUa1w==;9Q253NerTAW7tS8V+PVNgw=="

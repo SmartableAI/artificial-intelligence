@@ -19,16 +19,19 @@ topics:
 
 related:
   - title: "Welcome, Robin the AI robot"
-    excerpt: "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character—one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital."
-    publishedDateTime: 2020-07-07T20:51:00Z
-    webUrl: "https://medicalxpress.com/news/2020-07-robin-ai-robot.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-07-robin-ai-robot.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-robin-ai-robot.amp"
+    excerpt: "The artificial intelligence system was developed by Expper Technologies, a Silicon Valley-supported startup with roots in Yerevan, Armenia. Robin's technology enables the robot to build what is ..."
+    publishedDateTime: 2020-07-07T21:51:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2020-07/uoc--wrt070720.php"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 54
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/236836_web.jpg"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Robots to the rescue"
     excerpt: "Driven by the coronavirus pandemic, service robots are gathering steam among medical, retail and eatery sectors as a way to address social distancing measures."
     publishedDateTime: 2020-07-06T00:09:00Z
