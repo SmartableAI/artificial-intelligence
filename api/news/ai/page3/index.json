@@ -2,6 +2,398 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-06-ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats.md",
+      "title": "AI Is Today’s Hottest Technology, So CIOs Need To Learn How To Protect It From Copycats",
+      "excerpt": "The snag is that most CIOs don’t have experience with this form of intellectual property. Trade secret protection doesn’t require CIOs to share details about the methods they use, which is a must-do for patents.",
+      "webUrl": "https://www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef74817accb250006e7ba56%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI Is Today’s Hottest Technology, So CIOs Need To Learn How To Protect It From Copycats",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/amp/",
+      "publishedDateTime": "2020-07-06T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores.md",
+      "title": "Ximpatico Launches Kickstarter Campaign for Nabot, the Robot That Does Chores",
+      "excerpt": "Stock quotes by finanzen.net SAN JOSE, Calif., July 6, 2020 /PRNewswire/ -- Introduction of Nabot Nabot is a programmable robot that can autonomously perform tasks such as sanitizing packages, mopping the floor,",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727",
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727",
+      "publishedDateTime": "2020-07-06T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-cambricon-to-raise-3678-million-in-ipo-amid-chinese-chip-fever.md",
+      "title": "Cambricon to raise $367.8 million in IPO amid Chinese chip fever",
+      "excerpt": "AI chipmaker Cambricon Technologies Corp <688256.SS> said it will raise 2.58 billion yuan ($367.76 million) in its Shanghai initial public offering after pricing the listing at 64.39 yuan a share.",
+      "webUrl": "https://www.reuters.com/article/us-china-cambricon-ipo-idUSKBN247245",
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN247245",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN247245",
+      "publishedDateTime": "2020-07-06T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-researchers-use-ai-to-highlight-zooms-privacy-risks.md",
+      "title": "Researchers use AI to highlight Zoom’s privacy risks",
+      "excerpt": "In a study, researchers demonstrated that AI could be used to cross-reference the names and images of Zoom meeting participants.",
+      "webUrl": "https://venturebeat.com/2020/07/06/researchers-use-ai-to-expose-highlight-zooms-privacy-risks/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/d0862e46-a1f5-464f-8bed-7ecfd241dd87.png?w=800&resize=800%2C532&strip=all",
+          "width": 800,
+          "height": 532,
+          "title": "Researchers use AI to highlight Zoom’s privacy risks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/06/researchers-use-ai-to-expose-highlight-zooms-privacy-risks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/06/researchers-use-ai-to-expose-highlight-zooms-privacy-risks/amp/",
+      "publishedDateTime": "2020-07-06T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-this-bangalore-based-startup-provides-omnichannel-solutions-to-retailers.md",
+      "title": "This Bangalore-Based Startup Provides Omnichannel Solutions To Retailers",
+      "excerpt": "Bringing Under One Roof Ace Turtle uses Rubicon 3.0, an artificial intelligence (AI)-based proprietary tech platform to integrate online and offline retail channels. The startup provides tailor-made omnichannel technology solutions for its clients that ...",
+      "webUrl": "https://www.entrepreneur.com/article/352846",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1594044841-WhatsAppImage2020-07-06at73044PM.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "This Bangalore-Based Startup Provides Omnichannel Solutions To Retailers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/352846",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/352846",
+      "publishedDateTime": "2020-07-06T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices.md",
+      "title": "AI Behaving Badly: New Model Could Help AI Make More Ethical Choices",
+      "excerpt": "AI often makes decisions with little human input, and it's hard to predict the circumstances under which they're likely to choose an unethical approach.",
+      "webUrl": "https://singularityhub.com/2020/07/06/ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/07/question-mark-1872665_1280-AI-decisions-ethics.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": "AI Behaving Badly: New Model Could Help AI Make More Ethical Choices",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/07/06/ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/07/06/ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices/amp/",
+      "publishedDateTime": "2020-07-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-why-infusing-ai-into-it-operations-is-more-about-the-data-than-about-ai-itself.md",
+      "title": "Why Infusing AI Into IT Operations Is More About The Data Than About AI Itself",
+      "excerpt": "Almost every CIO I talk to boldly claims their enterprise is a “data-driven enterprise,” but the reality suggests a totally different story. With the help of AI, any enterprise can truly be a data-driven enterprise.",
+      "webUrl": "https://www.forbes.com/sites/andythurai/2020/07/06/ai-driven-enterprises/",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0242d8cd5e32000671586e%2F0x0.jpg",
+          "width": 974,
+          "height": 404,
+          "title": "Why Infusing AI Into IT Operations Is More About The Data Than About AI Itself",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andythurai/2020/07/06/ai-driven-enterprises/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andythurai/2020/07/06/ai-driven-enterprises/amp/",
+      "publishedDateTime": "2020-07-06T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-tesla-deploys-new-megapack-project-underpinned-by-cutting-edge-autobidder-ai.md",
+      "title": "Tesla deploys new Megapack project underpinned by ‘cutting-edge Autobidder AI’",
+      "excerpt": "A group of companies in the UK announced that they commissioned a new Tesla Megapack project that is going to use Tesla’s new Autobidder platform. Fotowatio Renewable Ventures and British renewable energy developer Harmony Energy announced that today they are commissioning their new battery energy storage plant in Dorset,",
+      "webUrl": "https://electrek.co/2020/07/06/tesla-deploys-megapack-autobidder/",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/07/Holes-Bay-battery-energy-storage-facility-developed-by-Harmony-Energy-and-FRV-with-Tesla-Megapack-batteries.jpg?quality=82&strip=all&w=600",
+          "width": 600,
+          "height": 400,
+          "title": "Tesla deploys new Megapack project underpinned by ‘cutting-edge Autobidder AI’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/07/06/tesla-deploys-megapack-autobidder/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/06/tesla-deploys-megapack-autobidder/amp/",
+      "publishedDateTime": "2020-07-06T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-car-key-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid-19.md",
+      "title": "Car Key Chips Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact COVID -19",
+      "excerpt": "The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added",
+      "webUrl": "https://www.marketwatch.com/press-release/car-key-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid--19-2020-06-15",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Car Key Chips Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact COVID -19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-new-ai-project-captures-jane-austens-thoughts-on-social-media.md",
       "title": "New AI project captures Jane Austen’s thoughts on social media",
       "excerpt": "A new AI project from magician and novelist Andrew Mayne creates simulated conversations with historical figures including Isaac Newton and Edgar Allen Poe.",
@@ -212,7 +604,7 @@
       "title": "Natural Language Processing Market Size, Trends, Outlook, Opportunity Till 2025",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 06, 2020 (AmericaNewsHour) -- The Natural Language Processing market is developing and expanding at a significant pace considering the global scenario. The Natural ...",
       "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-trends-outlook-opportunity-till-2025-2020-07-06",
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -259,7 +651,7 @@
       "title": "TSMC may commercialize InFO_SoW for supercomputer AI chips in two years",
       "excerpt": "TSMC, after launching 3D SoIC backend service, has also developed InFO_SoW (system-on-wafer) technology mainly for processing supercomputing AI chips and is expected to enter commercial production with the InFO-derived process within two years,",
       "webUrl": "https://www.digitimes.com/news/a20200706PD207.html",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -909,430 +1301,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
-      "excerpt": "A processor and Himax AoS sensor. With support to TensorFlow Lite for Microcontrollers, developers are able to take advantage of the WE-I Plus platform as well as the integrated ecosystem from TensorFlow Lite for Microcontrollers to develop their NN based edge AI applications targeted for Notebook,",
-      "webUrl": "https://www.marketwatch.com/press-release/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers-2020-06-30-6184054",
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-03T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-kt-and-hyundai-accelerate-digital-transformation-with-smart-robots.md",
-      "title": "KT and Hyundai Accelerate Digital Transformation with Smart Robots",
-      "excerpt": "Under the contracts, KT will acquire a 10 percent equity stake in Hyundai Robotics, the leader in the Korean industrial robotics market, for 50 billion won. KT also signed a business cooperation agreement with Hyundai Heavy Industries Holdings for joint efforts toward digital transformation.",
-      "webUrl": "https://www.marketwatch.com/press-release/kt-and-hyundai-accelerate-digital-transformation-with-smart-robots-2020-06-17-15183012",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "KT and Hyundai Accelerate Digital Transformation with Smart Robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-03T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025.md",
-      "title": "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025",
-      "excerpt": "Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023” To Its Research Database This report focuses on the global Natural language processing (NLP) status, future forecast,",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-07-03",
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-03T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-study-only-18-of-data-scientists-are-learning-about-ai-ethics.md",
-      "title": "Study: Only 18% of data scientists are learning about AI ethics",
-      "excerpt": "A study by data science firm Anaconda found a \"concerning\" absence of AI ethics initiatives in both academia and industry.",
-      "webUrl": "https://thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/",
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-94-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Study: Only 18% of data scientists are learning about AI ethics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/amp/",
-      "publishedDateTime": "2020-07-03T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit.md",
-      "title": "R&D Roundup: Tech giants unveil breakthroughs at computer vision summit",
-      "excerpt": "Computer vision summit CVPR has just (virtually) taken place, and like other CV-focused conferences, there are quite a few interesting papers. More than I could possibly write up individually, in fact,",
-      "webUrl": "https://techcrunch.com/2020/07/03/rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/fb-3d.jpg?w=1024",
-          "width": 1024,
-          "height": 594,
-          "title": "R&D Roundup: Tech giants unveil breakthroughs at computer vision summit",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/03/rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/03/rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit/amp/",
-      "publishedDateTime": "2020-07-03T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-lemonade-ipo-shows-the-power-of-ai-artificial-intelligence.md",
-      "title": "Lemonade IPO Shows The Power Of AI (Artificial Intelligence)",
-      "excerpt": "Lemonade is a next-generation AI company. The technology is all-pervasive across its operations. Keep in mind that the insurance industry was actually the first industry that was data driven. The roots go back to 1662 when John Graunt helped to create modern statistics,",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/07/03/lemonade-ipo-shows-the-power-of-ai-artificial-intelligence/",
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eff578f9756420007f6f6b9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444",
-          "width": 1200,
-          "height": 675,
-          "title": "Lemonade IPO Shows The Power Of AI (Artificial Intelligence)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/07/03/lemonade-ipo-shows-the-power-of-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/07/03/lemonade-ipo-shows-the-power-of-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-07-03T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-we-need-a-new-field-of-ai-to-combat-racial-bias.md",
-      "title": "We need a new field of AI to combat racial bias",
-      "excerpt": "Responsibly managing machine learning processes is no longer just a desirable component of progress but a necessary one.",
-      "webUrl": "https://techcrunch.com/2020/07/03/we-need-a-new-field-of-ai-to-combat-racial-bias/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-593387043.jpg?w=1024",
-          "width": 1024,
-          "height": 733,
-          "title": "We need a new field of AI to combat racial bias",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/03/we-need-a-new-field-of-ai-to-combat-racial-bias/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/03/we-need-a-new-field-of-ai-to-combat-racial-bias/amp/",
-      "publishedDateTime": "2020-07-03T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-facial-recognition-software-fails-to-correctly-identify-people-96-of-the-time-detroit-police-chief-says.md",
-      "title": "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says",
-      "excerpt": "Facial-recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief.",
-      "webUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp",
-      "publishedDateTime": "2020-07-03T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-sushi-meets-ai-japanese-inventors-app-scopes-out-choice-tuna-cuts.md",
-      "title": "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts",
-      "excerpt": "If you've ever bought supermarket sushi, you may know the taste trauma that hit Kazuhiro Shimura one night. But \"disappointing\" tuna sparked an idea: he'd develop an artificial intelligence (AI) system to make sure your sashimi is always delicious.",
-      "webUrl": "https://www.reuters.com/article/us-japan-tech-ai-tuna-idUSKBN24415L",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200703&t=2&i=1524528857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG620IQ",
-          "width": 813,
-          "height": 545,
-          "title": "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24415L",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24415L",
-      "publishedDateTime": "2020-07-03T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

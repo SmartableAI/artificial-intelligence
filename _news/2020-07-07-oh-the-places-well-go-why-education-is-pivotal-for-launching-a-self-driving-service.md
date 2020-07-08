@@ -7,6 +7,7 @@ webUrl: "https://technical.ly/dc/2020/07/07/autonomous-vehicles-education-pivota
 type: article
 quality: 16
 heat: 16
+published: false
 
 provider:
   name: Technical

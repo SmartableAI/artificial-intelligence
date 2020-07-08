@@ -2,11 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-08-microsoft-buys-vision-system-vendor-orions-systems.md",
+      "title": "Microsoft buys vision system vendor Orions Systems",
+      "excerpt": "Microsoft is looking to combine the video and image content analysis technology it is acquiring with Orions Systems to supplement its own Dynamics 365 Connected Store app and Power Platform services.",
+      "webUrl": "https://www.zdnet.com/article/microsoft-buys-ai-vision-system-vendor-orions-systems/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/07/08/2affdcdf-5569-410f-9f0b-03bbc3844369/msbuysorion.jpg",
+          "width": 1304,
+          "height": 929,
+          "title": "Microsoft buys vision system vendor Orions Systems",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-buys-ai-vision-system-vendor-orions-systems/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-buys-ai-vision-system-vendor-orions-systems/",
+      "publishedDateTime": "2020-07-08T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-facial-recognition-market-to-surpass-12-billion-by-2026.md",
       "title": "Facial recognition market to surpass $12 billion by 2026",
       "excerpt": "To enhance tracking and security in public spaces, the facial recognition technologies market is expected to surge in the years ahead. In the era of digital transformation, more organizations are utilizing facial recognition technologies for a host of ...",
       "webUrl": "https://www.techrepublic.com/article/facial-recognition-market-to-surpass-12-billion-by-2026/",
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -363,6 +410,44 @@
       ]
     },
     {
+      "path": "_news/2020-07-02-eye-doctors-getting-more-calls-about-computer-vision-syndrome.md",
+      "title": "Eye doctors getting more calls about Computer Vision Syndrome",
+      "excerpt": "Some eye doctors across Eastern Iowa say they are getting more calls as the pandemic is forcing more people to work from home, staring at a computer all day. It’s causing what they call Computer Vision Syndrome.",
+      "webUrl": "https://www.kcrg.com/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/W9FfCiLvOvHWsRU1FXmaKa54oPk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/YVN66F2RNBIJ5GAQU25FQITL5I.png",
+          "width": 980,
+          "height": 551,
+          "title": "Eye doctors getting more calls about Computer Vision Syndrome",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC Kcrg  9",
+        "domain": "kcrg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition-technology.md",
       "title": "Dozens of advocacy groups push for Congress to ban facial recognition technology",
       "excerpt": "Nearly 40 civil rights, privacy and technology groups sent a letter to Congressional leadership Thursday pushing for a federal moratorium on facial recognition technology.",
@@ -387,44 +472,6 @@
       "provider": {
         "name": "The Hill",
         "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-eye-doctors-getting-more-calls-about-computer-vision-syndrome.md",
-      "title": "Eye doctors getting more calls about Computer Vision Syndrome",
-      "excerpt": "Some eye doctors across Eastern Iowa say they are getting more calls as the pandemic is forcing more people to work from home, staring at a computer all day.",
-      "webUrl": "https://www.kcrg.com/video/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/-9mhd7WYkzCd_Y6us-vAvgmHk10=/980x0/smart/do0bihdskp9dy.cloudfront.net/07-02-2020/t_7270d4baba5747188da181af51e21332_name_file_1920x1080_5400_v4_.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "Eye doctors getting more calls about Computer Vision Syndrome",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-02T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC Kcrg  9",
-        "domain": "kcrg.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1268,44 +1315,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-bpn-14770-ameliorates-memory-and-cognitive-impairments-by-regulation-of-dynamics-in-a-beta-production-and-clearance.md",
-      "title": "BPN-14770 Ameliorates Memory and Cognitive Impairments by Regulation of Dynamics in A-beta Production and Clearance",
-      "excerpt": "In this study, a novel perspective drug BPN-14770 was given to mice. The mice were then put through a series of behavioral tests such as a novel object recognition test and the Morris water maze, to see if the novel substance helped the condition.",
-      "webUrl": "https://www.buffalo.edu/eln/students/undergraduate-research/2020-cosae-poster-gallery/host-page-with-sidebar.host.html/content/shared/www/eln/poster-gallery/individual-posters/shivani-avasthi.detail.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.buffalo.edu/content/shared/www/eln/poster-gallery/individual-posters/shivani-avasthi/_jcr_content/par/image.img.512.auto.png/1588181447746.png",
-          "width": 512,
-          "height": 338,
-          "title": "BPN-14770 Ameliorates Memory and Cognitive Impairments by Regulation of Dynamics in A-beta Production and Clearance",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medicine Buffalo",
-        "domain": "buffalo.edu",
-        "images": null,
         "publishers": null,
         "authors": null
       },

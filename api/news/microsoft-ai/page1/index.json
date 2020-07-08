@@ -2,6 +2,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-08-microsoft-updates-azure-ai-platform-to-help-build-next-generation-of-ai-applications.md",
+      "title": "Microsoft updates Azure AI platform to help build 'next generation of AI applications'",
+      "excerpt": "Microsoft announced several updates to the Azure AI platform. The improvements make it easier for developers to create AI applications.",
+      "webUrl": "https://www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications",
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Microsoft updates Azure AI platform to help build 'next generation of AI applications'",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications?amp",
+      "publishedDateTime": "2020-07-08T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-microsoft-continues-to-build-out-its-azure-cognitive-services-api-family.md",
       "title": "Microsoft continues to build out its Azure Cognitive Services API family",
       "excerpt": "The idea behind Azure Cognitive Services is to enable developers to use an API call in building heir apps to add sight, speech, search and other AI capabilities without having to master machine learning techniques first. Microsoft also has made a number ...",
@@ -1217,44 +1255,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-microsoft-acquires-adrm-software-to-develop-data-models-for-azure.md",
-      "title": "Microsoft Acquires ADRM Software to Develop Data Models for Azure",
-      "excerpt": "Microsoft has announced the purchase of data model develop ADRM, which will be incorporated into its Microsoft Azure division.",
-      "webUrl": "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2020/06/Data-Model-ADRM-Microsoft.jpg",
-          "width": 1024,
-          "height": 402,
-          "title": "Microsoft Acquires ADRM Software to Develop Data Models for Azure",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/?amp",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/?amp",
-      "publishedDateTime": "2020-06-19T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

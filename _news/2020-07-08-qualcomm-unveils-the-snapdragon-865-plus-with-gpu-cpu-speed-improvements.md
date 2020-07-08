@@ -8,8 +8,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -24,6 +24,22 @@ topics:
   - AI
 
 related:
+  - title: "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost"
+    excerpt: "This means that we’re looking at a boost of 10% in CPU and GPU. Apart from just an increase in clock speeds ... same DSP along with Quick Charge 4.0+ with AI control. To recall, the X55 modem brings 5G connectivity with the support of sub-6Ghz and ..."
+    publishedDateTime: 2020-07-08T17:04:00Z
+    webUrl: "https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/"
+    ampWebUrl: "https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 74
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2020/07/ezgif.com-webp-to-jpg-1.jpg"
+        width: 920
+        height: 613
+        isCached: true
   - title: "Snapdragon 865+ unveiled with 10% CPU and GPU boost, Wi-Fi 6E support"
     excerpt: "Two gaming phones have already picked the S865+ chipset - the Asus ROG Phone 3 and Lenovo Legion, both coming later this month."
     publishedDateTime: 2020-07-08T13:54:00Z

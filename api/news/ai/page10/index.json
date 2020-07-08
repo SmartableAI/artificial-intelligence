@@ -2,6 +2,475 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-06-26-elon-musk-starts-another-catfight-with-jeff-bezos-after-amazon-buys-zoox-self-driving-car-venture.md",
+      "title": "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture",
+      "excerpt": "This time, Musk took aim at Amazon’s $1.2 billion acquisition of Zoox, a venture focusing on self-driving cars that could compete with Tesla, the car company that Musk heads: .@JeffBezos is a copy 🐈 haha https://t.co/plR7uupqBG — Elon Musk (@ ...",
+      "webUrl": "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/",
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/04/190410-musk-bezos-630x366.jpg",
+          "width": 630,
+          "height": 366,
+          "title": "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/",
+      "publishedDateTime": "2020-06-26T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai.md",
+      "title": "Our fragile 40-years-old Banking infrastructure can only be saved with AI",
+      "excerpt": "IT failures are more common than we think. Admitting that you have a problem means there is a risk in doing business with you, and that leads to customer churn. Most companies try to conceal their failures and pretend there is nothing wrong.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/future-artificial-intelligence.jpg",
+          "width": 650,
+          "height": 400,
+          "title": "Our fragile 40-years-old Banking infrastructure can only be saved with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/amp/",
+      "publishedDateTime": "2020-06-26T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-only-12-hours-left-to-apply-for-startup-battlefield-at-disrupt-2020.md",
+      "title": "Only 12 hours left to apply for Startup Battlefield at Disrupt 2020",
+      "excerpt": "It’s now o’clock, founders. A mere 12 hours stands between you and a chance to compete in Startup Battlefield and launch your pre-Series A startup during Disrupt 2020 — in front of the world’s influential technorati.",
+      "webUrl": "https://techcrunch.com/2020/06/26/only-12-hours-left-to-apply-for-startup-battlefield-at-disrupt-2020/",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/30671212518_aabcb476d7_k.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Only 12 hours left to apply for Startup Battlefield at Disrupt 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/26/only-12-hours-left-to-apply-for-startup-battlefield-at-disrupt-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/26/only-12-hours-left-to-apply-for-startup-battlefield-at-disrupt-2020/amp/",
+      "publishedDateTime": "2020-06-26T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-ai-gatekeepers-are-taking-baby-steps-toward-raising-ethical-standards.md",
+      "title": "AI gatekeepers are taking baby steps toward raising ethical standards",
+      "excerpt": "AI is upending companies, industries, and humanity. For years, Brent Hecht, an associate professor at Northwestern University who studies AI ethics, felt like a voice crying in the wilderness.",
+      "webUrl": "https://qz.com/1874134/computer-scientists-will-enforce-rules-for-ai-ethics/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/06/2018-10-24T101409Z_955373654_RC1A9170A420_RTRMADP_3_CHINA-SECURITY-e1593196340811.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "AI gatekeepers are taking baby steps toward raising ethical standards",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1874134/computer-scientists-will-enforce-rules-for-ai-ethics/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1874134/computer-scientists-will-enforce-rules-for-ai-ethics/amp/",
+      "publishedDateTime": "2020-06-26T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-70-million-sci-fi-flick-b-stars-an-ai-robot-named-erica.md",
+      "title": "$70 million sci-fi flick 'b' stars an AI robot named 'Erica'",
+      "excerpt": "A movie, simply titled \"b,\" is currently in early production. What makes it unique is that it will be the first big-budget feature film to star an AI actor named Erica. Produced by the makers of Oscar-nominated film Loving Vincent,",
+      "webUrl": "https://www.techspot.com/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-26-image-9.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": "$70 million sci-fi flick 'b' stars an AI robot named 'Erica'",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
+      "publishedDateTime": "2020-06-26T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-congress-proposes-ban-on-government-use-of-facial-recognition-software.md",
+      "title": "Congress proposes ban on government use of facial recognition software",
+      "excerpt": "The Facial Recognition and Biometric Technology Moratorium Act would explicitly ban police from using the technology.",
+      "webUrl": "https://www.techrepublic.com/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/26/7c55ee40-db2b-451e-81be-dcf139a52efd/resize/1200x/deba963ae5747533086f986458e1d090/facial-recognition-software-image.jpg",
+          "width": 1200,
+          "height": 831,
+          "title": "Congress proposes ban on government use of facial recognition software",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
+      "publishedDateTime": "2020-06-26T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers.md",
+      "title": "Sightbit deploys AI on beaches to help lifeguards spot distressed swimmers",
+      "excerpt": "Sightbit is deploying \"AI lifeguards\" at beaches to spot rip currents and swimmers in distress, starting with a pilot at a beach in its native Israel.",
+      "webUrl": "https://venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/1.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "Sightbit deploys AI on beaches to help lifeguards spot distressed swimmers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/26/sightbit-deploys-ai-on-beaches-to-help-lifeguards-spot-distressed-swimmers/amp/",
+      "publishedDateTime": "2020-06-26T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-nasa-enlists-ai-in-the-hunt-for-et.md",
+      "title": "NASA enlists AI in the hunt for ET",
+      "excerpt": "The ExoMars mission to find life on Mars moved closer to take-off this week after NASA unveiled the first results of an AI that will support the search.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/26/nasa-enlists-ai-in-the-hunt-for-et/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-86-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "NASA enlists AI in the hunt for ET",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/nasa-enlists-ai-in-the-hunt-for-et/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/nasa-enlists-ai-in-the-hunt-for-et/amp/",
+      "publishedDateTime": "2020-06-26T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-ai-weekly-a-deep-learning-pioneers-teachable-moment-on-ai-bias.md",
+      "title": "AI Weekly: A deep learning pioneer’s teachable moment on AI bias",
+      "excerpt": "Facebook chief AI scientist Yann LeCun got into a debate with Google AI ethics colead Timnit Gebru about bias, and there are lessons to draw from the event.",
+      "webUrl": "https://venturebeat.com/2020/06/26/ai-weekly-a-deep-learning-pioneers-teachable-moment-on-ai-bias/",
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-540680990.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: A deep learning pioneer’s teachable moment on AI bias",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/26/ai-weekly-a-deep-learning-pioneers-teachable-moment-on-ai-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/26/ai-weekly-a-deep-learning-pioneers-teachable-moment-on-ai-bias/amp/",
+      "publishedDateTime": "2020-06-26T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-amazon-to-buy-zoox-in-a-move-toward-self-driving-cars.md",
+      "title": "Amazon to Buy Zoox, in a Move Toward Self-Driving Cars",
+      "excerpt": "Amazon for several years has worked on self-driving technology to deliver goods, a natural fit with its shopping business. The company did not disclose the terms of the deal nor say when it expected the transaction to close. Advertisement",
+      "webUrl": "https://www.nytimes.com/2020/06/26/business/amazon-zoox.html",
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/06/26/business/26amazon/26amazon-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Amazon to Buy Zoox, in a Move Toward Self-Driving Cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/06/26/business/amazon-zoox.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/06/26/business/amazon-zoox.amp.html",
+      "publishedDateTime": "2020-06-26T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-facial-recognition-leads-to-first-wrongful-us-arrest-activists-say.md",
       "title": "Facial recognition leads to first wrongful U.S. arrest, activists say",
       "excerpt": "Robert Williams spent over a day in custody in January after face recognition software matched his driver’s license photo to surveillance video of someone shoplifting.",
@@ -890,394 +1359,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-how-driverless-scooters-could-boost-healthcare.md",
-      "title": "How Driverless Scooters Could Boost Healthcare",
-      "excerpt": "The latest entry to the growing fleet of driverless vehicles is the autonomous mobility scooter, developed jointly by MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), the National University of Singapore,",
-      "webUrl": "https://www.mddionline.com/rd/how-driverless-scooters-could-boost-healthcare",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/images/MIT-Driverless-Scooter.jpg",
-          "width": 500,
-          "height": 416,
-          "title": "How Driverless Scooters Could Boost Healthcare",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-26T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-machine-learning-ai-experts-create-models-for-covid-19-decisions.md",
-      "title": "Machine learning, AI experts create models for COVID-19 decisions",
-      "excerpt": "Experts in the Air Force Research Laboratory are applying explainable machine learning and artificial intelligence approaches to develop thousands of models that could help federal, state and local decision makers as they make re-opening decisions during the COVID-19 pandemic.",
-      "webUrl": "https://www.daytondailynews.com/news/local/machine-learning-experts-create-models-for-covid-decisions/bGgtiaImkzIPndS1fW6PPJ/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.daytondailynews.com/rf/image_medium/Pub/p11/DaytonDailyNews/2020/06/26/Images/newsEngin.25885980_RGB_sky-062620-Brain.jpg",
-          "width": 750,
-          "height": 422,
-          "title": "Machine learning, AI experts create models for COVID-19 decisions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.daytondailynews.com/news/local/machine-learning-experts-create-models-for-covid-decisions/bGgtiaImkzIPndS1fW6PPJ/amp.html",
-      "cdnAmpWebUrl": "https://www-daytondailynews-com.cdn.ampproject.org/c/s/www.daytondailynews.com/news/local/machine-learning-experts-create-models-for-covid-decisions/bGgtiaImkzIPndS1fW6PPJ/amp.html",
-      "publishedDateTime": "2020-06-25T21:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dayton Daily News",
-        "domain": "daytondailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer.md",
-      "title": "Can We Have Conscious Artificial Intelligence And Other Mind-Blowing Things Science Can’t Answer",
-      "excerpt": "In a recent conversation with Professor of Public Understanding of Science at Oxford University, mathematician, broadcaster and author Marcus du Sautoy we explored some questions that he pondered in his book What We Cannot Know: Explorations at the Edge of Knowledge.",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/26/can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef575a661d20f0007e1dbd5%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Can We Have Conscious Artificial Intelligence And Other Mind-Blowing Things Science Can’t Answer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/26/can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/26/can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer/amp/",
-      "publishedDateTime": "2020-06-25T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-ai-accelerating-software-gives-fpgas-a-leg-up-on-gpus.md",
-      "title": "AI-Accelerating Software Gives FPGAs a Leg Up on GPUs",
-      "excerpt": "Xilinx recently tapped a startup for its AI accelerating software platform. In what ways might this platform add extra benefits for FPGAs in contrast to GPUs?",
-      "webUrl": "https://www.allaboutcircuits.com/news/ai-accelerating-software-gives-fpgas-leg-up-gpu/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/Mipsology.jpg",
-          "width": 700,
-          "height": 300,
-          "title": "AI-Accelerating Software Gives FPGAs a Leg Up on GPUs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "All About Circuits",
-        "domain": "allaboutcircuits.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-can-ai-erase-enough-of-its-own-bias-to-address-racial-and-gender-gaps.md",
-      "title": "Can AI erase enough of its own bias to address racial and gender gaps?",
-      "excerpt": "VCs and lenders rely on business data such as transaction records to inform funding decisions for fintechs or small businesses, but bias and uneven representation in management still result in gender and racial disparity.",
-      "webUrl": "https://www.paymentssource.com/news/can-ai-erase-enough-of-its-own-bias-to-address-racial-and-gender-gaps",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/e65abae/2147483647/strip/true/crop/2288x1201+0+314/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F4d%2Fb0%2F18b399a5455e9ecaf68713e1a4a6%2Fmichele-romanow-colour2-president-co-founder.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Can AI erase enough of its own bias to address racial and gender gaps?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PaymentsSource",
-        "domain": "paymentssource.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-facial-recognition-bill-would-ban-use-by-federal-law-enforcement.md",
-      "title": "Facial recognition bill would ban use by federal law enforcement",
-      "excerpt": "The bill would also make federal funding for state and local law enforcement contingent on the enactment of similar bans.",
-      "webUrl": "https://www.nbcnews.com/tech/security/2-democratic-senators-propose-ban-use-facial-recognition-federal-law-n1232128",
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2019_46/3101861/191114-facial-recognition-se-724p_89349dce96428fbb668c940dd897e041.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": "Facial recognition bill would ban use by federal law enforcement",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1232128",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1232128",
-      "publishedDateTime": "2020-06-25T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-new-german-canadian-lab-decodes-the-brain-with-artificial-intelligence.md",
-      "title": "New German-Canadian lab decodes the brain with artificial intelligence",
-      "excerpt": "Canadian lab HIBALL aims to create a microscopic 3D map of functional neuroanatomy at the cellular level with the help of high-performance computing and artificial intelligence.",
-      "webUrl": "https://www.news-medical.net/news/20200625/New-German-Canadian-lab-decodes-the-brain-with-artificial-intelligence.aspx",
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "New German-Canadian lab decodes the brain with artificial intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200625/New-German-Canadian-lab-decodes-the-brain-with-artificial-intelligence.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200625/New-German-Canadian-lab-decodes-the-brain-with-artificial-intelligence.aspx",
-      "publishedDateTime": "2020-06-25T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-chatbot-market-growing-at-a-cagr-297-key-player-ibm-nuance-communications-google-aws-artificial-solutions.md",
-      "title": "Chatbot Market Growing at a CAGR 29.7% | Key Player IBM, Nuance Communications, Google, AWS, Artificial Solutions",
-      "excerpt": "Solutions segment to hold a larger market size during the forecast period. Chatbot solutions are gaining traction with the rising need to deliver 24*7 support related services to",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/ab16398820/chatbot-market-growing-at-a-cagr-29-7-key-player-ibm-nuance-communications-google-aws-artificial-",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16398820",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16398820",
-      "publishedDateTime": "2020-06-25T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-generating-compositions-in-the-style-of-bach-using-the-ar-cnn-algorithm-in-aws-deepcomposer.md",
-      "title": "Generating compositions in the style of Bach using the AR-CNN algorithm in AWS DeepComposer",
-      "excerpt": "AWS DeepComposer gives you a creative way to get started with machine learning (ML) and generative AI techniques. AWS DeepComposer recently launched a new generative AI algorithm called autoregressive convolutional neural network (AR-CNN), which allows you to generate music in the style of Bach. In this",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/generating-compositions-in-the-style-of-bach-using-the-ar-cnn-algorithm-in-aws-deepcomposer/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/25/deepcomposer.jpg",
-          "width": 1000,
-          "height": 574,
-          "title": "Generating compositions in the style of Bach using the AR-CNN algorithm in AWS DeepComposer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T16:16:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-ambarellas-ai-vision-processor-meets-automotive-safety-goals-with-mentors-tessent-safety-ecosystem.md",
-      "title": "Ambarella’s AI Vision Processor Meets Automotive Safety Goals with Mentor’s Tessent Safety Ecosystem",
-      "excerpt": "Mentor, a Siemens business, announced that its Tessent software Safety ecosystem helped artificial intelligence (AI) vision silicon company Ambarella Inc. meet in-system test requirements and achieve ISO26262 automotive safety integrity level (ASIL) goals for its CV22FS and CV2FS automotive camera system-on-chips (SoCs).",
-      "webUrl": "https://www.embedded-computing.com/news/ambarella-s-ai-vision-processor-meets-automotive-safety-goals-with-mentor-s-tessent-safety-ecosystem",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://share.opsy.st/5ef52115286a5-logoheader_mentor-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Ambarella’s AI Vision Processor Meets Automotive Safety Goals with Mentor’s Tessent Safety Ecosystem",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T15:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded Computing Design",
-        "domain": "embedded-computing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

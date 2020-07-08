@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neur
 type: article
 quality: 87
 heat: 87
+published: true
 
 provider:
   name: The Next Web

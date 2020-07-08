@@ -65,6 +65,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Shady Face Recognition Firm Clearview AI Says It's Left Canada Amid Two Federal Investigations"
+    excerpt: "Dystopian, U.S.-based face recognition firm Clearview AI has suspended its contract with the Royal Mounted Canadian Police (RMCP), effectively locking its business out of Canada entirely, Bloomberg reported on Monday."
+    publishedDateTime: 2020-07-07T07:30:00Z
+    webUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344"
+    ampWebUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 92
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
     excerpt: "TORONTO — Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy ..."
     publishedDateTime: 2020-07-06T20:49:00Z
@@ -110,22 +126,6 @@ related:
       - url: "https://i.cbc.ca/1.5639386.1594063251!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/clearview-ai.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "Shady Face Recognition Firm Clearview AI Says It’s Left Canada Amid Two Federal Investigations"
-    excerpt: "Dystopian, U.S.-based face recognition firm Clearview AI has suspended its contract with the Royal Mounted Canadian Police (RMCP), effectively locking its business out of Canada entirely, Bloomberg reported on Monday."
-    publishedDateTime: 2020-07-07T02:30:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 62
-    images:
-      - url: "https://www.pedestrian.tv/content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
         isCached: true
   - title: "Clearview AI's exit from Canada builds on a pivotal moment for facial-recognition technology"
     excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Facial-recognition startup Clearview AI informed Canadian privacy protection authorities that it would no longer operate in Canada ..."
@@ -450,6 +450,17 @@ related:
       name: Canadian Manufacturing
       domain: canadianmanufacturing.com
     quality: 30
+  - title: "Over 75 Organizations, Experts Call For Ban On Police Use Of Facial Recognition Technology"
+    excerpt: "OpenMedia, along with more than 30 other organizations, and dozens of experts, issued a joint statement calling for an immediate ban on the use of facial recognition surveillance by all federal law enforcement and intelligence agencies in Canada."
+    publishedDateTime: 2020-07-08T19:36:00Z
+    webUrl: "https://www.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 29
 
 secured: "RfFIKnwPm3YLFMZdQXCdOhiFxE6+kCH3WYcAmw3l7Sr4P5IaflkXF5Ob23ccvH0YsLHrckJGCr2DRl3WN5tWfxx6MiXHVvjFn+9TjcKfYPxL/Wvl1ddx1AQEeiTYDXGY7k7pVTAAaqeqTD/z6e0+GVvZLuEUruROvRBp5qejiL44BkIUEdzJJzXjAbstlwj+Psd7PWjYT8YCGtopTVSYLBd+tbRJcOcaf1DvALUCigFOlLoZw920cjdvHxg7uktswcYENqvqXgWnr6YBOWcCF8OLtazNWtSHeHFku0ZVi4U/sotQvoBlLszOQp/rGuYWPx2eYJY/yqoCCom4G9Y8CQ==;jz6P92OazDxvHFIpEPPzbQ=="
 ---

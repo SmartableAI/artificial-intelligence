@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/20
 type: article
 quality: 87
 heat: 87
+published: true
 
 provider:
   name: New York Times

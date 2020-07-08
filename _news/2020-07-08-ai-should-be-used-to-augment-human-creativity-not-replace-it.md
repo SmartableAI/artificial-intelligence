@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-08T09:00:00Z
 webUrl: "https://www.mediaupdate.co.za/marketing/148963/ai-should-be-used-to-augment-human-creativity--not-replace-it"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

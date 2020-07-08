@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/20
 type: article
 quality: 74
 heat: 74
+published: true
 
 provider:
   name: VentureBeat
@@ -28,6 +29,6 @@ images:
     isCached: true
     title: "Google’s AI looks beneath the surface for information about people, places, and things in images"
 
-secured: "UpbdRC7wLC8Alh+YmGoexTWuiJ0H4iXT7v1y+OKZ6JnQ+XMRfoxw7AWDmhS2U8ZxQp8ioyojrcnYcIPjK4JguaWABrh3c+quTxqVc54+VegQ+DY+YagQzf/j+AImxHxmknlZaJ6TW59gVeg6qILZgcRImZnM8XOFL34J2pqM3CIiKTl4vGCl+S5fX4p2qSoz4t7ex7LV93sCFgi/qEM/4fLJA+NXiok7uCN6Tqq0qk9CDsBN95vYCpxl/7uWfuU8+HLfwRcRZrdazkUbgnVS27sy6qit8AmoJNExb4138ZqHbErdNaWZmnG3YmH80dRxHkxQLqPCMfoNfe1zmpm1RA==;oCP9Dfl4sC5xF3TR4uulsg=="
+secured: "Y2W1+6XHxuT1atcIB1U6d7tk6pr8LjTxaCFINX3mJFBQlPCtrh1KBrHzmjfdCdiJogrdLGyJYnMomGvGl08+u9mhRqesb6KB1ikhucOyPyBDU1zGu5wY/ex8h2UFcvb9aog6f2YwDc+22veUACv1MpP9aJa1uuM++twuHvCjNbbqrzJuRRZD4ihCScpW8IQHclPiCjLpzg0dZx83ygijsWEq/uUm8eGDjp6GOTodnXsji32ZqtqgteVRGy1EebhleQ1hkWAWqmKDPEp8todlI/D0vXEnF1/piXdzJg2t0TsZkmrRx1VQLciGL0YwQIhQ4fBUKNQD//E3AOcRjN/es+oH3XYnkXvh12kGlpCBzBm47SfDOUByUwgCEaoGrdlb/qiWb7CWw0pFb6Sads91uNT/n5rAuGEa59YxQw/d1jDZfHwQ5gu8K1RxJ4sp5cUBhUe1WjzGEwO4pt/HQft5Bt2FzWxUpxKLYj2UcWqhQPJTnklURUczWVCmWlm9raMri2j0gI5XzdgjTAoYpjXBvQ==;j3NOL6qCIiq1nbDJByfIKA=="
 ---
 

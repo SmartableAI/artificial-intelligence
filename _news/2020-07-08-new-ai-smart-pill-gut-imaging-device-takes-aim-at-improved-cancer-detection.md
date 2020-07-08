@@ -7,6 +7,7 @@ webUrl: "https://www.eurekalert.org/pub_releases/2020-07/uos-na070820.php"
 type: article
 quality: 36
 heat: 36
+published: false
 
 provider:
   name: EurekAlert!
@@ -23,6 +24,6 @@ images:
     isCached: true
     title: "New AI 'smart pill' gut-imaging device takes aim at improved cancer detection"
 
-secured: "NtiCKSslOg4hN75wJDZ94TW3JFfg8lgDALdo2qqYN3tWYAw1682weBSJ2sFRFMssoqEH9RnRk5GSdLXJpgU2SrMtvs0Tq7VT6iwZVBL+fwBYjpGqUPV16Wm76+8OSr+UvyIN88+e2AJ8i98qNqQHYOjqHBwSJ7vktfSm+/kNkXpWJHUEckVQ/F2n2HoAUmMNZSoFK5Y+t7APKLzyicxzQ1Nj+7hwENe2uNSfuBJujAG6eiv27CeiKqNLyBXYoay5SPpuQH02obx6/nuMj3+8GTLkuI3fbARZIm7JMw45BOrZopq2nniaUyMK+orJ4kNDgGhX5YASLNOfokr/RogJpw==;WxsNp8QYIJQYj23DIUZ8VA=="
+secured: "tYSH/QLBKCCGTeN1AWCZgr1k7Z4g353G6FJBPaWNOwCV9UBY8z1IZNftpI8FNmJiH5uzqVuu55I1DT7AUhC4uZC+USsR1YX7r24vd8MioH1cv/6ifBB3s6SzhA1LfV+Y6oNAjSqVTDkIzhzU5GeRqWxLFbJ7IjpRPjsNOPzGho6xf03xfGY0U8WGPoJ+kjMbEO8Qpsd4/1EV2UbrtvhOMeFfeGKPJzEPmOep3SL7UpwiCiyIoN9GVbLzSBF48mMbtnoN5G784tse5GH6OkQ/Adw0kuDs/JfppuyzJAZEQSy9UyyYMp+it11nrzkCpBd+4ROsojC0tDxckI9h3SwWOGe7zEvjUjp8Ao9SmzvaJKXvGuLuFqZHQ+1RhowXUp7qouf9xxXZYl077C8xGrFF2nrZVBqli4GAH+6hum1mtyCXaRe9ehFo3xhm7tFWSGAWjqwI2PAxYR8ZqEQDSaQAuh2LgY4GkpdOJCaKqyuQetlTBaU7JtVjwDgz3PCVEPFnWeDSHOvhbAiV8XWDKSq1aQ==;FU6dZ4VVcPwONqHhqs+lrA=="
 ---
 

@@ -2,6 +2,430 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-06-23-how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push.md",
+      "title": "How Cloud And AI-Powered Data Insights Are Helping F1’s Digital Push",
+      "excerpt": "F1 Chief Engineer Rob Smedley explains how and why the sport is unlocking the power of historical and real-time data to engage new and existing fans.",
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/",
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1157471618%2F0x0.jpg",
+          "width": 1200,
+          "height": 685,
+          "title": "How Cloud And AI-Powered Data Insights Are Helping F1’s Digital Push",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/amp/",
+      "publishedDateTime": "2020-06-23T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-artificial-intelligence-ai-in-healthcare-market-growth-analysis-outlook-by-trends-opportunities-and-forecast-to-2024.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market Growth Analysis, Outlook by - Trends, Opportunities and Forecast to 2024",
+      "excerpt": "Jun 23, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI ... practices can be used for alerts & reminder, diagnostic, therapy planning, information retrieval, and image interpretation.",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growth-analysis-outlook-by---trends-opportunities-and-forecast-to-2024-2020-06-23",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Healthcare Market Growth Analysis, Outlook by - Trends, Opportunities and Forecast to 2024",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T22:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-amazon-web-services-joins-efforts-to-protect-biodiversity.md",
+      "title": "Amazon Web Services joins efforts to protect biodiversity",
+      "excerpt": "Education, Research, Healthcare, and Nonprofit Organizations, Asia-Pacific, Worldwide Public Sector, Amazon Web Services Aria Nagasastra, director of Finance and Administration, WWF-Indonesia How can",
+      "webUrl": "https://vietreader.com/news/1950-amazon-web-services-joins-efforts-to-protect-biodiversity.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vietreader.com/uploads/posts/2020-06/amazon-web-services-joins-efforts-to-protect-biodiversity-1.jpg",
+          "width": 800,
+          "height": 534,
+          "title": "Amazon Web Services joins efforts to protect biodiversity",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "vietreader.com",
+        "domain": "vietreader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-sdl-launches-ai-enabled-online-translation-service.md",
+      "title": "SDL launches AI-enabled online translation service",
+      "excerpt": "SDL has launched SLATE. Smart Language Translation for the Enterprise a new self-service platform delivers a transformed experience in online translation",
+      "webUrl": "https://www.enterprisetimes.co.uk/2020/06/23/sdl-launches-ai-enabled-online-translation-service/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.enterprisetimes.co.uk/wp-content/uploads/2020/06/german-64270_1280-2.jpg",
+          "width": 728,
+          "height": 410,
+          "title": "SDL launches AI-enabled online translation service",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetimes.co.uk",
+        "domain": "enterprisetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-c3ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research.md",
+      "title": "C3.ai's Digital Transformation Institute issues awards for data-driven COVID-19 research",
+      "excerpt": "The research projects looked at COVID-19 as well as its impact on housing precarity, eviction and inequality as well as the role of social determinants on health and using data science to detect and understand transmission.",
+      "webUrl": "https://www.zdnet.com/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/",
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/23/02428142-0b66-4a7f-bc5f-747fba9b6ecc/thumbnail/1200x675/65b00467acc2a9c0f0f617b40fbc3806/3-2.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "C3.ai's Digital Transformation Institute issues awards for data-driven COVID-19 research",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ais-digital-transformation-institute-issues-awards-for-data-driven-covid-19-research/",
+      "publishedDateTime": "2020-06-22T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-folding-based-compression-of-point-cloud-attributes.md",
+      "title": "Folding-based compression of point cloud attributes",
+      "excerpt": "Folding-based compression of point cloud attributes - mauriceqch/pcc_attr_folding",
+      "webUrl": "https://github.com/mauriceqch/pcc_attr_folding",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://repository-images.githubusercontent.com/222734193/0b922680-b240-11ea-849c-66c8d6b4652b",
+          "width": 1280,
+          "height": 552,
+          "title": "Folding-based compression of point cloud attributes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-ai-researchers-condemn-predictive-crime-software-citing-racial-bias-and-flawed-methods.md",
+      "title": "AI researchers condemn predictive crime software, citing racial bias and flawed methods",
+      "excerpt": "At the time of writing, more than 50 employees working on AI at companies like Facebook, Google and Microsoft had signed on to an open letter opposing the research and imploring its publisher to ...",
+      "webUrl": "https://techcrunch.com/2020/06/23/ai-crime-prediction-open-letter-springer/",
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1236590500.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "AI researchers condemn predictive crime software, citing racial bias and flawed methods",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/23/ai-crime-prediction-open-letter-springer/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/ai-crime-prediction-open-letter-springer/amp/",
+      "publishedDateTime": "2020-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-applying-for-technical-roles.md",
+      "title": "Applying for technical roles",
+      "excerpt": "We answer the Women in Machine Learning community's questions about applying for a job in industry.",
+      "webUrl": "https://deepmind.com/blog/article/Women-in-machine-learning-A-look-into-the-technical-interview-process",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/a7e8Kag7pYvvx5kOvdSuSg80YBVRh9ROA_1iPRqIHXauAiO6MJCdpnSt_54v6Tm7lHiymfla0JyVjJYlAPCYlZ_zz6WQFFYPa-ofaQ",
+          "width": 512,
+          "height": 288,
+          "title": "Applying for technical roles",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-bpn-14770-ameliorates-memory-and-cognitive-impairments-by-regulation-of-dynamics-in-a-beta-production-and-clearance.md",
+      "title": "BPN-14770 Ameliorates Memory and Cognitive Impairments by Regulation of Dynamics in A-beta Production and Clearance",
+      "excerpt": "In this study, a novel perspective drug BPN-14770 was given to mice. The mice were then put through a series of behavioral tests such as a novel object recognition test and the Morris water maze, to see if the novel substance helped the condition.",
+      "webUrl": "https://www.buffalo.edu/eln/students/undergraduate-research/2020-cosae-poster-gallery/host-page-with-sidebar.host.html/content/shared/www/eln/poster-gallery/individual-posters/shivani-avasthi.detail.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.buffalo.edu/content/shared/www/eln/poster-gallery/individual-posters/shivani-avasthi/_jcr_content/par/image.img.512.auto.png/1588181447746.png",
+          "width": 512,
+          "height": 338,
+          "title": "BPN-14770 Ameliorates Memory and Cognitive Impairments by Regulation of Dynamics in A-beta Production and Clearance",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-noninvasive-system-lets-people-mind-control-robot-arm.md",
+      "title": "Noninvasive system lets people ‘mind control’ robot arm",
+      "excerpt": "Using a noninvasive brain-computer interface, researchers have developed the first-ever successful mind-controlled robotic arm with the ability to continuously track and follow a computer cursor.",
+      "webUrl": "https://www.futurity.org/brain-computer-interface-robotic-arm-2088502/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.futurity.org/wp/wp-content/uploads/2019/06/robot-hand-on-dark-background_1600.jpg",
+          "width": 1600,
+          "height": 915,
+          "title": "Noninvasive system lets people ‘mind control’ robot arm",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurity News",
+        "domain": "futurity.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-apple-ios-14-the-top-new-features-coming-to-the-iphone.md",
       "title": "Apple iOS 14: the top new features coming to the iPhone",
       "excerpt": "Widgets used to be an afterthought in iOS, but starting with iOS 14 the company is changing course and making them a lot more data-rich and customizable. These can now have multiple sizes, and it looks like Apple has",
@@ -836,465 +1260,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-nvidia-reveals-pcie-40-version-of-its-ampere-a100-gpu.md",
-      "title": "Nvidia reveals PCIe 4.0 version of its Ampere A100 GPU",
-      "excerpt": "Nvidia finally showed off its new 7nm Ampere architecture last month in the form of the A100 GPU. Now, the company has announced a number of A100 powered systems from leading server manufacturers, including Asus,",
-      "webUrl": "https://www.techspot.com/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-22-image-5.jpg",
-          "width": 1800,
-          "height": 1350,
-          "title": "Nvidia reveals PCIe 4.0 version of its Ampere A100 GPU",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
-      "publishedDateTime": "2020-06-22T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key.md",
-      "title": "DeepMind sets AI loose on Diplomacy board game, and collaboration is key",
-      "excerpt": "Artificial intelligence systems have become increasingly well-adapted to a host of basic board games. Now, DeepMind is hoping to teach agents the art of collaboration using Diplomacy.",
-      "webUrl": "https://www.techrepublic.com/article/deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key/",
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/06/22/dc4f3ea0-7e2a-4004-95d2-1fab64569c11/resize/1200x/ca7456a835809cd381be2ca48389655b/ai.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "DeepMind sets AI loose on Diplomacy board game, and collaboration is key",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key/",
-      "publishedDateTime": "2020-06-22T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20.md",
-      "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
-      "excerpt": "Inspur, a data center and AI full-stack solutions provider, releases NF5468M6 and NF5468A5 AI servers supporting the",
-      "webUrl": "https://www.hpcwire.com/off-the-wire/inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/shutterstock_coronavirus_11-405x228.jpg",
-          "width": 405,
-          "height": 228,
-          "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19.md",
-      "title": "Use AI responsibly to uplift historically disenfranchised people during COVID-19",
-      "excerpt": "In the rush to “help now,” we cannot throw responsible AI out the window. In fact, in the age of COVID-19 is more important than ever before to understand the unintended consequences and long term effects of the AI systems we create.",
-      "webUrl": "https://techcrunch.com/2020/06/22/use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1211620809.jpg?w=1024",
-          "width": 1024,
-          "height": 647,
-          "title": "Use AI responsibly to uplift historically disenfranchised people during COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/22/use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19/amp/",
-      "publishedDateTime": "2020-06-22T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-azure-iot-business.md",
-      "title": "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business",
-      "excerpt": "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,",
-      "webUrl": "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/",
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1175327728.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/",
-      "publishedDateTime": "2020-06-22T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-the-impact-of-artificial-intelligence-on-influencer-marketing.md",
-      "title": "The Impact Of Artificial Intelligence On Influencer Marketing",
-      "excerpt": "Not long before, New York-based influencer marketing agency Amra & Elma had developed a platform that ingested data from Instagram, and allowed its client to use AI image classifiers to find very specific influencers.",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/22/the-impact-of-artificial-intelligence-on-influencer-marketing/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1171685700%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "The Impact Of Artificial Intelligence On Influencer Marketing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/22/the-impact-of-artificial-intelligence-on-influencer-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/22/the-impact-of-artificial-intelligence-on-influencer-marketing/amp/",
-      "publishedDateTime": "2020-06-22T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-samsung-debuts-a-drone-based-ai-system-to-remotely-adjust-5g-towers.md",
-      "title": "Samsung debuts a drone-based AI system to remotely adjust 5G towers",
-      "excerpt": "The 5G cellular tower hardware maker will let installers use drones and AI as a safer, faster alternative to climbing towers for network testing.",
-      "webUrl": "https://venturebeat.com/2020/06/22/samsung-debuts-a-drone-based-ai-system-to-remotely-adjust-5g-towers/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/samsungdroneai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Samsung debuts a drone-based AI system to remotely adjust 5G towers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/22/samsung-debuts-a-drone-based-ai-system-to-remotely-adjust-5g-towers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/22/samsung-debuts-a-drone-based-ai-system-to-remotely-adjust-5g-towers/amp/",
-      "publishedDateTime": "2020-06-22T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-the-key-differences-between-teslas-driving-aids-autopilot-and-full-self-driving.md",
-      "title": "The key differences between Tesla’s driving aids: Autopilot and Full Self-Driving",
-      "excerpt": "In this edition of Shift Basics, we take a look at what Tesla's Autopilot and Full Self-Driving are, how they're different, and what they cost.",
-      "webUrl": "https://thenextweb.com/shift/2020/06/22/differences-between-teslas-autopilot-and-full-self-driving-system-adas-tech/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/second-Autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving-796x448.png",
-          "width": 796,
-          "height": 448,
-          "title": "The key differences between Tesla’s driving aids: Autopilot and Full Self-Driving",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-how-data-scientists-are-linking-ai-and-data-analysis-to-find-coronavirus-cure.md",
-      "title": "How data scientists are linking AI and data analysis to find coronavirus cure",
-      "excerpt": "In the last three months, it feels as if all of us have become armchair data scientists. As scientists across the globe race to find a cure for the scourge that is COVID-19, we’re all learning hard lessons about bell curves and epidemiological models.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/22/how-data-scientists-are-linking-ai-and-data-analysis-to-find-coronavirus-cure-syndication/",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-3-4-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "How data scientists are linking AI and data analysis to find coronavirus cure",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/22/how-data-scientists-are-linking-ai-and-data-analysis-to-find-coronavirus-cure-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/22/how-data-scientists-are-linking-ai-and-data-analysis-to-find-coronavirus-cure-syndication/amp/",
-      "publishedDateTime": "2020-06-22T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-new-york-subway-system-may-implement-temperature-checks-robot-cleaners.md",
-      "title": "New York Subway System May Implement Temperature Checks, Robot Cleaners",
-      "excerpt": "Thermal camera screenings and the use of artificial intelligence to evaluate mask usage are among a suite of recommendations to be considered by officials at New York’s Metropolitan Transportation Authority in a new report.",
-      "webUrl": "https://www.wsj.com/articles/new-york-subway-system-may-implement-temperature-checks-robot-cleaners-11592827200",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-200836/social",
-          "width": 1280,
-          "height": 640,
-          "title": "New York Subway System May Implement Temperature Checks, Robot Cleaners",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/new-york-subway-system-may-implement-temperature-checks-robot-cleaners-11592827200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-subway-system-may-implement-temperature-checks-robot-cleaners-11592827200",
-      "publishedDateTime": "2020-06-22T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

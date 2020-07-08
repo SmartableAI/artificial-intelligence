@@ -2,6 +2,504 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-01-spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform.md",
+      "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
+      "excerpt": "Spiketrap has raised $3 million for its AI platform that helps brands understand how they are engaging with consumers on social media.",
+      "webUrl": "https://venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Spiketrap_Compilation.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/amp/",
+      "publishedDateTime": "2020-07-01T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-the-robot-thats-keeping-facilities-clean-during-covid-19.md",
+      "title": "The Robot That's Keeping Facilities Clean During Covid-19",
+      "excerpt": "As workplaces re-open after the Covid-19 lockdown, attention is turning to how they can be as clean as possible. Researchers from MIT are working on a robot that uses UV light to sanitize any working environment.",
+      "webUrl": "https://www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef2f96644713a0007ed4670%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "The Robot That's Keeping Facilities Clean During Covid-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/amp/",
+      "publishedDateTime": "2020-07-01T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-five-ways-you-can-protect-your-machine-learning-systems.md",
+      "title": "Five Ways You Can Protect Your Machine Learning Systems",
+      "excerpt": "There is no doubt that machine learning has opened up a lot of new avenues. However, for all its advantages, it is important to recognize its inherent vulnerabilities, too.",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/five-ways-you-can-protect-your-machine-learning-systems/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1191329481%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Five Ways You Can Protect Your Machine Learning Systems",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/five-ways-you-can-protect-your-machine-learning-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/five-ways-you-can-protect-your-machine-learning-systems/amp/",
+      "publishedDateTime": "2020-07-01T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-tusimple-adds-logistics-operators-to-self-driving-trucks-effort.md",
+      "title": "TuSimple Adds Logistics Operators to Self-Driving Trucks Effort",
+      "excerpt": "Self-driving trucking startup TuSimple is teaming up with big logistics operators to bulk up its delivery business as it lays the groundwork for a planned coast-to-coast autonomous freight network.",
+      "webUrl": "https://www.wsj.com/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800",
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-204436/social",
+          "width": 1280,
+          "height": 640,
+          "title": "TuSimple Adds Logistics Operators to Self-Driving Trucks Effort",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800",
+      "publishedDateTime": "2020-07-01T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-hbmsu-becomes-mena-regions-first-educational-institution-to-migrate-its-full-systems-and-applications-to-aws-cloud.md",
+      "title": "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud",
+      "excerpt": "We congratulate our wise leadership on our unprecedented regional achievement & take pride in HBMSU’s leading position that supports UAE's competitiveness on global educational landscape” Mansoor Al Awar: “With our adoption of AWS,",
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/HBMSU_becomes_MENA_regions_first_educational_institution_to_migrate_its_full_systems_and_applications_to_AWS_Cloud-ZAWYA20200701110907/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/",
+      "publishedDateTime": "2020-07-01T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-deep-learning-chip-market-revolutionary-trends-in-industry-statistics-by-2020-2025.md",
+      "title": "Deep Learning Chip Market Revolutionary Trends in Industry Statistics by 2020-2025",
+      "excerpt": "The increasing investments in deep learning chip start-ups, prominence of quantum computing, and real time consumer behavior insights & increased operational efficiency are few of the factors driving the deep learning chip market worldwide.",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-revolutionary-trends-in-industry-statistics-by-2020-2025-2020-07-01?mod=mw_quote_news",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Chip Market Revolutionary Trends in Industry Statistics by 2020-2025",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027.md",
+      "title": "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027",
+      "excerpt": "This detailed market study covers AI in fashion market growth opportunities and competitive scenarios, which can assist the stakeholders in understanding market trends and prospects in the AI in the fashion market.",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027-2020-07-01",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-in-these-factories-inspector-robot-will-check-your-work.md",
+      "title": "In These Factories, Inspector Robot Will Check Your Work",
+      "excerpt": "Artificially intelligent camera systems look for defects and misplaced parts in many industries. The coronavirus pandemic makes them extra useful.",
+      "webUrl": "https://www.wired.com/story/factories-inspector-robot-check-work/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5efbb71e9798446ce8080210/master/pass/business_inspection_461971920.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "In These Factories, Inspector Robot Will Check Your Work",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/factories-inspector-robot-check-work/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/factories-inspector-robot-check-work/amp",
+      "publishedDateTime": "2020-07-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-aws-announces-general-availability-of-the-sixth-generation-of-amazon-ec2-instances-powered-by-aws-graviton2-processors.md",
+      "title": "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of its sixth generation of Amazon",
+      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-the-sixth-generation-of-amazon-ec2-instances-powered-by-aws-graviton2-processors-2020-06-11",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-sogou-takes-a-top-spot-at-nlpcc-2020.md",
+      "title": "Sogou Takes a Top Spot at NLPCC 2020",
+      "excerpt": "PRNewswire/ -- Sogou Inc. (NYSE: SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, today announced it ranked first",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sogou-takes-a-top-spot-at-nlpcc-2020/article_74e60c11-db8d-58bd-8a12-82b71b7df93d.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Sogou Takes a Top Spot at NLPCC 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T01:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-nasa-funds-small-business-ideas-ranging-from-ai-medicine-to-plumbing-for-the-moon.md",
+      "title": "NASA funds small-business ideas ranging from AI medicine to plumbing for the moon",
+      "excerpt": "NASA says it’ll fund more than 400 ideas from small businesses, ranging from plumbing fixtures suitable for the moon to AI-based medical assistants.",
+      "webUrl": "https://www.geekwire.com/2020/nasa-funds-small-business-ideas-ranging-plumbing-moon-ai-medicine-mars/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/200630-spacemedicine-630x419.jpg",
+          "width": 630,
+          "height": 419,
+          "title": "NASA funds small-business ideas ranging from AI medicine to plumbing for the moon",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/nasa-funds-small-business-ideas-ranging-plumbing-moon-ai-medicine-mars/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/nasa-funds-small-business-ideas-ranging-plumbing-moon-ai-medicine-mars/amp/",
+      "publishedDateTime": "2020-06-30T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california.md",
       "title": "Lyft’s self-driving test vehicles are back on public roads in California",
       "excerpt": "Lyft’s self-driving vehicle division has restarted testing on public roads in California, several months after pausing operations amid the COVID-19 pandemic. Lyft’s Level 5 program said Tuesday some of its autonomous vehicles are back on the road in Palo Alto and at its closed test track.",
@@ -613,499 +1111,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-introducing-the-new-watson-discovery-premium-plan.md",
-      "title": "Introducing the new Watson Discovery Premium Plan",
-      "excerpt": "\nUnstructured data, such as videos, photos and audio, accounts for at least 80% of your company’s data. Structured data is data that adheres to a predefined data model. It includes information such as credit card numbers, stock information and geolocation. Unlike structured data, unstructured data is",
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/06/introducing-the-new-watson-discovery-premium-plan/",
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/06/Image-from-iOS-5.jpg",
-          "width": 990,
-          "height": 498,
-          "title": "Introducing the new Watson Discovery Premium Plan",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T11:21:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-k-12-school-use-ai-and-automation-to-customize-lessons-and-pivot-from-in-person-to-online-classes.md",
-      "title": "K-12 school use AI and automation to customize lessons and pivot from in-person to online classes",
-      "excerpt": "Edtech company Edmentum has built a virtual assistant to help teachers master new education platforms quickly.",
-      "webUrl": "https://www.techrepublic.com/article/k-12-school-use-ai-and-automation-to-customize-lessons-and-pivot-from-in-person-to-online-classes/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/23/3dd79642-a672-4227-b2e8-7498cd4015eb/resize/1200x/ee8113922f79a3209e5641984ac6c549/virtual-classroom.jpg",
-          "width": 1200,
-          "height": 968,
-          "title": "K-12 school use AI and automation to customize lessons and pivot from in-person to online classes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/k-12-school-use-ai-and-automation-to-customize-lessons-and-pivot-from-in-person-to-online-classes/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/k-12-school-use-ai-and-automation-to-customize-lessons-and-pivot-from-in-person-to-online-classes/",
-      "publishedDateTime": "2020-06-30T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey.md",
-      "title": "Where does your organization stand on the AI curve? (Find out with this survey)",
-      "excerpt": "To learn more about where your company stands now, and how the market is evolving in the AI-first era, take the VB AI Survey now.",
-      "webUrl": "https://venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/wocintechchat.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Where does your organization stand on the AI curve? (Find out with this survey)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/amp/",
-      "publishedDateTime": "2020-06-30T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-save-95-off-this-ultimate-artificial-intelligence-scientist-certification-bundle.md",
-      "title": "Save 95% off this Ultimate Artificial Intelligence Scientist Certification Bundle",
-      "excerpt": "Be an in-demand, certified tech professional with 87+ hours of content on Python, Tensorflow, Machine and Deep Learning while saving over $750 off the normal cost of this certification.",
-      "webUrl": "https://www.neowin.net/news/save-95-off-this-ultimate-artificial-intelligence-scientist-certification-bundle/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1593504884_product_40143_product_shot_wide_story.jpg",
-          "width": 760,
-          "height": 380,
-          "title": "Save 95% off this Ultimate Artificial Intelligence Scientist Certification Bundle",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/save-95-off-this-ultimate-artificial-intelligence-scientist-certification-bundle/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-95-off-this-ultimate-artificial-intelligence-scientist-certification-bundle/",
-      "publishedDateTime": "2020-06-30T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-how-a-former-soldier-went-from-self-taught-truck-driver-to-helping-alphabets-waymo-usher-in-the-era-of-self-driving-semis.md",
-      "title": "How a former soldier went from self-taught truck driver to helping Alphabet's Waymo usher in the era of self-driving semis",
-      "excerpt": "Jon Rainwater instructs safety drivers for Waymo Via, the self-driving company's freight and deliveries unit.",
-      "webUrl": "https://www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6",
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5efa5b5bf34d0565f1297c75?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "How a former soldier went from self-taught truck driver to helping Alphabet's Waymo usher in the era of self-driving semis",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6?amp",
-      "publishedDateTime": "2020-06-30T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools.md",
-      "title": "Google’s G Suite finalizes Connected Sheets and introduces AI-driven data cleanup tools",
-      "excerpt": "Google launched Connected Sheets for G Suite users in general availability, and it previewed new AI-powered features: Smart Fill and Smart Cleanup.",
-      "webUrl": "https://venturebeat.com/2020/06/30/googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s G Suite finalizes Connected Sheets and introduces AI-driven data cleanup tools",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools/amp/",
-      "publishedDateTime": "2020-06-30T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-artificial-intelligence-the-time-for-ethics-is-over.md",
-      "title": "Artificial Intelligence: The time for ethics is over",
-      "excerpt": "If the rules are too weak, there is a too great a risk that our rights and freedoms will be undermined: This currently applies to all applications of artificial intelligence, […]",
-      "webUrl": "https://ctovision.com/artificial-intelligence-the-time-for-ethics-is-over/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ctovision.com/wp-content/uploads/space.jpg",
-          "width": 632,
-          "height": 422,
-          "title": "Artificial Intelligence: The time for ethics is over",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ctovision.com",
-        "domain": "ctovision.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-ibm-donates-machine-learning-tooling-to-enable-responsible-ai.md",
-      "title": "IBM donates machine learning tooling to enable ‘responsible’ AI",
-      "excerpt": "IBM Corp. is donating three open-source artificial intelligence development toolkits to LF AI, an organization within the Linux Foundation that maintains open-source machine learning tools. The LF AI Technical Advisory Committee",
-      "webUrl": "https://ctovision.com/ibm-donates-machine-learning-tooling-to-enable-responsible-ai/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ctovision.com/wp-content/uploads/space.jpg",
-          "width": 632,
-          "height": 422,
-          "title": "IBM donates machine learning tooling to enable ‘responsible’ AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ctovision.com",
-        "domain": "ctovision.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-facial-recognition-software-fails-to-correctly-identify-people-96-percent-of-the-time-according-to-detroits-chief-of-police.md",
-      "title": "Facial recognition software fails to correctly identify people '96 percent of the time,' according to Detroit's chief of police",
-      "excerpt": "Facial recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief.",
-      "webUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6",
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Facial recognition software fails to correctly identify people '96 percent of the time,' according to Detroit's chief of police",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp",
-      "publishedDateTime": "2020-06-30T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-rios-comes-out-of-stealth-to-announce-5m-in-funding-for-industry-agnostic-robotics.md",
-      "title": "RIOS comes out of stealth to announce $5M in funding for ‘industry-agnostic’ robotics",
-      "excerpt": "Bay Area-based robotics startup RIOS is coming out of stealth today to announce $5 million in funding. The round is being led by Valley Capital Partners and Morpheus Ventures, with participation from a long list of investors,",
-      "webUrl": "https://techcrunch.com/2020/06/30/rios-comes-out-out-stealth-to-announce-5m-in-funding-for-industry-agnostic-robotics/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/ezgif-1-72d452008e01.gif",
-          "width": 600,
-          "height": 338,
-          "title": "RIOS comes out of stealth to announce $5M in funding for ‘industry-agnostic’ robotics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/30/rios-comes-out-out-stealth-to-announce-5m-in-funding-for-industry-agnostic-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/rios-comes-out-out-stealth-to-announce-5m-in-funding-for-industry-agnostic-robotics/amp/",
-      "publishedDateTime": "2020-06-30T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-thucydides-and-the-dragon-artificial-intelligence-and-sino-us-rivalry.md",
-      "title": "Thucydides And The Dragon: Artificial Intelligence And Sino-US Rivalry",
-      "excerpt": "The party wants China to become the dominant player in the world’s most advanced technologies, especially artificial intelligence. The defeat of the world’s best player of the board game Go in 2016 by AlphaGo,",
-      "webUrl": "https://www.forbes.com/sites/calumchace/2020/06/30/thucydides-and-the-dragon-artificial-intelligence-and-sino-us-rivalry/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1163155775%2F0x0.jpg",
-          "width": 1200,
-          "height": 463,
-          "title": "Thucydides And The Dragon: Artificial Intelligence And Sino-US Rivalry",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2020/06/30/thucydides-and-the-dragon-artificial-intelligence-and-sino-us-rivalry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/06/30/thucydides-and-the-dragon-artificial-intelligence-and-sino-us-rivalry/amp/",
-      "publishedDateTime": "2020-06-30T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

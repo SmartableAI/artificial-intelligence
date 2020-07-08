@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windows
 type: article
 quality: 81
 heat: 81
+published: true
 
 provider:
   name: Windows Central
@@ -25,6 +26,6 @@ images:
     isCached: true
     title: "Microsoft updates Azure AI platform to help build 'next generation of AI applications'"
 
-secured: "0WJFDcpipRza2406OtK/gDsY9RQuz9NeqmhQnniVFFZhM63/h6qVJZ47nIiAVL6df/iviSiR/iqgsWqCKpH6pX8v5/U+74dW0LCOyG12YxzmW97G5GmEsKsN9dU5QOctlSawcySQA/4CoQxpciCJS3hH8/TVLeZNPZsOrOkHWXUryKRmrqwPjDUQ2aKHQrdxFRQe1DL/1Bz4SRTuccx+XSi0jazciTwiwZRE4GQzUmD4CQS1y2WzK1X51LV0g+fy3ANBLPQXJN+su3EB6Lj1O2TU7VLHYpvyjBFkSn4d00zE6dYib4MhwuAADYtY+L3Wrhe1xPiXCneL+wqdHeckFA==;EwTNak66LhXAZF7pLCcp1A=="
+secured: "pqAphw6fNXq5ElgzFIYX9d8mcFwCFP0kzy5Dl31uf/lZj9yiMobCTldk8d0uWB0vRDoLTYWpftdWyMJ7bE62ixHqbPICPLa0sfXd4cv6W4LFBLspVR9cjS71aXYe5KpC/eB7FwTx5HGaeNXvAKxm913KB4bZ6CHJAQUzOTAr9hMQImqnxbnqTSNvmHcmw8UlaTCh4KQARxyMGnYgUY+2eNyI5waUq9Mh/4NHd0RTZdCYxEG16Pik0SMbMf9W/zOb1ot/0QOCK5ZAGHFI7dBNgDZVr43ONZHqGjYAzf4GZBl3JK0iYMKZcob8qe3juIm/6qQyPAtpOWqR6gYw+LwgBkca7YBF147T5cY5SHvzRW2ohNaHaSWcBljNnzs+dgb458WyycVpRUmVEfDykXg4cAYy/XHOe1xCzISSPGPdtmYaisYG2Vy0UK17LcjeSkKdYz+o2gyQW8847ogFjFEMBFWxilYS5BkJgnK+z6w2qOS5mXOsF12wCZkFBymTSIOBF7wxkZZBf/mFpeX9lrsppQ==;JiU2s3o5/p0ARp2cpz/B7w=="
 ---
 

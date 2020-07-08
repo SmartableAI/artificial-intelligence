@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/20
 type: article
 quality: 89
 heat: 89
+published: true
 
 provider:
   name: VentureBeat
@@ -29,6 +30,6 @@ images:
     isCached: true
     title: "Facebook’s speech recognition model supports 51 different languages"
 
-secured: "20F4aVPT+S3ny//k2UbzHY/OCYI5JYfk1cf/ZElU/nVizYEkK+m5iVBMvBlYM57WVY/xC3hvWleDlXKnbTNfdU6YEY3+aY4ibKU1OVpGc2JH98UmfSAEBO09wKpH1+5Cl8VCeKKJTF62BNfiqiH5ndVKFN8P0r2OSuFk9VjEh/n1PL0Bx/ZgPnPMLkvMp0bLs52G2ZQin5UOafQn+bz12AOdhDonJB2OEiuTeknoH9L1YFRXPfLPTivAanLsMJeP/zgBo1cIe2gKkbnOfWCUsiyxQ95yIayPlCNNPCJ/DcN2Qh4UCaUvxo4GxYCUe78nxVTssVnlOgLOhZEJNkCJSg==;sH4nzCa5P+tdbKkgE1JTyw=="
+secured: "dXu+IHK29gW48VWDQm/aY8EOm2jFau/X24HPAak4So90uP7RCTKl6b41P9IDXLuw4v/XF83P8vDNlHAa74EdRKIFeuyfDwYGS98asXW3VQPeIHJ89XA6krwiaIwf0+lodZ3nLNgFEleuAcAa/6Ciw0rI+958lTO2uquBeqmjZpATKHWimIlV0ny2mCWpMJOaezBy9ecPsVmuMD5eF2V5cikUwhuWfJhmFpHgyXSbUDM2m2FrXzX21p+Iu6mUg5ugUX60RHj+9kKQVxU/v8lmwNZDbvHIiWZ9659sl05Xfy40S3s8nz6YGTxp9P3jPq4AXmkUSKnxP29S0BwdQ9vdwf7+PofScu3wt8cJe44VJVlpJWxbhXx16G7NiS/uD48fA9Ga0PyeRf8KB+ASqu3uvK2ZY0/5NacWSqxFvlthou57MIDKtG2wN0azWjz1EPrMj0yTaJBMwpa6ASQImpoQwLWpqYQf7TFD4HdIjLEhi5Z2HA0uimygC1aIHgw7FzTJVYjgtm7vU+z0TO/5Cuv9uw==;xqit6vbbqjM9j1Tn/nGqrg=="
 ---
 

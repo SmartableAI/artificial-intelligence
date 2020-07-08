@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Questex Enters the Artificial Intelligence Information Market, the First Market to Launch through New Fierce Model"
-excerpt: "As companies transform digitally and infrastructure becomes more agile, the prospect of leveraging artificial intelligence (AI)"
-publishedDateTime: 2020-07-06T17:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/g16519557/questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-n"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16519557"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16519557"
+excerpt: "As companies transform digitally and infrastructure becomes more agile, the prospect of leveraging artificial intelligence (AI) has never been more promising. Questex"
+publishedDateTime: 2020-07-06T17:11:00Z
+webUrl: "https://www.omaha.com/money/consumer/questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-new-fierce/article_b8855bd4-55dd-5927-b899-07e8b8fcfc49.html"
 type: article
-quality: 15
-heat: 15
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "ryPls9YbT4XSTjRiM0S4F+XelJzmaEwSM0p5ieD3gDJgkn8uz+5ceLDKAV/gejHVfoPPW5HaqEglO/KNh1P/K/mdm+qX3PqFXGtA7vG3/jLki2bNPchfU2TF+O3JdaRfmmZw+8tWdzMfd0mB9MCkuTJMusWEE8ntkXQiJyCvFD1dL7ivyjbc+zlebH6LznvT5EbeWAiRR5EGECEuQ140uKAypAxZ0ExLw210sTXUBEStpt7WIZ01fFrCHdGvq833/UAYZpebUn6/WbMv+AGKtzOZbyma/9owBfryGBTU3gY9ljUC4wwFrp16E2lTgLWgv0SV1dVlAPsIK8a3afKvtw==;hFGE3+Cnea6FvL8MADoIyg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+    title: "Questex Enters the Artificial Intelligence Information Market, the First Market to Launch through New Fierce Model"
+
+secured: "YU44hh00IZmFUwJ3hdD4q2d6rSj42DLoZXoQMjKyd+hqdYjdpC2oJ6ttQxDVI0RsQVrQyj040n/NSy2PGUnrKp675OUneKn1Duzrp1bvbFT6RAX81W6s3R+nWObtykb5eP7rEU6iOcvCEcDfnDREL0KRZQTbL9DiFiii6yX0Pa0r3D4nsGR7nuSn4OCzwcqQ20dwC5V6g29C3PMABT1lWgixORcij5mps92NX8STsK6hlupjPQp4sVtvABhVqMnxRAzLz1vFbj3Pzi4mmYeMfYsRJjf3bITHeNPP0PbTUDV6Db9pIfnfh0QxBZIHgiAp2d4UQ/JTpQZ8Xp78LTHqXQ==;wNtEbw5QBqMWS+VZXDCOhQ=="
 ---
 

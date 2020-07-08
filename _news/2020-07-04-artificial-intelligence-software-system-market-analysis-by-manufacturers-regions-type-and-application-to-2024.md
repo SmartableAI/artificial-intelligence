@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-04T18:32:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-system-market-analysis-by-manufacturers-regions-type-and-application-to-2024-2020-07-04"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -28,29 +28,15 @@ images:
     title: "Artificial Intelligence Software System Market Analysis by Manufacturers, Regions, Type and Application to 2024"
 
 related:
-  - title: "Artificial Intelligence and Machine Learning Market Size 2020 to 2026: Segmentation (Region Level) Including Market Share and Price Analysis"
-    excerpt: "Artificial Intelligence and Machine Learning Market ” Global Report (2020-2026) provides market intelligence on the different segments based on type, application and geography. Market size and forecast has been provided in terms of both,"
-    publishedDateTime: 2020-07-04T01:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-2020-to-2026-segmentation-region-level-including-market-share-and-price-analysis-2020-06-23"
+  - title: "Global Voice Assistant Market 2020 Research Report with COVID-19 Impact, by Future Trend, Growth rate and Industry Analysis to 2025"
+    excerpt: "Global Voice Assistant Market Growth (Status and Outlook) 2020-2025 organized by researchers at MarketsandResearch.biz presents a detailed diagram of the market in terms of current and future trends driving the profit pattern."
+    publishedDateTime: 2020-07-06T01:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-assistant-market-2020-research-report-with-covid-19-impact-by-future-trend-growth-rate-and-industry-analysis-to-2025-2020-07-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market Size and Share 2020 Latest Developments, Top Key Players Analysis, Growth Opportunities, Demand Status Forecast till 2026"
-    excerpt: "Global “ Deep Learning Market ” research report 2020 comprehensively studies potential opportunities, drivers, and challenges and evaluates their impact on the Deep Learning market growth forecast. Based on thorough primary and secondary research methodologies,"
-    publishedDateTime: 2020-07-08T05:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-and-share-2020-latest-developments-top-key-players-analysis-growth-opportunities-demand-status-forecast-till-2026-2020-07-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
+    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

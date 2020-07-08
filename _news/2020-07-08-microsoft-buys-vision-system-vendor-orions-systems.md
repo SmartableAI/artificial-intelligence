@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google
 type: article
 quality: 74
 heat: 74
+published: true
 
 provider:
   name: ZDNet
@@ -29,6 +30,6 @@ images:
     isCached: true
     title: "Microsoft buys vision system vendor Orions Systems"
 
-secured: "sgThvsqmxtKjugsTmLGcnXGU3h2ZV6mCI9IPhFj/9BQN2WVgAciZhTS7eT9VLumGdKjS+Dx1c913HL/aV84H0rbQO3Q3zgBBOSx8puoaRbNpaRW6C6nvukSekcJpPYjElEoKlX9gs4EyGPZbnRyfd368kU5VqFt45lR6KjuuC6g/QfibCU0Gr41MV3AW7NEBXO6NuDSJklz+cVVMZtk3RsokfWLxuIivqhz7UTfuhs9r5A3E9Vs0R0ZxmVLhDBGzpX0pEWse13t797QHPiuD7jHHH7DyNPWSIuJy2uhMpMDtQliUOyYHwMkZkN7Aoatw2e9AFZ9ZXhNwEwogLJiMTw==;3/E+maEnI1kGbC9hWH0H/w=="
+secured: "cFMQjViUYsdSxA2H1Bx7nzsgb9IbEpkto3XnSYoGPxXpeHaoTLJQGgCA+Dwxaq6CoUrm5sAd6Uur4jxsLuxFZQ4n66AErmWAq1uvfJl/qLCRN113G2jk9yXy0h0Z14OC86qqtv+g7UUQSv7XjkiU0v2/GKjtS1l4bOPgEPk00KP8D1z5ROrFBi688bAjIQrf/3JCFkgvUyVb2W/ob3PdQgu7F8DdJU8y4PnmX9uCAP2sa2zy/OlGmocPV8Tcpd4lrXZW8WE5QozyEaWH+abZ6QpYIZ2nMm/c9kMS+Swi8uQRizvMYtDcoUdfLVhg8j81+FapIpzh27eB8xiev9vwdE3qluhvUY0kTpWm7a0mm8qME7KwZJoVtPA51BnHAGpgRWy6HuAofCtfk60EcWrx4S68fMqvouc0jhQvOvYQpVGxqepGGObXbq+teWATM+uQzMaR0/gOGFZvkB/Qzqku8g7C7XRkQK25nVB56obkoHlS4p6nwexUxIShBPEXflvJqdRIR9NvD9Py4OtJ5Xhk5g==;/nsrsa6aKlvs9hCYvCHbJw=="
 ---
 

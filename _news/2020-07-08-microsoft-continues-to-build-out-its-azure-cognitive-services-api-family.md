@@ -32,9 +32,9 @@ images:
 
 related:
   - title: "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities"
-    excerpt: "As the world adjusts to new ways of working and staying connected, we remain committed to providing Azure AI solutions to help organizations invent with purpose."
-    publishedDateTime: 2020-07-08T08:00:52Z
-    webUrl: "https://azure.microsoft.com/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/"
+    excerpt: "The post Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities appeared first on The AI Blog.\n"
+    publishedDateTime: 2020-07-08T16:51:30Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/"
     type: article
     provider:
       name: Microsoft

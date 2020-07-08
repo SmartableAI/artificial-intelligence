@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-med
 type: article
 quality: 54
 heat: 54
+published: false
 
 provider:
   name: News Medical
@@ -25,6 +26,6 @@ images:
     isCached: true
     title: "New machine learning tool identifies US counties at higher risk for COVID deaths"
 
-secured: "p9O2CgywIrWeIbhdEgxCG1uG2SEjWAnWSVFkaKjfP+tEsuwCU7O0znN1OkfC2hXPu9pCWPgbuhl4931itnQ2x5sF12avdDmHhYaCAIIJTWNKCw+OrumNYEDfSsyhiCUlYRBm30A/nnTDUXsJBS454AIKYsxRdwCkSjDARL7+Ucbyb8Twz4mVMEyPXSGGdVvFrJd+lNp8atqX98Nk+kL2MwDKI2apWwVdIT+ew4UQara+1fGQdkO7qcfA6yB2mL6OCjLdvM2M6JUJ2cZmsLIrgeHIqhNHNwf+CN0+8pKzwNZFtVXzWGZopS8EEkuo+ShMjjOtm0deZupPeqxgT3Xv6A==;F8s/pKbqTRp08in1VdDoLw=="
+secured: "O6RnrfTwO1HkStN5rd7k6hQNhFmExrGXgKGgur0tfkkd6Hhw2ROrOCzJAo1H4RPSKGA9NKdYGpxu1jrwu30+6c/NHeLwVY6IghqQALQz7y2Xi4BFePIlBqQwEiNSfOcMlF1e7YE6g/jTuUnbOMo+irIeV0GehR8qf6CL4LTrssUNZApwzaZysq/z2Cxr9RCN3DZ2lENIs45eO78axcq3KO5yxrG97HTEm2TtLOMZPH+Tdt9vRMq6teY3iy7LvyhxyCRrLdoqv+DK+5j/ezBaer5bM/nAUnDa2+TfhG7eamwtQV9SmcQZB9FZwXRiyWQyhIjrGCmDRLQgHl2rMyegR5boIDhkJWdWV+RrWVZVe5WAIGqx3awVLM5oJzPBAGaX2oc5Y3oNVdOOULI6Z7OMAIcfFyfenknh0ZKUR4cXBZB2UtRzfR5hl3AGTTg+as9goQgvM35dSPbDbVUnRSxk1XvgR0VGBXdWZdLsoif3wQV42Tik5nkllo1uGPGcVJ1MkN5jJ2eMh3UukgFiy6ziKQ==;VdL4djRHU+pwKYaQFle+eg=="
 ---
 

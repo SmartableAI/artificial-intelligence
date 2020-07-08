@@ -8,7 +8,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/8/21317526/microsoft-te
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/8/21317526/microsoft-teams-together-mode-dynamic-view-new-features"
 type: article
 quality: 73
-heat: 73
+heat: 83
+published: true
 
 provider:
   name: The Verge
@@ -29,6 +30,24 @@ images:
     isCached: true
     title: "Microsoft Teams’ new Together Mode is designed for pandemic-era meetings"
 
-secured: "PBb2WrDKWWgpBt/+ceeZzKfaFx59uLdGKijNo/cqpVABZkmf2Iu3RxD5r3FsRCeZgAYIAeDn1PMcpNYOZdmcxTNGCVz2ZMWK9H65fnj9hWbVs9FzuocUMMR3enzY4Cgua5T2r6vZnUSRxLl6PH+ec2dQTu01a0NZ43rlPYHqMGBUb2yc77MTQUKNtKAjL4UFfdUIFYYWCBICp9WuPh65Wjqu+ON2xnuuyBinnpdgEKDH3bM/NSD3xaCdfvxWOblQkA1jxpSmzgiAjOOw2f5wPssGtGWiHssXf2Bpp/mH4hq8u0ZSylfZzcRae3vxrg2sMpFv8CtA+R9fwJMjw6dewg==;rRu8i/MiuXJFxWkqDjiu2g=="
+related:
+  - title: "Microsoft Teams is getting AI-powered features Together Mode, Dynamic View, suggested replies, and Cortana"
+    excerpt: "Microsoft Teams is getting new features powered by AI, including Together Mode, Dynamic View, Cortana, suggested replies, and speaker attribution."
+    publishedDateTime: 2020-07-08T18:02:00Z
+    webUrl: "https://venturebeat.com/2020/07/08/microsoft-teams-ai-powered-features-together-mode-dynamic-view-suggested-replies-cortana/"
+    ampWebUrl: "https://venturebeat.com/2020/07/08/microsoft-teams-ai-powered-features-together-mode-dynamic-view-suggested-replies-cortana/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/microsoft-teams-ai-powered-features-together-mode-dynamic-view-suggested-replies-cortana/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/microsoft-teams-together-mode.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 626
+        isCached: true
+
+secured: "TsZwamCYTNt8M6G0wichsbSNr5mI4T5qdNrFRrPE8IDU4Xj66BaPkF3qLKjY0HOHROmBfHi8P8lSHdt7G8N7kA0OHoHE9y7eFMBZ/ZdcEdsUS/ew70tHEu2Ys7QGXEywYCKfguzEpF77vWzBU3VzHCDPRCY/HEtYDgcms6WcgsKywyowWzVjkc6bQlUHIGTQkcLSkhJB37ZTb5XbyVRHNakHwTkp6BFxzkSwl+RfptNO0oXP6XZFC9QmpZEDt06fmZdXlFQUWcMK99Az72pDGurmqZOsIGMa5Y9kNM4bdK9YpAwX481WcVr+01LtXHEaJKd7AIyB06sfjVn3PLZOWNdDh0VfRsJiOLVJKlMXDFLdvrUyPK67wTdHgh7BbzQFl/bDwFilZCXvAveS9XyTZI4FuJYx4criKjNxWVLYCiXHc28HW6M2tHpfHR7lUP+AfBsMTAnHa/ybYIod7eONVZUsR14YFePH5bAbHvlBXOzR5fsDq0ViaZD4h+qYuGGzPWMloaJxOj8Rd/4jXQL9HA==;rf7Q95uwmdxiQAOaL6UUtg=="
 ---
 

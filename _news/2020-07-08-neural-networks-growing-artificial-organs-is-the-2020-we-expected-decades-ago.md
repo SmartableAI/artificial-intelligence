@@ -26,19 +26,16 @@ images:
 
 related:
   - title: "Machine learning helps grow artificial organs"
-    excerpt: "\"One of the main focuses of our lab is applying the methods of bioinformatics, machine learning, and AI to practical tasks in genetics and molecular biology. And this solution, too, is at the interface between sciences. In it, neural networks, which are ..."
-    publishedDateTime: 2020-07-07T14:12:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-07/miop-mlh070720.php"
+    excerpt: "Researchers from the Moscow Institute of Physics and Technology, Ivannikov Institute for System Programming, and the Harvard Medical School-affiliated Schepens Eye Research Institute have developed a neural network capable of recognizing retinal tissues during the process of their differentiation in a dish."
+    publishedDateTime: 2020-07-07T15:02:00Z
+    webUrl: "https://medicalxpress.com/news/2020-07-machine-artificial.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-07-machine-artificial.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-artificial.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 39
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/236742_web.jpg"
-        width: 720
-        height: 465
-        isCached: true
 
 secured: "nKsyS5Resm9CvgkJ2TcTv+ugMkVv2bQVH+vuk2D0PMRUa5rVHCvhFkVLywbMwoQrD+oQ/gCZcXutTyLg3g0uGrct/Antxooo6L64HUEt4k69CpJRJFLWBvexUI7SeUFduWukm8Bw0I6N3WPitezG2J+ikjTNdABj53HfxAV07K4aTwvv3HfZYR3jLYUl4pjcGSXJja+AS9HdL1xLfPoRRsV9FGLi9f9iJnhFx2+FFhOOhHf4rbngDVbaFFonO9Z0LOhyEQgSSG+TdAVdwLfQIH8qm7b4qs9xrB1ParBAg8v1yMW7f8jZKP0ek7p5YHsTBxiPeOzbik0apXZfAH0u9MP6q5BxJ2HijENGSbMOQ3WkEHUh14y2fA1seU14qu79oMOs1E6EMUGm05zqka5Tmn1Yv4CGwgO/6fOuQRKR7TaGakFBmvF7x78B8c/VFZqvIye3N/Jv+HGSYfozzrtfPMOwCA9YYT8A0uZw/yrZus1Wom7veKRASlfGq3wA0ZeC/bi4Mg6HDwTd0p1VC+el7w==;wAI1taixpg8TdXRETxIPcw=="
 ---

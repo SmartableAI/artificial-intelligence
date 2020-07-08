@@ -7,6 +7,7 @@ webUrl: "https://www.industryweek.com/technology-and-iiot/article/21136080/globa
 type: article
 quality: 19
 heat: 19
+published: false
 
 provider:
   name: IndustryWeek

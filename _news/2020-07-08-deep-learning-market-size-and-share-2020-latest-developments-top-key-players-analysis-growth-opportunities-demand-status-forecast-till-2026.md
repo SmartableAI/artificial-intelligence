@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-08T05:55:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-and-share-2020-latest-developments-top-key-players-analysis-growth-opportunities-demand-status-forecast-till-2026-2020-07-08"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -29,33 +29,19 @@ images:
     title: "Deep Learning Market Size and Share 2020 Latest Developments, Top Key Players Analysis, Growth Opportunities, Demand Status Forecast till 2026"
 
 related:
-  - title: "Artificial Intelligence and Machine Learning Market Size 2020 to 2026: Segmentation (Region Level) Including Market Share and Price Analysis"
-    excerpt: "Artificial Intelligence and Machine Learning Market ” Global Report (2020-2026) provides market intelligence on the different segments based on type, application and geography. Market size and forecast has been provided in terms of both,"
-    publishedDateTime: 2020-07-04T01:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-2020-to-2026-segmentation-region-level-including-market-share-and-price-analysis-2020-06-23"
+  - title: "Cloud Machine Learning Market 2020 Is Booming Worldwide | Top Key Players : Amazon, Oracle, IBM, Microsoftn"
+    excerpt: "The report presents the market competitive landscape and a corresponding detailed analysis of the major vendor/key players in the market. Top Companies in the Global Cloud Machine Learning Market: Amazon,"
+    publishedDateTime: 2020-07-07T11:52:00Z
+    webUrl: "https://galusaustralis.com/2020/07/736146/cloud-machine-learning-market-2020-is-booming-worldwide/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 21
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Software System Market Analysis by Manufacturers, Regions, Type and Application to 2024"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 04, 2020 (The Expresswire) -- The “Artificial Intelligence Software System Market” report entitled “Global Artificial Intelligence Software System Market Growth ..."
-    publishedDateTime: 2020-07-04T18:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-system-market-analysis-by-manufacturers-regions-type-and-application-to-2024-2020-07-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://galusaustralis.com/wp-content/uploads/2020/02/Orthopedics-Trauma-Implants-390x220.jpg"
+        width: 390
+        height: 220
         isCached: true
 
 secured: "M+3ylUw+LMFIdJEelOYXkAtiD2xRhYr0ClZTkQtJhXp15Mkfo31LYxvZ6zihTik5BFbRJfTROjb+sw/2kU7fqgjA2wbqSM7ZhjB+tuTXePa0wiZy31i54/e6B9JvXupdJU0S4+lOPOhX1CioEaZK1OPl1bHjlY/ekeHq90w0dhBilOSRZpLcoAiCVkXaLNfnp7GQcjuqeEG0BMTK1J+H5K/o74zgU/CWdUJqknMuLb+33SHI4eFFP+fIIyd1IsHTgHlrOJNCJw+oohB9/2zWuOj8DxWG0lYa77kGT7zIsINe35u5m1vCaJRx6GcxjHM8uFt7nJjBUeUMwbYncxD1rA==;y1MgPIb6/s1xXLqlgXFsiA=="

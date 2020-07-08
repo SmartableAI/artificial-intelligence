@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google
 type: article
 quality: 87
 heat: 87
+published: true
 
 provider:
   name: ZDNet

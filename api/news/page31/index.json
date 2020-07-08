@@ -2,6 +2,511 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-06-12-revolutionizing-data-collaboration-with-federated-machine-learning.md",
+      "title": "Revolutionizing Data Collaboration with Federated Machine Learning",
+      "excerpt": "We now live in a world that’s becoming more data-driven every day. Organizations across a wide range of industries are using artificial intelligence (AI)",
+      "webUrl": "https://www.datanami.com/2020/06/12/revolutionizing-data-collaboration-with-federated-machine-learning/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/collaboration_people_shutterstock_ImageFlow.jpg",
+          "width": 1000,
+          "height": 555,
+          "title": "Revolutionizing Data Collaboration with Federated Machine Learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-12T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer.md",
+      "title": "Bigfoot Biomedical® Appoints Jim Malone MD Chief Medical Officer",
+      "excerpt": "Press Release Bigfoot Biomedical, Inc. announced today the appointment of Dr. Jim Malone as Chief Medical Officer. Dr. Malone, an endocrinologist specializing in diabetes, spent 12 years in clinical practice and 21 years in clinical research,",
+      "webUrl": "https://venturebeat.com/2020/06/12/bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/mms.businesswire.com/media/20200612005070/en/797739/4/Jim_Malone.jpg?strip=all&ssl=1",
+          "width": 381,
+          "height": 480,
+          "title": "Bigfoot Biomedical® Appoints Jim Malone MD Chief Medical Officer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/12/bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer/amp/",
+      "publishedDateTime": "2020-06-12T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled.md",
+      "title": "ProBeat: The question of cloud AI or edge AI is far from settled",
+      "excerpt": "It's too early to say whether Google's cloud solution or Microsoft's edge solution is the superior approach to noise cancellation.",
+      "webUrl": "https://venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/microsoft-teams-google-meet.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ProBeat: The question of cloud AI or edge AI is far from settled",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/amp/",
+      "publishedDateTime": "2020-06-12T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai.md",
+      "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
+      "excerpt": "German automaker Volkswagen AG has closed its $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog post on Tuesday.",
+      "webUrl": "https://in.reuters.com/article/volkswagen-argo-idINKBN2390FT",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200602&t=2&i=1520735652&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG510AV",
+          "width": 819,
+          "height": 545,
+          "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN2390FT",
+      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN2390FT",
+      "publishedDateTime": "2020-06-12T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-top-companies-to-short-as-stock-market-optimism-dips.md",
+      "title": "Top Companies To Short As Stock Market Optimism Dips",
+      "excerpt": "We have some buying this morning with markets recovering some of Thursday’s massive losses. However, it looks uneasy at best. For those looking to bet against the upward trend our AI technology paired with our deep learning algorithms have identified several Top Shorts today.",
+      "webUrl": "https://www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1215230279%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": "Top Companies To Short As Stock Market Optimism Dips",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/amp/",
+      "publishedDateTime": "2020-06-12T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-scientists-say-satellite-imagery-and-machine-learning-advances-will-boost-african-consumer-data.md",
+      "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
+      "excerpt": "Scientists were able predict consumer data variation down to the village or neighborhood level with up to 55% accuracy and assets wealth up to 75% accuracy.",
+      "webUrl": "https://qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/06/sts058-77-083_orig-cover-e1591977652161.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 868,
+          "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/amp/",
+      "publishedDateTime": "2020-06-12T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-how-this-ai-company-is-working-to-transform-space-exploration-in-an-age-of-global-pandemic.md",
+      "title": "How This AI Company Is Working to Transform Space Exploration in an Age of Global Pandemic",
+      "excerpt": "Hypergiant founder and CEO Ben Lamm explains AI's role in creating a more flexible infrastructure for the future of space exploration.",
+      "webUrl": "https://www.entrepreneur.com/article/351699",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591802874-Unknown.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "How This AI Company Is Working to Transform Space Exploration in an Age of Global Pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351699",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351699",
+      "publishedDateTime": "2020-06-12T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-researchers-propose-framework-to-measure-ais-social-and-environmental-impact.md",
+      "title": "Researchers propose framework to measure AI’s social and environmental impact",
+      "excerpt": "Researchers propose a framework -- SECure -- designed to measure the social and environmental impact of AI systems in the real world.",
+      "webUrl": "https://venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers propose framework to measure AI’s social and environmental impact",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/amp/",
+      "publishedDateTime": "2020-06-12T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines.md",
+      "title": "AI Emerges As A Major Player In The Race To Find Covid-19 Therapies And Vaccines",
+      "excerpt": "In this piece, I discuss how Covid-19 research has quickly created unprecedented amounts of publicly available research data and why privacy is top of mind. This piece also looks at the impact AI has during this time.",
+      "webUrl": "https://www.forbes.com/sites/brianuzzi/2020/06/12/ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines/",
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1217452462%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI Emerges As A Major Player In The Race To Find Covid-19 Therapies And Vaccines",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2020/06/12/ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2020/06/12/ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines/amp/",
+      "publishedDateTime": "2020-06-12T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars.md",
+      "title": "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars",
+      "excerpt": "But do we know that these AI systems are going to act in beneficial ways? Perhaps among the plethora of AI systems are some that will be or might become untoward, working in non-beneficial ways, carrying out detrimental acts that in some manner cause irreparable harm,",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/",
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1172136897%2F0x0.jpg%3FcropX1%3D678%26cropX2%3D3788%26cropY1%3D0%26cropY2%3D2072",
+          "width": 1200,
+          "height": 799,
+          "title": "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/amp/",
+      "publishedDateTime": "2020-06-12T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-tech-vets-lead-panda-ai-a-secretive-new-spinout-from-the-allen-institute-for-artificial-intelligence.md",
+      "title": "Tech vets lead Panda AI, a secretive new spinout from the Allen Institute for Artificial Intelligence",
+      "excerpt": "Veteran tech execs are heading up a stealthy new startup formed inside the Allen Institute for Artificial Intelligence (AI2) in Seattle. Panda AI isn’t yet sharing many details about its technology",
+      "webUrl": "https://www.geekwire.com/2020/tech-vets-lead-panda-ai-secretive-new-spinout-allen-institute-artificial-intelligence/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-12-at-7.50.38-AM-630x317.png",
+          "width": 630,
+          "height": 317,
+          "title": "Tech vets lead Panda AI, a secretive new spinout from the Allen Institute for Artificial Intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/tech-vets-lead-panda-ai-secretive-new-spinout-allen-institute-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/tech-vets-lead-panda-ai-secretive-new-spinout-allen-institute-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-06-12T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-facebooks-deepfake-detection-challenge-yields-promising-early-results.md",
       "title": "Facebook’s ‘Deepfake Detection Challenge’ yields promising early results",
       "excerpt": "The digitally face-swapped videos known as deepfakes aren’t going anywhere, but if platforms want to be able to keep an eye on them, they need to find them first. Doing so was the object of Facebook’s “Deepfake Detection Challenge,",
@@ -583,453 +1088,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero.md",
-      "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
-      "excerpt": "Hackers have attacked badly configured machine learning clusters on Microsoft’s Azure cloud computing network, and hijacked them to mine Monero",
-      "webUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero",
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/370_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYTk5ZTE1ZjFmYTEwNGZmYjc0ZDg2ZDkzNmE5MGE4ZC5qcGc=.jpg",
-          "width": 370,
-          "height": 246,
-          "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/amp",
-      "publishedDateTime": "2020-06-12T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-goosegrass-detection-in-strawberry-and-tomato-using-a-convolutional-neural-network.md",
-      "title": "Goosegrass Detection in Strawberry and Tomato Using a Convolutional Neural Network",
-      "excerpt": "Goosegrass is a problematic weed species in Florida vegetable plasticulture production. To reduce costs associated with goosegrass control, a post-emergence precision applicator i",
-      "webUrl": "https://www.nature.com/articles/s41598-020-66505-9",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-66505-9/MediaObjects/41598_2020_66505_Fig1_HTML.png",
-          "width": 685,
-          "height": 580,
-          "title": "Goosegrass Detection in Strawberry and Tomato Using a Convolutional Neural Network",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-12T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-tutorial-build-and-deploy-a-custom-skill-with-azure-machine-learning.md",
-      "title": "Tutorial: Build and deploy a custom skill with Azure Machine Learning",
-      "excerpt": "This tutorial demonstrates how to use Azure Machine Learning to build and deploy a custom skill for Azure Cognitive Search's AI enrichment pipeline.",
-      "webUrl": "https://docs.microsoft.com/en-us/azure/search/cognitive-search-tutorial-aml-custom-skill",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Tutorial: Build and deploy a custom skill with Azure Machine Learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T22:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision.md",
-      "title": "3 (Not So Obvious) Industries That Could Be Transformed By Computer Vision",
-      "excerpt": "Computer vision, or machine vision, is an important business trend that will transform many industries and many business processes. Here we look at three not so obvious examples to showcase that it is important for any industry.",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/12/3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/12/3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/12/3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/amp/",
-      "publishedDateTime": "2020-06-11T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2023.md",
-      "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
-      "excerpt": "Jun 11, 2020 (AmericaNewsHour) -- Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End ...",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-06-11?mod=mw_quote_news",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T20:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi.md",
-      "title": "Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi",
-      "excerpt": "Here is the link to the board that looks like a Raspberry Pi. This new hardware was launched ahead of the TensorFlow Dev Summit, revolving around machine learning and ‘AI’ in embedded ...",
-      "webUrl": "https://hackaday.com/2019/03/05/google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/03/googletpu.png",
-          "width": 800,
-          "height": 438,
-          "title": "Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-reference-design-supports-memory-intensive-ai-workloads.md",
-      "title": "Reference design supports memory-intensive AI workloads",
-      "excerpt": "One of the challenges is that smart vision and other AI applications generate a lot of data that is ... smaller than a 9 × 13-mm BGA packaging used by a standard DDR3 DRAM chip. Another advantage of the solution is that it doesn’t require expertise ...",
-      "webUrl": "https://www.embedded.com/reference-design-supports-memory-intensive-ai-workloads/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2020/06/img20200616091403Memory-controller-reference-desi_0.jpg",
-          "width": 383,
-          "height": 305,
-          "title": "Reference design supports memory-intensive AI workloads",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-3-ai-stocks-poised-to-gain-from-self-driving-cars.md",
-      "title": "3 AI Stocks Poised to Gain From Self-Driving Cars",
-      "excerpt": "Needham’s 5-star analyst Rajvindra Gill, an expert in the tech sector, has the lowdown on autonomous cars and the companies that will support them. He was part of Needham’s recent 4th Annual Virtual Automotive Tech Conference,",
-      "webUrl": "https://www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11",
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11?amp",
-      "publishedDateTime": "2020-06-11T16:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-controversial-startup-to-continue-supplying-police-with-facial-recognition-tech.md",
-      "title": "Controversial Startup to Continue Supplying Police With Facial-Recognition Tech",
-      "excerpt": "“Unlike Amazon Rekognition, which misidentified people of color, an independent study, using the same methodology, indicated that Clearview AI has no racial bias.” (The ACLU ...",
-      "webUrl": "https://in.pcmag.com/encryption/136706/controversial-startup-to-continue-supplying-police-with-facial-recognition-tech",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_in/news/c/controvers/controversial-startup-to-continue-supplying-police-with-faci_hwkb.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "Controversial Startup to Continue Supplying Police With Facial-Recognition Tech",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://in.pcmag.com/encryption/136706/controversial-startup-to-continue-supplying-police-with-facial-recognition-tech?amp=1",
-      "cdnAmpWebUrl": "https://in-pcmag-com.cdn.ampproject.org/c/s/in.pcmag.com/encryption/136706/controversial-startup-to-continue-supplying-police-with-facial-recognition-tech?amp=1",
-      "publishedDateTime": "2020-06-11T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai.md",
-      "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
-      "excerpt": "Industries like healthcare, media, and social media platforms use image analysis workflows to identify objects and entities within pictures to understand the whole image. For example, an ecommerce website might use objects present in an image to surface relevant search results. Sometimes image analysis",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai/",
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/11/a2i-object-detection-003.jpg",
-          "width": 800,
-          "height": 536,
-          "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T16:11:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-aws-announces-general-availability-of-the-sixth-generation-of-amazon-ec2-instances-powered-by-aws-graviton2-processors.md",
-      "title": "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors",
-      "excerpt": "New Amazon EC2 instances powered by AWS-designed Graviton2 processors deliver up to 40% better price/performance over comparable x86 based instances.",
-      "webUrl": "https://www.businesswire.com/news/home/20200611005895/en/AWS-Announces-General-Availability-Sixth-Generation-Amazon",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200611005895/en/797347/23/AWS_logo_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T15:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

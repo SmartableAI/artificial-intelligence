@@ -139,6 +139,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Clearview AI's exit from Canada builds on a pivotal moment for facial-recognition technology"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Facial-recognition startup Clearview AI informed Canadian privacy protection authorities that it would no longer operate in Canada ..."
+    publishedDateTime: 2020-07-08T14:59:00Z
+    webUrl: "https://www.businessinsider.com/clearview-ai-exits-canada-at-pivotal-time-for-facial-recognition-2020-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/5f05ceb24dca681ce8613f96?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Editorial: The problems with facial recognition technology"
     excerpt: "Face recognition also can be problematic when manipulated by overzealous law enforcement agencies trying to match driver’s licenses photos to an artist’s sketch or surveillance cameras capturing indiv"
     publishedDateTime: 2020-07-05T07:15:00Z
@@ -203,19 +217,21 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "Clearview AI's exit from Canada builds on a pivotal moment for facial-recognition technology"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Facial-recognition startup Clearview AI informed Canadian privacy protection authorities that it would no longer operate in Canada ..."
-    publishedDateTime: 2020-07-08T14:59:00Z
-    webUrl: "https://www.businessinsider.com/clearview-ai-exits-canada-at-pivotal-time-for-facial-recognition-2020-7"
+  - title: "Black lawmakers call for ban on police use of facial recognition technology"
+    excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
+    publishedDateTime: 2020-07-08T16:14:00Z
+    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/07/08/facial-recognition-software-police-michigan/5397596002/"
+    ampWebUrl: "https://amp.freep.com/amp/5397596002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5397596002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 57
     images:
-      - url: "https://i.insider.com/5f05ceb24dca681ce8613f96?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 678
         isCached: true
   - title: "Clearview AI to end facial-recognition services in Canada: privacy commissioner"
     excerpt: "The federal privacy commissioner says U.S. firm Clearview AI will stop offering its facial-recognition services in Canada in response to an investigation by the commissioner and three provincial counterparts."
@@ -285,6 +301,22 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 49
+  - title: "Banning use of facial recognition technology among Michigan lawmakers’ proposed police reforms"
+    excerpt: "Members of Michigan’s Legislative Black Caucus called to ban law enforcement agencies from using facial recognition technology to identify suspects as part of wide-ranging recommendations to reform police operations."
+    publishedDateTime: 2020-07-08T17:45:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 47
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VU25W3CILNCGFHXQXEQ4FFYWGA.JPG"
+        width: 1300
+        height: 867
+        isCached: true
   - title: "Facial recognition technologies echo the historical problem of linking appearance with criminality"
     excerpt: "Several startups now claim to be able to use artificial intelligence to help employers detect the personality traits of job candidates based on their facial expressions. In China, the government has pioneered the use of surveillance cameras that identify and track ethnic minorities."
     publishedDateTime: 2020-07-07T18:05:00Z
@@ -371,6 +403,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trulioo Launches Facial Recognition, Document Verification Product"
+    excerpt: "Trulioo has introduced a facial recognition and document validation technology to enable small businesses to provide online protection to their customers."
+    publishedDateTime: 2020-07-08T15:31:00Z
+    webUrl: "https://www.pymnts.com/authentication/2020/trulioo-launches-facial-recognition-document-verification-product/"
+    ampWebUrl: "https://www.pymnts.com/authentication/2020/trulioo-launches-facial-recognition-document-verification-product/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/authentication/2020/trulioo-launches-facial-recognition-document-verification-product/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 39
   - title: "Facial recognition technology is one of the most racist weapons in the police arsenal"
     excerpt: "Thanks to the growing global anti-racism movement, the world is opening its eyes to how police use of facial recognition fits into the bigger picture of harm against Black and Indigenous people -- and how badly we need laws that govern,"
     publishedDateTime: 2020-07-07T00:33:00Z
@@ -405,6 +448,17 @@ related:
       name: Canadian Manufacturing
       domain: canadianmanufacturing.com
     quality: 30
+  - title: "Over 75 Organizations, Experts Call For Ban On Police Use Of Facial Recognition Technology"
+    excerpt: "OpenMedia, along with more than 30 other organizations, and dozens of experts, issued a joint statement calling for an immediate ban on the use of facial recognition surveillance by all federal law enforcement and intelligence agencies in Canada."
+    publishedDateTime: 2020-07-08T19:36:00Z
+    webUrl: "https://www.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 29
 
 secured: "Zkpq4Wb6Dphu/2Ufhb4yV7EsjAkK4bCMusrqTi+1e/8oqIQh1sh3ql37lXjMgpB4d+fLKhMgC5BnlcBEZrpa2cXAKve+w6DJwJgPboW+PkdhJjWp5mRzlPQRcDdcorGR8xkNV8oI9EZmsSMJdr4clN/BqcsSswVb1kNWzTFOtR7jIXwHFVrBYPb8Mr1QPLjUMHA2R1f7q892LDKxY1xhx9VRxZsHSDDZGfJhCas8o80XNFkv8xuR+tcAhNlty1uL5BfXWF/WK8ZtJ+/06gPa9nNemuKmykyRTQbL++Vqc2owNrUbbS3ymao4k+GGg/uX2sn9y7NeDiII7L6RNpoDk8E3D72u93Y1qZBc0xh2H1I3nb1tBEWJUWrd/ly8R/4nUddBCe7OQgsLPHt6ljC1P9xx0DoTMtvTikg3ScHmkEzJo4XnvrAFWahOjhmKAyIvcMG70dWwgbIB7AhzFepUToe9rQ1nGM9gW2THWPvVjsZ+GsWCg+DVr1DZvU40k8fEZMtO8nnITBqiYgNAY4d7hg==;V1tWp65HutQuMqyzPLZt3A=="
 ---

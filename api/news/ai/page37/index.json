@@ -2,6 +2,455 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-06-02-ai-breathes-new-life-into-a-classic-80s-synth.md",
+      "title": "AI breathes new life into a classic ‘80s synth",
+      "excerpt": "(Modern FM synths are substantially more manageable.) This led most users to simply stick with the presets. A new AI tool could help DX7 fans move beyond those basic sounds, though. This DX7 Cartridge Does Not Exist uses machine learning to generate new patches based on a sample pool of hand-crafted ones, and creates a file that can be loaded ...",
+      "webUrl": "https://www.engadget.com/yamaha-dx7-ai-patches-155010833.html",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F328f6380-a4e7-11ea-ad2e-3031439db2fc&client=amp-blogside-v2&signature=c9d3c63a7f4563e15056eb9a6046956318246d58",
+          "width": 600,
+          "height": 350,
+          "title": "AI breathes new life into a classic ‘80s synth",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/yamaha-dx7-ai-patches-155010833.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/yamaha-dx7-ai-patches-155010833.html",
+      "publishedDateTime": "2020-06-02T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-service-robotics-market-industry-size-growth-factors-and-major-segments-forecast-research-report.md",
+      "title": "Service Robotics Market Industry Size, Growth Factors and Major Segments, Forecast Research Report",
+      "excerpt": "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at",
+      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-industry-size-growth-factors-and-major-segments-forecast-research-report-2020-06-02",
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Service Robotics Market Industry Size, Growth Factors and Major Segments, Forecast Research Report",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-02T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-dell-technologies-launches-new-hpc-systems-to-boost-ai-workloads.md",
+      "title": "Dell Technologies launches new HPC systems to boost AI workloads",
+      "excerpt": "Dell EMC Ready Solutions for vHPC are capable of delivering up to 18 times faster AI model development, says Forrester",
+      "webUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/355881/dell-technologies-launches-new-hpc-systems-to-boost",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570815380/itpro/2015/11/dell_rr1.jpg",
+          "width": 1000,
+          "height": 565,
+          "title": "Dell Technologies launches new HPC systems to boost AI workloads",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/355881/dell-technologies-launches-new-hpc-systems-to-boost?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/digital-transformation/355881/dell-technologies-launches-new-hpc-systems-to-boost?amp",
+      "publishedDateTime": "2020-06-02T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-introducing-amazon-sagemaker-components-for-kubeflow-pipelines.md",
+      "title": "Introducing Amazon SageMaker Components for Kubeflow Pipelines",
+      "excerpt": "Today we’re announcing Amazon SageMaker Components for Kubeflow Pipelines. This post shows how to build your first Kubeflow pipeline with Amazon SageMaker components using the Kubeflow Pipelines SDK. \nKubeflow is a popular open-source machine learning (ML) toolkit for Kubernetes users who want to build",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-components-for-kubeflow-pipelines/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/01/sagemaker-kubeflow-pipelines-006.jpg",
+          "width": 1000,
+          "height": 578,
+          "title": "Introducing Amazon SageMaker Components for Kubeflow Pipelines",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-02T08:00:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai.md",
+      "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
+      "excerpt": "Volkswagen AG has closed on its $2.6 billion investment in Argo AI, the Pittsburgh-based autonomous vehicle startup announced in a blog post Tuesday.",
+      "webUrl": "https://www.cnbc.com/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106016157-1562936612118img_2062.jpg?v=1562936715",
+          "width": 3758,
+          "height": 2504,
+          "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html",
+      "publishedDateTime": "2020-06-02T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-new-computer-chips-could-power-ai-to-next-level.md",
+      "title": "New Computer Chips Could Power AI to Next Level",
+      "excerpt": "A generation of computing chips designed specifically for artificial intelligence could enable a host of new applications for the technology.",
+      "webUrl": "https://www.wsj.com/articles/new-computer-chips-could-power-ai-to-next-level-11591090202",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-192303/social",
+          "width": 1280,
+          "height": 640,
+          "title": "New Computer Chips Could Power AI to Next Level",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-02T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-locus-robotics-raises-40-million-to-take-its-warehouse-robots-global.md",
+      "title": "Locus Robotics raises $40 million to take its warehouse robots global",
+      "excerpt": "Locus Robotics, a developer and provider of autonomous mobile warehouse robots, has raised $40 million in venture capital.",
+      "webUrl": "https://venturebeat.com/2020/06/02/locus-robotics-raises-40-million-to-take-its-warehouse-robots-global/",
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/robotline-e1591072433620.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Locus Robotics raises $40 million to take its warehouse robots global",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/02/locus-robotics-raises-40-million-to-take-its-warehouse-robots-global/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/02/locus-robotics-raises-40-million-to-take-its-warehouse-robots-global/amp/",
+      "publishedDateTime": "2020-06-02T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-quantifying-defence-cascade-responses-as-indicators-of-pig-affect-and-welfare-using-computer-vision-methods.md",
+      "title": "Quantifying defence cascade responses as indicators of pig affect and welfare using computer vision methods",
+      "excerpt": "Here we evaluate whether DC responses can be quantified in pigs using computer vision. 280 video clips of induced DC responses made by 12 pigs were analysed by eye to provide ‘ground truth ...",
+      "webUrl": "https://www.nature.com/articles/s41598-020-65954-6",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-65954-6/MediaObjects/41598_2020_65954_Fig1_HTML.png",
+          "width": 685,
+          "height": 384,
+          "title": "Quantifying defence cascade responses as indicators of pig affect and welfare using computer vision methods",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-02T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-finding-the-right-business-insurance-can-be-hard-but-this-tech-startup-makes-it-easy.md",
+      "title": "Finding the Right Business Insurance Can Be Hard, but This Tech Startup Makes It Easy",
+      "excerpt": "Get a free quote from CoverWallet and find the right business insurance at the right price. Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them,",
+      "webUrl": "https://www.entrepreneur.com/article/351187",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1590631973-CoverWalletContractorsImagebyJensBehrmannviaUnsplash.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Finding the Right Business Insurance Can Be Hard, but This Tech Startup Makes It Easy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351187",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351187",
+      "publishedDateTime": "2020-06-02T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation.md",
+      "title": "AI System – Using Neural Networks With Deep Learning – Beats Stock Market in Simulation",
+      "excerpt": "Researchers in Italy have melded the emerging science of convolutional neural networks (CNNs) with deep learning — a discipline within artificial intelligence — to achieve a system of market forecasti",
+      "webUrl": "https://scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/",
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/AI-Stock-Market-Concept-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": "AI System – Using Neural Networks With Deep Learning – Beats Stock Market in Simulation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/amp/",
+      "publishedDateTime": "2020-06-02T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-should-you-be-worried-about-cameras-in-robot-vacuums.md",
       "title": "Should you be worried about cameras in robot vacuums?",
       "excerpt": "Robot vacuums can now map your rooms, and some even have cameras. Is this a privacy problem? We break down what to look for and the safeguards robot vacs take.",
@@ -873,421 +1322,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion.md",
-      "title": "Dell Technologies rolls out systems for HPC, AI workloads leveraging VMware's Bitfusion",
-      "excerpt": "Dell Technologies is betting that integrated systems, more efficient use of GPUs and the ability run AI workloads within VMware environments will boost AI workloads.",
-      "webUrl": "https://www.zdnet.com/article/dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion/",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/01/70365cd0-7896-4a02-985b-bdfdbbbea237/thumbnail/1200x675/83cf40e99e504bc6e8d235804e333990/dell-gpu-ai-bitfushion.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Dell Technologies rolls out systems for HPC, AI workloads leveraging VMware's Bitfusion",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion/",
-      "publishedDateTime": "2020-06-01T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-covid-19-impact-on-artificial-intelligence-as-a-service-market.md",
-      "title": "COVID-19 Impact on Artificial Intelligence as a Service Market",
-      "excerpt": "AWS, IBM, Microsoft Co, Google, SAP, Salesforce, Baidu, Intel Co, Fair Isaac Co, BigML, and others are among the major players in the global Artificial Intelligence as a Service market.",
-      "webUrl": "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-as-a-service-market-2020-06-02",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "COVID-19 Impact on Artificial Intelligence as a Service Market",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-01T20:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-the-therapy-apps-trying-to-help-you-deal-while-youre-on-the-nhs-waiting-list.md",
-      "title": "The Therapy Apps Trying To Help You Deal While You’re On The NHS Waiting List",
-      "excerpt": "Mental health problems are on the rise, with some people in the UK having to wait for up to two years to receive therapeutic treatment. With many being forced to take matters into their own hands ...",
-      "webUrl": "https://www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.r29static.com/bin/entry/696/0,1727,3544,1861/x,80/1868918/image.jpg",
-          "width": 3544,
-          "height": 1861,
-          "title": "The Therapy Apps Trying To Help You Deal While You’re On The NHS Waiting List",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence",
-      "cdnAmpWebUrl": "https://www-refinery29-com.cdn.ampproject.org/c/s/www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence",
-      "publishedDateTime": "2020-06-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Refinery29",
-        "domain": "refinery29.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-vw-completes-26b-self-driving-deal-connected-with-ford.md",
-      "title": "VW completes $2.6B self-driving deal connected with Ford",
-      "excerpt": "VW completes $2.6B self-driving deal connected with Ford Volkswagen and Ford are working with Pittsburgh-based startup Argo AI to develop self-driving technology. Check out this story on Freep.com ...",
-      "webUrl": "https://www.freep.com/story/money/cars/ford/2020/06/02/vw-ford-argo-selfdriving/5315520002/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/06/12/PDTF/9c0d49d4-499c-4d91-8eed-28a00084604d-Ford_Argo_AV_in_Detroit_1.jpg?auto=webp&crop=5999,3374,x1,y267&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "VW completes $2.6B self-driving deal connected with Ford",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/5315520002",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5315520002",
-      "publishedDateTime": "2020-06-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week.md",
-      "title": "Breaking: AI startup Stitch Fix to conduct massive layoffs starting this week",
-      "excerpt": "AI startup Stitch Fix, a company that uses algorithms and computer vision to help consumers find clothes they like, is apparently taking a bold approach to company expansion: it’s “significantly reducing” the number of employees it has so that it can hire people in other states.",
-      "webUrl": "https://thenextweb.com/neural/2020/06/01/breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/layoffs-796x402.jpg",
-          "width": 796,
-          "height": 402,
-          "title": "Breaking: AI startup Stitch Fix to conduct massive layoffs starting this week",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/01/breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/01/breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week/amp/",
-      "publishedDateTime": "2020-06-01T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments.md",
-      "title": "AI tools could improve fake news detection by analyzing users’ interactions and comments",
-      "excerpt": "Researchers at Microsoft and Arizona State University propose in a paper a method of detecting fake news using a technique called weak supervision.",
-      "webUrl": "https://venturebeat.com/2020/06/01/ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments/",
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/fake_news.shutterstock_559003162-e1582064474697.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI tools could improve fake news detection by analyzing users’ interactions and comments",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/01/ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/01/ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments/amp/",
-      "publishedDateTime": "2020-06-01T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-the-best-computer-reading-glasses-to-help-reduce-eye-strain.md",
-      "title": "The best computer reading glasses to help reduce eye strain",
-      "excerpt": "These Truvision Readers may not be prescription, but their anti-reflective coating and blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to go to an eye doctor. If you are already suffering from Presbyopia, these computer reading glasses can also assist with blurred vision caused by too ...",
-      "webUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?itm_source=15&itm_content=2x2&itm_term=2377055",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
-      "publishedDateTime": "2020-06-01T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us.md",
-      "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
-      "excerpt": "Predicting wildfires is a tricky business. A new artificial intelligence model could help fire agencies allocate resources to mitigate wildfire risks across the West.",
-      "webUrl": "https://www.techrepublic.com/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/01/b9176e1d-1077-48f8-8817-349aa8ebe44a/resize/1200x/5e79b0a17d7fead9c196dc9e6025c51f/wildfire.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
-      "publishedDateTime": "2020-06-01T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-7-ai-stocks-that-are-looking-to-the-future.md",
-      "title": "7 AI Stocks That Are Looking to the Future",
-      "excerpt": "The interesting thing is that until about 10 years ago or so, AI was mostly a backwater. Let’s face it, investors were more interested in areas like cloud computing. But there would emerge some major catalysts that would make AI a must-have.",
-      "webUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "7 AI Stocks That Are Looking to the Future",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/amp/",
-      "publishedDateTime": "2020-06-01T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure.md",
-      "title": "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure",
-      "excerpt": "WANdisco, the LiveData company, today announced the limited public preview availability of WANdisco LiveData Platform for Azure, a new service offering available on Microsoft Azure exclusively. The WANdisco LiveData Platform features the company’s patented consensus engine which ensures data consistency,",
-      "webUrl": "https://www.newswiretoday.com/news/172992/WANdisco-Releases-LiveData-Platform-for-Petabyte-Scale-Cloud-Migration-to-Microsoft-Azure/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-01T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

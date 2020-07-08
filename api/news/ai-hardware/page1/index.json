@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-08-nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud.md",
+      "title": "Nvidia’s next-generation Ampere A100 GPU available on Google Cloud",
+      "excerpt": "Nvidia and Google has revealed a partnership to offer the Accelerator-Optimized VM (A2) instance family powered by Nvidia’s A100 compute GPU. The new A2 VM instance family is ai",
+      "webUrl": "https://www.techradar.com/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/AzdGbHQuxxjaV5SmcG5ygb-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Nvidia’s next-generation Ampere A100 GPU available on Google Cloud",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
+      "publishedDateTime": "2020-07-08T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost.md",
+      "title": "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost",
+      "excerpt": "This means that we’re looking at a boost of 10% in CPU and GPU. Apart from just an increase in clock speeds ... same DSP along with Quick Charge 4.0+ with AI control. To recall, the X55 modem brings 5G connectivity with the support of sub-6Ghz and ...",
+      "webUrl": "https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2020/07/ezgif.com-webp-to-jpg-1.jpg",
+          "width": 920,
+          "height": 613,
+          "title": "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/amp/",
+      "publishedDateTime": "2020-07-08T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-qualcomms-new-snapdragon-865-plus-is-its-most-powerful-mobile-chip-designed-for-gaming.md",
       "title": "Qualcomm’s new Snapdragon 865 Plus is its most powerful mobile chip, designed for gaming",
       "excerpt": "There are three key improvements of the Snapdragon 865 Plus from the stock standard 865: The Kryo 585 CPU has had its clock speed boosted up to a maximum of 3.1GHz, which is 10 percent higher than the standard 865 Newly added compatibility for Qualcomm’s FastConnect 6900 connectivity suite,",
@@ -29,44 +114,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements.md",
-      "title": "Qualcomm unveils the Snapdragon 865 Plus with GPU, CPU speed improvements",
-      "excerpt": "Qualcomm said speeds on the CPU Prime core have increased 10%, while graphics rendering on the Adreno 650 GPU are also 10% faster than the previous generation.",
-      "webUrl": "https://www.zdnet.com/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
-      "publishedDateTime": "2020-07-08T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -221,35 +268,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-07-google-teams-with-nvidia-on-new-cloud-computing-offerings.md",
-      "title": "Google Teams With NVIDIA on New Cloud Computing Offerings",
-      "excerpt": "NVIDIA (NASDAQ: NVDA) announced on Tuesday that just weeks after its release, the A100 Tensor Core graphics processing unit (GPU) has been adopted by Google Cloud, a division of Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG).",
-      "webUrl": "https://www.nasdaq.com/articles/google-teams-with-nvidia-on-new-cloud-computing-offerings-2020-07-07",
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/google-teams-with-nvidia-on-new-cloud-computing-offerings-2020-07-07?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/google-teams-with-nvidia-on-new-cloud-computing-offerings-2020-07-07?amp",
-      "publishedDateTime": "2020-07-07T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-07-xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips.md",
       "title": "Xmems’ Montara replaces wire-coil earbud speakers with tiny audio chips",
       "excerpt": "Xmems is unveiling Montara, which the company believes will bring high-quality audio, reliability, and better costs for headphone earbuds.",
@@ -386,7 +404,7 @@
       "title": "TSMC may commercialize InFO_SoW for supercomputer AI chips in two years",
       "excerpt": "TSMC, after launching 3D SoIC backend service, has also developed InFO_SoW (system-on-wafer) technology mainly for processing supercomputing AI chips and is expected to enter commercial production with the InFO-derived process within two years,",
       "webUrl": "https://www.digitimes.com/news/a20200706PD207.html",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -615,7 +633,7 @@
       "path": "_news/2020-06-29-cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise.md",
       "title": "cnvrg.io Collaborates With Red Hat to Deliver an Accelerated Production ML Workflow With MLOps on Red Hat OpenShift for the AI Enterprise",
       "excerpt": "PRNewswire/ -- cnvrg.io, the data science platform simplifying model management and introducing advanced MLOps to the industry, today announced",
-      "webUrl": "https://www.prnewswire.com/il/news-releases/cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise-301084968.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise-301084968.html",
       "heat": null,
       "tags": null,
       "images": [
@@ -631,7 +649,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T13:00:00-07:00",
+      "publishedDateTime": "2020-06-29T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",

@@ -2,6 +2,458 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-06-16-ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed.md",
+      "title": "AI is tracking down the UK’s biggest foe: Japanese knotweed",
+      "excerpt": "Scientists are using AI to find invasive species of plants, including the scourge of British homes and gardens: Japanese knotweed.",
+      "webUrl": "https://thenextweb.com/neural/2020/06/16/ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-75-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI is tracking down the UK’s biggest foe: Japanese knotweed",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/16/ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/16/ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed/amp/",
+      "publishedDateTime": "2020-06-16T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery.md",
+      "title": "Zycada raises $19 million for AI that speeds up web content delivery",
+      "excerpt": "Zycada, a startup developing AI technologies that speed up web content delivery, has raised $19 million in venture capital.",
+      "webUrl": "https://venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/",
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/0ae55f70-49ef-4207-8d57-61ed74ec5475-e1591732013768.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Zycada raises $19 million for AI that speeds up web content delivery",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/amp/",
+      "publishedDateTime": "2020-06-16T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding.md",
+      "title": "Streamlit wants to revolutionize building machine learning and data science applications, scores $21 million Series A funding",
+      "excerpt": "Streamlit wants to be for data science what business intelligence tools have been for databases: a quick way to get to results, without bothering much with the details",
+      "webUrl": "https://www.zdnet.com/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2018/12/06/7678c1af-8c33-4979-b8e0-aee879e3a982/istock-933321056.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": "Streamlit wants to revolutionize building machine learning and data science applications, scores $21 million Series A funding",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
+      "publishedDateTime": "2020-06-16T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses.md",
+      "title": "Kickstart a lucrative career: Become an expert in big data and machine learning with these 10 courses",
+      "excerpt": "Getting in on an innovative and lucrative career path before the job market is saturated is incredibly difficult. That's been true in podcasting, tech, and many other fields. Do yourself a solid and develop an expertise in big data and machine learning starting today,",
+      "webUrl": "https://www.zdnet.com/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/06/05/bf5a3452-5b7d-4ca4-9694-3c4b6dc6e0f3/thumbnail/1200x675/244b6f31cf693537b84714e0a47a396e/zdnet-big-data.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Kickstart a lucrative career: Become an expert in big data and machine learning with these 10 courses",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
+      "publishedDateTime": "2020-06-16T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-the-coronavirus-fueled-tech-trends-that-will-continue-to-dominate-daily-life.md",
+      "title": "The coronavirus-fueled tech trends that will continue to dominate daily life",
+      "excerpt": "Machine learning and artificial intelligence underlie ... The pandemic also accelerated the adoption of disruptive trends in financial services, epitomized by Stripe at the top of the 2020 ...",
+      "webUrl": "https://www.cnbc.com/2020/06/16/the-coronavirus-fueled-tech-trends-that-will-continue-to-dominate.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106539260-1589552521050gettyimages-597273317.jpeg?v=1589552560",
+          "width": 5130,
+          "height": 3420,
+          "title": "The coronavirus-fueled tech trends that will continue to dominate daily life",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/16/the-coronavirus-fueled-tech-trends-that-will-continue-to-dominate.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/16/the-coronavirus-fueled-tech-trends-that-will-continue-to-dominate.html",
+      "publishedDateTime": "2020-06-16T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-neoml-open-source-library-for-building-training-and-deploying-machine-learning-models.md",
+      "title": "NeoML: Open source library for building, training, and deploying machine learning models",
+      "excerpt": "NeoML is an open source library for building, training, and deploying machine learning models. It supports deep learning and traditional ML algorithms.",
+      "webUrl": "https://www.helpnetsecurity.com/2020/06/16/neoml-open-source-library/",
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.helpnetsecurity.com/posts2020/NeoML.png",
+          "width": 750,
+          "height": 257,
+          "title": "NeoML: Open source library for building, training, and deploying machine learning models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-16T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Help Net Security",
+        "domain": "helpnetsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing.md",
+      "title": "From Computer Vision To Deep Learning: How AI Is Augmenting Manufacturing",
+      "excerpt": "While machine vision has been around for more than 60 years, the recent surge in the popularity of deep learning has elevated this sometimes misunderstood technology to the attention of major ...",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/amp/",
+      "publishedDateTime": "2020-06-16T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-working-with-the-azure-kinect-developer-kit.md",
+      "title": "Working with the Azure Kinect Developer Kit",
+      "excerpt": "Azure Kinect is a direct descendent of the second-generation Kinect modules that shipped with the Xbox One, but instead of providing real-world inputs for gaming, it’s targeted at enterprise users and applications.",
+      "webUrl": "https://www.infoworld.com/article/3562738/working-with-the-azure-kinect-developer-kit.html",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/02/azure-kinect-100789304-large.jpg",
+          "width": 1200,
+          "height": 658,
+          "title": "Working with the Azure Kinect Developer Kit",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3562738/working-with-the-azure-kinect-developer-kit.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3562738/working-with-the-azure-kinect-developer-kit.amp.html",
+      "publishedDateTime": "2020-06-16T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-apprentice-raises-75-million-to-expedite-lab-work-with-ai-and-ar.md",
+      "title": "Apprentice raises $7.5 million to expedite lab work with AI and AR",
+      "excerpt": "Apprentice, a startup developing AI and augmented reality technologies tailored to life sciences customers, raised $7.5 million in venture capital.",
+      "webUrl": "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/",
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/apprentice.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "Apprentice raises $7.5 million to expedite lab work with AI and AR",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/amp/",
+      "publishedDateTime": "2020-06-16T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-ai-manufacturing-startup-drishti-raises-25-million-to-go-global-with-its-factory-floor-analytics.md",
+      "title": "AI Manufacturing Startup Drishti Raises $25 Million To Go Global With Its Factory Floor Analytics",
+      "excerpt": "The four-year old startup has already brought on big-name customers including Ford, Nissan and Denso, while Toyota is piloting its technology.",
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/06/15/ai-manufacturing-startup-drishti-raises-25-million-series-b/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee8034e57b2dd00077e9472%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2297%26cropY1%3D0%26cropY2%3D1531",
+          "width": 1199,
+          "height": 800,
+          "title": "AI Manufacturing Startup Drishti Raises $25 Million To Go Global With Its Factory Floor Analytics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/06/15/ai-manufacturing-startup-drishti-raises-25-million-series-b/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/06/15/ai-manufacturing-startup-drishti-raises-25-million-series-b/amp/",
+      "publishedDateTime": "2020-06-16T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-mark-cuban-on-race-robotics-and-why-now-is-a-great-time-to-start-a-business.md",
       "title": "Mark Cuban on race, robotics and why now is a great time to start a business",
       "excerpt": "Billionaire entrepreneur, Shark Tank regular and Dallas Mavericks owner Mark Cuban has never been shy about saying what was on his mind. Recently he sat down with Jordan Harbinger, host of the The Show podcast and a Newsweek contributor,",
@@ -871,441 +1323,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study.md",
-      "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
-      "excerpt": "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday.",
-      "webUrl": "https://in.reuters.com/article/autos-self-driving-idINKBN23B2QM",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN23B2QM",
-      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN23B2QM",
-      "publishedDateTime": "2020-06-15T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-delivering-real-time-racing-analytics-using-machine-learning.md",
-      "title": "Delivering real-time racing analytics using machine learning",
-      "excerpt": "AWS DeepRacer is a fun and easy way for developers with no prior experience to get started with machine learning (ML). At the end of the 2019 season, the AWS DeepRacer League engaged the Amazon ML Solutions Lab to develop a new sports analytics feature for the AWS DeepRacer Championship Cup at re:Invent",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/delivering-real-time-racing-analytics-using-machine-learning/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/09/deepracer-analytics-2.png",
-          "width": 576,
-          "height": 289,
-          "title": "Delivering real-time racing analytics using machine learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T09:48:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-facebook-research-reveals-ai-tools-for-improving-online-clothes-shopping.md",
-      "title": "Facebook research reveals AI tools for improving online clothes shopping",
-      "excerpt": "A trio of Facebook papers show that the company continues to make progress toward an AI fashion assistant for its billions of users.",
-      "webUrl": "https://venturebeat.com/2020/06/15/facebook-ai-ecommerce-cvpr-2020/",
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook research reveals AI tools for improving online clothes shopping",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/15/facebook-ai-ecommerce-cvpr-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/15/facebook-ai-ecommerce-cvpr-2020/amp/",
-      "publishedDateTime": "2020-06-15T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-intel-proposes-hardware-solutions-to-ai-challenges.md",
-      "title": "Intel proposes hardware solutions to AI challenges",
-      "excerpt": "Intel researchers propose new hardware approaches to AI challenges in a series of papers presented at the Symposia on VLSI Technology and Circuits.",
-      "webUrl": "https://venturebeat.com/2020/06/15/intel-proposes-hardware-solutions-to-ai-challenges/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/intel-logo-e1578358513137.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Intel proposes hardware solutions to AI challenges",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/15/intel-proposes-hardware-solutions-to-ai-challenges/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/15/intel-proposes-hardware-solutions-to-ai-challenges/amp/",
-      "publishedDateTime": "2020-06-15T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-how-the-trevor-project-is-using-ai-to-help-prevent-suicide.md",
-      "title": "How The Trevor Project is using AI to help prevent suicide",
-      "excerpt": "Suicide disproportionately affects LGBTQ+ youth. In the U.S. alone, more than 1.8 million LGBTQ+ youth between the ages of 13 and 24 seriously consider suicide or experience a significant crisis each year. Additionally, LGBTQ+ youth are over four times more likely to attempt suicide than their peers,",
-      "webUrl": "https://www.blog.google/outreach-initiatives/google-org/trevor-project/",
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Instagram-3O5A2895_rUpf6kg.max-1200x1200.png",
-          "width": 1200,
-          "height": 800,
-          "title": "How The Trevor Project is using AI to help prevent suicide",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/trevor-project/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/trevor-project/amp/",
-      "publishedDateTime": "2020-06-15T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-deep-learning-networks-track-up-to-100-animals-simultaneously.md",
-      "title": "Deep learning networks track up to 100 animals simultaneously",
-      "excerpt": "The trajectories described by this data were used to train a deep interaction network (bit.ly/VSD-DIN), a deep learning model that reasons how objects in complex systems interact, to support dynamic predictions and inferences about the abstract properties ...",
-      "webUrl": "https://www.vision-systems.com/boards-software/article/14176167/deep-learning-networks-track-up-to-100-animals-simultaneously",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vision Systems Design",
-        "domain": "vision-systems.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-perfectly-imperfect-coping-with-the-flaws-of-artificial-intelligence-ai.md",
-      "title": "Perfectly Imperfect: Coping With The ‘Flaws’ Of Artificial Intelligence (AI)",
-      "excerpt": "Is artificial intelligence (AI) perfect? What would be consider for them to be \"good enough?\" To be acceptable for people, AI has three big challenges to overcome: implicit bias, poor data, and human expectation.",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/15/perfectly-imperfect-coping-with-the-flaws-of-artificial-intelligence-ai/",
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee5934b3ff0e90006e3ccf6%2F0x0.jpg",
-          "width": 1199,
-          "height": 684,
-          "title": "Perfectly Imperfect: Coping With The ‘Flaws’ Of Artificial Intelligence (AI)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/15/perfectly-imperfect-coping-with-the-flaws-of-artificial-intelligence-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/15/perfectly-imperfect-coping-with-the-flaws-of-artificial-intelligence-ai/amp/",
-      "publishedDateTime": "2020-06-15T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-deep-learning-incorporating-biologically-inspired-neural-dynamics-and-in-memory-computing.md",
-      "title": "Deep learning incorporating biologically inspired neural dynamics and in-memory computing",
-      "excerpt": "Spiking neural networks and in-memory computing are both promising routes towards energy-efficient hardware for deep learning. Woźniak et al. incorporate the biologically inspired dynamics of spiking neurons into conventional recurrent neural network units and in-memory computing,",
-      "webUrl": "https://www.nature.com/articles/s42256-020-0187-0",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs42256-020-0187-0/MediaObjects/42256_2020_187_Fig3_HTML.png",
-          "width": 312,
-          "height": 243,
-          "title": "Deep learning incorporating biologically inspired neural dynamics and in-memory computing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-microsoft-azure-becomes-sass-preferred-cloud-platform.md",
-      "title": "Microsoft Azure becomes SAS’s preferred cloud platform",
-      "excerpt": "SAS goes all in on Azure as both conclude a strategic partnership covering go to market and product development. SAS analytics capabilities could be integrated across the Azure portfolio to provide an additional option for model lifecycle management.",
-      "webUrl": "https://www.zdnet.com/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/12/cf920af9-289e-4b20-a13f-7556c4eb24c5/enterra-solutions-ml-cloud.png",
-          "width": 1125,
-          "height": 1125,
-          "title": "Microsoft Azure becomes SAS’s preferred cloud platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
-      "publishedDateTime": "2020-06-15T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-measuring-the-benefit-of-deep-learning-for-the-games-industry.md",
-      "title": "Measuring the benefit of deep learning for the games industry",
-      "excerpt": "The following blog post, unless otherwise noted, was written by a member of Gamasutra’s community. The thoughts and opinions expressed are those of the writer and not Gamasutra or its parent ...",
-      "webUrl": "https://www.gamasutra.com/blogs/ShaneMcAndrew/20200615/364612/Measuring_the_benefit_of_deep_learning_for_the_games_industry.php",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh5.googleusercontent.com/51HvOoh1tioFNt8T7iTXatuQPJiOfSgUQPIdHt_IQsoA9ZfkxFNlz1Xns7qgr6xyFx-WP6rOOKUIbPy9b9dQd7FFnZga9EqsC-tPMNY_CsqH8eDfxTfs2PU8JsHPk2gqvfQUIsMW",
-          "width": 720,
-          "height": 405,
-          "title": "Measuring the benefit of deep learning for the games industry",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gamasutra",
-        "domain": "gamasutra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
