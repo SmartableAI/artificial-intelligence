@@ -41,6 +41,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "2021 Lexus LS gets a facelift and self-driving tech"
+    excerpt: "On the outside there are some small subtle styling changes, plus the updated 2021 Lexus LS also gets new self-driving tech."
+    publishedDateTime: 2020-07-07T13:18:00Z
+    webUrl: "https://www.thetorquereport.com/lexus/2021-lexus-ls-gets-a-facelift-and-self-driving-tech/"
+    type: article
+    provider:
+      name: The Torque Report
+      domain: thetorquereport.com
+    quality: 24
+    images:
+      - url: "https://www.thetorquereport.com/wp-content/uploads/2020/07/20200707_02_07_s.jpeg"
+        width: 1580
+        height: 716
+        isCached: true
 
 secured: "X7Bd7xmzFwsXI1Pz/+rrgrZodZdDSN5MFQ3vEU5kEOY6Tb0JHrGoGVxShz5AWB30I4Br/bS5OommQEWZTrPwLhsOlfsaVcuCFgKg9ux8LM+wFdT+GyYjriA76Ga4b+c1Hb1ugPDApG1FEZazh/UBPcQxbPyxY2kPtyuWHgz549g0ohf7hFPgI8awyn4jd2i7lif483daaeBfQmL7jlzCij/ijHr0PgZyZ8dXhM8uzCTr8MthNBbM5V/2T1qgG42utNeTpHoAbwG36fO/u6bBU6pSRKXW59nBK2kSBJ69xSZWTeER1IMHeEBz4lEF8/JizM+Ei/bgnMWsG0pw79xt4tg6asNDGZVdzxwWaEAJXSNrBUUVKHuDpOb5it6WGMjWFCYyEnUfRXiQywguHO76/Rml5oC4hz/PlTKbQXZkrLycSsJIDcDWyehdF0Pu2xsHvmvCDiVTp6hz5JS/gUZJLUjlpldqOmhN8n6lVeFgdS1dYtgQcrDDLiw41al7xK4raxNlKQpiAdt0Mx0WK2eWzQ==;zFEGZth1NcjzhxRfeekaKQ=="
 ---

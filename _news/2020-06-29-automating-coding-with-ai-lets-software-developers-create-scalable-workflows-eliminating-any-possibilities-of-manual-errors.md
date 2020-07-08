@@ -16,6 +16,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/06/5-AI.png"

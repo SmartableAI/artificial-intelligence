@@ -25,33 +25,33 @@ images:
     title: "Nvidia’s latest A100 GPU debuts on Google Cloud"
 
 related:
-  - title: "Google and Nvidia Take Cloud AI Performance to the Next Level"
-    excerpt: "Google Cloud and Nvidia said Tuesday that Google would be the first cloud provider to offer Nvidia’s latest GPU for machine learning as a service. The Nvidia A100 Tensor Core GPU, based on the chipmaker’s new Ampere architecture,"
-    publishedDateTime: 2020-07-07T16:34:00Z
-    webUrl: "https://www.datacenterknowledge.com/machine-learning/google-and-nvidia-take-cloud-ai-performance-next-level"
+  - title: "Google Cloud Debuts 16-GPU Ampere A100 Instances"
+    excerpt: "Each GPU can be partitioned into seven distinct GPUs, owing to Ampere’s multi-instance group (MIG) capability. Customers with the most demanding AI workloads will be able to access the full 16-GPU instance, which offers a total of 640GB of GPU memory and ..."
+    publishedDateTime: 2020-07-07T16:43:00Z
+    webUrl: "https://www.hpcwire.com/2020/07/07/google-cloud-debuts-ampere-a2-family/"
     type: article
     provider:
-      name: Data Center Knowledge
-      domain: datacenterknowledge.com
-    quality: 41
-    images:
-      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/nvidia%20a100%20ampere%20gpu.jpg"
-        width: 2000
-        height: 1700
-        isCached: true
-  - title: "Google Cloud Gets New AI Smarts With Nvidia A100 Instance"
-    excerpt: "based chipmaker revealed the A100 and its 7-nanometer Ampere GPU architecture, which it said will \"revolutionize\" AI by unifying training and inference into one architecture that can outperform Nvidia's V100 and T4 GPUs several times over. \"Google Cloud ..."
-    publishedDateTime: 2020-07-07T16:28:00Z
-    webUrl: "https://www.crn.com/news/cloud/google-cloud-gets-new-ai-smarts-with-nvidia-a100-instance"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
+      name: HPCwire
+      domain: hpcwire.com
     quality: 39
     images:
-      - url: "https://www.crn.com/resources/025f-0fd4d7399370-201d85f07f1c-1000/google-cloud-next-intro_002_.jpg"
-        width: 609
-        height: 456
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/Nvdia-A100-HGX-board-May-2020-800x.jpg"
+        width: 800
+        height: 410
+        isCached: true
+  - title: "Google Unveils 1st Public Cloud VMs using Nvidia Ampere A100 Tensor GPUs"
+    excerpt: "Google today introduced the Accelerator-Optimized VM (A2) instance family on Google Compute Engine based on the NVIDIA Ampere A100 Tensor Core GPU, launched in mid-May. Available in alpha and with up to 16 GPUs,"
+    publishedDateTime: 2020-07-07T21:39:00Z
+    webUrl: "https://insidehpc.com/2020/07/google-unveils-1st-public-cloud-vms-using-nvidia-ampere-a100-tensor-gpus/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 38
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/07/Google-Cloud-logo-0720.png"
+        width: 367
+        height: 250
         isCached: true
 
 secured: "KpEvAA7DsWYNGP2Yo/bztCnD4godi/cwk5G25Wu2RZxMx2xIgYGwl48e0fXN9EQBu2pNSao/hI3/AY8mK7slCEGzGTpk7V75YyjSsSaCIiqFxg8nGk1ASG4rTzPWuoDmsahbzC7EfFWszEokZH5GIdmUMFVYI/iZTIThv1wWzoGQ8jcDd7ysQj7mxmoBPIjOnZewDMc4Zp6CXEB9WXjbzTcngvmtFlcfwwg2U3DgWPYrYQ4J9StHO9CMO3egmuBKFfYb0qfGi027f2rcJd2HI6jI5B3f9tCiksgjXnfypdmgKCTMEEFZrUlvVneOb/Mgws0ZrFvETDyw2qnpcKOdB5TdACz7fSirmfKTZE7ND54BR9SceiJ7Xp0qHicokDZcm4UGoNaZMxsvSZPtTzlTOco95nJJwxlhJDD168CHRx/wTXkd5exPmNilfWiNw4PDjxPm7mws8Q1lGcZy2LU+Vcs7iJ/w/ICV4bxDCBSBz61qUo2OLuQbhpOuGBELq0hgqigqHoTBWmmSa8PFp4P1+A==;aWmo9bvdDgB9q4h4DkeLvg=="

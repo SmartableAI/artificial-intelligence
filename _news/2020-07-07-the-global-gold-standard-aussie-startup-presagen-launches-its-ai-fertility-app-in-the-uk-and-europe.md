@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "“The global gold standard”: Aussie startup Presagen launches its AI fertility app in the UK and Europe"
 
-secured: "FIN2jgPyCVXbCDCJKso6dkEOZS2YUOn+R1ZwXCBC9cWUnwDT7eT3Zz3sXOUzuP9ysiGCxYr42KNiQOGH9VdvKXlf8vFovWZn6fQiyOF0OYcA6Ybt4EZMnaLCUkjwIhT5K9UyltA5f+aQuNlV9Ug75q/+sbjbjqW36j+TVUeZf+Gd8GVDGHWEVPAv4z1w8YgtMfzlq02SNKWqAWPw5mcE+opAvgZ5c/INhwGRtnfe05eznhD/m7Ql90FraoWq+Nk9ilfOp1bXAnh+89e2INsmJa61TjgrAYQq1pW3FByAt+M+jHccMbmx0aVix0JK8mPYPKlZo4uNDVwGJKCFQ73oGA==;HV9C9I/HdJFcr16+ZBTcCA=="
+secured: "OoYr+XtccmcUPi68B+nZAkmFzPBbFyFCc5UaYMYulLGQ7BXnDJRVSiXXZgEmp0Y8XkxKYB0I69RO/IvTrzj2lpJnaSvQvTjXZJqo4h+t+9/S40mRzQqx8C87hDefNSIXiHE+gjp5U3yy0qvZPNsFs61ClVhPEFmWpQjIcEqF9jhyOXTrTQ8mHX65ouiQqfHAdppMYXMQ0PQhboCCTpTb/7ch1dvSJ0f8wca6i+Ef+neTeaGcx11vJFseM3MbSVywprmZy/+qmFDuz2WHMeVTcUmJ6lhrtP2oo/BcMY71RQhwiNSC/b71qWCfNb+9YhGrbFldk4wyaeK+xsHtgK5JzhFslyAJB0IaqEuoET7gM0ghdVHxW8OL7RfP7/4SeOZauTcFE5sC+5Fm8aL462uSWZtEBwwmr244OwK/biAubpht565lBGcl0/Ji2isIWgbK9wd9E7Xf9iITvg9pOE7PygOBeELdWZS3Gtd+c1+8UoTj4jELb9l4LquAnB46ND969Fv6zVCr8SbncrRxCL/a8Q==;tVkP3Juzbj9/S5lh9U7rqw=="
 ---
 

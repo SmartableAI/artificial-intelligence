@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "MonkeyLearn raises $2.2M to build out its no-code AI text analysis service"
 
-secured: "l/SQeigwvqO8nkfR3ZkX0BqUZfVMtY/7la3uzzYHHPdtIcxL4qaj+MeH0N/lW+KIz8RHjMTbQ4UlvwOu3dQmPBuEmf1BG/N7uYS29tfhx7yBAoIMoAGthGIaOGFXNLC0r33koTNzuT3y5gTDbCchewfzx2jwXeKLmhs09PtSt51Rdnrh2E8FakSHkHOQ2FWuVGqh/5JazOznatPL64vdy2QNE2ImX4LnCfZhMq86FVix/9Wy1tj+7QgXVTS3LNlaTK7Tgtgkv/deBb558M9xWkKEk+tZJCbG1ZjsHiKbclky61dv5tXUT/DCJkK9QmT+prr5h46L+vt9Buo2qtnmOA==;bDti30cYnvOUYPBgTbnVsQ=="
+secured: "LCEF5F+s96plp/3GXvfvyfVGqkoLTPJx6GKtdWjDNLrOCsgjRWMDOzE/sSMlzfh5zBIUSg7lQ2UQh383t1HBsRfwLiiDHo3hNB8iNl1ry1B1d38P9z2Nh7maZHwfJD0wdYqAeGdHM7+oqssS+e74jW/0lScbsU4+a8VAXgO0AV2024LiC4R5Qio5OwliuMdhwoK6SI0kQ9SgfIRiWJyHPSPK3pwMvz62lW6uC50aSCj/VhD/8qjqj93++/T2T01uuuwLiL+QGFwDVAOxofTGG8PhbLCqsucDFGP6/BTOBo88qIUli4bF/9Rr0Wq8VHSBMC2EFZ1fQvT0QevE2Ul8prAVFs80iyX0K0t5JZ3umGGGqxrm8ZHlk3rWU+cLVhu1LdwOee1Tvll6X946d35x5X4nXkpAAATPeL362eC1DR9r3ML+NKg9Xb77AN+V40vSD+BgKXq8fL90if4euPDsPyihnyeWK/OANnA4K/6mDdhJLjRC7DY2/sfdSktjH4i6;i7vRkffSbPkVmIlNPcW+VQ=="
 ---
 

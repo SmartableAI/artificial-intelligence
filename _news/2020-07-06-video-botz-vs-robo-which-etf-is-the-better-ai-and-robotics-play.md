@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-06T20:09:00Z
 webUrl: "https://www.fa-mag.com/news/video---etf-battles--botz-vs--robo---which-etf-is-better-for-artificial-intelligence-and-robotics-stocks-56709.html"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -16,50 +16,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Welcome, Robin the AI robot"
-    excerpt: "The artificial intelligence system was developed by Expper Technologies, a Silicon Valley-supported startup with roots in Yerevan, Armenia. Robin's technology enables the robot to build what is ..."
-    publishedDateTime: 2020-07-07T21:51:00Z
-    webUrl: "https://eurekalert.org/pub_releases/2020-07/uoc--wrt070720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/236836_web.jpg"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Robots to the rescue"
-    excerpt: "Driven by the coronavirus pandemic, service robots are gathering steam among medical, retail and eatery sectors as a way to address social distancing measures."
-    publishedDateTime: 2020-07-06T00:09:00Z
-    webUrl: "https://www.bangkokpost.com/tech/1946496/robots-to-the-rescue"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2020/07/06/3682560_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Full picture of Robin the robot (image)"
-    excerpt: "In response to COVID-19 pandemic, UCLA Mattel Children's Hospital has launched an innovative project -- an interactive, artificial intelligence robot named Robin -- to support the emotional needs of children."
-    publishedDateTime: 2020-07-07T20:44:00Z
-    webUrl: "https://www.eurekalert.org/multimedia/pub/236836.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/236836_web.jpg"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "z/CuaBfUkS1mtV9dzSQ+QCGI+OeMTtjH+Idtwrarl58hyeRgF8jYV5d4B4eHZBlG7jftGRS2u9OgeCNudA1gEE6ZHWZ2raGWHMnc0hc6Ge9bGNhxtWdfdag/iau1LTXtt12WIoUIqwIzlHroaWUCwp0MJ1bwOXDS//W8bwtc2l2avW096VVh/mIlbT3gPSnfFXUivYvHtccHW0EhGSUJ+vAIR4OOMhbwDm1XVMIAtoPbmBhyaysCeNYcDdoryAlwe34kzizfG0YDZ9xZh5x8LSIjSh90c0lywIGuTjbZta6MIDPyMc4KeLFHPgqIrcxGJgWlEFowluhKqMi0kA/Y8g==;zBQ6z3EkUK4WPuirSfnHww=="
 ---

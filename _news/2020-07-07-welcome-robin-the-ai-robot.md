@@ -1,52 +1,40 @@
 ---
 category: news
 title: "Welcome, Robin the AI robot"
-excerpt: "The artificial intelligence system was developed by Expper Technologies, a Silicon Valley-supported startup with roots in Yerevan, Armenia. Robin's technology enables the robot to build what is ..."
-publishedDateTime: 2020-07-07T21:51:00Z
-webUrl: "https://eurekalert.org/pub_releases/2020-07/uoc--wrt070720.php"
+excerpt: "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character—one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital."
+publishedDateTime: 2020-07-07T20:51:00Z
+webUrl: "https://medicalxpress.com/news/2020-07-robin-ai-robot.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-07-robin-ai-robot.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-robin-ai-robot.amp"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/236836_web.jpg"
-    width: 1440
-    height: 960
-    isCached: true
-    title: "Welcome, Robin the AI robot"
-
 related:
-  - title: "Video - BOTZ Vs. ROBO: Which ETF Is The Better AI And Robotics Play?"
-    excerpt: "In this episode of ETF Battles, you'll see face-off between BOTZ (Global X Robotics & Artificial Intelligence ETF) vs. ROBO (ROBO Global Robotics & Automation ETF). Both ETFs are designed to track stocks involved with automation,"
-    publishedDateTime: 2020-07-06T20:09:00Z
-    webUrl: "https://www.fa-mag.com/news/video---etf-battles--botz-vs--robo---which-etf-is-better-for-artificial-intelligence-and-robotics-stocks-56709.html"
+  - title: "UCLA launches an AI robot to support the emotional needs of children"
+    excerpt: "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character -- one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital."
+    publishedDateTime: 2020-07-08T01:28:00Z
+    webUrl: "https://www.news-medical.net/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx"
     type: article
     provider:
-      name: Financial Advisor
-      domain: fa-mag.com
-    quality: 49
-  - title: "Robots to the rescue"
-    excerpt: "Driven by the coronavirus pandemic, service robots are gathering steam among medical, retail and eatery sectors as a way to address social distancing measures."
-    publishedDateTime: 2020-07-06T00:09:00Z
-    webUrl: "https://www.bangkokpost.com/tech/1946496/robots-to-the-rescue"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
+      name: News Medical
+      domain: news-medical.net
+    quality: 74
     images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2020/07/06/3682560_700.jpg"
-        width: 700
-        height: 467
+      - url: "https://www.news-medical.net/image.axd?picture=2016%2f3%2fChildren_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "Full picture of Robin the robot (image)"
     excerpt: "In response to COVID-19 pandemic, UCLA Mattel Children's Hospital has launched an innovative project -- an interactive, artificial intelligence robot named Robin -- to support the emotional needs of children."
@@ -63,6 +51,6 @@ related:
         height: 960
         isCached: true
 
-secured: "EjEVMECutFIkI4LHw+NiIFcOgnUOSZxME02z6z/XbPxH1pkG9bDqm8KxEzEdshF4piyRZnpfswUVxDmLfk5+IfDjmrW1KQTcCxG/B7ovEF04JOd1lOcSr5IH19Ox9DmjxApzKsTCwRYxYiT4jXyS5zC+V8A8c3pL5XHxsiuGO0xKWjD4dlzA6GAP/UyL1JyIZnyq5zVtg7nsaU4BfcQPElvM8BwstTrEfxj80yyhdN1Ga+pYPLxLia90SRaU8+bSNaI2TbS5ML2wB65W7+0ymF2bkN6yZyvbOxJ2yduLZ11n/Zh0XXxEyKzCyWJZXOQ4+/RgwTb4brfN/O5VR9KG4A==;ewkiuenHYPXVW/yU7j9tAw=="
+secured: "rAW8qEIoMjScFd0LkdLqkGl3SM/I8eJ3VGtz1T2vxtKN5O11BeIm2PCuDygSxG04q34ZvbI3BCebPsTeKPNoZvSwsZPMtrefMXXedW3fHow/bcnp6Q2rR4kisKy//pYwODXsqR8yvjKEVzwq0XB+cWtAgRjL/8BAGJE3jCsq6Lwlo//UjAUF/XJxTSK8cb1GGzMmJxaJJ0iLq0N8jltgH8p/nq+bo4dlnYuTqdGEI4LeLcMsEqBx98r4oF7NZDnfKkQVlbayLzlVriUVQyJEVIGWXmsLF4GzuIHcQdSsxcOVAzcMX8P1JrW1H2KfKrWm9HyiOsTJMfiJ2mi7tI6pbpVfQ8W+uhc2gWHPTM1MP9QotOrBDsUQI6Uk6juvn1kQUh/fVdHK/GPYwCgrFmBLQffP899e829SKM0Pg05lUdCKYZD/w575Rx61VU7/VawE/Anw7huNHEhqtwLG74L2omqZKrEqIuxyLsv9WILSdRfl4WmYVbWRbbZEz3izCw/9vKb7zH0KrUGdsX8GBhus4A==;QNr+q6PDoSt79igSA49+eQ=="
 ---
 

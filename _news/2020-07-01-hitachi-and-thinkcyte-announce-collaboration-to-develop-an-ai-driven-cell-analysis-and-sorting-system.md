@@ -1,19 +1,26 @@
 ---
 category: news
 title: "Hitachi and ThinkCyte announce collaboration to develop an AI-driven cell analysis and sorting system"
-excerpt: "PRNewswire/ -- Hitachi, Ltd. (TSE: 6501, \"Hitachi\") and ThinkCyte, Inc. (\"ThinkCyte\") today announced that they have entered into a collaboration focused on developing an artificial intelligence"
-publishedDateTime: 2020-07-01T14:00:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/hitachi-and-thinkcyte-announce-collaboration-to-develop-an-ai-driven-cell-analysis-and-sorting-system/article_8d713520-8eea-5745-98b8-5a8529e889a6.html"
+excerpt: "TOKYO, July 1, 2020 /PRNewswire/ -- Hitachi, Ltd. (TSE: 6501, \"Hitachi\") and ThinkCyte, Inc. (\"ThinkCyte\") today announced that they have entered into a collaboration focused on developing an artificial intelligence (AI)-driven cell analysis and sorting ..."
+publishedDateTime: 2020-07-01T14:05:00Z
+webUrl: "https://www.prnewswire.com/news-releases/hitachi-and-thinkcyte-announce-collaboration-to-develop-an-ai-driven-cell-analysis-and-sorting-system-301086729.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "JOgu9jyK20tcksulBco2NRrYB/HxC3zGll6E8mhIqTwrbf449h/MulGx3jfwgv+T5+hwVm0hbI0CC0cHrUvj59cQ4/aYtybnhC4FZ7/zJJ0tb5lyInc9jy4nTxEnEYNqlPZj6CZcKm/Ar4JgwDFlxNa9KeYpW0wkzQrXjuu4MEac1AW5B0eGMa98gryAZEAF+0G2gFLBPYe1JXayqkviej8dop24+2GT9s7b+Bi8jwxkHcDKy55Y8MtoCb8rmCdGWNramXHxh63FYtCQN9dPibGDyo5JUByi+N52/7QXARNrKQaLCXVCSj/UO8A/0v0sct9mS/+x4id4LuS2oCDLDg==;z2bSctuBpLh9z5l35I9W9Q=="
+images:
+  - url: "https://mma.prnewswire.com/media/1196816/ThinkCyte_Logo.jpg?p=facebook"
+    width: 1241
+    height: 650
+    isCached: true
+    title: "Hitachi and ThinkCyte announce collaboration to develop an AI-driven cell analysis and sorting system"
+
+secured: "0ytvZ4KF8fxvukAXPEb+b3IvRSzLxijWL04Wj1ktr8Wz2WT5Q9cZnUYbOs7QqsqZn53nDpyxLD6snNd5RwlQ1XpOv0JDhA2I4ZO/fWNBAho4pl3X5Gsn7NTMPSNfYCJj7B5jOs7EbMHFWfjroPFYf9mAQEqnYORzAM8mBwSweClJS3T6CMxE0x6NEM+fGk+ywhDkvk5fJB2SfybEmo35faJnbFMrTGFM+OLSzklKiyQtnwcA6Bl0O7UCQRZW4j8yX1F4IWPcWLpQ6GuWAcBybhOGwEeyq4W1689uzahSEVlYoZGtubG/5AmEMHx4PZHslg7bMwDXhtPgw3aI3Lu1KQ==;iTB8iYryJEFK+6aiyyMhXg=="
 ---
 

@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Study Innovative Business Growth Outlook Forecasting By 2025"
-    excerpt: "The major factors speculated to augment the markets are growing security requirements in government sectors for"
-    publishedDateTime: 2020-07-03T07:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-study-innovative-business-growth-outlook-forecasting-by-2025-2020-07-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global biometric facial recognition market to top $12B by 2026 on public security, retail growth"
     excerpt: "Biometric facial recognition is poised for major growth on demand for the high accuracy of 3D imaging and public security concerns, and is forecast by Global Market Insights to grow from just over"
     publishedDateTime: 2020-07-07T16:28:00Z

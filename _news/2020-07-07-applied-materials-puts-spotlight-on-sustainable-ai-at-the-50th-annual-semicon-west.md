@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Applied Materials Puts Spotlight on Sustainable AI at the 50th Annual SEMICON West"
-excerpt: "The Honorable Al Gore in Conversation with Heather Clancy of GreenBiz.com Applied Materials CEO Gary Dickerson on"
-publishedDateTime: 2020-07-07T14:24:00Z
-webUrl: "https://www.marketwatch.com/press-release/applied-materials-puts-spotlight-on-sustainable-ai-at-the-50th-annual-semicon-west-2020-07-07-101842439"
+excerpt: "Presented by Applied Materials: The Honorable Al Gore in Conversation with Heather Clancy of GreenBiz.com -- Bending the Climate Curve: Enabling Sustainable Growth of Big Data, AI and Cloud Computing with Experts from Arm,"
+publishedDateTime: 2020-07-07T14:00:00Z
+webUrl: "https://www.marketwatch.com/press-release/applied-materials-puts-spotlight-on-sustainable-ai-at-the-50th-annual-semicon-west-2020-07-07"
 type: article
 quality: 63
 heat: 63
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Applied Materials Puts Spotlight on Sustainable AI at the 50th Annual SEMICON West"
 
-secured: "eIKg9eR5I8Y0RDUU05gwsdbhdC1vweOJLNUjDL9PhXCgxxj5NlLMOihDt98PUI/CDChZgvpfG8tMhdOl3UJeRlHKRqIs2c/flOlS7r4MKw/Yj9tQd/dmTiFX5ZYcKZq6kHuZy/SInVvFPD9whhLQkZYCQ+3vlrVo0LQw54Wdgq2HGI7W736PtAq9O/SWazvIlUEzfvyDoufDDbJvClbOw33rSeIFl13wpsyUqokJ79VHhVWX40XmkWIA3YjrjqptYGrMyzLpbaPg80wjwAkJSQPafdxCZTrSafvglxDcQzDIpRFWToW1BAigKjdSHP/LNVsH96smu9dXfRWRmngXyA==;iYPqtKuZYIMmEBtmE2+17A=="
+secured: "jtdJuGtyAK2+le3TKMJbMPkCIlcBJh0RmamD3RmpfcfBXr/oWjv0zbfjwdJ1NrMIEdmvUmG68Ek6U1OKw7qjFqxccgTPu//Y3ouBrB2aCY2wYQPFqa8QeixaDyTyuDCpxCb0SOolkp+Zb9XzqUJBSqNZADT/efc1SZAkhzphgZUdCxfRGrITOIexn0suTV9E2nZ6NUqAyHHIcuQl7UpHIwPfdAVGLE2GVJCd4vVs2uxa+98Xsb83oetqlx+zepAEYfkb9QbN4YWhIl1lx1DgYYTvp/mW8zIXGB7o+LQEyzWF73ZywDEn19jyemCxw8GS1Ewd8yWbDOHN+2EWIt/6RA==;MCWBWbpD9Yw6arvfoOK5Qg=="
 ---
 

@@ -2,6 +2,136 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-06-11-amazon-too-reviews-its-policy-on-police-use-of-its-face-recognition-tech-amid-blm.md",
+      "title": "Amazon too reviews its policy on police use of its face-recognition tech amid #BLM",
+      "excerpt": "The petition takes aim at Amazon Web Services cloud computing unit’s “Rekognition” facial recognition technology and Ring surveillance cameras used for home security. “Amazon needs to ...",
+      "webUrl": "https://www.deccanchronicle.com/technology/in-other-news/110620/amazon-too-reviews-its-policy-on-police-use-of-its-face-recognition-te.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-g4bflmnbi4coegebsi9036ohp2-20200611182340.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": "Amazon too reviews its policy on police use of its face-recognition tech amid #BLM",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/technology/in-other-news/110620/amazon-too-reviews-its-policy-on-police-use-of-its-face-recognition-te.html",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/110620/amazon-too-reviews-its-policy-on-police-use-of-its-face-recognition-te.html",
+      "publishedDateTime": "2020-06-11T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints.md",
+      "title": "Siemens and SparkCognition unveil AI-driven cybersecurity solution for ICS endpoints",
+      "excerpt": "DeepArmor Industrial, fortified by Siemens, increases operational visibility, improves malware detection, and provides protection across a company's fleet of industrial control systems and end points.",
+      "webUrl": "https://www.techrepublic.com/article/siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints/",
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/03/31/2ebbe39e-29ee-4859-987b-31cd1903a44c/resize/1200x/4358b8908cefdfb51dcd8d07d99a1bb0/istock-1040873246-security.jpg",
+          "width": 1200,
+          "height": 738,
+          "title": "Siemens and SparkCognition unveil AI-driven cybersecurity solution for ICS endpoints",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints/",
+      "publishedDateTime": "2020-06-11T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-google-and-zebai-launch-chemome-initiative-to-identify-chemical-probes-with-ai-models.md",
+      "title": "Google and ZebAI launch Chemome Initiative to identify ‘chemical probes’ with AI models",
+      "excerpt": "Google partnered with startup ZebAI to launch the Chemome Initiative, which aims to identify 'chemical probes' using AI techniques.",
+      "webUrl": "https://venturebeat.com/2020/06/11/google-and-zebai-launch-the-chemome-initiative-to-identify-chemical-probes-with-ai/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google and ZebAI launch Chemome Initiative to identify ‘chemical probes’ with AI models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/11/google-and-zebai-launch-the-chemome-initiative-to-identify-chemical-probes-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/11/google-and-zebai-launch-the-chemome-initiative-to-identify-chemical-probes-with-ai/amp/",
+      "publishedDateTime": "2020-06-11T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-artificial-intelligence-gathers-pace-in-latin-america.md",
       "title": "Artificial intelligence gathers pace in Latin America",
       "excerpt": "A fast-developing ecosystem is emerging in the region despite the challenges, with projects at almost the same level of other parts of the world, according to new research.",
@@ -1122,127 +1252,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-amazon-bans-police-use-of-facial-recognition-technology-for-a-year.md",
-      "title": "Amazon Bans Police Use Of Facial Recognition Technology For A Year",
-      "excerpt": "(RTTNews) - Amazon announced a one-year moratorium on police use of its facial recognition technology, Rekognition, to give ample time to the governments to implement stronger regulations for racial equality and justice.",
-      "webUrl": "https://www.nasdaq.com/articles/amazon-bans-police-use-of-facial-recognition-technology-for-a-year-2020-06-11",
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-bans-police-use-of-facial-recognition-technology-for-a-year-2020-06-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-bans-police-use-of-facial-recognition-technology-for-a-year-2020-06-11?amp",
-      "publishedDateTime": "2020-06-11T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-let-this-ai-powered-tool-build-you-a-better-resume-for-just-29.md",
-      "title": "Let this AI-powered tool build you a better résumé for just $29",
-      "excerpt": "This tool knows exactly what employers are looking for, what catches their eye, and what will help to put you on their radar as a potential new hire. Rezi knows the tricks of the trade and will help you build the perfect resume that companies just can't ignore.",
-      "webUrl": "https://www.zdnet.com/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/11/3d2581d5-abeb-4c22-9a4c-59c52b6975a2/bram-naus-n8qb1zakk88-unsplash.jpg",
-          "width": 4976,
-          "height": 3223,
-          "title": "Let this AI-powered tool build you a better résumé for just $29",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/let-this-ai-powered-tool-build-you-a-better-resume-for-just-29/",
-      "publishedDateTime": "2020-06-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-eu-privacy-watchdog-thinks-that-clearview-ai-is-illegal.md",
-      "title": "EU privacy watchdog thinks that Clearview AI is illegal",
-      "excerpt": "Clearview AI's planned expansion into the EU hit a roadblock yesterday when the bloc's privacy watchdog said it \"doubts\" that the service is legal",
-      "webUrl": "https://thenextweb.com/neural/2020/06/11/eu-privacy-watchdog-thinks-that-clearview-ai-is-illegal/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-69-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "EU privacy watchdog thinks that Clearview AI is illegal",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/11/eu-privacy-watchdog-thinks-that-clearview-ai-is-illegal/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/11/eu-privacy-watchdog-thinks-that-clearview-ai-is-illegal/amp/",
-      "publishedDateTime": "2020-06-11T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

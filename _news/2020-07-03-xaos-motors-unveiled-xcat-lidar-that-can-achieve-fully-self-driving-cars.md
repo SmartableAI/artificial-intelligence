@@ -27,6 +27,20 @@ images:
     title: "XAOS MOTORS unveiled XCAT LiDAR that can achieve fully self-driving cars"
 
 related:
+  - title: "AI for self-driving cars doesn’t account for crime"
+    excerpt: "AI for self-driving cars may need fixes to deal with ethical gaps. Namely, what happens if people triy to use an automated vehicle to do something bad?"
+    publishedDateTime: 2020-07-08T00:13:00Z
+    webUrl: "https://www.futurity.org/self-driving-automated-cars-artificial-intelligence-ethics-2398632/"
+    type: article
+    provider:
+      name: Futurity News
+      domain: futurity.org
+    quality: 41
+    images:
+      - url: "https://www.futurity.org/wp/wp-content/uploads/2020/07/self-driving-automated-cars-artificial-intelligence-ethics_1600.jpg"
+        width: 1600
+        height: 915
+        isCached: true
   - title: "AImotive and C3S take self-driving car technology from the road to space"
     excerpt: "AImotive, the automotive supplier of automated driving technologies, and C3S, the satellite and space technology provider, today announced"
     publishedDateTime: 2020-07-07T11:05:00Z

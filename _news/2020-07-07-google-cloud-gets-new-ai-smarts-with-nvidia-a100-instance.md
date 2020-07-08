@@ -25,6 +25,33 @@ images:
     title: "Google Cloud Gets New AI Smarts With Nvidia A100 Instance"
 
 related:
+  - title: "Google Teams With NVIDIA on New Cloud Computing Offerings"
+    excerpt: "NVIDIA (NASDAQ: NVDA) announced on Tuesday that just weeks after its release, the A100 Tensor Core graphics processing unit (GPU) has been adopted by Google Cloud, a division of Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG)."
+    publishedDateTime: 2020-07-07T22:50:00Z
+    webUrl: "https://www.nasdaq.com/articles/google-teams-with-nvidia-on-new-cloud-computing-offerings-2020-07-07"
+    ampWebUrl: "https://www.nasdaq.com/articles/google-teams-with-nvidia-on-new-cloud-computing-offerings-2020-07-07?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/google-teams-with-nvidia-on-new-cloud-computing-offerings-2020-07-07?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Nvidia Teams With Google on New Cloud Computing Services"
+    excerpt: "Nvidia's new A100 flagship GPU is powering a new family of Google cloud computing services -- including one that provides access to 16 GPUs."
+    publishedDateTime: 2020-07-07T20:31:00Z
+    webUrl: "https://www.thestreet.com/investing/nvidia-google-team-up-cloud-computing-services"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/nvidia-google-team-up-cloud-computing-services"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-google-team-up-cloud-computing-services"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://content.jwplatform.com/thumbs/qgqzAEcX-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
   - title: "Google and Nvidia Take Cloud AI Performance to the Next Level"
     excerpt: "Google Cloud and Nvidia said Tuesday that Google would be the first cloud provider to offer Nvidia’s latest GPU for machine learning as a service. The Nvidia A100 Tensor Core GPU, based on the chipmaker’s new Ampere architecture,"
     publishedDateTime: 2020-07-07T16:34:00Z
@@ -38,20 +65,6 @@ related:
       - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/nvidia%20a100%20ampere%20gpu.jpg"
         width: 2000
         height: 1700
-        isCached: true
-  - title: "Nvidia’s latest A100 GPU debuts on Google Cloud"
-    excerpt: "Google LLC’s public cloud platform. The Nvidia A100 Tensor Core GPU is now available in alpha as part of the new Accelerator-Optimized VM (A2) instance family on Google’s Compute Engine service. The company claims the new chip,"
-    publishedDateTime: 2020-07-07T16:11:00Z
-    webUrl: "https://siliconangle.com/2020/07/07/nvidias-latest-a100-gpu-debuts-google-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/800-2-1.jpg"
-        width: 800
-        height: 680
         isCached: true
 
 secured: "hNp1xP+pqSZRKA/gq6gqkE0yv2Myi2ZftfLtzfn/zw6q5v85i3eZ9HqvH7DSBMCq43RjupIyDnroFXs6LBW5a7Vz2QqHDmxs+IrJg5HLwB+MzBAyWU0VpIaK3Nbk4JNtoD8y4dIuPTMfBsighRnzJFJMduvzNeDGLDavYZrxJloQHiwEttxRfh7UCin7u/PQ+Me2d6CLXYrWT7kbCRwg5P3ReBVBVBwfzZnONgxroyPyNx77zOsO0GxPyZTguxOTwykpZmpRsEiOtpXACWY/RmPbd93XSCHrbCC3Hxqk+mMl2uMTlmliAyEGGUd0RoRDiALjwxDzsvB9qUNtUWZtSQ==;T45x8w500GMFg5B96dtE/g=="
