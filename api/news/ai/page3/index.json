@@ -2,6 +2,129 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-05-volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles.md",
+      "title": "Volvo & Google’s Waymo Join Hands To Develop Self-Driving Vehicles",
+      "excerpt": "Volvo and Waymo will integrate Waymo's self-driving tech into an all-new mobility focussed electric vehicle architecture",
+      "webUrl": "https://gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gaadiwaadi.com/wp-content/uploads/2020/06/Volvo-and-Waymo-2.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Volvo & Google’s Waymo Join Hands To Develop Self-Driving Vehicles",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/amp/",
+      "cdnAmpWebUrl": "https://gaadiwaadi-com.cdn.ampproject.org/c/s/gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/amp/",
+      "publishedDateTime": "2020-07-05T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gaadiwaadi.com",
+        "domain": "gaadiwaadi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-05-everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths.md",
+      "title": "Everything You Ever Wanted To Know About Synthetic Humanoid Robots Or Synths",
+      "excerpt": "Will AI hold up a mirror to society forcing us to look not only at how we treat beings unlike us but also how we interact with and treat one another? Is the future of artificial intelligence, human-like robots?",
+      "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/07/05/everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f01c255daf7940006393a4f%2F0x0.jpg",
+          "width": 1199,
+          "height": 725,
+          "title": "Everything You Ever Wanted To Know About Synthetic Humanoid Robots Or Synths",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2020/07/05/everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/07/05/everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths/amp/",
+      "publishedDateTime": "2020-07-05T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-05-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-09.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading Up 0.9%",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT)’s stock price was up 0.9% on Friday . The company traded as high as $36.35 and last traded at $36.25, approximately 8,200 shares changed hands during trading.",
+      "webUrl": "https://theenterpriseleader.com/2020/07/05/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-0-9.html",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading Up 0.9%",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2020/07/05/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-0-9.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/07/05/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-0-9.html/amp",
+      "publishedDateTime": "2020-07-05T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-05-editorial-the-problems-with-facial-recognition-technology.md",
       "title": "Editorial: The problems with facial recognition technology",
       "excerpt": "Face recognition also can be problematic when manipulated by overzealous law enforcement agencies trying to match driver’s licenses photos to an artist’s sketch or surveillance cameras capturing indiv",
@@ -365,7 +488,7 @@
       "title": "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025",
       "excerpt": "Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023” To Its Research Database This report focuses on the global Natural language processing (NLP) status, future forecast,",
       "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-07-03",
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1211,137 +1334,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-covid-kg-uses-ai-to-scan-thousands-of-studies-to-answer-doctors-coronavirus-questions.md",
-      "title": "COVID-KG uses AI to scan thousands of studies to answer doctors’ coronavirus questions",
-      "excerpt": "In a new paper, researchers from Columbia, Brandeis, Darpa, UCLA, UIUC, and elsewhere describe an AI framework that answers questions about COVID-19.",
-      "webUrl": "https://venturebeat.com/2020/07/02/covid-kg-knowledge-graph-research-system/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "COVID-KG uses AI to scan thousands of studies to answer doctors’ coronavirus questions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/02/covid-kg-knowledge-graph-research-system/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/02/covid-kg-knowledge-graph-research-system/amp/",
-      "publishedDateTime": "2020-07-02T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-mit-takes-down-popular-ai-dataset-due-to-racist-misogynistic-content.md",
-      "title": "MIT Takes Down Popular AI Dataset Due to Racist, Misogynistic Content",
-      "excerpt": "MIT permanently pulled its 80 Million Tiny Images dataset—a popular image database used to train machine learning systems to identify people and objects in an environment. The reason? It used racist,",
-      "webUrl": "https://gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206",
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dobhuewgleklvyonjkjx.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "MIT Takes Down Popular AI Dataset Due to Racist, Misogynistic Content",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206/amp",
-      "publishedDateTime": "2020-07-02T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-larry-magid-facial-recognition-loses-support-as-bias-claims-rise.md",
-      "title": "Larry Magid: Facial recognition loses support as bias claims rise",
-      "excerpt": "Following the lead of San Francisco, Boston and several other cities, Detroit is poised to end a contract with a company that provides facial recognition technology to its police department. And it’s not just Larry Magid (Gary Reyes / Mercury News) cities that are backing away from the technology.",
-      "webUrl": "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/",
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2018/08/SJM-L-RECOGNITION-0807-01.jpg?w=1024&h=768",
-          "width": 1024,
-          "height": 768,
-          "title": "Larry Magid: Facial recognition loses support as bias claims rise",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/",
-      "publishedDateTime": "2020-07-02T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

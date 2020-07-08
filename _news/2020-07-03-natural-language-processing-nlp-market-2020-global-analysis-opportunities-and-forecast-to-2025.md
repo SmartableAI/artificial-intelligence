@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-03T22:56:00Z
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-07-03"
 type: article
 quality: 56
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     title: "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025"
 
 related:
-  - title: "Entertainment Robots Market 2020 Global Trends, Market Share, Industry Size, Growth, Sales, Opportunities, and Market Forecast to 2023"
-    excerpt: "The global entertainment robots market is expected to reach approximately USD 3.71 billion by 2023 at a CAGR of 23.06%"
-    publishedDateTime: 2020-07-03T15:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-global-trends-market-share-industry-size-growth-sales-opportunities-and-market-forecast-to-2023-2020-07-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Software System Market Analysis by Manufacturers, Regions, Type and Application to 2024"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 04, 2020 (The Expresswire) -- The “Artificial Intelligence Software System Market” report entitled “Global Artificial Intelligence Software System Market Growth ..."
     publishedDateTime: 2020-07-04T18:32:00Z

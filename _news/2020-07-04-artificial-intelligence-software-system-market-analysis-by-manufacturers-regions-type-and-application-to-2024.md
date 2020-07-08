@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Entertainment Robots Market 2020 Global Trends, Market Share, Industry Size, Growth, Sales, Opportunities, and Market Forecast to 2023"
-    excerpt: "The global entertainment robots market is expected to reach approximately USD 3.71 billion by 2023 at a CAGR of 23.06%"
-    publishedDateTime: 2020-07-03T15:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-global-trends-market-share-industry-size-growth-sales-opportunities-and-market-forecast-to-2023-2020-07-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2020 | Industry Analysis and Forecasts to 2025"
     excerpt: "This report provides in depth study of “Natural Language Processing (NLP) in Healthcare and Life Sciences Market” using SWOT analysis i.e. Strength, Weakness, Opportunities an"
     publishedDateTime: 2020-07-03T23:21:00Z

@@ -2,6 +2,146 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-01-salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias.md",
+      "title": "Salesforce researchers claim new method mitigates AI models’ gender bias",
+      "excerpt": "A new paper from researchers at Salesforce proposes a technique for mitigating gender bias in word embeddings from large data sets.",
+      "webUrl": "https://venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/",
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/IMG_20190530_125848__01-e1593559807331.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Salesforce researchers claim new method mitigates AI models’ gender bias",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/amp/",
+      "publishedDateTime": "2020-07-01T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-as-data-grows-what-could-the-future-of-ai-look-like-in-banking.md",
+      "title": "As Data Grows, What Could The Future Of AI Look Like In Banking?",
+      "excerpt": "AI in banking is discussed primarily in connection with specific features, but this is only the basic level of AI's potential.",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/as-data-grows-what-could-the-future-of-ai-look-like-in-banking/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efba7cd3855ae0007ddffe9%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": "As Data Grows, What Could The Future Of AI Look Like In Banking?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/as-data-grows-what-could-the-future-of-ai-look-like-in-banking/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/as-data-grows-what-could-the-future-of-ai-look-like-in-banking/amp/",
+      "publishedDateTime": "2020-07-01T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform.md",
+      "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
+      "excerpt": "Spiketrap has raised $3 million for its AI platform that helps brands understand how they are engaging with consumers on social media.",
+      "webUrl": "https://venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Spiketrap_Compilation.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/amp/",
+      "publishedDateTime": "2020-07-01T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-the-robot-thats-keeping-facilities-clean-during-covid-19.md",
       "title": "The Robot That's Keeping Facilities Clean During Covid-19",
       "excerpt": "As workplaces re-open after the Covid-19 lockdown, attention is turning to how they can be as clean as possible. Researchers from MIT are working on a robot that uses UV light to sanitize any working environment.",
@@ -978,145 +1118,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-deriving-conversational-insights-from-invoices-with-amazon-textract-amazon-comprehend-and-amazon-lex.md",
-      "title": "Deriving conversational insights from invoices with Amazon Textract, Amazon Comprehend, and Amazon Lex",
-      "excerpt": "Organizations across industries have a large number of physical documents such as invoices that they need to process. It is difficult to extract information from a scanned document when it contains tables, forms, paragraphs, and check boxes. Organization have been addressing these problems with manual",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deriving-conversational-insights-from-invoices-with-amazon-textract-amazon-comprehend-and-amazon-lex/",
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/25/conversational-insights-001.jpg",
-          "width": 1000,
-          "height": 564,
-          "title": "Deriving conversational insights from invoices with Amazon Textract, Amazon Comprehend, and Amazon Lex",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T12:49:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-introducing-the-new-watson-discovery-premium-plan.md",
-      "title": "Introducing the new Watson Discovery Premium Plan",
-      "excerpt": "\nUnstructured data, such as videos, photos and audio, accounts for at least 80% of your company’s data. Structured data is data that adheres to a predefined data model. It includes information such as credit card numbers, stock information and geolocation. Unlike structured data, unstructured data is",
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/06/introducing-the-new-watson-discovery-premium-plan/",
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/06/Image-from-iOS-5.jpg",
-          "width": 990,
-          "height": 498,
-          "title": "Introducing the new Watson Discovery Premium Plan",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T11:21:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-k-12-school-use-ai-and-automation-to-customize-lessons-and-pivot-from-in-person-to-online-classes.md",
-      "title": "K-12 school use AI and automation to customize lessons and pivot from in-person to online classes",
-      "excerpt": "Edtech company Edmentum has built a virtual assistant to help teachers master new education platforms quickly.",
-      "webUrl": "https://www.techrepublic.com/article/k-12-school-use-ai-and-automation-to-customize-lessons-and-pivot-from-in-person-to-online-classes/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/23/3dd79642-a672-4227-b2e8-7498cd4015eb/resize/1200x/ee8113922f79a3209e5641984ac6c549/virtual-classroom.jpg",
-          "width": 1200,
-          "height": 968,
-          "title": "K-12 school use AI and automation to customize lessons and pivot from in-person to online classes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/k-12-school-use-ai-and-automation-to-customize-lessons-and-pivot-from-in-person-to-online-classes/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/k-12-school-use-ai-and-automation-to-customize-lessons-and-pivot-from-in-person-to-online-classes/",
-      "publishedDateTime": "2020-06-30T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-05-exxe-group-adds-new-high-value-high-growth-fintech-acquisition.md",
+      "title": "Exxe Group Adds New High Value, High Growth FinTech Acquisition",
+      "excerpt": "Exxe Group, Inc. (OTC PINK: AXXA), a diversified company focused on synergistic acquisitions in digital platforms,",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16188602/exxe-group-adds-new-high-value-high-growth-fintech-acquisition",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16188602",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16188602",
+      "publishedDateTime": "2020-06-05T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-05-deep-dive-leveraging-authentication-and-machine-learning-to-secure-b2b-payment-apis.md",
       "title": "Deep Dive: Leveraging Authentication And Machine Learning To Secure B2B Payment APIs",
       "excerpt": "The following Deep Dive explores the threats fraudsters pose to B2B APIs and the security methods FIs are deploying to stop them.",

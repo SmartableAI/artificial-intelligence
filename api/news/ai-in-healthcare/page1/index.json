@@ -2,11 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-08-world-artificial-intelligence-conference-to-kick-off-in-shanghai.md",
+      "title": "World Artificial Intelligence Conference to kick off in Shanghai",
+      "excerpt": "The World Artificial Intelligence Conference will kick off Thursday ... unmanned driving, education, healthcare and blockchain, among other topics. SenseTime, a leading AI unicorn from China focusing on facial recognition, deep learning and supercomputing ...",
+      "webUrl": "https://www.thejakartapost.com/life/2020/07/08/world-artificial-intelligence-conference-to-kick-off-in-shanghai.html",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jakpost.net/c/2018/12/13/2018_12_13_60766_1544675746._medium.jpg",
+          "width": 747,
+          "height": 446,
+          "title": "World Artificial Intelligence Conference to kick off in Shanghai",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thejakartapost.com/amp/life/2020/07/08/world-artificial-intelligence-conference-to-kick-off-in-shanghai.html",
+      "cdnAmpWebUrl": "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/07/08/world-artificial-intelligence-conference-to-kick-off-in-shanghai.html",
+      "publishedDateTime": "2020-07-08T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jakarta Post",
+        "domain": "thejakartapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025.md",
       "title": "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025",
       "excerpt": "Jul 07, 2020 (Market Insight Reports) -- Selbyville, Delaware According to Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Precision Medicine market that provides a comprehensive review of this industry with respect to the ...",
       "webUrl": "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025-2020-07-07",
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -76,6 +114,53 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,",
+      "webUrl": "https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F581061%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "publishedDateTime": "2020-07-06T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1213,92 +1298,6 @@
         "AI",
         "IBM AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-india-joins-global-partnership-on-artificial-intelligence-as-founding-member.md",
-      "title": "India joins global partnership on Artificial Intelligence as founding member",
-      "excerpt": "India on Monday joined the league of leading economies including USA, UK, EU, Australia, Canada, France, Germany, Italy, Japan, Mexico, New Zealand, Republic of Korea, Singapore to launch the Global Partnership on Artificial Intelligence (GPAI or Gee-Pay).",
-      "webUrl": "https://www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html",
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestatesman.com/wp-content/uploads/2019/05/AI.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "India joins global partnership on Artificial Intelligence as founding member",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html/amp",
-      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html/amp",
-      "publishedDateTime": "2020-06-15T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Statesman",
-        "domain": "thestatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire.md",
-      "title": "“AI Healthcare” Stocks Will Mint The World’s First Trillionaire",
-      "excerpt": "You won’t read about these stocks in the mainstream media. But don’t let that fool you: because a small “hidden” group of companies is figuring out how to merge artificial intelligence with medical technology.",
-      "webUrl": "https://www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/",
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee776ee38f9070006842d91%2F0x0.jpg",
-          "width": 1199,
-          "height": 820,
-          "title": "“AI Healthcare” Stocks Will Mint The World’s First Trillionaire",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/amp/",
-      "publishedDateTime": "2020-06-15T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

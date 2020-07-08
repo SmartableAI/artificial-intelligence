@@ -138,31 +138,31 @@
       ]
     },
     {
-      "path": "_news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google’s TensorFlow Lite for Microcontrollers",
-      "excerpt": "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced the launch of WiseEye WE-I Plus HX6537-A solution that supports.",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096",
+      "path": "_news/2020-06-29-35-women-under-35-2020-britains-brightest-young-business-leaders.md",
+      "title": "35 Women Under 35 2020: Britain's brightest young business leaders",
+      "excerpt": "It all started with the annual 35 Women Under 35 list, unearthing new female role models and spotlighting the contribution of Britain’s young businesswomen - whose voices were still being largely ignored in the media.",
+      "webUrl": "https://www.managementtoday.co.uk/35-women-35-2020-britains-brightest-young-business-leaders/women-in-business/article/1687839?bulletin=mtbulletin",
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/880/cached.offlinehbpl.hbpl.co.uk/news/OTM/35w35.png",
+          "width": 880,
+          "height": 588,
+          "title": "35 Women Under 35 2020: Britain's brightest young business leaders",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T03:25:00-07:00",
+      "publishedDateTime": "2020-06-29T01:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Management Today",
+        "domain": "managementtoday.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -171,7 +171,6 @@
         "news"
       ],
       "topics": [
-        "TensorFlow",
         "Google AI",
         "AI"
       ]

@@ -2,6 +2,213 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-05-29-ai-weekly-autonomous-vehicle-companies-pivot-to-charitable-deliveries-during-the-pandemic.md",
+      "title": "AI Weekly: Autonomous vehicle companies pivot to charitable deliveries during the pandemic",
+      "excerpt": "During the pandemic, autonomous vehicles companies like Beep, Gatik, and Optimus Ride are helping to deliver goods to those in need.",
+      "webUrl": "https://venturebeat.com/2020/05/29/ai-weekly-autonomous-vehicle-companies-pivot-to-charitable-deliveries-during-the-pandemic/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/optimus-ride-logo-on-vehicle-e1590635948122.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Autonomous vehicle companies pivot to charitable deliveries during the pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/29/ai-weekly-autonomous-vehicle-companies-pivot-to-charitable-deliveries-during-the-pandemic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/29/ai-weekly-autonomous-vehicle-companies-pivot-to-charitable-deliveries-during-the-pandemic/amp/",
+      "publishedDateTime": "2020-05-29T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai.md",
+      "title": "Sayyy whatttt?: Researchers analyze strange human tweets to build better AI",
+      "excerpt": "Twitter is a weird place with a language all its own. A new study focuses on using the tweets, chock-full of misspellings and slang, to improve artificial intelligence.",
+      "webUrl": "https://www.techrepublic.com/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/29/ff1451d1-1faf-4e5b-9b20-6e0ba6635d04/resize/1200x/d3505748b0576d141b3d72be59f5faaa/artificial-intelligence-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Sayyy whatttt?: Researchers analyze strange human tweets to build better AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
+      "publishedDateTime": "2020-05-29T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-machine-learning-helps-map-global-ocean-communities.md",
+      "title": "Machine learning helps map global ocean communities",
+      "excerpt": "On land, it’s fairly obvious where one ecological region ends and another begins, for instance at the boundary between a desert and savanna. In the ocean,",
+      "webUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2020/05/MIT-Plankton-Province-01_0.jpg",
+          "width": 639,
+          "height": 426,
+          "title": "Machine learning helps map global ocean communities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/amp/",
+      "publishedDateTime": "2020-05-29T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-aclu-sues-clearview-ai-over-unlawful-facial-recognition-technology.md",
+      "title": "ACLU sues Clearview AI over 'unlawful' facial recognition technology",
+      "excerpt": "Facial recognition software provider Clearview AI has been hit with a lawsuit by the American Civil Liberties Union and several other organizations. The lawsuit, filed in state court in Illinois, accuses the firm of violating state privacy laws over its use of facial recognition and biometric technology.",
+      "webUrl": "https://www.tomsguide.com/news/aclu-clearview-ai-lawsuit",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/d3GVUkpobEW7uy8jkkVq94-1200-80.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "ACLU sues Clearview AI over 'unlawful' facial recognition technology",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit",
+      "cdnAmpWebUrl": "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit",
+      "publishedDateTime": "2020-05-29T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-colleges-prep-for-facial-recognition-temperatures-checks.md",
+      "title": "Colleges prep for facial recognition, temperatures checks",
+      "excerpt": "Drew Bogner, retiring president of Molloy College, says his school is preparing for many different scenarios for the start of the academic year.",
+      "webUrl": "https://www.newsday.com/news/health/coronavirus/college-coronavirus-1.45049734",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsday.com/polopoly_fs/1.45055781.1590775535!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": "Colleges prep for facial recognition, temperatures checks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/news/health/coronavirus/college-coronavirus-1.45049734",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/health/coronavirus/college-coronavirus-1.45049734",
+      "publishedDateTime": "2020-05-29T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-probeat-throw-out-all-your-pre-coronavirus-surveys-and-start-again.md",
       "title": "ProBeat: Throw out all your pre-coronavirus surveys and start again",
       "excerpt": "The coronavirus pandemic means your technology survey from earlier this year is useless. Your business needs to run the survey again.",
@@ -1090,224 +1297,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-hello-and-welcome-robot-waiters-to-the-rescue-amid-virus.md",
-      "title": "Hello and welcome: Robot waiters to the rescue amid virus",
-      "excerpt": "You can always count on a robot for perfect timing. When Shaosong Hu saw robotic waiters serving food in China last fall, he knew exactly what he wanted for his",
-      "webUrl": "https://www.wavy.com/news/technology/hello-and-welcome-robot-waiters-to-the-rescue-amid-virus/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wavy.com/wp-content/uploads/sites/3/2020/05/cd8882238fca4e639fc2780457003fa9-1.jpg?w=1280&h=720&crop=1",
-          "width": 1280,
-          "height": 720,
-          "title": "Hello and welcome: Robot waiters to the rescue amid virus",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wavy.com/news/technology/hello-and-welcome-robot-waiters-to-the-rescue-amid-virus/amp/",
-      "cdnAmpWebUrl": "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/hello-and-welcome-robot-waiters-to-the-rescue-amid-virus/amp/",
-      "publishedDateTime": "2020-05-28T23:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAVY",
-        "domain": "wavy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics.md",
-      "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
-      "excerpt": "Monetary Authority of Singapore tasks two teams, comprising banks and artificial intelligence industry players, to develop metrics that ensure the \"responsible use of AI\" for credit risk scoring and customer marketing.",
-      "webUrl": "https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2014/09/18/c013a710-3f12-11e4-b6a0-d4ae52e95e57/thumbnail/1200x675/f86b2d87bc6b68d5b79dc28b17f7b657/building-a-people-centric-datacenter.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
-      "publishedDateTime": "2020-05-28T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-heres-how-mfine-is-using-technology-to-disrupt-healthcare.md",
-      "title": "Here's How MFine Is Using Technology To Disrupt Healthcare",
-      "excerpt": "The Bengaluru-based start-up offers an online consultation platform and has seen teleconsultations grow 5-6 times in the last few weeks owing to the Coronavirus outbreak",
-      "webUrl": "https://www.entrepreneur.com/article/351226",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1590692668-Webpnet-compress-image43.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Here's How MFine Is Using Technology To Disrupt Healthcare",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351226",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351226",
-      "publishedDateTime": "2020-05-28T21:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-demand-for-these-autonomous-delivery-robots-is-skyrocketing-during-this-pandemic.md",
-      "title": "Demand For These Autonomous Delivery Robots Is Skyrocketing During This Pandemic",
-      "excerpt": "Although there is much unknown about the way the world will be post-coronavirus, we're certain that it will include autonomous delivery robots in our workplaces, public spaces, and streets. This technology was given a boost during coronavirus as a viable way for people to receive food and medicine.",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/29/demand-for-these-autonomous-delivery-robots-is-skyrocketing-during-this-pandemic/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed08dc48be1be0006b4b89d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Demand For These Autonomous Delivery Robots Is Skyrocketing During This Pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/29/demand-for-these-autonomous-delivery-robots-is-skyrocketing-during-this-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/29/demand-for-these-autonomous-delivery-robots-is-skyrocketing-during-this-pandemic/amp/",
-      "publishedDateTime": "2020-05-28T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless.md",
-      "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
-      "excerpt": "As South Korea continues to loosen its social distancing guidelines amid the COVID-19 outbreak, hard-hit movie theaters are trying to find ways to lure customers back.",
-      "webUrl": "https://gephardtdaily.com/entertainment/ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless/",
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gephardtdaily.com/wp-content/uploads/2020/05/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless.jpg",
-          "width": 693,
-          "height": 386,
-          "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gephardtdaily.com/entertainment/ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless/amp/",
-      "cdnAmpWebUrl": "https://gephardtdaily-com.cdn.ampproject.org/c/s/gephardtdaily.com/entertainment/ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless/amp/",
-      "publishedDateTime": "2020-05-28T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gephardt Daily",
-        "domain": "gephardtdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

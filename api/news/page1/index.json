@@ -2,6 +2,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-08-world-artificial-intelligence-conference-to-kick-off-in-shanghai.md",
+      "title": "World Artificial Intelligence Conference to kick off in Shanghai",
+      "excerpt": "The World Artificial Intelligence Conference will kick off Thursday ... unmanned driving, education, healthcare and blockchain, among other topics. SenseTime, a leading AI unicorn from China focusing on facial recognition, deep learning and supercomputing ...",
+      "webUrl": "https://www.thejakartapost.com/life/2020/07/08/world-artificial-intelligence-conference-to-kick-off-in-shanghai.html",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jakpost.net/c/2018/12/13/2018_12_13_60766_1544675746._medium.jpg",
+          "width": 747,
+          "height": 446,
+          "title": "World Artificial Intelligence Conference to kick off in Shanghai",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thejakartapost.com/amp/life/2020/07/08/world-artificial-intelligence-conference-to-kick-off-in-shanghai.html",
+      "cdnAmpWebUrl": "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/07/08/world-artificial-intelligence-conference-to-kick-off-in-shanghai.html",
+      "publishedDateTime": "2020-07-08T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jakarta Post",
+        "domain": "thejakartapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications.md",
       "title": "DEWA is first UAE government entity to utilise NVIDIA GPU in AI applications",
       "excerpt": "Dubai Electricity and Water Authority (DEWA) was awarded a certificate of acknowledgement from US-based NVIDIA Corporation for being the first UAE government organisation to adopt NVIDIA GPU Computing",
@@ -44,7 +82,7 @@
       "title": "UCLA launches an AI robot to support the emotional needs of children",
       "excerpt": "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character -- one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital.",
       "webUrl": "https://www.news-medical.net/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx",
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -103,6 +141,44 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-welcome-robin-the-ai-robot.md",
+      "title": "Welcome, Robin the AI robot",
+      "excerpt": "The artificial intelligence system was developed by Expper Technologies, a Silicon Valley-supported startup with roots in Yerevan, Armenia. Robin's technology enables the robot to build what is ...",
+      "webUrl": "https://eurekalert.org/pub_releases/2020-07/uoc--wrt070720.php",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/236836_web.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "Welcome, Robin the AI robot",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-07T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -250,7 +326,7 @@
       "title": "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025",
       "excerpt": "Jul 07, 2020 (Market Insight Reports) -- Selbyville, Delaware According to Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Precision Medicine market that provides a comprehensive review of this industry with respect to the ...",
       "webUrl": "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025-2020-07-07",
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1015,100 +1091,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox.md",
-      "title": "Amazon Speeds Towards $1.2 Billion Self Driving Black-Led Car Company Zoox",
-      "excerpt": "Amazon has purchased of Zoox, led by CEO Aicha Evans for $1.2 billion. With Evans at the helm, carving out her own lane in what’s shaping up to be a competitive self-driving car space, is the e-commerce giant in a position to dominate yet another industry?",
-      "webUrl": "https://www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/",
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148406588%2F0x0.jpg",
-          "width": 1200,
-          "height": 827,
-          "title": "Amazon Speeds Towards $1.2 Billion Self Driving Black-Led Car Company Zoox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/amp/",
-      "publishedDateTime": "2020-07-07T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-self-driving-tech-is-becoming-a-game-of-partnerships.md",
-      "title": "Self-Driving Tech Is Becoming a Game of Partnerships",
-      "excerpt": "Making an autonomous vehicle is proving harder and costlier than many startups predicted. So they're teaming up with giants like Hyundai, Jaguar, and Ford.",
-      "webUrl": "https://www.wired.com/story/self-driving-tech-game-partnerships/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f03caf26cd63b0e8be2ced6/master/pass/business_voyage.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Self-Driving Tech Is Becoming a Game of Partnerships",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/self-driving-tech-game-partnerships/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/self-driving-tech-game-partnerships/amp",
-      "publishedDateTime": "2020-07-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

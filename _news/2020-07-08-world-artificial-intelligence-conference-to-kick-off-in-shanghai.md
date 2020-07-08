@@ -1,23 +1,30 @@
 ---
 category: news
 title: "World Artificial Intelligence Conference to kick off in Shanghai"
-excerpt: "The World Artificial Intelligence Conference will kick off Thursday in Shanghai, with over 500 companies and agencies participating in the event on the theme of \"Intelligent"
-publishedDateTime: 2020-07-08T04:18:00Z
-webUrl: "https://technology.inquirer.net/101818/world-artificial-intelligence-conference-to-kick-off-in-shanghai"
-ampWebUrl: "https://technology.inquirer.net/101818/world-artificial-intelligence-conference-to-kick-off-in-shanghai/amp"
-cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/101818/world-artificial-intelligence-conference-to-kick-off-in-shanghai/amp"
+excerpt: "The World Artificial Intelligence Conference will kick off Thursday ... unmanned driving, education, healthcare and blockchain, among other topics. SenseTime, a leading AI unicorn from China focusing on facial recognition, deep learning and supercomputing ..."
+publishedDateTime: 2020-07-08T08:45:00Z
+webUrl: "https://www.thejakartapost.com/life/2020/07/08/world-artificial-intelligence-conference-to-kick-off-in-shanghai.html"
+ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/07/08/world-artificial-intelligence-conference-to-kick-off-in-shanghai.html"
+cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/07/08/world-artificial-intelligence-conference-to-kick-off-in-shanghai.html"
 type: article
-quality: 54
-heat: 64
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
-  name: Philippine Daily Inquirer
-  domain: inquirer.net
+  name: The Jakarta Post
+  domain: thejakartapost.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://img.jakpost.net/c/2018/12/13/2018_12_13_60766_1544675746._medium.jpg"
+    width: 747
+    height: 446
+    isCached: true
+    title: "World Artificial Intelligence Conference to kick off in Shanghai"
 
 related:
   - title: "VeChain Is Attending the World Artificial Intelligence Conference 2020 Hosted By Shanghai Municipal People’s Government"
@@ -35,6 +42,6 @@ related:
         height: 450
         isCached: true
 
-secured: "b8R/Xv7mCnO/bxEHgRFEJzOqC0bEXuBuI4l4ySCAWQ7rvWRoadbnrTB9C+IflnpmT0x5MgajneAyB8aSJsI2ofG7PryN/jtXoIeMyq/EKPPwUXrHRj990wlQamOezq6dSFwIrCoH0va30E1jcFy8FhXSpJ8q1go0gVWB0Zmv4hfLxHRLLWbbAPzDE7Nv5MsK7G9ZAIxjsHhMgYvVaok9WnN/SGmWpaWpfyU8DcNThiTOybMZJAK7QsTLprwPe54EFeGiw59Umc1mRRBmD5nKxPk8Sgse5WF3xsbrK3ilHX0Q7XueiANAnSNcwXyfHD+5Izh7Ix0G61rzRd1iZRIv3DpFiX/YYLDpi57vrz+VzRVjwLIZASfm64auCYqOXBTK+tKLFsrly/beARCFzrrWWfv0IrWXNOtdLlyuLjKnrLL2MUUVO3Wlw/7DR32J/K2HeG8F8xUbcyPTGroJYJZQHUQFL+CLGsn8TI3YfwCGy75PJN4mA8pHdaCdGd6cwvhDMRpsasrddtX5fofvFwOueg==;hkP7nY+5BRYg0BFWx5GsaQ=="
+secured: "oVeXu8qq1xjh0nMOB+LhJ5xBsEM7aJBlpYiuDkObp/YuWx15UMOgcJxKXR/VKdL73vA2ow9gE4BTMVaFUaLvmfdRUAZxm8JujLtCK8ro24N69yRBeehqpTpj60QrFlSKbRuDoBrXNH/wwwmfjc+FRylSUc4VeYEGSRoRpsYZJmr6Y0A3GC9uE4QaES2KroyXF3VDWoIC8nHkPf0dCLm4DS6QxrtQ54zg3T6vl8rC84FiUluHZtWGRziGcmb9UKOZM/iEqzSW9XfCcWyKe9loo2WtbypTyYlY12Bi7Gop5JINFQj8kW8IUPl1MtaR4kNifn/dTpCrc19B1Nxv5xcz0g==;LkKjI0wTF4UPoEzt8rq8ig=="
 ---
 

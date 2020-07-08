@@ -1,29 +1,24 @@
 ---
 category: news
 title: "Machine learning helps grow artificial organs"
-excerpt: "\"One of the main focuses of our lab is applying the methods of bioinformatics, machine learning, and AI to practical tasks in genetics and molecular biology. And this solution, too, is at the interface between sciences. In it, neural networks, which are ..."
-publishedDateTime: 2020-07-07T14:12:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-07/miop-mlh070720.php"
+excerpt: "Researchers from the Moscow Institute of Physics and Technology, Ivannikov Institute for System Programming, and the Harvard Medical School-affiliated Schepens Eye Research Institute have developed a neural network capable of recognizing retinal tissues during the process of their differentiation in a dish."
+publishedDateTime: 2020-07-07T15:02:00Z
+webUrl: "https://medicalxpress.com/news/2020-07-machine-artificial.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-07-machine-artificial.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-artificial.amp"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://eurekalert.org/multimedia/pub/web/236742_web.jpg"
-    width: 720
-    height: 465
-    isCached: true
-    title: "Machine learning helps grow artificial organs"
-
-secured: "msxb1CkmULBauNhMn/7CStLXACuqIPhOQVWnM/vvyE+EkmKWTU3pG7KkzeSPa7tFZpXifYTdQZrXJCKlIxlcbQG4aunOqe4pCEnisbgiM55QSMwIfTWQ3c2t1VONV2QOOPtvmiLyCskrpS8nFi+EDFPsQFAzoMdMi197rtmzcTUY9lc+aWn84R60BjOrld15L/a1LT2y+SnhOoKCdOW8lUh/8xMKRyZuPnjl0UkvdV8Japu7sBUAhrvMtGq8euh981S5bPU607VNwCPu2FWCIf8zKmWuTEYdy821uIOby5KOdDf/qdQNt7qrlUEaCXO7tqor+EfK8b6/i2u8V2d0bw==;BfI99qHZpu2thMUE1mM0Kw=="
+secured: "B6O5309sfduIeel58UmAbSs4FKhwrOjIi6c0hWd+lNqTewv8hO2rpPKR/ZpMJ76igbkK5DUAWU/BzM3TrFpph49MRuGkT+6x6tDGDubftQv/NBIlmsVOAKT9CefxAOVubyy/QDoJMd2TMjswzjsSPYx92i+bGKGC5Emxv+6UCcVx952FX+ICOFi/v+1ItKj7JW82/5CLv60wcskP8B6EFJJh734GXhmpuHVcyQHXckVrgHLhCMF3rxNs8btiDzm1yRylLWB40JL0gVoUarYJ02oEA7lxjI4IZhsIxSKXZz8ycecAq8SgbpgcgeE29kZfrkMoyAup+aIhl5ocYTEUN5if8DzhwnHY+b7yKjOL07eei51o+krSBkGQ+BXADE02FD/qohHaGrvHvfmMsMLdOhCYtz1Iujs+oDIfJWQCNDgtQWc5xOYoVw3uRhmxDNMmpk62KpB05r/IJT9Dam7hBMH7zL8rhE01WbJDNQZsOyPQSYDq8pnOelK30Pn894NeAkmvuS9L2rcohHg6HHEW+A==;FvQfTXuB+JY/Ik/qKtzClQ=="
 ---
 

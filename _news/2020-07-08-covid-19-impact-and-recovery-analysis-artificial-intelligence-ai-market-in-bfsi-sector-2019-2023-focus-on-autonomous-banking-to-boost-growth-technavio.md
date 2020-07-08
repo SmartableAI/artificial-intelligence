@@ -24,19 +24,19 @@ images:
     title: "COVID-19 Impact and Recovery Analysis | Artificial Intelligence (AI) Market In BFSI Sector 2019-2023 | Focus On Autonomous Banking to Boost Growth | Technavio"
 
 related:
-  - title: "Analysis of COVID-19 Impact | Software As A Service (SaaS) Market 2019-2023 | Use Of AI-enabled SaaS to Boost Growth | Technavio"
-    excerpt: "Technavio has been monitoring the software as a service (SaaS) market and it is poised to grow by USD 60.36 bn during 2019-2023. The report offers an up-to-date analysis regarding the current market scenario,"
-    publishedDateTime: 2020-07-08T03:15:00Z
-    webUrl: "https://apnews.com/f438c1444a0b4fa09ad185cc607149ab"
+  - title: "Automotive Radar Market Share, Trends, Growth, Sales, Demand, Revenue, Size, Forecast and COVID-19 Impacts to 2014-2026"
+    excerpt: "This report covers the recent COVID-19 and its impact on Automotive Radar Market. Furthermore, it sheds light on"
+    publishedDateTime: 2020-07-08T09:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-radar-market-share-trends-growth-sales-demand-revenue-size-forecast-and-covid-19-impacts-to-2014-2026-2020-07-08"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Pi5oKcOsqU+kARcYyW0IxEi3gXOr5Nq1Ipcev7HzfZxCgGXUSHwgXYfqfJuM7lxB65KWjCvclUgMv6uFigXkb06r8p9hld5jZk8smmYZFXBpC4xlATGYNarT3hd0xSEnHNSQrpeIkWPOTLr7dVr7+jJ3AA/Ue9Bks7REGl9Se6A2M/Iwum2EL9JwH35wK2nbltRcdf+7cIdw2X37e1aMvW+OGJtHvXKdv4DqH0L33j6PxsFqzf4LhnlITkDpCOfuqTzXv4cYSPK7Ahqqb7FxbxowEqOwvWvt6530W74wF+yAzfhJq89dGX+NiIB3xpZZDYE/KwWads00IitFZhUIoFkEdSv9mXB/W1o0UFl+8PBaaFsR8mynuGdVFTNacRYbPGv1z4QKeMHoqElBx+qLRRZKS5aEUCjQebINF5EFXUB52Ijco0bzzcNTYUE3EfYS4RWLMKa4cRyWlOLqgUy+yAj+3UwufujpDilTE0UDRQQmICsxvi+R1t+17l7L0LR3lfmHLnXuySti+MUClUuOjQ==;fdQD8tXGh2rNQtcHvg8QUg=="

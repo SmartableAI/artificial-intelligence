@@ -25,16 +25,21 @@ images:
 
 related:
   - title: "World Artificial Intelligence Conference to kick off in Shanghai"
-    excerpt: "The World Artificial Intelligence Conference will kick off Thursday in Shanghai, with over 500 companies and agencies participating in the event on the theme of \"Intelligent"
-    publishedDateTime: 2020-07-08T04:18:00Z
-    webUrl: "https://technology.inquirer.net/101818/world-artificial-intelligence-conference-to-kick-off-in-shanghai"
-    ampWebUrl: "https://technology.inquirer.net/101818/world-artificial-intelligence-conference-to-kick-off-in-shanghai/amp"
-    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/101818/world-artificial-intelligence-conference-to-kick-off-in-shanghai/amp"
+    excerpt: "The World Artificial Intelligence Conference will kick off Thursday ... unmanned driving, education, healthcare and blockchain, among other topics. SenseTime, a leading AI unicorn from China focusing on facial recognition, deep learning and supercomputing ..."
+    publishedDateTime: 2020-07-08T08:45:00Z
+    webUrl: "https://www.thejakartapost.com/life/2020/07/08/world-artificial-intelligence-conference-to-kick-off-in-shanghai.html"
+    ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/07/08/world-artificial-intelligence-conference-to-kick-off-in-shanghai.html"
+    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/07/08/world-artificial-intelligence-conference-to-kick-off-in-shanghai.html"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 54
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 74
+    images:
+      - url: "https://img.jakpost.net/c/2018/12/13/2018_12_13_60766_1544675746._medium.jpg"
+        width: 747
+        height: 446
+        isCached: true
 
 secured: "FlJZNh1j9l0waBglawB6iIOh5VMqh+Fpp+qB9BNFi8+0//UdUVTbg1ppS3PhsHz7gNm+nyPX24dGTGiCIfiHFWYdKXC471WzVc0cGtSuPiaCqteDAUV6CLGOg50PUtIGM/GxHyRrYSlmbedwuBrdbGrGDbg66RbSRVx+1EHESRWQUvM2BoAvBfMMs0ifAuMlU9FebqUIw0wyYXJ6I5Dog8PJ9ltMOqd3wbfs/mHwrov1Wf+F83mREMYcI0JK5NAXc2hkTsL8HpbGMAdh6iZV+cmceY+c4XnxbCeTAo30YiQPcT/PAcmD0GmnRujzmtlu+s2h+k0S1yOBEDQLNp1GqQ==;fRgLokAb7s340v8QBTLpEA=="
 ---
