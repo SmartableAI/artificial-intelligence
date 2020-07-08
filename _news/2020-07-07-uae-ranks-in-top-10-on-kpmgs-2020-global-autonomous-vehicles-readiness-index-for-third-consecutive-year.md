@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-07T15:42:00Z
 webUrl: "https://menafn.com/1100446585/UAE-Ranks-in-Top-10-on-Kpmgs-2020-Global-Autonomous-Vehicles-Readiness-Index-for-Third-Consecutive-Year"
 type: article
 quality: 7
-heat: 17
+heat: 7
 published: false
 
 provider:

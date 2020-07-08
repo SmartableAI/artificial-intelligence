@@ -24,6 +24,17 @@ images:
     isCached: true
     title: "Researchers use machine learning to build COVID-19 predictions"
 
+related:
+  - title: "Hearing on COVID-19 & Use of Artificial Intelligence"
+    excerpt: "Watch LIVE On July 08 | 12pm ET | C-SPAN.org 2020-07-08T12:00:00-04:00https://images.c-span.org/Files/77c/1594160817.jpgThe House Financial Services Task Force on Artificial Intelligence (AI) examines the use of AI technology to combat the coronavirus ..."
+    publishedDateTime: 2020-07-08T11:47:00Z
+    webUrl: "https://www.c-span.org/video/?473693-1/hearing-covid-19-artificial-intelligence"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 17
+
 secured: "IPDs1tyvF8DqTYpM3ihjzoleAo/zDx4B9mfqJZwWVsRobMyym5TpWK1hkDSUSBSWoLSd9fc8RtQY3ZBWhdcUzLQ/zSFWcDrYdOODNMRqnCmfziNdh91Eu1jkxtie1gl7A/icUS4k1FtJ1Zpbh6zfhtJOwSOyCJYtujitdHN+kvfyDndPl+ClzOkDbcc2qG5DQWHYXuXtMDUeyuaZNUp/K8faakaPHjhltOi5hKn0u9CVSSMzJ6N4yDFZs+/N2aGYV8doubRXCFeq8kRpbUHJy1+fewxK/u+cYFHjFMENgKmrWKp2RZkb/mZ+4VqWoeyBg6ZwFlyCd7xlhwALbulzWIDa4nFsUiYQoBwLxRyxNKpWnfHNO12mdFVIDF+jOq48/N1OEEM79Obhni1fan43xcICe2Fr4Tb49/G4W78aJbaqfc/Vrrxr3mdoNLTCTcg3n0xmfsWwkIYZG2yvkGn31m5g81v/Zln3N8aSd+iyySlwykjkNonGek4yKSw1Dg17;FQ6EhT4ydgEEIDku54F7OA=="
 ---
 

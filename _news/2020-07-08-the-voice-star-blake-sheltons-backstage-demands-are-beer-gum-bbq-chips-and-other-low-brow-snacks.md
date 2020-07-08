@@ -7,6 +7,7 @@ webUrl: "https://www.cheatsheet.com/entertainment/the-voice-star-blake-sheltons-
 type: article
 quality: 9
 heat: 9
+published: false
 
 provider:
   name: The Cheat Sheet

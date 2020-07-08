@@ -52,6 +52,20 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 54
+  - title: "Tech: Welcome, Robin the AI robot"
+    excerpt: "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character — one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital."
+    publishedDateTime: 2020-07-08T12:12:00Z
+    webUrl: "https://www.tunisiesoir.com/tech/tech-welcome-robin-the-ai-robot-22068-2020/"
+    type: article
+    provider:
+      name: Tunisie Soir
+      domain: tunisiesoir.com
+    quality: 54
+    images:
+      - url: "https://www.tunisiesoir.com/wp-content/uploads/2020/07/Tech-Welcome-Robin-the-AI-robot-696x464.jpg"
+        width: 696
+        height: 464
+        isCached: true
 
 secured: "HRwLHWICknNKuvF9d5VpLyvtuniCQu5xJceNUB/FDmFJEDtXofG3WN8OEEjEDISuRIz6uU1CRZaF1om+SIBIWzmRu77y0xVoQEufj8o9PPy49WmCbghsRfLWPLmFaY4h0f7VQcFiEGlGzl4wim7tgerXCGwBP0IsXCEMklkPptdf1PmpMYjwBEu2wNLgir1qD23xQ+bNDNqvJrLktfFkGxtrZXIbu6zzPqxrb5E3xqBbW/h+YSOD7JrmxsYofv6zCDULknEo2q2U/fOtpSkzY9onDmVrDjcfycnbdRrSfXdBWa/Ax2cWzUn4jvwId4NQqThiBma5iDir/lujIXE9fqdzDpJ8gRvfITF+9iFuhW5RELm6mPfML5wPj6sCQjNU7O1xZKT1nqI+ENrSg7LSUoHeCaS5Wvwhz93ASZIQ2ULJfWVrIR6veHqNNXpsoDu1+MxfLIA86fHYEEJhGkbmSr87aec+yF+zFQPm42BMdTd4BMijfNsts4PhbVgRJYoswCFB/EltpJ79dCeh9M/Ypw==;+1j0banvQqlExQmXaR7iLA=="
 ---

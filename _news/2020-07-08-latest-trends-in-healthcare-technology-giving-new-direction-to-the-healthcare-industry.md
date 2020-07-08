@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-08T04:17:00Z
 webUrl: "https://www.cioapplications.com/news/latest-trends-in-healthcare-technology-giving-new-direction-to-the-healthcare-industry-nid-5992.html"
 type: article
 quality: 31
-heat: 41
+heat: 31
 published: false
 
 provider:

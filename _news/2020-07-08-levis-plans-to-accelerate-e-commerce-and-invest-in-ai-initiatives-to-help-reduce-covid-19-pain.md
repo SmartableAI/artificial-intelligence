@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/levi
 type: article
 quality: 47
 heat: 47
+published: false
 
 provider:
   name: Diginomica
@@ -25,6 +26,6 @@ images:
     isCached: true
     title: "Levi’s plans to accelerate e-commerce and invest in AI initiatives to help reduce COVID-19 pain"
 
-secured: "C4/BO8KbINhVhr84YPDLI4UkL8UIU3bCK1hKTacwHWB/E8w1jd8pdipBqiCXwqDyXMf8Iu/DeULpxuhrcsfUg5vFg31/4TNJa0MM065JUHssYTrZ8Hajy6Hnrs4I0ol55wAIU47STYMHdCubS3n/gDqVSLbfZ8Aqsp04XRHSkjZj0bfb4yiGyGoViL/FDwO8NvfyoL2bUiiPk+Yb5VNTn0DSXRF6bAneTk/Xlcs2hhFraiXsnS4JjNkAVTQ7LYg7Z9tFX4TWNF0ru7mJlClgd0Wniyot5HmKzfEdR02LozVDdVJiQH2jqqnJJgfGW6pS/qziXFmWGpG4sKUnQPzpQA==;D/tQrfP5AlJSUs/qs4xbig=="
+secured: "FmyyYb2Dni01vjyoQ28RPpWlGM30Q2NQspZlAwqLV+z+Ht6Fm5O4XVi5T5+E86mIlP0lsdZNp6siHzhO+jmTGa6y0YDvJyu0ck2xK924ZDhLbfVkEkgqJPsPkfN5vf6VJp+hZae5Ce6I9B36THq80Wo1x5+4ClK30szLtDVfyFitEQnTF90yt7xL/GwfG7R0ienmKYde0vi6HGGWZLQ/m4J8CuahM1fJaVsiPB/VwAZbBk7inCR7T+zlMG0c4gXOOOUX5hHXFMhr9c5RvDbjsc5ZTzyPkKWPsuSHsq6fDs5L4/IZjjvObWuMEScP/9rcL7yGtNFFhMrRaJ55Yo/mNcnRGXcnqriQbyY0hUcxhbYAcv7OzfV7o2YJxK0iVb+OFHnHQ2nruoZXA9dSCctWxhlXGHLTaxRQf54mPYR6Xl/r24AOyt3DWhRpsTwQXwyQtK7LnI63Wp/oS8E/aIWdhmaB7OIlhWwYjCmSDKysIvda96jb/s/rPjsQYy7agXa/;sGQKRMivHMNCeaxSYs8Kkw=="
 ---
 

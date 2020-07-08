@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-07T23:13:00Z
 webUrl: "https://www.arnnet.com.au/article/681144/max-kelsen-achieves-aws-ml-competency-status/"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

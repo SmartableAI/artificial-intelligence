@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-06T06:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-growing-at-4080-cagr-to-cross-usd-38442-million-by-2027-2020-07-06"
 type: article
 quality: 46
-heat: 56
+heat: 46
 published: false
 
 provider:

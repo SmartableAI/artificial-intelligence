@@ -7,6 +7,7 @@ webUrl: "https://www.electronicsweekly.com/blogs/gadget-master/arduino/gadget-bo
 type: article
 quality: 24
 heat: 24
+published: false
 
 provider:
   name: Electronics Weekly
@@ -23,6 +24,6 @@ images:
     isCached: true
     title: "Gadget Book: TinyML for the Arduino"
 
-secured: "JS3TtCLs9SEWSFUltyIrAKS1/F1TgYKM8U5kK29W1icdJcjm7JQ7BvnALCsotsALrdpp7jMZwA9qSBSzci1byqUjWZLpOy4f7lTffxdK+djNtoSSvT1352IDj78JQiKcJInR8k2lsyM2ust0elD/HHKPKmLEMvEpihxUcTdScWrVhM5lVrW3VR1Mi9pLScKnVwcOyUgO8KXUUJ0l/iQiIAymkj0zReiMY/BMcQngCnvyH9cqTcfUL9xwZsQEQdtbtjlZaTQNOkQfJEMR/bp055IXWk8vqCk1KDbXQVTa5DrRObd1GhUBkaVD/z9slFvISyqmXkIsOzzxCdQaROi6uw==;tW4iWV1vGC8AK3swwRTdig=="
+secured: "0v8KioYx4idhKYhrPyCDwg2S0E1CizxFDHpwW7kN3Cf7cVcgEz5uzwVcFXD4bStOZP+IUiejBns/83OAp3qfRCntmozUSVps0brmn8t3Use/hc3U+8+eMti2RD7KX3JrZfNxL8RBOmHVkrRkG+ujkCBuRCFIiX1r+FQBr8keW2V9k/xAwsTXg9eKtdvmDBT4Y7ZGyXJeC8iyM0D3yVkXUxRnqUfHq+iaDZt8dFNl8P4lOELdCE7hnm4NJZDJ73Rq63PDFNyNCjCrKW0ZXg8Abka53rDlcFgQAgAtbqWzKFUQA4uZgsgeV9DMNvqap4EJ+RO3to/qoxT/4RvZnSRn+24ZpcDSesmMNfOP3dbjG64OLTjsrp5uhHzJ3zJMLGZUOOllDEUY8QYRF3/Gfi3oGRsdPowL2FvZomTvrhaAoEg0UeFUS3Zb9wt2lub9j7ebA/LP4lpYMwXl2GHeG7LO5frBWxJtm5hnA5b9ipRzFgMIxBL9XjscfArYpRFNwYSJbDJGE+qoXS37S0lPiXcd2A==;Wy7N6Q3++K5801u0aOSbmA=="
 ---
 

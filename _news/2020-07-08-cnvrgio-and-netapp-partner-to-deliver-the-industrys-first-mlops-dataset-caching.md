@@ -7,6 +7,7 @@ webUrl: "https://www.prnewswire.com/il/news-releases/cnvrgio-and-netapp-partner-
 type: article
 quality: 34
 heat: 34
+published: false
 
 provider:
   name: PR Newswire

@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/
 type: article
 quality: 80
 heat: 80
+published: true
 
 provider:
   name: The Verge

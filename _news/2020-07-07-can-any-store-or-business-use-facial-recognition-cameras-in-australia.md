@@ -27,6 +27,15 @@ images:
     title: "Can Any Store or Business Use Facial Recognition Cameras in Australia?"
 
 related:
+  - title: "Clearview AI ceases offering its facial recognition technology in Canada"
+    excerpt: "Clearview AI has advised Canadian privacy protection authorities that, in response to their joint investigation, it will cease offering its"
+    publishedDateTime: 2020-07-06T20:03:00Z
+    webUrl: "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/"
+    type: article
+    provider:
+      name: Newswire
+      domain: newswire.ca
+    quality: 116
   - title: "Clearview AI stops facial recognition sales in Canada amid privacy investigation"
     excerpt: "Officials said Clearview AI will no longer operate in Canada, but investigation into Royal Canadian Mounted Police's use of Clearview's AI will continue."
     publishedDateTime: 2020-07-07T00:11:00Z
@@ -59,17 +68,36 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Clearview AI stops offering facial recognition technology in Canada"
-    excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
-    publishedDateTime: 2020-07-06T21:12:00Z
-    webUrl: "https://www.nasdaq.com/articles/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-07-06"
-    ampWebUrl: "https://www.nasdaq.com/articles/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-07-06?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/clearview-ai-stops-offering-facial-recognition-technology-in-canada-2020-07-06?amp"
+  - title: "Shady Face Recognition Firm Clearview AI Says It's Left Canada Amid Two Federal Investigations"
+    excerpt: "Dystopian, U.S.-based face recognition firm Clearview AI has suspended its contract with the Royal Mounted Canadian Police (RMCP), effectively locking its business out of Canada entirely, Bloomberg reported on Monday."
+    publishedDateTime: 2020-07-07T07:30:00Z
+    webUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344"
+    ampWebUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 92
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
+    excerpt: "TORONTO — Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy ..."
+    publishedDateTime: 2020-07-06T20:49:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/07/06/technology/06reuters-clearview-ai-canada.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
     quality: 84
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Clearview AI stops offering facial recognition technology in Canada"
     excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
     publishedDateTime: 2020-07-07T01:48:00Z
@@ -113,21 +141,21 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Shady Face Recognition Firm Clearview AI Says It’s Left Canada Amid Two Federal Investigations"
-    excerpt: "Dystopian, U.S.-based face recognition firm Clearview AI has suspended its contract with the Royal Mounted Canadian Police (RMCP), effectively locking its business out of Canada entirely, Bloomberg reported on Monday."
-    publishedDateTime: 2020-07-07T02:30:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/amp/"
+  - title: "Editorial: The problems with facial recognition technology"
+    excerpt: "Face recognition also can be problematic when manipulated by overzealous law enforcement agencies trying to match driver’s licenses photos to an artist’s sketch or surveillance cameras capturing indiv"
+    publishedDateTime: 2020-07-05T07:15:00Z
+    webUrl: "https://wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.html"
+    ampWebUrl: "https://wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.amp.html"
+    cdnAmpWebUrl: "https://wcfcourier-com.cdn.ampproject.org/c/s/wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.amp.html"
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 62
+      name: The Courier
+      domain: wcfcourier.com
+    quality: 59
     images:
-      - url: "https://www.pedestrian.tv/content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/5/38/538f3af9-22c9-5cca-aff0-3bc28fa4dbc0/5efcaa1d0223f.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Facial recognition technology displays clear racial bias"
     excerpt: "Across the world and within the United States the use of facial recognition technology is on the rise. Touted as a powerful security tool, facial recognition has been rolled out nationwide with ..."
@@ -144,6 +172,36 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
         width: 1250
         height: 805
+        isCached: true
+  - title: "Groups demand feds ban use of facial recognition technology"
+    excerpt: "OTTAWA -- Dozens of groups and individuals working to protect privacy, human rights and civil liberties want the Trudeau government to ban the use of facial-recognition surveillance by federal law-enforcement and intelligence agencies. In an open letter to ..."
+    publishedDateTime: 2020-07-08T10:28:00Z
+    webUrl: "https://www.cp24.com/news/groups-demand-feds-ban-use-of-facial-recognition-technology-1.5015233?cache=yes%3FclipId%3D373266%3FclipId%3D89530%3FclipId%3D373266"
+    ampWebUrl: "https://beta.cp24.com/news/2020/7/8/1_5015233.html"
+    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2020/7/8/1_5015233.html"
+    type: article
+    provider:
+      name: CP24
+      domain: cp24.com
+    quality: 59
+    images:
+      - url: "https://beta.ctvnews.ca/cp24/en/news/2020/7/8/1_5015233/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
+        isCached: true
+  - title: "Clearview AI's exit from Canada builds on a pivotal moment for facial-recognition technology"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Facial-recognition startup Clearview AI informed Canadian privacy protection authorities that it would no longer operate in Canada ..."
+    publishedDateTime: 2020-07-08T14:59:00Z
+    webUrl: "https://www.businessinsider.com/clearview-ai-exits-canada-at-pivotal-time-for-facial-recognition-2020-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/5f05ceb24dca681ce8613f96?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Clearview AI to end facial-recognition services in Canada: privacy commissioner"
     excerpt: "The federal privacy commissioner says U.S. firm Clearview AI will stop offering its facial-recognition services in Canada in response to an investigation by the commissioner and three provincial counterparts."
@@ -186,20 +244,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 54
-  - title: "Clearview AI ceases offering its facial recognition technology in Canada"
-    excerpt: "Clearview AI has advised Canadian privacy protection authorities that, in response to their joint investigation, it will cease offering its"
-    publishedDateTime: 2020-07-06T19:43:00Z
-    webUrl: "https://www.newswire.ca/news-releases/clearview-ai-ceases-offering-its-facial-recognition-technology-in-canada-838440431.html"
-    type: article
-    provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 53
-    images:
-      - url: "https://www.newswire.ca/content/dam/newswire-ca/logos/cnw_en_facebook_sharing_logo.png"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Clearview AI to end facial-recognition services in Canada, privacy commissioner says"
     excerpt: "Clearview AI’s technology allows for the collection of huge numbers of images from various sources that can help police forces, financial institutions and other clients identify people"
     publishedDateTime: 2020-07-06T19:31:00Z
@@ -227,6 +271,36 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 49
+  - title: "Facial recognition technologies echo the historical problem of linking appearance with criminality"
+    excerpt: "Several startups now claim to be able to use artificial intelligence to help employers detect the personality traits of job candidates based on their facial expressions. In China, the government has pioneered the use of surveillance cameras that identify and track ethnic minorities."
+    publishedDateTime: 2020-07-07T18:05:00Z
+    webUrl: "https://scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
+    ampWebUrl: "https://amp.scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 45
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/125973-gngajbjuaf-1566471406.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Africa: Future of Facial Recognition Technology in Africa"
+    excerpt: "Analysis - When several United States (US) companies withdrew their facial recognition software products amid concerns about flaws, biases and misuse in the wake of the killing of George Floyd, did leaders in sub-Saharan Africa take note?"
+    publishedDateTime: 2020-07-07T07:21:00Z
+    webUrl: "https://allafrica.com/stories/202007070165.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 41
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
   - title: "Big Tech's Wish List for National Facial Recognition Law"
     excerpt: "Tech companies want a national facial recognition law that balances consent and transparency. But keep Illinois' Biometric Information Privacy Act and its private right of action out of the discussion,"
     publishedDateTime: 2020-07-06T14:09:00Z
@@ -283,21 +357,33 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "ID Verification Solutions Provider Trulioo has Developed New Facial Recognition and Document Authentication Software"
-    excerpt: "ID verification solutions provider Trulioo has developed new facial recognition and document authentication software."
-    publishedDateTime: 2020-07-08T11:28:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/amp/"
+  - title: "Moscow’s Use of Facial Recognition Technology Challenged"
+    excerpt: "Activist Alyona Popova and politician Vladimir Milov have lodged a complaint over Russia’s use facial recognition technology during protests to the European Court of Human Rights. Their lawyer, Kirill Koroteyev,"
+    publishedDateTime: 2020-07-08T04:05:00Z
+    webUrl: "https://www.hrw.org/news/2020/07/08/moscows-use-facial-recognition-technology-challenged"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 36
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 39
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face-600x595.jpeg"
-        width: 600
-        height: 595
+      - url: "https://www.hrw.org/sites/default/files/multimedia_images_2020/202003eca_russia_cameras.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Facial recognition technology is one of the most racist weapons in the police arsenal"
+    excerpt: "Thanks to the growing global anti-racism movement, the world is opening its eyes to how police use of facial recognition fits into the bigger picture of harm against Black and Indigenous people -- and how badly we need laws that govern,"
+    publishedDateTime: 2020-07-07T00:33:00Z
+    webUrl: "https://rabble.ca/columnists/2020/07/facial-recognition-technology-one-most-racist-weapons-police-arsenal"
+    type: article
+    provider:
+      name: rabble.ca
+      domain: rabble.ca
+    quality: 32
+    images:
+      - url: "https://rabble.ca/sites/default/files/node-images/img_0.png"
+        width: 865
+        height: 441
         isCached: true
   - title: "Group urges feds to ban facial recognition tools citing a violation of Canadian rights"
     excerpt: "Dozens of groups and individuals working to protect privacy, human rights and civil liberties want the Trudeau government to ban the use of facial recognition surveillance by federal law ..."

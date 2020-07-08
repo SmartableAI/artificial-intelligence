@@ -7,6 +7,7 @@ webUrl: "https://www.mining.com/artificial-intelligence-to-guide-maple-golds-dri
 type: article
 quality: 51
 heat: 51
+published: false
 
 provider:
   name: Mining

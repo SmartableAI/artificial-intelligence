@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/20
 type: article
 quality: 73
 heat: 73
+published: true
 
 provider:
   name: VentureBeat
@@ -29,6 +30,6 @@ images:
     isCached: true
     title: "Facebook civil rights audit urges ‘mandatory’ algorithmic bias detection"
 
-secured: "a8Zz4xOFBBswt91hJORXsyXulifCghNbqMxOIv4RCBO4zpwue265KOmfaog2CikYQv6RNnYpeixGM7r+gC+xJhJvD4bUehUgN4JnOy9+wwoDK08v2Wn+4nTXCLfYG7bCgblVMyxoko0dDcl59qhNQoqIn4FY64QzXNBU+GEJakhgMdmHH45EC4MbNc3XivBuQX/TigLuoqf5WtMfwgEj9D/ywgTAOqB8Rkr91OfPfSPYjYxjpmixeQWooPCru+TbBI0bj/YbnjpK+4hU7FPI+fXGZDJLN/201wEqECkUNWHYj2wnAKzSs2APiZNCq3GR8ZmP6emz0mIBNQlspySvlg==;V1GF4L2byk4DgYPvWs6c9g=="
+secured: "liEgjt8rcyDpbe9MrUsIJQBpHTl5dnhW99pBDPupm/uE1qcmoDPCB+O2u6/vRk+DGqjVI4jk8CdDSORlNGTlKa/MiWfvs/bRw8i66mAnsjJ/b9fcJTizLO/gLbXaB+SqatKgThZ245accbpgGAodC49uQAVUIYjVYHYn86KjJPRxZTNuBMo5kBNgNJmSo+VH1Lq/3ojQ5xTCE28PvgNEYnvW42vL0a2xqJou+lxKFVEBdJgS1e598b+1ElBnEhkJINVtR0UpRxMt1KDRcIjIrMJYqnB0QAjGtQ1OAeeh2btIYvtKDVEUPwt42gREd1AHeyrTOQjP8oqqJHBi6atQ+bPdSv1Lox/CmavwoRQDIwMCpZpewLBwDokd/8IPTZ4Pem2pQyUCmmFyNICIgsPEu7X33ftho3n2NFWlMH0XJJ9HJ0TTXidXPXEuLPTlH+YpjngPzflE9M2z4HAbTMCT9afYfj4RgeuvGv1EfQIYuK3hY1Q2ZvS7z0klnIBhQT394461yiTmvbqPzyuyfxvVrA==;IH9Mb9wgNIj2lZuQF9iUvg=="
 ---
 

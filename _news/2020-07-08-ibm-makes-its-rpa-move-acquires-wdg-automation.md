@@ -8,7 +8,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-makes-its-rpa-move-acqu
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-makes-its-rpa-move-acquires-wdg-automation/"
 type: article
 quality: 74
-heat: 74
+heat: 104
+published: true
 
 provider:
   name: ZDNet
@@ -29,6 +30,39 @@ images:
     isCached: true
     title: "IBM makes its RPA move, acquires WDG Automation"
 
-secured: "hP4iZx/Cnxfl02/nZlMnKQZaYQap5Dx4zBdhukwJB/WLJCndxMCnc1OmQJWbUbjhZfJd1qBpyekh/B0iltTn2zV/XpNNXiXVM6S1ZpSj00zNPyJIxFbN85x6/XN75GfaoSkIZxpkkSINuiNQmq+vOqRsk6aU08ZFcuk8DCB5RDOESfImzv3oI/x6cp2UKz0gjpV5b5Qcb5qrOyOH+vryjbASsk8IdtqN090DCjMHzpY0JTWzJn5l0c7fDQSQJ4FB/t+mqudTGpFqn3/JpLoXmlro/oF4xya9YpJHZZn0upJYqRu0uYag+lhNOdPmND632m2qMsl2M3WixVMbXK4eTQ==;KZiS9Dk1Wwhx+m0X8bwlBQ=="
+related:
+  - title: "IBM to Buy WDG Automation"
+    excerpt: "IBM has reached an agreement to buy WDG Automation, a robotic process automation (RPA) company. The Brazilian company produces software based on artificial intelligence (AI) that"
+    publishedDateTime: 2020-07-08T15:11:00Z
+    webUrl: "https://www.fool.com/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 54
+  - title: "IBM To Acquire WDG Automation For Undisclosed Financial Terms - Quick Facts"
+    excerpt: "(RTTNews) - International Business Machines Corp. (IBM) said Wednesday that it has agreed to acquire WDG Soluções Em Sistemas E Automação De"
+    publishedDateTime: 2020-07-08T12:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-1029376360"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+  - title: "IBM acquires RPA company WDG Automation"
+    excerpt: "IBM (NYSE:IBM) will acquire robotic process automation software company WDG Soluções Em Sistemas E Automação De Processos LTDA for undisclosed terms."
+    publishedDateTime: 2020-07-08T12:41:00Z
+    webUrl: "https://seekingalpha.com/news/3589431-ibm-acquires-rpa-company-wdg-automation"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
+
+secured: "Llh9BgueIauQKvCzn0+OQjREsBUH1rGviZ3l50G8wV3wna6c+UbxAh0FirUM6DD5DFKUvSd3IrXOc7UGpNs6gybIBei8YTMcZlMi0MvwpHZY/O1EM56mR24oJ/E2SzQiBWJ86J8ItmjsJS8bjv03+Yg9mV0AyojV4idvvpyTsA5UkCSIFvMHgatfyJ3GYcxXvhks5+nQB2Fc811fCHQGIEb35A8rBbncypLci26/pdG3CuvFWuGqSPh6YjCQdNcGkHyPtS7gaDGXAyeQg7dFwcAv0kExmtUaRExrOVqzmvdTCajUNw5QLl+HnbFTaPyPZaNz58Rm0uMQxbDsT/gSMEU5AXy7zBlpfQ59wcZHrSANnNm4zLZ+CiFu7QYtc0DGxFELoskvuU2gPA2UuJhOXnbM2F1tT/8ug5lXlMHcTstKKB8mlVvIe0Td4ASGo9pKkEvpVcJc5gwxiF26E09kQhP2rQltPuuAhJ3OBvaeJtqwrqP6a7g7zOZ3nefOyRAA6nZ+4YJdrvQYWeOiBvoTZw==;ElOROLiQBOCVwMX9JgpDDQ=="
 ---
 

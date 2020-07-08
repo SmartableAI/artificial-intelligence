@@ -8,7 +8,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/nuance-gatekeeper-voice-biom
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/nuance-gatekeeper-voice-biometrics-strengthen-security-co-11853-ga.1591714327.html"
 type: article
 quality: 38
-heat: 48
+heat: 38
 published: false
 
 provider:

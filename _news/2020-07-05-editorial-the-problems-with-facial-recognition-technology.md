@@ -189,6 +189,20 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "Clearview AI's exit from Canada builds on a pivotal moment for facial-recognition technology"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Facial-recognition startup Clearview AI informed Canadian privacy protection authorities that it would no longer operate in Canada ..."
+    publishedDateTime: 2020-07-08T14:59:00Z
+    webUrl: "https://www.businessinsider.com/clearview-ai-exits-canada-at-pivotal-time-for-facial-recognition-2020-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/5f05ceb24dca681ce8613f96?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Clearview AI to end facial-recognition services in Canada: privacy commissioner"
     excerpt: "The federal privacy commissioner says U.S. firm Clearview AI will stop offering its facial-recognition services in Canada in response to an investigation by the commissioner and three provincial counterparts."
     publishedDateTime: 2020-07-06T20:50:00Z

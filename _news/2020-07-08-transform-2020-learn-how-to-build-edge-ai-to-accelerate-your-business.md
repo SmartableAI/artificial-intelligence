@@ -7,8 +7,9 @@ webUrl: "https://venturebeat.com/2020/07/08/transform-2020-learn-how-to-build-ed
 ampWebUrl: "https://venturebeat.com/2020/07/08/transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +22,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/VB-Transform-2020.png?w=1200&#038;strip=all"
@@ -29,6 +31,6 @@ images:
     isCached: true
     title: "Transform 2020: Learn how to build edge AI to accelerate your business"
 
-secured: "sQwg24l3sKG6FY1UZAwIgUcQdiWwrB5X7et+fU3W1c6Mv6HI+O3Bl63BNzVD9mO62rt/RToFj2Ug8T5EAD/FEPl6IRk3+qBowZKzB3M+if7YbCAF3MBauENqWmTJRa8x0VyliFIPAyDUvaVDEWMJfEwXi9pWCzaNM2ddX8JdgtwFll1LOACzkrPRk6DVuw6o2G6vv4U21OKTnYYdG9YaA+/Mj7YswM0HMjPPdkeS1PydyPwTzkhXMRuS/+7KftKz1ynZdEX95jco5EgQnY669EsXhLV0Boyqz9wyjlzZafuKtaVDerHBRPG5KztbILA9Xh8XtxamqlX/MTB7Z9gyzg==;fCDXIpz6+CFAu2bk1pi4FA=="
+secured: "N+YmC+Tj9VN7b4+LOTKx/0sEkVZPn5IZzf9YyIAPBOL/QHqdKUinek2pI/njm74jibFPqbD79jo38Daq/VBUGnldxr17UiaQ59Cb+UweFPOktKsgynqwfGcrGsxzX4yFki6pKsT+gWR5b7XgFv6BxcMIF70PnW+3F6U0rdcKqxqCFnmwQHnReADRzKkzNN4jjdjOAy+4KEWo9vkGylitb+FX9XpRyRK8QLhan5QDjEKOYbuOWFRDI2uSjDjiisxx+e2nw4pIKWpIK976ZQIK/fzPJ9TR/y3sMyVDmteTRUvzJFRKBT2k8GBoJblUKL3OMXJzXvuJCcfeLiHcs+Y5UFmunoYBmocXiBacZdECpN4RLBR5mMm3v/bnU6jejIiDn+nm9Cmw7KJrniZafbFQ4VTlg+rllb2pDtrZhxQJ4UnKcZs8hKEqDdXzfZWM+pa9TeBUjZoCYP8AHSwFet4jV8+nlt1v6inw6+zzLNUWsa1HIDA0XnwFdzXNNFbcUhtg5bhvsvlQb5aynLWrpvPwkA==;cJRJe0sYpAS2VkH8xLl8XA=="
 ---
 

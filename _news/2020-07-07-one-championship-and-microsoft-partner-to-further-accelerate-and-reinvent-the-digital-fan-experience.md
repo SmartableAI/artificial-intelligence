@@ -39,6 +39,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience"
+    excerpt: "Through Azure AI, machine learning and data analytics, ONE will expand its core data capabilities and transform its direct-to-consumer digital experiences. To further delight fans, ONE will provide them with unique sets of data and statistics to better ..."
+    publishedDateTime: 2020-07-08T13:11:00Z
+    webUrl: "https://www.sportskeeda.com/mma/one-championship-microsoft-partner-accelerate-reinvent-digital-fan-experience"
+    ampWebUrl: "https://www.sportskeeda.com/amp/mma/one-championship-microsoft-partner-accelerate-reinvent-digital-fan-experience"
+    cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/mma/one-championship-microsoft-partner-accelerate-reinvent-digital-fan-experience"
+    type: article
+    provider:
+      name: Sportskeeda
+      domain: sportskeeda.com
+    quality: 24
   - title: "Microsoft services chosen by One Championship"
     excerpt: "Through Azure AI, machine learning and data analytics, One will expand its core data functionalities and transform its direct-to-consumer digital experiences. To further delight fans, One will provide them with unique sets of data and statistics to better ..."
     publishedDateTime: 2020-07-07T07:36:00Z

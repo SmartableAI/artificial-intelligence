@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-06T17:16:00Z
 webUrl: "https://www.marketwatch.com/press-release/predictive-oncology-reports-first-quarter-2020-financial-results-provides-business-update-2020-06-08"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

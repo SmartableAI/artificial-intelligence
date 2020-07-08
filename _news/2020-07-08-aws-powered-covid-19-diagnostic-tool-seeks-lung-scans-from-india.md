@@ -7,6 +7,7 @@ webUrl: "https://menafn.com/1100452786/AWS-powered-Covid-19-diagnostic-tool-seek
 type: article
 quality: 19
 heat: 19
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

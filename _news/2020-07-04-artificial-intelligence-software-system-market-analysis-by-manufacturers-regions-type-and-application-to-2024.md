@@ -28,61 +28,33 @@ images:
     title: "Artificial Intelligence Software System Market Analysis by Manufacturers, Regions, Type and Application to 2024"
 
 related:
-  - title: "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025"
-    excerpt: "Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023” To Its Research Database This report focuses on the global Natural language processing (NLP) status, future forecast,"
-    publishedDateTime: 2020-07-03T22:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-07-03"
+  - title: "Artificial Intelligence and Machine Learning Market Size 2020 to 2026: Segmentation (Region Level) Including Market Share and Price Analysis"
+    excerpt: "Artificial Intelligence and Machine Learning Market ” Global Report (2020-2026) provides market intelligence on the different segments based on type, application and geography. Market size and forecast has been provided in terms of both,"
+    publishedDateTime: 2020-07-04T01:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-2020-to-2026-segmentation-region-level-including-market-share-and-price-analysis-2020-06-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2020 | Industry Analysis and Forecasts to 2025"
-    excerpt: "This report provides in depth study of “Natural Language Processing (NLP) in Healthcare and Life Sciences Market” using SWOT analysis i.e. Strength, Weakness, Opportunities an"
-    publishedDateTime: 2020-07-03T23:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2020-industry-analysis-and-forecasts-to-2025-2020-07-03"
+  - title: "Deep Learning Market Size and Share 2020 Latest Developments, Top Key Players Analysis, Growth Opportunities, Demand Status Forecast till 2026"
+    excerpt: "Global “ Deep Learning Market ” research report 2020 comprehensively studies potential opportunities, drivers, and challenges and evaluates their impact on the Deep Learning market growth forecast. Based on thorough primary and secondary research methodologies,"
+    publishedDateTime: 2020-07-08T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-and-share-2020-latest-developments-top-key-players-analysis-growth-opportunities-demand-status-forecast-till-2026-2020-07-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Voice Assistant Market 2020 Research Report with COVID-19 Impact, by Future Trend, Growth rate and Industry Analysis to 2025"
-    excerpt: "Global Voice Assistant Market Growth (Status and Outlook) 2020-2025 organized by researchers at MarketsandResearch.biz presents a detailed diagram of the market in terms of current and future trends driving the profit pattern."
-    publishedDateTime: 2020-07-06T01:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-assistant-market-2020-research-report-with-covid-19-impact-by-future-trend-growth-rate-and-industry-analysis-to-2025-2020-07-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market 2020 Along With Covid-19 Impact Analysis, Trends, Advancement And Outlook 2029"
-    excerpt: "Prudour Pvt. Ltd: Market.us research industry gives a complete investigation of the global Natural Language Processing market for the predicted forecast period 2020-2029. The Natural Language Processing market research study delivers deep insights into the various market segments based on end-use,"
-    publishedDateTime: 2020-07-07T16:50:00Z
-    webUrl: "https://apnews.com/775b4d969447c57b5f0abe5b055c4970"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "YZx7ZpzXZ6I5cRhnHRxpMYTwXyXaE+7a6OjApT8N/cmE+lNggWZAU+7r5F26q5zO0Y5H/nnnFy7YFVomAfoAviKyG6vB3CtqaxiMVown+7eiIr8QQmZ7b1Say07R4D2yf7mrXygpWVSggfBUMXoO566qReLgJLuXPEzDsfmqc6LWOJx+dLL3CV8ZDD20trASivaHfOdCnN7MBI7C8/OCFTp2gNzpK93nnluxWfNWTQtb6g8yE0TdgbIYd3Xk1vXSOphDmUPY+87H6ExDNWxXgGZnSlU7YRdskHb3sia+FYWQluazuRXV49Pco97zLZSIwp2HzT0RIGgilCU4WoeH9g==;+wWto/ueTpEsCx9ndXk10w=="

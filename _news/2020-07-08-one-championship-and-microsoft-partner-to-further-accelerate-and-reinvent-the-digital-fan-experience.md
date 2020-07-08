@@ -8,7 +8,8 @@ ampWebUrl: "https://www.sportskeeda.com/amp/mma/one-championship-microsoft-partn
 cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/mma/one-championship-microsoft-partner-accelerate-reinvent-digital-fan-experience"
 type: article
 quality: 24
-heat: 24
+heat: -1
+published: false
 
 provider:
   name: Sportskeeda
@@ -17,6 +18,63 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "ONE Championship and Microsoft partner to further accelerate and reinvent digital fan experience"
+    excerpt: "Microsoft named ONE Championship's preferred cloud provider, delivering new fan engagement experiences powered by Microsoft Azure and"
+    publishedDateTime: 2020-07-07T00:03:00Z
+    webUrl: "https://www.miragenews.com/one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-digital-fan-experience/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 26
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/prod/prod/prod/2020/07/ONE_ring-shot-1024x682.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience"
+    excerpt: "Microsoft named ONE Championship’s preferred cloud provider, delivering new fan engagement experiences powered by Microsoft Azure and best-in-class collaboration with Microsoft 365"
+    publishedDateTime: 2020-07-07T02:24:00Z
+    webUrl: "https://www.nationthailand.com/sport/30390882"
+    type: article
+    provider:
+      name: nationthailand
+      domain: nationthailand.com
+    quality: 24
+    images:
+      - url: "https://media.nationthailand.com/images/news/2020/07/07/30390882/800_be8b4c575054762.jpg?v=1594087764"
+        width: 675
+        height: 450
+        isCached: true
+  - title: "Microsoft services chosen by One Championship"
+    excerpt: "Through Azure AI, machine learning and data analytics, One will expand its core data functionalities and transform its direct-to-consumer digital experiences. To further delight fans, One will provide them with unique sets of data and statistics to better ..."
+    publishedDateTime: 2020-07-07T07:36:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-services-chosen-by-one-championship--1345464"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
+  - title: "ONE Championship and Microsoft partner"
+    excerpt: "Through Azure AI, machine learning and data analytics, ONE will expand its core data capabilities and transform its direct-to-consumer digital experiences. To further delight fans, ONE will provide them with unique sets of data and statistics to better ..."
+    publishedDateTime: 2020-07-07T12:04:00Z
+    webUrl: "https://advanced-television.com/2020/07/07/one-championship-and-microsoft-partner/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 19
+  - title: "ONE Championship, Microsoft partner to reinvent digital fan experience"
+    excerpt: "Through Azure AI, machine learning and data analytics, ONE will expand its core data capabilities and transform its direct-to-consumer digital experiences. To further delight fans, ONE will ..."
+    publishedDateTime: 2020-07-07T11:06:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200707/3588543.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "kzjgSZAr12d/M6y1q9z9+N6ZxQrK1dk76oM47l0Tk1qiVabMH4DjiA+0qRnuxq8S3TnDgpdotAb/T6OIkm+KC5hyIATcy0y5O4Qq+Tbd0kYTI4ejoZQc8f8MIYjoohKydHNJKhlUk8ty02ul1nZar0o0nyECO0j3bTfp5SsWjDoZMjI5GlDJ+3t7ZFD/Hj7nEhSXP6X84wQpgpskq++h9It2NCrorURYQ+jxWB1BCKn0h8dTIuetub0ARKrPKYSMMIpQHdKcjmOszdYmPnMSFWN42CpOEGBiJsgksGs421rxdnx9XW9ZAdhVnaE4JC4lrMtAi34oDs5UOj6aASX3iA==;5PFTKHYCgbT/UNJ9H7vs1w=="
 ---

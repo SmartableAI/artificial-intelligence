@@ -6,7 +6,8 @@ publishedDateTime: 2020-07-08T11:47:00Z
 webUrl: "https://www.c-span.org/video/?473693-1/hearing-covid-19-artificial-intelligence"
 type: article
 quality: 17
-heat: 17
+heat: -1
+published: false
 
 provider:
   name: C-SPAN
@@ -14,6 +15,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Researchers use machine learning to build COVID-19 predictions"
+    excerpt: "Two assistant professors from Watson School build computer models that show 10% margin of error for short-term infection forecasts."
+    publishedDateTime: 2020-07-06T20:30:00Z
+    webUrl: "https://www.binghamton.edu/news/story/2491/researchers-use-machine-learning-to-build-covid-19-predictions"
+    type: article
+    provider:
+      name: Binghamton University
+      domain: binghamton.edu
+    quality: 39
+    images:
+      - url: "https://www.binghamton.edu/news/images/uploads/features/_normal/covidcampus.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "GkiwKqI1bibhYJpP8lvOUXiC1ipbN0G9gGAj+FSQmMMOD6ah8iBNS3we2ISvW6Nk8TPwfYj5J103a3fOMtKpKkeMioiu+iJ9lXMn7lvUYtBT4Wa4jakUw3bTzoP/uY0U3gTgqEqZXGPdK4Jh1Hd0lnklPa7+grQpsKzCFgIPO7kniZ5PJfNZajzZYH1qvN7xR7ltb3dnZgvgNnaPQtjOJktdkGaaQSTIyr/6HeWK6Bz04kA6e7F2aA2IO1QnInGOq42yCZvyzJSe6Jy3yOrjkRg0IUCZZTbK7CHgU9TtomF8ipN4wqHhwK+edfcHlx7lSzlNdVxouxARaDa/M5kNsQ==;O5eR05pzXrYEQNjM2+02ow=="
 ---

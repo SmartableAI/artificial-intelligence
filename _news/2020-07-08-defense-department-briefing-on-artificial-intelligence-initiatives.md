@@ -7,6 +7,7 @@ webUrl: "https://www.c-span.org/video/?473714-1/defense-department-briefing-arti
 type: article
 quality: 17
 heat: 17
+published: false
 
 provider:
   name: C-SPAN

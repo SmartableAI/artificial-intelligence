@@ -42,6 +42,15 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "TCS Launches AI-powered Solution to Detect Wafer Anomaly in Semiconductor Manufacturing"
+    excerpt: "Tata Consultancy Services, a leading global IT services, consulting, and business solutions organization, announced the launch of TCS WaferWise™, a cloud-based wafer anomaly detection solution that leverages custom AI models to automatically detect and classify anomalies by analyzing nano-scale"
+    publishedDateTime: 2020-07-08T07:07:00Z
+    webUrl: "https://www.pr.com/press-release/816312"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 11
 
 secured: "13W+yjeKe7OpbRPU8BDK8QjSTmzBuSsRwrFoy6ZtJwdzQO98kUcjfgclTUmRrQlBuKpUOj+aWyxSZdtirfpEAxvNf3jGb0Rrb4Eh3m63Bdu1O3CQ40KxVPiJXPAVBFOKQuBKV4hv2aw2uWefJgzX1+1M2YIYkrjxRAkmbdt0LaP51ydTpyDM7QxLtzvrKE6376oGhrCNJUMGoZ79/6Oc9AVTCvnzU14qQdJUt8gSvK2CmHTkBxRPtVR2SjPD96o9t0ITPh1i1YCJqSGuOUnLbUQlTDXQxH2jxoG6fEBX3/rhq2sb+hIaMW/25YVXePfa5e1zv0EJ0ldL68D2O42hMg==;EbE512fECCJYFpTnb0lrwg=="
 ---

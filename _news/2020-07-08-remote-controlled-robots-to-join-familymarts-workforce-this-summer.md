@@ -7,6 +7,7 @@ webUrl: "https://www.japantimes.co.jp/life/2020/07/08/food/remote-controlled-rob
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: The Japan Times

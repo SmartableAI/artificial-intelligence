@@ -7,6 +7,7 @@ webUrl: "https://www.prnewswire.com/il/news-releases/runai-supports-ai-centre-to
 type: article
 quality: 40
 heat: 40
+published: false
 
 provider:
   name: PR Newswire
