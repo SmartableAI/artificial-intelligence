@@ -1,0 +1,35 @@
+---
+category: news
+title: "Royal Marsden powers virtual COVID-19 agent with IBM Watson"
+excerpt: "The Royal Marsden NHS Foundation Trust has partnered with IBM to launch an AI-powered virtual agent that will provide staff with up-to-date HR and workplace information as the UK emerges from lockdown."
+publishedDateTime: 2020-07-08T10:33:00Z
+webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356377/royal-marsden-powers-virtual-covid-19-agent-with-ibm"
+ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356377/royal-marsden-powers-virtual-covid-19-agent-with-ibm?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/356377/royal-marsden-powers-virtual-covid-19-agent-with-ibm?amp"
+type: article
+quality: 89
+heat: 89
+published: true
+
+provider:
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - IBM AI
+  - AI
+
+images:
+  - url: "https://media.itpro.co.uk/image/upload/v1570815037/itpro/watson.jpg"
+    width: 550
+    height: 326
+    isCached: true
+    title: "Royal Marsden powers virtual COVID-19 agent with IBM Watson"
+
+secured: "6fCIoRJMbM7bVcGkPxn6+P2ZfT0AK8no/6O9bEc1aC6uRPoFAbCSrfQdFoRGRXkJMBGUKLCCyvfi/uJCclr2N5pFwP1hO796BOIgRj93DRqLEMMYMNqc6AFEAgwHKP5lwk864yk5Dq+SPA37/mYTu2FY9snSRNTE65bZEsGoG2RGRrejVytPqKRZYU8/EAryKVMxJgPS1c2YXcWy2z/HkNk3FBf0uvvW/vA5Q4DWTKyDyrh3bg/CAHZaM7OMoaSZDiMyerIjne6P+lmmhX7Zu8mLsS0LeevKCV4olRO0AAFz1h++g3ul8lE21RxNre6fm2EZmMUMFMbuWtx2yAzTGQ==;sYnrO/w2bsm/2JnbEjlyHQ=="
+---
+

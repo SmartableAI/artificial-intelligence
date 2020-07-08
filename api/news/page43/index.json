@@ -2,6 +2,316 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-06-03-bbc-testing-beeb-ai-voice-assistant-with-windows-insiders.md",
+      "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
+      "excerpt": "The Beeb AI assistant aims to help users in the UK by navigating BBC services and access BBC content. There are no plans to build a device to rival Amazon Echo or Google Home, alt",
+      "webUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570815849/itpro/2017/01/voice_assistantbigstock.jpg",
+          "width": 900,
+          "height": 592,
+          "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders?amp",
+      "publishedDateTime": "2020-06-03T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-researchers-eye-embedding-artificial-intelligence-ai-into-war-games-simulation-to-beef-up-challenges.md",
+      "title": "Researchers eye embedding artificial intelligence (AI) into war games simulation to beef-up challenges",
+      "excerpt": "U.S. military researchers are asking industry to develop artificial intelligence (AI ... Officials of the U.S. Defense Advanced Research Projects Agency (DARPA) in Arlington, Va.,",
+      "webUrl": "https://www.militaryaerospace.com/computers/article/14177043/artificial-intelligence-ai-war-games-simulation",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Military",
+        "domain": "militaryaerospace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-lg-and-kt-to-use-ai-for-pandemic-prevention.md",
+      "title": "LG and KT to use AI for pandemic prevention",
+      "excerpt": "LG will collaborate with KT to use AI for future pandemic prevention, as well as for the development of new products and services.",
+      "webUrl": "https://www.zdnet.com/article/lg-and-kt-to-deploy-ai-for-pandemic-prevention/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/06/03/2912e5be-a2d1-4213-9fd1-1e9c4cef4c32/kt5-kt-5g.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": "LG and KT to use AI for pandemic prevention",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lg-and-kt-to-deploy-ai-for-pandemic-prevention/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-and-kt-to-deploy-ai-for-pandemic-prevention/",
+      "publishedDateTime": "2020-06-03T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-robot-chef-uses-machine-learning-to-perfect-its-omelette-making-skills.md",
+      "title": "Robot chef uses machine learning to perfect its omelette-making skills",
+      "excerpt": "From robots that flip burgers in California to ones that serve up bratwursts in Berlin, we are starting to see how machines can play sous-chef in kitchens around the world. But scientists at the University of Cambridge have been exploring how these culinary robots might not only do some of",
+      "webUrl": "https://newatlas.com/robotics/robot-chef-machine-perfect-omelette/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/aafb1bf/2147483647/strip/true/crop/1008x672+149+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fec%2F80%2F62314aaa432b9113b18408421b27%2Fscreen-shot-2020-06-03-at-4.28.56%20pm.png",
+          "width": 1200,
+          "height": 800,
+          "title": "Robot chef uses machine learning to perfect its omelette-making skills",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/robot-chef-machine-perfect-omelette/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/robot-chef-machine-perfect-omelette/?amp=true",
+      "publishedDateTime": "2020-06-02T23:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-facebook-paypal-back-indonesian-start-up-gojeks-asia-digital-payments-push.md",
+      "title": "Facebook, PayPal back Indonesian start-up Gojek’s Asia digital payments push",
+      "excerpt": "The deal announced Wednesday marks Facebook’s first investment in an Indonesian company and is a major boost for Gojek, the country’s largest start-up which made its name in the ride-hailing business.",
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/03/af227d42-a564-11ea-8ea0-d7434be00753_image_hires_144031.jpg?itok=sZyyj_K0&v=1591166440",
+          "width": 1200,
+          "height": 630,
+          "title": "Facebook, PayPal back Indonesian start-up Gojek’s Asia digital payments push",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments",
+      "publishedDateTime": "2020-06-02T23:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents.md",
+      "title": "BBC Beeb voice assistant is built to understand different UK accents",
+      "excerpt": "The British Broadcasting Corporation or BBC may be best known for being, well, a broadcasting company but it actually has left very important legacies in the tech industry today. The BBC Micro in",
+      "webUrl": "https://www.slashgear.com/bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents-02623480/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/bbc-beeb-beta.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "BBC Beeb voice assistant is built to understand different UK accents",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents-02623480/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents-02623480/amp/",
+      "publishedDateTime": "2020-06-02T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-ios-14-safari-to-get-built-in-translation-better-apple-pencil-support.md",
+      "title": "iOS 14 Safari to get built-in translation, better Apple Pencil support",
+      "excerpt": "The Internet has made the world a smaller place but, unless you’ve taken time to learn multiple languages, chances are you’ll come across pages that are incomprehensible to you.",
+      "webUrl": "https://www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/safari-ipados.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "iOS 14 Safari to get built-in translation, better Apple Pencil support",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/amp/",
+      "publishedDateTime": "2020-06-02T19:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-waymo-to-bring-self-driving-minivans-back-to-bay-area-for-delivering-packages.md",
       "title": "Waymo to bring self-driving minivans back to Bay Area for delivering packages",
       "excerpt": "Waymo's self-driving minivans will return to the streets of the Bay Area on June 8. The vehicles will focus on delivering packages for non-profit organizations.",
@@ -795,297 +1105,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-quantifying-defence-cascade-responses-as-indicators-of-pig-affect-and-welfare-using-computer-vision-methods.md",
-      "title": "Quantifying defence cascade responses as indicators of pig affect and welfare using computer vision methods",
-      "excerpt": "Here we evaluate whether DC responses can be quantified in pigs using computer vision. 280 video clips of induced DC responses made by 12 pigs were analysed by eye to provide ‘ground truth ...",
-      "webUrl": "https://www.nature.com/articles/s41598-020-65954-6",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-65954-6/MediaObjects/41598_2020_65954_Fig1_HTML.png",
-          "width": 685,
-          "height": 384,
-          "title": "Quantifying defence cascade responses as indicators of pig affect and welfare using computer vision methods",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-02T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-finding-the-right-business-insurance-can-be-hard-but-this-tech-startup-makes-it-easy.md",
-      "title": "Finding the Right Business Insurance Can Be Hard, but This Tech Startup Makes It Easy",
-      "excerpt": "Get a free quote from CoverWallet and find the right business insurance at the right price. Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them,",
-      "webUrl": "https://www.entrepreneur.com/article/351187",
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1590631973-CoverWalletContractorsImagebyJensBehrmannviaUnsplash.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Finding the Right Business Insurance Can Be Hard, but This Tech Startup Makes It Easy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351187",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351187",
-      "publishedDateTime": "2020-06-02T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation.md",
-      "title": "AI System – Using Neural Networks With Deep Learning – Beats Stock Market in Simulation",
-      "excerpt": "Researchers in Italy have melded the emerging science of convolutional neural networks (CNNs) with deep learning — a discipline within artificial intelligence — to achieve a system of market forecasti",
-      "webUrl": "https://scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/",
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Stock-Market-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": "AI System – Using Neural Networks With Deep Learning – Beats Stock Market in Simulation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/amp/",
-      "publishedDateTime": "2020-06-02T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-should-you-be-worried-about-cameras-in-robot-vacuums.md",
-      "title": "Should you be worried about cameras in robot vacuums?",
-      "excerpt": "Robot vacuums can now map your rooms, and some even have cameras. Is this a privacy problem? We break down what to look for and the safeguards robot vacs take.",
-      "webUrl": "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/roborock-s6-maxv-review-1-of-6-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Should you be worried about cameras in robot vacuums?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/?amp",
-      "publishedDateTime": "2020-06-02T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-yandex-reveals-its-fourth-generation-self-driving-hyundai.md",
-      "title": "Yandex reveals its fourth-generation self-driving Hyundai",
-      "excerpt": "Researchers all around the world are working hard on self-driving cars to help people unable to drive themselves to get around and take the roads around the nation and the world safer. Yandex has",
-      "webUrl": "https://www.slashgear.com/yandex-reveals-its-fourth-generation-self-driving-hyundai-02623270/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/yandex-sdc.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": "Yandex reveals its fourth-generation self-driving Hyundai",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/yandex-reveals-its-fourth-generation-self-driving-hyundai-02623270/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/yandex-reveals-its-fourth-generation-self-driving-hyundai-02623270/amp/",
-      "publishedDateTime": "2020-06-02T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-predictive-oncology-completes-acquisition-of-soluble-therapeutics-and-biodtech.md",
-      "title": "Predictive Oncology Completes Acquisition of Soluble Therapeutics and BioDtech",
-      "excerpt": "Predictive Oncology Inc. (NASDAQ:POAI) (the \"Company\") a knowledge-driven company focused on applying artificial intelligence",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16158810/predictive-oncology-completes-acquisition-of-soluble-therapeutics-and-biodtech",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16158810",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16158810",
-      "publishedDateTime": "2020-06-02T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-is-your-sales-team-ready-for-ai.md",
-      "title": "Is Your Sales Team Ready For AI?",
-      "excerpt": "While the human connection factor remains a significant part of closing any deal, the advances in technology, such as AI, can help negate the impact of other factors.",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F06%2F881.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Is Your Sales Team Ready For AI?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/amp/",
-      "publishedDateTime": "2020-06-02T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

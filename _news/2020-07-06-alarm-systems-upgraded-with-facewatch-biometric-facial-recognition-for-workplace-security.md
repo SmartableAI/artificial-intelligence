@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Groups demand feds ban use of facial recognition technology"
+    excerpt: "OTTAWA -- Dozens of groups and individuals working to protect privacy, human rights and civil liberties want the Trudeau government to ban the use of facial-recognition surveillance by federal law-enforcement and intelligence agencies. In an open letter to ..."
+    publishedDateTime: 2020-07-08T10:28:00Z
+    webUrl: "https://www.cp24.com/news/groups-demand-feds-ban-use-of-facial-recognition-technology-1.5015233?cache=yes%3FclipId%3D373266%3FclipId%3D89530%3FclipId%3D373266"
+    ampWebUrl: "https://beta.cp24.com/news/2020/7/8/1_5015233.html"
+    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2020/7/8/1_5015233.html"
+    type: article
+    provider:
+      name: CP24
+      domain: cp24.com
+    quality: 59
+    images:
+      - url: "https://beta.ctvnews.ca/cp24/en/news/2020/7/8/1_5015233/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
+        isCached: true
   - title: "Facial recognition technologies echo the historical problem of linking appearance with criminality"
     excerpt: "Several startups now claim to be able to use artificial intelligence to help employers detect the personality traits of job candidates based on their facial expressions. In China, the government has pioneered the use of surveillance cameras that identify and track ethnic minorities."
     publishedDateTime: 2020-07-07T18:05:00Z

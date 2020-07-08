@@ -2,6 +2,309 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-06-22-worlds-top-system-makers-unveil-nvidia-a100-powered-servers-to-accelerate-ai-data-science-and-scientific-computing.md",
+      "title": "World’s Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing",
+      "excerpt": "ISC Digital—June 22, 2020—NVIDIA and the world’s leading server manufacturers today announced NVIDIA A100-powered systems in a variety of designs and configurations to tackle the most complex challenges in AI,",
+      "webUrl": "https://apnews.com/7208593b875025f54adbc52c6713c4c0",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "World’s Top System Makers Unveil NVIDIA A100-Powered Servers to Accelerate AI, Data Science and Scientific Computing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-10-wonderful-examples-of-using-artificial-intelligence-ai-for-good.md",
+      "title": "10 Wonderful Examples Of Using Artificial Intelligence (AI) For Good",
+      "excerpt": "There are many ways artificial intelligence can be used for good and to help solve some of the world’s biggest problems. Many researchers and organizations are prioritizing projects where artificial intelligence can be used for good.",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef030968548c80006be69fb%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": "10 Wonderful Examples Of Using Artificial Intelligence (AI) For Good",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/amp/",
+      "publishedDateTime": "2020-06-21T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-robot-divers-could-use-artificial-intelligence-to-save-coral-reefs-noaa.md",
+      "title": "Robot Divers Could Use Artificial Intelligence To Save Coral Reefs: NOAA",
+      "excerpt": "While scientists have succeeded at restoring some coral reefs, the job is too vast for humans alone, acording to a NOAA reef restoration manager.",
+      "webUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/",
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148857837%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": "Robot Divers Could Use Artificial Intelligence To Save Coral Reefs: NOAA",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffmcmahon/2020/06/22/robot-divers-will-use-artificial-intelligence-to-save-coral-reefs-noaa-hopes/amp/",
+      "publishedDateTime": "2020-06-21T21:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards.md",
+      "title": "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards",
+      "excerpt": "Facebook announced the winners of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and groundbreaking academic research in the field of artificial intelligence (AI) ethics.",
+      "webUrl": "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/",
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailytimes.com.pk/assets/uploads/2020/06/07/Facebook-removes-nearly-200-accounts-tied-to-hate-groups.jpg",
+          "width": 715,
+          "height": 450,
+          "title": "Pakistan Scholar among winners of Facebook’s Ethics in AI Research awards",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/",
+      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/630191/pakistan-scholar-among-winners-of-facebooks-ethics-in-ai-research-awards/amp/",
+      "publishedDateTime": "2020-06-21T20:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Times",
+        "domain": "dailytimes.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-global-fintech-market-is-projected-to-reach-300-billion-market-cap-by-2025-due-to-large-investments-in-new-tech-and-infrastructure-report.md",
+      "title": "Global Fintech Market Is Projected to Reach $300 Billion Market Cap by 2025 Due to Large Investments in New Tech and Infrastructure: Report",
+      "excerpt": "AI interfaces and chatbots have significantly improved customer service. The AI-focused Fintech market is expected to grow at a CAGR of about 21% in the next 5 years. In another new report ...",
+      "webUrl": "https://www.crowdfundinsider.com/2020/06/162997-global-fintech-market-is-projected-to-reach-300-billion-market-cap-by-2025-due-to-large-investments-in-new-tech-and-infrastructure-report/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Fintech-London-England-UK-600x600.jpg",
+          "width": 600,
+          "height": 600,
+          "title": "Global Fintech Market Is Projected to Reach $300 Billion Market Cap by 2025 Due to Large Investments in New Tech and Infrastructure: Report",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/06/162997-global-fintech-market-is-projected-to-reach-300-billion-market-cap-by-2025-due-to-large-investments-in-new-tech-and-infrastructure-report/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/06/162997-global-fintech-market-is-projected-to-reach-300-billion-market-cap-by-2025-due-to-large-investments-in-new-tech-and-infrastructure-report/amp/",
+      "publishedDateTime": "2020-06-21T18:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-type-x-armored-combat-robot-equipped-for-unmanned-convoy-protection.md",
+      "title": "Type-X armored combat robot equipped for unmanned convoy protection",
+      "excerpt": "Estonia-based Milrem Robotics and Belgium's John Cockerill Defense have unveiled Milrem's Type-X Robotic Combat Vehicle. Based on a modular design and equipped with the Cockerill Protected Weapons Station Generation II (CPWS II) turret,",
+      "webUrl": "https://newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/a91bde8/2147483647/strip/true/crop/2560x1707+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Feb%2F43%2F55a42262488984eecb91ad84851a%2Fimg-0688-scaled.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Type-X armored combat robot equipped for unmanned convoy protection",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/military/milrem-type-x-armored-combat-robot-convoy-protection/?amp=true",
+      "publishedDateTime": "2020-06-21T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-salesforce-research-aims-to-capture-the-nuances-of-natural-language-processing.md",
+      "title": "Salesforce Research aims to capture the nuances of natural language processing",
+      "excerpt": "The Salesforce Research team is attempting to capture the nuances of natural language processing with a new generalized model. The team described its approach in a recently published a paper on ...",
+      "webUrl": "https://sdtimes.com/ai/salesforce-research-aims-to-capture-the-nuances-of-natural-language-processing/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2018/06/socher820.png",
+          "width": 820,
+          "height": 453,
+          "title": "Salesforce Research aims to capture the nuances of natural language processing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-21T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player.md",
       "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
       "excerpt": "Whilst we patiently wait for the day that Womble-shaped robots replace human tennis players at Wimbledon, we can admire the IBM powered AI technology ... them into the huge Watson driven analytics ...",
@@ -1003,288 +1306,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-mowing-made-easy-robots-tackle-lawn-care.md",
-      "title": "Mowing made easy: Robots tackle lawn care",
-      "excerpt": "Maintaining a lawn in the summer heat is often a dreaded chore for homeowners. Now there are robots that can do the job for you. Worx, the company that makes the highly-rated Landroid, says autonomous mowers are getting more popular.",
-      "webUrl": "https://www.wdtn.com/news/u-s-world/mowing-made-easy-robots-tackle-lawn-care/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wdtn.com/wp-content/uploads/sites/45/2020/06/NC_mowers0619_700x394.jpg?w=700&h=394&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Mowing made easy: Robots tackle lawn care",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wdtn.com/news/u-s-world/mowing-made-easy-robots-tackle-lawn-care/amp/",
-      "cdnAmpWebUrl": "https://www-wdtn-com.cdn.ampproject.org/c/s/www.wdtn.com/news/u-s-world/mowing-made-easy-robots-tackle-lawn-care/amp/",
-      "publishedDateTime": "2020-06-19T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDTN",
-        "domain": "wdtn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-google-unveils-experimental-keen-social-network-for-users-interests.md",
-      "title": "Google Unveils Experimental Keen Social Network For Users’ Interests",
-      "excerpt": "Google announced a place for \"long-term interests\" called Keen that was made as part of its space for experimental efforts named Area 120.",
-      "webUrl": "https://staykeen.com/landing",
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/keen-public-assets/staykeen-default-preview.png",
-          "width": 1104,
-          "height": 736,
-          "title": "Google Unveils Experimental Keen Social Network For Users’ Interests",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-19T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-ai-artificial-intelligence-shows-us-a-future-where-we-neglect-to-dream.md",
-      "title": "A.I. Artificial Intelligence shows us a future where we neglect to dream",
-      "excerpt": "A.I. begins with a brief summary of the sorry state of the world: climate change has melted the polar ice caps, wiping out coastal cities and severely reducing the human population. With regulations in place for reproduction on a resource-starved planet,",
-      "webUrl": "https://www.theverge.com/2020/6/19/21296276/ai-artificial-intelligence-neglect-to-dream-yesterdays-future-scifi",
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/XMD3BYf0qPe6OlAiWd6H97CA4YE=/0x0:1280x723/1400x933/filters:focal(639x191:843x395):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66957596/ai041.0.jpg",
-          "width": 1280,
-          "height": 723,
-          "title": "A.I. Artificial Intelligence shows us a future where we neglect to dream",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/19/21296276/ai-artificial-intelligence-neglect-to-dream-yesterdays-future-scifi",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/19/21296276/ai-artificial-intelligence-neglect-to-dream-yesterdays-future-scifi",
-      "publishedDateTime": "2020-06-19T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility.md",
-      "title": "R&D Roundup: Automated peach sniffers, orbital opportunity and AI accessibility",
-      "excerpt": "I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups.",
-      "webUrl": "https://techcrunch.com/2020/06/19/rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility/",
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/02/stanford-bci.gif",
-          "width": 480,
-          "height": 270,
-          "title": "R&D Roundup: Automated peach sniffers, orbital opportunity and AI accessibility",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/19/rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/19/rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility/amp/",
-      "publishedDateTime": "2020-06-19T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-correcting-and-replacing-vmware-introduces-delivery-of-elastic-infrastructure-for-aiml-applications-with-vmware-vsphere-7.md",
-      "title": "CORRECTING and REPLACING VMware Introduces Delivery of Elastic Infrastructure for AI/ML Applications with VMware vSphere 7",
-      "excerpt": "Please replace the release dated June 2, 2020, with the following corrected version due to new licensing terms for VMware vSphere Bitfusion. The corre",
-      "webUrl": "https://www.businesswire.com/news/home/20200602005347/en/CORRECTING-REPLACING-VMware-Introduces-Delivery-Elastic-Infrastructure",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200602005347/en/782362/23/4284573_300DPIxVMware-logo-grey_highres_.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "CORRECTING and REPLACING VMware Introduces Delivery of Elastic Infrastructure for AI/ML Applications with VMware vSphere 7",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-19T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-pakistani-scholars-among-winners-of-facebooks-ethics-in-ai-research-awards.md",
-      "title": "Pakistani scholars among winners of Facebook’s Ethics in AI Research awards",
-      "excerpt": "The duo was among winners from nine different countries. The AI initiative aims to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Dr Junaid Kadir along with Amana Raquib were awarded for their research into culturally informed pro-social AI regulation and persuasion framework.",
-      "webUrl": "https://tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/",
-      "publishedDateTime": "2020-06-19T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments.md",
-      "title": "Five Reasons For Financial Institutions To Consider AI-Driven Automation Investments",
-      "excerpt": "Retail and commercial financial institutions (FIs) are feeling enormous pressure to embrace and adopt artificial intelligence as industry competition grows.",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148110303%2F0x0.jpg",
-          "width": 1200,
-          "height": 912,
-          "title": "Five Reasons For Financial Institutions To Consider AI-Driven Automation Investments",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/amp/",
-      "publishedDateTime": "2020-06-19T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

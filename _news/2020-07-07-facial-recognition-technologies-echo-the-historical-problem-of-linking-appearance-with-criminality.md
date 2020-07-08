@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Groups demand feds ban use of facial recognition technology"
+    excerpt: "OTTAWA -- Dozens of groups and individuals working to protect privacy, human rights and civil liberties want the Trudeau government to ban the use of facial-recognition surveillance by federal law-enforcement and intelligence agencies. In an open letter to ..."
+    publishedDateTime: 2020-07-08T10:28:00Z
+    webUrl: "https://www.cp24.com/news/groups-demand-feds-ban-use-of-facial-recognition-technology-1.5015233?cache=yes%3FclipId%3D373266%3FclipId%3D89530%3FclipId%3D373266"
+    ampWebUrl: "https://beta.cp24.com/news/2020/7/8/1_5015233.html"
+    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2020/7/8/1_5015233.html"
+    type: article
+    provider:
+      name: CP24
+      domain: cp24.com
+    quality: 59
+    images:
+      - url: "https://beta.ctvnews.ca/cp24/en/news/2020/7/8/1_5015233/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
+        isCached: true
   - title: "Africa: Future of Facial Recognition Technology in Africa"
     excerpt: "Analysis - When several United States (US) companies withdrew their facial recognition software products amid concerns about flaws, biases and misuse in the wake of the killing of George Floyd, did leaders in sub-Saharan Africa take note?"
     publishedDateTime: 2020-07-07T07:21:00Z

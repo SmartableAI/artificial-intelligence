@@ -53,7 +53,7 @@
       "title": "Clearview AI stops facial recognition sales in Canada amid privacy investigation",
       "excerpt": "Officials said Clearview AI will no longer operate in Canada, but investigation into Royal Canadian Mounted Police's use of Clearview's AI will continue.",
       "webUrl": "https://venturebeat.com/2020/07/06/clearview-ai-stops-facial-recognition-sales-in-canada-amid-privacy-investigation/",
-      "heat": 289,
+      "heat": 309,
       "tags": null,
       "images": [
         {
@@ -147,7 +147,7 @@
       "title": "Editorial: The problems with facial recognition technology",
       "excerpt": "Face recognition also can be problematic when manipulated by overzealous law enforcement agencies trying to match driver’s licenses photos to an artist’s sketch or surveillance cameras capturing indiv",
       "webUrl": "https://wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.html",
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -448,44 +448,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-02-eye-doctors-getting-more-calls-about-computer-vision-syndrome.md",
-      "title": "Eye doctors getting more calls about Computer Vision Syndrome",
-      "excerpt": "Some eye doctors across Eastern Iowa say they are getting more calls as the pandemic is forcing more people to work from home, staring at a computer all day. It’s causing what they call Computer Vision Syndrome.",
-      "webUrl": "https://www.kcrg.com/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/W9FfCiLvOvHWsRU1FXmaKa54oPk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/YVN66F2RNBIJ5GAQU25FQITL5I.png",
-          "width": 980,
-          "height": 551,
-          "title": "Eye doctors getting more calls about Computer Vision Syndrome",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-02T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC Kcrg  9",
-        "domain": "kcrg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-02-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition-technology.md",
       "title": "Dozens of advocacy groups push for Congress to ban facial recognition technology",
       "excerpt": "Nearly 40 civil rights, privacy and technology groups sent a letter to Congressional leadership Thursday pushing for a federal moratorium on facial recognition technology.",
@@ -510,6 +472,44 @@
       "provider": {
         "name": "The Hill",
         "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-eye-doctors-getting-more-calls-about-computer-vision-syndrome.md",
+      "title": "Eye doctors getting more calls about Computer Vision Syndrome",
+      "excerpt": "Some eye doctors across Eastern Iowa say they are getting more calls as the pandemic is forcing more people to work from home, staring at a computer all day.",
+      "webUrl": "https://www.kcrg.com/video/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/-9mhd7WYkzCd_Y6us-vAvgmHk10=/980x0/smart/do0bihdskp9dy.cloudfront.net/07-02-2020/t_7270d4baba5747188da181af51e21332_name_file_1920x1080_5400_v4_.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "Eye doctors getting more calls about Computer Vision Syndrome",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC Kcrg  9",
+        "domain": "kcrg.com",
         "images": null,
         "publishers": null,
         "authors": null

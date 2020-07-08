@@ -138,10 +138,49 @@
       ]
     },
     {
+      "path": "_news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
+      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google’s TensorFlow Lite for Microcontrollers",
+      "excerpt": "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced the launch of WiseEye WE-I Plus HX6537-A solution that supports.",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-35-women-under-35-2020-britains-brightest-young-business-leaders.md",
       "title": "35 Women Under 35 2020: Britain's brightest young business leaders",
       "excerpt": "It all started with the annual 35 Women Under 35 list, unearthing new female role models and spotlighting the contribution of Britain’s young businesswomen - whose voices were still being largely ignored in the media.",
-      "webUrl": "https://www.managementtoday.co.uk/35-women-35-2020-britains-brightest-young-business-leaders/women-in-business/article/1687839?bulletin=mtbulletin",
+      "webUrl": "https://www.managementtoday.co.uk/35-women-35-2020-britains-brightest-young-business-leaders/women-in-business/article/1687839",
       "heat": null,
       "tags": null,
       "images": [
@@ -1279,53 +1318,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-google-updates-its-android-developer-tools.md",
-      "title": "Google updates its Android developer tools",
-      "excerpt": "Google postponed its Android 11 event, because, as the company rightly noted, “now is not the time to celebrate.” Today, however, it went ahead and launched both the first beta of Android 11 and provided updates about a slew of tools that should make developing for Android a",
-      "webUrl": "https://techcrunch.com/2020/06/10/google-updates-its-android-developer-tools/",
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/IMG_20190225_075928.jpg?w=1024",
-          "width": 1024,
-          "height": 670,
-          "title": "Google updates its Android developer tools",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/10/google-updates-its-android-developer-tools/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/google-updates-its-android-developer-tools/amp/",
-      "publishedDateTime": "2020-06-10T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

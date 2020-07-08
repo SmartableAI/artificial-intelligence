@@ -1,34 +1,30 @@
 ---
 category: news
-title: "Shady Face Recognition Firm Clearview AI Says It's Left Canada Amid Two Federal Investigations"
+title: "Shady Face Recognition Firm Clearview AI Says It’s Left Canada Amid Two Federal Investigations"
 excerpt: "Dystopian, U.S.-based face recognition firm Clearview AI has suspended its contract with the Royal Mounted Canadian Police (RMCP), effectively locking its business out of Canada entirely, Bloomberg reported on Monday."
-publishedDateTime: 2020-07-07T02:45:00Z
-webUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344"
-ampWebUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
-cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
+publishedDateTime: 2020-07-07T02:30:00Z
+webUrl: "https://www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/"
+ampWebUrl: "https://www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/amp/"
+cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/amp/"
 type: article
-quality: 92
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: Gizmodo
-  domain: gizmodo.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Gizmodo Australia
+  domain: gizmodo.com.au
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg"
-    width: 800
-    height: 450
+  - url: "https://www.pedestrian.tv/content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
     isCached: true
-    title: "Shady Face Recognition Firm Clearview AI Says It's Left Canada Amid Two Federal Investigations"
+    title: "Shady Face Recognition Firm Clearview AI Says It’s Left Canada Amid Two Federal Investigations"
 
 related:
   - title: "Clearview AI stops facial recognition sales in Canada amid privacy investigation"
@@ -148,20 +144,6 @@ related:
       - url: "https://www.lifehacker.com.au/content/uploads/sites/4/2019/08/surveillance.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "EU Once Again Considers Facial Recognition Ban"
-    excerpt: "The European Union is once again considering a ban on facial recognition. The possibility of a temporary ban surfaced in an early draft of a European Commission white paper in January, but those plans were eventually abandoned in the final draft of the paper."
-    publishedDateTime: 2020-07-03T18:59:00Z
-    webUrl: "https://findbiometrics.com/eu-once-again-considers-facial-recognition-ban-070301/"
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 56
-    images:
-      - url: "https://findbiometrics.com/wp-content/uploads/blurredface-e1579295692518.jpeg"
-        width: 1502
-        height: 1694
         isCached: true
   - title: "Clearview AI to end facial-recognition services in Canada: privacy commissioner"
     excerpt: "The federal privacy commissioner says U.S. firm Clearview AI will stop offering its facial-recognition services in Canada in response to an investigation by the commissioner and three provincial counterparts."
@@ -287,6 +269,47 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Bias in Facial Recognition: Renewed Scrutiny of an Old Problem"
+    excerpt: "Facial recognition offers some benefits, but poses certain risks that should be addressed as the technology is more widely adopted."
+    publishedDateTime: 2020-07-08T11:14:00Z
+    webUrl: "https://www.law.com/legaltechnews/2020/07/08/bias-in-facial-recognition-renewed-scrutiny-of-an-old-problem/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2020/01/Face-scan-Article-202001172026.jpg"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "ID Verification Solutions Provider Trulioo has Developed New Facial Recognition and Document Authentication Software"
+    excerpt: "ID verification solutions provider Trulioo has developed new facial recognition and document authentication software."
+    publishedDateTime: 2020-07-08T11:28:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 36
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face-600x595.jpeg"
+        width: 600
+        height: 595
+        isCached: true
+  - title: "Group urges feds to ban facial recognition tools citing a violation of Canadian rights"
+    excerpt: "Dozens of groups and individuals working to protect privacy, human rights and civil liberties want the Trudeau government to ban the use of facial recognition surveillance by federal law ..."
+    publishedDateTime: 2020-07-08T11:08:00Z
+    webUrl: "https://globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/"
+    ampWebUrl: "https://globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 31
   - title: "Clearview AI to end facial recognition services in Canada: privacy commissioner"
     excerpt: "OTTAWA — The federal privacy commissioner said U.S. firm Clearview AI will stop offering its facial-recognition services in Canada in response to an investigation by the commissioner and three provincial counterparts. The office of privacy watchdog ..."
     publishedDateTime: 2020-07-07T15:24:00Z
@@ -297,6 +320,6 @@ related:
       domain: canadianmanufacturing.com
     quality: 30
 
-secured: "bhu9MpxPzKtVdTWE3RcgbIA/CGSARH7W5WNFx13iLadF1qhOcXa+zGq7b3K4024YLaJiUY1xoQLRbu8g/qe0xJkwEMQWGy7NWGNuPC4RK2JTgIVODA9gXtFvfFMO0wrYMqKz6CLcn/lekof3FViS7/Pu1vLKNTzzUrTF3ue3+6B9A3DOCuY8QaXW/oBlm24Z9JYelu8I1VXdEaTrDYbvLwwihr0qY7DecbL9KuGMHp4HswL0VD5dyqNBjg3ZhcKnjs0RmS/DA9tAs1Ig6d91Te7uaOFs7hKeBwREgeaqlvRYfBfQ+NTs+FGWz6blgoikrJSBXDCUNUuGJubBihuunJT1xd8JSN1RY3J2SvS1S9jj6b5ao3CJQRW1zYGY8jl4FGvx/Qs+zIIof0wpZL6C1hcgn3bdqySH9kCaPHTfd2v0Q/z43azTYwgyz6HmpjdJA9oOJfFS1ayoYeAwiVGWHObGVJ9AbzdT9/OvRY75d9KkaaKgVGHVaBEM9mbMvmX3;5svtt2LnTTOVpiNDh3LN8Q=="
+secured: "e4kfKwozdydi75o+WKg9Z+jjvnlilexlsM5a5T2rAwwRZq7SOZQG4y75VeLYQcshBnf57lNJPaSfa3GQ0FCzktRe5o8NrFMmAH3iGDV94v/C8JJKrUfCxh698KdKmD25Rrxqj8NOSezyXPCfHznAaavxdhXHSmZ19xDnqaOwCdikDiWFa96ioNQwmezVsgOmKah3ffUSERD5/azenRZ+BwA1mBJO5nvkAXu9dYRsv0u1LVw6+M3PXqnNjfAkyyJHamTWHO9LDLqcQnI7Z8tvbwvevPlGplHR4H530tzOiZg4q6CFB+PHsrmpJs/Rs6oNhKm5e5T7a0GOuHI7ppjAcw==;By97b0K6dt3iay8dZJF2Yg=="
 ---
 

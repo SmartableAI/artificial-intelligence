@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Automatic Speech Recognition Market 2020 Industry Size, Cost Structure Analysis, Growth, Share and Opportunities and Forecast to 2026"
-    excerpt: "Jul 03, 2020 (The Expresswire) -- “Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Automatic Speech Recognition Market” report presents an in-depth assessment of the Automatic Speech Recognition market ..."
-    publishedDateTime: 2020-07-03T17:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-2020-industry-size-cost-structure-analysis-growth-share-and-opportunities-and-forecast-to-2026-2020-07-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Voice Assistant Market 2020 Research Report with COVID-19 Impact, by Future Trend, Growth rate and Industry Analysis to 2025"
     excerpt: "Global Voice Assistant Market Growth (Status and Outlook) 2020-2025 organized by researchers at MarketsandResearch.biz presents a detailed diagram of the market in terms of current and future trends driving the profit pattern."
     publishedDateTime: 2020-07-06T01:13:00Z
@@ -99,15 +85,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Industry Analysis 2020, Market Growth, Trends, Opportunities Forecast To 2025"
-    excerpt: "Summary A New Market Study, titled “Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming Trends, Growth Drivers and"
-    publishedDateTime: 2020-07-03T17:14:00Z
-    webUrl: "https://www.medgadget.com/2020/07/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-industry-analysis-2020-market-growth-trends-opportunities-forecast-to-2025.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "hjionNmwCZjBt0TYd8LzRxKViE/ohKKP82Reh6gS1IZ6oMmXa/R+diQaYrMxXPEKfQk3qhOtMmO+G0reRRlevO2BXPSDNYMT6sJ4JwnIUylehei5I2uFFyYontlgDekaVTW0wBV+QRu/7crFMfVUvMCBsf485PPo7tItYDCWiIvKcGBmrlEwPuBDOdXcp/jiRuQKL8xrli2fTIry/9cwiNrLK1RMHlTzo/X87TWeLABB9MunXpCqHJO/fll1Uu3Kt3mAitg6WaMuvty8GjoyC4rMDNP1Ve1YPj04YQme0Xvg0T7jxM1RF1ox8rifykVcE53po0jFZCL2C03O/lnM9g==;vsHdpgPQYYWWx02asW0hdg=="
 ---

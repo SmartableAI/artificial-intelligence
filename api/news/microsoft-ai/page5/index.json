@@ -2,6 +2,82 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-19-sony-microsoft-partner-for-smart-camera-solutions.md",
+      "title": "Sony, Microsoft partner for smart camera solutions",
+      "excerpt": "Sony Semiconductor Solutions (Sony) and Microsoft Corp have announced they are partnering ... Sony will also create a smart camera managed app powered by Azure IoT and Cognitive Services that complements the IMX500 sensor and expands the range and ...",
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Sony_Microsoft_partner_for_smart_camera_solutions-SNG_174885824/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Sony, Microsoft partner for smart camera solutions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_174885824/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_174885824/",
+      "publishedDateTime": "2020-05-19T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-sony-microsoft-unveil-latest-joint-ai-play.md",
+      "title": "Sony, Microsoft unveil latest joint AI play",
+      "excerpt": "Sony’s semiconductor division and Microsoft announced a collaboration to develop AI video analytics systems for",
+      "webUrl": "https://www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Sony, Microsoft unveil latest joint AI play",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/devices/news-devices/sony-microsoft-unveil-latest-joint-ai-play/amp/",
+      "publishedDateTime": "2020-05-19T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-microsoft-is-integrating-azure-ai-into-sonys-smart-camera-sensors.md",
       "title": "Microsoft is integrating Azure AI into Sony’s smart camera sensors",
       "excerpt": "The two companies plan to embed Microsoft Azure AI capabilities onto Sony's new intelligent vision sensors, which were recently unveiled.",

@@ -134,53 +134,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-06-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,",
-      "webUrl": "https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F581061%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
-      "publishedDateTime": "2020-07-06T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-02-fraudscope-raises-7-million-to-tackle-health-care-fraud.md",
       "title": "FraudScope Raises $7 Million to Tackle Health-Care Fraud",
       "excerpt": "Venture capitalists are betting that startup FraudScope can help health insurers combat fraudulent claims, which cost them billions of dollars and are a growing concern because of the coronavirus pandemic.",
@@ -1298,6 +1251,44 @@
         "AI",
         "IBM AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-india-joins-global-partnership-on-artificial-intelligence-as-founding-member.md",
+      "title": "India joins global partnership on Artificial Intelligence as founding member",
+      "excerpt": "India on Monday joined the league of leading economies including USA, UK, EU, Australia, Canada, France, Germany, Italy, Japan, Mexico, New Zealand, Republic of Korea, Singapore to launch the Global Partnership on Artificial Intelligence (GPAI or Gee-Pay).",
+      "webUrl": "https://www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestatesman.com/wp-content/uploads/2019/05/AI.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "India joins global partnership on Artificial Intelligence as founding member",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html/amp",
+      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html/amp",
+      "publishedDateTime": "2020-06-15T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Statesman",
+        "domain": "thestatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

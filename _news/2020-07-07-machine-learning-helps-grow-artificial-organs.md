@@ -1,24 +1,29 @@
 ---
 category: news
 title: "Machine learning helps grow artificial organs"
-excerpt: "Researchers from the Moscow Institute of Physics and Technology, Ivannikov Institute for System Programming, and the Harvard Medical School-affiliated Schepens Eye Research Institute have developed a neural network capable of recognizing retinal tissues during the process of their differentiation in a dish."
-publishedDateTime: 2020-07-07T15:02:00Z
-webUrl: "https://medicalxpress.com/news/2020-07-machine-artificial.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-07-machine-artificial.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-artificial.amp"
+excerpt: "\"One of the main focuses of our lab is applying the methods of bioinformatics, machine learning, and AI to practical tasks in genetics and molecular biology. And this solution, too, is at the interface between sciences. In it, neural networks, which are ..."
+publishedDateTime: 2020-07-07T14:12:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-07/miop-mlh070720.php"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "B6O5309sfduIeel58UmAbSs4FKhwrOjIi6c0hWd+lNqTewv8hO2rpPKR/ZpMJ76igbkK5DUAWU/BzM3TrFpph49MRuGkT+6x6tDGDubftQv/NBIlmsVOAKT9CefxAOVubyy/QDoJMd2TMjswzjsSPYx92i+bGKGC5Emxv+6UCcVx952FX+ICOFi/v+1ItKj7JW82/5CLv60wcskP8B6EFJJh734GXhmpuHVcyQHXckVrgHLhCMF3rxNs8btiDzm1yRylLWB40JL0gVoUarYJ02oEA7lxjI4IZhsIxSKXZz8ycecAq8SgbpgcgeE29kZfrkMoyAup+aIhl5ocYTEUN5if8DzhwnHY+b7yKjOL07eei51o+krSBkGQ+BXADE02FD/qohHaGrvHvfmMsMLdOhCYtz1Iujs+oDIfJWQCNDgtQWc5xOYoVw3uRhmxDNMmpk62KpB05r/IJT9Dam7hBMH7zL8rhE01WbJDNQZsOyPQSYDq8pnOelK30Pn894NeAkmvuS9L2rcohHg6HHEW+A==;FvQfTXuB+JY/Ik/qKtzClQ=="
+images:
+  - url: "https://eurekalert.org/multimedia/pub/web/236742_web.jpg"
+    width: 720
+    height: 465
+    isCached: true
+    title: "Machine learning helps grow artificial organs"
+
+secured: "igZY73claxG9vdMLFquQFzaI4CNr4tMGrYsuZUOVovJaIrMlAKlht6PopZtt28mGGEwGi7x+//jkReC2MHqzfukgzOh4IPHxM0ZLblP7aHT8m95Rfe3SblEUbIF2nAwXKl3GhAKJx446i2+EiKYsxuPkNol1EgiZGv4HVenFHxL+j30C1joFXG7P7I1vnVi61GRjatRiOfbHABTjBXvHg5/0QmAKtpzqP+RJe6p1VioKtp/L+Q6fWLx859UXF0vcK+Mdg6pCqmY4L/02jLrC6W+WDxze6X8L8HcDo+4YEF1VPliQRKoLoo3qNC4AhnQfEdxrmvfRGhsX5Y0yQoVkkw==;tD9K8RB7jv51M1cxn5zsiA=="
 ---
 

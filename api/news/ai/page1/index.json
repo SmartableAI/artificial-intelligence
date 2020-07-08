@@ -2,6 +2,288 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-08-explainer-what-is-machine-learning.md",
+      "title": "Explainer: What Is Machine Learning?",
+      "excerpt": "Machine learning (ML) is the study of computer systems that automatically improve with experience, a hot topic in the last few years, but a concept that's been around for decades. IBM programmer and AI pioneer Arthur Samuel coined the term \"machine learning\" in 1952.",
+      "webUrl": "https://www.techspot.com/article/2048-machine-learning-explained/",
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/2048/images/2020-07-04-image.jpg",
+          "width": 2560,
+          "height": 1764,
+          "title": "Explainer: What Is Machine Learning?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/article/2048-machine-learning-explained/",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/article/2048-machine-learning-explained/",
+      "publishedDateTime": "2020-07-08T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-the-us-china-and-the-ai-arms-race-cutting-through-the-hype.md",
+      "title": "The US, China and the AI arms race: Cutting through the hype",
+      "excerpt": "The reality is that US and China efforts to develop AI are entwined, even if the tensions of coronavirus and trade disagreements may spur a separation.",
+      "webUrl": "https://www.cnet.com/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/DVYxHNtyKp5XHMiiLCfbwOo6_Yo=/756x567/2020/06/30/fbf0e0ea-8dfc-4bcb-9793-f6eaa8993108/gettyimages-1039282538.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "The US, China and the AI arms race: Cutting through the hype",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
+      "publishedDateTime": "2020-07-08T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-artificial-intelligence-drives-this-brand-new-bluetooth-headset-from-epos.md",
+      "title": "Artificial Intelligence Drives This Brand New Bluetooth Headset From EPOS",
+      "excerpt": "Artificial Intelligence is now helping wireless headsets to help people sound clearer and take part in calls and video chats with real audio clarity.",
+      "webUrl": "https://www.forbes.com/sites/marksparrow/2020/07/08/artificial-intelligence-drives-this-brand-new-bluetooth-headset-from-epos/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efa095d236e830006d4071b%2F0x0.jpg",
+          "width": 1200,
+          "height": 686,
+          "title": "Artificial Intelligence Drives This Brand New Bluetooth Headset From EPOS",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2020/07/08/artificial-intelligence-drives-this-brand-new-bluetooth-headset-from-epos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2020/07/08/artificial-intelligence-drives-this-brand-new-bluetooth-headset-from-epos/amp/",
+      "publishedDateTime": "2020-07-08T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-kai-fu-lee-gives-ai-a-b-minus-grade-in-the-covid-19-fight.md",
+      "title": "Kai-Fu Lee Gives AI a B-Minus Grade in the Covid-19 Fight",
+      "excerpt": "Robots and computer programs can help with social distancing and food delivery, but have been less helpful in developing a vaccine.",
+      "webUrl": "https://www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5efe3bf5f435e6f478b28aac/master/pass/business_kai-fu_1052208482.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Kai-Fu Lee Gives AI a B-Minus Grade in the Covid-19 Fight",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/amp",
+      "publishedDateTime": "2020-07-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-royal-marsden-powers-virtual-covid-19-agent-with-ibm-watson.md",
+      "title": "Royal Marsden powers virtual COVID-19 agent with IBM Watson",
+      "excerpt": "The Royal Marsden NHS Foundation Trust has partnered with IBM to launch an AI-powered virtual agent that will provide staff with up-to-date HR and workplace information as the UK emerges from lockdown.",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356377/royal-marsden-powers-virtual-covid-19-agent-with-ibm",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570815037/itpro/watson.jpg",
+          "width": 550,
+          "height": 326,
+          "title": "Royal Marsden powers virtual COVID-19 agent with IBM Watson",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356377/royal-marsden-powers-virtual-covid-19-agent-with-ibm?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/356377/royal-marsden-powers-virtual-covid-19-agent-with-ibm?amp",
+      "publishedDateTime": "2020-07-08T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-robots-drones-and-surveillance-apps-the-unexpected-future-of-medicine.md",
+      "title": "Robots, drones and surveillance apps: The unexpected future of medicine",
+      "excerpt": "Healthcare has traditionally been cautious about new technologies. But a new wave of innovation is likely to change all of that.",
+      "webUrl": "https://www.zdnet.com/article/robots-drones-and-surveillance-apps-the-unexpected-future-of-medicine/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/01/ac472c67-d9bf-4475-afb8-352f6030b09b/thumbnail/1200x675/1f5ccd50506dd71d1a47b6d1cf3f5b0b/istock-471508902-2.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Robots, drones and surveillance apps: The unexpected future of medicine",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-drones-and-surveillance-apps-the-unexpected-future-of-medicine/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-drones-and-surveillance-apps-the-unexpected-future-of-medicine/",
+      "publishedDateTime": "2020-07-08T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-world-artificial-intelligence-conference-to-kick-off-in-shanghai.md",
       "title": "World Artificial Intelligence Conference to kick off in Shanghai",
       "excerpt": "The World Artificial Intelligence Conference will kick off Thursday ... unmanned driving, education, healthcare and blockchain, among other topics. SenseTime, a leading AI unicorn from China focusing on facial recognition, deep learning and supercomputing ...",
@@ -82,7 +364,7 @@
       "title": "UCLA launches an AI robot to support the emotional needs of children",
       "excerpt": "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character -- one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital.",
       "webUrl": "https://www.news-medical.net/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx",
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -141,44 +423,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-welcome-robin-the-ai-robot.md",
-      "title": "Welcome, Robin the AI robot",
-      "excerpt": "The artificial intelligence system was developed by Expper Technologies, a Silicon Valley-supported startup with roots in Yerevan, Armenia. Robin's technology enables the robot to build what is ...",
-      "webUrl": "https://eurekalert.org/pub_releases/2020-07/uoc--wrt070720.php",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/236836_web.jpg",
-          "width": 1440,
-          "height": 960,
-          "title": "Welcome, Robin the AI robot",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1091,222 +1335,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox.md",
-      "title": "Amazon Speeds Towards $1.2 Billion Self Driving Black-Led Car Company Zoox",
-      "excerpt": "Amazon has purchased of Zoox, led by CEO Aicha Evans for $1.2 billion. With Evans at the helm, carving out her own lane in what’s shaping up to be a competitive self-driving car space, is the e-commerce giant in a position to dominate yet another industry?",
-      "webUrl": "https://www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/",
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148406588%2F0x0.jpg",
-          "width": 1200,
-          "height": 827,
-          "title": "Amazon Speeds Towards $1.2 Billion Self Driving Black-Led Car Company Zoox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/amp/",
-      "publishedDateTime": "2020-07-07T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-self-driving-tech-is-becoming-a-game-of-partnerships.md",
-      "title": "Self-Driving Tech Is Becoming a Game of Partnerships",
-      "excerpt": "Making an autonomous vehicle is proving harder and costlier than many startups predicted. So they're teaming up with giants like Hyundai, Jaguar, and Ford.",
-      "webUrl": "https://www.wired.com/story/self-driving-tech-game-partnerships/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f03caf26cd63b0e8be2ced6/master/pass/business_voyage.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Self-Driving Tech Is Becoming a Game of Partnerships",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/self-driving-tech-game-partnerships/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/self-driving-tech-game-partnerships/amp",
-      "publishedDateTime": "2020-07-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-from-ai-to-open-source-how-tech-is-changing-everything-about-the-future-of-healthcare.md",
-      "title": "From AI to open source, how tech is changing everything about the future of healthcare",
-      "excerpt": "The coronavirus pandemic has caused significant shifts in how healthcare is delivered. How many of these advances will last beyond the virus?",
-      "webUrl": "https://www.zdnet.com/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/07/cb1aeed9-c3de-46fe-84ef-1334feec0cf8/thumbnail/1200x675/7a57cb88b29b68d90e8c917d264ba786/istock-1180529694.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "From AI to open source, how tech is changing everything about the future of healthcare",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
-      "publishedDateTime": "2020-07-07T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-ai-the-competitive-advantage.md",
-      "title": "Ai: The Competitive Advantage",
-      "excerpt": "I recently came across a tech company that acquired a smaller US competitor solely to bring in their team of Data Scientists (a key skill set for any AI company). One way start-ups that are building their own AI can solve this is by being open to tapping i ...",
-      "webUrl": "https://www.cityam.com/ai-the-competitive-advantage/",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2020/07/image0-7.jpeg",
-          "width": 1600,
-          "height": 1066,
-          "title": "Ai: The Competitive Advantage",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/ai-the-competitive-advantage/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/ai-the-competitive-advantage/amp/",
-      "publishedDateTime": "2020-07-07T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure.md",
-      "title": "Digitate’s ignio SaaS Suite for the autonomous enterprise now available on Microsoft Azure",
-      "excerpt": "Customers can now avail the full benefit of ignio’s cognitive capabilities along with the economy, agility and scalability of the cloud.",
-      "webUrl": "https://www.indiainfoline.com/article/news-sector-information-technology/digitate’s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tcs1-1421292882-0159300.jpg",
-          "width": 350,
-          "height": 233,
-          "title": "Digitate’s ignio SaaS Suite for the autonomous enterprise now available on Microsoft Azure",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

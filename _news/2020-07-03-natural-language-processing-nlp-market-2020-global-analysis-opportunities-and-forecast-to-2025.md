@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-03T22:56:00Z
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-07-03"
 type: article
 quality: 56
-heat: 116
+heat: 96
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Automatic Speech Recognition Market 2020 Industry Size, Cost Structure Analysis, Growth, Share and Opportunities and Forecast to 2026"
-    excerpt: "Jul 03, 2020 (The Expresswire) -- “Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Automatic Speech Recognition Market” report presents an in-depth assessment of the Automatic Speech Recognition market ..."
-    publishedDateTime: 2020-07-03T17:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-2020-industry-size-cost-structure-analysis-growth-share-and-opportunities-and-forecast-to-2026-2020-07-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Voice Assistant Market 2020 Research Report with COVID-19 Impact, by Future Trend, Growth rate and Industry Analysis to 2025"
     excerpt: "Global Voice Assistant Market Growth (Status and Outlook) 2020-2025 organized by researchers at MarketsandResearch.biz presents a detailed diagram of the market in terms of current and future trends driving the profit pattern."
     publishedDateTime: 2020-07-06T01:13:00Z
@@ -99,15 +85,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Industry Analysis 2020, Market Growth, Trends, Opportunities Forecast To 2025"
-    excerpt: "Summary A New Market Study, titled “Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming Trends, Growth Drivers and"
-    publishedDateTime: 2020-07-03T17:14:00Z
-    webUrl: "https://www.medgadget.com/2020/07/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-industry-analysis-2020-market-growth-trends-opportunities-forecast-to-2025.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "byqIRHFDAmR/CB+qSd7JWQoq7L4aAnbIITIHllg22ZjAwHHtCNLPvAjhokx9xA8ITHxFy6hCWyA2aMeU0GstU6yEAYGFxbPMlYmy56uwy5g5MZx8QAIG5Qvm9pTv56kIqABAZgDyGCtl+M6+TB7KM22XS8VlpgxyuQOyJKI9M5VH0JlaTxv4M2hTRhKsold7aQRqCtdC8XMYZePPku33t+fHqw5ndsOe8PaEF/cPZx/mguXDzBIdj8xdZhWR+gL1esaPYT5pfEmba4K+16hGypniyDuLVnWwT3+OlmzStvJKo2Q11Zm3I/ZhYEzEaZJ+WsMcmWsIyPsAdpqAKhC/KQ==;Sqnf860Gl9+n4VdMQzLIMw=="
 ---

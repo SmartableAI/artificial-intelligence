@@ -2,6 +2,183 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-06-tesla-deploys-new-megapack-project-underpinned-by-cutting-edge-autobidder-ai.md",
+      "title": "Tesla deploys new Megapack project underpinned by ‘cutting-edge Autobidder AI’",
+      "excerpt": "A group of companies in the UK announced that they commissioned a new Tesla Megapack project that is going to use Tesla’s new Autobidder platform. Fotowatio Renewable Ventures and British renewable energy developer Harmony Energy announced that today they are commissioning their new battery energy storage plant in Dorset,",
+      "webUrl": "https://electrek.co/2020/07/06/tesla-deploys-megapack-autobidder/",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/07/Holes-Bay-battery-energy-storage-facility-developed-by-Harmony-Energy-and-FRV-with-Tesla-Megapack-batteries.jpg?quality=82&strip=all&w=600",
+          "width": 600,
+          "height": 400,
+          "title": "Tesla deploys new Megapack project underpinned by ‘cutting-edge Autobidder AI’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/07/06/tesla-deploys-megapack-autobidder/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/06/tesla-deploys-megapack-autobidder/amp/",
+      "publishedDateTime": "2020-07-06T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-car-key-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid-19.md",
+      "title": "Car Key Chips Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact COVID -19",
+      "excerpt": "The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added",
+      "webUrl": "https://www.marketwatch.com/press-release/car-key-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid--19-2020-06-15",
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Car Key Chips Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact COVID -19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-new-ai-project-captures-jane-austens-thoughts-on-social-media.md",
+      "title": "New AI project captures Jane Austen’s thoughts on social media",
+      "excerpt": "A new AI project from magician and novelist Andrew Mayne creates simulated conversations with historical figures including Isaac Newton and Edgar Allen Poe.",
+      "webUrl": "https://thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-95-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "New AI project captures Jane Austen’s thoughts on social media",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/amp/",
+      "publishedDateTime": "2020-07-06T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-ai-and-robotics-to-redefine-businesses-accenture.md",
+      "title": "AI and robotics to redefine businesses - Accenture",
+      "excerpt": "The 20th edition of Accenture's annual report predicts that artificial intelligence and robotics will be among the key technology trends that will redefine businesses over the next three years.",
+      "webUrl": "https://www.rte.ie/news/business/2020/0706/1151662-ai-and-robotics-to-redefine-businesses-accenture/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.rasset.ie/000d9006-642.jpg",
+          "width": 642,
+          "height": 361,
+          "title": "AI and robotics to redefine businesses - Accenture",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.rte.ie/amp/1151662/ ",
+      "cdnAmpWebUrl": "https://www-rte-ie.cdn.ampproject.org/c/s/www.rte.ie/amp/1151662/ ",
+      "publishedDateTime": "2020-07-06T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RTE Online",
+        "domain": "www.rte.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts.md",
       "title": "Myriad Partners OptraHEALTH For AI-Based Information Tool Gene - Quick Facts",
       "excerpt": "Molecular diagnostics company Myriad Genetics, Inc. (MYGN) announced Monday a new collaboration with AI platform OptraHEALTH to implement a cognitive ChatBOT named Gene to provide pre-test genetic and financial assistance information to prospective patients.",
@@ -395,6 +572,52 @@
       ]
     },
     {
+      "path": "_news/2020-07-05-3-top-artificial-intelligence-stocks-to-buy-in-july.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in July",
+      "excerpt": "Artificial intelligence (AI) is likewise an important but oft-misunderstood technology. It's still developing, but it promises to create a new segment of the economy based on the automation of simple tasks and raw data crunching.",
+      "webUrl": "https://www.fool.com/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/4f99495c05b836a8efa014a9663f2e1e.png",
+          "width": 720,
+          "height": 386,
+          "title": "3 Top Artificial Intelligence Stocks to Buy in July",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
+      "publishedDateTime": "2020-07-05T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-05-why-ai-continues-to-deliver-results-in-a-pandemic.md",
       "title": "Why AI Continues To Deliver Results In A Pandemic",
       "excerpt": "AI-at-scale leaders continue to make progress on their AI initiatives at the same pace as before the Covid-19 pandemic.",
@@ -568,7 +791,7 @@
       "title": "Editorial: The problems with facial recognition technology",
       "excerpt": "Face recognition also can be problematic when manipulated by overzealous law enforcement agencies trying to match driver’s licenses photos to an artist’s sketch or surveillance cameras capturing indiv",
       "webUrl": "https://wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.html",
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -873,241 +1096,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-kt-and-hyundai-accelerate-digital-transformation-with-smart-robots.md",
-      "title": "KT and Hyundai Accelerate Digital Transformation with Smart Robots",
-      "excerpt": "Under the contracts, KT will acquire a 10 percent equity stake in Hyundai Robotics, the leader in the Korean industrial robotics market, for 50 billion won. KT also signed a business cooperation agreement with Hyundai Heavy Industries Holdings for joint efforts toward digital transformation.",
-      "webUrl": "https://www.marketwatch.com/press-release/kt-and-hyundai-accelerate-digital-transformation-with-smart-robots-2020-06-17-15183012",
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "KT and Hyundai Accelerate Digital Transformation with Smart Robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-03T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025.md",
-      "title": "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025",
-      "excerpt": "Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023” To Its Research Database This report focuses on the global Natural language processing (NLP) status, future forecast,",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-07-03",
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-03T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-study-only-18-of-data-scientists-are-learning-about-ai-ethics.md",
-      "title": "Study: Only 18% of data scientists are learning about AI ethics",
-      "excerpt": "A study by data science firm Anaconda found a \"concerning\" absence of AI ethics initiatives in both academia and industry.",
-      "webUrl": "https://thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/",
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-94-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Study: Only 18% of data scientists are learning about AI ethics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/amp/",
-      "publishedDateTime": "2020-07-03T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit.md",
-      "title": "R&D Roundup: Tech giants unveil breakthroughs at computer vision summit",
-      "excerpt": "Computer vision summit CVPR has just (virtually) taken place, and like other CV-focused conferences, there are quite a few interesting papers. More than I could possibly write up individually, in fact,",
-      "webUrl": "https://techcrunch.com/2020/07/03/rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/fb-3d.jpg?w=1024",
-          "width": 1024,
-          "height": 594,
-          "title": "R&D Roundup: Tech giants unveil breakthroughs at computer vision summit",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/03/rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/03/rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit/amp/",
-      "publishedDateTime": "2020-07-03T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-lemonade-ipo-shows-the-power-of-ai-artificial-intelligence.md",
-      "title": "Lemonade IPO Shows The Power Of AI (Artificial Intelligence)",
-      "excerpt": "Lemonade is a next-generation AI company. The technology is all-pervasive across its operations. Keep in mind that the insurance industry was actually the first industry that was data driven. The roots go back to 1662 when John Graunt helped to create modern statistics,",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/07/03/lemonade-ipo-shows-the-power-of-ai-artificial-intelligence/",
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eff578f9756420007f6f6b9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444",
-          "width": 1200,
-          "height": 675,
-          "title": "Lemonade IPO Shows The Power Of AI (Artificial Intelligence)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/07/03/lemonade-ipo-shows-the-power-of-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/07/03/lemonade-ipo-shows-the-power-of-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-07-03T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

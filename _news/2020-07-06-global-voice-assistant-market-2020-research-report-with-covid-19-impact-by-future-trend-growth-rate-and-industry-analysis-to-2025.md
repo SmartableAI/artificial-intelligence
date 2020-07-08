@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Automatic Speech Recognition Market 2020 Industry Size, Cost Structure Analysis, Growth, Share and Opportunities and Forecast to 2026"
-    excerpt: "Jul 03, 2020 (The Expresswire) -- “Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Automatic Speech Recognition Market” report presents an in-depth assessment of the Automatic Speech Recognition market ..."
-    publishedDateTime: 2020-07-03T17:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-2020-industry-size-cost-structure-analysis-growth-share-and-opportunities-and-forecast-to-2026-2020-07-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing Market 2020 Along With Covid-19 Impact Analysis, Trends, Advancement And Outlook 2029"
     excerpt: "Prudour Pvt. Ltd: Market.us research industry gives a complete investigation of the global Natural Language Processing market for the predicted forecast period 2020-2029. The Natural Language Processing market research study delivers deep insights into the various market segments based on end-use,"
     publishedDateTime: 2020-07-07T16:50:00Z
@@ -99,15 +85,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Industry Analysis 2020, Market Growth, Trends, Opportunities Forecast To 2025"
-    excerpt: "Summary A New Market Study, titled “Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming Trends, Growth Drivers and"
-    publishedDateTime: 2020-07-03T17:14:00Z
-    webUrl: "https://www.medgadget.com/2020/07/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-industry-analysis-2020-market-growth-trends-opportunities-forecast-to-2025.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "4cBei9nOVu9I6fbYVod/3KkZU0kxU9hAVK086axoBxuTHnJCihjpqYOOi6geVvk3exbBCZILynPpLnHUSQF7UfgYjMg0pTE4xpVkUP2jlWil/l+Z7fPOgpxXOT0xYSHg0vr+M/d5YGOIlWknqWUUxwV2RDpcOMPPUncG4u/7DUZjVIi4qKdOswLoAMDc+LSIJmnYfoaM0B7KsK7J/F14SavyvVQE9DJl9gvsjM2pxb2vjH7sCGlMSYE5AJOOE+rfFzj1OAxz1+1K6qwW/rwRRdaUq+6QOviQFTHYqerSLucetPN3mHgHU51fXJteI4u14yxr6xUubPvHOTw7mEa/Hw==;nYN3xNrb+NfUmpL8qkzMmA=="
 ---

@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Closing the Gap plan can sit alongside a Voice to Parliament"
-excerpt: "Australia should push ahead both with the new Closing the Gap process and with constitutional recognition of our First Nations ... Gap they will see there is nothing to fear in a more formal Voice to Parliament. The Herald editor Lisa Davies writes ..."
-publishedDateTime: 2020-07-08T07:09:00Z
-webUrl: "https://www.smh.com.au/politics/federal/closing-the-gap-plan-can-sit-alongside-a-voice-to-parliament-20200708-p55a9v.html"
-ampWebUrl: "https://amp.smh.com.au/politics/federal/closing-the-gap-plan-can-sit-alongside-a-voice-to-parliament-20200708-p55a9v.html"
-cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/closing-the-gap-plan-can-sit-alongside-a-voice-to-parliament-20200708-p55a9v.html"
+excerpt: "In the next few months, state and territory leaders and the federal government will have to finalise a new 10-year strategy for closing the gap of disadvantage between Aboriginal and Torres Strait Islanders and the rest of the community."
+publishedDateTime: 2020-07-08T11:30:00Z
+webUrl: "https://www.theage.com.au/politics/federal/closing-the-gap-plan-can-sit-alongside-a-voice-to-parliament-20200705-p5593t.html"
+ampWebUrl: "https://amp.theage.com.au/politics/federal/closing-the-gap-plan-can-sit-alongside-a-voice-to-parliament-20200705-p5593t.html"
+cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/politics/federal/closing-the-gap-plan-can-sit-alongside-a-voice-to-parliament-20200705-p5593t.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Sydney Morning Herald
-  domain: smh.com.au
+  name: The Age
+  domain: theage.com.au
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "h9dFr2vvhGIH3obVgKPcrpGQwgmOFGJeAyI8ST7/ZVmqF+eFUb+K/kwE2CtOcqjgodJJ+a57uWTdJJtCDwJrMOCKiC0kyAkbSQr1BSOn9Cp7ltrRkRu7xe8NdYEpQMq5ShOIVag2zTFNg5B2eIQ6e/MlvBS4lrTx2531KrOUUj0w/fjH3qBBG+ukHBEoiIuUAGfmzwUvktRa7lWW85RSctBLxpCV8ktEgBzn+ejQ/1azFR3j66lwjPhcSUKlLq2tZrfubs90v/4DtiNEYjD8hYmFTSHTeN1kyCHXrpAgTfoGRKjPttTYsPQR3Bj9I0+IrlIRpmv41cIoXSPPNehFIqT2R5soz3eXzJrhnzbXk5BbFRfdkaeQgpvY+12bh9uAq/UMwwyTDfhqRAa/QwLC/IAF5+4Ny+DTvz+dQ/ur3P1BHuW8yNZtqMG+AV3SxzxubLThGQ968yPVEe2FHuXH2FD6+6I6N+ZJpB9TjYjM/ERufuZzy2luTh5jOnKlakXwPFDnM+LYBAmmSqg5gRg4jQ==;nMsltU+GLcuIBUrA5M6q8g=="
+secured: "31WUghE7lR5uGuW5L4+Pk0yHtUCDgYPosms1j6k5YK2ZNqbQxHZ0HAQjrXsqJF1jDBt0bKC1kqSDz1t3JI5Jr31n8x5Bjy39O54JGc51Z3gXIKkYQjI+GLXzaQEYDSV4B9OhROyjFhmUb8VArw/G3wqLxPVHjXCug83qMRa31+f47zTUzl+BAcYmomw8tKJ42f/etV1wU0qBvZxBEW+UEnZ7yUhdtTRllcGrCb6a2dZWkEsaVpcnb787EczIbWjK1N7Cn+5kR09HgzYyulxaIoO1tkQYXAiry3xvjI//w661QWFUgQovd2BWs7k+q2MxMlYdBIGROBhugCOW0fZQ7pkiJx6Yd2ZLyHn/1TRQAqX+gVwga5/XRXhx0gX3Z/oTt7U57emQdeeAZyC7AYz518sUFmJyQERDNxAMiTt0CsoWT51U+lKrtYHzVTWmdCtHtSXE29ojBQaczwLi/oC/+gbnijd5Jt3z4/EOg+lr3geOjDmHRNbQ/vHJRRPzy/ggIWjS49ni65NaNCO+qaPyMQ==;YTeL8Avg64OdyfIw57Dw4A=="
 ---
 

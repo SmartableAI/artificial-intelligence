@@ -2,6 +2,279 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-03-youtube-will-let-ai-suggest-replies-to-video-comments.md",
+      "title": "YouTube Will Let AI Suggest Replies to Video Comments",
+      "excerpt": "Google announced Wednesday that it had implemented its SmartReply system for YouTube creators, which will give those users access to suggested replies based on what someone has commented. Unlike the SmartReply system Google currently uses for Gmail,",
+      "webUrl": "https://gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/tusrvqwjgzwa8v26s2gf.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "YouTube Will Let AI Suggest Replies to Video Comments",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206/amp",
+      "publishedDateTime": "2020-07-02T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-considering-the-american-voice.md",
+      "title": "Considering the American Voice",
+      "excerpt": "Irving Howe wrote for the Book Review about American literature — “moving from visions to problems, from ecstasy to trouble, from self to society” — on July 4, 1976. “Land of the free? Yes, but also home of the exploited.",
+      "webUrl": "https://www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.html",
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Considering the American Voice",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.amp.html",
+      "publishedDateTime": "2020-07-02T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-estonian-ai-based-negotiation-platform-startup-closes-a-usd3-million-seed-round.md",
+      "title": "Estonian AI-based negotiation platform startup closes a USD3 million seed round",
+      "excerpt": "Pactum​, an Estonian-founded AI-based platform that enables companies to automate personalised commercial negotiations, has announced the closing of a USD3 million seed financing round led by Berlin-based​ ​Project A​,",
+      "webUrl": "https://estonianworld.com/business/estonian-ai-based-negotiation-platform-pactum-closes-a-usd3-million-seed-round/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://estonianworld.com/wp-content/uploads/2020/03/Pactum-Chat.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": "Estonian AI-based negotiation platform startup closes a USD3 million seed round",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Estonian World",
+        "domain": "estonianworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-researchers-are-gathering-south-african-news-headlines-to-power-ai.md",
+      "title": "Researchers are gathering South African news headlines to power AI",
+      "excerpt": "If an AI researcher wants to build a natural language processing model in English, there’s no shortage of data to train her algorithms. With a click, she could have 1.8 million",
+      "webUrl": "https://qz.com/1876793/south-african-scientists-use-news-headlines-to-power-ai/",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/07/2013-06-24T120000Z_1528076722_GM1E96O165301_RTRMADP_3_MANDELA-e1593717721432.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "Researchers are gathering South African news headlines to power AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1876793/south-african-scientists-use-news-headlines-to-power-ai/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1876793/south-african-scientists-use-news-headlines-to-power-ai/amp/",
+      "publishedDateTime": "2020-07-02T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots.md",
+      "title": "9 super-smart problem solvers take on bias in AI, microplastics, and language lessons for chatbots",
+      "excerpt": "These members of MIT's latest 35 Under 35 list are engineers, chemists, and researchers working for universities, startups, and big tech companies.",
+      "webUrl": "https://www.techrepublic.com/article/9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/07/02/1c42fa20-2dad-4cf9-a8e5-6de52362ba1d/resize/1200x/df859e53ef41149c778c4b7905c4a4bb/istock-1133385995.jpg",
+          "width": 1200,
+          "height": 692,
+          "title": "9 super-smart problem solvers take on bias in AI, microplastics, and language lessons for chatbots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots/",
+      "publishedDateTime": "2020-07-02T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-ai-system-learns-to-model-how-fabrics-interact-by-watching-videos.md",
+      "title": "AI system learns to model how fabrics interact by watching videos",
+      "excerpt": "Researchers propose an AI system that learns to model the physical interactions between types of fabrics by watching videos.",
+      "webUrl": "https://venturebeat.com/2020/07/02/ai-system-learns-to-model-how-fabrics-interact-by-watching-videos/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/93bf9bba-c3b0-4777-b0b9-aef3fbe413a4-e1593713324773.png?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 599,
+          "title": "AI system learns to model how fabrics interact by watching videos",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/02/ai-system-learns-to-model-how-fabrics-interact-by-watching-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/02/ai-system-learns-to-model-how-fabrics-interact-by-watching-videos/amp/",
+      "publishedDateTime": "2020-07-02T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-covid-kg-uses-ai-to-scan-thousands-of-studies-to-answer-doctors-coronavirus-questions.md",
       "title": "COVID-KG uses AI to scan thousands of studies to answer doctors’ coronavirus questions",
       "excerpt": "In a new paper, researchers from Columbia, Brandeis, Darpa, UCLA, UIUC, and elsewhere describe an AI framework that answers questions about COVID-19.",
@@ -361,44 +634,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-02-eye-doctors-getting-more-calls-about-computer-vision-syndrome.md",
-      "title": "Eye doctors getting more calls about Computer Vision Syndrome",
-      "excerpt": "Some eye doctors across Eastern Iowa say they are getting more calls as the pandemic is forcing more people to work from home, staring at a computer all day. It’s causing what they call Computer Vision Syndrome.",
-      "webUrl": "https://www.kcrg.com/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/W9FfCiLvOvHWsRU1FXmaKa54oPk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/YVN66F2RNBIJ5GAQU25FQITL5I.png",
-          "width": 980,
-          "height": 551,
-          "title": "Eye doctors getting more calls about Computer Vision Syndrome",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-02T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC Kcrg  9",
-        "domain": "kcrg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-02-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition-technology.md",
       "title": "Dozens of advocacy groups push for Congress to ban facial recognition technology",
       "excerpt": "Nearly 40 civil rights, privacy and technology groups sent a letter to Congressional leadership Thursday pushing for a federal moratorium on facial recognition technology.",
@@ -423,6 +658,44 @@
       "provider": {
         "name": "The Hill",
         "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-eye-doctors-getting-more-calls-about-computer-vision-syndrome.md",
+      "title": "Eye doctors getting more calls about Computer Vision Syndrome",
+      "excerpt": "Some eye doctors across Eastern Iowa say they are getting more calls as the pandemic is forcing more people to work from home, staring at a computer all day.",
+      "webUrl": "https://www.kcrg.com/video/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/-9mhd7WYkzCd_Y6us-vAvgmHk10=/980x0/smart/do0bihdskp9dy.cloudfront.net/07-02-2020/t_7270d4baba5747188da181af51e21332_name_file_1920x1080_5400_v4_.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "Eye doctors getting more calls about Computer Vision Syndrome",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC Kcrg  9",
+        "domain": "kcrg.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1072,269 +1345,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments.md",
-      "title": "Stanford AI researchers introduce LILAC, reinforcement learning for dynamic environments",
-      "excerpt": "Stanford AI Lab (SAIL) researchers created an AI technique called LILAC to allow reinforcement learning algorithms to operate in dynamic environments.",
-      "webUrl": "https://venturebeat.com/2020/07/01/stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments/",
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/stanford-university.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Stanford AI researchers introduce LILAC, reinforcement learning for dynamic environments",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/01/stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments/amp/",
-      "publishedDateTime": "2020-07-01T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane.md",
-      "title": "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane",
-      "excerpt": "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021.",
-      "webUrl": "https://www.reuters.com/article/us-tusimple-selfdriving-network-idUSKBN2425QS",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2425QS",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2425QS",
-      "publishedDateTime": "2020-07-01T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-the-organizations-positioned-to-lobby-against-a-us-ban-on-facial-recognition.md",
-      "title": "The organizations positioned to lobby against a US ban on facial recognition",
-      "excerpt": "Pressure on US lawmakers to create federal regulations on facial recognition has been mounting. Against that backdrop, industry groups have quietly lobbied to soften regulations and avoid an outright ban.",
-      "webUrl": "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/",
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/07/2020-04-06T151844Z_1_LYNXMPEG351EX_RTROPTP_4_G7-SUMMIT-CANADA-e1593619804343.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 787,
-          "title": "The organizations positioned to lobby against a US ban on facial recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/amp/",
-      "publishedDateTime": "2020-07-01T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-self-driving-cars-will-buyers-come-if-you-just-build-them-maybe.md",
-      "title": "Self-driving cars: Will buyers come if you just build them? Maybe",
-      "excerpt": "The first self-driving cars began to appear in the 1980s, so why aren't we all riding in them by now? Adoption levels of autonomous vehicles and other types of robotics and automation was a research project recently undertaken by MyPlanet,",
-      "webUrl": "https://www.techrepublic.com/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/06/07/81cdc6b1-4565-4a21-928e-3f9b8f1d7db6/resize/1200x/280ef93d6a5093f84a9f42d177b231c0/istock-953480702selfdrivingcar.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Self-driving cars: Will buyers come if you just build them? Maybe",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
-      "publishedDateTime": "2020-07-01T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-ethics-in-the-balance-ais-implications-for-government.md",
-      "title": "Ethics in the Balance: AI’s Implications for Government",
-      "excerpt": "As automation becomes an ever-more viable tool for government for everything from cameras on light poles to using AI to set prisoners’ bail, can policymakers ensure it is used responsibly and ethically?",
-      "webUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/taskforce1.jpg",
-          "width": 940,
-          "height": 630,
-          "title": "Ethics in the Balance: AI’s Implications for Government",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
-      "publishedDateTime": "2020-07-01T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-how-to-use-the-new-ai-driven-nextcloud-inbox.md",
-      "title": "How to use the new AI-driven Nextcloud Inbox",
-      "excerpt": "Nextcloud Mail users will be thrilled with the new AI-driven inboxes. Learn the ins and outs of this new feature.",
-      "webUrl": "https://www.techrepublic.com/article/how-to-use-the-new-ai-driven-nextcloud-inbox/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2018/07/26/02a83571-b370-453e-840a-b5c29b17be68/resize/1200x/34f2fb8ab33e3a6d77c764e619e19d2b/nextcloudhero.jpg",
-          "width": 1200,
-          "height": 938,
-          "title": "How to use the new AI-driven Nextcloud Inbox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-use-the-new-ai-driven-nextcloud-inbox/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-use-the-new-ai-driven-nextcloud-inbox/",
-      "publishedDateTime": "2020-07-01T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,314 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-05-29-how-the-us-can-learn-about-successful-innovation-strategies-from-israel-the-startup-nation.md",
+      "title": "How The US Can Learn About Successful Innovation Strategies From Israel, The Startup Nation",
+      "excerpt": "In Israel, the government takes an active role in promoting and funding technological innovation, which is key to maintaining a thriving startup ecosystem. According to an account by Avi Hasson, former chief scientist at the Israel Innovation Authority,",
+      "webUrl": "https://www.forbes.com/sites/markminevich/2020/05/29/how-the-us-can-learn-about-successful-innovation-strategies-from-israel-the-startup-nation/",
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed17eb35e2c7400068b0804%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8688%26cropY1%3D441%26cropY2%3D5328",
+          "width": 1199,
+          "height": 677,
+          "title": "How The US Can Learn About Successful Innovation Strategies From Israel, The Startup Nation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2020/05/29/how-the-us-can-learn-about-successful-innovation-strategies-from-israel-the-startup-nation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/05/29/how-the-us-can-learn-about-successful-innovation-strategies-from-israel-the-startup-nation/amp/",
+      "publishedDateTime": "2020-05-29T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-openai-and-uber-create-virtual-petri-dish-to-find-the-best-ai-model-for-a-task.md",
+      "title": "OpenAI and Uber create Virtual Petri Dish to find the best AI model for a task",
+      "excerpt": "Researchers at OpenAI and Uber propose Synthetic Petri Dish, a highly efficient technique for finding optimal AI architectures.",
+      "webUrl": "https://venturebeat.com/2020/05/29/openai-and-uber-create-virtual-petri-dish-to-find-the-best-ai-model-for-a-task/",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "OpenAI and Uber create Virtual Petri Dish to find the best AI model for a task",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/29/openai-and-uber-create-virtual-petri-dish-to-find-the-best-ai-model-for-a-task/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/29/openai-and-uber-create-virtual-petri-dish-to-find-the-best-ai-model-for-a-task/amp/",
+      "publishedDateTime": "2020-05-29T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-the-need-for-speed-faster-ai-adoption-requires-a-new-plan.md",
+      "title": "The Need For Speed: Faster AI Adoption Requires A New Plan",
+      "excerpt": "As companies look to leverage more AI, better planning will be a critical requirement. A look at what businesses should do to move forward with their AI strategies.",
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/05/29/the-need-for-speed-faster-ai-adoption--requires-a-new-plan/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed161661234f60007ce1e59%2F0x0.jpg",
+          "width": 1200,
+          "height": 786,
+          "title": "The Need For Speed: Faster AI Adoption Requires A New Plan",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/05/29/the-need-for-speed-faster-ai-adoption--requires-a-new-plan/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/05/29/the-need-for-speed-faster-ai-adoption--requires-a-new-plan/amp/",
+      "publishedDateTime": "2020-05-29T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-ai-weekly-autonomous-vehicle-companies-pivot-to-charitable-deliveries-during-the-pandemic.md",
+      "title": "AI Weekly: Autonomous vehicle companies pivot to charitable deliveries during the pandemic",
+      "excerpt": "During the pandemic, autonomous vehicles companies like Beep, Gatik, and Optimus Ride are helping to deliver goods to those in need.",
+      "webUrl": "https://venturebeat.com/2020/05/29/ai-weekly-autonomous-vehicle-companies-pivot-to-charitable-deliveries-during-the-pandemic/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/optimus-ride-logo-on-vehicle-e1590635948122.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Autonomous vehicle companies pivot to charitable deliveries during the pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/29/ai-weekly-autonomous-vehicle-companies-pivot-to-charitable-deliveries-during-the-pandemic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/29/ai-weekly-autonomous-vehicle-companies-pivot-to-charitable-deliveries-during-the-pandemic/amp/",
+      "publishedDateTime": "2020-05-29T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai.md",
+      "title": "Sayyy whatttt?: Researchers analyze strange human tweets to build better AI",
+      "excerpt": "Twitter is a weird place with a language all its own. A new study focuses on using the tweets, chock-full of misspellings and slang, to improve artificial intelligence.",
+      "webUrl": "https://www.techrepublic.com/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/29/ff1451d1-1faf-4e5b-9b20-6e0ba6635d04/resize/1200x/d3505748b0576d141b3d72be59f5faaa/artificial-intelligence-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Sayyy whatttt?: Researchers analyze strange human tweets to build better AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
+      "publishedDateTime": "2020-05-29T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-machine-learning-helps-map-global-ocean-communities.md",
+      "title": "Machine learning helps map global ocean communities",
+      "excerpt": "On land, it’s fairly obvious where one ecological region ends and another begins, for instance at the boundary between a desert and savanna. In the ocean,",
+      "webUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2020/05/MIT-Plankton-Province-01_0.jpg",
+          "width": 639,
+          "height": 426,
+          "title": "Machine learning helps map global ocean communities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/amp/",
+      "publishedDateTime": "2020-05-29T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-aclu-sues-clearview-ai-over-unlawful-facial-recognition-technology.md",
+      "title": "ACLU sues Clearview AI over 'unlawful' facial recognition technology",
+      "excerpt": "Facial recognition software provider Clearview AI has been hit with a lawsuit by the American Civil Liberties Union and several other organizations. The lawsuit, filed in state court in Illinois, accuses the firm of violating state privacy laws over its use of facial recognition and biometric technology.",
+      "webUrl": "https://www.tomsguide.com/news/aclu-clearview-ai-lawsuit",
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/d3GVUkpobEW7uy8jkkVq94-1200-80.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "ACLU sues Clearview AI over 'unlawful' facial recognition technology",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit",
+      "cdnAmpWebUrl": "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/aclu-clearview-ai-lawsuit",
+      "publishedDateTime": "2020-05-29T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-colleges-prep-for-facial-recognition-temperatures-checks.md",
       "title": "Colleges prep for facial recognition, temperatures checks",
       "excerpt": "Drew Bogner, retiring president of Molloy College, says his school is preparing for many different scenarios for the start of the academic year.",
@@ -790,298 +1098,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-fca-using-nlp-machine-learning-to-regulate-businesses.md",
-      "title": "FCA Using NLP, Machine Learning to Regulate Businesses",
-      "excerpt": "The Financial Conduct Authority (FCA) is using emerging technology like machine learning and natural language processing, as part of its broader strategy to utilize data more effectively, said Steven Green, who is head of central data services ...",
-      "webUrl": "https://www.waterstechnology.com/regulation/7551751/fca-using-nlp-machine-learning-to-regulate-businesses",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.waterstechnology.com/sites/waterstechnology/files/styles/metatag_image/public/article_copied_files/artificial%20intelligence-5.jpg?itok=iVUku4j9",
-          "width": 378,
-          "height": 234,
-          "title": "FCA Using NLP, Machine Learning to Regulate Businesses",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-29T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WatersTechnology",
-        "domain": "waterstechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-coronavirus-and-the-rise-of-the-ai-economy.md",
-      "title": "Coronavirus And The Rise Of The AI Economy",
-      "excerpt": "The World Bank has predicted the coronavirus is pushing 40 to 60 million people into extreme poverty. Calls for international solidarity have so far delivered little tangible support and the risk of country debt defaults and corporate bankruptcies and the human costs associated with it is rising.",
-      "webUrl": "https://www.forbes.com/sites/rainermichaelpreiss/2020/05/29/coronavirus-and-the-rise-of-the-ai-economy/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed0e4ed1234f60007ce136e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Coronavirus And The Rise Of The AI Economy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rainermichaelpreiss/2020/05/29/coronavirus-and-the-rise-of-the-ai-economy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rainermichaelpreiss/2020/05/29/coronavirus-and-the-rise-of-the-ai-economy/amp/",
-      "publishedDateTime": "2020-05-29T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-walmart-employees-are-out-to-show-its-anti-theft-ai-doesnt-work.md",
-      "title": "Walmart Employees Are Out to Show Its Anti-Theft AI Doesn't Work",
-      "excerpt": "The retailer denies there is any widespread issue with the software, but a group expressed frustration—and public health concerns.",
-      "webUrl": "https://www.wired.com/story/walmart-shoplifting-artificial-intelligence-everseen/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ec715a79c054fb2c4f58e7e/master/pass/Walmart-Self-cHECKOUT.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "Walmart Employees Are Out to Show Its Anti-Theft AI Doesn't Work",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/walmart-shoplifting-artificial-intelligence-everseen/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/walmart-shoplifting-artificial-intelligence-everseen/amp",
-      "publishedDateTime": "2020-05-29T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-iit-ropar-launches-pg-programme-in-artificial-intelligence.md",
-      "title": "IIT-Ropar launches PG programme in Artificial Intelligence",
-      "excerpt": "The Indian Institute of Technology (IIT-Ropar) and TSW, the executive education division of Times Professional Learning have launched a post graduate (PG) certificate programme in Artificial Intelligence and Deep Learning.",
-      "webUrl": "https://www.sakshieducation.com/Story.aspx?cid=0&sid=0&chid=0&tid=0&nid=266700",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sakshieducation.com/images/logo.png",
-          "width": 510,
-          "height": 300,
-          "title": "IIT-Ropar launches PG programme in Artificial Intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-29T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sakshi Education",
-        "domain": "sakshieducation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-chinese-tech-leader-says-ai-can-play-a-role-in-beijings-goal-of-eliminating-poverty.md",
-      "title": "Chinese tech leader says AI can play a role in Beijing’s goal of eliminating poverty",
-      "excerpt": "Liu Qingfeng, chairman of Chinese AI champion iFlyTek, says AI technology can play a vital role in lifting China out of poverty by leveling the uneven distribution of resources",
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/29/329b6b94-a17c-11ea-8055-0ae12e466049_image_hires_154049.jpg?itok=u_NiLWrk&v=1590738055",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese tech leader says AI can play a role in Beijing’s goal of eliminating poverty",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
-      "publishedDateTime": "2020-05-29T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-apple-buys-machine-learning-startup-to-improve-data-used-in-siri.md",
-      "title": "Apple buys machine-learning startup to improve data used in Siri",
-      "excerpt": "(Bloomberg) -- Apple Inc. bought machine-learning startup Inductiv Inc., adding to more than a dozen AI-related acquisitions by the technology giant in the past few years.",
-      "webUrl": "https://www.dig-in.com/articles/apple-buys-machine-learning-startup-to-improve-data-used-in-siri",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/7f34c63/2147483647/strip/true/crop/2200x1155+0+79/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Fea%2F9e%2Ffeebfa154bf6b71193b087e34dde%2F362300661.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Apple buys machine-learning startup to improve data used in Siri",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-29T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Insurance",
-        "domain": "dig-in.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-week-in-review-design-low-power.md",
-      "title": "Week In Review: Design, Low Power",
-      "excerpt": "Synopsys QuickStart Implementation Kits (QIKs) are available now. Synopsys ported TensorFlow for Microcontrollers software from Google to the Synopsys DSP-enhanced DesignWare ARC Processor IP. Designed to run on memory-constrained designs, the port uses ...",
-      "webUrl": "https://semiengineering.com/week-in-review-design-low-power-96/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://semiengineering.com/wp-content/uploads/2019/10/OneSpin-logo.jpg",
-          "width": 600,
-          "height": 300,
-          "title": "Week In Review: Design, Low Power",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-29T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],
