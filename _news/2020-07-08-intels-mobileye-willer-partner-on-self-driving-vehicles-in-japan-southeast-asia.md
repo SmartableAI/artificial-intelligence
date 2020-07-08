@@ -1,28 +1,40 @@
 ---
 category: news
 title: "Intel's Mobileye, WILLER Partner On Self-driving Vehicles In Japan, Southeast Asia"
-excerpt: "Mobileye, an Intel Company, and WILLER, a transportation operator in Japan, Taiwan and the Southeast Asian region, have partnered to"
-publishedDateTime: 2020-07-08T01:35:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/intel-s-mobileye-willer-partner-on-self-driving-vehicles-in-japan-southeast-asia-1029374502"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Intel-s-Mobileye-WILLER-Partner-On-Self-driving-Vehicles-In-Japan-Southeast-Asia-1029374502"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Intel-s-Mobileye-WILLER-Partner-On-Self-driving-Vehicles-In-Japan-Southeast-Asia-1029374502"
+excerpt: "The companies are seeking to commercialize self-driving taxis and autonomous on-demand shared shuttles in Japan, while leveraging each other's strengths. Mobileye will supply autonomous vehicles integrating its self-driving system and WILLER will offer services adjusted to each region and user tastes."
+publishedDateTime: 2020-07-08T01:46:00Z
+webUrl: "https://www.nasdaq.com/articles/intels-mobileye-willer-partner-on-self-driving-vehicles-in-japan-southeast-asia-2020-07-07"
+ampWebUrl: "https://www.nasdaq.com/articles/intels-mobileye-willer-partner-on-self-driving-vehicles-in-japan-southeast-asia-2020-07-07?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intels-mobileye-willer-partner-on-self-driving-vehicles-in-japan-southeast-asia-2020-07-07?amp"
 type: article
 quality: 48
 heat: 48
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "56Zox/oH5Y/bZtmeoJKcOO2FlCD0UBjHvYJ9hu/Z68iNz0BOrldNJC16U0LQuta8MXSaNPLpqfW6m2tah9LTSr2rE77KSZHmty1av1SAZNXpH0OpME1FfmkSUYTBLk8uub5T2RkF9835A0ZRnlfpZBo3zXK7rMkRa6I3aCf0QOUcDhSIXtuOGxhODxaYQt4haK2KA7ZBwqOCOm0fPcpXcfJ5pgry0EMAFBIycP67wCQoeWdMU+7JwzjXNy0+YA37vhOUiJBXWw4wBcaEbzK/56SewdICrVfQGZ636wgL5Usdn+1GXYc9K8rnD4D6tQWYk1fgCsoHnLivHgxn64Ec4w==;9s5/NNdXHaLOLTmXOw/K/A=="
+related:
+  - title: "Mobileye and WILLER Partner on Self-Driving Mobility Solutions for Japan, Southeast Asia"
+    excerpt: "Mobileye, an Intel Company, and WILLER, one of the largest transportation operators in Japan, Taiwan and the Southeast Asian region, today announced"
+    publishedDateTime: 2020-07-08T01:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobileye-and-willer-partner-on-self-driving-mobility-solutions-for-japan-southeast-asia-2020-07-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "0OkGOi7d5tUHV0rmpUdc41KJgMmJ1b/rzjxYY2vutVxvJxdPDO7QpHJYeJQkQTJWtc1496EkRYlIwheH5349/SedP7Qj0hXWIq43REy6/nJvNvTN8dAgcKNIcZ/r5EhdMaH7Ps55eEDrDerrE7gTUpfID3tg+poQvJIEK/HpfhTv5eafzVllDpMR/zHwHAPNWVlidbubB4f4Jc/zsJ2HkrAKGNwVijT00tdl+hoJ37fEgICFg7BrF++4GngehWkaPvZMguLRtjSJLoyswcNAu2WmAZyMjemJvgnw3xh4UbqhVxdIzljQRSdXu5OgEwAXgthCoa93sC2/MhoMzAYD3C4KhFsV6hIxxndfM7pQhD5reEI1tNfuGiYwPiLeCG3RZZ34Uuxd9ik0C2OUKmoH3GCOUi4p2AhzDMbyGnaUMXh6PQMTrDSqPuS33K6vzeZL284KCO2Z99xZKd6yyJz0aiV+wwSeFXJ4K0OCoWVvAlX5eXlkcboZw+rffKFfIJjs6Mnrr94Cr57xkdfPSVYmWg==;3y3EBiyAQZUaAZbk2p3r6A=="
 ---
 

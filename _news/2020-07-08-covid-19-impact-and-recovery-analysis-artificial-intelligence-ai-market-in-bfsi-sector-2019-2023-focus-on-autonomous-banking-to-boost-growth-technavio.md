@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-08T00:30:00Z
 webUrl: "https://www.businesswire.com/news/home/20200707005778/en/"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     isCached: true
     title: "COVID-19 Impact and Recovery Analysis | Artificial Intelligence (AI) Market In BFSI Sector 2019-2023 | Focus On Autonomous Banking to Boost Growth | Technavio"
 
-secured: "OY0hziUWbiBBay/azM36FkP2n20ydN2Ja3hoQxwT9mSEzpAq17tGeoCuNlDycaTWPzDT57YokPQersKRe5RypVwyWf/NInr9agqgMoXGznN0sZti2K83tN6MCWRWUB/57Yacm4SFwN8CMetgF4K2XCq4tnv3PpiaGygFZ+8/V78U3ChP9xn29iQ7C+7EsMiKXK3774zOYPZ6IwLnK4BNM3W2C+TThzNovKH6OY06RgniVGctPDtj/S6L8ElR+z6Zk94ccMTljN+Rb44hUxlkfWbO9reo2F3DkcGEceaMKsmOirPE3adhqTBAXgTqwHTE6eTrAVB2kzy6m6jimSTfbA==;mxpT/yac7mdLxdp66h4GqQ=="
+related:
+  - title: "Analysis of COVID-19 Impact | Software As A Service (SaaS) Market 2019-2023 | Use Of AI-enabled SaaS to Boost Growth | Technavio"
+    excerpt: "Technavio has been monitoring the software as a service (SaaS) market and it is poised to grow by USD 60.36 bn during 2019-2023. The report offers an up-to-date analysis regarding the current market scenario,"
+    publishedDateTime: 2020-07-08T03:15:00Z
+    webUrl: "https://apnews.com/f438c1444a0b4fa09ad185cc607149ab"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "Pi5oKcOsqU+kARcYyW0IxEi3gXOr5Nq1Ipcev7HzfZxCgGXUSHwgXYfqfJuM7lxB65KWjCvclUgMv6uFigXkb06r8p9hld5jZk8smmYZFXBpC4xlATGYNarT3hd0xSEnHNSQrpeIkWPOTLr7dVr7+jJ3AA/Ue9Bks7REGl9Se6A2M/Iwum2EL9JwH35wK2nbltRcdf+7cIdw2X37e1aMvW+OGJtHvXKdv4DqH0L33j6PxsFqzf4LhnlITkDpCOfuqTzXv4cYSPK7Ahqqb7FxbxowEqOwvWvt6530W74wF+yAzfhJq89dGX+NiIB3xpZZDYE/KwWads00IitFZhUIoFkEdSv9mXB/W1o0UFl+8PBaaFsR8mynuGdVFTNacRYbPGv1z4QKeMHoqElBx+qLRRZKS5aEUCjQebINF5EFXUB52Ijco0bzzcNTYUE3EfYS4RWLMKa4cRyWlOLqgUy+yAj+3UwufujpDilTE0UDRQQmICsxvi+R1t+17l7L0LR3lfmHLnXuySti+MUClUuOjQ==;fdQD8tXGh2rNQtcHvg8QUg=="
 ---
 

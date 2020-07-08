@@ -1,29 +1,22 @@
 ---
 category: news
 title: "Intermountain Healthcare Implements DeepThink Health's Precision Intelligence Solutions to Manage its Molecular Tumor Board"
-excerpt: "DeepThink Health, Inc., a technology innovator in advanced analytics and artificial intelligence for precision medicine, announced today"
-publishedDateTime: 2020-07-07T15:01:00Z
-webUrl: "https://www.prnewswire.com/news-releases/intermountain-healthcare-implements-deepthink-healths-precision-intelligence-solutions-to-manage-its-molecular-tumor-board-301089241.html"
+excerpt: "July 7, 2020 /PRNewswire/ -- DeepThink Health, Inc., a technology innovator in advanced analytics and artificial intelligence for precision medicine ... based decision making for molecular testing, therapy selection, and clinical trial matching."
+publishedDateTime: 2020-07-07T00:00:00Z
+webUrl: "https://www.medindia.net/health-press-release/intermountain-healthcare-implements-deepthink-healths-precision-intelligence-solutions-to-manage-its-molecular-tumor-board-476398-1.htm"
 type: article
-quality: 28
-heat: 28
+quality: 8
+heat: 8
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Medindia
+  domain: medindia.net
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-    title: "Intermountain Healthcare Implements DeepThink Health's Precision Intelligence Solutions to Manage its Molecular Tumor Board"
-
-secured: "GjkBuZv4VPu2yHENDMlvk9cZI7eCZzkTZigHNkCDsOD86HGY+cuf9FVzZUxqlrz53jLDA7ijbvZdLxzEbX49/MMDAZO4MpoS0pxKQet3jO7Blep5OufVf18+qFkIWaTjsSOfB6NkHl4gP5aJwO+HY9AYrKRrF3zJTbzmmET6pyOKwV3eldFPYjmS6lkMwSz+O2hucLWJs+pfiWVjEIJ+wha5RwQ6jejG1nsaxQX+2nQVdBwZ9/IkG5QmvYK3MhS1ug/yMZzjWeCHSIJp+2uGkyD+I5x22GkH8NnOdo4L8vi0VG1BFGWoMAFlYr43asawivnJFdzEdbnnpy8fVfVXKw==;v92tRWd+2eC8iPs9se6Jxg=="
+secured: "KKaVLfyTCuBIEEfvnCPKrImur/6CXHcJrrSreeTTmAof8tGdEzOiRwJSaWPWYkySyhywzBE1AI9XNfT62chn5+yib23la+jP7V/PIHZEUCDU8Kt48pfzjSdNsYGv20aknRUb6ukD+jJR2/0SXfUSfYwOxR+gg82GzrN7FMi+ycEH2vsvGQyujQq4luLm/GzGroJqUUfDgdmwnr1D0aH/0+ZDwiA33fzYkXK1wujldTHX6m5RqRmlX0dMmKqVogXlJxlZvKjIPK4F3WwVt1LOaIoNAv1vlbEYx5NfSiUwiVawu/l+ZlU1wyIHaIcgUWifs5Ljih1mqnMscHvAPfLFVw==;/08bG+DmrFBNOB1Tdwia6g=="
 ---
 

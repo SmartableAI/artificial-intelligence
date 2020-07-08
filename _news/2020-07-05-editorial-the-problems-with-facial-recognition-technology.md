@@ -8,7 +8,7 @@ ampWebUrl: "https://wcfcourier.com/opinion/editorial/editorial-the-problems-with
 cdnAmpWebUrl: "https://wcfcourier-com.cdn.ampproject.org/c/s/wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.amp.html"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
         width: 664
         height: 664
+        isCached: true
+  - title: "Moscow’s Use of Facial Recognition Technology Challenged"
+    excerpt: "Activist Alyona Popova and politician Vladimir Milov have lodged a complaint over Russia’s use facial recognition technology during protests to the European Court of Human Rights. Their lawyer, Kirill Koroteyev,"
+    publishedDateTime: 2020-07-08T04:05:00Z
+    webUrl: "https://www.hrw.org/news/2020/07/08/moscows-use-facial-recognition-technology-challenged"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 39
+    images:
+      - url: "https://www.hrw.org/sites/default/files/multimedia_images_2020/202003eca_russia_cameras.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Facial recognition technology is one of the most racist weapons in the police arsenal"
     excerpt: "Thanks to the growing global anti-racism movement, the world is opening its eyes to how police use of facial recognition fits into the bigger picture of harm against Black and Indigenous people -- and how badly we need laws that govern,"
