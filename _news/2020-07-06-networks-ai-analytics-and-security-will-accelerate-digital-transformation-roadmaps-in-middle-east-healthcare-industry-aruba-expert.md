@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200706111933/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200706111933/"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -24,36 +24,6 @@ images:
     height: 878
     isCached: true
     title: "'Networks, AI, analytics and security will accelerate digital transformation roadmaps in Middle East healthcare industry': Aruba Expert"
-
-related:
-  - title: "KT and Hyundai Accelerate Digital Transformation with Smart Robots"
-    excerpt: "Under the contracts, KT will acquire a 10 percent equity stake in Hyundai Robotics, the leader in the Korean industrial robotics market, for 50 billion won. KT also signed a business cooperation agreement with Hyundai Heavy Industries Holdings for joint efforts toward digital transformation."
-    publishedDateTime: 2020-07-03T23:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/kt-and-hyundai-accelerate-digital-transformation-with-smart-robots-2020-06-17-15183012"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "IBM banking on cloud, AI to drive digital transformation"
-    excerpt: "IBM Thailand, the local unit of the US tech giant, is highlighting its cloud and artificial intelligence (AI) technologies as a way to help drive business transformation to ensure organisations thrive following the Covid-19 crisis."
-    publishedDateTime: 2020-07-06T01:40:00Z
-    webUrl: "https://www.bangkokpost.com/business/1946544/ibm-banking-on-cloud-ai-to-drive-digital-transformation"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 37
-    images:
-      - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/default-pic-w600.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "8OuICRa5nyX9AdojVIDrK+yszGvXrNt0iVHAuKVWenPMKsR0dqHW50E/GriJzGo25CxsLPYskpF+J+eYODipoz8hP0u3BzJevV21EvadvVKd8D1YqDuQDMn5y6EovvUAdivlV7PkHtlayEBW0uF3kEvU8Rmlsw1EtPP2TOOKnOtEZ+puEtMDhJWeFvgOyoqtkj6WzmcGox/8BvxCIWuhpH0dWt/Y6CNr3ycqLx3oSm9g1hmADrEFyPk8simqxewlKKnVrWrISWm2bG+ZoiiwQYBEI30aJrIqFbrtfFFn4JdiUWbRuKrmlxuYcC5dymn5l4Mh5M1Ch2psM22L61BYcw==;bHFoGWHT/1o+zi9CC1+jAw=="
 ---

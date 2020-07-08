@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-07T16:43:00Z
 webUrl: "https://www.hpcwire.com/2020/07/07/google-cloud-debuts-ampere-a2-family/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,66 @@ images:
     title: "Google Cloud Debuts 16-GPU Ampere A100 Instances"
 
 related:
+  - title: "Nvidia’s next-generation Ampere A100 GPU available on Google Cloud"
+    excerpt: "Nvidia and Google has revealed a partnership to offer the Accelerator-Optimized VM (A2) instance family powered by Nvidia’s A100 compute GPU. The new A2 VM instance family is ai"
+    publishedDateTime: 2020-07-08T17:58:00Z
+    webUrl: "https://www.techradar.com/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud"
+    ampWebUrl: "https://www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 104
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/AzdGbHQuxxjaV5SmcG5ygb-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Nvidia Teams With Google on New Cloud Computing Services"
+    excerpt: "Nvidia's new A100 flagship GPU is powering a new family of Google cloud computing services -- including one that provides access to 16 GPUs."
+    publishedDateTime: 2020-07-07T20:31:00Z
+    webUrl: "https://www.thestreet.com/investing/nvidia-google-team-up-cloud-computing-services"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/nvidia-google-team-up-cloud-computing-services"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-google-team-up-cloud-computing-services"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://content.jwplatform.com/thumbs/qgqzAEcX-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
+  - title: "Google and Nvidia Take Cloud AI Performance to the Next Level"
+    excerpt: "Google Cloud and Nvidia said Tuesday that Google would be the first cloud provider to offer Nvidia’s latest GPU for machine learning as a service. The Nvidia A100 Tensor Core GPU, based on the chipmaker’s new Ampere architecture,"
+    publishedDateTime: 2020-07-07T16:34:00Z
+    webUrl: "https://www.datacenterknowledge.com/machine-learning/google-and-nvidia-take-cloud-ai-performance-next-level"
+    type: article
+    provider:
+      name: Data Center Knowledge
+      domain: datacenterknowledge.com
+    quality: 41
+    images:
+      - url: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/nvidia%20a100%20ampere%20gpu.jpg"
+        width: 2000
+        height: 1700
+        isCached: true
+  - title: "Google Cloud Gets New AI Smarts With Nvidia A100 Instance"
+    excerpt: "based chipmaker revealed the A100 and its 7-nanometer Ampere GPU architecture, which it said will \"revolutionize\" AI by unifying training and inference into one architecture that can outperform Nvidia's V100 and T4 GPUs several times over. \"Google Cloud ..."
+    publishedDateTime: 2020-07-07T16:28:00Z
+    webUrl: "https://www.crn.com/news/cloud/google-cloud-gets-new-ai-smarts-with-nvidia-a100-instance"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/025f-0fd4d7399370-201d85f07f1c-1000/google-cloud-next-intro_002_.jpg"
+        width: 609
+        height: 456
+        isCached: true
   - title: "Nvidia’s latest A100 GPU debuts on Google Cloud"
     excerpt: "Google LLC’s public cloud platform. The Nvidia A100 Tensor Core GPU is now available in alpha as part of the new Accelerator-Optimized VM (A2) instance family on Google’s Compute Engine service. The company claims the new chip,"
     publishedDateTime: 2020-07-07T16:11:00Z

@@ -59,6 +59,20 @@ related:
         width: 1560
         height: 1025
         isCached: true
+  - title: "Facial Recognition Is Here But We Have No Laws"
+    excerpt: "Americans have also gotten a look at a more insidious police capability: facial recognition systems with the ability to identify faces in a crowd and track people as they move through the world. As devotees of any police procedural drama will know,"
+    publishedDateTime: 2020-07-08T15:00:00Z
+    webUrl: "https://www.nextgov.com/ideas/2020/07/facial-recognition-here-we-have-no-laws/166711/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 41
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/07/07/NGbiometrics20200707/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "CyberLink updates facial recognition software to detect masks"
     excerpt: "CyberLink Corp. has updated its facial recognition software, FaceMe, to detect if users are wearing masks. The software can detect if users are wearing a variety of masks such as medical, cloth, fiber or N95 masks,"
     publishedDateTime: 2020-07-06T13:32:00Z

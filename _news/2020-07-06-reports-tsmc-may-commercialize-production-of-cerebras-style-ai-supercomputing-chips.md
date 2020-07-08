@@ -39,6 +39,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "TSMC to Build Supercomputing AI Chips, Ramps Wafer-Scale Computing"
+    excerpt: "Wafer-scale computing is moving ahead, and TSMC plans to be at the forefront of the effort with new packaging technology improvements."
+    publishedDateTime: 2020-07-06T18:00:00Z
+    webUrl: "https://www.extremetech.com/computing/312392-tsmc-to-build-supercomputing-ai-chips-ramps-wafer-scale-computing"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 54
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2019/08/cerebras-1-100808712-large-e1566305886625.jpg"
+        width: 1187
+        height: 668
+        isCached: true
   - title: "Highlights of the day: TSMC eyeing supercomputer chips"
     excerpt: "TSMC has also developed InFO_SoW (system-on-wafer) technology mainly for processing supercomputing AI chips. Demand for such extremely costly chips may be limited, but TSMC looks to commercialize the technology in two years."
     publishedDateTime: 2020-07-06T08:34:00Z

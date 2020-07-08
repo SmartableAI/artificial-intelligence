@@ -65,22 +65,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Shady Face Recognition Firm Clearview AI Says It's Left Canada Amid Two Federal Investigations"
-    excerpt: "Dystopian, U.S.-based face recognition firm Clearview AI has suspended its contract with the Royal Mounted Canadian Police (RMCP), effectively locking its business out of Canada entirely, Bloomberg reported on Monday."
-    publishedDateTime: 2020-07-07T07:30:00Z
-    webUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344"
-    ampWebUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 92
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
     excerpt: "TORONTO — Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy ..."
     publishedDateTime: 2020-07-06T20:49:00Z
@@ -126,6 +110,36 @@ related:
       - url: "https://i.cbc.ca/1.5639386.1594063251!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/clearview-ai.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "Shady Face Recognition Firm Clearview AI Says It’s Left Canada Amid Two Federal Investigations"
+    excerpt: "Dystopian, U.S.-based face recognition firm Clearview AI has suspended its contract with the Royal Mounted Canadian Police (RMCP), effectively locking its business out of Canada entirely, Bloomberg reported on Monday."
+    publishedDateTime: 2020-07-07T02:30:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 62
+    images:
+      - url: "https://www.pedestrian.tv/content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "Clearview AI's exit from Canada builds on a pivotal moment for facial-recognition technology"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Facial-recognition startup Clearview AI informed Canadian privacy protection authorities that it would no longer operate in Canada ..."
+    publishedDateTime: 2020-07-08T14:59:00Z
+    webUrl: "https://www.businessinsider.com/clearview-ai-exits-canada-at-pivotal-time-for-facial-recognition-2020-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/5f05ceb24dca681ce8613f96?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Editorial: The problems with facial recognition technology"
     excerpt: "Face recognition also can be problematic when manipulated by overzealous law enforcement agencies trying to match driver’s licenses photos to an artist’s sketch or surveillance cameras capturing indiv"
@@ -191,19 +205,21 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "Clearview AI's exit from Canada builds on a pivotal moment for facial-recognition technology"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Facial-recognition startup Clearview AI informed Canadian privacy protection authorities that it would no longer operate in Canada ..."
-    publishedDateTime: 2020-07-08T14:59:00Z
-    webUrl: "https://www.businessinsider.com/clearview-ai-exits-canada-at-pivotal-time-for-facial-recognition-2020-7"
+  - title: "Black lawmakers call for ban on police use of facial recognition technology"
+    excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
+    publishedDateTime: 2020-07-08T16:14:00Z
+    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/07/08/facial-recognition-software-police-michigan/5397596002/"
+    ampWebUrl: "https://amp.freep.com/amp/5397596002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5397596002"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 57
     images:
-      - url: "https://i.insider.com/5f05ceb24dca681ce8613f96?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 678
         isCached: true
   - title: "Clearview AI to end facial-recognition services in Canada: privacy commissioner"
     excerpt: "The federal privacy commissioner says U.S. firm Clearview AI will stop offering its facial-recognition services in Canada in response to an investigation by the commissioner and three provincial counterparts."
@@ -273,6 +289,22 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 49
+  - title: "Banning use of facial recognition technology among Michigan lawmakers’ proposed police reforms"
+    excerpt: "Members of Michigan’s Legislative Black Caucus called to ban law enforcement agencies from using facial recognition technology to identify suspects as part of wide-ranging recommendations to reform police operations."
+    publishedDateTime: 2020-07-08T17:45:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 47
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VU25W3CILNCGFHXQXEQ4FFYWGA.JPG"
+        width: 1300
+        height: 867
+        isCached: true
   - title: "Facial recognition technologies echo the historical problem of linking appearance with criminality"
     excerpt: "Several startups now claim to be able to use artificial intelligence to help employers detect the personality traits of job candidates based on their facial expressions. In China, the government has pioneered the use of surveillance cameras that identify and track ethnic minorities."
     publishedDateTime: 2020-07-07T18:05:00Z
@@ -373,6 +405,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trulioo Launches Facial Recognition, Document Verification Product"
+    excerpt: "Trulioo has introduced a facial recognition and document validation technology to enable small businesses to provide online protection to their customers."
+    publishedDateTime: 2020-07-08T15:31:00Z
+    webUrl: "https://www.pymnts.com/authentication/2020/trulioo-launches-facial-recognition-document-verification-product/"
+    ampWebUrl: "https://www.pymnts.com/authentication/2020/trulioo-launches-facial-recognition-document-verification-product/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/authentication/2020/trulioo-launches-facial-recognition-document-verification-product/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 39
   - title: "Facial recognition technology is one of the most racist weapons in the police arsenal"
     excerpt: "Thanks to the growing global anti-racism movement, the world is opening its eyes to how police use of facial recognition fits into the bigger picture of harm against Black and Indigenous people -- and how badly we need laws that govern,"
     publishedDateTime: 2020-07-07T00:33:00Z

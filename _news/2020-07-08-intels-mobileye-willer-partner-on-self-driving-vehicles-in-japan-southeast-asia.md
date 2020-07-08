@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/intels-mobileye-willer-partner-on-se
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intels-mobileye-willer-partner-on-self-driving-vehicles-in-japan-southeast-asia-2020-07-07?amp"
 type: article
 quality: 48
-heat: 48
+heat: 68
 published: false
 
 provider:

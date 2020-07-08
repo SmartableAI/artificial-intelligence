@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-07T00:03:00Z
 webUrl: "https://www.miragenews.com/one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-digital-fan-experience/"
 type: article
 quality: 26
-heat: 26
+heat: 76
 published: false
 
 provider:

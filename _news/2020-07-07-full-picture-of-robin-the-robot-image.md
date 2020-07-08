@@ -41,17 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Welcome, Robin the AI robot"
-    excerpt: "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character—one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital."
-    publishedDateTime: 2020-07-07T20:51:00Z
-    webUrl: "https://medicalxpress.com/news/2020-07-robin-ai-robot.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-07-robin-ai-robot.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-robin-ai-robot.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 54
   - title: "Tech: Welcome, Robin the AI robot"
     excerpt: "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character — one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital."
     publishedDateTime: 2020-07-08T12:12:00Z

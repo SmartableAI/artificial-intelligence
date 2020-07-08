@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-06T09:41:00Z
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-trends-outlook-opportunity-till-2025-2020-07-06"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 25
+  - title: "Global Natural Language Processing Market (2019 to 2024) - Technology Landscape, Trends and Opportunities - ResearchAndMarkets.com"
+    excerpt: "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. The technologies in natural language processing has undergone significant change in recent ..."
+    publishedDateTime: 2020-07-08T16:34:00Z
+    webUrl: "https://www.oaoa.com/news/business/global-natural-language-processing-market-2019-to-2024---technology-landscape-trends-and-opportunities/article_8f430592-8b92-50c7-89c3-7e8d52cd7b51.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
 
 secured: "BTh6kSfg4wS7HD3Lo25Yu/pyGKpSngnq/okuNpJdlD4lAzPWmJPoaT5bzgggig75d8aNOPzqICEmvwGjNxC8XDdd6je2w9KeElO0m4rNhPCGkr1aa/WbqKGHr92sHa6vTyjCMfCFlm4ZMwWli6xCgdXoc2wk4DLvUyqKeKwnXNGHJnyiiIr37r/uZEPV8az5uR+loHBcuvq45EE3Kk5J/YMjj4neA/OuAPigGwaGYL78D4Px/W9cqcrZPweWaBNu1TNGf5jnWwB0AiVUjo9YujCK5/873viGJjFqDU7LXV4JxCkYNyWGDfh92T8iZBxEXCccSFNGbKOCICfeg2Lx9Q==;Lh0L2r2chvPHcMs3H/M65A=="
 ---

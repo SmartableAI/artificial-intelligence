@@ -25,20 +25,6 @@ images:
     title: "Natural Language Processing Market 2020 Along With Covid-19 Impact Analysis, Trends, Advancement And Outlook 2029"
 
 related:
-  - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2020 | Industry Analysis and Forecasts to 2025"
-    excerpt: "This report provides in depth study of “Natural Language Processing (NLP) in Healthcare and Life Sciences Market” using SWOT analysis i.e. Strength, Weakness, Opportunities an"
-    publishedDateTime: 2020-07-03T23:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2020-industry-analysis-and-forecasts-to-2025-2020-07-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Voice Assistant Market 2020 Research Report with COVID-19 Impact, by Future Trend, Growth rate and Industry Analysis to 2025"
     excerpt: "Global Voice Assistant Market Growth (Status and Outlook) 2020-2025 organized by researchers at MarketsandResearch.biz presents a detailed diagram of the market in terms of current and future trends driving the profit pattern."
     publishedDateTime: 2020-07-06T01:13:00Z
@@ -52,6 +38,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Analysis of COVID-19 Impact | Software As A Service (SaaS) Market 2019-2023 | Use Of AI-enabled SaaS to Boost Growth | Technavio"
+    excerpt: "Technavio has been monitoring the software as a service (SaaS) market and it is poised to grow by USD 60.36 bn during 2019-2023. The report offers an up-to-date analysis regarding the current market scenario,"
+    publishedDateTime: 2020-07-08T03:15:00Z
+    webUrl: "https://apnews.com/f438c1444a0b4fa09ad185cc607149ab"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Cfv9lceOs9RB+MZP4eWhLojDimUtx4RxhPYbdU674fAdlbNcNgmVp6xAe5EhCBx0Zo5dE/wRx66hDU+GyAG03jbO+BOwII1+5sZKSpD0k72HcYSkwIT/VUI+8ALxWH6mQPgjYBwsSANfmsBWe6hacNAqUXtu70BTG6Khs4RvmeC+kdOQLX3z10b8s4mWfie6Tbxb+ZUu8tdCtI1PghZrR3A2p+DRNSlIy2CG+qjVOQDb82AqLLWz0UY+VV6CSHul7XlmMK24GTg7Ed9El/oMDL+/hb68dIiVaou0jafsb+tEwYqvyIs4H9kRLolc+Sc6WMrv+YB0dsiFVsrwKLzjfA==;skRXgO1Hdo2jkVKOAZ2mnQ=="

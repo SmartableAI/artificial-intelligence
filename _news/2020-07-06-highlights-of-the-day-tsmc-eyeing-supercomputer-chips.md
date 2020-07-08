@@ -39,6 +39,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "TSMC to Build Supercomputing AI Chips, Ramps Wafer-Scale Computing"
+    excerpt: "Wafer-scale computing is moving ahead, and TSMC plans to be at the forefront of the effort with new packaging technology improvements."
+    publishedDateTime: 2020-07-06T18:00:00Z
+    webUrl: "https://www.extremetech.com/computing/312392-tsmc-to-build-supercomputing-ai-chips-ramps-wafer-scale-computing"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 54
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2019/08/cerebras-1-100808712-large-e1566305886625.jpg"
+        width: 1187
+        height: 668
+        isCached: true
   - title: "Reports: TSMC May Commercialize Production of Cerebras-style AI Supercomputing Chips"
     excerpt: "Published reports state that TSMC (Taiwan Semiconductor Manufacturing Company) may begin commercial production within two years of specialized supercomputer AI chips, an outgrowth of the company’s customized fabrication of the Wafer Scale Engine (WSE) developed by AI start-up Cerebras Systems."
     publishedDateTime: 2020-07-06T19:48:00Z

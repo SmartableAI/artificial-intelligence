@@ -69,6 +69,20 @@ related:
         width: 1560
         height: 1025
         isCached: true
+  - title: "Facial Recognition Is Here But We Have No Laws"
+    excerpt: "Americans have also gotten a look at a more insidious police capability: facial recognition systems with the ability to identify faces in a crowd and track people as they move through the world. As devotees of any police procedural drama will know,"
+    publishedDateTime: 2020-07-08T15:00:00Z
+    webUrl: "https://www.nextgov.com/ideas/2020/07/facial-recognition-here-we-have-no-laws/166711/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 41
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/07/07/NGbiometrics20200707/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Facial recognition and thermal imaging to help fight virus"
     excerpt: "A SCOTTISH company has unveiled a “track and trace system” using facial recognition and thermal imaging to detect people with high"
     publishedDateTime: 2020-07-07T04:32:00Z

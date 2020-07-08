@@ -5,7 +5,7 @@ excerpt: "A leading-edge research firm focused on digital transformation. Good S
 publishedDateTime: 2020-07-08T14:59:00Z
 webUrl: "https://www.businessinsider.com/clearview-ai-exits-canada-at-pivotal-time-for-facial-recognition-2020-7"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/5f05ceb24dca681ce8613f96?width=1200&format=jpeg"

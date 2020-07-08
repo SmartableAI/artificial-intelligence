@@ -25,21 +25,47 @@ images:
     title: "TSMC to Build Supercomputing AI Chips, Ramps Wafer-Scale Computing"
 
 related:
-  - title: "Baidu to Ramp Up Investments in Cloud Computing, Artificial Intelligence"
-    excerpt: "Baidu (NASDAQ:BIDU) is making a big push into cutting-edge IT segments. The company announced Thursday that it will be allocating more capital to investments in developing corners of the market, particularly artificial intelligence (AI),"
-    publishedDateTime: 2020-07-04T00:35:00Z
-    webUrl: "https://www.fool.com/investing/2020/07/03/baidu-to-ramp-up-investments-in-cloud-computing-ar.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/07/03/baidu-to-ramp-up-investments-in-cloud-computing-ar.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/03/baidu-to-ramp-up-investments-in-cloud-computing-ar.aspx"
+  - title: "TSMC may commercialize InFO_SoW for supercomputer AI chips in two years"
+    excerpt: "TSMC, after launching 3D SoIC backend service, has also developed InFO_SoW (system-on-wafer) technology mainly for processing supercomputing AI chips and is expected to enter commercial production with the InFO-derived process within two years,"
+    publishedDateTime: 2020-07-06T06:12:00Z
+    webUrl: "https://www.digitimes.com/news/a20200706PD207.html"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 101
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F580974%2Fa-person-using-a-personal-computer.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
+      - url: "https://www.digitimes.com/newsshow/20200706PD207_files/4_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Reports: TSMC May Commercialize Production of Cerebras-style AI Supercomputing Chips"
+    excerpt: "Published reports state that TSMC (Taiwan Semiconductor Manufacturing Company) may begin commercial production within two years of specialized supercomputer AI chips, an outgrowth of the company’s customized fabrication of the Wafer Scale Engine (WSE) developed by AI start-up Cerebras Systems."
+    publishedDateTime: 2020-07-06T19:48:00Z
+    webUrl: "https://insidehpc.com/2020/07/reports-tsmc-may-commercialize-production-of-cerebras-style-ai-supercomputing-chips/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 47
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/06/Cerebras-Wafer-Scale-Chip-0819.jpg"
+        width: 500
+        height: 531
+        isCached: true
+  - title: "Highlights of the day: TSMC eyeing supercomputer chips"
+    excerpt: "TSMC has also developed InFO_SoW (system-on-wafer) technology mainly for processing supercomputing AI chips. Demand for such extremely costly chips may be limited, but TSMC looks to commercialize the technology in two years."
+    publishedDateTime: 2020-07-06T08:34:00Z
+    webUrl: "https://www.digitimes.com/news/a20200706VL202.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://www.digitimes.com/newsshow/20200706VL202_files/1_r.jpg"
+        width: 336
+        height: 224
         isCached: true
 
 secured: "+ES6g0jTGzWjEQ6OpLiCPiKc1SPEAvFNZnmFIynSkhsIfjojcFVAwKfgYSH4B8egsHU0+Qg98LgHo99xCDi+mL9v9fiNnBMrl+fQlMsrQpEFGnh0bnbuJCp+Bt68HZKwW68+86VrGGZQs6On8hwykUct13H1ysnrZQx7TSvj77PrxcqyOw6KoboASt2u8+lG2bv7xkN1vE7xXuPAuVFqgBFx8Sr6ci1u6vILxhSrEYTh5zKSXiCnGrscCnUijhWgKTaSNB47f4LJtEOsFasq15GaqEYQzvz/4atGI9A3N4gitubWjS+nRyq9zev0853l9RG6P2v58kWBH+E9WowSIJpyBW7N+1MuPlKmRG4pT07FV8d1AqhtLSsmBq9Qd3UNBXqteJBWJnsgoR8dgKzy1DeZlwGBX+9vLpzT7LtJkvCAfFgmS2R9KkBuaSOTgxRZj7GX7a0cP4Ilf3mE+YyZecuZg8VkFI9VEeJvZ2zZJx1LEYK9zvIr32kdBS7jXOwO3KSfaO2yZGnL6m3/HZg7Zw==;kNIcjvpMOoXZlrwCHZNjEg=="

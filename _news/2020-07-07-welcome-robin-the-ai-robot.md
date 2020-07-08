@@ -1,70 +1,28 @@
 ---
 category: news
 title: "Welcome, Robin the AI robot"
-excerpt: "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character—one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital."
-publishedDateTime: 2020-07-07T20:51:00Z
-webUrl: "https://medicalxpress.com/news/2020-07-robin-ai-robot.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-07-robin-ai-robot.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-robin-ai-robot.amp"
+excerpt: "The artificial intelligence system was developed by Expper Technologies, a Silicon Valley-supported startup with roots in Yerevan, Armenia. Robin's technology enables the robot to build what is ..."
+publishedDateTime: 2020-07-07T21:51:00Z
+webUrl: "https://eurekalert.org/pub_releases/2020-07/uoc--wrt070720.php"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 54
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "UCLA launches an AI robot to support the emotional needs of children"
-    excerpt: "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character -- one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital."
-    publishedDateTime: 2020-07-08T01:28:00Z
-    webUrl: "https://www.news-medical.net/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 74
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2016%2f3%2fChildren_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "Tech: Welcome, Robin the AI robot"
-    excerpt: "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character — one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital."
-    publishedDateTime: 2020-07-08T12:12:00Z
-    webUrl: "https://www.tunisiesoir.com/tech/tech-welcome-robin-the-ai-robot-22068-2020/"
-    type: article
-    provider:
-      name: Tunisie Soir
-      domain: tunisiesoir.com
-    quality: 54
-    images:
-      - url: "https://www.tunisiesoir.com/wp-content/uploads/2020/07/Tech-Welcome-Robin-the-AI-robot-696x464.jpg"
-        width: 696
-        height: 464
-        isCached: true
-  - title: "Full picture of Robin the robot (image)"
-    excerpt: "In response to COVID-19 pandemic, UCLA Mattel Children's Hospital has launched an innovative project -- an interactive, artificial intelligence robot named Robin -- to support the emotional needs of children."
-    publishedDateTime: 2020-07-07T20:44:00Z
-    webUrl: "https://www.eurekalert.org/multimedia/pub/236836.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/236836_web.jpg"
-        width: 1440
-        height: 960
-        isCached: true
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/236836_web.jpg"
+    width: 1440
+    height: 960
+    isCached: true
+    title: "Welcome, Robin the AI robot"
 
-secured: "4oQ3EzwOefVLnq/Io+2jl0owgpuObsg6o8RbUi/YkWNyXURCg4ROHpbNcoaWs2U53CLjKr3VcXi6Q+7Vf3bVyNrKGzEV9+oB84XTqxbXDra1DA+cxvt0bmo3wvHuenJlnbr/qyuinedwWevtlS5RX62A/8y/5n+bDlWUfM+Cs/A4Kzj8T0ZKeRHUW788/LdL1rQ9VDjpcypd0yXcmQD1HazpyqFWOb8++2Qr3wJsWTVv0QeOyxAsmvx20hogSIE0Kortop4CQardmxzJGtjhgDEQC4ot3GekNphe/7eGcRkij37ZLqe1sM+hykR7tzIM6k0gqNDQGt9L5NwEG7FEEVM4RIRoDlpEfM441IPBHZSurLpKtgTqJrYxumV9V9XZYhP+aINSputzIdxoEhtQ+FvpvMXiMRD1Q1lbU4hG4VDMNwlc2x0P9E7AiXF2UIeIo3/HShSXOsdB3k55cXuFZ2E5a4myQx1gw3AAEr6HuVgMHQ4YlYD5e+7Hv2yY9SgXLxiNlVMEnx+2d6JSPuh2XA==;svnngbduF4j/eX2ABPqjrQ=="
+secured: "OTaF4rdbNXYLHDMsNHsuC4ZNAAnHHLvY2Q0waMrjWdfI/1GgWS4OF9YADx/lEpCZGxncF7mWvyRE9O7juIRctpYK5dAVgYs1adpiebNa56DL8/iJXUamF9eK4vAFH7WvMkjMfYE1hHGpVCUhNIGL81GlHDtASfIwNqOzeoQT8H7LLf5SFz8DTODkSSBapoThV8tmoY8jP5zKMRTa182GK7GG6pOqFSdybJ6i166BRjVoLPslK5ErNzO5XVErTsYZ+CzTw9yhLgz7KWWGcpZps/sKyTaFIGASXLDQ/ismUa6VAQuvg0XRdkByDNZpe7UMDINcT9IP5IMMOO1n3j9IsQ==;8//sSXFcL8rQOwLIW5iDhw=="
 ---
 

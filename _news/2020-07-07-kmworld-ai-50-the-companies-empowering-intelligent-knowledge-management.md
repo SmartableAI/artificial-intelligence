@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 1066
         isCached: true
-  - title: "WIMI Hologram AR's Light and Shadow AI Vision Helps Scenic Spots Build New Competitive Advantages"
-    excerpt: "WIMI Hologram Cloud (NASDAQ:WIMI), as a representative of domestic holographic enterprises, mainly concentrates its business application scenes in five professional fields,"
-    publishedDateTime: 2020-07-04T00:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16504404/wimi-hologram-ars-light-and-shadow-ai-vision-helps-scenic-spots-build-new-competitive-advantages"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16504404"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16504404"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://i.ibb.co/2nPGGcj/1.png"
-        width: 554
-        height: 288
-        isCached: true
 
 secured: "juOzzMF+TtU0bjBPS8tQP/kbczWNSgERAhkbz5fv2zqRKROFS1BL2jqSIO8CMnDOa/hCpK5oRE9+EJNX2xTfqhpvXGyGLZaY0iTC5OXjhEJfgkWax3wvMU+GHav20jSY+9On/uN0av34QEEv5AK/KAYkLOc8Gtb3sPuVK0/N1X4mL8Y6URngbqgm85p7LwM6GyX7SZofBEJUGDsEAANFdDeOkkjJ1uCWRw6X8uLI00Gkm626+uNaytgAzpVCCg9rnIs7d1DQiJYmZzB+riDaYIR5L85r9qDNnTAk/8wZv0BvCDUtp4Fl/PDZA8O8dUyk9fPAGe0IglYfgSWgEBwl0A==;OXdhvxQhACxblKUBD4qWQw=="
 ---
