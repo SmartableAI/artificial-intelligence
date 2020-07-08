@@ -2,6 +2,73 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2020-05-19-the-role-artificial-intelligence-is-playing-in-the-fight-against-covid-19.md",
+      "title": "The Role Artificial Intelligence is Playing in the Fight Against COVID-19",
+      "excerpt": "As the economy begins the slow process of re-opening, advanced technologies such as artificial intelligence, machine learning, and natural language processing are playing a key role not only in monitoring COVID-19 outbreaks,",
+      "webUrl": "https://www.nasdaq.com/articles/the-role-artificial-intelligence-is-playing-in-the-fight-against-covid-19-2020-05-19",
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-19-google-ai-could-predict-eye-condition-behind-vision-loss.md",
+      "title": "Google AI could predict eye condition behind vision loss",
+      "excerpt": "The results, published in the journal Nature Medicine, suggest that the AI model, built in partnership with Alphabet subsidiary DeepMind and Moorfields Eye Hospital in Britain, could help doctors ...",
+      "webUrl": "https://www.sify.com/finance/google-ai-could-predict-eye-condition-behind-vision-loss-news-topnews-uftpa8jjdacfc.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/Paneer-Tikka-Momos_uf4rH1cjdjgif.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Google AI could predict eye condition behind vision loss",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-19T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-aware-combines-face-and-voice-in-latest-knomi-version-26-release.md",
       "title": "Aware Combines Face and Voice in Latest Knomi® Version 2.6 Release",
       "excerpt": "PRNewswire/ -- Aware, Inc. (NASDAQ: AWRE), a leading global provider of biometrics software products, solutions and services, today announced the release",
@@ -990,99 +1057,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-aaeon-ai-monitoring-for-fever-and-mask-detection.md",
-      "title": "AAEON AI monitoring for fever and mask detection",
-      "excerpt": "Monitor areas with high-volume foot traffic, such as metro station entrances, for mask compliance and people running a fever.",
-      "webUrl": "https://www.zdnet.com/article/aaeon-ai-monitoring-for-fever-and-mask-detection/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/19/ad69f266-7f5c-4de1-9202-2390c8122407/resize/1200x900/78b07e11530208db03d849cf9b79ba66/unnamed.jpg",
-          "width": 1074,
-          "height": 900,
-          "title": "AAEON AI monitoring for fever and mask detection",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aaeon-ai-monitoring-for-fever-and-mask-detection/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aaeon-ai-monitoring-for-fever-and-mask-detection/",
-      "publishedDateTime": "2020-05-19T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-tiktok-parent-bytedance-leads-6m-round-in-financial-ai-startup-lingxi.md",
-      "title": "TikTok parent ByteDance leads $6M round in financial AI startup Lingxi",
-      "excerpt": "TikTok’s parent company ByteDance has added Lingxi, a Beijing-based startup that applies machine intelligence to financial services such as debt collection and insurance sales, to its ever-expanding portfolio of investments.",
-      "webUrl": "https://techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/441589457034_.pic_hd-e1589588089905.jpg?w=1024",
-          "width": 1024,
-          "height": 544,
-          "title": "TikTok parent ByteDance leads $6M round in financial AI startup Lingxi",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/bytedance-invests-in-debt-collection-ai-company-lingxi/amp/",
-      "publishedDateTime": "2020-05-19T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

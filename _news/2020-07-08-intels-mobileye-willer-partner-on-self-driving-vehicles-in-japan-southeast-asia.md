@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobileye teams up with Willer to deploy self-driving taxis in Japan, Taiwan, Southeast Asia"
+    excerpt: "Starting in Japan, the companies will together test and deploy self-driving systems based on Mobileye’s automated vehicle (AV) technology. The first tests on public roads are expected to take place in Japan next year, with plans to launch fully ..."
+    publishedDateTime: 2020-07-08T07:20:00Z
+    webUrl: "https://www.telecompaper.com/news/mobileye-teams-up-with-willer-to-deploy-self-driving-taxis-in-japan-taiwan-southeast-asia--1345665"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 9
 
 secured: "0OkGOi7d5tUHV0rmpUdc41KJgMmJ1b/rzjxYY2vutVxvJxdPDO7QpHJYeJQkQTJWtc1496EkRYlIwheH5349/SedP7Qj0hXWIq43REy6/nJvNvTN8dAgcKNIcZ/r5EhdMaH7Ps55eEDrDerrE7gTUpfID3tg+poQvJIEK/HpfhTv5eafzVllDpMR/zHwHAPNWVlidbubB4f4Jc/zsJ2HkrAKGNwVijT00tdl+hoJ37fEgICFg7BrF++4GngehWkaPvZMguLRtjSJLoyswcNAu2WmAZyMjemJvgnw3xh4UbqhVxdIzljQRSdXu5OgEwAXgthCoa93sC2/MhoMzAYD3C4KhFsV6hIxxndfM7pQhD5reEI1tNfuGiYwPiLeCG3RZZ34Uuxd9ik0C2OUKmoH3GCOUi4p2AhzDMbyGnaUMXh6PQMTrDSqPuS33K6vzeZL284KCO2Z99xZKd6yyJz0aiV+wwSeFXJ4K0OCoWVvAlX5eXlkcboZw+rffKFfIJjs6Mnrr94Cr57xkdfPSVYmWg==;3y3EBiyAQZUaAZbk2p3r6A=="
 ---

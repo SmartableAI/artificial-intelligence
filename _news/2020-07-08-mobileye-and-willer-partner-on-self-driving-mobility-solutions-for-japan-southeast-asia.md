@@ -40,6 +40,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
+  - title: "Mobileye teams up with Willer to deploy self-driving taxis in Japan, Taiwan, Southeast Asia"
+    excerpt: "Starting in Japan, the companies will together test and deploy self-driving systems based on Mobileye’s automated vehicle (AV) technology. The first tests on public roads are expected to take place in Japan next year, with plans to launch fully ..."
+    publishedDateTime: 2020-07-08T07:20:00Z
+    webUrl: "https://www.telecompaper.com/news/mobileye-teams-up-with-willer-to-deploy-self-driving-taxis-in-japan-taiwan-southeast-asia--1345665"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 9
 
 secured: "JdBovmwTTbGjleqqzqAYisNB+10eGdbWT0qEhUf3O5EAhJtU2ZRroMaZYmAXnpZTIGqWSAE+zpa+Q+ENndc11+tOSzxmmX1qJIBfvcOT5h72lCtG/yV6WLntCDcgt0uuyZKp0G2E6IGGWBHCNgJ0BZMT6FfWBEfNKuLrUSE5o/3g4HFltl0zR+vdW/Et+ZTag4AHiqc6W83xENKnH0Ci+m7phZj9ZMTx3d0xFwJsdT2DFPrdBGb9r+I2d4ctepA6bV2eSgBVYRQ1NpsmMf+AdMDPTl3ZDE3kQ1Bg27fu7XoCy/fYRFpSK4DiQXJLMMMaqzt/peOyhKVtpt7fhm1olw==;x3i8bF7llVOiypx2AU4kqw=="
 ---

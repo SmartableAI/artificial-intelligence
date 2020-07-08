@@ -2,44 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-06-08-secure-privacy-preserving-and-federated-machine-learning-in-medical-imaging.md",
-      "title": "Secure, privacy-preserving and federated machine learning in medical imaging",
-      "excerpt": "Nat. Commun. 10, 764 (2019). Kaissis, G. et al. A machine learning algorithm predicts molecular subtypes in pancreatic ductal adenocarcinoma with differential response to gemcitabine-based versus ...",
-      "webUrl": "https://www.nature.com/articles/s42256-020-0186-1",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-020-0186-1/MediaObjects/42256_2020_186_Fig1_HTML.png",
-          "width": 685,
-          "height": 469,
-          "title": "Secure, privacy-preserving and federated machine learning in medical imaging",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-08-a-comprehensive-study-exploring-artificial-neural-networks-market-key-playersoracle-ward-systems-alyuda-research-neurodimension.md",
       "title": "A Comprehensive Study Exploring Artificial Neural Networks Market | Key PlayersOracle, Ward Systems, Alyuda Research, NeuroDimension",
       "excerpt": "Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer Center. The MarketWatch ...",
@@ -1226,6 +1188,35 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-global-deep-learning-chipset-market-2019-to-2027-industry-analysis-size-share-growth-trends-and-forecast-researchandmarketscom.md",
+      "title": "Global Deep Learning Chipset Market (2019 to 2027) - Industry Analysis, Size, Share, Growth, Trends and Forecast - ResearchAndMarkets.com",
+      "excerpt": "The \"Deep Learning Chipset Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2019 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ...",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/05/b16101792/global-deep-learning-chipset-market-2019-to-2027-industry-analysis-size-share-growth-trends-and-fo",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16101792",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16101792",
+      "publishedDateTime": "2020-05-25T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

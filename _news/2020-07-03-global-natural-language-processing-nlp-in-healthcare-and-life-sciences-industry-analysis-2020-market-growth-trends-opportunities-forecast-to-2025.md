@@ -116,20 +116,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Natural Language Processing (NLP) Market 2020| Countries Exclusive Data, Demand, Share and Growth Analysis by Key Participant up to 2027"
-    excerpt: "The Global Natural Language Processing (NLP) Market Feasibility Analysis and Trend Forecast Report is the most professional and comprehensive systematic deep market research report in this field. This report first introduces the background of Natural ..."
-    publishedDateTime: 2020-07-03T13:53:00Z
-    webUrl: "https://www.mynewsdesk.com/us/pressreleases/natural-language-processing-nlp-market-2020-countries-exclusive-data-demand-share-and-growth-analysis-by-key-participant-up-to-2027-3019927"
-    type: article
-    provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 6
-    images:
-      - url: "https://d9qz450atvita.cloudfront.net/assets/graphics/logos/mynewsdesk-dfa651f50b8d922b50d4a45a7ec1677e9b42e11968483f7b3563cb727540e36e.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
 
 secured: "yavbe/w6YK0YDsIycypLzlsjkElmICywA9rHExCAQB2XHOiv2SVnRWIK6qFc45Qv0Bouf831fuCVef6THGEMFKIBvlinxwfoppQFqESsmMo0nL+1/Xm7JyE2jZbnG+L4TlefcLsFBwbc4lhZdQK91sy3iXJJNWHpb28othEUpJPfOjOLI74q/AQpuUU4ljbWwApgI0jFSy8QWyQNg1lOJ+zyBJsGo+edkFsy9ZZSr1bPRdL2aJ5AtkBJy0kbp0zqkllY9ugrBU8iwzWVy78NkjqJvXt6E7RqHlcNvHydFmbQZoJQ9g3q9iPoDsRZ/L3cnGzwQ2+HM7DrPWIFz7fFZQ==;RV3vPgg4LvJjsmGZjDsV7Q=="
 ---

@@ -2,6 +2,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-08-dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications.md",
+      "title": "DEWA is first UAE government entity to utilise NVIDIA GPU in AI applications",
+      "excerpt": "Dubai Electricity and Water Authority (DEWA) was awarded a certificate of acknowledgement from US-based NVIDIA Corporation for being the first UAE government organisation to adopt NVIDIA GPU Computing",
+      "webUrl": "https://www.emirates247.com/business/corporate/dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications-2020-07-08-1.695295",
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.emirates247.com/polopoly_fs/1.695296.1594189204!/image/image.jpg",
+          "width": 749,
+          "height": 446,
+          "title": "DEWA is first UAE government entity to utilise NVIDIA GPU in AI applications",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.emirates247.com/business/corporate/dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications-2020-07-08-1.695295?ot=ot.AMPPageLayout",
+      "cdnAmpWebUrl": "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/business/corporate/dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications-2020-07-08-1.695295?ot=ot.AMPPageLayout",
+      "publishedDateTime": "2020-07-07T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Emirates247",
+        "domain": "emirates247.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-google-teams-with-nvidia-on-new-cloud-computing-offerings.md",
       "title": "Google Teams With NVIDIA on New Cloud Computing Offerings",
       "excerpt": "NVIDIA (NASDAQ: NVDA) announced on Tuesday that just weeks after its release, the A100 Tensor Core graphics processing unit (GPU) has been adopted by Google Cloud, a division of Alphabet (NASDAQ: GOOGL) (NASDAQ: GOOG).",
@@ -1223,53 +1261,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-nvidia-reveals-pcie-40-version-of-its-ampere-a100-gpu.md",
-      "title": "Nvidia reveals PCIe 4.0 version of its Ampere A100 GPU",
-      "excerpt": "Nvidia finally showed off its new 7nm Ampere architecture last month in the form of the A100 GPU. Now, the company has announced a number of A100 powered systems from leading server manufacturers, including Asus,",
-      "webUrl": "https://www.techspot.com/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-22-image-5.jpg",
-          "width": 1800,
-          "height": 1350,
-          "title": "Nvidia reveals PCIe 4.0 version of its Ampere A100 GPU",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
-      "publishedDateTime": "2020-06-22T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

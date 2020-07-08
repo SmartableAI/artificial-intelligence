@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-03T22:56:00Z
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-07-03"
 type: article
 quality: 56
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -112,20 +112,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Natural Language Processing (NLP) Market 2020| Countries Exclusive Data, Demand, Share and Growth Analysis by Key Participant up to 2027"
-    excerpt: "The Global Natural Language Processing (NLP) Market Feasibility Analysis and Trend Forecast Report is the most professional and comprehensive systematic deep market research report in this field. This report first introduces the background of Natural ..."
-    publishedDateTime: 2020-07-03T13:53:00Z
-    webUrl: "https://www.mynewsdesk.com/us/pressreleases/natural-language-processing-nlp-market-2020-countries-exclusive-data-demand-share-and-growth-analysis-by-key-participant-up-to-2027-3019927"
-    type: article
-    provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 6
-    images:
-      - url: "https://d9qz450atvita.cloudfront.net/assets/graphics/logos/mynewsdesk-dfa651f50b8d922b50d4a45a7ec1677e9b42e11968483f7b3563cb727540e36e.jpg"
-        width: 1024
-        height: 1024
         isCached: true
   - title: "Global Natural Language Processing (NLP) in Healthcare and Life Sciences Industry Analysis 2020, Market Growth, Trends, Opportunities Forecast To 2025"
     excerpt: "Summary A New Market Study, titled “Natural Language Processing (NLP) in Healthcare and Life Sciences Market Upcoming Trends, Growth Drivers and"

@@ -2,6 +2,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-06-elementary-robotics-raises-13-million.md",
+      "title": "Elementary Robotics Raises $13 Million",
+      "excerpt": "Elementary Robotics Inc., a downtown-based robotics startup, has raised $12.7 million in Series A funding. The raise announcement coincided with the launch of Elementary’s inspection and traceability robot for sale on the open market as of June 30.",
+      "webUrl": "https://labusinessjournal.com/news/2020/jul/06/elementary-robotics-raises-13-million/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ocbj.media.clients.ellingtoncms.com/img/photos/2020/07/02/PG10_ELEMENTARY_0706_IR1-2_t670.png?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d",
+          "width": 670,
+          "height": 401,
+          "title": "Elementary Robotics Raises $13 Million",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Business Journal",
+        "domain": "labusinessjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights.md",
       "title": "AI Weekly: Workplace surveillance tech promises safety, but not worker rights",
       "excerpt": "As bigger tech companies roll out \"getting back to work\" solutions, we can't forget about the rights and privacy of the workers being surveilled.",
@@ -83,53 +121,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,",
-      "webUrl": "https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F581061%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
-      "publishedDateTime": "2020-07-06T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1078,6 +1069,52 @@
       ]
     },
     {
+      "path": "_news/2020-07-05-3-top-artificial-intelligence-stocks-to-buy-in-july.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in July",
+      "excerpt": "Artificial intelligence (AI) is likewise an important but oft-misunderstood technology. It's still developing, but it promises to create a new segment of the economy based on the automation of simple tasks and raw data crunching.",
+      "webUrl": "https://www.fool.com/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/4f99495c05b836a8efa014a9663f2e1e.png",
+          "width": 720,
+          "height": 386,
+          "title": "3 Top Artificial Intelligence Stocks to Buy in July",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
+      "publishedDateTime": "2020-07-05T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-05-why-ai-continues-to-deliver-results-in-a-pandemic.md",
       "title": "Why AI Continues To Deliver Results In A Pandemic",
       "excerpt": "AI-at-scale leaders continue to make progress on their AI initiatives at the same pace as before the Covid-19 pandemic.",
@@ -1243,44 +1280,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-editorial-the-problems-with-facial-recognition-technology.md",
-      "title": "Editorial: The problems with facial recognition technology",
-      "excerpt": "Face recognition also can be problematic when manipulated by overzealous law enforcement agencies trying to match driver’s licenses photos to an artist’s sketch or surveillance cameras capturing indiv",
-      "webUrl": "https://wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.html",
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/5/38/538f3af9-22c9-5cca-aff0-3bc28fa4dbc0/5efcaa1d0223f.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": "Editorial: The problems with facial recognition technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.amp.html",
-      "cdnAmpWebUrl": "https://wcfcourier-com.cdn.ampproject.org/c/s/wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.amp.html",
-      "publishedDateTime": "2020-07-05T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Courier",
-        "domain": "wcfcourier.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

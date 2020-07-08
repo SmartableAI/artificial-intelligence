@@ -2,6 +2,101 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-06-02-dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion.md",
+      "title": "Dell Technologies rolls out systems for HPC, AI workloads leveraging VMware's Bitfusion",
+      "excerpt": "Dell Technologies is betting that integrated systems, more efficient use of GPUs and the ability run AI workloads within VMware environments will boost AI workloads.",
+      "webUrl": "https://www.zdnet.com/article/dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion/",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/01/70365cd0-7896-4a02-985b-bdfdbbbea237/thumbnail/1200x675/83cf40e99e504bc6e8d235804e333990/dell-gpu-ai-bitfushion.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Dell Technologies rolls out systems for HPC, AI workloads leveraging VMware's Bitfusion",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion/",
+      "publishedDateTime": "2020-06-01T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-covid-19-impact-on-artificial-intelligence-as-a-service-market.md",
+      "title": "COVID-19 Impact on Artificial Intelligence as a Service Market",
+      "excerpt": "AWS, IBM, Microsoft Co, Google, SAP, Salesforce, Baidu, Intel Co, Fair Isaac Co, BigML, and others are among the major players in the global Artificial Intelligence as a Service market.",
+      "webUrl": "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-as-a-service-market-2020-06-02",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "COVID-19 Impact on Artificial Intelligence as a Service Market",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T20:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-the-therapy-apps-trying-to-help-you-deal-while-youre-on-the-nhs-waiting-list.md",
       "title": "The Therapy Apps Trying To Help You Deal While You’re On The NHS Waiting List",
       "excerpt": "Mental health problems are on the rise, with some people in the UK having to wait for up to two years to receive therapeutic treatment. With many being forced to take matters into their own hands ...",
@@ -1202,98 +1297,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai.md",
-      "title": "OpenAI’s gigantic GPT-3 hints at the limits of language models for AI",
-      "excerpt": "A presentation in April by AI chip company Tenstorrent described future neural networks with over one trillion parameters. For a good part of the machine learning community, bigger and bigger language model is going to remain the state of the art.",
-      "webUrl": "https://www.zdnet.com/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/01/1b57a8c3-e280-4aa8-9487-e8149a3b63ea/gpt-3-versus-the-others-may-2020.png",
-          "width": 2020,
-          "height": 1148,
-          "title": "OpenAI’s gigantic GPT-3 hints at the limits of language models for AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/",
-      "publishedDateTime": "2020-05-31T20:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-understanding-the-foundations-of-successful-ai.md",
-      "title": "Understanding the foundations of successful AI",
-      "excerpt": "Despite the disruption to the overall economy and most industries in the wake of COVID-19 pandemic, there are sections of IT that are booming.",
-      "webUrl": "https://www.zdnet.com/paid-content/article/understanding-the-foundations-of-successful-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/05/22/e2eb3989-521e-4ac7-8453-b1837ff492a5/adobestock-300893166.jpg",
-          "width": 6479,
-          "height": 4319,
-          "title": "Understanding the foundations of successful AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/understanding-the-foundations-of-successful-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/understanding-the-foundations-of-successful-ai/",
-      "publishedDateTime": "2020-05-31T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

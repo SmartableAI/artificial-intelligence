@@ -2,6 +2,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-22-nvidia-reveals-pcie-40-version-of-its-ampere-a100-gpu.md",
+      "title": "Nvidia reveals PCIe 4.0 version of its Ampere A100 GPU",
+      "excerpt": "Nvidia finally showed off its new 7nm Ampere architecture last month in the form of the A100 GPU. Now, the company has announced a number of A100 powered systems from leading server manufacturers, including Asus,",
+      "webUrl": "https://www.techspot.com/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-22-image-5.jpg",
+          "width": 1800,
+          "height": 1350,
+          "title": "Nvidia reveals PCIe 4.0 version of its Ampere A100 GPU",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
+      "publishedDateTime": "2020-06-22T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20.md",
       "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
       "excerpt": "Inspur, a data center and AI full-stack solutions provider, releases NF5468M6 and NF5468A5 AI servers supporting the",
@@ -1242,53 +1289,6 @@
         "name": "surfacingmagazine.net",
         "domain": "surfacingmagazine.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-dow-jones-slumps-as-ibm-exits-facial-recognition-apple-set-to-unveil-custom-mac-chip.md",
-      "title": "Dow Jones Slumps as IBM Exits Facial Recognition, Apple Set to Unveil Custom Mac Chip",
-      "excerpt": "After a long rally driven partly by optimism surrounding the reopening of the U.S. economy, the Dow Jones Industrial Average (DJINDICES:\\^DJI) gave back some ground on Tuesday. The",
-      "webUrl": "https://www.fool.com/investing/2020/06/09/dow-jones-slumps-as-ibm-exits-facial-recognition-a.aspx",
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F577974%2Fcamear.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Dow Jones Slumps as IBM Exits Facial Recognition, Apple Set to Unveil Custom Mac Chip",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/06/09/dow-jones-slumps-as-ibm-exits-facial-recognition-a.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/06/09/dow-jones-slumps-as-ibm-exits-facial-recognition-a.aspx",
-      "publishedDateTime": "2020-06-09T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

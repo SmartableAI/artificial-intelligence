@@ -2,6 +2,82 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-05-22-natural-language-processing-nlp-in-healthcare.md",
+      "title": "Natural Language Processing (NLP) in Healthcare",
+      "excerpt": "A new business intelligence report released by AMA with title \"Global Natural Language Processing (NLP) in Healthcare Market Comprehensive Study\" provides micro level analysis by manufacturers and ...",
+      "webUrl": "https://www.openpr.com/news/2055228/natural-language-processing-nlp-in-healthcare-market",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2055228/natural-language-processing-nlp-in-healthcare-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2055228/natural-language-processing-nlp-in-healthcare-market",
+      "publishedDateTime": "2020-05-22T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-data-centre-chip-demand-fuels-nvidias-record-q2-revenue.md",
+      "title": "Data centre chip demand fuels Nvidia's 'record Q2 revenue'",
+      "excerpt": "Nvidia has forecast its 2021 second-quarter revenue above analysts’ estimates, powered by a surge in demand for data centre components amid the mass shift to remote working. The company expects its Q2 revenue to be $3.",
+      "webUrl": "https://www.itpro.co.uk/server-storage/data-centres/355759/data-centre-chip-demand-fuels-nvidia-q2-revenue",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1590146422/itpro/shutterstock_410318023.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Data centre chip demand fuels Nvidia's 'record Q2 revenue'",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/server-storage/data-centres/355759/data-centre-chip-demand-fuels-nvidia-q2-revenue?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/server-storage/data-centres/355759/data-centre-chip-demand-fuels-nvidia-q2-revenue?amp",
+      "publishedDateTime": "2020-05-22T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-covid-19-will-accelerate-the-ai-health-care-revolution.md",
       "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
       "excerpt": "Disease diagnosis, drug discovery, robot delivery—artificial intelligence is already powering change in the pandemic’s wake. That’s only the beginning.",
@@ -1138,101 +1214,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-a-case-for-cooperation-between-machines-and-humans.md",
-      "title": "A Case for Cooperation Between Machines and Humans",
-      "excerpt": "A computer scientist argues that the quest for fully automated robots is misguided, perhaps even dangerous. His decades of warnings are gaining more attention.",
-      "webUrl": "https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.html",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/04/30/business/30hybrid/01hybrid-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "A Case for Cooperation Between Machines and Humans",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.amp.html",
-      "publishedDateTime": "2020-05-21T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-microsoft-in-collaboration-with-openai-unveils-ai-supercomputer.md",
-      "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
-      "excerpt": "During its Build 2020 developer conference on Tuesday, Microsoft unveiled the new supercomputer built in collaboration with OpenAI, an artificial intelligence startup found by Elon Musk. Microsoft announced that the supercomputer hosted in Azure was developed exclusively to train OpenAI’s large-scale artificial intelligence models.",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai",
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587037150/itpro/MicrosoftLogo.jpg",
-          "width": 5157,
-          "height": 2973,
-          "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai?amp",
-      "publishedDateTime": "2020-05-21T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

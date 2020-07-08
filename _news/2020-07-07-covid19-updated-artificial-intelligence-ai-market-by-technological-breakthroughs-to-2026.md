@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-07T12:58:00Z
 webUrl: "https://www.marketwatch.com/press-release/covid19-updated-artificial-intelligence-ai-market-by-technological-breakthroughs-to-2026-2020-07-07"
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "COVID19-Updated: Deep Learning Market By Technological Breakthroughs To 2026"
+    excerpt: "As per the research held by Acumen Research and Consulting, The global Deep Learning Market size is expected to reach USD 56,427.2 million by 2026 with a CAGR of 51.1% over the forecast period. The market report provides an analysis of the global Deep Learning Market for the period 2015-2026,"
+    publishedDateTime: 2020-07-07T12:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid19-updated-deep-learning-market-by-technological-breakthroughs-to-2026-2020-07-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
