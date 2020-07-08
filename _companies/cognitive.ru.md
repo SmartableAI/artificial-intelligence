@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "CognitivePilot"
   url: "https://twitter.com/CognitivePilot"
-  followers: 1108
+  followers: 1109
 
 locations:
   - Tel Aviv-Yafo, Israel
