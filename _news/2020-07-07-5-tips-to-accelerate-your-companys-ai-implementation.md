@@ -8,8 +8,8 @@ ampWebUrl: "https://www.clickz.com/5-tips-to-accelerate-your-companys-ai-impleme
 cdnAmpWebUrl: "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/5-tips-to-accelerate-your-companys-ai-implementation/262008/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: ClickZ
@@ -26,6 +26,20 @@ images:
     title: "5 tips to accelerate your company's AI implementation"
 
 related:
+  - title: "How Six Companies Are Using AI to Accelerate Automotive Technology"
+    excerpt: "AI is not only used for path planning and obstacle avoidance, but incorporated in every step of development from modeling how systems will perform on the road to gathering parts for manufacturing."
+    publishedDateTime: 2020-07-08T21:40:00Z
+    webUrl: "https://www.embedded-computing.com/home-page/how-six-companies-are-using-ai-to-accelerate-automotive-technology"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 39
+    images:
+      - url: "https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmMDYzNzkyNjM0NTQucG5nJnZlcnNpb249MDAwMCZzaWc9MWY2OGY0NDIzNWJkNzJkY2I1Njg4OTUwNGI1NDBiNTI%253D"
+        width: 500
+        height: 272
+        isCached: true
   - title: "Enterprise AI strategy, design, and implementation services to help your organization achieve AI now"
     excerpt: "AI is a key source of transformation, disruption, and competitive advantage for our clients. Many organizations are coming to us asking them to help get started with AI in practice, make the business case to their leadership,"
     publishedDateTime: 2020-07-07T04:17:00Z

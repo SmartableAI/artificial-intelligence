@@ -8,8 +8,8 @@ ampWebUrl: "https://www.windowscentral.com/microsoft-updates-azure-ai-platform-h
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications?amp"
 type: article
 quality: 81
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Windows Central
@@ -25,6 +25,49 @@ images:
     height: 600
     isCached: true
     title: "Microsoft updates Azure AI platform to help build 'next generation of AI applications'"
+
+related:
+  - title: "Microsoft announces new Azure AI capabilities for apps, healthcare, and more"
+    excerpt: "The latest announcements will help companies enhance their voice-enabled application experiences and provide critical data management across healthcare industries."
+    publishedDateTime: 2020-07-08T20:50:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 133
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg"
+        width: 1200
+        height: 836
+        isCached: true
+  - title: "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities"
+    excerpt: "The post Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities appeared first on The AI Blog.\n"
+    publishedDateTime: 2020-07-08T16:51:30Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 114
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6c142214-bbee-499c-bf07-e565fcbc4294.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Access Healthcare Services Announces New Chief Investment and Transformation Officer"
+    excerpt: "PRNewswire-PRWeb/ -- Dallas-based Access Healthcare Services USA LLC, specialists in healthcare revenue cycle management"
+    publishedDateTime: 2020-07-07T17:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/access-healthcare-services-announces-new-chief-investment-and-transformation-officer-1029373884"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/access-healthcare-services-announces-new-chief-investment-and-transformation-officer-1029373884"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/access-healthcare-services-announces-new-chief-investment-and-transformation-officer-1029373884"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
 
 secured: "pqAphw6fNXq5ElgzFIYX9d8mcFwCFP0kzy5Dl31uf/lZj9yiMobCTldk8d0uWB0vRDoLTYWpftdWyMJ7bE62ixHqbPICPLa0sfXd4cv6W4LFBLspVR9cjS71aXYe5KpC/eB7FwTx5HGaeNXvAKxm913KB4bZ6CHJAQUzOTAr9hMQImqnxbnqTSNvmHcmw8UlaTCh4KQARxyMGnYgUY+2eNyI5waUq9Mh/4NHd0RTZdCYxEG16Pik0SMbMf9W/zOb1ot/0QOCK5ZAGHFI7dBNgDZVr43ONZHqGjYAzf4GZBl3JK0iYMKZcob8qe3juIm/6qQyPAtpOWqR6gYw+LwgBkca7YBF147T5cY5SHvzRW2ohNaHaSWcBljNnzs+dgb458WyycVpRUmVEfDykXg4cAYy/XHOe1xCzISSPGPdtmYaisYG2Vy0UK17LcjeSkKdYz+o2gyQW8847ogFjFEMBFWxilYS5BkJgnK+z6w2qOS5mXOsF12wCZkFBymTSIOBF7wxkZZBf/mFpeX9lrsppQ==;JiU2s3o5/p0ARp2cpz/B7w=="
 ---

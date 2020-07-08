@@ -41,7 +41,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/07/microsoft-teams-together-mode.png?w=1200&#038;strip=all"
         width: 1200

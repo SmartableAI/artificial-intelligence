@@ -1,34 +1,30 @@
 ---
 category: news
-title: "Shady Face Recognition Firm Clearview AI Says It's Left Canada Amid Two Federal Investigations"
+title: "Shady Face Recognition Firm Clearview AI Says It’s Left Canada Amid Two Federal Investigations"
 excerpt: "Dystopian, U.S.-based face recognition firm Clearview AI has suspended its contract with the Royal Mounted Canadian Police (RMCP), effectively locking its business out of Canada entirely, Bloomberg reported on Monday."
-publishedDateTime: 2020-07-07T07:30:00Z
-webUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344"
-ampWebUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
-cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
+publishedDateTime: 2020-07-07T02:30:00Z
+webUrl: "https://www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/"
+ampWebUrl: "https://www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/amp/"
+cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/amp/"
 type: article
-quality: 92
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: Gizmodo
-  domain: gizmodo.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Gizmodo Australia
+  domain: gizmodo.com.au
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg"
-    width: 800
-    height: 450
+  - url: "https://www.pedestrian.tv/content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
     isCached: true
-    title: "Shady Face Recognition Firm Clearview AI Says It's Left Canada Amid Two Federal Investigations"
+    title: "Shady Face Recognition Firm Clearview AI Says It’s Left Canada Amid Two Federal Investigations"
 
 related:
   - title: "Clearview AI ceases offering its facial recognition technology in Canada"
@@ -464,6 +460,6 @@ related:
       domain: scoop.co.nz
     quality: 29
 
-secured: "EEUONPgk1C3rLXwH1QNQmj4FsjuxhGtWgFy/FL4z6iY+8Lm2AKRfo6JyceW0WSpCmnEnxWDxtnZGnuqx5/mSVeAWIwJpRf4JcL0FGMXv/F0CqNGK65fGroAldkifVoRj0kbdsKo94jrYyNYgXUgOraBsmO/NWC3PW9fjtfSHEeKO1W48YDWdSXaWsUsDy11QiCfaHXn3+KPiFTTD4Sd/tFP3utiyoDNocsIrPPa+zMC1qh86aPPsoHWYp8FKNlifexVeQxy4xpMGB/I0fcgZYhnJUj4YcwYFkaAXywsJwfnFvcN8X6W28vMF9wXR4Yf6Uv0AGvNdNXKhJ28oXONNWg==;tUIX6+PBFYHuvlGxkd7SIw=="
+secured: "VDTcu2IKecPugG1pFhmHwxB/HsOSgOk2ppKImrFj4e3JOXLVpGt1KLSVVqBJp6rskkSELhMj5a/uskIN9dUG4hSEbTnrD9FdTczbhO+h3FIa+lJH9AauLQMz6YBh0oBhCPXNYwddv88YXwn1O1pYGQaEyyoYgzoktTLw/lWDYXZzWn8nozp+2ugs6dQGsJVR26NpzPZv1B64ibt/D4m782o58k5oSkKWkcVGFAoEFkivom+jMWT023KeeLQ0hT9HCGG9l7jicmio5wTxgVr+Dv26uGPMn1guFUQwHKV8Lguv5PNOsgIdBZSDjsAmdGSR6IyZprAQ9e4e+3fTQZTQgw==;pPK2pdGpH/oWArVWmsIcRQ=="
 ---
 

@@ -7,7 +7,7 @@ webUrl: "https://venturebeat.com/2020/07/08/microsoft-teams-ai-powered-features-
 ampWebUrl: "https://venturebeat.com/2020/07/08/microsoft-teams-ai-powered-features-together-mode-dynamic-view-suggested-replies-cortana/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/microsoft-teams-ai-powered-features-together-mode-dynamic-view-suggested-replies-cortana/amp/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/07/microsoft-teams-together-mode.png?w=1200&#038;strip=all"
@@ -47,6 +48,6 @@ related:
         height: 880
         isCached: true
 
-secured: "UpxjtKzpbubMdpNnEeQgcJxxbObUcwLkdP7eJehtKdlLVDfWVaLQD+5nN+brXgcOafhmQeAXLOzipBKvzxVvMmGPUccwovLYQaE8cmIfUD/Z6CUyY7fHVYts+8wBpHJPF4c0mxczmMputnBC/Utzfe+k+O/06V7ZfhFXG1VeDffLn9ShMytniqTh3EFBbbdaBDU3EMp5ncS+GgGnymigQrN3wXPsboqEkMvjCZku3YxwaClTW33pMcdQuQ6V3ZCENLpgJ52fSAia2ON1VaYcwNsg8LmCABbLtE/bsT7GXgaxdVm7bFoiHtUsvGnqShwmSW9SSaECfPQKi7/31QKHzw==;7iH+mT4qPT6/MxKpMI4C5A=="
+secured: "L8XGMaaLf+H6FySbr8Np/CGp3cWVJOaeagoFp+h+HJyieNDbxYJNrVI7wubPye7ibnVdS/7qXhZKdIrdaoZslnbFs22dpTgg0wXGIeXX+oInKKaq/ekqT+qTIjh35snOSPagNWpsDAMQ0WffvDiNt+utMf1xbA0naSYhfWWoHSavSmOnpKB0Ti+7VwV3pJVc5ObOFh+Dz3a2cB6oSrtKCECFZaEb58XC03ZVgAYln3e7WkvPwT7YpWrEVBKNXsl7C4tkI2IUVXRDs1a05U+vubRbcnfbazMwLkeSa/gRc/a5BN96anHqbZj3FjQ117EjUhqSbUaSGHXAefYr4UaK3oOzIuD1JQQ9jAWm/Rf94x1EN4vPLwPm8L/cVcX1Amar/VZ+RCVQ6sHSBo1wIZJZQR1MwZLRM1hpaLUNl6Lbd4snpL7T04oOKTIKm61GIKbPqvM94UP5wWmLzodJy2K7zkfxGsDivvjTN1i7x9SptZznDz60oW0/A5l5pMdho0X0Z7c2CS54nZE8Q1VFeseCog==;FQr8HajSGmg5YhGgjoHciQ=="
 ---
 

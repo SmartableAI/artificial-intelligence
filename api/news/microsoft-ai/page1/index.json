@@ -2,31 +2,40 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-07-08-microsoft-updates-azure-ai-platform-to-help-build-next-generation-of-ai-applications.md",
-      "title": "Microsoft updates Azure AI platform to help build 'next generation of AI applications'",
-      "excerpt": "Microsoft announced several updates to the Azure AI platform. The improvements make it easier for developers to create AI applications.",
-      "webUrl": "https://www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications",
-      "heat": 81,
+      "path": "_news/2020-07-08-microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more.md",
+      "title": "Microsoft announces new Azure AI capabilities for apps, healthcare, and more",
+      "excerpt": "The latest announcements will help companies enhance their voice-enabled application experiences and provide critical data management across healthcare industries.",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/",
+      "heat": 163,
       "tags": null,
       "images": [
         {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "Microsoft updates Azure AI platform to help build 'next generation of AI applications'",
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": "Microsoft announces new Azure AI capabilities for apps, healthcare, and more",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications?amp",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications?amp",
-      "publishedDateTime": "2020-07-08T09:02:00-07:00",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/",
+      "publishedDateTime": "2020-07-08T13:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -36,7 +45,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -44,7 +54,7 @@
       "title": "Microsoft continues to build out its Azure Cognitive Services API family",
       "excerpt": "The idea behind Azure Cognitive Services is to enable developers to use an API call in building heir apps to add sight, speech, search and other AI capabilities without having to master machine learning techniques first. Microsoft also has made a number ...",
       "webUrl": "https://www.zdnet.com/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/",
-      "heat": 128,
+      "heat": 118,
       "tags": null,
       "images": [
         {

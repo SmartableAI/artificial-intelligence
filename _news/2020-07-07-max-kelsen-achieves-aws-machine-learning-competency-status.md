@@ -19,19 +19,19 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Max Kelsen achieves AWS ML competency status"
-    excerpt: "Brisbane's Max Kelsen has become the third Amazon Web Services (AWS) partner in Australia to attain machine learning (ML) competency status."
-    publishedDateTime: 2020-07-07T23:13:00Z
-    webUrl: "https://www.arnnet.com.au/article/681144/max-kelsen-achieves-aws-ml-competency-status/"
+  - title: "Brisbane-based Max Kelsen scores AWS machine learning competency"
+    excerpt: "Brisbane-based AI consultancy Max Kelsen has become the third company in Australia to achieve AWS machine learning competency. This designation recognises Max Kelsen’s ability to deliver ML solutions in production on AWS,"
+    publishedDateTime: 2020-07-08T20:30:00Z
+    webUrl: "https://www.crn.com.au/news/brisbane-based-max-kelsen-scores-aws-machine-learning-competency-550222"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 41
     images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/max_kelsen.jpg"
-        width: 800
-        height: 637
+      - url: "https://i.nextmedia.com.au/News/career-1.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "wBUg0j3F51/lCAX0Hk7ONCFkjOEVZZrF6eug5iEV+eUe4Ix3LfmQO4r5hf7W3JfABr1tXUJDAxenj5kMEmaNq9zt175xQlPxjZr01fa69rIboJhCa9zy7+Onn0hMoT27jjyC5WsdPYxkA1Ib9WP7LgUlBkIvgNAW8FtF0/yq8g4BnepdSRVmKMnpG98sIVcxplXQe//73K/SqrVLPENqr0FqWaTVkVxtEYC0tIL6n7zyCdk0dMAPeyYYO1NKc4plZ3z7rpAS2YYZFDLanEPrQTQDc/0rEbVx0TYb/tcOMBNLxa62OZ7b2p+KK8S0HEKYYgqrunCQNgiAxMOatqQNcg==;VmjfLh/IflAQ2DZM8t90iQ=="

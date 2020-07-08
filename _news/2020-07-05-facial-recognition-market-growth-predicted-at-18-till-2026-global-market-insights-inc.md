@@ -97,19 +97,19 @@ related:
         width: 760
         height: 400
         isCached: true
-  - title: "Facial recognition and thermal imaging to help fight virus"
-    excerpt: "A SCOTTISH company has unveiled a “track and trace system” using facial recognition and thermal imaging to detect people with high"
-    publishedDateTime: 2020-07-07T04:32:00Z
-    webUrl: "https://www.heraldscotland.com/business_hq/18565073.thermal-facial-imaging-fight-virus/"
+  - title: "Facial recognition firm suspends RCMP contract"
+    excerpt: "Four months after federal and provincial privacy commissioners said they were investigating a police-affiliated technology company’s use of facial recognition, the company has suspended its . . ."
+    publishedDateTime: 2020-07-08T20:25:00Z
+    webUrl: "https://www.burnabynow.com/facial-recognition-firm-suspends-rcmp-contract-1.24167057"
     type: article
     provider:
-      name: heraldscotland.com
-      domain: heraldscotland.com
+      name: Burnaby Now
+      domain: burnabynow.com
     quality: 39
     images:
-      - url: "https://www.heraldscotland.com/resources/images/11558537/"
-        width: 1140
-        height: 540
+      - url: "https://images.glaciermedia.ca/polopoly_fs/1.24167059.1594239240!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/mcevoy-therrien.jpg"
+        width: 560
+        height: 292
         isCached: true
   - title: "Computing Professionals Alliance Calls for Facial Recognition Moratorium"
     excerpt: "The Association for Computing Machinery has come out in favor of a ban on biometric facial recognition technology, arguing"

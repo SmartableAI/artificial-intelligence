@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-continues-to-buil
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/"
 type: article
 quality: 118
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     height: 494
     isCached: true
     title: "Microsoft continues to build out its Azure Cognitive Services API family"
-
-related:
-  - title: "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities"
-    excerpt: "The post Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities appeared first on The AI Blog.\n"
-    publishedDateTime: 2020-07-08T16:51:30Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 114
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6c142214-bbee-499c-bf07-e565fcbc4294.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "yGkphLw3iiB0djDZOPHr9LbKIrvw+9snfkYfh/moKLMbYV87n3xRBbWIA5wBycXY+MXgQBD3FNDLEJlLuTuwp0pEBBoXxuoyHnRTG/xNcmUb0agVkOg1FcwQROU05EIog42YMQjLbufQL7q0E+7PAco9qB+oyvFT6D4M3oW8q+cHgSKkZc71L6BHLmQd70iFTsNUnWSAzerxbaT0W5/rSm3znmk/msgWrbT9lUIdmNOXqBF0S9IpJGu8Qyd9D0UjqbtN4a7pHHlS+Yv8UKjbZtIX3mPFI8YQDCtCeQG200PN0KPMvATLLYp7bWsjq8gNjifjK3d+l1IAJ+JXdOZCEBGwprRkScEhKwQ4i0mP2nF8B6CeiLBIM5jZ9glWC48Tps4mDMOu9VlGPW8OrO+mBqMnLwZVhuHtmnzDJq2IztfDDVOKpIbhee7GSgbzfOrU0WH3uW4wC6rFgEjVFUlYpOkMxkTMO0jj2z2Spal28cqGgiC0hoDy4Yk1UaxhAAaG;524ywo1uEq5vrplAnRVR+g=="
 ---

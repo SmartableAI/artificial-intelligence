@@ -35,6 +35,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 76
+  - title: "Viz.ai Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies"
+    excerpt: "Viz.ai, the leader in Applied Artificial Intelligence for Healthcare, has been named to the prestigious Forbes Top 50 AI list. The list"
+    publishedDateTime: 2020-07-08T20:18:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/vizai-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-301090432.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 47
+    images:
+      - url: "https://mma.prnewswire.com/media/1202174/Viz_ai_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "ExtraHop Named to the Forbes AI 50 List for 2020"
     excerpt: "SEATTLE--(BUSINESS WIRE)--ExtraHop, the leader in cloud-native network detection and response, today announced that it has been named to the 2020 Forbes AI 50 list for its advances and innovation in the use of machine learning and artificial intelligence for cybersecurity."
     publishedDateTime: 2020-07-07T13:16:00Z

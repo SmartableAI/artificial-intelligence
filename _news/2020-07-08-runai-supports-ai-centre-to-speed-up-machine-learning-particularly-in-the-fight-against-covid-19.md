@@ -5,8 +5,8 @@ excerpt: "AI, a company virtualizing AI infrastructure, today announced that it 
 publishedDateTime: 2020-07-08T13:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/runai-supports-ai-centre-to-speed-up-machine-learning-particularly-in-the-fight-against-covid-19-301090026.html"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
