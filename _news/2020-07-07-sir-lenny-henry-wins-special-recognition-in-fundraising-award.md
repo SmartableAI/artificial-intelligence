@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-07T07:54:00Z
 webUrl: "https://fundraising.co.uk/2020/07/07/sir-lenny-henry-wins-special-recognition-in-fundraising-award/"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

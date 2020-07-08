@@ -8,7 +8,7 @@ ampWebUrl: "https://jalopnik.com/the-2021-lexus-ls-gets-a-touchscreen-and-more-s
 cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/the-2021-lexus-ls-gets-a-touchscreen-and-more-self-driv-1844295671/amp"
 type: article
 quality: 44
-heat: 44
+heat: 64
 published: false
 
 provider:

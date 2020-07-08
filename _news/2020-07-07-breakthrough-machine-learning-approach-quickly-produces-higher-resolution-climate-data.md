@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-07T16:54:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-07/drel-bml070720.php"
 type: article
 quality: 31
-heat: 31
+heat: 41
 published: false
 
 provider:

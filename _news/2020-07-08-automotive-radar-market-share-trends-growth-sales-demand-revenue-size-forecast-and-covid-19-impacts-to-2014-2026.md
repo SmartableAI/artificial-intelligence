@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-08T09:25:00Z
 webUrl: "https://www.marketwatch.com/press-release/automotive-radar-market-share-trends-growth-sales-demand-revenue-size-forecast-and-covid-19-impacts-to-2014-2026-2020-07-08"
 type: article
 quality: 30
-heat: 30
+heat: 40
 published: false
 
 provider:

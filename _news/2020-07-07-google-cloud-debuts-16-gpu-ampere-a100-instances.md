@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-07T16:43:00Z
 webUrl: "https://www.hpcwire.com/2020/07/07/google-cloud-debuts-ampere-a2-family/"
 type: article
 quality: 39
-heat: 39
+heat: 59
 published: false
 
 provider:

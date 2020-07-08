@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "North America Facial Recognition Market 2020 Share, Trend, Segmentation And Forecast To 2024"
-    excerpt: "Facial Recognition Industry Description The Global Facial Recognition market is projected to reach $8.74 billion"
-    publishedDateTime: 2020-07-03T19:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-facial-recognition-market-2020-share-trend-segmentation-and-forecast-to-2024-2020-06-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global biometric facial recognition market to top $12B by 2026 on public security, retail growth"
     excerpt: "Biometric facial recognition is poised for major growth on demand for the high accuracy of 3D imaging and public security concerns, and is forecast by Global Market Insights to grow from just over"
     publishedDateTime: 2020-07-07T16:28:00Z

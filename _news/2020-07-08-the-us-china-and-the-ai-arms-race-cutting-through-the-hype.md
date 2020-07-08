@@ -7,8 +7,8 @@ webUrl: "https://www.cnet.com/news/the-us-china-and-the-ai-arms-race-cutting-thr
 ampWebUrl: "https://www.cnet.com/google-amp/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cnet3.cbsistatic.com/img/DVYxHNtyKp5XHMiiLCfbwOo6_Yo=/756x567/2020/06/30/fbf0e0ea-8dfc-4bcb-9793-f6eaa8993108/gettyimages-1039282538.jpg"

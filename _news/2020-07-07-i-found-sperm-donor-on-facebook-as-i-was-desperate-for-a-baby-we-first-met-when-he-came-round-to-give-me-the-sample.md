@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thesun.co.uk/fabulous/12042958/i-found-sperm-donor-on-fa
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/fabulous/12042958/i-found-sperm-donor-on-facebook-because-i-was-desperate-for-a-baby-we-first-me-when-he-came-round-to-give-me-the-sample/amp/"
 type: article
 quality: 21
-heat: 21
+heat: 31
 published: false
 
 provider:

@@ -1,24 +1,21 @@
 ---
 category: news
 title: "AWS-powered Covid-19 diagnostic tool seeks lung scans from India"
-excerpt: "Experts at University of British Columbia in Canada who are building an Artificial Intelligence-powered Covid-19 diagnosis tool with the help of resources from Amazon Web Services (AWS) are seeking lung scan images from India to refine their open source model,"
-publishedDateTime: 2020-07-08T11:05:00Z
-webUrl: "https://www.sify.com/finance/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-topnews-uhikOGaghfijd.html"
-ampWebUrl: "https://www.sify.com/finance/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-topnews-uhikOGaghfijd.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-topnews-uhikOGaghfijd.html"
+excerpt: "Experts at University of British Columbia in Canada who are building an Artificial Intelligence-powered Covid-19 diagnosis tool with the help of resources from Amazon Web Services (AWS ..."
+publishedDateTime: 2020-07-08T12:55:00Z
+webUrl: "https://menafn.com/1100452786/AWS-powered-Covid-19-diagnostic-tool-seeks-lung-scans-from-India"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 19
+heat: 19
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "9qmUTko/2xJtKiSS9JxMqAzf0dybiLTYV8JK076gJPTGHhNTXcSEkCfVcZLC/gB0Hshn0ruj80eso6xJUdzvx9DbVp0JS4nRHgGnbf80qkf4VXIQ8jCHmJu01UNbrcPTvew9quSg4a6n8lF/FSMfLWvy/fglmW0XsHx+lt1KEf6s2cPL2K89yMKWgH9lQowXmYuqPXg7G4GbOdi5DLPb0s1Ggzek9tBP4141SfJNJYNCaCwMlAHa9AlD9nF+TtOfYlvhgAGU91mr91J+Hsk0TljlSkSUAZPVxn9DdgbLc4n9lol8JsrZ9+u7mmAbxQUCF9E4yKizOcP4PGEIV/AFXA==;gg8//LsKKhn0YNrGpJ2WFA=="
+secured: "Rou+aWvi09QEau8UESDMbAuTbrIkXW7YxhY0ml9THEi0bewsO43bOk3WmrR+EXlPKGTJuUAD6/HbhDkmxGAlsrF3NgAcyZf4bjoyby2kWeLvYzJVgkqspeSsVOJ7P5uNdZNTeQYOKuyHPIzGhPf6BBrO4nIFgUqNBLgahcBGAAYtEuTnFOrJXAtBUDjnpBMaCSa6U6pWSmUWOn23I6rKyPfl4HuUFk0kHvy2TymqQJp+wElgPX8T8KaLF24WTaeaGX9uZaMHXU+TFRXlyjZR7pnoW1b7Q71ueOiG+zBfUS1/C7ggHnqQhgBuEF+ZW4g0pgror0PNuEUnjH02/p11jg==;J5LEf6iww2mC/ScEgFcfsA=="
 ---
 

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Machine learning helps grow artificial organs"
-excerpt: "\"One of the main focuses of our lab is applying the methods of bioinformatics, machine learning, and AI to practical tasks in genetics and molecular biology. And this solution, too, is at the interface between sciences. In it, neural networks, which are ..."
-publishedDateTime: 2020-07-07T14:12:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-07/miop-mlh070720.php"
+excerpt: "Researchers from the Moscow Institute of Physics and Technology, Ivannikov Institute for System Programming, and the Harvard Medical School-affiliated Schepens Eye Research Institute have developed a neural network capable of recognizing retinal tissues during the process of their differentiation in a dish."
+publishedDateTime: 2020-07-07T15:02:00Z
+webUrl: "https://medicalxpress.com/news/2020-07-machine-artificial.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-07-machine-artificial.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-artificial.amp"
 type: article
 quality: 39
 heat: 39
-published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://eurekalert.org/multimedia/pub/web/236742_web.jpg"
-    width: 720
-    height: 465
-    isCached: true
-    title: "Machine learning helps grow artificial organs"
-
-secured: "igZY73claxG9vdMLFquQFzaI4CNr4tMGrYsuZUOVovJaIrMlAKlht6PopZtt28mGGEwGi7x+//jkReC2MHqzfukgzOh4IPHxM0ZLblP7aHT8m95Rfe3SblEUbIF2nAwXKl3GhAKJx446i2+EiKYsxuPkNol1EgiZGv4HVenFHxL+j30C1joFXG7P7I1vnVi61GRjatRiOfbHABTjBXvHg5/0QmAKtpzqP+RJe6p1VioKtp/L+Q6fWLx859UXF0vcK+Mdg6pCqmY4L/02jLrC6W+WDxze6X8L8HcDo+4YEF1VPliQRKoLoo3qNC4AhnQfEdxrmvfRGhsX5Y0yQoVkkw==;tD9K8RB7jv51M1cxn5zsiA=="
+secured: "dCqUBgLINH7bwN4581HZCeXxgasoMRNsLGUVcwcUXXLP2lmDYNhNAil/cLlJvisxBEtuYojZU47qnBwPhQFfV3KFrAjTnEJ/HzXjKGkimDiNtkD+I0zQWYi3kV5JWyU+Qj98DCWZ/xgLAyjifZRvtRertQlMojOwSrjyre0i3HgFG3+9sZG1U7d3lmg76N2rrpuZyTrv3yGxSIvgOt/Snw5OlQv4TL4yujZa7yzB3N3EJHhbfOwFEZyz6+r5HA4Io+O2P4wJASOUmuYtczGx2P0R+7EVTorY+g61qBoz6+XlA87CpGr+lBURUtJ1OmnejAey55lTXOKCoJm4HdyUND8eEgO3lpOJPpFkFafbsAXzWzq+gB0sNwLX8YjgqjuIoojTR+DEEbvZ0OZYBP0J1E8LIBwohHx25Kx5tr8x2O9r52Nq5hFmG2zDjqqz4Qir4E/PW74S/jixgTx4oKs0xq2R9v/DTnHCjBfRCFgqWQQO0/6/awDNWpTlP2oJ6nsGt2VXSejjE9lH1sLhuImFAg==;yLNAp0b4aQiVAaG8AFDKKQ=="
 ---
 
