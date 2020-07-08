@@ -36,20 +36,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 29
-  - title: "Stable machine-learning parameterization of subgrid processes for climate modeling at a range of resolutions"
-    excerpt: "Machine learning has been used to represent small-scale processes, such as clouds, in atmospheric models but this can lead to instability in simulations of climate. Here, the authors demonstrate a use of machine learning in an atmospheric model that leads to stable simulations of climate at a range of grid spacings."
-    publishedDateTime: 2020-07-03T09:37:00Z
-    webUrl: "https://www.nature.com/articles/s41467-020-17142-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 5
-    images:
-      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-17142-3/MediaObjects/41467_2020_17142_Fig2_HTML.png"
-        width: 685
-        height: 281
-        isCached: true
 
 secured: "Tp6Ig8P3/iXDlaSCXd/RfMvBmvzjPZ27wyy7ifiDJv352OEWqxibzKd4f2To27ErKGCA+K9aOaICny+sv5SPbj+E/dOGbT3cw4/HazGPDhTmiNQKAfqHMWRXXJvDZWTejoDR6zgN/0cKvEJSh7zFTpJZAmRx5neJ1S+xCfjI2gtp5eGd1Q4lhWcfTy4YHUbomyWk0A/jzYJyWbnO9qYrm04FnnzbVUwNRQTsHkK1oqhE6SyTh9VCrKMtx13fta3XK6PH+womh4nGdCIIs4NViuUv8iTn4+jNFBOnB1NG/vspAZjx6xSBLrHyXOqWAB91Nai/pTqH4cVR3lyQwBiNpw==;Wa3/QL3aYqpoFT6O59hPNQ=="
 ---

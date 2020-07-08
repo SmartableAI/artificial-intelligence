@@ -34,20 +34,6 @@ related:
         width: 900
         height: 300
         isCached: true
-  - title: "Stable machine-learning parameterization of subgrid processes for climate modeling at a range of resolutions"
-    excerpt: "Machine learning has been used to represent small-scale processes, such as clouds, in atmospheric models but this can lead to instability in simulations of climate. Here, the authors demonstrate a use of machine learning in an atmospheric model that leads to stable simulations of climate at a range of grid spacings."
-    publishedDateTime: 2020-07-03T09:37:00Z
-    webUrl: "https://www.nature.com/articles/s41467-020-17142-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 5
-    images:
-      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-17142-3/MediaObjects/41467_2020_17142_Fig2_HTML.png"
-        width: 685
-        height: 281
-        isCached: true
 
 secured: "a9/NIaz227XxaOUrsG1x0ARdVUYZh67iXnkB13KMBjl7lAU9NWLJz26PxiG3BOtD7AYTPD/HeutVmo9thYpv5EVpxHQgrdxNdVpm2NdJ28zsn8BkTwCdq/WCd5k6Q4fPIWbw8ZffS7nlx6npls6XAiqvcQu7Y9jUDyU9xGdpKNNbV9OP5NkXGSXrnfZ98RnD9uIEb5akQpQ0KVnAMNg7FRtKXF2MzwK2KegQY4OiTHcqbIVVpaMalhmDEJuTBTIqhKO/mmJ3HH0XAGQsrO3EqN48effPfswRnlluHA4w8vpaC9LHltAxU0vzc5nH8Xs88ExWpyIDqcMoR/wN/KXIQA==;hGvRr2+ezPacV6rcTO7Uqg=="
 ---

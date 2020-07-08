@@ -2,6 +2,100 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-06-17-windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.md",
+      "title": "Windows 10's Linux subsystem gets GPU compute and an easier install in new preview",
+      "excerpt": "Microsoft's latest Insider Build 20150 allows you to install the Windows Subsystem for Linx 2 via a typed command, and adds GPU compute support via Nvidia's CUDA.",
+      "webUrl": "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.html",
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/06/windows-susbsystem-for-linux-2-windows-update-100849123-large.jpg",
+          "width": 1200,
+          "height": 598,
+          "title": "Windows 10's Linux subsystem gets GPU compute and an easier install in new preview",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.amp.html",
+      "publishedDateTime": "2020-06-17T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office.md",
+      "title": "Attention All Business Owners: With This AI Platform, You Can Now Safely Get Back To Your Office",
+      "excerpt": "A unique platform analyzes an organization's digital and physical footprints as well as existing office layouts, then generates new ones",
+      "webUrl": "https://www.forbes.com/sites/carrierubinstein/2020/06/17/attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea6b681b50250006e83d8f%2F0x0.jpg%3FcropX1%3D24%26cropX2%3D2278%26cropY1%3D241%26cropY2%3D1510",
+          "width": 1200,
+          "height": 676,
+          "title": "Attention All Business Owners: With This AI Platform, You Can Now Safely Get Back To Your Office",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carrierubinstein/2020/06/17/attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carrierubinstein/2020/06/17/attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office/amp/",
+      "publishedDateTime": "2020-06-17T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity.md",
       "title": "Microsoft unveils Azure Machine Learning courses and scholarships on Udacity",
       "excerpt": "The digital education platform will host one introductory course, dubbed \"Introduction to machine learning on Azure\" for free. With the availability of 10,000 spots, the course will offer students ...",
@@ -1015,99 +1109,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g.md",
-      "title": "Qualcomm’s Robotics RB5 Platform combines AI acceleration with 5G",
-      "excerpt": "Qualcomm's new robotics development platform -- RB5 -- accelerates AI workloads while providing support for 5G connectivity.",
-      "webUrl": "https://venturebeat.com/2020/06/17/qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/qualcomm-5G-e1591989281622.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Qualcomm’s Robotics RB5 Platform combines AI acceleration with 5G",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/17/qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g/amp/",
-      "publishedDateTime": "2020-06-17T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-coronavirus-turmoil-fuels-the-rise-of-ai-powered-companies.md",
-      "title": "Coronavirus turmoil fuels the rise of AI-powered companies",
-      "excerpt": "For the past seven years, a Munich-based firm called riskmethods has tried to interest companies in buying software that allows them to track all their suppliers in a way that minimizes risks in operating globally spread supply chains.",
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-automation-idUSKBN23O1NQ",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200617&t=2&i=1522546452&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5G120",
-          "width": 908,
-          "height": 545,
-          "title": "Coronavirus turmoil fuels the rise of AI-powered companies",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23O1NQ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23O1NQ",
-      "publishedDateTime": "2020-06-17T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

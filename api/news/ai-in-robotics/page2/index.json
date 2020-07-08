@@ -2,6 +2,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-29-emotional-support-robot-robin-headed-to-ucla-mattel-childrens-hospital.md",
+      "title": "Emotional support robot Robin headed to UCLA Mattel Children's hospital",
+      "excerpt": "In a nine-week study of interactions with hospitalized children, ages 4 to 12, joy increased 26% and stress was reduced by 34%, according to Expper Technologies.",
+      "webUrl": "https://www.techrepublic.com/article/emotional-support-robot-robin-headed-to-ucla-mattel-childrens-hospital/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/29/46430198-22a8-4dc1-b381-ccaaa655508b/resize/1200x/776296c2c60d2ff855525c73e1bfb2ba/robin-robot.jpg",
+          "width": 1200,
+          "height": 1801,
+          "title": "Emotional support robot Robin headed to UCLA Mattel Children's hospital",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/emotional-support-robot-robin-headed-to-ucla-mattel-childrens-hospital/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/emotional-support-robot-robin-headed-to-ucla-mattel-childrens-hospital/",
+      "publishedDateTime": "2020-06-29T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-in-effort-to-fight-covid-19-mit-robot-gets-to-work-disinfecting-the-greater-boston-food-bank.md",
       "title": "In effort to fight COVID-19, MIT robot gets to work disinfecting The Greater Boston Food Bank",
       "excerpt": "MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) has put one of its research projects to work providing disinfection services for The Greater Boston Food Bank (GBFB), in an effort to slow the spread of COVID-19 and still allow the nonprofit to provide services to its patrons.",
@@ -1275,44 +1322,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-qualcomm-launches-5g-ai-enabled-robotics-platform.md",
-      "title": "Qualcomm launches 5G, AI-enabled robotics platform",
-      "excerpt": "Qualcomm Technologies released the Qualcomm Robotics RB5 platform ... fifth-generation Qualcomm AI Engine that delivers 15 tera operations per second of artificial intelligence (AI) performance for running complex AI and deep learning workloads.",
-      "webUrl": "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/",
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gpsworld.com/wp-content/uploads/2020/06/Qualcomm-Robotics-RB5-Development-Kit-W-300x274.jpg",
-          "width": 300,
-          "height": 274,
-          "title": "Qualcomm launches 5G, AI-enabled robotics platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/amp/",
-      "cdnAmpWebUrl": "https://www-gpsworld-com.cdn.ampproject.org/c/s/www.gpsworld.com/qualcomm-launches-5g-ai-enabled-robotics-platform/amp/",
-      "publishedDateTime": "2020-06-18T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GPS World",
-        "domain": "gpsworld.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

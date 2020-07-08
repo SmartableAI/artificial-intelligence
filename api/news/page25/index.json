@@ -2,6 +2,99 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-06-17-qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g.md",
+      "title": "Qualcomm’s Robotics RB5 Platform combines AI acceleration with 5G",
+      "excerpt": "Qualcomm's new robotics development platform -- RB5 -- accelerates AI workloads while providing support for 5G connectivity.",
+      "webUrl": "https://venturebeat.com/2020/06/17/qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/qualcomm-5G-e1591989281622.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Qualcomm’s Robotics RB5 Platform combines AI acceleration with 5G",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/17/qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g/amp/",
+      "publishedDateTime": "2020-06-17T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-coronavirus-turmoil-fuels-the-rise-of-ai-powered-companies.md",
+      "title": "Coronavirus turmoil fuels the rise of AI-powered companies",
+      "excerpt": "For the past seven years, a Munich-based firm called riskmethods has tried to interest companies in buying software that allows them to track all their suppliers in a way that minimizes risks in operating globally spread supply chains.",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-automation-idUSKBN23O1NQ",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200617&t=2&i=1522546452&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5G120",
+          "width": 908,
+          "height": 545,
+          "title": "Coronavirus turmoil fuels the rise of AI-powered companies",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23O1NQ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23O1NQ",
+      "publishedDateTime": "2020-06-17T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-tempus-health-start-up-backed-by-groupon-co-founder-joins-the-fight-against-covid-19.md",
       "title": "Tempus: Health start-up backed by Groupon co-founder joins the fight against Covid-19",
       "excerpt": "Groupon co-founder Eric Lefkofsky discovered the health-care system's flawed approach to data when his wife was diagnosed with cancer. Tempus is now on the front lines of the coronavirus fight. It made the CNBC 2020 Disruptor 50 list,",
@@ -978,98 +1071,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-5-ways-to-close-more-deals-in-a-downturn-using-ai.md",
-      "title": "5 Ways To Close More Deals In A Downturn Using AI",
-      "excerpt": "Improving sales in a downturn is possible when AI is used to decipher the data this recent downturn is producing and find new margin opportunities fast.",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/16/5-ways-to-close-more-deals-in-a-downturn-using-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee8eb37ed4d100006fc02d1%2F0x0.jpg",
-          "width": 1200,
-          "height": 771,
-          "title": "5 Ways To Close More Deals In A Downturn Using AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/16/5-ways-to-close-more-deals-in-a-downturn-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/06/16/5-ways-to-close-more-deals-in-a-downturn-using-ai/amp/",
-      "publishedDateTime": "2020-06-16T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-clockwise-raises-18-million-to-optimize-work-calendars-with-ai.md",
-      "title": "Clockwise raises $18 million to optimize work calendars with AI",
-      "excerpt": "Clockwise, whose platform taps AI to optimize workplace calendars, has raised $18 million to grow its products and expand its reach.",
-      "webUrl": "https://venturebeat.com/2020/06/16/clockwise-raises-18-million-to-optimize-employees-calendars-with-ai/",
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/calendar-e1591825433253.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Clockwise raises $18 million to optimize work calendars with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/16/clockwise-raises-18-million-to-optimize-employees-calendars-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/16/clockwise-raises-18-million-to-optimize-employees-calendars-with-ai/amp/",
-      "publishedDateTime": "2020-06-16T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

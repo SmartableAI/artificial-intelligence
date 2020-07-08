@@ -2,6 +2,99 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-06-16-stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1.md",
+      "title": "Stockwell, the AI-vending machine startup formerly known as Bodega, is shutting down July 1",
+      "excerpt": "Stockwell AI entered the world with a bang but it is leaving with a whimper. Founded in 2017 by ex-Googlers, the AI vending machine startup formerly known as Bodega first raised blood pressures — people hated how it referenced and poorly ‘disrupted’ mom-and-pop shops in one fell",
+      "webUrl": "https://techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/",
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/09/stockwell-bodega.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": "Stockwell, the AI-vending machine startup formerly known as Bodega, is shutting down July 1",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/amp/",
+      "publishedDateTime": "2020-06-15T17:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-company-boards-arent-ready-for-the-ai-revolution.md",
+      "title": "Company boards aren't ready for the AI revolution",
+      "excerpt": "Bolt-on solutions don’t make an AI strategy. My second piece of advice to boards is that they should urgently develop and then monitor strong ethics guidelines for the use of AI and Big Data in their enterprise. That’s especially important now ...",
+      "webUrl": "https://www.techradar.com/in/news/company-boards-arent-ready-for-the-ai-revolution",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Company boards aren't ready for the AI revolution",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/company-boards-arent-ready-for-the-ai-revolution",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/company-boards-arent-ready-for-the-ai-revolution",
+      "publishedDateTime": "2020-06-15T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-artificial-intelligence-could-be-used-to-track-invasive-species.md",
       "title": "Artificial intelligence could be used to track invasive species",
       "excerpt": "Scientists are developing artificial intelligence that can track invasive species in the latest tool in the battle against Japanese knotweed and ash dieback. A team from the UK Centre for Ecology and Hydrology and Keen AI,",
@@ -990,92 +1083,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-mit-creates-artificial-brain-chips.md",
-      "title": "MIT Creates Artificial Brain Chips",
-      "excerpt": "For years researchers have been working on simulating brain synapses to create faster and more efficient computers. Recently, a group",
-      "webUrl": "https://propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/",
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.propakistani.pk/wp-content/uploads/2020/06/1_IoNnj-fgKGfY5q0ZuMkmPg.jpeg",
-          "width": 1000,
-          "height": 563,
-          "title": "MIT Creates Artificial Brain Chips",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/amp/",
-      "publishedDateTime": "2020-06-15T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire.md",
-      "title": "“AI Healthcare” Stocks Will Mint The World’s First Trillionaire",
-      "excerpt": "You won’t read about these stocks in the mainstream media. But don’t let that fool you: because a small “hidden” group of companies is figuring out how to merge artificial intelligence with medical technology.",
-      "webUrl": "https://www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/",
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee776ee38f9070006842d91%2F0x0.jpg",
-          "width": 1199,
-          "height": 820,
-          "title": "“AI Healthcare” Stocks Will Mint The World’s First Trillionaire",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/amp/",
-      "publishedDateTime": "2020-06-15T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "“Tools for human hands to build the future with”: Why AI could never fully replace workers"
 
-secured: "+h04Ui91kqjE17qwOw93wg6O5bLYsQyHzDq+cH4FXnfzmCtxSZKFYI1p/QKfauwGlPvE0AT96GRxl5nERXgRGZ8xewWdSq1k4jIXu548njrSaXFQb7kL8G0zgp9QGQ0ko61BJ59yIT5VTyNF0pGGxpj10Mp+Lh+O/w2ZdunGypgC+bdUkfp0BH/Wb7C71m3CNrrNTXze4cNri0Q5q6BHnMqdkXKevs4dIG8KdolO34GnmnV6fEZSbf3U/Y6rgU8g8WuHRq+mHU6rWNYXTjK/6262P5SyxNbVchzQFBMb9Fj95WOizBeCL630GhNgDU47pYVmfL5tw5W/0fSTOx/cdw==;6v2mMz7z+ZgAiuJlhCRIuA=="
+secured: "PVx7WushEvkqKI471a5WZTCy9DgOhLVKMWZ0enoFQC5EoMLLBalNSwtI9X9TXpxZE8RwHfZMROvmdz5Hw9LoGNEtPjWFOadsjfXvYERtfv6kBG+7sVW+mSvYJok+li52wdL0F/hQqTymjeFgjReW1zQArqV7Edr/8RaOQZgWIDHGZSZT6nuXGyK6K6jPazmHmhbhxgINmFwuN2rRMOk+EL6tnKMOR0ZZccQJPh1HacXTo47GwWOu0YzvyRIY/SyUfWlfini+hiBrQpVfsGLl4WAOvMmEa8ejpC40+HqX6QLOiGezORKi7ltQaO2BudPJSG/5PCz1SjspBuQK0mOKMlHZUM1dWtWX1WVifGttyTCxLhIr8UbJGAvZfLLCVNTPVSAm1KdBgt4Xn2zOY/IXZyP73MduGfgRK5NKSsdJlQZzg92YVnJFWU/Rj/CUVAXxEr3AvY+v1/yyn7ErWe6V5nIzQt4zKxnd7IEu5OG5533/2AHqE2Ff0oY21UgSbju6DYHTITkXuZW5KLqAWrWSyw==;7PrGT0E+0OoHqH/755//jA=="
 ---
 

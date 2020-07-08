@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/corelogic-launches-ai-drive
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     height: 675
     isCached: true
     title: "CoreLogic launches AI driven platform for real estate agents"
+
+related:
+  - title: "Fintech Galaxy launches open API platform"
+    excerpt: "Fintech Galaxy, the UAE-based cross-border fintech marketplace and innovation crowdsourcing platform, announced today that it has launched FinX22, its cloud-based open Innovation platform that aims at driving collaboration,"
+    publishedDateTime: 2020-07-07T13:15:00Z
+    webUrl: "https://www.finextra.com/pressarticle/83183/fintech-galaxy-launches-open-api-platform"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "X5Kk0i/+oR4QVKD/Fo3nh+leLL6QOtyPiMGyjN2k3KH8xX02QMXH4496eTBVk77XOEw6P9cfg7zf/nM9yyGDhWopbA4yTKUMTZBMdgmdqOZCs0q/Su5wPEHW31Pd1RhqaWzP0luHqHsV+LNmr9DUPvn4SplaWSCWoJ6VuWv1VZswLe4NQeb4VemurUIylXpcQWkNF2M70E8DzJPHarU6SBLpD4suNHx19eG6P0EkFSq17i9nbklJM9aBIK2i+VM0Kc6ARUxh0W48LiJ6B/RJc2PHPyn+7rIaMXj/2SngpOdC6rnBa02mFU9tJZX/LB7irHNMSd2f1t2Ok0y0d2vU2w==;LdzqW8DvevSS4jFzpwhpXA=="
 ---

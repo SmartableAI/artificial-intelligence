@@ -2,6 +2,64 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-06-11-quest-global-enhances-its-lung-nodule-detection-solution-using-microsoft-azure-iot-central-azure-iot-edge-and-azure-machine-learning.md",
+      "title": "QuEST Global Enhances its Lung Nodule Detection Solution Using Microsoft Azure IoT Central, Azure IoT Edge and Azure Machine Learning",
+      "excerpt": "QuEST Global, a global product engineering and lifecycle services company, announced today that it has enhanced its Lung Nodule Detection solution using Microsoft Azure. With the help of this solution,",
+      "webUrl": "https://www.medindia.net/health-press-release/quest-global-enhances-its-lung-nodule-detection-solution-using-microsoft-azure-iot-central-azure-iot-edge-and-azure-machine--472539-1.htm",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-deal-looking-for-an-exciting-cutting-edge-career-dive-into-artificial-intelligence.md",
+      "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
+      "excerpt": "Artificial intelligence, as it’s more commonly referred, is just starting to break out into the mainstream through applications like self driving cars and analytical software. Those who have ...",
+      "webUrl": "https://pocketnow.com/artificial-intelligence-deal",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pocketnow.com",
+        "domain": "pocketnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-amazon-bans-police-use-of-facial-recognition-technology-for-a-year.md",
       "title": "Amazon Bans Police Use Of Facial Recognition Technology For A Year",
       "excerpt": "(RTTNews) - Amazon announced a one-year moratorium on police use of its facial recognition technology, Rekognition, to give ample time to the governments to implement stronger regulations for racial equality and justice.",
@@ -1165,99 +1223,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-amazon-asks-court-to-block-former-aws-marketing-vp-from-working-on-google-cloud-next-speeches.md",
-      "title": "Amazon asks court to block former AWS marketing VP from working on Google Cloud Next speeches",
-      "excerpt": "Amazon is seeking a court order to keep Brian Hall, former Amazon Web Services vice president of product marketing, from editing and summarizing keynote speeches and slides for the upcoming",
-      "webUrl": "https://www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/",
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/GOOGLENEXT_2019_0409_091006-9782_ALIVECOVERAGE-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Amazon asks court to block former AWS marketing VP from working on Google Cloud Next speeches",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/amp/",
-      "publishedDateTime": "2020-06-10T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai.md",
-      "title": "Drones Vs. COVID-19: Ensuring Airspace Safety And Security With AI",
-      "excerpt": "Across the globe, drones are also playing an important role in the fight against COVID-19. In India, the Karnataka Government is using drones to sanitize public spaces in areas with confirmed cases, such as hospitals and metro areas.",
-      "webUrl": "https://www.forbes.com/sites/amirhusain/2020/06/10/drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee0e993e5438300070044fb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Drones Vs. COVID-19: Ensuring Airspace Safety And Security With AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amirhusain/2020/06/10/drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amirhusain/2020/06/10/drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai/amp/",
-      "publishedDateTime": "2020-06-10T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
