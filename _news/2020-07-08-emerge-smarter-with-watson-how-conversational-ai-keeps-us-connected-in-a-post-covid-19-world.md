@@ -27,6 +27,6 @@ images:
     isCached: true
     title: "Emerge smarter with Watson: How conversational AI keeps us connected in a post-COVID-19 world"
 
-secured: "+imYKV9YQ/TUY+WQSrCshw+z++2Wp3293io+Jri5HRICY7UwZAGG2qjZ48DLrd0Ekt7FmqoSWn9ryYjCy92ZWLgnvK5yqY4Mg/vyMUXT7caex8nMFhI1yHjNMd4JMIOk8kWOB+hZCA5tETKHEdgYf1Dl96nVkpYUX6saTrZGQdAemr4XnlO1lXHF7kHgT4CF7YReJ4W9cQLt4FTA93I8xAXG5VjYzEGHtkwC8NSOewVGIR7L7t8vH2LJDEsU+4NxuFkbsKajONOsjeHyam4vmDcmDSrEHA30nX+q0KALe5Nf3bNrnzCGiP8JSiPBC4yaGF2l/spiwVcfsYjlR8Rlow==;fQpCc0FSxLQtIkfi+Dnp3g=="
+secured: "AP5/NrfPqs11x12O+NIl/IQAnAkNlTpXa1jBcQjR53JHPmOGLqVHbGNiOvzqR6lVTppRSO2z7tXUu/ZTEwTN82lrpQGwsOTylh5HQc62v35p4yDt0xWEWXRxDnfjfSCCNLVfHqlVzisCCeHgCCcmQJ3rmT2P36a8SXkqMyegbSPcpqLOI5ex39/JsRSEETRo9BBOkUooe8zCws+EKZzZ+qghK8GGvBqbjEB7isMhfL8PIBzmIQUBwfEm4leMXuwYOmpfriMBpbMyB//dje7Krl5bxYGuv2PGrCmIYM2E2b59rXW2YW5NH9pWtcHsZhV6UsxGHNXX/bxYIcOb06jcdQ==;l5zzyHzcmuPejhJTZpgStQ=="
 ---
 
