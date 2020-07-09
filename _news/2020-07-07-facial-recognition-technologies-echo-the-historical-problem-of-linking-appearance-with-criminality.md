@@ -333,6 +333,20 @@ related:
         width: 664
         height: 664
         isCached: true
+  - title: "Columnist William Newman: Facial recognition technology: Ban it now"
+    excerpt: "This story began on June 27, 2019 at the Somerville City Council, which that evening unanimously adopted the state’s first municipal facial recognition technology ban. On Dec. 11, 2019, the Brookline Town Meeting,"
+    publishedDateTime: 2020-07-09T00:00:00Z
+    webUrl: "https://www.gazettenet.com/Columnist-William-Newman-35133581"
+    type: article
+    provider:
+      name: Daily Hampshire Gazette
+      domain: gazettenet.com
+    quality: 41
+    images:
+      - url: "http://www.gazettenet.com/getattachment/59b14c9f-a96f-4eb2-bc2b-cb1e5c667780/0ce7ea6489e84ded8c1b5e68ddd00be9.jpg"
+        width: 499
+        height: 325
+        isCached: true
   - title: "Big Tech's Wish List for National Facial Recognition Law"
     excerpt: "Tech companies want a national facial recognition law that balances consent and transparency. But keep Illinois' Biometric Information Privacy Act and its private right of action out of the discussion,"
     publishedDateTime: 2020-07-06T14:09:00Z
@@ -460,6 +474,6 @@ related:
       domain: scoop.co.nz
     quality: 29
 
-secured: "nlqwAE06SPsPVns4KvfEQ0zRKC5uRgygLbpzoBhlhxFpn5m9K/huT54GXcq4A68iE67AvEKjUlwS6MZ3yfLYebHFoLHQ5kbEpYMxHyKQBoDSFeL4zW59K1wISQHZ4CN0boV/7/ypvPGxsFNiqjZgnokFMLmhEmL3VZiu/egs7udPjpDLDQkzLddE9MGKkt4JciIs5laprn5fFHgNyraJr9oagy7/HLKKURC6ffTy/f5YcvcHICdmICFiYEo/X/zBHysGrNqj2i7eOcGMalRy/7dgVPY4XHTVXSFwxm6BM+BxYtfQyPJiWhdY0BjNb0F6Lkdf/WNp0lnoEJMOWH9kBA==;2t8Tqx6nDeXV5LNsrMijUg=="
+secured: "NL8DtDUQ+UpQ3Ve272ljovlrcpmZZds/rB1HRZ0w6Epf1krw+1WrucnN78Kd6t7ysiqjqrgKcv1kqIzoUbPXdkH2qcZ9iBy7obK0Lfwu1dIIyC7T0I6v956haiJm/1PxD+eZTmVbHd0LAEDFMvqDvLUEvvoml8PeIe2wwR22m7LkMFxkwh78wuJtxq3d9wXQ7+ZjA6c3M2rabR9Q7rQsif1/lMqu3yBu8Zcda4aHoviMHQJt7Cbluq43T3gm52CaOiuxGN8WA+MrUXbd6/5on4m9r64n4QV85UXYdhMWYE0vb9EDPLWhrNqTUhOxJHhONHkFLGzsPzYl3EwLAAjdRFfNNv/Fmzh+hNzlno4xnd9zItl2sWM5Sz9WRbyNwb9cjz5Hi0fpwtL+Ebckz4L3sQVbp7vdqkwduJMVw4kECZUUXgjGLIkSiCH1IQ0svbWB/WnsGF53iTD8ockVTiWfJ+0/OhNGsoKU9bJooX6TCAo4zlp62BcLic1uhBC70xFWl+QWLcyAce4o0Qm/GPReWw==;u7zhky5VgXSxGft2TgS9nA=="
 ---
 

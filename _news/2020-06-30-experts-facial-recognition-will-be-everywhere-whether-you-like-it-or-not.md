@@ -3,7 +3,7 @@ category: news
 title: "Experts: Facial recognition will be everywhere, whether you like it or not"
 excerpt: "Facial recognition could soon become as commonplace as public Wi-Fi and security cameras. But with the advance of technology comes major ethical questions."
 publishedDateTime: 2020-06-30T15:15:00Z
-webUrl: "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?itm_source=34&itm_content=2x2&itm_term=2356592"
+webUrl: "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/"
 ampWebUrl: "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp"
 type: article
@@ -17,16 +17,9 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
+  - AWS AI
   - AI
 
-images:
-  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/us-technology-artificial-intelligence-1200x630-c-ar1.91.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-    title: "Experts: Facial recognition will be everywhere, whether you like it or not"
-
-secured: "4GqrJ6P1bDoBbWSeSdZB6SKCMfB8rFd4VUt4fkrKTndokSZ3fYHiszWSuimctqSRXBZ9CFy2rS8FCPIBu+etB/otzu2uYiotjv9m0GUz2A3u11wtX8outbo0ixlA3AuIPEVzZsr6FolnEReMJ4RBvgcEvDbRekKqXTeFQwKDbmOSl0hd3sDwKAR8ltKU/zwPm3/Oj4VVCt6jc0rXe8PTygPLHUZjVROwtdtezaW10nEF5YuL94zIFSJB1nI+bnzv/Xu8qRLOMCSiCXCezz64i8cZ88h5pJ/eWr72cThCBu4dckhgHw3KVr/LlJOuzUWFHfyeR0RG+KLfobwHoZZqeKKZ8/RXM8/pBVcZXmk45UF2S3uVTEhPRb6aZpWf3X/ThI7xFqsCQvD7rQTN+vNnWAokFHwGRpvlkVtVo6p2OZTNaVepfIZr97qC57lU53K7R0zeH22eeltZnNhDGouNaYdATCZFZ8TfCltnil/QM8rkGCrvdX7BPZjY3vhxoJM5RrFbJQrrZ00J/9tLQXqDVg==;U0bV6jckO5iVrC1BxPb0/Q=="
+secured: "o28CLAZarblAxdtJ+jpD4nVfyYaLx3SEkjR94BpSilOHRVjoCpReo8YzRk0CMDgewoHAHV0ZJHCIyUecalnCAIiHTd2HCUPejrGVbVmXPP8lXu4omt8xCPxvIcEEqh8UTHZivsb2EjfArd2qAnHEqbEn+RJ6+yR4FzTDxJgNWb750FXU8fp1wwYtDevxn9CtwDrMahFkSCeUF/YCeimQUsxoA9PC+c3L/12YnxGJHZq5kvFSYX8z7uFqVZU0UMsUHfyJNiiW4qxwz+c/evboc+/rTlN97mx0EkDRpdf1rpFHXVdIc2FvudVlnye5NEnHkep4FTLwCGZqygMTBtrmpHdSbi8GpQnkx2MZnGt5ZUUb9KrYo1C3gbcM/4cn8SJsSc5gppBER3wSwn5h26NfjCV1KkhypjXfWT5gDx/e4+Nb1GsLce4o6dZDDeVDFRpsWUkJ3AxMsK6hn+qgZX8p9MYd9mkL+uI5v7PiYIWRoTuZI1hfIYmPC7jvl6o3kkmsZ8c2pphhKbl/6G6mFuqIzA==;nZvGyctg+u3uvr+jFhD3Ig=="
 ---
 

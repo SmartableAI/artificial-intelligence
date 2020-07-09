@@ -5,7 +5,7 @@ excerpt: "AI is not only used for path planning and obstacle avoidance, but inco
 publishedDateTime: 2020-07-08T21:40:00Z
 webUrl: "https://www.embedded-computing.com/articles/how-six-companies-are-using-ai-to-accelerate-automotive-technology"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmMDYzNzkyNjM0NTQucG5nJnZlcnNpb249MDAwMCZzaWc9MWY2OGY0NDIzNWJkNzJkY2I1Njg4OTUwNGI1NDBiNTI%253D"

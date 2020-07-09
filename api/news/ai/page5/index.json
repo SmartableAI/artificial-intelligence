@@ -2,6 +2,127 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-02-ai-system-learns-to-model-how-fabrics-interact-by-watching-videos.md",
+      "title": "AI system learns to model how fabrics interact by watching videos",
+      "excerpt": "Researchers propose an AI system that learns to model the physical interactions between types of fabrics by watching videos.",
+      "webUrl": "https://venturebeat.com/2020/07/02/ai-system-learns-to-model-how-fabrics-interact-by-watching-videos/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/93bf9bba-c3b0-4777-b0b9-aef3fbe413a4-e1593713324773.png?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 599,
+          "title": "AI system learns to model how fabrics interact by watching videos",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/02/ai-system-learns-to-model-how-fabrics-interact-by-watching-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/02/ai-system-learns-to-model-how-fabrics-interact-by-watching-videos/amp/",
+      "publishedDateTime": "2020-07-02T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-trump-administration-hires-tech-firm-to-build-a-virtual-border-wall-an-idea-democrats-have-praised.md",
+      "title": "Trump administration hires tech firm to build a virtual border wall, an idea Democrats have praised",
+      "excerpt": "The Trump administration has awarded a major border security contract to a California technology startup that will use artificial intelligence on an unprecedented scale, pairing the president's giant steel barrier with the kind of \"virtual wall\" long",
+      "webUrl": "https://www.seattletimes.com/nation-world/trump-administration-hires-tech-firm-to-build-a-virtual-border-wall-an-idea-democrats-have-praised/",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/nation-world/trump-administration-hires-tech-firm-to-build-a-virtual-border-wall-an-idea-democrats-have-praised/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/trump-administration-hires-tech-firm-to-build-a-virtual-border-wall-an-idea-democrats-have-praised/?amp=1",
+      "publishedDateTime": "2020-07-02T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-covid-kg-uses-ai-to-scan-thousands-of-studies-to-answer-doctors-coronavirus-questions.md",
+      "title": "COVID-KG uses AI to scan thousands of studies to answer doctors’ coronavirus questions",
+      "excerpt": "In a new paper, researchers from Columbia, Brandeis, Darpa, UCLA, UIUC, and elsewhere describe an AI framework that answers questions about COVID-19.",
+      "webUrl": "https://venturebeat.com/2020/07/02/covid-kg-knowledge-graph-research-system/",
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "COVID-KG uses AI to scan thousands of studies to answer doctors’ coronavirus questions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/02/covid-kg-knowledge-graph-research-system/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/02/covid-kg-knowledge-graph-research-system/amp/",
+      "publishedDateTime": "2020-07-02T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-mit-takes-down-popular-ai-dataset-due-to-racist-misogynistic-content.md",
       "title": "MIT Takes Down Popular AI Dataset Due to Racist, Misogynistic Content",
       "excerpt": "MIT permanently pulled its 80 Million Tiny Images dataset—a popular image database used to train machine learning systems to identify people and objects in an environment. The reason? It used racist,",
@@ -1161,33 +1282,33 @@
       ]
     },
     {
-      "path": "_news/2020-07-01-self-driving-cars-will-buyers-come-if-you-just-build-them-maybe.md",
-      "title": "Self-driving cars: Will buyers come if you just build them? Maybe",
-      "excerpt": "The first self-driving cars began to appear in the 1980s, so why aren't we all riding in them by now? Adoption levels of autonomous vehicles and other types of robotics and automation was a research project recently undertaken by MyPlanet,",
-      "webUrl": "https://www.techrepublic.com/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
-      "heat": 74,
+      "path": "_news/2020-07-01-why-2020-is-a-rare-window-in-time-thats-hard-to-see-beyond.md",
+      "title": "Why 2020 is a rare window in time that's hard to see beyond",
+      "excerpt": "Never mind seeing beyond the fabled singularity of 2045. It's really hard to predict where we're going from the here and now.",
+      "webUrl": "https://www.cnet.com/news/to-fix-the-future-start-figuring-out-where-we-are-right-now/",
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/06/07/81cdc6b1-4565-4a21-928e-3f9b8f1d7db6/resize/1200x/280ef93d6a5093f84a9f42d177b231c0/istock-953480702selfdrivingcar.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Self-driving cars: Will buyers come if you just build them? Maybe",
+          "url": "https://cnet4.cbsistatic.com/img/jjR3OvgOzGo5s1W8Fc32Xs6NEmo=/0x1251:5616x4212/756x567/2020/06/30/c9102f24-6394-4b2b-9b0b-ea2d7a533006/gettyimages-1163715561.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Why 2020 is a rare window in time that's hard to see beyond",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
-      "publishedDateTime": "2020-07-01T08:39:00-07:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/to-fix-the-future-start-figuring-out-where-we-are-right-now/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/to-fix-the-future-start-figuring-out-where-we-are-right-now/",
+      "publishedDateTime": "2020-07-01T08:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
+        "name": "CNET",
+        "domain": "cnet.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1204,138 +1325,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-ethics-in-the-balance-ais-implications-for-government.md",
-      "title": "Ethics in the Balance: AI’s Implications for Government",
-      "excerpt": "As automation becomes an ever-more viable tool for government for everything from cameras on light poles to using AI to set prisoners’ bail, can policymakers ensure it is used responsibly and ethically?",
-      "webUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/taskforce1.jpg",
-          "width": 940,
-          "height": 630,
-          "title": "Ethics in the Balance: AI’s Implications for Government",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
-      "publishedDateTime": "2020-07-01T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-how-to-use-the-new-ai-driven-nextcloud-inbox.md",
-      "title": "How to use the new AI-driven Nextcloud Inbox",
-      "excerpt": "Nextcloud Mail users will be thrilled with the new AI-driven inboxes. Learn the ins and outs of this new feature.",
-      "webUrl": "https://www.techrepublic.com/article/how-to-use-the-new-ai-driven-nextcloud-inbox/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2018/07/26/02a83571-b370-453e-840a-b5c29b17be68/resize/1200x/34f2fb8ab33e3a6d77c764e619e19d2b/nextcloudhero.jpg",
-          "width": 1200,
-          "height": 938,
-          "title": "How to use the new AI-driven Nextcloud Inbox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-use-the-new-ai-driven-nextcloud-inbox/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-use-the-new-ai-driven-nextcloud-inbox/",
-      "publishedDateTime": "2020-07-01T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots.md",
-      "title": "Pudu Technology raises $15 million for ‘contact-free’ autonomous delivery robots",
-      "excerpt": "Pudu Technology, a Shenzhen-based startup designing robots for hospitals, restaurants, and offices, today announced it raised $15 million.",
-      "webUrl": "https://venturebeat.com/2020/07/01/pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots/",
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/07c9efa2-6612-42b1-8626-1abe610b97ed-e1593613750763.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 574,
-          "title": "Pudu Technology raises $15 million for ‘contact-free’ autonomous delivery robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/01/pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots/amp/",
-      "publishedDateTime": "2020-07-01T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

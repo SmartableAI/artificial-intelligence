@@ -2,6 +2,314 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-06-13-openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities.md",
+      "title": "OpenAI makes an all-purpose API for its text-based AI capabilities",
+      "excerpt": "If you’ve ever wanted to try out OpenAI’s vaunted machine learning toolset, it just got a lot easier. The company has released an API that lets developers call its AI tools in on “virtually any English language task.",
+      "webUrl": "https://techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/",
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?w=1024",
+          "width": 1024,
+          "height": 693,
+          "title": "OpenAI makes an all-purpose API for its text-based AI capabilities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/amp/",
+      "publishedDateTime": "2020-06-13T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-13-iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing.md",
+      "title": "IIT-Kharagpur Researchers Develop AI-Based System To Monitor Social Distancing",
+      "excerpt": "A group of researchers at IIT-Kharagpur has developed a cyber-physical system based on artificial intelligence for monitoring ... Welfare,\" a member of the research group said.",
+      "webUrl": "https://www.ndtv.com/science/iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing-2245633",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2020-03/1ilp6l0g_social-distancing-ndtv_625x300_26_March_20.jpg",
+          "width": 650,
+          "height": 400,
+          "title": "IIT-Kharagpur Researchers Develop AI-Based System To Monitor Social Distancing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/science/iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing-2245633?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing-2245633?amp=1&akamai-rum=off",
+      "publishedDateTime": "2020-06-12T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial.md",
+      "title": "Global and Chinese Automotive Vision Markets, 2020 Assessment - Visual Perception Algorithms Become Crucial",
+      "excerpt": "Stock quotes by finanzen.net DUBLIN, June 12, 2020 /PRNewswire/ -- The \"Automotive Vision Industry Chain Report (II) Binocular and Others\" report has been added to ResearchAndMarkets.com's offering. Breakthroughs in Binocular Camera Chinese startups have made dramatic breakthroughs in binocular cameras,",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial-1029305297",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial-1029305297",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial-1029305297",
+      "publishedDateTime": "2020-06-12T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work.md",
+      "title": "AI Weekly: AI phrenology is racist nonsense, so of course it doesn’t work",
+      "excerpt": "Researchers torched studies that claim to be able to determine a person's criminality using facial recognition technology.",
+      "webUrl": "https://venturebeat.com/2020/06/12/ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work/",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": "AI Weekly: AI phrenology is racist nonsense, so of course it doesn’t work",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/12/ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work/amp/",
+      "publishedDateTime": "2020-06-12T15:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-vergecast-android-11-beta-ps5-reveal-and-big-tech-halts-facial-recognition-for-police.md",
+      "title": "Vergecast: Android 11 beta, PS5 reveal, and big tech halts facial recognition for police",
+      "excerpt": "During the first part of the show, Verge reporter Megan Farokhmanesh and games editor Andrew Webster take over to run through everything announced at Sony’s virtual event on Thursday — from all the games to the long-awaited reveal of the PS5 design.",
+      "webUrl": "https://www.theverge.com/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409",
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/hW5KgB-H-j-9OHV4IwHlz09YiDc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66929738/dbohn_200608_4059_0003.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Vergecast: Android 11 beta, PS5 reveal, and big tech halts facial recognition for police",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409",
+      "publishedDateTime": "2020-06-12T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai.md",
+      "title": "Researchers train drones to perform flips, rolls, and loops with AI",
+      "excerpt": "In a preprint paper, researchers propose a technique for training autonomous drones to perform flips, rolls, and other challenging acrobatics.",
+      "webUrl": "https://venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/6cf11ce1-1e3d-4b2f-ab04-62a2cfc0e264-e1591995877569.png?w=1200&#038;strip=all",
+          "width": 830,
+          "height": 415,
+          "title": "Researchers train drones to perform flips, rolls, and loops with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/amp/",
+      "publishedDateTime": "2020-06-12T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-12-a-bill-in-congress-would-limit-uses-of-facial-recognition.md",
+      "title": "A Bill in Congress Would Limit Uses of Facial Recognition",
+      "excerpt": "Amazon, Microsoft, and IBM say they want federal rules around the technology. Critics of the proposal, sponsored by four Democrats, say it doesn't go far enough.",
+      "webUrl": "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/",
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ee17e6b45997e7f063bebc5/master/pass/business_recognition_609119090.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "A Bill in Congress Would Limit Uses of Facial Recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bill-congress-limit-uses-facial-recognition/amp",
+      "publishedDateTime": "2020-06-12T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-cryptominers-found-in-azure-kubernetes-containers.md",
       "title": "Cryptominers Found in Azure Kubernetes Containers",
       "excerpt": "Images from a public repository contained cryptominers that Microsoft researchers found in Kubeflow instances running on Azure.",
@@ -1012,289 +1320,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-machine-learning-market-by-component-end-use-size-opportunities-and-forecast-2019-2026.md",
-      "title": "Machine Learning Market By Component, End-use, Size, Opportunities And Forecast, 2019 – 2026",
-      "excerpt": "As per the research held by Acumen Research and Consulting, \"the global Machine Learning market anticipated to exceed US$ 76.8 Bn by 2027, along with the projected CAGR of 40.1% from 2020 to 2027\". The global Machine Learning market research report encompasses qualitative and quantitative data derived from the analysis by experts and research analysts in the respective industry verticals from valid sources with the help of primary and secondary research tools.",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-by-component-end-use-size-opportunities-and-forecast-2019-2026-2020-06-12",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning Market By Component, End-use, Size, Opportunities And Forecast, 2019 – 2026",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-12T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-cloud-storage-on-site-hardware-aws-azure-google-cloud.md",
-      "title": "Cloud storage on-site hardware: AWS, Azure, Google Cloud",
-      "excerpt": "AWS’s Outposts, Gateway and Snow hardware, Azure’s Stack and Arc appliances, and Google Cloud’s software-defined Anthos.",
-      "webUrl": "https://www.computerweekly.com/feature/Cloud-storage-on-site-hardware-AWS-Azure-Google-Cloud",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/feature/Cloud-storage-on-site-hardware-AWS-Azure-Google-Cloud?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Cloud-storage-on-site-hardware-AWS-Azure-Google-Cloud?amp=1",
-      "publishedDateTime": "2020-06-12T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-how-ai-can-support-the-supply-chain-and-overcome-hurdles.md",
-      "title": "How AI Can Support The Supply Chain And Overcome Hurdles",
-      "excerpt": "Behind the scenes and out of the public eye, AI is powering hundreds of logistics decisions and overcoming thousands of external hurdles.",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/12/how-ai-can-support-the-supply-chain-and-overcome-hurdles/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F172155755%2F0x0.jpg",
-          "width": 1200,
-          "height": 904,
-          "title": "How AI Can Support The Supply Chain And Overcome Hurdles",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/12/how-ai-can-support-the-supply-chain-and-overcome-hurdles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/12/how-ai-can-support-the-supply-chain-and-overcome-hurdles/amp/",
-      "publishedDateTime": "2020-06-12T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-cvpr-2020-convenes-thousands-from-the-global-ai-machine-learning-and-computer-vision-community-in-virtual-event-beginning-sunday.md",
-      "title": "CVPR 2020 Convenes Thousands from the Global AI, Machine Learning and Computer Vision Community in Virtual Event Beginning Sunday",
-      "excerpt": "LOS ALAMITOS, Calif., June 12, 2020 /PRNewswire/ -- The Computer Vision and Pattern Recognition (CVPR) Conference, one of the largest events exploring artificial intelligence, machine learning ...",
-      "webUrl": "https://www.prnewswire.com/news-releases/cvpr-2020-convenes-thousands-from-the-global-ai-machine-learning-and-computer-vision-community-in-virtual-event-beginning-sunday-301074876.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/462374/IEEE_Computer_Society_Logo.jpg?p=facebook",
-          "width": 597,
-          "height": 314,
-          "title": "CVPR 2020 Convenes Thousands from the Global AI, Machine Learning and Computer Vision Community in Virtual Event Beginning Sunday",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-12T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-war-machines-dods-ethical-principles-for-battlefield-ai.md",
-      "title": "War machines: DOD's ethical principles for battlefield AI",
-      "excerpt": "Earlier this year, the Department of Defense announced the adoption of its ethical principles for Artificial Intelligence. ZDNet has been tracking this process since it gained momentum, but DoD's official adoption of the principles was overshadowed in the general media when COVID hit the US.",
-      "webUrl": "https://www.zdnet.com/article/war-machines-dods-ethical-guidelines-for-battlefield-ai/",
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/12/b14492a0-fe4f-4a1f-b49e-5da9940e838d/thumbnail/1200x675/3f6aeeb5b49721051dac99e4176703d9/20200612-greg-karen-war.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "War machines: DOD's ethical principles for battlefield AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/war-machines-dods-ethical-guidelines-for-battlefield-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/war-machines-dods-ethical-guidelines-for-battlefield-ai/",
-      "publishedDateTime": "2020-06-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-udacity-microsoft-partner-to-launch-machine-learning-scholarship-program.md",
-      "title": "Udacity & Microsoft partner to launch machine learning scholarship program",
-      "excerpt": "Ed-tech start up Udacity has collaborated with technology major Microsoft to award scholarships for its all new Machine Learning Nanodegree program in Microsoft Azure. The new Udacity Machine ...",
-      "webUrl": "https://www.livemint.com/companies/start-ups/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program-11591937550911.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/06/12/600x338/microsoft--621x414_1591938841550.jpg",
-          "width": 600,
-          "height": 338,
-          "title": "Udacity & Microsoft partner to launch machine learning scholarship program",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/amp-11591937550911.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/amp-11591937550911.html",
-      "publishedDateTime": "2020-06-12T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-convolutional-neural-network-based-diagnosis-of-appendicitis-via-ct-scans-in-patients-with-acute-abdominal-pain-presenting-in-the-emergency-department.md",
-      "title": "Convolutional-neural-network-based diagnosis of appendicitis via CT scans in patients with acute abdominal pain presenting in the emergency department",
-      "excerpt": "Acute appendicitis is one of the most common causes of abdominal emergencies. We investigated the feasibility of a neural-network-based diagnosis algorithm of appendicitis by using computed tomography (CT) for patients with acute abdominal pain visiting the emergency room (ER).",
-      "webUrl": "https://www.nature.com/articles/s41598-020-66674-7",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-66674-7/MediaObjects/41598_2020_66674_Fig1_HTML.png",
-          "width": 685,
-          "height": 396,
-          "title": "Convolutional-neural-network-based diagnosis of appendicitis via CT scans in patients with acute abdominal pain presenting in the emergency department",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-12T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

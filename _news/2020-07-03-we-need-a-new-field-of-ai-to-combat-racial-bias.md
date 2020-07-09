@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-593387043.jpg?w=1024"

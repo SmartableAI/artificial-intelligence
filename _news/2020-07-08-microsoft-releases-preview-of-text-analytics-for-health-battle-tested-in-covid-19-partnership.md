@@ -77,6 +77,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft adds more APIs to its Azure Cognitive Services for developers"
+    excerpt: "Microsoft Corp. is adding more Cognitive Services application programming interfaces to its Azure cloud platform as it continues to expand its array of artificial intelligence services."
+    publishedDateTime: 2020-07-09T00:07:00Z
+    webUrl: "https://siliconangle.com/2020/07/08/microsoft-adds-apis-azure-cognitive-services-developers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 69
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/16510342158_185f09969a_k.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Access Healthcare Services Announces New Chief Investment and Transformation Officer"
     excerpt: "PRNewswire-PRWeb/ -- Dallas-based Access Healthcare Services USA LLC, specialists in healthcare revenue cycle management"
     publishedDateTime: 2020-07-07T17:39:00Z
@@ -89,6 +103,6 @@ related:
       domain: businessinsider.com
     quality: 62
 
-secured: "cjeOirkaGG1CKE5snpBsofWdzKCy7PXVeuzc5eBJkosYCpb+T8bELa7Ig3XqlK1PMou8L13NcLT+2zU5kzPTRvUEDwhliPat5mahUJoFDUZT4W75oZlEJALUM8bnIa/8yIjpj5Ewt9WQp8WuaJz5fhdZGVrYRHi8Xu10rGD8b1/V32zcQPwrRM3fi7PtTIjsCabKZZkqDU7DQpcV/Ygem4aByzZ0Ybk9s2hsA3mVOpB3tBqTBbkYs5REUMlv6sulS/G1SSaZvm3Crt+xyPVvSuvXmUvFJLzy7hGcPenkQ38BhxBYzvtCCVNpVA8oM6c14On1e9o4NiHQBsh+EoWxmw==;pP9IOJ1+Ku8r3MiljI8PwQ=="
+secured: "C9Q9sDY2sqTv+AyTwUFuA49V11Nl9ZWVHy2BSY4hqv40s0IlQigchWdue0a35QL1Vsab1RK0Y8XTrx47sqp35abP4xFZf1HbrVmjV8TRIsmK7DCwG/1JSfI6JAeG2Gek2odVKsay679F/XIsS20FZRzR0XlarrpPR0Aiz1cpSdN8LDYFPJQ/FXIdxKerG8IHTaU/a6tDjmjTJNYt17yDOopHMqHqEbXAcvUKSG+sbfPD5HiyOVnLZnz9vV4CMEzj4SLOANpL+eDwjzfvJ0SRs0Tc99/pithN/N7Bzm7uLkw29FGNoI1mOuMhaTwhUsMri9dzeDWD41F4CryMAetFmt0YzEoWZeNDhFJWPmMGW+10CWZ9TbzmPM0h7cJTP5avgsz8M6e0NA1WuDUJrX4jbBM8n0qhOkbm9dDpFzvzNeRVUNSZNdYSJTeXkmH8Qr4mBgXqxaSw+LimY1EWbykMKP6PoB9EIlZSUdwFQ/oraWTEPyq7uFOWtXMk9zrqU4Px7LBATQtUsc/SZkYZzvpL1w==;DE5lcYvTZylkbYQ3aytd7Q=="
 ---
 

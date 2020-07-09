@@ -2,6 +2,213 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-06-29-ibm-research-releases-differential-privacy-library-that-works-with-machine-learning.md",
+      "title": "IBM Research releases differential privacy library that works with machine learning",
+      "excerpt": "The open-source repository is unique in that most tasks can be run with only a single line of code, according to the company.",
+      "webUrl": "https://www.techrepublic.com/article/ibm-research-releases-differential-privacy-library-that-works-with-machine-learning/",
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/ab340b3d-b283-4c37-a8e2-3e935ad2e1f9/resize/1200x/c8b23509f1bf1295de842ccc4200bb3f/istock-1225893654.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM Research releases differential privacy library that works with machine learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-research-releases-differential-privacy-library-that-works-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-research-releases-differential-privacy-library-that-works-with-machine-learning/",
+      "publishedDateTime": "2020-06-29T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing.md",
+      "title": "Area 1 Security raises $25 million for AI tools to protect against phishing",
+      "excerpt": "Area 1 Security, a cybersecurity vendor whose products leverage AI and machine learning to protect against phishing, has raised $25 million.",
+      "webUrl": "https://venturebeat.com/2020/06/29/area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing/",
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/f7b215a0-8f77-476b-a974-80fd40ec611c-e1593050018345.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 667,
+          "title": "Area 1 Security raises $25 million for AI tools to protect against phishing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/29/area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing/amp/",
+      "publishedDateTime": "2020-06-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise.md",
+      "title": "cnvrg.io Collaborates With Red Hat to Deliver an Accelerated Production ML Workflow With MLOps on Red Hat OpenShift for the AI Enterprise",
+      "excerpt": "PRNewswire/ -- cnvrg.io, the data science platform simplifying model management and introducing advanced MLOps to the industry, today announced",
+      "webUrl": "https://www.prnewswire.com/news-releases/cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise-301084968.html",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1160338/cnvrg_io_Logo.jpg?p=facebook",
+          "width": 796,
+          "height": 419,
+          "title": "cnvrg.io Collaborates With Red Hat to Deliver an Accelerated Production ML Workflow With MLOps on Red Hat OpenShift for the AI Enterprise",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-alphabets-waymo-and-volvo-collaborate-on-driverless-cars.md",
+      "title": "Alphabet's Waymo and Volvo Collaborate on Driverless Cars",
+      "excerpt": "Notably, Alphabet’s Waymo has partnered with Volvo to develop a new self-driving electric vehicle for use in a ride-hailing service. Per the deal, Volvo will take care of the design and manufacture of the vehicles,",
+      "webUrl": "https://www.nasdaq.com/articles/alphabets-waymo-and-volvo-collaborate-on-driverless-cars-2020-06-29",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/alphabets-waymo-and-volvo-collaborate-on-driverless-cars-2020-06-29?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/alphabets-waymo-and-volvo-collaborate-on-driverless-cars-2020-06-29?amp",
+      "publishedDateTime": "2020-06-29T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy.md",
+      "title": "São Paulo subway facial recognition system slammed over user data security and privacy",
+      "excerpt": "A new surveillance system is deemed \"inefficient and dangerous\" as it fails to protect the personal information of 4 million daily users, associations say.",
+      "webUrl": "https://www.zdnet.com/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/24/e8481169-ff9b-466b-8e43-10b2b93dae57/thumbnail/1200x675/e7e0863bd1d561f06a8a84b6febb0d56/whats.png",
+          "width": 1200,
+          "height": 675,
+          "title": "São Paulo subway facial recognition system slammed over user data security and privacy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
+      "publishedDateTime": "2020-06-29T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-ibm-donates-trusted-ai-projects-to-linux-foundation-ai.md",
       "title": "IBM donates \"Trusted AI\" projects to Linux Foundation AI",
       "excerpt": "As real-world AI deployments increase, IBM says the contributions can help ensure they're fair, secure and trustworthy.",
@@ -1140,206 +1347,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-ai-image-recognition-market-covid-19-pandemic-update-competitive-analysis-till-2029-google-and-ibm.md",
-      "title": "AI Image Recognition Market (Covid-19 Pandemic Update) : Competitive Analysis Till 2029 || Google and IBM",
-      "excerpt": "Market.us newly added the Global AI Image Recognition Market report that gives meticulous scrutiny of aggressive market conditions based on producing volume, sales, and earnings. The ai image recognition report handles the distribution chain analysis of high Key players.",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-covid-19-pandemic-update-competitive-analysis-till-2029-google-and-ibm-2020-06-28",
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI Image Recognition Market (Covid-19 Pandemic Update) : Competitive Analysis Till 2029 || Google and IBM",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-28T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-behringer-deepmind-12-polyphonic-analog-synth.md",
-      "title": "Behringer DeepMind 12 Polyphonic Analog Synth",
-      "excerpt": "We provide a safe community for finding the gear you want. As its name suggests, the Behringer DeepMind 12 is a 12-voice polyphonic analog synth, with a 49-note velocity- and and aftertouch-sensitive keyboard. Each voice comprises three digitally generated ...",
-      "webUrl": "https://reverb.com/item/34393726-behringer-deepmind-12-polyphonic-analog-synth",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-27T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reverb.com",
-        "domain": "reverb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap.md",
-      "title": "From PhD in AI to fruit chips company, youngster takes a big leap",
-      "excerpt": "Twenty-eight-year-old Bharadwaj Karanth’s company, Suvidha Foods and Beverages, procures fruits and vegetables directly from farmers and processes them into chips and dry fruits.",
-      "webUrl": "https://www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/6/29/w600X390/karanth094206.jpg",
-          "width": 600,
-          "height": 390,
-          "title": "From PhD in AI to fruit chips company, youngster takes a big leap",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp",
-      "publishedDateTime": "2020-06-27T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-27-a-closer-look-at-sagemaker-studio-aws-machine-learning-ide.md",
-      "title": "A closer look at SageMaker Studio, AWS’ machine learning IDE",
-      "excerpt": "When AWS launched SageMaker Studio back in December, we weren't super impressed. But we promised to take a closer look. Here it is.",
-      "webUrl": "https://venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/",
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?w=1200&#038;strip=all",
-          "width": 1080,
-          "height": 530,
-          "title": "A closer look at SageMaker Studio, AWS’ machine learning IDE",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/amp/",
-      "publishedDateTime": "2020-06-27T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-27-detroit-says-shoddy-work-led-to-wrongful-arrest-tied-to-facial-recognition-technology.md",
-      "title": "Detroit says 'shoddy' work led to wrongful arrest tied to facial recognition technology",
-      "excerpt": "A Black man wrongly arrested after the use of facial recognition technology will have his DNA, fingerprints and mugshot removed from files.",
-      "webUrl": "https://www.freep.com/story/news/local/michigan/detroit/2020/06/26/facial-recognition-wrongful-arrest-detroit-police/3265943001/",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/01/21/PDTF/7f37d006-521d-4d6e-b65c-51b641c9d880-IMG_detroit_police_car_1_1_.JPG?auto=webp&crop=533,300,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Detroit says 'shoddy' work led to wrongful arrest tied to facial recognition technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/3265943001",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3265943001",
-      "publishedDateTime": "2020-06-27T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

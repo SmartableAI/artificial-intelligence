@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-08T22:15:00Z
 webUrl: "https://www.sfexaminer.com/news-columnists/until-the-robots-take-cover/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
     title: "I Drive SF: Until the robots take over"
 
-related:
-  - title: "Robots to the rescue"
-    excerpt: "Driven by the coronavirus pandemic, service robots are gathering steam among medical, retail and eatery sectors as a way to address social distancing measures."
-    publishedDateTime: 2020-07-06T00:09:00Z
-    webUrl: "https://www.bangkokpost.com/tech/1946496/robots-to-the-rescue"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2020/07/06/3682560_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
-
-secured: "0NFLV+dzdFVnVu99yvyGg5+vE/a58WNdUGN732ExW2ZaaEQ2k9YMQZ+wdoKcsrHRUoAUy5Iaa8OzujL04LuXzkc2PRmdF1HRYLe1vW32B3dwejMIwaKzc0Eb34bnCcMaiLw3iX3ZnerDiHZpzb9/bsJjfNylQ6xdHoRHc1NeOZR4YRKLdNNhXYZvqkHFCHD9u77DYGHEK5ySewZFwTAGaXk+hv74JJofB7C2LfggwNkmtlBId4i2E1qk5aRvidi5HUnD3GTy+NvsoaYGEEoLZ/JMsc52iLK7F1eg4Tpwt5lXkKeKaCnzNAdV2PWvbcd/BMciKDVkxNHtY4UA6p+eCQ==;4P2nkhOyVJ7Z6JPOrl8leQ=="
+secured: "3Y0SlgYkx6KBGI4wsqhJvwX1qhy6tQAmlBkK9jvp7LttZSAHnYh+9+jJHQwcsIvgJ7KpHYx87+E3FMVcmOFOVFUo+e8bwBTRu2tKEgThNLXRZSOFmA3eb0M4KN6Vo5jh+6zbuiVfopnkt80zKtj2+SnSkgoyk+EXBNVb/cCGN+BD1nmBDl6nPe211JC3oVtswV7yKGyiEOvNk31JVmkM26hL6nPlaYsQRzKftAq4+gtL9rIR+3qgyR8BkWwWcgP94v0fzUgsf3mwRLUkENPJ96g14LY5F6G4DpmScGq9ycUFH6znfjigM6De2Tt7/wiSNqq6267fzAY05FfX791VCkm+d3vlCpGnK+XRWYZFyml8ASVI5Bihb2JQcY4D7fDPFcBuNAdqWqsC62XjG0M/MADUpcRzfcyBLTCBhMc0nH/qIggk8Gzl+JKZTToPSwmeH1bi0ePBtmOda460mCGdzTvJTDgDzx4oT52RJZwJXY3TeBmqYtkXMgyKy+ZMxGJAYYhpRWOVbNmwm661pSOC9w==;Wbnbt47nw42oerOsKzQ7oA=="
 ---
 

@@ -2,6 +2,138 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-25-volvo-will-use-waymo-technology-to-power-its-self-driving-cars.md",
+      "title": "Volvo will use Waymo technology to power its self-driving cars",
+      "excerpt": "Volvo will use Waymo technology to guide its self-driving cars, including one built for ride-hailing services.",
+      "webUrl": "https://www.engadget.com/volvo-waymo-self-driving-car-partnership-192450966.html",
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F330f5320-b715-11ea-8bff-ded22acc56bd&client=amp-blogside-v2&signature=aa6885b83be1e636943df5f7d64dfe77790ff3a4",
+          "width": 600,
+          "height": 350,
+          "title": "Volvo will use Waymo technology to power its self-driving cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/volvo-waymo-self-driving-car-partnership-192450966.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/volvo-waymo-self-driving-car-partnership-192450966.html",
+      "publishedDateTime": "2020-06-25T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-volvo-cars-waymo-partner-to-build-self-driving-vehicles.md",
+      "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
+      "excerpt": "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles.",
+      "webUrl": "https://uk.reuters.com/article/uk-waymo-volvo-autonomous/volvo-cars-waymo-partner-to-build-self-driving-vehicles-idUKKBN23W2V6",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200625&t=2&i=1523643359&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5O27T",
+          "width": 817,
+          "height": 545,
+          "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN23W2V6",
+      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN23W2V6",
+      "publishedDateTime": "2020-06-25T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-teslas-most-robust-self-driving-package-will-cost-more-again.md",
+      "title": "Tesla's most robust self-driving package will cost more — again",
+      "excerpt": "It'll soon cost you $8,000 to buy a Tesla upgrade package, which includes some features that don't even exist yet. Tesla's Full Self-Driving package is a future-ready option for t",
+      "webUrl": "https://mashable.com/article/tesla-fsd-price-increase-/",
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F25%252Fd1%252F85b76a05bbb241488ffceb4b20b4d9a3.8b07b.jpg%252F1200x630.jpg?signature=Kdns6EbdS8gZHz0DCtCccLpQqcE=",
+          "width": 1200,
+          "height": 630,
+          "title": "Tesla's most robust self-driving package will cost more — again",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/tesla-fsd-price-increase-.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-price-increase-.amp",
+      "publishedDateTime": "2020-06-25T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-volvo-waymo-partner-to-build-self-driving-vehicles.md",
       "title": "Volvo, Waymo partner to build self-driving vehicles",
       "excerpt": "Waymo and Volvo Cars have agreed to develop a self-driving electric vehicle designed for ride-hailing use, as part of a new global partnership, the companies said Thursday. Waymo, a unit of Silicon Valley's Alphabet Inc.",
@@ -1164,148 +1296,6 @@
         "name": "PropertyCasualty360",
         "domain": "propertycasualty360.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-were-never-going-to-get-meaningful-data-on-self-driving-car-testing.md",
-      "title": "We’re never going to get meaningful data on self-driving car testing",
-      "excerpt": "The US Department of Transportation launched a new voluntary program to collect and share data from autonomous vehicle operators. Companies testing AVs on public roads are invited to submit information to the government,",
-      "webUrl": "https://www.theverge.com/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary",
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/tPWCcMshwdjqMp7htX3K26tYh-s=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66938010/vpavic_191202_3827_0004.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": "We’re never going to get meaningful data on self-driving car testing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary",
-      "publishedDateTime": "2020-06-15T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-artificial-intelligence-fully-automated-luxury-capitalism.md",
-      "title": "Artificial Intelligence, & Fully Automated Luxury Capitalism",
-      "excerpt": "Some have argued for a version of communism, called fully automated luxury communism. While this approach deserves credit for facing up to the exponential future, it overlooks two important facts. First,",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/15/artificial-intelligence--fully-automated-luxury-capitalism/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F828562116%2F0x0.jpg",
-          "width": 1199,
-          "height": 806,
-          "title": "Artificial Intelligence, & Fully Automated Luxury Capitalism",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/15/artificial-intelligence--fully-automated-luxury-capitalism/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/15/artificial-intelligence--fully-automated-luxury-capitalism/amp/",
-      "publishedDateTime": "2020-06-15T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study.md",
-      "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
-      "excerpt": "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday.",
-      "webUrl": "https://in.reuters.com/article/autos-self-driving-idINKBN23B2QM",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving cars could only prevent a third of U.S. crashes - study",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN23B2QM",
-      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN23B2QM",
-      "publishedDateTime": "2020-06-15T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

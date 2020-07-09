@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Amazon Web Services joins efforts to protect biodiversity"
-excerpt: "Education, Research, Healthcare, and Nonprofit Organizations, Asia-Pacific, Worldwide Public Sector, Amazon Web Services Aria Nagasastra, director of Finance and Administration, WWF-Indonesia How can"
-publishedDateTime: 2020-06-23T05:43:00Z
-webUrl: "https://vietreader.com/news/1950-amazon-web-services-joins-efforts-to-protect-biodiversity.html"
+excerpt: "Amazon Web Services, Inc., an Amazon.com company, has announced collaboration with the World Wildlife Fund for Nature Indonesia (WWF-Indonesia) to accelerate efforts to save critically endangered orangutans in Indonesia."
+publishedDateTime: 2020-06-23T05:38:00Z
+webUrl: "https://www.vir.com.vn/amazon-web-services-joins-efforts-to-protect-biodiversity-77222.html"
 type: article
 
 provider:
-  name: vietreader.com
-  domain: vietreader.com
+  name: Vietnam Investment Reviev
+  domain: vir.com.vn
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://cdn.vietreader.com/uploads/posts/2020-06/amazon-web-services-joins-efforts-to-protect-biodiversity-1.jpg"
-    width: 800
-    height: 534
+  - url: "https://www.vir.com.vn/stores/news_dataimages/bichthuy/062020/22/14/in_article/croped/1833_Young_orang_utan_Jambi_Sumatra_Indonesia_FletcherBaylis.jpg?randTime=1594260046"
+    width: 850
+    height: 546
     isCached: true
     title: "Amazon Web Services joins efforts to protect biodiversity"
 
-secured: "6RAoID7W1EjQ/fT0fPCMjNxGrkocO7e10pG1ejw/+hgPEQ0OE2pbHKENdOML3Msu6vEjHhkEir1qpdtxNPGrTO55/B45WppTievWfOqEapYU4FXB5Uwe4rUjetovgtfherWw5NkWxrrbKd1q5bfMPYrk8/9B/R3g+ouy3KJRo3II+hG2LJcZeVQtABZn9PuZ+OnAvZ0caNCjc1QdIaKda1G865v1d6Zkqj5VZnJrrov6B8ywqEljEfG3EKhR6e2bkUVzSVp1rwEMqH+mJsBQhM5uibCGZvaUWBcI0kFA+/cArTBGUaIdQToWmqqFzVNdeKsKs0go8coJpu30fCNynTR1z5s2r8h/P0tJo9CDV5mu3aCOPEiTdiHUbFt1yvr162vNR9SQfjLHscnVb9R7GsfpaSSBiF/vqpasht0xAuPbsJZr99q4fsBXiMtbkhZTUxDvVcXNRkSRBj5KHqiX1I80GTZcxJoMBaSkuglcrIzlNQwpCBPrlIRCNo+DiJ+h1IZCKcKVTmTUVlpDIamERA==;Dm/Xdkl9xXnNYVLc9ic9gw=="
+secured: "zT4FYY5tGf2AAXaDZAmjPgQ6PXQXcxtXUicmrunPUVOkxxlEuUmkX3eC9IKaKcDox15a8SIHBfBzb2z+5aGNHUeWal5YjZ2tgZzcgM+HHl0ybB6ms/guakfzMQ7fZjBkbzh+ZeNA9LqrxGJ2ourQ4rE93cnWD+MYNQlCygdRRm6U32AR7HHPcsLny1srjILhhTB2lenaxdWF4cZbO7hP4pqWaBEq26ScgWkw0RAfYl3k5wX3YStNhVJdKNjydOaZK0eIMEwYew2uow9QDjFwjR1q1gfc15hGGauTgMeIDBt9Kt6iU8Pc9DfMUSd0JUCnBI5ZS8EetZZwvxrqW8DUDA==;5r1Oik+RhYzAATHp8ybiQg=="
 ---
 

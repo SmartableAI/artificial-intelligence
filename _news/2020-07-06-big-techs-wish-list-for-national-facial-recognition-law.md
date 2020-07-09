@@ -347,6 +347,20 @@ related:
         width: 664
         height: 664
         isCached: true
+  - title: "Columnist William Newman: Facial recognition technology: Ban it now"
+    excerpt: "This story began on June 27, 2019 at the Somerville City Council, which that evening unanimously adopted the state’s first municipal facial recognition technology ban. On Dec. 11, 2019, the Brookline Town Meeting,"
+    publishedDateTime: 2020-07-09T00:00:00Z
+    webUrl: "https://www.gazettenet.com/Columnist-William-Newman-35133581"
+    type: article
+    provider:
+      name: Daily Hampshire Gazette
+      domain: gazettenet.com
+    quality: 41
+    images:
+      - url: "http://www.gazettenet.com/getattachment/59b14c9f-a96f-4eb2-bc2b-cb1e5c667780/0ce7ea6489e84ded8c1b5e68ddd00be9.jpg"
+        width: 499
+        height: 325
+        isCached: true
   - title: "Canadians abandon face recognition software"
     excerpt: "Watchdog growls at clearview Canada's privacy watchdog said facial recognition software provider Clearview AI will no longer offer its services in the country, suspending a contract with its last remaining client,"
     publishedDateTime: 2020-07-07T10:23:00Z

@@ -2,6 +2,147 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-27-train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker.md",
+      "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
+      "excerpt": "At re:Invent 2019, AWS shared the fastest training times on the cloud for two popular machine learning (ML) models: BERT (natural language processing) and Mask-RCNN (object detection). To train BERT in 1 hour, we efficiently scaled out to 2,048 NVIDIA V100 GPUs by improving the underlying infrastructure,",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/26/albert-nlp-6.gif",
+          "width": 1000,
+          "height": 580,
+          "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T09:00:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-the-role-of-augmented-intelligence-in-fighting-against-a-pandemic.md",
+      "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
+      "excerpt": "Augmented intelligence is on track to change the way the world manages a pandemic and the tools it can use to detect and cure potential outbreaks in the future.",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F05%2Fa-25-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/amp/",
+      "publishedDateTime": "2020-05-27T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-bundesliga-teams-up-with-aws-to-give-football-fans-real-time-match-insights.md",
+      "title": "Bundesliga teams up with AWS to give football fans real-time match insights",
+      "excerpt": "The German Bundesliga has integrated Amazon Web Services technology into live broadcasts to give football fans real-time insights into the games playing out in front of them. Amazon’s cloud infrastructure and artificial intelligence (AI) will be deployed to gather player data and generate two forms of insight: Average Positions and Expected Goals (xGoals).",
+      "webUrl": "https://www.techradar.com/sg/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/hGWUJqYM2xwcTFpm63GvUB-1200-80.jpg",
+          "width": 695,
+          "height": 391,
+          "title": "Bundesliga teams up with AWS to give football fans real-time match insights",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
+      "publishedDateTime": "2020-05-26T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-26-amazon-web-services-und-die-bundesliga-liefern-mit-bundesliga-match-facts-powered-by-aws-spielanalysen-in-echtzeit.md",
       "title": "Amazon Web Services und die Bundesliga liefern mit „Bundesliga Match Facts Powered by AWS“ Spielanalysen in Echtzeit",
       "excerpt": "Amazon Web Services (AWS), ein Amazon.com-Unternehmen (NASDAQ: AMZN), und die Deutsche Bundesliga geben heute Abend um 18:30 Uhr MEZ im Rahmen des Highlight-Spiels Borussia Dortmund gegen Bayern ...",

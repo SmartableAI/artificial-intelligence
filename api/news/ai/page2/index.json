@@ -127,7 +127,7 @@
       "title": "UCLA launches an AI robot to support the emotional needs of children",
       "excerpt": "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character -- one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital.",
       "webUrl": "https://www.news-medical.net/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx",
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -147,6 +147,44 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-welcome-robin-the-ai-robot.md",
+      "title": "Welcome, Robin the AI robot",
+      "excerpt": "The artificial intelligence system was developed by Expper Technologies, a Silicon Valley-supported startup with roots in Yerevan, Armenia. Robin's technology enables the robot to build what is ...",
+      "webUrl": "https://eurekalert.org/pub_releases/2020-07/uoc--wrt070720.php",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/236836_web.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": "Welcome, Robin the AI robot",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-07T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -304,7 +342,7 @@
       "title": "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025",
       "excerpt": "Jul 07, 2020 (Market Insight Reports) -- Selbyville, Delaware According to Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Precision Medicine market that provides a comprehensive review of this industry with respect to the ...",
       "webUrl": "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025-2020-07-07",
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1286,43 +1324,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-5-tips-to-accelerate-your-companys-ai-implementation.md",
-      "title": "5 tips to accelerate your company's AI implementation",
-      "excerpt": "RingCentral’s Director of global SEO, John Allen lays out everything you need to know about how to get your firm’s AI implementation just right.",
-      "webUrl": "https://www.clickz.com/5-tips-to-accelerate-your-companys-ai-implementation/",
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1ld3bn3pj7u818mrpr3kmfig-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/image1-1.png",
-          "width": 768,
-          "height": 527,
-          "title": "5 tips to accelerate your company's AI implementation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.clickz.com/5-tips-to-accelerate-your-companys-ai-implementation/262008/amp/",
-      "cdnAmpWebUrl": "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/5-tips-to-accelerate-your-companys-ai-implementation/262008/amp/",
-      "publishedDateTime": "2020-07-06T19:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ClickZ",
-        "domain": "clickz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

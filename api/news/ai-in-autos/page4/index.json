@@ -2,6 +2,138 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-03-waymo-to-bring-self-driving-minivans-back-to-bay-area-for-delivering-packages.md",
+      "title": "Waymo to bring self-driving minivans back to Bay Area for delivering packages",
+      "excerpt": "Waymo's self-driving minivans will return to the streets of the Bay Area on June 8. The vehicles will focus on delivering packages for non-profit organizations.",
+      "webUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?itm_source=10&itm_content=2x2&itm_term=2376504",
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/waymo-one-ride-sharing-3-1200x630-c-ar1.91.jpg",
+          "width": 720,
+          "height": 376,
+          "title": "Waymo to bring self-driving minivans back to Bay Area for delivering packages",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?amp",
+      "publishedDateTime": "2020-06-02T19:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-03-alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated.md",
+      "title": "Alphabet, Google CEO: Artificial intelligence needs to be regulated",
+      "excerpt": "Alphabet and Google CEO Sundar Pichai called today for artificial intelligence to be regulated. \"There is no question in my mind that artificial intelligence needs to be regulated ... touch guidelines for regulating driverless cars and trucks —a move ...",
+      "webUrl": "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/",
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Alphabet, Google CEO: Artificial intelligence needs to be regulated",
+          "attribution": null,
+          "isCached": false
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/",
+      "publishedDateTime": "2020-06-02T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-vw-and-argo-ai-complete-26bn-deal-ford-gets-new-self-driving-frenemy.md",
+      "title": "VW and Argo AI complete $2.6bn deal: Ford gets new self-driving frenemy",
+      "excerpt": "Dubbed a “street-by-street, block-by-block” mindset, it paves the way to a Level 4 self-driving system. That is, one which can be self-operated under specific conditions, within its operating design domain. That means no Argo AI cars autonomously roving everywhere: instead, the technology is designed to work safely and successfully in ...",
+      "webUrl": "https://www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-gets-new-self-driving-frenemy-02623386/",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/argo-ai-test-car-1.jpg",
+          "width": 1024,
+          "height": 640,
+          "title": "VW and Argo AI complete $2.6bn deal: Ford gets new self-driving frenemy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-gets-new-self-driving-frenemy-02623386/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-gets-new-self-driving-frenemy-02623386/amp/",
+      "publishedDateTime": "2020-06-02T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-yandex-reveals-its-fourth-generation-self-driving-hyundai.md",
       "title": "Yandex reveals its fourth-generation self-driving Hyundai",
       "excerpt": "Researchers all around the world are working hard on self-driving cars to help people unable to drive themselves to get around and take the roads around the nation and the world safer. Yandex has",
@@ -1153,131 +1285,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox.md",
-      "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
-      "excerpt": "Amazo AMZN n may be preparing to make a big move into the self-driving vehicle world as the logistics giant is said to be in “advanced” talks to acquire Zoox, a stealthy developer of robotaxi technology,",
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/",
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecdb8a20ca0110007263878%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/amp/",
-      "publishedDateTime": "2020-05-26T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-ai-gaming-driverless-cars-push-nvidia-stock-higher.md",
-      "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
-      "excerpt": "Some big trends stand to benefit Nvidia and its rivals, Intel and Advanced Micro Devices Inc. (NASDAQ: AMD). These include artificial intelligence, gaming and driverless vehicles.",
-      "webUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/",
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2019/02/imageforentry7-azs.jpg?w=400",
-          "width": 400,
-          "height": 225,
-          "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/amp/",
-      "publishedDateTime": "2020-05-26T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-why-robots-will-need-humans-in-the-future.md",
-      "title": "Why robots will need humans in the future",
-      "excerpt": "Ben Shneiderman, a University of Maryland computer scientist who has for decades warned against blindly automating tasks with computers, thinks fully automated cars and the tech industry’s vision for a robotic future is misguided.",
-      "webUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html",
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.orlandosentinel.com/resizer/-RkmdLbQY_5T6dnGwSJV5mIp7-g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JTAXB6YFGFAU7AZ5272JMTGK3I.png",
-          "width": 1200,
-          "height": 858,
-          "title": "Why robots will need humans in the future",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-automation-humans-ben-shneiderman-20200525-pyywqxar4fa5nfrincui5oav7m-story.html?outputType=amp",
-      "publishedDateTime": "2020-05-25T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orlando Sentinel",
-        "domain": "orlandosentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

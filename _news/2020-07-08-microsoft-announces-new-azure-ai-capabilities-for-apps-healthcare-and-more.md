@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-announces-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
 type: article
 quality: 133
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/bigstock-Smart-Medical-Technology-In-Ho-264657964-630x420.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Microsoft adds more APIs to its Azure Cognitive Services for developers"
+    excerpt: "Microsoft Corp. is adding more Cognitive Services application programming interfaces to its Azure cloud platform as it continues to expand its array of artificial intelligence services."
+    publishedDateTime: 2020-07-09T00:07:00Z
+    webUrl: "https://siliconangle.com/2020/07/08/microsoft-adds-apis-azure-cognitive-services-developers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 69
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/16510342158_185f09969a_k.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Access Healthcare Services Announces New Chief Investment and Transformation Officer"
     excerpt: "PRNewswire-PRWeb/ -- Dallas-based Access Healthcare Services USA LLC, specialists in healthcare revenue cycle management"

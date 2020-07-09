@@ -2,45 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-06-16-from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing.md",
-      "title": "From Computer Vision To Deep Learning: How AI Is Augmenting Manufacturing",
-      "excerpt": "While machine vision has been around for more than 60 years, the recent surge in the popularity of deep learning has elevated this sometimes misunderstood technology to the attention of major ...",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/amp/",
-      "publishedDateTime": "2020-06-16T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-06-15-deep-learning-networks-track-up-to-100-animals-simultaneously.md",
       "title": "Deep learning networks track up to 100 animals simultaneously",
       "excerpt": "The trajectories described by this data were used to train a deep interaction network (bit.ly/VSD-DIN), a deep learning model that reasons how objects in complex systems interact, to support dynamic predictions and inferences about the abstract properties ...",
@@ -1209,6 +1170,44 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-machine-learning-predicts-nanoparticles-structure-and-dynamics.md",
+      "title": "Machine learning predicts nanoparticles' structure and dynamics",
+      "excerpt": "Machine learning methods, once trained to model the systems reliably, can speed up the simulations by several orders of magnitude. The new method allowed simulations to be run on a laptop or desktop",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/06/200609104305.htm",
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

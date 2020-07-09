@@ -2,6 +2,185 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-01-self-driving-cars-will-buyers-come-if-you-just-build-them-maybe.md",
+      "title": "Self-driving cars: Will buyers come if you just build them? Maybe",
+      "excerpt": "The first self-driving cars began to appear in the 1980s, so why aren't we all riding in them by now? Adoption levels of autonomous vehicles and other types of robotics and automation was a research project recently undertaken by MyPlanet,",
+      "webUrl": "https://www.techrepublic.com/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/06/07/81cdc6b1-4565-4a21-928e-3f9b8f1d7db6/resize/1200x/280ef93d6a5093f84a9f42d177b231c0/istock-953480702selfdrivingcar.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Self-driving cars: Will buyers come if you just build them? Maybe",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
+      "publishedDateTime": "2020-07-01T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-ethics-in-the-balance-ais-implications-for-government.md",
+      "title": "Ethics in the Balance: AI’s Implications for Government",
+      "excerpt": "As automation becomes an ever-more viable tool for government for everything from cameras on light poles to using AI to set prisoners’ bail, can policymakers ensure it is used responsibly and ethically?",
+      "webUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html",
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/taskforce1.jpg",
+          "width": 940,
+          "height": 630,
+          "title": "Ethics in the Balance: AI’s Implications for Government",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
+      "publishedDateTime": "2020-07-01T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-how-to-use-the-new-ai-driven-nextcloud-inbox.md",
+      "title": "How to use the new AI-driven Nextcloud Inbox",
+      "excerpt": "Nextcloud Mail users will be thrilled with the new AI-driven inboxes. Learn the ins and outs of this new feature.",
+      "webUrl": "https://www.techrepublic.com/article/how-to-use-the-new-ai-driven-nextcloud-inbox/",
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2018/07/26/02a83571-b370-453e-840a-b5c29b17be68/resize/1200x/34f2fb8ab33e3a6d77c764e619e19d2b/nextcloudhero.jpg",
+          "width": 1200,
+          "height": 938,
+          "title": "How to use the new AI-driven Nextcloud Inbox",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-use-the-new-ai-driven-nextcloud-inbox/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-use-the-new-ai-driven-nextcloud-inbox/",
+      "publishedDateTime": "2020-07-01T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots.md",
+      "title": "Pudu Technology raises $15 million for ‘contact-free’ autonomous delivery robots",
+      "excerpt": "Pudu Technology, a Shenzhen-based startup designing robots for hospitals, restaurants, and offices, today announced it raised $15 million.",
+      "webUrl": "https://venturebeat.com/2020/07/01/pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots/",
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/07c9efa2-6612-42b1-8626-1abe610b97ed-e1593613750763.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 574,
+          "title": "Pudu Technology raises $15 million for ‘contact-free’ autonomous delivery robots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/01/pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots/amp/",
+      "publishedDateTime": "2020-07-01T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work.md",
       "title": "The robots are coming, and this is how they will change the future of work",
       "excerpt": "Robotic systems have historically been kept separate from humans, and tucked away deep in factory lines. But as robots start mingling with humans in their workplaces, what is work going to look like?",
@@ -1166,176 +1345,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-australian-authorities-want-an-ai-to-settle-your-divorce.md",
-      "title": "Australian Authorities Want an AI To Settle Your Divorce",
-      "excerpt": "For better or worse, there’s a good chance your current love life owes something to automation. Even if you’re just hooking up with the occasional Tinder fling (which if you are, no judgment), you’re still turning to Tinder’s black-box algorithms to pick out that fling for you before turning to more black-box algorithms to pick out the best dingy bar to meet them at before turning to more black-box algorithms to figure out what,",
-      "webUrl": "https://gizmodo.com/australian-authorities-want-an-ai-to-settle-your-divorc-1844218776",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/iecgpkelskttyvkjc7sq.jpg",
-          "width": 800,
-          "height": 451,
-          "title": "Australian Authorities Want an AI To Settle Your Divorce",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/australian-authorities-want-an-ai-to-settle-your-divorc-1844218776/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/australian-authorities-want-an-ai-to-settle-your-divorc-1844218776/amp",
-      "publishedDateTime": "2020-06-30T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-for-machine-builders-its-open-season.md",
-      "title": "For Machine Builders, It’s Open Season",
-      "excerpt": "Today, software developers for the consumer market take advantage of open source code to enable connectivity, databases, visualization and more. Established developers in the industrial operational technology (OT) arena also are finding applications where they would like to use some of these same open source characteristics.",
-      "webUrl": "https://www.machinedesign.com/automation-iiot/article/21135495/for-machine-builders-its-open-season",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Machine Design",
-        "domain": "machinedesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models.md",
-      "title": "Montreal AI Ethics Institute suggests ways to counter bias in AI models",
-      "excerpt": "In a recent paper, analysts at the Montreal AI Ethics Institute examine key challenges faced by the AI community -- and propose solutions.",
-      "webUrl": "https://venturebeat.com/2020/06/30/montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models/",
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Montreal AI Ethics Institute suggests ways to counter bias in AI models",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/montreal-ai-ethics-institute-suggests-ways-to-counter-bias-in-ai-models/amp/",
-      "publishedDateTime": "2020-06-30T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning.md",
-      "title": "Facebook’s MARGE AI summarizes and translates documents without fine-tuning",
-      "excerpt": "The researchers claim MARGE learns to paraphrase, translate, and summarize text without any fine-tuning, a potential step toward systems that can perform any text task from pre-training alone. In machine learning,",
-      "webUrl": "https://venturebeat.com/2020/06/30/facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s MARGE AI summarizes and translates documents without fine-tuning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning/amp/",
-      "publishedDateTime": "2020-06-30T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

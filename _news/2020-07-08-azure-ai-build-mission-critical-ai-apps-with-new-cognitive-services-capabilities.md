@@ -77,6 +77,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Microsoft adds more APIs to its Azure Cognitive Services for developers"
+    excerpt: "Microsoft Corp. is adding more Cognitive Services application programming interfaces to its Azure cloud platform as it continues to expand its array of artificial intelligence services."
+    publishedDateTime: 2020-07-09T00:07:00Z
+    webUrl: "https://siliconangle.com/2020/07/08/microsoft-adds-apis-azure-cognitive-services-developers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 69
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/16510342158_185f09969a_k.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Access Healthcare Services Announces New Chief Investment and Transformation Officer"
     excerpt: "PRNewswire-PRWeb/ -- Dallas-based Access Healthcare Services USA LLC, specialists in healthcare revenue cycle management"
     publishedDateTime: 2020-07-07T17:39:00Z
@@ -89,6 +103,6 @@ related:
       domain: businessinsider.com
     quality: 62
 
-secured: "FJjfBdTpk6cQPfxEOKWH7oAXUrz5ff/nJsSvHGm5rSuRcEkQ6JM0meCa2EyH+2xZutZQixSwTeJt6fa4dkJ2vwcQg9shws/Kei9Vs3hUrQAYAyB/1Yg/WvfTVMSso/E7v1YpUDiT554kGRHDF6B92Owrw1YHVB7oNuteeiD3eqrkEHVCP55EDGkDcZPWCAFDd0O7QPUs6BTVEKeyoHhCdGsqlknCHA0FtLXsiT+XH7KkRArZjNzSqp8FtuSb92XyF1lick7UxTrqKeHU60QahyCnyr0maES61JOhJPqaTRWU8HDK0Xj9RnlQlqO5/BftdY+UAndS7Z/2SYATFnyWfA==;jeqbiOYV6NLedIhN99HXBw=="
+secured: "+0bMxJ52IatrQXZk2ZpGFAHjl+2J1KqVSjkWPuMDoSGQNjYf8KGT4M1+P+blIg2ullSkvzQkmGFAZPlazMGxfjCjxzz/fh394LtnWHOG+qgV7R86Gyk3W86NroiHjTF+sbetLc1GAoJhFuCmvGwt91KJVWWOajiHE6svh+v4PuqbYY+X/ph5KNTK41j9UDfPW2dptf9oT8hymgVRKd6JYHXwZ6tg0167fJFtlO+3fvQhz1/KO/9QQIKo6qQ/4lnUWBffD3dNdGTK1wSJoQpgJeYO+AtGGnKm+c0deyIzj4xIwyOojHQyd6VehAqJaO3KK44lh/u9LYCXSbcCrMjnAw==;v1lcq6vppsmGWB+m0jWtQg=="
 ---
 

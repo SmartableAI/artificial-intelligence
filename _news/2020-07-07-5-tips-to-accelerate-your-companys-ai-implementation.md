@@ -34,7 +34,7 @@ related:
     provider:
       name: Embedded Computing Design
       domain: embedded-computing.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmMDYzNzkyNjM0NTQucG5nJnZlcnNpb249MDAwMCZzaWc9MWY2OGY0NDIzNWJkNzJkY2I1Njg4OTUwNGI1NDBiNTI%253D"
         width: 500
