@@ -44,7 +44,7 @@ related:
   - title: "RSA Conference 2020 APJ Virtual Learning Event – 10 Session Tracks to Look Forward to"
     excerpt: "RSA Conference, the world’s leading information security conferences and expositions, today provided a deep dive on the key session tracks for this ye"
     publishedDateTime: 2020-07-09T01:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200708005881/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200708005881/en/RSA-Conference-2020-APJ-Virtual-Learning-Event"
     type: article
     provider:
       name: Business Wire

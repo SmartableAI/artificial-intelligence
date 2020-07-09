@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/corelogic-launches-ai-drive
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "dotData Launches New Platform to Meet Demand for Real-Time Prediction Capabilities"
+    excerpt: "Data, a provider of full-cycle data science automation and operationalization for the enterprise, is releasing dotData Stream, a new containerized AI/ML model that enables real-time predictive capabilities for dotData users."
+    publishedDateTime: 2020-07-07T14:26:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dotData-Launches-New-Platform-to-Meet-Demand-for-Real-Time-Prediction-Capabilities-141689.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 18
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "X5Kk0i/+oR4QVKD/Fo3nh+leLL6QOtyPiMGyjN2k3KH8xX02QMXH4496eTBVk77XOEw6P9cfg7zf/nM9yyGDhWopbA4yTKUMTZBMdgmdqOZCs0q/Su5wPEHW31Pd1RhqaWzP0luHqHsV+LNmr9DUPvn4SplaWSCWoJ6VuWv1VZswLe4NQeb4VemurUIylXpcQWkNF2M70E8DzJPHarU6SBLpD4suNHx19eG6P0EkFSq17i9nbklJM9aBIK2i+VM0Kc6ARUxh0W48LiJ6B/RJc2PHPyn+7rIaMXj/2SngpOdC6rnBa02mFU9tJZX/LB7irHNMSd2f1t2Ok0y0d2vU2w==;LdzqW8DvevSS4jFzpwhpXA=="

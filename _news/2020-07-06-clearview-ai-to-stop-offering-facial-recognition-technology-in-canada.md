@@ -66,6 +66,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Shady Face Recognition Firm Clearview AI Says It's Left Canada Amid Two Federal Investigations"
+    excerpt: "Dystopian, U.S.-based face recognition firm Clearview AI has suspended its contract with the Royal Mounted Canadian Police (RMCP), effectively locking its business out of Canada entirely, Bloomberg reported on Monday."
+    publishedDateTime: 2020-07-07T07:30:00Z
+    webUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344"
+    ampWebUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 92
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
     excerpt: "TORONTO — Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy ..."
     publishedDateTime: 2020-07-06T20:49:00Z
@@ -122,22 +138,6 @@ related:
       - url: "https://i.cbc.ca/1.5639386.1594063251!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/clearview-ai.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "Shady Face Recognition Firm Clearview AI Says It’s Left Canada Amid Two Federal Investigations"
-    excerpt: "Dystopian, U.S.-based face recognition firm Clearview AI has suspended its contract with the Royal Mounted Canadian Police (RMCP), effectively locking its business out of Canada entirely, Bloomberg reported on Monday."
-    publishedDateTime: 2020-07-07T02:30:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 62
-    images:
-      - url: "https://www.pedestrian.tv/content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
         isCached: true
   - title: "Clearview AI's exit from Canada builds on a pivotal moment for facial-recognition technology"
     excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Facial-recognition startup Clearview AI informed Canadian privacy protection authorities that it would no longer operate in Canada ..."
@@ -473,6 +473,20 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 29
+  - title: "Argus® Offers 3-Month Free Trial on Polyp Detection and Sizing Artificial Intelligence Gastroenterology Technology"
+    excerpt: "Argus®, the only AI decision support technology that assists clinicians in the detection and sizing of polyps during colonoscopy procedures, has announced a 3-month free trial of their solution. This free trial offers a unique chance to compare detection rates and sizing with and without the"
+    publishedDateTime: 2020-07-09T07:15:00Z
+    webUrl: "https://www.pr.com/press-release/816384"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 15
+    images:
+      - url: "https://img.pr.com/release/2007/100128/pressrelease_original_100128_1594134685.png"
+        width: 2321
+        height: 798
+        isCached: true
 
 secured: "GDpi/MGS6vfyqlWE6DMlEQzu8bzs8bVcxCAY3vh3zur1850/ct3zp7R9b6vBTDLWivjgD1VbvgwlSKpHt2lJFd4RJaL+RDucxLLE+zsHkLfNwGly08V12N+Or2yIT96DB2xMhyewHSIFUEpqLDfKwmHgHOWWryLOkdSf7akqamPNsktIJkziXEtC/n9bfm6JSS2C/9P93HQ1dJP0Xc1dttTzqCfOGA5EwtRDAOgZE/Ufh2j90fGK5fMTMxqjRArwhxSNFGas/7RsOj8HysG028LvcB3iuu2D1X07SpUArZaT5BGNW2Qxosek+D4kRY35B3smWmZ3auk0fMJ48oyZ/TGs85e3d/3lis4huyFN4RVs5JvmqA8EYdByddOQlOGybahdYc6Amt3rQtTZJ8on8uw5ss9mwVXhzxfQG/27ZmaIGa6KYITpfz8zUuLIV1f1+MK4e5HkfOdS45qLDwN/J3FUsva5F1sE7uVLJJx+wRefyOxTv6csF7e35/RMwgjaGj+KJuPyg9Wk5LqlXhPZgA==;jIHF+R+ezltWbdO3NxOKBg=="
 ---

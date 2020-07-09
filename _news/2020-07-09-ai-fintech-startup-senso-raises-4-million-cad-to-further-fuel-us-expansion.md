@@ -5,8 +5,8 @@ excerpt: "Senso’s AI-powered platform is cloud-based and anonymously analyzes 
 publishedDateTime: 2020-07-09T04:02:00Z
 webUrl: "https://betakit.com/ai-fintech-startup-senso-raises-4-million-cad-to-further-fuel-us-expansion/"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://cdn.betakit.com/wp-content/uploads/2020/07/Senso-AI.jpg"
@@ -22,6 +23,6 @@ images:
     height: 640
     isCached: true
 
-secured: "ciL48rxbpaq3As/owYSu4A/aWYw6VhQRyjlpwin20WNevHkXU1IxGnDvgG+803wUwFmI9f44JFh1c1GVAFwKHDJ0yd+Y2AnHjTlydabHHGNZPUWrZ9v1Zn6fJ2OQcsBvRjQArt3X+nOhUwOVrF1S5jSxuwYT7WVCjAvT87O+bvvPfutwg6SeBP/Mb0PpEtt0C9gHq3rsSWjVnq7FPPXZnn75UgT1Dehi/tt4/oBHDezfuKUizdVqSyWIJbsjac8anSFWMIj+GNXEcBBjYjx8u5FU6qeaUVqSF+2IfM/+KJYlH3R+oXZWpdQ3Z+L5NlXFMu7kosCFFb5ZalKE+b10GQ==;KLtT1DegWIkXsiQpSaitqg=="
+secured: "+Wgfasq0W95tddiQdJobOPeSjuVsTpaP7Babx5PM59aPwwsZPPk4Zh0OTH0DNE+OrS1kSAT/bE1WZuJqD1Ml/jRKZD3pw22Za1oYO9tyvhz6nmL4bT3SNXmByieJud7QtShrpDCy3swQkP/77GkROhSSwH8FXgXaqvuQslxw/BQzJDnUQKfI5qkpaH7o9z9LYLm8RX1V20+As4qcAAF9M6AuWFYlmr6WuTN5UM9hpQAo54iuBOpy3BIV++x0RTE+ERj+iHaDCA39PMwkf2D0kF+4rL3hYKV4nhJgua9BpnJdWj5Lxp0F4inaKxBCDVIqAat8K3Zytl40ZMLfBwfk9UMLbTRE6IL2glZSgrNnQlyrVRlPt0HNKBJJrfFA0v0Ch2QEin2TEaIBl3lulJ5H+rLeyvj3OZROQqsjEh5FQZqxHBDr/X5orATkWQ1ECdeEPRGapa9l2vSgsfU2y/rLQ5cob81q0pVBxPmwZiLrph/NFCwRw1EpRE3881sVMI5id83OJUOHoHL7wM/NWHOHVA==;HUQkg+4DPhd+cmyMZVXoDg=="
 ---
 

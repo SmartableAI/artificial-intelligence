@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Solutions Market Current Growth Status, Covid 19 Impact Assessment and Major Key Players Forecast 2029"
+    excerpt: "MarketResearch.Biz published a new industry research report “Artificial Intelligence Solutions Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market."
+    publishedDateTime: 2020-07-09T07:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029-2020-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Pi5oKcOsqU+kARcYyW0IxEi3gXOr5Nq1Ipcev7HzfZxCgGXUSHwgXYfqfJuM7lxB65KWjCvclUgMv6uFigXkb06r8p9hld5jZk8smmYZFXBpC4xlATGYNarT3hd0xSEnHNSQrpeIkWPOTLr7dVr7+jJ3AA/Ue9Bks7REGl9Se6A2M/Iwum2EL9JwH35wK2nbltRcdf+7cIdw2X37e1aMvW+OGJtHvXKdv4DqH0L33j6PxsFqzf4LhnlITkDpCOfuqTzXv4cYSPK7Ahqqb7FxbxowEqOwvWvt6530W74wF+yAzfhJq89dGX+NiIB3xpZZDYE/KwWads00IitFZhUIoFkEdSv9mXB/W1o0UFl+8PBaaFsR8mynuGdVFTNacRYbPGv1z4QKeMHoqElBx+qLRRZKS5aEUCjQebINF5EFXUB52Ijco0bzzcNTYUE3EfYS4RWLMKa4cRyWlOLqgUy+yAj+3UwufujpDilTE0UDRQQmICsxvi+R1t+17l7L0LR3lfmHLnXuySti+MUClUuOjQ==;fdQD8tXGh2rNQtcHvg8QUg=="
 ---

@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Shady Face Recognition Firm Clearview AI Says It’s Left Canada Amid Two Federal Investigations"
+title: "Shady Face Recognition Firm Clearview AI Says It's Left Canada Amid Two Federal Investigations"
 excerpt: "Dystopian, U.S.-based face recognition firm Clearview AI has suspended its contract with the Royal Mounted Canadian Police (RMCP), effectively locking its business out of Canada entirely, Bloomberg reported on Monday."
-publishedDateTime: 2020-07-07T02:30:00Z
-webUrl: "https://www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/"
-ampWebUrl: "https://www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/amp/"
-cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/shady-face-recognition-firm-clearview-ai-says-its-left-canada-amid-two-federal-investigations/amp/"
+publishedDateTime: 2020-07-07T07:30:00Z
+webUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344"
+ampWebUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
 type: article
-quality: 62
+quality: 92
 heat: -1
 published: false
 
 provider:
-  name: Gizmodo Australia
-  domain: gizmodo.com.au
+  name: Gizmodo
+  domain: gizmodo.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.pedestrian.tv/content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg"
+    width: 800
+    height: 450
     isCached: true
-    title: "Shady Face Recognition Firm Clearview AI Says It’s Left Canada Amid Two Federal Investigations"
 
 related:
   - title: "Clearview AI ceases offering its facial recognition technology in Canada"
@@ -473,7 +476,21 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 29
+  - title: "Argus® Offers 3-Month Free Trial on Polyp Detection and Sizing Artificial Intelligence Gastroenterology Technology"
+    excerpt: "Argus®, the only AI decision support technology that assists clinicians in the detection and sizing of polyps during colonoscopy procedures, has announced a 3-month free trial of their solution. This free trial offers a unique chance to compare detection rates and sizing with and without the"
+    publishedDateTime: 2020-07-09T07:15:00Z
+    webUrl: "https://www.pr.com/press-release/816384"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 15
+    images:
+      - url: "https://img.pr.com/release/2007/100128/pressrelease_original_100128_1594134685.png"
+        width: 2321
+        height: 798
+        isCached: true
 
-secured: "NbIltrcX8f2510Y1+pNFwpieGPdN56gEsug/G79SjgQhbujigRtZAh+xaDR3dIgmSdyrNCzG7PA2ays10YIGGxP4S6UsIeaKH5N9cGWmTgGfvVYGlmblJWnHnOmFwijOyGsuwMNlFy5KLn0xJC498tgR1wdY9GrJ3KPpOtfsKWUok/UsVSqulnYqvHj2fbacU1xPH7IxrRR0Rxpxh+HyKCK/mNEz6sQo/PxjZBAdVMl2DUjpc7AxO8AwCZThPUZkBIPkcWzDnySe8vmQaKEFHz4fIJ+PliX9GDBUSepaAXValXESZ2XcXae21oARygaWqA8ljfrBwjCMYCaUR97TC5UHquJKz4c5/ChzWdjNvihd9/RsxpSbZhikCxvmOsBTcwKxJfacyNHCpM6g5Oyql17JES3dZ/vm5icRyb24TMN7D53yfmI9KgQSxqghswBHT7v9O7K6nnC0ZabNP4eZeAA1ex035s57PeYYDeiphERCMlEmPMskoXpADcc6hW2cm0M7jYgKxOs1mFl7bF6/mw==;3uxHuPbCwhBvNRkUiIhyXA=="
+secured: "DcBCx9PPvhy3PRq40dkxbTBOFpPudNFEpGRfB+kVGFVEJ73RAsvVYxvzc0y5r24tnXqH2IR7WGXIUIR2QwhivJAVOyZw3NU2HGnvZCy8sYXngwsb3lQazTVpgO/GVHjZbdziWB8M7mxBH2vdDdzrjoePcPbH4cVlZyzeY72pWFK95kNX7AGKLP3pNlcHPKtGHMimfjMgbwLMNStYCuBfNQoYyIV6x3brDkSMtxCSpIDniVFuEYrjz/KdwDHujnbUyK0PPcMMAyyCuGi38mGmIWeaUJ2yOfrT8FIOsY7iRrB1V6/g9fEnKDEtS7HuquRMcTad9jYXzdD7ZotNYkyrOg==;YrYneLoh1V9dDbDqNwmLtw=="
 ---
 

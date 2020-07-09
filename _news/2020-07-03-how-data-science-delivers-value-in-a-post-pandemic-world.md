@@ -16,6 +16,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://img.helpnetsecurity.com/wp-content/uploads/2017/08/09103458/icosahedral.jpg"

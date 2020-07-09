@@ -22,6 +22,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all"

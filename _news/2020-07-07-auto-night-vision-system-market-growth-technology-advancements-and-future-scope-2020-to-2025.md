@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Huge Expansion for Global AI in Healthcare Market Expecting to Grow at 54.5% CAGR to Achieve Remarkable Revenue by 2025"
+    excerpt: "Selbyville, Delaware, Global AI in Healthcare Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis. Global AI in Healthcare Market also covers top key players analysis and market segmentation in detail."
+    publishedDateTime: 2020-07-09T06:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/huge-expansion-for-global-ai-in-healthcare-market-expecting-to-grow-at-545-cagr-to-achieve-remarkable-revenue-by-2025-2020-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "e8R5ow+NPEgVGyqovL58k+Cv7Ht4cax5skLDtVfp5dvk+rm54R5JeYEzg3M59V5ZXp5WrFFJi7fsLS9pSv22Q+zAG0FAjE9XCAxEcskl2DBdyPfTOu+lHXG2fUSpv2X7+SBEb6IuhZMntiMc5uA5HE7r9yubBvXrtuM4/OIBpA68MYhjnImloH+OLvf8Y7/nZ7E8NgVGcLVq3hc8ilxhN/UfWX/JY0lOJb/EHf6vblUqg11Gpft7un5WwRIRK/KgcsU5bkr8suPmfSr0/0hC3rcD/Dm8gyFcT/6qw/J0JdKExGtPIcAwpw94/YahVsLkMsyb23XBBO1eotXqLGJIFQ==;ZPMHFHaSlQKkO5LMKHh7DQ=="
 ---

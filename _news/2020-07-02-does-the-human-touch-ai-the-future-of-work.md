@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AWS AI
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/robot_human_shutterstock_IR-Stone.jpg"

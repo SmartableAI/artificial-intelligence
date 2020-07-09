@@ -24,6 +24,17 @@ images:
     isCached: true
     title: "AImotive and C3S take self-driving car technology from the road to space"
 
+related:
+  - title: "Tesla 'very close' to level 5 self-driving technology"
+    excerpt: "Tesla (NASDAQ:TSLA) is \"very close\" to achieving level 5 autonomous driving technology, CEO Elon Musk said by video at the opening of the World Artificial Intelligence Conference in Shanghai.\"I remain confident that we will have the basic functionality for level 5 autonomy complete this year,"
+    publishedDateTime: 2020-07-09T07:49:00Z
+    webUrl: "https://seekingalpha.com/news/3589719-tesla-very-close-to-level-5-self-driving-technology"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
+
 secured: "an5IznqXJKzSMZZSwoBlkSu0PHVEBbG3a6+HJxew6vkNAw/DQd64FlNm3dSpMUxV7pxv588o3qdvYjI70kIjkDQvq8rXfdY5BqD1I4omEoOBW7fyHEGEkfBQDIh4+/Nsx0bOwmeEgDOQoFJqXAfbx3Rb2cIzHVgD5beORHzh5KxaytowYeT3EiwY9rvOQOBTCIVAmuMJXGHWLKsOds6jj/Y3oewDxSd881Y4olYHjTRBgWXwsZrmupGlErNLNCyE/BRY+RpKuQtYVL9yFIO6sPAxk7vZ5nlnAeU8K4y0yKT4Y+LcbJhSfMxSOdHPPhvBblO2pBwCq6Vm7uWSjqXhdurRv0Oe86DYKJnKrlxBwUfUC4x00SRhpH+PX0ip1izLbXs2995iw14k7uu5UM2dXDqh72/6MioklI7nh8biA11tHkSt+k8DsTHr/jtnej8ofG3pBlz4hkVAkSt2XylevqJn0RzgZaSeY5LXuNy5LjE9SKqfHWKUCwN1eOnCmhN9QiGloqbzj2pan3BaJovyjQ==;sO2Cr83UDAl2xUexDmtnlQ=="
 ---
 

@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Trump administration hires tech firm to build a virtual border wall, an idea Democrats have praised"
-excerpt: "The Trump administration has awarded a major border security contract to a California technology startup that will use artificial intelligence on an unprecedented scale, pairing the president's giant steel barrier with the kind of \"virtual wall\" long"
-publishedDateTime: 2020-07-02T16:38:00Z
-webUrl: "https://www.seattletimes.com/nation-world/trump-administration-hires-tech-firm-to-build-a-virtual-border-wall-an-idea-democrats-have-praised/"
-ampWebUrl: "https://www.seattletimes.com/nation-world/trump-administration-hires-tech-firm-to-build-a-virtual-border-wall-an-idea-democrats-have-praised/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/trump-administration-hires-tech-firm-to-build-a-virtual-border-wall-an-idea-democrats-have-praised/?amp=1"
+excerpt: "The company claims the artificial-intelligence software is capable ... chip technology developed by Tesla and other companies for driverless cars, Steckman said. CBP officials for years have ..."
+publishedDateTime: 2020-07-02T16:47:00Z
+webUrl: "https://www.washingtonpost.com/immigration/trump-virtual-border-wall/2020/07/02/7b380490-b0ac-11ea-a567-6172530208bd_story.html"
+ampWebUrl: "https://www.washingtonpost.com/immigration/trump-virtual-border-wall/2020/07/02/7b380490-b0ac-11ea-a567-6172530208bd_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/trump-virtual-border-wall/2020/07/02/7b380490-b0ac-11ea-a567-6172530208bd_story.html?outputType=amp"
 type: article
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "bjE3R3aOIfGzybs6bb/fE5gvt1xwYxNqi4U+Kj2ErYvWLe9K066623LFuIDj2XTJnlgdhazWN/eMuvl0MZyDuJziKRBMEy2jd97RD0xCcvAiedqWX8jo0MgYNv6fAhZfdBUGJ137jA0fDSJ1HfvmkXesLnxOzfi5i68KM0yBBFpdE6ePipbm9UvxfK4fjLgRrIm6cD//vkh2nJSVkABbbfoKckCH/tpUYh8uGec+0fIdUvPUAlOYp1sLHLzXRcGM4bcv/REs8JMfz4eD2gvhlTunlBHAOEUHl0TTXm1WtwAd04TlQHQJciJfEyIUoUXiVmjnlirRM0WI0IVIb8y08eTSvfZw2p9ZeeZtSx9fN4jhGtA1diYNUx2jEIOzAtw0dyXRIDon5vgf1fsgmut8iYpbUkLhYHN468uRpoV4QFUhHmPHycLpe+qD8EHmQPucioljLrfAXZS6mESk3uySrHxzusEfGx0VDDHGN7Mgx8BWwYorrVE3aPzhR8E3itkEHce7fG4EGfQSuVxO3W5+Ew==;dABSzn2y8Y+BC5lOedcsdQ=="
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/77IQRJV374I6VF6BNTYRN77CNQ.jpg&w=1440"
+    width: 1440
+    height: 960
+    isCached: true
+
+secured: "fQ9L7iAffOZsShDQUsIix3QG7Hon3+cNYllpkfo5id9Y95xf3PnIHiym1u/51kzWACok+iWNr1ARZyT/dT1dKCqmEvyL2n4rX1/d2J5Rn1uMR903rAFiIv/B+mNcN2q3K3l2zI3EcbFKh8tZnvAKMfIyVohqkLIezmR94pohw1jfhu6fOWNVD4WRWlOP4xXWhUcM+PowEgP7v1g1KZpaQWE/xcErQ+2IKCoYLQNA4wVCrZbiVK2R9bhUceDHRWJJtcoAnY/SlL04sicM90lt3MvyQ0y+a7xgSchU7H95MnhEfidTTve+aJqdRtpafrE4FtH3X1fnlRTnidcYWy7ExA==;vvNGPrB0cEbeCi0OSR+OZg=="
 ---
 

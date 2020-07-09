@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "dotData Launches New Platform to Meet Demand for Real-Time Prediction Capabilities"
+    excerpt: "Data, a provider of full-cycle data science automation and operationalization for the enterprise, is releasing dotData Stream, a new containerized AI/ML model that enables real-time predictive capabilities for dotData users."
+    publishedDateTime: 2020-07-07T14:26:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dotData-Launches-New-Platform-to-Meet-Demand-for-Real-Time-Prediction-Capabilities-141689.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 18
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "CIFcpKFJna+orwuc2fIn5VivXZWaj1Og8fGydeGZz1O45p55iFqm+O/YK8YSyK4tr/6YjXVNPIiSO0qLkPDuiR++TJfDeb3+OV09zjir+3kLJiQXjcbhIz40kGZoPciQvPGLzBN7fXTR+O/2AOpqcQjhKPmpTqcV5OyVe98ZHcLgukEOpwM1qHnAqs20qyDAQDRMJLH9++W1qLqk0VF9WQbXxoDjQU9xZboV51S0y90mt2RqswNrRcC3V/lHZiecylkKEWah9BPei4xJOCipWlzr7M2eq8Emm/kB5g5QRM3z+Eu3fVYmZcx1bUgB6axKkqihibwCsKAuxdfm3zAG3w==;nJXell86uszxfM+TTWx5cQ=="
 ---
