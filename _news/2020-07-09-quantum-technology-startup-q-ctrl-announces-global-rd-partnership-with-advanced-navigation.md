@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 secured: "N8qjwqtHBOMkZtYTAUJSyaowwwRH9q/rNQw4lhhCvlbbMfAEQF2s1ysSKo1+X3lwEnbMgsDcnFmoommdjh8ilH0A5s6tIUzvJTDoNnm7GvvtDmFXkovagPV9BvyBNVTaR1kF1Nw2u92OAQvhQ2OLos9LWPUoemvkiXqj6DR1jqlW1nRydwV2hrqXnjkb58hVCf462U1JmMQ2xN6nbL2YEjFcB+USa7Xkkj694GEKTbfCP7h25ohtONCNY9XbLEMk9pkisxznswrX2+o4PIyxwMC290FKpOOLpbhk58kVvuw//vSxXHvQ3PoMsDkwJ9hP3+bv/dbd96enhWXsTxtQww==;69YuwRED10JTo+5eq3z/4Q=="
 ---

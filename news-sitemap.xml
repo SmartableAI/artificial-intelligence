@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/optimizing-i-o-for-gpu-performance-tuning-of-deep-learning-training-in-amazon-sagemaker/</loc>
+    <lastmod>2020-07-09T12:11:42-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://blog.google/technology/ai/update-work-ai-responsible-innovation/</loc>
+    <lastmod>2020-07-09T11:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.iol.co.za/technology/gadgets/look-in-covid-19-world-robots-could-be-just-what-the-doctor-ordered-50679273</loc>
     <lastmod>2020-07-09T10:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -457,12 +469,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://aws.amazon.com/blogs/machine-learning/building-a-custom-angular-application-for-labeling-jobs-with-amazon-sagemaker-ground-truth/</loc>
-    <lastmod>2020-07-07T08:12:20-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://medicalxpress.com/news/2020-07-machine-artificial.html</loc>
     <lastmod>2020-07-07T08:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -542,7 +548,7 @@
   </url>
   <url>
     <loc>https://www.indiainfoline.com/article/news-sector-information-technology/digitate%25E2%2580%2599s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html</loc>
-    <lastmod>2020-07-07T04:09:00-07:00</lastmod>
+    <lastmod>2020-07-07T04:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -997,14 +1003,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition</loc>
-    <lastmod>2020-07-02T04:00:00-07:00</lastmod>
+    <loc>https://www.kcrg.com/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/</loc>
+    <lastmod>2020-07-02T04:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.kcrg.com/video/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/</loc>
-    <lastmod>2020-07-02T03:44:00-07:00</lastmod>
+    <loc>https://thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition</loc>
+    <lastmod>2020-07-02T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1543,8 +1549,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite</loc>
-    <lastmod>2020-06-30T03:00:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096</loc>
+    <lastmod>2020-06-30T03:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2329,8 +2335,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://in.reuters.com/article/us-waymo-volvo-autonomous-idINKBN23W2V0</loc>
-    <lastmod>2020-06-25T10:24:00-07:00</lastmod>
+    <loc>https://www.metro.us/volvo-cars-waymo-partner/</loc>
+    <lastmod>2020-06-25T10:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3625,12 +3631,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/fintech-industry-report-2020-2025---trends-developments-and-growth-deviations-arising-from-the/article_0b643038-52ee-5332-b52b-21c43ca826b5.html</loc>
-    <lastmod>2020-06-19T09:40:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/06/19/ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough/</loc>
     <lastmod>2020-06-19T09:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3771,6 +3771,12 @@
   <url>
     <loc>https://www.c4isrnet.com/it-networks/2020/06/18/artificial-intelligence-systems-need-checks-and-balances-throughout-development/</loc>
     <lastmod>2020-06-18T17:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/fintech-industry-report-2020-2025-trends-developments-and-growth-deviations-arising-from-the-covid-19-pandemic-1029326819</loc>
+    <lastmod>2020-06-18T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

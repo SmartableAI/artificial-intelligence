@@ -2,6 +2,38 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-06-11-deal-looking-for-an-exciting-cutting-edge-career-dive-into-artificial-intelligence.md",
+      "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
+      "excerpt": "Artificial intelligence, as it’s more commonly referred, is just starting to break out into the mainstream through applications like self driving cars and analytical software. Those who have ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-deal-looking-for-an-exciting-cutting-edge-career-dive-into-artificial-intelligence/index.json",
+      "webUrl": "https://pocketnow.com/artificial-intelligence-deal",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pocketnow.com",
+        "domain": "pocketnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-amazon-bans-police-use-of-facial-recognition-technology-for-a-year.md",
       "title": "Amazon Bans Police Use Of Facial Recognition Technology For A Year",
       "excerpt": "(RTTNews) - Amazon announced a one-year moratorium on police use of its facial recognition technology, Rekognition, to give ample time to the governments to implement stronger regulations for racial equality and justice.",
@@ -1072,47 +1104,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-phoenixville-public-library-offers-free-online-programs.md",
-      "title": "Phoenixville Public Library offers free online programs",
-      "excerpt": "Phoenixville Public Library will host a free online presentation, \"End-of-Life Care: The Conversation Project\", on Monday, June 15 at 7:00 PM. Dana Gibson, Community Liaison for Willow Tree Hospice, will be the speaker.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-phoenixville-public-library-offers-free-online-programs/index.json",
-      "webUrl": "https://www.phoenixvillenews.com/lifestyle/phoenixville-public-library-offers-free-online-programs/article_6e26aed8-ab38-11ea-a592-4f27d4439e15.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/phoenixvillenews.com/content/tncms/custom/image/eeba0d98-53a0-11e8-bdb2-2bcaaf51ad2e.jpg?resize=600%2C600",
-          "width": 600,
-          "height": 600,
-          "title": "Phoenixville Public Library offers free online programs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-10T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phoenixville News",
-        "domain": "phoenixvillenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

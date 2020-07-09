@@ -2,6 +2,38 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-06-24-ironscales-deploys-natural-language-processing-to-automatically-prevent-business-email-compromise-attacks.md",
+      "title": "IRONSCALES Deploys Natural Language Processing to Automatically Prevent Business Email Compromise Attacks",
+      "excerpt": "TEL AVIV, Israel and ATLANTA, June 24, 2020 /PRNewswire-PRWeb/ -- IRONSCALES, the pioneer of self-learning email security, today announced that it has deployed natural language processing (NLP), using advanced machine learning (ML) and neural networks ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-ironscales-deploys-natural-language-processing-to-automatically-prevent-business-email-compromise-attacks/index.json",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/n16368497/ironscales-deploys-natural-language-processing-to-automatically-prevent-business-email-compromise-",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16368497",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16368497",
+      "publishedDateTime": "2020-06-24T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-wrongfully-arrested-because-face-recognition-cant-tell-black-people-apart.md",
       "title": "Wrongfully Arrested Because Face Recognition Can’t Tell Black People Apart",
       "excerpt": "Robert was hauled off and locked up for nearly 30 hours. His crime? Face recognition software owned by Michigan State Police told the cops that Robert Williams was the watch thief they were on the hunt for. There was just one problem: Face recognition ...",
@@ -1098,56 +1130,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19.md",
-      "title": "This New App Analyzes Your Voice Quality To Diagnose Congestive Heart Failure: Can It Help With Covid-19?",
-      "excerpt": "A new app developed by an Israeli biotech startup has shown promise in evaluating voice quality to detect buildup of fluid in the lungs, an important finding associated with congestive heart failure (CHF).",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/index.json",
-      "webUrl": "https://www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F801249656%2F0x0.jpg",
-          "width": 1200,
-          "height": 795,
-          "title": "This New App Analyzes Your Voice Quality To Diagnose Congestive Heart Failure: Can It Help With Covid-19?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/amp/",
-      "publishedDateTime": "2020-06-23T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

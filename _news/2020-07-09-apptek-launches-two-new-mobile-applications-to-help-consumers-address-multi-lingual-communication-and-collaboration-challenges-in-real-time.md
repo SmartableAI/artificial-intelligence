@@ -1,27 +1,21 @@
 ---
 category: news
 title: "AppTek Launches Two New Mobile Applications to Help Consumers Address Multi-Lingual Communication and Collaboration Challenges in Real-Time"
-excerpt: "MCLEAN, Va.--(BUSINESS WIRE)--AppTek, a leader in Artificial Intelligence (AI), Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), and Natural Language Understanding (NLU) technologies, today announced two new ..."
-publishedDateTime: 2020-07-09T13:47:00Z
-webUrl: "https://www.businesswire.com/news/home/20200709005046/en/AppTek-Launches-New-Mobile-Applications-Consumers-Address"
+excerpt: "AppTek, a leader in Artificial Intelligence (AI), Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), and Natural Language Understanding (NLU) technologies, today announced two new speech technology applications designed for consumers — AppTek Speech Translate™ and AppTek Speech Transcribe™ —are now available through the Apple App Store,"
+publishedDateTime: 2020-07-09T19:21:00Z
+webUrl: "https://forimmediaterelease.net/tag/apptek-speech-translate/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: forimmediaterelease.net
+  domain: forimmediaterelease.net
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://mms.businesswire.com/media/20200709005046/en/702088/23/AppTek_logo.jpg"
-    width: 1200
-    height: 627
-    isCached: true
 
 related:
   - title: "ORAI Robotics' AI-powered Solution for Sales Amplification: Conversational Marketing to Succeed in Current Challenging Times"
@@ -39,6 +33,6 @@ related:
         height: 315
         isCached: true
 
-secured: "xRhi/7O1gFhcBNWmlxbGibufhcHVANsELpGydUybSStV3bABofX06jTnsYQVn0Ja4Vwan8/HrBvCH8rQA/UwP/dv6j2SOPphW6hvYg9TB78qV5Fn44YbgnduWckvtAKTw7Tw2q8tTziO85yY8oSluI4zy11hASbVDaqIyMBr3loDTLmQof7wrfTSYC2vD2E6CAINptNyhDkwjKnNpVLCAT7E4HCf30hVXk7RPGl++Yy76lgVjLi7kPsEwzyRD+ge3Bjd1tf73TMTOV0qWnSXatsKwurWOmO1ddKaLd20cDKFxPEPNDNSA6W/kyzmnNeMq7EerytF9Uftou/R9I1SPA==;XzT62swDjO30LtEEgOZ+2w=="
+secured: "lMrt+ScAWstL1gIkXxA0rcEXE+weBQEp/58PYJHcm6S90psgCLVgoo1jtRCPzcoHGaOYu8bTfoOw89qfshQYIMYuvloYunjNfM00QRxxl4rpZs5lURz1SYPQsG8QKuuMryfDg3ZHRs1cP0gfazx0tyA3960CWasG3mbYzwXgHsT9jZzYIYo59GY27EKbZiaBLJOJUjQjILQU5rd+Q6PHYwDFwwpNr1I0KDPGapatr71DvKLVJBGHhCE0R8SpO61lxwSvuZ3QYwH8pag2M3jLftXjKqHxURjtOMqKR4sSntZKpwueJkqZ6L+3NxM4UAtepqV8XjVX+Nm+Z9eHw8za8A==;1FlxKszHL0VLhOZiGt3VDA=="
 ---
 

@@ -1,11 +1,11 @@
 ---
 category: news
 title: "The UK and Australia are investigating Clearview AI, the facial recognition firm that scraped billions of photos from social media"
-excerpt: "The UK's Information Commissioner's Office (ICO) and the Office of the Australian Information Commissioner (OAIC) announced a joint investigation."
-publishedDateTime: 2020-07-09T10:19:00Z
-webUrl: "https://www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7"
-ampWebUrl: "https://www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7?amp"
+excerpt: "Clearview AI describes itself as a \"search engine for ... shutting down its business in Canada due to the investigation. The ethics of facial recognition are under particular scrutiny at the ..."
+publishedDateTime: 2020-07-09T09:56:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7-1029379541"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7-1029379541"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7-1029379541"
 type: article
 quality: 59
 heat: -1
@@ -20,13 +20,13 @@ provider:
       height: 50
 
 topics:
-  - Facebook AI
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://i.insider.com/5f06e390f34d05208c1d9d15?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://images.markets.businessinsider.com/image/5f06d5814dca68021f4ecea4-2000/facial-recognition-protest.jpeg"
+    width: 1024
+    height: 768
     isCached: true
 
 related:
@@ -290,6 +290,38 @@ related:
         width: 457
         height: 305
         isCached: true
+  - title: "UK, Australia investigate Clearview facial recognition firm"
+    excerpt: "Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data \"scraped\" off social media platforms and other websites."
+    publishedDateTime: 2020-07-09T19:08:00Z
+    webUrl: "https://www.sfgate.com/news/article/UK-Australia-investigate-Clearview-facial-15396715.php"
+    ampWebUrl: "https://www.sfgate.com/news/amp/UK-Australia-investigate-Clearview-facial-15396715.php"
+    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/UK-Australia-investigate-Clearview-facial-15396715.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 59
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "UK, Australia launch joint investigation of facial recognition firm"
+    excerpt: "Regulators in the United Kingdom and Australia announced a joint investigation Thursday of Clearview AI, a controversial facial recognition company that has scraped billions of photos from the internet."
+    publishedDateTime: 2020-07-09T19:06:00Z
+    webUrl: "https://thehill.com/policy/technology/506605-uk-australia-launch-joint-investigation-of-facial-recognition-firm"
+    ampWebUrl: "https://thehill.com/policy/technology/506605-uk-australia-launch-joint-investigation-of-facial-recognition-firm?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/506605-uk-australia-launch-joint-investigation-of-facial-recognition-firm?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_facialrecognition_122019_getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Black lawmakers call for ban on police use of facial recognition technology"
     excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
     publishedDateTime: 2020-07-08T16:14:00Z
@@ -540,20 +572,6 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 39
-  - title: "UK, Australia investigate Clearview facial recognition firm"
-    excerpt: "LONDON — Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data \"scraped\" off social media platforms and other websites. Thursday's announcement by the U.K ..."
-    publishedDateTime: 2020-07-09T15:07:00Z
-    webUrl: "https://www.startribune.com/uk-australia-investigate-clearview-facial-recognition-firm/571690222/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 39
-    images:
-      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1592509692"
-        width: 1680
-        height: 876
-        isCached: true
   - title: "Trulioo EmbedID adds document verification and facial recognition features"
     excerpt: "New facial recognition and document verification technology will enable small and medium-sized businesses (SMBs) to provide the same level of online protection to their customers as multinational organizations. As part of a holistic approach to identity ..."
     publishedDateTime: 2020-07-09T13:43:00Z
@@ -623,6 +641,6 @@ related:
       domain: scoop.co.nz
     quality: 29
 
-secured: "iWVQ+3Db9DJd/WEoUgR/cDz1kU9I1TBePdFbB3Vt7E9Dw75BcF8HNgwnCDgev+fZ9WezFcXGr7OvSdePSEqHJkzT+pSiB6vcpqBwIlukW6HoGXIDyCIGEM6YsDCENs9ziVnSs83C2sMkQPSx/ErmsCq2mwSpWIJd/97zb62V7k3A95H9b7s4J9xQD94W4lldwXJnrD8HU9wMDV+iNBUr5flKdmG4fh2lYh5UtJCkBxnmMysuOWqjOvc0n1iLjAf67cRjJxj36VgqXaGyNyhjSu/wLJ/ogHJTvudyYUWVeZ0lPBAN72slgwtHqFjpqDALFw3qYIuJJY3BQ1LJ5l3D/w==;mp0MBVrCwtpoca4TgiuY0A=="
+secured: "VsVpl5Rtk3Eq+eQv9mG91DrpHKOvIRe8sKM+YsM9ypd+Sdjxw6upcg6VAyGd+VFsudX0vbCv9Li34asl2950EF/uaab3bU59ENBVlW6Eb9T19voSoG/9cJY9tKBXw5lBk5JRzV5K/OJx67ktvE6A9FRe9YR5uTcfKv3+bNXdybuhoisBkpUomwP6vMpLGrCMYH98KejDGecpMTxeraRqbLJtIxSp1po4IQwoPHwz1TlyhSEiQJLVYQ6gD8SNw6fQYGsVYal2E29c03zCf3rBssD+qb0oO9B8yG3uTpK4TL8PLXtCBoGiZqwX7XD3lGNE+Zj+rZWIEOfcWmuB2PoJMQ==;dVS2tpPJiFPPj3agnNw1MQ=="
 ---
 

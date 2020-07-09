@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-53349313"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53349313"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -141,6 +141,22 @@ related:
       - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/07/self-driving-teslas-.jpg&quality=70&width=808"
         width: 808
         height: 424
+        isCached: true
+  - title: "Elon Musk says Tesla ‘very close to self-driving cars"
+    excerpt: "Tesla is “very close” to bringing its self-driving car tech to the next level, chief executive Elon Musk said Thursday.  In remarks made via video message at the opening of Shanghai’s annual World Artificial Intelligence Conference,"
+    publishedDateTime: 2020-07-09T18:48:00Z
+    webUrl: "https://www.foxbusiness.com/technology/elon-musk-says-tesla-very-close-to-self-driving-cars"
+    ampWebUrl: "https://www.foxbusiness.com/technology/elon-musk-says-tesla-very-close-to-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/elon-musk-says-tesla-very-close-to-self-driving-cars.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202007/1043/854081161001_6169604254001_6169605117001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Tesla ‘very close’ to next step in self-driving, Elon Musk says"
     excerpt: "Tesla is “very close” to bringing its self-driving car tech to the next level, chief executive Elon Musk said Thursday. In remarks made via video message at the opening of"

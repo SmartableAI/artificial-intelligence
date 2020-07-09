@@ -139,6 +139,22 @@ related:
         width: 808
         height: 424
         isCached: true
+  - title: "Elon Musk says Tesla ‘very close to self-driving cars"
+    excerpt: "Tesla is “very close” to bringing its self-driving car tech to the next level, chief executive Elon Musk said Thursday.  In remarks made via video message at the opening of Shanghai’s annual World Artificial Intelligence Conference,"
+    publishedDateTime: 2020-07-09T18:48:00Z
+    webUrl: "https://www.foxbusiness.com/technology/elon-musk-says-tesla-very-close-to-self-driving-cars"
+    ampWebUrl: "https://www.foxbusiness.com/technology/elon-musk-says-tesla-very-close-to-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/elon-musk-says-tesla-very-close-to-self-driving-cars.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202007/1043/854081161001_6169604254001_6169605117001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla ‘very close’ to next step in self-driving, Elon Musk says"
     excerpt: "Tesla is “very close” to bringing its self-driving car tech to the next level, chief executive Elon Musk said Thursday. In remarks made via video message at the opening of"
     publishedDateTime: 2020-07-09T16:47:00Z
@@ -176,6 +192,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "CRTIrqrLgM9qGYfV+JxCiLBIWgKnX7u7IrRqU6TEcjRqy/fDlPPDOBubnFQTk+TPa+KREcnUEGQKrdiZ/K48ubucVaqZr9n6ueyX34+Gtnh+QLdquoR5RcagD7K0uNqbXtylk8JhKVmfYRXCpOBTlUZ+T3hxsBwIeTHjOLlxJk6+N0my3f1UBdB/wI04+fzHJE4B1Qi3RlAcU6le9Q+ujfgqfWgqmfe4gAVkN/PgC+nogw0j4QVOHAb0ttU+KPCeT63DCw+VlifvUgCb2rGqETwHOySvIkYRLfN9FMOUgYuPdafdX49bAD7H0aTwgoMbteFDszd2EWAXHCVhyxDMJg==;VO1PdJe1znuxV5USRMWcig=="
+secured: "uqIhBvf9m6V9rWmwbJytefGDp/oE89ZfKq/7ZMBetNxn4RVCLKg39wOB006xqNQQg8Vbgl0LAlYTWVBToY/96QOuewan7NWN61qVxJM3yPAn0G4v3kMf80tTReduTN9L3Q0B/m0h6t/DiOLRaNtYFp3XKdRlwNKefSjLOWFjCY+qkOwJROouPAyxecAUQc0ScJFzzSSCxL1BPNOa9TJRAQRRprVmolufISTB5OK66tOGjqqjINwq/cQCK3MAwT9CxZpPdDB7I7ZsDue1l7uU2MpegWm2mAwGFw77spyV/C9iInDMtssjYlj1AkNUNcVZla9dCtRDA/APip1xfd7pYaOeEeSZ3NfSv8nwUa31rslgKPXO9YajfYo7n0i0zEQYmw1ITJFlSeRyl9uUdrAOiRQ6cQZ3Ksnj5+h2Vlt5oPa4fu2EM/iVKA7N5sywtn5lE8ZJv2hAKH6F9FdyujGtgSb3h3rLXWoCI/M/uOT7laFRw9SBi398XvdkEYaO/az6O3FK0sW2dfdjtaTOarnM1Q==;AlILKUZm2Mugt9AyrCQZ/g=="
 ---
 

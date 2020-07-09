@@ -2,6 +2,47 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-07-01-lyfts-driverless-cars-are-back-on-the-streets-of-california.md",
+      "title": "Lyft’s driverless cars are back on the streets of California",
+      "excerpt": "Lyft’s driverless cars are back on the streets of California. The ridesharing company suspended testing of its autonomous vehicles earlier this year in response to shelter-in-place orders ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-01-lyfts-driverless-cars-are-back-on-the-streets-of-california/index.json",
+      "webUrl": "https://www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/?amp",
+      "publishedDateTime": "2020-06-30T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-kaggle-where-data-scientists-learn-and-compete.md",
       "title": "Kaggle: Where data scientists learn and compete",
       "excerpt": "Data science is typically more of an art than a science, despite the name. You start with dirty data and an old statistical predictive model and try to do better with machine learning. Nobody ...",
@@ -1363,56 +1404,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-boris-johnson-economy-speech-fact-checked.md",
-      "title": "Boris Johnson: Economy speech fact-checked",
-      "excerpt": "Boris Johnson compared his plan with former US President Franklin Delano Roosevelt's New Deal. Reality Check has taken a closer look at some of the announcements: Boris Johnson said: \"It sounds like a New",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-boris-johnson-economy-speech-fact-checked/index.json",
-      "webUrl": "https://www.bbc.com/news/53236921",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/85D0/production/_113165243_0c060e20-65f6-43bc-baf1-ece77fcc1a24.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Boris Johnson: Economy speech fact-checked",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/53236921",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/53236921",
-      "publishedDateTime": "2020-06-30T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

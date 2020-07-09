@@ -3,7 +3,7 @@ category: news
 title: "iPadOS 14 hands-on preview: The biggest upgrades coming to your iPad"
 excerpt: "PadOS 14 has been in my hands for a couple of weeks now, and it's time for me to share my hands-on impressions of the beta version of Apple's next major iPad release. iPadOS 14 doesn't feel like the hugest update,"
 publishedDateTime: 2020-07-09T16:41:00Z
-webUrl: "https://www.tomsguide.com/reviews/ipados-14-hands-on-preview-the-biggest-upgrades-coming-to-your-ipad"
+webUrl: "https://www.tomsguide.com/uk/reviews/ipados-14-hands-on-preview-the-biggest-upgrades-coming-to-your-ipad"
 type: article
 quality: 24
 heat: 24
@@ -23,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "du9OZYlzuCdTdfuH7w+oAF42CQgMQc+MHBP7xtCxR95HR6mWkOe6deFBBOaI5Pla/PJ336MSkvcSkeLsNA8M7DKkhiku+PDQ7sAg/GRcSZqh3YwVtUCV6OSXyLKwYojKA8VejVNZ6Ctu1BDvAImfK8V9cRKZ5DscYHrnXjZN2EAbOxhR8tTubQzLzlESQ56B4OdUviWH4okZKn7Ye2ooYHUIJcTzoCVskARCsOJudBAg4GFCof2sSV127sXbiO8vdbWmnsN+ogYjbKYgUeeZdtOmO64LXjl5Ni1plWsY+eptJMi/XDXWDGpuhUEXVbSNK5eEZTanwv9ipi6l8RnC8g==;JzbQ29pPR5KXdmmOtieEZw=="
+secured: "+Xoe1gbbuxzrraz01e5O6gA/YpM4LZyG0tE21PNQk0jmFMT7X/yqkp94FO9MNg97DceoiXa80yH1cFqs+xr3gSVOutm+cDUjch9gW89ds/T83AKjGIdwOA6ho67eb1TuvUQUtwhHj7wH1Z5JfsImSbLT52HpBe/OmgrIKaHeVaXlUQyuuLxj4oB88SIabvQP5BksZqdcTKJdlBFWSw+NVbjNnYtSZgazP/Q3xf5fJpfIsKKPYS9wewYVylx8KIUiNCH6KQ1+r0wYOO07JtvgaewLWpr7F5xJj4UCaZql8TAMFa+KJV9SeoqEUf8eigJiLRDsQiu+f8QkKk4vjeQPSg==;2IP7hxoWyF0de+fvSMKS8A=="
 ---
 

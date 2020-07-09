@@ -1,26 +1,28 @@
 ---
 category: news
 title: "UK, Australia investigate Clearview facial recognition firm"
-excerpt: "LONDON — Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data \"scraped\" off social media platforms and other websites. Thursday's announcement by the U.K ..."
-publishedDateTime: 2020-07-09T15:07:00Z
-webUrl: "https://www.startribune.com/uk-australia-investigate-clearview-facial-recognition-firm/571690222/"
+excerpt: "Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data \"scraped\" off social media platforms and other websites."
+publishedDateTime: 2020-07-09T19:08:00Z
+webUrl: "https://www.sfgate.com/news/article/UK-Australia-investigate-Clearview-facial-15396715.php"
+ampWebUrl: "https://www.sfgate.com/news/amp/UK-Australia-investigate-Clearview-facial-15396715.php"
+cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/UK-Australia-investigate-Clearview-facial-15396715.php"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1592509692"
-    width: 1680
-    height: 876
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     isCached: true
 
 related:
@@ -285,20 +287,36 @@ related:
         height: 305
         isCached: true
   - title: "The UK and Australia are investigating Clearview AI, the facial recognition firm that scraped billions of photos from social media"
-    excerpt: "The UK's Information Commissioner's Office (ICO) and the Office of the Australian Information Commissioner (OAIC) announced a joint investigation."
-    publishedDateTime: 2020-07-09T10:19:00Z
-    webUrl: "https://www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7?amp"
+    excerpt: "Clearview AI describes itself as a \"search engine for ... shutting down its business in Canada due to the investigation. The ethics of facial recognition are under particular scrutiny at the ..."
+    publishedDateTime: 2020-07-09T09:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7-1029379541"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7-1029379541"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7-1029379541"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
     images:
-      - url: "https://i.insider.com/5f06e390f34d05208c1d9d15?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://images.markets.businessinsider.com/image/5f06d5814dca68021f4ecea4-2000/facial-recognition-protest.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "UK, Australia launch joint investigation of facial recognition firm"
+    excerpt: "Regulators in the United Kingdom and Australia announced a joint investigation Thursday of Clearview AI, a controversial facial recognition company that has scraped billions of photos from the internet."
+    publishedDateTime: 2020-07-09T19:06:00Z
+    webUrl: "https://thehill.com/policy/technology/506605-uk-australia-launch-joint-investigation-of-facial-recognition-firm"
+    ampWebUrl: "https://thehill.com/policy/technology/506605-uk-australia-launch-joint-investigation-of-facial-recognition-firm?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/506605-uk-australia-launch-joint-investigation-of-facial-recognition-firm?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_facialrecognition_122019_getty.jpg"
+        width: 1440
+        height: 880
         isCached: true
   - title: "Black lawmakers call for ban on police use of facial recognition technology"
     excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
@@ -619,6 +637,6 @@ related:
       domain: scoop.co.nz
     quality: 29
 
-secured: "eAbtIi1mJyDCAryDUTJ0TbKZYu2L0isUANrrD+MVf+MMetphW9M2CuqbhiHEZ9GDicJdAcJ5jLxUMpAXb6OOH8lZQTYJL20Uro1c+J2d3hjUSK0ygZubBqzUUb22XEDd0dDmgQ6TZGj2msqxYbBBQl1CyoP51zSVF6lgklncOkXWfRN56WIZR3UxhUddOOYwEVa5hA2Tu7q0VJSOgy1wqerAar0nariziJ9O4MJJI2B3NeZKxYxPf9uysVGps7NqH6IoF2agOxG3IDjTjZnwNxhHzmHjLCdso0yBfj0+A1CU6PV5H9vUoLWpSWNPOz1nr3Qcor3goQZfz933tWPvLQ==;VAMH8W1eNu3/tBgFBUS0Xw=="
+secured: "pucRp5fdKXuRg+Oa6Fw02SHpDjThwq/8Pq2I2yTTeUbVYwe5ccT4MY9gDTSIApS22/eJ5EpcdDtkv2pWoq/8Hn24imZrKE5RIp+d3//lcyYyV7lIbq0xRrMxYqBfts7OLyGdYvI42uTR61C3ivwUUJMcIhUIQ7ERiE/2EPBJoxuhqGAefLGdoq80MONLIaW9U7WLdNq4e+/xATIyRDjQSN26Q8+/F5FAD1dHJ7f5TxLWGoV3z+Qv7X+vSaR9BLmTM3bEy5IL2Im2FHN9YYOfCahcYJZ82wVwOG8YmhQpNjmfPg0hKFbcw8weitWdDt+Q+aWG1HUaOOsH9QtjUW5+CQ==;SBzl50PQmXIGfa9api3YQQ=="
 ---
 
