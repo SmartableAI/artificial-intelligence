@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "NFL’s ‘Lift Every Voice and Sing’ plan will profane ‘Black national anthem’"
 
-secured: "7t958fvXjPx7dAQAoiTK/W2qWRDQehxnsvZCr3/VJb2MRn1VO0cEMEpaCevMgZEVxgj6ryAmp1bVUDzB6Fdxd8P42To/kUp5d1uLItoEj6eulGW1HFW1WnxcA0FD24st5X85tOcJXJoeNvAy/dc6lesYZL5vo7hTuGvBTx+r3eXQgRMMLvFjyqYLQbCpK1dCUPCVWfhrmhdRK6gUIA+ZzY56JZLKe+troReXF6nVN1vadKU+UpS2PSgT2aGM5dRxKy4DIWmfznSCigG7eSXdu8pdFphx2p7Xlh/3Rhhey3MrGkOLlzF9OJtL5GwwVZ/I7YTVOoUQD6DuTdnKVKM+UA==;KgO3gOyY8nZK9Q+do1EnVQ=="
+secured: "qZUMPKj8oyCmkXictHRe6HPxzby0Ac1/oqIw610FVYElumjh7ULZ6SHEccpu9B0WVFQsPxKmhDhYa2HJ9W+4hAbyV+KoAr+Tcfra+C59y7gi+CrravHqhW+2cZuaC0LIU+V6kAXxAUC6z2sDOInJ+lWnhKIw9pMu9RjlzpLu+sfW64gMaGmJyX8B0Tc0WdvngaKKFZkTtmufhhdVQje/FFHqPSKNRmBhnePDURxQEcycKIgMJE+54N5nFCHHUSCaYfMVLDUYzzQZJmOnNzHLe+8aPYEUfjsMeVKXXapI/aBdN19IYS0LPtxhiC9jk6eLGspnWGFFK6LqpAda6HKci9uifN8YIQ0BTpRiepyWQzDEDI0zYDswOyPBWJvvtN9j1F7S+CcsRvO+hiwY90KM2jz9R0/Fu6HVAo15k0mF+1XT1GrqpbeTmz3l9dPd0L/PGuJin9JOhfPUxNlxP5hV7oAcr5/f1/oMehibB5KuQPi0Pv8itMbSP1EgmWJYi+wPimpfHpuZqTxhLa5deOtzOQ==;OpyKUGHqFCE5Tkzfeney8g=="
 ---
 

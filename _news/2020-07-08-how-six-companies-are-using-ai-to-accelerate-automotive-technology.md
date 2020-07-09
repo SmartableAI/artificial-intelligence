@@ -3,7 +3,7 @@ category: news
 title: "How Six Companies Are Using AI to Accelerate Automotive Technology"
 excerpt: "AI is not only used for path planning and obstacle avoidance, but incorporated in every step of development from modeling how systems will perform on the road to gathering parts for manufacturing."
 publishedDateTime: 2020-07-08T21:40:00Z
-webUrl: "https://www.embedded-computing.com/home-page/how-six-companies-are-using-ai-to-accelerate-automotive-technology"
+webUrl: "https://www.embedded-computing.com/articles/how-six-companies-are-using-ai-to-accelerate-automotive-technology"
 type: article
 quality: 39
 heat: -1
@@ -56,6 +56,6 @@ related:
         height: 336
         isCached: true
 
-secured: "TTuDsCaoLEDSukm/BngHQO5TJgoqWLC8AHjZTiF4GkOY2Yz1zm2QZKb6mbcHOZTkH36tcOi33Y13FPX+qbuQxcEbZjHvU8ZsCY1PzrY2QFTjzKsN4C5D9nVYuouMPAILukn2mIlXk05cigxHQNUAeXoR0EeHIZa1T4YdowrhNEv1PC5sRlmjdUcGfAHKwwe9rGikzKIpvTZ1ZFrJOh51gsusJtiZAe4eCm3yZL2bdDJJ2BqjXudr1bgPfslFg3YPE3rLREgyY8CLLi0S7mQ6+hs5WzRsQcHcSDsZVk7vgY+vJA1Mlv/Pkvrdq9pdVQ8nTaJ6SZvPCEQv/UDtTo/rOg==;uzq8gH2bORgmoeEKtmHBYw=="
+secured: "y8O8bEp6wBcvLZK/FQOE3VT1ABNmGX/4L1odviA+P2CUXgCkWCr7x34QO0jyK2YKhhdJM1h2J+ySZKSf7Y5aLUSCIVJRx0/hInlTsa0yxQzEyP2d2cggu8nPDJ5y6VoTt3By3PqtbpdDMdMuh119Z0VkFay/n3v9BBOmsOgVFX/e8L/lo8OoSL8W5kdaRIFD8yMsulVbL77zJpv0f7G5LDxt65wnhsC7QVRDZCw+lzqr+rSKayDSHVtSH69WcZ9+vCuN1IiWr1i7oKXyYNiWfxlHnjTxKzVjJipjoFIDRW/MfCyF2Zo90KkIweXMV6OVjnzPudUAy/at7pMQnwO9Dw==;a9P9erOtiYF5pt4mZ0WRhg=="
 ---
 

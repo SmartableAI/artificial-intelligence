@@ -70,6 +70,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft releases preview of Text Analytics for health, battle-tested in COVID-19 partnership"
+    excerpt: "Microsoft’s Azure cloud platform announced a new iteration of its Text Analytics technology for healthcare, bringing to market some of the artificial intelligence that the company"
+    publishedDateTime: 2020-07-08T23:41:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 77
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/bigstock-Smart-Medical-Technology-In-Ho-264657964-630x420.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "6S71UPGwqezq8SOS6sy3mrZ0KlqUp0YKihBOvCB/1a0OtyFZQAt23w8Na3E3yR6Q2sLQ+fuL2H44ljpagj3RA+rqqY1uhWeZADNCnhzMHQClxVI58TqMgNLSg7DwwdwfBYy6zBWzBEj/xPOgOAE48e9tr3BO8nT7chPgqj4rFAZYLBpExKklZR9Lw3UgYoQJr20/kNNOPFx3aSttST/sD3FkiIKXuNM50L9yti0/h4L7pRL96o/HKtlAbxeJvSaXlQ0tK4kQx2a8QlLrbgRXnkDWXJCA6UeHsweMKwRqP8wubOVoNkjQCDGXqXODG8818JD6qfXjBk3SbdSSjz5kYw==;9DBfWkxF/nASiphXgtsNcQ=="
 ---

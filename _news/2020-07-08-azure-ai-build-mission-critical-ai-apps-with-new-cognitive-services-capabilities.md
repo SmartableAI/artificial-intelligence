@@ -61,6 +61,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft releases preview of Text Analytics for health, battle-tested in COVID-19 partnership"
+    excerpt: "Microsoft’s Azure cloud platform announced a new iteration of its Text Analytics technology for healthcare, bringing to market some of the artificial intelligence that the company"
+    publishedDateTime: 2020-07-08T23:41:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 77
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/bigstock-Smart-Medical-Technology-In-Ho-264657964-630x420.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Access Healthcare Services Announces New Chief Investment and Transformation Officer"
     excerpt: "PRNewswire-PRWeb/ -- Dallas-based Access Healthcare Services USA LLC, specialists in healthcare revenue cycle management"
     publishedDateTime: 2020-07-07T17:39:00Z
@@ -73,6 +89,6 @@ related:
       domain: businessinsider.com
     quality: 62
 
-secured: "StaAoqS1nbsqg06Ne/EkLLUzUGp4zc0QFcjSIEckaPXh2sJGK4/MrHHg/JVUp6EHDzTCfci4P3LOZWedB1QezOOV/1nRAo08A2i0ytG4f/Dec+fDeLAexpVoil58i70XSj3C+1sf5rRwPIhjo7yxVd2vs1lH04Gm52tB9pprLTn/wBiTEfAl6yARZtTVYkRfA4ogq828Pozf/UhUlM1wwbisIwW63ibbpzRYp4oBa/D7mfJxj9R2ypFoIK6KZPs+AgMaWdA5BexR85Ct0Lzr+c0dTCj587R0GkkxOFdK8Ymi1KdMMODC65clQLgEytqCDd7tY0R1AgIBhSLrlwQ54w==;wBK5F8M4BBbhzAyOWV52zA=="
+secured: "FJjfBdTpk6cQPfxEOKWH7oAXUrz5ff/nJsSvHGm5rSuRcEkQ6JM0meCa2EyH+2xZutZQixSwTeJt6fa4dkJ2vwcQg9shws/Kei9Vs3hUrQAYAyB/1Yg/WvfTVMSso/E7v1YpUDiT554kGRHDF6B92Owrw1YHVB7oNuteeiD3eqrkEHVCP55EDGkDcZPWCAFDd0O7QPUs6BTVEKeyoHhCdGsqlknCHA0FtLXsiT+XH7KkRArZjNzSqp8FtuSb92XyF1lick7UxTrqKeHU60QahyCnyr0maES61JOhJPqaTRWU8HDK0Xj9RnlQlqO5/BftdY+UAndS7Z/2SYATFnyWfA==;jeqbiOYV6NLedIhN99HXBw=="
 ---
 

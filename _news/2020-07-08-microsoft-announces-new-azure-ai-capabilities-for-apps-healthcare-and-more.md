@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-announces-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
 type: article
 quality: 133
-heat: 163
+heat: 173
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft releases preview of Text Analytics for health, battle-tested in COVID-19 partnership"
+    excerpt: "Microsoft’s Azure cloud platform announced a new iteration of its Text Analytics technology for healthcare, bringing to market some of the artificial intelligence that the company"
+    publishedDateTime: 2020-07-08T23:41:00Z
+    webUrl: "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/"
+    ampWebUrl: "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 77
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/bigstock-Smart-Medical-Technology-In-Ho-264657964-630x420.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Access Healthcare Services Announces New Chief Investment and Transformation Officer"
     excerpt: "PRNewswire-PRWeb/ -- Dallas-based Access Healthcare Services USA LLC, specialists in healthcare revenue cycle management"
     publishedDateTime: 2020-07-07T17:39:00Z
@@ -74,6 +90,6 @@ related:
       domain: businessinsider.com
     quality: 62
 
-secured: "RpNwv3Rwbs2VYQxP5ifbTtL/qlyXCEqu7jRt6CUV4UmSVbeHbXhOA66ip7oqvmu8sFbkTfwm0B9vBLn4e5o/lHfIhuYeMLJP7wRc4SantPRXjNQ+P0pn6uhEan3Io9OxgRRKyog+vg9u9psLZqzBZl7edlIv0wWV1WbESekjsptBsD+96O6wQksbHpTUq5dw8P5WOsN0yYrlZ/5iXN7xZWw801dqLziVi8C1J4ahWf7zyQlp2Yyr5QY7qRDiZE+g8LMQShv/rz/gpBDODbP0CEL2vFkthnlq4a6xoMOE39c1fwmTRQTVa8Y7dkZaGecmNb2GbZRn98dpW5up4BcA1w==;9hDmZey2HIECCXlDJe5gFA=="
+secured: "lZB9pqyXKi+SdhjhXCz8EhDGkIsamB8t9gxij7zNgRbGJvTYHfQM3rWRT+luNI+V7M/53DYfLEx2UMPIraMGN0UkQQQACvPoWh1NwMHYF6065ux/VtqChGgybJ++EcmsU/IUPNTKOAz/TbZMp6DHSEO1/xflYo06zLI5JypCreSp7uFFp2NYpD8ASiTlUPiLqr35g0CNRCnjaRcvrlOkJ3QO9aRnqarqR5TLFtFtkDPAzICuud3Bx7ZqtwuHmfldXE7ZgECsSbQgYh8VHSbqVw0u+XntNPHo1UcDrEJfasuKyWEFseOuN0WS/F93h0u07knOLItbwGHTrR67qr5JYuy2QF9dUMdcrOUWfIen81Z+sebjZpppN1hAM86NOKwIUzQ/Xy/I2vLFknyuSUMHLinkJPOBasIMaglpO6Ux8/SO9Ch11nI+7WPOymWU1R2a9X7I6bwrgzxmVIzwk5psbeo0qQQItw2dz7DWbsb4YzjrQ0K4ssVBRY9qsY8+vzv9Ba2tQ2SWGvSCUJyPLkqkVA==;bWZ/kuRN2jzmQeCAZ/MD6A=="
 ---
 

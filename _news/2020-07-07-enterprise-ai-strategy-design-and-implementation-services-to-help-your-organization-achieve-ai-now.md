@@ -43,7 +43,7 @@ related:
   - title: "How Six Companies Are Using AI to Accelerate Automotive Technology"
     excerpt: "AI is not only used for path planning and obstacle avoidance, but incorporated in every step of development from modeling how systems will perform on the road to gathering parts for manufacturing."
     publishedDateTime: 2020-07-08T21:40:00Z
-    webUrl: "https://www.embedded-computing.com/home-page/how-six-companies-are-using-ai-to-accelerate-automotive-technology"
+    webUrl: "https://www.embedded-computing.com/articles/how-six-companies-are-using-ai-to-accelerate-automotive-technology"
     type: article
     provider:
       name: Embedded Computing Design

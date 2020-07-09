@@ -1,0 +1,94 @@
+---
+category: news
+title: "Microsoft releases preview of Text Analytics for health, battle-tested in COVID-19 partnership"
+excerpt: "Microsoft’s Azure cloud platform announced a new iteration of its Text Analytics technology for healthcare, bringing to market some of the artificial intelligence that the company"
+publishedDateTime: 2020-07-08T23:41:00Z
+webUrl: "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/"
+ampWebUrl: "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/"
+cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/"
+type: article
+quality: 77
+heat: -1
+published: false
+
+provider:
+  name: GeekWire
+  domain: geekwire.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/bigstock-Smart-Medical-Technology-In-Ho-264657964-630x420.jpg"
+    width: 630
+    height: 420
+    isCached: true
+    title: "Microsoft releases preview of Text Analytics for health, battle-tested in COVID-19 partnership"
+
+related:
+  - title: "Microsoft announces new Azure AI capabilities for apps, healthcare, and more"
+    excerpt: "The latest announcements will help companies enhance their voice-enabled application experiences and provide critical data management across healthcare industries."
+    publishedDateTime: 2020-07-08T20:50:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 133
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg"
+        width: 1200
+        height: 836
+        isCached: true
+  - title: "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities"
+    excerpt: "The post Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities appeared first on The AI Blog.\n"
+    publishedDateTime: 2020-07-08T16:51:30Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 114
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6c142214-bbee-499c-bf07-e565fcbc4294.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Microsoft updates Azure AI platform to help build 'next generation of AI applications'"
+    excerpt: "Microsoft announced several updates to the Azure AI platform. The improvements make it easier for developers to create AI applications."
+    publishedDateTime: 2020-07-08T16:02:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 81
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Access Healthcare Services Announces New Chief Investment and Transformation Officer"
+    excerpt: "PRNewswire-PRWeb/ -- Dallas-based Access Healthcare Services USA LLC, specialists in healthcare revenue cycle management"
+    publishedDateTime: 2020-07-07T17:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/access-healthcare-services-announces-new-chief-investment-and-transformation-officer-1029373884"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/access-healthcare-services-announces-new-chief-investment-and-transformation-officer-1029373884"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/access-healthcare-services-announces-new-chief-investment-and-transformation-officer-1029373884"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+
+secured: "cjeOirkaGG1CKE5snpBsofWdzKCy7PXVeuzc5eBJkosYCpb+T8bELa7Ig3XqlK1PMou8L13NcLT+2zU5kzPTRvUEDwhliPat5mahUJoFDUZT4W75oZlEJALUM8bnIa/8yIjpj5Ewt9WQp8WuaJz5fhdZGVrYRHi8Xu10rGD8b1/V32zcQPwrRM3fi7PtTIjsCabKZZkqDU7DQpcV/Ygem4aByzZ0Ybk9s2hsA3mVOpB3tBqTBbkYs5REUMlv6sulS/G1SSaZvm3Crt+xyPVvSuvXmUvFJLzy7hGcPenkQ38BhxBYzvtCCVNpVA8oM6c14On1e9o4NiHQBsh+EoWxmw==;pP9IOJ1+Ku8r3MiljI8PwQ=="
+---
+

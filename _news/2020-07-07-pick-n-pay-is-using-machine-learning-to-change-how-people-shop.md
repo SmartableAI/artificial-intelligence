@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itnewsafrica.com/2020/07/pick-n-pay-is-using-machine-lea
 cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2020/07/pick-n-pay-is-using-machine-learning-to-change-how-people-shop/?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     height: 458
     isCached: true
     title: "Pick n Pay is Using Machine Learning to Change How People Shop"
+
+related:
+  - title: "Making Machine-Learning Design Practical for the Edge"
+    excerpt: "Bringing AI to embedded devices at the edge hasn’t been for the faint-hearted. However, that’s about to change."
+    publishedDateTime: 2020-07-08T21:15:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/iot/article/21136192/making-machinelearning-design-practical-for-the-edge"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 6
 
 secured: "sV+m3MGq3Mm3ljlTgCpvUqpCVrn5iQ6q9CL2NQyVdIDnYc4jha8VGTaAkWtqusKuXZnAOqKCqYz0WPn0dJ290CKQwiUHxQg/OawzU7rEdp/Q1nXFlEfXFLq/M/4K+cU+nEYuMgZTDesxeDVR0U6hPee6OnrIoa+RWhS0I2PtyPwBqUhO/YagmXDRM/fkgutfmMKGwLgJ/SN2a6vcuj/Vs9pWHOS2U1JnDMXTPddhAwOD6PN3Xd2eyD3mFDuWKK/FRmwYgqdLjuDpGi/DC1yloSRJd014CJbqGTmnrZhqW/D9c+HAytL1S4kCYSTP9Um7X3Bal6TvOy+rWY7xhfwL3g==;m6TDYHWMicsxvXkqW+KMxw=="
 ---

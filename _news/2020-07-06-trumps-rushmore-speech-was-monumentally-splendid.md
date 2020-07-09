@@ -52,22 +52,6 @@ related:
         width: 5472
         height: 3648
         isCached: true
-  - title: "God Bless America: Read Donald Trump's full controversial Fourth of July speech from Mount Rushmore"
-    excerpt: "The power-packed speech saw Trump lash out against the Black Lives Matter protests, while also asserting supposed economic rise in the face of an ongoing pandemic"
-    publishedDateTime: 2020-07-04T06:14:00Z
-    webUrl: "https://meaww.com/donald-trump-mount-rushmore-full-speech-fourth-of-july-left-wing-black-lives-matter-protest"
-    ampWebUrl: "https://meaww.com/amp/donald-trump-mount-rushmore-full-speech-fourth-of-july-left-wing-black-lives-matter-protest"
-    cdnAmpWebUrl: "https://meaww-com.cdn.ampproject.org/c/s/meaww.com/amp/donald-trump-mount-rushmore-full-speech-fourth-of-july-left-wing-black-lives-matter-protest"
-    type: article
-    provider:
-      name: Meaww
-      domain: meaww.com
-    quality: 30
-    images:
-      - url: "https://cheesecake.articleassets.meaww.com/452988/uploads/ab361870-bdb9-11ea-9e0b-9953c1f91442_800_420.jpeg"
-        width: 800
-        height: 420
-        isCached: true
   - title: "Trump At Rushmore: One Speech, Two Nations"
     excerpt: "To some, he defended American history from leftist iconoclasts. To media and others, he demagogued and race-baited"
     publishedDateTime: 2020-07-04T18:39:00Z
