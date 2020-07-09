@@ -21,15 +21,15 @@ topics:
 
 related:
   - title: "Virus projects renew questions about UAE's mass surveillance"
-    excerpt: "But multiplied across the cameras watching public spaces, buses, the driverless Metro ... Dubai police launched a new surveillance camera program powered by artificial intelligence called “Oyoon,” or “Eyes” in Arabic. Police described the project ..."
-    publishedDateTime: 2020-07-09T06:38:00Z
-    webUrl: "https://www.thetelegraph.com/news/article/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
-    ampWebUrl: "https://www.thetelegraph.com/news/amp/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
-    cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
+    excerpt: "Efforts by the United Arab Emirates to fight the coronavirus have renewed questions about mass surveillance in this U.S.-allied federation of seven sheikhdoms. Experts believe the UAE has one of the highest per-capita concentrations of surveillance cameras in the world."
+    publishedDateTime: 2020-07-09T06:24:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
     type: article
     provider:
-      name: The Telegraph
-      domain: thetelegraph.com
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 44
     images:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"

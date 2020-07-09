@@ -19,21 +19,21 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Pick n Pay is Using Machine Learning to Change How People Shop"
-    excerpt: "Pick n Pay has announced that it will use machine learning to automatically personalise discounts for Smart Shoppers – a move that is expected to help more customers save more on their grocery shop. Using this advanced technology, Pick n Pay hopes to ..."
-    publishedDateTime: 2020-07-07T07:30:00Z
-    webUrl: "https://www.itnewsafrica.com/2020/07/pick-n-pay-is-using-machine-learning-to-change-how-people-shop/"
-    ampWebUrl: "https://www.itnewsafrica.com/2020/07/pick-n-pay-is-using-machine-learning-to-change-how-people-shop/?amp"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2020/07/pick-n-pay-is-using-machine-learning-to-change-how-people-shop/?amp"
+  - title: "Why SEO & Machine Learning Are Joining Forces"
+    excerpt: "The most advanced machine learning tools can't replace the humans behind them. Learn how tech-savvy SEO pros can work effectively with automation."
+    publishedDateTime: 2020-07-09T13:24:00Z
+    webUrl: "https://www.searchenginejournal.com/seo-machine-learning-joining-forces/372662/"
+    ampWebUrl: "https://www.searchenginejournal.com/seo-machine-learning-joining-forces/372662/amp/"
+    cdnAmpWebUrl: "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/seo-machine-learning-joining-forces/372662/amp/"
     type: article
     provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
+      name: Search Engine Journal
+      domain: searchenginejournal.com
     quality: 59
     images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/07/Pick-n-Pay-1-696x458.png"
-        width: 696
-        height: 458
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2020/06/how-people-power-seo-automation-help-improve-professional-personal-performance-5ef0f9627a1c9.png"
+        width: 1600
+        height: 840
         isCached: true
 
 secured: "0jt7hFMWCM5du4uZzWaMmwxlfrAueZqC7tP+8K4rGu0VXl9x30ZJpuc3H+U2xAAXxgNV8NCWVrjvoNCUXpRS2TqmRz+8tpR0RFrFcSIA1qupbFy51IoC8Nb14aIzoum1hf94YcpDQWMORpYZpDa4B/7OWguiRltW0y55P3DhNw8+GNU8AJX7HZk2y55prmcZPft01CqBlDD+urGgG0DIhWEOteOMexdRaPhTdWPBN1tkShdaD7W4fct56O6BbCyhxiroAOQN86BznRXY/7/j4qZN6+AHfvsUYhTy0Tz9BajB7XkKH/Gto/uy2QZ9YR5ZtfDp59pB2czOjCtCuGCIteb2X+cRGWd9F+kVLY+3PPlc0j5W4cZLytIQ2IwvWrCrOlsZvNdok4y/suaUsgfXw2zhEW7Sz17w4X0vGQ7YGTD2Grh7H0PScKbNSNbW7DkazyLFSQjyF9Tq9fUslUXlS0du2h32yQbZzCW9Z+xuNMoLllLtu/V/Ok2lGfgL2o/OtwuVR8+B7BfbLmohNBFuQw==;1jsA+GDlYIfCcFkDzcjgtw=="

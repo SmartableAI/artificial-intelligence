@@ -40,22 +40,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Tesla's is close to nailing the basics on self-driving"
-    excerpt: "\"very close\" to developing fully autonomous vehicles and could work out the basics of that technology as soon as this year. Musk reiterated that the electric vehicle maker has solved most of the essential challenges toward achieving Level 5 autonomy,"
-    publishedDateTime: 2020-07-09T07:04:00Z
-    webUrl: "https://gulfnews.com/business/teslas-is-close-to-nailing-the-basics-on-self-driving-1.1594278934540"
-    ampWebUrl: "https://gulfnews.com/amp/business/teslas-is-close-to-nailing-the-basics-on-self-driving-1.1594278934540"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/teslas-is-close-to-nailing-the-basics-on-self-driving-1.1594278934540"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 74
-    images:
-      - url: "https://imagevars.gulfnews.com/2020/07/02/auto-tesla_1730e8a0c0f_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
 
 secured: "nolQ/fIinQOhbk5owUfalrR9ZGcIKmw4Lyy+rCfd3sATOI37XrgxDk03Xc23hQ01aKN8KsIhYOjPxirpSS//5pqpMRJmFBIh8CKksVVfMmC2GRjRmD5pgsUwMqx8vGp+lkP4pw5z9McsLmtl+tnrYkIz/7IZ3hq0dCg9La2Pqhdwjg6tQrmoh1iht0hnXPPonJ6a5HkADlK5BR9JL8BYbq+PeH/jU4ZVdo/oPnX4oUCtU5GgD1LBKs8B1ysEzI58qVXSGvbmtWTqNi/eKDFcn8fCRbdmGFWDsMjoUL4aKmTzYh8u6HD45ICxwtcsRXyi0FxQl/i/MTNMmU1i68PYRQ==;lqrGqWLjckyQ7VklU61ixQ=="
 ---

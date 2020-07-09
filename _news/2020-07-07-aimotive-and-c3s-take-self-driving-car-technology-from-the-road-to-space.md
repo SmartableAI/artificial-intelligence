@@ -1,21 +1,27 @@
 ---
 category: news
 title: "AImotive and C3S take self-driving car technology from the road to space"
-excerpt: "AImotive, the automotive supplier of automated driving technologies, and C3S, the satellite and space technology provider, has entered into a collaboration to create a prototype hardware platform"
-publishedDateTime: 2020-07-07T13:50:00Z
-webUrl: "https://roboticsandautomationnews.com/2020/07/07/aimotive-and-c3s-take-self-driving-car-technology-from-the-road-to-space/33838/"
+excerpt: "AImotive, the automotive supplier of automated driving technologies, and C3S, the satellite and space technology provider, today announced"
+publishedDateTime: 2020-07-07T11:05:00Z
+webUrl: "https://www.prnewswire.com/news-releases/aimotive-and-c3s-take-self-driving-car-technology-from-the-road-to-space-301088931.html"
 type: article
-quality: 18
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Robotics & Automation News
-  domain: roboticsandautomationnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1201161/AImotive_C3S_Volvo_Test_Vehicle.jpg?p=facebook"
+    width: 1777
+    height: 931
+    isCached: true
 
 related:
   - title: "Amazon agrees to buy self-driving technology startup Zoox"
@@ -49,6 +55,6 @@ related:
         height: 398
         isCached: true
 
-secured: "yzSJWGOIwzJLwsPx7qYTfndPUVvyJPLeCV4dNEO0/EKHIlHikoPI/jYsRMsRig2tY5Rosdn4W3f7rRgKnbpUncjU9rr33sTiPAfX1zp3ShETAmw8WFFeYQHPaTbdTFPthYwp6xOFpp3tozf6CfcmyAxSfKJ+QLrv2dLafr1zy76hFU8sZ/VA88bGeTcS2PPUr97TaR5+dszx4gjnexE4HMaJtnPjIAh1CI8YRxtvcVGU2gkIpMHRw9trIw+OiuGTbn1ut4OZnbTTJznOdxSoFn+HilJkFVjaQEO2AnSBzng0TBJZ+UuUKXbkJMcQmQoYtGDF7bJacjhE4Q3enhxKQ2gdVej2tH6YOyYrOywApsSID+PeqIia+TGpGUukagPGT2yhCecdzLHD7gBB3dQ9ouHWSkSpAZuybdHYxJTBjVwW6jpj8jd1sfcsmBNfx6+T6QwIBTBESnbXR5JXpSFsf2gksGWRaugSa/HPVglobFTlXHwP/3N9DXidFHgWPdaLUUFPHAzun45eFRgg43nUoA==;NUDE/vFh9arGw7Tir8TS4w=="
+secured: "7hIB+iD3K7XI8mHqcwJ7YqYWxGrA2zloFh4VDk9EWsv4FKsk7xSKEPC615iCVZPuWIb97xOc1Rocr11AquCW9Xaq8FA4EF4GwR+qjxqTXHyaQrMBX5BpDT98pG0eBU63pQJ9Ir+4al1mI3bvvBeMdA6AER+O/0oWnDkI/7GgQRR9EAiZ6OrmMQEiFBtB/hl1m2MTfoG+GB0R9JL5uqwEc41+SUCM/G+Jyt6orWPaUx1smKsGSYWhZL5JXQZHDJLkhJKxtrYGBfuYqxBvbE02+vdrmoo65GMemoFcXReiDJaFmhXVJw7DLteSBTtfXtEk0OnNbdbN2Sy/fHLReeoFUg==;iyXhZKJDZtLnJj/NgGMCyA=="
 ---
 

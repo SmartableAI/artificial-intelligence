@@ -97,6 +97,28 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
+  - title: "Facial recognition company Clearview AI probed by UK, Australia"
+    excerpt: "Britain's data watchdog and its Australian counterpart said on Thursday they have opened a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI."
+    publishedDateTime: 2020-07-09T08:21:00Z
+    webUrl: "https://www.reuters.com/article/clearview-ai-investigation-idUSL4N2EG22P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2EG22P"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2EG22P"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+  - title: "Facial recognition firm Clearview AI probed by UK, Australia for privacy issues"
+    excerpt: "Britain's data watchdog and its Australian counterpart said on Thursday that they launched a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI."
+    publishedDateTime: 2020-07-09T13:18:00Z
+    webUrl: "https://www.reuters.com/article/us-clearview-ai-investigation-idUSKBN24A110"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN24A110"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24A110"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 80
   - title: "ECHR receives first complaint about facial recognition system in Moscow"
     excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
     publishedDateTime: 2020-07-06T10:26:00Z
@@ -318,17 +340,6 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 49
-  - title: "Facial recognition firm Clearview AI probed by U.K., Australia for privacy issues"
-    excerpt: "Britain’s data watchdog and its Australian counterpart said on Thursday that they launched a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI. The investigation will be conducted ..."
-    publishedDateTime: 2020-07-09T11:00:00Z
-    webUrl: "https://www.theglobeandmail.com/business/international-business/european-business/article-facial-recognition-firm-clearview-ai-probed-by-uk-australia-for/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/business/international-business/european-business/article-facial-recognition-firm-clearview-ai-probed-by-uk-australia-for/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/international-business/european-business/article-facial-recognition-firm-clearview-ai-probed-by-uk-australia-for/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 49
   - title: "Banning use of facial recognition technology among Michigan lawmakers’ proposed police reforms"
     excerpt: "Members of Michigan’s Legislative Black Caucus called to ban law enforcement agencies from using facial recognition technology to identify suspects as part of wide-ranging recommendations to reform police operations."
     publishedDateTime: 2020-07-08T17:45:00Z
@@ -470,6 +481,20 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 39
+  - title: "Trulioo EmbedID adds document verification and facial recognition features"
+    excerpt: "New facial recognition and document verification technology will enable small and medium-sized businesses (SMBs) to provide the same level of online protection to their customers as multinational organizations. As part of a holistic approach to identity ..."
+    publishedDateTime: 2020-07-09T13:43:00Z
+    webUrl: "https://www.finextra.com/pressarticle/83250/trulioo-embedid-adds-document-verification-and-facial-recognition-features"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Global Privacy Regulators Probe Facial Recognition Firm Clearview AI"
     excerpt: "The privacy regulators of the UK and Australia have announced a joint investigation into controversial facial recognition firm Clearview AI. “The Office of the Australian ... York Times report claimed that the startup had scraped as many as three billion ..."
     publishedDateTime: 2020-07-09T11:05:00Z

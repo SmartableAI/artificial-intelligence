@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itnewsafrica.com/2020/07/pick-n-pay-is-using-machine-lea
 cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2020/07/pick-n-pay-is-using-machine-learning-to-change-how-people-shop/?amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,22 @@ images:
     title: "Pick n Pay is Using Machine Learning to Change How People Shop"
 
 related:
-  - title: "Making Machine-Learning Design Practical for the Edge"
-    excerpt: "Bringing AI to embedded devices at the edge hasn’t been for the faint-hearted. However, that’s about to change."
-    publishedDateTime: 2020-07-08T21:15:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/iot/article/21136192/making-machinelearning-design-practical-for-the-edge"
+  - title: "How Artificial Intelligence Is Going To Change Hotel Stays"
+    excerpt: "ModiHost is a new platform for hotels that uses artificial intelligence to offer a better hotel management system, centered around personalization of the guest experience. In turn they aim to drive increased spending and brand loyalty. They say they’ve ..."
+    publishedDateTime: 2020-07-09T12:13:00Z
+    webUrl: "https://www.forbes.com/sites/gabrielleigh/2020/07/09/how-artificial-intelligence-is-going-to-change-hotel-stays/"
+    ampWebUrl: "https://www.forbes.com/sites/gabrielleigh/2020/07/09/how-artificial-intelligence-is-going-to-change-hotel-stays/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielleigh/2020/07/09/how-artificial-intelligence-is-going-to-change-hotel-stays/amp/"
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 6
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1175327832%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "sV+m3MGq3Mm3ljlTgCpvUqpCVrn5iQ6q9CL2NQyVdIDnYc4jha8VGTaAkWtqusKuXZnAOqKCqYz0WPn0dJ290CKQwiUHxQg/OawzU7rEdp/Q1nXFlEfXFLq/M/4K+cU+nEYuMgZTDesxeDVR0U6hPee6OnrIoa+RWhS0I2PtyPwBqUhO/YagmXDRM/fkgutfmMKGwLgJ/SN2a6vcuj/Vs9pWHOS2U1JnDMXTPddhAwOD6PN3Xd2eyD3mFDuWKK/FRmwYgqdLjuDpGi/DC1yloSRJd014CJbqGTmnrZhqW/D9c+HAytL1S4kCYSTP9Um7X3Bal6TvOy+rWY7xhfwL3g==;m6TDYHWMicsxvXkqW+KMxw=="
 ---

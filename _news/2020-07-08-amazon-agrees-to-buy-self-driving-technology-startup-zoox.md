@@ -45,14 +45,19 @@ related:
         height: 398
         isCached: true
   - title: "AImotive and C3S take self-driving car technology from the road to space"
-    excerpt: "AImotive, the automotive supplier of automated driving technologies, and C3S, the satellite and space technology provider, has entered into a collaboration to create a prototype hardware platform"
-    publishedDateTime: 2020-07-07T13:50:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/07/07/aimotive-and-c3s-take-self-driving-car-technology-from-the-road-to-space/33838/"
+    excerpt: "AImotive, the automotive supplier of automated driving technologies, and C3S, the satellite and space technology provider, today announced"
+    publishedDateTime: 2020-07-07T11:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aimotive-and-c3s-take-self-driving-car-technology-from-the-road-to-space-301088931.html"
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 18
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 38
+    images:
+      - url: "https://mma.prnewswire.com/media/1201161/AImotive_C3S_Volvo_Test_Vehicle.jpg?p=facebook"
+        width: 1777
+        height: 931
+        isCached: true
 
 secured: "TStI4owNWtgNLuOx7V8esrHB7Q6mmvy60oKooORbY3Wkz9O2XwoDgRAy1PJMUL2R3vVpKXeawpGRxCbCQR0CimJIo4wkMtnoDi0d0FwCS7GMyqqgoJ6fgBnVOsWRKRU/6PUwBJLMYJitP98A09PVgkOls4Ay8OIe3QYX/EUyHip10QLl8K9a0TWWK8/ppr+nF3E4JL7XtqCDnGrYh5KBtlax1p3D78Pf+Y8mIMvYxvDdeNiU+9KApArrQDfte7Oq6TR6h3fOUYADEIXeQCxjBIXTaZVbpzHRFxCXvmJ9kjWmaOpI5+L9A99PADmqGWZ+bqJ2770v+0tj31989FGcuQ==;awX7KreJtdka+uDb6HZr6Q=="
 ---

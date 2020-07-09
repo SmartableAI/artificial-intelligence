@@ -18,6 +18,38 @@ topics:
   - AI
 
 related:
+  - title: "Elon Musk says full self-driving Tesla tech 'very close'"
+    excerpt: "Tesla will be able to make its vehicles completely autonomous by the end of this year, founder Elon Musk has said. It was already \"very close\" to achieving the basic requirements of this \"level-five\" autonomy, which requires no driver input, he said. Tesla ..."
+    publishedDateTime: 2020-07-09T13:04:00Z
+    webUrl: "https://www.bbc.com/news/technology-53349313"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-53349313"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53349313"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/102CA/production/_113305266_hi062234983.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Tesla's is close to nailing the basics on self-driving"
+    excerpt: "\"very close\" to developing fully autonomous vehicles and could work out the basics of that technology as soon as this year. Musk reiterated that the electric vehicle maker has solved most of the essential challenges toward achieving Level 5 autonomy,"
+    publishedDateTime: 2020-07-09T07:04:00Z
+    webUrl: "https://gulfnews.com/business/teslas-is-close-to-nailing-the-basics-on-self-driving-1.1594278934540"
+    ampWebUrl: "https://gulfnews.com/amp/business/teslas-is-close-to-nailing-the-basics-on-self-driving-1.1594278934540"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/teslas-is-close-to-nailing-the-basics-on-self-driving-1.1594278934540"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 74
+    images:
+      - url: "https://imagevars.gulfnews.com/2020/07/02/auto-tesla_1730e8a0c0f_large.jpg"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Tesla Vehicles Could Soon Become Completely Autonomous As Self-Driving Tech ‘Very Close’, Elon Musk Says"
     excerpt: "Tesla vehicles could soon be completely autonomous as CEO Elon Musk said the electric vehicle firm is “very close” to achieving level 5 autonomous driving technology, during a virtual appearance at the World Artificial Intelligence Conference in Shanghai."
     publishedDateTime: 2020-07-09T11:34:00Z
@@ -33,20 +65,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f06feb05d77690008b1fd7c%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Tesla Full Self Driving Suite Ready by the End of 2020, Level 5 Autonomy Nears"
-    excerpt: "Even so, Elon Musk is confident his company is going to deliver a full self-driving module soon, capable of offering Level 5 autonomy (that's the one where you put your feet on the dashboard and pop up Netflix on the phone or the vehicle's display on your ..."
-    publishedDateTime: 2020-07-09T10:02:00Z
-    webUrl: "https://www.autoevolution.com/news/tesla-full-self-driving-suite-ready-by-the-end-of-2020-level-5-autonomy-nears-145826.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 50
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-full-self-driving-suite-ready-by-the-end-of-2020-level-5-autonomy-nears-145826-7.jpg"
-        width: 728
-        height: 300
         isCached: true
 
 secured: "VNzGEZcf6pNaIu1tBWC2X/xrpJPQAnL4nGhRMl4YrjK5welTyfVaiRs6pG+4C8aMy81Qej42EFR0jjEerSeohbr68HKgXYhnO5lhw4s6/0JYvm6A8KPNiCk5xbkdbm70J0/oaJgMPh2lmoes7JvZN1Wp+mIu/yTt+PcXUFhjd5B2LS8kam/X9IUwyh8A4vtyCYJaMWraF2xKDJe9TqXk1JyiR/EcNJCmSrvV7XxIF3tOEKT4l68vDQea+lDjC+04mPSRoFysmWqfMoKnToWHkP+yNnSNjqsS7qxFeMoO0aqoUeAvkxH4Hpa8GPytpHQQpJksunHk8+zxhJFR57Wmbw==;zZXVGs2CqDwfVVp09vYDWw=="

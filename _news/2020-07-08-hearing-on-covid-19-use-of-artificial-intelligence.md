@@ -17,19 +17,19 @@ topics:
   - AI
 
 related:
-  - title: "Researchers use machine learning to build COVID-19 predictions"
-    excerpt: "Two assistant professors from Watson School build computer models that show 10% margin of error for short-term infection forecasts."
-    publishedDateTime: 2020-07-06T20:30:00Z
-    webUrl: "https://www.binghamton.edu/news/story/2491/researchers-use-machine-learning-to-build-covid-19-predictions"
+  - title: "How IBM is fighting COVID-19 with AI"
+    excerpt: "Dr. David Cox, IBM Director of the MIT-IBM Watson AI lab of IBM Research, tells Tonya Hall about ten new projects IBM has launched to combat COVID-19 and highlights some of the biggest projects."
+    publishedDateTime: 2020-07-09T13:09:00Z
+    webUrl: "https://www.zdnet.com/video/how-ibm-is-fighting-covid-19-with-ai/"
     type: article
     provider:
-      name: Binghamton University
-      domain: binghamton.edu
-    quality: 39
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
     images:
-      - url: "https://www.binghamton.edu/news/images/uploads/features/_normal/covidcampus.jpg"
-        width: 800
-        height: 533
+      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/09/8a8ac6f5-dccb-4ccb-844b-825f89213789/thumbnail/770x578/5ff5a512761d1c086e057fcc8956b566/thumb.jpg"
+        width: 770
+        height: 578
         isCached: true
 
 secured: "GkiwKqI1bibhYJpP8lvOUXiC1ipbN0G9gGAj+FSQmMMOD6ah8iBNS3we2ISvW6Nk8TPwfYj5J103a3fOMtKpKkeMioiu+iJ9lXMn7lvUYtBT4Wa4jakUw3bTzoP/uY0U3gTgqEqZXGPdK4Jh1Hd0lnklPa7+grQpsKzCFgIPO7kniZ5PJfNZajzZYH1qvN7xR7ltb3dnZgvgNnaPQtjOJktdkGaaQSTIyr/6HeWK6Bz04kA6e7F2aA2IO1QnInGOq42yCZvyzJSe6Jy3yOrjkRg0IUCZZTbK7CHgU9TtomF8ipN4wqHhwK+edfcHlx7lSzlNdVxouxARaDa/M5kNsQ==;O5eR05pzXrYEQNjM2+02ow=="
