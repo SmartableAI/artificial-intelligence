@@ -91,6 +91,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Microsoft Azure Cognitive Services Gets Text Analytics for Health API"
+    excerpt: "Microsoft also revealed Azure Cognitive Services Custom Commands and Form Recognizer apps are now generally available."
+    publishedDateTime: 2020-07-09T17:40:00Z
+    webUrl: "https://winbuzzer.com/2020/07/09/microsoft-azure-cognitive-services-gets-text-analytics-for-health-api-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 69
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/07/Text-Analytics-For-Health-Azure-Cognitive-Services.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Access Healthcare Services Announces New Chief Investment and Transformation Officer"
     excerpt: "PRNewswire-PRWeb/ -- Dallas-based Access Healthcare Services USA LLC, specialists in healthcare revenue cycle management"
     publishedDateTime: 2020-07-07T17:39:00Z
@@ -102,6 +116,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
+  - title: "Access Healthcare Services Names New Chief Investment and Transformation Officer"
+    excerpt: "Dallas-based revenue cycle management and IT services company Access Services appointed Harish Mysoré to be its Chief Investment and Transformation Officer, where he will identify growth opportunities and push for transformation."
+    publishedDateTime: 2020-07-09T16:29:00Z
+    webUrl: "https://www.dmagazine.com/healthcare-business/2020/07/access-healthcare-services-names-new-chief-investment-and-transformation-officer/"
+    type: article
+    provider:
+      name: D Magazine
+      domain: dmagazine.com
+    quality: 34
+    images:
+      - url: "https://assets.dmagstatic.com/wp-content/uploads/2020/07/HM-Photo-HR-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
 
 secured: "C9Q9sDY2sqTv+AyTwUFuA49V11Nl9ZWVHy2BSY4hqv40s0IlQigchWdue0a35QL1Vsab1RK0Y8XTrx47sqp35abP4xFZf1HbrVmjV8TRIsmK7DCwG/1JSfI6JAeG2Gek2odVKsay679F/XIsS20FZRzR0XlarrpPR0Aiz1cpSdN8LDYFPJQ/FXIdxKerG8IHTaU/a6tDjmjTJNYt17yDOopHMqHqEbXAcvUKSG+sbfPD5HiyOVnLZnz9vV4CMEzj4SLOANpL+eDwjzfvJ0SRs0Tc99/pithN/N7Bzm7uLkw29FGNoI1mOuMhaTwhUsMri9dzeDWD41F4CryMAetFmt0YzEoWZeNDhFJWPmMGW+10CWZ9TbzmPM0h7cJTP5avgsz8M6e0NA1WuDUJrX4jbBM8n0qhOkbm9dDpFzvzNeRVUNSZNdYSJTeXkmH8Qr4mBgXqxaSw+LimY1EWbykMKP6PoB9EIlZSUdwFQ/oraWTEPyq7uFOWtXMk9zrqU4Px7LBATQtUsc/SZkYZzvpL1w==;DE5lcYvTZylkbYQ3aytd7Q=="
 ---

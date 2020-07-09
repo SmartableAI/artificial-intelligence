@@ -25,6 +25,22 @@ images:
     title: "In a time of social distancing, robots could be just what the doctor ordered"
 
 related:
+  - title: "LOOK: In Covid-19 world, robots could be just what the doctor ordered"
+    excerpt: "The worldwide health crisis has added urgency to the question of how to bring robotics into the public health equation."
+    publishedDateTime: 2020-07-09T17:58:00Z
+    webUrl: "https://www.iol.co.za/technology/gadgets/look-in-covid-19-world-robots-could-be-just-what-the-doctor-ordered-50679273"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/gadgets/look-in-covid-19-world-robots-could-be-just-what-the-doctor-ordered-50679273"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/look-in-covid-19-world-robots-could-be-just-what-the-doctor-ordered-50679273"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 59
+    images:
+      - url: "https://image-prod.iol.co.za/resize/410x231?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/07/09/50679273/japan-robots-f4defef2-c15f-11ea-b4f6-cb39cd894fb-1.jpg&operation=CROP&offset=0x312&resize=6000x3375"
+        width: 410
+        height: 231
+        isCached: true
   - title: "No masks, no coughs: Robots can be just what the doctor ordered in time of social distancing"
     excerpt: "Since the virus arrived, robots have offered their services as bartenders, security guards and deliverymen. But they don’t necessarily need to supplant humans, researchers say. They can also bridge the gap between people mindful of social distance — now or when the next major contagion hits."
     publishedDateTime: 2020-07-08T20:51:00Z

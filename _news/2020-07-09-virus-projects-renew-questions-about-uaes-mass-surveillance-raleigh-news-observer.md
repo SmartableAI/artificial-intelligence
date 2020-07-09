@@ -22,14 +22,14 @@ topics:
 related:
   - title: "Virus projects renew questions about UAE's mass surveillance"
     excerpt: "Efforts by the United Arab Emirates to fight the coronavirus have renewed questions about mass surveillance in this U.S.-allied federation of seven sheikhdoms. Experts believe the UAE has one of the highest per-capita concentrations of surveillance cameras in the world."
-    publishedDateTime: 2020-07-09T10:30:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
-    ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
-    cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
+    publishedDateTime: 2020-07-09T06:24:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
+      name: seattlepi.com
+      domain: seattlepi.com
     quality: 44
     images:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"

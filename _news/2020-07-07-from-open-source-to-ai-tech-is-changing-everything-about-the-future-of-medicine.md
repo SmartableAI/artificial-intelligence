@@ -7,7 +7,7 @@ webUrl: "https://www.zdnet.com/article/from-open-source-to-ai-tech-is-changing-e
 ampWebUrl: "https://www.zdnet.com/google-amp/article/from-open-source-to-ai-tech-is-changing-everything-about-the-future-of-medicine/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/from-open-source-to-ai-tech-is-changing-everything-about-the-future-of-medicine/"
 type: article
-quality: 82
+quality: 84
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/07/cb1aeed9-c3de-46fe-84ef-1334feec0cf8/thumbnail/1200x675/7a57cb88b29b68d90e8c917d264ba786/istock-1180529694.jpg"
@@ -40,7 +41,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 96
+    quality: 98
     images:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/07/cb1aeed9-c3de-46fe-84ef-1334feec0cf8/thumbnail/1200x675/7a57cb88b29b68d90e8c917d264ba786/istock-1180529694.jpg"
         width: 1200

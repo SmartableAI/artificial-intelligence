@@ -58,6 +58,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 52
+  - title: "IBM to acquire RPA provider WDG as automation market heats up"
+    excerpt: "WDG was founded in 2014 and isn’t known to have raised outside funding, according to Crunchbase. IBM is not disclosing the financial terms of the acquisition. WDG, based in the city of São José do Rio Preto,"
+    publishedDateTime: 2020-07-08T12:22:00Z
+    webUrl: "https://siliconangle.com/2020/07/08/ibm-acquire-rpa-provider-wdg-automation-market-heats/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/ibm-768x499.png"
+        width: 768
+        height: 499
+        isCached: true
   - title: "IBM acquires RPA company WDG Automation"
     excerpt: "IBM (NYSE:IBM) will acquire robotic process automation software company WDG Soluções Em Sistemas E Automação De Processos LTDA for undisclosed terms."
     publishedDateTime: 2020-07-08T12:41:00Z

@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/google-cloud-lands-renault-as-analytics-m
 ampWebUrl: "https://www.zdnet.com/google-amp/article/google-cloud-lands-renault-as-analytics-machine-learning-ai-customer/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-cloud-lands-renault-as-analytics-machine-learning-ai-customer/"
 type: article
-quality: 84
-heat: 84
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -22,7 +22,14 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
-secured: "lwzgF2fmItxOBWKz3Ym64BOqN4KbbZpKR51EpoJZy88kQtEQ5YIrtRTTml7BHyHj5krSs+bsfLtbiXxdeVygGu1YtwimFJewrLavG7mrE9VrpkF9oWeH/WA/icrAiI6/Zp4NQ+6RJdO0ab9TBFLBiHOGrehEpMbnScvvIR4MSP1ORXJ92gA51gJd+ZM4NXF6Ki4wON904kT5hxhYvVa4eexqycs7EpOnRQZnFrNQBY2RZ5HZgZhiGJj9lzDpDlm7z+OsoFW+LkySfyLX6TMd9utLIUVE8NwMPzSb7u7d8FuwDWMQIIB18957tEBnZYy+6oTThG4nov8w94yjUvO4QObzU/4mAeB3a62I/xPhCVnJV4OwQf6akFGRcR+JXZZnbRVOyeE4mASrZA1+si91xdCAjbybXVLuRbkQvcdMyI8zMSdJqYudy7yJyCNBoLtNH7WLBLf8ZKUlxuKGbOaLQ38KRRpkQuvYaHKOSrA6IE44T2u9aJngs5GmwsYTxxZa9U2RO6gPMYLfL6lXYAx4mw==;eI/1Hk//OjstKZxd18TTYw=="
+images:
+  - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/07/06/6e9b52e0-b81b-4e65-885d-e3d864d25019/thumbnail/1200x675/b1057c38f5ec4d51d8e0631e886fb62d/nokia-data-center-customers.png"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "ThOKx9Qh0rdwdrZbntm0VbBf8HfWswr8Pfznz37W8QVemhv1G2yflMQQyqT1QFHEddXx7uXmiDXf3qS2TltQRnB8OCbfZkQhl6UcmWTPzS/Cw1uEq/Ry59fl52GpLLFSSB3xwIP2ly/NFHRO3rjaZ4Ky7gDfK2gyRT/zGkE7gE4eZ7p0OKLn2B9v/1pFqqGsdzCL/MVID4kfqB3QgTxnHrH5kakPAC34+IpHkSyK2DKGKhpo1bRCk07yuJh8KUw3tDD+OrpGYy1t5DhJn2zIoHzgx1m5tSQ58TUTJaRy0mekA6cgsIK+IF04lf245EHAq2nJme2bozNHEY3dpKThgA==;ZPmC7PGnavulrM2+/8YPjg=="
 ---
 

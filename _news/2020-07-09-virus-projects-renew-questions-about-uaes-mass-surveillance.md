@@ -2,18 +2,18 @@
 category: news
 title: "Virus projects renew questions about UAE's mass surveillance"
 excerpt: "Efforts by the United Arab Emirates to fight the coronavirus have renewed questions about mass surveillance in this U.S.-allied federation of seven sheikhdoms. Experts believe the UAE has one of the highest per-capita concentrations of surveillance cameras in the world."
-publishedDateTime: 2020-07-09T10:30:00Z
-webUrl: "https://www.stamfordadvocate.com/news/article/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
-ampWebUrl: "https://www.stamfordadvocate.com/news/amp/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
-cdnAmpWebUrl: "https://www-stamfordadvocate-com.cdn.ampproject.org/c/s/www.stamfordadvocate.com/news/amp/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
+publishedDateTime: 2020-07-09T06:24:00Z
+webUrl: "https://www.seattlepi.com/news/article/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - AI in Autos
@@ -38,6 +38,6 @@ related:
       domain: newsobserver.com
     quality: 16
 
-secured: "plH5mpTg+CoWJI6ACBecINyLuWI6F89NukuVUAALP925MG+cieVYvBEaFgLd1m609YXz7FGJ5B1msnw3oXfv/uVwYyfcAMpWGXEiyk5Pm+FY96MfK+H3UIZQm8VRjLmoQQ+7pqKbZO1cy4bKm7165+YK/oJ+tz+I/Jfaw6WvaWcHrFEXZ9nB5lTmJdYqqYuWGUEI3aYNGAfktGPQXfzk3NRAfdKWBLVO9OoJFYe8cSC/55gCddWv0e/NXKlCU2jV8+AU7DSze1aZLLsvs55MPTZ3ZVA0LdtfK4gVWECLeYDjfqJeEN+CH2WmSmZaNDa3UVlZTGBvIAqKj4GZOgR8Fw==;+2tMlTYrofFZ+zHiIGy4cQ=="
+secured: "QVBi/0zWA1BLZu6G1cMI4s+sqao8+s7xpo6teaaP2fk5pXoeS8HJO6CtINp0AegMGUS1MnlxihFbi+xG0iuXvs2gntvSJMbI+a3UC6UE7dc1vA2QLjMGHG+jxza/q3CAmn1f7KsNkIE3Ksv/LjM/GGDVd7//Exk6J7UCqhLFNqhsuAaFYycyZXYwxyS1a0tn/RD1SzFqiWSTDErzaLnUI9qJxMeeU3J39Wj+w6ZnGkAd9DLhu+94ArZradnd6nnN9zaNbKxFNo0RT7HkUVSKDywuywgr8cma0//Ao9tzx58qG64zPS8lhJqx8G/wOt2E2B9P9PAHTadsNjx/JqzDXQ==;2pJDDsJFOU1EBz0em6K+1w=="
 ---
 

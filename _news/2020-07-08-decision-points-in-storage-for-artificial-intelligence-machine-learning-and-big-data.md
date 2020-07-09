@@ -7,9 +7,9 @@ webUrl: "https://www.computerweekly.com/feature/Decision-points-in-storage-for-A
 ampWebUrl: "https://www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data?amp=1"
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data?amp=1"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Computer Weekly
@@ -18,6 +18,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://cdn.ttgtmedia.com/visuals/searchEnterpriseAI/infrastructure/searchEnterpriseAI_050.jpg"

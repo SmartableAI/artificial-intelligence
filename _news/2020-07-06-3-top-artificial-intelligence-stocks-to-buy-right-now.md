@@ -2,22 +2,34 @@
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
 excerpt: "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,"
-publishedDateTime: 2020-07-06T16:29:00Z
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06"
-ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
+publishedDateTime: 2020-07-06T20:12:00Z
+webUrl: "https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
 type: article
-quality: 69
-heat: -1
-published: false
+quality: 93
+heat: 113
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
+  - AI in Autos
   - AI
+  - Facebook AI
+  - AI in Healthcare
+
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F581061%2Fgettyimages-1159763195.jpg&w=1200&op=resize"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "3 Top Artificial Intelligence Stocks to Buy in July"
@@ -30,27 +42,11 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://media.ycharts.com/charts/4f99495c05b836a8efa014a9663f2e1e.png"
         width: 720
         height: 386
-        isCached: true
-  - title: "3 Stocks to Buy in the Market That Could Mint the World's First Trillionaire"
-    excerpt: "Cuban stated in a 2017 interview that \"the world's first trillionaires are going to come from somebody who masters AI [artificial intelligence ... technology business Waymo could be a sleeping ..."
-    publishedDateTime: 2020-07-05T11:39:00Z
-    webUrl: "https://www.fool.com/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F579500%2Fhand-holding-trophy-sticking-out-of-pile-of-money.jpg&w=1200&op=resize"
-        width: 1200
-        height: 883
         isCached: true
   - title: "3 Top Cloud Computing Stocks to Buy Right Now"
     excerpt: "However, the cloud infrastructure services market is where the heavyweights such as Amazon Web Services (AWS) and Microsoft Azure are knocking heads ... the tech giant is a cash machine, generating $13.7 billion in free cash flow in the most recent ..."
@@ -68,23 +64,7 @@ related:
         width: 720
         height: 386
         isCached: true
-  - title: "Forget Penny Stocks, Here Are 3 Better Stocks to Buy in July"
-    excerpt: "It's easy to understand why some people gravitate toward penny stocks. The thinking goes that companies with microscopic valuations and cheap shares have the potential to post explosive gains in short periods of time."
-    publishedDateTime: 2020-07-09T11:31:00Z
-    webUrl: "https://www.fool.com/investing/2020/07/09/forget-penny-stocks-3-better-stocks-to-buy-in-july.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/07/09/forget-penny-stocks-3-better-stocks-to-buy-in-july.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/09/forget-penny-stocks-3-better-stocks-to-buy-in-july.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F580986%2Fcoins-and-cash.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
-        isCached: true
 
-secured: "HI2jKH6Czezkj/M220WfABew4d02RtrZrgcLMCS7LaATFCSNOz5NtnbWH1dw+le3raYvgDgEEr4/PoY+EMqZgn7ZCM/SFcyvncwobHd0e+f5OHOmeDLlFzIU8zEu0d/pCpq71aOESTeQ1VW6rbLyPqwhChTHYfPk7Wy2bVoVAvZ0nvKxfNWRNHbsS5MzuYEfNiu1xQF9KZhp52eGhUqn6ckyZtT9tlp6ToDs5kEfJ2bI0cYp2im+D/TQ2WLGohF8dISY8UwBSPrjgU/TSjKvu+uNbDZm9/Vl3VirFDsY8g0j8JjpUC/KNdoqQwx+LKajChguKfTxgcWNexn0tqNpxkkiynyaHL9nKUM2E5H+iAabNeYyxJuI9e3n1DHSZiQUPHLx6y+W8MC4QoOiYmtjmL9siHE0uPCChxmBoqdvbAF0W209xMUBQhdUnfD6rvX2Q2jxssOVfmnnu2F3XLwjBkVy4olZ4f0551aeU+Nhm56dJOzLNQ6AUVovBO8UZ6rcpxH3AMNq3T0YIXLiepKr9A==;pKB28TpKEpTOl+SGOloP2A=="
+secured: "Vp93+iVTl7k6UFWbPS8Ls6iNVEt3dI95NDkjIoOrQtzzboMdRFrXK/iIiUc/Yyt4vnauqkdHBFOWzKEjGB16voU9MmdYxDK9TmxhAbH9O3qCuQfq6kgOi/HeWU6qhRx+YHthHGHvul7DUqjilI6fzT99zNT2nJPYVHkFYFtPuecl9UsQnAwMUlCDJU/QIZDxI+mji+ahTx1kroxhq8Ku8MAD7K0qXJPcSBe5xdQy48hwrs89AjBXMItJNwh+2B11pE1He7Nlmfw4P9b3TXcsDnXKmfbbS8FzY1VTt5z3GtONzq8kQKcc8ZiqShpgCiXQTlPo3G9ZhXPh/k/pVfxG7g==;TewPqRgZ+BZgVXpV5QqRTg=="
 ---
 

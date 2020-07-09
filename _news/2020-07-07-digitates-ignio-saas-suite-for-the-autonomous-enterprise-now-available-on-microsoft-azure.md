@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Digitate’s ignio SaaS Suite for the autonomous enterprise now available on Microsoft Azure"
-excerpt: "Customers can now avail the full benefit of ignio’s cognitive capabilities along with the economy, agility and scalability of the cloud."
-publishedDateTime: 2020-07-07T11:25:00Z
+excerpt: "Digitate, a software venture of Tata Consultancy Services (TCS) announced Tuesday that the ignio ... and autonomous IT operations without human intervention, is now available on Microsoft Azure. The availability of the ignio SaaS suite on Azure will ..."
+publishedDateTime: 2020-07-07T11:09:00Z
 webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/digitate’s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html"
 type: article
 quality: 59
@@ -45,6 +45,6 @@ related:
       domain: openpr.com
     quality: 37
 
-secured: "1hE8FA661L2U5eXY+AHfOoVsiu1Z8I1ZnwEBPIdax9NfxlLVawU487kYKKf/vEQrzR9xw3p3GmOqtoUcjiKQtSDBXBo9GzMkfzBOp5J2w8t0TbmhNCGE/pJU5NY9WF3CxhmE9msiUpF0VrLFzT3CabND5VtZ9T+aUrOAKjnbndp0nXw6mUyoWuBi7F8ikNP0I+lhkh3TqjxJ79fFJs+Qkxuu2PirVqyh71NCnuGwLpl+xuRiR40YumO2Zk+mNe0Kiva8xExN2rF9ANpZwz9JS4qjvvCrdt+A2YQGZjgngxfIISdBpwHNlBQyTo0xHa0QpbqilYLg3x9EHAET0JggBg==;IL4gRKwtute2+ZMxVzxIow=="
+secured: "sddMvReQCRnJlKIlgF2uYUcZFscGlKVLjCjpEAXdvGVZidRCmTJckM9/x5e1ZSojAeQH20XPCn6WNfjZ5FUx/QeAmdnk8TD8z7q/pJxQdOGUcPGBwRn0CHqF7sN2rNaVl2T++ZY5Q18+F58pxwixoevopbOuZaYZsTeX0dDorhd9MmiEeHOmgmlpZ91IgUBImOuUhoeAXZcBpeR3k1RkOLLEOVUgLV6BfpB8Kf6jqg1JZX2pMx6kIOmtEOx9OoKkdzO3T4s26e8OlkWrTnoK5dHTfAdvLgBYMNFxqOCWlloUUd4v9zLUpzKEC7QhEn3mUtytlZjsVWphI8oUoMXUOA==;VGB4TboRZXYhFAPnsksscQ=="
 ---
 

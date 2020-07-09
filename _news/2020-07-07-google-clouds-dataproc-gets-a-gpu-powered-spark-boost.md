@@ -5,8 +5,8 @@ excerpt: "Google Cloud’s Dataproc – its big data platform that allows users 
 publishedDateTime: 2020-07-07T17:19:00Z
 webUrl: "https://www.datanami.com/2020/07/07/google-clouds-dataproc-gets-a-gpu-powered-spark-boost/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AWS AI
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/Google_cloud_shutterstock_-DANIEL-CONSTANTE.jpg"

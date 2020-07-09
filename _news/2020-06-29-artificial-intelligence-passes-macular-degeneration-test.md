@@ -15,7 +15,14 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
-secured: "W0GTWi+zllFNitWxHi7UhRB12LDPsBCKykGLERhrhomCEDS+gI9EVJKvkaXLWCumW7EAQrqzyZuVL2/aih4+OBi2Yxtzd0Z/ZS7c8FYoX/VqIOk0vfttZsbdACySGcQDC8vwJJIcH/COkjfct2XdUgFLMYSfjNV+gz3Dfau+ywRHVPc9Uf7gr35L++BKkg8+LW3+8hYxkCHEUAyBV117Z09AQKkgGS0HPYPN35j6HCeS6dkyJ5qLqcgltZs6gzIvh9NYUE6r8QZz/pIN+4pAYFk26DRFlLGMVNh9n5JCpd2CUAeuezL+Ccqjt6R6i+d+h/1JWuW6Azq8Ok+T0oP0epZvgkcYeGAu4BdZDiKqvfYqlByt9XThx/ftKP1akdoMvw/mEJaKLKCQOwaSTE+7QapN5KGgq+Qp17w96jAIXxN+uB/6DS1cYaq5nHpD+C86RYrrcoCyZOICDr2RpRAHV7B4dkY12lZf2TExjDeCue7REIlPal2zaRvZN2FIyvZDTLh2vkCtfVSJlKke3qpLQw==;lWCWfmQ2dOAUK4ZW+ECeRQ=="
+images:
+  - url: "https://img.medscape.com/thumbnail_library/is_200629_eye_ai_technology_800x450.jpg"
+    width: 800
+    height: 450
+    isCached: true
+
+secured: "FtdvgK49r2xDlgz3gxdARS1P601+sJko1lTk5JGuiui6sSNM+PtUan9gOX7jPXlG6zDe2XdBWzYdsauLZGtEh+nZIauXtHnV0SsqJYxDN4KE+z++tMAKG5j7tkKin3Z9QyNhQDjVstWVw5RW3+6KbMA0RTFCWK0IbglekI54xWVAbG4bmWcGs+lUwNBxN9qB0/5YJW5wTtFhXd5VZFP2MrcNkDNAt0LIYrf1oClM39Y75JDzgvseU4UcXsw4Bep1TMINknDQn2aX4BquOPYsUFhdT3NhVrMAU2BxN8//x4pBq8C8M1ps+XXqSU0ogd7J81MgTZs5Yh8CSTcCQUjDsw==;SwZld5XIKwyPlM3Rb2CH0A=="
 ---
 

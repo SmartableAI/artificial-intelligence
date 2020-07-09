@@ -7,8 +7,8 @@ webUrl: "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-re
 ampWebUrl: "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp"
 cdnAmpWebUrl: "https://cherwell-org.cdn.ampproject.org/c/s/cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.cherwell.org/wp-content/uploads/2020/07/08132344/AI-1-e1594305662408.png"
@@ -25,6 +26,6 @@ images:
     height: 477
     isCached: true
 
-secured: "uhVIgRma0bS9JrhhY819K7NTxyqgqISHql+VGe+T6DORuvgtE7ZOHKLkFpTzRP7G9oEBDW/n4/1bSSdydpwSblSFaqpQW7JZAGK0Neyb5feblpvlyymNXjm6Bn5eN33qyPWbuwvaTKEbV7pzKG9t4Xm2jf4qBV0cmIMUu6QlEJE3BK7n0KpME0StpS0GU086tzyL4jORzHeKoYYgBpvJ+91SWa1F6C/+gzZONvr8SOyMQEK9V9g4nkU74okEJaq2/P17ebXIcIxVyK8DhXGj7/0NT7gXGIi8Z93jOUB6euaF4OnwCJax+jHU4AHq8T4FaJSQkajx0Zod0W/mAYUFWA==;LJuBC7e+elBDtd3/7Ei4Xg=="
+secured: "soHt64JF3xZYdYbHqyt5zb9D7C3irZ+p3p8AYNTF08mlLEX7wIaOCJdkKl4K2e4dApMHaZ6qtP12tkABoNr1IJaJRXZehkgspeqr9itwi7ZYDl9xXs20e47lbLg+N0n62tQt/QOLxXUPBi3EVm4Nhmp16xWtB63PTbtiy/Ny/Z74MfNSxjNu9ra+31a1mC4XxpYiFv+YMftt6Lz2atuExKPEmMtAfQZsArn5eaGVsS8p7iaVgtI2DL0bJjYVZKsC8cqB2cEZ+tvwIF5D14CQ4RIeEjD7gqUjvJayg9wAIcoC/VaGWyIBwH6Frf2UM8X/x4V7T5O/ZQVnGQ2reBtlrEaRdCLl3p2QhAkC3wid+UWiS/7YPrjUbLeMeVMyglWn0md71BPab5+hDKZ7srmqZyuzCk/XsOihblP4R9gAwLpklljUH9/OCGc/hCubEVD2m9shBL2/w1kjvE1Se92bZTlfepNnw+EcOffGn+d6An+L1DoGJIfAJzahNeSVkydXf2kjZqYZUmS/9usXAREMuA==;DA1LFzFTgZdlPbL0WdHd2A=="
 ---
 

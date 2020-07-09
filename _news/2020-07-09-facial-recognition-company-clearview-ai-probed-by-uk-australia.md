@@ -43,7 +43,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190624951%2F0x0.jpg"
         width: 1200
@@ -138,17 +138,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
-  - title: "Facial recognition firm Clearview AI probed by UK, Australia for privacy issues"
-    excerpt: "Britain's data watchdog and its Australian counterpart said on Thursday that they launched a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI."
-    publishedDateTime: 2020-07-09T13:18:00Z
-    webUrl: "https://www.reuters.com/article/us-clearview-ai-investigation-idUSKBN24A110"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN24A110"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24A110"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 80
   - title: "ECHR receives first complaint about facial recognition system in Moscow"
     excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
     publishedDateTime: 2020-07-06T10:26:00Z
@@ -195,6 +184,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Facial Recognition Firm Clearview AI Probed by UK, Australia for Privacy Issues"
+    excerpt: "Britain's data watchdog and its Australian counterpart said on Thursday that they launched a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI."
+    publishedDateTime: 2020-07-09T16:16:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-09/facial-recognition-company-clearview-ai-probed-by-uk-australia"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
   - title: "Editorial: The problems with facial recognition technology"
     excerpt: "Face recognition also can be problematic when manipulated by overzealous law enforcement agencies trying to match driver’s licenses photos to an artist’s sketch or surveillance cameras capturing indiv"
     publishedDateTime: 2020-07-05T07:15:00Z
@@ -258,6 +256,22 @@ related:
       - url: "https://beta.ctvnews.ca/cp24/en/news/2020/7/8/1_5015233/_jcr_content/root/responsivegrid/image.coreimg.jpg"
         width: 1020
         height: 574
+        isCached: true
+  - title: "Facial Recognition App Clearview Faces Global Probe"
+    excerpt: "Privacy regulators in Australia and the U.K announced a joint investigation into Clearview AI, the New York-based facial recognition software maker."
+    publishedDateTime: 2020-07-09T16:34:00Z
+    webUrl: "https://www.pymnts.com/news/biometrics/2020/facial-recognition-app-clearview-faces-global-probe/"
+    ampWebUrl: "https://www.pymnts.com/news/biometrics/2020/facial-recognition-app-clearview-faces-global-probe/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2020/facial-recognition-app-clearview-faces-global-probe/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://www.pymnts.com/wp-content/uploads/2020/07/Clearview-AI-investigation-facial-recognition-457x305.jpg"
+        width: 457
+        height: 305
         isCached: true
   - title: "The UK and Australia are investigating Clearview AI, the facial recognition firm that scraped billions of photos from social media"
     excerpt: "The UK's Information Commissioner's Office (ICO) and the Office of the Australian Information Commissioner (OAIC) announced a joint investigation."
@@ -332,6 +346,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 54
+  - title: "Britain, Australia to probe Clearview AI's facial recognition tech"
+    excerpt: "Britain and Australia announced a joint investigation of US-based Clearview AI's online harvesting of personal data for facial recognition technology on Thursday, amid privacy concerns from human rights groups."
+    publishedDateTime: 2020-07-09T17:46:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21145485/britain-australia-to-probe-clearview-ais-facial-recognition-tech"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 54
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/07/bigstock_facial_recognition.5f07507885e93.png?auto=format&fit=max&w=1200"
+        width: 900
+        height: 601
+        isCached: true
   - title: "Clearview AI faces ICO investigation over facial recognition"
     excerpt: "Clearview AI, the controversial facial recognition technology company, is to face a joint investigation by the UK’s Information Commissioner’s Office (ICO) and the Office of the Australian Information Commissioner (OAIC) focusing on its alleged use of ..."
     publishedDateTime: 2020-07-09T11:42:00Z

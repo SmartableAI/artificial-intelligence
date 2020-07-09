@@ -5,8 +5,8 @@ excerpt: "While this lockdown has slowed down all businesses, small business own
 publishedDateTime: 2020-07-09T08:10:00Z
 webUrl: "https://www.prnewswire.com/in/news-releases/orai-robotics-ai-powered-solution-for-sales-amplification-conversational-marketing-to-succeed-in-current-challenging-times-816127368.html"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -16,12 +16,29 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
     width: 600
     height: 315
     isCached: true
+
+related:
+  - title: "AppTek Launches Two New Mobile Applications to Help Consumers Address Multi-Lingual Communication and Collaboration Challenges in Real-Time"
+    excerpt: "MCLEAN, Va.--(BUSINESS WIRE)--AppTek, a leader in Artificial Intelligence (AI), Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), and Natural Language Understanding (NLU) technologies, today announced two new ..."
+    publishedDateTime: 2020-07-09T13:47:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200709005046/en/AppTek-Launches-New-Mobile-Applications-Consumers-Address"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: "https://mms.businesswire.com/media/20200709005046/en/702088/23/AppTek_logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "h3ip0eiEWyLh9m+veUeUvk0SVh+7bPiYm7fg8FLKD9Ljcl2PqiAhE4iClXeCfIzwABRsdnGkH2I72lE2njDyhlD02+hLelEdVnCdAFVGvoPVRzn6zjnFnqhEf4a5AjzHR5l0fbj+AvexaPm3Myfxpd6Qyiiw9+PLJu8GBj7GkFAWP65gWTLDMKDlPjADsjrdrtXefi+u5R9VX23XVN/ovLxQFL6sIKmHyTXjI9I1btr7OTQzgntWzJG3McjKVM6dwCP0C8Zlped8JZS8Gdy3g7JdqrIYe+AgTrXZ6vQ+gtjr2d2pE42ctHS/k8Vd5AqCaxpZGmzuLeF2Cmd26beAnA==;kwLJaXFK9e7uqdCYQzciCA=="
 ---

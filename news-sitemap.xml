@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.forbes.com/sites/johnkoetsier/2020/07/09/elon-musk-tesla-will-have-level-5-self-driving-cars-this-year/</loc>
-    <lastmod>2020-07-09T08:58:00-07:00</lastmod>
+    <loc>https://www.iol.co.za/technology/gadgets/look-in-covid-19-world-robots-could-be-just-what-the-doctor-ordered-50679273</loc>
+    <lastmod>2020-07-09T10:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/09/ai-researchers-create-testing-tool-to-find-bugs-in-nlp-from-amazon-google-and-microsoft/</loc>
+    <lastmod>2020-07-09T09:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/news/technology-53349313</loc>
+    <lastmod>2020-07-09T09:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -37,6 +49,18 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.cnet.com/news/this-12-year-old-ceo-is-giving-free-coding-ai-classes-during-covid-19/</loc>
+    <lastmod>2020-07-09T07:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/09/ai-at-the-edge-is-enabling-the-push-toward-defect-free-factories/</loc>
+    <lastmod>2020-07-09T07:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/news/new-york-city-public-schools-will-reopen-with-blended-learning-in-the-fall/</loc>
     <lastmod>2020-07-09T07:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -55,14 +79,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/louiscolumbus/2020/07/09/10-ways-ai-is-improving-new-product-development/</loc>
+    <lastmod>2020-07-09T06:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/video/how-ibm-is-fighting-covid-19-with-ai/</loc>
     <lastmod>2020-07-09T06:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/break-into-artificial-intelligence-with-this-4-course-online-training-for-35/</loc>
-    <lastmod>2020-07-09T05:37:00-07:00</lastmod>
+    <loc>https://www.zdnet.com/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/</loc>
+    <lastmod>2020-07-09T06:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -81,6 +111,12 @@
   <url>
     <loc>https://www.zdnet.com/article/ibm-expands-storage-portfolio-to-drive-ai-deployments/</loc>
     <lastmod>2020-07-09T05:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fool.com/investing/2020/07/09/forget-penny-stocks-3-better-stocks-to-buy-in-july.aspx</loc>
+    <lastmod>2020-07-09T04:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -283,6 +319,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data</loc>
+    <lastmod>2020-07-08T04:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/</loc>
     <lastmod>2020-07-08T04:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -421,6 +463,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://medicalxpress.com/news/2020-07-machine-artificial.html</loc>
+    <lastmod>2020-07-07T08:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.theverge.com/2020/7/7/21315861/ai-generated-headshots-profile-pictures-fake-journalists-daily-beast-investigation</loc>
     <lastmod>2020-07-07T07:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -494,7 +542,7 @@
   </url>
   <url>
     <loc>https://www.indiainfoline.com/article/news-sector-information-technology/digitate%25E2%2580%2599s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html</loc>
-    <lastmod>2020-07-07T04:25:00-07:00</lastmod>
+    <lastmod>2020-07-07T04:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -529,6 +577,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx</loc>
+    <lastmod>2020-07-06T13:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/</loc>
     <lastmod>2020-07-06T13:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -537,12 +591,6 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/07/06/study-tests-whether-ai-can-convincingly-answer-existential-questions/</loc>
     <lastmod>2020-07-06T12:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.windowscentral.com/break-world-artificial-intelligence-4-part-ai-bundle</loc>
-    <lastmod>2020-07-06T11:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -685,12 +733,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fool.com/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx</loc>
-    <lastmod>2020-07-05T12:20:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/</loc>
     <lastmod>2020-07-05T07:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -705,6 +747,12 @@
   <url>
     <loc>https://www.forbes.com/sites/cathyhackl/2020/07/05/everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths/</loc>
     <lastmod>2020-07-05T05:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fool.com/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx</loc>
+    <lastmod>2020-07-05T04:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -841,6 +889,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.stamfordadvocate.com/opinion/article/Opinion-State-needs-an-unbiased-road-map-for-15381993.php</loc>
+    <lastmod>2020-07-02T21:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206</loc>
     <lastmod>2020-07-02T19:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -849,6 +903,12 @@
   <url>
     <loc>https://www.dailydot.com/debug/ring-police-partnerships-eff-krishnamoorthi/</loc>
     <lastmod>2020-07-02T18:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.androidheadlines.com/2020/07/ucla-sign-language-translating-translator-glove-app-prototype-accurate-critics.html</loc>
+    <lastmod>2020-07-02T14:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -979,6 +1039,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.axios.com/ai-bias-machine-learning-2515d1a4-650d-4cd3-8e18-84c29bcacd1e.html</loc>
+    <lastmod>2020-07-01T15:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://docs.microsoft.com/en-us/learn/certifications/courses/40530</loc>
     <lastmod>2020-07-01T14:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1017,6 +1083,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/</loc>
     <lastmod>2020-07-01T11:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=8&amp;itm_content=2x4&amp;itm_term=2356592</loc>
+    <lastmod>2020-07-01T10:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1471,8 +1543,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096</loc>
-    <lastmod>2020-06-30T03:25:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite</loc>
+    <lastmod>2020-06-30T03:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1729,6 +1801,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businesswire.com/news/home/20200629005295/en/AI-Negotiation-Platform-Company-Pactum-Closes-Seed</loc>
+    <lastmod>2020-06-29T03:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/</loc>
     <lastmod>2020-06-29T03:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1863,6 +1941,12 @@
   <url>
     <loc>https://www.freep.com/story/news/local/michigan/detroit/2020/06/26/facial-recognition-wrongful-arrest-detroit-police/3265943001/</loc>
     <lastmod>2020-06-27T04:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.thehindu.com/society/it-is-dangerous-and-unethical-but-queer-people-continue-to-be-subjected-to-conversion-therapy/article31922458.ece</loc>
+    <lastmod>2020-06-27T03:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2139,6 +2223,12 @@
   <url>
     <loc>https://www.news-medical.net/news/20200625/New-German-Canadian-lab-decodes-the-brain-with-artificial-intelligence.aspx</loc>
     <lastmod>2020-06-25T19:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cadalyst.com/%255Blevel-1-with-primary-path%255D/woods-ai-startup-lets-foresters-see-wood-trees-76149</loc>
+    <lastmod>2020-06-25T17:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3283,6 +3373,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/06/n16336534/objex-inc-joins-google-cloud-partner-program</loc>
+    <lastmod>2020-06-22T05:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/06/22/how-data-scientists-are-linking-ai-and-data-analysis-to-find-coronavirus-cure-syndication/</loc>
     <lastmod>2020-06-22T05:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3782,6 +3878,12 @@
   </url>
   <url>
     <loc>https://venturebeat.com/2020/06/18/ai-model-uses-smartphone-location-data-to-predict-power-grid-usage/</loc>
+    <lastmod>2020-06-18T10:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.medgadget.com/2020/06/medtronics-minimed-780g-with-artificial-pancreas-capabilities-cleared-in-eu.html</loc>
     <lastmod>2020-06-18T10:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

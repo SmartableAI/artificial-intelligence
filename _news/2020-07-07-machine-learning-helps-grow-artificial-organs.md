@@ -7,9 +7,9 @@ webUrl: "https://medicalxpress.com/news/2020-07-machine-artificial.html"
 ampWebUrl: "https://medicalxpress.com/news/2020-07-machine-artificial.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-artificial.amp"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Medical Xpress
@@ -18,6 +18,13 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/tissue.jpg"
+    width: 1920
+    height: 1357
+    isCached: true
 
 related:
   - title: "Neural Networks Growing Artificial Organs Is The 2020 We Expected Decades Ago"
@@ -35,6 +42,6 @@ related:
         height: 465
         isCached: true
 
-secured: "3tJGAzLhafbRUWRPLEt+CWzSd1OGi1F6OshQ1B/hwa1ISj6ZCN8Dje7SkvJd7BKETqgtxLU8IU/i13+vPNUP4z68zOPUqksVgmDWGLu2daSZ/YPxjjjcf4gzsTvz2xvBM3Lf0BzQzx11LxkGEHuZZ4CnC7i/A9x8Ebn/b57RsslUx9kYN0gQfGFggO5arosA0XfHz9ik7oAeP1xrELZX8ORv9uwTnLGYezI1IsPzOXafVmYdh03qFeRuCEI1YSqfjqDKqJkWKrojEY04tydXrPB2v1VZt7Gkknl7jbVmE7YCKlX9IcevIjTXev54U/g0r6LKRaSY8SrbWab3GD92UUD2in0/cjFk+7MWXZ+LluDUzyLiIwOtUpoq4SDSYmm0fWh1nDwYYBSeC8uTQI9GW9aPx0Bl8xFBIO2oT7utulSUFtms9gieOBNH81QWkiFW9VpmNR9xkKH4s+/BDIQwv87mOQfpRsJOl53kprDoatg3pK94pvk4Xg8n3ALhl/3Y2+qOcGrUUfTC23+wSGVKQQ==;sUOc81oAjG57W53feDaLYg=="
+secured: "v/rB0ZaXAJCfeTkTZW3MDCOHCsKEIE/ZBaQgsC+D+WUsvOhCdVOaBYGoK1L0e8Jb44QX8vlbeyZAg5LafGfypts1qbjCGnKRYOcl9rys40qYZVhPrks4D3ge2NsW2daaBwmuK17TsfancUkS+U8e3Gxepu2PkbTqMcUusJOqaxW8Ahm+su2Zkl50aqcAAI4TAzf0mE3FDuWKKikUEwBTgZhqPWp7JvOr9W9r4+y2tnZUd2B+k0+xV5+uUDZhYiC5cyxiJudedxYAuAPUmoMoADkzpR0a/ZUiBJDNdi+OcKNQlsO0H15zoPeYCkyDLbdUCTrdJ0nbqTFah1pcMw3U7Q==;HeV3bLVg3dBSIa+S2hpNKA=="
 ---
 

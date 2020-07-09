@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-announces-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
 type: article
 quality: 133
-heat: 183
+heat: 203
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Microsoft Azure Cognitive Services Gets Text Analytics for Health API"
+    excerpt: "Microsoft also revealed Azure Cognitive Services Custom Commands and Form Recognizer apps are now generally available."
+    publishedDateTime: 2020-07-09T17:40:00Z
+    webUrl: "https://winbuzzer.com/2020/07/09/microsoft-azure-cognitive-services-gets-text-analytics-for-health-api-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 69
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/07/Text-Analytics-For-Health-Azure-Cognitive-Services.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Access Healthcare Services Announces New Chief Investment and Transformation Officer"
     excerpt: "PRNewswire-PRWeb/ -- Dallas-based Access Healthcare Services USA LLC, specialists in healthcare revenue cycle management"
     publishedDateTime: 2020-07-07T17:39:00Z
@@ -103,6 +117,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
+  - title: "Access Healthcare Services Names New Chief Investment and Transformation Officer"
+    excerpt: "Dallas-based revenue cycle management and IT services company Access Services appointed Harish Mysoré to be its Chief Investment and Transformation Officer, where he will identify growth opportunities and push for transformation."
+    publishedDateTime: 2020-07-09T16:29:00Z
+    webUrl: "https://www.dmagazine.com/healthcare-business/2020/07/access-healthcare-services-names-new-chief-investment-and-transformation-officer/"
+    type: article
+    provider:
+      name: D Magazine
+      domain: dmagazine.com
+    quality: 34
+    images:
+      - url: "https://assets.dmagstatic.com/wp-content/uploads/2020/07/HM-Photo-HR-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
 
 secured: "G8Wvz4MLefe+2O1hnRjJHqn1lpzBbrSkg2d241yUaNFi29JSsLk9e3hp9zJ84ps9XVS88ooMuQMu6Yc/4mif9H+XVmPjvyPUcnXH+u3TaKCmUoRponzQPa8SrwXHx1Z2wRcV+UmDv020pauJtPN4llnhTBBMFiYLGzL9ApE8duGOYfbvn5Vrs9mU5t6FSqhFekTZ3w7BJA8pvn7ql2YWG1rXDNhuBZ48k0FdmCFRhbhr2QMEJdiX8mNxac2xjuaUichaDzwCasSGM/DOrAgyd1CwfFLY3AooNIL/eSiv6qxAVMuuHItDFYQslVrfXgMsGqC7bc/2XjvZnw46Lc0+UDxGraYD/Jfyilew/bGLDCnKa2tQRWic8so1qK7yyIQnd3LzhrqepzPORM0RXohA0R+CQwsff3yeogGRfole35JWuUcvwgbSDLS6UakUGuukEfszwxb7npqkjfke19uzKrtcGQM9s7z00Zgar9lfZ/xuy0KfXj4mBypp65cmHwdD;IrjdBtYsBqHNN9sq60j23A=="
 ---

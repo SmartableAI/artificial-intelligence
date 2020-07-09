@@ -47,6 +47,20 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 54
+  - title: "IBM to acquire RPA provider WDG as automation market heats up"
+    excerpt: "WDG was founded in 2014 and isn’t known to have raised outside funding, according to Crunchbase. IBM is not disclosing the financial terms of the acquisition. WDG, based in the city of São José do Rio Preto,"
+    publishedDateTime: 2020-07-08T12:22:00Z
+    webUrl: "https://siliconangle.com/2020/07/08/ibm-acquire-rpa-provider-wdg-automation-market-heats/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/ibm-768x499.png"
+        width: 768
+        height: 499
+        isCached: true
   - title: "Why IBM Is Buying WDG Automation"
     excerpt: "RPA is able to help close the loop and ensure consistent data across all tools that connect to Watson AIOps. This can increase data quality and improve the accuracy of AI as well as the productivity of engineers involved. IBM’s investments in AI-infused ..."
     publishedDateTime: 2020-07-08T16:13:00Z

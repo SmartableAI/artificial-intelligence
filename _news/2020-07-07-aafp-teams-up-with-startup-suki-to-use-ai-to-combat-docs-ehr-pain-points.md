@@ -5,8 +5,8 @@ excerpt: "Startup Saykara's AI physician assistant tool serves 18 disparate heal
 publishedDateTime: 2020-07-07T17:06:00Z
 webUrl: "https://www.fiercehealthcare.com/practices/physicians-group-testing-out-ai-tools-to-combat-pain-points-for-doctors"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://qtxasset.com/fiercehealthcare/1594065777/GettyImages-1087318088.jpg/GettyImages-1087318088.jpg?c.DhOJ2KB3CMh.rDx8L_XDaNSUuUYRnA"

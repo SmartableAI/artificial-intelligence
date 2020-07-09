@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 related:
   - title: "Seizures Indentified By Artificial Intelligence"

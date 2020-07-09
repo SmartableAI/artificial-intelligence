@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

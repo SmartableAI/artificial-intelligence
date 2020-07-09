@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 related:
   - title: "FraudScope Raises $7 Million to Tackle Health-Care Fraud"

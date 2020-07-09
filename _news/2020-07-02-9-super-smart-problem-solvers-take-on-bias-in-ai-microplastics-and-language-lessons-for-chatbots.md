@@ -23,6 +23,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI Hardware
+  - Facebook AI
 
 images:
   - url: "https://tr3.cbsistatic.com/hub/i/r/2020/07/02/1c42fa20-2dad-4cf9-a8e5-6de52362ba1d/resize/1200x/df859e53ef41149c778c4b7905c4a4bb/istock-1133385995.jpg"

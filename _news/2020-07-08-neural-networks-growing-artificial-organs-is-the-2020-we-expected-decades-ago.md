@@ -35,7 +35,12 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 39
+    quality: 61
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/tissue.jpg"
+        width: 1920
+        height: 1357
+        isCached: true
 
 secured: "nKsyS5Resm9CvgkJ2TcTv+ugMkVv2bQVH+vuk2D0PMRUa5rVHCvhFkVLywbMwoQrD+oQ/gCZcXutTyLg3g0uGrct/Antxooo6L64HUEt4k69CpJRJFLWBvexUI7SeUFduWukm8Bw0I6N3WPitezG2J+ikjTNdABj53HfxAV07K4aTwvv3HfZYR3jLYUl4pjcGSXJja+AS9HdL1xLfPoRRsV9FGLi9f9iJnhFx2+FFhOOhHf4rbngDVbaFFonO9Z0LOhyEQgSSG+TdAVdwLfQIH8qm7b4qs9xrB1ParBAg8v1yMW7f8jZKP0ek7p5YHsTBxiPeOzbik0apXZfAH0u9MP6q5BxJ2HijENGSbMOQ3WkEHUh14y2fA1seU14qu79oMOs1E6EMUGm05zqka5Tmn1Yv4CGwgO/6fOuQRKR7TaGakFBmvF7x78B8c/VFZqvIye3N/Jv+HGSYfozzrtfPMOwCA9YYT8A0uZw/yrZus1Wom7veKRASlfGq3wA0ZeC/bi4Mg6HDwTd0p1VC+el7w==;wAI1taixpg8TdXRETxIPcw=="
 ---

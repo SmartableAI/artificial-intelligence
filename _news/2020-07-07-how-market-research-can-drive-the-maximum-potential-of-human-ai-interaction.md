@@ -7,8 +7,8 @@ webUrl: "https://sociable.co/business/how-market-research-can-drive-the-maximum-
 ampWebUrl: "https://sociable.co/business/how-market-research-can-drive-the-maximum-potential-of-human-ai-interaction/amp/"
 cdnAmpWebUrl: "https://sociable-co.cdn.ampproject.org/c/s/sociable.co/business/how-market-research-can-drive-the-maximum-potential-of-human-ai-interaction/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://sociable.co/wp-content/uploads/2020/07/market-research-1.jpg"

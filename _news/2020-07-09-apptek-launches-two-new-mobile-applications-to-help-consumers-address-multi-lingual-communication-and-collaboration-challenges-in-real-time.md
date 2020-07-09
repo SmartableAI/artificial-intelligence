@@ -1,58 +1,44 @@
 ---
 category: news
 title: "AppTek Launches Two New Mobile Applications to Help Consumers Address Multi-Lingual Communication and Collaboration Challenges in Real-Time"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), and Natural Language Understanding (NLU) technologies, today announced two new speech technology applications designed for consumers — AppTek Speech Translate™ and AppTek Speech Transcribe™ —are now available through the Apple App Store,"
-publishedDateTime: 2020-07-09T13:03:00Z
-webUrl: "https://apnews.com/e8dc62f9c29d413cacebfd8042fb9564"
+excerpt: "MCLEAN, Va.--(BUSINESS WIRE)--AppTek, a leader in Artificial Intelligence (AI), Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), and Natural Language Understanding (NLU) technologies, today announced two new ..."
+publishedDateTime: 2020-07-09T13:47:00Z
+webUrl: "https://www.businesswire.com/news/home/20200709005046/en/AppTek-Launches-New-Mobile-Applications-Consumers-Address"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200709005046/en/702088/23/AppTek_logo.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
-  - title: "Riiid Labs launches AI education solutions in America"
-    excerpt: "Riiid, a member company of the Born2Global Centre, could not be coming to America at a better time, as artificial intelligence transforms"
-    publishedDateTime: 2020-07-06T01:59:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/riiid-labs-launches-ai-education-solutions-in-america-301088205.html"
+  - title: "ORAI Robotics' AI-powered Solution for Sales Amplification: Conversational Marketing to Succeed in Current Challenging Times"
+    excerpt: "While this lockdown has slowed down all businesses, small business owners are facing the harshest conditions to gain and retain their"
+    publishedDateTime: 2020-07-09T08:10:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/orai-robotics-ai-powered-solution-for-sales-amplification-conversational-marketing-to-succeed-in-current-challenging-times-816127368.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 37
+    quality: 44
     images:
-      - url: "https://mma.prnewswire.com/media/1200045/Riiid_Labs.jpg?p=facebook"
-        width: 1374
-        height: 720
-        isCached: true
-  - title: "RAM Active Investments Launches an AI-Driven Sustainable Fund Solution for the Climate Transition"
-    excerpt: "To learn more about how AI is used to integrate unstructured ESG news-flow on companies to improve selection, please read our latest publication on the topic: A Natural Language Processing (NLP) based framework for ESG Integration. RAM AI is excited about ..."
-    publishedDateTime: 2020-07-09T09:02:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200709005314/en/RAM-Active-Investments-Launches-AI-Driven-Sustainable-Fund"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
-    images:
-      - url: "https://mms.businesswire.com/media/20200709005314/en/767347/23/RAM_ActiveInvestments_Logo_RGB_300dpi.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
-secured: "FLVRHd9Wa3acw0X28kdYW4IKCbBLdUWN4hL4aFGAyxRN6IpDNOMg97sOcY9vnZS1oNNbtk38e4rw0IqmFL9gzgyPVEF0H9Wf9Ll2Kjc0eJEmMEIyt549ZNRJJto4VkWET7EocHNYi1j5fZDoFrHYD0gplbIhIP7ml431zU6m+M6OuCWqzgiurxDqkBSY3dVq25k64kTRkbWOn6n3K/axbfKrWVPRuKpFBuPEM2nuIG2Wg8Wecb+aoxWuP/4gzA7vJtwBvNx1x2lLCuJ9ayAE8hV78IH1QtqCplo0ma1ucCqOhEvLu0tkkwl8f54HLkzNgjIqYHmORv2tlx8cYiuT1A==;LXuzUmzk0UlvyNxThRbhCA=="
+secured: "xRhi/7O1gFhcBNWmlxbGibufhcHVANsELpGydUybSStV3bABofX06jTnsYQVn0Ja4Vwan8/HrBvCH8rQA/UwP/dv6j2SOPphW6hvYg9TB78qV5Fn44YbgnduWckvtAKTw7Tw2q8tTziO85yY8oSluI4zy11hASbVDaqIyMBr3loDTLmQof7wrfTSYC2vD2E6CAINptNyhDkwjKnNpVLCAT7E4HCf30hVXk7RPGl++Yy76lgVjLi7kPsEwzyRD+ge3Bjd1tf73TMTOV0qWnSXatsKwurWOmO1ddKaLd20cDKFxPEPNDNSA6W/kyzmnNeMq7EerytF9Uftou/R9I1SPA==;XzT62swDjO30LtEEgOZ+2w=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/asia_pacific/covid-robots-socia
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/asia_pacific/covid-robots-social-distance-jobs-japan/2020/07/08/1a82ce96-afc6-11ea-98b5-279a6479a1e4_story.html?outputType=amp"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     title: "No masks, no coughs: Robots can be just what the doctor ordered in time of social distancing"
 
 related:
+  - title: "LOOK: In Covid-19 world, robots could be just what the doctor ordered"
+    excerpt: "The worldwide health crisis has added urgency to the question of how to bring robotics into the public health equation."
+    publishedDateTime: 2020-07-09T17:58:00Z
+    webUrl: "https://www.iol.co.za/technology/gadgets/look-in-covid-19-world-robots-could-be-just-what-the-doctor-ordered-50679273"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/gadgets/look-in-covid-19-world-robots-could-be-just-what-the-doctor-ordered-50679273"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/look-in-covid-19-world-robots-could-be-just-what-the-doctor-ordered-50679273"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 59
+    images:
+      - url: "https://image-prod.iol.co.za/resize/410x231?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/07/09/50679273/japan-robots-f4defef2-c15f-11ea-b4f6-cb39cd894fb-1.jpg&operation=CROP&offset=0x312&resize=6000x3375"
+        width: 410
+        height: 231
+        isCached: true
   - title: "In a time of social distancing, robots could be just what the doctor ordered"
     excerpt: "As the coronavirus pandemic rewrites the rules of human interaction, it also has inspired new thinking about how robots and other machines might step in. The stuff of the bot world - early factory-line automation up to today's artificial intelligence - has been a growing fact of life for decades."
     publishedDateTime: 2020-07-08T21:17:00Z

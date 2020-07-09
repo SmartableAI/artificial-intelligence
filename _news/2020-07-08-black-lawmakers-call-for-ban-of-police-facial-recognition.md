@@ -8,7 +8,7 @@ ampWebUrl: "https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-P
 cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html?AMP"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face-600x595.jpeg"
         width: 600
         height: 595
+        isCached: true
+  - title: "Troopers in Crawford Co. Use Facial Recognition to Identify Man Resisting Arrest"
+    excerpt: "State police used facial recognition technology to identify a man resisting arrest in Crawford County. Joshua Sutcliffe of Mesick is charged with assault and resisting police. In mid-June, state police say he punched someone in the face at a bar in ..."
+    publishedDateTime: 2020-07-09T15:36:00Z
+    webUrl: "https://www.9and10news.com/2020/07/09/troopers-in-crawford-co-use-facial-recognition-to-identify-man-resisting-arrest/"
+    type: article
+    provider:
+      name: 9&10 News
+      domain: 9and10news.com
+    quality: 34
+    images:
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.9and10news.com/content/uploads/2020/07/Sutcliffe.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "Zlu6A+9zb56Nv73PPZ4acyuIEphg84rSYiFVM/iuy222LmEYHkcpuvMkmXTi1345gYRDGi1WXoxRpDHlzdDxr1hvUxeIqzwbhOQAxkRm+dA+x040dMMTWbITfFdkVsgHlfULrWv2izShVHPqeni7ltkhLwNv0m4kuAeMqzjNFXhGCKPd7NkvmyOKDwznZ2pa4T9V+OV5l1KUSWF7CkqJpdTO+SXQEBFAqQ07Zwt3mWHdimC8IdGQtb9edFplc92RUoO2QyZ8Vg0eIL591b/+HacygrScXcAXpQX0hBAkHj4FAo1l0eAHBOleMo4kObV49BREMrB66XSdHQe1EHbcPg==;BPKuTDb6Uum/hMcZPC0l3Q=="

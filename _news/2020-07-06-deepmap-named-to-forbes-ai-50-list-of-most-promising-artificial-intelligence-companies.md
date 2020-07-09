@@ -46,6 +46,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "7 of healthcare's most promising AI companies from Forbes' 2020 list"
+    excerpt: "Drug discovery startup Atomwise and stroke risk predictor Viz.ai are among a group of seven healthcare companies recognized by Forbes for their artificial intelligence capabilities. For its second annual AI 50: America's Most Promising Artificial Intelligence Companies 2020 list,"
+    publishedDateTime: 2020-07-09T16:58:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/7-of-healthcare-s-most-promising-ai-companies-from-forbes-2020-list.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "ExtraHop Named to the Forbes AI 50 List for 2020"
     excerpt: "SEATTLE--(BUSINESS WIRE)--ExtraHop, the leader in cloud-native network detection and response, today announced that it has been named to the 2020 Forbes AI 50 list for its advances and innovation in the use of machine learning and artificial intelligence for cybersecurity."
     publishedDateTime: 2020-07-07T13:16:00Z

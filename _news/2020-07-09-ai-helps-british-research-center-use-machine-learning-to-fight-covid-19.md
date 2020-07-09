@@ -7,8 +7,8 @@ webUrl: "https://www.jpost.com/cybertech/ai-helps-british-research-center-use-ma
 ampWebUrl: "https://m.jpost.com/cybertech/ai-helps-british-research-center-use-machine-learning-to-fight-covid-19-634506/amp"
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/ai-helps-british-research-center-use-machine-learning-to-fight-covid-19-634506/amp"
 type: article
-quality: 74
-heat: 94
+quality: 76
+heat: 96
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI Hardware
 
 images:
   - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/417281"
@@ -55,6 +56,6 @@ related:
         height: 533
         isCached: true
 
-secured: "iRPCw7Bh1dgLdVSgCVYmEoUOg+rhgXFjMXben8apx7VLkk88rxskTQf9xq9S+lowV84edXK5lsBryK43MpI4OWBnAI/TWLnEVvZoaFnbA4TD6N80feiX6lM4EUwlIzE0XsAOSZT3eJCqsAlzvUnq4rfZLoWZZe00aflC7BLgiTIkdaq0AbDq2ljc+W05x4dzenkZ8kiHR8VcL1RuT7ka3E8XlT5V/YdquiI5BIvAiVI17m6YeSU+pN4NxyJVunVIBUol6z/UgeRD8rL+6+RiIWh4ADROdtFFmQ1tNxGlqC4QNoIrinbCXcsRJqS0w+ip8s3J39j84XhYPrDupPMsAQ==;2TXIGI5LV99eoldjPK3/eQ=="
+secured: "1OTls5D7CfgcDSGo5zh4BpveIw5KCSE4F8p3wi/SMKjUUZXJpt1hCQ+u3TirGNpUgRUV2vPUGUyhojF0eRC2D9gwAhpOosx4sdISenurn/FXesbRLayRaC1PKEVvCuH8LWbsyrrETZCr4VjqebpCfbfJfRxnka1AuBLocGlw24k0NuksfCCDeTeTVgP82d3gLnSZAt3px6obULsgReGXC0I9vRmzsB37GoygVu3OKWg1S3TwQ9xWLn6mHvHKpBKjlE32LvlJthgxM1ohXNxo8UHmgr2ii9yUkzmYgvXqS9X5c0HKzeSZH1+V6RwAG20agyCjaVfyI16YGZhoXlJ4u/MR5Bz2KaZhBHHtZOZRG8DoBiYCgg+l/PWMkj0W4cj9+qxv8DHCv+qMSKntDSJbHj2RIkzg8lAgWsPtiziHXNwfdtUmA1J5KLVC/IcGYXieTASL3nwxX4XaZSc3tZRbUQUVDchM71f01rofs+gvkSD5NkKQeYqzq6d/u3SyauUO7UjSM5IctURsJ/SVMLUR0Q==;HRrk0RCZj+UpfLRTUEUOXQ=="
 ---
 

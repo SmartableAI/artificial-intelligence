@@ -5,8 +5,8 @@ excerpt: "Google Cloud’s planned partnership with Germany’s Deutsche Bank hi
 publishedDateTime: 2020-07-08T21:38:00Z
 webUrl: "https://www.crn.com/news/cloud/google-cloud-deutsche-bank-deal-right-in-the-bullseye-for-thomas-kurian-deloitte"
 type: article
-quality: 18
-heat: 18
+quality: 20
+heat: 20
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.crn.com/resources/025f-0fd7488083a1-42debea7065a-1000/google-cloud-next-intro_002_.jpg"
@@ -23,6 +24,6 @@ images:
     height: 456
     isCached: true
 
-secured: "al1BZNZTO/ULKvTXs7XeBByjoodAcq8JZD39/S5dycmngqhD4Y2krlulbarY3rc8MCotmjh4ClodHDwsxcDS4BsTyj/GQkid8ZlLCDzffaArwppoC1Czq9iA0SxQ5Z2YOwZNuqrbUzHUdIMbECPAafqVan/2enZyWuNkrbGJAY7z3M4ptoi8mWxlt1YMhfhMzNlGi01i0Ic5XY1+FfSgBIR56BKbaKryt1+tmgMbzZIrBTZLqAcAPqAQLavkRR3hZen886qD2PqyqJjVtz8pM/PAuqn7H+VmZBGYrbtMPHvm50KdOqBFdizri4JJYkrg0uiGpd/B6U29VTq8HQvCqw==;6CFo8Ve4gN4XSw/oUWYMNw=="
+secured: "V8EYB/9araYHynSpVXUzH9LZBSZdtzCK+bN7VJEbJbf/bv3z9/qh/QCyvo02Z0wVLT9/vyL8roJa1D8l0T35i2hMxpEHvNffTZPMMCnbNGQ84vUdo716N/WZj+lkn3XCEev92252ERG1AB26WhJ3IM+fGr58N2p34+nm/zt07MYgsuoC5QyUCUEDvFOGO0FoHltU9cd+JyBFxE9fC/XON6301k0MbtR0ad020WMV10FjzQvhT17C2Tnlk3XVSnYSAp9fceg6R1w5qnz2e43IKPUUMi5ueX6HwpiBpEWUIW24tP4h765cxWvR/95mELnVnLjU5bmE4zbLvWbfu63sEb3L2NaffvxIJz5imV1nRdZKCPxGi7LCdaOD1vlVYkz+3C28VOcPePC57Fk2ZX9ERf8HpwD7oZhQwjqdtH+6VfwPIA9kpe3ao8xTV8kqxDJLnZMveE/VTvI4e5gjKou9e/XKdsNw4CZLw5kI4ZTLgEDhuKR+t49wfs84IKG5/r6H1f7Yw4SItLYi+FKdsjNYww==;qU2UXRJzHakXZu6olYyZNw=="
 ---
 

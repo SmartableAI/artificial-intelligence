@@ -18,6 +18,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://media2.govtech.com/images/shutterstock_1492635029_2.JPG"
