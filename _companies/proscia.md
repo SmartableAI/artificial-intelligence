@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ProsciaInc"
   url: "https://twitter.com/ProsciaInc"
-  followers: 1087
+  followers: 1085
 
 size: 11-50 employees
 yearFounded: 2014
